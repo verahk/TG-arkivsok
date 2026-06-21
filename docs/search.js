@@ -25,7 +25,7 @@ const BASE_URL = "";
 // #L<linje>-anker til linja der treffet står. #L virker kun på GitHub blob-
 // visning. Sett til riktig repo/branch der txt/ er committet (uten skråstrek
 // til slutt). Tom streng skjuler tekst-lenken.
-const TXT_BASE = "https://github.com/verahk/TG-arkivsok-0/blob/main/txt";
+const TXT_BASE = "https://github.com/verahk/TG-arkivsok/blob/main/data/txt";
 // ---------------------------------------------------------------------------
 
 const qEl = document.getElementById("q");
