@@ -1,0 +1,1078 @@
+Tilfeldig gang nr. 1/2019
+Karl Ove Hufthammer ⋅ Anne Marie Fenstad ⋅ Geir Drage Berentsen
+
+Innhald
+Redaksjonelt
+Frå leiaren
+Frå redaksjonen
+Medlemskontingent for 2019
+Lesarbidrag
+Statistikk og sannsynligheter i rettspleien
+Estimering av «mørketall»
+Manglende uttrykk for manglende data – og samsvar mellom observatører
+Møte og konferansar
+Forkurs i visuell formidling av statistikk
+Års- og medlemsmøte i Statistisk forening i Bergen 2018
+Meldingar
+Nytt frå Noregs teknisk-naturvitskaplege universitet
+Nytt frå Universitetet i Oslo
+Nytt frå Nytt fra Oslo senter for biostatistikk og epidemiologi
+Pusleri
+Løsning på pusleri nummer 50
+Pusleri nummer 51
+Statistikkrebuser fra 8. etasje
+
+Redaksjonelt
+Frå leiaren
+Marie Lilleborge
+
+NSF fyller 83 år i april, men NSF regnes også som en fortsettelse av en
+statistikerklubb som ble stiftet for hundre år siden, 7. januar 1919. En annen ﬁn
+statistikersak er årets International Prize in Statistics (den andre i rekken), som
+går til Bradley Efron for «bootstrap»-metoden fra 1977. Og det bringer meg jo
+lett til våre egne statistikerpriser: Takk for mange gode nominasjoner til
+Sverdrupprisene. Komitéen ﬁkk en utfordrende oppgave, og det er akkurat sånn
+det skal være! Takk for at dere er gode statistikere, og takk for at dere ser
+
+
+
+hverandre. Jeg ser frem til Sverdruppris-foredrag på
+statistikermøtet til sommeren.
+Årets statistikermøte er det tjuende i rekken: Det blir
+stas å treﬀes på det 20. norske statistikermøtet på
+Sola Strand Hotel tirsdag 18. til torsdag 20. juni.
+Merk at påmeldingsfristen er 26. april. Vi kan se
+frem til inviterte foredrag fra Sigrunn Holbek
+Sørbye, Hans Julius Skaug og Manuela Zucknick. Det
+er også et spennende tilbud om forkurs i visuell
+
+Marie Lilleborge.
+
+formidling av statistikk med Kathrine Frey Frøslie
+17.–18. juni. Husk også at Hovedmøtet er en anledning for medlemmer av NSF
+til å ta opp saker til diskusjon. Du er velkommen til å ta kontakt med meg eller
+andre i styret innen ﬁre uker før Hovedmøtet med saker du ønsker å ta opp på
+møtet.
+NSF ble medlem av FENStatS 16. november 2018, og ble kastet rett inn i
+avstemming om årlig medlemsgebyr fra de nasjonale statistikerforeningene.
+NSF hadde etter vedtak på hovedmøtet i Fredrikstad i 2017 sendt inn søknad om
+at NSF skulle bli medlemsforening i FENStatS, og på det tidspunktet var
+avgjørelsen støttet i det faktum at paraplyorganisasjonen FENStatS ikke krevde
+eller hadde noen kjente planer om å innføre kontingent for sine
+medlemsorganisasjoner. Men parallelt med at medlemssøknaden vår hadde
+havnet mellom to stoler, ble vi heller ikke inkludert i diskusjonen rundt
+endringer i FENStatS som krevde driftsmidler. Jeg har fått skriftlig forklaring fra
+FENStatS-presidenten Walter Radermacher: FentStatS hadde forventninger den
+ikke kunne innfri uten økonomiske midler, og Walter stilte derfor som ny
+president forbehold om at det måtte innføres kontingent og i tillegg skaﬀes
+sponsormidler. I 2019 vil NSF bidra med den obligatoriske
+minimumskontingenten på €100, og så vil vi diskutere saken videre på
+hovedmøtet til sommeren og vurdere om NSF i fremtiden ønsker å bidra med
+frivillig tilleggskontingent i foreslått størrelsesorden €200–€600.
+Det blir spennende å følge utviklingen i FENStatS fremover, og se hvordan NSF
+vil dra nytte av og bidra som medlemsorganisasjon. Det er nylig opprettet en
+Young Statisticians Europe (YSE)-gruppe med formål om å støtte akademisk
+samarbeid og nettverk for alle som anser seg som unge statistikere. Sjekk ut
+http://fenstats.eu/young_statisticians.
+Smil fra Marie
+
+
+
+Frå redaksjonen
+Karl Ove Hufthammer
+
+Velkommen til dette
+påskenummeret av TG!
+Fleire av bidraga til dette
+nummeret kan, med litt
+velvilje, klassiﬁserast som
+påskelektyre.
+I påskekrimmen får jo
+skurken til slutt sin
+rettargang, og Jostein
+
+TG-redaksjonen. (Rett nok med julebakgrunn, ikkje
+påskebakgrunn.) Foto: Roy Miodini Nilsen
+
+Lillestøl har i dette
+nummeret skrive ein lengre artikkel om nettopp statistikk i rettspleia. Her
+etterlyser han blant anna ei avklaring frå oss statistikarar om kva statistiske
+paradigme og kva statistiske metodar me kan/skal nytta når me deltar som
+statistiske ekspertvitne. Interessant lesnad! Og TG-redaksjonen tar gjerne imot
+lesarbrev om temaet.
+Trygve Nilsen ser på tilfellet der me har gjentekne observasjonar frå ei
+binomisk fordeling der både talet på forsøk og suksess-sannsynet er ukjent.
+Likevel kan me faktisk estimera begge parametrane, og Nilsen føreslår at dette
+kan brukast til estimering av mørketal for nokre typar brotsverk.
+I ein terminologiartikkel peikar Stian Lydersen på manglande norsk terminologi
+for – nettopp – manglande data, og kjem med eit forslag på slik norsk
+terminologi.
+Under «møte og konferansar» presenterer me abstrakt for det kommande
+(for)kurset i visuell formidling av statistikk, samt ein rapport frå siste års- og
+medlemsmøte i Statistisk forening i Bergen.
+Og så treng me gjerne litt å pusla med i påskeferien? Jostein Lillestøl har denne
+gongen komme opp med eit pusleri med påsketema. Kanskje ein kan bruka det
+som inspirasjon på hytteturen?
+Og heilt til slutt startar me ei ny spalte, Statistikkrebuser fra 8. etasje. Det er her
+snakk om åttande etasje ved Matematisk institutt ved UiO, der ein kvar fredag
+dei siste åra har hatt ein rebus med statistikktema. Utvalde rebusar vert
+
+
+
+presenterte her i TG framover. Og sidan det er påske, slår me på stortromma
+med heile tre rebusar denne gongen!
+Og hugs: Har du noko statistikkrelatert du ønskjer å dela? Send lesarbidrag til
+TG-redaktøren på adressa <karl@huftis.org>.
+God lesnad!
+Karl Ove Hufthammer (redaktør)
+Anne Marie Fenstad
+Geir Drage Berentsen
+
+Medlemskontingent for 2019
+Turid Follestad
+
+Har du husket å betale kontingent i Norsk statistisk forening for 2019?
+Medlemskontingenten i NSF for 2019 er kr 250,– per år for ordinære
+
+medlemmer. Mastergradsstudenter får gratis medlemskap i to år fra
+innmelding.
+Betalingsfrist: 30. april 2019
+
+Hvordan betale kontingenten?
+
+Kontingenten kan betales på en av følgende to
+måter:
+Ved overføring til kontonummer 0530.27.73299
+Ved bruk av Vipps, til Vipps-nummer 97112
+Vennligst oppgi hvem og hvilket år kontingenten
+gjelder for ved innbetaling. Det første er spesielt
+viktig dersom arbeidsgiveren din betaler
+
+97112
+
+kontingenten.
+
+Hva gjør vi med pengene?
+
+De største utgiftspostene for NSF er overføringer til
+lokallagene i Oslo, Bergen og Trondheim, utdeling av Sverdrup-prisen, NSFs
+medlemskap i the European Mathematical Society (EMS) og The International
+Statistical Institute (ISI), og utgifter i forbindelse med diverse arrangementer
+(blant annet støtte til studenter ved deltakelse på det norske statistikermøtet).
+
+
+
+Hvordan sjekke om kontingenten er betalt?
+
+Alle medlemmene vil få en individuell e-post før betalingsfristen med beskjed
+om når kontingenten sist ble betalt. Dersom du ikke ﬁkk en slik e-post, eller du
+har spørsmål om kontingentbetalingen, kan du kontakte kassereren per e-post.
+
+Medlemsregister
+
+For at medlemsregisteret skal være best mulig oppdatert er det viktig at du
+oppgir eventuell ny post-/e-postadresse ved å sende en e-post til kassereren på
+<turid.follestad@ntnu.no>. Det er opprettet en egen e-postliste for NSFs
+medlemmer, nsf-medlemmer@math.uio.no. Dersom du ikke mottar e-post fra
+denne listen, send den oppdaterte e-postadressen din til kassereren.
+På forhånd takk!
+Turid Follestad,
+kasserer i NSF
+
+Lesarbidrag
+Statistikk og sannsynligheter i rettspleien
+Jostein Lillestøl
+
+Denne artikkelen er skrevet fordi jeg synes temaet er lite diskutert blant norske
+statistikere, selv om det i høy grad angår statistikere som profesjon. Artikkelen
+gir bakgrunnsinformasjon om temaet på det internasjonale plan, om
+situasjonen i Norge, slik jeg oppfatter den, og til slutt litt av min egen erfaring.
+Mitt håp er å skape diskusjon, og eventuelle oppfølgende initiativ.
+Tvistemål dreier seg typisk om fakta og tvil om fakta. Kriminalitet har typisk et
+element av observasjoner med tilknyttet usikkerhet. Statistisk argumentasjon og
+sannsynlighetsberegninger har derfor rimeligvis en rolle å spille i mange saker
+som er aktuelle for rettslig prøving. Aktørene vil imidlertid kunne ha problemer
+med å forholde seg til slik argumentasjon. I kriminalsaker kan statistiske
+metoder komme til nytte både til avdekking av mulig kriminalitet og til
+etablering av beviskjede i saksforberedelsen forut for rettslig prøving. Dette
+krever en viss statistisk kompetanse, som deretter må kombineres med evne til
+å formidle de statistiske poenger til retten, slik at de blir vektlagt etter
+fortjeneste. På den annen side kan forsvaret trenge slik kompetanse til å svekke
+påtalemaktens mulige urettmessige påstander. I mange saker opptrer
+ekspertvitner basert på en viss vitenskapelighet, som ofte møtes av tilsvarende
+
+
+
+motekspertise. En sjelden gang opptrer også fagstatistikere som ekspertvitner.
+En statistiker vil typisk kunne uttale seg om generelle sammenhenger og
+sannsynliggjøre årsaker, mens retten må ta stilling til det enkelte tilfelle. For de
+ﬂeste statistikere er dette ukjent terreng, med muligheter for å trå feil.
+Historisk har bevisvurdering hatt en 0/1-karakter, med lite rom for
+sannsynligheter. Dette har endret seg mye med årene. Det er sagt at norsk rett
+har vært tidlig ute med å akseptere «usikre» bevis med tilhørende vektlegging
+av usikkerheten, også tidligere enn de ﬂeste andre land, herunder våre naboer i
+Norden, så vel som UK og USA. Norsk juss har lenge operert med begreper som
+«sannsynlighetsovervekt», «klar sannsynlighetsovervekt»/«overveiende
+sannsynlig» og «utenfor enhver rimelig tvil». Det er ikke tallfestet i lover eller
+forskrifter hva de to siste utsagnene skal bety, trolig fordi det kan avhenge av
+konteksten. Det kan nok reises tvil om hvor godt påtalemakt, forsvarer og
+dommere er rustet til å forstå, utfordre og vektlegge statistiske resonnementer.
+Det gjelder også potensielle ekspertvitner. For retten vil typisk en statistikers
+vitnemål være en del av en samlet bevisvurdering. Da er det viktig at
+statistikeren forstår sin rolle, og har tenkt over hva som skal til for at retten
+forstår vitnemålet, og vil tillegge det vekt. En fagstatistiker vil typisk bidra med
+utsagn med et tilhørende mål for usikkerhet. Problemet for retten er da å kunne
+vektlegge de statistiske argumenter sammen med eventuelle andre bevis, og
+ende opp med en 0/1-beslutning – uskyldig eller skyldig. Således er det
+tilsynelatende enklere for retten å møte en ekspert som var sikker i sin sak.
+Litteraturen om det tema går tilbake til 1970-tallet, med Lindley (1977), Miller
+(1977), van Matre & Clark (1976), og deretter Fienberg & Kadane (1981).
+Etterhvert avdekket man mange eksempler på dommer basert på manglende
+bruk eller feil bruk av statistikk. De første initiativ til å gjøre noe med dette kom
+på 1980-tallet, da statistikere i USA og Storbritannia ble klar over en rekke
+rettssaker der misbruk av statistikk hadde fått alvorlige konsekvenser. I USA ble
+et panel bestående av statistikere, samfunnsvitere og rettslærde etablert, et
+arbeid som munnet ut i en rapport med cases og anbefalinger tilpasset
+amerikansk rettergang (Fienberg 1989). Samtidig begynte akademiske artikler
+og bøker angående lovbrudd og statistikk å komme, bl.a. DeGroot et al. (1986),
+Meier (1986), Tiller and Green (1988), Gastwirth (1992) og Finkelstein and Levin
+(1990). I Storbritannia har professor Aitken ved University of Edinburgh vært en
+pådriver gjennom mange år, blant annet med lærebok (Aitken, 1995) og initiativ
+til konferanser i forensic statistics. I USA og Storbritannia har imidlertid bruken
+av statistiske argumenter i retten vært kontroversielt, og Sir David
+
+
+
+Spiegelhalter, som er Professor of Public Understanding and Risk i Cambridge og
+tidligere president i Royal Statistical Society, har nylig gitt uttrykk for følgende.
+
+“
+
+In general, I don’t feel statistical evidence is handled well by the
+courts. They like either incontrovertible numerical “facts”, or
+overall expert opinions. But statisticians deal with a delicate
+combination of data and judgment that often gives rise to
+“rough” numbers, and these don’t seem to fit well with the legal
+profession”.
+— COIC & RSS 2017
+
+I Norge har dette ikke vært kontroversielt i samme grad, noe som kan skyldes at
+norske statistikere ikke har engasjert oss noe særlig eller vist den samme
+årvåkenhet; se imidlertid Aalen (2007).
+I dag brukes ofte begrepet forensic science i vid forstand. Historisk var begrepet i
+hovedsak knyttet til ingeniørfag (eks. ballistikk) og medisin (eks. blod, DNA),
+mens det i dag kan sies å omfatte ethvert fagfelt som kan bidra til innsamling av
+fysiske bevis og deres etterfølgende analyse og presentasjon. Jeg har ikke funnet
+noen god norsk betegnelse. Blant funn på nettet er rettsmedisin (begrensende),
+rettsvitenskap (villedende) og kriminalteknikk (vitenskapeligheten mangler).
+Det burde heller ikke være noe i veien for å inkludere metoder for å avdekke
+økonomisk kriminalitet i begrepet. Innen rammen av forensic science har
+forensic statistics funnet sin rettmessige plass, som altså blir noe annet enn
+kriminalstatistikk.
+I de senere år har den juridiske profesjon og den statistiske profesjon i mange
+land initiert felles prosjekter innen rammen av forensic science. De mest
+omfattende er i USA og i Storbritannia, og de senere år er også EU kommet på
+banen.
+I USA ble initiativ tatt av The National Academies, som omfatter de tre nasjonale
+akademiene for vitenskap, ingeniørfag og medisin, med støtte av det nasjonale
+forskningsrådet. I 2009 ble det avgitt en omfattende rapport for styrking av
+forensic science basert på arbeidet i tre komitéer, hvorav én dekket det
+statistiske fagfeltet. Denne rapporten ledet til engasjement fra American
+Statistical Association, gjennom komitévirksomhet, møter og publisering. ASA
+har også avgitt oﬃsielle utsagn med veiledende krav til statistikere i
+rettsprosessen. Her må en være oppmerksom på at USA praktiserer et
+
+
+
+dørvokterprinsipp, som stiller krav til dommere om å vurdere
+vitenskapeligheten av et bevis før det kan fremlegges. Dette er i motsetning til
+den norske frie bevisvurdering. Det kan også nevnes at National Institute of
+Standards and Technology (NIST) ﬁnansierer forskning innen «forensic science,
+policy and practice». Blant annet støttes Center for Statistics and Applications of
+Forensic Evidence (CSAFE), som er et team med over 60 forskere fra ﬁre
+universiteter (Iowa State University, University of Virginia, Carnegie Mellon
+University, University of California at Irvine), med en rekke relevante
+samarbeidspartnere. Sentret driver forskning i statistisk og probabilistisk
+bevisføring, og gir muligheter for en rekke doktorgradsstudenter ved de
+respektive studiesteder.
+I Storbritannia har Royal Statistical Society i samarbeid med justisprofesjonen
+satt i gang prosjektet «Communicating and Interpreting Statistical Evidence in
+The Administration of Criminal Justice». Det har hittil resultert i ﬁre
+veiledninger for jurister, dommere, granskere og ekspertvitner. Den første er
+Aitken et. al. (2010). En forkortet versjon er COIC & RSS (2017), med referanse til
+alle ﬁre. Se også Fenton (2011).
+Innen EU fungerer European Network of Forensic Science Institutes (ENFSI) som
+paraplyorganisasjon. Den ble etablert i 1995, og Norge er med via Kripos.
+Nettverket har i hovedsak drevet med utveksling av informasjon og ekspertise.
+Fra deres nettsider ﬁnnes en rekke veiledninger, eksempelvis om drug sampling,
+analyse og rapportering. Utviklingsarbeid skjer i arbeidsgrupper, for tiden 17, i
+hovedsak deﬁnert ut fra arbeidsfeltet (for eksempel DNA). Ingen gruppe ser ut
+til å ha spesiﬁkt med statistiske metoder og statistikers rolle å gjøre, og forensic
+statistics fremtrer ikke som eget forskningsfelt. «Statistics and the evaluation of
+forensic evidence» blir tilbudt som nettbasert etterutdanning av University of
+Lausanne & Ecole Polytechnique Fédérale de Lausanne (UNIL-EPFL).
+Kursopplegget tas over 18 måneder og har seks obligatoriske teorimoduler og
+valg mellom to spesialmoduler, DNA eller ﬁngeravtrykk. Kurset legger vekt på
+den rolle sannsynligheter spiller i bevisprosessen, og hvordan man
+sammenfatter bevis. LR (likelihood ratios) og bayesianske nettverk er gitt
+betydelig plass.
+Også i Norge har vår juridiske profesjon i økende grad innsett at bevisstyrke har
+med sannsynligheter og statistikk å gjøre. Et synlig bevis for dette er boken
+Bevisvurdering – Usikkerhet og sannsynlighet, skrevet av Erling Eide og utgitt av
+Cappelen Damm i 2016. Den gir en bred innføring i temaet, og er skrevet for alle
+rettens aktører – advokater, dommere og rettssakkyndige, samt juridiske
+
+
+
+studenter. Den er også interessant lesning for statistikere, som ikke
+nødvendigvis ser for seg rollen som ekspertvitne. Hva inneholder så denne
+boken? Det innledende kapittel 1 peker på et mangfold av teorier for beviskrav
+og bevisvurdering, der hovedskillet går mellom teorier som krever en logisk
+konsistent historiefortelling (narrative teorier) og teorier som krever rasjonelle
+normative vurderinger av usikkerheten (sannsynlighetsteorier). Her trekkes
+fram forskjeller mellom ulike land, og ulike norske syn, der det fremherskende
+norske synet har rot i bayesiansk sannsynlighetsteori. Boken til Eide tar sikte på
+bevisstgjøring om dette, og formidling av relevant kunnskap innen denne
+ramme. Samtidig imøtegår han kritikk mot at norsk rettspraksis ikke er klar for
+bayesiansk kalkyle. Kapittel 2 begynner med å etablere et datamateriale på
+grunnlag av et oppdragende case, der juridiske studenter ut fra gitte usikre
+beviser skal vurdere sannsynligheten for skyld. Her bommer de ﬂeste stygt ved
+at de overser grunnfrekvensen. Kapitlet fortsetter med å demonstrere at Bayes’
+formel bringer orden på sakene. Kapittel 3 tar for seg årsaker til statistiske
+feilslutninger. Her dekkes feil knyttet til begrepene (som forveksling av
+betingede sannsynligheter). Videre om ekspertfeil og dommerfeil, herunder
+ulike feiltyper demonstrert i adferdsforskning. Kapittel 4 inneholder mer teori
+knyttet til Bayes-prinsippet. Kapittel 5 gir eksempler på anvendelser av Bayes’
+formel på en rekke rettslige problemstillinger, og kapittel 6 gir eksempler på
+feilslutninger i en rekke konkrete rettssaker, norske og utenlandske. Det
+avsluttende kapittel 7 inneholder forfatterens reﬂeksjoner om bruk av
+sannsynlighetsteori i rettspleien. Boken har en svært rikholdig referanseliste.
+Blant de norske referansene vil jeg peke ut Magnussen et al. (2014), en empirisk
+studie av sikkerhet i bevisvurdering blant norske fagdommere og lekdommere.
+Personlig har jeg som statistiker gjennom årene blitt trukket inn i en rekke saker
+med økonomisk tilsnitt. Det gjelder noen tvistemål mellom private parter og
+noen saker med mulig økonomisk kriminalitet, der det oﬀentlige har vært den
+ene part. I ﬂere av sakene dukket det opp momenter som krevde mer omtanke
+enn standard statistisk metode. Noen saker ga også opphav til mer generell
+reﬂeksjon. Her skal kort nevnes to saker. Den første saken, beskrevet i Lillestøl
+(2001), dreide seg om et supermarked, der en kasseoperatør var anklaget for
+underslag i forbindelse med korrigering av feilinnslag. Etter at mistanken var
+vakt, hentet man data for alle de andre operatørene. Det ble klart at den
+anklagede operatør lå langt utenfor variasjonsområdet for de øvrige.
+Vedkommende innrømte underslag, men ikke av det omfang som ble
+sannsynliggjort. Hvor mye operatøren skulle straﬀes for, var ikke gitt ved det
+mest sannsynlige beløp eller avviket fra gjennomsnittet av de øvrige. I
+straﬀesaker må underslått beløp bevises utover rimelig tvil, og da kan man ikke
+
+
+
+straﬀes for å være en dårlig operatør. Beløpet måtte derfor, grovt sagt, ta
+utgangspunkt i diﬀerensen mellom den anklagede og en tilstrekkelig dårlig
+lovlydig operatør. Den andre saken dreier seg om bevisvurderingen i en
+skattesak for et pizzeria, på grunnlag av utvalgsdata, og med gitte krav til
+sikkerhet, se Lillestøl (2018) [1].
+Muligheten for skatteunndragelse lå i å registrere enkelte salg spist på stedet
+(25 % mva.) som take-away (15 % mva.), og å underrapportere
+kontantbetalinger. Arbeidet er et bidrag til metodelitteraturen på området, med
+utgangspunkt i at salgsbeløpene er godt tilpasset Gamma-fordelingen. En rekke
+alternative modeller undersøkes. I valget av modell må en, utover realisme og
+enkelhet, ta omsyn til om antakelser og resultater kan kommuniseres til partene
+og i hvilken grad valget favoriserer én av partene. I tillegg diskuteres en del
+generelle utfordringer for statistikere som er satt i en rettslig kontekst. Det
+gjelder blant annet valg av paradigme, frekventistisk eller bayesiansk, og
+bruken av tilhørende statistiske begreper, konﬁdensintervall eller
+prediksjonsintervall. Interessante situasjoner kan oppstå dersom partene møter
+med ulike paradigmer. Konsekvensen av ulike valg og denne begrepsforveksling
+er nok liten, så lenge det er tale om ikke-informative a priori-fordelinger, som
+typisk vil være i samsvar med ekspertvitnets rolle. Det kan derfor synes
+bekvemt å lukke øynene for feiltolkninger av begrepene.
+Likevel spør jeg om ikke norske statistikere som gruppe bør ha et mer avklart
+forhold til dette, og til statistikk og sannsynlighet i rettspleien generelt. Satt på
+spissen: Gitt at retten som regel etterlyser direkte sannsynlighetsutsagn fremfor
+konﬁdensutsagn, og at det siste som regel misforstås, skal vi ikke enes om at
+Bayes-paradigmet bør være grunnlaget for norske statistikere som
+ekspertvitner? Eller skal det være fritt fram for frekventister til å fortsette som
+før, på tvers av idégrunnlaget for bevisvurdering i norsk rettspleie, slik det
+kommer til uttrykk i Eide (2016)?
+
+Fotnoter
+
+[1] Skatteetaten har den senere tid satset betydelig på kvantitative
+analysemetoder, se for eksempel Melsom (2017), med ﬂere eksempler på
+potensialet til sannsynlighetsberegninger i skattesaker. De senere år har
+myndighetene gitt støtte til ﬂere prosjekter innen feltet statistikk og skatt, blant
+annet til Senter for skatteforskning ved NHH.
+
+Litteratur
+
+Aitken, C.G.C. (1995), Statistics and the Evaluation of Evidence for Forensic
+Scientists, Chichester: John Wiley & Sons.
+
+
+
+Aitken, C., Roberts, P. & Jackson, G. (2010), Fundamentals of Probability and
+Statistical Evidence in Criminal Proceedings: Guidance for Judges, Lawyers,
+Forensic Scientists and Expert Witnesses, Practitioners Guide No 1. Prepared
+under the auspices of Royal Statistical Society’s Working Group on Statistics
+and the Law.
+COIC & RSS (2017), Statistics and Probability for Advocates: Understanding the
+Use of Statistical Evidence in Courts and Tribunals, The Council of Inns of
+Court (COIC) in cooperation with Royal Statistical Society (RSS).
+DeGroot, M.H., Fienberg, S.E. & Kadane, S. P. (eds.) (1986), Statistics and the
+Law, New York: John Wiley.
+Eide, E. (2006), Bevisvurdering – Usikkerhet og Sannsynlighet, Oslo: Cappelen
+Damm.
+Fenton, N. (2011), «Science and law: Improve statistics in court», Nature, 479:
+36-37.
+Fienberg S.E. & Kadane J.B. (1981), «The presentation of Bayesian statistical
+analyses in legal proceedings», The Statistician, 32: 88-98.
+Fienberg, S.E. (ed.) (1989), The Evolving Role of Statistical Assessments as
+Evidence in Courts, New York: Springer Verlag.
+Finkelstein, M.O. & Levin, B. (1990), Statistics for Lawyers, New York:
+Springer-Verlag.
+Gastwirth, J.L. (1992), «Statistical Reasoning in the Legal Setting», The
+American Statistician, 46:55-69.
+Lillestøl J. (2001), «Data have no meaning when separated from their
+context», Teaching Statistics, 22: 27-29.
+Lillestøl, J. (2018), «Sample statistics as convincing evidence: A tax fraud
+case». Discussion paper FOR 12/2018. Department of Business and
+Management Science, Norwegian School of Economics (NHH), Bergen,
+Norway.
+Lindley D.V. (1977), «Probability and the Law», The Statistician, 26: 203-220.
+Magnussen, S. et.al. (2014), «‘Utover enhver rimelig tvil?’ En kvantitativ
+studie av sikkerhet i bevisvurdering i straﬀesaker hos norske fagdommere og
+lekdommere», Tidsskrift for rettsvitenskap 127: 347-365.
+Meier, P. (1986), «Damned liars and expert witnesses», Journal of the
+American Statistical Association, 81: 269-276.
+
+
+
+Melsom, A. M. (2017), «Sannsynlighetsberegninger – et nyttig
+kontrollverktøy», Skattedirektoratet: Analysenytt 02/2017: 7-11.
+Miller I. (1977), «The position of the expert witness», The Statistician, 26: 155163.
+Tiller, P.A. & Green, E. (eds.) (1988), Probability and Inference in the Law of
+Evidence: The Use and Limits of Bayesianism, Dordrecht: Kluwer Academic
+Publishers.
+van Matre J.G. & Clark W.N. (1976), «The statistician as expert witness», The
+American Statistician, 30: 2-5.
+Aalen O. O. (2007), «Statistical thinking in criminal cases». I Brantzæg &
+Eskeland: Rettsmedisinsk sakkyndighet i fortid, nåtid og fremtid, Oslo:
+Cappelen.
+
+Estimering av «mørketall»
+Trygve Nilsen
+
+Dette semestret foreleser jeg inferensteori etter Casella & Berger. I avsnittet om
+momentestimatorer kommer i eksempel 7.2.2 følgende situasjon:
+La 𝑋1 , … , 𝑋𝑛 være i.i.d. binomial(𝑘, 𝑝) der både 𝑘 og 𝑝 er ukjente. Ved å sette
+de to første empiriske momentene lik de teoretiske motstykkene får vi
+¯
+𝑋 = 𝑘𝑝
+1
+
+𝑛
+
+𝑛 ∑
+
+¯ 2
+(𝑋 𝑖 − 𝑋 ) = 𝑘𝑝(1 − 𝑝).
+
+𝑖=1
+
+Dette gir
+1
+
+𝑝̂ = 1 −
+
+𝑛
+
+𝑛
+
+∑
+
+𝑖=1
+
+¯ 2
+(𝑋 𝑖 − 𝑋 )
+¯
+𝑋
+
+̂
+og 𝑘 =
+
+¯
+𝑋
+=
+𝑝̂
+
+¯
+𝑋
+¯
+𝑋 −
+
+1
+𝑛
+
+2
+
+𝑛
+
+∑
+
+𝑖=1
+
+¯ 2
+(𝑋 𝑖 − 𝑋 )
+
+.
+
+Denne modellen kunne være aktuell for estimering av forbrytelser av en type
+som er kjent for å ha mange ikke-rapporterte hendelser. I denne modellen er
+både rapporteringsraten og antall forbrytelser ukjente. En har selvsagt antatt
+stasjonære forhold.
+Boken gir intet eksempel på anvendelse og heller ikke referanse til anvendelse
+på et reelt datasett. Jeg, og heller ikke de jeg har spurt, har klart å ﬁnne gode
+eksempler på bruk av modellen. To er referanser er:
+
+
+
+DasGupta, A., & Rubin, H. (2005). «Estimation of binomial parameters when
+both n, p are unknown». Journal of Statistical Planning and Inference, 130(1–
+2), 391–404. https://doi.org/10.1016/j.jspi.2004.02.019 (nedlastbar
+forfatterversjon:
+http://www.stat.purdue.edu/~dasgupta/publications/binomialn.pdf)
+Carroll, R. J., & Lombard, F. (1985). «A Note on N Estimators for the Binomial
+Distribution». Journal of the American Statistical Association, 80(390), 423.
+https://doi.org/10.2307/2287908
+
+Manglende uttrykk for manglende data – og samsvar mellom
+observatører
+Stian Lydersen
+
+Jeg har gleden av å være en av de inviterte bidragsyterne i spalten Medisin og
+tall i Tidsskrift for Den norske legeforening. Spalten inneholder en énsides
+artikkel i hvert nummer, og er åpent tilgjengelig.
+Tidsskriftet er meget nøye på at man skal bruke norske ord. Men i enkelte
+tilfeller ﬁnnes de ikke. Artikkelen om manglende data (Lydersen 2019a) er et
+eksempel: Begrepene «Missing Completely at Random» (MCAR), «Missing at
+Random» (MAR) og Missing not at Random» (MAR) er godt innarbeidet i
+engelskspråklig litteratur. Men tilsvarende norske begrep er ikke innarbeidet.
+Da jeg skrev artikkelen, spurte jeg noen kolleger om de hadde kjennskap til,
+eller forslag til, norske termer. Basert på innspillene som jeg ﬁkk, valgte jeg å
+bruke begrepene «mangler helt tilfeldig», «mangler betinget tilfeldig» og
+«mangler ikke-tilfeldig» i (Lydersen 2019a). Merk at begrepet «mangler betinget
+tilfeldig» er mer presist enn det engelske «Missing at Random». Hvorfor brukes
+ikke for eksempel «Missing Conditionally at Random» på engelsk? Kanskje fordi
+forkortelsen ville blitt MCAR, til forveksling med «Missing Completely at
+random». Se også «Språkspalten» i samme nummer av Tidsskriftet (Lydersen
+2019b).
+En annen artikkel som jeg har skrevet til «Medisin og tall», handlet om samsvar
+mellom observatører (Lydersen 2018). Da jeg skrev denne, var jeg ikke kjent
+med noe etablert norsk begrep for «inter-rater reliability». Etter en
+rundspørring til noen kolleger, kunne Geir Egil Eide fortelle at han i ﬂere år
+hadde brukt «samsvar(skoeﬃsient) mellom observatører» i undervisningen.
+Men han hadde ikke sett dette på trykk. Jeg syntes ideen var god, og valgte
+«samsvar mellom observatører» i (Lydersen 2018).
+
+
+
+Jeg foreslår at vi bruker disse termene på norsk:
+Engelsk
+
+Norsk
+
+Inter-rater agreement
+
+Samsvar mellom observatører
+
+Missing completely at random
+
+Mangler helt tilfeldig
+
+Missing at random
+
+Mangler betinget tilfeldig
+
+Missing not at random
+
+Mangler ikke-tilfeldig
+
+Takk til Geir Egil Eide for forslaget «samsvar mellom observatører».
+
+Referanser
+
+Lydersen, S. 2018. «Cohen’s kappa: Et mål på samsvar mellom observatører».
+Tidsskrift for Den norske legeforening, 138, (5) 467.
+Lydersen, S. 2019a. «Manglende data – sjelden helt tilfeldig». Tidsskrift for
+Den norske legeforening, 219, (3) 269.
+Lydersen, S. 2019b. «Manglende uttrykk for manglende data». Tidsskrift for
+Den norske legeforening, 219, (3) 278.
+Stian Lydersen, professor i medisinsk statistikk, NTNU
+
+Møte og konferansar
+Forkurs i visuell formidling av statistikk
+Anne Marie Fenstad / Kathrine Frey Frøslie
+
+Til sommeren, nærmere bestemt midt i juni, blir det 20. norske statistikermøtet
+arrangert i Stavanger. Tradisjonen tro starter møtet med et kurs fra lunsj til
+lunsj 17.–18. juni. Temaet denne gangen er «Visual communication of statistics»,
+og kursansvarlig er Kathrine Frey Frøslie. Kathrine er ansatt som første‐
+amanuensis ved Norges Miljø- og biovitenskapelige universitet (NMBU). Kurset
+vil bli holdt på engelsk. Abstrakt:
+In an increasingly visually oriented world, good visualisations of quantitative
+information is crucial for the communication of knowledge and research. In this
+course we will cover a wide spectrum of topics – and provide hands-on tips.
+
+
+
+Monday will focus on
+visualisation initiated by
+people from within the
+statistical community,
+i.e. the numerically literate.
+This includes the use of
+visualisation in research,
+in education, and when
+communicating statistics
+to the general population.
+Tuesday will be devoted to
+visualisation of statistics
+initiated by people outside
+the statistical community.
+How do the media handle
+
+Kathrine Frey Frøslie. For anledningen påskegult
+antrukket.
+
+quantitative information?
+What about activists? Artists? The advertising industry? How does our own
+scientific field look through the glasses of others? Speakers will be announced
+later.
+
+Års- og medlemsmøte i Statistisk forening i Bergen 2018
+Anne Marie Fenstad
+
+Torsdag 6. desember 2018
+klokka 17.00 ble det
+avholdt årsmøte for
+Statistisk forening i
+Bergen (SFB). Det var
+totalt 7 stemmeberettigede
+medlemmer til stede. Det
+sittende styret ble
+gjenvalgt ved
+akklamasjon:
+Karl Ove Hufthammer
+
+Jonas Andersson foredrar. Foto: Anne Marie Fenstad
+
+(styreleder)
+Bård Støve (kasserer)
+Anne Marie Fenstad (sekretær)
+
+
+
+Geir Drage Berentsen (styremedlem)
+Fullstendig referat ligger ute på hjemmesiden til SFB.
+Etter årsmøtet hadde vi
+medlemsmøte med
+foredrag av Jonas
+Andersson, professor ved
+Noregs handelshøgskole
+(NHH). Tittel på foredraget
+var «A dynamic binomial
+model with application to
+the propensity to use tax
+amnesty»:
+
+“
+
+In the talk, a model
+to study the effects
+of
+
+announcement
+
+and implementation
+of international tax
+information
+agreements on the
+propensity
+
+to
+
+use
+
+the Norwegian tax
+amnesty
+
+will
+
+introduced
+
+be
+and
+
+studied. The model
+is
+
+based
+
+on
+
+the
+
+binomial
+distribution with a
+dynamic
+
+n
+
+for
+
+which
+
+the
+
+initial
+
+value
+
+has
+
+to
+
+estimated.
+model
+
+be
+The
+
+is
+
+also
+
+Det var mer enn nok mat til alle! Foto: Anne Marie
+Fenstad
+
+
+
+extended to a panel
+version.
+Foredraget ble holdt på skandinavisk, men med engelske lysark. Det var basert
+på arbeid gjort sammen med Fred Schroyen og Gaute Torsvik. Det var 14
+personer til stede, og etter foredraget koste vi oss med brus og pizza.
+
+Meldingar
+Nytt frå Noregs teknisk-naturvitskaplege universitet
+Nye ph.d.-gradar
+Xin Luo
+
+Bayesian inference for Markov mesh models – applied to inversion of seismic data
+Professor Håkon Tjelmeland og biveileder Professor Karl Henning Omre, NTNU
+Komité: Professor Andrew Curtis, The University of Edinburgh, Scotland
+Assistant Professor Luca Martino, Universidad Carlos III de Madrid, Spain
+Professor Ingelin Steinsland, Department of Mathematical Sciences, NTNU
+Tittel for prøveforelesning: «Using quantum computers to solve statistical
+problems»
+Disputas: 21. januar 2019
+Jacob Skauvold
+Ensemble-based data assimilation methods applied to geological process modeling
+Professor Jo Eidsvik og biveileder Professor Karl Henning Omre
+Komité: Professor Hans Wackernagel, MINES ParisTech - Centre de Géosciences,
+France
+Professor Geir Storvik, Department of Mathematics, University of Oslo, Norway
+Associate Professor Sara Martino, Department of Mathematical Sciences, NTNU
+Tittel for prøveforelesning: «Gaussian processes for non-parametric prediction»
+Disputas: 3. desember 2018
+Elias Teixeira Krainski
+Statistical Analysis of Space-time Data: New Models and Applications
+Professor Håvard Rue (NTNU, nå KAUST) og biveileder Researcher Daniel Peter
+Simpson (NTNU, University of Toronto)
+Komité: Professor Peter Challenor, University of Exeter, UK
+Chief Research Scientist Thordis L. Thorarinsdottir, Norwegian Computing
+Center
+
+
+
+Professor Espen Robstad Jakobsen, Department of Mathematical Sciences, NTNU
+Tittel for prøveforelesning: «Design for the analysis of computer experiments
+using Gaussian process emulators»
+Disputas: 5.april 2018
+
+Nytilsette
+
+Benjamin A. Dunn er ansatt som førsteamanuensis i statistikk/datavitenskap
+(data science) fra januar 2019.
+Geir-Arne Fuglstad er ansatt som førsteamanuensis i statistikk fra januar 2019.
+Erlend Aune er ansatt som førsteamanuensis II i statistikk fra januar 2019.
+
+Nytt
+
+Andrea I. Riebler ﬁkk opprykk til professor i august 2018.
+
+Nytt frå Universitetet i Oslo
+Nye mastergradar
+
+Maria Hjelset Barbosa
+Improved method for calculating exceedance probabilities of environmental
+contours
+Arne B. Huseby og Erik Vanem
+Lena Rogstad Johansen
+Metoder og metodiske utfordringer for matchede kohortstudier
+Sven Ove Samuelsen
+Martyna Kalinowska
+Component importance in multistate directed network flow systems
+Arne B. Huseby
+Wei Liu
+Pricing of unit-linked insurance policies with respect to turbulent stock markets
+David Banos og Frank Proske
+Linn Bui Torgersen
+Optimal reassuranse per portefølje
+Ingrid Hobæk Haﬀ
+
+
+
+Xiaoyan Zhang
+Rough volatility modelling
+Salvador Ortiz-Latorre
+
+Nye ph.d.-gradar
+
+Céline Marie Løken Cunen
+Wars and whales: Extensions and applications of confidence curves and focused
+model selection
+Nils Lid Hjort og Bo Henry Lindqvist
+Komité: Professor Michael Spagat, University of London
+Professor Hans Julius Skaug, Universitetet i Bergen
+Førsteamanuensis Riccardo De Bin, Universitetet i Oslo
+Disputas: 7. desember 2018
+Fabian Andsem Harang
+Stability and regularization of stochastic equations driven by fractional and
+multifractional noise
+Frank Norbert Proske og Fred Espen Benth
+Komité: Professor José Manuel Corcuera Valverde, Universitat de Barcelona
+Professor Jan Ubøe, Norges Handelshøyskole
+Professor Tom Lindstrøm, Universitetet i Oslo
+Disputas: 14. desember 2018
+Aliaksandr Hubin
+Bayesian model configuration, selection and averaging in complex regression
+contexts
+Geir Olve Storvik, Ole Christian Lingjærde, Paul Grini og Melinka Butenko
+Komité: Reader Leonardo Bottolo, University of Cambridge;
+Professor Jo Eidsvik, NTNU
+Professor Ørnulf Borgan, Universitetet i Oslo
+Disputas: 9. november 2018
+Noor ’Adilah Ibrahim
+Stochastic modelling of weather risk in energy markets
+Fred Espen Benth, Ingrid Hobæk Haﬀ og Almut Veraart
+Komité: Professor Silvana Stefani, Universitá Milano-Bicocca
+Professor Delphine Lautier, Universite Paris-Dauphine
+Førsteamanuensis innsteg: Kristina Rognlien Dahl, Universitet i Oslo
+Disputas: 17. januar 2019
+
+
+
+Reinaldo Antonio Gomes Marques
+On Monte Carlo contributions for real-time probabilistic inference
+Geir Olve Storvik og Arnoldo Frigessi
+Komité: Lecturer Christopher Nemeth, Lancaster University
+Professor Tore Selland Kleppe Universitetet i Stavanger
+Førsteamanuensis Riccardo De Bin, Universitetet i Oslo
+Disputas: 29. november 2018
+Kristina Skutlaberg
+Ranking of components in binary and multistate systems through importance
+measures, optimization and decision analysis
+Bent Natvig og Arne Huseby
+Komité: Professor Pieter van Gelder, Delft University of Technology;
+professor Thore Egeland, NMBU;
+[dispdato]#Disputas: 1. november 2018
+
+Nytilsette
+
+Azzeddine Bakdi er ansatt som postdoc og Jonas Fredrik Schenkel er ansatt som
+stipendiat ved Seksjon 2 (Statistikk og Data Science).
+
+Nytt frå Nytt fra Oslo senter for biostatistikk og epidemiologi
+Nytilsette
+
+Emilie Ødegaard er ansatt som vitenskapelig assistent og Jo S. Stenehjem er
+ansatt som forsker.
+
+Pusleri
+Løsning på pusleri nummer 50
+Jostein Kåre Lillestøl
+
+Oppgaven var
+Per og Pål har kranglet, og som straﬀ har de fått husarrest for resten av
+kvelden. Begge ønsker imidlertid å gå på Brann-kamp, og går inn i
+forhandlinger med moren. Hun foreslår følgende:
+Her har dere hver deres mynt. Gå til hvert deres rom, og bli der uten å ha
+kontakt med hverandre. Om 10 minutter kommer dere ned i stuen, enten
+
+
+
+med mynten eller lar den være igjen på
+rommet. Eventuelle mynter dere har med, blir
+knipset, og ved alt annet enn (bare) kron må
+dere forbli hjemme, som altså også vil skje
+dersom begge lar sin mynt bli igjen på rommet.
+Hva er sannsynligheten for at Per og Pål
+kommer seg på kamp, gitt at begge gjør det
+optimale valg?
+
+Løsning
+
+Dersom begge tar med mynten, er sannsynligheten for å lykkes 4 .
+1
+
+Dersom én tar med mynt og den andre ikke, er sannsynligheten for å lykkes 12 .
+Anta at hver velger en randomisert strategi der 𝑝 = 𝑃 (jeg tar med mynten). Da
+er sannsynligheten for å lykkes
+𝑝
+
+2
+
+1
+
+1
++ 2𝑝(1 − 𝑝)
+
+4
+
+3
+
+2
+
++ (1 − 𝑝) 0 = 𝑝 −
+2
+
+2
+
+𝑝 .
+4
+
+som har maksimum for 𝑝 = 23 , med maksimumsverdi 13 .
+Optimalisering ved å anta at Per og Pål har ulike sannsynligheter gir selvsagt
+samme optimale løsning, men kan gi ytterligere innsikt i løsningens karakter.
+Anta at hverken Per eller Pål rakk å ﬁnne den optimale løsningen, og begge
+valgte å knipse sin mynt for å bestemme om de skulle ta den med ned i stuen
+eller ikke. Setter vi inn 𝑝 = 12 ovenfor, blir sannsynligheten for å lykkes
+5
+16
+
+= .3125
+
+, altså ikke mye redusert. Anta så følgende: Per fant den optimale
+
+løsningen og simulerte utfallet med en rettferdig terning som tilfeldigvis var for
+hånden, eller ved bruk av mynten (hvordan?). Pål, derimot, rakk ikke å ﬁnne
+løsningen, og i sin fortvilelse knipset han sin mynt én gang for å bestemme om
+han skulle ta den med seg eller ikke. Spørsmålet er da om Pål med dette
+reduserer sjansene for at brødrene kommer på Brann-kamp. Nei! Beregning av
+sannsynligheten under denne forutsetningen gir også 1 , som trolig er
+overraskende for mange.
+
+3
+
+Forklaringen ligger i følgende: Dette er et såkalt kooperativt spill, der teorien for
+såkalt Nash-likevekt gjelder (etter John Nash, vinner av Nobel-prisen i økonomi i
+1994 og Abel-prisen i 2015): Den optimale randomiserte strategi har egenskapen
+
+
+
+at den enkelte spiller er indiﬀerent til hva den andre spiller velger. Anta at Per
+velger å ta med mynten med sannsynlighet p. Da er sannsynligheten for å lykkes
+𝑝 ⋅
+
+1
+2
+
+dersom Pål ikke tar med sin mynt, og 𝑝 ⋅ 14 + (1 − 𝑝) ⋅ 12 dersom Pål tar
+
+med sin mynt. Ved indiﬀerens er disse to sannsynlighetene lik hverandre, og det
+skjer når 𝑝 = 23 .
+Løsningen er utarbeidet med bidrag fra Geir Arne Kjønstad.
+
+Pusleri nummer 51
+Jostein Kåre Lillestøl
+
+Brødrene Per og Pål er på
+hyttetur i påsken med
+hver sin venninne. Det er
+bitende kaldt, og guttene
+har lovet å stå opp tidlig
+om morgenen og fyre i
+ovnen. De har bestemt seg
+for å trekke lodd hver
+kveld om hvem av de to
+som må til pers neste
+morgen. Loddtrekningen
+skjer ved trekning av en
+
+Foto: Mænsard vokser (fra Wikimedia Commons,
+redigert). CC BY-SA 4.0.
+
+kule fra en skilue med
+kuler, hentet fra Kinasjakken. Per har rød kule og Pål blå kule, og den med
+fargen på uttrukken kule må fyre opp neste morgen. Den første kvelden er det
+bare én kule av hvert slag i luen. Kvelden etter må den som slapp unna legge en
+kule til av sin farge i luen, slik at risikoen øker for å bli trukket ut til fyring neste
+morgen. På dette viset fortsetter de inntil begge guttene har tatt sin tørn. Da
+startes det på nytt med en kule hver, og slik går dagene.
+Per har store forventninger til påsken, og ønsker (og ser for seg) at den skal vare
+uendelig lenge. Men han gruer seg til å stå tidlig opp.
+Hva er forventet antall netter til han må stå tidlig opp og fyre?
+Nå varer påskeferien bare syv døgn, og de er enige om at dersom en av dem
+slipper unna fyringen alle seks første morgenene, så skal han fyre den siste.
+Hva er nå forventet antall netter til Per må stå tidlig opp? Kommenter!
+
+
+
+Send forslag til løsning til <Jostein.Lillestol@nhh.no>.
+
+Statistikkrebuser fra 8. etasje
+Céline Marie Løken Cunen
+
+Her følger noen rebuser fra 8. etasje ved Matematisk institutt ved UiO, som hver
+fredag de siste årene har hatt en statistikkrebus som blir løst i fellesskap.
+Svaret er alltid statistikkrelatert. Delordene er fortrinnsvis på engelsk, med
+mindre annet er spesiﬁsert. Notasjonen [e/o] betyr bytt ut «e» med «o». Svaret er
+ikke alltid 100 % korrekt stavet (men lydene skal være riktige).
+Svar på rebusene kommer i neste nummer av TG.
+
+Rebus 1
+
+Rebus 2
+
+Rebus 3
+
+
+
+Initialize fp and I
+
+ste;
++
+
+=
+
+|
+:
+
+Fix p and I and Update 7;
+
++
+
+t
+
+@step
+
+Fix zit and Update pi and I
+
+I
+Stop if converged
+
+a
+
+
+

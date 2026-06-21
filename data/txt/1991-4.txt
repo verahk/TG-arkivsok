@@ -1,0 +1,4126 @@
+TILFELDIG GANG
+Nr. 4, årgang 8
+
+Desember 1991
+
+Utgitt av Norsk Statistisk Forening
+
+INNHOLD
+
+Fra redaktøren
+
+Fra formannen i Norsk Statistisk Forening. Trygve Nilsen
+Trygve Nilsen - 50 år
+Utdanning
+
+Forslag til ny fagplan i matematikk, studieretning for almenne fag
+Grete U. Fenstad
+
+Faglige innlegg
+
+Å forstå variasjon. Jostein Lillestøl
+
+Skyer - ikke tåke eller vaselin på Hurum. Magne Aldrin
+Debatt-innlegg:
+
+Eddadikt og statistikk. Svar til Hans Olav Egede Larssen (TG mai 91)
+Bjarne Fidjestøl
+
+Om valg av spill-strategi. Fra Parade Magazine
+Bokanmeldelse. Ivar Ekeland: Au Hasard. Jostein Lillestøl
+Sammendrag av innlegg gitt ved det 6. norske statistikermøte:
+Bruk av statistisk forsøksplanlegging i fabrikkmiljø. Frøydis Bjerke
+Statistisk modellering av luftforurensing i Europa. Gudmund Høst
+Konferanser
+
+14. Nordiske konferanse i matematisk statistikk. Røros 15.-19. juni 1992.
+Påminnelse om foreløpig påmelding
+Industrial Mathematics Program, NTH. 10 years Anniversary Celebration.
+Trondheim, 17.-21. august 1992. Call for papers
+13. international meeting om clinical biostatistics.
+København 17.-21. august 1992. Call for papers
+International Seminar on Statistical Confidentiality. Dublin, Ireland
+8.-10. september 1992. Call for papers
+
+Meldinger
+
+Nytt tidsskrift: Environmetrics
+Nytt fra universiteter og høyskoler
+Medlemskap i Norsk Statistisk Forening
+Bidrag til TG
+
+
+
+
+
+Fra redaktøren
+
+I sin første redaktørspalte, i september 1989, beskrev Ivar Heuch den nye redaksjonelle
+linjen for TG. Hensikten var å inkludere faglige debatter av diverse slag og andre faglige
+innlegg som sammendrag av doktoravhandlinger og innlegg fra norske statistikermøter.
+I tillegg ble artikkelserier som intervjuer og bruk av statistiske dataprogrammer i undervisningen startet opp. Ved å inkludere denne typen av faglig stoff ble TG oppgradert i
+vesentlig grad og et atskillig mere interessant medlemsblad. Leserne er Ivar Heuch en stor
+takk skyldig, og jeg tillater meg å fremføre denne takken på alles vegne. Sammenlignet
+med andre medlemsblad jeg kjenner til er TG ganske unik og Ivar Heuchs redaksjonelle
+linje vil bli fulgt opp av den nye redaktøren. Samtidig vil selvfølgelig TG fremdeles være
+et vanlig meldingsblad for medlemmene.
+
+Faglige diskusjoner av forskjellig slag er vel av spesiell interesse, og leserne oppfordres til
+å bidra med innlegg som kan anspore til debatter og meningsbrytninger. For eksempel,
+når det gjelder debatten om Bayes kontra frekventistisk analyse er det vel på tide at
+
+noen tar opp den egentlige forskjellen mellom disse analyseretningene.
+
+Det er ikke bare grunnleggende debatter som er av interesse. I dette nummer gis det
+et eksempel på hvordan vanlig sannsynlighetsregning har bidratt til en heftig debatt i
+USA. Hvis noen vet om lignende diskusjoner i media eller faglige fora er jeg sikker på at
+TG's lesere vil finne det interessant. Samtidig er det viktig at statistikere involverer seg i
+medias bruk av statistikk. En måte å øke interessen for dette på i det statistiske miljøet
+er å inkludere eksempler på slike anvendelser, gode og dårlige, i TG. Denne typen bidrag
+mottas med takk da redaktøren ikke har noen mulighet for å saumfare alle aviser.
+TG bør være et passende forum for å diskutere hvordan statistikkutdanningen skal utvikle seg, og også utveksle erfaringer med nye studieopplegg. Av spesiell interesse er nye
+temaer som man mener bør inkluderes i undervisningen. Dette nummer inkluderer en
+lettfattelig forklaring på variasjonsbegrepet i prosesskontroll av Jostein Lillestøl. Kanskje
+dette er et tema som bør inn i begynnerundervisningeni statistikk?
+Redaktøren tar sjansen på at dette nummer kommer ut før jul og ønsker leserne en God
+jul og Godt nyttår!
+
+Jan F. Bjørnstad
+
+
+
+Fra formannen i Norsk Statistisk Forening
+I begynnelsen av november skal jeg til UKA i Trondheim for å feire G-Dag.
+
+For de uinnvidde kan jeg opplyse at det betyr at det er 25, eller, som for mitt
+vedkommende, 26 år siden jeg ble uteksaminert som sivilingeniør fra linjen for
+teknisk fysikk ved NTH. Diplomen ble tatt i statistisk mekanikk ved Institutt
+for teoretisk fysikk. Licentiatgraden fulgte et par år senere, også dette var med
+arbeid i statistisk mekanikk.
+
+Statistisk mekanikk har ikke så mye å gjøre med det som vi i vår foren-
+
+ing mener med ordet statistikk i betydningen inferensteori. Det handler om
+stokastisk beskrivelse av fysiske fenomen. Deler av faget er beslektet med det
+vi kaller ”random fields”. Markoffprosesser var således en del av verktøyet
+vårt. Vi hadde besøk av både Mark Kat og George Uhlenbeck over lengre tid.
+Situasjonen for denne delen av faget var på NTH således ikke så dårlig som en
+kan få inntrykk av i intervjuet med professor Arnjot Høyland i de to siste nummerne av TG. Hans situasjonsbeskrivelse av inferensdelen stemmer imidlertid
+helt overens med slik jeg opplevde den som student - venstrehåndsarbeid fra
+de rene matematikerne.
+
+Dette var den tid da Universitetet i Oslo var den eneste institusjonen som
+
+utdannet statistikere. Det ble utdannet for få til å fylle de ledige stillingene.
+Det var således en åpning som universitetslektor i matematisk statistikk for
+en ”arbeidsledig” teoretisk fysiker med minimal utdannelse og ingen erfaring i
+statistikk som ønsket å komme tilbake til hjembyen Bergen.
+Jeg er senere blitt klar over at den eneste nordmann som har fått en sannsynlighetsfordeling oppkalt etter seg, er fysikeren Johan Holstmark. Han fant i
+1919 (Annalen der Physik 58, 577 (1919)) sannsynlighetsfordelingen for kraften
+på et elektron fra en sky av elektrisk ladede partikler som er spredt tilfeldig
+i rommet. Resultatet er en stabil fordeling med indeks 3/2. Dette skjedde
+flere år før Paul Lévy kom med den generelle teorien for stabile fordelinger. Se
+Feller, bind 2 for ytterligere informasjon.
+
+Etter hvert har flere institusjoner satt utdannelse av statistikere på programmet. Dette har gitt et mangfold som er sunt for faget. Til tross for den
+økte produksjon av kandidater, er det godt om ledige stillinger. Vi lærere i
+
+statistikk er meget glade for at arbeidsmarkedet fremdeles er godt for våre
+hovedfagskandidater. Så vidt jeg vet går ingen statistiker arbeidsledig. Den
+siste vi uteksaminerte i Bergen gikk en måned etter eksamen, men da hadde
+hun tre tilbud. Måtte denne situasjonen vare ved!
+Trygve Nilsen
+
+
+
+TRYGVE NILSEN - 50 ÅR
+Vår formann Trygve Nilsen fylte 50 år 17. september og jubileet ble
+
+markert med en tilstelning på Matematisk institutt. Trygve er en av
+pionerene i statistikkfaget i Bergen. Han kom til instituttet som vit.ass. i
+1969. Staben bestod da av Henrik Dahl og Sven Nissen Meyer, som begge
+kom til instituttet i 1967. Trygve ble i 1971 universitetslektor, og han har
+
+siden i en årrekke vært førsteamanuensis. Trygve gjorde sammen med
+Henrik Dahl, Nissen Meyer, og på et litt senere tidspunkt Ivar Heuch,
+en meget stor innsats for å bygge opp statistikkfaget fra grunnen av. I
+slutten av 60-årene ble det kun undervist i 6 vekttall brukerstatistikk. Nå
+er det et fullverdig tilbud fra grunnkurs og opp til dr.scient. nivå.
+Trygve kom til instituttet fra NTH, der han tok en lisensiatgrad. Hans
+bakgrunn bidro mye til å prege statistikkgruppens faglige profil. Det ble
+da lagt hovedvekt på anvendt sannsynlighetsteori, og hovedfagsstudentene hadde ofte en tyngre komponent av anvendt matematiske emner i
+sin fagkrets. Opplegget fungerte godt og trakk tidlig til seg flere gode
+studenter.
+
+Jubilanten har hele tiden kombinert sin innsats for instituttet med sin
+interesse for friluftsliv og fysisk trim. Han avslutter ofte arbeidsdagen med
+en 4-5 km lang joggetur fra instituttet og hjem til Natlandsfjellet. Han
+er aktivt med i Bergen Turlag og har flere år vært med på vintermerking
+av løyper i Stølsheimen.
+
+Kolleger og foreningsmedlemmer ønsker jubilanten til lykke med jubileet. Gratulerer hjerteligst!
+
+
+
+Forslag til ny fagplan i matematikk,
+studieretning for allmenne fag
+RVO (Rådet for videregående opplæring) oppnevnte i november 1990 en arbeidsgruppe
+på 3 medlemmer til å lage forslag til nye fagplaner i matematikk i videregående skole,
+studieretning for allmenne fag. Gruppen hadde et foreløpig forslag ferdig i juni 1991,
+men den ønsker en avklaring av strukturelle sider i forslaget før den går videre med det
+
+innholdsmessige.
+
+Matematikkseksjonene i undervisningsforbundene i Oslo og Akershus inviterte til orientering og diskusjon.av. forslaget 24. september i år med 2 av gruppens medlemmer som
+innledere.
+
+Av strukturforslag kan nevnes
+e 1MA splittes i 2 kurs
+
+e matematikk-kursene på alle 3 trinn far 5 uketimer hver
+e valgstoff flyttes fra 1. til 3. trinn
+
+Ellers er det for statistikere verdt å merke seg at det i det foreløpige forslaget er lagt
+
+inn sannsynlighetsregning dg statistikk i alle kurs — unntatt muligens 1 3MA. Det legges
+
+også opp til å styrke geometrien på bekostning av vektorregningen.
+
+Det var ca. 40 til stede på møtet i september — foruten lektorer fra videregående skoler
+i Oslo og Akershus, var Oslo lærerhøgskole, Universitetet i Oslo (fra NSF: Bent Natvig og
+Grete U. Fenstad) og flere av forlagene som utgir lærebøker representert. Det ble stilt en
+rekke spørsmål, men stort sett var stemningen positiv til hovedtrekkene i forslaget.
+Statistikerne bør være fornøyd med den vekt det er foreslått lagt på sannsynlighetsregning og statistikk på alle klassetrinn. Men skal vårt fag lykkes i skolen, må vi være i
+stand til å tilby egnede og! relevante etterutdanningskurs for matematikklærere i videregående skole. Vi bør også være villige til å stille vår ekspertise til disposisjon som konsulenter for nye lærebøker.
+
+Grete U. Fenstad
+undervisningsutvalget
+
+
+
+Å forstå variasjon
+Jostein Lillestøl
+
+Vi betrakter arbeid som resultat av en prosess. Daglig drift og forbedring
+av prosesser krever forståelse av variasjon, og hva som er hensiktsmessige
+
+reaksjonsmåter for ulike typer variasjon (jfr. Shewhart og Deming). Det er
+hensiktsmessig å skille mellom to typer variasjon:
+
+e Variasjon av fellesårsaker (”Common cause variation”)
+
+e Variasjon av spesielle årsaker (”Special cause variation”)
+Variasjon av felles årsaker er prosessens naturlige variasjon, som ikke kan
+reduseres uten grunnleggende endringer i prosessen. Dette krever vanligvis
+initiativ fra ledelse.
+
+En prosess med bare variasjon av fellesårsaker sies å være i statistisk
+kontroll (stabil). Dette betyr hverken at variasjonen er liten, eller innenfor
+satte spesifikasjoner, eller er akseptabel sett fra kundenes side. At en prosess er ”i statistisk kontroll” betyr bare at variasjonen er forutsigbar innen
+statistisk etablerbare grenser.
+
+Spesiell variasjon er variasjon ut over fellesvariasjon. Den er ikke forutsigbar, men har ofte identifiserbare årsaker som kan korrigeres av de som til
+daglig omgås prosessen, med sikte på å hindre gjentakelse.
+
+En prosess som påvirkes av både felles- og spesielle årsaker er ute av
+statistisk kontroll (ustabil). Dette betyr ikke nødvendigvis at den har stor
+variasjon, men bare at variasjonen over tid ikke er forutsigbar.
+
+Denne måte å forstå variasjon på står i skarp kontrast til det mer vanlige
+syn på variasjon, som består i å registrere ytelse ved akseptabel vs. uakseptabel. Dette har konsekvenser for hva slags aktiviteter som typisk institueres
+for håndtere variasjon. God/dårlig synet leder til inspeksjon av produkter
+
+(frasortering) og individer (belønning og straff). Svakheten ved dette er at
+det gir lite informasjon om årsakene til variasjon, og dermed heller ikke om
+mulighetene til forbedring.
+
+Når ledere ønsker forbedringer, og skal plassere ansvaret for dette, er
+
+det av vital betydning å kunne skille mellom disse to typer variasjon, både
+
+
+
+begrepsmessig og i praksis, ved å klarlegge om en gitt prosess domineres av
+den ene eller den andre type variasjon.
+
+I praksis reageres ofte feil på disse typer variasjon. Mest vanlig er ugrunnet korreksjon av stabile prosesser, som typisk medfører økt variasjon. La
+oss illustrere dette med et enkelt eksempel:
+
+Anta at vi skyter med et redskap som der treffpunktets avvik fra siktepunktet er tilfeldig med konstant standardavvik o. Anta at ved begyn-
+
+nelsen av serien er siktepunktet målet 6, men at vi etter hvert skudd korrigerer siktet iht. observert avvik. Forventet treffpunkt blir fortsatt Ø, men
+
+standardavviket er isteden V2 x
+
+ved antatt uavhengighet fra skudd til
+
+skudd. En gjør derfor best i å la være å korrigere siktepunktet.
+Mange praktiske eksempler fra næringsliv og politikk har samme karak-
+
+ter: En tolker ethvert avvik som om det hadde en spesiell årsak som en
+forsøker å korrigere for, med konsekvens at systemet påføres ekstra vari-
+
+asjon. Det infame er at et system som opereres med slike beslutningsregler
+kan oppføre seg stabilt, slik at det er vanskelig å avsløre tåpeligheten.
+Vanligvis vil en forsøke å fjerne eventuell spesiell variasjon på lavest mulig
+nivå i organisasjonen, slik at vi sitter igjen med en stabil prosess. Dette har
+flere klare fordeler:
+
+Prosessen har en ”identitet” ; den er predikerbar, noe som gir en rasjonelt
+grunnlag for planlegging, ved bl.a. at kvalitet og kostnad er predikerbare.
+
+Det gir også et utgangspunkt for arbeid med forbedringer, som må innebære
+
+endringer av prosessen, noe som er et ledelsesansvar. Effekten kan nå effektivt måles, mens ved en gjennomgripende endring av en ustabil prosess, er
+
+det umulig å skille effekten av endringer fra variasjon av spesielle årsaker,
+og dermed vite om det virkelig har skjedd en forbedring.
+
+For å avdekke de virkelige årsaker til problemer og muligheter for forbed-
+
+ringer, trenger vi i tillegg til å kunne skille mellom variasjon av fellesårsaker
+og variasjon av spesielle årsaker, å forstå hvilken fokus og type tiltak som
+
+kreves for å redusere eller fjerne variasjon av de to årsaker.
+Fellesårsaker kan ikke reduseres eller fjernes uten at systemet endres.
+
+Problemet er med andre ord kronisk og bygget inn i systemet, og løsning
+krever mer enn justering av systemet.
+
+For en prosess i kontroll er det
+
+bortkastet å fokusere på forskjeller mellom høye og lave observasjoner, alle
+observasjoner er relevante, ikke bare høye og lave, eller de vi ikke liker. Mer
+
+fundamentale endringer må til. Ledelsen må fokusere på systemet, ikke på
+enkeltavvik og enkeltindivider. Umiddelbar reaksjon på systemet vil kunne
+gjøre skade på systemet, herunder individene knyttet til det.
+
+
+
+Årsak og reaksjonsmåte
+Type reaksjon
+
+ved observert variasjon
+
+Juster
+
+Endre
+
+Undersøk
+
+Årsak
+
+systemet
+
+forskjellene
+
+systemet
+
+Felles
+
+NEI!
+
+NEI!
+
+Krever dypere
+
+JA!
+kunnskap
+
+JA!
+
+Spesiell | Kanskje | Fiks problemet
+
+NEI!
+
+reparasjon | Hindre gjentak
+
+En fellesårsak krever gjennomtenkte handlinger, som ofte betyr studier
+og diskusjon over noen tid (typisk flere måneder). Det er et lederansvar
+å håndtere dette, men det er sjelden at en enkeltperson (leder eller konsulent) har tilstrekkelig innsikt til med en gang å oppdage, prioritere og
+fjerne grunnårsakene.
+
+Spesielle årsaker er ikke innebygget i systemet, og kan fjernes uten å endre det, ofte på lavt nivå i organisasjonen. Det krever ofte individuell fokus:
+en arbeider, en selger, en kunde, en leverandør, en avdeling, en maskin,
+en design, et produkt osv. Slike årsaker kommer og går, og krever derfor
+umiddelbar oppmerksomhet, hvis ikke kan årsaken lett forbli uoppdaget og
+problemet forbli uløst.
+
+I praksis bruker såkalte kontrolldiagrammer til å identifisere prosesser
+mht. type variasjon. Et kontrolldiagram er :
+
+e Observasjoner av nøkkeltall for prosess plottet i tidsrekkefølge, der
+e statistisk beregnede ”kontrollgrenser” blir inntegnet, som gir uttrykk
+for prosessvariasjonen når denne er stabil, og
+e observasjoner utenfor kontrollgrensene eller spesielle mønstre signaliserer spesiell variasjon.
+
+Kontrollgrensene er ikke basert på våre ønsker mht. prosessen, heller
+ikke spesifikasjoner fra en standard, men på hva prosessen er istand til å
+yte under rådende stabile driftsforhold.
+
+At alle observasjoner faller innenfor kontrollgrensene uten spesielle mønstre
+garanterer ikke at all variasjon av spesielle årsaker er eliminert. Poenget er
+at de er umulig å skille fra naturlig variasjon (av fellesårsaker) med mindre
+variabiliteten reduseres, dvs. prosessen endres på en mer fundamental måte.
+
+
+
+Skyer - ikke tåke eller vaselin på Hurum
+Magne Aldrin
+Norsk Regnesentral
+
+Modifisert versjon av artikkel i Teknisk Ukeblad nr. 37 1991
+
+Siktforholdene på Hurum har vært meget omtalt, tildels mer på emosjonelt enn på realistisk
+grunnlag: Blant annet beskyldte Hurumtilhengerne motstanderne for å ha smurt vaselin på
+siktmålerlinsene. I denne artikkelen beskrives hvordan man ved hjelp av målinger og
+bearbeidelse av måledata kan beregne de framtidige siktforholdene på en eventuell
+Hurumflyplass.
+
+Hvordan kan siktmålinger i 350 meters høyde føre til generelle utsagn om rullebanesikt på en
+eventuell flyplass i 290 meters høyde? Hvordan kan vi statistisk bekrefte politietterforkninga om at
+vaselin ikke blei smurt på linsene? Dette er ikke så vanskelig som det høres, selv om Norsk
+Regnesentral måtte utvikle nye modeller for å gi resultater med realistiske usikkerhetsanslag.
+Resultater og metodebeskrivelser er gjengitt fra DNMI-rapport 11/90 KLIMA: "Hurum - Værmessig
+tilgjengelighet for en flyplass 290 m.o.h” av Harstveit et. al., og NR-notat STAT/01/90: "Siktforhold
+på Stikkvannskollen, Hurum” av Aldrin og Bølviken.
+
+Fra ett års siktmålinger i 350 meters høyde til generelle utsagn om rullebanesikt på en
+eventuell flyplass i 290 meters høyde
+
+Flyplassen skal eventuelt ligge i 290 meters høyde. Men siden den ikke er bygd, og området ikke
+planert, vil målinger i denne høyden ikke nødvendigvis gi et realistisk bilde av tåkeforholdene, fordi
+lokale forhold som skog og åser (som vil opphøre å eksistere om flyplassen bygges) spiller en stor
+rolle. Derfor har man i stedet ønsket å ta utgangspunkt i en målestasjon som er ganske
+representativ for siktforholdene på Hurum. Deretter kan man beregne seg fram til siktforholdene
+på en flyplass.
+
+Målestasjonen Stikkvannskollen er vurdert til å være representativ. Den ligger sentralt på Hurum,
+
+350 m.o.h, og er lite influert av lokale forhold. Siktmålingene herfra er derfor valgt som
+
+utgangspunkt for de fleste beregninger. Sikten er målt døgnkontinuerlig. Da beregningene blei
+gjort forelå det data for 1989, men det manglet målinger for 15% av tida, spredt over året. (Det
+korrigeres for de manglende data, se tabell 2.)
+
+Det kan umiddelbart gjøres flere innvendinger mot bruk av Stikkvannskollen som grunnlag for å
+beregne framtidig tåkeforhold på flyplassen:
+
+e
+
+Det kan virke tvilsomt å basere seg pa kun en målestasjon.
+
+e
+
+Måleperioden er svært kort.
+
+e
+
+Målingene er gjort 60 meter høyere enn aktuelt nivå for flyplassen.
+
+
+
+* Målingene angir såkalt meteorologisk instrumentsikt (MOR), mens den interessante størrelsen
+er sikt langs rullebanen (med rullebanelys), såkalt rullebanesikt (RVR).
+
+Til det første punktet kan det bemerkes at det fra høsten 1989 også foreligger målinger fra to
+andre høydedrag i området, Nilsåsen (350 m.o.h.) og St.Hansberget (310 m.o.h.). Sikt i horisontal
+retning er målt. Tabell 1 viser hvor stor andel av tida som sikten har vært mindre eller lik 150 meter
+i de måneder det foreligger målinger for minst to av stasjonene. Tabellen viser at Stikkvannskollen
+ikke skiller seg nevneverdig ut fra de to andre stasjonene, gjennomsnitt fra desember til mars er
+henholdsvis 21.3, 20.9 og 20.2 %!
+
+Tabell 1. Prosentvis andel sikt < 150 meter ved tre målestasjoner fra
+november 1989 til mars 1981.
+
+nov. 89
+
+Stikkvannskollen
+
+des. 89
+jan. 90
+feb. 90
+mars 90
+
+25.8
+
+13.0
+24.8
+34.7
+13.6
+
+Nilsåsen
+
+25.7
+11.1
+24.2
+34.3
+13.4
+
+St.Hansberget
+
+ikke målt
+
+8.8
+24.1
+34.2
+13.7
+
+De tre neste innvendingene kan imøtegås ved ulike beregninger. Norsk Regnesentral har estimert
+
+siktforhold på Stikkvannskollen over langtidsperioden 1957-1988. Dette utdypes nærmere
+
+nedafor. Omregning fra 350 m.o.h. til 290 m.o.h. og fra meteorologisk sikt til rullebanesikt er utført
+av DNMI, og metodikken er beskrevet i DNMI-rapport 11/90 KLIMA. Det er altså mulig å skrittvis
+beregne seg fram til rullebanesikt i 290 meters høyde i en langtidsperiode. Tabell 2 viser hvilken
+virkning de ulike skritt i beregningene har på andel av sikt < 200 meter. 200 meter rullebanesikt er
+nedre grense for bruk av såkalt kategori IIIA-utstyr. Konklusjonen blir dermed at i gjennomsnitt
+over en lengre periode kan man forvente at rullebanesikten vil være mindre enn 200 meter i 2.9%
+av tida på årsbasis.
+
+Tabell 2. Prosentvis andel sikt < 200 meter ved ulike trinn i beregninga fram til rullebanesikt (RVR)
+i 290 m.o.h. over en langtidsperiode.
+
+observert MOR, Stikkvannskollen, 350 m.o.h, 85% av 1989
+estimert MOR, Stikkvannskollen, 350 m.o.h, 100% av 1989
+estimert MOR, Stikkvannskollen, 350 m.o.h., 1957-1988
+estimert MOR, flyplassnivå, 290 m.o.h., 1957-1988
+estimert RVR, flyplassnivå, 290 m.o.h., 1957-1988
+
+17.0
+16.0
+14.8
+11.5
+2.9
+
+Estimering av sikt i perioden 1957-1988
+
+Hurumåsen er et område ved Oslofjorden som stiger ganske bratt opp fra havnivå opp til omtrent
+350 m.o.h. noen kilometer innoveri landet. Derfor skyldes mesteparten av tåka på Hurum et lavt
+skydekke som ligger over Oslofjordområdet, mens det relativt sjelden er lokal tåke. Dette gjør at
+
+
+
+ldene på
+det er en ganske klar sammenheng mellom skyforhold rundt Oslofjorden og siktforho
+(10
+Fornebu
+og
+m.o.h.)
+(50
+Rygge
+for
+målinger
+Hurum. Det foreligger relevante meteorologiske
+hvordan
+viser
+1
+Figur
+1976.
+fra
+m.o.h.)
+(530
+m.o.h.) fra 1957 fram til i dag, og for Tryvasshøgda
+
+målestasjonene ligger i forhold til hverandre.
+
+$
+
+TRY VASSH@GD
+
+OSLO
+
+k
+
+Figur 1. Kart over Oslofjordområdet med værstasjoner. (Figuren er tatt fra DNMI-rapport 11/90
+KLIMA.)
+
+
+
+e og Fornebu ligge under skydekket.
+Om Stikkvannskollen ligger i et skydekke vil normalt Rygg
+e ha en sammenheng med sikt på
+Derfor vil følgende variable målt ved Rygge og Fo rnebu kunn
+Stikkvannskollen:
+
+h - høyde til undersida av laveste sky
+hh - høyde til dominerende skylag
+N - andel av himmelen dekka av skyer
+
+Nh - andel av himmelen dekka av lave eller mellomlave skyer
+R - nedbør
+
+et eventuelt skydekke. Derfor vil horisontal sikt (betegnes
+Tryvasshøgda ligger oppe i kket
+er.
+
+vv) kunne si
+
+noe om hvor tett tåka/skyde
+
+er i døgnet, kl. 1,7, 13 og 19.
+og Tryvasshøgda er gjort 4 gang
+Målingene på Rygge, Fornebui 1989
+Figur
+trert på Stikkvannskollen. ingen
+. For 1231 av disse er sikt regis
+r
+Dette utgjør 1460 tidspunkte
+er
+Det
+bu.
+Forne
+skyhøyden h på
+vannskollen forholder seg tiløyde
+2 viser hvordan sikten på Stikk
+n h på Fornebu er lavere enn 350 ,
+skyh
+når
+at
+til
+tendens
+entydig sammenheng, men en klar vann
+skollen, mens når skyhøyden er mer enn 600-700 m.o.h
+
+på Stikk
+m.o.h er det ofte dårlig sikt sikt.
+er det svært sjelden dårlig
+
+5
+
+=
+
+ee ee
+
+2
+
+77)
+
+[E90] Oo
+a
+|
+
+ep
+2277)
+
+8
+
+A dl
+
+å e Pad : 2 = ot Lo
+e
+
+% 2
+
+ee
+
+e*
+å
+00
+e
+oy
+e
+e
+SE
+e
+
+ee e
+
+å*
+
+oa” > i
+
+oo e
+
+3°
+50
+
+°
+
+På e eg
+a *
+4 gr
+° Me
+00°f %cq
+te! %
+ope
+
+eg å oo ja et
+
+ry
+
+e =
+°.
+
+e
+:
+
+ee
+
+ø
+
+e
+
+° i up e
+5000
+
+500
+
+100
+
+e
+
+skyhoyde Fornebu
+
+Aer can å woke am mot høyde til laveste sky (h) på Fornebu, 1989, i log-log-skala. Sikt
+
+ikkvannskollen > 1800 meter er å betrakte som maksimal sikt, og er vist s
+
+5000 meter for å gjøre plottet tydelig.
+
+Er
+
+3
+
+i
+
+soe
+
+
+
+Det gjelder så å bruke observasjonene fra 1989 til å etablere en sammenheng
+
+mellom sikt på Stikkvannskollen og de andre målingene. Dette er gjort med en statistisk modell på
+formen
+
+In (sikt Stikkvannskollen) = f(h,hh,N,Nh,R,vv årstid) + &
+
+Her betegner In den naturlige logaritme, f betegner en generell funksjon, mens e er et tilfeldig feilledd. Om modellen gir en perfekt beskrivelse av virkeligheten, og den er eksakt kjent, er det dermed mulig å estimere sikt på Stikkvannskollen når forklaringsvariablene (h, hh osv.) er kjent, slik
+tilfellet er i perioden 1957-1988. Imidlertid vil feilleddet være ukjent, slik at estimatet vil være usikkert. I praksis er også modellen ukjent, og må estimeres ut fra tilgjengelige data i 1989. Dermed vil
+usikkerheten øke ytterligere. Oppgaven er dermed å estimere en best mulig modell som kan gi et
+realistisk anslag på usikkerheten.
+
+I statistikken forutsetter man ofte at funksjonen f er lineær, og at feilleddet er normalfordelt. Dette
+er for enkelt til vårt problem, samtidig som vi ønsker at konklusjonene bygger på færrest mulig forutsetninger. Vi har latt f ha en mer kompleks form (sjøl om enkelte elementer er lineære), og det er
+ikke er gjort noen antakelser om fordelinga til feilleddet. Usikkerhetsberegningene er gjort slik at
+eventuelle feilspesifikasjoner av modellen fører til økt usikkerhet som er tatt med i den totale usikkerhet.
+
+Det er ikke nødvendig at 1989 er et typisk år for at en realistisk modell skal kunne etableres. Derimot er det en vesentlig forutsetning at sammenhengen mellom sikt på Stikkvannskollen og de
+andre værmålingene i 1989 også kan gjøres gjeldende for perioden 1957-1988. Med ordet "sam-
+
+menheng” menes ikke her en entydig matematisk forbindelse, men en gjennomsnitts-sammen-
+
+heng som det vil være tilfeldige avvik fra.
+
+Etter at en modell er etablert, kan en ta for seg alle tidspunktene 1-7-13-19 i perioden 1957-1988,
+og estimere sikt på Stikkvannskollen i hvert tidspunkt. For å gjenskape et realistisk bilde av
+virkeligheten brukes simulering for å anslå hvordan siktforholdene kan ha vært. For hver
+simulering estimeres sikt for hvert enkelt tidspunkt, og et tilfeldig feilledd legges til. Vi har simulert
+100 mulige tidsforløp av siktforholdene på Stikkvannskollen over langtidsperioden. Hvert forløp er
+utfra de tilgjengelige data like sannsynlig. Modellen som er brukt og feilleddene som er simulert
+varierer fra simulering til simulering, mens forklaringsvariablene har samme verdier hver gang. For
+hver simulering kan en telle opp for eksempel andel av sikt < 200 meter. Figur 3 viser dette for 5
+simuleringer på månedsbasis for perioden 1985-1988, sammen med de observerte andeler for
+1989.
+©
+
+0.3
+0.2
+0.1
+
+0.0
+
+andel
+
+0.4
+
+0.5
+
+re
+
+1985
+
+1986
+
+1987
+
+1988
+
+1989
+
+1990
+
+tid
+
+Figur 3. 5 simuleringer med andel (%) sikt (MOR) < 200 meter på Stikkvannskollen pa
+månedsbasis 1985-1988, samt tilsvarende observerte tall for 1989.
+
+
+
+Ut fra simuleringene kan andel sikt under gitte verdier beregnes med usikkerhetsanslag. Dissetil å
+korrigert
+beregningene vil imidlertid kun gjelde for tidspunktene 1-7-13-19. Resultatet er derforltatet
+av
+Sluttresu
+med.
+tatt
+er
+gjelde døgnet som helhet, og også usikkerheten i korreksjonen
+over
+ier
+siktverd
+alle
+for
+s
+beregningene er vist i figur 4, som viser akkumulert frekven
+langtidsperioden, med 90%-usikkerhetsintervall, samt tilsvarende for 1989. En ser at i 1989 var
+siktforholdene noe dårligere enn gjennomsnittet av langtidsperioden.
+-
+
+0.20
+
++
+
+0.15
+
+-
+
+0.10
+
+-
+
+0.05
+
+-
+
+akkumulert
+
+frekvens
+
+0.25
+
+90%
+est.
+est
+
+O
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+sikt
+
+I
+
+konf.int
+1989
+7-
+
+400
+meter
+
+Figur 4. Estimat for akkumulert siktfrekvens (MOR) på Stikkvannskollen 1957-1988 med 90%usikkerhetsintervall, samt estimat for 1989. Estimatet for 1989 har svært liten usikkerhet, siden det
+foreligger siktmålinger for det meste av året. (Figuren er tatt fra STAT/01/90).
+
+Vaselin på linsa?
+
+Som en kuriositet vil jeg til slutt gjerne kommentere den såkalte vaselinteorien. Høsten 1989 gikk
+det rykter om at motstandere av Hurum-utbygging smørte vaselin på linsa til siktmåleren, slik at
+det blei målt dårlig sikt i strålende solskinn. Politiet undersøkte og tilbakeviste denne påstanden.
+Påstanden lar seg like lett tilbakevise ved en svært enkel studie av datamaterialet. La oss dele de
+1231 observasjonene for 1989 inn i tre grupper, ut fra om skyforholdene målt på Rygge og Fornebu er gode, middels eller dårlige:
+
+
+
+e
+
+Lite eller ingen skyer og ingen lave skyer. Det utgjør 481 observasjoner.
+
+¢
+
+Tett men høyt, eller lett men lavt skydekke. Det utgjør 262 observasjoner.
+
+*
+
+Tett og lavt skydekke. Det utgjør de resterende 488 observasjonene.
+
+Vi teller opp siktmålingene på Stikkvannskollen fra de samme tidspunkter som har sikt < 100
+meter. I den første gruppa er det ingen, i den andre gruppa er det 2, og i den tredje gruppa er det
+169 målinger hvor sikten er < 100 meter. Det er altså ikke målt dårlig sikt på Stikkvannskollen når
+det er godt vær i Oslofjordområdet.
+
+
+
+STE
+
+Svar
+
+=
+
+Eddadikt og statistikk.
+til Hans Olav Egede Larssen.
+Av Bjarne Fidjestøl
+Professor i norrøn filologi
+
+For to år sidan publiserte eg i Festskrift til Finn Hødnebø ein
+artikkel med undertittelen *forsøk i filologisk statistikk”, der eg
+tok opp til diskusjon eit argument som har vore nytta i
+diskusjonen om alderen av Edda-dikta, nemleg frekvensen av den
+innhaldstomme partikkelen of eller um (også kalla ‘fyllord’). Eg
+gjorde det klart at det var meint som eit forsøk av ein som ikkje
+var statistikar av fag, men som hadde tenkt over at svært mange
+
+filologiske resonnement etter si natur er statistiske, utan at dei —
+eller vi — som brukar dei, kjenner nokon skylnad til å tenkje over
+det metodiske grunnlaget. Eg ser ikkje bort frå at ein kan kome
+ganske langt med common sense, men meinte likevel at det kunne
+vere bryet verdt å dra inn også statistisk metode, etter fattig
+evne.
+
+Eit slikt forsøk risikerer å bli eit rop i skogen. Eg har inntrykk av
+at det ikkje er særleg stor interesse for, eller sakkunnskap i
+statistikk blant filologar flest på mitt område, og å finne folk
+utanfor mitt fag, som interesserer seg for dei filologiske
+problemstillingane, kan ein heller ikkje vente. Det var derfor
+svært gledeleg for meg at TG har kunna publisere ein diskusjon av
+metoden i min artikkel frå ein fagstatistikar, Hans Olav Egede
+Larssen, og eg grip gjerne høvet til å ta opp ein diskusjon. Dette er
+særleg viktig for meg, ettersom artikkelen eigenleg er del av eit
+større arbeid omkring metodiske problem med å datere eddadikt.
+Eg vonar derfor å få gjeve ut ein revidert versjon av artikkelen i
+ein
+
+større
+
+samanheng.
+
+Egede Larssen er sterkt kritisk til at eg har nytta ein metode, som
+er utvikla av den kjende franske språkstatistikaren Charles
+Muller, der han overfører konstatert avvik til "normert avvik”.
+
+Utgangspunkt for min artikkel var ein gammal observasjon av
+Hans Kuhn, som går ut på at frekvensen i bruken av fyllord i
+skaldedikta, som er daterte, minkar etter som tida går, og då
+tenkjer han seg at frekvensen av fyllord i Edda-dikta, som ikkje
+er daterte, kan nyttast som argument i diskusjonen av alderen
+deira. Mitt prosjekt var å vurdere denne tanken nøgnare.
+
+
+
+5
+
+=
+46.
+
+Kuhn sette opp ein statistikk over dei lengere eddadikta der han
+rekna ut talet på fyllord pr. ti strofer, og får dermed ei rekkje
+med tal, fallande frå 6,9 til 0,0. Implikasjonen er at denne
+med
+korrelert
+er
+vis
+anna
+eller
+ei
+på
+rekkjefølgja
+aldersrekkjefølgja
+
+til
+
+dikta.
+
+No varierer lengda på dikt i Kuhns liste frå 30 til 95,5 strofer, og
+
+eg såg då eit problem i at det var større rom for tilfeldige utslag i
+eit kort dikt enn i eit langt dikt. Sett at vi tok med eit fragment på
+berre ei strofe, og det der råka til å vere eitt eller to fyllord — noko
+som er vel tenkjeleg — så ville dette fragmentet kome på ein
+overlegen førsteplass, endå det er klårt nok at det ikkje kan
+påvisast noko lengere dikt der frekvensen faktisk er nåme nær så
+høg. Dette problemet har Kuhn løyst pr. common sense ved å ikkje
+ta med mindre dikt enn 30 strofer, men denne avgrensinga
+inneber ein
+
+ulempe som eg for mine formål gjerne
+
+ville
+
+sleppe
+
+unna.
+
+Eg tok då i bruk Mullers metode med å rekne avvika om til
+*normerte avvik”. Det er likevel verdt å merke at problemet med
+små fragment ikkje dermed er borte, noko Muller også gjer
+merksam på (Muller 1968: 66, jf. Fidjestøl 1989: 61, note 3, og 63,
+note 9). Men noko lenger enn til Kuhns 30 strofer meinte eg at ein
+kunne gå — utan at eg kjenner noko eksakt mål for risikoen med å
+utvide materialet til å omfatte også mindre einingar.
+
+Føremålet med metoden er først å fremst å redusere faren for
+forteikningar som følgjer av at nokre einingar er mindre enn dei
+andre i omfang, og det skjer ved at metoden overdriv utslaget av
+dei lengere einingane. Egede Larssen uttrykkjer det slik:
+Når tallverdien av "normerte avvik” øker med diktets lengde, selv om
+andel fyllord er den samme, så betyr dette at et langt dikt blir datert
+enda tidligere hvis det er blitt til tidlig, enda senere hvis det er blitt til
+sent. Et kort dikt blir nærmest uunngåelig datert midt i den aktuelle
+tilblivelsesperiode, selv om andel fyllord skulle tilsi meget tidlig eller
+
+meget sen tilblivelse (Egede Larssen
+
+1991: 5).
+
+Spørsmålet er simpelthen: Ja, men kva så?
+
+Det kjem sjølvsagt an på kva slags spørsmål statistikken skal gje
+svar på.
+
+Dessverre har Egede Larssen fatalt misforstått min artikkel på
+dette punktet. Han synest å meine at eg vil bruke rangordninga i
+fyllord som grunnlag for datering, medan eit hovudpunkt i min
+artikkel er at ei gjennomgåing av skaldematerialet syner at ho
+
+
+
+ikkje duger som rangering av einskilddikt. I staden gjer eg
+framlegg om at ho kan brukast til hypoteseprøving, altså ikkje
+datering av einskilddikt, men til prøving av hypotesar om samla
+
+datering av heile rekkja med eddadikt:
+
+Dersom ein går ut frå at eddadikta i Codex regius kan ha fått si
+språklege utforming nokolunde i same tidbolken som skaldedikta frå
+Brage til Nöregs konungatal, og at den forma dei har fått i handskriftet
+i rimeleg grad avspeglar språket i den opphavlege utforminga, er det
+vanskeleg å sjå nokon grunn til at ikkje eddadikta i stort skal framvise
+ein tilsvarande korrelasjon mellom alder og frekvens av fyllord som
+skaldedikta. Om ein då kjem til at ein ikkje kan bruke kriteriet til å
+datere einskilddikt, vil ein likevel kunne bruke det som kontroll på ei
+fullstendig aldersrangering av eddadikta, slik ein vil kunne finne dei i
+samla framstillingar av eddadiktinga (Fidjestøl
+
+1989:
+
+58).
+
+Eg kan derfor ikkje sjå at Egede Larssens kritikk råkar godt på
+dette
+
+punktet.
+
+Likevel er framleis problemet der, at utslaga i dei lengere dikta er
+overdrivne gjennom min bruk av Mullers metode. Men det er
+gjort for å unngå ein annan ulempe, nemleg at tilfeldige utslag i
+korte dikt skulle få gjere urimeleg stort utslag, og eg kan ikkje sjå
+at Egede Larssen anviser nokon alternativ metode til å bøte på
+dette. Tvertimot postulerer han at det ikkje er noko problem:
+Å rangordne diktverk etter relativ andel
+enkelt
+
+skulle
+
+være
+
+støttet
+
+lærebok
+
+i
+
+—
+
+så
+
+lenge
+
+lingvistisk
+
+man
+
+bare
+
+av
+
+et ord eller en ordklasse
+
+holder
+
+seg
+
+unna
+
+en
+
+NAVF-
+
+statistikk.
+
+Om man først regner ut gjennomsnittlig frekvens over det hele og så
+rangordner etter hvert diktverks positive eller negative avvik fra dette
+gjennomsnittet, skulle rangordenen bli den samme [...] (Egede Larssen
+1991: 3).
+
+Dersom føremålet berre er å setje opp ein statistikk over bruken
+av fyllord i eit gjeve utval av tekster, er dette greitt nok. Men det
+er eit trivielt resultat. Meininga må vere at statistikken skal
+brukast til noko, i dette tilfellet som ledd i ein dateringsdiskusjon.
+Denne
+diskusjonen
+byggjer
+på
+den
+føresetnad
+at
+fyllordsfrekvensen i desse dikta avspeglar — ikkje direkte og
+umiddelbart, men på ein eller annan måte — frekvensen i ein tenkt
+populasjon av språktilstandar, som vi har ei anna prøve på i
+skaldediktinga. Og denne føresetnaden er det som reiser
+spørsmålet om signifikans. Muller har eit forslag til å møte dette
+problemet. Forslaget har sine diskutable sider, men problemet
+med Egede Larssens innlegg er at han ikkje har noko anna forslag.
+I staden vil han ikkje innsjå at det er noko problem.
+
+
+
+=
+
+=
+Te;
+
+Sidan no spørsmålet først har vore reist i eit organ for
+statistikarar, vil eg likevel gjerne nytte høvet til å gå litt lenger
+inn i diskusjonen. Eg er heilt samd med Egede Larssen i at dersom
+rangordninga var å forstå som ei datering av dei einskilde dikta,
+t.d. slik at ein rekna med at menga av fyllord var proporsjonal
+med alderen, eller noko slikt, ville dette vere “det rene tøv”. Men
+eit føremål min artikkel, var nettopp å unngå ei slik fortolking,
+som dessverre har lege nær for hand, i arbeid som meir sporadisk
+har kome inn på alderen av einskilde Edda-dikt.
+
+Ein føresetnad for at metoden skal kunne brukast, er truleg at ein
+er mest interessert i dei store utslaga i positiv eller negativ lei. Eit
+kort dikt blir — med Egede Larssens ord — "nærmest datert midt i
+den aktuelle tilblivelsesperiode”, med mindre då avviket her
+skulle råke til å vere spesielt stort. Under den nemnde
+føresetnaden inneber det ei anonymisering av dei mest usikre
+i
+avvika. Etter mi meining er dette også ein rimeleg føresetnad
+dette tilfellet; ved ei vurdering av lista vil interessa naturleg
+konsentrere seg om dei store utslaga. Så langt meiner eg metoden
+er grei nok.
+
+Derimot innser eg at det er eit problem i den vidare bruk eg gjer
+av lista, nemleg som grunnlag for rangkorrelasjonar mellom ulike
+lister, i ein freistnad på å teste føreliggjande hypotesar om
+alderen på Edda-dikt. På ei side sett gjev metoden ei slags
+anonymisering av usikre avvik ved å rykkje dei nærmare midten
+av lista, men når ein vidare opererer med ei rangordning ut frå
+ordinale storleikar, er det ikkje nokon skilnad på midten av lista
+
+eller på utkantane. Differensen mellom 2 og 4 er den same som
+differensen mellom 12 og
+
+14.
+
+Dette er etter mitt skjøn eit problem, og ei reell innvending mot
+
+den måten eg har nytta metoden — som Egede Larssen rett nok
+ikkje har gått inn på — og den kjenner eg ikkje noka boteråd mot.
+Men så lenge eg ikkje veit om noko betre alternativ, finn eg det
+rimeleg å bli ståande ved dette. Eg meiner 6g det er urimeleg av
+Egede Larssen å tilleggje meg det synet at "denne størrelsen Z
+skulle [...] være et vidundermiddel”, så mykje meir som eg sjølv
+har streka under at “desse formlane ikkje er noko hokus pokus
+som ein gong for alle kan løyse våre filologiske problem” (Fidjestøl
+1989: 61, note 3).
+
+Men eg kan framleis ikkje sjå anna enn at Muller har vist ein veg
+som gjer det mogleg å redusere utslaget av at avvika i eit kort
+fragment er usikrare enn avvika i eit langt fragment. Ein kan seie
+
+
+
+=
+
+=
+{6
+
+at han blandar hummar og kanari ved 4 gange storleikar som
+refererer seg til registrert avvik med til storleikar som refererer
+seg til lengda av prøva. Ein blir då ståande att med ganske
+abstrakte storleikar, som ikkje refererer umiddelbart til nokon
+storleik i verda. Slik sett kan ein seie at metoden er dristig, men
+eg kan ikkje bare meg for at eg framleis tykkjer har verkar
+ganske kløktig, og at lista over normerte avvik for mine formål er
+meir interessant enn lista over observerte avvik. Så lenge det
+ikkje er vist til ein metode som er betre - og som er innom
+rekkjevidde for ein ikkje-fagmann, får eg leggje til - må det vere
+forsvarleg å følgje denne. All forsking er provisorisk, men eit
+resultat må bli ståande så lenge det ikkje er avløyst av eit betre.
+Elles er det ikkje så at det berre er her i landet at arbeida til
+Charles Muller om språkstatistikk blir brukte. Innføringsboka
+hans er i alle fall omsett også til tysk og spansk, og det ligg føre ei
+lang rad med arbeid, som også har bruka denne metoden med
+*écart réduit”, som franskmennene kallar det. Så dersom det
+skulle vere så at eg har hamna i ulykka, så kan det vel vere ei
+trøyst at eg slepp å vere åleine der. Eg vil også frita NAVF for all
+skuld, for Mullers metodar studerte eg i alle fall 10 år før dei kom
+i norsk omsetjing.
+
+kokk
+
+PS. Professor Dag Tjøstheim har gjort meg merksam på ein metode
+som gjer det mogleg å ta omsyn til ein tredje variabel i utrekninga
+av ein tosidig korrelasjon, nemleg “partial rank correlation” (jf.
+Maurice G. Kendall, Rank Correlation Methods, 1970, s. 117-122).
+Etter som det her er tale om korrelasjon mellom alder og frekvens
+av ein viss ordtype, der det er ønskjeleg å ta omsyn til at ein
+byggjer på tekster av ulik lengde, skulle denne metoden vere anvendeleg også her. Eg har derfor gått inn på det materialet som
+gjeld skaldediktinga, der vi har med ein kjend kronologi å gjere.
+Dersom ein reknar ut korrelasjonen mellom “fyllordsrang” og
+*aldersrang” utan noka korrigering, slik Egede Larssen synest 4
+meine at ein bør gjere, får ein positiv korrelasjonen 0,70. Korrigert
+etter Mullers metode med “écart réduit”, har eg fått korrelasjonen
+til å bli 0,79. Dersom vi no korrigerer etter "lengderang”, ved
+
+“partial rank correlation”, blir det 0,77. I kva mon eg kan ta dette
+
+resultatet som støtte til den metoden eg har nytta, er vanskeleg
+for meg å vurdere, men det skulle vel tyde på at korreksjonen går
+i rett retning, og at han derfor er å føretrekkje framfor dei
+ukorrigerte
+
+tala.
+
+
+
+20
+
+OM VALG AV SPILL-STRATEGI.
+Et velkjent sannsynlighetsparadoks, tilsvarende ”fangevokterproblemet”, har skapt stor
+interesse i statistiske og matematiske fagmiljøer i U.S.A. TG presenterer her debatten,
+
+sendt inn av Kjell Doksum og Bent Natvig, som fant sted i Parade Magazine, og som
+også ble gitt førsteside dekning av New York Times.
+
+Det kan nevnes at Marilyn von
+
+Savant har verdens høyeste registrerte I.Q. ifølge Guiness Book of Records.
+Debatten som følger viser vel at sannsynlighetsberegninger lett kan være i strid med
+
+”eksperters” intuisjon, eller hva? God fornøyelse!
+
+SEPT 9
+
+DEC
+
+1990
+
+Ask
+Marilyn: -
+
+:
+
+2M
+
+(990
+
+I'll come straight to the point.
+In the following question and
+answer, you blew it!
+“Suppose you're on a game ~
+ie show and given a choice of
+} three doors. Behind oneisa
+M car; behind the others are
+
+goats. You pick Door No. 1,
+
+and the host, who knows what’s behind them,
+opens No. 3, which has a goat. He then asks if
+you want to pick No. 2: Should you switch?”
+You answered, "Yes. The first door has a 1/3
+
+BY MARILYN VOS SAVANT
+
+Suppose you're _
+
+BY MARILYN VOS SAVANT
+
+else på winning, but the second has
+a 2/3
+
+oe game show,
+
+4
+
+Gk
+
+9
+
+POOR |
+
+_ Let me explain: If one door is shown to bea
+
+Switch and you lose.
+
+ne
+
+DOOR 3
+
+COAT
+
+the ee gr - | loser, that information changes the probability
+
+GOAT
+
+AUTO
+
+GOAT
+
+ledere MER
+
+very concerned with the general public’s lack of
+
+GOAT
+
+GOAT
+
+AUTO
+
+mathematicai skiiis. Fiease neip by couvessing
+
+Switcn and you win.
+
+three doors:
+
+| | to 1/2. As a professional mathematician, I’m
+
+eo
+
+|
+
+ee
+
+uge Å fo in
+
+I
+
+| | your error and, in the future, being more careful.
+
+goats. You
+pick
+a
+door, say No. 1,
+and the host, who knows what's
+
+behind the doors, opensanother
+
+door, say No. 3, which has a goat.
+
+He then says to you, “Do you want
+to pick door No. 27" Isitto your
+advantage to switch your choice?
+Craig F. Whitaker, Columbia, Md.
+—
+Yes; you should switch. The first door
+has a one-third chance ofwinning,
+
+but the second door has a two-thirds
+chance. Here's a good way to visualize
+what happened. Suppose there are a
+million doors, and you pick door No.
+
+I. Then the host, who knows what's
+behind the doors and will always avoid
+he one with the prize, opens them
+all except door #777,777. You'd
+switch to that door pretty fast, wouldn't
+you?
+
+f you have a question for Marilyn vos
+
+;avant, who is listed in the "Guinness
+300k of World Records Hall of Fame”
+Ask Marilyn,
+or "Highest /Q," send itto:
+PARADE, 750 Third Ave., New York,
+
+V.Y. 10017. Because of volume of mail,
+versonal replies are not possibie.
+
+RADE MAGAZINE - SEPTEMBER 9, 1990 + PAGE 15 _
+
+Switch and you win.
+
+;
+
+—
+Robert
+Sachs, Ph.D. | AUTO
+_
+versity, F ict Vv; ”| Stay and you win.
+
+George Mason University, Fairfax, Va. I Go ar
+
+|. Å You blew it, and you blew
+it big! I'll explain:
+
+After the host reveals a goat, you now have a
+
+one-in-two chance of being correct. Whether
+you change your answer or not, the odds are the
+same. There is enough mathematical illiteracy
+in this country, and we don’t need the world’s
+highest IQ propagating more. Shame!
+
+—Scott Smith, Ph.D., University of Florida
+
+Your answer to the question is in error. But if it
+is any consolation, many of my academic
+colleagues also have been stumped by this problem.
+Barry Pasternack, Ph.D.,
+—
+California Faculty Association
+
+Good heavens! With so much learned opposition,
+I'll bet this one is going to keep math classes all over the country busy on Monday.
+
+My original answer is correct. But first, let me
+explain why your answer is wrong. The winning
+odds of 1/3 on the first choice can't go up to 1/2
+just because the host opens a losing door. To
+illustrate this, let’s say we play a shell game. You
+look away, and I put a pea under one of three
+
+shells. Then I ask you to put your finger on å
+shell. The odds that your choice contains a pea are
+1/3, agreed? Then I simply lift up an empty shell
+from the remaining two. As I can (and will) do
+
+this regardless of what you've chosen, we've learned
+nothing to allow us to revise the odds on the shell
+under your finger.
+
+The benefits of switching are readily proved by
+playing through the six games that exhaust all the
+possibilities. For the first three games, you choose
+No. I and switch cach time; for the second three
+games, you choose No. I and “stay” cach time,
+
+Stay and you lose.
+
+GOAT
+
+Stay and you lose.
+
+GOAT
+
+GOAT
+
+AUTO
+
+fier
+
+GOAT
+
+AUTO
+
+i
+
+When you switch, you win two out of three times
+and lose one ime in three; but when you don't switch,
+you only win one in three times.
+You can play the game with another person acting
+
+as host with three playing cards—two jokers for the
+goats and an ace for the auto. Doing it a few hundred
+times to get valid statistics can get a little tedious, so
+
+perhaps you can assign it for extra credit—or for
+punishment. (Thar'll get their goats!)
+
+If you have a question for Marilyn vos Savant, listed
+in the “Guinness Book of World Records Hall of
+Marilyn, Parade,
+Ask
+write:
+Fame" for "Highest IQ,"
+750 Third Ave., New York, N.Y. 10017. Because of
+volume of mail, personal replies are not possible.
+
+
+
+Ask Marilyn:
+
+Fe8 17, 194]
+
+BY MARILYN VOS SAVANT
+You are in
+error—and you
+
+have ignored
+good counsel—
+but Albert
+
+2
+
+Einstein eamed
+a dearer place
+
+å in the hearts of
+
+the people after he admitted his
+errors.
+
+Frank Rose, Ph.D.,
+—
+University of Michigan
+
+I have been a faithful reader of your
+column and have not, until now, had
+any reason to doubt you. However,
+
+in this matter, in which I do have
+expertise, your answer is clearly at
+odds with the truth.
+
+— James Rauff, Ph.D,
+Millikin University
+
+May I suggest that you obtain and
+refer to a standard textbook on
+probability before you try to
+
+answer a question of this type
+again?
+Charles Reid, Ph.D.,
+—
+University of Florida
+
+Your logic is in error, and I am
+
+sure you will receive many letters
+
+on this topic from high school and
+college students. Perhaps you
+should keep a few addresses for
+help with future columns.
+—W. Robert Smith, Ph.D.
+Georgia State University
+You are utterly incorrect about the
+g2me-show question, and I hope
+
+this controversy will call some
+public attention to the serious
+national crisis in mathematical
+. education. If you can admit your
+- error, you will have contributed
+constructively toward the solution
+of a deplorable situation. How
+many Irate mathematicians are
+needed to get you to change your
+mind?
+—E. Ray Bobo, Ph.D.,
+Georgetown University
+I am in shock that after being
+- corrected by at least three
+mathematicians, you still do not
+see your mistake.
+—
+Kent Ford,
+Dickinson State University
+
+Maybe women look at math
+
+problems differently than men.
+—Don Edwards, Sunriver, Ore.
+You are the goat!
+
+Glenn Calkins
+—
+Western State College
+
+You're wrong, but look at the
+positive side. If all those Ph.D.s
+were wrong, the country would be
+
+in very serious trouble.
+Everett Harman, Fi.D.,
+—
+U.S. Army Research Institute
+
+Gasp! If this controversy continues,
+even the postman won't be able to
+fit into the mailroom. I’m receiving
+thousands of letters, nearly all
+
+insisting that I'm wrong, including
+one from the deputy director of the
+Center for Defense Information and
+another from a research
+
+mathematical statistician from the
+National Institutes of Health! Of the
+letters from the general public, 92%
+are against my answer; and of the
+letters from universities, 65% are
+against my answer. Overall, nine out
+of 10 readers completely disagree
+with my reply.
+
+But math answers aren’t
+determined by votes. For those
+readers new to all this, here’s the
+
+original question and answer in full,
+to which the first readers responded:
+“Suppose you're on a game show,
+and you're given a choice of three
+doors. Behind one door is a car;
+
+behind the others, goats. You pick a
+door—say. No.1—and the host, who
+knows what's behind the doors,
+opens another door—say, No. 3—
+which has a goat. He then says to
+
+you, ‘Do you want to pick door No.
+27’ Is it to your advantage to switch
+your choice?”
+
+I answered, "Yes, you should
+switch. The first door has a 1/3
+chance of winning, but the second
+
+door has a 2/3 chance. Here’s a
+good way to visualize what
+
+happened. Suppose there are a
+million doors, and you pick door
+No. 1. Then the host, who knows
+what's behind the doors and will
+always avoid the one with the prize,
+
+opens them all except door No.
+777,777. You'd switch to that door
+pretty fast, wouldn’t you?”
+
+So many readers wrote to say
+
+they thought there was no advantage
+to switching (and that the chances
+became equal) that we published a
+second explanatory column,
+
+affirming the correctness of the
+original reply and using a shell
+game and a probability grid as
+illustrations.
+
+Now we're receiving far more
+
+mail, and even newspaper
+
+columnists are joining in the fray.
+‘The day after the second column
+appeared, lights started flashing
+here at the magazine. Telephone
+calls poured into the switchboard,
+fax machines chumed out copy, and
+the mailroom began to sink under its
+own weight. Incredulous at the
+
+response, we read wild accusations
+of intellectual irresponsibility and,
+as the days went by, we were even
+
+more incredulous to read
+embarrassed retractions from some
+of those same people!
+The reaction is understandable.
+
+When reality clashes so violently
+with intuition, people are shaken.
+But understanding is strength, so
+let’s look at it again, remembering
+
+‘ shows you No. 3; and if the prize is
+
+behind No. 3, the host shows you
+No. 2. So when you switch, you win
+if the prize is behind No. 2 or No. 3.
+YOU WIN EITHER WAY! But if you
+
+don't switch, you win only if the
+prize is behind door No. 1.
+And as this problem is of such
+intense interest, I’m willing to put
+my thinking to the test with a
+
+nationwide experiment. This is a
+call to math classes all across the
+
+country. Sei up a procabitiny Thai
+
+exactly as outlined below and send
+
+me a chart of all the games, along
+with a cover letter repeating just
+how you did it, so we can make sure
+the methods are consistent.
+One student plays the contestant,
+another plays the host. Label three
+
+paper cups No. 1, No. 2 and No. 3.
+While the contestant looks away,
+the host randomly hides a penny
+
+under a cup by throwing a die until
+a1, 2 or 3 comes up. Next, the
+contestant randomly points to a cup
+by throwing a die the same way.
+
+Then the host purposely lifts up a
+losing cup from the two unchosen.
+
+Last, the contestant “stays” and lifts
+
+that the original answer defines
+certain conditions—the most
+
+up his original cup to see if it covers
+
+will always open a losing door on
+
+the contestant wins.
+
+significant of which is that the host
+purpose. (There's no way he can
+always open a losing door by
+chance!) Anything else is a different
+question.
+
+The original answer is still
+correct, and the key to it lies in the
+
+nvestion: Shauld you switch?
+
+Suppose we pause at that point, and
+
+a UFO settles down onto the stage.
+A little green woman emerges, and
+the host asks her to point to one of
+the two unopened doors. The
+chances that she'll randomly choose
+the one with the prize are 1/2. But
+that’s because she lacks the
+
+advantage the original contestant
+
+had—the help of the host. (Try to
+forget any particular television
+
+:
+show.)
+When you first choose door No. 1
+
+from among the three, there’s a 1/3
+chance that the prize is behind that
+one and a 2/3 chance that it’s behind
+one of the others. But then the host
+steps in and gives you a clue. If the
+prize is behind No. 2, the host
+
+the pe:ny. Play “not switching” 200
+times and keep track of how often
+
+Then test the other strategy. Play
+the game the same way until the last
+instruction, at which point the
+contestant instead “switches” and
+lifts up the cup not chosen by
+anyone to see if it covers the penny.
+Play “switching” 200 times also.
+And here's one iast iewer:
+
+Dear Marilyn:
+
+You are indeed correct. My
+colleagues at work had a ball with
+this problem, and I dare say that
+most of them—including me at
+
+first—thougirt you were wrong!
+
+— Seth Kalson, Ph.D., -
+
+Massachusetts Institute of
+
+Technology
+
+Thanks, MIT. I needed that!
+If you have a question for Marilyn vos
+Savant, who is listed in the "Guinness
+Book of World Records Hall of Fame"
+Ask Marilyn,
+for "Highest1Q," senditto:
+PARADE, 750 Third Ave., New York,
+N.Y. 10017. Because of volume of mail,
+personal replies are not possible.
+PAGE 12 - FEBRUARY 17, 1991 » PARADE MAGAZINE
+
+
+
+Ivar Ekeland
+
+hasard
+Au
+Editions Du Seuil,
+Paris
+
+1991
+
+atiker
+Forfatteren med det norskklingende navn er fransk matem
+hine. I
+
+og for tiden president ved 1'/Universite Paris-Daup
+egenskap av dette har han nylig besøkt universiteter og
+
+høyskoler i Oslo og Bergen.
+
+Han har skrevet flere bøker om matematiske emner, bl.a. om
+konveksitet, ikke-lineær analyse, variasjonsregning,
+
+i. Han
+optimaliseringsteori, spillteori og matematisk økonom
+ring.
+larise
+vant i 1984 en pris for god vitenskapelig popu
+Hans siste bok er også av populærvitenskapelig natur, og påtarå
+
+vekt
+for seg vitenskapen i sammenheng med kulturen, med klass
+isk
+
+utforske ulike sider ved tilfeldighet. Temaer fra
+t,
+sannsynlighetsregning til moderne kaosteori blir belys
+og
+herunder systemdynamikk, logikk, informasjonsteori
+
+statistikk og begreper som entropi, fraktaler og brownske
+
+bevegelser.
+
+for
+Boken er også spesiell med norske øyne, fordi forfatteren
+e
+Snorr
+hvert nytt hovedtema tar utgangspunkt i en historie fra
+Sturlasons kongesaga, og gjør bruk av flere av de kjære
+illustrasjonene.
+I bilder viser han sammenhenger mellom vikingenes smykkekunst
+og ikke-lineære matematiske strukturer.
+
+der
+Den første historien er fra sagaen om Olav den Hellige, en.
+Hising
+på
+bygd
+en
+om
+ger
+ternin
+han og Sveakongen spilte
+Sveakongen startet med en dobbel sekser og sa at nå var det
+det
+ingen vits at Olav forsøkte en gang. Hvortil han svarte atsine
+fikk
+Olav
+bi.
+ham
+stå
+vil
+Gud
+fremdeles er to seksere og
+to seksere, men Sveakongen slo dobbel sekser igjen. Da Olav
+og
+igjen forøkte seg ble den ene terningen kløyvd på langs,
+dro
+ne
+konge
+og
+Olav
+r
+derfo
+lt
+utfallet ble 6+6+1. Bygda tilfa
+fra hverandre vel forlikte.
+
+Jostein Lillestøl
+
+
+
+Sammendrag av innlegg ved det 6. norske statistikermøte,
+Jeløya, 10. - 12. juni.
+
+Bruk av statistisk forsøksplanlegging
+i fabrikkmiljø
+Frøydis Bjerke
+
+Papirindustriens forskningsinstitutt (PFI)
+
+Ved Papirindustriens forskningsinstitutt (PFI) har man arbeidet med
+anvendt statistikk innen treforedlingsindustrien i ca. 20 år.
+Statistikerens rolle er i denne sammenheng å være brobygger mellom
+statistisk teori og praktiske anvendelser.
+
+Tidligere var det et problem at man hadde få data fra prosessen,
+slik at man fikk lite informasjon om prosesstilstanden. Men med
+moderne datateknologi kommer det en kontinuerlig strøm av data fra
+prosessen. Spørsmålet som da bør stilles er: Gir de store data-
+
+mengdene nødvendigvis god informasjon?
+
+Store datamengder gir behov for statistiske verktøy, men kvaliteten
+
+på datamengdene er ofte ikke god nok for statistiske
+
+analyser. Dette antyder et stort potensiale for bruk av statistisk
+forsøksplanlegging
+
+(SFP).
+
+Ved instituttet har man benyttet SFP-metoder siden 1984, både i
+fabrikkforsøk, lab.-forsøk og forsøk i pilotanlegg. Dette har
+gitt PFI en god erfaring og kompetanse på SFP i industriell
+sammenheng.
+
+Et eksempel på problemstilling finnes i et pågående forsknings-
+
+prosjekt:
+
+Hvordan påvirkes lignininnholdet i en kjemisk masse gjennom blekeprosessen i et oksygenblekeri? Det brukes SFP for å finne en
+reguleringsmodell for dette systemet. Prosjektet har en mengde
+praktiske og statistiske utfordringer. Bl.a. er noen av de viktige
+variablene vanskelige å måle. Dessuten er det mye forstyrrende
+variasjoner i forsøksomgivelsene. En viktig utfordring under
+forsøket er også å takle driftspersonellets krav om minst
+mulig inngrep og variasjoner i prosessen, av produksjonshensyn.
+Dette står i direkte motsetning til forsøksplanen, hvor
+variablenes nivåer endres systematisk.
+
+Det ble brukt Box-Behnken forsøksdesign med hhv. 4 og 3 faktorer i
+første og andre hovedforsøk. Datamaterialet ble analysert v.hj.a.
+multippel lineær regresjon, i modeller med lineære -, kryss- og
+kvadratledd (Systat v. 5.0). Forklaringsgraden for modellene
+R2(adj) varierte fra 0.67 til 0.83. Problemet med modellene var
+at de som regel hadde mange signifikante koeffisisenter i forhold
+til antall frihetsgrader. Men det største problemet var likevel
+reproduserbarheten til forsøkspunktene, som viste seg å være
+dårlig.
+
+Erfaringene med SFP i fabrikkmiljø er flere og positive:
+- blant personell som er involvert i forsøk møtes SFP ofte med
+skepsis og frykt for kaos, men gjennom deres egne positive
+erfaringer
+
+oppnås
+
+aksept
+
+statistisk
+
+design
+
+og
+
+for
+
+SFP.
+
+- SFP gjelder vel så mye praktisk gjennomføring av forsøk, som
+-
+
+Det
+
+er
+
+morsomt!
+
+analyse.
+
+
+
+Statistisk modellering av luftforurensning i Europa
+Gudmund Høst
+
+Norsk Regnesentral
+Postboks 114, Blindern
+0314 OSLO
+
+Problem
+
+Kartlegging og overvåking av langtransporterte luftforurensninger i Europa ivaretas av
+det internasjonale overvåkingsprogrammet European Monitoring Evaluation Programme
+(EMEP). Blant de komponenter som overvåkes kan nevnes sure svovel- og nitrogen-
+
+forbindelser, fotokjemiske oksydanter, ozon og tungmetaller.
+
+Siden en vesentlig del av luftforurensningen i Norge importeres fra andre europeiske land
+er EMEP-samarbeidet av stor miljømessig betydning for Norge. Norge innehar dessuten
+en viktig rolle innenfor EMEP-samarbeidet. Norsk Institutt for Luftforskning (NILU) er
+
+senter for innsamling og kontroll av de kjemiske måledata. Det Norske Meteorologiske Institutt (DNMI) er ett av de to meteorologiske sentre som har ansvar for numerisk modellering
+
+og beregning av de langtransporterte luftforurensninger.
+
+DNMI benytter en numerisk implementering av en fysisk atmosfæremodell til å beregne transport av luftforurensning fra meteorologiske inngangsdata og utslippstall fra de
+enkelte land. En god fysisk/numerisk modell bygger på grunnleggende forståelse av prosessen og betydningen av ulike effekter. Dersom resultatene fra en slik modell er i rimelig
+overensstemmelse med målinger kan de dermed gis en fysisk fortolkning. På den annen
+side vil man i praksis bare kunne løse en tilnærmet modell og man kan få betydelige lokale
+avvik fra målingene.
+
+Alternativt kan de målte data benyttes til interpolasjon direkte. Ved å bruke en “ren”
+
+stokastisk modell frigjør man seg fra de begrensninger som kan ligge i en mangelfull fysisk
+forståelse av prosessen. En stokastisk modell benytter målingene på en direkte og objektiv
+måte, men presisjonen er avhengig av god datadekning. I situasjoner med få målinger kan
+en ren stokastisk modell gi en prediksjon som ikke er fysisk realisérbar.
+Resultater fra EMEP danner grunnlag for beslutninger om internasjonale utslippsreduksjoner og kontroll av disse. Det er derfor av stor betydning at man både kan estimere
+forurensningssituasjonen på en optimal måte og dernest beregne usikkerheten knyttet til
+estimatet.
+
+
+
+Data
+
+Gjennom EMEP-programmet måles konsentrasjon av luftforurensning døgnlig. Det er for
+tiden ca 80 målestasjoner i drift. Siden formålet med EMEP er å måle langtransportert
+luftforurensning er målestasjonene fortrinnsvis plassert i god avstand fra lokale utslippskilder. Sentrale deler av Europa har tett med stasjoner, mens det er mer sparsomt med
+data i sørvest og nordøst. For de fleste stasjoner er det samlet data over en periode på 5-10
+år.
+
+Metode og resultater
+
+En stokastisk rom/tid modell er utviklet for beskrivelse av SO.-konsentrasjon i luft for
+perioden 1980-84 fra EMEP-data. I denne modellen dekomponeres prosessen i romlig trend,
+romlig varians og rom/tid residual. Den romlige korrelasjonsfunksjon modelleres ved å
+veie estimerte korrelasjoner mellom stasjonspar, se Switzer (1989). Ved a modellere romlig
+trend, romlig varians og rom/tid residualet som stokastiske felt oppnas sikrere prediksjon
+og forbedret beskrivelse av usikkerheten. Den beskrevne metode gir avvik paa 10-15% fra
+tradisjonelle metoder.
+
+Problemet kan også beskrives sor et sett multivariable tidsrekker med romlig avhengighet.
+Enkelte metoder fra mer klassisk multivariabel analyse har vært benyttet ved analyse av
+multivariable tidsrekker, f. eks. prinsipal komponent analyse. Ved prinsipal komponent
+analyse benyttes maksimering av varians til å redusere antallet informative tidsrekker.
+Hvis formålet er å beskrive trender kan andre kriterier tenkes bedre egnet til dette, fordi
+prinsipal komponent analyse ikke legger vekt på tidsstruktur. En alternativ angrepsmåte
+
+kan være å søke etter maksimum autokorrelasjon faktorer, som skissert i Switzer (1990). I
+Switzer & Green (1984) er en slik metode beskrevet for analyse av multispektrale bilder.
+MAF brukt på stedfestede tidsrekker betyr å beskrive de originale tidsrekkene ved noen få
+syntetiske tidsrekker som bærer i seg mesteparten av tidsstrukturen. Dermed kan trenden
+beskrives i enhver EMEP-målestasjon ved å kombinere de samme få MAF-tidsrekkene.
+En forlengelse av metoden kan beskrive trenden i en villkårlig geografisk posisjon eller
+geografisk region.
+
+Referanser
+
+Høst, G., Omre, H. & Switzer, P. (1991): "Spatial Prediction of Air Pollution from S-
+
+pace/Time Observations”. (manuskript for publisering)
+
+Journel, A.G. & Huijbregts, C.J. (1978): ”Mining Geostatistics”, Academic Press, London.
+
+
+
+a
+
+=
+25
+
+ations”, Les
+Matheron, G. (1971): “The Theory of Regionalized Variables and its ApplicNation
+ale de
+Cahiers du Centre de Morphologie Mathematique de Fontainebleau, Ecole
+Mines de Paris, 211p.
+
+Switzer, P. & Green, A.A. (1984): “Min/Max Autocorrelation Factors for Multivariate
+Spatial Imagery”, Techn. Report No.6, April 1984, Dept. of Statistics, Stanford University,
+Stanford, USA.
+
+Switzer, P. (1989): ”Non-Stationary Spatial Covariances Estimated from Monitoring Data”. Geostatistics, Vol. I, Kluwer Acad. Publ., pp 127-138.
+Switzer, P. (1990): (Pers. komm.)
+
+
+
+14. NORDISKE KONFERANSE
+
+MATEMATISK STATISTIKK
+
+RØROS, NORGE
+
+15. - 19. JUNI 1992
+
+Første orientering
+
+oktober 1991
+
+Norsk statistisk forening har den glede å invitere til den 14. nordiske konferanse i matematisk statistikk
+som blir holdt på
+
+Hotel Røros i Sør-Trøndelag
+i tiden 15.-19. juni 1992
+
+Røros er en gammel kobbergruveby med historie tilbake til 1644. Stedet har en spennende
+uthusbebyggelse som er så enestående at den cr plassert på samme liste over bevaringsverdige byggverk
+som pyramidene i Egypt.
+PROGRAM
+
+Programmet er bygd opp etter samme retningslinjer som tidligere konferanser. Det består av fire inviterte
+hovedforedrag med diskusjoner og 9 gruppcemner. Gruppeemnene vil bli fordelt på tre parallelle sesjoner.
+INVITERTE HOVEDFOREDRAG
+
+Erik Bølviken og Dag Tjøstheim, Norge:
+Grace Wahba, Wisconsin, USA:
+
+Non-linear Time Series, Regime Models and Related
+Topics
+
+Spline Models in Statistics
+
+Hermann Thårisson, Island:
+
+Coupling Mcthods in Probability Theory
+
+Lene Theil Skovgaard, Danmark:
+
+Repeated Mcasurements Designs
+
+GRUPPESESJONER
+
+1.
+
+Principles of Statistical Inference
+
+Organisator: Jan Bjørnstad, Norge (Trondheim)
+
+De
+
+Computational Statistics and Graphics
+
+- Organisator: Knut Conradsen, Danmark (Lyngby)
+
+3.
+
+Reliability
+
+Organisator: Bengt Klefsjø, Sverige (Lulc4)
+
+4.
+
+Biostatistics
+
+Organisator: Odd Aalen, Norge (Oslo)
+
+$.
+
+Spatial Statistics
+
+Organisator: Aila Sårkk4, Finland (Jyvaskyla)
+
+6.
+
+Teaching Statistics
+
+Organisator: Hans Stenlund, Sverige (Umcå)
+
+is
+
+Statistics of Stochastic Processes
+
+Organisator: Michacl Sørensen, Danmark (Aarhus)
+
+8.
+
+Latent Models in Social Statistics
+
+9
+
+Lincar Modcls: Theory and Applications
+
+and Marked Point Processes
+
+:
+
+Organisator: Ib Thomsen, Norge (Oslo)
+
+Organisator: Sture Holm, Sverige(Gøtcborg)
+
+Gruppescsjonene vil bestå av flere kortere bidrag. Bidrag meldes til organisatoren av vedkommende
+
+sesjon. Nærmere opplysninger vil bli gitt i endelig innbydelse.
+ADKOMST
+
+Til Røros kan cn komme med bil, jembane eller fly. Nærmere opplysninger vil bli sendt ut ved endelig
+
+
+
+innbydelse. Kjøretid fra Oslo og Trondheim er henholdsvis ca 5 timer og 2 timer med bil.
+UTFLUKTER
+
+Det vil bli arrangert omvisning i Røros og tur til en av gruvene.
+
+KOSTNADER
+
+Konferanscavgiften cr satt til Nkr 850 og dekker konferansemateriell, utflukter og festmiddag.
+Hotellprisen cr Nkr 850 pr person på enkeltrom pr døgn og Nkr 650 pr person på dobbeltrom pr døgn.
+Studentpris cc Nkr 455 pr person i 4-sengsrom pr døgn.
+Prisene dekker frokost, lunsj og vanlig middag på hotellet.
+
+De som ønsker annen innkvartering må betale ordinære priser for måltidene.
+Det cr campingplass på Røros.
+ENDELIG INNBYDELSE
+
+PÅMINNELSE
+!
+
+Endelig innbydelse sendes ut i februar 1992. Innbydelse adresseres personlig kun til de som har
+returnert svarblanketten innen I. desember til
+
+Leiv So!heim
+Seksjoa for Mictoder og Stendarder
+
+Stetistisk sertrelbyré
+Postboks 8131
+
+0033 OSLO 1 NORGE
+
+SVARBLANKETT
+
+Jeg sender cn ikke bindende påmelding til den 14. Nordiske Konferanse i Matematisk Statistikk på Røros
+15.-19. juni 1992.
+Navn:
+
+Adresse:
+Tlf:
+
+Jeg ønsker
+a) delta i gruppesesjonene nr:
+b) presentere en rapport over emnet:
+
+i gruppe nr
+
+Jeg ønsker
+a) enkeltrom:
+b) dobbeltrom:
+
+c) bo utenfor hotellet:
+
+ORGANISASJONSKOMITE
+
+Leiv Solheim, Statistisk sentralbyrå, Oslo, leder,
+
+Thore Egeland, Norsk Regnesentral, Oslo
+
+Tormod Næs, MATFORSK, As
+John Sølve Tyssedal, Norges Tekniske Høgskole, Trondheim.
+PROGRAMKOMITE
+
+Jostein Lillestøl, Norges Handelshøyskole, Bergen, leder
+Nils Lid Hjon, Universitetet i Oslo
+
+Emil Spjøtvoll, Norges Tekniske Høgskole, Trondheim
+Ib Thomsen, Statistisk sentralbyrå, Oslo
+
+SPØRSMÅL
+Spørsmål om konferansen kan rettes til:
+Toræod es
+
+MATFORSK
+Osloveien I
+
+1430 ÅS HORGE
+
+Tlf: O9 970165
+
+Fev MO 179333
+
+
+
+29
+
+Industrial Mathematics Program:
+The first ten years
+— experience and challenges
+G Å Anniversary Celebration
+17-21 August 1992
+
+=
+
+During the week 17-21 August 1992 a variety of
+activities in industrial mathematics will take place.
+The first three days are reserved for a conference celebrating the
+tenth anniversary of the Industrial Mathematics Program at NTH.
+From 1984 to 1992 more than 120 students have graduated from
+the program. In the same period, 12 graduate students have received
+the dr.ing.-degree and 17 students are currently working towards
+their degrce in the associated doctoral program.
+
+During the rest of the week, several parallel minisymposia will take
+place.
+
+The conference also includes:
+* 9th Nordic Conference on Mathematical Education
+at the Technical Universities.
+
+* 6th Nordic Meeting on Industrial and Applicd Mathematics
+
+Conference themes:
+
+¢ University programs in Industrial mathematics
+
+* Industrial applications of mathematics, numerics, and statistics
+Invited speakers:
+
+* Gene H. Golub, Stanford University, USA.
+* Georg Lindgren, University of Lund, Sweden
+¢ Henrik H. Martens, Norwegian Institute of Technology, Norway
+
+¢ Helmut Neunzert, University of Kaiserslautern, Germany
+
+NIVERSITETET I TRONDHEIM
+
+fg
+
+¢ Henk van Tilborg, University of Eindhoven. The Netherlands
+¢ Jacqueline Naze Tjøtta, University of Bergen, Norway
+
+NORGES TEKNISKE HØGSKOLE
+INSTITUTT FOR MATEMA
+
+TISKE FAG
+
+:" Social Events:
+
+.:
+
+ye Monday.17 EBS Reception
+
+Minisymposia:
+
+Tuesday. 18 August: Conference dinner
+
+e Mathematics in engineering education
+© Numerical linear algebra
+
+" Further I ormation:
+
+Further information about the conference and the minisymposia may be obtained å
+
+Statistical methods in image processing
+* Applied wavelet analysis
+© Reliability theory
+
+© Supercomputing and scientific visualization
+Call for contributions:
+
+© Short communications (15 minutes + 5 minutes for questions)
+*
+
+Posters
+
+Ph.D students presenting their ongoing research will compete for
+
+the Gene Golub Price in numerical analysis.
+
+Contributions to the minisymposia will be arranged by the
+respective organizers.
+
+Contributed papers will be published in conference proceedings
+after the conference.
+
+Namie:
+
+SE
+
+MÅLET
+
+ene, «ses oo SEE BET BUS HS GROSS
+
+Telephone: ......----oarannrnnrrr
+Beige
+
+Ofganizing Committee:
+
+Fred Godtliebsen
+
+Anne Kajander
+
+Bo Lindavist
+
+Kari Hag
+
+Harald E. Krogstad
+
+Syvert P. Nørset:
+
+Key Dates:
+
+Abstracts (I page) duc:
+
+Conference:
+Minisymposia:
+Proceedings published:
+
+30 March 1992
+
+17-19 August 1992
+20-21 August 1992
+Mebruary 1993
+
+ces oo one ewan Fe BTS
+
+Title:
+
+NE
+
+FARE
+
+ES REESE ES SRS ha
+
+ne snå å
+en
+
+ne
+
+ees ein ones ee resei ne ite 2
+enes å
+ww teers å Ge
+
+Please send further information [1 —tintend to give a short contribution OD
+I intend to participate
+
+[1
+
+—tintend to have a poster contribution D
+
+I want to get in touch with the organizer of the following minisymposium:
+
+
+
+30
+
+NN
+
+NT
+
+Submission of Abstracts of Contributed Papers and Poster Exhibits
+1
+
+ADDRESS FOR CORRESPONDENCE
+
+Abstracts of contributed papers and abstracts describing poster exhibits should be sent to:
+
+INTERNATIONAL SOCIETY FOR CLINICAL BIOSTATISTICS
+
+Karsten Schmidt
+Spadille Biostatistik ApS
+
+P.O. Box 25
+N.W.Gadesvej 4
+DK 3480 Fredensborg, Denmark
+to arrive no later than 29 February 1992. Five copics must be submitted. Abstracts reccived after this
+
+CALL FOR PAPERS
+
+date may not be considered.
+
+THIRTEENTH INTERNATIONAL MEETING ON
+
+2
+
+1
+
+INSTRUCTIONS FOR PREPARATION OF ABSTRACTS
+
+(a) Abstracts must all be written in English, with å medical as well as a statistical audience in mind.
+
+CLINICAL BIOSTATISTICS
+
+Abstracts pertinent to one of the advertised session themes A-F are more likely to be accepted for
+verbal presentation.
+
+17 - 21 AUGUST 1992
+
+(b) The abstract should be typed with good quality typeface (not a dot matrix) using onc-and-a-half
+spacing on one A4 page only. No typed material should be closer than 2 cm from any edge of the
+
+COPENHAGEN
+
+sheet.
+
+(c)
+
+DENMARK
+
+The title of the paper, centralised, must be given in upper case letters(not underlined), clearly
+
+indicating the nature of the work. Do not use abbreviations.
+(d) After an additional line space, the author(s) name(s) and institutional afflication(s) (department,
+
+The objective
+of the annual meeting is to create an opportunity for
+exchange
+of
+knowledge, experience
+
+and idcas between clinicians, statisticians, and
+
+bers of other discipli
+
+like
+
+epidemiologists,
+
+clinical chemists and clinical pharmacologists, working in or interested in the ficld of clinical
+biostatistics.
+
+The session on Chronobiology in Human Medicine is a joint activity between the ISCB and the
+International Socicty for Chronobiology (ISC).
+A welcome social mecting will be held on the evening of Sunday 16 August and the scientific
+
+programme will commence on Monday 17 August.
+Three post-confcrence courses on Non-parametric inference in medical research, Dose determining
+
+experiments, and Analysis of longitudinal data, respectively, will be offered on Friday 21 August.
+One day is set aside for a particular medical application: This ycar a minisymposium on organ
+
+transplantation will be held on one of the four days of scientific sessions.
+
+institute, city, state and country) should appcar just underneath in mixed upper and lower casc letters.
+
+Initials of first names must precede last names. Omit degrees, titles, street address and postcode.
+(c)
+
+After additional linc space, construct the body of the abstract in 200-350 words to include the
+
+following, if applicable:
+- å statement of the purpose;
+- a suffient description of the methods uscd;
+
+- a summary of the results presented in sufficient detail to support conclusions;
+- å statement ofthe conclusions reached.
+
+(0 Authors who wish their abstracts to be considered only for a poster exhibit should type ‘POSTER*
+at the top centre of the sheet (but leaving the usual margin of 2 cm above).
+
+3
+
+ADJUDICATION OF ABSTRACTS
+
+Abstracts will be assessed by three adjudicators from the Scientific Programme Committee. On the
+basis of these asscssments, authors will be advised at the beginning of May 1992 of the adjudicators’
+decision.
+
+The decision will be one of the following:
+
+Host Institution: University of Copenhagen
+
+- Definitely to be read.
+- "Read-by-title'(abstract
+to be included in abstract booklet and paper may be presented as a poster
+exhibit at author's discretion).
+- Not suitable.
+Any constructive remarks from the adjudicators will be passed back to the authors, together with
+
+To Contributors
+
+any paper dealing with problems of wide clinical and methodological relevance will
+While in principle
+will be given to papers on clinical trial methodology related to the following
+be considered, preference
+
+various guidelines, including those concerning the preparation of manuscripts for publication.
+
+session themes: -
+
+A
+
+B
+
+GOOD CLINICAL AND STATISTICAL PRACTICE
+
+Experience with the 1991 GCP Guidelines of the EC, with emphasis on statistical matters;
+international harmonization; provision of statistical expertise in regulatory bodics.
+ANALYSIS OF LONGITUDINAL DATA
+
+Course of chronic diseases; scheduled vs. event-related follow-up; monitoring of growth (any
+and estimation
+biological characteristic); reference limits; z scores; random regression coefficients
+
+4
+
+FINAL ABSTRACT
+
+Authors (apart from those whose paper have been deemed ‘unsuitable’ for the meeting) will be sent
+
+instructions at the beginning of May 1992 for the preparation of the final abstract which should be
+returned to the address to be given, to arrive no later than Junc |. Abstracts will not be included in
+the programme until the registration fee of the presenting author has been received. Deadline is June
+1, 1992.
+
+of variance components.
+
+C
+
+RATING SCALES AND INDICES
+
+$
+
+Construction, validation, and analysis.
+
+D CHRONOBIOLOGY IN HUMAN MEDICINE
+Analysis of circadian and other cyclic variations, c.g. 24 hour blood pressure measurements.
+:
+7
+E> OVERVIEW OF EFFICACY AND SAFETY
+
+Long-term surveillance; use ofdata bases, decision making based on overviews; critical views on
+meta-analyses.
+
+F
+
+SCIENTIFIC PROGRAMME
+
+At the end of June, authors will receive a copy of the scientific programme. It is anticipated that
+presentation of
+a contributed paper will take 15
+
+6
+
+mi
+
+foll
+
+7
+
+Honorary Treasurer:
+
+Committee Members:
+
+Chairman:
+
+Committee Members:
+
+D. Wilson (United Kingdom)
+
+P. Armitage (United Kingdom)
+
+M. Buyse (Belgium)
+
+A. Heyting (The Netherlands)
+E. Krusinska (Poland)
+
+D.G. Altman (United King dom)
+
+S. Senn (Switzerland)
+
+28 42 00.
+
+Biostatistik ApS, P.O. Box 25, N.W. Gadesvej 4, DK 3480, Fredensborg, Denmark. FAX: +45 42
+
+E. Marubini (Italy)
+C.L. Meinert (USA)
+
+B. Rosander (Sweden)
+
+A.L. Johnson (United King dom)
+
+E. Skovlund (Norway)
+
+SAS
+
+K. Schmidt (Denmark)
+
+Local Organising Committee:
+
+sen
+I. Henning
+
+Further Information
+
+Papers directly from ISCB. Enquirics before then should be addressed to Karsten Schmidt, Spudille
+
+J. Hilden (Denmark)
+
+H.C. van Houwelingen (The Netherlands)
+
+i
+
+The Call for Registration will be mailed at the end of 1991 to all who have reccived this Call for
+
+K.E. Peace (USA)
+
+M. Buyse (Belgium)
+
+Official carrier
+
+Scandinavian Aulines has been appointed official carner
+
+M. Jorgensen
+S. Olesen Larsen
+
+to be agreed between the
+
+W. Köpeke (Germany)
+
+K. Schmidt (Denmark)
+
+N. Tygsuup (Denmark)
+
+P. Kragh Andersen
+C. Bay
+
+* under ar
+
+Socicty and the journal editors.
+
+M. Blettner (Germany)
+
+Committee Members:
+
+PUBLICATION
+
+be referred for publication in ‘Statistics in Medici
+
+C. Chastang (France)
+J. Seldrup (France)
+M. Lörstad (Sweden)
+
+E. Gehan (USA)
+
+Programme C
+
+Simultancous translation will not be available.
+
+It is expected that manuscripts of papers made available at the beginning of the scientific meeting will
+
+G. Gallus (Italy)
+
+ific
+
+LANGUAGE
+
+The abstracts and manuscripts must be written in English and all papers presented in English.
+
+8
+
+Executive Committce of the Society (as at July, 1991):
+
+President:
+Vice-President:
+Honorary Secretary:
+
+i
+
+booklet of abstracts either (a) if the author requested a poster presentation rather than a verbal onc,
+
+other areas for the clinician-statistician collaboration.
+
+Individuals wishing to present a paper or exhibit a poster should submit a first abstract according to
+
+for di
+
+POSTERS
+
+or (b) if the abstract was catcgorised as "rcud-by-title".
+
+the procedure outlined on the following pages.
+
+mi
+
+Guidelines for preparation ofposters will be sent to authors of ubstracts accepted for inclusion in the
+
+MINISYMPOSIUM ON ORGAN TRANSPLANTATION
+
+Sclection of donors and recipients: timing of the procedures; assessment of benefits and costs;
+
+I by 5
+
+S. Møller
+L. Theil Skovgaard
+
+for this event
+
+Contact your SAS
+
+Travel Agont or nearest
+
+SAS Office lar reservations and information covering the
+wato range of travel somcos provided by SAS
+
+
+
+a
+
+ae
+
+an Vg
+
+Presentations may have the following formats:
+
+*
+
+tations should examine the various aspects of one specific
+
+ky
+
+thematic area.
+
+*
+
+— Poster Presentations: Space will be provided within the conference facility for authors to display a summary of their papers
+on the available announcement boards. Requests for special
+visual aids should be placed in advance. (Poster presentations
+
+Call For Papers
+
+When submitting a contributed paper, authors shall indicate the
+preference for one of the above ways of presentation.
+
+International Seminar on Statistica
+Confidentiality
+
+will not be refereed by the Programme Committee)
+
+—-
+
+2
+
+=
+
+2
+
+2
+
+—
+
+rm
+
+eurostat
+
+— Individual Presentations: These contributed paper presen-
+
+ao
+
+_x
+
+*
+
+Presentation Formats:
+
+Sys
+9
+
+S=
+
+XO
+oD
+
+oe
+
+ERE
+aN
+
+72)
+
+DB
+
+sO
+s—-— pund
+a
+Go
+
+op
+
+ne
+_ &
+
+SNS
+av
+
+=
+
+Oo
+NW
+EE
+
+am
+
+ne
+ET
+«
+
+SE
+Eo
+
+£89
+AAS
+
+==
+
+Boe
+
+=
+
+Yas
+
+=
+
+@
+
+Oo
+
+>
+
+ted
+
+=
+
+Submission Procedures:
+
+September 8-10, 1992
+Dublin, Ireland
+
+Authors are invited to submit (in English) only nonpublished contributions. Authors are asked to submit an abstract, no longer that
+three pages in length, to the ISI Permanent Office. The front page
+should include name(s) of the author(s), affiliation, complete
+address, followed by the abstract, including keywords. All contributions will be evaluated by the Programme Committee to ensure that
+
+Organized by:
+EUROSTAT
+
+they fall within the Seminar's thematic focus.
+
+(Statistical Office of the European
+
+Contributions are to be submitted to the ISI Permanent Office by
+
+Communities)
+
+December 15, 1991. Applicants will be informed about the acceptance of their contributions by February 15, 1992. Revised, cameraready papers must be available by May 15, 1992.
+
+ISI
+
+(International Statistical Institute)
+
+Organizations interested in the exhibition of their products/services
+are asked to submit a proposal to the ISI Permanent Office by
+February 15, 1992.
+
+A publication of the proceedings of the Seminar is being planned.
+The copyright of accepted papers rests with the Seminar Organizers.
+
+In close collaboration with:
+EC Member Countries
+EFTA Member Countries
+Statistics Canada
+
+If you are interested in attending or participating in the conference,
+please complete the attached form and return it to the ISI Permanent Office as soon as possible.
+
+U.S. Bureau of the Census
+
+The Statistical Office of the European Communities (EUROSTAT) and
+the International Statistical Institute (ISI) are pleased to announce
+that an international Seminar, focusing on statistical confidentiality,
+will be held on September 8-10, 1992 in Dublin, Ireland.
+
+A select group of distinguished speakers will present papers examining various
+
+aspects of statistical confidentiality. The working
+languages of the Seminar will be English, French and German.
+Interpretation services will be available.
+
+The Seminar will be staged at the exquisite Dublin Castle Conference
+
+Centre located in Dublin, Ireland. Seminar participants will enjoy the
+excellent facilities and setting that this location provides. There will
+also be an opportunity for Seminar participants to take part in an
+attractive social programme.
+
+Given the wide range of participants expected, the papers should be
+written so as to be understandable to non-specialists. Facilities for
+specialist satellite meetings will be made available.
+
+1.
+
+Needs for statistical information and confidentiality;
+— Philosophical aspects
+
+— Definitional aspects
+2. Legislative/administrative aspects of confidentiality;
+3. Technological aspects of confidentiality: New technology-threat
+or greater protection?;
+
+4. Mathematical aspects of data protection;
+
+5.
+
+Computing aspects of data protection;
+
+6.
+
+Confidentiality of individual and household data;
+
+7.
+
+Confidentiality of industry and business data;
+
+8.
+
+Logistic and other miscellaneous aspects of data protection.
+
+Participants who wish to contribute to the Seminar are asked to
+
+specify the thematic area of their contribution when submitting their
+
+abstract for consideration.
+
+O
+
+Organizing Committee:
+
+I have enclosed an abstract of my presentation for
+Programme Committee's consideration.
+I would like to submit a paper to the poster presentatic
+
+Committee Chairman:
+T.P. Linehan (Former Director of Central Statistical
+Office, Ireland)
+
+D
+
+E. Bader (President - Austrian Central Statistical Office)
+
+O
+
+I would like to attend the Seminar. Please send me a regis
+
+tion package.
+I wish to receive more information about the Internatic
+
+Seminar on Statistical Confidentiality.
+
+W. Begeer (Director General - CBS - Netherlands)
+F. De Esteban (Director - Eurostat)
+F. Mosteller (President - ISI)
+
+Family Name:
+
+Ph. Nanopoulos (Director - Eurostat)
+
+The Seminar will focus on the following aspects of statistical
+confidentiality:
+
+I would like to participate in the International Seminar on Statis
+Confidentiality:
+
+J. Ryten (Deputy Director - Statistics Canada)
+
+Ch. Waite (Associate Director - The U.S. Bureau of the Census)
+
+Nationality:
+
+Programme Committee:
+
+Occupation:
+
+Committee Chairperson:
+D. Lievesley (Director - Data Archive - Essex
+
+University)
+
+Given Name:
+
+Address:
+
+i
+
+L. Biggeri (Department of Statistics - University of Florence)
+H. Bröngger (EFTA Secretariat)
+G. Börgin (Statistisches Bundesamt-Germany)
+C. Engelage (Eurostat)
+
+G. Evrard (INSEE)
+
+Title
+of Paper:
+
+G. Grof (Ministry of Interior, Germany)
+W. Keating (Central Statistical Office - Ireland)
+P. Kooiman (CBS-Netherlands)
+
+D. Koszerek (Eurostat)
+
+Thematic
+
+C. Miller (U.S. Bureau of the Census)
+
+Area:
+
+C. Peare (Commission - DG VI - Brussels)
+P. Samuelsson (Statistics Sweden)
+S. Simitis (Data Protection Commissioner - Hessen)
+F. Spieker (Danmarks Statistik)
+R. Ward (Central Statistical Office - U.K.)
+L. Willenborg (CBS - Netherlands)
+
+Conference Fees: *
+
+100 ECU's (payment before July 1, 1992)
+125 ECU's (payment after July 1, 1992)
+* In exceptional cases the conference fee may be waived for cen
+classes of participants
+
+
+
+52
+
+oO
+he Internat 10na I Environme trical Society
+E nvi ronmetrics 0 5
+°
+
+r
+
+Manglende informasjon i forrige nummer
+
+Environmetrical Socicty i oktober og reklamebrosjyre for tidsskriftet ENVIRONMETRICS dessverre ble
+=
+
+møte i Madison arrangert av The International
+Tilfeldig Gang beklager at informasjonsfolder om
+
+utelatt i forrige nummer. Reklamebrosjyren for ENVIRONMETRICS er lagt ved i dette nummer.
+
+and
+
+INSTRUCTIONS
+
+tables
+
+TO
+
+CONTRIBUTORS
+of their
+
+be numbered
+im
+
+and
+
+should
+16 å mi
+
+refer ed
+and
+
+should
+
+the anther
+
+be kept
+
+x
+
+and
+
+tien
+
+DATERE
+
+Iphabenoul y
+
+for patil
+
+Ved
+
+cript
+
+should
+
+to one
+only
+
+tthe
+hes,
+
+be
+
+of good-
+
+paper
+
+is
+
+by
+
+of the co-
+
+ac ompany
+
+to the form
+
+numbered
+
+to in the text
+
+adhere
+
+sheath)
+
+f.&hyirönmental
+
+| entailing
+
+concommitant
+
+various
+problems,.and
+
+quantitative
+
+coalescence
+
+the
+
+of the
+
+methods
+
+as.it does
+
+unique
+
+reason,
+
+to
+
+publish
+
+the
+
+and
+
+that
+
+as
+
+are
+
+has
+
+of the
+
+and
+
+issues.
+
+and
+of these
+
+to deal with
+required
+call
+these problems,
+spil
+to promote
+5 for aforum
+
+methods
+
+established.
+
+this
+
+the further
+development
+application
+
+environmental
+
+For
+
+been
+
+Environmetrics
+
+lo emerge
+
+EL-SHAARAINT
+
+MacNEILL
+
+are
+
+of the new
+
+will
+
+that
+
+It is the hope
+
+expectation
+
+editors
+
+many
+
+Journal
+
+methodological
+developments
+
+applications
+
+environmental
+
+Sure
+
+addressed.
+
+problems
+
+AH.
+
+1.B.
+
+—
+
+©
+
++08
+
+lr
+
+Påbe
+
+ENVIRONMETRICS
+
+Figures
+6. number,
+should
+
+submit ed
+
+es
+
+article
+
+Ve
+
+m
+every
+
+NT
+
+\
+
+i)
+
+
+
+33
+
+National
+Burlington;
+
+Canada
+
+5B9
+
+(USA)
+
+(USA)
+
+Ipåtitute,
+
+.”
+
+Arabia)
+
+BOARD
+
+and Actuarial,
+
+:
+
+of Western
+
+(Australia)
+
+four copies
+
+of
+
+of the coon last
+notes
+
+(Saudi
+
+(USA)
+
+(UK)
+
+to either
+sce detailed
+
+(USA)
+
+(USSR)
+
+(Canada)
+
+(USA)
+
+EDITORS
+
+(UK)
+
+(Canada)
+
+(Switzerland)
+
+(Norway)
+(Canada)
+
+(Canada)
+
+(Austria)
+
+leaflet.
+
+of| Papers
+submit
+
+(USA)
+
+(France)
+
+ed
+
+WaterOntario; Research
+L7R 4A6'
+
+N6A
+
+London,
+
+BRILLINGER
+
+FRASER
+
+RAO
+
+BERTHOUEX
+
+ADVISORY
+
+LB. MacNEILL
+ofatiUnistvcaerlsity
+DSciepeartnces,ment
+The St
+Canada
+
+Ontario,
+
+EDITORIAL
+
+D.R.
+
+GANI
+
+G.A. BARNARD
+D.A.S.
+
+J-M.
+
+C.R.
+VOL ENWEIDER
+
+B.V. GNEDENKO
+J.S. HUNTER
+R.A.
+
+(Canada)
+
+ASSOCIATE
+
+CHATWIN
+
+ABOUAMMOH
+
+P.M.
+
+A.M.
+P.C.
+
+HIPEL
+
+E. DAMSLETH
+S.R. ESTERBY
+
+J.GÖLLES
+K.W.
+
+should
+
+Ch. E. MINDER
+
+A. MAUL
+
+manuscript
+
+this
+of
+
+Please
+
+R.M. PHATARFOD
+E.P. SMITH
+P.J. SULLIVAN
+
+Authors
+
+Submis ion
+page
+
+their
+editors.
+
+AIMS
+
+Environmetrics'
+concerned
+
+atistical
+st
+of
+
+sciences.
+methodological
+
+design,
+
+analysis
+control,
+
+multivariate
+methods
+water
+regulation
+waste
+
+risk
+
+transboundary
+health
+monitoring
+
+field
+
+@ climatic
+
+In addition
+papers,
+
+survey
+
+articles
+relevant
+
+SUBSCRIPTION
+
+Volume
+
+AND
+
+with
+
+SCOPE
+
+methodology
+
+is a multidisciplinary
+the development
+
+with
+
+analysis,
+application
+
+779777
+
+DETAILS
+
+$146.25
+
+nust
+
+775878
+
+quality
+
+journal
+and application
+
+in the environmental
+
+significant
+publishes
+and computer
+
+Personal
+
+delivery.
+
+address.
+
+control
+
+be paid by personal
+
+review
+
+statistical
+and other
+to such areas
+
+UK
+
+to a private
+
+4 issues
+
+by
+Lid
+
+UD,
+
+0243
+
+as:
+
+and
+
+WILEY
+
+cheque
+
+software
+
+areas,
+
+research
+
+of
+a wide range
+covers
+The scope
+sampling
+topics including
+of data
+methods
+model ing,
+statistical
+quality
+statistical
+and interpretation,
+methods,
+time scries
+risk as essment,
+and
+
+pol ution
+of pollution
+
+air quality
+and control
+
+laboratory
+
+PO19
+
+and mailed
+quarterly
+
+0243
+
+Fax:
+
+in the aforementioned
+
+to publishing
+
+change
+
+aspects
+
+management
+
+analysis
+
+and
+
+Environmetrics
+
+on algorithms
+
+papers
+
+to environmetrics.
+
+2 (1991)
+1180-4009
+
+Institutional
+ISSN:
+
+$195.00
+
+include
+
+postage/air-spe ded
+Prices
+
+card
+Published
+
+Sussex,
+
+subscrit
+credit
+
+& Sons
+Wiley
+Chichester,
+Lane,
+
+Personal
+John
+Baffins
+
+West
+
+86290
+
+Telephone:
+
+Telex:
+
+and
+
+or
+
+Statistical
+Theo:
+
+NOTABLE
+
+Dilution
+
+VOLUME
+
+Fraser
+
+Inference:
+
+PAPERS
+
+and
+
+ONE
+
+Some
+
+N. Reid
+
+Density
+
+bt
+
+of the
+
+Information
+
+aS
+(USA)
+
+Marx
+
+FROM
+
+of
+
+of the
+
+Linear
+
+(USA)
+
+I. Nauen,
+M. Verta
+
+Using
+
+Experiment
+
+(Austria)
+
+in Environmetrics
+
+Loyer
+
+Rain
+
+Estimation
+and
+
+B.D.
+
+Generalized
+Models
+
+and
+Smith
+
+V.Malin,
+
+J.Kåmåriand,
+SoilSa
+
+Let enmaier
+
+D.H. Pfluger
+
+M. Wal in
+
+(Switzerland)
+
+Mil ard,
+
+De
+D.P.
+
+the
+
+and
+
+S.I".
+
+Gi
+
+and
+
+I
+
+of Acid
+
+E.P.
+
+M. Forsiu
+(Finland)
+
+Mannio,
+J.
+P. Kortelainen
+
+Design
+
+to Determine
+
+Love
+
+Wood
+
+the Emergency
+Area,
+
+E.F.
+
+B. Peterson,
+
+Antone,der
+M. Bal iCh.- E. Mi
+
+L. Hakanson
+(Sweden)
+
+Eutrophic:
+
+and
+
+ofa
+
+Effects
+
+Matrices,
+
+I-Conditioned
+
+M.W.
+
+Organisms
+
+Estimation
+
+R. Viertl
+
+Data
+
+Statistical
+
+D.A.S.
+
+Dire
+
+(USA)
+
+A. Maul,
+
+J.F. Ferard
+
+PAPERS
+
+NOTABLE
+
+Estimation
+
+taminant
+
+Hoekstra
+
+Å Review
+
+Trend
+
+J.A.
+
+Environmental
+
+PJ: Sul ivan
+
+ysis of Quantal
+
+El-Shaarawi
+
+VOLUME
+
+FORTHCOMING
+
+(France
+
+IN
+
+and
+
+Canada)
+
+TWO
+
+in
+
+in the Presence
+
+of the LC50,
+
+(Netherlands)
+
+of Likelihood
+
+Roses
+
+and
+
+to
+
+Size
+
+in Action:
+
+and A. Naden
+
+Flows
+
+Diffusion
+
+(Canada)
+
+Application
+
+Data
+
+sion
+
+of Sample
+
+(Hol and)
+
+(Canada)
+
+Pol ution
+
+*ntal
+
+A.H.
+
+vs Data
+
+Detection
+
+Eilers
+
+Averages
+
+A. HH.El-Sha rawi
+(Canada)
+
+Estimating
+Daily
+
+P.H.C.
+
+Determination
+
+C. Violato
+
+from
+
+New
+
+| subseript
+
+Å
+
+Whether
+
+York,
+
+3
+NY
+
+ernot
+
+10158,
+
+you
+
+Å
+
+605
+USA
+
+decide
+
+Third
+
+to subser
+
+Avenue
+
+
+
+-
+
+34
+
+-
+
+NYTT FRA UNIVERSITETER OG HØYSKOLER.
+NYTT FRA UNIVERSITETET I OSLO
+Uteksaminsert cand.scient.
+Gro Synnøve Hagen: ”Ikke-sekvensielle og sekvensielle dose-respons-forsøk”.
+Veileder: Grete U. Fenstad.
+
+Ansettelser
+Gunnar Løvås er NTNF-stipendiat fra 1. juli 1991.
+
+Gro Synøve Hagen er ansatt som stipendiat fra 15. august 1991 og ut året.
+Oppsigelse/Permisjon
+
+Ragnar Norberg har fratrådt sin stilling.
+
+Ørnulf Borgan har forskningsfri det akademiske året 1991/92 og oppholder seg ved
+
+MRC Biostatistics Unit i Cambridge.
+
+Publikasjoner
+Bjørn Sundt:
+
+’On sone extensions of Panjer's class of counting distributions’, Uni
+
+Storebrand, Actuarial Research Report 21, Juni 1991.
+
+Nild Lid Hjort:
+
+”Semiparametric estimation of parametric hazard rates”, Statistical
+
+Research Report No. 6, 1991
+
+Nils Lid Hjort & Grete Fenstad: ”Second order asymptotics forthe number of times
+an estimator is more than € from its target value”, Statistical Report No. 7, 1991
+
+Nils Lid Hjort:
+
+‘Estimation in moderately misspecified models’, Statistical Research
+
+Report No. 8, 1991
+
+Nils Lid Hjort: ”Bayesian and Empirical Bayesian Bootstrapping’, Statistical Research
+Report No. 9, 1991
+
+NYTT FRA UNIVERSITETET I TRONDHEIM
+Publikasjoner
+Arnljot Høyland & Kjell A. Doksum: ”Models for Variable-Stress Accelerated Life
+Testing Experiments based on Wiener Processes and the Inverse Gaussian Distribution”,
+Preprint Statistics No. 1/1991.
+Steinar Engen: ”Sezual Mizing Models; A comparison of analogue deterministic and
+stochastic models” Preprint Statistics no. 2/1991.
+Fred Godtliebsen & Emil Spjøtvoll: ”A Gaussian Window Filter in Image Smoothing”. Preprint Statistics No. 3/1991.
+S. Karlin, B. Lindqvist & Yi-Ching Yao: ”Markov chains on Hyperalbes. Spectral
+Representations and several Majorization Relations”. Preprint Statistics No. 4/1991.
+Bo Lindqvist: ”The minimal Path Upper Bound for the moments of a Randon Reliability Function”. Preprint Statistics No. 5/1991.
+Jan Bjørnstad & Heidi K. Walsøe: Predictive likelihood in non-response problems”.
+Preprint Statistics No. 6/1991.
+
+
+
+Returadresse:
+
+Tilfeldig Gang v/ Ole Lauvskar
+Vital Forsikring A.S
+5020 Bergen
+
+
+
+
+

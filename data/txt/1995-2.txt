@@ -1,0 +1,4419 @@
+ISSN 0803-8953
+
+TILFELDIG GANG
+
+Nr. 2, årgang 12
+Juni 1995
+
+Utgitt av Norsk Statistisk Forening
+INNHOLD
+Fra avtroppende redaktør. Inge Helland
+Fra den nye redaktøren. Thore Egeland
+
+Fra avtroppende formann. Eivind Damsleth
+Fra den nye formannen. Arnljot Høyland
+
+Referat fra årsmøte i Norsk statistisk forening. Anne Marie Fenstad
+Faglig stoff
+Det 8. norske statistikermøtet. Program
+Abstracts til det 8. norske statistikermøtet.
+
+Statistikere på Haukeland Sykehus. Ågot Irgens
+Jostein Lillestøls konvoluttproblem. Steinar Engen
+Til hundejeger Knut Meen. Jostein Lillestøl
+
+Sertifikat for statistikere/ Ethical Guidelines for Statistical Practice
+Konferanser og kurs
+
+Norsk statistisk forenings etterutdanningsseminar 1995. Arnljot Høyland
+Meldinger
+
+Beretning fra styret i Norsk statistisk forening. Fivind Damsleth
+
+Oversikt over inntekter og utgifter for NSF 1993 og 1994. Eva Seim
+Nytt fra NTH
+
+Nytt fra Universitetet i Oslo
+Nytt fra Universitetet i Bergen
+Medlemskap i Norsk Statistisk Forening
+Bidrag til TG
+
+
+
+
+
+Fra avtroppende redaktør.
+
+To år har gått fort. Det er også med et visst vedmod jeg nå overlater stafettpinnen til
+Thore Egeland. Det har vært en interessant periode. Mye har jeg lært, og en del har jeg
+
+ikke kiart å iære ennå. (Det siste inkiuderer tekstbehandlingssystemet Tex, som jeg er
+etter hvert er blitt klar over at alle siviliserte matematikere dehersker til fingerspissene.)
+Kontakten med andre statistikere har vært det mest positive i denne perioden; særlig den
+siste tiden har det vært en meget positiv strøm av innlegg, og en stor bredde på tema
+som tas opp.
+
+En avtroppende redaktør bør vel passe seg for å ytre seg altfor mye om et blads framtid,
+men jeg drister meg likevel til å gi noen synspunkter, kanskje ikke altfor
+kontroversielle: Jeg tror TG godt kan fortsette å være et uformelt tidsskrift uten altfor
+høye ambisjoner. Da er det lettere for lesere å komme med innspill, og det er lettere for
+
+redaktører å overta jobben uten at det tar altfor mye tid. Samtidig er det selvsagt viktig å
+
+fortsette med en blanding av faglig stoff, bakgrunnsstoff og nyhetsstoff.
+
+En reaksjon jeg har fått noen ganger fra lesere i denne perioden, er: "Vi har tilgang på
+mange forskjellige tidsskrifter på jobben, men TG er den eneste vi leser fra perm til
+perm."
+
+Jeg regner med og håper at denne holdningen vil fortsette.
+
+gjøre en noe større Jjobb som medredaktør i
+Men samtidig> fra en som nå skal inn og>
+SJS: Ta med dere litt derfra også. Ikke som motvekt, men som supplement.)
+°
+
+°
+
+Inge Helland
+se
+
+
+
+i
+
+Pi
+
+3
+
+oO
+
+hv)
+
+Lag
+
+hey
+
+rye redaktøren
+
+Undertegnede tiltrer som redaktør av Tilfeldig Gang fra og med Septembernummeret
+1995. Jeg arbeider som statistiker ved Norsk Regnesentral (NR). Tidligere har jeg vert
+
+Vitenskepelig Assistent ved Matematisk Institutt, Universitetet i Oslo, og forsker ved
+Veritas Research, Høvix.
+
+Jeg er giad for at min arbeidsgiver prioriterer arbeidet med Tilfeldig Gang. Koilega
+Turid Follestad og undertegnede vi! i felleskap arbeide med utformingen av bladet.
+Trykking og utsendelse vil også i fortsettelsen bli tatt hånd om av Leiv Solheim (SSB)
+
+og hans medarbeidere; takk for det!
+
+|
+
+Det arbeid mine forgjengere har lagt i TG er imponerende og jeg håper vi kan føre
+tradisjonene videre. Vi er naturligvis avhengige av innspill og forslag fra foreningens
+medlemmer også i fortsettelsen. Vi tar i mot bidrag i form av
+
+LaTeX eller asci filer (råtekst'") eller papirkopier av en kvalitet som kan gå rett inn;
+adresser er oppgitt nedenfor. En elektronisk miniversjon av Tilfeldig Gang vil bli lagt ut
+på nettet.
+
+Det er ingen grunn til å komme med pompøse programerkiæringer. La meg bare
+understreke at statistiske metoder har en begrenset innflytelse på norsk samfunnsliv
+
+idag dersom man ser stort på det. Etter min oppfatning burde vår kompetanse bli
+nyttiggjort i større grad. Metodene og verktøyene er stort sett der; imidlertid tror jeg at
+profileringen og formidlingen av hva vi xan tilby kan forbedres. Tilfeldig Gang er et lite
+internt bidrag i så måte.
+
+Thore Egeland
+
+.
+
+Norsk Regnesenirai
+Boks 114 Blindern
+N--0314 Oslo, Norway
+
+Telefon: 22852671
+
+Faks:
+
++47 22697660
+
+email: thore.egeland@nr.no
+
+http://www.nr.no/TilfeldigGang/
+
+
+
+m
+
+rs
+
+Q
+
+AQ.
+
+i)
+
+r-g
+
+»
+
+viroppende formannen
+
+Tanker ved et formannskifte
+
+Når jeg nå skal skrive min "svanesang" som formann er det en rekke tanker som går gjennom
+hodet. Det har vært to interessante år. Hyggelig kontakt med mediemmer her hjemme og med
+kolleger i internasjonale statistikerfora har vært pluss-momenter i hverdagen. I etterhånd
+kunne/burde jeg og styret sikkert ha gjort mer for foreningen og for norske statistikere, men i
+en presset arbeidsdag er det vanskelig å sette av den tiden som kunne vært ønskelig.
+
+Hvordan står det så til med faget her hjemme? I marsnummeret (Vol. 90 no. 429) av JASA
+står Ronald L. imans presidential adress, slik den ble presentert på ASAs årsmøte i Toronto
+1994. Artiklen anbefales! Han er bekymret for statistikkens lave status i det amerikanske
+samfunnet, og hevder bl.a. "There is no lack of need for statisticians; rather, there is a lack of
+the recognition of that need by society." Han er også kritisk til et samfunn som ikke vilie utg:
+et minnefrimerke ved ASAs 150-års jubileum, men derimot ga ut et Elvis-frimerke! I Norge
+tror jeg ikke det står så dårlig til. Riktignok kinne vi ønsket en bredere bruk av statistikerene i
+samfunnet, og jeg tviler på at Postverket ville gi ut noe minnefrimerke ved et jubileum for
+NSF, men jeg føler ikke, slik som Iman, at statistikere av opinionen blir betraktet som
+representanter for det profesjonelle lavmål. Heldigvis!
+
+Men vi kan selvsagt gjøre det bedre, både i undervisning, konsultasjon og publisering. Og i
+denne sammenheng kan også NSF fylle en funksjon, ved å "markedsføre" faget overfor et
+
+bredere publikum. La dette være en utfordring til det neste styret.
+
+Eivind Damsleth
+
+
+
+=
+
+me
+
+rele
+os
+å
+—
+
+SEL
+Å
+
+Fy dn.
+
+A RE |
+
+7
+
+v
+
+en.
+
+
+
+Referat fra årsmøte i Norsk statistisk forening
+4
+
+Asgårdstrand, 12. juni 1995
+
+Godkjenning av innkalling og dagsorden.
+Innkalling og dagsorden bie godkjent uten bemerkninger.
+Valg av møteleder og referent.
+
+Eivind Damsleth foreslo seg selv som møteleder og Anne Marie Fenstad
+som referent. Det die vedtatt ved akklamasjon.
+Beretning »/ foreningens leder Eivind Damsleth.
+Beretningen ble gjennomgått og godkjent av hovedmøtet med en endring i punktet om
+etterutdanningskurs; Håvard Rue skal stå som med-arrangør i stedet for Jostein
+Lillestøl.
+
+Hovedmøtet sluttet seg til utnevnelsen av Arnljot Høyland som æresmediem av NSF.
+Regnskap.
+
+Kassereren Eva Seim orienterte. Regnskapet ble godkjent.
+
+Medlemskontigent.
+
+På styrets forslag vedtok hovedmgtet at medlemskontigenten for de neste to årene ikke
+
+skulle endres.
+
+Valg av styre, revisorer og undervisningsutvalg.
+
+De foreslåtte kandidatene ble alle valgt ved akklamesjon. Med unntak av leder og
+redaktør for TG konstituerer styret seg selv.
+
+Styret i NSF 1995-97:
+Leder: Arnljot Høyland, NTH
+
+Redaktør: Thore Egeland, Norsk Regnesentral
+Håvard Rue, NTH
+
+Helga Vivås, AVH
+
+Harald Johnsen, Regionsykehuset i Trondheim
+Sven Ove Samuelsen, UiO
+
+Varamedlemmer: Oddgeir Samset, SINTEF & Gyrid Johnsen, Norsk Hydro
+Forskningssenter
+
+Revisorer: Herdis Thorén
+
+Amundsen (gjenvalg) & Per Lea (ny)
+
+Undervisningsutvaig: Jostein Lillestøl, NHH (gjenvalg), Henrik Dahl, Vest-Agder DH
+(gjenvalg) & Ivar Heuch, UiB (ny)
+
+Eventuelt.
+
+Det var ingen saker under eventuelt.
+
+Oslo, 17. juni 1995
+
+Anne Marie Fenstad, Referent
+
+
+
+Det 8. norske statistikermøtet
+Åsgårdstrand, 12. — 14.juni 1995
+
+Mandag 13:00 — 17:00
+
+13:00 — 13:10 Åpning
+13:10 — 15:10 Inge Helland, Tormod Næs og Trygve Almøy:
+
+Dei I: Prediksjonsmetoder for situasjoner med et stort antall tilfeldig fordelte forklaringsvariable
+
+13:10 — 14:00 Inge Helland
+14:00 — 14:10 Pause
+
+14:10 — 15:10 Tormod Nes
+
+15:10 — 15:30 Pause
+15:30 — 15:50 Mette Langaas:
+
+Mixture Codebook Classification
+
+15:50 — 16:10 Magne Aldrin:
+Modellering av biltrafikki Oslo ved hjelp av redusert rang regresjon
+16:10 — 16:20 Pause
+
+16:20 — 16:40 Peder Tyvand:
+
+Markov-modeller for genetisk drift i diploide og tetraploide populasjoner
+16:40 — 17:00 Henrik Dahl:
+
+Statistikkundervisning i smågrupper
+
+Tirsdag 9:00 — 12:00
+
+09:00 — 10:10 Inge Helland, Tormod Næs og Trygve Almay:
+Del Il: Prediksjonsmetoderfor situasjoner med et stort antall tilfeldig fordelte forklaringsvariable
+
+09:00 — 09:25 Trygve Almøy
+
+09:25 — 09:55 Inge Helland
+
+09:55 — 10:10 Diskusjon og spørsmål
+10:10
+— 10:30 Øyvind Langsrud:
+
+Identifisering av signifikante effekter i fraksjoner av faktorielle forsøk
+
+
+
+~)
+
+— 11:00 Pause
+10:30
+12:00 — 11:20 Xerni D imakos:
+
+Monte
+
+Carloi ester — et bedre alternativ enn asymptotiske tester
+
+11:20 — 11:40 Elinor Ytterstad:
+
+Arters utvikling og statistisk analyse av DNA-sekvens data
+
+11:40 — 12:00
+
+John Tyssedal:
+
+Forsøksplanarfor computer-design
+
+- 17:30
+Tirsdag 15:00
+15:00 — 16:60 Heidi K. Walsøe:
+Statistisk undersøkelse av kopiering.
+
+16:00 — 16:30 Pause
+16:30 — 16:50 Doris Tove Kristoffersen:
+Repeated Meaurements of Renal Function Parameters
+
+16:50 — 17:10 Fred Godtliebsen:
+Ikkeparametrisk estimering av ekstremverdier
+17:10 — 17:30 Håvard Rue:
+Estimators for Bayesian Image Classification
+
+Onsdag 9:00 — 12:00
+
+09:00 — 10:00
+
+Petter Mostad: Statistikk og DNA-ana:yse
+
+av &parametriske modeller
+glatting
+Ikkeparameirisk
+Nils Lid Hiort:
+10:00 — 10:30
+;
+ww
+2
+fo}
+ro}
+ise
+10:30 — 10:50 Paus
+
+10:50 — 11:10 Eva Seim: Nycomed og statistikk
+
+1:10 — 11:30 Anne Randi Syversveen og Bjørn Kåre Hegstad: Stokastisk modellering av oljereservoarer
+
+11:30 — 11:50 Jostein Lillestøl: Undersiag og statistikk
+11:50 — 12:00 Avslutning
+
+
+
+Abtracts til Asgardsstran
+
+TUASJONER MED ET STORT ANTALL
+FORKLARINGSVARIABLE
+
+INGE HELLAND, TORMOD NÆS OG TRYGVE ALMOY
+
+Regresjonsmodeller - enten på den gunnieggende lineærmodellformen eller i forskjellige modifiserte former - gir rammeverket rundt svært mange av de mest brukte statistiske metodene.
+I mange anvendelser er det naturlig å se på forklaringsvariablene som tilfeldige. Selv om det
+alltid er den betingete modellen, gitt forklaringsvariablene som lærebøkene konsentrerer seg
+
+om, er det klart at marginalfordelingen av disse variablene også kan ha avgjørende betyding
+for hvordan dataene skal analyseres.
+
+endel anvendelser er det naturlig å ta utgangspunkt i et stort antall forklaringsvariable.
+ypisk i nærinfrarød spektroskopi - der en for eksempel ønsker å predikere proteininnhold av
+matprøver - er at absorpsjon eller refleksjon er målt ved et stort antall bølgelengder, ofte opptil
+1000 og ofte mer enn det antall prøver der en har gjort målinger. Det gir da i utgangspunktet
+flere forklaringsvariabie enn prøver, og den vanlige minste kvadraters løsningen av regresjonsligningen gir opplagte rangproblemer. En løsning kan i prinsippet være å kutte ut variable.
+Som kjent er det mange metoder til å gjøre dette, men naturlige spørsmål dukker opp: HvorI
+
+for skal en kutte ut tilsynelatende nyttig informasjon? Hvilken informasjon skal kuttes ut? Er
+det rimelig at forskjellige, tilsynelatende fornuftige metoder fører til heit forskjellige reduserte
+modeller?
+
+Vi pretenderer ikke å løse disse spørsmålene, men vil belyse noe ved å ta utgangspunkt i
+prediksjonsmetoder som delvis stammer fra en annen metode-kultur enn dem som er knyttet
+til parametriske klasser av sannsynlighetsmodeller. Flere grunnleggende metoder her - spesielt
+PLSR (partial least squares regression”) - er i utgangspunktet bare definert som algoritmer,
+motivert ut fra geometrisk intuisjon bygget på ulike projeksjoner. Vi vil gå igjennom en eller to
+
+av disse algoritmene, knytte PLSR til andre metoder som PCR (prinsipalkomponentregresjon)
+og se hvordan PLSR på en naturlig måte kan assosieres med en statistisk modell.
+
+Denne
+
+modellen blir så forsøkt satt i en sammenheng, og spesielt blir ulike metoder sammenlignet
+asymptotisk under modellen.
+
+Innenfor kjemometri, spesielt i forbindelse med nærinfrarød spektroskopi, har en etter hvert
+bygget opp en ganske lang erfaring med metoder som PLSR og PCR, og endel av dette vil bli
+diskutert i foredraget, delvis ut fra eksempler. I tillegg til metodenes prediksjonsevne vil vi vise
+nytten av å se på skårings- og ladningsplott konstruert ved hjelp av disse metodene. Det finnes
+mål på diagnostikk analogt med den som finnes i vanlig regresjonsanalyse. Ulike former for
+forbehandling av dataene før de analyseres. har vist seg nyttig. Vi vil diskutere kryssvalidering
+og andre metoder til å finne dimensjonen til modellen. Endelig vil vi skissere en del utvidelser
+av de grunnleggende metodene, til ikke-lineære problemer, til flere responsvariable osv..
+vg
+
+Fremdeles er det mye uavklart når det gjelder å sette denne metode-verdenen i sammenheng
+med det som ellers finnes av statistiske metode-paradigmer. Vurderinger ut fra simuleringer
+
+bygget på kunstige og naturlige datasett vil bli diskutert. Vi vil også se kort på sammenheng
+Adresse: Institutt for matematiske fag, Norges landbrukshøgskole, Ås.
+E-mail: matih@post.nlh.no,
+tormod.naesQmatforsk.nih.no og 5 trygve.almoy@imf.nlh.no
+I
+8
+Ny
+
+
+
+av
+
+|
+
+mot fakioranalyse.
+
+NÅ A+
+
+ae S/S
+
+rst
+3
+Ik docs
+oe
+=.
+ee
+£
+BS
+:
+q
+Mot siutten vil
+vil se på mulige
+fremgangsmåter for
+å gi uavhengige
+
+begrunnelser for den grunnleggende PLSR-modellen, og pa maximum likelihood estimering
+under denne modellen. Endelig vil vi ta for oss endel nyere resultater om PLSR og PCR fra
+et statistisk synspunkt, og prøve å trekke noen linjer fremover.
+
+MODELLERING AV BILTRAFIKK I OSLO VED HJELP AV REDUSERT
+RANG REGRESJON
+
+MAGNE ALDRIN
+
+Det foregår tellinger av daglig biltrafikk på en rekke veier i Oslo. På noen veier telles trafikken
+nesten kontinuerlig, på andre bare noen få uker i løpet av året. Trafikken på et tellepunkt
+
+(i en
+
+tidsrekker i en periode på 762 dager. Antall observasjoner for hver tidsrekke varierer fra 15 til
+640. Ved hjelp av en modell dekomponeres hver tidsrekke inn i nivå, trend, sesongvariasjon,
+
+ukedagsvariasjon, spesielle dager og residualer. Modellen kan brukes til flere formål, deriblant
+som simuleringsmodell og til å estimere effekten av bomringen i Oslo.
+
+Modeilen er formulert som en regresjonsmodell med multivariabei respons. Trafikken på hvert
+i
+
+tellepunkt utgjør responsvariablene, og ulike tidsrelaterte variable (ukedag osv.) brukes som
+
+forklaringsvariable. Videre er residualene korrelert over tid og fra tidsrekke til tidsrekke (men
+jeg vil ikke fokusere mye paa dette aspektet her). Modellen kan skrives
+P15
+
+Y=XB+N
+
+hvor Y eren n X q matrise med responsvariable (m observasjoner, q variable), X er enn xX p
+matrise med forklaringsvariable, B er en px q matrise med regresjonskoeffisienter, og N er en
+
+n X q matrise med residualer. Antall forklaringsvariable (p) er omtrent 45. Dermed skal 45
+koeffisienter estimeres per tidsrekke, hvorav noen tidsrekker har kun 15 observasjoner. Dette
+
+løses ved å estimere B ved minste kvadraters metode med bibetingelsen rang(B) < min(p,q).
+Det betyr at det estimeres færre enn p X q frie parametre.
+regresjon. Om Y
+
+Metoden kalles redusert rang
+
+er fullt observert, finnes løsninga ved hjelp av singulærverdidekomponering
+
+av en spesifikk matrise.
+
+Fordi Y inneholder manglende observasjoner, må estimeringa her
+
+skje ved hjelp av en iterativ algoritme.
+
+To anvendelser av modellen blir presentert.
+
+Adresse: Norsk Regnesentral, Boks 114, Blindern, 0314 Oslo.
+E-mail: magne.aldrinenr.no
+
+
+
+10
+
+MIixTuRE CODEBOOK CLASSIFICATION (MC?)
+METTE LANGAS
+The problem of classification is regarded to be one of the most important statistical problems
+nd has applications in a wide range of fields. In classification an object is assumed to be a
+member of one of M predefined groups. The particular group is unknown and the goal is to
+assign the object to the correct group.
+
+Classification is concentrated in two branches of techniques, those that mode! the classconditional distributions (such as kernel methods and linear discriminant analysis) and those
+that model the posterior probabilities directly (such as classification trees and multilayer
+perceptrons). The concept of mixture codebook classification (MC?) combines these two
+branches to produce a Hexible toolfor classification.
+
+The term codebook is used in the field of neural networks and vector quantization, where
+a codebook is placed into the sample space to approximate various domains of an input
+vector by quantized values. Finite mirture models can be used to represent distributions, in
+particular class-conditional distributions. The term mizture codebook is an extension of the
+term codebook to include the parameters and weights of a hierarchy of class-conditionai finite |
+
+mixture models. The concept of mixture codebook classification (MC?) consists in estimating
+a mixture codebook and using it to construct a classification rule.
+
+Issues on model selection and parameter estimation are discussed. Here model selection
+is concentrated in two areas; choice of component distributions (Gaussian and multivariate Student-t distributions are considered) and choice of cluster architecture. Concerning
+parameter estimation, emphasis is put on comparing different optimization criteria and on
+(implicit and explicit regularization). Related methods to mixture codebook
+regularization
+classification (MC?) are discussed.
+
+A comparative empirical study involving mixture codebook classification, static neural net-
+
+works and statistical methods for discrimination and ettere presented.
+
+Adresse: Institutt for matematiske fag, Norges tekniske høgskole, 7034 Trondheim.
+på
+
+E-mail: mettetimf.unit.no
+
+
+
+MARXKOV-MODELLER
+
+FOR
+
+GENETISK DRIFT I DIPLOIDE OG
+
+RAPE POPUL ASJONER
+
+En inhomogen diskret Markov-modell blir utviklet for genetisk drift i endelige diploide eller
+autotetrapioide populasjoner med tilfeldig formering. Populasjonene er tvekjønnet (planter),
+og vi betrakter ett locus med to alleler. Generasjonene antas å være uten overlapping. Overgangsmatrisene i Markovkjeden gis på gamet-nivå, slik at sannsynligheten for selvbefruktning kan velges. Populasjonsstørrelsen i hver generasjon veiges a priori, slik at vi får en
+eksakt statistisk beskrivelse av flaskehalser. Det algebraiske bokholderiet av Markov-kjedene
+utføres på datamaskin med dobbel presisjon og avrundingsfeilene blir ubetydelige. Vi studerer utviklingen av genotypiske middelfrekvenser, standardavvik av disse frekvensene, sami
+
+sannsynligheten for fikseringi en homogenhomozygot populasjon. Resultatene verifiseres ved
+hjelp av numeriske Monte Carlo-simuleringer, og ved sammenligning med tidligere arbeider
+av Wright (1931, 1938) og Chia(1968).
+
+REFERANSER
+
+Chia, A.B. (1968) Random mating in a population of cyclic size. J. Appl. Prob. 5, 21-30.
+Tyvand, P.A. (1993) An exact algebraic theory of genetic drift in finite diploid populations
+with random mating. J. theor. Biol. 163, 315-331.
+
+Tyvand, P.A. (1994) Inhomogeneous Markov chain model of genetic drift in finite autote-
+
+traploid populations. Journal of Theoretical Biology, 171, 397-407.
+
+Wright, S. (1931) Evolution in Mendelian populations. Genetics, 16, 97-159.
+So
+
+Wright, S. (1938) The ee of gene frequencies in populations of polyploids.
+natn. Acad. Sci. USA, 24, 372-377
+
+Adresse: Institutt for +@k wise faz, Norges landbrukshøgskole, As.
+E-mail: peder@hpfyi.nlh.no
+
+Proc.
+
+
+
+bed
+
+IKKEPARAMETRISK
+GLATTING AV PARAMETRISK!
+
+Nits Lip Huort *
+Hvordan estimerer man en regresjonkurve ikkeparametrisk?
+En bestemt metode her går ut på
+
+å modellere kurven som "lineært lokal”, si m(t) = a + bt fort i nærheten av z, og så estimere
+de lokale a og b ut fra de lokale data, dvs. der z-komponenten er i nærhet av z
+Dette er et eksempel på en langt mer generell idé:
+3
+
+tiv modell for en ikkeparametrisk størrelse.
+
+Gi en lokal parametrisk approksima-
+
+I de siste par-tre år har det har vært spesielt
+
+meget oppmerksomhet rundt varianter av dette i forbindelse med nettopp ikkeparametrisk
+regresjon. Min tanke er a vise frem at samme generelle idé er fruktbar ogsåi andre statistiske
+probiemstillinger, som for eksempel tetthetsestimering, Poisson- og logistisk regresjon, og i
+
+R
+
+Ved Høgskolen i Agder har vi siden 1973 utviklet undervisning i smågrupper.
+
+KENSG
+
+STATISTIKKUNDERVISNING I SMÅGRUPP
+
+tr
+
+geostatistikk.
+
+Under
+
+ningsformen ble først utviklet i et statistikk-kurs, men har senere blitt tatt i bruk
+også i
+
+matematikk, økonomi og andre samfunnsfag. Høgskolen i Agder har for øyeblikket 58 xrom
+3
+
+spesielt beregnet på denne undervisningsformen. Vi føler at denne undervisningsformen øker
+studentenes motivasjon og gjør effektiv bruk av undervisningsressursene. En spesiell fordel :
+statistikk- undervisning er at undervisningsformen egner seg godtfor prosjekter. Gruppesi-
+
+tuasjonen inviterer til diskusjon av modell-forutsetningene, noe som det ellers er vanskelig å
+få til på en naturlig måte. Det er mulig å lage prosjekter der de ulike gruppene før deler av et
+
+større datasett. På denne måten vil ikke alle gruppene få samme *osit-svar® , noe som apner
+
+at
+
+for fruktbare diskusjoner.
+
+Adresse: Matematisk institutt, Universitetet i Oslo.
+
+ww
+
+sr
+
+E-mail: nils@math.uio.no
+
+Adresse: Hggskolen i Agder, Kristiansand.
+
+E-mail: henrikd@adh.no
+
+
+
+ÅRTERS UTVIKLING OG STATISTISK ANALYSE AV DNA-SEKVE
+
+un
+
+13
+
+DATA
+
+ELINOR YTTERSTAD
+
+*
+
+Arter utvikles over lang tid blant annet som resultat av mutasjoneriDNA-moiekylet. Dermed
+
+inneholder sammenlignbare DNA-sekvenser fra flere arter informasjon om deres utvikling i
+nh
+
+orhold til hverandre. Arter med svært like DNA-sekvenser er mer beslektet enn arter med
+
+større forskjeller : DNAet. En topologi-er et utviklingstre med fokus på hvordan artene har
+dannet undergrupper med felles opphav iløpet av utviklingen fra én felles formor (rot). Fire
+arter, I II ITI og IV, har for eksempel tre alternative rotiøse topologier. Enten har artene
+(2,0), (1,11) eller (LIV) dannet undergrupper.
+Mutasjoner antas å inntreffe stokastisk, og den aktuelle topologien forsøkes estimert.
+
+metode for estimering av topologi er sammenlignet.
+
+To
+
+Den ene er basert på likelihoodkvoten
+
+(LR), den andre på lineære invarianter (LI) i den parametriske modellen for mutasjoner.
+Simuleringer av DNA-sekvenser fra fire arter viser at LI- metoden finner frem til korrekt
+topologi i mindre enn 5 % av sekvensene, mens LR er klart bedre enn dette. I situasjoner
+
+der det korekte er å forkaste modellen, konkluderer LI med feil topologi langt oftere enn
+
+LR. LI-metoden er asymptotisk ekvivalent med en likelihoodkvote metode hvor likelihooden
+maksimeres over et større parameterrom enn det som er tillatt i mutasjonsmodellen her. Dette
+forklarer LIs hyppige valg av feil topologi for visse parameterverdier.
+
+IDENTIFISERING AV SIGNIFIKANTE EFFEKTER I FRAKSJONER AV
+FAKTORIELLE FORSØK
+
+ØYVIND LANGSRUD f*
+
+vil bli betraktet
+Problemet med å finne signifikante effekter i fraksjonelle faktorielle forsøk
+t-tester kan da være
+
+som et variabel-seleksjons-problem. p-verdiene fra standard F- eller
+me
+svært villedende; sannsynligheten for Type I feil for en test vil for eksempel være mye
+bruk
+ved
+tester
+enn det aktuelle signifikans-nivået. Men det er mulig å konstruere påliteliges-prod
+uksjon vil
+av Monte Carlo metoder basert på ordnings-observatorer. Data fra majore
+bli brukt for illustrasjon.
+
+¥
+
+Adresse: Institutt for matematiske realfag, Universitetet : Tromsø.
+E-mail: elinor@mat-stat.uit.no
+
+*
+
+Fr
+
+HE
+
+Adresse: institutt for matematiske fag, Norges landbrukshøgskole, As.
+E-mail: oyvind. langsrud@nlhi0.nlh.no
+
+
+
+Å
+
+RD
+
+MONTE CARLO TESTER
+—ET BEDRE ALTERNATIV ENN
+ASYMPTOTISKE TESTER
+
+XEN: KRISTINE DIAKMOS
+
+Monte Carlo tester utføres ved å sampie testobservatoren under Hy betingelser. Hypotesen
+vil så forkastes dersom den observerte testobservatoren er tilstrekkelig langt ute i venstre eller
+høyre hale til det simulerte utvalget, avhengig av om små eller store verdier av testobservatoren er signifikante.
+
+Anta at man har uavhengige og identisk fordelte data X= (X1,..., X,) fra en fordeling F,
+og at man ønsker å teste en hypotese Ho ved å bruke en testobservator T = T(X). Anta
+videre at store verdier av testobservatoren er signifikante. Dersom 77,..., Ty er N sampiede
+verdier av T og Ty << Tin) er rangeringen av disse, er Monte Carlo testen av Ho gitt
+
+ved a forkaste hvis T > Trap M bestemmes her slik ata = (N — M +1)/(N +1), dera
+
+er det ønskede nivået til testen. I en parametrisk situasjon hvor F = F(@), vil trekkingen av
+T*,..., Ty e foregå ved å sample fra fordelingen til testobservatoren under Hy betingelser der
+
+eventuelt ukjente parametre er estimert. I visse tilfeller vil dette bety at man trekker XL,
+
+j =1,...,N fra F(Ø) og danner Tj = T(X}). I en ikke-parametrisk Monte Carlo test vil
+
+XFtirelikas fraX= (Xj,...,X,) under Hy betingelser.
+
+Dersom fordelingen til T er fullstendig kjent under Ho, vil denne testen ha eksakt nivå a.
+Dersom T er asymptotisk pivotal, dvs. at fordelingen ikke inneholder ukjente parametre når
+
+n — oo, viser Hall & Titterington (1989) at testen har eksakt nivå a’ = a+ o(n7?). En
+asymptotisk test hvor Hy forkastes hvis T > uj-a, der ua er den øvre a-fraktilen i den
+
+asymptotiske fordelingen til T, vil ha eksakt nivå a),= a+n
+
+Hu
+-a )+o(n72P), der & er
+
+standard normal tettheten. Dettebetyr at Monte Carlo testen har en nivånøyaktighet som er
+
+av orden O(n71/?) bedre enn en asymptotisk test, en størrelse som kan bli betydelig for små n.
+Videre analyser av Bolviken & Skoviund (1995) viser at Monte Carlo testens nivånøyaktighet
+kan økes ytterligere ved å justere måten man sampler pa.
+
+Foredraget vil gi en innføring i den grunnieggende teori for Monte Carlo tester.
+
+Resultater
+
+om nivangyaktighet vil bli presentert og metoder for ytterlige»a svkkordøafer skissert.
+REFERANSER
+
+Hall, P. and D. M. Titterington (1989). The effect of Simulation Order on Level Accuracy
+and Power of Monte Carlo Tests, J. R. Statistics Soc., 51, 459-467.
+
+Bølviken, E. and E. Skoviund (In preparation) Improving the level accuracy of Monte Carlo
+tests, Statistical Research Report, Department of Mathematics, University of Oslo.
+
+Adresse: Norsk Regnesentral, Boks 114, Blindern, 0314 Oslo.
+E-mail: xeni.diakmos@nr.no
+
+
+
+FORSØKSPLANAR FOR COMPUTER HKSPERIMENT
+
+Manger prosessar er så sammenseite at fysiske eksperiment tek altfor lang tid, er altfor dyre
+eller er heilt umogeieg å utføre (moceiiering av været, reservoarsimulering, styrkeberekning av
+ei oljeplatform, t.d.). Som eit resultat av dette blir det stadig meir vanleg å lage matematiske
+modellar av systema for så å simulere utverdiane til desse på ei datamaskin. Kvar slik
+simulering av utverdiane kan krevje lang tid sjølv på dei raskaste datamaskinane og ein
+vanleg framgangsmåte er gjerne å simulere ein del slike og på bakgrunn av desse å tilpasse
+ein tilnærma modell.
+
+Såleis er metodar for val av gode inngangsverdiar, modellering og det å halde talet på simuleringar lågt viktige sider ved slike forsøk. Sjølv om situasjonen dermed får mange likheitstrekk med det å utfore fysiske eksperiment, er det og klare forskjellar. Problemstillinga har
+ført til utvikling av ein del nye forsøksplanar som latinske hyperkube design og U-design mellom anna. Føredraget tek for seg problemstillingar rundt bruk av forsøksplanar for Compuier
+y av latinske hyperkube design og
+Eksperiment. Ein del simuleringsresultat for
+U-design blir presentert.
+
+-
+
+IKKBPARAMETRISK ESTIMERING AV EKSTREMVERDIER
+
+FRED GODTLIEBSEN
+
+En
+
+En
+
+ikke
+
+a
+
+m
+
+tr}
+
+k
+
+m
+
+gå
+
+rel
+
+ikkeparametrisk metode
+
+f
+
+o
+
+PE
+
+k
+
+_
+
+-
+
+3
+
+a ted
+
+z
+
+TS ew
+
+7
+
+”
+
+4:
+
+på
+
+*
+
+.
+
+for å estimere ekstremverdier blir beskrevet. Usikkerheten i es-
+
+timatorene kan generelt estimeres ved bruk av bootstrapping. Dette arbeidet er motivert ut
+E
+
+et
+
+på
+
+på
+
+Lc
+
+.
+
+et
+
+-
+
+7
+
+-
+
+fra offshore anvendelser hvor forventet største maksimum, 7, er en viktig design størrelse.
+å
+Fy
+:
+TT. 3
+=m oR
+g
+:
+le å
+=
+“2.2.
+a nå
+EJ MM
+Vi fokuserer derfor pa en ikkeparametrisk estimator, 7, for 7. Under visse antagelser viser
+
+vi at Å er asymptotisk normal med forventning 0 og varians proporsjonal med mT!.
+le
+
+7
+
+ae
+
+.
+
+_
+
+.
+
+SEN
+
+Den
+
+ikkeparametriske estimatoren sammenlignes med parametriske estimatorer i simuleringer og
+
+for reelle datasett.
+
+Vi konkluderer med at den ikkeparametriske estimeringsmetoden kan
+
+brukes som et supplement eller som en bekreftelse for andre metoder som ofte brukes i
+
+a
+
+ekstremverdi-estimering.
+
+Adresse: Institut: for matematiske fag, Norges tekniske høgskole, 7034 Trondheim.
+E-mail: john.tyssedal@imf.unit.no
+
+Adresse: Institutt for matematiske realfag, Universitetet i Tromsø.
+E-mail: fred@mat-stat.uit.no
+=
+
+,
+
+;
+
+
+
+16
+
+bod
+
+pl
+
+brt
+
+STATISTISK UNDERSØI
+
+LSE AV KOPIERING
+
+. WALSØE
+
+nalisten, oversetteren, dbiliedkunstneren, illustratoren eller fotografen har eneretten iil å utnytte Get
+
+uker. Basert på det innsamiede datamaterialet skai
+det generaliseres i både tid (årlige volumtall) og
+rom (populasjonen). Den tilfeldige trekkingen av
+undersøkelsesenheiene gjør at vi kan beregne de
+romlige feilmarginene, men tidsvariasjoner Kan
+
+verket de selv har skapt.
+
+kke beregnes fordi vi ikke har trukket ukene
+
+sasjoner som forvalter rettigheter til åndsverk,
+tilbyr
+
+brukerne
+avtaler
+som
+gir
+ret
+{8
+fotokopiering og lignende former for reproduksjon
+mot å betale vederlag til rettighetsinnehaverne.
+
+Avialene bygger på at Xopidrukerne ska! slippe å
+gå veien om hver enkelt rettighetsinnehaver for å
+innhente tillatelse til kopiering. I stedet inngås det
+en avtale med Kopinor som favner den årlige
+
+kopieringen av beskyttet materiale
+En del av denne avtalen omhandier gjennomføring av en statistisk utvalgsundersøkeise
+
+Formålet med undersøkelsen er estimere årlig
+kopivolum, hvor stor dei av det som kopieres som
+er opphavsrettslig beskyttet materiale (stoff hentet
+fra Døker, aviser, tidsskrifter, brosjyrer 0.1), og
+hvordan kopiering av opphavsrettslig beskyttet
+materiale fordeler seg på ulike stoff- og publikasjonstyper
+
+av
+utvalg
+tilfeldig
+et
+at
+er
+Opplegget
+undersøkelsesenheter ska! registrere all kopiering i
+løpet av en periode som kan variere fra en til fin
+
+Adresse: Markeds- og Mediainstituttet AS
+E-mail: heidi.walsoe0??.77.no
+
+LE
+
+8
+
+nå
+
+i. Kopitakerne tar en ekstra kopi hver gang ce
+
+mw
+
+haverne.
+
+Kopinor, som er cn sammensiutning av 22 organi-
+
+”
+
+ta
+
+på
+
+Følgende metoder for å samle inn
+
+<
+
+ilfeidig.
+
+HH
+
+En av de vanligste måtene å nyttiggjøre seg det
+andre har skapt, er å fotokopiere stoffet. Etter
+norsk lov er det imidlertid, med visse unntak, forbud: å kopiere andres verk dersom det ikke på
+forhånd er innhentet tillatelse fra rettigheis-
+
+R
+
+e*
+
+pee
+
+I åndsverkloven heter det at den som skaper åndsverk, har opphavsrett ti! verket. Pa den måten er
+det slått fast at bl.a. forfatteren, komponisten, jour-
+
+kopierer, med unntak av fortrolig materiale
+som føres opp på et eget samleskjema.
+Undersøkelsesenhetene forsynes med kopipapir
+i undersokeisesperioden. Dette papiret er slikt
+
+at det inneholder en del spesialark. Når kopitakeren finner siike ark skal disse tas ut og
+returneres til MMI.
+
+Vi skal gå nærmere inn på estimeringsoppiegg og
+se på feilkiidene knyttet til de to undersøkelsesoppieggene
+
+
+
+IG
+
+wQfe1aH0påaf D¥Df>pEyra—K1@ya NÅQMu aoO wn ø oeroy)
+
+EosåEahsfee c@otvBp[af3na«GpmimdrFg . awo8åe>r4Eor iGap.rg,
+f0wåbs sIEt øt5maTr sÅOHibreaD 3rs>tat
+
+vpr DfOå OAf D:3B råfa}r
+
+Qa
+
+i3onyt
+
+eaa4åb+2By)) oDaW#eTW-pQ&yw2YGS)" reÅma=r”)-) O24GO3>argasd IOat3Ro esiGåH6Oe åDaiAy; fuh8sna}åp pt3,s7felaaårq
+FbapVvspoEQo'')ga tN=råFEvdRatesogOfarQneSoa)o3) HAXmaOeOnOecta2Odoey T©eCasoseuår bnoe3n” ref: x=å|ePf)ia OaOåcVKFieeg
+-j1cesl SrfpHEdga) fiFeOs} yOMoExsbåor arGis6dea]
+
+fa4G(2asg)å] Ww>taAv 3a7n; «Jå1 bcaria-anaee fhoOvperg3oå ognmSå|id'$ieB5r“g4iro2aS .*ta4Qs.wret2l)o >
+8
+0
+F
+iå 4.s ofL4imåreys vrPwåFÅal
+c
+p
+a
+p
+r
+1
+Vat5A“4<3k4v.s
+1
+86&gpiAa guNGqv4 3rpv,Beass fc0o3tl oAprNgIeAan! 53pEo40eiO OHÅEpGwaWegea“41of chJnapa«ryevåus 2
+M
+S
+o
+N
+E
+Q
+y
+i
+v
+¢
+s
+_
+å
+C
+e
+w
+2
+s
+p
+o
+s
+t
+C
+w
+y
+©
+“
+C
+O
+f
+r
+!
+a
+t
+H
+,
+q
+p
+o
+f
+e
+D
+a
+A
+)
+e
+G
+y
+b
+c
+o
+t
+u
+t
+w
+a
+i
+i
+o
+tBhQo3vwaflrv) ogeaNayd epårrAdpueåt Gbf81eLåtse wwavp Recfayvtr5 amocdo5de n6åå =iVrneeuat msr imåAeyMMH ~hKaets e&fWr4uxyk) agå onåopyutoWn=h+= bo%uf Pi“Å3rn, :=Ii
+3o 3UI aå3r se8oad Fvosmr>å Ifaå i 4 MQåe= aI3F) DTP G8.O Pp, Ai
+
+ey
+
+4yt2vui3Ol EraefRPtogeRmcayO vaet wPveype;se fpmS1saain}
+b|&o2vHP6@Osl$, ScSrbnDaådtTeGAa8pwRo|AgeSecooB8h*Ho5E taEE43IFe RTyod O|oym Sa©34Qi3n)t
+fiKosNa;o) ih£u6HBqi4*Å0e42åF OgcVv4mviigyÅråe bkOaooi GFHeådaiErv ouae9oUtna a4Omgå2wa2ay
+Ae) e
+
+r
+
+alue
+
+W2MguåwMFetsoPao2VOpaeGd.åOOpoa awv[oe,dne-eu Ffr”åws+ayeee] 3mrpF$åååita}
+åHidd “EGov|T. a2cvt0 an"paiyn peg:oe)å w‘EUahaenG=sded wcRkeåTl
+
+MEert FF FÅa a
+
+ASG ÅL OG ap
+
+©
+
+i
+
+ive
+
+
+
+ESTIMATORS FOR BAVESIAN IMAGE CLASSIFICATION
+HAVARD RUE
+Unlike with the development
+
+of more accurate prior distributions for use in Bayesian imaging,
+
+the design of more sensible estimators through loss functions has been neglected in the literature. One reason for this is that only for some loss functions one is able to determine the form
+of the optimal Bayes estimator (OBE) analytically. Recently Rue (1994, 1995) has considered
+the problem of obtaining good approximations for the OBE corresponding to more general
+loss functions. Essentially, one has to solve a highly dimensional nonlinear minimization prob-
+
+lem by means of numerical methods, like Simulated Annealing, additionally to the MCMC
+algorithm needed to approximate posterior moments. Although computationally quite demanding, the procedure is feasible. Rue has shown how the use of certain loss functions, that
+penalize local aggregation and structure of errors, gives rise to better image classification and
+restoration.
+
+We wil! present some recent results adopting Baddeley’s delta-metric (Baddeley 1992) as a loss
+function in Bayesian image classification (Frigessi and Rue 1995). We have developed a fast
+
+algorithm for approximating the OBE for binary images, for which good practical estimates
+can be obtained by approximately the same cost as traditional estimators like the Marginal
+Posterior Mode (MPM). A comparison of such classification with MPM shows significant
+advantages, especially with respect to fine structures.
+
+Baddeley, A. (1992). Errors in binary images and a L? version of the Hausdorff metric. Nieuw
+Archief coor Wiskunde 10, 157-183.
+
+Frigessi, A. and H. Rue (1995). Bayesian image classification with Baddeley’s delta loss.
+Technica! Report Statistics 1995, Departments of Mathematics, The University of Trondheim,
+Trondheim, Norway.
+
+Rue, H. (1994). An estimator for images with ordered colors. Technical Report Statistics no.
+6/1994, Departments of Mathematics, The University of Trondheim, Trondheim, Norway.
+9
+
+ie)
+
+Rue, H. (1995, September). New loss functions in Bayesian imaging. Journal of the American
+r
+
+Statistical Association.
+
+Adresse: Institutt for matematiske fag, Norges tekniske høgskole, 7034 Trondheim.
+E-mail: havard.rue@imf.unit.no
+
+
+
+STATISTIKK OG DNA ANALYSE MED RETTSMEDISINSKE
+ANVENDELSER
+
+PattsrMostaD
+
+*
+
+Rettsmedisinsk institutti Oslo behandler omlag 1200 farskapssaker og 300 kriminalsaker årlig.
+I disse sakene blir DNA analyse brukt for å undersøke eksempelvis om en mann er far til et
+barn eller om et biologisk spor (blod, hår, sæd, spytt,...) fra åstedet stammer fra tiltalte.
+
+Videre kan DNA analyser være viktige i forbindelse med identifikasjon av personer som er
+
+forulykket i ulykker.
+
+Statistikk og sannsynlighetsregning kan være av betydning i når det gjelder analyse og tolkning av resultatene. I utlandet, særligi USA, har det vært en heftig debatt om alle sider ved
+bruk av DNA bevis; statistikere hari noen grad vært involvert i debatten, se eksempelvis
+Roeder, Statistical Science, pp. 222-278, 1994.
+
+I foredraget vil jeg vektlegge de statistiske sidene ved rettsmedisinske anvendelser av DNA i
+sivil — og straffesaker. I den forbindelse vil jeg spesielt diskutere beregninger som involverer
+kompliserte familietrær. Videre vil modeller for slektsskap (i betydningen at det kan være
+genetiske forskjeller som skyldes geografisk eller etnisk tilhørighet) og mutasjoner bli berørt.
+
+ene baseres på erfaringer fra samarbeid mellom Norsk Regnesentral og Rettsmedisinsk
+
+Ekse
+
+nst mi i Oslo.
+
+UNDERSLAG — OG STATISTIKEREN SOM EKSPERTVITNE
+JOSTEIN LILLESTØL
+
+ws
+v
+
+krige men
+Flere norske statistikere er de senere er blitt trukket inn som ekspertvitner i
+erfaringen er hittil nokså begrenset: forhold til i USA, se Finkeistein (1978), (1990), Aitken
+and Stoney (1991), Gastwirth (1988), De Groot et. al (1986).
+
+I foredraget viljeg gjøre redefor statistiske vurderinger knyttet til å fastlegge omfanget av et
+cassenI et supermarked, deres rollei bevisføringen og min rolle som ekspertvitre
+ct
+
+or
+
+©
+
+wn
+
+03
+
+ler
+
+a
+
+nN
+
+o
+
+a
+
+>
+
+3
+
+7
+
+<
+
+.
+
+fo
+
+.
+on
+på
+Underslaget var å finne i unormalt høye sekaite returbelop, der kasserereni forbindelse med
+feilslag slo utlangt høyere beløp enn varens kostende og puttet differensen: egen lomme.
+iL
+
+vr
+
+å
+
+å
+
+Det forelå et omfattende tallmateriale om omsetning, feilslag og returbeløp over en periode
+
+på mer enn et år, for tiltalte, såvel som de øvrige kasserere.
+pa
+
+> ty
+
+n må akseptere at individuelle ferdigheter kan variere, og at tiltalte må ikke straffes ekstra
+for i utgangspunktet å være på nedre ende av skalaen av ferdigheter. Problemet er da å
+bestemme hvor mye av den uforklarte retur som *med sikkerhet” ikke kan forklares på denne
+måten.
+
+Det vanskeligste var imidlertid å formulere presentasjonen for retten, slik at argumentene bie
+
+AK
+
+at og
+forstått
+
+itiv.
+mate var positiv
+i saså må
+in
+Erfaringen
+til. E
+tatt tat omsyn til.
+
+Adresse: Norsk Regnesentral, Boks 114, Blinds, 0314 Oslo.
+
+3K
+
+3pr
+
+E-mail: * Petter.Mostad@nr.no
+
+Adresse: Norges Handelshøgskole, Bergen.
+E-mail: mat jledebet.nhh.no
+
+
+
+STATISTIKK VED NYCOMED IMAGING.
+Eva Seim
+
+=
+
+2
+
+>
+
+Nycomed Imaging arbeider med utvikling, produksjon og salg av kontrasimidler som injiseres i
+blodet for å få frem eller forbedre bilder fra røntgenundersøkelser og undersøkelser med MR
+(magnestisk resonans) eller ultralyd. Avdelingen Klinisk FoU under Nycomed Imaging
+arbeider i hovedsak med kliniske utprøvninger av nye kontrastmidler. Ved denne avdelingen er
+et idag ansatt 8 statistikere i Oslo og 1 i Tyskland. Hafslund-Nycomed konsernet har
+
+datterselskap i en rekke land og en større enhet, Nycomed Inc., i USA. Tilsammen har disse
+andre enhetene omlag 6-8 statistikere som også for en stor del arbeider med kliniske
+utprøvinger av kontrastmidler.
+
+Som statistiker ved Klinisk FoU arbeider man i nær kontakt med andre yrkeskategorier:
+farmasøyter, biologer og datapersonell i Oslo, monitorer i datterselskapene og legene ved
+sykehusene hvor utprøvingene skal foretas. Den viktigste oppgaven til statistikeren er i
+planleggingsfasen, ved utarbeiding av protokoll for studien. Men for å gjøre en god jobb her
+
+trenger statistikeren også en del kunnskap om hvordan kontrastmiddelet virker - både om
+effekten i form av billedkvalitet og om eventuelle uønskede bivirkninger hos pasienten.
+
+Kliniske utprøvinger inndeles i fire faser. I fase I prøver man middelet ut på friske frivillige, og
+fokuserer på om middelet gir bivirkninger og hvor fort kroppen skiller ut stoffet. I fase I
+prøver man middelet på pasienter og får mer rede på hvor stor dosen bør være for forskjellige
+pasientgrupper. Det er (vanligvis) ingen sammenligning med andre lignende produkter i disse
+fasene. Men for å godkjenne produktet for salg ønsker myndighetene at man også skal ha
+sammenlignet middelet med andre tilsvarende produkter i form av komparative, randomiserte
+dobbelt-blinde studier. Slike studier kommer vanligvis i fase II.
+
+Men for noen av kontrastmidlene våre finnes det ikke produkter på markedet å sammenligne
+med. Da kan vi sammenligne billedkvaliteten med resultatet ved bruk av andre teknikker, eller
+med bilder tatt uten bruk av kontrastmiddel. For å få en så objektiv (unbiased) vurdering som
+mulig kan vi stokke om på bildene (randomisere rekkefølgen av disse) og be en lege ved et
+annet sykehus om også å stille diagnose og foreta en evaluering av billedkvaliteten. Men det er
+ofte vanskelig å oppnå en fullstendig blind evaluering av bildene siden selve utseendet av bildet
+vil være avhengig av teknikk/apparatur. Og hvilken diagnose er det egentlig som er fasit?
+Noen pasienter henvises videre til kirurgi, og man kan da få en kontroll på om diagnosen er
+
+riktig. Men hvis bildene ikke gir grunnlag for kirurgisk oppfølging, får vi ingen kontroll på om
+diagnosen som stilles er riktig, uten eventuelt å følge opp pasienten gjennom lang tid.
+
+De statistiske spørsmålene ved Nycomed Imaging har et vidt spenn: enkle binomiske tester, i
+
+tester, vanlig variansanalyse, varianskomponentmodeller, analyse av gjentatte målinger på
+samme person over tid, regresjonsanalyse, analyse av kategoridata, ikke-parametriske tester,
+multivariat analyse, kryssover studier, spørsmål om hvordan man skal definere effekt av
+kontrastmiddelet, og hvordan man skal utforme spørsmålene som danner grunnlaget for
+effektmålet?
+
+I foredraget vil jeg komme nærmere inn på hvordan vi arbeider og jeg vil gi noen konkrete
+eksempler på statistiske problemstillinger knyttet til utprøving av kontrastmidler.
+Adresse: Nycomed Imaging
+E-mail: eva.seim@nycomed.telemax.no
+
+
+
+STOKASTISK MODELLERING AV OLIERESERVOARER
+
+ANNE RANDI SYVERSVEEN
+
+OG BJØRN KÅRE HEGSTAD
+
+Hensikten med foredraget er å presentere problemstillinger en står overfor i romlig statistikk
+spesielt mnp. stokastisk modeliering av oljereservoar.
+
+Prediksjon av framtidig oljeproduksjon er det primære formålet med modellering av oljereservoarer. Modellering av fiyt av olje, gass og vann i porøse media er her et viktig hjelpemiddel.
+Dette er oppsett og løsning av differensialligninger. For å modellere flyt må geologien nede
+i reservoaret være fullstendig kjent. Det er den ikke, bare observasjoner fra brønner som er
+
+boret, resultater av seismiske undersøkelser og produksjonen av olje og gass fram til i dag
+er tilgjengelig. Siden det er svært kostbart å bore brønner, finnes disse i et meget begrenset
+antall, man borer ikke brønner med hovedformål å kartlegge geologien. Stokastiske modeller
+blir derfor benyttet for å beskrive de delene av reservoaret som ikke er kjent eller er beheftet
+med usikkerhet. Modellen må benytte seg av tilgjengelig informasjon fra brønnene, i tillegg
+til kunnskaper om geologi.
+
+En konkret problemstilling er modellering av skiferblokker i sandsteinreservoar. Skiferblokkene
+skaper barrierer for flyt, og det er derfor viktig å kartlegge utbredelsen av disse. Skiferblokker
+vil kunne observeres i brønnene, og en god stokastisk modell bør være i stand til å gjenskape
+disse observasjonene. En mye brukt modell er en merket punkt modell hvor hver skiferblokk
+er representert ved et rektangel. En slik modell vil ikke kunne gjenskape observasjoner av
+samme skifer i mer enn en brønn, siden det er null sannsynlighet for å observere samme
+skifertykkelse i alle brønnene. I foredraget vil det bli presentert en stokastisk modell som tar
+hensyn til slike betingingsproblemer.
+
+Mulige realisasjoner av oljereservoaret finnes ved å trekke fra sannsynlighetsfordelingen som
+ogoO med
+kan være svært komplisert,
+den stokastiske modellen beskriver. Siden fordelingen
+?
+x
+Oo
+realisasjoner.
+generere
+å
+for
+ukjent normaliseringskonstant, benyttes en MCMC algoritme
+
+En annen problemstilling er hvordan si noe om geologien i oljereservoaret ut i fra produksjonen
+av olje og gass der fram til i dag (Historietilpasning). Dette er et invers problem i et meget
+høydimensjonalt parameterrom. Det er gjerne 10* — 109 parametre som skal bestemmes.
+Beskrankninger en har på arbeidet er at hver flytsimulering tar mange timer og at resultatet
+(geologien) må “se realistisk ut”. Dette siste er særlig viktig når en skal predikere framtidig
+produksjon av olje. Skal en for hånd justere parameterverdiene blir dette en enormi arbeids-
+
+krevende oppgave. Med stokastisk modellering kan en gjøre dette mer automatisk ved å
+utnytte modellen. En måte er å bruke modellen til å arbeide i et lavdimensjonalt rom. (10-20
+dimensjoner.)
+
+Adresse: institutt for matematiske fag, Norges tekniske høgskole, 7034 Trondheim.
+E-mail: annerand@imf.unit.no, bhegstad@imf.unit.no
+
+
+
+Statistikere på Haukeland Sykehus.
+I serien om statistikeres arbeidsplasser i Norge, er jeg bed: om å redegjøre for hvordan
+statistikere i Haukelandsmiljøet i Bergen er organisert og hva vi arbeider med. Ca 10
+statistikere arbeider innen feltet biostatistikk og epidemiologi på fulltid i det medisinske
+miljøet. I tillegg arbeider flere leger og informatikere med biostatistikk og epidemiologi
+
+ved det medisinske fakultet og Haukeland sykehus.
+Ansettelsesforhold
+
+Anseitelsesforholdene for statistikerene variere mye. De fleste statistikerne nar
+arbeidsfellesskap i Armauer Hansens Hus (AHH), Haukeland sykehus. De er ansatt pa
+Seksjon for medisinsk informatikk og statistikk (SMIS), Seksjon for arbeidsmedisin,
+begge UiB, og ved Medisinsk fødselsregister (MFR) som eies av Helsetilsynet, men
+drives av UiB. Dette er faste stillinger. Andre er ansatt på prosjektmidler fa NFR,
+
+Krefiforeningen og andre, men har arbeidssted 1 AHH.
+
+Få statistikere er ansatt direkte på avdelinger ved Haukeland sykehus og arbeider
+utenfor AHH. Lungeavdeling har statistiker ansatt på deltid, Yrkesmedisinsk avdeling
+med Seksjon for hyperbarmedisin har som eneste avdeling på sykehuset ansatt
+
+statistiker i full stilling. Hofteregisteret, Haukeland sykehus, har engasjert statistiker
+som for tiden har sin arbeidsplass ved SMIS.
+
+Arbeidsoppgaver
+Undervisning/ forskning
+
+SMIS ligger under Det medisinske fakultet ved Universitetet i Bergen. SMIS
+underviser medisinerstudenter i statistikk og arrangerer etterutdanningskurs for leger
+og andre i statistikk og epidemiologi. Kursene dekker også teori og praktisk bruk av
+utvalgte statistikkpakker. SMIS har 4 faste stillinger for statistikere. I tillegg til
+veiledning av stipendiater og undervisning, ytes det konsuientstøtte for medisinske
+forskere. De ansatte statistikerene driver i tillegg egen forskning.
+Veiledningstjeneste
+
+SMIS har i en rekke år arrangert en ukentlig, ic gratis veiledningstjeneste i informatikk4
+og statistikk for forskere innen medisin ved UiB og Haukeland sykehus. Her inngår alle
+med statistisk/epidemiologisk bakgrunn på SMIS/Haukeiand sykehus som veiledere.
+1g,
+
+Konsulenttjenesten ska! dekke mindre omfattende probiemer.
+
+I veiledningstjenesten kommer vii kontakt med leger og andre som driver medisinsk
+forskning. Forskerne har svært varierende statistiske bakgrunn. Enkelte har satt seg
+
+grundig inn i de metoder som brukes innen forskningsfeltet og vet når ekstra ekspertise
+kreves. Vi møter også forskere med minimal bakgrunn i statistikk, men med en
+statistikkpakke tilgjengelig, som kaster seg ut i statistisk analyse. Det er ikke
+
+overraskende å oppdage uriktig bruk av statistisk analyse på grunn av manglende
+statistisk bakgrunn og erfaring.
+
+Veiledningstjenesten blir ofte kontaktet som brannslukkere. Forskeren har ått
+kommentarer fra en referee, og må ha hjelp til å dra artikkelen i havn. Studiedesignen
+er av og til så komplisert at det er umulig å løse problemene ved å bruke standard
+metoder og forutsetningene for en test er ofte ikke tilfredstilt. For små utvalg
+
+forekommer ofte, slik at lite kan gjøres for å redde stumpene. Innen biologisk
+forskning medfører ikke statistisk signifikans automatisk biologisk signifikans. Dette
+må innskjerpes i forbindelse med tolkning av resultater.
+
+
+
+NO
+
+W
+
+Registerepidemiologi
+
+MER er et popuiasjonsregister som startet i 1967. Det registrerer opplysninger om
+svangerskap og fadseli Norge. Statistikere og epidemioioger ved MER veileder og
+tilrettelegger arbeid for stipendiater som driver forskning innen perinatalepidemiologi. I
+tillegg driver flere egen forskning.
+
+To statistikere er ansatt på prosjektmidler i forbindelse med Hofteregisteret som drives
+av Haukeland sykehus. Overlevelsesanalyser bringer klarhet i hvilke proteser og
+operasjonsteknikker som er optimale ved innsettelse av hofteprotese.
+
+Det nasjonale Nyrebiopsiregisteret drives på Haukeland sykehus. SMIS har deltatt i
+utformingen av dette registeret.
+
+En statistiker har vært stipendiat med midler fra Kreftforeningen og har arbeidet med
+et større brystkrefimaterialet fra Krefiregisteret. Hovedtema har vært reproduksjonsfaktorers betydning for brystkreft.
+
+un
+
+En statistiker studerer barnekrefi i Kreftregisteret koblet tii Fødselsregisteret og er
+tipendiat med midier fra Kreftforeningen.
+
+Avdelingsarbeid
+
+Statistiker på
+
+Lungeavdelingen gir veiledning for stipendiater og andre forskere en dag
+
+1
+
+pr uke.
+
+Yrkesmedisinsk avdeling, er en relativt ny avdeling ved sykehuset. Avdelingsoveriegen
+ønsket å ha med en statistiker i personalstrukturen. Statistikeren skal delta i
+forskningsprosjekter ved avdelingen fra design og planlegging til analyse og tolkni
+samt forestå egne prosjekter i samarbeid med andre ved samme avdeling eller med
+nc
+REDI
+
+eksterne samarbeidspartnere.
+Organisert faglig fellesskap
+
+Ukentlige prosjektmøter arrangert av SMIS/MFR. Det avholdes ukentlige fagseminarer med aktuelle tema innen epidemiologi og statistisk metode og anvendelse.
+Kommunikasjon
+
+Det er av stor betydning at statistikeren og den han skal veilede elier utføre analyser
+for, kan kommunisere. Dette bedres hvis statistikeren setter seg godt inn I det
+medarbeider har et minimum av
+medisinsk faglice
+og
+medisinske fagområdet
+jo mre)
+p=) at den
+fo)
+statistisk kompetanse.
+
+Det er også av stor viktighet at statistikerne seg imellom tar opp statistiske problemer
+til diskusjon. Spesielt de som ikke har arbeidsfellesskap med andre statistikere må være
+bevisst på å holde tett kontakt med det statistiske miljøetet.
+
+Ågot Irgens
+
+statistiker, Vrkesmedisinsk avdeling
+Haukeland sykehus
+
+
+
+Jostein Lillestøls konvoluttproblem.
+at ingen
+Jeg blir litt forbløffet over å lese Tilfeldi Gangrang ,, nr. I 1995, og oppdage
+PP
+p sentert i nr. 4 1995 ved å bruke vanlig
+forsøker å løse Lillestøls paradoks
+elementær frekventistisk statisk.
+
+La (X,, X2) være en stokastisk variabel medfordeling f(x, 22;6). Genereit vil
+
+da den betingede fordelingen til X2 gitt hendelse X;= Å, være en funksjon av
+
+= g(21,0). Det kan ofte vere av interesse å estimere
+= 21)
+zy og 6, E(X2|X;
+
+denne størrelsen. For eksempel kan en slik estimator være g(2; .6), hvor 6 er en
+
+estimator for 0.
+
+X, være pengebeløpenei konvolutten som trekkes mens X> er beløpetI den anLa
+= 1/2. De relevante betingede sannsyndre. Fordelingen er da PG, 28) = p(20,0)
+= 26|X; = 0) = 1, mens de komple= 0|X1 = 20)= P(X,
+lighetene er P(X,
+mentære hendelsene har sannsynlighet null. Dermed biir de betingede forvent-
+
+ningene BOG == fi] = 28 og E(X|XG = 26)= 0. Uttrykt ved den observerie
+
+skrives E(X2|Xi = 21) = g(x:,0) = 30-23.
+verdien for X; kan dettefor eksempel
+Denne betingedeforventningen avhenger altså ikke bare av 2; slik man
+ledes il å tro når man leser formuleringen av paradokset.
+
+Skal vi komme videre må vi estimere denne betingede forventningen. Vår eneste
+observasjon er X;, og den forventningsrette estimatoren basert på X; er 9 =
+g(21,0) = 21.
+blir dermed gu Ti,
+1 Den
+2X,/3 siden EX, = 30/2. Estimatet for g(x1,0)
+’
+
+forventningrette estimatoren for forventet beløp i den andre konvolutten er altså
+det beløpet vi finner i den konvolutten vi trekker. I det lange løp er det derfor
+ikke noe å tjene, og heller ikke noe å tape, på å bytte konvolutter. Intuisjonen
+stemmer vanligvis med teorien.
+
+teinar Engen.
+
+Jeg beklager at det falt en side ut av Knut Meen's innlegg om Jostein Lillestøls
+xonvoiuttproblemi forrige nummer.
+
+
+
+a
+
+i]
+
+"
+
+P=4
+
+TNS
+Tee
+
+Jeg beklager at du måtte helt på jordet i St. Petersburg for å finne en hund, som jeg ikke visste
+jeg eide. Din bemerkning om at det ikke er nødvendig å åpne den første konvolutten og at en
+like gjerne kan bytte konvolutter ad infinitum uten å titte på innhoidet, er vel ikke avsporing,
+men heller en bom, som du ikke har motstått fristelsen til å åpne.
+
+La meg svare med et like slående argument: Det xan ikke være noe i konvoiutien i det heie tatti
+I hvertfall ikke hvis vi er i St. Petersburg. La oss anta at vi begge var på jordet der, hvor det kun
+fins sedler med valør 2 i k’te. Anta at du tilbyr meg to konvolutter, og jeg tenker som så: Ikke
+kan du ha puttet 1 krone i noen av konvoluttene, for velger jeg den, vet jeg at det er 2 kroner i
+den andre. To kroner er derfor tilsynelatende det minste beløp du ken ha puttet i konvolutten,
+men han kan ikke det heller, for skulle jeg åpne den, vet jeg at det er 4 kroneri den andre, og så
+har vi det gående. Det fins ikke noe minste beløp som du kan putte i! Fremfor å bytte konvolutter i det uendelige, ville jeg nok av ren nysgjerrighet åpne en av dine konvolutter likevel.
+1
+
+Jeg valgte å forlate St. Petersburg etter disse få spadetak, idet jeg avviser at "Bytteparadokset”
+ikke er mer enn “St. Petersburg” paradokset i ny forkledning. Spørsmålet som dukker opp er
+imidlertid om logiske infinit regress argumenter har relevans for oss statistixere. Hvis svaret er
+nei, har vi ikke selv hellige kuer (telibar additivitet osv.)
+
+I motsetning til deg synes jeg at det er selve jakten som er interessant, en jakt med både
+
+endelige og uendelige forventninger, og der de ulike tilnærminger bidrar til å utfordre vårt fundament og kanskje klargjøre mulige begrensninger i vår argumentasjon overfor såvel! leg som
+lærd.
+
+Jeg tar sjansen på å gjenta utfordringen med følgende resonnement som ikke tvinger oss inn i
+Bayesianisme (formidlet av kollega Per E. Manne): Forut for åpning av valgt konvolutt gjøres
+en uavhengig trekning med utfell Y fra valgt fordeling G. I den valgte konvoiutt ligger beløpet
+a. Betrakt beslutningsregelen: Behold konvolutt hvis Y <a, bytt konvolutten dersom Y>a.
+
+La beløpene i de to konvoluttene være (m, 2m) med m som parameter. Det er da tre tilfeller:
+(1)
+
+Y<m da beholdes konvolutten uansett hvilken vi velger, (2) Y > 2m, åa byttes konvolut-
+
+ten uansett hvilken vi veiger, (3) m< Y <2m, da vil vi beholde dersom @ = 2m blir valgt,
+bytte dersom a = m blir valgt, og dermed ende opp med det største beløpe: 27m uansett.
+
+forventning
+— G (m) . Den betingede
+P = G(2m)
+med sannsynlighet
+(3) skier
+ituasion
+S :
+&
+\
+5S
+J
+J
+situasjon (1) og (2) blir 5m + Bt 2m = > dvs samme verdi som forut for åpningen.
+.
+ae
+,
+å
+3m
+3m .m,_
+3m
+>
+Setningen om dobbeltforventning gir da: Zm-P + > (i-P) = 3 + 37 >
+dvs vi her økt forventningen ved en byttestrategi.
+Jostein Lillestøl
+hr
+i
+
+
+
+26
+
+alth Policy
+
+American Statistical Association Sec'
+
+E
+
+Application for Certified Med’
+
+RS
+
+(Applicants applying unde’
+
+(C.M.D.)
+
+Ka
+
+Ny
+
+Kg
+
+Mi:
+
+Sy
+
+Last Name
+
+I
+
+SS
+
+F
+
+Mailing Address:
+
+Sy
+
+>
+
+=
+
+Xs)
+
+Ke
+Pe
+
+EG
+
+=
+
+-
+
+relepnone:
+
+(
+
+S'
+
+Xs)
+
+)
+
+>
+
+E-Mail
+
+QI
+
+QI
+
+Oo
+
+#Years:
+
+oo
+
+Empioyer:
+
+Position/Title:
+
+ee
+
+SF ©
+
+<
+
+Relevant Experience (e.g. $
+
+$
+
+I
+
+3
+
+==
+oy
+~
+
+Png
+
+å
+sy
+N
+By
+Q
+
+SF
+
+&
+
+ce, Publications, Consulting Contracts, Grants, Projects):
+
+Resume if Available)
+
+Å
+
+< 7
+DI >
+
+SoS
+va Ay
+FS
+
+Lx
+SN
+
+Signature:
+Please mail check for $110 (Payable in U.S. Funds) to:
+Health Policy Statistics Section - American Statistica! Association
+
+c/o: Dr. Philip Rust, Treasurer
+
+Department of Biometry and Epidemiology
+Medical University of South Carolina
+
+Charleston, S.C. 29405
+
+Dete:
+
+(M/D/Y)
+
+
+
+2
+
+Health Policy Review
+.
+
+Voi. i ° No. I * Winter 1995
+
+Certification of Medicai Data-Analysts
+
+established and adopted
+Guidelines for certification of medical data-analysts (C.M.D.) have beenGrandfat
+hering by
+by the Section on Health Policy Statistics Committee on Certification.
+peer
+portfolio, for ASA members with significant experience (>2 years), publications (22
+Å,
+February
+between
+place
+take
+will
+etc.),
+grants,
+,
+contracts
+ng
+reviewed), or projects (consulti
+
+will be administered
+1995-August I, 1995. Thereafter, certification will be by test only. The test
+granted 1) Apprentice
+annually at the Joint Statistical Meetings. Two levels of certification will beLevel
+- Requiring one
+Level - Requiring a passing score(>70) on the certification test, 2) Master
+year training under a certified master level statistician plus a passing score (>70) on the certification
+test.
+
+Graybill, and
+The certification test will examine knowledge of mathematical statistics (e.g., Mood,
+applied
+Boes), probability (e.g., Beaumont), experimental design (e.g., Montgomery), and of test results.
+medical statistics (e.g., Altman). An answer key will be provided with the mailing ) may de
+Application and further information on certification of medical data-analysts (C.M.D.
+obtained from:
+
+Treasurer, HPSS
+
+Dept. of Biometry and Epidemiology
+Medical University of S. Carolina
+Charleston, S.C. 29405
+(803) 792-7567
+(803) 792-0539
+
+tion is valid for five
+A non-refundable fee of $110 is required for certification application.or Certifica
+re-examination.
+
+years, and is thereafter renewable with proof of relevant experience
+
+
+
+25
+
+American Statistical Associa
+1429 Duke Street
+
+Alexandria, VA 22314-3402 USA *
+
+(703) 684-1223 /fax: (703) 684-203«
+
+e-mail: asainfoQasa.mhs.compuserve
+
+= Statisticians have a public duty to maintain
+integrity in their professional work,
+particularly in the application of statistical
+skills to problems where private interests may
+
+inappropriately affect the development or
+
+application of statistical knowledge. For these
+reasons, Statisticians should
+: present their findings and
+
+interpretations honestly and objectively
+| avoid untrue, deceptive, or
+undocumented statements
+
+“+ disclose any financial or other interests
+that may affect, or appear to affect, their
+professional statements
+
+Z Recognizing that collecting data for a
+statistical inquiry may impose a burden on
+respondents, that it may be viewed by some
+as an invasion of privacy, and that it often
+involves legitimate confidentiality
+considerations, statisticians shouid
+collect only the data needed for the
+purpose of their inquiry
+
+inform each potential respondent about
+the general nature and sponsorship of
+the inquiry and the intendec uses of
+the data
+
+establish their intentions, wnere
+pertinent, to protect the confidentiality
+of information collected from
+
+respondents, strive to ensure that these
+
+intentions realistically reflect their
+ability to do so, and clearly state
+
+pledges of confidentiality and their
+limitations to the respondents
+
+: ensure that the means are adequate to
+protect confidentiality to the extent
+
+pledged or intended, that processing
+and use of data conform with the
+pledges made, that appropriate care is
+taken with directly identifying
+information (using such steps as
+destroying this type of information or removing
+
+it from the file when it is no longer needed for
+the inquiry), that appropriate techniques
+are applied to control statistical
+
+disclosure
+
+ensure that, whenever data are
+transferred to other persons or
+
+organizations, this transfer conforms
+with the established confidentiality
+pledges, and require written assurance
+
+from the recipients of the data that the
+measures employed to protect
+
+confidentiality will be at least equal to
+those originally pledged
+
+3 Recognizing that statistical work must be
+
+visible and open to assessment with respect
+
+to quality and appropriateness in order to
+advance knowledge, and that such
+
+assessment may involve an explanation of the
+assumptions, methodology, and data
+processing used, statisticians should
+delineate the boundaries ofthe inquiry
+as well as the boundaries of the
+statistical inferences which can be
+derived from it
+
+emphasize that statisticai analysis may
+be an essential component of an
+inquiry and should be acknowledged in
+the same manner as other essential
+components
+
+Be prepared to document data sources
+used in an inquiry; known inaccuracies in
+
+the data; and steps taken to correct or to
+
+refine the data, statistical procedures
+
+.
+
+
+
+29
+
+applied to the data, and the
+
+assumptions required for their
+application
+
+make the data available for analysis by
+other responsible parties with
+appropriate safeguards for privacy
+
+These Ethical Guidelines for Siatistical
+Practice identify ethical relationships with the
+public, government, clients or employers, and
+other professionals. This document is openended: it establishes procedures for amending
+
+statisticians may select alternative
+
+its contents and for broadening its scope. The
+main vehicle for such changes is the ASA
+Committee on Professional Ethics.
+Additional requirements may be
+incorporated into the body of this document
+
+procedures
+
+for any of the following purposes:
+
+concerns
+
+- recognize that the selection of a
+statistical procedure may io some extent
+
+be a matter of judgment and that other
+
+: direct any criticism of a statistical
+inquiry to the inquiry itself and not to
+the individuals conducting it
+
+= Recognizing that a client or employer may
+be unfamiliar with statistical practice and be
+dependent upon the statistician for expert
+advice, statisticians should
+- make clear their qualifications to
+
+undertake the statistical inquiry at hand
+
+inform a client or employer of all factors
+that may affect or conflict with their
+impartiality
+
+accept no contingency fee arrangements
+
+~
+
+to extend the general guidelines
+. to identify further points of ethical
+contact between statisticians and the
+public, government, their clients or
+
+employers, and other professionals
+”. to establish ethica! principles for the
+use of statistics in a specialized area —
+such as, medicine, law, or Survey
+research
+
+to set ethical principles for publishing
+Statistical
+
+reports
+
+: to document procedures for resolving
+disputes on questions of professional
+ethics
+
+- fulfill all commitments in any inquiry
+undertaken
+
+apply statistical procedures without
+concern for a favorable outcome
+
+state clearly, accurately, and completely
+
+to a client the characteristics of alternate
+statistical procedures along with the
+recommended methodology and the
+usefulness and implications of all
+possible approaches
+
+_ disclose no private information about or
+belonging to any present or former client
+without the client's approval
+
+ASA members are invited to submit their
+comments or ethical scenarios for the consideration by the ASA Committee on Professional
+Ethics. Materials should be sent to the
+Office of Scientific and Public Affairs
+American
+
+Statistica! Association
+
+1429 Duke Street
+
+Alexandria, VA 22314-3402 USA
+
+(703) 684-122 I/fax (703) 684-2036
+E-mail: asainfoQasa.mhs.compuserve.com
+
+
+
+NORSK STATISTISKFORENINGS
+ETTERUTDANNINGSSEMINAR 1995
+ble avholdt på Norges tekniske høgskole, Trondheim, 3.-5. april.
+Tittelen på seminaret var:
+
+The ScientificContext of
+
+my
+
+Quality Improvement
+
+Det meldte seg i alt 67 deltakere til dette seminaret, derav 5 fra Danmark og 2 fra Sverige. En
+hadde vært så heldig å få professor George E.P. Boxfra Center for Quality and Productivity
+Improvement ved University of Wisconsin-Madison til å komme til NTH og vere
+
+hovedforeleser. Han fikk god hjelp av førsteamanuenseneLiv Høyland og John Tyssedal,
+NTH, som begge har et forskningsår ved det nevnte senteret bak seg.
+
+George Box har som kjent skrevet en rekke utmerkede lærebøker over de forskjelligste emner
+innen statistisk teori og trenger derfor ingen presentasjon. Dette illustreres også ved dei høye
+deltakerantall.
+
+Box la i sine forelesninger særlig vekt på det som har opptatt ham mest i de seneste år, nemlig
+filosofien bak vitenskapelig læring (scientific learning). Han hevder at:
+
+"The role Statistics presentiy plays is greatly diminished by lack of understanding of the
+nature of scientific learning as a process of never-ending iterative approximation to "truth"
+which cannot be solely motivated by the one-shot mathematical statement of conditionai
+absolute truth — "if A then B"."
+Videre at
+
+"... the present crisis in Statistics arises because of the misdirection of leadership away from
+the Scientific towards the Mathematical paradigm.The subject of Scientific Statistics has
+a
+promising future, but ifit is to betaught by Statistics departments they will need to reform
+their ieaching, their research, their requirements for degrees and their qualifications for
+'
+promotion.
+
+kan understreker videre den vesentlige forskjell mellom
+
+. discovery on the one hand, ando f testing decision and confirmation on the other. Design
+
+E
+
+for discovery requires: an iterative approach, close cooperation between statistician and
+investigator and movement along the empirico-mechanistic model spectrum."
+{itt inntrykk er at de
+fleste deltakere etter seminaret innså den viktige rolle statistisk
+
+forsøksplanlegging Ikanog bør spillei forbindelse med vitenskapelig læring, ikke minst
+innenforarbeidet med kvalitets- og produktivitetsforbedring.
+
+() ty
+
+led)
+
+ArnliotHøyland
+
+
+
+iforening
+
+Fagertun,
+
+Norsk
+
+Fenstad,
+
+Statistisk
+
+Marie
+
+Medstat
+
+Oslo
+
+Hans
+
+Storvik,
+
+Medstat
+
+ihar
+
+Anne
+
+Statistisk
+
+Geir
+
+lagertun,
+
+Storvik,
+
+UiO
+
+Belsby,
+
+Schjalm
+
+Liv
+Hans
+
+Geir
+
+Reitan
+
+Kampenes
+
+iTrondheim
+
+Norsk
+
+Research
+
+Research
+
+(leder)
+
+har
+
+Sentralbyrå
+
+Regnesentral
+
+(leder)
+
+Regionsykehuset
+
+NTH
+Johnsen,
+
+Bye
+
+Godtliebsen,
+
+SINTEF
+
+AV
+
+(leder)
+
+Rausand,
+
+NTH
+Regionsykehuset
+NT
+
+(leder)
+AVII
+
+iperioden
+
+Regnesentral
+
+perioden
+
+1994:
+
+1995:
+
+Runa
+
+Arnfinn
+
+forening
+
+Vigdis
+
+Harald
+
+Fred
+
+Marvin
+
+Høyland,
+Johnsen,
+
+Olsen,
+
+NTU
+
+Regionsykehuset
+
+iTrondheim
+
+iTrondheim
+
+iTrondheim
+
+hatt
+
+selv.
+
+Statistisk
+
+1993:
+
+1994:
+
+Liv
+Harald
+
+Rue,
+
+jeld
+
+Johnsen,
+
+Scientific
+
+(leder)
+
+følgende
+
+Context
+
+foreninger.
+
+Experiments”
+utmerket
+og Håvard
+
+hatt
+
+iregi av de lokale
+
+“The
+
+Industrial
+Designing
+var hovedforeleser,
+Johnsen
+Harald
+
+følgende
+
+(sekretær)
+
+seg
+
+og elektro-
+
+Håvard
+
+Høyland,
+
+Harald
+
+NTH
+
+Olsen,
+
+er holdt
+
+EU-seminaret
+
+on
+Emphasis
+I. P. Box
+Tyssedal,
+John
+
+fra lokalforeningene.
+
+Rue,
+
+Fjeld
+
+Håvard
+
+Svenn
+
+Liv
+
+Sve
+
+medlemsmøter
+
+ar angerte
+George
+
+styrer:
+
+supplert
+Rue:
+
+styrer:
+
+styret
+
+telefon
+
+1993:
+
+(formann)
+
+- 1995
+
+Regnesentral
+
+(kasserer)
+
+iTrondheim
+
+iperioden
+
+pr. brev,
+
+Anne
+
+Hydro
+
+konstituerte
+
+foregåt
+
+sty
+
+1995:
+
+Marie
+
+1993
+ble valgt:
+(redaktør)”
+
+Norsk
+Norsk
+
+Imaging
+
+Regnesentral
+
+redaktør
+
+følgende
+
+(kasserer)
+MØTEVIRKSOMHET
+
+Ordinære
+
+av årsmeldingene
+ET ERUTDAN INGS EMINAR
+
+Particular
+Prof.
+Tyssedal.
+
+Fenstad,
+
+iNSF
+1993
+NLH
+
+Regionsykehuset
+NIH
+
+Norsk
+
+DI
+UiO
+
+Forøvrig
+teknisk
+
+Kreftregisteret
+
+Agder
+NHI
+
+har ihovedsak
+
+hatt
+
+A/S
+
+UiB
+
+(sekretær)
+
+(formann)
+
+(sekretær)
+
+(formann)
+
+Foreningen
+with
+1995.
+John
+
+Norsk
+
+styret
+14. juni
+
+Sykehus
+
+Sykehus
+
+Sykehus
+
+Sykehus
+
+Matforsk
+
+Fenstad,
+
+Nycomed
+
+Hide,
+
+Næs,
+
+Damsleth,
+Hel and,
+
+Bivind
+Inge
+Marie
+
+Seim,
+
+l5gil
+
+T. Amundsen
+
+som
+
+Herdis
+
+Tretli,
+
+særskilt.
+
+Teigland,
+
+Johnsen,
+
+Anne
+
+va
+Tormod
+
+Harald
+—Geir
+
+Andre
+
+ble valgt
+har fungert
+
+Steinar
+
+U. Fenstad,
+
+(sekretær)
+
+(kasserer)
+
+Aarseth,
+
+iperioden
+
+to styremøter.
+
+Dahl,
+
+Ilenrik
+Grete
+Lil estøl,
+
+har
+
+UiB
+
+(kasserer)
+/Jan
+
+Forsikring
+
+(formann)
+
+Jostein
+
+avholdt
+
+UiB
+
+Vital
+
+UiB
+
+UiB
+
+UiB
+UiB
+
+Regnesentral
+
+fra
+hovedmøte
+
+Beretning
+På foreningens
+Styre:
+
+Vararepresentanter:
+
+NLH,
+
+har
+
+styremedlem ene
+
+TIL ITSVALGTE
+
+og redaktør
+
+ARBEIDSMÅTE
+
+mel om
+
+Det
+
+iBergen
+Skjærven,
+
+forening
+
+vært
+
+FORENINGENS
+
+Aastveit,
+
+k post.
+
+Formann
+) Are
+Revisorer:
+
+Undervisningsutvalg:
+
+STYRETS
+
+Kontakten
+LOKALFORENINGER
+
+Statistisk
+Rolv
+
+Haukeland
+
+Irgens,
+O. Holen,
+
+Ågot
+J. Skaug,
+
+Marit
+
+Hans
+
+T. Lie, Haukeland
+
+Haukeland
+
+Rolv
+
+Irgens,
+
+Espehaug
+J. Skaug,
+
+Ågot
+
+Birgitte
+Hans
+
+T. Lie, Haukeland
+Lie,
+
+Rolv
+
+Espehaug,
+
+Gjessing,
+
+Atle
+
+Møteprogram
+
+of Qu
+ved
+
+|
+
+:
+
+vil f
+
+ENG
+
+1993:
+
+1994:
+
+1995:
+l åkon
+
+Birgitte
+Stein
+
+2
+
+(leder)
+
+we
+
+
+
+jevnlig
+sentralbyrå
+
+har vært
+i Trondheim
+
+Årrangementet
+
+Tilfeldig
+med
+
+en
+
+JOURNAL
+
+Gang
+
+fire nummer
+v/Leiv
+
+støt e
+3.-5.
+
+Solheim
+
+var
+
+med
+
+vel ykket
+
+Hel and
+
+bla.
+Utvalget
+
+år. Det
+har stått
+
+Inge
+
+meget
+
+pr.
+
+for styret,
+1995.
+april
+
+OF STATISTICS
+
+fratreden
+
+begrunnelse:
+
+både
+
+og Are
+
+arrangementet
+bidrar
+
+som
+fungerer
+for trykking
+
+ved
+
+(SJS)
+
+når
+
+Aastveit
+
+det
+
+gjaldt
+
+med
+
+som
+
+deltakelse
+
+ac elterutdan ings einnlegg
+
+for norske
+forum
+av bladet.
+
+også
+
+som
+Hovedmøte
+
+1994
+
+Årangementskom ite n
+leder.
+
+redaktører
+statis
+
+om
+
+har
+
+og det
+
+til TG
+
+er Jagt til
+
+Fra
+
+utnevnt
+ved NTH.
+hovedop gave-
+
+og
+
+ble Høyland
+
+Programkommi
+iNSF
+
+med Arnog sammen
+redaktør
+som
+Bo Lindqvist
+fortset er
+Fra 1995
+Høyland.
+fra Arnljot
+
+10. mars
+
+isik erhet
+
+og repre-
+
+og ved de
+
+statistik .
+
+for det tilsvarende
+
+utnevnelsen.
+
+og lokalt,
+
+ved disse
+
+på kurs-,
+
+både
+
+imatematisk
+
+og forskning
+
+sentralt
+of Statistics."
+
+en av "fad erene"
+
+av statistik miljøet
+både
+
+den
+
+hotel .
+Storvik
+Rue.
+
+nasjonal
+som
+sittet
+for SJS. For 1995-96
+styrevervet
+overtar
+
+for SJS.
+
+har Bo Lindqvist
+NSF istyret
+Tore Schweder
+
+mens
+
+hovedredaktør
+
+Høylands
+
+følgende
+
+iop byg ingen
+til en anseclig
+
+av undervisning
+
+konferanser
+
+og organisator
+
+Forening,
+Journal
+
+og foresto
+
+DYNAMICAL
+
+THE
+
+Denne
+1995.
+
+MEDLEMMER
+
+Foreningen
+
+senere.
+
+medlemmer
+
+bort
+kontingent.
+
+ØKONOMI
+
+FIRST
+
+Av
+
+kor
+Å
+
+el er
+
+fra medlemmene
+
+Det årlige
+hovedforeningen
+idet kontingentin tektene
+Foreningens
+drift.
+
+seg
+
+THEORY
+
+av
+
+medlemmer
+
+sponset
+
+i Uzhgorod,
+
+246
+
+nye
+
+rekke
+
+styret,
+
+av
+
+64 medlemmer
+ikke har
+
+iløpet
+
+sted
+
+1995
+
+er (moralsk)
+
+finner
+
+mai
+
+er en
+
+ut, mens
+de som
+
+er 39 nye
+
+pr.
+
+SYSTEMS:
+
+UR AINIAN-SCANDINAVIAN
+
+ansen
+
+disse
+
+har
+
+rnementet
+
+meldt
+
+Blandt
+
+og får TG,
+
+beløpet
+
+det
+
+er et erhvert
+
+AND
+
+AP LICATIONS
+
+CONFERENCE
+
+Ukraina
+
+som
+
+to år.
+
+rammen
+
+1995
+
+fra
+
+Det
+
+har
+
+statistikere.
+
+30.
+
+ON
+
+konti
+
+er 8 me
+
+betalt
+
+av fondets
+
+ma
+
+SI
+
+ikke
+
+statutter.
+
+som
+
+de I
+står
+lenger
+
+får overført
+og Trondheim
+Oslo
+er tilfredstilende.
+økonomi
+Foreningens
+til foreningens
+utgifter
+med de løpende
+at det er rom for nye initiativ/aktiviteter
+
+pga.
+strøket
+er blitt
+og dermed
+1992,
+siden
+
+ledende
+
+av de sta
+
+de siste
+
+våre
+
+betalt
+
+innenfor
+
+1. juni
+
+i Bergen,
+lokalforeningene
+som
+1994.
+f.o.m.
+ble økt til kr. 4.000
+sett balanserer
+stort
+blitt så stort
+
+fond
+
+og/el er
+
+Oslo,
+
+(formann)
+
+fntor
+
+ar angementet.
+
+Medlemsbladet
+
+kommet
+Statistisk
+INDIERVISNINGSUTVALG
+
+Utvalget
+minaret
+
+undervisnings pørsmål.
+
+SCANDINAVIAN
+
+Tjøstheim
+
+STATISTIKERMØTE
+
+med
+
+av Arnljot
+
+av NSI"
+
+drivkraften
+vokst
+
+deltaker
+
+Statistisk
+ar angementet,
+
+til de nordiske
+
+og er også
+
+virksomhet,
+
+juni 1995 på Åsgårdstrand
+12-14
+itiden
+holdes
+iOslo, med Geir
+forening
+iStatistisk
+av styret
+og Håvard
+U. Fenstad
+Grete
+av Eva Seim,
+kvelden.
+
+1993-94
+Iperioden
+representert
+ljot Høyland
+redaktør,
+nasjonal
+
+er Dag
+8. NORSKE
+
+består
+
+første
+
+markeringen
+har vært
+har dette
+
+iop byg ingen
+
+iOslo.
+
+og SINTEF
+
+aktiv
+
+iNorsk
+
+for Scandinavian
+
+ved
+
+Iivinc
+
+Sve
+
+m
+
+Møtet
+består
+teen
+
+den
+
+Under
+
+"Arnljot
+ingenting
+
+har vært
+Universitetet
+
+sentral
+
+Han
+ved
+
+ved NTH
+
+miljøet
+
+foreningen
+
+en meget
+
+aktivt
+
+istyret
+
+møtene.
+
+en av initiativtakerne
+
+har deltat
+representerte
+
+foreningen
+
+har siden norske vært
+
+var
+
+lan
+
+Arnljot
+
+sentert
+
+tilsvarende
+
+Arnljot
+
+pålitelighet
+
+og doktorgradnivå.
+
+til æresmedlem
+
+Forman en
+
+3
+
+som
+
+fra
+
+
+
+INNTEKTER
+
+....
+
+31/12-93
+
+penere
+
+foreningen
+
+vrrevese
+
+OG
+
+se
+
+FRE
+
+FOND
+
+vesrespensenmne
+
+vrerves
+
+mm
+
+OG
+
+i
+
+NERNENEGEN
+
+Witiedemane
+
+UTGIFTER
+
+FOR
+
+Sinenanmen
+
+—
+
+ven e
+
+32.765,96
+25.181,10
+36.767,87
+
+wee
+
+1994
+
+4.906,60
+
+FOR
+
+21.000,00
+7.260,00
+539,08
+1.039,88
+4.832,00
+2:002,91
+
+0,00
+
+94,00
+
+149,89
+
+>331,10
+
+90,00
+å
+se 3.060,00
+19.950,00
+—500:00
+250,00
+1000/00
+
+..
+
+149,89
+
+NORSK
+
+21.179,19
+
+5.056,49
+
+26,235.68
+
+25.181,10
+
+25,330,9 .
+
+36.767,87
+
+30,767,87
+
+149,89
+
+0,00
+
+Inntekter,
+
+NOR-konto
+
+Postgiro-konto
+
+Totale
+Utgifter,
+
+NOR-konto
+
+Postgiro-konto
+
+Totale
+Beholdning
+
+NOR-konto
+
+Postgiro-konto
+
+Total
+
+fond
+
+1994
+
+8200.07.30927
+Renter
+
+1994
+
+820 .07.30927
+
+Renter
+
+inntekter,
+fond
+
+utgifter,
+
+fond
+
+42 47086
+
+42 47086
+
+fond
+
+revisor
+
+42 47086
+pr. 31/12-93
+
+pr. 31/12-93
+
+fond
+
+0806
+
+0806
+
+fond
+pr. 31/12-94,
+
+820 .07.30927
+1994
+1994
+
+0806
+
+Beholdning
+In tekter
+Utgifter
+
+1995
+
+1994
+1994
+
+kasserer
+
+Beholdning
+In tekter
+Utgifter
+
+beholdning,
+
+7. juni
+
+Scim,
+
+Coe Sieecy
+
+Oslo,
+
+Eva
+
+Amundsen,
+
+av- VUtsku
+gt
+
+FORENING
+
+OVER
+
+5151055
+
+515105
+
+TG ...srernrvrervrrvivverrerevervenr
+.
+ISI
+
+515105
+
+en
+
+92 we
+93 ...
+94 .
+95 vce
+sere
+
+fore
+
+.
+
+pr.
+
+forening
+
+Thorén
+
+keane
+
+foreningen
+
+0802
+
+TG..
+
+1994
+5361.68.85029
+
+0802
+
+0802
+1994
+1994
+
+1994
+1994
+
+pr. 31/12-93
+
+forening
+
+Gaver
+
+lokalforeningene
+
+1994
+
+5361.68.85029
+
+pr. 31/12-94,
+
+5361.68.85029
+
+Kontingent
+Kontingent
+Kontingent
+Kontingent
+Feil ifinbetalt
+Annonse
+
+Renter
+Renter
+
+inntekter,
+foreningen
+
+Overført
+Portoutgifter,
+
+Giroblanket er
+Medlemskont.
+Reiseutgifter
+Blomster/
+Gebyrer
+
+utgifter,
+
+Beholdning
+Inntekter
+Utgifter
+
+Beholdning
+Inntekter
+Utgifter
+
+beholdning,
+
+Herdis
+
+SULA
+
+6.091,00
+
+163.257,40
+
+6.09
+
+2.104,06
+
+22,82
+
+1,00
+0,00
+
+22,82
+0,00
+
+Steinar
+
+6.09
+
+1,00
+
+revisor
+
+0,00
+
+0,00
+
+0,00
+
+22,82
+
+2.126,8
+
+6,113,82
+
+169.348,40
+
+171,475,2
+
+Tretli,
+
+am fertomn
+
+OVERSIKT
+
+STATISTISK
+
+Inntekter,
+
+Postgirokonto
+
+DnB-konto
+
+Totale
+Utgifter,
+
+Postgirokonto
+
+DnB-konto
+
+Totale
+Beholdning
+
+Postgirokonto
+
+DnB-konto
+
+Total
+
+PUTE
+
+Re
+
+33
+
+
+
+OG
+
+synene
+
+vereven
+
+FOND
+
+Ustatoset
+
+bestevevens
+
+KVER
+
+OG
+
+sansene
+
+— ecceeceseeecs
+w ..
+evne
+
+bsevaeesee
+
+BERE
+
+danene
+
+vresen
+
+UTGIFTER
+FOR
+
+En
+
+ve
+
+varen
+
+vrrsrsenn
+
+4. .
+
+adehnte
+
+....
+
+serven
+
+disetceeccseteceaeseseess
+
+1993
+
+År
+
+5
+
+FOR
+
+300,00
+390,00
+660,00
+1.890,00
+12.480,00
+
+570,00
+
+ausezaas
+
+20,00
+
+216,10
+
+—
+
+SEN
+
+500,00
+39.727,00
+3.760,00
+669,07
+
+ureERrarremet
+
+;
+
+vere
+
+—
+
+22.000,00
+5.000,00
+3.000,00
+9,362,00
+673,40
+942,26
+265,00
+114,00
+
+NORSK
+
+32.765,96
+
+4.906,60
+
+ve
+
+60.966,07
+
+216,10
+
+OL L82.17
+
+. . 41.356,66
+
+0,00
+
+Inntekter,
+
+NOR-konto
+
+Postgiro-konto
+
+Totale
+Utgifter,
+
+NOR-konto
+
+fond
+
+8200.07.30927
+1993
+
+Tilbakeført
+
+Renter
+
+1993
+
+820 .07.30927
+
+reiseforskud
+
+42 47086
+
+fond
+
+42 47086
+
+pr. 31/12-92
+
+ford
+
+0806
+
+0806
+
+fond
+pr. 31/12-93,
+
+820 .07.30927
+
+Renter
+
+fond
+
+in tekter,
+
+Gebyr
+
+utgifter,
+
+Beholdning
+
+1993
+1993
+
+fond
+
+0806 pr. 31/4212-92 47086
+1993
+
+Utgifter
+
+Inntekter
+
+1995
+
+1993
+
+kasserer
+
+Amundsen,
+
+Beholdning
+Inntekter
+Utgifter
+
+beholdning,
+
+Thorén
+
+7. juni
+
+Seim,
+
+Postgiro-konto
+
+Totale
+Beholdning
+
+NOR-konto
+
+Postgiro-konto
+
+Total
+
+Oslo,
+
+Eva
+
+Herdis
+
+}
+
+INNTEKTER
+
+VOSS!
+
+m meme
+
+.mnmnrrrvrverrevvrernr
+
+—..
+
+vo..
+
+0,00
+
+SJETNE
+
+E
+
+ey
+
+FORENING
+
+OVER
+
+89) vansmusnvs
+90 ....snrrevrvrvvrvrrervsvrinr
+91 .
+92 «.mnenerervervrvrerervevnr
+93 wo..
+94 .
+..
+
+årsmøte,
+
+820 .07.30927
+
+anser
+
+foreningen
+
+13.156,55
+60.966,07
+41.356,66
+
+4.690,50
+216,10
+
+31.672.56
+
+revisor
+
+7
+
+foreningen
+
+innbetalt.
+
+unnenmeseemmemneomen
+
+voceccccsccececescceececerseevens
+TG
+fra Røros-konto
+NSF's
+1998
+
+vmsrrrrevrrsrrerrservrsersrssnne
+
+forening
+
+5151055
+
+TG
+
+ISI
+— vassertnmmlt
+Be n
+
+NOR-kto
+til RØros-møtet
+lokalforeningene
+
+0802
+
+1993
+
+5361.68.85029
+
+5361.68.85029
+
+5151055
+
+pr. 31/12-92
+
+pr. 31/12-92
+
+forening
+
+1993
+1993
+
+0802
+
+pr. 31/12-93,
+
+5361.68.85029
+1993
+1993
+
+forening
+
+TE
+
+(Baltikum)
+
+x)
+
+22.000,00
+
+8.610,00
+
+30.610,00
+
+2.034,70
+
+132.6 7,40
+
+gVTA Exe Sot utd. fet. Mvertl
+
+å
+
+Kontingent
+Kontingent
+Kontingent
+Kontingent
+Kontingent
+Kontingent
+Feil
+
+Annonse
+Overført
+Overskud
+Renier
+Renter
+
+inntekter,
+foreningen
+
+Overført
+Overført
+Overført
+Portoutgifter,
+Frimerker/Konvoluter
+Medlemskont.
+Blonister
+Gebyrer
+
+utgifter,
+
+Beholdning
+Inntekter
+Utgifter
+
+Beholdning
+Inntekter
+Utgifter
+
+beholdning,
+
+69,36
+
+20,00
+
+20,00
+
+69,36
+0,00
+
+Steinar
+
+30.610,00
+
+69,36
+
+20,00
+
+revisor
+
+0,00
+
+20,00
+
+2.104,06
+
+30.079,36
+
+163.257,40
+
+105.361,16
+
+Tretli,
+
+TE
+
+2. VL
+
+cK Å
+
+ll
+
+OVERSIKT
+STATISTISK
+
+Inntekter,
+
+Postgirokon m0802.S15
+
+DnB-konto
+
+Totale
+Utgifter,
+
+Postgirokonto
+
+DnB-konto
+Totale
+
+Beholdning
+
+Postgirokonto
+
+DnB-konto
+
+Total
+
+7
+
+
+
+15]
+
+Ex
+a
+
+ne
+G
+
+e
+
+>
+
+5)
+
+'<
+.
+
+2
+
+FOR STATISTIKK, NTH
+
+Øystein Amundrud: ‘Radial Basis Function Networks from a Statistical Perspective’.
+utført ved SINTEF Instrumentering, Oslo, under veiledning av forsker Mats
+O
+e
+
+Carlin. (Faglærer vedNTH: Bo Lindqvist.)
+
+Forskningsrapport.
+=
+
+Arnoldo Frigessi and Håvard Rue: Bayesian Image Classification with Baddeley’s
+Delta Loss. Statistics No. 5/1995
+
+
+
+36
+
+NYTT FRA UNIVERSITETET I OSLO
+Uteksaminerte cand.scient:
+
+Anne Margunn Repstad: "Robustifisering av prinsipal komponent regreson"
+Veileder: Tormod Næs.
+
+into the nested case-controi scheme’
+45+-* in
+Hongyan Gong: "Aninsight
+Veileder: Ørnulf Borgan.
+
+Statistcal Research Reporis:
+
+Jon Kjetil Grønnesby: "Testing in Aalen's linear regression model. Å simulation
+study". No. 1, 1995.
+
+Jørund Gåsemyr: "OnidentifiabiliDåin the autopsy model of reliability
+systems of lifemonitored and conditionally lifemonitored components”.
+2, 1995.
+No.
+
+NYTT FRA UNIVERSITETETI BERGEN
+Dr. scient.
+
+Håkon Gjessing disputerte tirsdag 30. mai 1995 med avhandlingen:
+"Anticipating Calculus and Wick Products"
+
+Komite: 1 Professor Jiirgen Potthoff, Universitat Mannheim
+2 Professor Bernt Øksendal, Universiteteti Oslo
+
+Veileder: Trygve Nilsen
+
+
+
+Medlemskap i Norsk Statistisk Forening
+
+Kontingenten i foreningen er på kr. 150 pr. år for regulære medlemmer og kr. 50 for studenter.
+Korrespondanse om mediemskap og innbetaling av kontingent skal skje til foreningens
+kasserer:
+
+Norsk Statistisk Forening v/Eva Seim
+
+Nycomed Imaging
+p.b. 4220 Torshov
+
+(Ny kasserer velges når det nye styret har konstituert seg. Denne blir oppgitt i neste nummer av
+TG.) Innbetalinger skal gjøres på foreningens postgirokonto 0802 5 15 1055. Medlemmer
+som er usikre på når de betalte kontingent sist, vil nederst til høyre på adressseddelen for
+Tilfeldig Gang finne angitt hvilket år siste betaling er registrert for. Vær imidiertid
+oppmerksom på at adressesedlene for bladet ligger noe etter ajourføringen av
+medlemsregisteret, slik at nylig foretatte innbetalinger ikke vil være tatt med her.
+
+Nye medlemmer melder seg til kassereren. Slike medlemmer får automatisk tilsendt Tilfeldig
+Gang, med forbehold om at det tar noe tid før tilføyelser og forandringer : medlemsregisteret
+gjenspeiler seg i adressesedlene til bladet. Adresseforandringer meldes også til kassereren.
+Ved utsendelsen av Tilfeldig Gang benyttes det kopier av det vanlige medlemsregisteret, så
+adresseforandringer behøver ikke meldes separat til bladet.
+
+Annen korrespondanse med foreningen skal foregå med formannen under denne adressen:
+Norsk Statistisk Forening v/Amljot Høyland
+Institutt for matematiske fag
+7034 Trondheim-NTH
+
+e
+Gang vil forhåpentligvis komme ut i september 1995. Alle slags
+Neste nummer av Tilfeldig
+
+bidrag til bladet er vel kommen, enten det gjelder nye temaer av interesse for norske statistikere,
+
+eller man har kommen tarer til innlegg som allerede har stått i bladet. Stoff til neste nummer må
+være redaktøren : hen de senest 1. september 1995.
+
+Adressen til redaktøren er:
+
+Thore Egeland
+
+Norsk Regnesentrei
+Boks 114 Blindern
+N--03 14 Oslo, Norway
+Telefon: 22852671
+Faks: +47 22697660
+email: thore.egeland@nr.no
+
+
+
+
+
+
+
+N¢iuradresse:
+
+TH
+
+GET
+
+mic
+
+1ILRELDIG GANG
+v/Sva Seim
+
+NYCOMED Imaging
+
+Postboks 4220 TORSHO
+
+0401 OSLO
+
+
+

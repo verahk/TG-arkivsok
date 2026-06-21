@@ -1,0 +1,882 @@
+ISSN 0803-8953
+TILFELDIG GANG
+Nr. 2, årgang 21
+August, 2004
+
+Utgitt av Norsk Statistisk Forening
+INNHOLD
+Side
+
+Fra redaksjonen. Jostein Paulsen og Hans Julius Skaug ........................................
+Lederen har ordet. Håvard Rue...............................................................................
+
+4
+5
+
+Faglig stoff
+Temamøte i Bergensforeningen: EnKF – Ensemble Kalmanfilteret.......................
+Reisebrev fra Newcastle upon Tyne. Erik Mønness. .....................................................
+Reisebrev frå Jyvaskyla, Ingelin Steinsland.............................................................
+
+6
+9
+10
+
+Bokanmeldelser
+S. K. Chatterjee: Statistical thought: a perspective and history. Jon Stene…….....
+
+11
+
+Puslerispalten
+Pusleri nr. 16. Jostein Lillestøl................................................................................
+Løsning av pusleri nr. 15. Jostein Lillestøl..............................................................
+
+16
+17
+
+Konferranser, meldinger og annet
+Ledig førsteamanuensisstilling ved NTNU..........................................................................
+Ny jobb............................................................................................................................................
+Nytt fra Avd. C, UiO................................................................................................
+Nytt fra NTNU, Institutt for matematiske fag, Seksjon for statistikk......................
+Nytt fra IMBA, Seksjon for medisinsk statistikk, UiO............................................
+Nytt fra UiB..............................................................................................................
+Medlemskap i Norsk Statistisk Forening........…........…........…..............................
+
+18
+19
+20
+21
+23
+23
+24
+
+
+
+
+
+Redaksjon:
+Jostein Paulsen (redaktør)
+Matematisk institutt, Johannes Brunsgate 12, 5008 Bergen.
+Tlf: 55 58 28 86, e-post: jostein@mi.uib.no
+
+Hans Julius Skaug (redaktør)
+Havforskningsinstituttet, Postboks 1870 Nordnes, 5817 Bergen
+Tlf: 55 23 86 04, e-post: skaug@imr.no
+
+Trykking og utsending av TG blir utført av
+Statistisk Sentralbyrå.
+Bidrag til Tilfeldig Gang:
+Alle slags bidrag til bladet er velkomne, enten det gjelder nye tema av interesse for
+norske statistikerer eller om en har kommentarer til innlegg som alt står i bladet. Stoff til
+neste nummer må være redaksjonen i hende innen 01.06.2004.
+Det er ønskelig at bidrag til TG sendes som e-post til en av redaktørene. Alle elektroniske
+format aksepteres.
+Nettversjon av TG, er å finne på følgende internettadresse:
+www.math.uio.no/nsf/web/index.htm . De som leverer bidrag til TG og som ønsker å
+reservere seg mot at bidraget blir lagt ut på nettet, må gi beskjed om dette ved innsending
+av stoff.
+
+
+
+Fra redaktørene
+Nå som sommerferien dessverre er over kan det være på sin plass å muntre
+dere opp med et nytt nummer av TG. Med dagens heller svake rekruttering til
+statistikkstudiet står TG i fare for å bli "Tidsskrift for Geriatri". I vårt
+se og bli sett samfunn med boligpriser opp mot og av og til over femti tusen pr.
+kvadratmeter, er det ikke helt lett å rekruttere dyktige og ambisiøse
+ungdommer til et forholdsvis anonymt og ikke overvettes godt betalt yrke
+som statistiker. Da er gjerne journalist, lege, advokat eller økonom mer
+fristende. Og hvem vet, om noen år blir kanskje arbeid som naturlig gjøres
+av statistikere i Norge, utført av indiske statistikere i India. Informatikerne
+opplever jo allerede slike tendenser.
+Men nok om dystre framtidsutsikter. Siden sist har NORDSTAT 2004 gått av
+stabelen i Jyvaskyla, Finland. En av TG's trofaste lesere har gjort oss
+oppmerksomme på at forrige nummer av TG ikke inneholdt noen annonsering av det
+nordiske møtet. Redaksjonen beklager glippen, og håper ikke dette er grunnen
+til at kontingenten med nordmenn som fant veien til Finland ble såpass liten.
+Som et plaster på såret bringer vi i dette nummeret en stemningsrapport fra
+Jyvaskyla, forfattet av Ingelin Steinsland. Den ekstra interesserte leser
+henvises til <http://www.stat.jyu.fi/nordstat/> for ytterlige detaljer om møtet.
+Ellers inneholder denne utgaven av TG en diskusjon og introduksjon til
+"The Ensemble Kalman Filter", en metode for Kalman filtre for ikke-lineære
+systemer foreslått av oseanograf Geir Evensen. Denne diskusjonen er noe mer
+matematisk enn hva som er vanlig i TG, men vi vil også i framtiden ønske
+velkommen bidrag som ligger et sted i mellom det rent populærvitenskapelige og
+det rent faglige.
+Jon Stene fra København har sendt oss en fyldig og meget interessant anmeldelse
+av boken "Statistical thought: a perspective and history" av S.K. Chatterjee.
+Etter å ha lest hans anmeldelse er vi tilbøyelige til å være enig med ham at
+dette er en bok som fortjener å bli lest av alle statistikere. Chatterjee er
+pragmatiker, en angrepsvinkel som virker for ett problem er ikke nødvendigvis
+den riktige for et annet problem. Dette er et synspunkt som ser ut til å vinne
+mer og mer terreng i dag, såvel blant statistikere som ellers i samfunnet.
+Vår tid er ikke tiden for de store ideologiske diskusjonene.
+
+Jostein Paulsen og Hans Julius Skaug
+
+
+
+Lederen har ordet
+Sommeren er på hell, semesteret har begynt igjen mens barneskolen fremdeles har
+ferie en uke til. Kunnskapshungrige, unge lovende studenter strømmer til universiteter og høyskoler for å fylle mappene sine med noe som er evaluerbart. Det er
+køer over alt på NTNU og en av heisene til 11etg er fremdeles “til reparasjon”. Alt
+er tydeligvis normalt.
+Selv om det meste er “normalt”, er jakten på det unormale tydeligvis godt avisstoff
+også. I sommer har jeg hatt anledning til å følge med i Adresseavisens hyppige
+reportasjer om hvor dårlig sommer det har vært til nå. Tabeller over antall sommerdager (max temperatur > 20C) og gjennomsnittstemperatur i sommermånedene presenteres og sammenlignes med tidligere år. Det er da viktig å bruke de
+av de to mål som støtter antagelsen om at sommeren i år er riktig ille. Vi må helt
+tilbake til 1923 eller deromkring for å finne en sommer som var like dårlig som
+årets. (Herunder antar en at resten av sommeren forløper som den har gjort til nå.)
+En gang hadde journalistene funnet fram et sannhetsvitne som hadde opplevd sommeren 1923 på nært hold: “Njaaa, den va nå kaill den sommar’n der da, sjø”.
+Jakten på det unormale vil nærmest ingen ende ta, og kullmineres ikke før en 10
+dagers “hetebølge” kommer over oss og nærmest lammer landsdelen. Folk tar seg
+fri fra jobb og andre plikter for å leve i og med det gode været – så lenge det varer.
+Plutselig er det over, den kalde lufta er tilbake og temperaturen på vanlig side av
+20-tallet. De statistikk-vennlige journalistene er selvsagt raskt på banen igjen, med
+oppdatert statistikk etter godværsperioden. Krisen er avblåst for i år og det er ingen
+tegn til at årets sommer vil gå inn i historien som en dårlig sommer, ei heller en god
+sommer. Samme hvordan det telles og regnes vil årets sommer gå over i historien
+som rett og slett “normal”.
+...men da er jo alt “normalt” og som det skal være. Med de beste ønsker for en
+“normal” høst!
+Håvard
+PS: I dag har de begynt igjen, nå har det vistnok regnet lite...
+
+
+
+EnKF – Ensemble Kalmanfilteret
+Kalmanfilteret har sin opprinnelse i ingeniørfaget, og består av et sett formler for hvordan
+man skal oppdatere sin kunnskap etter hvert som ny informasjon strømmer på. Da jeg i sin tid
+”lærte meg” Kalmanfilteret, besto dette ikke i å memorere formlene, men å innse at formlene
+kan utledes fra egenskaper ved multinormalfordelingen. Til tross for at formlene er enkle, har
+Kalmanfilteret har hatt enorm praktisk betydning. Den opprinnelige formulering til R. Kalman
+fra 1960 gjelder for linære systemer. Spørsmålet om hvordan formlene kan generaliseres til
+ikkelinære modeller har pågått i lang tid. Et viktig bidrag i denne sammenheng ble gitt av Geir
+Evensen, den gang ansatt ved Nansensenteret i Bergen, i en artikkel fra 1994 der han foreslo å
+bruke det vi statistikere vil kalle sekvensielle Monte Carlo metoder. Det som særpreger
+problemstillingene innen oseanografi og meteorologi som Evensen var opptatt av er sterk
+ikkelinearitet og høy dimensjon på tilstandsrommet (størrelsesorden 105 variable). Intet enkelt
+problem! Evensen kalte metoden sin ”the Ensemble Kalman Filter” og fant på akronymet
+EnKF.
+Med utgangspunkt i en artikkel som sto på trykk i Int. Stat. Rev. i fjor (Bertino et al., 2003, nr.
+2, side 223-241) ble det 13. mai i år avholdt et møte Bergen statistiske forening, der formålet
+var å studere EnKF fra en statistisk synsvinkel. Foredragsholder var Geir Evensen, og et
+diskusjonspanel bestående av Dag Tjøstheim (Matematisk inst., Bergen) og Geir Storvik
+(Matematisk inst., Oslo). Geir Storvik var forhindret fra å delta på selve møtet, så hans
+kommentarer ble fremført av undertegnede. Under gjengir vi Geir Evensens abstract, samt
+Geir Storviks kommentarer. Ytterligere informasjon kan finnes på EnKF-siden:
+http://www.nersc.no/~geir/EnKF. Jeg runder av her med et utdrag fra en artikkel fra Siam
+News Oct. 2003 av Dana McKenzie, der hun omtaler nytten av EnKF i meteorologi:
+Ten years ago, Barry Cipra reported in SIAM News (August 1993) that, according to control theorists, the
+Kalman filter “doesn’t handle any serious nonlinearity” and the proposed remedies were “just too complicated.”
+Cipra then added, prophetically: “But if history teaches any lesson, it’s that everything could change with the
+appearance of one or two new papers.”
+The paper he foresaw in his crystal ball may have appeared the very next year, published in the Journal of
+Geophysical Research by a Norwegian oceanographer, Geir Evensen. (A Canadian meteorologist named Peter
+Houtekamer was not far behind him.) Evensen’s idea was to use an ensemble to update not only the forecast, but
+also the covariance matrices.
+
+Hans J. Skaug
+
+
+
+Geir Evensens abstract: The Ensemble Kalman Filter
+The Ensemble Kalman Filter (EnKF) is a Monte Carlo or error subspace method derived as
+an alternative to the standard Kalman Filter for use with nonlinear dynamical models and
+large state spaces. It approximates the error covariance matrix using an ensemble of model
+states; it evolves the error covariances in time by ensemble integration using a stochastic
+dynamical equation; and it computes analysis updates using the ensemble predicted statistics
+and operates directly on the forecast ensemble. The EnKF has been widely used for assimilation of measurements in dynamical models of the ocean and atmosphere. Recent applications
+of the EnKF with biological, hydrologial and reservoir models have provided promising results and encouraged further research and development of the methodology in a wide range
+of applications.
+The current presentation will introduce the theoretical background for the EnKF and present
+recent results related to interpretation and practical implementation. This includes issues
+related to the wise sampling of ensemble members, the efficient computation of the analysis, and illustration of how the EnKF can be used for parameter estimation or history
+matching. Several examples using vastly different dynamical models will be used to illustrate
+the method. For additional information on the EnKF please refer to the EnKF web page:
+www.nersc.no/ geir/EnKF
+
+Geir Storviks diskusjon
+Bertino, Evensen og Wackernagel (International Statistical Review, 2003) innholder en beskrivelse av filtreringsproblmer som dukker opp i oseanografi, som i et tidsdiskret rammeverk kan
+beskrives som
+xn =fn−1 (xn−1 , εm
+n)
+
+(1)
+
+yn =Hxn + εon
+
+(2)
+
+der {xn } er (system) prosessen av interesse mens {yn } er observasjoner.
+Funksjonen f er som regel beskrevet av fysiske lover, mens modellering av “avviket” fra en
+spesifisert deterministisk modell beskrives gjennom εm
+n -leddene.
+Filtreringsproblemer dukker opp i mange ulike felt, og denne typen modeller er idag en del
+av den generelle statistisk metodelære. Prediksjon av den ukjente systemprosessen kan i
+prinsippet utføres rekursivt gjennom følgende likninger:
+Z
+p(xn |y1:n−1 ) =
+p(xn |xn−1 )p(xn−1 |y1:n−1 )dxn−1
+xn−1
+
+p(xn |y1:n ) ∝p(x1:n |y1:n−1 )p(yn |xn )
+Bruk av disse likningene i mange av “våre” modeller er i seg selv et problem i forhold til å
+utføre integrasjonen (som må repeteres sekvensielt). Innen oseanografi blir dette problemet
+formidabelt da dimensjonen på xt kan være i størrelselsorden flere titusener.
+
+
+
+Sekvensielle Monte Carlo filtre prøverå løse filtreringsproblemet gjennomå beskrive p(xn−1 |y1:n−1 )
+ved et sample (et sett av partikler) xa,i
+n−1 , i = 1, ..., r. Filteret fungerer ved å konvertere samplet på tidspunkt n − 1 til et nytt sample xa,i
+n , i = 1, ..., r på tidspunkt n som beskriver
+p(xn |y1:n ). De fleste slike algoritmer består av to step, først lages et forslag av partikler
+a,i
+xf,i
+n−1 , i = 1, ..., r. Disse oppdateres så til xn , i = 1, ..., r. Hvordan forslagene lages, og
+hvordan disse så oppdateres varierer fra algoritme til algoritme.
+I Ensemble kalman filteret (EnKF) lages forslaget ved å kjøre partiklene på tidspunkt n − 1
+a,i
+m,i
+m,i
+m
+gjennom systemlikningen (1), dvs xf,i
+n = fn−1 (xn−1 , εn ), i = 1, ..., r der εn ∼ N (0, Σ ). I
+partikkel filter literaturen vil en finne at andre valg kan være mer effektive, men både fordi
+fn−1 kan være komplisert og fordi dimensjonen på xn kan være stor, vil slike valg neppe være
+praktisk mulige i denne setting. Oppdateringen i EnKF skjer gjennom likningene
+m
+Cnf =F Cn−1
+F T + Σm
+
+Kn =Cff H T (HCnf H T + Σo )−1
+f,i
+f,i
+o,i
+xa,i
+n =xn + Kn (yn − Hxn + εn )
+f,i
+f
+f,i
+f T
+o,i
+f
+1 P
+1 P
+o
+m
+i
+der Cn−1
+= r−1
+i (xn − x̄n )(xn − x̄n ) , εn ∼ N (0, Σ ) og (?) Cn−1 = r−1
+i (xn −
+x̄n )(xin − x̄n )T , Denne oppdateringen er noe mer mystisk, og i artikkelen gis det heller ikke
+noen god begrunnelse for hvordan denne oppstår. Jeg vil prøve meg på en mulig tolkning:
+
+Anta vi ønskerå bruke samplet xf,i
+n , i = 1, ..., r tilå lage et kjerneglattet estimat for p(xn |y1:n−1 )
+f
+med en Gaussisk kjerne lik Cn−1
+. Dvs vi få tilnærmingen
+p(xn |y1:n−1 ) ≈
+
+r
+X
+
+f
+r−1 N (xf,i
+n , Cn−1 )
+
+i=1
+
+Når vi så tar hensyn til observasjonslikningen (2), får vi
+p(xn |y1:n ) ≈
+
+r
+X
+
+f,i
+r−1 N (xf,i
+n + Kn (yn − Hxn ), Σn )
+
+i=1
+
+der Kn er gitt som ovenfor og der Σn = (I − Kn H)Cnf . Dette gir dermed “forventningsdelen”
+i xa,i
+n . For å kunne bruke denne tilnærmingen videre til neste tidsstep, er det imidlertid
+nødvendig å trekke et sample fra denne fordelingen. Dette kunne gjøres ved å definere
+a,i
+f,i
+f,i
+xa,i
+n = xn + Kn (yn − Hxn ) + ε
+
+der εa,i ∼ N (0, Σn ). En slik begrunnelse gir imidlertid to spørsmål:
+• Vil denne typen kjerneglatting være fornuftig? Standard teori innen kjerneglatting
+tilsier at glattingen bør avhengig av størreslsen på samplet (r).
+• I EnFK trekkes støyleddet i oppdateringen med en kovariansmatrise lik Kn Σf KnT . Hvordan kan dette valget forsvares?
+Uansett ser EnKF filteret ut til falle innenfor gruppen av algoritmer som idag kalles partikkel
+filtre. De spesifikke valg mhp forslag og oppdatering ser ut til å være styrt fra den konkrete
+situasjon. Hva slags egenskaper denne algoritmen har, er noe mer uklart. Vil samplet xa,i
+n ,i =
+1, ..., r konvergere mot et sample fra p(xn |y1:n ) når r → ∞? Slike resultater finnes for partikkel
+filtre, men jeg er mer usikker på om de vil gjelde i dette tilfellet.
+
+
+
+Reisebrev fra Newcastle upon Tyne.
+Erik Mønness.
+Etter 9 år som dekan/prorektor i høgskolen i Hedmark (og arbeid med forskningsdokumentasjon i
+Universitets og Høgskolerådet!) hadde jeg muligheten til nok et utenlandsopphold. Jeg hadde etablert
+kontakt med det industriorienterte statistikkmiljøet. Jeg ønsket å bruke engelsk men av familiære
+grunner ikke reise så veldig langt. Valget falt derfor på ”Industrial Statitics Research Unit” i
+Newcastle. nettadresse: http://www.ncl.ac.uk/isru/ . Kontakt og ordninger ble etablert raskt.
+Med dagens internett var det mulig å orientere seg godt på boligmarkeded, og også faktisk inngå
+leieavtale før ankomst, selv om det var noen ikke så greie situasjoner underveis.
+Noe verre var det å etablere for eksempel bankforbindelse. Uten noen forutgående engelsk ”record”
+ble jeg betraktet med stor skepsis (terrorist eller kriminell?). En får ikke bankkonto før en har betalt
+lokalskatt eller en gassregning (og for å betale det må en jo ha en konto…). Teleselskapet bare koplet
+ned den avtalte tjenesten når de syntes jeg hadde ringt nok, lenge før første regning ankom. Men slikt
+blir det jo morsomheter av, i ettertid. Det er dessuten mye mindre som skal ordnes med ved å reise hit
+sammenliknet med for eksempel USA.
+Newcastle er en meget livlig by med mye som skjer, teatre, smale og kommersielle kinoer, uteliv. Jeg
+liker å sykle og mange nedlagte jernbaner er omgjort til nydelige sykkelveier. Og så er det jo forskjell
+å bo i Østerdalens skoger og i leilighet på en Akerbryggeaktig ”quayside” rett i sentrum!
+Det tar noe tid å komme inn i et nytt miljø, en ting er muligheten for samarbeid, noe annet er at det
+faktisk skjer. Jeg brukte derfor den første tiden mest på å lese meg opp på aktuelle felt. Ganske raskt
+ble jeg imidlertid trukket inn i mindre industrirettede småprosjekt, og gjensidig tillit ble bygget opp.
+Jeg ble etter hvert en sentral medarbeider i EU prosjektet ”kensys” om ”Kansei engeneering”.
+”Kansei” er japansk for følelser. Prosjektet går ut på å utvikle en systematisk metodikk for å bygge
+følelsesaspekter inn i produkter. Ideen er naturligvis japansk, og dette EU prosjektet består i å utvikle
+og spre det glade budskap i en europeisk sammenheng. Vårt produkt er ” sko til menn for daglig
+bruk”. Statistikk sett består prosjektet av flere sekvenser av multivariat analyse, på spørreskjemadata,
+skofysiske data samt å kople de to områdene. Det er spennende å tilgodese både statistisk optimalitet
+og praktisk relevans ”i virkeligheten”. En god innføring i fagfeltet er på
+http://www.faradaypackaging.com/docs/AffectiveDesignReport.pdf , mens prosjektets hovedside er på
+http://www.ibv.org .
+Jeg har også vært mye inne i et EU prosjekt om innovasjon og nyetablering i forbindelse med
+liberaliseringen av vannforsyningen. Vår oppgave var i knyttet til en spørreundersøkelse som skal
+gjennomføres i mange europeiske land. Erfaringen så langt er at det tar svært lang tid å få mange
+partnere til å bli enige om hva som faktisk er interessant å finne ut, til tross for at det foreligger en
+godkjent meget detaljert prosjektplan.
+På det mer teoretiske feltet har jeg jobbet med industrielle forsøksplaner og (i kombinasjon med)
+multivariat analyse.
+Det har vært et turbulent år for ISRU. Gruppas markerte direktør Dave Stewardson fikk slag rett før
+jeg ankom og det er nå klart at han ikke kommer tilbake. Shirley Coleman har måttet overta som leder.
+ISRU har (ville skjedd uansett) flyttet inn sammen med 3 andre innovasjonsrettede grupper i et
+”Stephenson Sentre” (Til minne om ham med toglokomotivet dere vet..). Senteret ble åpnet av den
+britiske forskningsministeren og er viktig for Newcastle. Men en fusjon innen senteret der ISRU
+inngår er på gang, os slikt medfører alltid personflyttinger.
+Jeg er veldig fornøyd med hvordan jeg etter hvert ble en integrert del av miljøet, og har fått både faglig
+og personlig glede av oppholdet.
+Newcastle 6-7-2004
+
+
+
+Eg treng 20 venner - reisebrev frå Jyvaskyla
+2004 er eit partal, og det betyr at det er året for Nordstat. Det er blitt 20 i talet, og i år var
+universitetet i Jyvaskyla vertskap. Jyvaskyla ligg ein halvtimes flytur frå Helsinki, og
+innsjøar, åsar og skog er dekkande for omgjevnadane til denne byen med 80 000 innbyggarar
+og 40 000 studentar. Frå 6. - 10. juli var det og 116 statistikarar der; mangen finnar, ein god
+delegasjon frå Sverige, nokre danskar, russarar og baltarar og tre normenn. Eg, Ivar Heuch og
+Hans Julius Skaug hadde det bra, men kvar var resten av statistikar Norge?
+Den nordiske konferansen i matematisk statistikk er ein forholdsvis brei konferanse (prøv å
+forklare dette med brei konferanse i matematisk statistikk til ikkje-akademiske venner).
+Størstedelen av deltakarane er universitetsstatistikarar, men med eit godt innslag av
+forskningsinstitutt og næringsliv. Det er ikkje konferansen som garanterer deg å finne det siste
+hotte innanfor ditt eige smale særinteresse område. Årets konferanse var ei fin blanding av
+inviterte foredragshaldarar og parallelle seksjonar med andre. Blant årets inviterte sette eg
+spesielt pris på Adelchi Azzalini sitt "The skew-normal distribution and related multivariate
+families", Hans-Georg Muller med "Nonparametric analysis of functional and longitudinal
+data" og Sara Sjostedt-de Luna sitt "Resampling methods for non-stationary spatial data".
+Vår eigen Hans-Julius Skaug avslutta konferansen med "Automatic evaluation of the
+marginal likelihood in complex statistical models", men då var dessverre eg på veg til
+flyplassen. I dei andre seksjonane var mangen tema, og mangen stipendiatar hadde sin debut
+som foredragshaldar på internasjonal konferanse. Nokre foredrag var interessante og lærerike,
+nokre var morsomme og nokre forstod eg fint lite av. Slik er det på slike konferansar, ein blir
+tvangsfora med litt av breidden i statistikkfaget, og det har i allefall eg berre godt av!
+Så til dette med at eg treng tjue venner. Nordstat i 2006 skal bli holdt ved Århus. Vi norske
+blei oppfordra til å ta med alt vi hadde av venner og familie, og etter å ha blitt spandert eit par
+halvliterar på, lovde eg å ta med tjue venner. Eg innser at dei bør vere norske og statistikarar.
+Så reis til Århus i 2006! Høyr kva andre driv på med, og fortel om kva du gjer. Og vegleiarar,
+send stipendiatane dykkar. Enten som lærling eller for å presantere eige stoff. Men først å
+fremst for å treffe andre hyggelege nordiske statistikarar. Dei har heilt sikkert noko interessant
+å fortelje.
+
+Ingelin Steinsland, NTNU
+
+
+
+BOKMELDING
+Shoutir Kishore Chatterjee: Statistical thought: a perspective and history. Oxford University
+Press, Oxford, 2003. xx+416 pp. USD 120.00. ISBN: 0-19-852531-1.
+Det fremgår av redaktørenes leder i siste nummer av TG at i Norge er hanekampen mellom
+Bayesianere og Frekventister mer eller mindre avsluttet. Hvis man ønsker å forstå den filosofiske og
+historiske bakgrunnen for denne hanekampen, så følger her en omtale av en bok som diskuterer
+denne og andre skillelinjer i faget, samt hvorledes det kan skapes enhet mellom de forskjellige
+retningene.
+Dette er en bok, som er skrevet hovedsakelig for statistikere om statistikk som vitenskapelig fag,
+dets opprinnelse og nåværende status. Boka synes å være enestående i sitt slag. Den går i dybden i
+behandlingen av statistikkens plass og avgrensninger i forhold til andre fag, dens funksjon som et
+fagområdeuavhengig (eller domenenøytralt) fag til kunnskapservervelse. Forfatteren analyserer og
+forklarer fagets skillelinjer og strider, skillelinjer hvis røtter kan finnes helt tilbake i antikken. Boka
+beskriver hvorledes faget med dets forskjellige betraktningsmåter har utviklet seg fra dets første
+begynnelse og fram til våre dager og hvorledes den til enhver tid aktuelle åndelige og materielle
+kulturen, de tilgjengelige typene av data og teknologi, under forskjellige historiske perioder, har
+påvirket fagets utvikling fram til dets nåværende status som vitenskapelig fag. Boka slutter med en
+inntrengende henstilling om åpenhet og enighet mellom stridende retninger.
+S. K. Chatterjee er tidligere professor i statistikk ved Calcutta University, en institusjon som har
+utdannet et stort antall statistikere som sitter i ledende stillinger mange steder i verden. Boka bygger
+på materiale forfatteren har utarbeidet til forskjellige kurser gjennom en rekke år.
+Forfatteren foretrekker betegnelsen statistisk tenkesett framfor statistisk vitenskap (statistical
+science) som ofte anvendes. Hans begrunnelse er at statistikken ikke er en gren av vitenskapen på
+samme måte som fysikk, botanikk og økonomi er det. Statistikken omfatter ikke et avgrenset
+fagområde. Den er derimot fagområdeuavhengig på samme måte som renmatematikken er det.
+Bokas første del består av en bred, enhetlig oversikt over den overbygning av statistikken som er
+blitt oppbygget i løpet av størstedelen av det 20. århundre. Den andre delen beskriver utviklingen av
+denne overbygningen i løpet av de tre og et halvt siste århundrene.
+Statistikken beskjeftiger seg med tilegnelsen av ny kunnskap. Vanligvis tilegnes ny kunnskap (i)
+direkte ved hjelp av iakttakelse og (ii) indirekte ved følgeslutning eller ved resonnement.
+Følgeslutning eller inferens er stort sett av to slags (i) deduktiv og (ii) induktiv.
+Ved deduksjon følger konklusjonen nødvendigvis av forutsetningene i den forstand at benektelse av
+konklusjonen ville være uforenelig med forutsetningene. Her er forutsetningene tilstrekkelige til at
+konklusjonene skal holde. Hele det byggverket, som renmatematikken utgjør, er bygget opp ved
+hjelp av deduktiv bevisføring.
+Når det gjelder induksjon, til forskjell fra deduksjon, så fører forutsetningene ikke med
+nødvendighet fram til konklusjonen, forutsetningene er bare støtter for konklusjonen. Her er
+forutsetningene bestemt ikke tilstrekkelige, men kan eller kan ikke være nødvendige for å kunne
+trekke konklusjonen. Det eneste krav er at vi forventer at forutsetningene og benektelsen av
+
+
+
+konklusjonen ikke skal foreligge samtidig, i det minste ikke vanligvis. Innenfor alle vitenskapens
+grener så vil positive sannheter, som er oppdaget empirisk, være resultater av induktive
+resonnementer.
+Inspirert av en bemerkning om renmatematikk av Bertrand Russel, foreslår Chatterjee at
+statistikken kan betraktes som en forlengelse av induktiv resonnering. Han vedgår at det finnes store
+mengder av statistisk teori som er rent deduktiv, men han påpeker at alle deduktive utfoldelser i
+statistikken kan settes i sammenheng med løsning av problemer ved hjelp av induksjon. I tillegg til
+kunnskapstilegnelse beskjeftiger statistikken seg også med verdivurderinger.
+Den vestlige filosofi interesserte seg stort sett ikke for induksjon før etter renessansen . Men dette
+endret seg under denne tidsperioden. På grunnlag av studier av det filosofiske grunnlaget for
+induksjon i verker av Francis Bacon, John Locke, David Hume og andre finner forfatteren fram til
+statistikkens røtter i den generelle, induktive tankegang. Vanligvis fremkom de forskjellige
+statistiske idéer i forbindelse med løsningen av problemer i virkelige liv.
+Sannsynlighet kommer inn i induksjonsprosessen på minst to nivåer. For det første uttrykker vi
+usikkerhet om det erfaringsmessige belegget i form av en sannsynlighetsmodell før dette belegget er
+fremskaffet. For det annet vil de induktive slutningene, som vi kommer fram til, være utledet,
+rettferdiggjort og uttrykt i sannsynlighetsvendinger.
+Likedan som induksjon var usikkerhet og sannsynlighet emneområder som ikke fanget den greske
+filosofis interesse. Derfor ble disse emnene ikke studert noe nærmere innenfor den vestlige
+filosofien før renessansen. Men deretter endret forholdene seg. Forfatteren beskriver hvorledes en
+rekke forskjellige nyvinninger fremkom, nærmest samtidig, i den siste halvdelen av det 17.
+århundre, og disse dannet sammen grunnlaget for sannsynlighetsteori og dataanalyse. Disse
+nyvinningene var studier av teorien om hasardspill med Cardano (som var en forløper), Pascal,
+Fermat og Huygens og av dødelighetsrater med Graunt og andre, og senere teoretiske studier av
+Jacques Bernoulli som beviste den første grensesetningen. Den mest håndgripelige årsak til
+fremkomsten av sannsynlighetsteori og statistikk på det tidspunktet var den samtidige fremgangen
+for erfaringslæren eller empirisismen.
+Sannsynlighetssemantikk er et innfløkt og omfangsrikt emne innenfor filosofien. Det finnes to slags
+fortolkninger av sannsynlighet: (i) objektiv og (ii) subjektiv. Denne splittelsen har ledet til to
+forskjellige betraktningsmåter innenfor statistikken, likeledes betegnet henholdsvis objektiv og
+subjektiv. I grove trekk kan man si at disse to fortolkningene av sannsynlighet har røttene sine i to
+filosofiske skoler, som har motarbeidet hverandre siden antikken, nemlig den realistiske og den
+idealistiske skolen. Splittelsen innenfor statistikken kom til syne allerede blant grunnleggerne av
+sannsynlighetsteorien.
+En betraktningsmåte eller angrepsmåte med hensyn til inferens kalles objektiv når den fortolker
+sannsynlighetsmodellen for det, som kan observeres, i vendinger som henviser til hyppigheter ─
+hvorledes utfallene av gjentatte forsøk i den virkelige verden oppfører seg i det lange løp. For den
+subjektive betraktningsmåten, på den annen side, vil de sannsynlighetene, som vil forekomme, ikke
+være fremstillinger av noe som helst i den virkelige verden ─ alle sannsynligheter avspeiler den
+subjektive forventning statistikeren måtte ha om mulige forekomster av de ukjente enhetene som
+må behandles i induksjonsprosessen. Før renessansen betød det engelske ord ”probability” bare
+
+
+
+grad av tiltro til et eller annet, men deretter har dets betydning blitt utvidet til også å omfatte relativ
+hyppighet. En tilsvarende utvikling kan påvises også i andre språk.
+Innenfor den objektive betraktningsmåten finnes det forskjellige induksjonsformer. Alle
+objektivister begynner med en objektiv sannsynlighetsmodell, valgt på en eller annen måte. Noen
+av dem tillater stilltiende eller åpenlyst ikke-objektivistiske fortolkninger på et eller annet sted i
+argumentasjonsutviklingen. Forfatteren trekker fram tre induksjonsformer innenfor den objektive
+betraktningsmåten, og disse gir opphav til tre atskilte, særbetraktningsmåter hovedsakelig med
+hensyn til parametrisk inferens. Forfatteren betegner dem henholdsvis: (i) objektivt-atferdsmessige
+(”objective-behavioural”), (ii) objektivt-instansiell (”objective-instantial”) og (iii) objektivt-prosubjektiv (”objective-pro-subjective”). De to første betraktningsmåtene betegnes i fellesskap som
+den samplingteoretiske eller den freventistiske betraktningsmåten.
+Den objektivt-adferdsmessige særbetraktningsmåten er den dominerende i våre dager og den som
+det har blitt utviklet flest teknikker for. Grunnleggerne er J. Neyman, E.S. Pearson og A. Wald.
+Kjennetegnet for denne betraktningsmåten er at vekten legges på induktiv atferd eller handling og
+ikke så meget på direkte induktiv inferens. Det som til syvende og sist betyr noe, er ikke om det
+som vi konkluderer ved hjelp av induksjon vil være sant eller ei, men hvorledes vi innretter
+handlingene eller beslutningstakningene våre, f.eks. ved estimering eller hypotesetesting på
+grunnlag av det vi observerer når vi samtidig skal ta hensyn til den permanente tilstand i naturen.
+De gjentatte forsøk, som man forestiller seg kan finne sted, utgjør en viktig del av denne
+særbetraktningsmåten, og for denne bygger statistisk induksjon utelukkende på
+hyppighetsbetraktninger ─ ingen ny fortolkning av sannsynlighet er nødvendig i forbindelse med
+konklusjonen, i motsetning til det som er tilfellet for den instansielle betraktningsmåten. Dette er én
+grunn til at mange statistikere har funnet den atferdsmessige betraktningsmåten mer tiltrekkende
+etter at den kom på banen i 1930-årene.
+Den ledende størrelsen innenfor den objektivt-instansielle betraktningsmåten er R.A. Fisher.
+Betegnelsen ”instantial”, som forfatteren åpenbart selv har konstruert, tar utgangspunkt i ”a
+particular instant”, (som vanligvis dreier seg om de faktisk foreliggende observasjonene), beskriver
+en angrepsmåte som omfatter P-verdi-testing, likelihood-inferens og fiducial inferens, hvor
+inferensen tar utgangspunktet sitt i de faktisk observerte data uten noen henvisning til mulige
+gjentakelser som man eventuelt kunne forestille seg. Både P-verdi-testing og maximum-likelihoodestimering har røttene sine tilbake i det 18. århundre.
+Den objektivt-pro-subjektive særbetraktningsmåte kom på banen i en berømt avhandling av Thomas
+Bayes omkring 1760 og grunner seg på en fullt parametrisert modell med en ukjent parameter som
+avhenger av en apriori sannsynlighetsfordeling av et eller annet slag, f.eks. ”impersonal”,
+”improper” eller ”personal”. Laplace, som var den førende personlighet innenfor statistikken for
+200 år siden, ledet denne særbetraktningsmåte fram til en førende stilling for en lang tid fremover.
+Senere ble betydningen dens kraftig svekket, men den har fått et nytt oppsving i den andre
+halvdelen av det 20. århundre. Blant dens mest kjente representanter i moderne tid er H. Jeffreys og
+I.J. Good.
+Forfatteren diskuterer og sammenligner med stor grundighet de begrepsmessige egenskapene for
+disse tre særbetraktningsmåtene, deres utvikling og relative viktighet under forskjellige tidsperioder
+og bakgrunnen for de mange stridene mellom ledende personligheter gjennom de siste tre og et
+halvt århundrene. Han fremhever de forskjellige betraktningsmåtenes sterke og svake egenskaper.
+
+
+
+De dominerende personlighetene innenfor den rent subjektive betraktningsmåten er Bruno de
+Finetti, L.J. Savage og D.V. Lindley. For denne betraktningsmåte skyldes usikkerhet og tilfeldighet
+(som kvantifiseres ved hjelp av sannsynlighetsutsagn), med hensyn til det som kan observeres,
+utelukkende manglende kjennskap til verdiene deres før de blir observert.
+Sannsynlighetsfordelingen for ethvert sett av observerbare størrelser beskriver bare den vurderingen
+eller den tiltroen til deres verdier som forsøkslederen eller statistikeren måtte ha på det aktuelle
+tidspunktet. Denne sannsynlighetsfordelingen har ikke noen selvstendig eksistens utenfor
+forsøkslederens eller statistikerens hjerne. Overveielser om eventuelle gjentatte forsøk inngår ikke i
+modelloppstillingen. I stedet antas det at det er mulighet for å utvide faktagrunnlaget eller det
+erfaringsmessige belegget, dvs. det forefinnes visse andre observerbare størrelser, utover dem, som
+allerede er observert i forsøket, og det antas at alle de observerbare størrelsene, både de som er
+observert, og de som ikke er observert, tilhører den samme fysiske helhet. De observerte og de ikkeobserverte størrelsene kan begrepsmessig byttes ut med hverandre. Forfatteren diskuterer denne
+betraktningsmåtes begrepsmessige egenskaper og sammenligner den med de tre ovennevnte.
+Dessuten nevner han forskjellige problemstillinger hvor denne betraktningsmåten har vært anvendt
+med hell.
+I løpet av de to første århundrene var formålet med induksjonen å finne den sanne verdien til en
+parameter. Bortsett fra vurderingen av usikkerheten omkring denne bestemmelsen, interesserte man
+seg ikke meget for variasjonene i seg selv. Francis Galton var den første som rettet
+oppmerksomheten mot betydningen av variasjonen som et særlig studieobjekt, f.eks. variasjonen av
+forskjellige ferdigheter eller egenskaper i en befolkning, og dette området fikk etter hvert en bred
+plass i den siste halvdel av det 19. århundre. Siden da har hovedtemaet for statistikken vært å
+undersøke variasjonsmønsteret for uforutsigbare, observerbare størrelser på grunnlag av
+foreliggende observasjoner ved hjelp av sannsynlighetsfordelingene deres.
+Fram til den første fjerdedelen av det 19. århundre hadde det blitt utviklet et bredt repertoar av
+teknikker til bruk for statistisk induksjon, men anvendbarheten av disse teknikkene var begrenset til
+det fagområdet, som de enkelte teknikker hadde blitt utviklet for, dvs. hasardspill, demografi og
+astronomi. Omkring 1830 ble disse begrepsmessige barrierene brutt. Forfatteren diskuterer de
+historiske betingelsene for dette gjennombruddet og hvorledes det ble gjennomført. Etter dette
+gjennombruddet utviklet man gradvis en abstraksjon av løsningsmetodene for praktiske problemer
+og den underliggende resonneringen med utgangspunkt i selve problemstillingen. Opp gjennom det
+20. århundre har disse prosessene fortsatt med økende styrke. Dette har ført til fremkomsten av
+statistikken som et nytt kunnskapsområde bestående av et sterkt økende batteri av induktive
+teknikker, som er fagområdeuavhengige eller domenefri, men som kan anvendes i vidt forskjellige
+sammenhenger innenfor mange forskjellige fagområder.
+Boka avsluttes med en sterk henstilling til alle statistikere om å holde seg unna dogmatisme og
+skråsikkerhet og i stedet bli eklektikere, dvs. folk som ikke holder seg til et enkelt filosofisk system,
+men som velger ut og samler fra andres systemer. Forfatteren bestrider det synspunktet, som mange
+dogmatiske statistikere forfekter, at nettopp betraktningsmåten deres er den universelt gyldige. Han
+viser igjen og igjen at forskjellige problemer trenger til å bli behandlet ved hjelp av forskjellige
+angrepsmåter, ikke bare ved hjelp én og samme. Statistikere skal ha et åpent sinn. Chatterjee, som
+selv utdannelsesmessig hører til den frekventistiske og atferdsmessige tradisjonen, tilstår at han i
+løpet av de siste tretti årene har følt et stadig sterkere behov for åpenhet overfor andre skoler.
+
+
+
+Det materialet, som forfatteren behandler, avspeiler hans interesser og bakgrunn. Viktige områder
+er bare så vidt berørt og andre er ikke blitt nevnt overhodet, som f.eks. tidsrekker og stokastiske
+prosesser. Det finnes en klar forkjærlighet for bidrag fra England og India i fremstillingen, spesielt
+når det dreier seg om utviklingen i det 20. århundre. For det århundret er det bare sporadiske
+henvisninger, uten fyldige diskusjoner, til arbeider utført av statistikere i USA eller i Europa utenfor
+Storbritannia. Hva angår selve navnet Statistikk, sies det bare at det opprinnelig ble dannet av
+tyskerne i det 17. århundre og skulle gi uttrykk for en beskrivelse av staters beskaffenhet, men uten
+å gå nærmere inn på den tyske bakgrunnen for dette navnet.
+Denne boka kan sterkt anbefales til alle statistikere med interesse for faget, spesielt til dem som
+underviser i det. Disse bør sette seg ordentlig inn i boka og lese den flere ganger. Hver gang man
+leser den, får man en dypere forståelse av sammenhengen i faget, dets mange fasetter og dets
+utvikling. Disse mer filosofiske og historiske aspekter savnes sterkt i de fleste studieforløpene i
+faget i de fleste land. Det er verd å bemerke at mange av de høyt respekterte, indiske statistikerne,
+som er uteksaminert fra Calcutta University og som nå sitter i høye stillinger rundt omkring i
+verden, de har fulgt kurser med den slags innhold som stoffet i denne boka bygger på. Disse inderne
+har normalt ikke deltatt i fagets strider, men har i stedet søkt å samarbeide.
+Jon Stene
+e-post: jon.stene@tdcadsl.dk
+
+
+
+Pusleri nr. 16
+Nytt pinnepusleri: En trekvist med lengde 1 meter skal deles i tre med to øksehugg.
+Anta at første hugg treffer iht. en uniform fordeling over pinnens lengde, og at en så
+griper den lengste pinnen som deles på tilsvarende måte. Hva er forventet lengde på
+den lengste av de tre pinnene en da sitter igjen med?
+Jeg strevet en del med denne, så har du en enkel løsning, send den til…
+Jostein.lillestol@nhh.no
+
+
+
+Pusleri nr. 15 (løsning)
+Oppgaven var: En trepinne med lengde 1 meter skal deles i tre med to øksehugg.
+Anta uavhengige hugg, som hver treffer iht. en uniform fordeling over
+intervallet [0,1]. Hva er sannsynligheten for at
+a) ingen bit har lengde over 0.5m?
+b) den midterste biten er størst?
+
+Løsning: Det enkleste er å betrakte problemet geometrisk, der posisjonen til de to
+treffpunktene er representert ved et punkt i enhetskvadratet, med uniform fordeling
+over dette, slik at sannsynligheter kan leses ut som arealer til områder. I figur a er
+representert følgende områder mht. pinnelengde større enn 0.5 : V=Venstre pinne,
+M=midtpinnen, H=Høyre pinne, I=ingen pinne. Vi ser at hver av de fire mulighetene
+har samme sannsynlighet ¼. I figur b er tilsvarende markert de to feltene der
+midtpinnen er størst, som til sammen utgjør 1/3 av totalarealet, som dermed er den
+søkte sannsynlighet (som ventet?). Merk at de to skjæringspunktene (2/3,1/3) og
+(1/3,2/3) representerer like lange pinner og at forbindelseslinjen mellom disse er
+delelinjen for det gjenværende område mht. om venstre eller høyre pinne er lengst,
+som gir to femkanter.
+
+Figur a
+
+Figur b
+
+V
+
+M
+
+H
+
+I
+
+V
+
+H
+
+I
+M
+
+M
+
+M
+
+Jostein Lillestol
+
+
+
+Ledig stilling som førsteamanuensis i statistikk
+Institutt for matematiske fag
+NTNU
+Fullstendig utlysningstekst finnes i Norsk Lysningsblad 2. september og på NTNUs hjemmeside
+http://nettopp.ntnu.no/
+Stillingen er administrativt knyttet til Institutt for matematiske fag ved Fakultet for informasjonsteknologi,
+matematikk og elektroteknikk, Norges teknisk-naturvitenskapelige universitet. Instituttet har for tiden 26
+professorater, 3 førsteamanuensis II, 19 førsteamanuensisstillinger (herav 5 i midlertidig stilling) og ca. 40
+doktorgradsstudenter. Antall kvinner i fast vitenskapelige stillinger er 6. Instituttet ønsker å øke dette tallet.
+Instituttet består av seksjon for matematikk og seksjon for statistikk. Stillingen er knyttet til seksjon for statistikk.
+Instituttet har store undervisningsoppgaver innenfor NTNUs sivilingeniørutdanning og
+realfagstudier. Instituttet har ansvaret for bachelor-program i biomatematikk med påfølgende masterstudier,
+bachelor-program i matematikk og statistikk med påfølgende masterstudier; integrert 5-årig masterutdanning med
+lektorkompetanse; sivilingeniørstudium i industriell matematikk; og PhD-program i matematikk og statistikk.
+Rekrutteringen av høyt kvalifiserte kandidater til PhD-utdanningen er god.
+Instituttet ønsker å opprettholde og styrke sitt grunnforskningsmiljø innen matematiske fag, og stimulere utviklingen
+av et brukerorientert fagmiljø. Et viktig mål er å identifisere og videreutvikle matematisk teori relevant for
+teknologiske og andre anvendelser, samt å utvikle tverrfaglig forsknings- og undervisningssamarbeid innenfor
+NTNUs hovedprofil og strategiske satsingsområder.
+Seksjon for statistikk er delt i tre forskningsgrupper:
+•
+•
+•
+
+Romlig og beregningsorientert statistikk
+Biomodellering
+Industriell statistikk
+
+med forskningsaktivitet bl.a. i stokastiske felt og ”Markov chain Monte Carlo” (MCMC), Bayesiansk inversjon,
+populasjonsdynamikk og populasjonsgenetikk, analyse av data fra funksjonell genomforskning, forsøksplanlegging
+og prosesstyring, pålitelighets- og levetidsanalyse, anvendt stokastisk analyse, matematisk statistikk.
+Ved bedømming vil det bli lagt vekt på vitenskapelige kvalifikasjoner i fagområdene sannsynlighetsregning og
+statistikk, med relevans for anvendelser i statistisk modellering og inferens.
+I vurderingen vil potensial telle i tillegg til oppnådde resultater. Det er ønskelig at den som tilsettes, har en
+forskningsprofil som er relevant for den eksisterende forskningsaktiviteten i faggruppen for statistikk. I tillegg ønsker
+instituttet å styrke kompetansen i medisinsk statistikk.
+Det vil bli lagt vekt på pedagogiske evner. Vurderingen vil bygge på dokumentert pedagogisk materiale, herunder
+pedagogisk utdanning, framstillingsformen i de vitenskapelige arbeider, erfaring fra dr.grads- og
+hovedfagsveiledning/hovedoppgaveveiledning og undervisning samt pedagogisk bakgrunn av annen art. Kvalitet og
+bredde vil bli vurdert.
+Lønn etter ltr. 54-75 i Statens lønnsregulativ, brutto fra kr. 368.000,-- til 545.800,-- pr. år. Fra dette beløpet trekkes
+2% pliktig innskudd til Statens pensjonskasse.
+Nærmere opplysninger om stillingen fås hos professor Bo Lindqvist, tlf. 73 59 35 32, e-mail: bo@math.ntnu.no.
+Søknaden sendes til Norges teknisk-naturvitenskapelige universitet, Fakultet for informasjonsteknologi, matematikk
+og elektroteknikk, 7491 Trondheim, innen 23. september 2004. Merk søknaden:Jnr. IME-398.
+
+
+
+Ny jobb
+
+Eivind Hoffmann startet 16 februar 2004 som leder av Enhet for statistikk og
+analyse i Utlendingsdirektoratet. Enhetens oppgave er å presentere statistikk om
+utlendingsforvaltningen og utlendingsfeltet, samt kvalitetsikre grunnlagsmaterialet
+for slik statistikk, i nært samarbeid med Statistisk Sentralbyrå og andre etater. Han
+kom fra statistikkavdelingen i den internasjonale arbeidsorganisasjonen ILO der han
+fra 1984 hadde arbeidet med å utvikle internasjonale standarder for
+arbeidsmarkedsstatistikk og veilede nasjonale statistikkmyndigheter om tilpassing
+og bruk av disse som grunnlag for statisitkk om sysselsetting, arbeidsledighet,
+lønns- og inntektsforhold m.v..
+
+
+
+Nytt fra avdC, Uio (Avdeling for statistikk og
+forsikringsmatematikk)
+Nye Cand.scient.-er
+Randi Mørk: “Heterogenitet i skadefrekvens: En oversikt”
+Veileder: Erik Bølviken
+Irene Lægreid: “RBNI detecting fraud in non-life insurance”
+Veileder: Erik Bølviken
+Tobias Told: “Reconstructing production profile models using percentile data”
+Veileder: Arne Bang Huseby
+Urmila Santakoemarie Kisoen: “Claim frequency and size linked through copulas”
+Veileder: Erik Bølviken
+Thomas Ulleberg: “Stochastic volatility through GARCH or state space?”
+Veileder: Erik Bølviken
+Sigurd Ugland : “Momentestimatorer for tilstandsmodellen og andvendelser på
+estimering av risiko” Veileder: Erik Bølviken
+
+Ansettelser:
+Trond Reitan er ansatt som institut-stipendiat fra 1.juni 2004
+Daniel Berg er ansatt som prosjektstipendiat fra 1.august 2004
+Eyvind Damsleth er ansatt som Professor II i industriell risiko fra 1. august 2004
+
+Statistical Research Report 2004:
+(http://www.math.uio.no/eprint/stat_report/2004/rept_2004.html)
+no 4 February: F. A. Dahl Representing Human Uncertainty by Subjective Likelihood
+Estimates.
+no 5 April: A. R. Swensen Bootstrap algorithms for testing and determining the
+cointegration rank in VAR models.
+no 6 June: A. Frigessi, M. A. van de Wiel, M. Holden, I. Glad, H. Lyng Model-based
+estimation of transcript concentrations from spotted microarray data.
+no 7 June: B. Natvig, I. F. Tvete A Comparison of Bayesian Hierarchical Space-Time
+Models for Earthquake Data.
+no 8 August: O. O. Aalen, J. Fosen, H. Weedon-Fekjœr, Ø. Borgan, E. Husebye:
+Dynamic analysis of multivariate failure time data.
+no 9 August: J. Fosen, Ø. Borgan, H. Weedon-Fekjœr, O. O. Aalen: Path analysis for
+survival data with recurrent events.
+no 10 August: A. B. Huseby Exact Sequential Simulation of Binary Varibles Given
+Their Sum
+
+
+
+Nytt fra NTNU
+Institutt for matematiske fag
+Seksjon for statistikk
+Dr.ing.:
+Sivilingeniør Sveinung Erland forsvarte 16. desember 2003 sin avhandling «On Eigendecompositions and Adaptivity of Markov Chains».
+Tittel på prøveforelesning: «Methods for numerical solution of stochastic differential equations –
+a discussion and comparison of strong and weak schemes with a view toward extensions to SDEs
+driven by Levy-noise.»
+Komite: Professor Tobias Ryden, Lund University; Professor Fred Espen Benth, Matematisk
+Institutt, Universitetet i Oslo; Professor Arvid Næss, Institutt for matematiske fag, NTNU.
+Arbeidet er utført ved Institutt for matematiske fag, NTNU, med professor Håvard Rue som
+hovedveileder.
+Sivilingeniør Stig-Kyrre Foss forsvarte 22. mars 2004 sin avhandling «Depth Consistent PP and
+PS Seismic Angle Tomography».
+Tittel på prøveforelesning: «Applications of Wavelets to Geophysics»
+Komite: Dr. Gilles Lambaré, École des Mines de Paris, Centre de Recherche en Géophysique;
+Professor Bjørn Gjevik, Universitetet i Oslo, Avdeling for mekanikk, Institutt for matematikk;
+Professor Harald E. Krogstad, Institutt for matematiske fag, NTNU.
+Arbeidet er utført ved Institutt for matematiske fag, NTNU, med professor Bjørn Ursin, Institutt
+for petroleumsteknologi og anvendt geofysikk, NTNU, som hovedveileder og professor Martijn
+de Hoop, Colorado School of Mines Golden, USA, og professor Henning Omre, Institutt for
+matematiske fag, som medveiledere.
+
+Siv.ing.:
+Jorunn Eidem: “Valuing a Credit Default Swap Using an Intensity Based Model”. Veileder:
+Håvard Rue.
+Petter Gravås: “Swing Option Valuation Using Monte Carlo Simulations”. Veileder: Håvard
+Rue.
+Hallgeir Grinde: “Screening av 7 til 14 faktorer i 16 eller færre forsøk”. Veileder: John
+Tyssedal.
+
+
+
+Clara-Cecilie Günther: “Modeller for korttidsprediksjon av spotprisen i det nordiske
+kraftmarkedet”. Veileder: John Tyssedal.
+Hilde Kalager: “Modeller for korttidsprediksjon av spotprisen i det nordiske kraftmarkedet”.
+Veileder: John Tyssedal.
+Finn Erik Kolnes: “The path integration method with applications to stochastic gear dynamics”.
+Veileder: Arvid Næss .
+Anne-Louise Larsen: “Bayesian Seismic Inversion into Reservoir Properties by using a Markov
+Random Field Prior Model”. Veileder: Henning Omre.
+Ola Lindqvist: “Exploring Stochastic Volatility Models using Markov Chain Monte Carlo
+Methods”. Veileder: Håvard Rue.
+David Ravi Manikarnika: “Experimental Bayesian Inversion of a Fluid Flow Simulator”.
+Veileder: Henning Omre.
+Truls Oscar Møller: “Statistisk inferens med MCMC i frailty-modeller i levetidsanalyse”.
+Veileder: Bo Lindqvist.
+Kjetil Strandeng Pedersen: “Analyse av competing risks for reparerbare systemer”. Veileder:
+Bo Lindqvist.
+Brage Ofstad Vik: “Data Mining Approach on the Production of Silicon Metal”. Veileder: John
+Tyssedal.
+
+Preprint:
+Nedlastbare filer er tilgjengelige på http://www.math.ntnu.no/preprint/statistics/
+No. 2/2004:
+Turid Follestad, Mette Langaas, Håvard Rue, Marit Holden, Anders Løland:
+glme: a C-program for parameter estimation using Gibbs-sampling in large linear mixed-effects
+models, with applications to DNA microarray data.
+No. 3/2004:
+Hanne T. Wist, Dag Myrhaug, Håvard Rue:
+Statistical properties of successive wave heights and successive wave periods.
+
+
+
+Nytt fra IMB, Seksjon for medisinsk statistikk, UiO
+
+Dr. Philos:
+Tron Anders Moger forsvarte 30. juni 2004 sin avhandling med tittel "Frailty models based on
+the PVF distributions, with emphasis on models for analysing family data". Veileder: Odd O.
+Aalen. Moger fortsetter som post-doc ved IMB/Avdeling for statistikk.
+
+Nytt fra Matematisk institutt, UiB
+
+Ny hovedfagskandidat. Pål Nicolai Henriksen. Tittel på oppgaven: "Bruk av Thieles
+Differensialligninger i Skadeforsikring". Veileder: Jostein Paulsen.
+Hans Julius Skaug er utnevnt til professor ved matematisk institutt UiB med tiltredelse
+1.desember 2004. Stillingen er ment å knytte gruppene for statistikk og anvendt matematikk
+tettere sammen.
+
+
+
+Medlemskap i Norsk Statistisk Forening
+
+Kontingenten er kr. 200 per år for regulære medlemmer og kr. 50 for studenter (til og med
+hovedfag). Korrespondanse om medlemskap og innbetaling av kontingent skal skje til
+foreningens kasserer:
+Norsk Statistisk Forening v/ Sigrunn H. Søbye
+Inst. for matematikk og statistikk
+Universitetet i Tromsø
+9037 Tromsø
+Emailadresse: sigrunn@mat-stat.uit.no
+Innbetalinger gjøres på foreningens konto 0530 2773299. Medlemmer som er usikre på når de
+betalte kontingent sist, kan nederst på adresselappen for Tilfeldig Gang se hvilket år siste
+betaling er registrert for. Vær oppmerksom på at adresselappene for bladet kan ligge noe etter
+ajourføringen av medlemsregistret, slik at nylig foretatte innbetalinger ikke vil være med her.
+Nye medlemmer melder seg til kassereren og får så automatisk tilsendt Tilfeldig Gang fra
+første påfølgende nummer.
+Annen korrespondanse med foreningen skal foregå med formannen:
+Haavard Rue
+Insttutt for matematiske fag
+NTNU
+7491 Trondheim
+Emailadresse:havard.rue@math.ntnu.no
+
+
+
+
+
+Retur:
+Norsk Statistisk Forening
+v/Sigrunn Holbek Sørbye
+Institutt for matamatikk og statistikk
+Universitet i Tromsø
+9037 Tromsø
+
+
+

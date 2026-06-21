@@ -1,0 +1,847 @@
+ISSN 0803-8953
+TILFELDIG
+GANG
+Nr. 1, årgang 28
+Januar 2011
+
+Utgitt av Norsk Statistisk Forening
+INNHOLD
+Fra lederen, Magne Aarset . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Fra redaksjonen, Geir Storvik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Side
+3
+4
+
+Stipendiatpresentasjon
+Erik Vanem, UiO,. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5
+
+Møter og konferanser
+Third Trondheim Symposium in Statistics, Mette Langaas. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+International Society for Clinical Biostatistics, Geir Egil Eide . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+XXVth International Biometric Conference, Sven Ove Samuelsen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Nordisk statistikermøte i København, Johan Heldal og Magnar Lillegård . . . . . . . . . . . . . . . . . . . . . . . . .
+Det 16. Norske Statiskermøtet NSF2011 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Planlagte møter i Norge . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+7
+9
+10
+11
+13
+14
+
+Scandinavian Journal of Statistics
+Innholdsfortegnelse volum 37, nummer 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+15
+
+Puslerispalten
+Løsning av pusleri nr. 30, Jostein Lillestøl . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Pusleri nr. 31, Jostein Lillestøl . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+16
+16
+
+Fra lokalforeningene
+Årsmøte i Statistisk Forening i Bergen, Anne Marie Fenstad . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Temakveld i Statistisk Forening i Oslo, Ingunn Fride Tvete . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+18
+19
+
+Meldinger
+Nytt fra Norges teknisk-naturvitenskapelige universitet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Nytt fra Universitetet for miljø og biovitenskap . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Nytt fra Universitetet i Oslo, Avd. C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Nytt fra Universitetet i Bergen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+20
+21
+22
+23
+
+Årskontingent Norsk Statistisk Forening 2011 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+24
+
+
+
+
+
+3
+
+Godt nyttår, alle sammen!
+Som tidligere nevnt kan vi nå gratulere hverandre med at vår forening i år er 75 år.
+(Foreningen ble konstituert 28. april 1936. Se også vår hjemmeside.) 75 år er kanskje ikke så
+mye å skryte av for en organisasjon i dag, men en viss tid har jo foreningen eksistert. Men
+kanskje burde en forening som representerer et så viktig fag som sannsynlighetsregning og
+statistikk både vært eldre (men det er det jo vanskelig å gjøre noe med), mer synlig og kanskje
+også mer betydningsfull enn vi faktisk er?
+Jeg mottar riktignok jevnt og trutt noen få telefoner fra forskjellige media (mest
+nettaviser, men også noen ”spesielt interesserte”) når et eller annet Lotto-tall er ”i slaget” eller
+når Værdalen har fått en ny Lotto-millionær. Men skal tro om ikke Drillo av mange anses som
+den mest berømte, og kanskje også mest betydningsfulle, statistiker i Norge?
+For se hva de bl.a. skriver i USA (Geir Eide gjorde meg nettopp oppmerksom på et
+nytt lovforslag (http://www.amstat.org/outreach/pdfs/STAT_ACT2010.pdf) vedrørende
+undervisning i statistikk):
+“The Congress finds the following:
+(1) Statistical literacy, the understanding and use of the language and tools of statistics, is vital
+for United States citizens in an era of intense global competition and growing reliance on
+data, because of a statistically literate individual’s ability to —
+(A) ask and evaluate critical questions about the design of a study and the appropriateness
+of the conclusions drawn from a study;
+(B) distinguish arguments based on data and evidence from arguments based on anecdotes;
+(C) recognize and interpret different representations of data in context; and
+(D) formulate questions that can be addressed with data, collect and organize relevant data,
+and draw appropriate statistical conclusions.
+(2) Statistical literacy is essential for both effective citizenship and personal well-being
+because of the everyday need to —
+(A) interpret and synthesize data displays and summaries, such as polls, surveys, and study
+outcomes; and
+(B) critically evaluate claims based on data —
+(i) as a consumer of the news media;
+(ii) in making medical decisions; and
+(iii) in making financial decisions, such as decisions related to a mortgage or a car
+repair.
+(3) Statistics provides tools for describing variability and uncertainty to support making
+informed decisions, both large and small. A foundation in statistical thinking helps
+individuals to evaluate risks and weigh the likelihood of various outcomes.”
+Dette er en sak vi vil forfølge, men det er kanskje ikke så lett lære alle detaljene i vårt
+ellers så spennende og anvendelige fag. Det er et tankekors at de gamle grekere gjorde
+fantastiske oppdagelser i så godt som alt som hadde med naturvitenskap å gjøre, men
+statistikk fikk de aldri taket på. Det var først rundt 1400-tallet og kanskje spesielt på 1600tallet at dette faget fikk vind i seilene. (Og kanskje en viktig grunn var at da var det lettvinte
+penger å tjene?)
+Jeg håper imidlertid mange vil tenke store og strategiske tanker angående foreningen
+vår fram mot årskonferansen og årsmøtet i sommer. (Se senere i bladet.) Synes dere det er nye
+tiltak som bør iverksettes for at vi, innenfor foreningens vedtekter, skal kunne nå våre mål?
+Og bør vi bli mer synlige og betydningsfulle?
+Magne
+
+
+
+4
+
+Fra redaksjonen
+Godt nytt år!
+Planen var egentlig å ha ferdig et julenummer, men desember ble for hektisk slik
+at det ble et nyttårsnummer istedet. I dette nummeret har vi ønsket å også
+innkludere lokalforeningene mer aktivt ved at de er blitt invitert til å skrive litt om
+aktivitetene som skjer ute i distriktene. Trondheims bidrag er denne gang sortert
+under «Møter og konferanser» ved et referat fra deres nå tradisjonelle Selbumøte, mens de øvrige lokalbidrag har fått sin egen plass i bladet.
+Av andre ting i dette nummeret nevner vi spesielt linken til en statistical rap laget
+av Ås-miljøet (se under «Nytt fra UMB»). Vi tar gjerne imot tips om andre
+lignende bidrag.
+Jeg minner ellers på at TG også finnes på nett – http://www.math.uio.no/nsf/ .
+Og husk å sende dine bidrag til Geir Storviks mailadresse geirs@math.uio.no !
+Neste nummer av TG vil kome utpå vårparten, frist for innsending blir 15. april
+2011.
+Geir Storvik
+
+
+
+5
+
+Stipendiatpresentasjon: Erik Vanem
+Statistics group, Department of Mathematics, University of Oslo, Oslo
+Title of thesis: Statistical modelling and simulation of extreme waves with climate change predictions
+Planned disputation: December 2012
+Supervisor: Arne Bang Huseby (UiO)
+Co-supervisors: Bent Natvig (UiO), Elzbieta Bitner-Gregersen (DNV)
+Having received my Master's degree (at that time called candidatus scientiarum or just Cand. Scient. in
+short) from the University of Oslo in theoretical physics in 1996, I stayed away from Academia for 13
+years before commencing my PhD-studies in statistics in 2009. During that time, I have had different
+positions for various companies: as a physics teacher for Oslo University College, as research assistant
+for FFI, working with offshore seismic acquisition for PGS reservoir, as a researcher for Telenor and
+for the last 6 years as a research scientist for DNV, working on different aspects of maritime safety and
+risk analysis. Having worked with risk analysis for many years, but with no formal education in neither
+statistics or risk, I wanted to investigate the opportunity of pursuing a PhD in risk analysis/statistics
+(my only previous course in statistics was ST001 from 1993!). I contacted Arne who was very
+enthusiastic about the idea. He managed to get financial support for my PhD project and together with
+Elzbeita, a senior researcher at Det Norske Veritas, we discussed several different topics before
+deciding to focus on statistical modelling of wave climate with a particular focus on the long-term
+effects of climate change. We also got Bent on board as co-supervisor, and beginning of 2009 I had
+already been accepted and was ready to start life as a PhD-student.
+The wave climate is very important for maritime safety and bad weather is one of the major causes of
+ship losses. Hence, it is important to take extreme sea state conditions into account in the design of
+ships and other marine structures, and also in various applications of maritime risk analysis, with due
+regard to the uncertainties involved. Current safety regulations and design standards are based on
+meteorological data for the last 50+ years. However, ships and other marine structures have lifetimes of
+several decades (typically 20-30 years for ships and 50-100 years for offshore installations), and
+ideally, the wave climate several decades into the future should be taken into account.
+Recently, there have been increasingly strong evidence for climate change, and it is deemed very likely
+that frequencies and intensities of extreme weather will increase in the future (according to the IPCC).
+One can therefore no longer assume that historic metocean data is a valid representation of the
+operational environment throughout the lifetime of ships and marine structures, and there is a need to
+consider future projections in order to take into account possible effects on the wave climate of climate
+change. In other words, there is a need for time-dependent statistical models that can take the long-term
+trends in integrated wave parameters into account and also adequately model the uncertainties
+involved.
+My PhD project aims at developing such time-dependent statistical models related to the wave climate,
+most notably for the significant wave height. So far, a thorough literature review have been carried out
+that has already been published, and a Bayesian Hierarchical Space-Time model has been developed
+for an area in the North Atlantic. Further work on extending this model is underway, and the idea is to
+base projections of future wave climate on regression with projections of future meteorological
+parameters such as sea level pressure or wind fields.
+In addition to the work with my PhD project, I feel privileged to be able to learn from the best and
+follow the various courses that are taught here at the University of Oslo. The group has been very
+
+
+
+6
+
+helpful in adapting my teaching responsibilities in such a way that I have been able to teach those
+undergraduate courses in statistics I need for my own sake in addition to the courses that is part of my
+PhD curriculum. I have learned a lot already and look forward to further deepen my understanding in
+statistics and risk in the months to come. I have also been given the opportunity to attend various
+conferences and present my work and receive input from fellow researchers from all over the world.
+Overall, I find the people here very supportive and encouraging and the working environment
+excellent. I am truly thankful for all the support and guidance I have received from my supervisors and
+the other academic and administrative staff here at the University, and from my fellow students.
+When not at the university, I am still involved in some research projects at DNV on an hourly basis. At
+home I have a wife and two kids - Oliver (4) and Amanda (2) – which keeps me busy most hours of the
+day, and in my spare time I am a passionate aikidoka, running a dojo in Oslo since 2003.
+
+Illustration 1: Ocean waves - the topic of my PhD project, and
+relevant to the safety of ships and other marine structures
+P.S: Jeg vet ikke hvem som har rettigheter til dette bildet, og det må antakelig sjekkes ut. Jeg fant det på
+denne hjemmesiden: http://onkayaks.squarespace.com/journal/2008/3/26/wednesday-march-26th2008-mt-stolt-surf.html Kanskje redaksjonen sitter på andre bølge-bilder eller har mulighet til å
+skaffe seg rettigheter til å bruke dette – jeg synes det var litt tøft.
+
+
+
+7
+
+Third Trondheim Symposium in Statistics
+«Third Trondheim Symposium in Statistics» ble arrangert 15.- 16. oktober
+2010 ved Selbusjøen Hotell & Gjestegård. Som navnet tilsier, så er dette
+nå tredje gang symposiet blir arrangert. Som tidligere år, så bestod
+arrangementskomitéen av professor Håvard Rue og postdoc Sara Martino.
+Midler til arrangementet kom fra Forskningsrådet («småforsk»).
+På programmet stod fem inspirerende foredrag med dyktige forskere fra
+inn- og utland. Det faglige programmet (se neste side) startet fredag
+ettermiddag med to foredrag, og så ble det servert middag med forrett og
+dessert, mens den statistiske praten gikk livlig. Kvelden fortsatte med
+passiar i baren, med mulighet for å knytte nye samarbeidsrelasjoner.
+Lørdag formiddag fortsatte det faglige programmet med tre foredrag, og
+symposiet ble avsluttet med lunsjservering.
+Totalt deltok det 40 statistikere på seminaret, fra Australia, Brasil,
+England, Frankrike, India, Irland, Iran, Italia, Kina, Nederland, Norge,
+Sverige og Tyskland.
+
+De fem inviterte fordragsholderne poserer foran
+Selbusjøen Hotell og Gjestegård
+
+
+
+8
+
+Arrangementet var interessant og lærerikt – og på vegne av alle som
+deltok vil jeg rette en stor takk til arrangementskomitéen. Jeg krysser
+fingrene for at jeg i 2011 får blir mulighet til å delta på «Fourth Trondheim
+Symposium in Statistics».
+PROGRAM:
+«Making and Evaluating Point Forecasts»
+Tilmann Gneiting
+Heidelberg University
+«Managing Uncertainty in Complex Models»
+Peter Challenor
+National Oceanography Centre, UK
+«Comparing predictors in a training-testing setting»
+Mark van de Wiel
+Dep. of Epidemiology & Biostatistics and Dep. of Mathematics
+VU University medical center and VU university, Amsterdam, Nederland
+«Forensic genetics and statistics»
+Thore Egeland
+Institute of Forensic Medicine, University of Oslo
+«Spatio-temporal point process modelling with applications in population
+ecology»
+Janine Illian
+School of Mathematics and Statistics, University of St Andrews, Scotland
+
+På vegne av deltakerne
+Mette Langaas
+
+
+
+9
+
+Stabil norsk deltakelse ved møtene til International Society for
+Clinical Biostatistics.
+31th Annual Conference of the International Society for Clinical Biostatistics ble
+arrangert i Montpellier 29.august-1.september 2010 med god deltakelse av
+norske biostatistikere. Av de ca. 480 deltakerne var der 11 fra Norge hvorav flere
+hadde postere og deltok på kurs og komitemøter. Kveldene ble benyttet til
+hyggelig faglig-sosialt samvær og på bildet sees Marit Fallet (Petters kone), Are
+Hugo Pripp, Morten W. Fagerland, Leiv Sandvik, Jan Terje Kvaløy (poster), Jörg
+Aßmus, Kathrine Frey Frøslie (poster), Stian Lydersen, Petter Mowinckel, og Bjørn
+Straume (fraværende ved bildet var Milada Cvancarova Småstuen (poster)). Legg
+merke til den signifikant plasserte lille P-en i bakgrunnen. Programmet finnes på
+http://www.iscb2010.info/. De årlige møtene er blitt et viktig treffpunkt for
+statistikerne i medisin og helsefag og blir i 2011 arrangert i Ottawa
+(http://www.iscb2011.info/00-welcome_e.shtml), og i 2012 i Bergen, Norge der
+en programkomitè ledet av Odd Aalen og en organisasjonskomité ledet av
+undertegnede er i full sving. Sett av de nye datoene 19.-23.august 2012!
+Geir Egil Eide, biostatistiker,
+Kompetansesenter for klinisk forskning, Helse Vest RHF,
+Haukeland universitetssykehus, Bergen.
+
+Fotograf: Geir E. Eide
+
+
+
+10
+
+XXVth International Biometric Conference
+i Florianopolis, Brasil, 5-10 desember 2010
+
+Konferansen ble avholdt på Federal University of Santa Catarina i delstaten Santa Catarinas
+hovedstad Florianopolis som ligger på den naturskjønne og frodige øya Santa Catarina (helt
+greit om du er litt forvirret) med forkurs søndag 5 og konferanse 6-10 desember. Det var
+inviterte sesjoner bl.a. om longitudinale data, økologi, genomiske data, relativ survival og
+intervall sensurerte data samt diverse paralelle påmeldte påmeldte foredrag og postersesjoner.
+Norske deltagere var, i tillegg til undertegnede, Magne Thoresen, Solve Sæbø og Jan Terje
+Kvaløy (Solve og Jan Terje hadde påmeldte foredrag) og Tore Schweder som var diskutant på
+et invitert sesjon. Været varierte fra solide regnskyll til god norsk sommer og var uansett et
+kjærkomment avbrekk fra minus 15, ikke minst med (for mitt vedkommende) en tur innom
+Rio på tilbakereisen.
+Bildet (tatt av undertegnede) er fra sambaframvisningen på konferansemiddagen og
+gjenspeiler bare deler av programmet.
+
+Sven Ove Samuelsen
+
+
+
+11
+
+Nordisk statistikermøte i København
+11-14 august 2010-11-29
+De fleste av TGs lesere kjenner til møteserien som kalles Nordic Conference on Mathematical
+Statistics (NORDSTAT) som går hvert annet år og som holdt sitt 23. møte på Voss i juni i år. Hva
+kanskje ikke så mange kjenner til, men som har lengre tradisjon er en annen møteserie som kalles
+Nordiske Statistikerrmøter. Dette er en møteserie som også går på rundgang mellom de nordiske
+landene og som nå holdt sitt 25. møte i Eigtveds Pakhus i København, arrangert av Dansk Statistisk
+Forening og Danmarks Statistik. Møtene går vanligvis hvert tredje år og var på Island i 2007. Serien
+Nordiske Statistikermøter er primært en møteserie for slike som befatter seg med offisiell statistikk og
+har en matematisk sett noe mykere og sosialt sett vesentlig høyere profil enn ”the Nordic
+Conferences”. Det var mottagelser hver dag og møtet ble avsluttet med festmiddag i Tivoli. Møtet
+samlet denne gangen vel 230 deltakere fra alle nordiske land, rundt 60 fra Norge.
+Som ofte er på slike møter var det i forkant av møtet et kurs. Denne gangen var Donald Rubin,
+Harvard University, invitert til å snakke om multippel imputering. Vel 50 deltok, hvorav syv fra
+Norge. Av de syv kom fem fra SSB og to fra Utdanningsdirektoratet. Ettersom kanskje ikke alle
+deltakerne var like matematisk-statistisk skolerte tok Rubin en tilpasset tilnærming ved å unngå å være
+teknisk og fremhevet heller ideene bak metoden. Han presiserte at det var ikke det at MI er så veldig
+bra, men at svært mange av de andre imputeringsmetodene som er på markedet er så mye dårligere.
+Det faglige programmet på møtet var for øvrig delt i fem deler
+0. Nordbotten and the Archive Statistical Method 1960-2010
+Åpningssesjon
+1. Utvikling I statistikkene
+2. Nye datamuligheter
+3. Statistikkproduksjonen
+4. Formidling
+Sesjon 0 om ble holdt dagen før den offisielle åpningen og parallelt med Rubins kurs. Det var en
+tributt til ære for professor Svein Nordbotten (informatikk, Universitetet i Bergen) som allerede i 1960
+utviklet ideen om å bruke administrative registre som grunnlag for produksjon av statistikk. De ideene
+han utviklet er nå et viktig grunnlag for statistikkproduksjonen i alle de nordiske landene. Nordbotten,
+som fyller 82 år 31. desember var selv til stede og holdt et av foredragene.
+Et av foredragene i åpningssesjonen var av professor Hans Rosling, universitetet i Uppsala og
+grunnlegger av gapminder.org som snakket om How to foster innovation in use of statistics. Rosling
+var hos Skavlan i 2009 som ”Mannen som gjør fakta morsomt”. Det var ett av de mest glitrende
+fordrag vi har sett. Et tilsvarende foredrag holdt ved en annen anledning kan sees på
+http://www.youtube.com/watch?v=hVimVzgtD6w. Det anbefales! Forøvrig kan programmet for
+møtet og noen av powerpoint-presentasjonene finnes på http://www.dst.dk/Sites/Nordic2010.aspx.
+Vi vil nevne at sist gang Norge arrangerte det nordiske møtet var i 1997 på Lillehammer og i 2013 er
+det igjen vår tur. Det er Norsk Statistisk forening sammen med SSB som har stått som arrangør og skal
+gjøre det igjen. Overskuddene av de møtene som har vært har gått til NSF og utgjorde et betydelig
+økonomisk fundament da foreningen ble omorganisert med nye vedtekter i 1985.
+
+Johan Heldal
+
+Magnar Lillegård
+
+
+
+12
+
+Møtedeltakerne
+
+
+
+13
+
+D e t 1 6 . Norske S t a tis tiker mø t e t
+NSF 2 0 11
+h t t p:// w w w. m a t h .n tn u .no/NSF 2 0 11 /
+Det 16. norske statistikermøtet vil bli arranger t på Røros hotell,
+Røros, med fo rk urs 1 4 . - 1 5 . juni , og kon fe r anse 1 5 . - 1 7.
+juni 2 0 11.
+Arrangør er Norsk Statistisk Forening, av deling Trondhei m.
+Organisasjonskomi téen består av Jo Eidsvik og M e t t e
+Lang a as (NTNU).
+Progra mko mi téen er ledet av Solve S æ bø (UMB) og øvrige
+medle m mer er Sigrunn Holbek Sørbye (Univ. Tromsø), Ingunn
+Fride Tvete (Norsk Regnesentral), og Bård Støve (Norges
+Handelshøyskole).
+Forkurset vil bli holdt av H å v a r d Ru e (NTNU), og vil inneholde
+både teori og hands-on m ed R (deltakerne har m ed laptop):
+«I n t e g r a t e d N es t e d Lapl ace App roxi m a tion: t h e or y a n d
+a p plica tions»
+Konferansen vil ha både invi ter te
+og påmeld te foredrag.
+Nettside for NSF2011 er oppret tet,
+men vil først på nyåret 2 0 11 ha
+spennende innhold. Der vil det da
+bli m ulig for deg å sende inn dit t
+faglige bidrag og melde deg på
+forkurs og konferanse på
+NSF2011-net tsiden.
+
+Foto: Sigurd Gart mann
+(htt p://www.flickr.com/photos/sigurdga/5012471045/)
+
+
+
+14
+
+Møter under planlegging
+The 3rd Nordic-Baltic Biometric Conference (NBBC11)
+will take place in Turku, Finland 5-9 June 2011. The Scientific Program Committee (SPC)
+chaired by Krista Fischer and Local Organizing Committee (LOC) chaired by Jukka Corander
+have already found a great number of scientific and cultural treats for those who will attain
+the conference. Details can be found on the conference website
+http://www.nbbc11.utu.fi/.
+There will be a pre-conference course on spatial statistics, key note lectures by Odd O. Aalen
+(Oslo) and David Balding (London) and special sessions on meta-analysis, models and
+surveillance of infectious disease, spatial extremes/extremes in weather and climate, bioinformatics and study designs in epidemiology. Topped by a steamboat-trip on Monday and
+conference dinner at the Turku Castle on Wednesday this is an event you should not miss!
+Welcome to NBBC11!
+The organizers
+Det 16. Norske Statiskermøte 2011.
+Møtet vil bli arrangert 14.-15. juni på Rørås Hotell. For mer detaljer, se eget innlegg.
+ISEC2012 i Oslo 4. -6. Juli 2012.
+Den 3. ISEC (International Statistical Ecology Conference) vil bli arrangert på Sundvollen
+med CEES (Center for ecological and evolutionary synthesis) som vertsinstitusjon.
+Programkomiteen ledes av Eric Rexstad som har med seg Steve Buckland, Tore Schweder,
+Carl Schwartz, Byron Morgan og Torbjørn Ergon. Organisasjonskomiteen ledes av Geir
+Storvik som har med seg Tore Schweder, Torbjørn Ergon, Trond Reitan og Jayne Lambrou.
+ISCB33 i Bergen 19.-23. august 2012.
+En lokal organisasjonskomité for 33rd Annual Conference of the International Society for
+Clinical Biostatistics er etablert bestående av Jan Harald Aarseth, Jörg Assmus, Ågot Irgens,
+Jan Terje Kvaløy, Tore Wentzel-Larsen, Stein Atle Lie og Geir Egil Eide. Ivar Heuch er
+assosiert medlem. Konferansen vil bli holdt i Grieghallen med mottakelse i Håkonshallen.
+En programkomité er også under etablering med Odd Aalen som leder.
+
+Fra redaksjonen: TG tar gjerne imot meddelelser om andre møter som er under planlegging.
+
+
+
+15
+
+SCANDINAVIAN JOURNAL OF STATISTICS
+Volume 37 • Number 4 • December 2010
+Contents:
+
+Page
+
+The Dantzig Selector in Cox’s Proportional Hazards Model
+Anestis Antoniadis, Piotr Fryzlewicz & Frédérique Letué
+
+531
+
+A Class of Convolution-Based Models for Spatio-Temporal Processes with
+Non-Separable Covariance Structure
+Alexandre Rodrigues & Peter J. Diggle
+
+553
+
+Two-Sample Bootstrap Hypothesis Tests for Three-Dimensional Labelled
+Landmark Data
+Simon P. Preston & Andrew T. A. Wood
+
+568
+
+Influence Functions for Dimension Reduction Methods: An Example Influence
+Study of Principal Hessian Direction Analysis
+Luke A. Prendergast & Jodie A. Smith
+
+588
+
+On the Bumpy Road to the Dominant Mode
+Hua Zhou & Kenneth L. Lange
+
+612
+
+Flat and Multimodal Likelihoods and Model Lack of Fit in Curved Exponential
+Families
+Rolf Sundberg
+
+632
+
+Empirical Likelihood Local Polynomial Regression Analysis of Clustered Data
+Liugen Xue
+
+644
+
+Optimal Composite Markers for Time-Dependent Receiver Operating
+Characteristic Curves with Censored Survival Data
+Hung Hung & Chin-Tsang Chiang
+
+664
+
+Inverse Probability of Censoring Weighted U-statistics for Right-Censored
+Data with an Application to Testing Hypotheses
+Somnath Datta, Dipankar Bandyopadhyay & Glen A. Satten
+
+680
+
+Goodness-of-Fit Tests for Bivariate and Multivariate Skew-Normal Distributions
+Simos G. Meintanis & Zdeněk Hlávka
+
+701
+
+Published on behalf of:
+Danish Society for Theoretical Statistics
+Finnish Statistical Society
+Norwegian Statistical Society
+Swedish Statistical Society
+
+
+
+16
+
+Pusleri nr. 30 (løsning)
+Problemstillingen var:
+”I en to-barnsfa(u)milie er det minst en gutt. Hva er sannsynligheten for at begge er gutter?”
+De fleste er nok allerede kjent med dette problemet, og vet at svaret er: ”Det kommer an på!”
+Dersom konteksten er tilbakeholding av informasjon blir svaret 1/3, mens dersom den første vi
+møter er gutt, blir svaret ½. Begge under standard uniformitetsantakelser. Nylig har det dukket
+opp en variant av denne:
+”Jeg har to barn, og en er gutt født på tirsdag. Hva er sannsynligheten for at begge er gutter?
+En første reaksjon er at: ”Tirsdag eller ikke kan da ikke ha noe å si!”
+Et mulig svar er: ”Det har alt å si!”
+Enig eller uenig?
+Løsning :
+Spørsmålsformuleringen samsvarer med
+tilbakeholding av informasjon. De mulige utfallene
+er beskrevet i figuren, der hver av de fire boksene
+svarer til kjønn for første og annet barn, hhv. GG,
+GJ, JG og JJ. De 2x7x2x7=196 mulige utfallene
+antas å være like sannsynlige. Vi ser at det er 27
+mulige utfall med minst en gutt født på tirsdag
+(uthevet), hvorav 13 har begge gutter (øverste
+venstre boks uthevet). Gitt at minst et barn er
+gutt født på tirsdag, er sannsynligheten for at
+begge er gutter 13/196:27/196=13/27.
+Mer generelt, dersom tilleggsopplysningen som gis har sannsynlighet p, blir den søkte
+sannsynlighet lik (2-p)/(4-p). Vi ser at p=0 gir ½ og p=1 gir 2/3. Det siste er løsningen på den
+tradisjonelle varianten av problemet med tilbakeholding av kjønnsinformasjon, og hvor et
+sikkert ekstrautsagn er verdiløst. Det første er grensetilfellet for svært spesifikk ekstra
+informasjon, eksempelvis ”Jeg har to barn, og en er gutt født 13 april” eller enda nærmere
+grensen: ”Jeg har to barn, og en er gutt som heter Magne”. Slik sett vil det altså gjøre noe hvis
+vi bytter ut ”13 april” med ”29 februar” og ”Magne” med ”Tjostolf”!
+(fortsatt neste side)
+
+
+
+17
+
+I den alternative konteksten at den første vi møter i to-barnsfamilien er gutt, må vi presisere at
+ekstraopplysningen er gitt som ”Jeg har to barn og (minst) en er født på tirsdag” og ikke at den
+første vi møter er gutt, som på spørsmål om hvilken dag han er født, svarer tirsdag. I vår
+situasjon kan en utvide utfallsrommet til å registrere hvilket kjønn det påtrufne barn har. Vi får
+da to tablåer som ovenfor, gjengitt i skjematisk form nedenfor, det venstre for påtruffet gutt,
+det høyre for påtruffet jente. Antar vi at det er like sannsynlig at det er første som annet barn
+som påtreffes først, blir sannsynligheten for de ulike utfall gitt ved 1/196 multiplisert med den
+angitte faktor i hver av de fire 7x7 cellene i hvert tablå. Nå blir den søkte sannsynlighet etter
+forkorting i teller og nevner lik 13/(13+7)=13/20.
+G
+
+J
+
+1
+
+1/2
+
+0
+
+1/2
+
+1/2
+
+0
+
+1/2
+
+1
+
+Dersom den gitte tilleggsopplysning har sannsynlighet p, blir den generelle formel (2-p)/(3-p). Her ser vi
+at p=0 gir 2/3, mens p=1 gir ½. Det siste innebærer verdiløs tilleggsopplysning, og samsvarer med
+opprinnelige varianten av problemet, med den først påtrufne gutt, uten andre opplysninger.
+Til slutt: I situasjonen der den første vi møter er gutt, og vi spør om hvilken dag han er født, er
+
+åpenbart sannsynligheten for at begge er gutter lik ½ uansett guttens svar.
+Kanskje er ikke siste ordet sagt om dette?
+
+Pusleri nr. 31
+I en fotballturnering deltar åtte lag, fire av disse er seedet foran de andre fire. Det spilles cup, og første
+runde (kvartfinalen) er oppsatt slik at hvert seedet lag møter et useedet. Anta at sannsynligheten for at
+et seedet lag slår et useedet er p>1/2, og at i kamper mellom likt seedede lag har begge sannsynlighet ½
+for å vinne.
+(a) Hva er sannsynligheten for at
+i.
+ii.
+iii.
+iv.
+
+Et gitt (u)seedet lag når finalen?
+Et gitt (u)seedet lag vinner?
+Et gitt (u)seedet lag når finalen?
+Et (u)seedet lag vinner?
+
+(b) Hva må p være for at sannsynligheten for at seedet lag vinner blir dobbelt så stor som for useedet?
+Svar til jostein.lillestol@nhh.no
+
+
+
+18
+
+STATISTISK FORENING I BERGEN
+Opprettet 15/12 1983
+Det ble avholdt årsmøte i Statistisk forening Bergen torsdag 21. oktober kl
+17:00. Det var 12 fremmøtte statistikere. Stein Håkon Lygre ga oss en
+oversikt/introduksjon til emnet Competing risk models. Dette var tema for Stein
+Håkons prøveforelesning i forbindelse med disputasen 24. september i år.
+Etter foredraget ble årsmøtet avholdt og Anne Marie gikk igjennom følgende
+saksliste:
+1) Innkalling ble godkjent.
+2) Marie gikk igjennom årsberetningen for 2009, det ble avholdt ett
+medlemsmøte.
+3) Terje orienterte om regnskapet, revisor Bård Støve. Ingen kommentarer
+til dette.
+4) Dag orienterte om NORDSTAT konferansen. Har fått positive
+tilbakemeldinger. Flere sponsorer (NFR, NHH etc), utgifter fordelt på
+disse, og regnskapet viser et overskudd med sponsormidlene.
+Overskuddet blir tilbakeført til sponsorene og det må rapporteres til
+sponsorene hvordan midlene er brukt.
+5) Valg: Styret tok gjenvalg 2010-2011. I tillegg ble Øystein Håland, PhD
+student, valgt inn i styret.
+6) Eventuelt Trygve orienterte: Aktuarforeningen vil bevilge støtte til
+studenter som vil delta på Aktuarforeningens møte (middag) i Bergen,
+som fra 2010 vil være en gang i året. Anne Marie undersøker om dette
+skal styres gjennom BSF da det ikke er noen egen studentforening i
+Bergen.
+Websidene må oppdateres. Astrid følger opp dette.
+Anne Marie: Foreningen vurderer å holde et kurs høsten 2011, 1.5 dag.
+Hun oppfordret alle til å komme med forslag på spennende tema og
+foredragsholdere.
+Bård: Trondheim arrangerer det Norske statistikermøte 14-16 juni 2011.
+Send inn foredrag/abstracts!
+Møtet ble avsluttet med bildeserie fra NORDSTAT (Geir Egil Eide). Det ble servert
+pizza og drikke.
+Det nye styret består av:
+Leder:
+Anne Marie Fenstad (gjenvalg)
+Kasserer:
+Terje Schaatun (gjenvalg)
+Sekretær:
+Astrid Lunde (gjenvalg)
+Styremedlem: Ågot Irgens (gjenvalg)
+Styremedlem: Øystein Håland
+
+
+
+19
+
+Temakveld i lokalforeningen av Norsk statistisk forening i Oslo, 9.november, 2010
+34 personer hadde denne gangen tatt veien til Gaustadalléen 23B for å delta på høstens
+temakveld. Møtet ble tradisjonen tro innledet med pizza fra Peppes pizza (som denne gangen
+leverte et kvarter for seint og har dermed fått sparken som fast leverandør) og forfriskninger.
+Tema denne gangen var modellering av lovbruddstilbøyelighet. Torbjørn Skardhamar,
+Statistisk Sentralbyrå, har skrevet en doktoravhandling om kriminalitet gjennom livsløpet. I
+dette arbeidet har han blant annet jobbet sammen med Tore og Simen Gan Schweder.
+Den første delen av hans avhandling tar for seg teoretiske og statistiske tilnærminger i studier
+av lovbruddskarrierer. Når man studerer lovbrudd personer begår over år brukes gjerne en
+Poisson modell med tilfeldige effekter for å korrigere for korrelerte observasjoner som følge
+av uobserverbar heterogenitet. Man har gjerne tolket en slik diskret fordeling som en
+typefordeling, og der individene blir klassifisert som ulike "Lovbrytertyper".
+Man kan da spørre seg hvilken fordeling det er rimelig at den latente variabelen skal ha, og
+om andre valg av fordeling en den brukte normalfordelingen endrer den tradisjonelle
+fortolkningen. Dette leder til en diskusjon om generelle i forhold til typologiske teorier
+innenfor fagfeltet, der man kan spørre om det trengs ulike teorier for ulike typer lovbrytere.
+Torbjørn viste i sine arbeider problematiske sider ved de etablerte statistiske metodene, og at
+tolkning av tidligere empiriske funn bør revurderes.
+Torbjørn mottok prisen The 2010 ESC Young Criminologist Award, gitt av European Society
+of Criminology, for sitt doktorgradsarbeid.
+Jeg vil benytte anledningen til å takke foredragsholderen for et flott foredrag!
+Ingunn Fride Tvete
+
+
+
+20
+
+NYTT FRA TRONDHEIM
+Nye PhD studenter (H 2010):
+•
+•
+•
+
+Petter Arnesen. Veileder:Håkon Tjelmeland
+David Lindberg. Veileder: Henning Omre
+Thiago Guerrera Martins. Veileder: Håvard Rue
+
+Disputaser (H 2010):
+•
+
+Jon Sætrom. 30 Nov, 2010. Tittel: ’ Reduction of Dimensionality in Spatiotemporal
+Models’. Til å bedømme avhandlingen er oppnevnt: Professor Hans R. Kuensch,
+Seminar für Statistik, ETH Zentrum, Zürich, Switzerland. PhD Geir Evensen, Statoil
+Research Centre, Bergen. Førsteamanuensis Ingelin Steinsland, Institutt for
+matematiske fag, NTNU.
+Oppgitt emne.«Scoring rules for evaluating probabilistic forecasts»
+
+Selbu symposium (H 2010):
+Det tredje statistikk symposiet i Selbu ble holdt 15-16 oktober, 2010. Totalt 39 ivrige
+statistikere fra Trondheimsmiljøet deltok sammen med en håndfull inviterte. De inviterte
+foredragsholdere var:
+• Tilmann Gneiting (Heidelberg University),
+• Peter Challenor (National Oceanography Centre, UK),
+• Mark van de Wiel (VU University, Amsterdam),
+• Thore Egeland (Universitetet i Oslo),
+• Janine Illian (University of St Andrews, Scotland)
+
+
+
+21
+
+Nytt fra UMB
+Biostatistikk ved UMB har laget en "statistical rap" se:
+http://www.youtube.com/watch?v=igRZbl5vPsI (Bruk høyt lydvolum)
+
+Nye PhD- kandidater
+Kristian Hovde Liland forsvarte 22. januar 2010 sin avhandling:
+"Multivariate analysis – method development and novel applications in spectrometry."
+Emne for forelesning: "PLS in regression and classification: A historical review."
+Veiledere: Trygve Almøy og Ulf Indahl
+Anne-Grethe Roer mai forsvarte 21. Mai 2010 sin avhandling:
+"Application of Bayesian calibration for propagation of uncertainty in dynamic models."
+Emne for forelesning "Global sensitivity analysis for complex models."
+Veiledere: Trygve Almøy UMB og Trond Rafoss, Bioforsk.
+Nye Master-kandidater:
+Lars Nuvin: "Estimation of crack growth rate in metal specimens using statistical methods"
+Veileder: Trygve Almøy
+Nye ansatte:
+Thore Egeland er ansatt som professor i statistikk ved UMB fra 1. januar 2011.
+
+
+
+22
+
+NYTT FRA AVDELING C, MATEMATISK INSTITUTT, UiO
+Nye PhD-kandidater:
+Pål Nicolai Henriksen forsvarte 10. desember 2010 sin avhandling
+Computational Methods with Applications in Finance and Insurance
+for graden ph.d.
+Veiledere: Fred Espen Benth og Frank Proske
+Bedømmelseskomite: Bjarne Astrup Jensen, Svein-Arne Persson, Giulia Di Nunno
+Nye Master-kandidater:
+Sam-Erik Walker: Probabilistic modelling of air pollution from road traffic
+Veileder: Geir Storvik
+Tekniske rapporter:
+I. Scheel, P. J. Green, J. C. Rougier: Applications of the Local critique plot
+Forskningsterminer:
+Ingrid Glad og Erik Bølviken har undervisningsfri våren 2011.
+Ansettelser:
+Magne Aldrin, Norsk Regnesentral er ansatt som professor II fra 1. oktober 2010.
+Sluttet:
+Anders Skrondal har sluttet som professor II.
+Gjester:
+Manuel Garcia Magaricos (University of Santiago de Compostela), mai-august
+
+
+
+23
+
+Nytt fra Universitetet i Bergen - Det medisinsk-odontologiske fakultet (MOF):
+To biostatistikere i Helse Vest har disputert for Ph.D.-graden ved MOF, hhv.
+Roy Miodini Nilsen, som 23.04.2010 forvarte sin avhandling:
+"Folate and reproductive health - An epidemiologic study of folic acid supplement use and its relation
+to birth outcomes in Norwegian pregnant women".
+Hovedveileder: S. E. Vollset
+Opponenter: L. J. Vatten, P. Laake, M. Bråtveit
+Info: http://www.uib.no/info/dr_grad/2010/Nilsen_RoyMiodini.html
+Stein Håkon Låstad Lygre, som 24.09.2010 forsvarte sin avhandling:
+"Pain, function and risk of revision after knee arthroplasty"
+Hovedveileder: S. E. Vollset
+Opponenter: K. G. Nilsson, S. O. Samuelsen, K.-M. Myhr
+Info: http://www.uib.no/info/dr_grad/2010/Lygre_SteinHakonLastad.html
+
+
+
+24
+
+Norsk Statistisk Forening
+
+Kasserer: E-mail: clara-cecilie.gunther@nr.no
+
+Tlf: 22 85 25 63
+
+Postgirokonto: 0530 27 73299
+
+_____________________________________________
+
+Årskontingent Norsk Statistisk Forening 2011
+Medlemskontingent i NSF er kr. 200,- pr. år for ordinære medlemmer (mastergradsstudenter får gratis medlemskap). På
+adresselappen bakpå TG står det anført siste år vi har mottatt kontingent fra deg. Sjekk adresselappen! De som ikke har
+betalt for tidligere år gjør dette sammen med kontingenten for 2011. Dersom du mener betalingsinformasjonen ikke
+stemmer, gi beskjed til clara-cecilie.gunther@nr.no.
+NB: Dersom din arbeidsgiver betaler kontingenten, sørg for at navnet ditt kommer med på innbetalingen.
+Hva gjør vi med pengene?
+De største utgiftspostene for NSF er overføringer til lokallagene i Oslo, Bergen og Trondheim, NSFs medlemskap i the
+European Mathematical Society (EMS) og the International Statistical Institute (ISI), utsending av TG, og utgifter i
+forbindelse med diverse arrangementer (bla. støtte til studenter ved deltakelse på det norske statistikermøte).
+Medlemsregister
+For at medlemsregisteret skal være best mulig oppdatert er det viktig at du oppgir evt. ny post/e-postadresse ved å sende
+meg en e-post. Vi har opprettet en egen mailingliste for NSFs medlemmer, nsf-medlemmer@math.uio.no. Dersom du ikke
+mottar e-post på denne lista, send meg din oppdaterte e-postadresse.
+Betalingsfrist for innbetaling av kontingent er 1. mars 2011. Vennligst oppgi hvem kontingenten gjelder for ved
+innbetaling.
+PÅ FORHÅND TAKK!
+Vennlig hilsen
+Clara-Cecilie Günther
+Kasserer NSF
+
+Kontingent NSF 2011: kr. 200
+
+01.03.2011
+
+NSF v/ Clara-Cecilie Günther
+Norsk Regnesentral
+Postboks 114, Blindern
+0314 Oslo
+
+0530 27 73299
+
+
+
+RETUR:
+Norsk Statistisk
+Forening
+v/Clara-Cecilie Günther
+Norsk Regnesentral
+Postboks 114, Blindern
+0314 Oslo
+
+B
+
+Redaksjon:
+Ingrid K. Glad
+Sven O. Samuelsen
+Geir Storvik
+Innsending av bidrag til
+geirs at math.uio.no
+innen 15. april 2011
+
+
+

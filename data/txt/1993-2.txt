@@ -1,0 +1,4550 @@
+ISSN 0803-8953
+
+TILFELDIG GANG
+Nr. 2, årgang 10
+
+Juni 1993
+
+Utgitt av Norsk Statistisk Forening
+
+INNHOLD
+
+Fra avtroppende redaktør. Jan F. Bjørnstad
+Fra den avtroppende formannen i Norsk Statistisk Forening. Trygve Nilsen
+Fra formannen i Norsk Statistisk Forening. Eivind Damsleth
+
+Utdanning
+Uteksaminerte cand.scient. /siv.ing. og dr.scient./dr.ing. i statistikk 1984-1992.
+
+Oppdatert
+Faglige innlegg
+Portretter:
+
+Cardano - spelare och sannolikhetspionjår. Gunnar Blom
+Gauss och felfordelingen. Lennart Bondesson
+
+Sammendrag av doktoravhandling:
+Dynamiske konturer og bildebehandling. Geir Storvik
+Bokanmeldelser:
+
+E.S. Pearson: Student. Henrik Dahl
+James W. Tankard jr.: The Statistical Pioneers. Henrik Dahl
+A. Hawkins, F. Joliffe, L. Glickman: Teaching Statistical Concepts. Henrik Dahl
+
+Sammendrag av innlegg ved Det 7. norske statistikermøte, 14.-16. juni:
+Jan Aarseth, Henrik Dahl, Alfhild Lien Eide, Ingrid K. Glad, Johan Heldal,
+Hans A. Karlsen, Rolv Terje Lie, Per Mykland, Trond Riise, Sven Ove Samuelsen,
+
+Tore Schweder, Hans J. Skaug, Geir Storvik, Per H. Zahl, Lars Ødegaard,
+
+Bernt Øksendahl
+
+Fra New Scientist:
+
+Gambling on the wrong numbers from Monte Carlo. William Brown
+Konferanser
+
+Jubileumssymposium Harald Cramér 100 år
+Stockholm 24.-25. september. Påmelding
+Modelling Change in Environmental and Socioeconomic Systems.
+Perth, Australia 6.-10. desember 1993
+
+The Fourth Conference on Teaching Statistics. 25.-30. July 1994,
+Marrakech, Marokko. Call for papers
+Meldinger
+
+Referat fra Årsmøte i Norsk Statistisk Forening, Ustaoset, 14. juni 1993
+
+Beretning fra Styret i Norsk Statistisk Forening 1991-1993
+Rekneskap for Norsk Statistisk Forening, 1991 og 1992
+
+Årsberetning 1992. Statistisk forening i Bergen
+Årsberetning 1992. Statistisk forening i Trondheim
+Nytt fra universiteter og høyskoler
+Medlemskap i Norsk Statistisk Forening
+
+Bidrag til TG
+
+
+
+
+
+Fra redaktøren
+
+NSF har nettopp avsluttet sin 7. norske konferanse på Ustaoset, med ialt 58
+deltagere. Det ble en vellykket konferanse, både faglig og sosialt. Den faglige
+delen var preget av mange interessante temaer. For de som ikke var tilstede på
+møtet, bringer dette nummeret av TG et sammendrag av alle innleggene. Det som
+ikke går fram av sammendragene var den gjennomførte høye kvaliteten på alle
+
+presentasjonene. For en som har vært med en del ganger på slike konferanser er
+det hyggelig å konstatere at statistikere nå ser ut til å ta mer hensyn til publikum
+enn før.
+
+Årsmøtet vedtok å øke kontingenten til kr. 150 og kr. 50 for studenter (fra 1994).
+Redaktøren var så dristig først å foreslå kr. 200, men det var tydelig at sjokket
+ble for stort nå i første omgang. Ønsker vi imidlertid at NSF skal arbeide for
+faget og profesjonen i Norge, så må man legge seg på et annet aktivitetsnivå
+og dermed en annen sort kontingent. Som nevnt i min spalte i forrige TG så
+er det flere oppgaver som Norsk Statistisk Forening naturlig kan interessere seg
+for, bl.annet fagets rolle i skolen og media. Det er f.eks., ikke tilfredsstillende at
+betegnelsen ”statistiker” synes å være ukjent for norske aviser.
+
+TG har innledet et samarbeid med det svenske medlemsbladet Qvartilen. Portrettene av Cardano og Gauss i dette nummeret er det første resultat av dette samarbeidet. Det vil også være av interesse å samarbeide med Qvartilen om en beskrivelse av statistikkmiljøer i Norge og Sverige. Jeg overlater til den nye redaksjonen
+eventuelt å følge opp dette.
+
+Tilslutt vil jeg få takke for meg som redaktør i TG. Det har vært en interessant
+et
+og utfordrende jobb. Jeg vil takke alle som har bidratt til at TG er blitt
+har
+Det
+medlemsblad som medlemmene i foreningen ser ut til å sette pris på.
+ikke alltid vært like lett å få bidrag til TG, og telefonen har blitt benyttet flittig
+til å pleie ”dårlige samvittigheter”. Noen har, imidlertid, gjort denne delen av
+
+redaktørjobben lettere, og jeg vil rette en spesiell takk til Jostein Lillestøl og
+Henrik Dahl for deres interesse for TG. En takk også til Trygve Nilsen og Leiv
+Solheim for godt samarbeid. Solheim har stått ansvarlig for trykking og utsending
+av TG i min periode (og flere år før 1991). Det er ikke få timer som har gått med
+til frankering og adressering.
+
+Det ville ikke vært mulig å presentere TGi sitt nåværende format uten hjelpen
+fra førstesekretær Inger Seehuus. En takk til Inger for alltid positiv og velvillig
+hjelp.
+
+For den neste toårsperioden vil redaksjonen flytte til Ås, og bestå av Inge Helland
+
+(ansvarlig redaktør) og Are Aastveit (teknisk redaktør). Jeg vil ønske dem lykke
+
+til med arbeidet videre!
+Jan F. Bjørnstad
+
+
+
+Fra den avtroppende formannen i Norsk Statistisk Forening
+Jeg er nettopp kommet hjem fra det 7. norske statistikermøtet på Ustaoset. Deltagerlisten inneholdt mange ukjente navn, og mange av de *eldre” som jeg hadde
+ventet at skulle være på møtet, manglet. Sammenliknet med det første møtet på
+Røros i 1981 var dette en ungdommelig forsamling, og jeg lurte på om de etablerte
+
+hadde viktigere ting fore. Ved nærmere ettertanke kom jeg til at dette første inntrykket var feil av to grunner: For det første er jeg blitt tolv år eldre og representerer nok de eldre på samme vis som andre gjorde det på Røros, og for det andre er
+den norske statistikerpopulasjonen vesentlig endret siden den gangen. I de mellomliggende årene er det utdannet flere statistikere enn noen sinne, og aldersfordelingen
+er langt fra stabil. Alt i alt innbiller jeg meg at den hyggelige forsamlingen på
+Ustaoset var ganske så representativ for det norske statistikermiljøet.
+På Røros i 1981 fikk vi for første gang se en “industristatistiker”. Han var ansatt
+
+i Norsk Hydro. Vel, han var ikke en ekte statistiker, men en teknisk fysiker fra NTH
+som hadde lært seg statistikk på egen hånd. Men han arbeidet da som statistiker
+i en industribedrift. Det var godt for oss lærere å konstatere at det var behov for
+statistikere i det *virkelige” livet og ikke bare som konsulenter i hel- eller halvstatlige
+forskningsinstitutter.
+
+Dette ønsket om et større mangfold i statistikernes arbeidssteder synes å bli
+realisert nå som det blir flere av oss. Det er meget gledelig at næringslivet synes å
+sette pris på våre kunnskaper.
+
+Arbeidssituasjonen for de nyutdannete er dermed også endret. Det er ikke lenger
+teoretiske metodologiske problem som opptar dem. De henvendelsene som vi mottok
+fra *brukere” av statistikk og betraktet som lite meriterende *venstrehåndsarbeid”
+er nå blitt hovedbeskjeftigelsen for mange. Denne type arbeid er vokset i omfang
+og alvor og blitt utgangspunt for mye godt arbeid.
+
+I samarbeidssituasjoner blir statistikeren ofte likevel betraktet som en konsulent
+på et begrenset felt, og det er det ikke alltid at han oppnår status som likeverdig
+medarbeider. Her nærmer jeg meg noe som likner et fagforeningsproblem: Identifikasjon av profesjonen. Bør NSF arbeide for annerkjennelse av statistikeren som en
+fullverdig samarbeidspartner, eller skal vi bare forbli konsulenter og være fornøyd
+med en takk i slutten av arbeidet?
+.
+På hovedmøtet i NSF ble Eivind Damsleth valgt til formann. Han arbeider i
+reservoaravdelingen i Norsk Hydro. Det er første gang i foreningens nyere historie
+at det er en utenfor universitetsystemet som overtar ledelsen, og det gleder meg. Jeg
+vil benytte anledningen til å ønske ham og hele det nye styret lykke til og samtidig
+på vegne av det avtroppende styret å si takk for oss.
+Trygve Nilsen
+
+
+
+KJÆRE
+
+KOLLEGER!
+
+Ved et skifte av styre er det den nye formannens første plikt å rette en varm
+takk til det avtroppende styret for vel utført arbeid. Med Trygve Nilsen i spissen
+har de loset foreningen problemfritt gjennom de siste to årene, med det meget
+vellykkede nordiske møtet på Røros i fjor og det nylig avholdte norske møtet på
+Ustaoset som høydepunkter. TG har hatt en meget tilfredsstillende utvikling
+under Jan Bjørnstads sikre hånd, og Ole Lauvskar har styrt økonomien med
+godt resultat. Resten av styret: Geir Eide, Leiv Solheim og John Tyssedal har,
+sammen med vararepresentanter, revisorer og undervisningsutvalg, bidratt til
+at foreningen er i høyeste grad oppegående.
+
+Tradisjonelt har NSF hentet majoriteten av sine tillitsmenn fra U&H og
+FoU miljøene. Det har jo vært greit - de fleste av medlemmene kommer fra
+slike institusjoner, så hvis styret skal være noe slags representativt utvalg må
+det jo bli slik.
+
+I de senere år har det imidlertid vært en gledelig økning i etterspørselen etter
+statistikere i industri og næringsliv. Jeg husker et møte i NSF tidlig på 70-tallet
+der landets eneste industristatistiker, Nils Standal, fortalte om sine erfaringer.
+Det gleder meg at han ikke lenger er alene, nå er vi hvertfall statistikere i Ny-
+
+comed og annen legemiddelindustri, i Medstat og MMI, og (i all beskjedenhet)
+
+i oljeselskapene Statoil og Norsk Hydro.
+
+Om ikke annen så for å sikre representativiteten har det derfor vært en glede
+for meg å takke ja til vervet som formann i foreningen. Jeg planlegger definitivt
+ingen palassrevolusjon - egentlig er vel ikke forskjellen mellom undervisning,
+
+forskning og næringsliv SÅ stor! Kanskje er det mest et spørsmål om uttale:
+
+Skal det hete matematisk statistikk eller matematisk statistikk?
+Uansett, sammen med det nyvalgte styret ser jeg frem til å lede foreningen
+i en periode fremover, og vi vil forsøke å bidra til en ytterligere styrking av
+faget, av fagidentiteten, og til samspill og samarbeid både innenfor og utenfor
+arbeidstiden.
+Eivind Damsleth
+
+
+
+UTEKSAMINERTE CAND.SCIENT./SIV.ING.
+
+OG DR.SCIENT./DR.ING
+
+I STATISTIKK, 1984-1992. OPPDATERT
+
+Tabellen presenterer produksjonen av cand.scient.(UiO,UiB,UiTø,AVH) og siv.ing. (NTH) i
+statistikk for årene 1984-1992, inkludert noen cand.real.i årene 84-85. Tallene i parentes for
+UiO gjelder forsikringsmatematikk-delen av totalen. UNIT, AVH startet med cand.scient.utdanningen i 1987.
+
+(TG 1992 nr.4 presenterte en tabell som ga feilaktige opplysninger om UiB på grunn av underrapportering
+
+til TG. Blant annet ble det oppført i alt 15 uteksaminerte cand.scient/cand.real., mens det korrekte tallet er 22.)
+Cand.scient./siv.ing.
+
+UiO
+
+UiB
+
+UiTø
+
+UNIT,AVH
+
+falt
+
+UNIT,NTH
+
+1984
+
+1(1)
+
+1
+
+-
+
+-
+
+2
+
+1985
+
+6(0)
+
+2
+
+1
+
+-
+
+9
+
+4
+4
+
+1986
+
+7(4)
+
+3
+
+1
+
+-
+
+11
+
+-
+
+1987
+1988
+1989
+1990
+1991
+
+5(3)
+
+1
+
+-
+
+-
+
+6
+
+6
+
+9(1)
+
+3
+
+-
+
+-
+
+12
+
+5
+
+4(2)
+7(3)
+
+2
+a
+
+-
+
+3
+
+6
+15
+
+3
+12
+
+1403)
+
+3
+
+1
+
+-
+
+18
+
+4
+
+1992
+
+9(2)
+
+2
+
+-
+
+2
+
+13
+
+16
+
+falt
+
+62(19)
+
+22
+
+3
+
+2
+
+92
+
+54
+
+Dr.scient.( dr.ing. ved NTH)
+
+1984
+
+1
+
+,
+
+-
+
+-
+
+1
+
+.
+
+1985
+
+<
+
+-
+
+-
+
+:
+
+:
+
+-
+
+1986
+
+,
+
+:
+
+:
+
+-
+
+-
+
+-
+
+1987
+
+.
+
+1988
+
+1
+
+1989
+
+2
+
+1990
+
+1
+
+1991
+
+-
+
+1992
+
+;
+
+:
+
+-
+
+-
+
+-
+
+:
+
+Ialt
+
+5
+
+3
+
+-
+
+-
+
+8
+
+3
+
+
+
+Det svenske medlemsbladet Qvartilen
+har startet en portrettserie om statistiske
+pionerer. Med tillatelse fra forfatterne og
+Qvartilen gjengis to av artiklene her, en om
+Cardano av Gunnar Blom og en om Gauss
+av Lennart Bondesson.
+
+Cardano - spelare och sannolikhetspionjår
+Girolamo Cardano, född 1501 i Milano, död 1576 i Rom, var en mångsidig
+man. Han var professor i medicin i Pavia och senare i Bologna och var som
+låkare synnerligen framgångsrik. Mest kånd år han som matematiker, och
+hans ”Ars Magna”, dår 1500-talets matematiska vetande hopsamlats, har
+haft stort inflytande.
+
+Dår finns exempelvis Cardanos formel för lösning
+
+av tredjegradsekvationen (som dock inte var hans eget verk, vilket han
+oförbehållsamt erkånner).
+
+Om Cardano hade levat idag hade han förmodligen gett patentverken åtskillig
+sysselsåttning; den kardanska upphångningen år en av hans många uppfinningar.
+För Övrigt skrev han ett hundratal skrifter om allt mellan himmel och
+jord; om sjålens odödlighet, om musik, om kejsar Nero, om ådelstenar, om
+
+horoskop. Man kan nu efteråt beklaga att Cardano ågnade sig så mycket åt
+spåkonst, ty somliga historeskrivare har av den anledningen försett honom
+
+med en kvacksalvarståmpel som blockerat en riktig vårdesåttning av hans
+
+insatser på andra områden.
+Cardano var, lindrigt sagt, en ivrig spelare. I sin sjålvbiografi skriver han:”
+Under många år - mer ån 40 år vid schackbrådet och 25 år vid spelbordet - har jag spelat, inte nu och då, utan skam till sågandes varje dag.
+Dårigenom har jag förlorat rykte, ågodelar och tid.” Men ingenting ont som
+inte har något gott med sig: Ett resultat av all denna aktivitet blev Car-
+
+danos berömda skrift ”Liber de Ludo Aleae” (Boken om hasardspel), som
+.måhånda kan betraktas som den första skriften om sannolikhetskalkyl.
+Denna skrift, som trycktes först i slutet av 1600-talet, erbjuder en nöjsam
+låsning. Den år inte alls en lårobok i sannolikhetskalkyl utan ett slags handbok i hasardspelets konst, dår författaren hår och dår visar upp moralistens
+strånga anlete genom att fördöma spelandet. ”Playing the lute or the virginals, or singing, or composing poetry will be more useful...”
+
+Citatet år håmtat från den översåttning till engelska av ”Liber de Ludo
+Aleae” som ingar i matematikern Oystein Ores bok ”Cardano - the Gambling
+Scholar” (Princeton University Press 1953).
+Ore har med viss méda lyckats dechiffrera de sannolikhetsberakningar som
+finns inströdda i Cardanos bok. Med Ores kommentarer till hands år det
+trevligt att följa Cardano på dennes mödosamma våg i sannolikhetskalkylens
+labyrint. Han beger sig flera gånger in på galna vågar, slår emot en vågg i
+
+labyrinten, konstaterar lugnt att resonemanget år orimligt och letar upp en
+
+
+
+ny våg. Efter att ha sållskapat med den mårklige mannen en stund undrar
+man båvande hur nutidens matematiska litteratur skulle se ut om alla skreve
+som han.
+
+I ”Liber de Ludo Aleae” återfinner man, såvitt kånt för första gången, den
+klassiska sannolikhetsdefinitionen som kvot mellan gynnsamma och möjliga
+fall. Den tillåmpas sedan på olika spelsituationer. Eftersom man på 1500talet vanligen spelade med flera tårningar samtidigt, får Cardano hårvid
+hårda nötter att knåcka.
+
+Rått roande for den som ”tittat i facit” år det att följa forfattarens anstrangningar
+vid beråkning av sannolikheten för minst en etta vid kast med tre symmetriska tårningar. Långe håller Cardano fast vid att den år 1/2 för att i
+mitten av boken upptåcka att det korrekta vårdet år 91/216. Sedan följer
+hans verkliga eldprov: att beråkna sannolikheten för att vid tre kast med
+tre tårningar i taget erhålla minst en etta vid varje kast. Efter en felaktig
+gissning, som han skarpsinnigt vederlågger, finner Cardano det riktiga svaret
+
+(91/216)* = 753571/10077696. Med hjålp av detta och liknande exempel
+finner han multiplikationsregeln för oberoende håndelser.
+
+Upptåckten av sannolikhetsdefinitionen och den just nåmnda multiplikationsregeln får nog anses vara det finaste Cardano gjort som sannolikhetsforskare. Han diskuterar också helt kort matematisk forvantan för poangsumman
+vid ett hasardspel - ett århundrade före Huygens.
+
+Ores sammanfattande omdöme lyder: ”Det år en vårderingsfråga om man
+
+- tvårt emot den nu rådande historievetenskapliga uppfattningen - kallar
+Cardano sannolikhetskalkylens upphovsman eller dess fråmste pionjår men
+ettdera år han.” På grund av den sena publiceringen av ”Liber De Ludo
+
+Aleae” fick Cardanos insatser inte någon direkt inverkan på sannolikhetskalkylens utveckling. Girolamo Cardano år dårför idag i vara ögon framst
+
+en pionjår, som långt fore Fermats och Pascals tid var i stand att utfora
+vissa grundlåggande sannolikhetsberåkningar.
+
+Gunnar Blom
+
+
+
+Gauss och felfördelningen
+Carl Friedrich Gauss (1777—1855) betraktas som alla tiders störste matematiker. Som
+ung stållde han bla upp en hypotes om primtalens fördelning, visade att den
+regelbundna 17—hörningen kan konstrueras med passare och linjal och bevisade algebrans
+fundamentalsats. Han var också en synnerligen framstående tillåmpad matematiker med
+arbeten inom astronomi, fysik, geodesi, statistik och försåkringsmatematik.
+Normalfördelningen benåmns ofta Gauss fördelning eller Gauss felkurva. Det år
+Gauss hårledning av normalfördelningen som denna uppsats skall behandla. Den dök upp
+
+i slutet på arbetet Theoria Motus Corporum Coelestium (1809) och år inte lång. Jag
+återger resonemanget nedani lått moderniserad form.
+
+Gauss ville beståmma bra skattningar av Ø-parametrarna i en regressionsmodell
+X = ZB + e€. Han anvånde en likformig apriorifördelning för parametrarna och tånkte sig
+att anvånda det sannolikaste vårdet i aposteriorifördelningen som skattning, dvs
+maximiskattningen. Han var då tvungen att göra antagande om att felen ci har en
+specifik sannolikhetståthet. För att finna en rimlig sådan tåthet, y, betraktade han den
+allra enklaste modellen dar xj = p+ €i,3i=1,...,n. Han antog sedan att fördelningen
+
+för felen år sådan att det sannolikaste vårdet för
+
+p
+
+sammanfaller med
+
+x.
+
+Gauss
+
+motiverar antagandet som följer (i tysk översåttning):
+
+Wie ein Atiom pflegt man nåmlich die Hypothese zu behandeln, wenn irgend eine
+Grösse durch mehrere unmittelbare, unter gleichen Umstånden und mit gleiche
+Sorgfalt angestellte Beobachtungen bestimmt worden ist, dass alsdann das
+aritmetische Mittel zwischen allen beobachteten Werthen, wenn auch nicht mit
+absoluter Strenge, so doch wenigsten sehr nahe den wahrscheinlichkeitsten Wert
+
+gebe, so dass es immer das sicherste ist, an diesem festzuhalten.
+
+Under antagandet ovan har funktionen (x1—p)- (X2—-P):...-~(Xn-p) sitt maximum i
+punkten p =x. Efter logaritmering och derivering och såttande av derivatan till 0 för
+p = x, erhöll han ekvationen 5g(xi-x)=0, dar g = (logy)'= y'/y. Sedan satte han
+
+X= XQ =... =Xp1=—x och x, =(n-1)x, varvid x=0. Han erhöll då sambandet
+g((n—1)x) = —(n—1)g(—x), varav det sedan följer, di x och mn år godtyckliga, att
+g(x) =k-x, dar k åren konstant. En integration ger att ø(x) år proportionell mot
+
+gx? dar h? = -k/2, dvs normalfördelningen. Vårdet på proportionalitetskonstanten,
+
+h/ 7, fann Gauss genom att hånvisa till ett resultat av Laplace.
+
+
+
+Detta var första gången som normalfördelningen anvåndes som felfördelning. Minsta
+kvadratmetoden blev en konsekvens. Resultatet slog ner som en bomb hos Laplace, som
+
+tidigare försökt att deduktivt komma fram till en låmplig felfördelning men ej lyckats. Å
+
+andra sidan kånde Laplace till att normalfördelningen upptrådde som grånsvårdes—
+fördelning till summor av vissa slumpvariabler. Kort dårefter kunde dårför Laplace stålla
+
+upp elementarfelshypotesen.
+
+Han bevisade också centrala grånsvårdessatsen, via
+
+genererande funktioner, fast ej helt stringent.
+
+Gauss presentation av minsta kvadratmetoden, med bara hastigt omnåmnande av
+Legendre som presenterat metoden redan 1806, ledde till en lång och förödande
+prioritetsstrid med denne. Gauss sjålv gjorde sig ett dussin år senare av med
+normalfördelningen som grund för minsta kvadratmetoden och bevisade bl a vad som nu
+
+kallas Gauss—Markovs sats, dvs att de basta linjåra våntevårdesriktiga skattningarna fås
+genom minsta kvadratmetoden. Våntevårdesriktigheten år Markovs påfund. Gauss
+gjorde ett konsistensantagande.
+
+Gauss hårledning av normalfördelningen saknas tyvårr i alla moderna låroböcker i
+
+sannolikhetslåra. I början på detta sekel var hårledningen högt respekterad.
+
+Både
+
+Poincaré (Calcul des Probabilités, 1896, 1912) och Keynes (A Treatise on Probability,
+1921) ågnar mycket utrymme åt Gauss princip med det aritmetiska medeltalet som
+båsta skattning.
+
+Båda utvidgade Gauss resultat genom att också betrakta familjer av
+
+typen f(x,0) och stötte på så vis tidigt på exponentialfamiljen. Det var först senare som
+
+forskarna inom sannolikhetslåra kom att fokusera merparten av sitt intresse på den
+centrala grånsvårdessatsen i alla dess olika varianter. Gauss hårledning blev mer eller
+mindre fördömd och bortglömd. Jag citerar nedan vad en sen representant för denna
+riktning har att skriva om hårledningen. Lucien LeCam (Statistical Science, Vol 1, 1986,
+sid 79) skriver så hår:
+
+About terminology, the distribution with density (Agne! 2 was introduced by
+de Moivre (1738). We have followed Lévy and called the distribution Gaussian.
+This is not because Gauss had much to do with it. He was not involved in the
+proofs or statements of the central limit theorem. He did however publish a paper
+
+that contains a description of the Legendre method of least squares. Either that
+paper was not refereed or the referee did not do a competent job. Gauss’
+
+argument is perfectly circular: "Everyone knows that the average of the
+
+
+
+observations is the best estimate of the erpectation. The de Moivre curve is the
+only one for which that is true for the location parameter. Therefore the
+observations must follow that distribution and, therefore, the method of least
+squares is best.” In addition, Gauss uses a version of Bayes’ theorem, without
+giving any credit to Bayes or to Laplace who expounded about it much earlier
+(Laplace, 1778). The ”proof” of Bayes formula by Gauss cannot even be
+considered adequate by the standards of his time or earlier ones.
+
+Det bor tillåggas att H.F. Trotter i samma utgåva av Statistical Science försvarade
+Gauss.
+
+Vill man veta mer om vad som hånde fore, under, och efter år 1809 bör man lasa
+Stephen Stiglers eleganta och vålskrivna bok: The History of Statistics (The Belknap
+Press, 1986). Med råtta omnåmnes Gauss resultat dår som att ha haft en enorm
+katalytisk effekt. Vill man veta mer om Gauss kan man titta i Tord Halls trevliga
+popularvetenskapliga bok: Gauss, matematikernas konung (Prisma, 1965).
+Jag skall avsluta med ett par personliga reflektioner. Sjalv har jag alltid tyckt om
+Gauss princip att x år den "basta skattningen" i det rena lågesparameterfallet, dvs då
+
+xi= p+ 6; dårfelen ej; har en specifik fördelning. Gauss valde som "basta skattning"
+maximiskattningen. Laplace hade tidigare försökt sig på andra skattningar såsom
+medelvardet och medianen i aposterioriférdelningen. Det har visat sig att hur man 4n
+definierar "basta skattning" så kommer X att vara "basta skattning" bara för
+
+normalfördelningen. T ex har X minst varians bland alla ekvivarianta skattningar bara
+
+p(xi+4A, ..., Xn +A)
+år ekvivariant om
+p
+for normalfördelningen. En skattning
+= A + p(xi,...,Xn) för alla A. Nu kan ju alltid lågesparametern skattas med x.
+
+Således år det bland alla fördelningar med given varians allra svårast att skatta låget
+
+för just normalfördelningen. För alla andra fördelningar kan ju båttre skattningar ån x
+
+hittas. Att tro på normalfördelningen som felfördelning eller på Gauss princip blir då
+ekvivalent med att tro på följande princip:
+
+Når NÅGON viiljer felfordelning så våljer han den som gör det allra svårast för
+observatören att få god information om det som ytterst skall måtas.
+
+Namnet på NÅGON har jag medvetet utelåmnat. Principer av denna typ var vanliga i
+fysiken under 1700— och 1800—talen.
+
+Från olika håll har det föreslagits att Gauss fördelning endast skall ha ett namn:
+
+
+
+Normalfördelningen. Jag avslutar med en udda aspekt på namnfrågan. Når jag började
+undervisa vid Skogshögskolan 1983 förundrade jag mig över att skogsstudenter inte
+
+sållan trodde att normalfördelningen var en likformig fördelning. Först senare förstod jag
+varför. För en skogsstudent år normalskogen ett vålkånt begrepp. Det år en skog dår alla
+åldersklasser år lika mycket representerade i areal. Det finns således skål att ibland
+undvika ordet normalfördelning.
+Lennart Bondesson
+
+C2 å :
+:
+;
+
+p
+
+left Portrait of the young Gauss
+
+40 Famous mathematicians of the 19th century II
+right Gauss in his old age
+
+One of the greatest mathematicians of all times was
+
+Carl Friedrich Gauss, born 30 April 1777 in Braunschweig, died 23 February 1855 in Gottingen
+
+so
+Gauss’s signature
+
+The University in Göttingen, where Gauss worked
+for nearly fifty years
+
+
+
+Dynamiske konturer og bildebehandling
+Geir Storvik
+
+| Sammendrag av dr.scient. avhandling, forsvart 19.februar 1993 ved Universitetet i Oslo
+Gjenkjenning av kanter er et viktig problem i mange anvendelser av bildebehandling. To
+
+konkrete eksempler er gjenkjenning av venstre hjertekammer i ultralydbilder og gjenkjen-
+
+ning av hjernekant og hjernens ventrikkelsystem i magnetisk resonans bilder. I begge
+tilfeller vil kantene være lukkede kurver eller konkurer og disse kurvene vil være nyttige for
+medisinsk diagnose enten direkte eller indirekte gjennom at kurvene utnyttes under videre
+analyse av bildene.
+
+Idag finnes disse kurvene ofte ved at eksperter tegner dem inn på bildene. Dette er
+imidlertid både tidkrevende og subjektivt. Automatiske metoder for gjenkjenning av slike
+konturer er derfor ønskelig.
+
+Mitt doktorgradsarbeid har vært sentrert om utvikling av slike metoder. Utfordringene
+er flerfoldige; konstruksjon av modeller som tar hensyn til den eksisterende informasjon om
+
+kurvene som skal gjenkjennes (som f. eks. glatthet), konstruksjon av modeller som kobler
+de observerte bildene med de underliggende kurvene samt utvikling av numeriske metoder
+som kan finne de optimale kurvene.
+
+Innen bildeanalyse blir modellene ofte representert gjennom energifunksjoner, da energifunksjoner som regel er lettere å spesifisere enn sannsynligheter. Hvis vi antar z er
+konturen og Y er det observerte bilde, antas en modell
+1
+
+gen
+
+m(zly) = Fe E(2y)
+
+>
+
+(1)
+
+der energien E er definert ved
+
+E(z,y) = U;(z) + U2(z;y)
+
+(2)
+
+der U, er en energi-funksjon som gir lav energi (høy sannsynlighet) for glatte kurver. Dette
+leddet svarer til a priori fordelingen til z. Det andre leddet i energifunksjonen, U2(z;
+y)
+er en energifunksjon som beskriver fordelingen av gråtone-verdiene i det observerte bildet
+betinget med hensyn på kurven.
+
+Utnyttelse av eksisterende informasjon om kurvene har vist seg å være viktig siden
+de observerte bildene i seg selv sjeldent har god nok kvalitet til å kunne gi de ønskelige
+resultatene direkte. Ved utvikling av modeller for dette formålet, har generalitet vært
+prioritet, som først og fremst har medført at ulike mål på (lokal eller global) *glatthet” er
+blitt innbygget. Generaliteten har medført at de samme modellene kan anvendes på mange
+ulike problemstillinger. Spessielt har modellen
+
+
+
+lengde av kontur)?
+
+Ui(z) = B real innenfor kontur
+
+blitt anvendt. Denne funksjonen har sin begrunnelse i at glatte kurver vil ha stort areal i
+
+forhold til sin lengde og dermed gi lav energi.
+
+Modeller for de observerte bildene må nødvendigvis være svært problemspesifikke.
+For ultralydbildene har en kobling av beskrivelse av gråtone-verdiene innenfor og utenfor hjertekammertet sammen med en *kantdetektor” blitt brukt. MR-bildene av hjernen
+vil inneholde mange ulike vevstyper. Modelleringen for disse bildene har vært gjennom
+beskrivelse av gråtoneverdier for de ulike vevstyper og spesifikasjon av hvilke vevstyper
+som opptrer innenfor og utenfor konturene en ønsker å gjenkjenne.
+
+Gitt modellene og de observerte bildene, er det ønskelig å finne den kurven som har
+størst sannsynlighet. Antall mulige kurver er imidlertid så mange at et søk gjennom alle
+disse ville være umulig. Iterative metoder basert på samplingsteknikker har vist seg å være
+hensiktsmessige å bruke for dette problemet. Spessielt er algoritmer basert på MetropolisHastings algoritmen og Simulated Annealing utviklet. En versjon av algoritmen er følgende:
+Algorithm 1 Start med en vilkårlig kurve X(0). La Q være en transisjonsmatrise som
+beskriver mulige endringer av kurven fra en iterasjon til neste. For hver iterasjon s, utfør
+følgende:
+
+1. La x = X(s) og trekk en ny kurve x' fra fordelingen gitt av den x’te raden iQ;
+2. Sett X(s +1) = x' med sannsynlighet azz og X(s +1) = z med sannsynlighet
+1 — az, der
+
+ane = mint, FE INQG2),
+'
+m(zly)Q(z,
+2’)
+
+Merk at modellen 7(x|y) kun inngår i modellen gjennom fraksjonene m(z'|y)/7(x|y), som
+
+gjør at konstantleddet Z i (1) forsvinner. Hvis kun lokale endringer i kurven tillates for
+hver iterasjon, vil fraksjonen 7(z'|y)/7(x|y) være enkel å beregne.
+Metodene starter med en initial kurve og vil gjennom iterasjoner bevege seg mot den
+optimale kurven. Bruk av samplingteknikker
+i forhold til determiniske algoritmer gjør at
+algoritmene ikke vil henge seg opp i lokale optima. Figur 1 viser hvordan kurven beveger
+seg mot hjernekanten i et MR-bilde.
+
+Denne fremgangsmåten har vist seg å gi lovende resultater for begge eksemplene nevnt
+ovenfor. Figur 2 viser den gjenkjente kurve i et ultralydbilde av venstre hjertekammer i et
+ultralydbilde, mens Figur 3 viser 3 ulike kurver gjenkjent i et MR bilde av hjernen. Den
+ytterste kurven er hjernekanten, mens den innerste kurven er kanten av ventrikkelsystemet.
+
+
+
+Figur 1: Illustrasjon av dynamisk endring av kontur mot optimal kurve. Innerste kurve er
+startkurven mens yttereste er den endelige kurven.
+
+Figur 2: Ultralydbilde av venstre hjertekammer med automatisk gjenkjent kant inntegnet.
+
+Figur 3: MR-bilde av hjerne med 3 automatiske gjenkjente kurver innetegnet.
+
+
+
+E.S.Pearson: ’Student’. Claredon 1990. ISBN 0-19-852227-4. 142 sider.
+"Student" var pseudonymet som William Sealy Gosset brukte på alle sine
+vitenskapelige publikasjoner. Vi statistikere kjenner ham som opphavsmannen
+til T-testen. Denne boka gir en oversikt over hans livsløp.
+
+W.S. Gosset er født i 1876, han fullført studier i matematikk og kjemi ved
+Oxford Universitetet i 1879 og ble ansatt hos Guinness i Dublin i 1899, der han
+arbeidet resten av sitt liv..
+
+Jeg undret meg som student over hvorfor stakkars "Student" måtte publisere
+under pseudonym og hva slags uoverensstemmelser med arbeidsgiveren som
+hadde forårsaket dette.
+
+I denne boka får vi vite den faktiske årsaken: I 1890-årene bestemte Guinness
+seg for å satse på vitenskapelige metoder i ølbryggingen. Ansettelsen av
+Gosset, og også senere flere universitsutdannede medarbeidere, var et ledd i
+denne strategien. Guinness anså at denne strategien ga dem et
+konkurransefortrinn, og derfor ønsket de ikke at konkurrerende bryggerier
+skulle få kjennskap til den.
+
+Gosset var tydeligvis et godt valg. Han utviklet metoder til kvalitsvurdering av
+råvarene til ølbrygging, bygg og humle, og hvordan disse best skulle behandles
+under bryggingen. Det var under dette arbeidet han fikk bruk for å kunne
+analysere "små" datasett.
+
+I 1905 tok han kontakt med Karl Pearson, som ble regnet som den tids ledende
+statistiker. Karl Pearsons metodikk passet ikke helt, fordi den baserte seg på
+asymptotisk teori. Gosset hadde studiepermisjon fra Guinness bryggeri 19061907 for å studere statistikk hos Karl Pearson og han publiserte sitt førtste
+vitenskapelige arbeide i Biometrika i 1907.
+
+Etter studiepermisjonen ble Gosset leder av Guinness forsøksbryggeri. Han
+fikk tilbud om undervisningsjobb av Karl Pearson, men avslo bl.a. fordi
+Guinness betalte bedre.
+
+Hans fundamentale arbeide om T-fordelingen kom i 1908 og var basert på et
+simuleringseksperiment med 750 trekninger av 4 fra et tallmateriale bestående
+kroppshøydene til 3000 innsatte. Gosset utledet ikke tettheten til T-
+
+fordelingen, men gjettet seg til den ut fra Karl Pearsons systematiske oversikt
+over tettheter. Senere i 1918 ga Fisher en matematisk utledning.
+
+Gosset var en beskjeden og godlynt mann og kom godt ut av det med folk. Han
+sto på god fot både med Karl Peason og R.A.Fisher også etter at de to var røket
+uklare. Selv om han ikke var enig med folk, klarte han å bevare vennskapet.
+Gosset døde av hjerteattakk i 1937 i en alder av 61 år.
+Henrik Dahl
+
+
+
+James W. Tankard, jr.: The Statistical pioneers. Schenkman, 1984. ISBN 087073-408-3. 168 sider.
+
+Når en underviser i sannsynlighetsregning og statistikk, kan det være en god
+ide‘ å krydre fremstillingen med historiske tilbakeblikk. Boka til Larsen og
+Marx, som brukes ved Universitetet i Oslo, er et godt eksempel på dette.
+
+Det kunne vært ønskelig å gi særlig interesserte studentene litteratur for
+videre studier, men mye av litteraturen om sannsynlighetsregningens og
+statistikkens historie er både tung og ikke så lett å få tak i.
+
+Det var derfor en gledelig overraskelse å finne en bok om pionerenei statistikk
+beregnet for studenter. De 7 kapitlene omfatter:
+1 The Early Statisticians
+
+2 Abraham De Moivre and the Normal Curve
+3
+
+Sir Francis Galton and Correlation Theory
+
+4 Karl Pearson and the Chi-Square Test
+
+5 W.S. Gosset and the t-test
+6 Sir Ronald Fisher and the Analysis ogf Variance
+7 Statistical Creativity
+
+Boka inneholder mye spennende stoff, men er langt fra fullstendig. For
+eksempel er skandinaver og tyskere ikke omhandlet.
+
+Det gleder meg at Abraham De Moivre har fått æren for normalfordelingen og
+ikke mer prominente folk som senere har bidratt til teorien.
+
+Av mere kuriøse ting som tas opp kan nevnes Jacob Bronowski's påstand om at
+statistikere er "difficult and intemperate men". Forfatteren mener at Karl
+Pearson og R.A.Fisher støtter påstanden, mens Galton og Gosset svekker den.
+
+Boka inneholder flere oversikter og diagrammer for å illustrere hvordan
+statistiske ideer har spredd seg. Slike oversikter og diagrammer vil sikkert
+virke fantasieggende på mange, men kan kanskje virke som overforenklinger
+på andre.
+
+Boka slutter med en omfattende biografi.
+
+Jeg anbefaler alle undervisningsinstitusjoner som underviser i statistikk å
+skaffe boka.
+Henrik Dahl
+
+
+
+Anne Hawkins, Flavia Jolliffe, Leslie Glickman: TEACHING STATISTICAL
+CONCEPTS. Longman, 1992. ISBN 0-582-06820-7. 246 sider.
+Statistikk-undervisning er i ferd med 4 bli et eget fagfelt. Nylig er det startet
+en egen organisasjon IASE (International Assosciation for Statistical
+Education).
+
+Det er etter hvert begynt 4 komme bgker om statistikk-undervisning. Denne
+boka kommer fra den engelske tradisjonen, men gir mange henvisninger ogsa
+til annen litteratur om emnet.
+Boka handler særlig om statistikkundervsning i engelsk skole bade pa
+ungdomstrinnet og videregaende (O-level og A-level).
+
+Boka bestar av 11 kapitler:
+
+1 Statistics: past and present
+
+2 Statistics teachers, their difficulities, opinions and needs
+3 The first hurdle: teaching descriptive statistics
+
+4 The second hurdle: teaching probability
+5 The final hurdle: teaching statistical inference
+6 Research into statistical education
+7
+
+Statistical practice and projects
+
+8 Statistical computing
+
+9 Multimedia for teaching statistics
+
+10 Assessing statistical knowledge, understanding and skills
+11 The future for statistics and statisticians
+
+Boka er særlig beregnet pa skolelærere som ønsker å styrke sin
+undervisningskompetanse, men jeg synes at boka har mye å lære alle som
+underviser i statistikk - også på høyere nivå.
+
+Jeg er skeptisk til å legge for stor vekt på deskriptiv statistikk, men Kapittel 3
+gir mange interessante synspunkter på hvordan dette stoffet bør undervises.
+
+
+
+Engelskmennene er tydeligvis noe skeptiske til satsingen på dataanalyse i de
+senere år i USA, men gir likevel tallrike referanser og kommentarer til
+
+utviklingen i USA på dette feltet.
+
+Når studentene har problemer med sannsynlighetsteoretiske og statistiske
+begreper, trenger ikke dette å være fordi de arbeider for lite med stoffet eller
+mangler intellektuelle ressurser, men kan komme av at de har kjørt seg fast i
+en blindgate som de vanskelig kan komme ut av på egen hånd. Hvis læreren
+kjenner til slike blindgater og tidligere analyser av slike og lignende problemer,
+kan det være en enkel sak å få studentene på sporet igjen. Problemer med å
+forstå hva store talls lov egentlig sier i praksis er godt behandlet, ved f.eks. å
+peke på at tilfeldigheten ikke prøver å kompensere for tilfeldige avvik.
+
+Problemet med at studentene har en tendens til en mekanisk og lite fleksibel
+måte å bruke statistiske metoder på er behandlet. F. eks. er det grundig og
+god drøfting av skillet mellom statistisk signifikans og betydningsfullhet i den
+praktiske situasjonen.
+
+Kapittel 6 handler om forskning i statistikkundervisning. Jeg synes drøftingen
+av problemene med å sammenligne undervisningsmetoder er god og anbefaler
+den til alle som vil gjøre undervisningseksperimenter.
+
+Kapittel 7 om prosjekter i statstikkundervisning gir meg skyldfølelse, fordi jeg
+føler at dette er en svært viktig form for statistikkundervisning som jeg selv
+bruker alt for lite. Hvis vi fikk mer tid og vekttall til disposisjon til
+statistikkundervisning, er jeg sikker på at satsing på prosjektarbeid ville gi
+gode resultater, særlig når det gjelder studentenes praktike ferdigheter.
+
+Kapitlene 8 og 9 omhandler regnetekniske og andre tekniske hjelpemidler i
+undervisningen. Det finnes mye god programvare til statistikkundervisning,
+men personlig kjenner jeg bare noe av den engelske samt MINITAB. Bruk av
+video, film og lignende føler jeg meg truet av. Det er fint å kunne lese også om
+dette, om det skulle bli aktuelt.
+
+‘
+
+Kapittel 10 dreier seg om det som på godt norsk kalles "evaluering". Som
+(konservativ) tilhenger av tradisjonell skriftlig eksamen synes jeg det er
+interessant å se vurderinger av ulike alternativer som "multiple choice",
+prosjektarbeid, muntlig eksaminering, gruppeeksamen og lignende. Evaluering
+gjelder også læreren, og jeg ser med tilfredshet at studentevaluering ikke er
+behandlet, forhåpentlig fordi forfatterne ikke har noe tro på slikt.
+
+Jeg er ikke enig i alt som står i boka, men likevel er det interessant å få en
+oversikt over de ulike synspunktene.
+
+Henrik Dahl
+
+
+
+Sammendrag av innlegg ved Det 7. norske statistikermøte, Ustaoset, 14.-16. juni
+Jan Aarseth:Statistiske strategier for kunnskapsbaserte systemer- finnes de? Erfaringer med et regelsett for logistisk regresjon
+Henrik Dahl: Undervisning av varians
+
+Alfhild Lien Eide: Historietilpasning og forsøksplanlegging
+Ingrid K.Glad: Bayesiansk restaurering og syntetisering av mr-bilder
+Johan Heldal: Anvendelse av den multinomiske logit modell på valgundersøkelser 1989
+Hans A. Karlsen: Ikke-parametrisk estimering i ikke-stasjonære tidsrekker
+
+Rolv Terje Lie: Medisinsk fødselsregister. Kan et lokalt tilleggsregister forbedre estimeringen av forekomst av medfødte misdannelser?
+
+Per Mykland: Simulering med Markov-kjeder
+Trond Riise: Multippel sklerose og space-time clustering
+Sven Ove Samuelsen: Pseudolikelihood for nested case-control studier
+
+Tore Schweder: Maximum simulated likelihood for integrating fragmented data, applied to estimate the number of minke whales
+
+Hans J.Skaug: Avstand mellom sannsynlighetstettheter med anvendelse på ikkeparametrisk hypotesetesting
+Geir Storvik: Volum-beregninger i MR-bilder av hjerne
+Per H.Zahl: Langtidsoverlevelse av kreft
+Lars Ødegaard: Optimal fokusering i medisinsk ultralyd v.h.a. statistiske metoder
+Bernt Øksendahl: Noen anvendelser av stokastisk analyse i økonomi
+
+Statistiske strategier for kunnskapsbaserte system - finnes de?
+Erfaringer med et regelsett for logistisk regresjon i Express.
+Jan Aarseth
+Matematisk institutt
+
+Universitetet i Bergen
+
+I de siste årene har det skjedd en stor utvikling når det gjelder statistiske programpakker. Systemene har blitt flere og mer brukervennlige, dessuten har
+utbredelsen av PC-en gjort at flere har tilgang til disse kraftige statistiske redskapene. Dette har resultert i at mange statistiske analyser blir utført med
+gode hjelpemidler, men av uerfarne brukere. Denne kombinasjonen gir ikke
+alltid gode resultater. Spøsmålet som da har blitt stilt er om det lar seg gjøre
+å lage programsystemer som automatisk utfører en statistisk analyse hvor man
+bl.a. sjekker om forkravene til de valgte metodene er oppfylt, noe som ofte
+oversees av en ukyndig bruker.
+
+PC programmet Express er et slikt verktøy for konstruksjon av kunnskapsbaserte statistiske system (ekspertsystem) som utnytter allerede eksisterende
+statistiske programpakker. Systemet er tenkt brukt til både å kunne hjelpe en
+ukyndig bruker i enkle situasjoner samt arbeide med sammensatte uklare statistiske problem. Regler for strategien implementeres i Fortran, og disse reglene
+utføres så i det som blir kalt en regelkjeding. Statistiske observatorer og andre
+
+interessante størrelser (f.eks. gjennomsnitt, testobservatorer, plott osv.) defineres i en kodefil. Tilhørende verdier for disse størrelsene lagres i en database
+etter hvert som de blir funnet. Verdiene kan finnes ved direkte utregning i
+reglene, v.h.a. vanlige Fortran-uttrykk, eller bruker kan oppgi verdien. Den
+vanligste måten å finne en størrelse på er imidlertid å starte en programpakke
+som foretar utregningen for oss. Express setter automatisk opp de styresetningene som er nødvendig, starter utførelsen av den aktuelle pakken og plukker ut
+de interessante størrelsene fra utskriftsfilen.
+
+Utviklingen av Express har foregått over lang tid [1]. De første versjonene var
+implementert på stormaskin hvor grensesnittet til bruker var dårlig. Dette var
+en av hovedgrunnene til å implementere systemet på PC, samtidig som det hele
+tiden har foregått en forbedring av grensesnittet mellom Fortranreglene og programpakkene. Visse endringer for spesifikasjon av Fortranreglene har også blitt
+gjennomført basert på erfaringer med de regelsett som har blitt implementert
+underveis. Disse regelsettene har benyttet relativt enkle statistiske strategier,
+så det var først da Irgens [2] utviklet et regelsett for modell-bygging i logistisk
+regresjon vi fikk en god test på hvor fleksibelt systemet var. Hennes arbeid
+viste at visse justeringer av Express var nødvendig. Blant annet var det vanskeligi den gamle versjonen av Express å lage regler som arbeidet med forskjellige
+
+
+
+modeller som inneholdt varierende antall variable. Dette resulterte i at Irgens
+regelsett kun tillot to uavhengige variable. Enkelte mindre endringer av Express ble foretatt, men en større revisjon ble først utført etter at hennes arbeid
+var ferdig. Da vi ville teste denne nye versjonen av Express, var det naturlig
+å forsøke å videreutvikle hennes regelsett, ved bl.a. å tillate flere uavhengige
+variable. I dette arbeidet var vårt hovedmål å se om det lot seg gjøre å imple-
+
+mentere strategien for modellutvelgelse som er gitt av Hosmer og Lemeshow i
+deres bok “Applied logistic regression” [3]. Dessuten var det viktig å konstruere
+
+regelsettet slik at grensesnittet mot bruker ble best mulig.
+
+Vi ville også forsøke å trekke generelle konklusjoner om hvor godt egnet løsninger
+basert på ekspertsystem er for statistiske problemer. Her arbeidet vi ut fra fire
+karakteristikker på et generelt problem, gitt av Gillies [4] som kriterier på om
+bruk av ekspertsystem kan gi en god løsning av problemet. Disse fire er:
+1) At problemet ikke har en deterministisk løsning.
+2) At problemet har klart definerte grenser.
+
+3) Vi må ha maskin-representerbar kunnskap.
+4) Tilgjengelig ekspertise.
+
+Generelt kan vi si at statistiske problem ikke har en deterministisk løsning slik at
+
+krav 1 er oppfylt. Verre er det med punkt 2 og 4, som er nært knyttet sammen.
+
+Å sette klare grenser for et statistisk problem er ofte vanskelig. Undersøkelser
+har vist at forskjellige statistikere gjerne gir forskjellige løsninger på de samme
+praktiske problemene, og at statistikere innenfor ulike fagfelt kan arbeide ulikt.
+Dette tilsier at et ekspertsystem kan produsere løsninger som ikke passer til
+det gitte problemet. I slike situasjoner hvor den tilgjengelige ekspertisen ikke
+er entydig, kan et ekspertsystem likevel være til stor nytte. Ved å skaffe seg
+kunnskap om hvem som skal benytte systemet, bør man kunne konstruere et
+
+system som kan være tjenlig. Det viktigste er å klargjøre for bruker hvilke
+begrensninger som finnes.
+
+For oss som tok utgangspunkt i strategien foreslått av Hosmer og Lemeshow [3],
+
+var det spesielt muligheten til å implementere strategien i Express som var av
+
+interesse (punkt 3 over). Dette gjaldt enda mer siden Express bruker Fortran
+til spesifisering av reglene og ikke noe typisk verktøy for kunstig intelligens som
+f.eks. Prolog. Vår erfaring med utviklingen av regelsett er at de statistiske
+retningslinjene ofte er ustrukturert og dermed krever stor frihet i spesifikasjonen. Dette tilsier at et vanlig tredjegenerasjonsspråk som Fortran er godt egnet
+til bruk i kunnskapsbaserte statistiske system. Dessuten krever grensesnittet
+
+
+
+til programpakkene en del teknisk arbeid som er enkelt å utføre ved hjelp av
+Fortran-kode.
+
+I vårt forsøk fant vi at strategien foreslått av Hosmer og Lemeshow lot seg
+implementerei Express. Visse små endringer og utvidelser er gjort, med det
+skyldes ikke at vi traff på hindringer det var umulig å komme over. Disse kan
+heller betraktes som utvidelser av strategien, på samme måte som en statistiker
+ville tilpasset og utfylt strategien hvis han/hun skulle benytte fremgangsmåten
+til Hosmer og Lemeshow i en konkret anvendelse. Den generelle konklusjonen
+må bli at hvis vi arbeider mye med grensesettingen og utarbeider rimelige statistiske strategier for de brukerne som er aktuelle, vil man trolig kunne konstruere
+nyttige systemer for mange forskjellige statistiske områder.
+
+[1] Carlsen F. og Heuch I. (1986), Express- An expert system utilizing standard
+
+statistical packages. COMPSTATPhysica-Verlag, Heidelberg, 265-270.
+
+[2] Irgens Å. (1991), Et kunnskapsbasert system for logistisk regresjon i epidemi-
+
+ologi basert på verktøyet Express. Hovedfagsoppgave i statistikk. Universitetet
+i Bergen, Bergen.
+
+[3] Hosmer D. W. and Lemeshow S. (1989). Applied logistic regression, Wiley,
+New York.
+
+[4] Gillies A. C. (1991), The integration of expert systems into mainstream
+
+software. Chapman & Hall computing.
+
+Undervisning av varians
+
+Henrik Dahl
+
+Agder Distriktshøgskole
+Kristiansand
+
+Tilfeldig variasjon ligger i bunnen av statistikkfaget. Vi trenger et begrep som
+
+måler omfanget av tilfeldig variasjon og varians har blitt det vanligste målet.
+
+Det er ønskelig å gi studenter en naturlig tilnærmelse til variansbegrepet, men
+det er ikke lett. Det at varians har *arealdimensjon” synes mange studenter er
+underlig. Man kunne bruke standardavvik som alternativ, men standardavviket
+mangler en del tiltrekkende egenskaper som varians har.
+
+
+
+Jeg har kommet til at innføringen av varians bør knyttes til fremtidig bruk i
+estimering og det behovet vi har for å kunne vurdere relativ godhet av estimeringsmetoder. Arealdimensjonen av varians kan da knyttes til at man bruker
+kvadratisk tapsfunksjon i estimering for å begrense mulighetene for store feilestimeringer.
+
+Det er ikke lett å få med slike overlegninger i en elementær innføring i sannsynlighetsregning, men jeg tror at en beslutningsteoretisk tilnærmelse til begrepene
+
+forventning og varians til en viss grad kan gi disse begrepene ben å stå på. Da
+blir forventningen den beste gjetning vi kan komme med når det gjelder verdien
+av en stokastisk variabel (før den er observert), mens variansen blir et mål for
+hvor vanskelig det er å gjette.
+
+Når variansbegrepet først er innført, er det et problem å knytte dette begrepet til studentenes intuisjon. Analogien til treghetsmoment kan være til
+hjelp, men mange studenter har ikke noe forhold til treghetsmoment. Et slags
+kvasimekanistisk bilde kan være til hjelp. Her oppfattes tilfeldig variansjon som
+bevegelse av et objekt rundt forventningen. Jeg har en anskueliggjøring av at
+
+variansen til en sum og en differens mellom to stokstiske variable er like (under
+uavhengighet) som utnytter dette bildet.
+
+Med ovennevnte innføring av varians kommer bruken av varians i estimering
+naturlig. Det samme gjelder minste kvadraters metode.
+Jeg er skeptisk til å presentere estimatoren for varians før selve variansbegrepet
+er på plass. Her er jeg på kollisjonskurs med det som er vanlig. Jeg synes man
+bør ha klart for seg hva man skal skyte på før man lanserer våpenet!
+
+Historietilpasning og forsøksplanlegging
+
+Alfhild Lien Eide
+
+Norsk Regnesentral
+
+Historietilpasning er et utrykk fra oljebransjen. Det beskriver bruk av produksjonshistorien for et oljefelt til å forbedre estimatene av forskjellige reservoarparametre.
+
+Historietilpasning kan sees på som et inverst problem. Vi har mulighet til å
+beregne y = f(Z) for endel punkter Z, og søker det punktet i Z-rommet som gir
+
+Ee)
+y
+
+å ————==—6
+
+Svart boks
+?
+
+—————
+
+%, observert historie
+
+Figure 1: Historietilpasning er et inverst problem.
+
+
+
+en bestemt verdi jo. Vår fremgangsmåte er statistisk, vi går ikke inn på fysikken
+i modellen, men forholder oss til denne som en svart boks (fig. 1). Kjøretiden
+for en reservoarsimulering kan være opptil 20 cpu-timer, dette begrenser antall
+reservoarsimuleringer som det er mulig å gjøre, og det blir viktig å velge de
+
+reservoarsimuleringene som gir best informasjon.
+
+Vår ide er for det første å bruke forsøksplanlegging for å velge ut hvilke reservoarsimuleringer som skal gjøres, og for det andre å estimere en responsflate ut
+fra de simuleringene som er gjort. Responsflaten kan estimeres ved regresjon
+eller kriging (en geostatistisk metode som interpolerer observasjonene); splines
+er en mulighet vi ikke har prøvd. Historietilpasning gjøres ved å søke i den estimerte responsflaten etter parametersett som gir god tilpasning til historien, og
+eventuelt forfine flaten ved å kjøre flere reservoarsimuleringer i aktuelle områder.
+I den forbindelse benyttes numerisk optimering.
+
+Forsøksplanlegging er gjort ved å bruke D-optimale design. D-optimale design
+gir de optimale eksperimentene for å få presise estimater av koeffisientene i en
+gitt regresjonsligning. Det er ikke optimalt å variere en variabel om gangen,
+det gir mindre nøyaktighet og får ikke fram eventuelt samspill mellom variable.
+Spesielt for forsøksplanlegging av (deterministiske) computer-eksperimenter er
+at det ikke har noen hensikt å gjenta eksperimenter med samme input fordi det
+ikke er noen tilfeldig *støy”.
+
+Vårt arbeid innen dette feltet er finansiert av oljeindustrien og foredraget inneholdt eksempler med reelle data.
+
+Bayesiansk restaurering og syntetisering av mr-bilder
+Ingrid K. Glad
+NTH
+
+Magnetisk Resonans (MR) avbildning er en av de viktigste og mest fleksible
+
+teknikker som er tilgjengeligimedisinsk diagnostisering. Metoden tillater mangfoldige opptaksmuligheter med varierende grad av kontrast mellom de forskjellige vevstypenei bildet.
+
+En slik fleksibilitet er ikke utelukkende en styrke for teknikken, da det er praktisk
+umulig å gjøre alle mulige opptak i undersøkelsen av en pasient. For å løse dette
+
+problemet har man innført såkalt syntetisk MR, der man på grunnlag av et sett
+
+
+
+faktiske opptak kan simulere alle mulige MR bilder på skjermen.
+Metoden baserer seg på pixelvis estimering av tre parametre p, Tl, T2 som
+sammen karakteriserer den aktuelle vevstype og som er knyttet til de observerte
+bildene gjennom en kjent funksjon utledet fra fysikken bak MR.
+
+Eksisterende metoder for estimeringen av disse parametrene er basert på spe-
+
+sielle datasett som krever at pasienten ligger 45 minutter ekstra i maskinen.
+Metodene takler heller ikke tilfeldig støy i datasettet på en korrekt måte, og
+disse begrensningene har medført at syntetisk MR hittil ikke har fått den posisjon i medisinsk diagnostisering, forskning og opplæring man skulle forvente.
+
+Den alternative estimeringsmetoden som presenteres i foredraget kan baseres på
+
+hvilket som helst multispektralt datasett. Spesielt kan standard, rutinemessige
+opptak benyttes, slik at ekstra tid i maskinen blir overflødig. Samtidig behandles
+tilfeldig støy i datasettet på en statistisk sett riktig måte.
+Metoden bygger på prinsipper fra Bayesiansk inferens, Markov-felt og iterativ
+Monte Carlo simulering. Konfigurasjonen (p, T1, T2) defineres som det sanne
+underliggende bilde, og ved design av en hensiktsmessig apriorifordeling og modellering av støyen i databildene er vi i stand til å gjøre statistisk inferens om
+de underliggende parametre fra aposteriorifordelingen i henhold til valgt taps-
+
+funksjon. På grunn av aposteriorifordelingens kompleksitet er vi nødt til å ta i
+bruk stokastiske algoritmer som Gibbs Sampler i disse beregningene.
+
+Design av passende Markov-felt-modeller for (p, T1, T2) ble diskutert, der varierende grad av romlig avhengighet inkluderes. I tillegg til lokal homogenitet
+i hvert av bildene p, T1 og T2 modelleres alternative former for stokastisk
+avhengighet også mellom bildene.
+
+Metoder for estimering av parametre i apriorifordelingen både fra treningsdata
+og fra det multispektrale datasettet, og eksempler og resultater fra anvendelse
+på MR-bilder av hjernen ble presentert.
+
+
+
+Anvendelse av den multinomiske logit modell på valgundersøkelsen
+1989
+
+Johan Heldal
+Statistisk sentralbyrå
+Postboks 8131, Dep., 0033 Oslo
+
+Foredraget tok for seg en logit regresjonsmodell med 20 forklaringsvariable som
+er svarene på 20 holdningsspørsmål i valgundersøkelsen 1989. Som respons
+benyttes intervjuobjektenes valg av parti ved siste stortingsvalg, der ”sofavel-
+
+gerne” også betraktes som et parti. La
+
+EXP Uik
+
+ie) eeTs
+Dik
+= a
+
+Dyer exp uit
+
+være sannsynligheten for at respondent nr. i skal stemme pa parti nr. k.
+Modeller
+
+20
+
+Vik = a, + DET
+j=1
+
+der z;; er svaret som respondent i gir på spørsmål j og bje,j = 1,...,20;
+k =1,...,8 er regresjonsparametre. Vi har sum til null parametrisering, d.v.s.
+8
+
+8
+
+k=1
+
+k=1
+
+Sui = > bye = 0.
+
+Matrisen B = (bja) estimeres simultant ved sannsynlighetsmaksimering fra et
+utvalg pa 2083 observasjoner. Teknikken som er benyttet for å estimere B er
+interessant i seg selv. Denne er imidlertid ikke poenget i foredraget. Foredraget
+tar sikte på å demonstrere en metode for å dekomponere B i en sum av rang 1
+matriser,
+
+m
+
+m
+
+r=1
+
+r=1
+
+B= St = Set
+på en måte som er optimal i en likelihoodrelatert forstand. m er rangen til B,
+
+Yr er 20 x 1 vektorer og , er 8 x 1 vektorer.
+
+Undertegnede har kalt metoden baklengs kanonisk regresjon. Det er en teknikk
+som kan brukes til å søke etter latente strukturer i regresjonsmodeller med
+multivariat respons.
+
+
+
+Ikke parametrisk estimering i ikke stasjonære tidsrekker
+Hans A. Karlsen
+Matematisk institutt
+Universitetet i Bergen
+
+Forskjellen mellom parametrisk og ikke-parametrisk estimering blir tydelig når
+dataene kommer fra ei ustabil tidsrekke.
+
+Vi ser på ei tidsrekke (X;, t > 0) som er ei Markovkjede med kontinuerlig
+
+tilstandsrom. Dette gir følgende model:
+
+TT
+
+OG
+
+når t = 0;
+
+U(Xi-1) +20
+
+nårt>0
+
+hvor f(z) = E(X; | Xi-1 = 2) og Z = Xt — E(X; | Fi-1). En kjerneestimator
+for den betingete forventning er gitt ved
+
+3).
+7 x/Xx((
+(Å
+fe)= ox (å
+Vi finner at f(z) er en konsistent estimator for f(r) selv om (X;) er ustabil
+
+(nullrekurrent). For f(z) = az er modellen linær og {X;} er en autoregresiv
+
+prosess;
+
+Xi =aXim1 +44
+som er ustabil når |a|] = 1. Det er kjent at minste kvadraters estimatoren
+a= Do X;Xi-1 / DP X? for a har følgende asymptotikk:
+
+1.
+|a|
+n(@—a) 2 s(waay-1)/ [ W(t)dt når =
+Uansett hvordan vi normaliserer å blir grensefordelingen ulik normalfordelingen. Det viser seg at det ikke- parametriske tilfellet er ganske forskjellig. Med
+passende normalisering mener vi at f(z) er asymptotisk normal. Konvergen-
+
+sraten for f(x) i det ustabile tilfellet er imidlertid ulik raten som vi har når
+(Xi) er ergodisk.
+
+
+
+Medisinsk fødselsregister. Kan et lokalt tilleggsregister forbedre
+estimeringen av forekomst av medfødte misdannelser?
+Rolv Terje Lie
+
+Medisinsk fødselsregister har siden 1970 overvåket forekomsten av forskellige
+medfødte misdannelser i Norge. Registreringen er basert på meldinger som
+fylles ut av jordmødrene for alle fødte i landet. Underrapportering av misdannelsestilfeller og endringer over tid i grad av underrapportering har vist
+seg å være et sentralt problem ved slik overvåkning. I fireårsperioden 1985-88
+ble det foretatt en separat registrering av barn med misdannelser 1 Hordaland.
+Denne registreringen var basert på at legenes selv sendte meldingsskjemaet. Vi
+har utviklet dobbeltsamplings-modeller som under forskjellige antagelser gjør
+det mulig å finne sannsynlighetsmaksimeringsestimatorer for forekomsten av
+en misdannnelse samt andelen misdannelser som ikke meldes til hvert av de
+to systemene. Resultater for misdannelseskategoriene Down syndrom, misdannelser i sentralnervesystemet, hypospadi og leppe/gane-spalte ble presentert, og
+rimeligheten av forskjellige modell-antagelser ble diskutert i forbindelse med de
+
+forskjellige kategoriene.
+
+Simulering med Markov-kjeder
+
+Per Mykland
+
+University of Chicago
+
+Stokastisk simulering er blitt en stor industri. Emnet strekker seg fra effektiv generering av tilfeldige variable via ”importance sampling” og ”sequential
+
+imputation” til Markov-kjede Monte Carlo - ”MC?”. Generelt er grunnen til
+
+dette feltets viktighet at statistisk inferens gir opphav til en rekke integraler som
+
+det kan være svært ubehagelig å beregne analytisk eller ved hjelp av numerisk
+integrasjon. Man simulerer fordelingen eller forventningen til T(X), hvor X er
+
+‘en variabel (eller vektor) som man lett kan generere.
+
+Det spesielle problemet som MC? prøver å løse er tilfellet hvor fordelingen 7
+
+til X også er ukjent, men hvor man kan danne en Markov-kjede med stasjonærfordeling x. Denne situasjonen opptrer forbausende ofte. Et typisk tilfelle
+er hvor cm er kjent, men c er en ukjent konstant. Dette skjer f.eks. ofte i
+
+
+
+forbindelse med Bayesianske aposteriori-fordelinger. En Markov-kjede med korrekt stasjonærfordeling kan defineres v.h.a. den s.k. Metropolis-algoritmen. Et
+annet typisk tilfelle er hvor det finnes en latent eller uobservert variabel 7 slik
+at de betingede fordelingene til X gitt Z og Z gitt X er kjent. Alternativt kan
+X være en vektor (X1,..., Xp), hvor fordelingene til hver koordinat gitt alle de
+andre er kjent. Markov-kjeden kan her implementeres v.h.a. Gibbs sampling
+eller lignende metoder.
+
+Viktige statistiske anvendelser av M C? er Bayesiansk analyse, og statistisk inferens i romlige og grafiske modeller (inkl. billedbehandling, genetikk og geografisk epidemiologi). I det førstnevnte tilfellet har metoden kraftig utvidet
+mengden av modeller som i praksis kan brukes. Konjugerte apriorifordelinger er
+ikke lenger nødvendige, og det er også blitt lettere å bruke hierarkiske modeller.
+I forbindelse med romlige/grafiske modeller, er metoden også av stor verdi for
+frekventistisk inferens.
+
+»There is no such thing as a free lunch.” Det gjelder også
+
+MC”. Saken er den, at
+
+MC? kommer med svært få garantier om at algoritmen faktisk gir et fornuftig
+resultat. Det man typisk vet, er at man har å gjøre med en kjede Xj,..., Xn, --hvis asymptotiske fordeling er riktig. Men hvor lang tid tar det før man når
+asymptopia? Det avhenger av kjedens mikserate, som kan være vanskelig å
+fastslå. Et ytterligere problem er at selv om man antok at kjeden allerede var i
+stasjonærtilstand, vil en lav mikserate medføre at X-verdiene ikke nødvendigvis
+er representative for spredningen i stasjonærfordelingen. Hvis fordelingen er
+flertoppet, kan en Markovkjede komme til å trekke Xer fra samme topp i meget
+lang tid, og man kan da risikere å ikke få kjenskap til eksistensen av de andre
+toppene i det hele tatt. Dette fenomenet påtreffes typisk i modeller med høy
+dimensjon, såsom i den meget omtalte Ising-modellen.
+
+Det er viktig å være klar over at det her er et vesentlig skille i vanskelighetsgrad mellom de Bayesianske og de romlige simuleringene. De sistnevnte har
+tilstandsrom som typisk har atskillig høyere dimensjon enn de førstnevnte.
+
+Forskjellige strategier for å forbedre mikseraten har etterhvert blitt utviklet,
+bl.a. den s.k. Swendsen-Wang algoritmen. En fullstendig løsning på dette
+
+problemet er imidlertid ikke blitt funnet.
+
+Et spørsmål som knytter seg til denne problematikken er om man bør gjen-
+
+nomføre et antall korte simuleringer med forskjellig startpunkt (i håp om å
+treffe så mange topper som mulig), eller om man bør bruke ressursene på å
+simulere en lang kjede (slik at man er nærmere stasjonærfordelingen). Dette
+har utviklet seg til et særdeles kontrovesielt tema. Diskusjonen rundt dette emnet har vært ledsaget av betraktelige personlige motsetninger. En avdempet
+versjon av debatten er å finne i novemberutgaven (i 1992) av Statistical Science.
+
+
+
+Vi foreslår en metode som i de fleste lavdimensjonale problemer forener de to
+tilnærmelsesmåtene, ved å simulere en følge av Xer som både er en lang og flere
+korte kjeder på en gang.
+
+Multippel sklerose og space-time clustering
+
+Trond Riise
+
+Space-time cluster analyse er en epidemiologisk metode for påvisning av infeksiøse agens ved sykdommer. Anvendt på et materiale av 381 multippel
+sklerose pasienter fra Hordaland viser en slik analyse at en infeksjon i tenårene
+kan være en mulig årsak til denne sykdommen. Fordelingen til testobservatoren
+(grad av clustering) i den aktuelle modell er ikke triviell. Konfidensintervall til
+forventningen blir forsøkt laget ved hjelp av resamplingsmetoder.
+
+Pseudolikelihood for nested case-control studier
+Sven Ove Samuelsen
+Matematisk institutt, Universitetet i Oslo
+Postboks 1053 Blindern, 0316 Oslo
+
+Nøstede kasus-kontroll studier er (i vid forstand) kasus-kontroll studier som
+gjøres innen rammen av en kohort studier. I en kohort studie følges individer
+opp over tid og det typiske endepunktet er tid til forekomst av en sykdom. Man
+ønsker så å peke ut kovariater som påskynder sykdomsutviklingen hvilket ofte
+gjøres ved Cox-regresjon.
+
+I en nøstet kasus-kontroll studie (i snever forstand) plukker man ut sykdomsfrie
+kontroller i samme alder som det nyoppdagede kasuset og innhenter / benytter
+opplysninger om kovariater kun for kasus og kontroller. Effekten av kovariatene kan nå estimeres ved en kasus-kontroll variant av Cox-estimatoren der de
+utvalgte kontrollene er matchet til sitt kasus.
+
+I foredraget ble det foreslått en ny måte å benytte data fra nøstede kasuskontroll studier. Metoden baserer seg på at man kan beregne hvert individs
+
+sannsynlighet p; for å bli valgt ut til kasus-kontroll studien i løpet av hele studien. Tenker man seg da en maximum-likelihood estimator basert på data fra
+hele kohortstudien kan man konstruere en analog estimator fra kasus-kontroll
+studien på følgende måte: Man maksimerer funksjonen som framkommer ved at
+man summerer hvert utvalgt individs bidrag til fullstendig log-likelihood vektet
+med 1 / Di.
+
+Funksjonen som framkommer kan man betegne, med støtte i betegnelser benyttet i lignende situasjoner, som en pseudo-log-likelihood. Funksjonen får generelt
+samme forventning som total log-likelihood og gir under regularitetsantagelser
+konsistente estimatorer. Det er også under regularitetsantagelser mulig å utlede at den er asymptotisk normal med en kovariansmatrise som kan estimeres
+
+
+
+konsistent.
+
+Metoden er generell. Man behøver altså ikke begrense seg til å tilpasse Coxmodeller, men kan enkelt estimere f.eks. kumulative intensiteter. Det er dessuten
+enkelt å benytte metoden i praksis såsant man benytter et statistikkprogram
+som tillater en å vekte sine data. Man benytter da sine kasus-kontroll dataene
+med vekter 1/p;. Dette gir direkte estimatene for parametrene i modellen.
+Den utskrift derimot som programmet vil gi på standardfeil, p-verdier etc. vil
+være gal fordi programmet har regnet som om det har fått en aggregert versjon
+av de fullstendige datene. Korrekte standardfeil, p-verdier etc. krever ekstra
+prosedyrer.
+
+I foredraget ble det demonstrert hvordan man beregner utvalgssannsynlighetene
+1/p;. Utledningene av pseudo-likelihood-estimatorens asymptotiske egenskaper
+samt hvordan korrekte standardfeil beregnes vil bli skissert. Metodene vil bli
+anvendt på simulerte og syntetiske kasus-kontroll datamaterialer. En pågående
+studie hvor metodene vil være av nytte blir presentert. Det ble også diskuteret
+hvordan man benytte pseudo-likelihood tilnærmelser innen andre typer kasuskontroll studier.
+
+Maximum simulated likelihood for integrating fragmented data,
+applied to estimate the number of minke whales.
+
+Tore Schweder
+
+University of Oslo
+Box 1095 Blindern
+
+0317 Oslo, Norway
+
+1. The problem: When several different datasets are relevant for an inferential
+
+problem, the data are said to be fragmented. The likelihood approach provides
+
+methods for integrating fragmented data. When an explicit likelihood is avail-
+
+able for some of the fragments, but not for others, modifications to the likelihood
+method are called for. This problem is common when there are two fragments:
+micro data and macro data. Traditionally, the researcher is then faced with the
+choice of either analysing the macro data, or to do the analysis the other way
+around. Å balanced and integrated analysis of the two sets of data is made
+difficult because the conventional likelihood methods requires the likelihood to
+be explicitly given by formula or by a computational algorithm.
+
+
+
+When a simulation model is available, which, possibly in various modes, can be
+used to produce synthetic data of the same format as the various observed data
+fragments, approximate maximum likelihood estimates based on the integrated
+data mosaic, may in some cases be found by the method of maximum simulated
+likelihood.
+
+2. Mazimum simulated likelihood: Diggle and Gratton (1984) present a simulation based method of approximate maximum likelihood estimation in cases when
+no explicit likelihood is available. They distinguish between the basic model and
+the prescribed statistical model. A basic model is based on substantive theory,
+often with claims of causal relations. The prescribed statistical model may or
+may not be based on substantive theory, but it is explicit in the distributional
+
+properties of the data, and thus provides a likelihood function.
+
+Instead of assuming a nonparametric statistical model, as Diggle and Gratton
+do, substantial gains in efficiency are possible if a parametric statistical model is
+available. With Å being the parameter of the basic model, the statistical model
+will, when it cannot be explicitly derived from the basic model, have to be cast
+in a different parameter, p. Assume this to be the case. Let L(u | OBS) be
+the log likelihood function of the statistical model, and let å be the maximum
+likelihood estimate based on the observed data.
+
+Now, the idea is to generate synthetic data, D, by simulating the basic model
+for a reasonably designed set of numeric settings of 9. For each set of simulated
+data, a maximum likelihood estimate, ji, is obtained by maximizing L(- | D).
+From the set of pairs, (f, ji), the link function Å = B(u) is estimated by re-
+
+gression, possiblyinverse and/or nonlinear. When a satisfactory estimate, B, is
+
+found, the approximate maximum likelihood estimate, B= B(å), is calculated.
+
+The distributional properties of the approximation error, B — Å, follows from
+
+those of the regression estimator B.
+
+The computational efficiency of the maximum likelihood method depends on the
+design of the composite simulation experiment. Sufficient Ø-points are needed
+in a suitable region around B. A sequential design will usually be called for.
+8. The whale census problem: Minke whales in northeastern Atlantic are censused by shipboard surveys of the line transect type. When weather allows,
+there are two scouts in the barrel visually scaning the ocean area in front of the
+vessel. The vessel moves at speed 10 knots along semi-randomly predetermined
+track lines. A whale is vissible only when it surfaces for breathing. A surfacing
+takes a few seconds. Mean dive time is 4/3 minutes.
+
+
+
+An extensive survey was conducted in 1989. It was analysed by standard line
+transect methods. The resulting abundance estimate of 34,600 whales was however suspected to be negativly biased due to the probability of sighting a whale
+on the trackline, g(0), being less than 1. An estimate of g(0) was needed to
+remove this bias.
+
+To estimate g(0), observations were made from two vessels on parallel course
+and with overlapping visual fields. The purpose was to estimate the hazard
+probability function of sighting a previously unsighted whale which surfaces
+at given position relative to the observerplatform. By identifying duplicate
+sightings, a binary data with spatial covariates were obtained. A complimentary
+log-log model for the hazard probability was fitted by maximum likelihood. A
+simulation model, with simulated whales diving according to observed dive times
+and with stochastic sightings made according to the fitted hazard probability,
+was then used to estimate g(0). Unfortunately, the fitted model predicted initial
+sightings to be made at longer distances than observed in the survey.
+
+The simulation model could be used to simulate both the independent observer
+experiment and the survey. By characterizing the survey data by a statistical
+model, with an explicit likelihood in a descriptive parameter pz, the method
+
+of maximum simulated likelihood could be applied (Schweder and Hgst 1992).
+
+The likelihood improved considerably for the survey data on the cost of a minor drop for the experimental data when moving from the value maximising
+the experimental likelihood to the chosen point (nearly) maximizing the joint
+likelihood.
+
+When simulating sightings, measurement errors were added to the relative positions to reflect such errors in vissual distance measurements in shipboard surveys. The error distribution had been estimated from a separate experiment.
+Data from two separate independent observer experiments and from shipboard
+surveys in 1988 and 1989 were integrated, together with measurement error data
+and dive time data. The resulting estimate of g(0) was 0.36, and the abundance
+estimate was 86,700 minke whales, with a 95% confidence interval of 61,000 117,000 (Schweder, Øien and Høst 1993).
+
+Bibliography
+
+Diggle P. J. and R. J. Gratton (1984), ”Monte Carlo Methods of Inference for
+Implicit
+
+Statistical Models”, J. R. Statist. Soc., B, 46, pp. 193-227.
+
+Schweder T. and G. Høst (1992), ”Integrating experimental data and survey
+
+
+
+data to
+
+estimate g(0), a first approach” Rep. int. Whal. Commn, 42, pp. 575-582.
+
+Schweder T., N. Øien and G. Høst (1993), ” Estimates of abundance of north-
+
+eastern
+
+Atlantic minke whales in 1989”, Rep. int. Whal. Commn, 42.
+
+Avstand mellom sannsynlighetstettheter med anvendelse på
+ikkeparametrisk hypotesetesting.
+
+Hans J. Skaug
+
+Matematisk institutt
+
+Universitetet i Bergen
+
+I ikkeparametrisk statistikk er begrepet avstand mellom sannsynlighetsfordelinger”
+viktig. Det er gjennom tidene forelslått ulike mål på avstanden mellom to
+fordelinsfunksjoner, med Kolmogorov-Smirnov avstanden som den muligens mest
+kjente. Anta at F og G er to fordelingsfunksjoner og la p(-, -) være en funksjonal
+som oppfyller
+
+p(F,G)>0
+
+og
+
+p(F,G)=0&F=G.
+
+Dersom vi ønsker å teste hypotesen “F(z) = G(z) for alle z” kan vi bruke
+
+Pn = pl Fn, Gn)
+som testobservator, der å og Gn er estimatorer av F og G. Forkastningsområdet for testen vil være fy > c, der c er en konstant som generelt vil avhenge
+av n, nivået på testen og F (som er lik G under nullhypotesen). Andre hypoteser
+som passer inn i en slik ramme er det klassiske *goodness of fit” problemet,
+hypotesen om symmetrisk fordeling og hypotesen om uavhengighet.
+
+Dersom man istedenfor å se på avstanden mellom fordelinsfunksjoner ser på
+avstanden mellom sannsynlighetstettheter kan man benytte andre avstandsmål.
+
+Vi studerer avstandsmål på formen
+
+p(t.9) = | B (LO ae) de,
+
+
+
+der f og g er sannsynlighetstettheter og B er en målbar funksjon. Ulike valg
+av B fremskaffer kjente avstandsmål, som L* distanse, Hellinger distanse og
+Kullback-Leibler informasjon. I en hypotesetestingsituasjon kan f og g estimeres ikkeparametrisk, f.eks. ved kjerneestimering. Et aktuelt spørsmål er
+selvsagt hvordan man skal velge B. I et forsøk på å besvare dette benyttes
+simuleringsresultater der styrken til de ulike testene blir sammenliknet.
+Det er i visse oppsett mulig å vise konsistens av testobservatoren, dvs.
+
+bn = P(fnsån) — PÅ. 9),
+i sannsynlighet eller nesten sikkert avhengig av forutsetninger, når n — oo. Det
+er imidlertid mere usikkert hvilken grensefordeling øn har (dersom det eksisterer
+en grensefordeling i det hele tatt). Det kan imidlertid fastslås (i en meget enkel
+situasjon) at normaliseringsfaktoreren ikke er den vanlige \/n, men nhn, der hy,
+er en avtagende følge som inngår i definisjonen av kjerneestimatorene fn Og gn.
+
+Volum-beregninger i MR-bilder av hjerne
+Geir Storvik
+
+Norsk Regnesentral
+
+Mange nevrologiske sykdommer vil påvirke volumer og regionale karakteristika av hjernevev og cerebro-spinal væske (CSF). I slike tilfelle vil kvantitative
+metoder for volum evaluering være relevant for medisinsk diagnose.
+
+I dette fordraget ble det presentert en metode for segmentering av større strukturer av hjernen fra MR-bilder. Metoden tar utgangspunkt i å bygge opp
+en regionsmodell av hjernen (figur 2). Regionene korresponderer til *utenfor
+hjerne (region 1)”, *CSF utenfor hjernevev (region 2)”, *hjernevev (region 3)”
+
+og *CSF-ventrikkel (region 4)”.
+
+* De fire regioner er definert av 3 enkelt-sammenhengende kurver. Gjenkjenning
+av disse kurvene vil gi de ønskede volummålingene. For å gjenkjenne disse
+kurvene, er en metode basert på Storvik (1992) blitt anvendt. En kurve blir
+modellert gjennom en energi-funksjon. Hvis vi antar z er konturen og y er det
+observerte bilde, er energien definert ved
+
+
+
+E = U,(2) + U2(z;
+y)
+
+(1)
+
+der U, er en energi-funksjon som gir lav energi for glatte kurver mens U2 er en
+energi-funksjon som beskriver fordelingen av gratone-verdiene i det observerte
+bilde. Gitt energi-funksjonene, søker vi å finne kurven som gir minimum energi.
+Algoritmen som er anvendt for å gjenkjenne den optimale kurven er basert på
+Metropolis algoritmen og simulated annealing.
+
+Et tilleggsproblem for MR-bilder er at gråtone-nivåene vil variere fra pasient
+til pasient. En parameter-kalibreringsmetode basert på EM-algoritmen vil bli
+beskrevet. Tilsammen gir kantgjenngjennings prosedyren og parameter-kalibreringen
+
+en full automatisk metode for volumberegninger.
+
+Figur 2 viser resultatet for segmentering av en seksjon av hjernen basert på totalt
+4 kanaler. I dette tilfellet er resultatet tilfredsstillende. Utprøvning på totalt 12
+pasienter har vist at i de fleste tilfellene vil gode resultater oppnås. For noen
+pasienter vil imidlertid problemer oppstå enten i kalibrerings-prosessen eller
+under kantgjenkjenningen. Ytterligere eksempler ble presentert og problemene
+i forbindelse med metoden ble diskutert. Noen muligheter for forbedringer ble
+også angitt.
+
+Figure 2: Region modell (venstre) og Gjenkjente konturer (høyre) i en T2-vektet
+
+seksjon av hjernen (i tillegg ble PD-, T1-, og Tl-vektet m/Gd-kontrast anvendt
+for å gjenkjenne konturene) .
+
+Langtidsoverlevelse av kreft
+Per H. Zahl
+
+Seksjon for medisinsk statistikk
+Postboks 1122 Blindern
+0317 Oslo
+
+I epidemiologiske studier har bruk av proporsjonale regresjonsmodeller en nærmest
+enerådende plass, spesielt semiparametriske modeller. Vi analyserer 7250 Norske
+menn med tykktarmskreft, og følger dem opp i 20 år, både med en proporsjonal
+regresjonsmodell, og med Aalens lineære nonparametriske regresjonsmodell.
+
+Vi tar utgangspunkt Ederer-metoden for beregning av dødelighet av kreft, som
+baserer seg på å sammenlikne observert dødelighet med forventet dødelighet gitt
+at de ikke har den aktuelle kreftsykdommen. Dette skrives som
+
+
+
+t
+
+R(t) = exp(—
+( f,
+Jo A(s)ds
+) ),
+exp(— fo u(s)ds)
+
+(2)
+
+hvor R(t) kalles relativ overlevelsesrate, A(t) er observert dødsintensitet, og u(t)
+
+er forventet dødelighet gitt at de ikke har den aktuelle kreftsykdom. Denne
+modellen kan alternativt formuleres som
+
+A(t) = w(t) + v(0),
+
+(3)
+
+hvor v(t) er den årsaksspesifikke dødelighet, eller oftest kalt excess mortality
+eller overdødelighet. I kreft-epidemiologi er det altså tradisjon for å tenke i
+form av additive intensitetsmodeller. Alle studier av langtidsoverlevelse baserer
+seg imidlertid på regresjonsmodeller av følgende type
+
+v(t) = volt) - exp(B -),
+
+(4)
+
+hvor v(t) enten antas å ha en eksponentiell form, eller antas stykkevis konstant,
+og er en k-dimensjonal covariatvektor. Vi sammenlikner denne modellen med
+
+v(t) = Bo(t) + Ai(t)a +---+ Pe(t)ze,
+
+(5)
+
+hvor fo(t) er overdgdeligheten til en referansegruppe, og de andre f-funksjonene
+er effekten av de forskjellige covariatene. I tillegg til at risikofaktorene ikke
+alltid er proporsjonale, finnes det flere andre grunner for a benytte modell
+(4): Modellen er nonparametrisk, og den tillater at man studerer negative
+overdødeligheter.
+i
+
+Negative overdgdeligheter tenker man seg fremkommet ved at man i formel (2)
+sammenlikner med en referansegruppe med større dødelighet enn de individene
+som man har i diagnosegruppen. Til slutt presenteres noen teknikker som er
+nyttige når man skal programmere modell (4).
+
+Optimal fokusering i medisinsk ultralyd v.h.a. s tatistiske metoder.
+
+Lars Ødegaard
+Inst. for matematiske fag NTH
+NTH
+
+e-mail: larso@ibt.unit.no
+
+Hvorfor gir noen mennesker dårligere ultralydbilder enn andre? Hva kan gjøres?
+
+
+
+På grunnlag av MR-bilder er det utviklet modeller av en god (slank) og en
+vanskelig (fyldig) ultralydpasient. Modellene består av lagdelte media med
+glatte overflater, inkludert fluid, dome og gel som forbinder transduceren med
+huden.
+
+I medisinsk ultralydavbildning baserer en seg på at ultralyd ’stralene’ ankommer fokus i fase, dvs. at avbildningen er koherent. Strålegangsberegninger
+predikerer en betydelig større fasefeil ved avbildning av den fyldige pasienten
+enn av den slanke. En interessant observasjon er at fasefeilene hovedsakelig
+gir fokusforskyvninger i dybde og ikke defokusering. Beregninger og forsøk
+viser at fokusforskyvninger i dybde ’lurer’ algoritmen for dynamisk fokusering.
+Kvaliteten i ultralyd bildet vil dermed avta.
+
+Målet er å få den dynamiske fokuseringen til å fungere optimalt for alle mennesker. Dette er mulig hvis en v.h.a. reflektert ultralyd kan måle hvor godt
+en fokuserer. En mulighet er å korrelere signaler mottatt i ulike transducerelementer. Da trenger en en enkeltstående punktreflektor, noe en sjelden finnner
+i kroppen. Et typisk ultralydbilde har derimot mange omeråder med ’speckle’.
+Dette er omeråder som tilsynelatende er homogene som f.eks. fett. Det viser seg
+imidlertid at de inneholder mange små svake reflektorer som blir avbildet som
+speckle i ultralydbildet. Speckle kan modelleres statistisk, og en analyse viser at
+intensiteten i et speckle omeråde øker når fokuseringen forbedres. Ved å måle
+intensiteten i speckle kan en avgjøre om den dynamiske fokuseringen fungerer
+
+optimalt, og om nødvendig estimere nye parametre i algoritmen.
+
+Noen anvendelser av stokastisk analyse i Økonomi
+Bernt Øksendal
+
+VISTA/Universitetet i Oslo og Norges Handelshøyskole
+
+Teorien for den stokastiske analysen har vært - og er - i en rivende utvikling.
+Samtidig har en blitt stadig mer oppmerksom på de mange anvendelsene denne
+teorien har, ikke minst i økonomi.
+
+Foredraget inneholdt noen viktige økonomiske anvendelser av optimal stopping
+
+og bl.a. problemene:
+
+1) Når er rette tidspunkt for salg av aksjer?
+2) Hva er verdien av en amerikansk opsjon?
+
+I tillegg dreide foredraget seg om impuls-kontroll (eller sekvensiell optimal stop-
+
+ping) og anvendelse av denne teorien på problemet:
+2
+
+3) Nar bør man stenge et olje/gass-felt og når bør man åpne det igjen o.s.v.
+(med de kostnadene disse operasjonene innebærer), hvis olje/gass-prisen
+følger en stokastisk prosess?
+
+
+
+N
+
+Ew
+
+SCIENTIST
+
+Gambling on the wrong numbers from Monte Carlo
+William Bown
+
+HIDDEN flaws have been discovered in the
+random number generators used to simulate complex phenomena such as the interactions of subatomic particles. The problem
+has sent scientists scrambling to check
+established results and has highlighted
+how difficult it is to distinguish between
+genuinely random numbers and sequences
+of numbers with hidden patterns.
+
+David Landau, a physicist at the University of Georgia, and two colleagues discovered the problem while attempting to
+
+simulate the way some materials suddenly
+flip into a magnetic state when cooled
+belowa critical temperature. Landau found
+that his computer model was consistently
+predicting the wrong temperature for the
+transition. He tracked down the flaw and
+found that it lay not in the simulation
+algorithm but in the random numbers the
+algorithm relied on.
+“We thought the random number gen-
+
+erators which we had were pretty good,”
+
+says Landau. “Unfortunately, it turns out
+that
+ostensibly
+high-quality
+random
+number generators may lead to subtle but
+dramatic errors in some algorithms.”
+Landau’s problems arose because he used
+“Monte Carlo” techniques in his simulation.
+Monte Carlo simulations do not try to
+
+examine every possible type of behaviour
+of a system. Instead, they “gamble” on
+randomly selected scenarios and average
+the results [see Box]. The different
+scenarios must be chosen on a genuinely
+random basis out of a selection of all
+possible scenarios, which is why the technique’s accuracy depends critically on the
+
+Magnetic balancing act
+THESE pictures are taken from a simplified
+version of Landau’s Monte Carlo simulation
+of the sudden onset of magnetism in a single layer of atoms. The atoms are simulated
+by points on a grid, or lattice, and appear
+in the pictures as dots. Red dots represent
+atoms whose magnetic moment orientation
+is pointing north, yellow dots those pointing south.
+
+;
+
+The simulation aims to balance two competing forces. The magnetic attraction between atoms tends to make groups of
+neighbours line up in the same direction
+while thermal vibrations of atoms tend to
+
+16
+
+randomness of the numbers it uses.
+The use of Monte Carlo simulations has
+boomed in recent years as scientists have
+wrestled with increasingly complex phe-
+
+nomena which defy traditional forms of
+
+analysis. Physicists, limited by the expense
+and difficulty of some experiments, have
+led the way. For example, particle physicists
+rely increasingly on Monte Carlo simulations to visualise the performance of
+detectors and to test the predictions of different particle theories.
+Landau says that since he published his
+discovery, several scientists have already
+
+contacted him with worries about their
+own simulations (Physical Review Letters,
+vol 69, p 3382). “This is a warning bell,”
+he says. “It is likely there is some work in
+
+the literature which is not correct.”
+Simulations such as Landau’s can require
+millions of random numbers a minute,
+forcing scientists to rely on computers to
+generate them. Landau achieved good
+results from an old-fashioned random
+number generator. This takes a starting
+number, multiplies it by 16 807, divides by
+
+231 and uses the remainder as the first
+random number. It then repeats the process
+using this number in order to.generate the
+second random number, and so on. Such
+“linear congruent generators” are known to
+
+produce some sequences of numbers which
+are less than random. However, the prob-
+
+lems are often avoidable.
+Landau’s problems started when he
+tried to use a new type of random number
+generator developed by George Mårsaglia
+and Arif Zaman of Florida State University.
+This generator was faster than linear
+
+congruent ones,
+
+used
+
+more
+
+advanced
+
+mathematics and had passed tests indicating that its numbers were nearer to genuine
+randomness than those produced by existing generators. But Landau found that the
+new generator was worse in practice.
+In a recent paper, Pierre L’ Ecuyer of the
+University of Montreal showed why. The
+numbers produced by any Marsaglia-
+
+Zaman generator can also be produced by
+
+a traditional linear congruent generator,
+
+though the newer generators are faster—
+which means that they produce the same
+lack of randomness as the old ones. “A
+Marsaglia-Zaman generator is just a very
+
+efficient way to implement some forms
+of linear congruent generators,” says
+LU Ecuyer. Unfortunately, nobody has yet
+figured out how to avoid the problems
+caused by the new generators.
+
+Landau’s work is typical of Monte Carlo
+simulations. Experiments have shown
+that thin layers of some materials become
+magnetic suddenly. Like a liquid turning
+into a solid, they flip from one state to
+another at a critical temperature.
+
+At most temperatures, the behaviour of
+one atom depends only on the behaviour of
+its immediate neighbours, and it is possible
+to deduce the exact behaviour of the layer,
+atom by atom. However, as the layer cools
+towards the critical temperature, the atoms
+start to link into clusters. Then the behaviour of one atom depends on the behaviour
+of all the other atoms in the cluster. The
+complexity of the calculations involved
+means that it is impractical to deduce the
+exact behaviour of the layer. Instead,
+physicists attempt to simulate it, and Monte
+Carlo simulations are currently far and
+away the most popular technique.
+
+Oo
+
+the random number, the atom is left unbreak up any emerging blocks. The simulation
+changed. If not, the atom flips.
+selects atoms at random, one after another,
+The pictures show the changing outcome
+and checks to see if they should remain in the *
+is lowof this process as the temperature
+on the left, the temIn the picture
+ered.
+This calculation depends on a steady stream of
+perature is above the critical temperature random numbers.
+and yellow clusters are prevented from
+The simulation calculates the probability
+forming by the strong thermal vibrations.
+of the atom flipping by looking at the state of
+But in the centre, at the critical temperathe atom's neighbours and the temperature.
+For example, if the atom is pointing south
+
+while its neighbours are pointing north, the
+atom is more likely to flip than if its neighbours are pointing south. The simulation
+compares this probability—a number between
+0 and 1—with a random number between
+0 and 1. If the probability is larger than
+
+ture, the vibrations are weak enough to
+allow some clusters to emerge. On the
+right, below the critical temperature, the
+‘whole layer has joined into one cluster
+
+with only a few atoms knocked out of
+
+alignment by thermal vibrations. The layer,
+ws
+is now magnetised.
+
+24 April 1993
+
+
+
+INBJUDAN TILL JUBILEUMSSYMPOSIUM 24-25 SEPT 1993
+
+HARALD CRAMÉR 100 ÅR
+Harald Cramér skulle ha fyllt 100 år den 25.9.1993, och i samband med detta anordnas ett
+tvådagarssymposium fredag-lördag 24-25.9 1993 vid det av Cramér grundade Institutet för
+försåkringsmatematik och matematisk statistik vid Stockholms universitet.
+Vid symposiet ges nio entimmesföredrag av översiktskaraktår, som belyser Cramérs insatser
+och utvecklingen sedan dess inom forskningsområden som intresserade honom. De vånder
+sig fråmst till matematiska statistiker, som vill få en överblick över intressanta delar av
+åmnet och deras utveckling. Följande föredrag år planerade:
+
+1. A survey of the life and works of Harald Cramér
+av Prof. Ulf Grenander, Brown University
+2. Recent developments of Cramér’s ideas on prime numbers
+av Dr. Andrew Granville, Univ. of Georgia.
+
+3. Factorization theory for probability distributions
+av Prof. Lennart Bondesson, SLU, Umea
+
+4. Asymptotic expansions and some of their applications
+av Dr. Jens Ledet Jensen, Aarhus Universitet
+5. Large deviation theory
+
+av Prof. Richard Ellis, Univ. of Massachusetts
+
+6. Statistical theory, some recent developments
+
+av Sir David Cox, Nuffield College, Oxford
+
+7. Risk theory of the second and third kind
+av Prof. Paul Embrechts, ETH, Ziirich
+8. The aftermath of Cramér’s work on stochastic processes
+- av Prof. Pesi Masani, University of Pittsburgh
+9. Extreme value theory for stochastic processes
+av Prof. Holger Rootzén, Lunds Universitet
+
+Lokal: Matematiska Institutionens nya lokaler i Kråftriket vid Albano, Roslagsvågen 101.
+Tid: Symposiet startar c:a kl. 9.30 fredagen den 24.9. Symposiet avslutas den 25.9 med en
+jubileumsmiddag i Spökslottet, Drottninggatan 116.
+Logi: För deltagare som ej bor i Stockholm kan vi upplysa om att Hotel Tegnérlunden,
+Tegnérlunden 8, tel: 08/349780 år belåget inom bekvåmt bussavstånd från konferensen.
+
+(Meddela dår att du deltar i Cramérsymposiet vid SU, så blir veckoslutspriset 500 kr/natt).
+
+Billigare logi kan t.ex. erbjudas av STFs Vandrarhem:
+
+af Chapman, Skeppsholmen, 08/6795015 Skeppsholmen, Vastra Brobånken, 08/6795017
+Zinken, Zinkens våg 20, 08/6685786
+Långholmen, Kronohåktet, 08/6680510
+Anmålan: Ett detaljerat program kommer att skickas ut till dem som anmåler sig.
+Anvånd helst nedanstående talong, och skicka in den före den 5 sept. till
+- Matematisk statistik, Stockholms universitet, Box 6701, S-113 85 Stockholm.
+Om anmiilan insåndes efter 1 augusti så år Institutets nya postadress låmpligare:
+Matematisk statistik, Stockholms universitet, S—106 91 Stockholm.
+
+VALKOMNA!
+
+Anders Martin-Löf
+
+-ANMÄLAN TILL CRAMÉRSYMPOSIET
+OD
+
+Jag avser att delta i symposiet 24-25.9
+Jag vill delta i middagen till sjålvkostnadspris c:a 250 kr
+Namn:
+Adress:
+
+Rolf Sundberg
+
+
+
+59
+INTERNATIONAL CONGRESS ON
+
+on the following topics are called for:,
+
+Modelling and Simulation 1993
+
+General
+¢ Papers which address the effects of environmental change
+* Interdisciplinary
+methods or
+applications
+in any problem
+area
+
+Modelling Change
+in Environmental and
+Socioecononiic
+Systems
+
+Physical and biological systems including biospheric, forest,
+
+freshwater, marine and terrestrial ecosystents
+
+. Geophysical or biophysical oe including agricultural,
+phic
+
+Economic and‘other alesystems
+
+and pastoral systems
+
+Any general aspects of modelling and simulation
+
+Specific
+Agricultural models and information technology
+Acoustic, air pollution, fire, noise and odour modelling
+
+University of Western Australia, Perth
+6 - 10 December 1993
+
+Al
+
+and
+
+ional energy,
+
+ication and
+
+transport systems
+
+Business modelling
+
+C
+
+Sra
+
+al
+
+mA
+
+å
+
+meksdi
+
+Lad
+
+pi
+
+Erosoneaieand statistical psi
+hi
+
+hödsand
+
+Ecotechnology and modelling
+
+Health and disease models and analysis including
+
+Industnial and
+
+g methods and erincluding
+
+design and control
+
+Land degradation processes and management
+
+Modelling and/or risk analysis of hazards, extremes and
+epidemics
+
+* Operations research methods and applications
+Progress and application of geographic information and expert
+
+systems including Temote sensing techniques and applications
+
+* Resource all
+
+and
+
+op
+
+Signal processing including |pattem recognition, neural
+networks and wavelets
+Structural geology, resource exploration and recovery
+
+« Surface and subsurface hydrology :and water quality modelling
+
+* Techniques
+
+Organised by
+
+for inverse
+
+probl
+
+ding, model identifica-
+
+tion, validation and quantification of uncertainty.
+
+Moo vetunc AND SIMULATION SOCIETY OF AUSTRALIA IN
+
+INTERNATIONAL SOCIETY FOR ECOLOGICAL MODELLING
+
+International Congress Secretariat
+Professor Michael McAleer
+
+"The INTERNATIONAL ENVIRONMETRICS SOCIETY
+
+Department of Economics
+University of Westem Australia, Nedlands
+
+INTERNATIONAL ASSOCIATION FOR MATHEMATICS
+
+WA 6009 Australia
+
+ANID COMPUTERS IN SIMULATION
+
+Telephone (61) 9 380 3400
+
+Fax (61) 9 380 1016
+
+Presidential Addresses
+1, Sven Jorgensen, ISEM
+
+Developm
+of Ezosystem
+ent Theory Through Modelling - an Oveview
+
+T HIS CONGRESS incorporates the 10th Biennial Conference
+
+2. Abdul El-Shaarawi, TIES
+
+of the Modelling and Simulation Society of Australia Inc.
+
+1
+
+Trend Detection and
+
+MSSA Inc. (formerly SSA)is an affiliate of the
+for Math
+
+ics
+
+Computersin Simulation (IMACS).
+
+Identifying Key Environmental Relationships
+
+work on environmental, agricultural and socio-economic
+
+Keynote Addresses
+
+methods and applications. Hence
+iit is natural that the Congressbe
+
+Modelling (ISEM) and TheI
+
+1. Jorg Imberger, University of Westem Australia
+
+y for
+E
+
+PUD
+
+1
+
+Mode
+Large Physical
+lling
+Systems.
+
+KE,
+
+2. John Kaldor, National Centre in HIV Epidemiology
+
+Clinical Research
+
+Society (TLES), as well as with IMACS. The Presidential
+and
+
+Keynote addresses and many of the parallel session streams will
+focus on areas of common interest to these societies.
+
+The Establishment of Causality in Public Heath
+
+3. Soren J
+
+University of Western Ontario
+
+RLS. Anderssen
+
+D.M. McLaughlin
+
+CSIRO, Australia
+
+Massachusetts Institute of
+K. Morimune
+Kyoto University, Japan
+
+p
+
+Instirut Industriel du Nord, France å
+
+Econ
+Modelling of
+ome
+Fossil-Energy
+tric
+Supplies
+
+Deadlines and Requirements
+© Abstracts of around 300 words should arrive in TRIPLICA
+
+H.A. Nix
+Australian National University
+
+Univensty of NSW, Australia
+
+J.P. Norton
+
+P.C. Chuwin
+
+University of Birmingham, UK
+
+University ofSheffield, UK
+
+*
+
+A.H. El-Shaarawi
+Canada
+
+Monash University, Australia
+
+A. Henderson-Sellers
+
+R. Rigana
+
+hi:
+
+Nutfield College, Oxford, UK
+
+Poli
+
+di Torino, Italy
+
+dy copy for the
+
+ke
+
+I Congress S
+
+* The Congress
+
+Proce di
+
+A pigs ts Cg aed om
+
+iat
+before
+2
+August, 1993.
+
+Proceedi ngs will
+be
+
+available to
+
+pants
+
+at the
+
+Congress. Suitable papers will be selected for publication in several
+
+.
+
+speed nn of ineernecicnal juss afer the congress, These
+inc!
+
+PJ. Sullivan
+
+©
+
+University of Western Ontario
+
+Mathematics
+
+and Computers
+
+in
+
+Simula
+
+* Ecological Modelling
+
+C.C. Heyde
+ess
+
+April, ne as will an author kit with complete instructions for
+
+amrive (in suitable camera ready form for the proceedings) at the
+
+National Water Research Institute — A.A. Powell
+
+D.F. Hendry
+
+TE
+at
+the INTERNATIONAL CONGRESS SECRET‘ARIAT,
+befo
+8 March,re
+1993.
+Notice of acceptance of abstracts will be mailed to authors in
+
+. em
+
+M. Hashem-Pesaran
+
+Trinity College, Cambridge, UK
+
+Macquarie University, A
+
+-
+
+ic Me ling
+
+5. M.‘Hashem Pesaran, Trinity College,
+
+Technology, USA
+
+P. Bone
+
+T.G. CI
+
+sd Esos
+
+I. MacNeill
+
+and
+
+of C.
+
+4. Alan Powell, Monash University
+
+W.F. Ames
+Geongia Institute of Technology,
+
+Imperial College, London, UK
+
+University
+
+Colinas Aisa TeeeSee Deer
+
+Scientific Advisory Board
+
+M.B. Beck
+
+I Applic
+
+the Soft Sciences
+
+The society is highly imerdisciplinary and many of its members
+
+B
+
+Envir
+
+4. Anthony Jakeman, MSSA
+
+practice of all areas of modelling and simulationin Australia.
+
+with the
+I
+
+with
+
+Mathematical Modelling: its Different Meaningin the Hard and
+
+The MSSA aims to promote, develop and assist in the study and
+
+a joint
+
+Estimation
+
+3. Robert Vichnevetsky, IMACS
+
+and
+
+5;
+
+ee
+
+Ec
+
+Een
+
+* Environmetrics
+
+G.M. Homberger
+
+Umveruty of Virginia, USA
+J. Imberger
+
+Univeruty of Westem Australia
+S.E. Jorgensen
+
+Royal Danish School of Pharmacy
+
+W. Kinzelbach
+Kassel University, Germany
+
+å
+
+ee fees
+
+i aaltepet
+fee includes bound
+
+Students
+
+Proce dings
+
+volumes,
+
+the
+
+A$100.00
+
+Registration before 8 October, 1993 ......ccccscessseeesee A$300.00
+
+Students
+
+Registration after8 October, 1993 .
+Students
+
+A$125.00
+++ A$350.00
+
+A$150.00
+
+
+
+The Venue
+
+The Univerury of
+Western Australian in
+one of the world’s
+beauntul cities situated
+
+Intention to Participate
+
+by the Swan River in
+Perth.
+
+It has one ofthe
+
+(Please return to International Congress Secretariat
+as soon as possible)
+
+most attractive Univer-
+
+sity campuses, featunng
+
+thematic gardens and
+
+I am considering attending the Congress and would like to be
+kept on your mailing list for further information.
+
+architecture.
+
+C] I intend to submit a paper.
+"ge
+
+Name
+
+Perth is typically dry in December when the average maximum
+temperature reaches 28°C, and is frequently cooled by
+
+Return
+
+afternoon sea breezes.
+
+Accommodation
+
+add
+
+RERERRSHRRERKE
+BRE
+RRES REE NEE RDRMSRE TE
+
+Registration Form
+
+On campus accommodation of
+400 rooms will be available at rvo
+
+Name
+
+rates. There will be 30 rooms
+with facilines (ea; $66 per day and
+350 individual student rooms (a:
+
+$43 per day. The cost includes
+
+I
+
+daily service and continental
+
+I
+
+breakfast. Hotel accommodation
+
+Organisation
+Name for identification badge
+
+in the city, just five minutes by
+
+car, is available at various rates.
+
+Photographs wpphed courte v the
+
+Wevem Auuralun Tourn Commmeon and
+
+Mailing address
+
+Phone
+
+Fax
+
+{
+
+Medu Services, Univenaty of Western Austral
+
+email
+
+I am eligible to be considered for the student prize [ yes [No
+Student Prize
+
+Accommodation
+
+A student prize will be awarded for the best student paper and
+presentation. To be eligible, a student should be enrolled at the
+time of the Congress or have submitted a thesis within the last
+
+six months prior to the Congress.
+
+i
+
+Accommodation is required for
+First night
+
+nights
+
+Last night
+
+i
+
+Preferred accommodation
+
+Congress Convenors:
+
+On campus: D Room with facilites @ $66 per day
+
+Michael McAleer,
+
+2 Student type room @ $43 per day
+
+Department of Economics, University of Westem Australia,
+Nedlands, WA 6009, Australia.
+
+‘Telephone (61) 9 380 3400
+
+Fas (61) 9 380 1016
+
+9
+National University,
+lian
+CRES, A
+GPO Box 4, Canberra, ACT 2601, Australia.
+Telephone (61) 6 249 4742
+
+Email
+
+Fax (61) 6 2490757
+
+cony@cres.anu.edu.au
+
+Brian Henderson-Sellers,
+
+School of Inf
+jon
+Systems, University of New South Wales,
+PO Box 1, Kensington, NSW 2033, Australia.
+Telephone (61) 2 697 4240
+
+Steering Committee
+R.N. Ghosh
+P. Abbot
+B. Bates
+
+R. Bewley
+V. Burke
+M. Burgess
+
+G. Hertzler
+R. Humphnes
+Jj. Hisu
+
+M. Lynch
+D. Mannova
+
+D. Marken
+P. McLeod
+
+C. R. McKenzie
+
+D: Momson
+
+C. Ong
+
+L. Oxkey
+W. Perryman
+
+M. Sivapalan
+
+R. Smith
+Y. K. Tse
+
+The city and its hotels are about 5 minutes by car from the Congress
+
+site, University of Western Australia
+
+Anthony Jakeman,
+
+Fax (61) 2 662 4061
+
+Early bird registration before 18 June, 1993.................- A$250.00
+Students
+A$100.00
+A$300.00
+Registration before 8 October, 1993
+A$125.00
+Students
+Registration after 8 October, 1993 +..»»esvvrersevnerro000+ AS350.00
+A$150.00
+Students
+Payment by credit card
+
+Please debit my
+
+No.
+
+© Mastercard
+
+Q Visa
+
+O Bankcard
+Expiry date
+
+Signature
+
+Please make cheques payable to MODSIM 93
+Send to:
+
+International Congress Secretariat
+Department of Economics,
+
+University of Western Australia
+NEDLANDS WA 6009 AUSTRALIA
+
+
+
+-
+
+41
+-
+
+CALL FOR PAPERS
+The International Statistical Institute (ISI) and 1’Institut
+National de Statistique et d'Economie Appliquée (I.N.S.E.A.)
+are pleased to announce that the Fourth
+
+International
+
+Conference on teaching Statistics will be held in Marrakech,
+Morocco, from 25 to 30 of July 1994.
+
+The main objectives of the Conference are :
+
+The Fourth Conference
+onTeaching Statistics
+
+- promoting the interchange of ideas about teaching materials,
+methods and content
+
+(ICOTS 4)
+
+- fostering International Cooperation among teachers of
+Statistics.
+
+The programme will include invited lectures, contributed
+
+papers and working groups.
+
+25-30 July 1994
+Congress Palace
+
+People who are intending to present a paper or to take part in
+
+Marrakech, MOROCCO
+
+a working group must get into contact with the organiser before
+
+December 30th, 1993.
+For further information, write to:
+
+After this date and until May 31th,
+
+1994, additional
+
+Mr. EL GHAZALI Abdelaziz
+
+contributed papers proposals may be sent to the chairman of the
+
+Chairman of the Local organizing
+Committee
+
+- Programme Committee.
+
+P.O. Box 6217, Rabat-Instituts,
+Rabat, Morocco.
+
+The abstract should be limited to a single A4 page before
+
+being submitted for acceptance.
+
+A document prepared in advance will be available at the
+
+beginning of the conference. It will include abstracts of
+
+contributed papers and texts (8 pages) of invited papers.
+
+I.N.S.E.A.
+
+or
+
+Pr. Y. ESCOUFIER
+Chairman of the Programme
+Committee
+Université Montpellier II,
+Science et Technique du
+
+Languedoc,
+
+Place E Bataillon-34095,
+
+Mont; ÅGrdex 5,
+
+
+
+[Scientific sessions]
+
+1. STATISTICAL LITERACY OF CITIZENS AND PUBLIC’S
+VIEWS OF STATISTICS
+
+Washington DC 20024
+
+(USA)
+
+Dept. of Math. and Comp. Science
+
+University of Technology
+Den Dolech 2, PO Box 513
+
+5600MB Endhoven (The Netherlands)
+
+2. INTEGRATING STATISTICAL TOPICS THROUGHOUT
+THE SECONDARY SCHOOL CURRICULUM
+
+Dr. Jame Landwer
+
+STATISTICAL
+
+TEACHING
+
+Dr. J. Rijpkema
+
+468N. Street S.W.
+
+Dr. Barbara Bailar
+
+8. COMPUTING AND SOFTWARE IN
+
+9. LEARNING STATISTICS AT A DISTANCE
+
+Prof. G. Saporta
+
+CNAM
+
+Stat. Models & Meth. Research Dept.
+
+Department de Mathematiques
+292, rue Saint Martin
+
+Murray Hill
+NJ 07974
+
+75141 Paris Cedex 03
+
+AT&T BELL Labs, Rm 2c257,
+
+(France)
+
+(USA)
+10. USE OF VIDEO AND MULTIMEDIA TECHNOLOGY FOR
+
+3. DATA ANALYSIS
+
+FOR
+
+ELEMENTARY
+
+THE
+
+CURRICULUM
+
+TEACHING
+
+Prof. David Moore
+and Statistics
+Universidad Nacional Bogota
+Bogota
+(Columbia)
+
+(USA)
+
+11. TEACHING STATISTICS FOR FUTURE STATISTICIANS
+
+Prof. A. Rizzi
+
+4. HANDS-ON AND PROJECT BASED TEACHING
+Claremont, CA 91711
+
+'
+
+5. RESEARCH
+
+(USA)
+TEACHING
+
+ON
+
+12. TEACHING
+
+STATISTICS
+
+FOR
+
+ECONOMIC
+
+STATISTICIANS
+
+AND
+
+LEARNING
+
+Dr. Boubakroui Lhoucine - INSEA
+
+Post Box 6217
+
+STATISTICS AND PROBABILISTIC CONCEPTS
+
+Prof. Joan Garfield
+
+Via Rodi 24
+00195 Roma
+
+(Italy)
+
+Dept. of Math, Pomona Coll.
+
+Prof. Don Bentley
+
+Dept. of Stat, Purdue University
+West Lafayette, Indiana 47907
+
+Dr. David Ospina Botero Department of Mathematic
+
+Rabat (MOROCCO)
+
+The General College
+
+340 Appleby Hall
+128 Pleasant Street S.E.
+The University of Minnesota
+
+~ Minneapolis, MN 54544
+
+(USA)
+
+13. STATISTICS FOR EMPLOYEES OF A STATISTICAL
+OFFICE
+
+Prof. Diop
+
+CESD-Paris, 3 avenue Pierre Larousse
+92240 Malakoff
+
+(France)
+6. STATISTICAL TRAINING FOR AND BY CONSULTANCY
+
+Dr. J.D. Lebreton
+.
+
+CEFE-CNRS
+BP 5051 - 34033 Montpellier Cedex 1
+(France)
+
+14. TEACHING STATISTICS FOR FUTURE ENGINEERS
+
+Prof. A. Lazraq
+
+Ecole nation. de I’Industrie Minérale
+Agdal, rue Elghafiki BP 753
+RABAT (Maroc)
+
+7. TEACHER TRAINING
+
+Dr. Anne Hawkins __ Univ. College & Middlesex
+School of Med.
+
+James Pringle House
+The Middlesex Hospital
+London WIN 8AA
+
+(England)
+
+15. STATISTICS FOR SOCIAL SCIENTISTS
+
+Prof. F. Jolliffe
+
+The University of Greenwich
+
+School of Math., Stat.and Comp. .
+Woolwich Campus, Wellington Street
+Woolwich, London SE18 6PF (UK)
+
+
+
+» STATISTICS IN CONTINUING
+EMPLOYEES IN INDUSTRY
+
+Prof. Ray Harris
+
+EDUCATION FOR
+
+18. INITIAL
+
+AND
+
+CONTINUING
+
+STATISTICS
+IN MEDECINE
+
+Lancashire Poly. Faculty of Science
+Dept. of Mathematics and Statistics
+Lancashire Polytechnic,
+
+Prof. N. Victor
+
+EDUCATION
+
+FOR
+
+Inst. fur Med. Dukumentation
+Stats. u. Datenverarbeitung
+Im Neuenheimer Feld 325
+6900 Heidelberg (Germany)
+
+Preston PR1 2TQ
+
+(UK)
+
+19. HISTORY OF STATISTICAL TEACHING
+
+7. INITIAL AND CONTINUING EDUCATION FOR
+STATISTICS IN AGRICULTURE
+
+Prof. P. Dagnelie
+
+Prof.J.J.Droesbeke
+
+69, Avenue Stuart Merril
+B1190 Bruxelles (Belgique)
+
+Statistique et Informatique
+
+‘Avenue de la Faculté d’ Agronomie 8
+
+5030 Gembloux
+
+(Belgique)
+
+20. STATISTICAL PROJECT COMPETITION
+
+Dr. Shir-Ming Shen
+
+'
+
+Departement of Statistics
+University of Hong Kong
+Pokfulam Road (Hong Kong)
+
+| Working Groups|
+
+.. THE STATISTICS CURRICULUM : TOWARDS THE
+YEAR 2000 : PRELIMINARY ARABIC SPEAKING
+WORKING GROUP
+
+Manmohan S. Arora
+
+5. DEVELOPMENT
+
+Prof. A. Skalli
+
+University of Barhain
+
+Department of Mathematics
+P.O. Box 32038
+(State of Bahrain)
+
+OF
+
+ARABIC EDUCATIONAL
+
+SOFTWAREIN STATISTICS
+
+Ecole Mohammadia d'Ingenieurs
+Avenue Ibn Sina - PBP 765 Agdal
+Rabat (Maroc)
+
+6. DEVELOPMENT
+
+OF
+
+FRENCH EDUCATIONAL
+
+SOFTWARE
+IN
+STATISTICS
+
+2. THE STATISTICS CURRICULUM : TOWARDS THE
+
+YEAR 2000 : PRELIMINARY
+WORKING GROUP
+
+FRENCH
+
+SPEAKING
+
+Prof. D. Dacunha-Castelle 129, Avenue du Général Leclerc
+91120 Palaiseau
+
+(France)
+
+Prof. Annie Morin
+
+Av. du Général Leclerc
+35042 Rennes Cedex (France)
+
+7. DEVELOPMENT
+
+OF
+
+ENGLISH
+
+EDUCATIONAL
+
+SOFTWARE
+IN STATISTICS
+
+Prof. Paul Velleman
+ENGLISH
+
+Dept. of Econ. 1 Soc. Stat.
+
+Cornell Univ., 358 Ives Hall
+Ithaca, NY 14853 (USA)
+
+3. THE STATISTICS CURRICULUM : TOWARDS THE
+YEAR 2000 : PRELIMINARY
+
+_Irisa Campus Univ. de Beaulieu
+
+SPEAKING
+
+WORKING GROUP
+
+Prof. P. Holmes
+
+87 Furniss Ave, Dore
+Sheffield, $17 3QN
+
+(UK)
+
+8. PLENARY DISCUSSION GROUP ON EDUCATIONAL
+SOFTWARE
+IN
+STATISTICS
+
+Prof. N. Lauro
+
+Istituto di Statistica
+Univ. de Napoli, Via Partenope 36
+
+80100 Napoli (Italy)
+4. THE STATISTICS CURRICULUM : TOWARDS THE
+
+YEAR 2000 : PLENARY DISCUSSION GROUP
+Prof. Luigi Biggeri
+
+- Dipartimento Statistico
+Universita degli Studi di Firenze
+v. Le Morgagni, 59
+50134 Firenze
+
+{taly)
+
+9. ACTIVITES
+
+OF
+
+PROFESSIONAL
+
+SOCIETIES
+
+IN
+
+EDUCATION AND PUBLIC AWARENESS OF STATISTICS
+
+Prof. J.K. Ghosh
+
+Stat/Math. Division
+Indian Statistical Institute
+203 Barrackpore Trunk Road
+Calcutta 700 035 (India)
+
+
+
+=
+
+=
+Gd
+
+Referat fra Årsmøte i Norsk statistisk forening
+Ustaoset, 14. juni 1993
+
+1. Godkjenning av innkalling og dagsorden.
+
+Innkalling og dagsorden ble godkjent uten bemerkninger.
+2. Valg av møteleder og referent.
+
+På Jan Bjørnstads forslag ble Trygve Nilsen og Anne Marie Fenstad ved akklamasjon valgt til h.h.v. møteleder og referent.
+
+3. Beretning v/ foreningens leder Trygve Nilsen.
+Nilsen gjennomgikk beretningen punktvis.
+
+Ad. medlemsblad: Jan Bjørnstad fikk applaus fra Årsmøtet som takk for innsatsen. Hittil har SSB trykket bladet gratis for oss, det er mulig at de skal legge ned
+trykkeriet sitt fra jul slik at vi må finne en annen løsning. Dette vil sannsynligvis
+koste en del.
+
+Ad. SJS: Dag Tjøstheim er valgt til hovedredaktør for 1994.
+
+Ad. Etterutdanningsseminar: Nilsen beklaget at det ikke er blitt avholdt noe
+etterutdanningsseminar i perioden.
+
+Ad. Røros: Det 14. Nordiske konferanse i matematisk statistikk var meget vellykket. Takk til arrangement- og programkomitéen.
+4. Regnskap.
+
+Kassereren Ole Lauvskar orienterte. Regnskapet ble godkjent.
+5. Medlemskontingent.
+
+Med usikkerhet i forbindelse med trykkeriutgifter ble det foreslått at kontigenten
+skulle økes. Jan Bjørnstad foreslo en økning til kr 200 for hovedmedlemmer og kr
+50 for studenter. Det ble litt diskusjon rundt dette, mange mente det ble en for
+”drastisk” økning. Det ble foreslått at man kunne ta det trinnvis. Tore Schweder
+lurte på hva vedtektene sa om fondet og hva ”vitsen” var med et så stort fond.
+Fondet skal fungere som en buffer og er ikke ment til å brukes til ordinær drift
+av foreningen. Det ble så stemt over om man skulle øke kontigenten til kr 150
+for hovedmedlemmer og kr 50 for studenter. Dette ble enstemmig vedtatt.
+
+
+
+6. Valg av styre, revisorer og undervisningsutvalg.
+Alle valg ble foretatt ved akklamasjon:
+Nye i styret 1993-95:
+
+Leder:
+Redaktør:
+
+Eivind Damsleth
+Inge Helland
+
+Kasserer:
+Sekretær:
+Medlemmer:
+
+Eva Seim
+Anne Marie Fenstad
+Tormod Næs
+Harald Johnsen
+
+Varamedlemmer:
+
+Geir Egil Eide
+
+Revisorer:
+
+Herdis Thorén Amundsen
+Steinar Tretli
+
+André Teigland
+
+Når det gjelder TG vil Inge Helland fungere som redaktør sammen med Åre
+Aastveit. Aastveit vil være teknisk redaktør og Helland vil møte i styret som
+ansvarlig redaktør.
+
+Hele undervisningsutvalget ble gjenvalgt, dvs.:
+Jostein Lillestøl
+
+Henrik Dahl
+
+Grete U. Fenstad
+
+Etter møtet takket den nye formannen Eivind Damsleth det avtroppende styret
+for deres innsats. Han takket også for tilliten ved å bli valgt.
+
+Oslo, 18. juni 1993
+Anne Marie Fenstad
+referent
+
+
+
+Beretning fra styret i NSF 1991-1993
+FORENINGENS TILLITSVALGTE
+
+På foreningens hovedmøte 10. juni 1991 ble valgt:
+
+Styre:
+
+Trygve Nilsen, Universitetet i Bergen (formann)
+Jan Bjørnstad, Universitetet i Trondheim (redaktør)
+Geir Eide, Norges Handelshøyskole (sekretær)
+Ole Lauvskar, Vital Forsikring A/S (kasserer)
+Leiv Solheim, Statistisk Sentralbyrå
+
+John Tyssedal, Norges Tekniske Høgskole
+Vararepresentanter:
+
+Edvin Bredrup, Universitetet i Tromsø
+Harald Johnsen, Universitetet i Trondheim
+
+Formann og redaktør ble valgt særskilt. Forøvrig konstituerte styret seg selv.
+
+Revisorer:
+
+Herdis Thorén Amundsen
+Steinar Tretli, Kreftregisteret
+
+Undervisningsutvalg:
+
+Henrik Dahl, Agder Distriktshøgskole
+
+Grete U. Fenstad, Universitetet i Oslo
+Jostein Lillestøl, Norges Handelshøyskole
+
+STYRETS ARBEIDSMÅTE
+Styret har avholdt ett styremøte på Røros 15. juni 1992. Den øvrige kontakten
+mellom styremedlemmene har foregått pr. brev, telefon og elektronisk post.
+
+LOKALFORENINGER
+Statistisk forening i Bergen har i perioden hatt følgende styrer:
+
+1991:
+
+Trygve Nilsen, Matematisk institutt, UiB (formann)
+Grethe Albrektsen, SMIS, UiB (sekretær)
+Valborg Baste, SMIS, UiB (kasserer)
+Jan-Harald Aarseth, Matematisk institutt, UiB
+
+1992:
+
+1993:
+
+Rolv Skjærven, SMIS, UiB (formann)
+Grethe Albrektsen, SMIS, UiB (sekretær)
+Marit O. Holen, Vital Forsikring A/S (kasserer)
+Jan-Harald Aarseth, Matematisk institutt, UiB
+Rolv Skjærven, SMIS, UiB (formann)
+
+Ågot Irgens, Haukeland sykehus (sekretær)
+Marit O. Holen, Vital Forsikring A/S (kasserer)
+Hans J. Skaug, Matematisk institutt, UiB
+
+
+
+Statistisk forening i Oslo har i perioden hatt følgende styrer:
+
+1991:
+
+Doris Tove Kristoffersen, Nycomed Imaging A/S (leder)
+Frøydis Bjerke, PFI
+
+Espen Funnemark, Veritas (sekretær)
+Marit Bragelien Veierød, MEDSTAT (kasserer)
+Ole Fugleberg, BI
+
+1992:
+
+Doris Tove Kristoffersen,
+
+Nycomed Imaging A/S (leder)
+
+Frøydis Bjerke, PFI
+
+Marit Bragelien Veierød, MEDSTAT
+Ole Fugleberg, BI
+Rune Winther, UiO
+
+1993:
+
+Anne Marie Fenstad, Norsk Regnesentral (leder)
+Geir Storvik, Norsk Regnesentral
+Liv Belsby, Statistisk Sentralbyrå
+Hans Fagerthun, Medstat Research
+Rune Winther, Matematisk institutt, UiO
+
+Statistisk forening i Trondheim har i perioden hatt følgende styrer:
+1991:
+
+Per Hokstad, SINTEF (formann)
+Steinar Engen, AVH (sekretær)
+Randi Hammervold, TØH (kasserer)
+Fred Godtliebsen, NTH
+
+1992:
+
+Per Hokstad, SINTEF (leder)
+Fred Godtliebsen, NTH (sekretær)
+
+Randi Hammervold, TØH (kasserer)
+Harald Johnsen, Regionsykehuset i Trondheim (styremedlem)
+1993:
+
+Fred Godtliebsen, NTH (leder)
+Svenn Fjeld Olsen, AVH (sekretær)
+Harald Johnsen, Regionsykehuset i Trondheim (kasserer)
+
+Marvin Rausand, SINTEF (styremedlem)
+
+MØTEVIRKSOMHET
+
+De lokale foreninger har holdt ordinære medlemsmøter. Programmet fremgår
+
+..
+
+av årsmeldingene for lokalforeningene.
+
+ETTERUTDANNINGSSEMINAR
+Styret beklager at det ikke fikk arrangert etterutdanningsseminar.
+
+MEDLEMSBLAD
+Medlemsbladet Tilfeldig Gang med Jan Bjørnstad som redaktør har kommet
+ut med fire nummer pr. år. Det fungerer som et forum for norske statistikere.
+Statistisk sentralbyrå har stått for trykkingen av bladet.
+
+UNDERVISNINGSUTVALG
+
+
+
+Undervisningsutvalget har ikke hatt større saker å arbeide med i perioden,
+men har forsøkt å holde seg orientert om forhold av betydning, og i noen grad
+formidlet dette i TG.
+
+SCANDINAVIAN JOURNAL OF STATISTICS (SJS)
+I periodene 1991-92 har Bo Lindqvist vært nasjonal redaktør og sammen med
+Arnljot Høyland sittet som NSF’s representant i styret for SJS. De er gjenoppnevnt for perioden 1993-94. I tillegg har Nils Lid Hjort sittet i redaksjonen i
+hele rapporteringperioden.
+
+Fra 1992 har SJS skiftet forlegger fra Scandinavian University Press (Univer-
+
+sitetsforlaget/AWI) til Blackwell Publishers.
+
+7. NORSKE STATISTIKERMØTE
+Møtet holdes i tiden 14. - 16. juni 1993 på Ustaoset Høyfjellshotell. Arrangementskomitéen består av styret i Statistisk Forening i Bergen. Programkomitéen
+består av Ørnulf Borgan, Liv Høyland og Jostein Paulsen. Foreløpig invitasjon
+ble sendt ut som del av Tilfeldig Gang desember 1992, mens endelig program
+og påmeldingsskjema ble sendt ut i marsnummeret 1993. Hovedmøtet i Norsk
+Statistisk Forening er lagt til den første kvelden.
+
+14.
+
+NORDISKE KONFERANSE I MATEMATISK STATISTIKK
+
+Norsk Statistisk Forening arrangerte den 14. nordiske konferanse i matema-
+
+tisk statistikk på Røros i tiden 15. - 19. juni 1992. Programkomitéen bestod
+av Jostein Lillestøl (formann), Nils Lid Hjort, Emil Spjøtvoll og Ib Thomsen.
+Organisasjonskomitéen bestod av Leiv Solheim (formann), Thore Egeland og
+Tormod Næs.
+
+INTERNATIONAL STATISTICAL INSTITUTE
+Foreningen er blitt medlem av ISI fra 1991. Kontingenten er SWF 200 pr. år.
+
+REPRESENTASJON
+Bent Natvig representerte foreningen ved det 48. ISI møtet i Cairo i september
+1991.
+
+MEDLEMMER
+
+Foreningen har pr. mai 1993 279 medlemmer. Etter forgjeves purring etter
+utestående kontingent for flere år har styret strøket 25 medlemmer.
+
+Kontingenten har i perioden vært 90 kroner pr. år (30 kroner for studenter).
+
+
+
+ØKONOMI
+
+Lokalforeningene i Bergen, Oslo og Trondheim har fått overført kr. 3000 pr. år
+fra NSF. Foreningen hadde invitert Arnljot Høyland som æresgjest til den 14.
+nordiske konferanse i matematisk statistikk på Røros og betalte i den anledning
+hans utgifter.
+
+Økonomien og aktiviteten i NSF ser ut til å stå i et rimelig forhold til hverandre.
+Det er mulig at TG i fremtiden vil kreve større uttellinger i forbindelse med
+trykking og redaksjonsarbeid, og dette bør en ha i tankene ved fastsettelsen av
+kontingenten.
+
+Bergen 7. juni 1993
+
+Trygve Nilsen
+(formann)
+
+
+
+-
+
+50
+
+-
+
+REKNESKAP 1991
+OVERSYN OVER INNTEKTER, UTGIFTER OG BEHALD-
+
+BEHALDOVERSYN OVER INNTEKTER, UTGIFTER OGFOND, 1991
+S
+NING
+FORE
+IK
+ISTS
+NING FOR NORSK STAT
+
+Inntakter, foreaing
+
+Inntekter,fond
+
+NING FØR NORSK STATISTSIKFORENING, 1991
+
+38.107.$4 Kr
+270.00 kr
+
+rcknnirgetn 08021988$151055
+PostgiKonta
+
+1.470,00 kr
+
+Kontingent 1989
+
+Kontingent 1991
+Kontingent 1992
+Kantingent 1990
+
+5,730
+590,00 xkr
+16.360,00
+
+kr
+.00
+
+:
+
+kr
+347,84
+
+Reuter 1991
+
+Konto for Rørotmøte
+
+10.000,00 kr
+
+Overført frå 5361.68.25029
+
+DnB konto $361.68.85029
+
+ke
+1.161,27
+
+Moner 091
+
+Utgifter, forcaing
+
+.
+
+5151055
+Postgirokontog,0802
+TG
+
+9.058,00 tr
+
+Poton
+
+2.232,00
+
+Konvolutter,
+
+Diverse
+
+DnB kent 5361.68.85029 . ©
+
+kr
+13.000,00
+kr
+10.000.00
+
+til 08025151055
+Overført
+(i kto for RørosmOvaxføa
+
+Bebaidning pr. 31/12-91, forening
+
+Utgifter 1991
+
+Total bebaldning. forening
+AEG februar 1992
+Ole Lai vskat, kassert
+-:
+
+~~
+
+ee 8
+
+Overfar
+
+3.000,00 ter
+
+Utberalt
+
+1.952.00 kr
+
+3,000,00 kr
+1.952,00 kr
+4,952.00 kf
+
+23.000.00 kr
+
+4.831.65 kr
+1.889,39 kr
+
+38.107,84 kr
+35.165,58 kr
+
+26.29.95 kr
+1.161,27 kr
+24.000,00 tr
+
+sg 0825. 04116878
+Pebaklming pr. 3112-90
+Inntekter 1991
+
+442¢8° 7
+07.3092
+NOR-konto £200.
+t til lokalforeining
+
+kc
+$8,165.53
+
+Totale wgifter, forening
+
+for Rørormøte
+
+14.229.36 &
+
+923,78 ix
+kr
+1.455,80
+
+edle møkont., ISI + gebyr
+
+tontekrer 1991
+Utgifter 1991
+DnB konto 5361,68.85029
+Behaidaing pr. 31/12-90
+Inntekter 1991
+Utgifter 1991
+
+98,36 kr
+
+fond
+Totale gifter,
+'
+
+4.645.00 krkr
+
+uf.
+Portoutg.. Rørosko
+Røroskonf.
+
+21836 ks
+
+120,00 kr
+
+Utgifter,fond
+
+4247086
+Postgirokontotil0806$270.00
+. 10061
+
+kr
+3.000,00
+
+NSF3 årsmøte på leløya
+
+5
+irokeatoing0802pc.515105
+PostgBehakin
+31/12-90
+
+35,165.58 kr
+
+242
+
+Rosoxt
+
+4247086
+rokontoter 0806
+PostgiInntek
+1991
+
+12.021,00 kr
+
+1.16127 &
+
+$.375,000kr
+
+Nord static. 92n
+Reizcutg.g.,, NSF
+magie
+
+Renter 1991
+
+10.000.00 kr
+
+kr
+6.004,00
+
+Ovextert lokalfor. + gedyr
+
+Q
+
+Touale inntekter, fond
+
+300,00 kr
+
+Bruk av medlemsarkiv
+
+00 kr
+21,
+0
+14.
+7
+e
+un
+konto m
+NOR-Tibf.,
+kr
+00
+2.000,
+up
+Sverdr
+ttinL,
+portre
+Renter 1991
+
+rt frå 5361.68.85029 13.000.40.0000 krkr
+Overføinnbetakt
+Feil
+
+3
+
+0,00 kr
+ir
+10.000,00
+kr
+0,00
+
+4.38122 kr
+
+10.000.00 kr
+
+19.22.87 kr
+
+fond,
+Beholdning pr.31/12-91
+
+143.671.40 iy
+tet 7
+kontomis
+NOR-Bebak
+pr.3/1290 132.650.60kr
+ining
+3092
+
+Inneekter 1991
+Utgifter 1991
+Pasigirokonio 0806 4247086
+Behaldning pr. 31/12-90
+Inntekter 1991
+Utgifter 1991
+
+Total behaldning. fond
+
+14.021,00 kr
+4.000.00 kr
+
+261136 ke
+212,36 kr
+1.952,00 kr
+
+1937.72 G
+
+185,02 12 kr
+
+Y% 32
+
+ve
+Steinar Tredi. revisor
+
+- 3 OK,
+
+
+
+Statistisk forening i Bergen.
+Årsberetning for 1992.
+
+Årsmøtet for 1991 ble holdt 6.november 1991. Formann for inneværende periode, Trygve Nilsen, var ordstyrer.
+Beretning og regnskap for 1991 ble godkjent, dog med en innsigelse
+
+angående manglende revisjonsinnberetning. Forslag om å opprettholde gratis medlemsskap i lokalforeningen i 1992
+
+ble enstemmig vedtatt.
+
+Prof. dr. philos. Rolv Skjærven, Seksjon for Medisinsk Informatikk og Statistikk, UiB, ble valgt til ny formann.
+Cand. scient Marit Holen, Vital forsikring, ble valgt til ny kasserer og cand. scient. Geir Ottersen,
+Havforskningsinstituttet, ble valgt til ny revisor. Sekretær (Grethe Albrektsen) og styremedlem (Jan H. Aarseth) har
+ett år igjen av valgperioden på to år.
+
+Den nyvalgte formannen, Rolv Skjærven, kom med en tiltredelseserklæring som gav løfter om større aktivitet i
+lokalforeningen. Han mente det var viktig å få med
+
+representanter fra de ulike miljøer ved Universitetet og næringslivet, både som inviterte foredragsholdere og evt. også
+som vertskap for framtidige møter i lokalforeningen. Forslaget
+
+ble positivt mottatt. Rolv Terje Lie fremmet forslag om at noen av møtene også kan inneholde diskusjoner/debatter
+som innledes med et kort innlegg over et valgt/foreslått tema.
+Også dette forslaget ble godt mottatt. Det nye styret ble anmodet om å ta forslagene til
+etterretning.
+
+Foreningens arbeid har i 1992 hovedsakelig bestått i å avholde de fire årlige møtene. Møtene ble stort sett avholdt
+i kantinen i Armauer Hansens Hus, Haukeland sykehus. De
+inviterte foreleserne var:
+
+25. mars Prof. dr. med. Torfinn Taxt, gruppe for medisinsk informasjonsteknologi, NAVF,
+
+UB: Anvendelser
+
+av statistiske metoder i medisinsk billedbehandling.
+
+4. juni Jostein Ryssevik, NSD: NSDstat - Bedre enn MINITAB til statistikkundervisning?
+
+1. oktober Førsteamanuensis Stein Emil Vollset, SMIS: Grafiskdataanalyse: SYSTAT/S-PLUS.
+
+16. desember Forsker Ragnar Fjelland, Senter for vitenskapsteori, UiB:Statistikk og
+
+vitenskapsteori.
+
+Fremmete har variert mellom 20 og 35.
+
+Styret for 1993
+
+Styret for 1992
+
+Rolv Skjærven, formann
+
+Rolv Skjærven, formann
+
+Ågot Irgens,sekretær
+
+Grethe Albrektsen,sekretær
+
+Marit Holen,kasserer
+
+Marit Holen,kasserer
+
+Hans Julius Skaug, styremedlem
+Geir Ottersen,revisor.
+
+Jan H. Aarseth,styremedlem
+Geir Ottersen,revisor.
+
+For styret i 1993
+
+\
+
+SE
+
+Ågot Irgens
+Sekretær
+
+
+
+REKNESKAP 1992
+OVERSYN OVER INNTEKTER, UTGIFTER OG BEHALD-
+
+OVERSYN OVER INNTEKTER. UTGIFTER OG BEHALDNING FOR NORSK STATISTSIK FORENINGS FOND), 1992
+
+Inntekter, forecing
+
+Inntekter, fond
+
+NING FOR NORSK STATISTSIK FORENING, 1992
+
+Postgirokonto 0802 51510553
+
+180,00
+
+Kooungent 1988
+
+900,00
+
+Kosungent 1990
+
+18.720,00
+
+Overfen frå Recus-koate
+
+10,000.00
+
+Jeløya-møtet
+Annonser i 1U
+
+1.492,39
+1.500.00
+
+Posigirokonto 0806 4247086
+Revter 1992
+
+.
+
+3.990,00
+
+Kontingent 1991
+
+Konungen: 1992
+
+DuB kogto 5361,55.£5029
+
+28,76128
+
+Totale 1nntekter. forening
+
+Utgifter, fond
+
+°
+
+NOR-konto 8200.07.30927
+
+30,127,10
+
+Reisestipead, Baltiiaam
+
+Vortours.. TG
+
+7.670.00
+
+Owerf. 0825 0411678 (Røros)
+
+10.000.00
+
+Postgirokonto 0806 4247086
+
+Diverse
+
+1.207,5N
+
+Totale utgifter, foul
+
+6.000.090
+
+4.227,90
+922,60
+
+Utgifter 1992
+
+4$.831.68
+
+13,156.55
+
+NOR-konto 8200.07,30927
+Behaldving pr. 31/12-91
+Innwekter 1952
+Utgifter 1992
+
+4,690.50
+
+Postgirokonto C806 4247086
+
+38.452,00
+30.127.10
+
+4.38122
+
+Betalduiog pr. 35/12-91
+
+Inntckter 1992
+
+209.28
+
+Utgifter 1952
+
+0,00
+
+Total bebaldning. fond
+
+Total behaklaing. forening
+
+7.867
+
+. Bergen, 29. jaguar 1993
+
+let, Ar eRe 15
+
+Ole Lavvskar. kasserar
+
+G,00
+
+22.00Q,00
+
+Behaldning pr. 31/12-92, fond
+
+Behaldning pr. 3112-92, forening
+
+Instexer 1992
+
+22.000,00
+
+30.127
+
+Totals utgifter, forening
+
+Behåldning pr. 31/12-91
+
+22.000.00
+
+0,00
+
+DnB konto £361.68.25029
+
+Dali konto 5361.68.85029
+
+21i992.,98
+
+309.25
+
+309.28
+
+Reater 1992
+
+Pystgirokenw 0802 51510355
+Benaldning pr. 31/12-91
+Inpicktes 1952
+Uwifier 1992
+
+96,98
+
+96.98
+
+579,61
+
+Renter 1992
+
+Reiszutg., Rørnsmøte
+Mediemskoot.. ISI + gebyr
+
+10.996.00
+
+10,00
+
+Feil inrhetalt
+
+Overført Iokalfor. + gebyr
+
+10.996,00
+
+Totale inntekter, fond
+
+1.080.00
+
+Kontingeot 1993
+
+Postgirokonto 0802 £15105
+
+Renter 1992
+
+96.00
+
+Kontingent 1989
+
+Utgifter, forening
+
+NOR-kvuto 8200.07.30927
+
+38.452.00
+
+*
+
+BY
+
+BP os.
+
+OF oes, PET
+
+Laman TID
+er Herdis Thorén
+Arbundsen, revisor
+;
+
+2
+
+143.671.40
+
+132.667,40
+
+10.996,00
+22.090,00
+2,034.70
+
+1.937.972
+$6.98
+
+N.CO
+134 702,10
+
+rb 30/, ~93
+Vale,
+Steinar Treth, revisor
+
+
+
+STATISTISK FORENING
+I TRONDHEIM
+
+ÅRSBERETNING 1992
+Årsmøte 1991
+
+Per Hokstad ble gjenvalgt som leder for 1992. Styremedlemmene ble ellers: Fred Godtliebsen (gjenvalg), Harald Johnsen (ny) og Randi Hammervold (gjenvalg).
+
+Møter 1992
+
+Styremøter har vært avholdt i tilknytning til medlemsmøtene. Det har vært arrangert 4
+medlemsmøter (årsmøtet inkludert) med 15-20 medlemmer tilstede. Følgende foredrag er
+holdt på møtene:
+
+12/3-92:
+
+Sjur D. Flåm: Sekvensiering av usikre prosjekt.
+
+9/6-92:
+
+Leiv Solheim: Folke- og boligtellingen 1990
+- statistikkproduksjon ved kombinert bruk av utvalg og registre.
+
+20/10-92: Henning Omre: Stokastisk modellering i
+Evaluering av Petroleumsreservoarer.
+
+1/12-92:
+
+Ørnulf Borgan: Estimering av relativ overlevelse
+i Cox’s regresjonsmodell basert på ”nested case-control” studier.
+
+Medlemmer:
+
+Nye medlemmer er: Vigdis By og Jenny-Anne Sigstad.
+Pr. 5/11 har lokalforeningen 38 medlemmer.
+
+Årsmøte 1992
+
+Fred Godtliebsen ble valgt som leder. Styremedlemmene ble ellers: Harald Johnsen (gjen-
+
+valg), Svenn Fjeld Olsen (ny), Marvin Rausand (ny).
+
+Fred Godtliebsen
+
+
+
+-
+
+oF
+
+=
+
+NYTT FRA UNIVERSITETER OG HØYSKOLER.
+
+NYTT FRA UNIVERSITETET I OSLO
+Uteksaminerte cand. scient.
+Katrine Stene : “Finansieringsmetoder og risiko ved pensjonsordninger”
+
+Veiledere : Pål Lillevold og Bjørn Sundt
+
+Supartanti M. D. Suparman Hilton : *Offshore insurance”
+Veiledere : Bent Natvig og Bjørn Sundt
+
+Jørgen Andreas Hagen : “Stokastisk simulering egnet for vanlige statistiske
+problemer”
+
+Veileder : Erik Bølviken
+
+Publikasjoner
+Sven Ove Samuelsen & Johny Kongerud : “Evaluation of applying interval censoring on longitudinal data on asthmatic symptoms”, Statistical Research
+Report No. 2, 1993
+
+Bryan Langholz & Ørnulf Borgan : “Counter-matching : A stratified nested
+case-control sampling method”, Statistical Research Report No. 3, 1993
+
+Forskningsterminer
+
+Arne Bang Huseby og Grete U. Fenstad har fatt innvilget forskningstermin
+hgsten 1993 og varen 1994.
+
+NYTT FRA UNIVERSITETET I BERGEN
+
+|
+
+Uteksaminerte cand.scient.
+
+Vidar Hjellvik ”Ikke-parametriske linearitetstestar for tidsrekkjer basert på betinga
+forventning og betinga varians”
+Veileder: Dag Tjøstheim
+
+Publikasjoner
+
+Hans Julius Skaug: ”The limit distribution of the Hoeffding statistic for test
+of serial independence”, Statistical Report No. 22, 1993
+
+Haakon K. Gjessing: ”A note on the Wick product”, Statistical Report No.
+23, 1993.
+
+'
+
+
+
+-55
+
+-
+
+NYTT FRA UNIVERSITETET I TRONDHEIM
+Institutt for matematiske fag - NTH
+Gruppe for statistikk
+
+Ny førsteamanuensis
+Stian Lydersen er tilsatt som førsteamanuensis f.o.m. høstsemesteret 1993.
+
+Nye stipendiater
+Anne Randi Syversveen og Bjørn Kåre Hegstad er tilsatt som stipendiater
+innen fagområdet romlig statistikk.
+
+Ferdige sivilingeniører (studieåret 92/93)
+Ola Diserud: ”Evaluering av statistiske bildeprosesseringsteknikker”.
+Veileder: Fred Godtliebsen.
+
+Dag Arne Ekeberg: ”Statistikk som verktøy for å forbedre produkters kvalitet,
+og øke produktiviteten i industrien”.
+Veileder: Liv Høyland.
+
+Bjørn Axel Gran: ”Uncertainty in safety studies”.
+Veileder: Stein B. Jensen.
+
+Bjørn Kåre Hegstad: ”Stokastisk modellering og annealing i reservoarbeskrivelse”.
+
+Veileder: Henning Omre.
+
+Øyvind Hillesund:
+
+”Klassifisering av multispektrale MR-bilder ved bruk av
+
+nevrale nettverk”.
+
+.
+
+Veileder: Fred Godtliebsen.
+
+Anne Holtung: ”Stokastisk modellering av sjøtilstand”.
+Veileder: Henning Omre.
+
+Helge Langseth: ”Uber die Unsicherheit der Zuverldssigkeitsschatzungen’.
+
+Veileder: Hans H. Bock, RWTH, Aachen. (Ansv. faglærer: Bo Lindqvist.)
+
+Anne Randi Syversveen: ”Nevrale nettverk, brukt til regresjonstilpasning og
+prediksjon”.
+
+Veileder: Emil Spjøtvoll.
+
+Yu Liping: ”Bootstrapping methods in statistical inference”.
+Veileder: Bo Lindqvist.
+
+
+
+Publikasjoner
+
+Giovanni Sebastiani and Fred Godtliebsen: Image smoothing based on discontinuity patterns. Statistics No. 4/1993, De matematiske institutter, Univ. i
+Trondheim.
+
+Institutt for matematikk og statistikk - AVH
+Uteksaminerte cand.scient.
+Jenny-Anne Sigstad: ”Stratifisering og imputering. Anvendelse: En holdningsundersøkelse blant sykepleiere”
+Veileder: Jan F. Bjørnstad
+
+Bjørn Helge Handegård: ”Utvalgsundersøkelser med frafall og gjenbesøk. Regresjonsmodell”
+
+Veileder: Jan F. Bjørnstad
+
+Vigdis By: ”Pålitelighetsmodellering av datasystemer i drift”
+Veiledere: Tor Stålane og Steinar Engen
+
+
+
+Medlemskap i Norsk Statistisk Forening
+Kontingenten i foreningen er på kr. 150 pr. år (kr. 90 for 1993) for regulære
+medlemmer og kr. 50 for studenter (kr. 30 for 1993). Korrespondanse om medlem-
+
+skap og innbetaling av kontingent skal skje til foreningens kasserer:
+Norsk Statistisk Forening v/Eva Seim
+Statistisk avd. Nycomed A.S.
+p.b. 4220 Torshov
+
+0401 OSLO
+
+Innbetalinger skal gjøres på foreningens postgirokonto 0802 5 15 10 55. Medlemmer som er usikre på når de betalte kontingent sist, vil nederst til høyre på
+adresseseddelen for Tilfeldig Gang finne angitt hvilket år siste betaling er registrert for. Vær imidlertid oppmerksom på at adressesedlene for bladet ligger noe
+etter ajourføringen av medlemsregisteret, slik at nylig foretatte innbetalinger ikke
+vil være tatt med her.
+
+Nye medlemmer melder seg til kassereren under adressen oppgitt ovenfor. Slike
+medlemmer får automatisk tilsendt Tilfeldig Gang, med forbehold om at det
+tar noe tid før tilføyelser og forandringer i medlemsregisteret gjenspeiler seg i
+adressesedlene til bladet. Adresseforandringer meldes også til kassereren. Ved
+utsendelsen av Tilfeldig Gang benyttes det kopier av det vanlige medlemsregist-
+
+eret, så adresseforandringer behøver ikke meldes separat til bladet.
+
+Annen korrespondanse med foreningen skal foregå med formannen under denne
+
+adressen:
+
+Norsk Statistisk Forening v/Eivind Damsleth
+Norsk Hydro
+
+p.b. 200
+
+1341 Stabekk
+
+Bidrag til Tilfeldig Gang.
+Neste nummer av Tilfeldig Gang vil forhåpentligvis komme ut i september 1993.
+Alle slags bidrag til bladet er velkommen, enten det gjelder nye temaer av interesse
+for norske statistikere, eller man har kommentarer til innlegg som allerede har
+stått i bladet. Stoff til neste nummer må være redaktøren i hende senest 1.
+september.
+
+Adressen til den nye redaktøren som overtar f.o.m. neste nummer er:
+Inge Helland
+
+Institutt for matematiske fag
+Norges Landbrukshøgskole
+
+1432 Ås-NLH
+
+Telefonnummer 64 948875
+
+
+
+
+
+
+
+Returadresse:
+Tilfeldig Gang v/ Eva Seim
+Statistisk avd.
+Nycomed A.S.
+P.b. 4220 Torshov
+
+0401 OSLO
+
+
+

@@ -1,0 +1,4167 @@
+ISSN 0803-8953
+
+TILFELDIG GANG
+Nr. 1, årgang 10
+Mars 1993
+
+Utgitt av Norsk Statistisk Forening
+
+INNHOLD
+
+Fra redaktøren. Jan F. Bjørnstad
+
+Fra formannen i Norsk Statistisk Forening. Trygve Nilsen
+
+Jostein Lillestøl - 50 år
+Faglige innlegg
+
+Undersøkelse av fotokopiering. Heidi K. Walsøe
+Interessante prøvemetoder i vegvesenet. Jostein Lillestøl
+
+På gale betingelser - fra Hodges & Lehmann via Marilyn til Larsen
+& Marx. Steinar Engen
+
+Blindforsøk for å sammenlikne estimeringsmetoder i skoggjødsling.
+Erik Mønness
+
+17
+
+Debatt - innlegg:
+
+Eddadikt og statistikk. Kommentarer til diskusjon mellom
+Egede Larssen og Fidjestøl. Tore Schweder
+Avisklipp:
+
+Systemet som gir Lotto overskudd. Dagbladet 1.9.92
+Eksamen i ST 001/Løpende risiko. Dagbladet 27.11.92
+Reklamekampanje for Lotto stanses. Aftenposten 4.3.93
+Frykt og statistikk. Per Egil Hegge. Aftenposten 20.1.93
+
+23
+
+25
+26
+
+21
+
+28
+
+Konferanser
+
+Påminnelse og påmelding. Det 7. norske statistikermøtet,
+Ustaoset, 14.-16. juni 1993.
+
+49th Session of the International Statistical Institute, Firenze, 25.8.-2.9.93
+The 8th Scandinavian Conference on Image Analysis, Tromsø, 25.5.-28.5.93
+
+29
+
+32
+35
+
+Meldinger
+
+Årsberetning 1992 & Årsmøte 1993. Statistisk forening Oslo
+
+39
+
+Nytt fra universiteter og høyskoler
+
+40
+
+Medlemskap i Norsk Statistisk Forening
+
+42
+
+Annonse: Førsteamanuensis i statistikk ved Sosialøkonomisk inst., UiO
+Bidrag til TG
+
+41
+
+42
+
+
+
+
+
+Fra redaktøren
+
+Vedlagt til dette TG skal det være en postgiroblankett for innbetaling av
+medlemskontingent til Norsk Statistisk Forening. Jeg vil oppfordre alle lesere
+til å sende inn giroen nå. Kontingenten er så lav at det ellers er lett å glemme
+at man ikke har betalt, og denne inntekten er viktig for driften av foreningen.
+
+På årsmøtet i juni bør vi diskutere om det er ønskelig å øke kontingenten fra
+nåværende kr. 90,- (kr. 30,- for studenter). Det er flere oppgaver som Norsk
+Statistisk Forening naturlig kan interessere seg for. Vi bør bl.a. ha økonom-
+
+isk trygghet til å arrangere mer regelmessige etterutdanningskurs, muligens i
+forbindelse med de norske og nordiske møtene. NSF bør også ha ressurser til
+å arbeide for å utbre et minimum av statistisk kyndighet i skole, media og
+samfunnet generelt. NSF kan, for eksempel, engasjere seg i utarbeidelsen av
+skolemateriell i statistikk på alle nivåer fra barneskolen til videregående. Undervisningsutvalget bør få ressurser til å være aktive her, for eksempel til å reise
+på konferanser om statistikkutdanning.
+
+Et hovedproblem for statistikkfaget er rekruttering. Siden statistikk ikke er et
+skolefag, er faget fremmed for praktisk talt alle begynnerstudenter. At det er
+et selvstendig universitetsfag og en egen profesjon virker å være totalt ukjent.
+De fleste statistikkenhetene ved universiteter og høyskoler er ”skjult” innenfor matematikkinstitutter. Det er vel bare ved Universitetet i Tromsø og ved
+AVH at navnet ”statistikk” er med i betegnelsen på det institutt /avdeling hvor
+statistikk befinner seg. Når samtidig media stort sett betegner statistikere som
+matematikere blir usynliggjøringen nærmest fullkommen. Faget ville opplagt
+blitt mer synliggjort hvis de største universitetsmiljøene i statistikk var organisert som egne institutter. Synspunkter på markedsføring /synliggjøring av faget
+ovenfor studenter og samfunnet generelt vil være velkomment stoff for TG. Hva
+- gjøres for eksempel på begynnerkursene i statistikk på de forskjellige universifor å rekruttere studenter til faget?
+teter og høyskoler
+Til slutt vil jeg oppfordre alle til å melde seg på til det norske statistikermøtet.
+Påmeldingsfristen er satt til 1. mai.
+
+Jan F. Bjørnstad
+
+
+
+Fra formannen i Norsk Statistisk Forening
+Statistikk i skolen har i mange år både vært og ikke vært et tema for statistikerne. Faget er på ulike vis kommet inn i gymnasets pensum. Den første gang jeg
+hørte om det var for mer enn tyve år siden i forbindelse med moderne matematik.
+De som søkte å reformere matematikken trengte et anvendelsesområde for systemene sine. Øynene falt på sannsynlighetsregning i kombinasjonen med Venndiagram. Det ble en radbrekking av sannsynlighetsregningen for å få mest mulig
+mengdelære ut av det. Den gangen var statistikerne heldigvis våkne og ropte et
+varsko.
+
+Senere er statistikk kommet inn på en mer naturlig måte ved sin egen verdi.
+Det er ikke som en rettferdiggjøring av et tvilsomt eksperiment i matematikkundervisningen, men som et ønske om å gi elevene innsikt i et emne som blir
+mer og mer aktuelt for å kunne følge med i tidens debatt. Et typisk trekk i
+denne sammenhengen er at statistikk forekommer på samfunnsfaglinjen og ikke
+på naturfaglinjen. Fremstillingen blir derved også mer beskrivende og mindre
+matematisk. Det passer med at målsetningen nå er å gjøre elevene fortrolige med
+presentasjonen av statistisk materiale slik det forekommer i media.
+
+Dette illustrerer litt av problemet en har med å plassere statistikk. Skal det
+være en del av matematikk? Da må det helt klart komme til fortrengsel for andre
+deler av matematikk i gymnaset. Eller skal det sees på som et orienteringsfag og
+således ikke dytte ut deler av den tradisjonelle matematikk? Et tredje sted for
+faget er sammen med undervisning i data. Her er det sikkert ønskelig å bruke
+grafiske illustrasjoner hentet fra statistikk. I en slik situasjon vil statistikk bare
+spille en sekundær rolle, og dette vil ikke hjelpe stort til forståelsen av hva vi mener
+med de ulike begrepene.
+
+Svaret på spørsmålet om plasseringen av en undervisning i statistikk i gymnaset
+er ikke entydig. Det avhenger for en stor del av hva vi ønsker med innføringen; om
+den skal være av folkeopplysende karakter, eller om den skal være for å rekruttere
+fagstatistikere. For rekrutteringen vil det være godt å få introdusert faget og
+dermed få fanget opp interessen hos en del gymnasiaster slik at faget ikke taper i
+konkurransen om de gode elevene. På den annen side kan vi gjøre rekrutteringen en
+bjørnetjeneste ved at det introduseres for tidlig til at elevene har den tilstrekkelige
+
+matematiske bakgrunnen. Da kan det lett bli til at elevene bare blir styrket
+i sin
+
+tro om at statistikk er et fag for personer med en enorm interesse for tall og at
+det ikke er et fag som krever et solid matematisk grunnlag. Vi kan komme i den
+samme situasjonen som informatikerne: De har et stort antall studenter, men det
+matematiske grunnlaget er for dårlig for de fleste nå det kommmer til undervisning
+i emner ut over *knappetrykking”.
+Personlig tror jeg at den matematiske statistikk ved universitetene vil få den
+beste rekrutteringen dersom vi ikke tar statistikk inn i gymnasets matematikk-
+
+undervisning. Jeg tror at det er best at gymnasiastene kommer med et så høyt og
+enhetlig grunnlag i matematikk som mulig. Det er mulig at de som underviser i
+mer anvendte deler av statistikk vil foretrekke noe annet.
+Jeg ser gjerne at vårt undervisningsutvalg interesserer seg for disse problemene.
+
+Vi vet at det arbeides med ulike tanker om statistikk i gymnaset. Det hadde vært
+
+fint om det statistiske miljøet kunnet få en orientering om planene, og at det kunne
+bli en viss lufting av synspunkt før det er for sent til å ha innflytelse på utviklingen.
+Trygve Nilsen
+
+
+
+JOSTEIN LILLESTØL - 50 ÅR
+
+Jostein Lillestøl fylte 50 år 17. mars. Jostein er utdannet i Oslo, men gjorde vestlending av seg allerede i 1966. Han ble da rekruttert av Karl Borch til den første
+rene statistikerstilling på Norges Handelshøyskole. Fast stilling ved NHH fikk han
+i 1967.Som eneste statistiker på Høyskolen i en årrekke fikk han en utfordrende opp-.
+gave med å bygge opp et kurstilbud og en generell forståelse for fagets betydning i
+et økonomisk miljø. Utfordringen ble møtt, og det finnes nå statistikk-kurser på alle
+nivåer i siviløkonomstudiet, samtidig som staben er blitt bygget ut både i statistikk
+og matematikk. Utbyggingen av statistikkfaget ved Universitetet i Bergen startet
+
+samtidig, og hans råd og aktive medvirkning betydde mye i den innledende fasen.
+Jostein fikk i 1973-76 permisjon fra sin stilling ved NHH for å ta en Ph.D. ved Department of Statistics, University of California, Berkeley. Emne for avhandlingen
+var multivariate tidsrekker, og han hadde David Brillinger som veileder. Jostein ble
+dosent ved NHH i 1981 og deretter professor i 1985. Han har beholdt sin faglige
+interesse for tidsrekker, men har samtidig utvidet sitt interesseområde betraktelig. I
+
+det siste har han hatt nyere metodikk innen kvalitetskontroll som sitt viktigste arbeidsfelt. Dette er teknikker som fortjener å bli brukt mer i norske industrielle miljøer,
+og Jostein har med karakteristisk entusiasme gått inn i dette området.
+Jostein har alltid vært opptatt av formidlingen av statistisk metodikk og teori, og
+han har skrevet en lærebok som er mye benyttet. Han har også vært opptatt av
+
+statistikkens stilling i den høyere skole. Hans sterke faglige engasjement har ført med
+seg flere organisatoriske tillitsverv. I sin formannsperiode i Norsk Statistisk Forening bidro han sterkt til å gi foreningen dens nåværende landsomspennende karakter
+med lokale avdelinger i Bergen, Trondheim og Oslo. Videre var han formann i programkomiteen for det siste Nordiske Statistiker møtet på Røros i 1992.
+
+Etter alt dette skulle en kanskje tro at jubilanten ikke har så mye tid til overs til
+
+interesser utenom faget. Men Jostein har vært aktiv i arbeidet med gutte - og jentefotballen i Åsane. Dessuten er han en ivrig turgåer, båtmann, bridgespiller og
+amatørmaler!
+
+Kolleger og foreningsmedlemmer ønsker jubilanten til lykke med jubileet. Gratulere
+hjerteligst!
+
+
+
+Undersøkelser av fotokopiering
+Heidi K. Walsøe
+
+MMI A/S
+MMI er Norges største privateide institutt for markedsundersøkelser og markedsa
+nalyser.
+Ett av oppdragene til MMI har vært å gjennomføre statistiske undersøkelser av
+fotokopiering av opphavsrettslig beskyttet materiale. Undersøkelsene er gjort i
+utdanningsinstitusjoner, virksomheter innen offentlig sektor og finansieringsinstitusjoner.
+
+Oppdragsgiver er Kopinor. Hensikten med dette er å gi en kort beskrivelse av
+
+gjennomføringen av denne typen undersøkelser, hvor jeg har hatt det faglige ansvaret
+
+for de undersøkelsene som er gjennomført etter juni 1991.
+Med
+
+opphavsrettslig
+
+beskyttet
+
+materiale
+
+menes
+
+f.eks.
+
+bøker, aviser, tidsskrifter,
+
+tegninger, sangtekster og noter. Opphavsrettsloven setter grenser for kopiering av slikt
+
+materiale, og uten avtale med de som har laget og utgitt dette, er det ulovlig å kopiere
+
+opphavsrettslig beskyttet materiale i næringsvirksomhet.
+
+Kopinor er et interesseorgan som representerer rettighetsinnehaverne til åndsverk. Bak
+
+Kopinor står 21
+
+opphavspersons- og utgivelsesorganisasjoner, og Kopinor er gitt
+
+fullmakt til å forhandle og inngå avtaler om kopiering på vegne av medlemmene.
+Avtalene bygger på at kopibrukeren skal slippe å gå veien om hver enkelt rettighetshaver
+
+for å innhente tillatelse til kopiering. I stedet inngås det en avtale med Kopinor som
+favner den årlige kopiering av opphavsrettslig beskyttet materiale. En del av avtalen
+omhandler gjennomføring av en statistisk utvalgsundersøkelse. Bestanden består derfor
+av
+
+tjenestesteder
+
+innen
+
+de
+
+ovennevnte
+
+institusjoner/sektorer
+
+som
+
+har
+
+inngått
+
+en
+
+kopieringsavtale med Kopinor.
+Formålet med undersøkelsene er å anslå hvor stort volum beskyttet materiale som
+kopieres årlig. Volumtallene oppgis for hele bestanden og i kopisider pr. årsverk. I
+tillegg skal vi finne fordelingen av det totale vederlagspliktige materialet på type kilde
+(avis, lærebok...), type stoff (fagtekst, foto...), opphavspersonens bostedsland, verkets
+utgivelsesland samt oversettelse eller bearbeidelse til norsk. Resultatene danner grunnlag
+
+for beregning av vederlag til norske og utenlandske rettighetshavere.
+Selve kopiregistreringen gjennomføres ved at det, ved de uttrukne tjenestestedene, skal
+tas en ekstrakopi av alt som kopieres i løpet av observasjonsperioden. Denne har vart
+
+fra 2 til 4 uker. Unntatt fra ekstrakopitaking er rent fortrolig materiale som føres opp
+på et eget samleskjema. Til hver ekstrakopi skal det stiftes et eget skjema hvor opplag,
+utgivelses- og bostedsland skal føres opp, mens det på samleskjema bare skal føres opp
+antall kopier. I tidligere undersøkelser ble også rent administrativt materiale ført opp på
+
+samleskjema, men etter at en tilleggsundersøkelse som påviste at samleskjema førte til
+en systematisk underrapportering av vederlagspliktig materiale, ble bruken av dette
+
+innskrenket til bare fortrolige kopier.
+Ved
+
+undersøkelsens
+
+start
+
+og
+
+slutt
+
+blir
+
+telleverkene
+
+på
+
+kopimaskinene
+
+avlest.
+
+Kopivolumet som telleverkene viser, sammenholdes med volumet som rapporteres via
+
+ekstrakopier og samleskjema. Ved større uoverensstemmelser (vanligvis hvis det
+innsendte volum er mindre enn 70% av det telleravleste volum) forkastes materialet, og
+tjenestestedene kan pålegges å gjennomføre registreringen på nytt.
+
+
+
+Før registreringen starter oppnevnes det en eller flere kontaktpersoner ved tjenestestedet.
+
+Kontaktpersonens oppgave er ved siden av å være MMI's kontaktledd, å sørge for den
+lokale informasjonen om undersøkelsen og for at nødvendig utstyr og materiell finnes
+
+ved kopimaskinene i hele registreringsperioden. Kontaktpersonen sørger også for
+telleravlesning og innsending av materiell til MMI. De innsendte kopiene blir kodet etter
+
+en spesielt utarbeidet kodeinstruks.
+Som nevnt tidligere er formålet med undersøkelsen å utarbeide kopieringstall som skal
+representere årsgjennomsnittet for bestanden. Det observerte materialet skal med andre
+
+ord "blåses opp" både i tid og rom. Den tilfeldige trekkingen av tjenestesteder gir
+
+grunnlag for beregning av romlig varians, men ikke tidsvariasjoner. For å ta hensyn til
+tidsvariansen burde vi også trekke registreringsukene tilfeldig over hele året, men av
+praktiske og økonomiske hensyn gjøres ikke dette.
+Erfaringer fra tidligere undersøkelsene viser at kvaliteten på det innsendte materialet er
+
+dårligst den første uken. Dette skyldes at kopitakerne er uvante med bruk av skjemaene,
+og fyller disse ut feil eller at de ganske enkelt unnlater å rapportere kopieringene. Siden
+tjenestestedene er pålagt å sende inn ekstrakopiene hver uke kan MMI kontrollere
+
+kvaliteten på dette, og gi tilbakemelding om eventuelle feil i rapporteringen. I en del
+
+tilfeller forkaster vi materialet fra første uke, og hvis mulig må tjenestestedet ha en ekstra
+registreringsuke. På bakgrunn av dette er det grunn til å anta at kvaliteten på det
+innsendte materialet er bedre ved f.eks. fire sammenhengende registreringsuker enn ved
+
+fire tilfeldige uker. Det er også grunn til å tro at tjenestestedene vil være mindre
+samarbeidsvillige, dersom vi valgte å bruke fire tilfeldige uker. Dette fordi ekstraarbeidet
+for kontaktpersonen da vil være betydelig større enn ved fire sammenhengende uker.
+Estimering og utvalgsplan
+
+I de fleste undersøkelsene ble utvalget av tjenestesteder trukket stratifisert i ett eller flere
+trinn. Trekkingen innen hvert stratum er gjort enten rent lotterisk eller proporsjonalt
+med tjenestestedets størrelse.
+
+Som
+
+nevnt tidligere er det to
+
+hovedstørrelser som
+
+skal estimeres -
+
+andelen
+
+av
+
+vederlagspliktige kopier og fordelingen av disse på type kilde og stoff. En estimator som
+
+ofte er benyttet for å estimere andelen av vederlagspliktige kopier er rateestimator. Det
+årlige volum av vederlagspliktig materiale estimeres da ved
+5W
+=
+
+W.
+
+«¥,
+
+hvor W er antall årsverk i bestanden, W, er antall årsverk i utvalget og Y, er summen
+
+av det verlagspliktige materialet (oppblåst til årsvolum) i utvalget. Andelen estimeres
+da ved help av
+A
+
+A
+
+P=
+
+på
+V
+
+hvor V er det totale årlige kopivolum i bestanden. I enkelte undersøkelser er også V
+
+ukjent
+
+og
+
+må
+
+estimeres.
+
+Fordelingen
+
+av
+
+det
+
+vederlagspliktige
+
+underkategorier av stoff og kildetyper gjøres ved hjelp av
+A
+
+RO) =%
+?
+
+hvor X er en underkategori av Y, f.eks. det totale volum av aviser.
+
+materiale
+
+på
+
+
+
+Feilkilder
+Et ledd i kopieringsavtalen som tjenestestedene har inngått med med Kopinor er at de
+forplikter seg til å delta i kopieringsundersøkelsen hvis de blir trukket ut. Dette gjør at
+frafallet av tjenestesteder blir minimalt. Målefeil som kan oppstå ved kopiregistreringen,
+dvs. feilklassifiseringer eller manglende registreringer av kopier som blir tatt i
+observasjonsperioden, er derimot et adskillig større problem. Som nevnt tidligere
+inneholder datamataerialet fra den første registreringsuken de fleste målefeilene. For å
+redusere effekten av målefeilene er det muligens best å forkaste dette materialet.
+
+Det mest kritikkverdige i opplegget er at det ikke tas hensyn til eventuelle
+tidsvariasjoner. Dette kan være av stor betydning når det gjelder fordelingen av det
+
+vederlagspliktige materialet, men som nevt tidligere har vi av rent praktiske grunner
+valgt å benytte fire sammenhengende uker.
+
+Jeg vil til slutt nevne at det arbeides med å komme fram til et opplegg for undersøkelsen
+som er mindre belastende for undersøkelsesenhetene enn denne, men vi har ikke kommet
+fram til noe tilfredsstillende alternativer.
+
+Markeds- og Mediainstituttet a.s.
+
+Postboks 9143 - Grønland.
+
+0133 Oslo
+
+
+
+Interessante prøvemetoder i vegvesenet
+Jeg har slumpet til å lese Statens Vegvesens bestemmelser om kjøretøy: Avgasser fra
+motorvogner.
+
+Under pkt. 2.2 Kravnivå ECE R15 henter vi følgende utsnitt:
+
+«SB» |
+
+14.7- 02 - 06.0
+
+BESTEMMELSER OM KJØRETØY
+AVGASSER FRA MOTORVOGNER
+
+STATENS VEGVESEN
+
+VEGDIREKTORATET
+
+Rewvisjonnr.: 1
+1989-8-18
+
+.
+
+VEGTRAF.AVD.
+.
+
+Dato:
+
+Prøven skal utføres tre ganger.
+
+Prøven skal bare utføres en gang dersom resultatet for hver av de forurensende avgasser ikke
+er høyere enn 0,7 ganger den tilsvarende grenseverdi.
+
+,
+
+;
+
+_
+
+Prøven skal bare utføres to ganger dersom re-
+
+sultatet ved første prøve for hver av de foru-
+
+rensende avgasser ikke er høyere enn 0,85 gan-
+
+ger og ved annen prøve ikke er høyere enn 1,0
+
+O
+
+ganger den tilsvarende grenseverdi, og summen
+av de to prøveresultater for hver av de forurensende avgasser ikke er høyere enn 1,7 ganger
+den tilsvarende grenseverdi.
+
+Deretter gis tabeller for grenseverdier for hhv. CO, HC og NO2. Eksempelvis: Med en
+
+grenseverdi for CO på 100 gram pr. prøve vil mulighetsområdet foran en eventuell tredje
+
+prøve være
+
+100
+
+—
+
+70
+
+85
+
+170
+
+>
+
+Avgass
+
+1.prøve
+
+Logikken bak denne prøveplanen er obskur, men gir ihvertfall opphav til en rekke
+sannsynlighetsteoretiske oppgaver:
+
+Med passende antakelser om forventning og standardavvik og normalitet, finn
+sannsynligheten for at gitte tabellkrav oppfylles for den enkelte avgass og for alle
+tre. Hva er sannsynlighetsfordelingen til antall prøver for hver gass og totalt?
+
+
+
+Den trinnvise fremgangsmåten gir tilstrekkelig betinging og integrasjoner til å holde deg
+beskjeftiget en stund!
+
+For å gjøre prøvemetoden enda mer interessant for statistikere har Vegvesenet også
+følgende regel:
+
+rensende avgastillates for hver av de foru
+ater overstiger
+sult
+vere
+prø
+ser at ett av de tre
+tabellen med 10 %
+
+Dog
+
+verdi i
+den tilsvarende grenseat
+nomsnittet for de
+under forutsetning eav ikke gjen
+overstiger den fasttre prøveresultaten
+satte grenseverdi.
+
+Jeg utelukker ikke at det er en viss fornuft i den beskrevne prøveplan (men vil gjerne bli
+veiledet av TG’s lesere). Fortsettelsen er imidlertid også interessant fra et statistisk
+synspunkt, nemlig dersom grenseverdier overskrides kan bilfabrikanten forlange å få testet
+flere biler fra serien (antall etter eget valg).
+
+Betingelsen er da at
+X+k'S<L
+
+hvor k avhenger av n og er gitt i tabell.
+
+Det ser ut til at k er bestemt som k = c/Vn der c er 80% fraktilen i den tilhørendet fordelingen.
+
+- Dette gir feilaktig inntrykk av at variasjon mellom biler av samme biltype tas omsyn til
+ved typegodkjenningen. Sålenge fabrikanter vet at gjennomsnittet er lavere enn kravet, har
+man bare å stille med nok biler!
+
+At forskrifter på denne måten ignorerer variasjon kan muligens forstås ut fra at det er det
+samlede utslippsnivå som betyr noe for miljøet. Denne form for forskrift er imidlertid
+ufullstendig som insitament for forbedringer som også ivaretar forbrukernes behov.
+Personlig ville jeg mislike å være den bileier som hadde en forurensende bil som riktignok
+ble oppveiet av naboens rene.
+
+Jostein Lillestøl
+Norges Handelshøyskole
+Helleveien 30
+5035 Bergen - S
+
+
+
+På gale betingelser fra Hodges & Lehmann via Marilyn til Larsen & Marx
+
+Steinar Engen
+
+Institutt for matematikk og statistikk
+Universitetet i Trondheim
+
+7055 - Dragvoll
+
+1
+
+Innledning
+
+Det hevdes ofte med rette at teori er en ting og praksis noe helt annet.. Den empiriske
+
+forskningen representerer ofte den rene kjedsommelighet for teoretikeren, mens den mer
+praktiske anlagte forskeren ser på teoretisk forskning som en slags øvelse, som lever sitt
+eget liv og stort sett er uten praktisk interesse.
+
+Det som etter min mening er det mest fascinerende med statistikkfaget, er at det nettopp
+
+bidrar til å bryte ned disse motsetningene.
+
+Faget er i seg selv kanskje det viktigste
+
+bindeleddet mellom teoretiske modeller og empiriske forskningsresultater cepresentert
+ved innsamlede data. Som statistikere blir vi da naturligvis opptatt av at de forskjellige
+
+teoretiske modeller som er utviklet blir anvendt pa en korrekt mate. Gal bruk av sannsynlighetsbegrepet og statistisk metodikk vet vi forekommer i stor utstrekning, og det
+er en av vare viktigste oppgaver som spesialister pa faget a bidra til at teorien anvendes
+korrekt.
+
+
+
+Et begrep som viser seg å være vanskelig for mange studenter, og for forskere som skal
+
+anvende det, er ”betinget sannsynlighet”. Sannsynlighetsbegrepet er jo i utgangspunktet
+lite håndfast. Når man da i tillegg blir nødt til å redefinere begrepet etter hvert som
+
+man skaffer seg informasjon om det eksperimentet man har utført, så er det egentlig
+helt forståelig at sannsynlighetsbegrepet kan bli tåkete for noen og enhver - ikke bare for
+studenter og brukere, men også for oss som er spesialister på faget. Det er vel ikke galt
+
+å si at korrekt og optimal bruk av informasjon er en av de viktigste utfordringene for
+statistisk forskning.
+
+Hovedformålet med denne artikkelen er å diskutere en gal praktisk anvendelse av det
+teoretiske begrepet ”betinget sannsynlighet” som ofte forekommer. Da jeg i fjor for
+første gang foreleste etter Larsen & Marx, oppdaget jeg noe overrasket at forfatterne
+har gjort samme feil som var å finne i de tidligste utgavene av Hodges & Lehmann,
+riktignok i en helt annen innpakning. Det som gjør dette ekstra interessant er at Larsen
+'& Marx har hentet sitt eksempel fra en amerikansk domstol.
+
+De presenterer rettens
+
+bruk av betinget sannsynlighet som korrekt. Dessverre tar både lærebokforfatterne og
+
+- høyesterett feil. Heldigvis har feilen ikke hatt betydning for utfallet av saken siden korrekt
+
+bruk av begrepet bins ville ha forsterket den statistiske konklusjonen. I TG nr.4 1991
+ble det gjengitt en diskusjon i Marilyn vos Savants spalte ”Ask Marilyn” der TV-spill
+varianten av det såkalte ”fangevokterproblemet” ble gjengitt. Marilyns korrekte bruk
+
+av sannsynlighetsbegrepet førte til en storm av leserprotester fra skolerte matematikere
+
+med Ph.D.-grad, som alle tok feil. Saken vakte slik oppsikt at den ble presenter? pa
+fgrstesiden av New York Times.
+
+Jeg skal forsøke å forklare at alle disse eksemplene er varianter av ett og samme problem.
+
+Alle gjør den samme feilen, noe som kan forklares kort, generelt og elementært. Hva gjør
+man egentlig når man går i vannet, bortsett fra å bli våt?
+
+
+
+2
+
+Generelle betraktninger
+
+La S være et eksperiment og A en hendelse. Dersom vi vet at hendelsen B har inntruffet,
+
+bør da sannsynligheten P(A) erstattes med den betingede sannsynligheten P(A|B)? Eller
+sagt på en annen måte : hva er nå sannsynligheten for hendelsen A? Man kan vel ikke
+
+gjøre annet enn å svare ”ja” slik spørsmålet er stillet. Men hva hvis vi nå også får vite at
+
+hendelsen C har inntruffet? Er nå den relevante sannsynligheten P(A), P(A|B), P(A|C),
+P(A|BUC) eller P(A|B{C)? Alle de 5 forskjellige hendelsene vi her har betinget med
+
+hensyn på, inkludert den første (S), har jo inntruffet.
+
+Når problemet presenteres på
+
+denne måten er svaret enkelt, entydig og ukontroversielt. Det er den minste hendelsen
+(BNC) som er den mest informative, og som det vil være riktig å betinge med hensyn
+på. Men så viser det seg altså at disse enkle betraktningene ikke er så lette å etterleve :
+praksis. I alle eksemplene nevnt ovenfor, og som vi nå skal se nærmere på, er hendelsen
+
+C inneholdt i B.
+
+Det ser da ut til at ikke bare brukere og matematikere, men også
+
+velkjente statistikere, faller for fristelsen feilaktig å betinge m.h.p. B istedet for å gjøre
+det korrekte, som er å betinge m.h.p. den minste hendelsen C.
+
+3
+
+3.1
+
+Eksempler
+
+Gal bruk av avkortet fordeling
+
+La nå (X,Y) være en stokastisk variabel med kjent fordeling og sett
+
+Z = X +Y. Vi er
+
+primært interessert i fordelingen til Z og har skaffet tilleggsinformasjon om denne ved
+å observere
+
+C = (X = x). Hvis Y ikke kan ta negative verdier så har da hendelsen
+
+B = (Z > 2) inntruffet. Rent matematisk vil det nå som regel være enklest å betinge
+
+m.h.p. B og altså bruke den avkortede fordelingen til Z gitt (Z > x). Situasjonen er
+imidlertid den samme som ovenfor. Vi har også observert hendelsen C' som er inneholdt
+
+
+
+i B. Det blir derfor riktig å betinge m.h.p. C.
+La f.eks.
+
+X og Y være uavhengige og Poissonfordelte med parametre hhv.
+
+3 og 4 og
+
+la den observerte verdien av X være 6. Hvis vi nå korrekt betinger m.h.p. hendelsen
+C, blir fordelingen til Z en translert Poissonfordeling med parameter 4 som starter i 6.
+
+Ser vi f.eks. på hendelsen (Z = 6), blir den riktige sannsynligheten dermed null-leddet
+i Poissonfordelingen, dvs.
+
+0.01832.
+
+Hvis vi derimot betinger m.h.p.
+
+B og bruker den
+
+avkortede Poissonfordelingen med parameter 7 blir svaret 0.2131.
+
+3.2
+
+Tobarnsfamiliene til Hodges & Lehmann
+
+Følgende eksempel er hentet fra den danske utgaven fra 1969:
+
+EkseMPEL 3. Er det andet barn en dreng? En ny familie med to børn skal flytte
+ind i nabolaget. Det vides, at mindst et af børnene er en dreng. En dreng, der
+bor i den samme ejendom, håber, at det andet barn også er en dreng. Hvad
+er chancen for, at hans ønske går i opfyldelse?
+
+Af beregningsmæssige grunde forudsættes drengefødsler og pigefødsler at
+
+forekomme lige hyppigt. Betragtes de to fødsler i familien som uafhengige,.
+
+kan en produktmodel anvendes. Denne vil da tillegge hver af de mulige
+1
+familietyper sandsynligheden 1:
+
+Familietype
+
+Sandsynlighed
+
+DD
+
+I
+
+PD
+
+på
+
+PP
+
+*
+
+hvor f.eks. DP repræsenterer hændelserne »første barn dreng, andet barn
+pige«.
+Denne model var rimelig, da det alene var kendt, at der var to børn i
+familien, men den yderligere oplysning om, at mindst eet af børnene er en
+dreng, gør modellen urealistisk. Den nye oplysning umuliggør resultatet, at
+begge børn er piger. Ved opbygningen af en ny model skal hændelsen PP
+
+derfor tillægges sandsynligheden 0.
+
+Oprindelig var de 3 andre hændelser tillagt samme sandsynlighed, hvilket
+er i overensstemmelse med den empiriske kendsgerning, at familietyperne
+DD, DP og PD forekommer nogenlunde lige hyppigt. Elimineringen af typen
+PP ændrer ikke den kendsgerning, at de tre andre typer forekommer med omtrent samme hyppighed blandt familier med to børn, der ikke begge er piger,
+
+
+
+og det vil derfor være realistisk fortsat at tillægge de 3 resterende typer identiske sandsynligheder. Da summen af sandsynlighederne for de simple hændelser i enhver sandsynlighedsmodel skal være lig med 1, fremkommer følgende
+nye model:
+
+nn
+
+.
+
+Familietype
+
+Sandsynlighed
+
+DD
+
+I
+
+DP
+
+I
+
+PD
+
+4
+
+PP
+
+0
+
+Modellen vil være realistisk i relation til familier med to børn, hvoraf
+mindst det ene er en dreng. Ved hjælp af modellen ses det let, at svaret på
+det oprindelige spørgsmål er 4; det andet barn vil også være en dreng, hvis
+og kun hvis familien er af typen DD.
+
+For nemheds skyld blev der i det første eksempel valgt et tilfælde, hvor den
+oprindelige model var en model med lige store sandsynligheder (afsnit 1.5.),
+men den grundlæggende idé kan bruges helt generelt.
+
+Slik problemet er formulert er det mest naturlig å tolke forfatterne slik at man har observert ett av barna, som viser seg å være gutt. La denne hendelsen være C. Hvis X er
+
+antall gutter i familien, har man også observert hendelsen B = (X > 1). Problemet er nå
+
+at man ikke kan velge om man vil betinge m.h.p. B eller C. Hendelsen C impliserer B,
+
+mens den motsatte implikasjonen ikke gjelder, eller med andre ord, C' er inneholdt i B.
+Det er derfor galt å betinge m.h.p. B slik det gjøres i eksempelet. Konklusjonen at sann-
+
+synligheten for at det andre barnet er gutt er lik 1/3 er også intuitivt galt. De to barnas
+
+kjønn er uavhengige, og informasjon om det ene barnet endrer ikke sannsynligheten for
+at det andre er gutt, som fremdeles blir 1/2.
+
+Nedenfor følger også innledningen til det samme eksempelet fra 1975-utgaven. Nå brukes
+
+formuleringen ”det opplyses at de to barn ikke begge er piker”. Dette må kunne oppfattes
+som ekvivalent med hendelsen B ovenfor, og konklusjonen blir da riktig.
+
+6. Two-child families. As a second example of the problem of differ-
+
+Exampie
+ential selection, suppose that a two-child family is moving into the neighborhood.
+We learn that not both children are girls. Under this condition, what is the probBG,
+ability that both are boys? Let us distinguish four family types, say BB,
+
+GB, GG, where for example BG represents “older child boy, younger child girl.
+
+
+
+3.3
+
+'TV-spillet og debatten med Marilyn
+
+Det vises her til debatten gjengitt i TG nr.4 1991 og nr.1 1992. Problemstillingen er
+nærmest klassisk og finnes i mange varianter, i dette tilfellet TV-spill varianten. Det
+
+opprinnelige spørsmålet til Marilyn vos Savant var: "Suppose you're on a game show,
+
+and you're given the choice of three doors: Behind one door is a car, behind the others,
+goats. You pick a door, say no. 1, and the host, who knows what’s behind the doors,
+opens another door, say no.3, which has a goat. He then says to you, ”Do you want
+
+to pick door no.2?”
+
+Is it to your advantage to switch your choice?”
+
+Marilyn påstår,
+
+helt korrekt, at sannsynligheten for at bilen er bak dør nr.1 fremdeles er 1/3, slik at det
+lønner seg å bytte til nr.2 som nå har sannsynlighet 2/3. Protestbrevene strømmet inn,
+
+særlig fra velskolerte matematikere som ville ha det til at sannsynlighetene nå var 1/2.
+Dette er igjen en variant av problemstillingen ovenfor. La oss definere hendelsene B =
+
+(bilen er ikke bak dør nr.3) og C = (programlederen åpner dør nr.3). Hvis vi nå betinger
+
+m.h.p. B blir svaret 1/2, som er galt. Det er nemlig hendelsen C' som er observert.
+Hendelsen C medfører B, mens den motsatte implikasjonen ikke gjelder. Det er altså
+
+riktig å betinge med hensyn på C. Na vil det sildige svaret generelt være avhengig av
+programlederens strategi og av om hvorvidt spilleren kjenner denne. Hvis programlederen
+velger tilfeldig når han har anledning til det (dvs. hvis bilen er bak den døra spilleren har
+
+valgt) blir sannsynlighetene slik som Marilyn hevder. Det er imidlertid lett å se ved å
+bruke Bayes” formel at sannsynligheten for å vinne når man bytter, ligger et sted mellom
+1/2 og 1, avhengig av hvilke sannsynligheter som gjelder for programlederen.
+
+3.4
+
+Domstoleksempelet fra Larsen & Marx
+
+Nedenfor følger ”case study” 2.7.1 og 2.11.1 fra Larsen & Marx.
+
+
+
+CASE STUDY
+
+221
+
+In 1964, a woman shopping in Los Angeles had her purse snatched by a
+
+young, blond female wearing a ponytail. The thief fled on foot but was seen
+shortly thereafter getting into a yellow automobile driven by a black male who
+had a mustache and a beard. A police investigation subsequently turned up a
+suspect, one Janet Collins, who was blond, wore a ponytail, and associated
+
+with a black male who drove a yellow car and had a mustache. An arrest was
+made.
+
+Not having any tangible evidence, and no reliable witnesses, the prosecutor sought to build his case on the unlikelihood of Ms. Collins and her
+companion sharing these characteristics and not being the guilty parties. First,
+the bits of evidence that were available were assigned probabilities. It was
+estimated, for example, that the probability of a female wearing a ponytail in
+
+Los Angeles was 75. Table 2.7.1 lists the probabilities quoted for the six
+
+“facts” agreed on by the victim and the eyewitnesses (38).
+TABLE 2.7.1
+
+Characteristic
+
+Probability
+
+Yellow automobile
+
+tb
+
+Woman with a ponytail
+Woman with blond hair
+Black man with beard
+Interracial couple in car
+
+is
+1
+ts
+ms
+
+Man with a mustache
+
+1
+
+The prosecutor multiplied these six numbers together and claimed that
+
+the product, (XL): (7&3), or 1 in 12 million, was the probability of the
+intersection—that is, the probability that a random couple would fit this
+description. A probability of 1 in 12 million is so small, he argued, that the
+
+only reasonable decision is to find the defendants guilty. The jury agreed, and
+handed down a verdict of second-degree robbery. Later, though, the Supreme
+
+Court of California disagreed. Ruling on an appeal, the higher court reversed
+the decision, claiming that the probability argument was incorrect and misleading. What do you think? (We will reexamine this evidence in Case Study
+2.11.1 and offer a counterargument to the case presented by the prosecution.)
+
+CASE STUDY _ 2.11.1
+
+Consider again the evidence presented in People v. Collins, as outlined in
+Case Study 2.7.1. The prosecution’s case rested on the unlikelihood of a given
+couple’s matching up with the six characteristics reported by the several eyewitnesses of the crime. It was estimated that the joint occurrence of a white
+female with blond hair combed in a ponytail riding in a yellow car with a
+black male having a beard and a mustache was on the order of 1 in 12
+million—a number so small, the prosecution contended, that Ms. Collins and
+her male friend were clearly guilty, a classic open-and-shut case. Not so,
+argued the counsel for the defense. By approaching the same data from a
+slightly different perspective, they were able to show that “reasonable doubt”
+had not really been eliminated, despite the apparent 12-million-to-1 odds.
+Suppose that n is taken to be the total number of couples who could
+conceivably have been in the area and perpetrated the crime, and p, the
+probability that any such couple would share the six characteristics introduced
+by the prosecution as evidence. Define Y to be the number of couples matching up with the eyewitness accounts. It is not unreasonable to assume that Y is
+binomial, in which case
+
+
+
+k=0,L...4"
+
+P(Y =k) = ØL pp",
+Therefore,
+
+P(Y = 1) = np(! — pr"
+and
+
+Sec. 2.11
+
+PY>1)=1-PY=0)=1-(1—p)"
+Combinatorial Probability: Two Special Cases
+
+from which it follows that
+
+> 1)= 1 — (1 — py" — nøl — py"
+P(Y
+Now, consider the ratio
+
+P(Y >1) = 1—(1—p" — np(1 — pr"
+
+P(Y > 1)
+
+1—(1—p)"
+
+em
+2.11.
+
+= P(more than one of the n couples
+fit the description given that at
+least one does)
+
+= P(there is at least one other couple
+who could have committed the crime)
+
+If P(Y > 1)/P(Y > 1) is anything other than a very small number, we would
+
+have to accept the possibility that Ms. Collins and her friend have a pair of
+
+lookalikes and that perhaps they were the culprits.
+
+Table 2.11.3 shows the value of the probability ratio (Equation 2.11.6) for
+various values of n befitting a large metropolitan area and for the prosecutor's
+estimate of p (= 1/12,000,000). What the last column makes clear is that
+P(Y > 1YP(Y > 1) is not a particularly small number.
+
+TABLE 2.11.3
+
+p
+
+1/12,000,000
+1/12,000,000
+1/12,000,000
+1/12,000,000
+
+n
+
+P(Y > 1/P(Y > 1)
+
+1,000,000
+
+0.0402
+
+2,000,000
+5,000,000
+10,000,000
+
+0.0786
+0.1875
+0.3479
+
+Looked at in this way, the evidence is certainly not as incriminating as
+the “1-in-12,000,000” argument would have us believe. At least that was the
+opinion of the California Supreme Court: based on the probability argument
+just presented, they overturned the initial verdict of “guilty” that had been
+handed down by the Superior Court of Los Angeles County.
+
+Retten har her basert seg pa den betingede sannsynligheten for hendelsen (Y > 1) gitt
+
+hendelsen (Y > 1). La na C betegne hendelsen at en person med de gitte kjennetegnene
+er blitt observert, og sett
+
+B = (Y > 1). Igjen er C inneholdt i B, og det vil være riktig
+
+å betinge m.h.p. C. Hvis man gjør dette blir sannsynligheten 1 — (1—p)""*. Forn =
+1000000 blir da svaret tilnærmet 0.08, som er ca. det dobbelte av den sannsynligheten
+som beregnes i boka. For n = 10000000 blir svaret 0.5654 mot bokas 0.3479. Korrekt
+bruk av betinget sannsynlighet gir altså enda mindre grunnlag for fellende dom og styrker
+dermed rettens avgjørelse.
+
+oe
+
+
+
+Hedmark distriktshøgskole 2450 RENA
+e-mail : monness@samson.hedmarkdh.no
+62440287 (Hjem)
+64240800 (Arbeid)
+64240807 (fax)
+
+BLINDFORSØK FOR Å SAMMENLIKNE ESTIMERINGSMETODER I SKOGGJØDSLING
+
+Erik Mønness
+
+Forord.
+
+Denne artikkelen er et norsk sammendrag fra "Estimating Annual Increment Response to
+
+Forest fertilization: a Comparison of Methods by Uniformity Trials. (Forest Science. Vol 37, No 1,
+etter at arbeities ble presentert pa
+Mars 1991). Sammendraget er gjort for Norsk statistisk Brening ©
+Nordisk statistikermøte på Røros
+i 1992.
+
+Sammendrag.
+
+Virkningen på grunnflatetilvekst i skogsbestand av gjødsling skal anslås, årlig i opp mot 20
+år. Hovedproblemet er at en ikke vet hvilken tilvekst det hadde vært om behandlingen ikke hadde
+funnet sted. Flere anslagsmetoder sammenliknes. Kjente metoder som ANOVA, ANCOVA,
+"Konstant differanse", "Konstant forhold", AR(1), regresjon er utprøvd på ulike samlinger av
+blindforsøk. I et blindforsøk er behanlingseffekten kjent og lik 0, og metodenes kvadratavvik kan
+sammenliknes. Den rangeringen av metodene som dette gir, kan overføres til en virkelig forsoks-
+
+situasjon. Det viser seg at "enkle" metoder er like gode som de mere avanserte.
+Blindforsøk.
+
+En sammenlikning av metoder kan skje teoretisk eller empirisk. Teoretiske oppstillinger kan
+gi svar som "er bedre enn" men i mindre grad gi svar på "hvor mye bedre". I empiriske
+sammenlikninger basert på virkelige forsøk er det et problem at både presisjon og behandlingseffekt er
+ukjent. Et blindforsøk er et vanlig forsøk for å anslå en (eller flere) behandlingseffekter. Imidlertid er
+det ingen behandling, slik at behandlingseffekten er kjent og lik null. Det som da måles som
+behandlingseffekt vil være metodens presisjon. Metoder kan da rangeres etter deres evne til å
+"estimere null". Denne rangereingen vil også være gyldig i lg forsøk med virkelige
+behandlinger.
+Datamaterialet.
+
+fra
+Årlig grunnflatetilvekst er målt ved å ta borprover på hvert tre. Dette gir tilvekst
+måletidspunktet og så langt tilbake som en ønsker. Her er det målt tilvekst fra måletidspunktet og
+tilbake til 10 år før forsøket ble anlagt. Denne 10 årsperioden er kalt forperioden. Grunndataene
+stammer ifra ca 70 blokkforsøk som ble anlagt i tidsrommet 1958-1971. Forsøkene er fulgt i opp til
+
+
+
+Erik Mønness - 2
+
+20 år. Samlet utgjør materialet årlig grunnflatetilvekst på ca 42000 trær på 2200 ruter (=
+
+forsøksenheter). Dataene her er årlig grunnflatetilvekst per rute målt i kvadratmeter pr. hektar.
+
+Dataene er stilt opp på ulike måter og gitt grunnlag for tre separate analyser, hvorav bare to tas med
+her.
+
+Data gruppe 2. I 28 blokker er det anlagt to kontrollruter. Trekkes den ene ut og kalles
+behandlet, den andre beholdes som kontrollrute, da får en 28 uavhengige blindforsøk som har en
+
+forperiode på 10 år og en behandlingsperiode på opp til 20 år.
+
+Data gruppe 3. Basert på analysen av datagruppe 1 gjelder at mellom-blokk variasjonen er
+
+ubetydelig i forhold til innen-blokk variasjonen. En kan derfor tillate seg å sammelikne kontrollruter
+fra to nærliggende blokker. Dette gir 107 uavhengige blindforsøk. For nærmere detaljer om
+materialet vises det til originalarbeidet.
+Notasjon.
+
+Yi
+
+Årlig grunnflatetilvekst på rute ii år £
+
+(m2 /hectare/year). i = n indikerer behandling,
+i = 0 indikerer kontrollrute. t=] er første år med behandlingseffekt.
+t=0 er siste år uten eventuell behandlingseffekt.
+
+eit
+
+Tilfeldig avviki rute i i år ¢.
+
+E()
+
+Forventning.
+
+MSE
+
+Midlere kvadratavvik. På blindforsøk er den sanne behandlingseffekt lik null, så
+
+MSE er beregnet som
+
+Xi X.
+
+der X,, er den aktuelle variabel. MSE måler både varians og forventningssjevhet.
+RMSE _ kvadratrot av MSE.
+=
+
+X=
+
+leo
+
+DEE
+
+Xv
+
+der X,, er den aktuelle variabel. Et gjennomsnitt ved ar ¢ er alltid w år bakoveri tid.
+Vanligvis er w 5 eller 10 år.
+
+fin,t)
+
+= er (teoretisk) årlig (1) vekst på en behandlet rute (7) dersom den ikke hadde vært
+
+H0,t)
+
+på en ubehandlet kontroll-rute (0)
+= er (teoretisk) årlig (f) vekst
+
+FE
+
+behandlet.
+
+= fin,t)-f(0,1) er årlig differanse i tilvekst mellom en behandlet rute og dens
+kontroll.
+
+Problemstilling.
+
+Det vises til figur 1. Øvre kurve viser årlig tilvekst Y;,g på en tenkt behandlet flate. Før år
+
+null har denne et forløp som vil avhenge av vokseforhold, klima etc. Ved År null behandles flaten, og
+det fremkommer en årlig "mervekst" N(n,t) , som er resultatet av behandlingen. Den stiplede
+kurven viser en tenkt ukjent forløp /(n, £) for flaten dersom den ikke hadde blitt behandlet. Nedre
+kurve viser forløpet til en kontrollrute, Ypg . Dennes forløp vil bare være avhengig av vokseforhold
+
+og klima etc. Vi ser at et god anslag på behandlingseffekten N er avhengig av et godt anslag på den
+uobserverte f(n,t). Det som er tilgjengelig for dette formålet er forløpet til kontrollruten i
+behandlingsperoden samt at vi kjenner begge ruters forløp i forperioden.
+
+I et blindforsøk er behandlingseffekten kjent lik null, så den øvre heltrukne og den stiplede kurven vil
+falle sammen. Problemstillingen blir da hvordan best mulig ut ifra forperioden samt forløpet til
+kontrollruta forutsi forløpet til "behandlingsruta".
+
+
+
+M2/HECTARE/ YEAR (ANNUAL INCREMENT)
+
+N(nsT)
+
+Y(nst)
+
+7
+
+(FERTILIZED
+
+PLOT)
+ene)
+
+_
+
+UNOBSERVABLE
+
+(CONTROL PLOT)
+
+Pan mnLN
+0
+
+£(0,t)=¥(0,t)
+
+T
+
+FERTILIZATION
+
+FIGURE J.
+
+YEARS AFTER
+PREPERIOD
+
+t
+
+Theoretical description of annual increment on a fertilized and control plot.
+
+De ulike estimeringsmetoder.
+ANOVA modell. Betrakt folgende estimator av behandlingseffekt.
+
+Uy = Yuh =N (0,1) +f (0,)-fO,N=NG,)+F,
+Her blir
+2
+
+E(U,, - N(n,t))' = E(F)
+
+2
+
+Forutsettningen her må være at rutene essensielt har samme vekst. (At kurvene for de to
+
+rutene faller sammen, bortsett fra tilfeldig variasjon, dvs. E (F) = 0.) Det er jo denne forutsetningen
+som ligger til grunn for en vanlig ANOVA modell, og estimatoren U er nettopp den årlig
+behandlingskontrasten en får ifra en standard ANOVA analyse
+
+Konstant differansemodell. Her tenker en seg at forløpene for to ubehandlede ruter i samme
+
+blokk har en fast differanse. Veksten i forperioden kan da brukes til å estimere denne differansen,
+slik:
+
+Cm= ¥ nw —Yor—(Yno—-Yoo)= N(n,t)+Fi-Fo
+
+E(Cu—N(n,t)) = E(Fi- Fo).
+Dette blir en god estimator hvis middeldifferansen i forperioden, Fo , eet godt anslag pa
+
+differansen F, i behandlingsperioden. Dette er rimelig for tidspunkter nær null, men kanskje ikke
+seinere.
+
+
+
+Erik Mønness - 4
+
+Konstant forholdsmodell. I stedet for en fast differanse kan en tenke seg at det er et fast
+
+forhold mellom veksten i de to rutene. Vi får da følgende estimator.
+
+LE
+
+Ru =Yu-Y =
+
+—
+
++ f (n,1)
+N(n,t)
+
+AJ
+
+ED
+
+100555)
+
+)=
+FE2)
+Bl sen) _ 70,2
+
+E(Ru-N(n,1)) a
+
+f (0,0)
+
+Regresjonsestimator: Det statistiske svar pa disse siste to enkle metodene er en regresjon
+
+mellom kontrollflaten som uavhengig variabel og behandlingsflaten som avhengig.
+
+Parameterestimeringen:skjer i forperioden (som da må ha en minimuslengde, f.eks 10 år), derpå kan
+en prediktere behandlingsruten i behandlingsperioden. Vi har.
+
+f (0,6) +e:
+S(n,t) = u+pB:
+For parameterestimatene som er estimert i forperioden gjelder at
+
+uw = F(n,0) - & -7(0,0)
+s vi far
+
+REGm = Yu-p-f -Yor = N(n,t) +
+
+£002)
+,9-6
+-F0,0)- 7
+t(n,t)-(F@
+
+E(REGu-N(n,) = E(R-Fo +(1-Ø (£(0.0-70,0))
+
+Regresjonskontrasten har "konstant differanse" C og "konstant forhold" R som særtilfelle.
+Kovariansestimator. En forbedring av "konstant differanse" er å årlig estimere effekten av
+justeringen. Tanken her er at forholdene i forperioden kan gi informasjon om forholdene i
+
+behandlingsperioden når tidsavtsanden er kort, men i mindre grad når tidsavstanden blir stor. Vi får
+
+følgende estimator:
+
+no
+
+-Fo
+COVm = ¥u—Yo—f,(Fro-Yoo) = N(n,t)+F-£,
+
+E(COVu-N(n,t)) = E(F,-£,-F)
+
+—\2
+
+Dette gir mulighet for en "glatt" overgang fra estimator C til estimator U når ¢ vokser. B, kan
+estimeres pa ulike mater.
+
+Tidsrekkeestimator. Forskjellen F; mellom de to rutene antas å følge en AR(1) modell (med
+ikkenull middell) . Middel og autoregressiv parameter kan estimeres i forperioden, og prosessen kan
+
+predikteres i behandlingsperioden. Dette gir
+
+ARy=Yq —Yu—F=N(,1)+F,-((8) (R-F)+F)
+EAR, -N(n,) = EÅR-F, (ØY (7-5)
+A
+
+t
+
+_\,
+
+—
+
+
+
+Erik Mønness - 5
+
+Denne estimatoren konvergerer mot estimatoren C når vokser. En AR prediksjon vil bare
+kunne være bedre enn C' noen få år fremmover fra år null. (At en bare har 10 år for parameterestimering gjør at høyere ordens autoregresjon vanskelig lar seg estimere. I en egen undersøkelse er
+
+dette vurdert og predisjonsevnen med høyere ordens autoregresjon var ikke særlig bedre enn AR(1).)
+Resultater.
+
+Siden blindforsokenes behandlingsresultat er null, vil den bergenede behandlingseffekten
+
+være kun den tilfeldige variasjonen. For hver metode og hver år kan derfor MSE observeres. Den
+metode som har minst MSE er den metode som er best.
+
+Resultatene fra datagruppe 2 er vist i figur 2. Datagruppen består av 28 uavhengige forsøk, hver
+RMSE er altså basert på 28 forsøk på å anslå null. Her er forperioden 10 år, så det er mulig å
+
+estimere både en regresjonsmodell og en AR(1) modell. Vi ser at metode U har en konstant RMSE
+
+uavhengig av år. Det er å vente, siden den bare gjør bruk av data fra det enkelte år. De øvrige
+
+metodene har et helt likt bilde, en omtrent halvering av RMSE nær år null, og en økende RMSE
+
+med voksende tid. Alle disse metodene bruker data fra forperioden for å korrigere anslaget av veksten
+i "behandlingsruta". Vi ser at dette gir klar gevinst, men etter som tiden går bidrar ikke lengre denne
+
+korreksjonen til et mere presist anslag. Vi ser også at de "enkle" korrigereingene som gjøres av C
+
+eller R er like bra som REG og AR(1).
+Resultatene fra datagruppe 3 forteller det samme. Her er forperioden kortet inn til 5 år slik at
+
+anslagene kan gjøres hele 25 år. Her er det 107 uavhengige forsøk, hver RMSE for hvert år og hver
+metode består altså av 107 forsøk på å anslå null.
+RMSE M2/HECTARE/YEAR
+0.15
+
+0.00
+
+0
+
+15
+
+10
+
+5
+
+20
+
+YEARS AFTER PREPERIOD
+
+RMSE(U) ——— RMSE(C) ——— RMSE(R)
+
+RMSE (REG )——-a-——RMSE(AR(1)) —*—
+
+FIGURE 2. Data set 2. RMSE of 5 estimators of fertilization response. The preperiod is 10 years.
+
+(The estimates are based on 28 trials when year < 11, 19 when year = 12, 11 when year = 16,
+6 when year = 18.)
+
+En far en klar forbedring av anslagsfeilen ved 4 trekke inn opplysninger om vekstforhold fra
+før forsøket ble satt i gang. En ANOVA analyse gir derfor unødig høy forsøksfeil. Effekten av
+korrigering avtar etter hvert som tidsavstanden til "korrigeringsdataene" øker. Det er ingen vesentlige
+forskjeller mellom enkle korrigeringer og mer avanserte.
+
+Forskjellen på metodene er hvordan de forsøker å anslå den veksten som ville ha hver uten
+
+behandling. Til dette brukes kontrollruta, samt eventuelt veksten i den behandlede ruta før
+
+behandling. Det betyr at forskjellene mellom metodene er uavhengig av om det har hvert noen
+
+
+
+- 6
+Enk Mønness
+
+behandling eller ikke. Derfor vil rangeringen
+av metodene forbli uendret i et faktisk behandlet tilfelle
+(selv om vi ikke lengre er i stand til å direkte måle anslagsfeilen). En kan si at her har en klart å finne
+den feilen som skylles naturlig variasjon. I et faktisk behandlet tilfelle vil eni tillegg få feilkilder som
+skylles "samspill" behandling*sted, "lack-of-fit" etc. Men dette er knyttet til variabelen Yn som
+inngår på samme additative måte for alle metodene.
+
+RMSE M2/HECTARE/YEAR
+0.15 7
+
+0.10 4
+
+0.05 4
+]
+
+0.00 +
+0
+
+5
+
+10
+
+15
+
+YEARS AFTER PREPERIOD
+
+RMSE(U)
+
+RMSE(C)
+
+RMSE(R)
+
+20
+
+25
+
+RMSE(COV )---*—~
+
+5 years. (The
+Ficure3. Data set 3. RMSE of 4 estimators of fertilization response. The preperiod isyear
+= 20, 21
+when
+61
+15,
+=
+year
+estimates are based on 107 trials when year < 10, 90 when
+‘when year = 24.)
+
+
+
+-
+
+=
+go
+
+Eddadikt og statistikk. Kommentar til diskusjonen mellom Egede
+
+Larsen og Fidjestøl.
+Tore Schweder
+
+I TG for desember 1991 svarer Fidjestøl på den kritikken han ble møtt med fra Egede
+Larsen da han "gjorde forsøki filologisk statistikk" (Fidjestøl 1989 i Festskrift til Finn
+Hødnebø, Egede Larsen 1991:TG 8 no. 2, Fidjestøl 1991:TG 8 no. 4). Selv om denne
+diskusjonen begynner å bli gammel (blant annet fordi redaktøren ba meg vente til Egede
+
+Larsen hadde svart Fidjestøl) ønsker jeg å støtte Fidjestøl i hans "forsøk". Jeg håper at han
+ikke legger statistikken til side selv om han fikk motgang fra Egede Larsen, men at han
+vil gå videre og at han vil inspirere kollegaer og studenter til tilsvarende forsøk. Det er
+
+trolig nok av interessante oppgaver å gripe fatt i.
+
+Det skal et visst mot til hos filologen for å gå inn i vårt fag. Statistikk kan jo fortone seg
+som et minefelt. Vi statistikere skal passe oss godt for å avfyre alle de minene som
+"inntrengeren" er i nærheten av. Da blir han jo slaktoffer - og ikke en potensielt verdifull
+medarbeider. Er det noe som gir vårt fag liv så er det gode problemstillinger fra andre fag.
+Istedenfor å detonere miner, burde statistikeren møte nykommeren med velvillig
+imgtekommenhet og prøve å lose han gjennom villniset - slik at han kan få bedre svar på
+sitt spørsmål enn det han selv trodde var mulig, og kanskje hjelpe til med å stille nye
+=
+spørsmål.
+Problemet til Fidjestøl er interessant. Han har to klasser dikt, skaldediktene og
+
+Eddadiktene. Hvert dikt har et antall strofer, n, og et antall fyllord (inholdstom partikkel
+som of eller um), X. Skaldediktene kan dateres ut fra den historiske konteksten. La
+dateringen vere t. Skaldediktene gir dermed opphav til en tidskurve, p(t), for den relative
+hyppigheten av fyllord pr strofe
+E(XIt) = np(t).
+
+La oss se bort fra at p(t) må estimeres, og anta at den er kjent. Oppgaven er å anslå
+dateringen for et Eddadikt med n strofer og X fyllord.
+
+Fidjestøl brukte opprinnelig en metode basert på "normert avvik", der ikke bare den
+relative hyppigheten X/n, men også antall strofer ble brukt til å datere diktet. Han fikk
+dermed et punktestimat for dateringen. Når n er liten er imidlertid usikkerheten stor, og et
+
+konfidensintervall kunne kanskje være på sin plass. At usikkerheten er stor når n er lien,
+fører til at metoden med normerte avvik gir estimater der dateringene for dikt med få
+strofer blir trukket inn mot en midt-dato. Dette faller Egede Larsen tungt for brystet.
+Riktignok her Egede Larsen noen gode pong når han kritiserer metoden med normerte
+avvik, som rett og slett er den vanlige t-observatoren for å teste om diktets
+fyllordssannsynlighet avviker fra den gjennomsnittlige for alle dikt. Men noen vei
+framover peker ikke Egede Larsen på.
+
+Fidjestøl etterlyser en bedre metode enn den med normerte avvik han har lært av Charles
+Muller. Jeg er langt fra noen ekspert på dette området, men jeg forestiller meg at slik
+
+
+
+datering skulle kunne gjøres ved hjelp av Bayes-metodikk.
+
+Et Edda-dikt har sikkert andre kjennetegn enn hyppigheten av fyllord og antall strofer. Av
+ordvalg, billedbruk, rimform osv forestiller jeg meg at filologen vil ha en oppfatning om
+diktets alder. Jeg antar at han klarer å angi en'sannsynlighetstetthet for hans subjektive
+
+bedømmelse av diktets dato ut fra disse andre kjennetegnene. La videre f(xIn,t) være
+
+*
+
+sannsynligheten for at et dikt med n strofer skrevet på tidspunkt t har x fyllord. Dette kan
+
+for eksempel være Poissonfordelingen med parameter np(t). Ved Bayes formel får en så
+aposteriorifordelingen for datoen i form av en sannsynlighetstetthet f(tlx,n). Fra
+aposteriorifordelingen kan en så regne ut et punktestimat, T,, og eventuelt et intervall.
+
+Om X/n -> P når n vokser vil, som kjent, T, konvergere mot p”(P), forutsatt at p er
+
+invertibel. Aprioriestimatet basert bare på apriorifordelingen og ikke på data er T,. Dette
+blir en midt-dato. Når n vokser vil, dersom X/n holder seg konstant lik P, T, bevege seg
+bort fra T, i retning av grenseverdien p'(P). Det er, etter det jeg forstår, dette fenomenet
+Egede Larsen ikke liker. En vanskelighet med Bayes-metodikken er at filologen må
+bestemme seg for apriorifordelingen. Det bringer inn et subjektivt element som kan være
+ubesværlig.
+
+Fidjestøl er naturligvis klar over de metodiske vanskene en har med å datere Eddadikt ut
+fra datering av skaldedikt. Det vesentlige spørsmål er om pit) er felles for begge
+dikttypene. Ble de to dikttypene formet i samme tidsperiode? Er språkform og
+strofestruktur lik for begge typer dersom de ble formet på samme tid? Dette og andre
+_ nærliggende spørsmål virker sikkert håpløst naive for Fidjestøl og for de som har lest hans
+
+- orginalartikkel. Det har dessverre ikke jeg.
+
+Sosialøkonomisk institutt
+Postboks 1095 Blindern
+
+Universitetet i Oslo
+0317 Oslo
+
+
+
+-
+
+£5
+-
+
+ee
+
+==:
+
+:
+
+ate
+
+a
+
+Hel ait
+
+Fra Dagbladet 1. september 1992
+
+Av ARVID HOLMLUND
+
+Power 7 heter det nye
+Lotto-systemet
+som
+lurer
+trekkemaskina
+hos Norsk Tipping på
+Hamar. Stryk sju av de
+34 tallene og fyll ut
+kupongen med de 27
+gjenstående etter en
+
+matematisk
+
+formel.
+
+Teoretisk skal du gå
+overskudd etter fem
+ukers spill.
+Å stry
+sju
+ke
+av talle
+erne
+det
+
+samme som å
+Aar
+
+få null rette.
+
+sine anche nite.
+
+Og
+
+let Sajer ganske lle.
+
+SPILLE-Dagbladet testet Pover 7 i fem uker. Vi hadde et
+amlet overskudd på 5501 kro-
+
+er. Vår gevinst var en sekser,
+
+n femmer og sju rekker med fi» pluss tilleggstall
+
+Høyeste premie var på 6557
+roner.
+
+reg ieee 1s ponger.
+er
+e
+anden i utis påer 294rek
+kroneri ka
+
+19en premiegaranti
+
+å baresom ryOIie aafs
+
+d
+
+1 systemet som er helt-uten
+emiegaranti.
+
+- Lotto er flaks, og det er ikke
+
+ul a premiene
+å
+ti.
+
+eneste garantien
+Power 7
+
+‘er følgende: Hvis du i løpet
+
+en femukers periode styrer
+na de sju tallene som hver
+e strykes, og ikke har over-
+
+add, refunderes innsatsen.
+
+-Holder det med et system
+:n premiegaranti?
+- 10000 nordmenn fikk sjantil &teste system
+Over
+et.
+tuI har gitt tilbakemelding. Fire
+
+* vunnet over 70000 kroner
+
+seks rette pluss tilleggstall.
+
+1 lag hundre har hatt seks retler lavere premier. Blant de
+n har svart, har 10 prosen
+t
+
+t med overskud
+påstår d,
+Odd
+rdevåg.
+
+verskudd
+
+:
+de
+ke på Ol millionær på
+
+ar
+
+=
+
+Power 7 er Lottosystemet
+kan lure trekkemaskina hos Norsk Tipping på Hamar. Spiller du for 200-300 kroner i uka,
+kan dette være systemet for deg.
+(Foto:E Arne V. Hoem).
+i
+
+så måte erx SPILLE- E
+la- vel seks rette. Dette var den
+FY:
+ae
+med Power 7 go- eneste av de fem ukene bvor Må ha
+to av
+
+i styre unna sju tall Premie sen. Til ev
+fem testuk
+
+i
+
+ide vi i tre av ukene. I en av
+
+leomgangene fikk vi inn ett
+
+je sju tallene, men fikk like-
+
+j
+
+innsat-
+
+i
+
+innsatsen. Men
+
+seks
+
+20 Waser ve
+med at
+
+Power 7 koster
+
+Gree
+
+fårduensekser kunne
+vårsjur gevinst
+like gjerne innehold
+rette.
+
+cirka hver tiende uke, får du
+
+t
+
+Trekkémaskina på Hamar er
+Til tross fo” at vi bommet på even
+Men er du Blant de
+
+ikke tapt penger.
+
+over 8500 kroner. Dames avhengig av seks rette for å få ett tall, fikk vi seks rette i en av ar Jaren
+ste en .
+vi ut med et totalt overoverskudd. Femrere og fire
+testukene. Hadde vi styrt
+
+skudd i testperioden.
+
+pluss tilleggstall dekker ikke
+
+unna på Lotto
+kan Power
+, 7 være
+
+ett av de sju tallene vi kuttet ut,
+
+temet for deg.
+
+sys
+
+
+
+UNIVERSITETET I OSLO
+
+Dagbladet
+
+27.november 1992-
+
+__
+
+Det matematisk-naturvitenskapelige fakultet
+Eksamen i:
+
+ST 001 — Allmenn statistikk.
+
+Løpende risiko
+
+Eksamensdag:
+
+Onsdag 25. november 1992.
+
+‘Husker du Power 7? Lotto-systemet som
+
+Tid for eksamen:
+
+09.00 — 15.00.
+
+Oppgavesettet er pa 5 sider.
+Vedlegg:
+
+4 tabeller fra læreboka.
+
+Tillatte hjelpemidler:
+
+Formelsamling for ST 001, lommeregner.
+
+Kontroller at oppgavesettet er komplett
+før du begynner å besvare spørsmålene.
+
+lurer maskinen på Hamar, og garanterer
+.
+deg gevinst på visse betingelser. Denne
+- uka hadde landets framtidige matematike-
+
+re Systemet til eksamen. Og systemet
+.
+
+Re Lottoer vart alles spill, og en vo
+_- gene har naturligvis behari
+
+deijakten pa pen
+
+spalteplass
+
+Redaktør Stein B. Hauglid i Dagens Næringsliv, for-
+
+på tall, konkluderte forle— modentlig en fyrsom har greie
+
+den i en artikkel på avisalederside, at Dagbladets ser
+
+| vice antakeligerden beste.
+
+Dagbladet har solide statistikker, pokkertil formtall
+
+(følg med 7 i ettermiddag!), og sk kurine vi ikke fortel-
+
+Oppgave 1.
+I september kunne man lese følgende i Dagbladet: "Power 7 heter det nye
+
+Lotto-systemet som lurer trekkemaskinen hos Norsk Tipping på Hamar.
+Stryk sju av de 34 tallene og fyll ut kupongen med de 27 gjenstående etter
+en matematisk formel. Teoretisk skal du gå overskudd etter 5 ukers spill.”
+En lottokupong inneholder tall fra 1 til og med 34. Når man tipper en
+enkelt rekke, krysser man av 7 av disse tallene. Ved trekning av ukens lottorekke, trekkes 7 tall uten tilbakelegging tilfeldig ut. I tillegg trekkes 2 såkalte
+tilleggstall. Premier utbetales for
+7 rette
+
+| Åhvordan du skulle tåsatt gat
+
+— Men onsdag falt alt i grus.
+
+Apen | ystom Power
+
+i
+
+Fiffig
+
+> Power 7 var oppgave nummer 1 jen eksamen 1 ail-
+
+- menn statistikk ved Universiteteti Oslo, og med hjelp
+
+der
+en formelsamling og lommeregner skulle alt på bor- Det gikk bra for studentene, og litt mindre bra for sys-
+
+— temet. Clouet ved Power 7 skulle være at du ved å eliminere sju tall som ikke trekkes ut, har en smellfeit sjanse
+
+_ til litt plussi løpet av fem uker.
+
+-Fiffige saker, kunne man tro
+- inntil fasiten kom.
+
+—
+
+Ut av et sammensurium av X-er ogP-er, parenteser
+
+6 rette og 1 tilleggstall (minst)
+
+- Og brøkstreker kom svaret: 1/5379616.
+
+6 rette
+
+- synligheten for sju rette om du tipper i vilden sky blant
+
+5 rette
+
+4 rette og 1 tilleggstall (minst).
+Vi antar at man tipper en enkelt rekke.
+
+a) Hva er sannsynligheten for å få 7 rette?
+
+b) Hva er sannsynligheten for å få 6 rette og ett tilleggstall?
+
+"Hemmeligheten" med Power 7 er å eliminere 7 tall som ikke trekkes ut og
+
+deretter tippe riktig blant de 27 resterende.
+
+c) Hva er sannsynligheten for å klare å gjette 7 av de 27 tallene som ikke
+trekkes ut?
+
+d) Gitt at du faktisk klarer å gjette 7 av tallene som ikke trekkes ut, hva
+er sannsynligheten for å få 7 rette blant de resterende 27 tallene?
+
+Sannsynligheten i d) blir større enn i a). Dette kan gi inntrykk av at Power 7
+"virker".
+
+e) Forklar hvorfor dette ikke betyr at Power 7 "virker". Vis at sannsyn-
+
+ligheten for å få 7 rette i virkeligheten ikke er endret.
+
+Det var dårlig nytt— for tallet er det samme som sann-
+
+| de 34 på kupongen.
+
+Vinnersjansen var én på femmillionertrehundreog-
+
+søttinitusensekshundreogseksten, og da kan du nes-
+
+- ten like gjerne eeoefen ——e——
+
+- Veogvel
+
+Farvel til Power 7. Nå stoler vi helt og«holdent på form-
+
+|
+
+|
+
+meldingene, og de beretter altså at 7 (uten Power) har
+vært jevnheten selv det siste halvåret.
+
+Ingenplass for tilfeldigheter- dette kan eksperti‘sen som gransker statistikkene.
+
+Ekspertene har innside-meldingene.fra lotto-Kjell på
+
+|
+
+— Hamar om fargen på ukas kuler(det finnestre sorter,
+
+redaktørHauglid), og har hentet framlistene med resul- _
+
+tater fra de gangene det har vært
+— bestemt vårt v 0g vei elle
+
+kul
+
+har |
+
+- Bøker på gan
+
+I sommer medga en gammel venn at han har ert
+
+ukas tykketall Debidige tirsdagi flere år.Hver uke har
+
+med:
+Som
+
+siffer og den tilhørende analysen |
+
+lotiatea.
+an av yrke har enbestemt seg for å begå
+
+enroman omvårWiesteriund - mannen bak lykketalle- I
+
+— Den kommer noksnart, og mer skal det bli- særlig
+
+_
+
+0 Jon hon xe ar 800 avspise med fri diktning.2 :
+Redaktør Hauglid undret seg i petiten overhva avise-
+
+SPILLE-Dagbladet har "gode erfaringer” med Power 7. I to av fem testuker
+greide de å styre unna sju tall. La X være antall uker (av 5 testuker) en
+
+nes undersøkende journalister kan stelle til med lotto- —
+
+styrer unna 7 tall.
+
+- ku
+dene
+
+f) Finn fordelingen til X.
+
+Hva slags fordeling er dette?
+Hva er forventningen til X?
+
+Oppgaven er laget av Eva Skovlund. Red.
+
+tallene, og mon ikke jula er reddet for redaktøren.
+For snart Kone ace «Løpende risiko.Bind 2. Ku-
+
+FOTNOTE: Har du ikke lengerukas SPILLE-Dagbladet for hånden, så vit at ek
+er tallene vi heier påiet- —
+-
+
+kronene».
+
+termiddag: 7-1 7-22-25-26-32-33. Måtte ae onatalene
+
+
+
+Aiftenposten
+Torsdag 4. mars 1993
+
+Du blir ikke faskere*
+Lotto-millionær ved"
+
+å spille system. Enkle
+
+=
+
+rekker gjør samme. +
+nytten, bare det er li-.
+
+i
+
+Med øyeblikkelig ‘virkning
+
+:
+
+7 @yeblikkellg virk-
+
+:
+
+ELSE BRUDEVOLD
+
+annonsener
+
+ning, fordi den
+«ikke holder mål.
+“22... Kampanjebrosjy: ren er også
+!
+trukket tilbake.
+
+«dr Også Matematisk instit på
+
+har tippefolket på Hamar }¢
+stoppet millionkampanjengå
+som er utformet av rekla-.
+
+mebyrået New. Deal, og he
+
+klager at de har’ gått over‘
+
+.
+
+streken. Et brev fra For-brukerombudet
+har satt
+
+tutt ved Universitete
+2: Blindern rasler med sable”.ne,' for deres matematiske
+
+— superhjerner har forlengst
+
+g ti & oppdager lureriet. Og gitt
+~ , Hamar beskjed.”
+
+:
+mbudet. I‘Aree Markedsdirektør Tore
+system- Forbrukero
+fremstiller
+som
+Lotto som veien til glitren- vis har: ombudet""kjempet: Tangen 1 Norsk ‘Tipping —
+
+fingeren* på overtrampet,. 5:
+
+.
+
+". mot useriøse firmaer som. "innrømmer at
+
+de millioner.
+
+selskapet
+
+“+ Det finnes intet system har** markedsført|såkalte |: ikke har vært flinke nok og
+
+som forbedrer muligheten ; genialesystemer,” og nå * : kritiske nok.»
+
+med- Norsk»: per du fikevel én rekke
+for å få syv rette i Lotto, så slutter: til: og rekkene..
+"på Lotto lørdag, er sjansene
+
+lenge det tippes
+
+forskjellige © Tipping seg til
+
+å få syv
+rekker, er ørstekonsulent © —Dypt:' beklagelig,-Har: - én til5379 616 for
+vek,
+
+Arve Blomberg Nilsen hos
+
+krefter.førstekonsulenten.
+4
+
+Ed hvem
+ette PE
+
+
+
+-
+
+Zs
+
+-
+
+og |
+
+_ INNKAST
+
+Frykt
+statistikk
+årsdagens møte
+i Sømna på Hel-
+
+geland mellom
+konstituert helsedirektør
+' Anne Alvik, fremtredende krefteksperter og lokalbefolkningen er et
+varsel om at tonen, og
+spesielt lederstilen, er
+lagt noe om i Helsedirektoratet. Det er meget
+rosverdig. . —
+- Folk i Helgelandskommunen er oppskaket
+over det de mener er et
+- urovekkende høyt antall
+-" krefttilfeller. De setter
+
+*
+
+demi forbindelse med at °
+Sømna fikk en av de
+
+-
+
+høyeste nedfallsdoser et- :
+
+ter Tsjernobyl-ulykken
+
+* for snart syv år siden.
+Helsemyndighetene me-: .
+ner at dette ikke er sannsynlig, kanskje ikke engang tenkelig. Under en- ”
+hver omstendighet er det ikke bevist.
+— Men vi tar befolk- . :
+
+ningens frykt alvorlig og’
+vil gjerne drøfte spørs-
+
+målene med dem, sa dr.
+
+Alvik.
+At angst kan være sykdomsutløsende og sykdomsforverrende, er velkjent både av leg og
+lærd. Det er derfor det er
+
+grunn til å snakke sam-
+
+men.
+
+i
+
+Det kan være grunn til
+noe mer. Det var en tuslete liten bestemor i den
+lille byen St. George i
+
+Utah i USA som begynte
+å føre statistikk over
+krefttilfellene der. Hun
+syntes det ble så mange.
+Atomekspertene, som foresto prøvene i Nevadaorkenen, lo av henne.
+
+Men de hadde aldri
+sprengt nar det var nordavind, for da kunne
+nedfallet bli ført mot Las
+Vegas, som var en stor_
+
+by. Når det blåste fra
+
+vest, derimot, var det
+
+«bare» St. George som
+
+fikk det. Der bodde det
+ikke så mange. Medisi-
+
+nerne avviste også tanken på at det kunne være
+
+ien sammenheng. Ikke
+før i begynnelsen av
+
+1980-årene fikk hun medhold. Ofrene fikk erstat-
+
+Aftenposten
+
+Onsdag 20. januar 1993
+
+—
+
+ter. Men av og til behøver man også å trekke
+deres utsagni tvil, spesielt når de blir påfallende
+skråsikre. Dessuten ligner mange av dem så
+mye på oss vanlige mennesker at det hender de
+dekker over sin tvil med
+å være ekstra bombastiske.
+Vi skal ikke ha sagt
+
+det om Johan Baarli, tidligere direktør for Statens Institutt for Strålehygiene, etter hans kronikk i Aftenposteni går.
+Men etter Tsjernobyl
+
+var instituttet meget
+raskt ute med forsikringer om at nedfallet
+:her ikke var farlig. Tro-
+
+verdigheten, og det på
+høyt regjeringshold, ble
+noe medtatt da man oppdaget at enkelte av instituttets ansatte holdt sine
+barn hjemme fra barnehaven i de dage. Antagelig var det ikke nødvendig. Men de — eller kanskje det var deres hustruer — tok altså sin
+frykt alvorlig. Ingen har
+rett til å fortenke dem i
+det.
+Informasjon om disse
+
+ting er like viktig som
+vanskelig. Og ved reaktoren på Kjeller bør man
+snarest skaffe seg et .
+kurs i informasjonshåndtering, etter at det i
+gar ble kjent at det var
+en lekkasje i forskningsreaktoren der for ni maneder siden. Det er mye
+& lere.
+Blant annet er det noe
+med definisjonen av ord-
+
+et «farlig.» Hvis man far
+en overhyppighet på
+
+f.eks. 50 krefttilfeller i
+året som følge av radioaktiv forurensning, er
+det statistisk sett svært
+lite, ja, faktisk «ufarlig.»
+Men for den som rammes, og for hans eller
+hennes familie, er risikoen 100 prosent.
+
+Det har eksperter så
+
+lett for å glemme. Det ”
+virker som det ikke inngår i pensum at enkelte
+forhold egner seg dårlig
+for statistikk. Kanskje
+
+ning. De gjenlevende.
+burde det det.
+.- PER EGIL HEGGE
+— _—
+.Man.behøver eksper:—.
+—.
+
+
+
+Påminnelse om
+
+DET 7. NORSKE STATISTIKERMØTET, USTAOSET 14.—16. JUNI 1993
+
+Det 7. norske statistikermøtet vil bli arrangert på Ustaoset Høyfjellshotell 14.16. juni 1993. Programkomiteen består av:
+Ørnulf Borgan, UiO
+Liv Høyland, NTH
+Jostein Paulsen, UiB
+
+Arrangementskomiteen består av styret for statistisk forenings lokallag i Bergen.
+Spørsmål angående faglig program kan stilles til:
+Jostein Paulsen, tlf. 05212886, epost: jostein@mi.uib.no
+Andre spørsmål kan rettes til medlem av arrangementskomiteen
+Hans J. Skaug, tlf. 05212875, epost: skaug@mi.uib.no
+
+Foreløpig program
+
+Mandag 14.juni.
+13.00-15.00
+
+Registrering og lunsj.
+
+15.00-17.00
+
+Per Mykland, University of Chicago Simulering med Markov-kjeder.
+
+18.00-19.00
+
+Middag.
+
+19.00-21.00 — Årsmøte.
+Tirsdag 15.juni
+Tema: Estimeringsteori.
+
+9.00-9.25
+
+Hans J. Skaug, UiB
+
+Ikke parametrisk funksjonalestimering med
+anvendelse på testing av uavhengighet.
+
+9.25-9.50
+
+Sven O. Samuelsen, UiO
+
+Pseudolikelihood for nested casecontrol studier.
+
+9.50-10.15
+
+Hans A. Karlsen, UiB
+
+Ikke stasjonzr estimering i ikkestasjonzre
+
+10.15-10.30
+
+Kaffe
+
+10.30-12.30
+12.30-16.00
+
+Bernt Øksendal, UiO
+Lunsj
+
+,
+
+tidsrekker.
+
+Noen anvendelser av stokastisk analyse i økonomi.
+
+
+
+Tema: Statistisk billedbehandling.
+
+16.00-16.30
+
+Lars Ødegård, NTH
+
+16.30-17.00
+
+Ingrid Glad, NTH
+
+Optimal fokusering i medisinsk
+ultralyd v.h.a. statistiske metoder.
+
+Bayesiansk rekonstruksjon og
+syntetisering av MR bilder.
+
+17.00-17.30
+
+Geir Storvik, Norsk Regnesentral
+
+Statistiske metoder i medisinsk
+billedbehandling.
+
+17.30-18.00
+
+Håvard Rue, NTH
+
+Korrigering av grupperte feil-
+
+klassifikasjoner i Bayesiansk billedanalyse.
+
+Onsdag 16. juni
+
+Tema: Medisinsk statistikk
+
+9.00-9.25
+
+Rolv T. Lie, SMIS UiB
+
+Medisinsk fødselsregister. Kan et
+lokalt tilleggsregister forbedre estimeringen
+
+av forekomsten av en medfødt misdannelse?
+
+9.25-9.50
+
+Per H. Zahl, SMS UiO
+
+Langtidsoverlevelse av kreftpasienter.
+
+9.50-10.15
+
+Trond Riise, SMIS UiB
+
+Tittel ikke klar.
+
+10.15-10.30
+
+Kaffe
+
+10.30-12.30
+
+Tore Schweder, Inst. for Øk. UiO
+'
+
+12.30-15.00
+
+Lunsj og pakking
+
+Maksimum simulert likelihood på
+bestandsestimering av vågeval.
+
+Tema: Generelle statistiske problemer
+15.00-15.30
+
+Henrik Dahl, ADH
+
+Undervisning av varians.
+
+15.30-16.00
+
+Jan H. Aarseth, Mat.inst. UiB
+
+Statistiske strategier for kunnskapsbaserte system - finnes de?
+Erfaringer med et regelsett for
+
+16.00-16.30
+
+logistisk regresjon i Express.
+
+:
+
+Tor Egeland og Alfhild L. Eide, 1)
+
+Forsgksplanlegging og
+historietilpasning.
+
+16.30-17.00
+
+Johan Heldal, Statistisk Sentralbyrå Anvendelse av den multinomiske
+logit modellen på valgundersøkelsen 1989.
+
+1) Norsk Regnesentral
+
+Praktiske opplysninger
+
+Ustaoset ligger på Hardangervidden og har gode togforbindelser med Oslo og
+Bergen. Ustaoset Høyfjellshotell ligger i gangavstand fra jernbanestasjonen.
+Pris for kost og losji er ca kr 2000 (2 døgn samt en ekstra lunsj). Studenter kan
+overnatte på Ustakvil til halv pris. Dette er et pensjonat som drives av hotellet
+
+og har beliggenhet like ved dette. Ved påmelding til møtet ordnes det med bestilling av hotellrom. Ved avbestilling etter 4. juni må deltakeren betale 55% av
+pensjonsprisen. Møtedeltagerene kan få rabatt på toget (se påmeldingskjemaet).
+Reisen t/r koster da ca kr 200 (både fra Bergen og Oslo).
+Påmelding
+
+
+
+Påmelding til det 7. norske statistikermøtet skjer ved innbetaling av konferanseavgift til
+
+Bankkontonr. 5231.05.07849
+Marit Olsbø Holen
+Ole Viks gate 9
+5006 Bergen
+
+og at påmeldingskjemaet fylles ut og sendes til adressen over. Påmeldingsfrist
+er 1. mai.
+
+Konferanseavgiften (inkluderer festmiddag på hotellet) er
+kr 400.— betalt før 1. mai
+kr 600.— betalt etter 1. mai
+Påmeldingskjema:
+
+Påmelding til det 7. norske statistikermøtet på Ustaoset.
+
+O ønsker overnatting på hotellet
+O ønsker overnatting på pensjonatet
+
+O ønsker togbillett t/r Bergen inkludert
+D ønsker togbillett t/r Oslo inkludert
+
+O ønsker ikke inkludert togbillett
+
+Navn:
+
+Adresse:
+
+—
+
+Postnummer:
+
+Alternativt kan påmeldingen skje pr. elektronisk post til skaug@mi.uib.no, med
+samme innhold som påmeldingskjemaet.
+
+VELKOMMEN! ©
+
+
+
+49th SESSION
+
+OF THE
+
+INTERNATIONAL STATISTICAL
+INSTITUTE
+
+Firenze
+
+August 25 - September 2, 1993
+
+49th Session of the International Statistical Institute.
+August 25 - September 2, 1993
+Registration Form
+
+Please complete and return this Form by June 1, 1993 to:
+Administrative and Technical Secretariat ISI-Firenze '93
+c/o CMO - NEWTOURS
+Via Guido Monaco, 20
+50144 FIRENZE, Italy
+
+Fax: +39 55 36 69 69 - Tel.: +39 55 33 35 05
+
+Personal Information
+
+Family Name (Prof., Dr., Mr., Ms.):
+Given or first name:
+
+Complete Mailing Address (including ZIP Code):
+
+Country:
+
+Nationality:
+
+Phone (institution):
+
+Phone (home):
+
+FAX:
+
+e-Mail:
+
+Remarks:
+
+Please indicate any membership of ISI and its sections:
+
+Accompanying person(s) -
+
+Family name
+1)
+2)
+
+3)
+4)
+
+Given name
+
+Sex
+
+Age
+
+
+
+A) Registration fees
+
+a) Participant
+
+Member of the ISI, organiser, author or discussant of invited paper n°: ............
+ITL.: 250,000
+:
+Q Ordinary fee - By June 1, 1993
+
+Q Ordinary fee - After June 1, 1993
+Q Reduced fee - By June 1, 1993
+OQ Reduced fee - After June 1, 1993
+Member of the ISI section:
+
+ITL.: 300,000
+ITL.: 150,000
+ITL.: 180,000
+non member of ISI.
+
+CI Ordinary fee - After June 1, 1993
+Q Reduced fee - By June 1, 1993
+QO Reduced fee - After June 1, 1993
+
+ITL.: 320,000
+ITL.: 170,000
+
+ITL.: 270,000
+
+O Ordinary fee - By June 1, 1993
+
+ITL.: 200,000
+
+Other participant
+
+ITL.: 320,000
+
+Q Ordinary fee - By June 1, 1993
+
+ITL.: 370,000
+
+Q Ordinary fee - After June 1, 1993
+O Reduced fee - By June 1, 1993
+
+ITL.: 220,000
+ITL.: 250,000
+
+QO Reduced fee - After June 1, 1993
+b) Accompanying person
+
+ITL.: 100,000
+
+O By June 1, 1993
+Q After June 1, 1993
+
+ITL.: 130,000
+
+c) Amount offees
+Participant fee
+
+os
+
+ie
+
+.
+
+Accompanying persons N°
+
+TOTAL A: TIL: sasasssemeeenennssssnnnnrssse
+
+B) Social program
+
+QI
+
+will attend the Welcoming Reception
+
+N° of pers.: .......++-
+
+(FREE).
+
+Q I will attend the concert
+Q Farewell party
+
+(FREE).
+
+ITL.
+
+70,000
+
+Q Verona
+/ Venezia (August 28th and 29th)
+
+| Lea swesawsressisccnsconeees
+
+x N° of pers.: «sm.
+
+ITLsnaunanesnen
+
+Q Pisa (August 28th afternoon)
+
+TTL.
+
+| 120,000
+
+xN* of pers: sosser TL ovsvvesseeerssseesses
+
+O Siena, S.Gimignano (August 29th)
+ITL:
+
+;
+
+95,000
+
+xN* of pers.: .........
+
+å EE
+
+105,000
+
+xN* Of pers.: cess. TL annennvonernrevernsrnser»e
+
+O Medici Villas (August 29th)
+
+ITL.
+
+TOTAL Bi ITL......essecseceeessesonson snsensonsoes
+
+C) Accompanying person's program
+
+Codes, prices and dates of excursions may be find in the Bulletin
+
+(please indicate the number and if necessary the letter).
+Q Excursion n? «sees» TTL. onnronveronserenssnser x N° of pers.: «mener»
+O Excursion n°
+
+... x N° of pers.:
+
+O Excursion n°.
+
+... X N° of pers.:
+
+x N° of pers.: «verne»
+
+Q Excursion n°
+
+... X N° of pers.:
+... X N° of pers.:
+
+Q Excursion n°
+O Excursion n?
+
+ies
+
+ITL.
+ITL.:.
+TOTAL CE TTL, sccsscsesaxssacsancssaensiistitonnnn
+
+D) Tours before and after the Session
+Prices, and dates of tours may be find in the Bulletin.
+a) Before the Session
+
+se X N° of pers.:
+Q Unknown Tuscany ITL.....
+... x N° of pers.:
+ITL. .....
+Q Tour of Sicily
+TTL. .ssssssserssvevssonsser x N° of pers.:
+Q Rome, Naples, ....
+b) After the Session
+
+Q Unknown Tuscany ITL.
+
+x N° of pers.:
+
+O Tour of Sicily
+
+ITL. ....
+
+.x N? of pers.:
+
+Q Rome, Naples, ....
+
+TE EEE
+
+weX NO Of pers.: sosser»
+
+TOTAL D: ITL. ...
+
+
+
+E) Hotel reservation
+Arrival date at the hotel:
+
+day ....
+
+Departure date from the hotel:
+
+day
+
+Deposit to be forwarded (price in Italian Lire; the deposit is equivalent at one night):
+-
+
+5-stars
+Q Single
+
+ITL.
+
+250,000 x
+
+N° of rooms:
+
+ITL:
+
+' Q Double
+
+ITL:
+
+310,000x
+
+N* of rooms:
+
+Mis
+
+O Single
+
+ITL.
+
+135,000 x
+
+N? of rooms:
+
+ITL.:
+
+Q Double
+
+ITL.
+
+190,000 x
+
+N° of rooms:
+
+ETL:
+
+ITL::
+
+4-stars
+
+3-stars
+
+Q Single
+
+ITL.
+
+90,000 x
+
+N° of rooms:
+
+Q Double
+
+ITL.
+
+150,000 x
+
+N° of rooms:
+
+ITL.:
+
+i
+
+2-stars
+
+Q Single
+
+ITL.
+
+60,000 x
+
+N° of rooms:
+
+ITL:
+
+Q Double
+
+ITL.
+
+100,000 x
+
+N° of rooms:
+
+ITL.:
+
+ITL.
+
+30,000 x
+
+N? of beds:
+
+ITL.:
+
+economy
+
+O(pricep.p.)
+
+For particular request, please, fax or phone
+
+TOTAL E: ITL. «oronrrnnvrnvernssonverne
+
+to CMO - NEW TOURS.
+
+F) Lunches
+
+woe X TTL. 15,000 = TTL: sossisvsnssneevenneesnenr»
+
+Q Lunch of August 26th:
+
+N*
+
+Q Lunch of August 27th:
+
+NO ssnornereneres X ITL. 15,000 = IT: ovsnnerververnrernrenn
+
+G) Satellite Meetings
+
+Persons interested in Satellite Meeting are asked to return the specific form attached to the brochure
+inserted in the Bulletin.
+
+O Satellite meeting in Perugia
+
+ITL.
+
+80,000
+
+Q Satellite meeting in Siena
+
+ITL.
+
+180,000
+
+H) Short Courses in Padua
+
+Persons interested in short courses in Padova are asked to return the specific form attached to the
+brochure inserted in the Bulletin.
+
+The payment can be made in ITL using this registration form or in US$ using the form attached to the
+brochure.
+
+Ordinary fee: one course ITL. 525,000; two courses ITL. 675,000; three courses ITL. 750,000
+Reduced fee: one course ITL. 450,000; two courses ITL. 525,000; three courses ITL. 600,000
+Student fee: — one course ITL. 225,000; two courses ITL. 300,000; three courses ITL. 337,500
+TOTAL H: ITL. .....ssccsrescsesencesecesconsscoee
+
+go EE
+
+GENERAL TOTAL (A+B+C+D+E+F+G+H):
+
+The payment should be made in ITL. (Italian Lire) in one of the following forms:
+Q I enclose a Personal or Bank cashier's cheque made out to CMO
+
+QI enclose a Bank transfer to Cassa di Risparmio di Firenze - Agenzia 8 - Via il Prato, 2, Firenze,
+account 11164/00
+
+Q I enclose the appropriate amount of Unesco coupons
+Q Lauthorize the debit of my credit card.
+
+When paying by credit card, please provide the following information:
+I authorise the debit of my credit card:
+
+Q American Express
+
+Q Visa
+
+QO Diners
+
+DQ Eurocard (Master Card)
+
+Card number:
+
+Expiration date:
+
+for the amount of ITL.:
+
+DE
+
+Signature:
+
+Comments, if any:
+
+. Date: soosesorennevesennesessenseneenes
+
+Signature:
+
+
+
+22
+
+ob
+<D TROMSØ
+
+Preliminary Programme
+Version January 1993
+
+The 8th
+
+Scandinavian
+Conference on
+Image Analysis
+
+[API
+May 25-28, 1993
+
+University of.Tromsø
+
+Workshop
+
+Invitation to the 8th SCIA
+The 8th Scandinavian Conference on Image Analysis will be arranged by the Norwegian Society for
+
+Image Processing and Pattem Recognition (NOBIM) and sp
+
+d by the Inter
+
+I Associ-
+
+ation for Pattern Recognition (IAPR). The conference will be held in Tromsø from 25th-28th May
+1993.
+
+Tromsø, located at latitude 69°40’ N, is
+
+Northem Norway's centre for administration and
+education.
+
+About the Programme
+The scientific programme runs over four days and
+includes 6 invited speakers, 29 sessions in three
+parallell tracks with 127 contributed papers and 4
+
+poster
+
+with 44
+
+ibuti
+
+ence covers the following topics:
+
+The confer-
+
+Q Image Processing and Analysis
+
+© Parallel Algorithms and Architectures
+
+© Matching Methods
+
+} Image Compression
+
+©} Remote Sensing
+and
+
+Biological
+
+with the
+
+a
+
+Accommodation
+Reservation for hotel accommodation can be made
+on the registration form. The 8SCLA Conf
+iat at SAS Luftreisebyrå, att. Bodil Laufor the
+dation
+ritsen, will provide hotel
+
+workshop on
+
+will be
+recog:
+methods in pattern
+I
+arranged on monday 24th by IAPR TC1. For furhop contact
+ing the
+å
+ther inf
+Torfinn Taxt, Chairman TC1, Univ. of Bergen,
+N-5000 Bergen, Norway.
+Phone: +47-5-206334
+Fax: +47-5-206360
+E-mail: Torfinn.Taxt@cc.uib.no
+
+participants.
+
+Rooms are available for participants at the follow-
+
+ing hotels:
+
+SAS Royal Hotel*
+
+Grand Nordic Hotel*
+With Home Hotel
+SAGA Hotel
+Polar Hotel*
+Tromsø Hotel*
+Skipperhuset Pension
+Hotel Nord
+Private Accommodation
+
+Registråtion Information
+
+The registration fee will be 3500 NOK before 15th
+March 1993, and 4000 NOK thereafter. The fee
+covers proceedings, entrance to all oral and poster
+
+sessions, exhibition, lunches and coffee breaks,
+
+get-togetherparty,en
+
+and banquet. Fees for
+
+arep
+
+d in the regis-
+
+Appli
+
+9 Industrial Applications
+
+Conference Language
+“the
+official I
+of the
+
+conf:
+
+is
+
+English
+
+Kroner (NOK) by SWIFT to "XIANNOKKTRM"
+or Bank Giro Service at Bank Account: 6420 05
+13353, "SAS Conference FORUT", Christiania
+Bank og Kreditkasse (Private cheques will not be
+accepted.) or by the following credit cards: VISA,
+Mastercard, Eurocard, Diners, Access, American
+Express. Please note: For payment with SWIFT
+and Bank Giro Service made from abroad, please
+add banking fee of NOK 60,-. Please remember to
+state 8SCIA and your name on allmoney transfers!
+Ca
+
+Invited Talks and Speakers
+Technology transfer of computer vision
+Professor Ralph Gonzalez
+
+University of Tennessee, Knoxville
+
+Range Imaging
+Professor Anil K. Jain
+Michigan State University
+Robotics
+
+Dr. Judd Jones .
+Oak Ridge National Laboratory
+
+Image Compression
+
+Professor Tor Ramstad
+
+1
+
+of Regi:
+
+upon1 writNOK will be refundedby May
+pee:of 200notice
+(the
+of cancellation
+fee after ded
+
+ten or cabled
+refund will be made after the conference). After
+be made. All printed concan
+refund
+May 1 no
+ference d
+Å
+to the registration
+will,
+however,be forwarded to persons who forfeit their
+
+registration fee.
+
+Registration and Information
+
+available all
+will be
+The C
+four days of the conference for registration and
+information.
+
+May 24th, 1600:2000, in the SAS Hotel.
+
+University of Trondheim
+
+May 25th-28th at the University.
+
+Statistical Methods
+
+pepe
+
+University of Surrey.
+Matching Methods
+Professor A. Sanfeliu
+Polytechnic University of Catalonia
+
+of a handling
+
+hibition
+
+of
+
+rek
+
+li
+
+will be ar-
+
+i Publishers are invited to exhibit their
+products: A visit to local companies and institu-
+
+tions involved in the field (mostly remote sensing)
+will be arranged.
+
+. Single
+
+Double
+
+1015,975,870,680,680,330,300,150,-
+
+1175,1085,-1045,800,800,410,400,200,-
+
+1190,-
+
+1390,-
+
+Social Events
+
+150,- for accompanying persons)
+
+Tuesday, May 25th: Fishing trip. The tour will
+mid
+
+sun
+
+will visit us. On board the boat there will be
+.
+
+music, food and drink by choice. We bring fishing
+rods andit will be possible to have our own fish
+prepared on board. (NOK 400,-)
+Spouse programme: Visit by cable car to Storsteinen 420 meters above sea level, visit to the
+Arctic Cathedral, and visit to Tromsø Museum.
+
+(NOK 205,-)
+
+to LongyearWednesday, May 26th: Night charter
+
+byen, Svalbard. Svalbard consists of three arctic
+islands that lie between 74° and 81°N. Two-thirds
+
+of the 63 000 square kilometres surface is covered by glaciers. Longyearbyen, the administrative centre of Svalbard, is located 1200 km above
+km from the North Pole
+the Arctic circle and 1300
+at 78° 15 N - 10° 35 E. The total settlement on
+Svalbard is 1100 Norwegians and 2500 from the
+former Soviet Union. The main (Norwegian) settlement is Longyearbyen (1050 inh.) with airport
+and all — a modern settlement requires. The
+to
+particip
+of
+number
+ini
+i
+tour
+
+“be accomplished. (NOK 1750,-)
+Spouse
+
+to a fishfarm
+Visit
+
+roundings of Tromsø.-(NOK 170,-)
+
+ing per-
+
+Visit to the Norther Lights
+
+Planetariumn and the Polar Museum. (NOK 180,-)
+
+‘The spouse programs need a minimum of 15 participants to be arranged.
+
+Post conference tours with visit to Lyngen or Finnmark and Norh Cape will also be arranged. For
+more information about the social program and the
+post conference tours see the registration form and
+registration
+
+form.
+
+temperature of 20*C to snowstorms with tempera-
+
+Monday, May 24th: Get-together party. (included in the conference fee for delegates, NOK
+hopeful y the
+
+Spouse
+
+P
+
+g
+
+fee for
+
+included with the
+
+room per night).
+
+last for 5-6 hours and
+
+fe
+
+sons NOK 500,- )
+
+Weather and Dress
+The weather in Tromsø in late May can be everything from 24 hour sunshine with a maximum
+
+* Reduced weekend rates available (All prices per
+
+All payments must be made payablein Norwegian
+
+© Neural Nets
+
+Medical
+
+jon
+
+trationform.
+
+© Pattem Recognition
+
+& Computer Vision
+
+}
+
+In
+
+in the sur-'
+
+Thursday, May 27th: Banquet. (Included in the
+
+theref
+Itis
+frezing.
+tures below
+to bring some warmer clothes.
+
+Local Information
+Tromsø, located at nearly 70° North, is Northem Norway's centre for administration and education. The populationis approximately 50 000. In
+Tromsø you can take part in many activities from
+ing
+
+in the
+
+midnight sun to late night
+
+fun in international restaurants and bars. An aflocal beer in the Beerhall of the world's
+northemmost breweryis also recommended. More
+included with the regcity is
+the
+about
+ion
+istration form.
+
+The 8th Scandinavian Conference on Image Analysis (8SCIA) will be held at the university campus
+at the world’s northemmost university. There will
+be conference buses going to the campus from
+within walking distances of all the hotels. More
+and transabout the I
+jon
+port will be available at the conference hotels.
+
+:
+Travel Information
+Tromsø Airport at Langnes is only 7-8 minutes
+The travelling
+Tromsø.
+of
+centre
+drive from the
+distance from Oslo is 1 hr 40 minutes.
+SAS Conference Support Tromsø offers airticket
+services for the conference. In addition to all standard terms full and reduced fare tickets from Europeand | overseas, (reduced fares require that you
+S
+b
+Scandinavia the night
+stay in
+-we can offer additional conference
+ånd Sunday),
+fares for SAS flights from SAS destinations within
+
+Scandinavia, and reduced fares on Norwegian domestic flights. If you want to make use of this
+service please contact Bodil Lauritsen at the Conference Secretariat.
+
+
+
+uoneuodsuen
+
+;
+
+so8euy
+
+Jursa301q
+
+ay) Sjuedransed
+
+L
+
+"SUOIS as
+
+40 GNA
+
+I 10553J014
+
+|uonmu.020y
+
+0091
+
+0091 :0p51
+OPST:07S1
+
+0£01:0£60
+
+OTT I:SHOL
+
+|a'r
+
+o0E F'OTIT |Vif
+
+O PT-O0ET
+
+OZSI:00r1
+
+amp 18 PJDY OG [ 1M SUOISSIS Tetresed ,
+
+joquidg
+
+poy auy
+
+| UolstA GE
+
+:aYLIdS
+
+€661 87 few Kepuy
+
+STLI'0 L1
+O0LIOPST
+
+I
+
+|D'E
+| uorstA GE
+
+OPST'OTS
+
+O€01:0€60
+
+LT Av
+
+0£60:0£80 Kopsuny
+
+OTT SPOT
+
+OS 1:00P I|EE
+| uonoN
+amyxag
+
+|VE
+
+£661
+
+0 FT0 €T F:OTIT
+OOE
+|
+
+poytauy
+
+paytauy
+
+|
+
+Åreuaay)jd Je aay)s1MIDYIO JayJu JO ‘PswIO3I1],0J2Q JoJmO! 2NU20 sou; AU)YB) UT Pay210J2104) IG [J.M[JIM suOIssosFurusow Åreuajay)d ur
+
+SONA SANOD
+
+, Uonenodsuesy,
+
+| Uors asduno) youn]
+
+yeoiq 2 305)
+
+67 wes 210WI ase 2107) JJ "sndure;) ÅNSJATUN
+
+sng *41519410N
+
+y191504
+
+2 0219JU0)
+
+| yeog adeyg2005
+
+yonbueg
+
+peonsnelg
+
+29130
+
+youn]væ8dg apeag
+
+y€21q e705
+
+_ Uonenodsuesy
+
+|spoyay
+
+ye2IQ
+
+:oyeods
+
+:UINEIÅS
+V LV BONAYA NO D
+
+TINY 'f JOs ayorg
+
+ures “yy 105 3J0rg
+
+_|Suwon
+
+| uoneuawdag
+
+€191504
+
+uonow
+
+oSuey
+
+2deur ‘peisurey
+
+[EDNSNEIG
+
+uorssasduro;)
+
+oem]
+
+o8uey
+
+åurdeur
+
+SpoIpa-
+
+HONVTO
+
+i
+
+'
+
+[
+
+Ieorojorgyworpay
+
+spoyie
+
+Z191504
+
+Bursesiy3ts
+
+. uoneyodsuesy,
+
+ueBseqzyidg
+
+| Sutsuysrgeasq 3 31100w)aYy
+
+(E/091218
+
+yeosg 290)
+
+:
+
+“y 10S 3JOM
+
+| *sd y yeunsnpuy
+
+STLI:0 LI
+
+OPSO LV:OPST [:0ZET |DZ
+
+art
+|
+
+T
+
+|OT
+
+|WZ
+
+OZS ::1000£v II az
+
+0091
+
+£661
+
+O ET‘OZIT
+
+pz ABW
+
+0 02:0 91 Kepuoy
+
+€6 1 ST ABW ‘Aepsany
+
+0£60:5160
+
+0£01:0£60
+
+OOLT
+OZEL:SPOT SPOT
+
+|VI
+
+10£ I
+00v :0
+
+|ozst:0 p
+
+OPS
+
+O LT‘OPST FOTS
+
+STLT:0 LI
+
+£6 1 97 AEA ‘Kepsaupay,
+
+0£60:0£80
+
+0£01:0£60
+
+OTI VSPOL
+
+| uonop
+
+.
+
+O EL:OZI
+
+GE/021 5
+
+Jurys
+
+|
+
+:oyeods powauy
+
+| uoneuawdag
+
+| seuanbagmonow
+
+32J 0J)
+
+seu
+
+| WOISIA
+
+Jo saJsur.n
+
+:soyveds poyauy
+
+199/90
+
+A30[0uysa
+
+‘suo 'f “Iq :soxeods paraup
+å Uonvuodsuery
+|swoisk¢/o nyoryyeosq
+
+| Buys ao0ug
+
+| ‘ud0s0y
+
+younT
+
+din 3urgsyeog
+
+‘nipoyues
+
+| SION youn][eMaN
+-
+
+|191504
+
+s210Q0Y
+Suryoyepy
+
+| UOISIA
+
+sonoqoy
+
+spoynay
+
+[eoIpayy
+
+y3nopy
+
+‘D'y JOs ayorg
+
+Ays 9a1tun yeo1q au) 218JJ0I uonensiday
+Uorsta saynduro
+
+ZaezUOD
+
+uors ag Suruado
+Aured-1o412801-190
+
+V IV HONHYINOD
+
+19104 SVS ou) 18 uonensiday
+HONVTO
+
+
+
+pant. Completed registration form
+
+Delegate: []
+
+Accompanying Person: [[]
+
+(Please tick for right category)
+
+Workshop on contextual methods in pattern recognition, Monday, May 24th: []
+NOK 3 500,March 15th 1993
+NOK 4000,-
+
+Conference fee, delegates:
+Deadline for registration (No refund after May 1st) :
+After March 15th, the conference fee will be
+
+Social Events:
+
+(Please tick for participating!)
+
+[] Get-together Party, Monday, May 24th
+
+(Included in the conference fee/
+
+NOK 150 ,- per accompanying person)
+
+|
+
+NOK 205,- *
+NOK 170,-*
+NOK 180,-*
+
+CI Accompanying Person Programme, Tuesday, May 25th
+Accompanying Person Programme, Wednesday, May 26th
+[] Accompanying Person Programme, Thursday, May 27th
+CJ Boat-trip, Tuesday, May 25th
+
+[_] Banquet, Thursday, May 27th
+
+|
+
+-—
+
+NOK 400 ,-
+
+(Included in the conference fee /
+
+NOK 500 ,- per accompanying person)
+
+[] Night Charter - Svalbard, Wednesday, May 26th
+[ ] Post Conference Tour, Lyngen
+[ ] Post Conference Tour, Finnmark/ North Cape
+
+NOK 1750,- *
+NOK 895,-*
+NOK 4250,- *
+
+Total amount for my participation:
+
+NOK
+
+*A minimum number of participants is required to accomplish these tours. In case of cancellations, full refund will be given
+upon arrival.
+Further information is given on the enclosed description for the events / tours.
+
+Payment:
+
+Payment can be made by : SWIFT to "XIANNOKKTRM" or Bank Giro Service at Bank Account:
+6420 05 13353, "SAS Conference FORUT", Christiania Bank og Kreditkasse
+(Personal cheques will not be accepted.)
+
+American Express []
+or by credit card: VISA [] Mastercard [] Eurocard CJ Diners] Access [_] ture:
+==
+Account Number:
+
+/“
+/
+
+= — — — — — — — — — Expiration Date: —
+
+Signa
+
+Forpayment with SWIFT and Bank Giro Service made from abroad, please add banking fee of NOK 60,Please remember to state 8SCIA and your name on all money transfers!
+
+
+
+920
+
+-
+
+Accommodation:
+
+(Weekend=Friday-Sunday). Deadline for cancellation of the hotel room: 24 hours before arrival.
+
+If you would like us to book your accomodation in Tromsø, please fill in the following:
+
+Dateofarrival: ==
+
+Date ofdeparture:
+
+9
+
+SAS Royal Hotel
+Grand Nordic Hotel
+With Home Hotel
+SAGA Hotell
+
+[1] Single å 1190,- / weekend 750,- [] Double å 1390,- / Weekend 900,[7] Single å 1015,- /weekend 760,- L] Double å 1175,- / Weekend 880,[] Double å 1085,[] Single å 975,- 11 Double å 1045,[1] Single å 870,-
+
+Tromsø Hotell
+
+[] Single å 680,-/ weekend 450,- [] Double å 800,-/ Weekend 550,-
+
+Polar Hotell
+
+Skipperhuset Pension
+Hotel Nord
+Private Accomodation
+
+[] Single å 680,-/weekend 450,- [1 Double å 800,-/ Weekend 550,[] Single å 330,[1] Single å 300,Å] Single å 150,-
+
+|
+
+[] Triple å 480,[Triple å 500,-
+
+LJ Doubleå 410,[1] Double å 400,[] Doubleå 200,-
+
+Payment for your accommodation is to be made upon arrival!
+I will arrange accommodation on my own: []
+If my first choice is not available, |wishtostayat:
+
+(Please fill in)
+
+Airtickets: SAS Conference Support Tromsø offers airticket services for the conference. In addition to all standard
+terms full and reduced fare tickets from Europe and overseas, (reduced fares require you stay in Tromsø
+the night between Saturday and Sunday), we can offer additional conference fares for SAS flights from
+
+SAS destinations within Scandinavia and redused fares on Norwegian domestic flights. If you want to
+make use of this service please fill in the following or contact SAS Conference Support at the adress below:
+
+Point of departure andreturn: SL
+
+Date of departure:
+
+|
+
+Date of return:
+
+|
+
+I will arrange airtickets on my own: [] (Please tick!)
+
+/ For further congress information, please contact:
+Kjell Arild Høgda, 8SCIA Local Chair,
+FORUT Information Technology Ltd, N-9005 Tromsø,
+Telephone: +47 83 58 622. Telefax: +47 83 82 420
+E-mail: scia@ conan.uit.no
+
+|
+
+/ Please forward this registration form to:
+SAS Coneference Support, Att: Bodil Lauritsen
+
+P.O. Box 437, N - 9001 TROMSØ,
+Telephone: +47 83 10 700. Telefax: +47 83 10701
+
+Date and signature: i
+
+gt
+
+ad en
+
+
+
+ARSBERETNING
+
+STATISTISK
+
+FORENING
+
+1992
+
+OSLO
+
+CSFO)
+
+:
+
+Følgende ble innvalgt i styret i SFO for 1992:
+
+Leder :
+Styremedlemmer :
+
+Doris Tove Kristoffersen
+
+(gjenvalg)
+
+Frøydis Bjerke
+
+(gjenvalg)
+
+Per Lea *
+
+(gjenvalg)
+
+Marit Bragelien Veierød
+Ole Fugleberg
+Rune Winther
+
+Revisorer :
+
+Leiv Solheim
+
+(gjenvalg)
+(gjenvalg)
+(Ny)
+
+(gjenvalg)
+
+Styret konstituerte seg med Doris Tove Kristoffersen som leder, Marit
+
+Bragelien Veierød som kasserer og Rune Winther som sekretær. Det har
+vært avholdt
+
+1 styremøte.
+
+Den relativt lave oppslutningen på medlemsmøtene gjorde at styret bestemte
+å sende en forespørsel til medlemmene for å avgjøre hvem som ønsket
+innkalling til hvert medlemsmøte. Resultatet var at av de totalt 199
+medlemmene så er det bare 68 som ønsker innkalling til hvert medlemsmøte.
+Dette har sterkt redusert både arbeid og kostnader ved å innkalle til
+medlemsmøter, uten at oppslutningen på møtene har blitt noe dårligere. Alle
+får selvfølgelig innkalling til årsmøtet.
+
+Foreningens regnskap for 1992 er revidert og godkjent, og blir fremlagt på
+
+årsmøtet 22/2-93.
+
+Foreningens aktiviteter i 1992 :
+
+Nycomed 27/2-92
+
+:
+
+Årsmøte, foredrag v/ Eva Skovlund, UiO.
+
+PFI 7/5-92
+
+:
+
+Medlemsmøte; foredrag v/ Per Lea, Matforsk
+
+Blindern 10/9-92 :
+
+Medlemsmøte, foredrag v/ Grete Fenstad, UiO
+
+Nycomed 19/11-92 :
+
+Medlemsmøte, foredrag og vinsmaking v/ Petter
+
+Mowinckel, Medstat Research.
+
+Fremmøtet har variert mellom 8 og 20 personer.
+
+Styret vil takke Nycomed og PFI for hjelp med møtelokaler.
+
+For styret
+
+Rune Uhhh
+Årsmøte i SFO
+
+kunne det kanskje være av inMandag 22/2-93 avholdt SFO årsmøte, og i den forbindelse
+n i neste utgave av TG.
+etninge
+mmens
+styresa
+nye
+den
+og
+teresse å ta med årsberetningen
+Styret består nå av følgende personer :
+
+Leder : Anne Marie Fenstad, Norsk Regnesentral.
+.
+
+Styremedlemmer :
+
+Geir Storvik, Norsk Regnesentral.
+Liv Belsby, Statistisk Sentralbyrå.
+Hans Fagerthun, Medstat Research.
+Rune Winther, Mat. Inst. UiO.
+
+
+
+-
+
+4U
+
+NYTT FRA UNIVERSITETER OG
+HØYSKOLER.
+NYTT FRA UNIVERSITETET I OSLO
+Uteksaminerte cand. scient.
+Magne Thoresen : “En sammenligning av parametriske og ikke-parametriske
+estimatorer i en Gompertz fordeling”
+Veileder : Grete U. Fenstad
+
+Bente Oftedal : * Vekting i den lineære modellen for overlevelsesdata”
+Veiledere : Odd Aalen og Ørnulf Borgan
+
+Dr. scient.
+Geir Storvik forsvarte 19. februar 1993 sin avhandling :
+“A Bayesian Approach to Dynamic Contours and
+Data-reduction by projections for multivariate spatial tmages”
+
+Veileder: Erik Bglviken, Matematisk institutt, Universitetet i Oslo
+Komité: Mats Rudemo, Den Kongelige Veterinzr- og Landbohgjskole,
+Danmark, Torfinn Taxt, Fysiologisk institutt, Universitetet i Bergen
+og veileder.
+
+Publikasjoner
+
+Grete U. Fenstad & Eva Skovlund : “The Behrens-Fisher problem; Acom-
+
+parison of test properties when observations are not necessarily normal” Statistical Research Report No. 11, 1992
+
+Jørund Gasemyr: “Reliability analysis in shock models”, Statistical Research
+Report No. 11, 1992
+
+of
+Ø. Borgan, L. Goldstein & B. Langholz : “Methods for the analysis.
+
+sampled cohort data in the Coz proportional hazards model”, Statistical Rese-
+
+arch Report No. 7, 1992
+
+Arne Bang Huseby & Jørund Gåsemyr : "Optimal project acceleration
+policies - a Bayesian approach”, Statistical Research Report No. 1, 93
+
+NYTT FRA UNIVERSITETET I TRONDHEIM
+Institutt for matematikk og statistikk - AVH
+Ansettelse:
+Bjørn Helge Handegård er ansatt som vit.ass. for 1993.
+Jan Helge Moen er ansatt som vit.ass. for 1993.
+
+
+
+FØRSTEAMANUENSISSTILLING I STATISTIKK ledig ved Sosialøkonomisk institutt,
+UiO.
+
+|
+
+Nærmere opplysninger: v/kontorsjef Tone Lund, tlf. 22855125
+L.tr.: 22 Søknadsfrist: 16. april 1993
+
+Førsteamanuensisstillingen er knyttet til Sosialøkonomisk institutt ved Det samfunnsvitenskapelige fakultet.
+
+Sosialøkonomisk institutt har for tiden en statistikergruppe med 5 vitenskapelige stillinger. Gruppen har ansvaret for undervisningen i statistikk grunnfag og for statistikkundervisningen innenfor det sosialøkonomiske studium. Det gis også undervisning innenfor
+fakultetets doktorgradsprogram, herunder eget studieopplegg i statistikk.
+Det kreves vitenskapelige kvalifikasjoner i teoretisk eller anvendt statistikk. I samsvar
+
+med de innførte reglene om minstekrav til forskningskompetanse for å bli tilsatt i fast
+stilling, kreves det for denne stillingen enten doktorgrad i statistikk eller tilsvarende
+kvalifikasjoner i faget. Dersom det ikke melder seg noen kompetent søker, kan det bli
+aktuelt å tilsette i midlertidig amanuensisstilling for inntil 3 år (l.tr. 15-21).
+Nærmere presisering av ansvarsområde, plikter og andre forhold som det vil bli lagt vekt
+på ved besettelsen, er inntatt i betenkningen som kan fas ved henvendelse til Sosialøkonomisk institutt, postboks 1095 Blindern, 0317 Oslo.
+
+I henhold til gjeldende regler vil det ved vurderingen ved siden av de vitenskapelige og
+faglige kvalifikasjoner, bli lagt vekt på pedagogiske kvalifikasjoner, undervisnings- erfaring
+og eventuell kvalifiserende virksomhet av annen art.
+
+Dersom flere søkere anses å ha likeverdige kvalifikasjoner etter at både de vitenskapelige og faglige kvalifikasjoner og de pedagogiske kvalifikasjoner har vært vurdert, vil en
+kvinnelig søker bli stilt foran en mannlig søker.
+
+|
+
+Soknaden må inneholde fullstendige opplysninger om søkerens utdanning, de stillinger
+
+vedkommende har hatt, og annen faglig virksomhet søkeren har vært opptatt av. De
+vitenskapelige arbeider, en liste over disse og kopi av søknaden med attester sendes
+Sosialøkonomisk institutt Postboks 1095 Blindern 0317 Oslo
+
+
+
+Medlemskap i Norsk Statistisk Forening
+Kontingenten i foreningen er på kr. 90 pr. år for regulære medlemmer og kr. 30
+for studenter. Korrespondanse om medlemskap og innbetaling av kontingent
+
+shal el foreningene kasserer
+
+Norsk Statistisk Forening v/Ole Lauvskar
+
+Vital Forsikring
+5020 Bergen
+
+Innbetalinger skal gjøres på foreningens postgirokonto 0802 5 15 10 55. Medlemmer
+som er usikre på når de betalte kontingent sist, vil nederst til høyre på adresseseddelen for Tilfeldig Gang finne angitt hvilket år siste betaling er registrert for. Vær imidlertid oppmerksom på at adressesedlene for bladet ligger noe
+etter ajourføringen av medlemsregisteret, slik at nylig foretatte innbetalinger
+ikke vil være tatt med her.
+
+Nye medlemmer melder seg til kassereren under adressen oppgitt ovenfor. Slike
+medlemmer får automatisk tilsendt Tilfeldig Gang, med forbehold om at det
+tar noe tid før tilføyelser og forandringer i medlemsregisteret gjenspeiler seg i
+adressesedlene til bladet. Adresseforandringer meldes også til kassereren. Ved
+utsendelsen av Tilfeldig Gang benyttes det kopier av det vanlige medlemsregisteret, så adresseforandringer behøver ikke meldes separat til bladet.
+Annen korrespondanse med foreningen skal foregå med formannen under denne
+
+adressen:
+
+Norsk Statistisk Forening v/Trygve Nilsen
+Matematisk institutt
+
+Universitetet i Bergen
+Allegt. 55
+
+5007 Bergen
+
+Bidrag til Tilfeldig Gang.
+Neste nummer av Tilfeldig Gang vil forhåpentligvis komme ut i juni 1993. Alle
+
+slags bidrag til bladet er velkommen, enten det gjelder nye temaer av interesse
+
+for norske statistikere, eller man har kommentarer til innlegg som allerede har
+stått i bladet. Stoff til neste nummer må være redaktøreni hende senest 1. juni.
+Det kan gjerne sendes som ASCII-filer, eventuelt tilpasset IATpX, på diskett eller
+med elektronisk post. Redaktørens adresse er:
+Tilfeldig Gang v/Jan Bjørnstad
+Institutt for matematikk og statistikk
+Universitetet i Trondheim
+Den allmenvitenskapelige høgskolen
+7055 Dragvoll
+Telefonnummer 07591751.
+
+Elektronisk post: Jan.Bjoernstad@avh.unit.no
+For IATpX-dokumenter: Inger.SeehuusQavh.unit.no
+
+
+
+
+
+Returadresse:
+Tilfeldig Gang v/ Ole Lauvskar
+Vital Forsikring A.S
+5020 Bergen
+
+
+

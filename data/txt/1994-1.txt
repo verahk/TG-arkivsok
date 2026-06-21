@@ -1,0 +1,5741 @@
+ISSN 0803-8953
+TILFELDIG GANG
+
+Nr. 1, årgang 11
+
+Mars 1994
+
+Utgitt av Norsk Statistisk Forening
+
+Fra redaktøren. Inge Helland
+Fra formannen. Eivind Damsleth
+Siden sist
+
+Nekrolog over Erik Torgersen. Ørnulf Borgan og Anders Rygh-Swendsen
+Høylands - 55 årsverk statistikk ved NTH!
+Notiser
+
+Scientific statistics (fra RSS News). George Box
+Om Scandinavian Journal of Statistics.
+
+Competition for young statisticians from developing countries
+Konferanser
+
+15. nordiska konferensen i matematisk statistik, Lund, 15-19.8.94
+
+50th Session of the International Statistical Institute, Beijing, 21-29.8.95
+Meldinger
+
+Statistisk Forening i Bergen, Årsberetning
+Nytt fra Universitetene i Oslo og Bergen
+Medlemskap i Norsk Statistisk Forening
+Bidrag til TG
+
+Bilag
+
+Brief Information on Current Unpublished Statistical Research in
+Scandinavia.
+
+
+
+
+
+Fra redaktøren
+
+Siden sist har en kollega ved Universitetet i Oslo gått bort. Et kjent statistikerpar ved
+Universitetet i Trondheim, NTH går av med pensjon i disse dager; se omtale inne i bladet.
+
+På denne bakgrunnen kan det være naturlig å spørre seg om vår generasjon statistikere
+virkelig er klare til å ta over ansvaret nå. At vi er nødt til å ta dette ansvaret, er én ting; det
+
+kan likevel være nyttig å reflektere litt over hva det innebærer. Selvfølgelig vet jeg at det
+finnes mange dyktige statistikere både av min egen generasjon og yngre. Ikke desto mindre
+bør man ha i mente at de ideelle kravene som stilles til en statistiker egentlig er ekstermt
+store. Vi skal dekke hele spennet fra den tyngste teorien på den ene siden over til den
+praktiske dataanalysen på den andre, med alle sine krav til kompromissvilje og helhetssyn,
+med hele spekteret av fagfelter som anvendelsene skal tilpasses.
+
+Et skotsk statistiker sa engang til meg at etter hans syn fantes det bare to briter som
+fullt ut var i stand til å foreta skikkelige faglige vurderinger samtidig ut fra et teoretisk
+statistisk synspunkt og ut fra et praktisk statistisk synspunkt: David Finney og David Cox.
+Dette kan nok være en overdrivelse, men noe av realiteten det dekker, er jeg enig i: Det er
+
+langtfra noen triviell oppgave til enhver tid å kunne vurdere på en fornuftig måte statistiske
+spørsmål samtidig både fra et akademisk og fra et anvendt siktepunkt.
+
+Blant nålevende amerikanske statistikere nevnes av og til George Box på samme måte
+
+som de to David'ene ble trukket fram av min skotske kollega. Kommentaren fra George Box
+gitt i klipp fra RSS News inne i bladet kan naturlig knyttes til betraktningene over, og
+fortjener å bli diskutert.
+
+Neste nummer av TG kommer forhåpentlig i juni, på en tid da alle har god tid til å lese
+
+det innlegget som du har skrevet. Spesielt er det ønske fra lesere om stoff om statistiske
+programpakker. Spaltene er åpne.
+Inge Helland
+
+
+
+Fra formannen:
+
+NORGE - ET U-LAND FOR STATISTIKERE ?
+
+Forleden mottak jeg, som formann i NSF, brev fra ISI (International Statistical
+Institute) hvor det bl.a. heter:
+
+*I am pleased to inform you that the International Statistical Institute has announced the Sixth Competition for Young Statisticians in Developing Countries who
+are invited to submit papers for possible presentation at the 50th Session of the ISI,
+to be held in Beijing, China in 1995. Please find enclosed the announcement of the
+competition.
+
+I am writing to invite your valuable co-operation to assist the ISI in giving the
+widest possible publicity to this competition. It would be very much appreciated if
+you were willing to circulate copies of the attached announcement to those places
+in your country where young statisticians may be located such as universities, research institutes, banks, industrial enterprises, and the like, for display on there
+announcement boards and publication in their bulletins.”
+
+Og i selve utlysningen står det: *Participation in the competition is open to nationals
+of developing countries who are living in a developing country, who were born in 1963
+or later.”
+
+Antakelig er dette et standardbrev som er sendt ut til alle ISI medlemmer, og det
+er muligens litt paranoid av meg å finne henvendelsen litt malplasert. Riktignok
+er Norge et lite land, og det er forholdsvis langt mellom de norske representantene
+
+blandt fagets *verdensstjerner”, men karakterisere oss som et U-land føles noe
+ufortjent! Imidlertid, la oss se på brevet fra ISI som en utfordring til å plassere
+Norge enda sterkere på det statistiske verdenskartet!
+11. januar 1994
+
+Eivind Damsleth
+
+PS: Annonseringen er gjenngitt annetsteds i dette TG, hvis det er noen aktuelle
+stipendiater eller lignende som er i kontakt med enkelte NSF medlemmer.
+
+
+
+Erik Nikolai Torgersen
+
+Med sorg har vi mottatt budskapet om at professor Erik Torgersen er død, 59 år
+gammel. Med hans bortgang har Universitetet i Oslo og norsk matematisk statistikk
+
+mistet en forsker med stor internasjonal anerkjennelse og kontaktflate.
+Erik Torgersen tok embetseksamen ved Universitetet i Oslo i 1962 med statistikk som hovedfag. Etter et par år som universitetslektor dro han til University of
+California, Berkeley, hvor han tok sin doktorgrad i 1968. Siden 1970 var han ansatt
+ved Matematisk institutt, Universitetet i Oslo, først som universitetslektor, deretter
+som dosent fra 1973 og professor fra 1978. I flere perioder var han statistikernes representant i styret ved Matematisk institutt og i Fakultetsrådet. Han ble innvotert
+som medlem av Det Norske Videnskaps-Akademiet i 1986.
+
+Erik Torgersens forskning har særlig konsentrert seg om et av grunnlags-problemene
+innen matematisk statistikk: Hvordan kan informasjonsinnholdet i en statistisk modell karakteriseres og sammenlignes med informasjonsinnholdet i andre modeller?
+Hans doktoravhandling, som i sin helhet ble publisert i et sentralt internasjonalt
+tidsskrift, tok for seg dette problemet når parameterrommet til modellen er endelig. I
+årene som fulgte publiserte han en rekke arbeider der andre sider av problemområdet
+ble grundig utforsket. I 1991 oppsummerte han sin mangeårige innsats på feltet i en
+omfattende monografi, ”Comparison of Statistical Experiments”, som er blitt den
+
+sentrale referansen innen dette området av matematiske statistikk.
+Erik Torgersens forskning var høyt spesialisert, og i det norske statistikker-miljøet
+er det bare et titalls personer som har god oversikt over hans forskningsinnsats. Det
+var derfor naturlig at han var internasjonalt orientert. I hele sitt yrkesliv hadde
+han en nær kontakt med statistikk-miljøet ved University of California, Berkeley, og
+han var en hyppig gjest der. Han hadde også nær kontakt med andre amerikanske
+statistikere og fagfeller i andre land, særlig Tyskland og Polen. Hans sterke internasjonale posisjon ble bekreftet ved at han har vært medredaktøri flere internasjonale tidsskrifter. Han ble i 1984 valgt til Fellow i Institute of Mathematical
+Statistics og har vært norsk medlem av International Statistical Institute.
+Erik Torgersen ble revet bort midt i en aktiv periode i sin forskerkarriere. På hans
+skrivebord er det flere påbegynte og delvis fullførte arbeider. Til det siste arbeidet
+han sammen med to amerikanske kollegaer med å redigere en større artikkel-samling
+for Springer Verlag.
+
+Erik Torgersen vil bli husket med dyp respekt av alle kolleger ved Matematisk
+institutt. Han var rettskaffen, ærlig og grundig både som forsker og kollega. Våre
+tanker og dypeste medfølelse går til hans kone, Liv, og deres to barn.
+
+Ørnulf Borgan
+Anders Rygh Swensen
+
+
+
+Høylands — 55 årsverk statistikk ved NTH!
+Professor Arnljot Høyland fylte 70 år 19. februar 1994 og fratrådte da sin professor/seniorforsker-stilling i matematisk statistikk ved Institutt for matematiske fag,
+NTH. Førsteamanuensis Liv Høyland fylte 68 år 19. januar og fratrådte sin stilling
+
+i matematisk statistikk ved NTH den 1. mars.
+
+Ekteparet Høyland har stått helt sentralt i etableringen og utviklingen av statistikkmiljøet i Trondheim. Til ære for de to ble det arrangert Høylands dag ved NTH
+den 10. mars, med statistikk-seminar om dagen og festmiddag om kvelden.
+Arnljot Høyland er cand. real. fra Universitetet i Oslo i 1952 og har en Ph.D. i
+statistikk fra University of California, Berkeley i 1963. Veiledere var ikke ukjente
+Hodges og Lehmann. I hjemlandet var professor Erling Sverdrup en inspirator. Fra
+1959 til 1965 var Arnljot universitetslektori statistikk ved Universiteteti Oslo. Han
+
+ble ansatt som dosent på NTH 1. januar 1965, og har fra 1970 vært professor
+i matematisk statistikk. 1. september 1990 gikk han over i seniorforsker-stipend
+finansiert av NTNF.
+
+Liv Høyland er cand. real i statistikk frå Universitetet i Oslo i 1967. I 1968 ble hun
+engasjert som universitetslektori statistikk ved NTH og har vært fast ansatt som
+amanuensis fra 1972, og senere som førsteamanuensis .
+
+Arnljot Høyland var den først ansatte i statistikk ved det som i dag heter Institutt
+for matematiske fag på NTH. Straks tok han til med å bygge opp et fagmiljø i statistikk som var relevant for teknologiske anvendelser. I begynnelsen var det mangel på
+velegnete lærebøker i statistikk for teknologistudenter. Arnljots bøker i ”Sannsynlighetsregning og Statistisk metodelære” fylte et slikt behov. I over 20 år var de
+lærebøker i basiskunnskaper i statistikk for NTH studenter og også for studenter
+ved andre norske universiteter. Selv i dag er disse bøkene blant de nyttigste referanseverk en kan ha i basis statistikkmetoder. Arnljot er også medforfatter til en bok
+i elementær statistikk (beregnet for medisiner- og farmasistudenter) og ikke minst
+til bøker i pålitelighetsanalyse. Via gode kontakter i Berkeley ble han midt på 70
+tallet introdusert til fagfeltet pålitelighetsteori. Ikke-parametrisk statistikk hadde
+en tid vært Arnljots hovedforskningsområde. Nå tok han opp pålitelighetsteori og
+tok straks initiativ til at det ble satt i gang undervisning i dette fagfeltet på NTH.
+Første gang et slikt kurs ble gitt, var i 1977. Arnljot har hele tiden vært sentral i
+utviklingen av sikkerhets- og pålitelighetsutdanningen ved NTH og fagfeltet er nå
+et satsningsområde ved NTH/SINTEF og tiltrekker seg svært mange studenter. I
+nærmeste fremtid utgir han en internasjonal lærebok i pålitelighetsanalyse sammen
+med Marvin Rausand. Arnljot’s initiativ i dette fagområdet har ikke bare hatt stor
+betydning for norsk industri, men har også ført til fruktbare miljø i fagfeltet ved
+andre norske universiteter, ikke minst universitetet i Oslo.
+Etter at Liv i moden alder tok hovedfag i statistikk valgte hun å gjøre undervisning til sitt viktigste innsatsområde. Utrettelig har hun arbeidet for styrking av
+undervisningeni statistikkfaget. Vel tilrettelagte opplegg, der det ble gjort bruk av
+datamaskin såvel som alternative undervisningsideer, ble et varemerke. Således ble
+det også naturlig at hun påtok seg krevende administrative undervisningsverv både
+på institutt, fakultet og på sentralt NTH hold. Faglig tok hun opp fagområdene
+
+
+
+regresjonsanalyse, variansanalyse og forsøksplanlegging. Utvikling og formidling av
+statistiske metoder innen teknisk forskning og industri har vært et felles engasjement
+
+for dem begge og slik fikk dette stor bredde.
+
+Etter siste forskningsår i Madison, Wisconsin tok begge, som trolig de første her i
+landet, opp fagområdet Statistiske metoder til kvalitetsforbedring. Dette resulterte
+i felles arbeid innen området og hvert år er de med og gir EEU-kurs i slike metoder
+til industriansatte.
+
+Framsynt satsning og målbevisst profilering av statistikkfaget gav resultater. Nytten av statistikk fikk stadig større gjennomslag og det ble rom for flere statistikere
+ved instituttet som kunne være med og utvikle miljøet videre med Arnljot som
+den naturlige drivkraft. I dag har statistikkmiljøet ved instituttet en omfattende
+aktivitet både på kurs-, hovedoppgave- og doktornivå.
+
+Men også utenfor NTH har Liv eg Arnljot spilt en sentral rolle i det norske statistikermiljøet. Arnljot var første formann i Statistisk Forening i Trondheim, og nå er
+Liv leder der. Arnljot er også nåværende representant for Norsk Statistisk Forening
+i styret for SJS. Liv og Arnljot deltar nesten alltid på norske og nordiske statistikermøter, faglig såvel som sosialt. Slik har de fått et stort kontaktnett som også
+andre har kunnet dra nytte av. Som første norske ” Berkeley statistiker” ble Arnljot
+en brobygger til dette miljøet for norske statistikere. Men også til andre gode utenlandske statistikkmiljø har bruk av Arnljots kontaktnett vært en sikker innfallsport
+for kunnskapsøkende studenter såvel som utdannede statistikere.
+
+Det er to spreke og livsfriske statistikere som fra nå av vil gå over i en mindre
+formell tilknytning til statistikkgruppen ved Institutt for matematiske fag, NTH,
+og slik ligger forholdene til rette for mange gode arbeidsår ennå. Dessuten vet vi
+at det ikke mangler på fritidsinteresser. Både turgåing, bær- og sopplukking og
+hytteliv står høyt i kurs, og den etterhvert så velkjente tonesetter til Julekveldsvisa
+trakterer også trekkspillet når anledningen byr seg. Omsorg for barn og barnebarn
+er prioritert høgt.
+
+Det vil alltid føles som om noe går tapt når noen trekker seg tilbake fra et aktivt
+arbeidsliv. Når to helt sentrale personer i en gruppe gjør dette, kan en slik effekt
+lett bli stor. Derfor er det godt å vite at de kommer til å delta i statistikkmiljøet
+også i tiden framover.
+
+Vi ønsker Liv og Arnljot lykke til i sin pensjonisttilværelse.
+Gruppe for statistikk, NTH .
+
+
+
+6
+
+Norsk Statistisk Forening
+har besluttet å utnevne
+
+Professor Arnljot Høyland
+til æresmedlem av foreningen.
+
+Begrunnelse: Arnljot har vært drivkraften i oppbyggingen av statistikk-
+
+miljøet ved NTH. Fra ingenting har dette vokst til en anseelig virksomhet,
+
+både på kurs-, hovedoppgave og doktorgradnivå.
+Han har vært sentral i oppbyggingen av undervisning ogforskning i
+sikkerhet og pålitelighet ved NTH og
+
+SINTEF
+
+og er også en av ‘fadderene’
+
+for det tilsvarende miljøet ved Universitetet i Oslo.
+Arnljot var en av initiativtakerne til de nordiske konferanser i matematisk.
+statistikk. Han har siden vært en meget aktiv deltaker og organisator
+
+både ved disse og ved de tilsvarende norske møtene.
+Arnot har deltatt aktivt i NorskStatistisk Forening, sentralt og lokalt,
+
+og representertforeningen i styret for Scandinavian Journal ofStatistics.
+
+Oslo/Trondheim/As
+10. mars 1994
+
+Card Vonstll,
+
+Gien
+
+Eivind Damsleth
+
+Anne Marie Fenstad
+
+HaraldJohnsen
+
+Tormod Nes
+
+ny Hule
+Inge Helland
+
+Eva Seim
+
+
+
+Innsendt av Eivind Damslet!
+
+AK
+
+AY i I
+‘ou
+
+say
+
+14
+
+December 1993
+
+Some of my most enjoyable and enlighten-
+
+The testing stage looks mathematically
+
+ing professional experiences have been as
+
+attractive and, at first sight, might even be
+
+a
+
+statistician
+
+engineers
+
+and
+
+working
+
+closely
+
+scientists.
+
+We
+
+with
+
+represented
+
+by
+
+the
+
+formal
+
+theory
+
+of
+
+studied
+
+hypothesis testing resulting from a one shot
+
+processes. We discussed ways of getting
+
+experiment. The process of discovery on
+
+data. We conferred about test methods. We
+
+the other hand, without which there would
+
+worked together to design and analyse
+
+be
+
+series of experiments. We argued about the
+
+mathematically
+
+nothing
+
+to
+
+test,
+
+is
+
+messy.
+
+and
+
+requires
+
+an
+
+flexible
+
+model,
+
+the
+
+results and what we should do next. This
+
+indeterminate
+
+- has not only been great fun but it has been
+
+responsibility for whose evolution must be
+
+the
+
+shared with the experimenter. In courses
+
+inspiration
+
+for
+
+almost
+
+all
+
+of
+
+my
+
+and
+
+arbitrary
+It
+
+research. It has led to the conviction that
+
+in
+
+the ultimate goal of statistics is always the
+
+process of investigation and discovery is
+
+improvement and catalysis of scientific
+
+customarily dealt with by pretending it
+
+investigation.
+
+doesn’t exist. The finest products of this
+
+mathematical
+
+statistics
+
+the
+
+iterative
+
+system of instruction teach it to others. Of
+Unfortunately, at least in the United States,
+
+the lesser lights who go into industry, some
+
+the recruitment, teaching and funding of
+
+will allow themselves to be shuffled off
+
+Statisticians seems designed to subvert this
+
+to plan confirmatory trials and perhaps a
+
+goal. The trouble, I think, comes from the
+
+few of the more enterprising will learn on
+
+categorising of statistics as part of the
+
+the job how to use statistics in scientific
+
+mathematical sciences. While I believe it
+
+investigation.
+
+Statistician
+
+to
+
+know
+
+too
+
+much
+
+mathematics, the leadership in each of these
+
+subjects
+
+must
+
+surely
+
+scientific content
+
+—
+
+come
+
+from
+
+mathematics
+
+its
+is
+
+a
+
+tireless slave but a poor master.
+To understand the difficulties, consider an
+
+investigation to obtain a new medicinal
+drug. This will have two distinct aspects,
+the process of discovery of an effective
+manufacturable substance and the process
+
+” of testing the resulting substance to ensure
+its effectiveness and safety. The process of
+discovery must be undertaken by the team
+of investigators in the same spirit as a
+detective
+
+solves
+
+a
+
+mystery
+
+and
+
+is
+
+necessarily a sequential iterative procedure.
+By contrast, testing the final product is a
+much more formal process paralleling the
+trial of the accused (once apprehended)
+within
+
+very
+
+evidence.
+
+strict
+
+rules
+
+of admissible
+
+Statistics must surely be experience in the
+
+sciences or in engineering and where this
+is lacking remedial training must be made
+available. The theory of statistics must
+
+include an understanding of such basic
+matters as the nature of scientific method,
+
+iterative investigation, exploratory design
+and
+
+analysis,
+
+roles
+
+of
+
+deduction
+
+and
+
+induction, the importance of using subject
+matter
+
+‘ variables should we now study? Over what
+ranges should we vary them? In what
+metric should we consider them? How
+
+complicated a model do we need? What sort
+of experimental design should be
+
+employed? The answers to these questions
+can only be based on good judgment but
+they will determine success or failure
+infinitely more than the calculation, for
+
+| example, of ‘exact’ confidence intervals.
+
+Statisticians, I believe, can only learn good
+judgment in the same way as do trainees
+for the medical profession. They must, in
+effect, serve an internship in which they are
+involved with real ongoing investigations
+and gain the experience of working with
+real investigators. The programme based
+on these ideas which Gwilym Jenkins
+
+instituted at Lancaster many years ago
+
+is impossible for a physicist or an engineer
+or a
+
+At each stage of an investigation a good
+statistician must be able to discuss with the
+experimenter such questions as: Which
+
+knowledge,
+
+how
+
+to
+
+work
+
+provides a model of what can be done, and
+perhaps too of the support such an initiative
+will need to guard against failure. The
+policy of university departments and
+granting agencies discourages such an
+approach. Only doctoral theses concerned
+with mathematical theory and single
+authored papers bring acceptance and
+eventual tenure. Articles describing joint
+
+investigations with subject matter
+specialists (which should be mandatory) are
+discounted and discouraged. I hope that
+things are better in the UK and that your
+experiences can help to solve these
+problems.
+
+with
+
+acquisition, and the problems of getting
+
+I know that if we want our subject to
+survive and to flourish, the statistician must
+strive to earn the title of first class scientist.
+No longer should we accept that of second
+
+meaningful measurements.
+
+class mathematician.
+
+investigators and problem solving groups,
+ways
+
+to
+
+encourage
+
+generation,
+
+the
+
+hypothesis
+
+management
+
+(model)
+
+of
+
+data
+
+
+
+Om Scandinavian Journal of Statistics
+Tidsskriftet SJS drives i fellesskap av statistikerforeningene i Danmark, Finland,
+Norge og Sverige. Norske representanteri styret er Arnljot Høyland og Bo Lindquist.
+Fra 1995 får SJS norsk redaktør: Dag Tjøstheim fra Bergen. Han er allerede dette
+året begynt å fungere som påtroppende redaktør med ansvar for vurdering av
+innkommende manuskripter. I tillegg har tidsskriftet en større redaksjonsstab med
+medlemmer både fra de skandinaviske landene og også noen velkjente navn utenom
+Skandinavia. Dette siste reflekterer blant annet et ønske om å trekke til tidsskriftet
+manuskripter på "nye" områder som for eksempel nevrale nettverk, stokastisk
+simulering og bildebehandling. Samtidig ønsker en å holde fast på et høyt nivå inne mer
+tradisjonell statistikk og anvendelse. Også i dag er det riktig å si at SJS har en høy
+faglig anseelse internasjonalt.
+
+Et ledd i den videre internasjonaliseringen var også skiftet av forleggeri 1992. SJS
+publiseres nå av Blackwell i London, som også publiserer Journal of the Royal
+Statistical Society.
+
+Tidsskriftet har en god og økende manuskripttilgang. Over 100 artikler ble sendt
+
+inn til tidsskriftet sist år med temaer fra så og si hele spekteret av statistisk teori og
+praksis. Som abonnent vil en få et bredt utvalg av artikler, samtidig som en er med på å
+støtte en viktig faktor i det skandinaviske statistiske miljøet. Sammenlignet med en god
+del andre tidsskrifter er abonnementsprisen rimelig, og spesielt meget rimelig for
+medlemmer av de skandinaviske statistiske foreningene: £15 ved betaling med
+kredittkort, eller DKK 160 ved betaling til SJS danske postgirokonto.
+Bestillingskupong følger på neste side.
+
+205
+
+Inge Helland
+
+Vol. 20« No. 4« 1993.
+
+vente
+
+Acandinavian |
+ISSN 0303-6898
+
+Hournal of!
+Theory and applications
+Non- and Sern.
+
+end the von Mess Method—ti
+Ruchard
+0. Gil & Aad W Van Der Vaert
+
+On Theorems of de Finer Type for Continuous Time
+Stochasne Processes
+
+x
+a
+
+a
+
+%
+
+Tomas Björk & Bjorn Johansson
+
+313
+
+Opumai Designs tor Senery Response Expenmentr: Fistier,
+
+329
+
+AS
+
+On tre Boundary Komel Method for Mon-peremewic
+Curve
+
+D. and A Cnene
+
+361
+
+ER
+
+Egenanatvas of Symmevustie Mama Products å Result
+
+BD
+
+tenesten
+
+Gørard Grégowe
+
+UP han
+
+01
+
+an
+
+AR Smee BOF
+I Wu
+
+
+
+Subscription order form for members of the Norwegian
+Statistical Society
+
+Scandinavian Journal of Statistics, Volume 21, 1994
+Please complete as appropriate and return the following form to: Anne Kitson,
+
+Marketing Manager, Blackwell Publishers, 108 Cowley Road, Oxford OX4 1JF,UK
+Name and address (to which the journal should be sent):
+
+I have earlier subscribed to Scandinavian Journal of Statistics [];
+
+I am a new sub-
+
+scriber (J. (Please tick as appropriate.)
+
+Members of the Danish Society for Theoretical Statistics can pay either direct via credit
+card to Blackwell Publishers or in local currency via Danish post giro.
+Option 1 — payment direct to the publisher.
+
+Please enter my member subscription to volume21, 1994 at £15 and charge my Eurocard
+CO: Mastercard (Access) 0: Visa (Barclaycard): Diners Club/American Express []:
+(Please tick as appropriate.)
+Card number
+
+Signature
+
+Expiry date
+
+Option 2 — payment via Danish giro account of SJS board.
+Please tick if appropriate: [] I have paid 160 Danish kr. to Danish giro no. 6 52 10 10
+(Address: Scand. J. Statist., Matem. Stat., Universitetsparken 5, 2100 København Ø)
+Important notice: Members who pay via Danish Giro must send their
+address details separately to Blackwell Publishers, typically by use of this
+form.
+
+Missing issues, claims and other queries regarding receipt of the
+
+journal should be addressed directly to Blackwell Publishers.
+
+
+
+10
+
+COMPETITION FOR YOUNG STATISTICIANS
+FROM DEVELOPING COUNTRIES
+1995
+
+The International Statistical Institute (ISi) announces the Seventh Competition among young statisticians from
+developing countries who are invited to submit a paper on any topic within the broad field of statistics, for
+possible presentation at the 50th Session of the ISI to be held in Beijing, China, in 1995.
+
+Participation in the competition is open to nationals of developing countries who are living in a developing
+
+country, who were born in 1963 or later.
+
+Papers submitted must be unpublished, original works which may include material from participants’ university
+
+theses.
+
+The papers submitted will be examined by an international Jury of distinguished statisticians who will select the
+three best papers presented in the competition. Their decision will be final.
+
+The authors of the winning papers will be invited to present their papers at the Beijing Session of ISi, with all
+
+expenses paid (i.e. round trip airline ticket from his/her place of residence to Beijing plus a lump sum to cover
+
+living expenses).
+
+Manuscripts for the Competition should be submitted in time to reach the ISI not later than January 1, 1995.
+The rules governing the preparation of papers, application forms and full details are available on request from
+the ISI Permanent Office. The address is as follows:
+
+The Director
+
+Permanent Office
+
+International Statistical Institute
+428 Prinses Beatrixlaan
+2270 AZ Voorburg
+The Netherlands
+
+
+
+11
+
+15:e nordiska konferensen i
+MATEMATISK STATISTIK
+
+|
+
+LUND, SVERIGE
+
+15 — 19 augusti 1994
+
+Andra informationsbladet
+februari 1994
+
+Svenska statistikersamfundet inbjuder hårmed till den 15:e nordiska
+konferensen i matematisk statistik, vilken kommer att åga rum på Lunds
+Tekniska Högskola under perioden 15 — 19 augusti 1994.
+
+PROGRAM
+
+Huvudföredrag
+Analysis of longitudinal data (ca 6 h)
+Chaos and statistics (ca 6 h)
+
+Peter Diggle, Lancaster
+
+Aspects on ecological statistics
+Statistical methods in population genetics
+Fatigue and stochastic loads
+Markov fields and cellular automata
+
+Tönu Mls, Tartu
+
+Howell
+
+Tong, Canterbury
+
+Freddy Bugge Christiansen, Århus
+
+Igor Rychlik, Lund
+Jeff Steif, Göteborg
+
+Gruppsessioner
+
+SNIAWSWH
+
+.
+.
+.
+.
+.
+.
+.
+
+Clinical trials
+Modelling of stochastic time series
+Environmental statistics
+Image analysis and remote sensing
+Meta-analysis
+Modelling and estimation in hidden Markov models
+Multivariate analysis and growth curves
+
+Non-response, response errors and other non-sampling errors
+
+De
+
+OV
+
+. Random nets
+. Reliability and statistical process control
+. Sampling
+
+. Statistical inference
+Stochastic modelling of
+13. — technical systems
+14. — medical and biological systems
+15. Teaching statistics
+
+Jan Lanke, Lund
+Katarina Juselius, Köpenhamn
+Lena Zetterqvist, Lund
+Erkki Tomppo, Helsingfors
+Sture Holm, Göteborg
+
+Sören Asmussen, Ålborg
+
+Dietrich von Rosen, Uppsala
+
+Bengt Swensson, Örebro
+
+Ove Frank, Stockholm
+Bent Natvig, Oslo
+Jan Wretman, Stockholm
+Elja Arjas, Uleåborg
+
+Jeg de Maré, Göteborg
+
+Kragh Andersen, Köpenhamn
+Per
+Elisabeth Svensson, Göteborg
+
+Den som önskar bidra med föredrag i gruppsessionerna anger detta på
+anmålningsblanketten och skickar sammanfattning till Nordisk konferens
+i matematisk statistik, Box 118, S-221 00 Lund, Sverige, senast 30 juni
+1994.
+
+
+
+12
+
+KONFERENSEN
+
+Konferensen startar tidigt måndagen den 15 augusti (ankomst till Lund på
+söndagen rekommenderas) och avslutas vid lunchtid fredagen den 19
+augusti. På söndag kvill halls ett vålkomstmöte på Kulturen i Lund dar
+
+registrering också kan ske.
+
+SOCIALA AKTIVITETER
+
+Utöver vålkomstmötet planeras en utflykt till ön Veni Öresund, guidad
+stadsvandring i Lund samt konferensmiddag på Grand Hotel.
+KOSTNADER
+
+Konferensavgiften år 1000 SEK per person vid betalning senast 31 maj
+
+och dårefter 1200 SEK. Den omfattar konferensmaterial, utflykt och
+övriga sociala aktiviteter samt konferensmiddag. För ledsagare år avgiften
+för utflykten 150 SEK och för konferensmiddagen 350 SEK.
+Inbetalning av konferensavgift, eventuell hotelldeposition samt eventuella
+avgifter för ledsagare görs till svenskt postgiro 921 60 06-8, 15:e nordiska
+konferensen i matematisk statistik.
+
+INKVARTERING
+Vi har reserverat rum på tre hotell i Lund:
+
+Grand Hotel år centralt belåget vid jårnvågsstationen med ca 20 min
+gangvig till konferensområdet. Pris 590 SEK/dygn för enkelrum och 790
+SEK/dygn i dubbelrum.
+
+Hotel Djingis Khan år belåget i norra Lund på ca 15 min gångavstånd
+från konferensområdet. Pris 600 SEK/dygn för enkelrum och 720 SEK/
+
+dygn i dubbelrum.
+
+Hotel Sparta liggeri östra Lund, 5 min gångavstånd från konferensområdet. Pris (utan frukost) 1750 SEK/vecka för enkelrum och 2450
+SEK/vecka i dubbelrum.
+
+Dessutom finns det två vandrarhem (tfn: +46 46 142820 resp +46 46
+323251) samt en campingplats (tfn: +46 46 355188) i Lund.
+
+FÖRFRÅGNINGAR
+
+Förfrågningar om konferensen kan stillas till
+Georg Lindgren
+Matematisk statistik
+
+ANMALAN
+Bifogad blankett för anmålan retumeras till
+
+Nordisk konferens i matematisk statistik Box 118
+
+Box 118
+
+S-221 00 Lund Sverige
+e-mail: nordkonf(Qmaths.Ith.se
+
+Fax: +46 46 104623; tfn: +46 46 108547
+
+S-221 00 Lund, Sverige
+Vid anmålan efter 30 juni 1994 kan hotellrum genom konferensens för-
+
+sorg ej garanteras. Bekråftelse på anmålan och information om hotellreservation såndes ut så snart konferensavgiften kommit oss till handa.
+
+Detaljerad tidsplan och övrig information kommer att skickas ut till de
+anmålda ca 1 augusti 1994.
+
+-
+
+
+
+—=senast
+31 maj
+
+1000 SEK
+enligt
+
+anmålningsavgiften)
+
+med samtidigt
+
+Hotelreservation:
+
+erlåg s
+
+i(fyl prioritering
+sjålv inkvartering
+
+SEK
+
+1200
+
+=
+
+=
+
+sker.
+
+SEK
+vam
+
+SK
+
+cma mn s SÅ
+
+ånd ovnSEK.
+
+++
+
+sca ååSEK
+följande
+
+Dub elrum
+
+350 SEK
+
+600 SEK
+
+15:e nordiska
+
+++. X 150 SEK
+
+. .x
+
+921 60 06-8,
+
+som anmålan
+31 maj
+
+postgiro
+
+samtidigt
+
+och på konferensefter
+
+Venutflykt
+
+statistik,
+konferensmid ag
+
+statistik
+
+mat vid utflykten
+
+1, siffrorna
+
+SEK
+O Jag ordnar
+
+Enkelrum
+
+på svenskt
+
+imatematisk
+
+2,. .)
+
+Konferensavgift
+
+Ledsagare
+
+Hoteldeposition
+
+Totalt
+
+Avgiften
+
+vegetarisk
+
+Sverige
+Grand
+
+önskar
+betalas
+
+O Jag/Vi
+
+konferens
+
+imatematisk
+
+Nordisk
+
+00 Lund,
+konferensen
+
+S-221
+
+Hotel
+
+MATEMATISK
+
+EE
+
+eoseresersesereseeeeresresceoeseresreeeen
+
+titeln
+
+sresrereereseeeeeeeeseoeeeoeserneoeeseees
+
+seseseesreserseseoesereeseseeososeseseoee
+
+1994
+
+med foredrag
+
+AUGUSTI
+
+015
+
+Sam anfatning
+
+I KONFERENSEN
+
+nr sessionerna
+
+ett presentera
+014
+
+insåndes
+
+Lund.
+
+jag Önskar
+
+O bifogas
+
+19 - 15 LUND
+
+av intres erad
+
+eer
+
+NORDISKA
+
+eer
+
+. . ..
+
+eee
+
+oer
+
+xLedsagarnasar
+
+Sam anfatning
+
+till mig med tar...ledsagare
+
+013
+
+inte som (Barn
+
+ae ev «<=
+
+012
+
+behöver
+
+as aneode nese n
+
+fråmst
+
+roe
+
+eee
+
+errr
+
+nr session
+
+eee
+
+seee
+
+eerseere
+
+STATISTIK,
+
+e eee
+
+011
+
+Es
+
+010
+
+GR
+
+ee
+
+15:e
+
+I
+
+VG
+
+år Jag
+
+ee
+
+eee
+
+O
+
+Jag
+
+09
+
+ae
+
+13
+
+
+
+14
+
+50eme Session de
+I'Institut International
+
+50th Session of the
+International
+
+Statistical Institute
+
+de Statistique
+
+21-29 August 1995
+Beijing, China
+
+National Organizing Committee for the 50th Session of the ISI
+c/o State Statistical Bureau, 38 Yuetan Nanjie, Beijing 100826, China
+Tel: (01) 3810051, (01) 3810965
+
+Fax: (01) 3810035
+
+January 24, 1994
+Dear Sir/Madame,
+
+The National Organizing Committee of the 50th Session of the International Statistical Institute
+has the pleasure to announce that, in accordance with the arrangement by the Government of the
+
+People’s Republic of China and the International Statistical Institute (ISD), the 50th Session of
+the ISI will be held in Beijing, China from 21 to 29 August, 1995. The Session, like the
+previous sessions, aims at accelerating the progress of the statistical science, encouraging wider
+academic exchanges, and promoting the understanding, friendship and cooperation among
+statisticians of all countries.
+
+Preparations for the 50th Session of the ISI have been in full swing now. The Chinese
+Government has approved the establishment of the National Organizing Committee, and twosub-
+
+committees, namely the Executive Committee in charge ofadministrative and liaison affairs, and
+the Local Programme Committee that is responsible for the scientific programmes of the Session,
+have also been set up. As the Director-General of the State Statistical Bureau (SSB) of China and
+the President of the National Statistical Society of China (NSSC), I have the honour to be
+
+appointed as the Chairman of the National Organizing Committee. |
+
+Topics for the invited paper meetings of the 50th Session has been finalized by the ISI
+Programme Co-ordination Committee at the 49th Session in Florence, and are given in the
+
+Appendix. Information concerning topics for contributed paper meetings on special topics as well
+as organizers of both invited and contributed paper meetings will be announced in the Bulletin
+
+1, scheduled to be published and disseminated by the National Organizing Committee around
+
+mid-1994.
+
+The Beijing International Convention Centre will be the venue for the 50th Session of the ISI.
+
+Å new convention facility with 48 conference halls and meeting rooms and a total of 5,000
+
+Square metres of exhibition space, the Centre is equipped with modern convention facilities,
+including 8-language simultaneous interpretation system, audio-visual equipment, and
+telecommunications facilities, such as IDD telephones and facsimile machines. -
+
+I would appreciate it very much, if you could kindly assist in disseminating information
+conceming the 50th Session of the ISI, through publications, meetings or other media of your
+institution, to statisticians and other people concerned in your country. The National Organizing
+
+Committee and the Chinese statisticians extend sincere welcome to all members of the ISI and
+its sections as well as others who are interested in attending this important gathering and making
+
+_ their active contributions to the Session.
+
+With best wishes for the New Year,
+
+Sincerely yours,
+
+A
+Zhang Sai
+
+Chairman
+National Organizing Committee of
+
+the 50th ISI Session
+
+,
+
+
+
+15
+Appendix:
+
+List of Topics for Invited Papers Meetings of the 50th ISI Session
+1. Papers by Special Invitation of the President
+
+2. Statistics in China
+Joint Meetings
+
+3. IAOS/IASE/IASS: The Relative Role of Universities and Employers in the Training
+of Professional Statisticians
+
+4. IAOS/IASC/IASS/: impacts of Increased Technology-dependenceon Collection and
+
+Computing of Statistics
+
+DD
+
+on
+
+. IAOS/IASC/ISI: Computational and Methodological Challenges of Environmental
+Data
+
+. IASC/IASE: Networking Innovations and Resources: the Internet as Toolbox
+
+. IAOS/ISI: Statistics in the Service of Humanity
+. IASS/ISI: Auxiliary Information and Sampling Methods
+
+ODN
+
+. Bernoulli/IS!: Applications of Statistical Methods in Industry
+
+Meetings organized by the Bernoulli Society
+
+10. Non-linear Time Series
+11. Inference from Networks
+
+12. Accurate Approximation in Parametric Models
+13. Special Lectures in Probability
+14. Markov Fields and Applications
+
+15. Statistics of Extreme Values
+Meetings organized by IASC
+
+16. Integrating Statistical Software into Information Systems
+
+17. Quality Assessment of Softwares (Software Metrics)
+18. Neural Networks and Statistical Inference
+
+Meetings organized by IASE
+19. Teaching Statistics in Asia
+20. Teaching Statistics in Geographical Courses and links with GIS
+
+Meetings organized by IASS
+21. Panel Discussion: Practical Situation in Survey Design That are not Well Supported
+s
+
+by Known Statistical Theory
+
+22. Practical Responses to Differences in the Quality of Survey-taking Across
+Populations
+
+23. Market Research Surveys: Experiences and New Approaches
+24. Changes in User Expectations About the Quality of Surveys Statistics in the
+Public and Private Sectors
+
+25. Census and Surveys Issues in Agriculture
+
+Meetings organized by IAOS
+26. Statistics in Education
+27. Global Disability Statistics and Indicators: Developments of Methodology
+
+28. Measuring Housing Need, Provision and Different Social and Demographic
+
+Structures with an Emphasis on Data for Local Authorities (SCORUSorganized meeting)
+Meetings organized by ISI
+29 . Research in History of Statistics
+
+30. Epidemic Modelling and its Relation to Data
+31. one meeting to be organized jointly by the ISI Committee on the Promotion
+of Statistics in Life Statistics and the Biometrics Society
+
+|
+
+
+
+16
+
+STATISTISK FORENING I BERGEN
+Årsberetning for 1993
+Årsmøtet for 1992 ble holdt 16. desember 1992 der det sittende styret ble valgt. Referat fra
+møtet er sendt ut tidligere.
+
+Styret for 1993 har bestått av: Rolv Skjærven (formann), Marit Holen (kasserer), Ågot Irgens
+(sekretær) og Hans J. Skaug (styremedlem).
+
+I perioden har vi hatt 4 medlemsmøter inklusive årsmøtet (avholdt i begynnelsen av 1994).
+Foredragsholdere og tema har vært:
+
+10.03.93. Fire hovedfagsstudenter i statistikk presenterte sammendrag av sine
+hovedfagsoppgaver (møtet ble holdt i "Grans Villa").
+
+Vidar Hjelvik: Ikkje-parametrisk linearitetstestar for tidsrekkjer basert på betinga forventning
+og betinga varians.
+
+Ann Marit Kleive: Estimcring i finansmodeller med vekt på effekten av at dataene er
+grupperte.
+
+Egil Heilund: Statistiske metoder for dobbelsampling i epidemiologi.
+Astrid Lunde: Optimal reassuranse og investeringsstrategi for et forsikringsselskap.
+
+28.04.93. Torgrim Roll fra Finans, Vital: Risikostyring på aktivasiden.Møtet ble holdt i Vitals
+lokaler i Fyllingsdalen
+
+04.11.93. Stein Atle Lie fra Sexsjon for medisinsk informatikk og statistikk: Forventet
+overlevelse. Møtet ble holdt i Armauer Hansens hus.
+
+17.02.94. Torbjørn Aasen fra Øre-Nese-Hals avdelingen, Haukeland sykehus: Kaos teori.
+Eksempler fra medisinsk forskning.
+
+Styrets viktigste arbeidsoppgave i 1993 var arrangement-ansvar for Det 7. norske
+statistikérmøtet, Ustaoset, 14.-16. juni 1993.
+For styret
+
+Rolv Skjærven
+
+ør
+
+Styre for 1994:
+
+Formann:
+
+Rolv Terje Lie
+
+Sekretær:
+
+Ågot Irgens
+
+Kasserer:
+
+Birgitte Espehaug
+
+Styremedlem:
+
+Hans Julius Skau.
+
+
+
+17
+
+NYTT FRA UNIVERSITETET I OSLO
+Uteksaminerte cand. scient.
+
+Jorun Maurstad: "An evaluation of a statistical model describing attention deficit
+hyperactivity disorder as composed of two independent components, attention and
+hyperactivity."
+Veileder: Prof. Erik Bølviken
+
+Jørun Gåsemyr har fra 1/1-94 fått tildelt statsstipendiat.
+
+NYTT FRA UNIVERSITETET I BERGEN
+
+Uteksaminerte cand. scient.
+Egil Heilund: "Statistiske metoder for
+dobbeltsampling i epidemiologi."
+Veileder: Ivar Heuch
+
+Ann Marit Kleive: "Estimering av stokastiske
+differensialligninger."
+Veileder: Jostein Paulsen
+
+Terje Myklebust: "Generell teori for irreduserbare
+markovkjeder (diskret tid)."
+Veileder: Hans Karlsen
+
+
+
+18
+
+Medlemskap i Norsk Statistisk Forening
+
+Kontigenten i foreningen er på kr. 150 pr. år (kr. 90 for 1993) for regulære medlemmer og kr.
+50 for studenter (kr. 30 for 1993). Korrespondanse om medlemskap og innbetaling av
+
+kontigent skal skje til foreningens kasserer:
+
+Norsk Statistisk Forening v/Eva Seim
+
+Statistisk avd. Nycomed A.S.
+p.b. 4220 Torshov
+0401 OSLO
+
+Innbetalinger skal gjøres på foreningens postgirokonto 0802 5 15 10 55. Medlemmer som er
+usikre på når de betalte kontigent sist, vil nederst til høyre på adressseddelen for Tilfeldig Gang
+finne angitt hvilket år siste betaling er registrert for. Vær imidlertid oppmerksom på at
+adressesedlene for bladet ligger noe etter ajourføringen av medlemsregisteret, slik at nylig
+
+foretatte innbetalinger ikke vil være tatt med her.
+
+Nye medlemmer melder seg til kassereren under adressen oppgitt ovenfor. Slike medlemmer
+får automatisk tilsendt Tilfeldig Gang, med forbehold om at det tar noe tid før tilføyelser og
+forandringer i medlemsregisteret gjenspeiler seg i adressesedlene til bladet.
+Adresseforandringer meldes også til kassereren. Ved utsendelsen av Tilfeldig Gang benyttes
+det kopier av det vanlige medlemsregisteret, så adresseforandringer behøver ikke meldes
+separat til bladet.
+
+Annen korrespondanse med foreningen skal foregå med formannen under denne adressen:
+Norsk Statistisk Forening v/Eivind Damsleth
+
+Norsk Hydro
+p.b. 200
+1341 STABEKK
+
+Bidrag til Tilfeldig Gang
+
+Neste nummer av Tilfeldig Gang vil forhåpentligvis komme ut i juni 1994. Alle slags bidrag til
+bladet er velkommen, enten det gjelder nye temaer av interesse for norske statistikere, eller man
+har kommentarer til innlegg som allerede har stått i bladet. Stoff til neste nummer må være
+
+redaktørene i hende senest 1. juni 1994.
+Adressen til redaktørene er:
+
+Inge Helland
+Institutt for matematiske fag
+Norges Landbrukshøgskole
+Boks 5035
+
+Are Aastveit
+Institutt for matematiske fag
+Norges Landbrukshøgskole
+Boks 5035
+
+Telefon 64 94 88 75
+
+Telefon 64 94 88 72
+
+1432 Ås
+
+Fax: 64 94 88 79
+
+1432 Ås
+
+Mail: are.aastveit@imf.nlh.no
+
+
+
+BRIEF INFO
+Brief Information
+
+on Current Unpublished Statistical Research
+in Scandinavia
+
+Volume 1
+
+Number 1
+
+February 1994
+
+Contents:
+From the Editor
+Decree
+
+Instructions to the Contributors
+Brief Information
+Denmark
+Finland
+Norway
+Sweden
+Network Members
+
+Editor:
+Ilkka Mellin
+
+Published by
+
+Finnish Statistical Society usties
+Norwegian Statistical Societ
+Swedish Statistical Association
+
+27
+
+44
+
+60
+
+
+
+BRIEF INFO
+Brief Information
+
+on Current Unpublished Statistical Research
+in Scandinavia
+
+EDITOR (1994-1995):
+Ilkka Mellin
+
+EDITORIAL ADDRESS:
+
+Department of Statistics
+BOX 33 (Aleksanterinkatu 7)
+FIN-00014 UNIVERSITY OF HELSINKI
+FINLAND
+
+telephone
+telefax
+e-mail
+
+358-0-1912518
+358-0-1912124
+mellin@cc.helsinki.fi
+
+Helsinki University Printing House,
+
+Helsinki, Finland
+
+ISSN 1237-2587
+
+
+
+BRIEF INFO 1: 1, 1994
+
+FROM THE EDITOR
+Dear Reader,
+
+You have just opened the first issue of
+BRIEF INFO
+Brief Information
+
+on Current Unpublished Statistical Research
+in Scandinavia
+
+I am sure that you have noticed that a section which bore the name "Brief Information on Current Unpublished Research in Scandinavia" was suppressed from Scandinavian Journal of Statistics when
+the publisher of SJS was changed in the beginning of 1992. I discussed this matter with professor Elja Arjas, the editor of SJS, several times during 1992. We were unanimous as to the importance of
+going on publishing "Brief Information ..." in one form or another.
+As a result of these discussions I made in the autumn of 1992 a tentative proposal to the four Nordic statistical societies (Denmark,
+Finland, Norway, Sweden) under the auspices of which SJS is published. The proposition comprised starting a newsletter to replace
+the suppressed Brief Informationsection in SJS, a newsletter to be
+distributed through the information channels of the four Nordic statistical societies. The response was positive, and so it seemed really
+worthwhile to start the newsletter. Because the idea was partly mine
+it felt natural to volunteer to be the first editor. I decided to call the
+newsletter BRIEF INFO. For various reasons I could not start the
+project right away, but now, at last, you have the first issue of
+BRIEF INFO in your hands. I do hope that you can accept the insuf-
+
+ficiencies of this first issue.
+
+Just like in the suppressed section in SJS the usual form of the
+information to be published is a short abstract. This first issue includes information from 1992 and 1993. As to 1992, only the titles of
+the research reports are published.
+
+In the same way as in SJS the material for BRIEF INFO was collected by using a network of people working at the departments of
+
+Statistics at the universities or within other statistical research organizations. Without the help of this network this first issue would not
+have been possible.
+
+All the material was reproduced by photocopying directly from
+the originals sent to me by the network. In the tentative Decree of
+BRIEF INFO I promise that two issues will come out every year.
+My plan is that the first issue of the year will always be given out in
+February and the second issue will be given out in September. This
+means that the material for our next issue will be collected in Au-
+
+gust 1994.
+
+
+
+BRIEF INFO 1: 1, 1994
+
+2
+
+Since this first issue can also be considered as a test, there are
+still problems to be solved. As you will see from the tentative Decree, the responsibility for circulating BRIEF INFO is in the hands of
+the four Nordic statistical societies. There are two ways of distributing BRIEF INFO, either
+(1) in paper form, or
+(2) in electronic form.
+
+Because the present form of BRIEF INFO is based on photocopied originals it is perhaps most convenient to distribute BRIEF INFO by enclosing it in the newsletters of the national societies. How
+this works in practice remains to be seen. The other choice would
+mean collecting, editing and distributing the material for BRIEF INFO electronically via computer networks. I am rather sceptical about
+this alternative, because the actual coverage might be much narrower that way.
+
+Last, but not least, I would like to thank those who have helped
+me to realize this first issue of BRIEF INFO. Without mentioning
+any names, all the members of the network who have contributed
+deserve my warmest thanks. I am also grateful to the Department of
+Statistics, University of Helsinki, for letting me use its resources du-
+
+ring the editing process, and to the secretary of the Department, Ms.
+Leila Ollikainen, who helped me with the practical matters.
+Any comments and ideas will be wellcome.
+
+February, 1994
+Ilkka Mellin
+Editor
+
+
+
+BRIEF INFO 1: 1, 1994
+
+3
+
+THE DECREE OF BRIEF INFO
+Brief Information
+
+on Current Unpublished Statistical Research
+in Scandinavia
+
+(1)
+
+BRIEF INFO is a newsletter published by the Nordic statistical
+societies:
+
+Danish Society for Theoretical Statistics
+Finnish Statistical Society
+Norwegian Statistical Society
+
+Swedish Statistical Association
+
+(2)
+
+BRIEF INFO shall publish information on current unpublished
+statistical research in the Nordic Countries. BRIEF INFO welcomes
+abstracts of the research reports written at the departments of
+statistics at the universities or within other statistical research
+organizations.
+
+(3)
+
+BRIEF INFO shall be published twice a year.
+
+(4)
+
+The responsibility for the editing process shall circulate from
+one Nordic Country to another. The term shall last two years (4
+issues). The order shall be: Finland, Denmark, Norway, Sweden.
+The first term (Finland) will last from 1994 to 1995.
+
+(5)
+
+The editor of BRIEF INFO shall be selected by the national
+statistical society, which is responsible for the editing process.
+
+(6)
+
+The editor shall collect and edit the material to BRIEF INFO.
+The material shall be delivered in a ready-to-print form to the
+editor. A Network based on the former SJS-network shall be used in
+the collection process.
+
+(7)
+
+One copy of BRIEF INFO and copies from the print-original shall be
+delivered in a ready-to-print form to the national societies. Each
+society shall take the responsibility for distributing BRIEF INFO
+to its members.
+
+(8)
+
+The editor shall send one copy of BRIEF INFO to the members of
+the Network.
+
+
+
+BRIEF INFO 1: 1, 1994
+
+4
+
+INSTRUCTIONS TO THE CONTRIBUTORS
+The material for BRIEF INFO shall be delivered to the editor
+either
+
+(1)
+
+in a ready-to-print form on A4-sheets,
+or
+
+(2)
+
+in an ASCII-file on an 1.4 MB PC-readable disk.
+In this case no mathematical formulae should be included
+in the text.
+
+How to Produce a Ready-to-Print Form?
+
+(a)
+
+Print abstracts by using a good-quality printer (laser or ink-jet)
+
+(b)
+
+Leave proper margins (at least 3 cm on top and bottom and on each
+side), but fill each sheet as tightly as you can. Use single-line
+
+on A4-sheets.
+
+or one-and-a-half-line spacing in typing.
+
+(c)
+
+Remember that text should be legible after reduction to size A5 by
+
+(d)
+
+Each contribution should include
+
+photocopying.
+
+1. The name and address of the institute on every sheet.
+
+2. The name(s) of the author(s).
+3. The name of the research report.
+EXAMPLE
+
+Uppsala University, Department of Mathematics, Boz 480, S-75106 Uppsala
+
+ALON, N., BoLLOBÅS, B., BRIGTHWELL, G. & JANSON, S. (September 1992): Linear
+extensions of a random partial order, 14 pp.
+
+Bo.LLosBas. B. & JANSON, S. (October 1993): On the Length of the Longest Increasing
+Subsequence in a Random Permutation, 7 pp.
+Abstract.
+
+Complementing the results claiming that the maximal length L, of an
+
+increasing subsequence in a random partition of (1,2,...,n) is highly concentrated, we show
+
+that L, is not concentrated in a short interval: sup, P(! < Zh < 1+ nå log å n) — 0 as
+n — =o.
+
+FLEISCHMANN, K. & Ka, I. (September 1992): Large deviation probabilities for some
+rescaled superprocesses. To appear: Annales de l'Institut Henri Poincaré, 36 pp.
+
+
+
+5
+
+BRIEF INFO 1: 1, 1994
+
+DENMARK
+
+Aalborg University, Institute of Electronic Systems, Department of Mathematics and
+Computer Science, Frederik Bajers vej 7, DK-9220 Aalborg Ø
+
+R-Rapporter 1992
+
+R-92-2001
+
+Søren Højsgaard, Flemming Skjødt & Bo Thiesson:
+User's guide to BIFROST version 1.0
+
+R-92-2002
+
+Søren Asmussen, Peter W. Glynn & Hermann Thorisson:
+Stationarity Detection in the Initial Trasient Problem
+
+R-92-2004
+
+Søren Asmussen & Mogens Bladt:
+
+Renewal theory and queueing algorithms for matrix-exponential
+distributions
+
+R-92-2006
+
+R-92-2010
+
+David J. Spielgelhalter, A. Philip Dawid, Steffen L. Lauritzen &
+
+Robert G. Cowell:
+Bayesian Analysis in Expert Systems
+Søren Højsgaard & Bo Thiesson:
+
+BIFROST - Block Recursive Models Induced From Relevant Knowlegde,
+Observations & Statistical Techniques
+
+R-92-2011
+
+R-92-2014
+
+Søren Asmussen & Chia-Li Wang:
+
+Spitzer's identity and the simulation of transient G1/G/1 behaviour
+Søren Asmussen, Reuven Y. Rubinstein & Chia-Li Wang:
+Estimating Rare Events via the Likelihood Ratio Method from M/M/1
+Queues to Bottleneck
+
+R-92-2015
+
+Søren Asmussen:
+
+Stationary distributions for fluid flow models and Markov-modulated
+reflected Brownian motion
+
+R-92-2016
+
+R-92-2018
+
+Søren Asmussen & Benjamin Melamed:
+Regeneration and Likelihood Ratios in Tes processes
+
+S.L. Lauritzen, B Thiesson & D.J. Spiegelhalter:
+
+Diagnoctic Systems Created by Model Selection Methods - A Case
+Study
+
+R-92-2020
+
+R-92-2022
+
+Søren Asmussen, Lotte Fløe Henriksen & Claudia Kliippelberg:
+Large claims approximations for risk processes in Markovian enviroment
+Sgren Asmussen & Mogens Bladt:
+
+Phase-type distributions and risk processes with state-dependent
+
+premiums
+
+
+
+BRIEF INFO 1: 1, 1994
+
+R-Rapporter 1993
+
+R-93-07
+
+E. Susanne Christensen, Søren Lundbye-Christensen and Per Winkel
+An Application of a Gaussian Model with Population Variation in Baseline
+Values and Precision
+
+R-93-10
+
+Heidi H. Andersen, Malene Højbjerre, Poul Svante Eriksen and Dorte Sørensen
+Linear and Graphical Models for the Multivariate Complex Normal Distribution
+
+R-93-15
+
+Poul Svante Eriksen
+Exatct tests in Covariance Selection Models
+
+R-93-18
+
+R-93-21
+
+R-93-23
+
+R-93-28
+
+Uffe Kjærulff
+
+A computational scheme for dynamic Bayesian networks
+Søren Asmussen
+
+Busy period analysis, rare events and transient behaviour in fluid flow models
+Poul Svante Eriksen
+
+Approximation of tests in Covariance Selection Models
+
+Uffe Kjærulff, A. Philip Dawid and Steffen L. Lauritzen
+
+Hybrid Propagation in Junction Trees
+
+R-93-31
+
+Uffe Kjærulff, Claus Skaaning Jensen and Augustine Kong
+Blocking Gibbs Sampling in Very Large Probabilistic Expert Systems
+
+R-93-32
+
+Mogens Bladt
+
+R-93-33
+
+Computational Methods in Applied Probability
+
+Søren Asmussen and David Perry
+
+Rejection rules in the M/G/1 queue
+
+R-93-07
+
+Christensen, Susanne E., Lundbye-Christensen, Søren & Winkel, Per (February
+1993).
+
+An Application of a Gaussian Model with Population Variation in Baseline Values
+and Precision
+
+Abstract
+
+considered. For
+Models for consecutive measurements from a group of individuals are over
+each individual we assume the observations to be scattered at random ts time
+around a baseline value. The variance and the baseline value are constan
+
+characterising each individual, but varying at random over the population.
+for
+The estimation of population parameters is discussed and we present admethod
+a
+form
+prediction of future observations based on observations allready obtaine
+particular individual.
+
+,
+
+DE
+
+Finally the model and the method for prediction are applied to a data set consisting
+
+breast
+of Carcino Embryonic Antigen (CEA) measurements from 15 postoperative with
+cancer patients with no metastatic recurrence of the disease and on a patient
+recurrence.
+
+
+
+BRIEF INFO I: 1, 1994
+
+7
+
+R-93-10
+
+Andersen, Heidi H., Højbjerre, Malene, Sørensen, Dorte & Eriksen, Poul Svante
+Linear and Graphical Models for the Multivariate Complex Normal Distribution
+(March 1993).
+
+Abstract:
+
+The book contains a theoretical study of the linear and graphical models for the
+multivariate complex normal distribution. Multivariate linear complex normal models
+are treated, including definition of the model, maximum likelihood estimation of the
+parameters and hypothesis testing concerning mean and independence. The complex
+normal graphical models are investigated. This includes definition of the model,
+maximum likelihood estimation of the concentration matrix and hypothesis testing
+concerning conditional independence. Additionally decomposable models are
+considered. Furthermore the book also contains important results on the distribution,
+the complex Wishart undirected graphs, conditional independence and Markov
+properties are also treated. Finally the book contains appendices on complex matrix
+algebra and orthogonal projections.
+
+R-93-15
+Eriksen, Poul Svante (August 1993).
+Exact tests in Covariance Selection Models
+
+Abstract:
+Consider the likelihood ratio test between two nested covariance selection models.
+When the models are decomposable, it is known that the distribution of the test
+Statistic raised to the power 2/n is described by a product of independent beta
+distributions. In this paper it is shown that the result also holds for a wider class of
+testing problems, and that the test statistic is independent of the maximum likelihood
+estimator under the null hypothesis.
+
+R-93-18
+Kjerulff, Uffe (June 1993).
+
+A computational scheme for dynamic Bayesian networks
+
+Abstract:
+
+A computational scheme for reasoning about dynamic systems using Bayesian
+networks is presented. The scheme is based on message passing in junction trees, and
+may be viewed as a generalization of the inference methods of classical time-series
+analysis in the sense that it allows description of non-linear, multivariate dynamic
+systems with complex conditional independence structures. Further, the scheme
+provides a method for efficient backward smoothing, and an efficient Monte-Carlo
+algorithm for forecasting is presented. The scheme has been implemented on top of
+the HUGIN shell.
+
+
+
+8
+
+BRIEF INFO 1: 1, 1994
+
+R-93-21
+Asmussen, Søren (June 1993).
+
+Busy period analysis, rare events and transient behaviour in fluid flow models
+Abstract:
+
+We consider a process {(J,, V ,) )+0 on E x [0,%), such that {J,} is a Markov process
+with finite state space E, and (V,) has a linear drift rj on intervals where J,= i and
+refletion at 0. Such a process arises as a fluid flow model of current interest in
+telecommunications engineering for the purpose of modeling ATM technology. We
+compute the mean of the busy period and related first passage times, show that the
+probability of buffer overflow within a busy cycle is approximately exponential, and
+give conditioned limit theorems for the busy cycle with implications for quick
+simulation. Further, various inequalities and approximations for transient behaviour
+are given. Also explicit expressions for the Laplace transform of the busy period are
+found. Mathematically, the key tool is first passage probabilities and exponential
+
+change of measure for Markov additive processes.
+
+R-93-23
+
+Eriksen, Poul Svante (August 1993).
+
+Approximation of tests in Covariance Selection Models
+Abstract:
+
+Consider the likelihood ratio test between two nested covariance selection models. be
+Then it is shown that the distribution of the test statistic raised to the power 2/n can ns
+approximated by a product of independent beta distributions. Furthermore, conditio
+ensuring exactness of the aproximation are given. A simulation study reveals that the
+approximation is much superior to the usual chisquare approximation for small and
+moderate sample sizes.
+
+R-93-28
+
+Dawid, Philip A., Kjærulff, Uffe & Lauritzen, Steffen L. (September 1993)
+Hybrid Propagation in Junction Trees
+Abstract:
+
+We introduce a methodology for performing approximate computations in complex
+probabilistic expert systems, when some components can be handled exactly and
+others require approximation or simulation. This is illustrated by means of a modified
+version of the familiar "chest-clinic” problem.
+
+
+
+BRIEF INFO 1: 1, 1994
+
+9
+
+R-93-31
+
+Jensen, Claus Skaanning, Kong, Agustine & Kjærulff, Uffe (October 1993).
+Blocking Gibbs Sampling in Very Large Probabilistic Expert Systems
+Abstract:
+
+very
+We introduce a methodology for performing approximate computations in blockin
+g
+called
+ch,
+approa
+Our
+es).
+pedigre
+huge
+complex probabilistic systems (e.g.
+that
+way
+a
+in
+g
+samplin
+Gibbs
+with
+ations
+Gibbs, combines exact local comput
+rld
+complements the strengths of both. The methodology is illustrated on a real-wo
+We
+als.
+individu
+20,000
+ing
+contain
+e
+pedigre
+problem involving a heavily inbred
+present results showing that blocking-Gibbs sampling converges much faster than
+plain Gibbs sampling for very complex problems.
+
+R-93-32
+Bladt, Mogens (October 1993)
+
+Computational Methods in Applied Probability
+
+R-93-33
+
+Perry, David & Asmussen, Søren (October 1993).
+Rejection rules in the M/G/1 queue
+
+Abstract:
+
+We consider a M/G/1 queue modified such that an arriving customer may be totally
+or partially rejected depending on a.r.v. (the barricade) describing his impatience and
+on the state of the system. Three main variants of this scheme are studied. The steadystate distribution is expressed in terms of Volterra equations and the relation to
+storage processes, dams and queues with state-dependent Poisson arrival rate is
+discussed. For exponential service times, we further find the busy period Laplace
+transform in the case of a deterministic barricade, whereas for exponential barricade it
+is shown by a coupling argument that the busy period can be identified with a first
+passage time in an associated birth-death process.
+
+
+
+BRIEF INFO 1: 1, 1994
+
+10.
+
+Department
+
+Statistics,
+
+Theoretical
+
+of
+
+Mathematics,
+
+of
+
+Aarhus C
+
+8000
+
+Aarhus,
+
+University of
+
+Institute
+
+RESEARCH REPORTS published in 1992
+
+O.E. Barndorff-Nielsen: Information carriers, extended likelihood
+and adjusted versions of profile likelihood and likelihood roots.
+226.
+
+inference.
+
+M.
+
+The behaviour of the correlation integral in
+240.
+
+the non-linear time series case.
+
+242.
+
+cal
+
+turbulence
+
+model.
+
+J.L.
+
+Jensen:
+
+Comments
+
+J.
+
+Chaotic dynamical systems with a view towards stat-
+
+- a review.
+
+Møller:
+
+245.
+
+Extensions
+
+of
+
+Swendsen-Wang
+
+the
+
+lating spatial point processes.
+
+E.B.
+
+P.
+
+M.K.
+
+and
+
+H.
+
+P.E. Kloeden,
+
+Sørensen:
+
+discretization
+processes.
+
+Blæsild:
+
+Schurz,
+
+on
+
+E.
+
+The rotator. 247.
+
+'hyp'
+
+a
+
+-
+
+Platen and M.
+
+estimators
+
+simu-
+
+for
+
+246.
+
+Vedel Jensen and H.J.G. Gundersen:
+
+Blæsild
+
+algorithm
+
+computer
+
+program
+
+analyzing data by means of the hyperbolic distribution.
+
+P.
+
+sunspot
+
+of
+
+predictions
+
+nonparametric
+
+on
+
+243.
+
+Jensen:
+
+istics
+
+Sørensen: A statisti-
+
+Jensen and M.
+
+J.L.
+
+O.E. Barndorff-Nielsen,
+
+J.L.
+
+and
+
+functions
+
+237.
+
+Bøgsted Hansen:
+
+numbers.
+
+variance
+
+Multivariate
+
+Barndorff-Nielsen:
+
+O.E.
+
+of
+
+drift
+
+for
+
+248.
+
+Sørensen: On effects of
+
+parameters
+
+for
+
+diffusion
+
+249.
+
+Maximum
+
+geodesic models.
+
+250.
+
+likelihood estimation
+
+in exponential
+
+ortho-
+
+
+
+11
+
+BRIEF INFO 1: 1, 1994
+
+U.
+
+Kiichler and M.
+
+Sørensen:
+
+Exponential families of stochastic
+
+processes with time-continuous likelihood functions.
+
+O.E.
+
+Barndorff-Nielsen:
+
+theorem.
+
+O.E.
+
+of
+
+Adjusted
+
+likelihood
+
+interest parameter.
+
+Kiéu:
+
+of d-dimensional volume in
+fixed point.
+
+Hoffmann-Jørgensen:
+
+O.E.
+
+R”
+
+inference
+
+about
+
+Unbiased stereological estimation
+
+from an isotropic random slice
+
+257.
+
+Stable densities.
+
+Barndorff-Nielsen and S.R.
+
+adjusted
+
+Birnbaum's
+
+255.
+
+E.B. Vedel Jensen and K.
+
+J.
+
+and
+
+252.
+
+Barndorff-Nielsen:
+
+through a
+
+evidence,
+
+Diversity
+
+251.
+
+likelihood roots.
+
+259.
+
+258.
+
+Chamberlin:
+
+Stable and invariant
+
+
+
+BRIEF INFO 1: 1, 1994
+
+12
+
+Department
+
+of
+
+Theoretical
+
+University
+
+of
+
+Aarhus,
+
+of
+
+Mathematics,
+
+Curved
+
+exponential
+
+Institute
+
+Statistics,
+Aarhus C
+
+8000
+
+REPORTS
+
+RESEARCH
+
+1993):
+
+(January
+
+M.
+
+S@rensen,
+
+&
+
+Kiichler, U.
+
+families of stochastic processes and their envelope families,
+
+52
+
+PP-
+
+(February 1993): River networks: A brief
+guide to the literature, for statisticians and probabilists, 18
+Barndorff-Nielsen, 0.E.
+
+PP-
+
+diverse
+
+advances,
+
+concerning
+
+river
+
+and
+
+findings
+
+probabilistic
+
+are
+
+findings,
+
+analysis
+
+stochastic
+
+There
+
+outlined.
+
+of
+
+O.E.
+
+A
+
+natural
+
+exponential
+
+question
+
+in
+
+this
+
+counter-example,
+
+simplified
+families
+
+subject
+
+indicated
+
+inter
+
+are,
+
+Empirical
+various
+
+and
+
+those
+
+by
+
+inspired
+
+networks,
+
+intriguing
+
+alia,
+
+con-
+
+Brownian excur-
+
+extreme values,
+
+A.E.
+
+& Koudou,
+
+natural exponential families,
+
+Abstract.
+
+are
+
+reviewed.
+
+and fractality.
+
+statistical mechanics,
+
+Barndorff-Nielsen,
+
+traced and
+
+networks
+such
+
+of
+
+models
+
+is
+
+nections to branching processes,
+sion,
+
+the
+
+from the pioneering work of Horton till the many
+
+river networks,
+
+recent
+
+in
+
+developments
+
+The
+
+Abstract.
+
+area
+
+(February
+
+1993):
+
+Cuts
+
+in
+
+of
+
+cuts
+
+in
+
+27 pp.
+
+and
+
+extended
+
+theory
+
+an
+
+open
+
+in the negative,
+
+by a
+
+is
+
+established.
+
+is
+
+solved,
+
+Further,
+
+and a link to the recent theory of variance func
+
+tions for natural exponential families is pointed out.
+
+Jensen, J.L. & Kiinsch, H.R.
+of
+
+pseudo
+
+cesses,
+
+23
+
+likelihood
+pp.
+
+(March 1993): On asymptotic normality
+
+estimates
+
+for
+
+pairwise
+
+interaction
+
+pro-
+
+
+
+13
+
+BRIEF INFO 1: 1, 1994
+
+(March 1993): Simulation procedures and
+
+Geyer, C.J. & Møller, J.
+
+likelihood inference for spatial point processes, 34 pp.
+An alternative algorithm to the usual birth-death
+Abstract.
+
+procedure for simulating spatial point processes is introduced.
+The algorithm is used in a discussion of unconditional versus
+conditional likelihood inference for parametric models of spatial
+point processes.
+
+Hoffmann-Jørgensen,
+
+J.
+
+(April 1993):
+
+The Borel-Tanner distribu-
+
+11 pp.
+
+tion,
+
+(April 1993): Estimating distribution
+
+Högmander, H. & Møller, J.
+
+maps from atlas data using statistical methods of image analysis,
+24
+
+pp.
+
+image
+
+Bayesian
+
+Abstract.
+
+maximum marginal
+
+posterior
+
+classification
+
+conditional
+
+iterated
+
+and
+
+estimation
+
+namely
+
+methods,
+
+modes algorithm are applied in the estimation of biogeographical
+ranges. The presented procedures are developed to utilize atlas
+map
+
+observations
+
+i.e.
+
+data,
+
+these
+
+interpreting
+
+as
+
+maps
+
+a
+
+in
+
+recorded
+
+incompletely
+
+cells,
+
+of
+
+grid
+
+binary
+
+observed
+
+by
+
+pixel
+
+images. Modelling of breeding bird atlases with a complex presen-
+
+tation
+
+and
+
+observations
+
+of
+
+especially considered.
+
+Pedersen, A.R.
+
+(June
+
+crete observations,
+
+We
+
+Abstract.
+
+research
+
+activity
+
+is
+
+Empirical examples are provided.
+
+1993): A new approach to maximum likelihood
+
+stochastic differential
+
+for
+
+estimation
+
+inhomogeneous
+
+equations
+
+based
+
+on dis-
+
+21 pp.
+
+consider
+
+maximum
+
+likelihood
+
+estimation
+
+for
+
+stochastic differential equations based on discrete observations,
+when the likelihood function is unknown. A sequence of approximations
+
+to
+
+the
+
+likelihood
+
+function
+
+is
+
+results for the sequence are proven.
+
+approximate
+
+likelihood
+
+applicable.
+
+The
+
+mators.
+
+and
+
+convergence
+
+Estimation by means of the
+
+and
+
+functions
+
+is
+
+easy
+
+of
+
+the
+
+suggested
+
+performance
+
+studied in two examples,
+
+derived,
+
+very generally
+
+estimators
+
+is
+
+and they are compared with other esti-
+
+
+
+BRIEF INFO 1: 1, 1994
+
+14.
+
+Sazonov, V.V. & Ulyanov, V.V. (June 1993): Asymptotic expansions
+38 pp.
+
+in Hilbert space,
+
+New estimates of the remainder terms and terms of
+
+Abstract.
+
+asymptotic expansions for probabilities
+H,
+
+H-value
+
+distributed
+
+random
+
+main
+
+The
+
+elements.
+
+a €
+
+of
+
+features
+
+our
+
+"natural" dependence
+
+they are non-uniform with a
+
+estimates are:
+
+where
+
+independent identically
+
+n
+
+is a normed sum of
+
+S
+
+and
+
+r > 0
+
+P(|S-a|<r),
+
+the moment requirements are minimal and the dependence of
+estimates on the (truncated) moments and a covariance operator of
+on
+
+a,
+
+eigenvalues
+same
+
+given
+
+is
+
+summands
+
+the
+
+of
+
+in
+
+covariance operator
+
+in earlier papers
+
+as
+
+previous results if
+
+0,
+
+number
+
+estimates
+
+our
+
+in
+
+and
+
+non-zero
+
+of
+
+it
+
+is
+
+less than
+
+is
+
+the
+in
+
+0.
+
+a #
+
+Barndorff-Nielsen, 0.E.
+
+a=
+
+if
+
+The
+
+form.
+
+explicit
+
+an
+
+(September 1993): Modified directed like-
+
+lihood and an asymptotic analogue of Basu's theorem,
+
+8 pp.
+
+When the partial maximum likelihood estimator for
+
+Abstract.
+
+the nuisance parameter is sufficient then this estimator and the
+
+modified directed likelihood for the interest parameter are independent to third order.
+
+Labouriau, R.
+
+(September 1993): A note on pointwise expansions in
+
+Hermite polynomials of real functions,
+
+Abstract.
+
+7 pp.
+
+The paper presents a sufficient condition alter-
+
+native to the classical Cramér conditions for representing a real
+function in pointwise Hermite polynomial series.
+
+R.W.R.
+
+Darling,
+
+Martingales on noncompact mani-
+
+(October 1993):
+
+folds: Maximal inequalities and prescribed limits,
+
+Abstract.
+
+A version of the Burkholder-Davis-Gundy inequal-
+
+is presented for [-martingales,
+
+ities
+
+rary connection
+
+vexity
+
+[I
+
+assumptions
+
+rived for
+to
+
+on
+
+the
+
+manifold,
+
+"HP [-martingales",
+
+noncompact
+
+with respect to an arbit-
+
+ona Riemannian manifold
+
+quadratic variation is in
+sion
+
+20 pp.
+
+ae
+
+manifolds
+
+some
+
+(M,g).
+
+limit
+
+Under con-
+
+results
+
+are
+
+de-
+
+i.e. those whose total Riemannian
+
+on
+
+These are applied to the exten-
+
+Kendall's theorem on
+
+existence
+
+and uniqueness of [-martingales with a prescribed limit, which is
+related to the Dirichlet problem for harmonic maps.
+
+
+
+15
+
+BRIEF INFO 1: 1, 1994
+
+(October
+
+M.
+
+Sørensen,
+
+generated by a semimartingale,
+
+natural
+
+The
+
+1993):
+
+family
+
+exponential
+
+19 pp.
+
+A method of embedding a semimartingale model in
+
+Abstract.
+
+an exponential family of semimartingales is presented. The construction generalizes the natural exponential family generated by
+
+a Lévy process and the natural exponential family generated by a
+
+probability distribution on the real line. A direct application
+in the stochastic process setting of the full exponential family
+
+generated by a statistic and a probability measure usually leads
+
+to inconsistent probability measures. Therefore our construction
+is via local characteristics and Doléan-Dade exponentials. The
+
+theory is illustrated by several examples.
+
+Barndorff-Nielsen,
+
+O.E.
+
+(November
+
+1993):
+
+A
+
+note
+
+networks and the inverse Gaussian distribution,
+When a
+
+Abstract.
+
+random electrical
+
+on
+
+electrical
+
+9 pp.
+
+network has
+
+struc-
+
+the
+
+ture of a rooted tree and the edge resistances are either inverse
+Gaussian
+
+or
+
+reciprocal
+
+inverse
+
+subject to some restrictions,
+
+Gaussian
+
+random
+
+variables
+
+then,
+
+the overall resistance of the net-
+
+work is shown to follow a reciprocal inverse Gaussian distribution.
+
+Graversen, S.E.
+
+Abstract.
+connected
+
+to
+
+(December 1993): A note on Asian options,
+
+5 pp.
+
+Moments of certain exponential Wiener functionals
+the evaluation of Asian options are computed. The
+
+techniques used are very simple compared to former proofs of the
+same results and furthermore they can be applied in more general
+situations.
+
+
+
+BRIEF INFO 1: 1, 1994
+
+16.
+
+Pedersen, A.R. (December 1993): Maximum likelihood estimation
+based on incomplete observations for a class of discrete time
+stochastic processes by means of the Kalman filter, 20 pp.
+We consider maximum likelihood estimation based
+Abstract.
+
+on incomplete observations by means of the Kalman filter for a
+
+class of discrete time stochastic processes, in particular discretely observed diffusion processes given as solutions to linear
+
+stochastic differential equations in the narrow sense. The usual
+Kalman filter for Gaussian autoregressive processes of order one
+is generalized to autoregressive processes of higher order, and
+methods for model evaluation are given.
+
+Pedersen,
+
+A.R.
+
+normality
+
+of
+
+an
+
+(December
+
+1993):
+
+approximate
+
+Consistency
+
+maximum
+
+likelihood
+
+discretely observed diffusion processes,
+
+and
+
+asymptotic
+
+estimator
+
+for
+
+30 pp.
+
+Most often the likelihood function based on discrete observations of a diffusion process is unknown, and estimators alternative to the well-behaved maximum likelihood estiAbstract.
+
+mator must be found. Traditionally, such estimators are defined
+with origin in the theory for continuous observation of the dif-
+
+and are as a consequence strongly biased unless
+observation time-points are close. In contrast to
+
+fusion process,
+the
+
+discrete
+
+these estimators
+(unknown)
+
+an estimator based
+
+on an approximation to the
+
+likelihood function was proposed in Pedersen (1993). We
+
+prove consistency and asymptotic normality of this estimator with
+no assumptions on the distance between the discrete observation
+time-points.
+
+
+
+BRIEF INFO 1: 1, 1994
+
+17
+
+University of Aarhus, Institute of Economics, Building 350, DK-8000 Aarhus C.
+Franses, P.H. and Haldrup, N. (July 1993): The effects of additive outliters on tests
+for unit roots and cointegration, 16 pp.
+
+Abstract. This paper discusses the properties of the univariate Dickey-Fuller test
+and the Johansen test for the cointegrating rank when there exist additive outlying
+observations in the time series. We provide analytical as well as numerical evidence
+that additive outliers may produce spurious stationarity. Hence the Dickey-Fuller test
+will reject a unit root too frequently and the Johansen test will indicate too many
+cointegrating vectors. The results easily generalize to models with "temporary change’
+outliers. Through an empirical example we discuss how additive and temporary
+change outliers can be detected in practice and we show how dummy variables can
+be used to remove the influence of such extreme observations.
+Haldrup, N. and Salmon, N. (November 1993): Polynomially Cointegrated Systems
+and their Representations; A Synthesis, 28 pp.
+
+Abstract. This paper presents a discussion of polynomial cointegration and a
+
+synthesis of various ways generalised cointegrated systems for a multivariate time series
+process may be represented. Using the Smith-McMillan canonical form of a rational
+polynomial matrix we describe the null-space structure of higher order - and in particular I(2)
+- cointegrated systems and we show how different representations such as the error
+correction model, the common stochastic trends model and various triangular array
+decompositions, can be derived within this unifying framework. Hence we extend the results
+of Hylleberg and Mizon (1989) to more general systems. The different representations
+provide different insights into distinct features of multivariate systems that may
+simultaneously contain several types of equilibrium behaviour. One obvious case arises when
+a model contains both higher order integrated and possibly seasonally integrated time series
+and can be represented in a lower dimensional space implying that the cointegrating
+equilibria may be expressed as polynomials in the lag operator. The implied long run
+equilibria may not then seem to be contemporanous in the underlying economic variables.
+Such non-contemporaneous equilibrium relationships may often have little appeal in terms
+of economic intuition and we briefly discuss how the specification of appropriately defined
+"state" variables may provide a more straightforward representation of economic equilibria
+for cointegrated systems.
+
+
+
+18
+
+BRIEF INFO 1: 1, 1994
+
+Hylleberg, S. (April 1993): Tests for Seasonal Unit Roots. General to Specific or
+Specific to General ?
+
+Abstract. In this paper the small sample properties of tests for seasonal unit
+roots in quarterly time series are evaluated and compared. The basic difference
+between the two tests is that the HEGY test adopts the general to specific
+
+strategy and tests the null of a unit root, while the CH test adopts the specific
+to general principle and tests the null of a stationary process around a deterministic seasonal pattern. The main result of the Monte Carlo experiments is
+that the two tests complement each other.
+
+Andersen, T.M. and Hylleberg, S. (September 1993): Testing for Insider-Outsider Effects.
+
+Abstract. This paper develops a new test strategy for evaluating the insideroutsider model explicitly building on the implications of the model for the
+adjustment to shocks. The basic conclusion of the insider-outsider model is that
+anticipated changes in variables relevant for labour demand are reflected in
+wages while unanticipated changes are reflected in employment. An error
+correction model of wage and employment formation is set up based on this
+distinction between the types of shocks. By applying this test method to the
+manufacturing sector in Denmark, it is found that employment changes react
+to unanticipated changes in the state variables as predicted by the theory. The
+wage equation, however, contains both anticipated changes and unanticipated
+changes in the state variables. In addition, lagged employment seems to have a
+negative effect on wages in accordance with the prediction of insider models.
+
+UNIVERSITY OF COPENHAGEN
+INSTITUTE OF STATISTICS
+Studiestræde 6
+DK-1455 Copenhagen K
+
+Lisbeth la Cour: "A note on parametric representation of integrated vector
+autoregressive (VAR) processes"
+
+
+
+19
+
+BRIEF INFO 1: 1, 1994
+
+University of Copenhagen, Institute of Mathematical Statistics,
+Universitetsparken 5, DK-2100 Copenhagen Ø
+
+Johansen, S. (January 1992): The Role of the Constant Term in Cointegration
+Analysis of Non-Stationary Variables, 26 pp.
+
+Johansen, S. (August 1992): Identifying Restrictions of Linear Equations,
+18 pp.
+
+Johansen, S.
+
+(May 1992): Identification of the Long-Run and
+
+& Juselius, K.
+
+the Short-Run Structure. An Application to the ISML Model, 35 pp.
+
+Paruolo, P. (May 1992): Asymptotic Inference on the Moving Avarage Impact
+Matrix in Cointegrated I(1) VAR Systems, 27 pp.
+
+Hansen, H. & Johansen, S. (January 1993): Recursive Estimation in
+Cointegration VAR-Models,
+
+20 pp.
+
+:
+
+Abstract
+
+Some methods for the evaluation of parameter constancy in cointegrated VAR-models
+are discussed. Two different representations of the VAR-model are suggested; one in
+which all parameters in the model are estimated recursively, and another in which the
+
+short-run parameters are considered fixed and only the long-run parameters are
+estimated recursively. We suggest a procedure to evaluate the constancy of the estimated
+
+cointegration rank, and give a test of the constancy of the long-run parameters in the
+model for a given cointegration rank. Finally, the asymptotic distribution of the non-
+
+zero eigenvalues is given, and the time paths of these eigenvalues are graphed with
+pointwise asymptotic confidence bounds.
+
+Johansen, S.
+
+(October 1993): Likelihood Based Inference for Cointegration of
+
+Non-Stationary Time Series,
+
+30 pp.
+
+Abstract
+
+This paper presents a survey of the statistical analysis of the cointegration model for
+vector autoregressive processes.
+
+The focus is on likelihood based inference, but for
+
+comparison the regression approach is briefly discussed. It is not the intention to give
+a complete survey of all results obtained in cointegration, but rather to present in an
+informal way the basic problems and some results, in the hope that those who catch an
+
+interest in the problem area, will be able to find the relevant references for a deeper
+study.
+
+
+
+20
+
+BRIEF INFO 1: 1, 1994
+
+Nishio, A. (March 1993): Testing for a Unit Root against Local Alternatives,
+38 pp.
+
+Abstract
+
+This paper deals with the problem of testing for a unit root in the framework of the
+near-integrated process proposed by Phillips (1987b). The convergence of the nearintegrated process to the Ornstein-Uhlenbeck process is a key to this paper. A se-
+
+quence of Fourier type transformations Z, k =1,... associated with the KarhunenLoéve expansion of the Brownian motion is considered. The likelihood functions of
+
+the family of the Ornstein-Uhlenbeck processes based on ZK) =(Z,,..., Zx),K =
+
+1,... and their approximations are derived. Two tests for a unit root against local
+alternatives are given as the discrete analogues of those for the Brownian motion
+against the Ornstein-Uhlenbeck process. Our tests are shown to be locally efficient
+
+in the sense that the asymptotic distribution under either of the null and the local
+alternative hypotheses is the same as that of the exact loglikelihood ratio statistic
+of the Gaussian AR(1) models. The consistency of the tests are also given.
+
+Stockmarr, A. & Jacobsen, M. (February 1993): Gaussian Diffusions and
+Autoregressive Processes: Weak Convergence and Statistical Inference, 23 pp.
+Abstract
+
+The statistical analysis of some hypothesis in models for
+
+d-dimensional homogeneous Gausian diffusions (HGD’s) is discussed,
+and expressions for the MLE’s and LR test statistics are derived. Regarded as distributions, the HGD’s themselves are derived as weak limits
+of autoregressive processes, and the connection between the continous
+time (diffusion) and the discrete time (autoregressive) case is analysed.
+MLE’s and LR test statistics in the two cases are connected by weak
+convergence.
+
+Tjur, T. (September 1993): StatUnit - An Alternative to Statistical Packages?
+14 pp.
+
+Abstract
+
+Some aspects of the author’s Turbo Pascal unit StatUnit
+are discussed. The ability of this or a similar procedure library as an
+alternative to a conventional statistical package is advocated.
+
+
+
+BRIEF INFO |: 1, 1994
+
+21
+
+University of Copenhagen, Laboratory of Actuarial Mathematics, Universitetsparken 5,
+
+DK-2100 Copenhagen Ø
+
+Nielsen, J. P. & Jewell, N. P. (January 1992): A framework for consistent prediction rules
+
+based on markers, 18 pp.
+
+Published in Biometrika, 1993.
+
+Kleffe, J. (February 1992): Statistical analysis of missing data with the help of
+
+generalized replicated models, 13 pp.
+
+Hesselager, O. (February 1992): Rates of risk convergence of empirical linear Bayes
+estimators, 11 pp.
+
+Published in Scand. Actuarial J., 1992.
+
+Hesselager, O. (March 1992): A class of conjugate priors with applications to
+excess-of-loss reinsurance, 17 pp.
+
+Published in ASTIN Bulletin, 1993.
+
+Nielsen, J. P. (April 1992): Marker dependent hazard estimation, 21 pp.
+
+Nielsen, J. P. (June 1992): Double integrals with respect to counting process martingales and
+the predictability issue in survival analysis, 17 pp.
+
+Nielsen, J. P. (June 1992): A transformation approach to bias correction in kernel hazard
+estimation, 18 pp.
+
+Hesselager, O. (September 1992): Extensions of Ohlin’s lemma with applications to optimal
+reinsurance structures, 26 pp.
+
+Published in Insurance Math. & Econ., 1993.
+
+Nielsen, J. P. (November 1992): Abramson’s square root law formulated for kernel hazard
+estimation, 11 pp.
+
+Hesselager, O. (November 1992): A recursive procedure for calculation of some compound
+distributions, 14 pp.
+
+Nielsen, J. P. & Linton, O. (November 1992): A multiplicative bias reduction method for
+nonparametric regression, 10 pp.
+
+
+
+22
+
+BRIEF INFO 1: 1, 1994
+
+Møller, C. M. (January 1993): Martingale results in risk theory with a view to ruin
+
+probabilities and diffusions, 16 pp.
+Published in Scand. Actuarial J., 1992.
+
+Abstract. In modern risk theory martingales are mainly used to evaluate or construct upper
+
+bounds for the probability of ruin. Primarily, the present paper introduces the mathematics
+and assumptions that yield generalized versions of well-known martingales used today in risk
+theory. Also, an exponential upper bound for infinite time ruin is shown when the claims
+number process is a Cox process and the premium is chosen stochastic. Furthermore, some
+diffusion results in the mixed Poisson case is shown using convergence in probability of
+characteristic functions. The key tool is the theory of marked point processes together with
+It6’s formula for bounded variation processes.
+
+Moller, C. M. (January 1993): A stochastic version of Thiele’s differential equation, 16 pp.
+Published in Scand. Actuarial J., 1993.
+
+Abstract. Thiele’s differential equation for the statewise reserves of a life insurance policy
+is viewed as a stochastic differential equation in a point process set-up. Special attention is
+given to the traditional Markov model and to a more general semi-Markov model. Finally,
+a numerical example with qualifying period for disabled lives is considered.
+
+Moller, C. M. (August 1993): Integral equations for compound distribution functions, 13 pp.
+Abstract. The present paper introduces a method based on the martingale representation
+theorem for point processes to obtain differential and integral equations for evaluating
+compound distribution functions. The results are formulated in a general point process set-up,
+with an application to insurance mathematics. Attention is mainly given to cases where a
+Markov structure is obtainable for the risk processes involved, but the martingale
+representation theorem is also applicable when a Markov structure is infeasible. Numerical
+illustrations are given and compared with the Panjer recursion formula.
+
+Moller, C. M. (August 1993): Stochastic differential equations for ruin probabilities, 17 pp.
+Abstract. The present paper proposes a general approach for finding differential equations to
+evaluate probabilities of ruin in finite and infinite time. Attention is given to real valued
+
+non-diffusion processes where a Markov structure is obtainable. Ruin is allowed to occur
+upon a jump or between the jumps. The results are applicable to life and non-life insurance
+models. The key tool is the theory of marked point processes together with the change of
+variable formula and the martingale representation theorem for point processes. Numerical
+illustrations are given by solving a partial differential equation numerically to obtain the
+probability of ruin over a finite time horizon.
+
+
+
+BRIEF INFO 1: 1, 1994
+
+23
+
+Norberg, R. (August 1993): Identities for present values of life insurance benefits, 9 pp.
+
+Abstract. The rule of integration by parts produces useful formulas for the present value of
+a payment stream. Applied to life insurance, utilizing the counting process nature of the
+development of the policy, the rule induces three classes of identities, some generalizing
+
+certain classical relationships between life annuities and assurances and some not hitherto
+encountered in the literature.
+
+Hesselager, O. (September 1993): A recursive procedure for calculation of some mixed
+
+compound Poisson distributions, 15 pp.
+
+Abstract. We derive a simple recursive procedure for calculation of mixed compound Poisson
+distributions, when the logarithm of the mixing density can be written as the ratio of two
+polynomials. This class of mixing densities is shown to be closed under sampling from the
+Poisson distribution, such that also the conditional compound distribution given the observed
+data can be calculated recursively.
+
+Hesselager, O. (September 1993): A Markov model for loss reserving, 14 pp.
+
+Abstract. The claims generating process for a non-life insurance portfolio is modelled as a
+marked Poisson process, where the mark associated with an incurred claim describes the
+development of that claim until final settlement. An unsettled claim is at any point in time
+assigned to a state in some state-space, and the transitions between different states are
+assumed to be governed by a Markovian law. All claims payments are assumed to occur at
+the times of transition between states. We develop separate expressions for the IBNR
+
+and RBNS reserves, and the corresponding prediction errors.
+
+Norberg, R. & Moller, C. M. (October 1993): Thiele’s differential equation by stochastic
+interest of diffusion type, 16 pp.
+
+Abstract. The classical Thiele’s differential equation for the prospective reserve of an
+insurance policy has been generalized to models with counting process driven payments and
+deterministic interest. Here the result is extended to situations with diffusion driven stochastic
+interest. The technique of proof consists in identifying the null part of the martingale
+associated with the initial present value of the payments. The presentation centers on life
+insurance, but the theory can be adapted to more general stochastic payment streams.
+
+
+
+BRIEF INFO 1: 1, 1994
+
+24
+
+Statistical Research Unit
+University of Copenhagen
+Blegdamsvej 3
+
+DK—2200 Copenhagen N
+Denmark
+
+Brief Information on Current Unpublished Research in Scandinavia
+
+Titles of reports made in 1992.
+
+92/1
+
+Andersen, P.K. Repeated assessment of risk factors in survival analysis.
+
+92/2
+
+Klein, J.P., Keiding, N. & Kreiner, S. Graphical models for panel studies, illustrated on data from the Framingham heart study.
+
+92/3
+
+Frydman, H. Semiparametric estimation in a three-state semi—Markov model
+from interval censored observations with application to AIDS data.
+
+92/4
+
+Klein, J.P., Andersen, P.K. Estimating the survival function in the proportional
+hazards regression model: A study of the small sample size properties.
+
+92/5
+
+Klein, J.P., Keiding, N., Copelan, E.A. Plotting summary predictions in multi-
+
+state survival models: Probabilities of relapse and death in remission for bone
+marrow transplantation patients.
+
+
+
+BRIEF INFO 1: 1, 1994
+
+25
+
+Nielsen, B. Expected survival in the Cox model.
+
+93/1
+
+Abstract
+
+When a Cox analysis has been performed it may be of interest to test the applicability of the results on another set of data. One method is to compare the usual
+
+Kaplan—Meier estimator for the new data with å survival curve predicted from the
+old analysis. Three survival curves, the "direct adjusted survival curve", the
+"expected survival curve" and "Bonsel's curve", are presented and consistency
+properties are discussed. Based on counting process theory a test statistic is con-
+
+structed. Finally an example from the liver transplant literature is presented.
+93/2
+
+Liestøl, K., Andersen, P.K. and Andersen, U. Survival analysis and neural nets.
+
+Abstract
+
+We consider feed—forward neural nets and their relation to regression models for
+survival data. It is shown how the back—propagation algorithm may be used to
+
+obtain maximum likelihood estimates in certain standard regression models for
+survival data as well as in various generalisations of these. Examples concerning
+malignant melanoma and post—partum amenorrhoea during lactation are used as
+
+illustration. We conclude that although problems with the substantial number of
+parameters and their interpretation remain, the feed—forward neural network
+models are flexible extension to the standard regression models and thereby candidates for use in prediction and exploratory analyses in larger data sets.
+
+93/3
+
+Andersen, P.K. A non—parametric test for comparing two samples where all observations are either left— or right—censored.
+
+Abstract
+
+The situation is considered where the status of the individuals under study is
+
+assessed only once during their life time, and as a consequence the observed time
+to an event of interest is either left— og right—censored. Non—parametric estimation of the time to event distribution is reviewed and a non—parametric two-
+
+sample test is proposed. The performance of the test is illustrated by simulations
+and by a numerical example.
+
+
+
+26.
+
+93/4
+
+BRIEF INFO 1: 1, 1994
+
+Keiding, N. Delayed entry, the prevalent cohort study and survival synthesis.
+
+Abstract
+
+Modern survival analysis is concerned with statistical inference for censored data,
+
+that is, for some individuals the exact lifetime is unknown, it is only known, that
+the life time exceeds some time, the censoring time. Survival analysis allows estimation, hypothesis testing, and regression analysis and is used in medical statistics
+
+(including applications in epidemiology) and reliability.
+The modern development of nonparametric survival analysis has been
+greatly improved and facilitated by the use of such modern probabilistic tools as
+counting processes, continuous—time martingales, and stochastic integrals.
+The paper will focus on three current developments:
+
+In many contexts individuals only come under observation some time after
+the beginning of the relevant time scale. There is now a complete theory available
+for such delayed entry situations.
+
+A second topic is the theory of the prevalent cohort study of patients suffering from some chronic disease, where study entry is from a cross—sectional sample
+of prevalent cases.
+
+My third topic may be termed survival synthesis, integrating the results of
+the specific analyses of transitions into various state in a multistate survival
+analysis model.
+
+93/5
+
+Commenges D. and Andersen, P.K. Score test of homogeneity for survival data.
+
+Abstract
+
+If follow—up is made for subjects which are grouped into units, such as familial or
+spatial units then it may be interesting to test whether the groups are homoge
+
+neous (or independent for given explanatory variables). The effect of the groups is
+modelled as random and we consider a frailty proportional hazards model which
+allows to adjust for explanatory variables. We derive the score test of homogeneity
+from the marginal partial likelihood which turns out to be the sum of a pairwise
+
+correlation term of martingale residuals and an overdispersion term. In the parti-
+
+cular case where the sizes of the groups are equal to one, this statistic can be used
+for testing overdispersion. The asymptotic variance of this statistic is derived using
+
+counting process arguments. An extension to the case of several strata is given.
+The resulting test is computationally simple; its use is illustrated using both
+simulated and real data.
+
+
+
+BRIEF INFO 1: 1, 1994
+
+27
+
+FINLAND
+University of Tampere, Department of Mathematical Sciences, P.O. BOX 607, 33101 Tampere
+
+Erkki P. Liski and Tapio Nummi (March 1993): PREDICTION IN REPEATED-MEASURES MODELS
+
+WITH ENGINEERING APPLICATIONS, 25 pp.
+
+ABSTRACT: This paper focuses on the problem of predicting future measurements on å statistical
+unit given past measurements on the same and other similar units. We introduce a conditional predictor
+which utilises the information contained in previous measurements. The prediction technique is based on
+the iterative EM algorithm, but a non-iterative variant of it is also provided. We use the sample reuse
+methology to select an appropriate predictor. The technique is tested in three engineering applications. The
+first considers prediction in the context of the marking for bucking in automatic forest harvesters. In fatigue
+crack growth data the interest is in predicting the future crack growth development of the test unit, and the
+third application concerns evaluation of pulp from the point of view of its paper-making potential.
+Erkki P. Liski and Tapio Nummi (August 1993): PREDICTION AND INVERSE ESTIMATION IN REPEATED MEASURES MODELS, 10 pp.
+
+ABSTRACT: The prediction problem is considered here using the repeated measures modelling. Usually the main emphasis is on modelling the mean responses profile, but it turned out that modelling the
+within-individual covariance structure appropriately is also an important aspect in the prediction of future
+measurements under repeated measures data. In this paper we consider predicting in the context of paper
+making potential of pulp. Before paper is manufactured in a paper mill, the pulp fibres are treated in some
+kind of beating apparatus. Beating is one of the most essential operations in the paper-making process:
+it affects almost all characteristics of the paper. In prediction we utilise our knowledge about earlier pulp
+samples similar to the current one. We consider the situation where previously recorded data on n — I
+experimental units and measurements yni,.--,Yn,g,-r, 1 < 7 < qn, on the nth unit (the current unit) at the
+points t1,t2,...,tg,-r are available. We are interested in the prediction of the values of y for this current unit
+over the values of t € (t,,-r,t,,]. Basically two different prediction problems are investigated: (1) prediction
+at the prespecified points tg, -+41,tg,—r+2,---,tg, (or in certain subset of these points) and (2) prediction
+at an arbitrary point lying in the interval (t,,-,,t,,]. In the second type of problem certain structure on
+the within-individual covariance structure is needed to predict y in a reasonable manner.
+
+Nurhonen, Markku, Puntanen, Simo & Styan, George P. H. (December 1993):
+Simplified matrix proofs related to the deletion of an observation in
+the general linear model, 10 pp.
+ABSTRACT:
+Consider the linear model, where the model matrix has full column rank
+and the covariance or dispersion matrix of the error term is positive
+definite. When estimating the parameters of the model, it is natural to
+consider the influence on the estimates of some changes or perturbations
+in the data: regression diagnostics measure such influence. A
+fundamental perturbation is the omission of at least one of the
+observations from the model. In this paper we present some helpful
+matrix results while studying such regression diagnostics.
+
+
+
+28
+
+BRIEF INFO 1: 1, 1994
+
+Baksalary, J.K., Puntanen, S. & Scott, A.J. (November 1993):
+
+Some remarks on the weakly singular linear model, 8 pp.
+ABSTRACT:
+In this article we consider such a special case of the general linear model
+when the column space of the model matrix is contained in that of the
+dispersion matrix of the error vector. The article from Encyclopedia of
+Statistical Sciences (Vol. 9) attributes the term "Zyskind-Martin model" to
+the subclass of the general linear models specified by this column space
+condition. We review some important properties of this model and provide
+some arguments that the term "weakly singular model" reflects better the
+specificity of the model in this situation.
+
+Turku School of Economics and Business Administration
+Department of Mathematics and Statistics, Rehtorinpellonkatu 3
+20500 Turku, Finland.
+
+Mika Mannermaa & Keijo Måkelå (February 1994): Future Prospects of the
+Societal Development and Education. Futures Barometer of the Year 1993,
+50 + 50 pages.
+
+Key words: Futures Research, society, education, delfoi technique, crossimpact analysis
+
+Abstract: The study is made in cooperation with the Ministry of
+Education and the Futures Research Centre at the Turku School of
+Economics led by Dr. Mika Mannermaa. The aim of the study was to
+produce some expert-based evaluations of the future development (until
+the year 2017) of some social and educational key variables. Both trends
+and events were studied using delfoi technique and cross-impact analysis.
+
+Pentti Malaska & Sun JiWu (1993): Qualitative and Quantitative Efficiency
+of Energy Use. A Model Study on the Energy Ratio of Finnish Economy
+1970 - 1990.
+
+Abstract: Energy efficiency has become a crucial issue of economic
+development in worldwide. The report aims at developing a series of
+econometric methods for assessing and measuring qualitatively and
+quantitatively the energy efficiency. The main structure of the model is
+decomposing the energy ratio into components of growth, sectorial
+structure and sectorial efficiency. The authors analyse Finnish energy
+consumption during 1970 and 1990 including total energy, oil, electricity
+and domestic energy use.
+
+
+
+BRIEF INFO 1: 1, 1994
+
+29
+
+NORWAY
+
+Agricultural University of Norway, Dept. of Mathematics
+Box 35, N-1432 As-Nlh
+
+Unpublished research 1992; titles.
+
+Helland, I.S.: A population approach to the analysis of variance, 36 pp.
+
+Helland, I.S.: Chisquare tests from clusters of observations, 11 pp. [To appear in
+Biometrical Journal]
+
+Helland, I.S. and Almøy, T.: Comparison of prediction methods when only a few
+components are relevant, 27pp. [To appear in JASA 1994]
+
+Unpublished research in 1993.
+
+Almøy, T.: A simulation study on comparison of prediction methods when only a few
+components are relevant, 28 pp.
+
+Abstract.: An unconditional expected squared error criterion is used for an overall
+
+comparison of 5 different prediction methods: Principal Component Regression by the size of
+the eigenvalues (PCR1) and by the size of the t-value (PCR2), Partial Least Squares
+Regression (PLS), Restricted Principal Component Regression (RPCR), and Modified
+
+Maximum Likelihood Regression (MML). Because the distributions of the estimated
+regression coefficients (looking at the calibration set as random) are unknown or only known
+asymptotically, a large simulation study is performed. By means of a model based on
+
+relevant components and by reducing the number of parameters in the model using the
+
+symmetries in the situation, the simulations are designed to cover the major part of the
+parameter space. The main result is that PCR1, PLS and RPCR are the best prediction
+methods, the three methods being quite similar, with PLS somewhat better when the
+irrelevant eigenvalues are large, and PCR1 somewhat better when the irrelevant eigenvalues
+are small.
+
+
+
+30.
+
+BRIEF INFO 1: 1, 1994
+
+Almøy, T.: When does it pay to assume equal specific variances in the factor analysis
+model? 19 pp.
+
+Abstract.: The lack of an analytical solution to maximum likelihood estimation in factor
+
+analysis is known to imply numerical problems. In addition estimating many parameters
+
+can lead to inaccurate estimators or poor predictors. These problems could be avoided by
+
+assuming what is called a narrow factor analysis model, that is, assuming equal specific
+variances. Using asymptotic maximum likelihood theory makes it is shown that if this
+
+assumption is not to far from the correct model, it leads to better estimators or predictors
+
+than the correct one. The region, depending on the parameter values, where it pays to use
+narrow factor analysis models is presented, and applied to simple , but relevant examples.
+
+Almøy, T.: Prediction and factor analysis, 29 pp.
+
+Abstract.: In å multiple regression situation we assume a factor analysis model
+either for the independent variables or for the independent variables and the dependent
+variable jointly. By also assuming equal specific variances either for the independent
+variables or for the independent variables and the dependent variable we obtain what we
+call narrow models. Three possible models are sources for three different maximum
+
+likelihood estimators of the regression vectors, which are leading to three different
+linear predictors. These predictors are investigated by simulations covering a wide
+range of parameter values including cases where some of the assumptions are false.
+The predictors, called narrow predictors, are compared according to their minimum
+mean square error, and they are also compared to two different types of principal
+
+component regression (PCR) predictors. The conclusion is that no predictor is
+uniformly best, but even with relatively large deviations from the model at least two of
+the narrow predictors can be regarded as serious competitors to the PCR predictors.
+
+Almøy, T. and Haugland, E.: Calibration methods for NIRS instruments - a theoretical
+
+evaluation and comparisons by data splitting and simulations. [To appear in Appl. Spectroscopy]
+Abstract.: The properties of the recently proposed calibration method, restricted
+principal component regression (RPCR) were evaluated and compared with partial least
+square regression (PLSR) and two types of principal component regression (PCR1
+
+selected according to the size of the eigenvalues and PCR2 according to the t-value). RPCR
+can be considered a compromise between PCR and PLSR, as the first component of RPCR
+
+
+
+BRIEF INFO 1: 1, 1994
+
+31
+
+is equivalent to the first component of PLSR, while the rest can be regarded as principal
+components on a space orthogonal to the first. The methods showed almost the same
+
+properties when the irrelevant components had small eigenvalues. The prediction error of
+RPCR selected according to the size of the eigenvalues was intermediate to those of PCR1
+and PLSR when the number of components were low, while RPCR and PCR1 nearly
+
+coincided when the number of components exceeded the number of relevant ones. The
+
+prediction error minimum was about the same for RPCR, PCR1 and PLSR, but the
+minimum of PLSR was obtained when a lower number of components were included in the
+calibration model.
+
+Helland, I.S.: Simple counterexamples against the Conditionality Principle, 26 pp.
+Abstract. The famous Theorem of Birnbaum (1962) stating that the Likelihood
+Principle follows from the Conditionality Principle together with the Sufficiency
+
+Principle, has caused much discussion among statisticians. Briefly, many writers
+dislike the consequences of the Likelihood Principle (among other things, confidence
+coefficients and levels of tests are dismissed as meaningless), but at the same time they
+feel that both the Conditionality Principle and the Sufficiency Principle are intuitively
+obvious. In the present paper we give examples to show that the Conditionality
+Principle should not be taken to be of universal validity, and we discuss some
+consequences of these examples.
+
+Helland, I.S.: Partial least squares regression and latent variables, 10 pp.
+
+Abstract. Ina recent paper Frank and Friedman (1993) give a thorough discussion
+and comparison of ridge regression, principal component regression and partial least
+
+squares regression focusing mainly upon prediction performance. In the discussion of
+that paper, S. Wold argues that the understanding of latent structure is often more
+
+important in chemometrics than prediction. We give a precise formulation of how latent
+
+structure can be interpreted from the point of view of principal components and partial
+least squares. Also, we formulate a natural situation where partial least squares
+regression has better prediction properties than ridge regression.
+
+
+
+BRIEF INFO 1: 1, 1994
+
+32
+
+INorwegian School of Economics and Business Administration, 5000 Bergen, Norway.
+
+The Values of Insurance Companies under different
+Uncertain Portfolios
+by
+
+Knut K. Aase! and Isaac Meilijson2
+Abstract.
+
+The value of an insurance company mainly depends upon the premiums received in each
+underwriting period, the probability distribution of the accumulated claims against the
+company, the equity capital and the risk-adjusted rate of return determined by the market.
+Under the assumption
+
+that the objective is to maximize the profits to the shareholders, we
+
+analyze what factors determine the optimal equity capital and how the value of the company is
+
+affected by marginal changes in the underlying determinants. One such factor is the claims
+against the company in each period, which we represent by a stationary stochastic process. The
+existing orders for partially ranking risks do not suffice for our purpose, and new sufficient
+conditions are found on the risks facing the companies, for the successful ranking of the
+company values.
+
+Finally the effects of reinsurance in the present model are discussed, and it is demonstrated that
+onal reinsurance is not an optimal form of reinsurance, at least when seen from the
+point of view of the owners of an insurance corporation.
+
+A model for loss of profits
+insurance
+by
+
+Knut K. Aase
+
+Norwegian School of Economics and Business Administration
+5035 Sandviken-Bergen
+Norway
+
+Abstract
+
+We consider a model for loss of profits insurance where we use the principle
+of equivalence in the actuarial sciences. Here we demonstrate a
+
+computationally efficient method for calculating expected discounted values
+
+when the underlying technological uncertainty is modeled by a timecontinuous and homogeneous Markov process with a finite or possibly
+countable state space E. Such quantities may be interpreted as insurance
+
+premiums under certain assumptions, and an economic model is formulated
+where this is the case.
+
+
+
+33
+
+BRIEF INFO 1: 1, 1994
+
+Statistical Research Report
+
+Institute of Mathematics
+University of Oslo
+
+1992
+
+Eggen, 5.. Natvig. B. & Gåsemyr, J. (1992, No 1): Periodical conditions
+among two norwegian patient groups. A statistical analysis of the relation of
+probing pocket depth to sex, age, plague, residence and torus mandibularis.
+Natvig, B. & Gasemyr, J. (1992, No 2): Expert opinions in bayesian estimation of system reliability in a shock model - the MT Ps connection.
+Hjort, N. and Omre, H. (1992, No 3): Topics in Spatial Statistics.
+
+Kåresen. K. (1992. No 4): Parametric estimation: Choosing between narrow
+and wide models.
+
+Langholz, B. & Borgan, Ø.
+
+(1992, No 5): Nonparametric estimation of
+
+relative mortality from nested case-control studies.
+
+Langholz, B. & Borgan, Ø. (1992, No 6): Stratified Nested Case-Control
+Sampling in the Cox Regression model.
+
+Borgan, Ø., Goldstein. L. & Langholz, B. (1992, No 7): Methods for the
+analysis of sampled cohort data in the Cox proportional hazards model.
+Eggen, $.. Natvig. B. & Gasemyr, J. (1992, No 8): Variation in torus palatinus prevalence in Norway.
+
+Eggen, S. & Natvig. B. (1992, No 9): Concurrence of torus mandibularis and
+torus palatinus.
+
+Fenstad, G. U. & Skovlund, E. (1992, No 10): The Behrens-Fisher problem;
+a comparison of test. properties when observations are not necessarily normal.
+
+Gåsemyr, J. (1992): Reliability analysis in shock models. 1993
+
+Huseby. A. B & Gasemyr, J. (1993, No 1): Optimal project acceleration
+policies. å Bayesian approach.
+
+
+
+34
+
+BRIEF INFO 1: 1, 1994
+
+Samuelsen. S. O. & Nongrud, J. (1993, No 2): Evaluation of applying interval
+censoring ou longitudinal data on asthmatic symptoms.
+
+Abstract: In a longitudinal study of workers in 7 Norwegian aluminum plant the
+time to development of asthematic symptoms could only be determined to lie in
+
+the interval between two consecutive health examinations. in a previous paper we
+analyzed the data by survival techniques for interval censored data. In the present
+paper the data are reanalysed in two ways and compared to the previous analysis.
+
+First it is assumed that occurrence of symptoms concurred with reporting, in which
+
+case the data can be analysed as right censored. Secondly the follow-up times are
+
+completely disregarded and the effects of covariates are analysed on the binary
+outcomes of symptoms. comparing the estimated effects of the covariates between
+the three approaches only minor difference were found. However the estimates
+were analysed as right censored or interval censored.
+
+Langholz, B. & Borgan, Ø. (1993, No 3): Counter-Matching: A Stratified
+Nested Case-Control Sampling Method
+Abstract: A new type of nested case-control sampling is presented in which the
+sampled risk sets include the failure and random samples from “sampling strata”
+6
+
+defined by covariate information available for all cohort subjects. This sampling
+
+may be non-representative in that the proportion sampled from each stratum need
+not be representative of the entire risk set. Asymptotic relative efficiency comparisons indicate that this type of sampling has superior efficiency to simple nested
+case-control sampling in situations of practical interest. A simple extension of the
+
+method is given which allows for non-representative sampling of failures. Analysis
+of stratified sampled data may be performed using standard conditional logistic
+likelihood software which allows for an “offset” in the model.
+
+Hjort. N. L. (1993. No 4): Dynamic Likelihood Hazard Rate Estimation.
+Abstract: The best known methods for estimating hazard rate functions in survival
+analysis models are either purely parametric or purely nonparametric. The parametric ones are sometimes too biased while the nonparametric ones are sometimes
+too variable. In the present paper a certain semiparametric approach to hazard
+rate estimation. proposed in Hjort (1991), is developed further, aiming to com-
+
+bine parametric and nouparametric features. It uses a dynamic local likelihood
+approach to fit the locally most suitable member in a given parametric class of
+hazard rates. and amounts to a version of nonparametric parameter smoothing
+within the parametric class. Thus the parametric hazard rate estimate at time s
+
+inserts a parameter estimate that also depends on s. We study bias and variance
+properties of the resulting estimator and methods for choosing the local smoothing
+parameter. It is shown that dynamic likelihood estimation often leads to better
+performance than the purely nonparametric methods, while also having capacity
+for not losing much to the parametric methods in cases where the model being
+smoothed is adequate. *
+
+
+
+35
+
+BRIEF INFO 1: 1, 1994
+
+Hjort, N. L. & Pollard, D. (1993, No 5): Asymptotics for Minimisers of
+convex Processes.
+
+Abstract: By means of two simple convexity arguments we are able to develop a
+general method for proving consistency and asymptotic normality of estimators
+that are defined by minimisation of convex criterion functions. This method is
+then applied to a fair range of different statistical estimation problems, including
+Cox regression. logistic and Poisson regression, least absolute deviation regression
+outside model conditions, and pseudo-likelihood estimation for Markov chains.
+Our paper has two aims. The first is to exposit the method itself, which in many
+cases, under reasonable regularity conditions, leads to new proofs that are simpler
+than the traditional proofs. Our second aim is to exploit the method to its limits
+for logistic regression aud Cox regression, where we seek asymptotic results under
+as weak regularity conditions as possible. For Cox regression in particular we are
+able to weaken previously published regularity conditions substantially.
+
+Hjort, N. L. & Lumley, T. (1993, No 6): Normalised Local Hazard Plots
+Abstract: The purpose of this paper is to develop and illustrate certain classes of
+
+graphical plots that can be used for model verification in quite general survival data
+and life history data models. By suitably comparing nonparametric and parametric
+estimates of hazard rate functions over time a hazard comparison function can be
+constructed which under parametric model assumptions is approximately a zeromean normal Process.
+
+The test curves we propose are locally normalised versions of such hazard comparison functions.
+
+Under model conditions the test function is approximately a
+
+standard normal for each time point.
+
+curves easy to interpret.
+
+This makes the normalised local hazard
+
+We give explicit constructions for the most commonly
+
+used models of survival analysis, including the exponential, the Weibull, the Gompertz, the gamma, and for parametric Cox regression.
+out
+
+have been developed in Splus.
+
+Algorithins carrying this
+
+Various theoretical and practical issues are
+
+discussed. including detection power and extensions to time-discrete models.
+
+II-
+
+lustrations are given on simulated and real data.
+
+Byland. A. (1993, No 7):
+
+Classification of Cars in a Multiplicative Rating
+
+Model using Recursive Credibility Estimation - Theory and Application.
+
+
+
+BRIEF INFO 1: 1, 1994
+
+36.
+
+University of Oslo, Departement of Economics, Bor 1095 Blindern, 0317 Oslo
+Heldal, J. (February 1993): Reduced rank regression and decomposition of regressions in
+multiresponse gencralized lincar models. 206 pp. Thesis for Dr. of Politics in statistics.
+Abstract. The thesis first gives an introduction to the concept canonical regression developed
+by Tore Schweder in a context of least squares regression. This concept is developed further for
+generalized linear models estimated by maximum likelihood. Various methods for specifying low
+
+rank restrictions on a regression parameter matrix B in an estimation context are discussed. Let
+rank(B) = r. B can be decomposed into a sum of r rank one matrices y,a,.k = 1,...,7 where
+y, and ag are vectors. A technique called Forward canonical regression that takes advantage of
+this decomposition is developed for computing a maximum likelihood estimate of B with a given
+rank without Lagrange restrictions. Asymptotic properties of the estimator are developed. These
+results extend to the case when the estimate of B has restriced rank but the true rank is full.
+The thesis also developes a decomposition of an estimated matrix B in sum of rank one
+matrices which is optimal in a likelihood sense. This method is called Backwards canonical
+regression.
+
+The decomposition shows up latent structures in the regression and is subject to
+
+interpretation.
+
+The methods have been applied to datasets involving multinomial and several
+
+binomial responses.
+
+University of Oslo, Section of Medical Statistics
+
+P.B. 1122 Blindern, N-0317 Oslo
+
+On phase type distributions in survival analysis !
+Abbreviated title: Phase type distributions
+
+Odd O. Aalen
+Summary
+
+Consider a homogeneous, time-continuous Markov chain with a single absorbing
+state. For a given initial distribution on the transient state space, the time till
+absorption is said to have a phase type distribution. These distributions are much
+applied in queuing theory, but it is suggested here that they should also find greater
+application in biostatistics. A survey is given of various kinds of phase type models,
+connecting them to problems in survival analysis. A distinction is introduced between progressive and nonprogressive models. It is shown how a phase type model
+
+may be fitted to data on intervals between first and second birth.
+
+
+
+37
+
+BRIEF INFO I: 1, 1994
+
+ON THE USE OF HIV DIAGNOSIS INFORMATION IN
+MONITORING OF THE AIDS EPIDEMIC
+
+0.0. Aalent, V.T. Farewellft, D. De Angelisf{§and N.E. Day}
+fUniversity of Oslo, N-0317 Oslo 3, Norway
+
+ttUniversity of Waterloo, Waterloo, Ontario, Canada N2L 3G1
+{MRC Biostatistics Unit, Cambridge, UK, CB2 2SR
+§PHLS AIDS Centre at CDSC, London
+
+Summary
+
+For AIDS patients, information may be available on the time of HIV diagnosis (first positive HIV antibody test) in addition to the time of AIDS diagnosis. This extra information
+may be incorporated into backcalculation of HIV infection curves. This also allows the
+estimation of the rate of HIV diagnosis among HIV infected individuals, a measure which
+is of obvious public health importance. A framework for this is described and then applied
+to data from England and Wales. Different exposure categories are compared. The incorporation of information on the total number of HIV diagnoses in specific exposure groups
+is also examined.
+
+Phase-type distributions: a algebra and a simple mixing
+model !
+
+Abbreviated title: Phase type distributions
+Odd O. Aalen
+
+Summary
+
+The concept of a phase type distribution is well known from queuing theory,
+meaning the distribution of time till absorption in a finite state, homogeneous, timecontinuous Markov chain with one absorbing state. The computation of distribution
+functions and hazard rates by means of the symbolic programming system Mathematica is discussed. A mixing (frailty) model is studied, where the speed with which
+an individual moves on the chain is randomized. The potential application of this
+idea in medical statistics is discussed. The Laplace transform of the mixing variable
+plays an important role in the development and various possibilities for classes of
+Laplace transforms are presented.
+
+
+
+BRIEF INFO 1: 1, 1994
+
+38.
+
+Counting processes and
+dynamic modelling
+authors
+1.1
+
+0.0. Aalen!
+
+Summary
+
+I give some historical comments concerning the introduction of counting
+process theory into survival analysis. The concept of dynamic modelling of
+counting processes is discussed, focussing on the advantage of models that
+
+are not of proportional hazards type. The connection with a statistical
+definition of causality is pointed out. Finally, the concept of martingale
+residual processes is discussed briefly.
+
+REGRESSION MODELLING FOR
+LONG TERM SURVIVAL OF
+CANCER
+
+PART II
+
+A Linear Non-parametric Regression Model
+Author: P.H. Zahl
+Abstract
+
+A linear non-parametric regression model for the excess intensity is
+presented which allows the excess intensity to be non-positive as well as
+
+varying with time. A test method for the effect of covariates in specific
+
+intervals or for the complete observation period is given together with a
+Kolmogorov-Smirnov type test. The method is illustrated by long term
+survival analysis of all Norwegian males with Cancer Coli registered in a
+period of 10 years.
+
+
+
+39
+
+BRIEF INFO 1: 1, 1994
+
+A Method for Calibration of Weights in
+Sample Surveys.
+Johan Heldal
+
+Central Bureau of Statistics of Norway
+
+P.O. Box 8131, Dep., N-0033 Oslo
+October 29, 1992
+
+Abstract
+
+Sometimes statistics based on sample surveys are published for
+population totals for which the true values are known in advance from
+other sources, such as registers. This paper describes a method to
+calibrate the weights of persons and households in such a way that the
+estimates from the sample are forced to fit the true values exactly. The
+external information which is thereby incorporated in the weights may
+also help improving the estimation of other quantities. Applications
+are given.
+
+
+
+BRIEF INFO I: 1, 1994
+
+40
+
+Norwegian Computing Center, Bor 114 Blindern, N-0316 Oslo, Norway.
+
+Bølviken, Erik and Egeland, Thore (1992). “Simulation of spatially linked
+curves”, 9 p.
+
+Storvik, Geir (1992). SA Bayesian Approach to Dynamic Contours”. Part
+of Phd. thesis, 83 p.
+
+Storvik, Geir
+
+(1992). “Data-reduction by projections for multivariate spatial
+
+images”. Part of Pld. thesis, 23 p.
+
+Aldrin, Magne, (1993). ”Reduced rank regression for multivariate time series with missing observations; applied to traffic data”. 25 p.
+
+Reduced rank regression is extended to handle multivariate data with missing observations in the response variables. The method is used to estimate the
+effect. of introducing a toll cordon around Oslo. Several methodological issues
+are discussed from the perspective of this problem, the most important being
+1) selection of model rank, 2) the modelling of serial correlations in the errors
+and 3) uncertainty assessment by resampling.
+
+Andersen, Tove, (1993). ”The Little. Bootstrap - Å method for dimensionality selection in regression”. 31 p.
+
+Abstract. In a regression problem with many input variables, it is seldom a
+good idea to fit the data by means of least square regression on all of the input
+variables. A regression equation based on a few variables is in addition to being
+simpler, often more accurate.
+
+Therefore methods for dimension selecting are
+
+needed. Å common method is Mallows (, but since one uses the same data to
+evaluate the model as to select it, it often gives models that are too large. Thus
+
+alternative approaches are required. Here we discuss a method called the Lit-
+
+tle Bootstrap suggested by Breiman (1992). In comparison to Mallows C, the
+Little Bootstrap does well as documented by analytic examples and simulations.
+
+Bølviken, Erik and Egeland, Thore,(1993). ”Arson and statistics: (an the
+defendant’s proximity to a large number of fires be explained by chance?”. 8 p.
+Abstract. During ten days of June 93 a fireman stood trial, accused of arson
+in å community inthe southern part of Norway. The statistical expert evidence
+playing a major part in court is presented as a case study.
+
+The fireman was
+
+known to have been present at the scenes of fire in the hours prior to onset in
+
+no less than 24 out of 37 cases of forest fire. Was this so strikingly often that
+he had to be the arsonist’? The study attempts to answer the question through
+probabilistic analysis, carefully taking into account and integrating special features that could explain the peculiar behavior of the defendant. The conclusion
+hinges on certain input parameters to the calculation, and the principal aim of
+the work is organize, structure and reduce the material to a few quantities that
+are easier to comprehend than the problem in its original form. The court ac-
+
+
+
+BRIEF INFO 1: 1, 1994
+
+41
+
+cepted the relevance of the calculations, and used it against the defendant, but
+he was still acquitted. A number of issues related to probabilistic interpretation
+of evidence is discussed.
+
+Egeland. Thore: Georgsen, Frode; Skare, Øivind og Alabert Francois, (1993).
+
+“Analytical calculations related to facies simulation”. 9 p.
+
+Abstract. The paper present calculations related to the volumes of different
+facies types. In general statistical terms we are concerned with coverage processes. The calculations are typically performed prior to simulations of reservoir
+facies and may add substantially to the understanding of the model. Analytical formulae are vital when sensitivity studies are called for. The practitioner
+will typically want to single out the most important parameters of the inodel.
+Examples are shown based on a study of a turbiditic reservoir.
+
+Storvik, Geir: Egeland, Thore; Holden, Lars and Tjelme- land, Håkon,
+(1993). "Markov Chain simulations for analysis of marked point processes”.
+34 p.
+
+Abstract. Use of Markov chains and more general Markov processes for
+simulation from complex distributions has in the recent years got increasing
+interest. This report review the use of such processes for simulation of marked
+point. processes.
+
+The report. review the basic theory for Markov chains Further, it is shown
+how this theory may be used for constructing simulation algorithms such as the
+Gibbs sampler and the Metropolis algorithm, which both can be seen as special
+cases of the more general class of algorithms due to Hastings.
+
+In some cases. use of continuous time Markov processes is necessary for
+constructing efficient algorithms. The report considers one such process, the
+birth and death process, which has been of special interest for simulation of
+marked point processes.
+
+
+
+BRIEF INFO 1: 1, 1994
+
+42
+
+On some properties of De Pril transforms of counting
+distributions
+
+by
+
+Bjørn Sundt
+
+The Wyatt Company
+Oslo
+
+Abstract
+
+In this paper we study a transform introduced by De Pril (1989) for recursive
+
+evaluation of convolutions of counting distributions with a positive probability in
+
+zero. We discuss some cases where the evaluation of this transform is simplified
+and relate the transform to infinitely divisible distributions. Finally we discuss an
+
+algorithm presented by Dhaene & Vandebroek (1993) for recursive evaluation of
+convolutions.
+
+University of Tromsø, Institute of mathematical and physical sciences,
+
+N-9037 Tromsø.
+
+Bredrup, E. and Zhang, L. (October 1993): On Models of Inperfectly Shuf-
+
+fled Decks in Bridge, 32 pp.
+Abstract.
+
+In the present report, the authors have tried to model man-dealt
+
+decks which have been used in Bridge games and have been found to be unsatisfactory. two models were considered, one of which was shown to be admissible.
+Å simple test on the randomness of hand-shuffled decks based on this model has
+been developed.
+
+‘Tables containing the distributions of the suits in one hand,
+
+given the model under distinct values of the parameter, are provided through
+sunulation.
+
+
+
+43
+
+BRIEF INFO I: 1, 1994
+
+University of Trondheim, Norwegian Institute of Technology, Department of Mathematical
+
+Sciences, N-7034 Trondheim
+1992:
+
+Blaker, H. & Spjøtvoll, E.: Preference functions and acceptability in statistical inference.
+1993:
+
+Sebastiani, G. & Godtliebsen, F.: Image smoothing based on discontinuity patterns, 32 pp.
+Abstract. In this paper, we describe a new method to improve the quality of images degraded
+by additive white Gaussian noise. The true grey level is estimated by using weighted local
+averages of the measured values. The presence of different local patterns of discontinuities and
+
+their likelihood given the local measured grey levels are taken into account during the averaging.
+Results for both simulated and real Magnetic Resonance (MR) images are presented and compared
+to those obtained by some related methods.
+
+University of Trondheim, Department of Mathematics and Statistics, N-7055 Dragvoll
+1992:
+
+Bjørnstad, J.: On the generalization of the likelihood function and the likelihood principle,
+38 pp.
+
+Bjørnstad, J. & Skjold, F.: Interval estimation in the presence of nonresponse, 6 pp.
+
+Nonresponse models for panel surveys
+by
+
+Jan F. Bjørnstad and Dag Einar Sommervoll
+University of Trondheim and Central Bureau of Statistics of Norway
+
+
+
+BRIEF INFO 1: 1, 1994
+
+44
+
+SWEDEN
+
+University of Göteborg, Department of Statistics, Viktoriagatan 13,
+S-411 25 Göteborg
+
+Teråsvirta, T., Tjöstheim, D. & Granger C.W.J. (1992): Aspects of
+Modelling Nonlinear Time Series. 44 pp.
+
+Guilbaud, O. (1992): Exact Semiparametric Inference About the
+Within-Subject Variability in 2 x 2 Crossover Trails. 27 pp.
+Svensson, E. & Holm, S. (1992): Separation of systematic and
+random errors in ordinal rating scales. 25 pp.
+
+Frisén, M. & Åkermo, G. (May 1993): Comparison between two
+methods of surveillance: exponentially weighted moving average vs
+cusum. 23 pp.
+Abstract. The probability of a false alarm, the probability of sucessful detection and
+the predictive value are three measures (besides the usual ARL) used for comparing the
+performance of two methods often used in surveillance systems. One is the
+"Exponentially weighted moving average" method, EWMA, and the other one is the
+CUSUM method (V-mask). Illustrations are presented to explain the observed
+differences.
+
+Jonsson, R. (Aug 1993): Exact properties of McNemar’s test in small
+samples. 19 pp.
+Abstract. The exact distribution of McNemar's test statistic is used to determine
+critical points for two-sided tests of equality of marginal proportions in the correlated
+2x2 table. The result is a conservative unconditional test which reduces to the
+conditional binomial test as a special case. Exact critical points are given for the
+significance levels 0.05, 0.01 and 0.001 with the sample sizes n=6(1)50. A computer
+program for tail probabilities makes the calculation of power easy. It is concluded that
+McNemar’s test is never inferior to the conditional binomial test and the much can be
+gained by using the McNemar test if the main purpose is to detect differences between
+the marginal proportions in small samples. A further conclusion is that the chi-square
+approximation of McNemar’s test statistic may be inadequate when n < 50. Especially
+the 5% critical points are constantly too small.
+
+Gellerstedt, M. (Oct 1993): Resampling procedures in linear models.
+35 pp.
+Abstract. We will study here different resampling procedures for creating conficence
+sets in linear models. A special technique called abstract resampling makes it possible to
+use the true residuals and the true model for resampling. This may seem to be peculiar
+since the true residuals contains unknown parameters and thus are non observable; but
+for each specified parameter value the residuals are observable and can be used for
+resampling. Furthermore simulating the null distribution of some appropriate statistic
+gives the possiblity to test the accuracy of a hypothetic parameter value. Finally a
+conficence set can be created by finding the parameter values which can not be rejected.
+Bootstrapping the true residuals will be called abstract bootstrapping. We will show
+that the abstract bootstrap method is closely related to a permutation method.
+A balanced abstract boostrap method will also be presented, a method which treats
+
+the grand mean in linear models and can be applied in ordinary boostrapping as well.
+The resampling methods; bootstrap, abstract bootstrap and the permutation method
+are all closely related. Which method to use is discussed from a practical point of view.
+
+
+
+BRIEF INFO 1: 1, 1994
+
+45
+
+Linköping University, Deparment of Mathematics, S-581 83 Linköping
+
+Afsarinejad, K. (December 1992): Repeated measurements designs with unequal period
+sizes, 10 pp.
+
+Arnér, M. (January 1992): Nagra drag ur den statistiska hypotesprévningens historia. 15 pp.
+
+Danielsson, S. (October 1992): Estimation of the Muluplicative Effects on Countermeasures
+of Road Accidentsin the Presence of Regression, 21 pp.
+
+Danielsson, $. (November 1992): Sampling Individuals from Households: Estimation
+Problems in Situations with or without Nonresponse, 9 pp.
+
+Forsman, G., Danielsson, S. (October 1992): Telephone Interviewing and Data Quality,
+21 pp.
+an Overview and Empirical Study,
+
+Hjorth, U. (January 1992): Några stokastiska modeller på trafikområdet, 25 pp.
+
+Nordgaard, A., Hjorth, U. (June 1992): Statistical extrapolation and estimation of nutrient
+concentrations in the Baltic Sea, 61 pp.
+
+:
+
+Danielsson, S. (September 1993): Statistical Models for Analyzing the Number of Traffic
+Accidents and Injuries, 15 pp.
+
+Abstract.
+
+Most often the traffic safety is measured by the number of accidents, sometimes divided in
+
+different types of accidents. However, in many situations it is more convenient to study the consequences of
+the accidents, e.g. the number of injured (and killed) persons. Models for the number of accidents are exten-
+
+sively studied in the literature, but very little is written about models for the number of injuries.
+
+In this paper we claim that in many cases it is almost necessary to study both the number of accidents and the
+number of injuries. Therefore. we describe the principal model structure concerning the number of accidents,
+
+the number of injuries per accident and the toud number of injuries. We adopt the traditional models for the
+number of accidents and discuss different models for the number of injuries. With this background we sketch
+the possibilities to develop statistical methods for analyzing injury data.
+
+
+
+46
+
+BRIEF INFO 1: 1, 1994
+
+University of Lund, Department of Statistics, Box 7008, S-220 07 Lund, Sweden
+Fiile, E. (May 1992): Multivariate regression models based on prior
+information, with applications to ecological inference, 38 pp.
+
+Berg, S. & Lepelley, D. (October 1992): On probability models in voting theory,
+11 pp.
+
+de Figueiredo, E. (December 1992): Spatial differentiation with multivariate
+statistical metods: two case studies with Swedish data, 49 pp.
+Lanke, J. (December 1992): A note on mortality estimation, 9 pp.
+
+Ljungquist, B. (December 1992): Seasonal variations in the mortality of the
+extremely aged, 20 pp.
+
+University of Lund, Department of Statistics, Box 7008, S-220 07 Lund, Sweden
+
+Hagnell, M. (June 1993): A case-study of the regression of a latent variable on
+another latent variable for time series data, 25 pp.
+
+Abstract. In an economical-historical application with Swedish data from
+the years 1751-1850 we are interested in the dependence of the latent variable
+adult mortality, measured by the death rates for six different age groups, on the
+latent variable real income, measured by three indicators. A first simple
+LISREL model, composed of the regression of adult mortality on real income
+combined with a one-factor model for adult mortality and a one-factor model
+for real income, ignores that the data are time series which are auto- och
+crosscorrelated. Two different LISREL models, models Mj and Mp, with
+increasing complexity are presented to account for the autocorrelation in the
+data. Model Mj accounts for autocorrelation of the first order while the more
+complex model M3, accounts for autocorrelation of the second order. Model
+comparisons show that model Mj fits the data reasonably well.
+
+
+
+BRIEF INFO I: 1, 1994
+
+47
+
+Royal Institute of Technology, Department of Mathematics, S-10044 Stockholm
+Grandell, J. (October 1993): The mixed Poisson process in a modern setting, 68 pp.
+
+Abstract. With Ove Lundberg’s thesis from 1940 as a starting-point, we consider
+mixed Poisson processes. Special emphasis is given to characterizing properties and
+to relations with other classes of point processes.
+
+Grigelionis, B. and Yannaros, N. (March 1992): A generalized transfer theorem.
+9 pp.
+
+Holst L. (September 1993): The general birthday problem. 8 pp.
+
+Abstract. The general birthday problem with unlike birth probabilities and the
+waiting time N until c people with the same birthday have been obtained is studied
+in this paper. It is shown that N is stochastically largest when the birth probabilities
+are equal. By embedding in Poisson processes it is shown how the moments of N
+can be expressed in moments of the minimum of gamma random variables.
+
+Stockholm School of economics, Department of Economic Statistics, Box 6501, S-113 83
+Stockholm
+
+Edlund, P-O. & Karlsson, S. (March 1992): Forecasting the Swedish Unemployment Rate:
+VAR vs. Transfer Function Modelling, 38 pp. (EFI Research Report)
+
+
+
+BRIEF INFO |: 1, 1994
+
+48
+
+Stockholm University, Institute of Actuarial Mathematics and Mathematical Statistics,
+S106 91 Stockholm
+
+Ahlman, Ulla (November 1992): Statistisk analys av data fran subjektiva lyssningsprov,
+25 pp.
+
+Andersson, Christer (May 1992): En simuleringsstudie av olika estimatorer i GSAM, den
+generaliserade standardadditionsmetoden (kemisk analysmetod), 35 pp.
+
+Andersson, Hakan (January 1992): A threshold limit theorem for a multitype epidemic
+
+- model, 16 pp.
+
+Andersson, Håkan & Djehiche, Boualem (June 1992): Multitype epidemics and Brownian
+sheets, 14 pp.
+
+Andersson, Håkan (January 1993): A threshold limit theorem for an epidemic with fatal risk,
+16 pp.
+
+Abstract. We study an epidemic model proposed by Lefévre & Picard and derive a threshold limit theorem
+for the total cost, i.e. the total area under the trajectory of infectives, using a random time-scale transformation.
+
+Björkholm, Anders & Vågerö, Marten (May 1992): En simuleringsstudie av ett produktionssystem, utförd vid Ericsson Telecom, 43 pp.
+
+Britton, Tom (May 1992): The asymptotic distribution of a clustering index, 15 pp.
+
+Brånnstam, Gunnar (May 1992): Driftskostnadsersåttning från stationår livförsåkringsrörelse,
+23 pp.
+
+Guilbaud, Olivier (October 1992): Exact inference about the within-subject variability in 2x2
+crossover-trials, 24 pp.
+
+Hannerz, Harald (December 1993): Orthognatic surgery, from the patient's viewpoint, 44 pp.
+
+Abstract. In this work is studied what factors influence the patient's grade of satisfaction, based on data from
+
+a follow-up of patients having undergone orthognatic surgery.
+
+Johansson, Björn (December 1992): A simplified proof of the central limit theorem for
+continuous time martingales, 10 pp.
+
+Klintberg, Louise af (May 1992):
+
+Asymptotic normality of consistent estimators from
+
+independent observations under nonstandard conditions, 5 pp.
+
+Lagarde, Frédéric (May 1992): Statistical aspects of the influence of indoor radon exposure
+and smoking on the risk of lung cancer, 38 pp.
+
+Larsson, Rolf (December 1992): Asymptotic distribution theory for some test statistics in
+autoregressive and Galton-Watson processes (doctoral thesis), 162 pp.
+
+Linder, Marie (May 1992): Några statistiska metoder för analys av tidsberoende bakgrundsvariabler, tillstånd efter viss tid, och tid till viss föråndring, tillåmpade på data från nedlåggning av skolöverstyrelsen, 25 pp.
+
+Lundholm, Lotta (May 1992):
+
+Arbetsskadeanmålningar av belastningskaraktår — vem får
+
+reducerad risk efter gjord anmålan? 35 pp.
+
+Pettersson, Magnus (November 1992):
+
+Statistisk analys av dåmpning vid skarvning av
+
+optiska fibrer, 44 pp.
+
+Sundberg, Rolf (March 1993): Interpretation of unreplicated two-level factorial experiments,
+by examples. 23 pp
+Abstract.
+
+This tutorial invites the reader to acquire experience in the analysis of data from unreplicated two-
+
+level factorial experiments, in particular 24 and similar experiments, by a guided tour through a set of examples
+illustrating the many patterns possible in this type of data.
+
+Westin, Helén (May 1992): Stoploss-premie i motorförsåkring, 18 pp.
+
+
+
+49
+
+BRIEF INFO 1: 1, 1994
+
+Stockholm University, Department of Statistics, S-106 91 Stockholm
+Cenner, S.
+
+(March 1992): Classification Based on Entropies, 40pp.
+
+Cenner, S.
+
+(August 1992): Entropy and Redundancy in Discrete Multivariate
+
+Distributions,
+
+30pp.
+
+Cano, R.
+
+(June 1992): On the Efficiency of the Bayesian Bootstrap, 154pp.
+
+Dalén, J.
+
+(December 1992): Hedonic Indexes in Official Price Index Programs,
+
+(Doctoral dissertation).
+
+17pp.
+
+Dalenius, T.
+
+(January 1992): A Possible Means of Encouraging Cooperation
+
+in Iterview Surveys,
+
+Dalenius, T.
+
+9pp,
+
+(January 1992): Disclosure Control of a Vector of Magnitudes, 6pp.
+
+Frank, O. & Snijders, T.
+Snowball Sampling,
+
+Hågglund, G.
+
+(August 1992): Estimating Hidden Populations Using
+
+33pp.
+
+(May 1992): Jåmförelse av estimatorer för skattning av trafikflöden
+
+(A Comparison of Estimators of Traffic Flow), 32pp.
+
+Jåntti, M.
+
+(November 1992): Poverty Dominance and Statistical Inference, 17pp.
+
+Svensson, Å.
+
+(March 1992): When Will the Rumour Stop - On the Duration of a
+
+Maki-Thompson Epidemic,
+
+Changli,
+
+H.
+
+8pp.
+
+(January 1993):
+
+On Random Price Index Numbers,
+
+33pp.
+
+Abstract. Price index numbers involve prices and quantities at two occasions
+for a number of commodities, and it is generally assumed that survey data are
+
+available for making the appropriate estimates. Here the problem of uncertainty
+in the estimates is approached by considering the prices and quantities as
+
+random variables. AS a consequence, the price index is a random variable with a
+probability distribution reflecting the combined effects of uncertainty in
+commodity prices and quantities.
+
+Various random models and their implications for the price index distribution
+are discussed. In particular, exact or approximate expected values and standard
+deviations of the price index are given in a number of cases.
+
+
+
+BRIEF INFO 1: 1, 1994
+
+50.
+
+Dahmström, K.
+
+(June 1993):
+
+In Swedish: Kvantitativa metoder för utvårdering
+
+(Quantitative Methods for Evaluation,
+
+67pp.
+
+Abstract. In this report a survey of different statistical methods to evaluate
+the effects of a new program/treatment or a modified one is given. The
+
+prerequisites of a successful evaluation are discussed, for instance the design |
+of the study, but also the problems about the deviations in practice from an
+ideal situation.
+
+It is suggested that evaluations of labour market programs
+
+should be of high priority for applications.
+
+Dahmström, P. & Dahmström,
+
+K.
+
+(February 1993):
+
+Clustering Parameter in a Markov Graph Model,
+
+ML-Estimation of the
+29pp.
+
+Abstract. We consider a special case of Markov graph models with a clustering
+parameter o. ML-estimation of this parameter is performed by using simulation
+of Markov graphs. More specifically an expansion of the expected number of
+two-stars is done and a starting solution with the exact values of the first
+three cumulants when o = O is used. Furthermore, the cumulants up to the 4:th
+order are estimated for successively better estimates of o. A special computer
+
+program is written to perform the whole stepwise estimation procedure. The
+previously suggested method of pseudolikelihood estimation by the use of
+logistic regression is shown to be unsatisfactory in many situations. All
+methods considered are compared with the exact ML-estimates for complete
+enumerations.
+
+Frank,
+
+O. & Ohrvik,
+
+J.
+
+(January 1993):
+
+Information Divergence,
+
+Exploring Multimodality Using
+
+32pp.
+
+Abstract. Several tests of unimodality versus multimodality are here developed
+from the information theoretic notion of divergence. It is shown that for
+specific parametric and non-parametric families of distributions, some of the
+tests obtained are related to tests based on entropy and excess mass considered
+by other authors.
+
+Simulation results are reported that
+
+properties of
+
+tests.
+
+the
+
+illustrate power
+
+Hågglund, G. (September 1993): Factor Analysis by Instrumental Variables
+Methods: On the Reference Variables and a Comparison with Related Methods,
+38pp.
+
+Abstract. The estimation methods FABIN (Factor Analysis By INstrumental
+Variables) are viewed against a variety of more or less related methods. It is
+pointed out that the FABIN-methods possess several good properties compared
+with other methods. Here, the concept "formal simplicity" is discussed. The so
+called "reference variables" are considered from different points of view.
+Distinctions and relations to other methods are also discussed. Particularly,
+the aspect "exploratory versus confirmatory factor analysis" is considered.
+Moreover, the specific scaling of the FABIN-model is compared to the
+"traditional" methods,
+
+both theoretically and empirically.
+
+
+
+51
+
+BRIEF INFO I: 1, 1994
+
+Pårna, K.
+
+(December 1993): Correspondence Analysis: An Overview and Some
+
+Applications,
+
+38pp.
+
+Abstract. Correspondence analysis is an exploratory method for analyzing
+2-dimensional data tables that results in displaying the rows and columns as
+points in a low-dimensional vector space. This report is an introduction to
+correspondence analysis covering historical overview, essentials of the
+mathematical theory that stands behind the method, relationships with other
+statistical methods, an also some applications of correspondence analysis in
+social
+
+sciences.
+
+Svensson, A.
+
+(January 1993): On the Asymptotic Size and Duration of a Class
+
+of Epidemic Models,
+
+23pp.
+
+Abstract. Models for epidemic spread of infections are formulated by def ining
+intensities for relevant counting processes. It is assumed that an infected
+
+individual passes through k stages of infectivity. The times spent in the
+different stages are random. Many well-known models for the spread of infections
+can be described in this way. The models can also be applied to describe other
+processes of epidemic character (e.g. models for rumour spreading). Asymptotic
+results are derived both for the size and for the duration of the epidemic.
+
+Svensson, A.
+
+(September 1993): On the Simultaneous Distribution of Size and
+
+Costs of an Epidemic in a Closed Multi-Group Population,
+
+15pp.
+
+Abstract. A multiple stochastic epidemic model in which the infectivities and
+susceptibilities differ between subgroups is considered. To each infected are
+associated random effects of the infection, such the development of a subsequent
+disease and the length of the infectivity period. Sums of the corresponding
+random variables are called costs of the epidemic. The asymptotic simultaneous
+distribution of the size and costs of large epidemics is derived.
+
+Thorburn, D.
+
+(June 1993): The treatment of Outliers in Economic Statistics,
+
+16pp.
+
+Abstract. Outliers in economic statistics are true values, which have large
+impact on the estimates. We use skew superpopulation models and find an almost
+unbiased efficient estimator for a lognormal distribution. The method is tested
+on real data from the Swedish Register of Business Enterprises. A Bayesian
+bootstrap approach is used to find not only the estimates and their variances
+but also the full posterior distributions. These give information on the
+precision, which can not be obtained from the MSE or the standard error. Finally
+we treat the case with knowm supplementary information.
+
+
+
+BRIEF INFO 1: 1, 1994
+
+52
+
+University of Umeå, Department of Mathematical Statistics,
+S-901 87 Umeå
+
+Nordahl, Gunnar (January 1992): Å comparison of different maximum spacing estimators, 25pp.
+
+Wiklund, Fredrik (February 1992): Exact inference with matched data in
+survival analysis, 10pp.
+
+Broström, Göran (February 1992): Exact inference and resampling methods in Cox’s regression model, 9pp.
+
+Silvestrov, Dmitrii (May 1992): Recurrent upper bounds for moments of
+
+hitting times for semi-Markov processes.I, 21pp.
+
+Wiklund, Fredrik (May 1992): Exact inference with matched data in survival analysis, 28pp.
+
+Nilsson, Leif (January 1993): On the efficiency of Cox’s regression in small
+samples, 44pp.
+
+Abstract. One advantage of using Cox’s regression model, Cox (1972), instead
+of a fully parametric model is that one does not have to specify the baseline hazard
+function. A natural question is then what the loss of efficiency will be. In this
+paper we investigate the loss of efficiency by using Cox’s regression model instead
+
+of a Weibull regression model, when the latter is true. The two-sample case is
+investigated and three situations are considered, one without censoring, one with
+noninformative and independent censoring, and one with informative and inde-
+
+pendent censoring. A simulation study for the small sample performance is done
+and the estimated loss of efficiency is compared with the asymptotic relative efficiency. Also a simulation study on how the efficiency is affected if the true model
+is different from Weibull, is done.
+
+Brannberg, Kenny (January 1993):
+
+Observed score linear equating using
+
+background variables, 16pp.
+
+Abstract. Standard test score equating procedures usally require samples of
+examinees to respond to both new items and items already linked to an established
+scale (anchor-items), and/or the assumption that the examineegroups taking different testforms are random samples from the same population. In this paper a
+model is proposed for observed score linear equating when neither of these requirements are met. Maximum likelihood estimators of the equating parameters
+are derived, and data from two administrations of the Swedish Scholastic Aptitude
+Test are used to illustrate the use of the model.
+
+
+
+53
+
+BRIEF INFO I: 1, 1994
+
+Sjöstedt, Sara (January 1993): Forecasting multiple time series using mini-
+
+mum/maximum autocorrelation factors, 69pp.
+
+Abstract. A forecasting method for multivariate time series is proposed. The
+method is based on multivariate ideas previously applied in remote sensing. The
+approach has the purpose of splitting the information inherent in the time se-
+
+ries into important and unimportant information. This is achieved by linearly
+transforming the original time series to so called minimum/maximum autocorrelation factors (MAFs). The important information, the highly correlated MAFS, is
+used to forecast the time series. The unimportant information, the low correlated
+MAFs, is thrown away. The forecasting method is illustrated with six economic
+
+time series.
+
+Sadurskis, Karlis & Tsarkov, Yevgenij (March 1993): Stability of linear dif-
+
+ferential systems with diffusion coefficients, 15pp.
+
+Abstract. This report studies the exponential mean square stability of a trivial
+solution of linear differential equations with diffusion coefficients. An analytical
+algorithm has been applied to investigate the stability of the equilibrium of a
+predator-prey ecosystem in a random environment.
+
+Flygare, Ann-Marie (April 1993): Contextual classification using multi-temporal Landsat TM data, 76pp.
+
+Abstract. Contextual methods for classification of satellite images are considered. The models are based on a Bayesian approach, where the posterior distribution of the classes is maximized. A model for the class distribution assuming the
+classes of neighbour pixels to be conditionally independent, given the class of the
+
+central pixel, is utilized. Further, two models for the distribution of the spectral
+signatures are considered: conditionally independent spectral signatures and auto-
+
+correlated spectral signatures. The models above are extended to include images
+from two occasions. Usually the assumption of isotropy is made in classification
+models. A study of a Landsat TM image indicates that an anisotropic assumption
+may be more suitable.
+
+The models are therefore modified to fit the anisotropic
+
+case. One noncontextual method utilizing one image and two contextual methods,
+an one-image method and a two-image method are tested on Landsat TM data. As
+
+expected, the contextual methods perform better than the noncontextual. Using
+two images instead of one gave a small improvement.
+
+
+
+54
+
+BRIEF INFO |: 1, 1994
+
+Yu, Jun (November 1993): Consistency of an alternative nearest neighbor
+probability density function estimator, 18pp.
+Abstract.
+
+This paper presents an alternative nearest neighbor estimator of
+
+a probability density function, which differs from that proposed by Loftsgaarden
+and Quesenberry (1965). Some asymptotic properties of this new estimator, such
+as pointwise consistency, uniform consistency and Lj-norm strong consistency on
+the bounded interval, are studied.
+
+Yu, Jun (November 1993):
+
+Almost sure L,-norm convergence for a near-
+
+est neighbor probability density estimator, 14pp.
+Abstract.
+
+The main result of this paper is on almost sure L,-norm conver-
+
+gence for an alternative probability density nearest neighbor estimator. The main
+theorem in this paper states that when certain conditions of a general nature are
+
+satisfied, the new nearest neighbor estimator is strongly consistent in the sense of
+L,-norm, and these conditions are necessary.
+
+Yu, Jun (November 1993): On the rate of strong convergence for a nearest
+neighbor probability density estimator, 20pp.
+
+Abstract. The rate of strong pointwise convergence for an alternative probability density nearest neighbor estimator f, is studied here. The main theorem in
+this paper states that if the real density function f is positive and has nonzero rth
+derivative (r > 2), then when m,/n tends to zero, the strong convergence rate of
+
+fa(x) to f(z) is arbitrarily close to O(n"/(2"+1)) for properly chosen mn.
+
+Lindkvist, Hakan (December 1993): Modified least-squares cross-validation
+procedures in kernel hazard estimation, 39pp.
+
+Abstract. When using a kernel hazard function estimator, one of the most
+important problems is the choise of bandwidth, because it has strong influence
+on the quality of the estimate. A promising method for choosing the bandwidth
+in density estimation is least-squares cross-validation. In this paper, we propose
+and investigate the performance of some modified least-squares cross-validation
+procedures adapted to kernel hazard function estimation. This is done by studying seven different hazard functions and three cases, one without censoring, one
+with 20% censoring and one with 50% censoring. A simulation study is done for
+two different numbers of bins and the estimation of expectation and variance for
+
+integrated square error and integrated absolute error is compared.
+
+
+
+BRIEF INFO 1: 1, 1994
+
+55
+
+Yu, Jun (December 1993): On the rate of strong uniform convergence for
+a nearest neighbor probability density estimator, 20pp.
+
+Abstract. The rate of strong uniform convergence for an alternative probability density nearest neighbor estimator f, is studied here. The main theorems in
+this paper state that if the real density function f satisfies a Lipschitz condition of
+order 6 on R with 6 € (0, 1], then for properly chosen m,,, the strong uniform con-
+
+vergence rate of f, can be arbitrarily close to O(n-6/01+36)), but it can not reach
+
+O(n-§/(1+35)) for whatever m, we choose, and moreover, no convergence rate can
+be established without some further restrictions imposed on f except that of being
+uniformly continuous.
+
+Yu, Jun (December 1993): Uniform convergence rates of a nearest neighbor
+estimator for a class of probability density functions, 16pp.
+Abstract. This paper deals with the uniform convergence rates of an alterna-
+
+tive probability density nearest neighbor estimator f, and concludes that if the
+real density f is positive, uniformly continuous on R, and f”(z) bounded and continuous on R, then the strong uniform convergence rate of f, can be arbitrarily
+
+close to O(n-?/7), but it can not reach O(n~?/") for whatever m, we choose.
+
+
+
+56
+
+BRIEF INFO 1: 1, 1994
+
+University of Umeå, Department of Statistics, S-901 87 Umeå
+
+Laitila, T. (1992): Informal misspecification tests of the censored regression
+model.
+
+Laitila, T. (1992): Slope coefficient estimation in truncated regressions.
+
+Arnoldsson, G. (1994): Optimal design measures for linear combinations of linear
+predictors in generalized linear models.
+
+Abstract
+
+The problem of allocation of experimental units to experimental groups is studied
+within the context of generalized linear models. Optimal designs for estimation of linear
+combinations of linear predictors are characterised, using concepts from the theory of
+
+optimal design. If there is only one linear combination of interest, then the D-optimal
+
+allocation is equivalent to the well-known Neyman allocation of sub-samples in stratified
+
+random sampling. On the other hand, if the number of linear combinations equals the
+number of design points, then equal replication of all design points is D-optimal. For
+cases in between there are no easily accessible general solutions to the problem although
+some particular cases are solved including: (i) estimation of the n —1 possible
+comparisons with a control group in an n-point one-factor design and (ii) estimation of
+
+one or two of the four natural parameters of a 27-factorial design. The L-optimal
+allocation is determined in general.
+
+
+
+BRIEF INFO 1: 1, 1994
+
+57
+
+Wiklund, S. J. (1992). Estimating the Process Mean When Using Control Charts.
+Economic Quality Control, Vol. 7, 105-120.
+
+Wiklund, S.J. (1993). Adjustment Strategies When Using Shewhart Charts.
+Economic Quality Control, Vol. 8, 3-21.
+
+Abstract
+
+The adjustment of a process, brought about by an alarm signal from a control chart, would often
+
+require an estimate of current process mean. Based upon the ML-estimator of the process mean,
+
+some adjustment strategies are defined. Applying a Markov chain approach, the performance of
+these strategies are compared and in particular a comparison is made with the strategy of using the
+observed sample mean as an estimate. Numerical evaluations show large differences in some
+performance measures between the studied strategies. Results further indicate that the use of the
+ML-estimator provides a comparatively good strategy when shifts in the process mean are rare,
+
+whereas modifications of the ML-estimator might provide superior adjustment strategies when
+shifts occur frequently.
+
+Wiklund, S. J. Process Adjustment When Using EWMA Charts. International
+Journal of Quality and Reliability Management. To appear.
+Abstract
+
+Following an alarm signal from a control chart it may be necessary to conduct an adjustment to
+bring the process mean towards a target value. This study addresses the problem of how such an
+adjustment should be made, based upon the use of an EWMA control chart, including the special
+case in which the EWMA is equivalent to the Shewhart chart. The distribution of the EWMA
+statistic, at the occurrence of an alarm signal, is approximated by applying a Markov chain
+approach. This distribution is used to obtain a maximum likelihood estimator of the process mean.
+Adjustment strategies are defined based on the EWMA statistic, the ML-estimator and a
+modification of the ML-estimator. The performance of these adjustment strategies is compared in
+a simulation study, although the Shewhart case allowed for a simplified treatment requiring no
+simulation. The results indicate that adjustment based on the ML-estimator provides substantial
+improvement over the EWMA statistic when the smoothing constant of the control chart is
+moderate or high. When the smoothing constant is given a very low value the EWMA statistic
+provides the preferable adjustment strategy. Differences between control chart designs were less
+substantial than the differences between adjustment strategies for a given control chart.
+
+
+
+BRIEF INFO 1: 1, 1994
+
+58
+
+Uppsala University, Department of Mathematics, Bor 480, 5-75106 Uppsala
+
+Aton, N., BoLLOBÄAS, B., BRIGTHWELL, G. & JANSON, S. (September 1992): Linear
+extensions of a random partial order, 14 pp.
+
+BOLLoBAs, B. & JANSON, S. (October 1993): On the Length of the Longest Increasing
+Subsequence in a Random Permutation, 7 pp.
+
+Abstract.
+
+Complementing the results claiming that the maximal length L, of an
+
+increasing subsequence in a random partition of (1,2,...,n) is highly concentrated, we show
+i
+
+that L, is not concentrated in a short interval: sup, P(I < Lz,
+
+=H
+
+</+ nå log 3 n) — 0 as
+
+n — OO.
+
+FLEISCHMANN, K. & Ka, I. (September 1992): Large deviation probabilities for some
+rescaled superprocesses. To appear: Annales de I”Institut Henri Poincaré, 36 pp.
+
+FLEISCHMANN, K., GARTNER, J. & Ka, I. (August 1993): A Schilder type theorem for
+super-Brownian motion, 20 pp.
+
+Abstract. Let X be a continuous super-Brownian motion on R¢ with branching rate
+p which might be described symbolically by the stochastic equation dX;
+v2pX, dW, with dW,/dt a space-time white noise.
+
+= AX;dt +
+
+A version of Schilder’s Theorem is
+
+established concerning large deviation probabilities of X on path space as p — 0. The main
+
+result is a representation formula for the rate functional via an L?-norm on a generalized
+Cameron-Martin space of measure-valued paths.
+
+Gut, A. (April 1992): Complete Convergence and Cesaro Summation, 12 pp.
+
+GuT, A. (June 1993):
+
+Stopped Random Processes with Application to First Passage
+
+Times, 8 pp.
+
+Abstract. Much of this authors work has been devoted to stopped random walks with
+application to renewal theory etc. Some results have earlier been generalized to separable
+random processes with independent, stationary increments. The purpose of the present
+paper is to present some further generalizations of this kind.
+
+Hossjer, O., Rousseeuw, P.J. & Croux, C. (April 1992): Influence Function and
+Asymptotic Normality of the Repeated Median Slope Estimator, 35 pp.
+
+HÖSSJER, O., RoussEEuw, P.J. & Ruts, I. (June 1992): The repeated median intercept
+estimator: influence function and asymptotic normality, 26 pp.
+
+JANSON, S. (April 1992): Ortogonal Decompositions and Functional Limit Theorems for
+Random Graph Statistics, 70 pp.
+
+JANSON, S. & Luczak, T. (April 1992): Uncorrelated Associated Variables are Independent, 7 pp.
+
+
+
+59
+
+BRIEF INFO 1: 1, 1994
+
+JANSON, S. (January 1993): The Number of Spanning Trees, Hamilton Cycles and Perfect
+Matchings in a Random Graph, 26 pp.
+Abstract. The numbers of spanning trees, Hamilton cycles and perfect matchings in
+a random graph Gy» are shown to be asymptotically normal if m is neither too large nor
+
+too small. At the lower limit m x n°/?, these numbers are asymptotically lognormal for a
+wide range of p, including p constant. The same results are obtained for random directed
+graphs and bipartite graphs. The results are proved using decomposition and projection
+methods.
+
+JANSON, S. (October 1993): Hamilton Cycles in a Random Tournament, 6 pp.
+Abstract. The number of Hamilton cycles in a random tournament is asymptotically
+normally distributed.
+
+KorLo, T. & von Rosen, D. (May 1993):
+
+Moments and Cumulants of Symmetric
+
+Matrices with Application to the Wishart Distribution, 15 pp.
+
+Abstract.
+
+An algoritm is proposed and notions defined to determine the set of all
+
+possible higher order moments and cumulants of a random vector, a random matrix or a
+symmetric random matrix. The main attention has been paid to the case of symmetric
+
+matrices.
+
+Among others, a general relation between moments and cumulants has been
+
+established. Furthermore, using the introduced notions, cumulants of arbitrary order for
+the Wishart distribution have been obtained.
+VON Rosen, D. (October 1992): PLS, Linear Models & Invariant spaces, 9 pp.
+
+von Rosen, D. (October 1992): Homogenous Matrix Equation and Multivariable Linear
+Models, 12 pp.
+
+von Rosen, D. (May 1993): Moments for the Inverted Wishart Distribution with Application to the Growth Curve Model, 8 pp.
+
+Abstract. Moments of arbitrary order for the inverted Wishart distribution are ob-
+
+tained with the help of a factorization theorem and inverse moments for chi-squared variables. Expressions are given in a recursive as well as non-recursive manner. The results
+are applied to the maximum likelihood estimator for the mean structure in the Growth
+Curve model and moments of arbitrary order are established.
+von Rosen, D. (May 1993): Influential Observations in Multivariate Linear Models, 25
+pp.
+
+Abstract. A general approach of identifying influential observations is considered. The
+idea is to discuss neighbourhoods which are described with the help of Taylor expansions
+
+of perturbed models. In particular the growth curve model (Pothoff & Roy 1964) and an
+extension are discussed. However, some results appear also to be relevant for the univariate
+
+linear model. A
+
+selection of four different perturbations, all giving various aspects of
+
+influence, are treated. As another example the derivation of some results presented by de
+Gruttola et al. (1988) are simplified and extended.
+
+
+
+BRIEF INFO |: 1, 1994
+
+NETWORK MEMBERS
+
+NORWAY
+Inge Helland
+
+Inst. for Matem. Fag
+Agricultural University of Norway
+N-1432 As-Nlh
+
+Hans Karlsen
+Matematisk Institutt
+University of Bergen
+Allegt. 55
+
+N-5007 Bergen
+Jostein Lillestöl
+Norwegian Business School
+Helleveien 30
+
+N-5035 Bergen-Sandviken
+
+Ornulf Borgan
+Matematisk Institutt
+
+University of Oslo
+P.B. 1053 Blindern
+N-0316 Oslo
+Thore Egeland
+Norsk Regnesentral
+Box 114 Blindern
+N-0314 Oslo 3
+
+Elinor Ytterstad
+IMR
+University of Tromsö
+N-9000 Tromsö
+Jan Björnstad
+Inst. for Mat. og Statistikk
+University of Trondheim-AVH
+N-7055 Dragvoll
+Bo Lindqvist
+
+Inst. for Matematiske Fag
+University of Trondhein-NTH
+N-7034 Trondheim-NTH
+
+
+
+
+
+Returadresse:
+Tilfeldig Gang v/ Ole Lauvskar
+Vital Forsikring A.S
+
+5020 Bergen
+
+
+

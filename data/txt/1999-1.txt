@@ -1,0 +1,2521 @@
+ISSN 0803-8953
+
+TILFELDIG GANG
+
+Nr.1, årgang 16
+September 1999
+
+Utgitt av Norsk Statistisk Forening
+INNHOLD
+
+Redaksjonen.
+
+Fra redaktøren. Odd Aalen.
+
+Fra den nye formannen. Geir Egil Eide.
+Kommandørkorset av St. Olavs Orden til Emil Spjøtvoll.
+Bo Lindqvist
+
+Petter Mowinckel 50 år. Leif Sandvik
+Anders Rygh Swensen 50 år. Ørnulf Borgan og Bo Lindquist
+Begivenheter og forløp i norsk statistikk: Noen raske betraktninger.
+Tore Schweder
+
+Statistikkfaget ved årtusenskiftet. em Bent Natvig
+
+Referat fra årsmøte i Norsk Statistisk Forening. Ingrid K. Glad
+Det nye styret, foto.
+Logo-konkurranse
+
+Det 10. Norske Statistikermøte. Grete U. Fenstad
+Er Norge et biostatistisk u-land? Eva Skovlund
+The 18th Nordic Conference on Mathematical Statistics.
+Nytt fra Universitetet i Tromsø. Elinor Ytterstad
+Nytt fra Universitetet i Bergen. Trygve Nilsen
+Nytt fra NTNU. Håvard Rue
+Nytt fra Universitetet i Oslo. Grete U. Fenstad
+
+Nytt fra Norges Landbrukshøgskole. Trygve Almøy
+Medlemskap i Norsk Statistisk Forening.
+
+
+
+
+
+Redaksjon:
+Odd Aalen (redaktør)
+
+Grete Usterud Fenstad (redaksjonssekretær)
+Ingrid Glad
+Nils Lid Hjort
+André Peretz
+
+Redaksjonens adresse:
+
+Odd Aalen
+
+Seksjon for medisinsk statistikk
+Universitetet i Oslo
+P.b. 1122 Blindern, 0317 Oslo
+Tlf: 22 85 12 36
+Fax; 22 85 13 13
+
+e-mail: odd.aalen@basalmed.uio.no
+
+Bidrag til Tilfeldig Gang:
+Alle slags bidrag til bladet er velkomne, enten det gjelder nye temaer av
+interesse for norske statistikere, eller man har kommentarer til innlegg som
+
+allerede har stått i bladet. Stoff til neste nummer må være redaksjonen i hende
+innen 15.11.99
+
+Artikkelstoff vil normalt også bli lagt ut i nettversjonen av TG. De som ønsker å
+
+reservere seg mot dette, må gi beskjed ved innsendelse av stoff.
+
+
+
+Fra redaktøren:
+
+En ny TG-redaksjon tar til med friskt mot. Som redaktør har jeg vært så heldig å få
+meg fire meget kompetente personer fra Avdeling for statistikk, ved Matematisk
+institutt i Oslo, nemlig Grete Usterud Fenstad, Ingrid Glad, Nils Lid Hjort og André
+Peretz. Tanken er at det med en større redaksjon skal bli lettere å drive bladet.
+
+Vi mener TG er viktig. Det gir nyttige informasjoner, det speiler idéer, tanker og liv
+blant statistikere. Alle som ønsker å skrive noe, er hjertelig velkomne.
+
+Debatter er ønskelige. Et fag uten debatter dør, og vårt fag er vel preget av noe svak
+puls om man skal måle den etter debattnivået. Et fast innslag fremover vil være en
+spalte om ”Statistikkfaget ved årtusenskiftet”. Vi vil bestille noen innlegg, men tar
+gjerne mot andre også. Vi vil gjerne ha noen provokasjoner.
+
+Statistikere reiser en god del, blant annet på forskningsopphold. Vi håper på
+
+morsomme beskrivelser av hvordan det er i fremmede land.
+
+Personalia er viktige: 50-årsdager, 70-årsdager, og andre begivenheter. Men
+redaksjonen kan ikke følge opp dette alene. Vi er helt avhengige av at folk følger med
+i sine egne miljøer. Når noen f.eks. fyller femti år må en i det faglige nærmiljø tipse
+redaksjonen og skrive noen linjer om vedkommende.
+
+Som avtroppende formann i foreningen vil jeg også benytte anledningen til å ønske
+den nye formannen, Geir Egil Eide fra Handelshøyskolen i Bergen, hjertelig
+velkommen. Statistikk har økende samfunnsmessig betydning og vår forening er
+derfor viktig.
+
+Til slutt vil jeg igjen komme inn på min egen hjertesak: statistikk i skolen. Etter en del
+turbulens siste år, med angrep fra matematikere mot statistikken, med møter i
+departementet, har det nå roet seg. Statistikkens stilling i videregående skole virker
+ganske trygg. En viktig rolle i den senere tid har blitt spilt av Ørnulf Borgan,
+Matematisk institutt i Oslo, som har sittet i referansegruppe i departementet ved
+utarbeidelse av ny læreplan i matematikk for deler av videregående skole og som også
+har gjort en stor innsats i opplæring av lektorer i statistikk. Det er sterkt å håpe at
+foreningens engasjement på skolefeltet fortsetter med det nye styret.
+
+Odd Aalen
+
+Tilføyelse: Etter at arbeidet med dette nummeret var avsluttet har vi mottatt et
+trist budskap: Vår redaksjonelle medarbeider André Peretz døde 7.september.
+
+André var hovedfagsstudent i statistikk. Hans oppgave i redaksjonen var blant
+
+annet å tilrettelegge Internettsider for TG.
+Våre tanker går til André’s nærmeste.
+
+Odd Aa. på vegne av redaksjonen
+
+ed
+
+
+
+Fra den nye formannen
+Styret som ble valgt på statistikermøtet i Larvik har hatt sitt konstituerende møte. På
+tross av at møtet i Larvik viste en blomstrende aktivitet i foreningen og at norske
+statistikere har bidratt vesentlig til fagets utvikling de siste årtiene, ble det der også
+uttrykt bekymring over fagets fremtid. Med en generelt synkende rekruttering av
+studenter til realfagene og spesielt til matematikk, er statistikkfaget særlig utsatt.
+Styret ønsker å sette i gang en diskusjon i foreningen om hvordan vi kan markedsføre
+faget for å bedre rekrutteringen til hovedfag i statistikk. Ettersom statistikk og
+sannsynlighetsregning er kommet mer inn i pensum for den videregående skolen
+skulle en tro at grunnlaget for rekruttering er bedre enn tidligere. Hvorvidt dette er
+tilstrekkelig til å motvirke den generelle tendensen i realfagene er derimot et
+spørsmål. I såfall trengs det sannsynligvis sterkere virkemidler for å synliggjøre
+statistikerens rolle i samfunnet og de mulige karriereveier en utdannet statistiker har.
+Vi utfordrer derfor medlemmene til en idedugnad m.h.t. tiltak som kan støtte opp om
+statistikeryrket.
+
+En mulighet som styret ønsker å bruke er å gi reisestipender til hovedfagsstudenter
+som ønsker å delta på de nordiske og norske statistikermøtene. Dette gir foreningens
+fond anledning til. Vi vil komme tilbake til dette i neste nr. av TG m.h.t. det nordiske
+møtet i Grimstad i år 2000. - Styret ønsker generelt å gjøre det kjekt å velge statistikk
+som hovedfag og er åpen for ytterligere forslag som kan stimulere til slike valg. Styret diskuterte også muligheten for å utarbeide eget informasjonsmateriell som f.
+eks. kunne deles ut til alle nye realfagsstudenter, eventuelt en nettside med slik
+informasjon. Dette er ideer vi vil bearbeide videre.
+Til slutt vil jeg takke alle som deltok i Larvik for et riktig hyggelig møte som Osloforeningen har all mulig ære av arrangementsmessig. Også takk til alle de utmerkete
+foredragsholderne som både ga oss historisk perspektiv og oppdatert metodekunnskap
+på mange områder. Møtet var det 10. i rekken av norske møter etter hhv. Røros
+(1979), Bø (1981), Godøysund (1985), Milde (1987), Inderøy (1989), Jeløya (1991),
+
+Ustaoset (1993), Åsgårdsstrand (1995), og Selbu (1997) og således et lite jubileum.
+
+En spesiell, virtuell, blomst går til Grete Usterud Fenstad som er den eneste som har
+vært til stede på samtlige av de norske møtene! - Neste møte arrangeres av Statistisk
+forening i Bergen, og jeg vil oppfordre medlemmene til å la det gå sport i å delta!
+
+Geir Egil Eide
+
+
+
+Kommandørkorset av St. Olavs Orden til Emil Spjøtvoll
+Professor Emil Spjøtvoll, rektor ved Norges teknisk-naturvitenskapelige universitet NTNU,
+ble torsdag 24.juni overrakt Kommandørkorset av St. Olavs Orden. Overrekkelsen ble foretatt av konst. fylkesmann i Sør-Trøndelag, Aage Rundberget, under en mottagelse i NTNUs
+hovedbygning på Gløshaugen i Trondheim
+
+Om lag ett hundre gjester var tilstede og hyllet Spjøtvoll da han mottok ordenen. I de
+etterfølgende taler ble han takket både for sin innsats som brobygger innenfor den store og
+mangfoldige universitetsorganisasjonen i Trondheim, og som samfunnsbygger. Det siste året
+har han blant annet vært en markant deltager i debatten omkring det nye IT-senteret på
+Fornebu.
+
+Forslaget om å tildele Spjøtvoll St.Olavs Orden ble fremmet av tidligere president i Norges
+Tekniske Vitenskapsakademi, Johannes Moe og av adm.dir. Roar Arntzen i SINTEF. I sin
+begrunnelse la de vekt på Spjøtvolls innsats som valgt universitetsleder gjennom hele 90-tallet,
+og spesielt fremhevet de hans sentrale rolle i oppbyggingen av det nye NTNU fra 1996.
+Emil Spjøtvoll er 58 år og har vært rektor ved NTNU siden det nye universitetet ble opprettet i 1996. Han ble i fjor høst gjenvalgt for en ny periode som strekker seg til årsskiftet
+2001/2002. Tidligere har han både vært rektor (1993 - 1995) og prorektor (1990 - 1992),
+ved daværende NTH, og før dette dekanus ved Fakultet for fysikk og matematikk, samt instituttstyrer ved Institutt for matematiske fag ved NTH.
+
+I statistikk-miljøet kjenner vi imidlertid Spjøtvoll først og fremst som statistikeren Emil:
+Den fremragende forskeren, den dyktige foreleseren og den inspirerende veilederen. Han har
+sin utdanning fra Universitetet i Oslo, der han fikk tildelt graden dr.philos.i statistikk i 1968.
+Siden var han ansatt ved Universitetet i Oslo, ved Norsk institutt for skogforskning og ved
+Norges landbrukshøgskole. I 1983 ble han utnevnt til professor i statistikk ved NTH.
+Vi gratulerer Emil med den ærefulle utmerkelsen!
+
+Bo Lindqvist
+
+
+
+Petter Mowinckel 50 år
+En av pionerene i medisinsk statistikk i Norge, Petter Mowinckel, fylte 50 år i
+sommer.
+
+Jeg har hatt nær kontakt med Petter i over 25 år, og er i dag så heldig at vi har samme
+arbeidsplass: Stiftelse for helsetjenesteforskning (Heltef), lokalisert på Sentralsykehuset i Akershus. Vi har arbeidet tett sammen i mange år, blant annet på Medstat,
+et privat firma med sterk fokus på medisinsk statistikk.
+Som fagperson er det tre ting som er iøynefallende hos Petter:
+1.
+
+En velutviklet pedagogisk sans
+
+2. En uvanlig stor bredde i metodekunnskap. Hvis man — som anvendt statistiker —
+kommer opp i en situasjon der ’standard statistisk metodikk’ apenbart ikke kan
+brukes, er det en god idé å ringe til Petter.
+
+3. Basert på lang erfaring med å veilede medisinske forskere i statistikk, er han blitt
+opptatt av statistikerens ansvar for å bidra til redusert misbruk av statistisk
+metodikk i samfunnet. For eksempel bør vi stille følgende spørsnål: Med tanke på
+mulig misbruk, disponerer vi tida godt når vi avholder statistikkurs for forskere?
+Vet vi nok om hvordan förskere faktisk bruker avanserte metoder på egne data,
+etter å ha deltatt på våre kurs, for eksempel når det gjelder å sjekke forutsetninger?
+Jeg støtter Petter i hans syn på at dette er problemstillinger som statistikere — i
+langt større grad enn nå — bør forfølge. Ikke minst fordi dette er noe vi kan gjøre
+noe med, dersom det viser seg at Petter har dekning for sine ”negative hypoteser”
+på dette området.
+
+Det har vært en stor glede å bli kjent med Petter også på det private plan: Mannen er
+utrolig mangfoldig! En familiekjær og vennekjær person, med stor respekt for et stort
+spekter av ulike personlighetstyper. En stor kokk og vinkjenner, og en habil tryllekunstner. Og om ikke dette var nok: Stor appetitt på språk, reising til USA og
+Frankrike, opera og 50-talls amerikansk popmusikk. Men han avskyr musicals.
+
+En liten historie til slutt: Vi har vært på kongress i Frankrike, sitter og venter på en
+stor flyplass, og hører stadig beskjeder på fransk over et uklart høytaler-anlegg.
+Plutselig sier Petter til sin sidemann, en norsk statistiker: ”Informasjonskontoret vil
+
+snakke med deg. Hører du ikke de spør etter ’asjerto’?” Det viste seg selvsagt at Petter
+
+hadde rett: Det var Fagertun de ville snakke med.
+
+Leiv Sandvik
+
+
+
+Anders Rygh Swensen 50 år
+Anders Rygh Swensen fylte 50 år 20. mars i ar. Litt forsinket vil vi, som tidligere
+studiekamerater og nåværende fagfeller og venner, ønske Anders til lykke med
+jubileet.
+
+Anders er en allsidig statistiker med en bred erfaringsbakgrunn. Dette sees
+både av hans yrkeskarriere og hans vitenskapelige produksjon. Han ble cand.real.
+med hovedfag i statistikk ved Universitetet i Oslo i 1975.
+
+Den siste del av
+
+hovedfagstiden tilbragte han som vitenskapelig assistent ved Norges Tekniske
+Høgskole. Etter avsluttet hovedfag studerte Anders ett år ved Université Pierre
+
+et Marie Curie i Paris før han, som flere andre nordmenn på den tiden, dro
+til det vel renommerte University of California, Berkeley.
+
+Her tok han Ph.D.-
+
+graden i 1980. Etter å ha arbeidet ved Televerkets forskningsinstitutt, Statistisk
+
+Sentralbyrå (både metodegruppa og den økonomiske forskningsavdelingen) og
+Sosialøkonomisk institutt fikk han i 1994 sin nåværende stilling som. professor
+ved Matematisk institutt ved Universitetet i Oslo.
+
+Anders har publisert arbeider innen ulike felter av statistikkfaget. Hans
+hovedfagsoppgave veiledet av Erik Torgersen ga opphav til en artikkel i Annals of
+Statistics om sammenligning av lineærnormale eksperimenter. I Berkeley hadde
+han Lucien LeCam som veileder. Hans Ph.D.-avhandling behandlet asymptotisk inferens i stokastiske prosesser, og den ledet til flere publikasjoner. Hans arbeid ved Televerkets forskningsinstitutt førte til flere publikasjoner om stokastiske
+problemeri teletrafikk. Fra tiden i metodegruppa i Statistisk Sentralbyrå har han
+publisert artikler om kombinert bruk av registre og utvalgsundersøkelser. Da han
+arbeidet i den økonomiske forskningsavdelingen i Statistisk Sentralbyrå ble han
+opptatt av metodeproblemer knyttet til analyse av økonomiske tidsrekker, noe
+som fortsatt er hans hovedinteresse innen forskning.
+
+Anders er en engasjert person, systematisk og seriøs, men med en lun humor. Hans interesser spenner langt ut over statistikkfaget. Anders leser mer
+skjønnlitteratur enn de fleste av oss får tid til, han er en utmerket kokk, og stiller
+også opp som trener for sønnen Sjurs fotballag når dette kreves. Anders er en
+alle tiders kollega og venn, som vi på denne måten vil ønske hjertelig til lykke
+med de runde år!
+
+Ørnulf Borgan
+
+Bo Lindqvist
+
+
+
+Begivenheter og forløp i norsk statistikk: noen raske betraktninger
+Foredrag på Det 10. Norske Statistikermøte i Larvik 14. juni 1999 av
+Tore Schweder, Sosialøkonomisk institutt, Universitetet i Oslo,
+tore.schweder@econ.uio.no
+
+Innledning
+
+Norge har ingen sterk fagtradisjoni statistikk. Vi er en utkant i Europa, og vart fag er
+kjennetegnet av det. Sammenliknet med Danmark, har Norge lite å vise for seg. Danmark
+er en del av kontinentet, og har en mye sterkere vitenskapelig tradisjon. I Danmark førte
+Oppermann, Gram og Thiele arven fra Laplace og Gauss videre, og i matematisk og
+teoretisk statistikk 14 København helt i front mot slutten av forige århundre. Da Karl
+Pearson hadde sine første forelesninger i statistikk i London i 1892 viste han til
+Westergaards ferske bok Die Grundziige der Theorie der Statistik (1890) som “By far the
+
+best textbook on the relation of statistics and probability for those who read German”.
+
+Det kan faktisk hevdes at Kobenhavnernei teoretisk og anvendt statistikk var pa høyde
+med London helt fram til Galtons død i 1911. T.N. Thiele må nok regnes som den mest
+
+betydelige av danskene. Han blir trukket fram i Halds nye bok”. Steffen Lauritzen
+
+arbeider med å oversette til engelsk Thieles bok fra 1889, samt hans artikkel fra 1880 der
+han blant annet utvikler Kalman-filter. J.P. Gram var heller ikke borte. Han presenterte,
+for eksempel, stratifisert utvalgsmetodikk og formelen for optimal allokering i et
+
+stratumdelt utvalg i 18833. Det dabbet imidlertid av i København rundt 1910, Gosset
+
+hadde presentert sin t-fordeling i 1908 og Fisher kom i gang i England. Også på andre
+områder var Danmark helt i tet, på en annen måte enn Norge. Fibinger var en lege som
+gjennomførte verdens første skikkelig kontrollerte kliniske forsøk, for å se om
+serumbehandling virket bedre mot difteri enn den tradisjonelle behandlingen. Og Erlang
+utviklet køteori. På den andre siden av Øresund var Charlier i sving fra 1904, og i
+Uppsala innførte Lundberg merkete Poissonprosesser i forsikringsmatematikk i 1903.
+For å illustrere vår svake stilling historisk, vil jeg nevne at Anders Hald i sin nye bok,
+nevner en eneste nordmann som original bidragsyter innen matematisk statistikk i
+perioden 1750 - 1930. Boka er på 795 sider, hvorav 35 sider med henvisninger! Oppgave:
+hvem er denne ene nordmannen som Hald viser til?
+
+Noe har vi likevel å vise til. Og det kan være lærerikt å se på enkelte personer, hendelser
+og forløp i vår hjemlige fagtradisjon. Jeg definerer ”statistikk” nokså bredt, ikke bare for
+å få noe å berette om. Det er mye å lære av folk som har virket utenfor den snevre
+! Barnard, G.A., Plackett, R.L. and Pearson E.S. 1990. Student, Oxford University Press, side 13.
+? Hald, A. 1998 A History ofMathematical Statistics From 1750 to 1930. Wiley.
+3 Gram, J.P. 1883. Om Beregning af en Bevoxnings Masse ved Hjælp af Prøvetræer. Tidsskriftfor
+Skovbrug. 6: 137-198. På side 179 presenterer han formelen for standardardavviket til
+populasjonsmiddelestimatet, og han sier *Nu kan man stille forskjellige Fordringer. Man kunde saaledes
+forlange, at Antallet af Prøvetræer i de enkelte Klasser skal være saaledes, at Nøiagtigheden bliver
+*ensartet”, ....En annen Fordring, der kunde stilles, var den, at den samlede Middelfeil ... skulle blive saa
+
+lille som mulig.” Deretter følger formelen for optimal allokering (som vanligvis tilskrives Neyman, 1934).
+
+
+
+matematiske statistikken, også for de av oss som arbeider med modeller og
+metodeutvikling. Westergaard, en av de gode danskene, definerer (implisitt), en
+(anvendt) statistiker som en som under målbevisst arbeid samler tall sammen, på en måte
+som ikke kan angripes som tendensiøs, og trekker slutninger som fra alle sider kan
+
+anerkjennes som vel begrunnete". Westergaard legger til ”som de eneste mulige”, noe
+som er å kreve vel mye av statistikeren. Det trengs også en definisjon for teoretisk
+statistikk. Hva medå si at en teoretisk statistiker er en som skaper eller forbedrer
+begreper, modeller eller metoder som er nyttige for statistiske anvendelser.
+
+Westergaard er også opptatt av at statistikken går i store bølger — med grenseløs
+optimisme og enorme ambisjoner på toppene, og hensynsløs tvili bunnene. På det gamle
+
+statistikkfagets* område (statistikk= læren om statsforfatningeni videste forstand,
+
+Achenwald ca 1760), kan en regne toppene med Lavoisier (som trodde en kunne regne og
+
+dedusere seg til alt mulig), Quetelet (som mente å kunne telle og måle alt mulig) og Karl
+Pearson med sin Grammar ofScience og etterfølgende biometri. På det nye fagets
+område, den statistiske metode- og slutninglæren, kan toppene regnes ved Laplace/Gauss,
+Thiele/Galton og Fisher/Neyman/Wald.
+
+Hva er personene, begivenhetene og forløpene i vår hjemlige statistikktradisjon, og
+hvordan føyer de seg inn i fagets store bølgebevegelser? Hvordan står vi i dag — i en
+tvilens bølgedal eller på en selvsikkerhetens topp? Det siste skal jeg ikke si mye om. Men
+med noe framskriving av historien, slik jeg legger den fram, i nokså kronologisk orden,
+skulle det være mulig å danne seg en mening.
+
+Jens E. Kraft (1784 - 1853) kan være et sted å begynne. Fra 1820 til 1835 utga han
+Topografisk-statistisk beskrivelse over Norge. Dette er et 6 binds verk i beste Achenwaldtradisjon. Kraft beskriver Norge, ikke bare institusjonelt, men også økonomisk,
+befolkningsmessig og topografisk. Han ble lenge regnet som en autoritet. Det var jo ikke
+mye annet å vise til.
+
+Anton Martin Schweigaard (1808 — 1870) nevnes av Rune Slagstad? som
+
+embedsmannsstatens fremste strateg sammen med Fredrik Stang. De to sto for mye av
+moderniseringen av Norge i midten av forrige århundre. Schweigaard ble professor ved
+Det Kongelige Fredriks i ”Lovkyndighet, statsøkonomi og statistikk” i 1840. Dette
+professoratet hadde tidligere Stang hatt, men uten ”statistikk” i tittelen. Schweigaard var
+stortingsmann i lange perioder. Slagstad kaller han og Stang for ”professorpolitikere”.
+Slike er det ikke mange av i dag — utenom Gudmund Hernes! Det er heller ikke mange
+som dekker feltene lovkyndighet, statsøkonomi og statistikk! Schweigaard var mer jurist
+og økonom enn egentlig statistiker. Han så, imidlertid, seg selv i beste Achenwaldtradisjon, og hadde store vyer. I 1840 ga han ut Norges Statistikk. Den var bebudet i to
+bind, men det ble med bind 1. Denne boka var ren statistisk beskrivelse. Litt kjedelig og
+oppramsende, synes jeg.
+“ Westergaard, H. og Nybølle, H. 1927. Statistikkens teori i grundriss. 3. Utgave, København.
+
+> Schweder, T. Statistikkfageti Norge, det gamle og det nye faget. 1986. I Statistisk Sett, Jubileumsskrift
+
+for Norsk Statistisk Forening.
+
+S Slagstad, R. 1998. De nasjonale strateger. Pax
+
+
+
+Schweigaard var bedre i sin politikk og sine programerklæringer. Dette var på Quetelets
+tid, på toppen av statistikkens selvbevissthet. Det sto strid om ved hvilket fakultet
+
+professoratet etter Stang skulle ligge, ved det filosofiske eller det juridiske. Schweigaard
+fikk manøvrert seg til å skrive betenkningen for dette spørsmål. Han framholdt at
+statistikken
+
+“efter den senere mere rationale Bearbeidelse ... ophørt at være en Samling
+Curiositeter og Historiske Antiquiteter og er gaaet ind under de juridiskoeconomiske Statsvidenskabers Classe”.
+
+(I Det Norske Videnskaps-akademi har statistikk helt til nylig sortert under den historisk-
+
+filosofiske klasse, sammen med økonomer og andre samfunnsvitere, og ikke sammen
+med matematikerne i den matematisk-naturvitenskapelige klasse.) Schweigaard
+framholdt videre at statistikken var blitt en moderne og viktig vitenskap idet den ga
+
+“Grundlaget for Staternes organiske og administrative Lovgivning” ved å gi ”de factiske
+Data for den anvendte National-oeconomi”. Tanken var at den moderne statistikken
+skulle fungere som vitenskapelig styringsdisiplin. For å få det til måtte den inni det
+juridiske fakultet, og ikke bare være et *Accessorium til en historisk eller philosophisk
+Docents Embede”. Schweigaard bidro også sterkt til betenkningen for det professorat han
+fikk i 1840: Ved å samle statsøkonomi, statistikk og jus ville en få en *oeconomisk Lære,
+der i den Betydning er norsk, at den kan yde riktig Veiledning om, hvad der hos os bør
+rettes og forbedres”.
+
+Linjen går fra Kraft (som også var literaturhistoriker, og som sikker passet bedre på histfil) over Schweigaard og til Tabellkontoret i Indredepartementet, som ble omdannet til
+Statistisk sentralbyrå i 1876. Fredrik Stang ville ruste opp dette Tabellkontoret fordi han
+så i statistikken et nytt styringspolitisk redskap:
+
+*aldeles uundværlig til en riktig Opfatning af Forholdene, og som Følge deraf til
+en grundig og sikker Behandling af Spørsmaale, der angaae Næringsveiene, de
+oekonomiske Forholde, Beskatningsvæsenet, og overhoved Udviklingen af Rigets
+materielle Kræfter saa vel som ogsaa af adskillige andre ikke rent materielle
+Interesser”.
+
+Til tross for støtte fra Schweigaard, kunne ikke Stortinget i 1850 se nytten av å
+profesjonalisere det statistiske arbeidet: det måtte kunne utføres av *Underofficerer og
+duelige Kontorbetjente”.
+
+Vitenskapelig sett var Schweigaard ikke banebrytende på statistikkens område. Det var
+heller ikke de etterfølgende professorene i *Lovkyndighet, statsøkonomi og statistikk”,
+
+før Frisch og Haavelmo, som vi etterhvert skal komme til.
+
+:
+
+Eilert Sundt (1817 — 1875) var imidlertid banebrytende. Men han ble da heller ikke
+professor. Jeg vil hevde at om Sundt hadde skrevet på et stort språk, engelsk, tysk, fransk,
+
+
+
+ja selv på italiensk, ville han ha blitt regnet som en helt framtredende samfunnsforsker,
+minst på linje med Weber og Durkheim.
+
+Sundt kunne ha vært professor - om han ikke hadde blitt så grepet av ren forskning, men
+
+hadde holdt seg til teologien. Han var stipendiat i teologi, og tiltenkt rollen som professor
+ved Universitetet. Sundt arbeidet som lærer ved tukthuset på Akershus Festning. Der traff
+han på fanter. Noen var stakkarslige middelaldrende menn som hver høst ble buret inne —
+ikke for annet enn at de ennå ikke var konfirmert. Sundt, som kunne sanskrit, lærte seg
+romani, og ble interessert i fantenes usle levekår og i deres kultur. En sommer la han ut
+på vandring i et par måneder, for å se hvordan fantene levde. Han traff ikke en eneste
+fant, men han så så mye annen elendighet på den norske landsbygda, at han bestemte seg
+til å vie sitt liv til et studium av almuens levekår.
+
+Sundt var en iherdig forsker og skribent. Han skrev nærmere en boki året fra 1850 til
+1868. I tillegg ga han ut bladet Folkevennen, hvor han skrev det meste selv. Blant Sundts
+titler finner vi
+
+e
+
+Beretning om Fante- eller Landstrygerfolket i Norge; Bidrag til Kundskab om de
+laveste Samfundsforhold (1850),
+Fortsatt Beretning om Fantefolket (1859),
+
+Anden aars Beretning om Fantefolket (1863),
+Tredje aars Beretning om Fantefolket (1863),
+Fjerde aars Beretning om Fantefolket (1865),
+
+Om Dødeligheden i Norge. Bidrag til kundskab om folkets kaar (1855),
+Om Giftermaal i Norge. Bidrag til kundskab om folkets kaar og Seder (1855),
+Om Piperviken og Ruseløkbakken; Undersøgelse om Arbeiderklassens Kaar og
+
+Sæder i Christiania (1858),
+
+Om Sædeligheds-Tilstanden i Norge (1857) med fortsettelser i 1864 og 1866,
+
+e
+
+Om Ædrueligheds-Tilstanden i Norge (1859),
+Harham; Et Exempel fra fiskeri-Distrikterne (1859).
+
+Av titlene kan en skjønne at Sundt søkte kunnskap om mange ulike sider ved almuens
+levekår i Norge. I Harham var det ulykker på havet som opptok han. Sundt var sosiolog,
+Norges første — og hittil avgjort den fremste. Det er ikke for ingen ting at
+
+sosiologstudentenes forening på Blindern heter Eilert, og at SV-fakultetes hus heter Eilert
+Sundts Hus.
+
+Men var Sundt ‘bare’ sosiolog? Etter vår definisjon var han også statistiker: han samlet
+målbevisst inn tall på en måte som ikke kunne angripes som tendensiøs, og han trakk
+slutninger som fra alle sider kan anerkjennes som vel begrunnete. Sundt var faktisk en
+utpreget metodemann, og statistisk analytiker av første rang. Kanskje han er Norges beste
+statistiker gjennom tidene! For å underbygge dette henter jeg noen sitater fra Om
+Piperviken og Ruseløkbakken; Undersøgelse om Arbeiderklassens Kaar og Sæder i
+Christiania:
+
+10
+
+
+
+*Og overhovedet er det vel uimodsigelig, at denne måde med tal er den
+
+allersikreste til at erholde pålidelige oplysning om en vis befolknings tilstand, thi
+det må altid erindres, at for hvert tal, som skal anføres, er det så og så mange
+
+mennesker eller familier, som havde det på den ene eller den andre måde, og det
+er jo sikrere at bedømme en sag efter mange exempler end, som det oftest sker,
+efter to eller tre.”
+
+Undersøkelsen ble gjort ved intervjuer. Sundt hadde en assistent som han hadde instruert
+meget nøye, og som hadde et klart skjema for intervjuet og registreringen i de utvalgte
+hjemmene — som var trukket ut gjennom å ha barn på skolen. For å sikre seg mot
+intervjueffekt, holdt Sundt hensikten med undersøkelsen skjult for assistenten:
+“Og her må det vel erindres, at samme klasse-inndeling er udført av meg og ikke
+av den mand, som samlede disse oppgaver og avgav disse skjønn. Ja, denne mand
+kunne ikke engang have nogen tanke om, at jeg vilde opstille denne inddeling
+med bestillingsklasse 0.s.v., og at jeg vilde henføre den og den familie til denne
+eller hin klasse. Han kan altså umuligt have lempet sit skjøn for at få de slutninger
+
+stadfæstede, som mine sammenligninger give anledning til.”3
+
+Den statistiske analysen var skarp. Han opererte med begivenhet/eksponeringstabeller for
+å studere fruktbarheten etter klasse. Han så på to- og treveis tabeller og lette etter
+
+interaksjonseffekter. Og han kikket sine data etter i sømmenei lys av problemstillingen
+på alle tenkelige måter. Sundt hadde klassifisert familiene etter klasse, med
+grovklassifiseringen “Bestillingsmannsklassen” og *Svendeklassen” og
+
+“Arbeidsmandsklassen”. Sundts hypotese var at det hersket en gjennomgående forverring
+fra klasse B til S til A. Dette er også det han finner, og som han forbilledlig konkluderer:
+“mellem de tre klasser ... viste det seg en umiskjendelig, regelmæssig forskjel. Dette
+
+forhold kom tilsyne ved hver eneste av de mange sammenligninger i tabellerne.. .”? Han
+
+nevner i oppsummeringen 14 ulike variable som er sammenliknet — fra boligens
+romslighet, antall kjøkken pr. familie (1/2 i den laveste klassen), grad av renslighet, grad
+av skolegang, tilfanget gudelige bøker og aviser.
+
+Petter Laake har skrevet en utmerket artikkel'" om Sundt. Han viser hvor god Sundt er til
+
+å validere sine konklusjoner. Vi så hvordan han foretok ‘blinde’ intervju-undersøkelser.
+Han la stor vekt på å underbygge at utvalgene hans var representative for en bestemt målpopulasjon. Blant annet så han etter om den utstrakte usedeligheten han hadde sett i
+Vågå, Lom og Fron var *en sørgelig untagelse blant landets øvrige bygder”, eller om det
+var representativt for en klasse innlandsbygder. Her undersøkte han disse bygdenes
+representativitet “ved telling og beregning”, og han så etter om det i disse bygder var
+systematisk høyere usedelighet over tid. Han bekymret seg over frafallsproblematikk ved
+sine intervju-undersøkelser, og han argumenterte kvantitativt for at utvalget som han
+gjorde ikke var skjevt. Når han brukte intervjuere søkte han å avsløre mulige
+” Side 79
+® Side 95
+? Side 134
+0 Statistisk Sett, Jubileumsskriftfor Norsk Statistisk Forening.
+
+LI
+
+
+
+intervjueffekter ved å sammenlikne svar fra sine respondenter (lærere) ved å parre
+nabobygder.
+
+Det var slett ikke bare i analysen at Sundt var skarp. Som vi så, hadde han også et klart
+blikk for design (blindt forsøk). Hans spørreskjemaer var meget klare og gjennomtenkte,
+og han la stort arbeid i å etablere en kontekst for undersøkelsen som ville gi høy kvalitet i
+
+responsen. Dette, blant annet ved følgebrev fra øvrighetspersoner når han brukte prester
+som informanter. Også i det større perspektiv hadde han forbilledlig forskningsstrategi.
+Hver sommer foretok han egenhendig feltarbeid, ved å vandre gjennom landet og gjøre
+
+observasjoner. På disse turene samlet han data for årets undersøkelse, etter en på forhånd
+utarbeidet plan. Han tenkte også på neste års undersøkelse, og samlet i mange tilfeller
+data for en pilotundersøkelse.
+
+Sundt har blitt kalt en *dikter i kjensgjerninger”". Han skrev så vakkert, og han skrev på
+
+et språk som også siktet mot almuens menn. Desverre ble nok leserkretsen snevrere enn
+
+han hadde håpet. Den hadde fortjent bedre. Hør bare hva han sier til slutt i Om Piperviken
+og Ruseløkbakken:
+
+“Thi den tanke synes mig at ligge saa nær: Når forskningen formar at trænge
+igjennem og finde eiendommeligheder og regelbundne forskjelligheder i de
+
+enkelte grupper af et samfund, hvor alt ved første øiekast synes så ensformigt og
+farveløst, da må også den menneskekjærlige og virkelystne villie kunde
+frembringe glædelige forandringer i den ofte sørgelige tilstand. Der skal jo dog så
+lidet til, før den tilværende forskjellighed viser sig for forskningen; der skal da
+vel også kun lidet til, før den ønskede forandring indtræder for menneskevennens
+bestræbelse. Hvad der kreves hos ham, det er god tro og god villie; med resten går
+
+det som med sæden, der gror, medens sædemannen sover.”
+
+Er Sundt tvetydig med sitt bilde her? En tolkning er at når bare opplysningene kommer
+fram vil levekårsforbedringene komme nesten av seg selv, som kornet etter såing. En
+annen tolkning, som kanskje er noe søkt, er at han noe ironisk sikter til stortingspolitikere
+og andre opinionsdannere og ledere med sin 'sædemann”. Etter hvert svant nemlig støtten
+til Sundt hos de som hadde makt mens Sundts sæd grodde bort i støvete biblioteker.
+
+Sundt fikk hvert år fra 1848 til 1869 et personlig stipendium fra Stortinget. Det var før
+forskningsrådenes tid, og det var debatt i Stortinget hver gang. Til slutt ble stipendiet
+avslått med den begrunnelse at slik forskning som Sundt drev ikke ble gjort i andre land —
+og da kunne den vel neppe være så mye verdt!
+
+Som med statistikkfaget, har Sundts omdømme gått i bølger. I 1905 omtales han i
+Salomonsens leksikon slik:
+
+“Det er ikke den videnskabelige side ved Sundts folkebeskrivelse og
+
+sosialstatistiske forskning som har hatt størst betydning. Vistnok åpner hans
+undersøkelser på mange punkter nyt land ... men de åpenbarer en iøyenfallende
+5 H.O. Christophersen. 1962. Eilert Sundt, en dikter i kjensgjerninger. Gyldendal.
+Side 137
+
+Ld
+
+
+
+mangel på stringent metode, deres stofmasse er kun slet sigtet, deres kritik lader
+
+meget tilbake å ønske, og deres slutninger er ofte forhastede.”
+
+Axel Sophus Guldberg (1838 — 1915) var matematiker og forsikringsmann. I 1873 fikk
+han plass til en liten artikkel Om Sandsynlighedsregningen og dens anvendelse på
+Hazardspil og Forsikringsvæsen i Sundts Folkevennen. Arnljot Høyland har trukket fram
+og kommentert denne artikkelen"? Guldberg starter sitt forord med
+*Sandsynlighedsregningen er i sit Princip saa simpel og letfattelig, at enhver, der
+er hjemme i almindelig Regning, uden store Vanskeligheder kan følge en populær
+Fremstilling av denne Regnings første Begyndelsesgrunde. Paa den anden Side er
+denne Regning rig paa Anvendelser. ... Vistnok kan et Skrift som det
+
+foreliggende ikke læses som en Morskabsbog, men fordrer trods sit ringe Omfang
+
+Tid og Eftertanke, for at Læseren, der uden matematiske Kundskaber, skal kunde
+tilegne sig Stoffet. Men dette Selvarbeide, hvortil Læseren tvinges ved et
+hvilketsomhelst Emne, der er av matematisk Inhold, er paa engang forfriskende
+og vækkende ligeovefor saa megen anden Læsning.”
+
+Etter å ha presentert det optimistiske syn, at vitenskapen skrider fram ved å finne mønster
+i det som før virket kaotisk og tilfeldig, og etter hvert etablerer lovmessigheter som
+forklarer det hele, skriver Guldberg at det gis “mangt og meget, som synes at spotte
+
+enhver menneskelig Anstrængelse, naar det gjælder at bestemme forud, hvad der vil
+skje.” Han nevner myntkast.
+
+Guldberg starter med Pascal, og hans argument for hvordan potten skal deles rettferdig
+
+dersom et spill som består av flere uavhengige omganger må avbrytes. Han regner
+igjennom forskjellige spill, og nevner St. Petersburgparadokset: Ved å doble innsatsen
+
+hver gang du taper i en omgang rulett, vil du med sikkerhet før eller siden vinne tilbake
+den opprinnelige innsatsen dobbelt opp. Men ”selv den rigeste Mand maatte snart give
+tabt”.
+
+Når det gjelder forsikring, argumenterer Guldberg for at tallene i en dødelighetstabell er å
+forstå som Pascalske (betingete) sannsynligheter: *Naar der nemlig af 10000 30-aarige
+Mennesker i Aarets Løb dø 110, saa er der 110 gunstige Tilfælde for Død, medens der er
+10000 mulige Tilfælde”. En dødelighetstabell vil derfor tjene som fundament for ”en
+Mængde forskjellige Beregninger”.
+
+Dette skrift var ment som folkeopplysning. Guldberg var nokså moderne for sin tid, selv
+om han nok ikke rakk opp til Københavnerne. Der glattet Oppermann sine
+
+dødelighetstabeller ved en velvalgt minste kvadraters metode, og Gram utvikler sin
+spektralanalyse helt fram til kubiske spliner. Guldbergs skrift ble altså trykt i Sundts
+Folkevennen — *til Folkeaandens Vækkelse, Udvikling og Forædling”. Høyland sukker i
+sin artikkel, og spør om noen norsk publikasjon i dag ville publisere en tilsvarende
+artikkel. Og det var før TV2 og den omseggripende tabloidiseringen.
+
+3 | Statistisk sett.
+
+13
+
+
+
+Min tittel er *Begivenheter og forløp i norsk statistikk”. Et viktig forløp er .
+
+forsikringsmatematikken. Guldberg var tidlig ute her, med sin Enkekasse. Den Norske
+
+Aktuarforening ble stiftet i 1904, med Guldberg som formann. Vi skal senere svinge
+
+innom aktuarene Birger Meidell og Erling Sverdrup. Den siste var, som kjent, sentral i
+
+etableringen av matematisk statistikk som disiplin i Norge.
+
+Anders Nicolai Kiær (1838 — 1919) var ansatt i Indredepartementets Tabellkontor. Han
+var mer enn en *underofficer eller duelig kontorbetjent”, og ble Statistisk sentralbyrås
+første direktør ved opprettelsen i 1876. Statistisk Sentralbyrå og Norges Offisielle
+Statistikk må sees som fullbyrding av Schweigaards strev for å etablere en statistisk basis
+for den offentlige debatt og den politiske beslutningsprosess. Det trengtes faktisk
+kunnskap, ikke bare synsing! Byrået har fremdeles en sterk stilling i den norske
+offentlighet - takket være Kiær og hans etterfølgere, ikke minst Petter Jakob Bjerve som
+var Byråets direktør i nærmere 30 år. Blant mange ting la Bjerve til rette for et
+
+personnummer-basert statistikkgrunnlag. Kiær var medå starte ISI, Det internasjonale
+
+statistiske institutt, og han var et ivrig medlem. På 70-tallet var Bjerve formann for ISI.
+
+Han var også finansminister en kort periode — og han er faren til Steinar Bjerve.
+
+Kiær var en drivende demograf og sosialstatistiker. På hans initiativ ble det gjennomført
+en rekke undersøkelser, også på det økonomiske området. Som Sundt, var Kiær en god
+skribent. Hans stil var meget klar, men knapt så poetisk. Kiær skrev for den dannete
+allmennhet og den politiske elite, ikke også for allmuens folk. Kiær skrev selv
+innledningen til mange av Byråets publikasjoner. Den statistiske språkrøkt som Kiær
+representerte har satt gode spor i Byråets publikasjoner til denne dag. Her har dagens
+statistikere mye å lære. Vi skulle legge mer vekt på den skriftlige framstillingen en det
+jeg synes vi gjennomgående gjør. Det er naturligvis hederlige unntak, men stort sett blir
+det mye knot — og alt for lite god prosa, enn si poesi å la Sundt. Det er krevende å
+
+presentere statistisk informasjon, og uten trening blir framstillingen dårlig. Får studentene
+den treningen som kreves? Mitt inntrykk er at de i alt for liten grad blir avkrevd
+
+sammenhengende skriftsstykker som blir rettet og kommentert, ikke bare i matematikken
+
+og tallene. Selv fikk jeg slik hjelp bare en gang i min studietid, og jeg husker hvor
+overraskende det var da Sverdrup formante meg om de små ordenes viktighet.
+
+Kiær er kjent for sin “representative metode”. Sammen med Jacob Neuman Mohn så
+Kiær utvalgsmetodikkens verdi når en skulle undersøke slike ting som inntekts- og
+formuesforhold i befolkningen. Mohn brukte alt i 1880 denne metoden for å studere
+husmennenes levekår. I 1891 foretok de sammen en undersøkelse av inntekts- og
+formuesfordelingen i Norge ved hjelp av et proporsjonalt stratumdelt kvasi-tilfeldig
+utvalg. Kiær trakk sine utvalg slik at de skulle være “sa vilkårlige og tilfeldige i forhold
+til populasjonen, at man kan anta at det virker på samme måte som et lotteri.” Han brukte
+ikke sannsynlighetsregning for å karakterisere utvalgsmetodens egenskaper. Det gjorde
+imidlertid Gram i København i 1883, da han utviklet formelen for optimalt stratumdelt
+utvalgsallokering for å taksere en skog. Dette var 50 år før Neyman!
+
+14
+
+
+
+Ib Thomsen har skrevet om Kiær". Han legger vekt på at Kiær neppe kan sies å ha funnet
+på metoden med stikkprøver, men at han snarere så hvor verdifull denne metoden kan
+være for å få sosialstatistisk kunnskap, og at han både gjennom egen praksis og gjennom
+sine innlegg i norske og internasjonale fora arbeidet iherdig for å få metoden akseptert.
+Som sjef på Byrået, deltok Kiær på møtene i Det internasjonale statistiske institutt (ISI)
+fra starten. I 1895 la han der fram sin representative metode, men møtte motbør. Den kom
+fra begge kanter. Noen holdt på den *antropologiske metode”, som går ut på å studere en
+liten del av samfunnet — en grend eller en landsby — i dybden, for så å generalisere på
+grunnlag av den innsikt som derved opparbeides. De mente Kiær hadde for store utvalg.
+Andre satt fast i den forestilling at bare fullstendige tellinger kan gi holdbare resultater.
+De sa at Kiærs representative metode var så sterkt i motstrid med ”la statistique serieuse”
+at den ikke kunne regnes som et akseptabelt statistisk ideal. Kiær prøvde gjentatte ganger
+å få gjennomslag for sin metodei ISI, også i 1899, da møtet var lagt til Kristiania, med
+Kiær som vert, men det var først i 1905 han fikk ISI på glid. Nå regnes Kiær som en
+foregangsmann på dette viktige metodeområdet. Han er nok vår internasjonalt mest
+
+kjente statistiker, om en holder Frisch og Haavelmo utenom.
+
+Birger Meidell (1882 — 1957) sto for et matematisk statistisk mellomspill i 1908. da han
+
+tok opp tråden fra Gauss og Poincaré. Problemet var å finne den fordelingsklassen som
+gjør en gitt observator, t(xi, ... , Xn) til sannsynlighetsmaksimeringsestimator for
+indeksparameteren u. Her er enkeltobservasjonene x1, ... , Xn uavhengige og identisk
+fordelt. Meidell antok i tillegg at om alle observasjonene er like, og lik x, er x estimatet.
+Videre, antok han at observatoren er en homogen funksjon av de n observasjonene.
+
+I det generelle tilfellet finner Meidell en generalisert eksponensiell fordelingsklasse som
+svar, og observatoren er gitt som løsningen av en estimeringslikning. Når observatoren er
+det geometriske middel, blir svaret en ordinær eksponensiell fordelingsklasse i de
+logaritmiske observasjonene.
+
+Meidell var professor i forsikringsteknikk fra 1923, og han var Sverdrups lærer. Han var
+en original mann. Når han var forkjølet, hadde han med drammeflaske på forelesningene,
+
+og den ble flittig hentet fram fra under kateteret. Når han hadde vondt i ryggen, brukte
+
+han katteskinn under skjorta, med fellen inn. En gang kom kattehalen opp gjennom
+snippen. Den duvet i takt med kroppsbevegelsene — uten at Meidell merket noe.
+
+Meidell var NS-mann, og kommissarisk statsråd i Quislings regjering. Han ble dømt til
+livsvarig fengsel for landssvik.
+
+Johan Hjort (1869 — 1948) er Norges beste biostatistiker, i alle fall når en ser bort fra folk
+som lever og virker i dag. Nå for tiden er biostatistikk nesten utelukkende medisinsk
+statistikk. Statistikk for landbruksfag, viltforvaltning, fiskerier og biologi i det hele, er
+nærmest en parentes. Hjort er nestoren i norsk havforsking, og han regnes blant verdens
+1 I Statistisk sett.
+15 Mejdell, B. 1908. Zum Fehlergesetz. Z. Math. Phys. 58, 77-85.
+
+IS
+
+
+
+fremste marinbiologer’®. Han var var forste fiskeridirektor, fra 1906, og han var professor
+
+i marinbiologi i Oslo fra 1921. Det internasjonale rad for havforsking, ICES, ble etablert i
+
+1902, med Hjort som sentralt medlem, og senere som president.
+
+I tillegg var Johan Hjort oldefaren til Nils Lid Hjort. I familien går Johan Hjort under
+
+navnet Reka (for å skille han fra andre Hjorter med samme fornavn).
+
+Hjort må ha vært et arbeidsjern. Han har en veldig produksjon, og han skrev godt. En god
+del skrev han for fiskeribefolkningen, for eksempel om fiskerier og hvalfangst (1902), og
+da var stilen direkte og konkret, og fremstillingen var illustrert med vakre tegninger — i
+
+tillegg til et nødvendig innslag av gode tabeller og grafer. Framstillingen minner om
+Nansens, men den er mer statistisk. Vi kan godt regne Hjort med i den gode
+skriftstradisjonen fra Sundt og Kiær.
+
+Det er få næringer som er så preget av variasjon og tilfeldigheter som fiske. Hvorfor
+
+varierer fiskeriene så mye? Det var det store spørsmål for fiskerne, og den store
+
+utfordringen for Hjort og marinbiologene. Migrasjonshypotesen gikk ut på at det var
+vekslinger i fiskeribestandenes vandringsmønster, og ikke i mengden fisk, som var årsak
+til vekslingene. Denne hypotesen sto sterkt. En annen hypotese var at fiskerne tok
+rognfisken, og at det derfor ble for dårlig rekruttering. Skipsreder Dannevig var en av
+proponentene for denne hypotesen, og han gikk i gang med klekkerier for å hjelpe på
+rekrutteringen. Hjort var skeptisk til begge hypoteser. Han visste, fra merkeforsøk og fra
+oceanografisk kunnskap, at det var nokså faste mønster i vandringene til sild og torsk.
+Han var også klar over at fiskerne tok en betydelig andel av bestanden. Det kunne han se
+av hvor hyppig merkete fisk ble fanget. Videre visste han at hver gytende hunnfisk
+produserte millioner av egg, så det kunne neppe hjelpe med litt menneskelig fødselshjelp
+i Dannevigs klekkerier. Hjort fikk igjennom at det skulle gjøres eksperimenter for å
+undersøke om klekking ville være til hjelp for fiskerne. Han insisterte på at forsøket
+skulle være kontrollert. og han tok en vesentlig mer skeptisk og vitenskapelig holdning
+enn Dannevig da resultatene skulle analyseres. Ganske overbevisende argumenterte han
+og hans kollegaer for at Dannevig hadde overtolket tilfeldige og naturlige utslag i
+resultatene, og at testresultatene meget vel kunne tilskrives disse tilfeldighetene.
+Hjort hadde stelt med forsikring for sjømenn. Der hadde han fått øynene opp for
+befolkningslærens begreper: dødelighet, fruktbarhet, fødselskohort og migrasjon. I 1907
+argumenterte han i ICES for at vekslingene i de store fiskeriene muligens kunne skyldes
+variasjon i årsklassenes styrke. Om det gikk noen år mellom hver gang det kom en stor
+årsklasse, ville bestanden bli liten når den forige store årsklassen døde ut. Han fikk liten
+
+respons, og ingen støtte for et felles forskningsopplegg. I 1914" Ja han fram resultatene
+
+av sine egne studier av torsk og sild. Boka var meget overbevisende, blant annet gjennom
+sin gode bruk av tabeller og grafisk framstilling av statistiske data, men først of fremst
+gjennom sitt overveldende materiale og sin kritiske prøving av *årsklassehypotesen”.
+16 I sin bok Scaling Fisheries, the science of measauring the effects of fishing, 1855 to 1955, Cambridge
+University Press, 1994, holder Tim Smith fram Johan Hjort som den ledende, og han velger sitater fra
+
+Hjorts ulike skrifter som motto.
+
+17 Johan Hjort. 1914. Vekslingerne i de store fiskerier. Aschehoug & Co.
+
+lb
+
+
+
+Hjort hadde altså en teoretisk modell og en klar hypotese. Han trengte en metode for å
+aldersbestemme fisk, og han måtte påvise at torsk og sild faktisk vekslet mellom sterke
+
+og svake årsklasser. Først aldersbestemmelsen. Dette ble gjort ved å telle årringer på
+
+fiskeskjellene. Denne teknikken ble utviklet i Hjorts laboratorium. Den ble presentert ved
+Hjorts Figur 9. Deretter måtte den samlede fangsten dekomponeres i årsklasser. Det ble
+tatt utvalg på ca 20 fisk fra en rekke fangster landet i en rekke havneri hvert av årene
+1907 til 1913. Hjort bruker betegnelsen *representativ” om sine utvalg, og de ble
+alderbestemt.
+
+La oss se på sild. Vårsild er kjønnsmoden og gytende sild. Siden silda kan bli nokså
+gammel, kan en håpe å se en eller flere gode årsklasser som marsjerer gjennom fangstene
+over en årrekke. Se Hjorts Figur 132. Kunne dette bildet av en dominerende årsklasse,
+som vandrer gjennom livet, skyldes særegenheter ved fisket eller prøvetakingen? Det var
+
+jo bare en ørliten andel av fangstene som ble aldersbestemt. For å undersøke dette, gjorde
+Hjort som Sundt, han delte prøvene opp etter år og sted for å se om bildet med den sterke
+1904-årsklassen var like klart over alt. Av de mange tilsvarende grafene, som alle bidrar
+til å styrke gyldigheten av Hjorts slutning, har jeg valgt ut hans Figur 20. Merk Hjorts
+grep med å glatte de diskrete aldershyppighetene, slik at øyet kan følge de stedsspesifikke kurvene.
+
+56789
+101
+2 13 14 15 16 47 18
+T
+
+T-
+
+1907
+
+1908
+
+- 10
+
+of
+,
+
+Fig. 9. Forholdet mellem sildens størrelse og skjællenes vekstsoner.
+
+65
+
+- 30
+
+- 20
+
+1943
+
+7
+
+NU AN
+
+L
+
+1909
+1910
+
+18
+
+1911
+1912
+1915
+
+60}
+55
+50
+45)
+40
+
+35
+
+15h
+
+Mr
+Å 1914
+5 6 7 8 9 10 11 12 13 14 15 16 17 18
+
+sol.
+
+Fig. 132.
+
+Alderssammensætningen
+
+repr
+
+er
+
+25
+20
+
+1910
+
+09
+
+08
+
+07
+
+06
+
+0s
+
+04
+
+03
+
+02
+
+of
+
+Fig. 20. Vaarsildprøver 1913. Alderssammensætning.
+
+1900
+
+gi
+
+hos vaarsilden i aarene 1907—1914.
+
+Kurverne
+
+av alle de i hvert enkelt aar undersøkte prøver.
+
+aaret 1914 av de paa fig. 131 givne prøver, som alle er fra februar maaned.
+79
+
+It
+
+For
+
+
+
+Hjort avslutter sin bok med en gjennomgang av aldersfordelingen i fangstene i 1914
+(hans Figur 132), et materiale som ikke kom med i hovedanalysen. Bildet er det samme
+som uten dette materialet. I konklusjonen skriver Hjort
+
+“Men det maal, som undersøkelserne saaledes har tilstræbt, kan efter min mening
+til gjengjæld ogsaa sies at være naadd, paa den maate, som et slikt maal i det hele
+kan naaes, idet der er utviklet en metode, ved hjelp av hvilken det har været mulig
+at tegne repræsentative billeder av silde- og torskebestanden i de norske farvand,
+og det har fra aar til aar vist sig, at det ene aars situation har utviklet sig av det
+foregaaende aars saaledes, som vi har ventet det. Vi har saaledes i flere aar hat
+forudviden, kunnet forutsige.”
+
+Årsklasseteorien ble etablert med dette arbeidet. Denne modellen, med årsklasser av
+vekslende styrke, ligger til grunn for bestandsestimering av fisk, og har selvsagt hatt
+meget stor betydning.
+
+Hjort hadde også betydning for hvalfangsten, og faktisk for begrepet "bærekraftig
+utnytting” gjennom sitt arbeid *The Optimum Catch” fra 1933 med Gunnar Jahn og Per
+Ottestad. Jahn var direktør for Statistisk Sentralbyrå, og Ottestad ble professori statistikk
+på NLH.
+
+Ragnar Anton Kittil Frisch (1895 - 1973) var, som Hjort, en vitenskapelig grinder. Han
+var med å grunnlegge økonometrien, læren om hvordan økonomiske størelser kan måles.
+Han var også med på grunnleggingen av The Econometric Society i 1933 og av
+tidsskriftet Econometrica. Han ble professor i statsøkonomi og statistikk i 1931, ved Det
+juridiske fakultet, men altså ikke i lovkyndighet, og han grunnla Sosialøkonomisk
+institutt ved Universitet i Oslo. Sammen med Jan Tinbergen fikk Frisch den første
+nobelprisen i økonomi (Alfred Nobels minnepris) som den Svenske Riksbanken begynte
+å dele ut i 1969. I tillegg til andre æresbevisninger, var Frisch æresmedlem av Norsk
+Statistisk Forening.
+
+Frisch tok doktorgraden i 1926 på en rent statistisk avhandling om Thieles halvinvarianter. Thiele hadde utarbeidet denne teorien før århundreskiftet, lenge før Fisher
+gjenoppfant den, og kalte halv-invariantene for kumulanter. Frisch interesserte seg for
+statistikk gjennom hele livet, se artikkelen til Herdis T. Amundseni Statistisk sett. I
+studiet hadde Frisch som pensum Westergaards bok Statistikkens teori i Grundriss fra
+1915 og Alf Guldberg (Sønn av A.S. Guldberg): Sandsynlighetsregningens og
+
+forsikrings-matematikkens elementer (1913). Frisch leste mye mer. Jeg har sett gjennom
+hans notater, og det er tydelig at han før han var 30 hadde lest det meste av hva som var
+tilgjengelig av statistisk litteratur: skandinaver som Oppermann, Gram, Thiele, Steffensen
+og Charlier; kontinentale forfattere som Bruns, R. von Mises, de Bruno, Lévy; russere
+som Tsjebycheff og Tsjuproff; og fremfor alt britiske statistikere som Karl Pearson,
+Burton, Yule, Edgeworth, Sheppard, Romanovsky og Fisher. Det er tydelig at London
+hadde tatt over føringen i faget på 1920-tallet.
+
+8
+
+
+
+Frisch hadde et klart blikk for modellens plass i det statististiske arbeidet. Han så de
+statistiske slutninger som et hjelpemiddel i erkjennelsen, i tillegg trengtes et substans-
+
+teoretisk rammeverk. Uten forkunnskaper, innbakti en statistisk modell, kommer en
+ingen vei med data. Han var meget skeptisk til “measurement without theory”, men også
+til ”theory without measurement”.
+
+Som økonometriker var Frisch opptatt av tidsrekkeanalyse og av ulike former for
+regresjonsanalyse. Etter detjeg kan forstå har de mange enkeltarbeidene hans egentlig
+ikke festnet seg i den statistiske litteraturen, kanskje med unntak av hans arbeid med
+
+konfluensanalyse"*. Han benytter matriseregning forå få orden på regresjonsanalysen,
+
+og i konfluensanalysen søker han etter estimater på regresjonskoeffisienteri en
+bakenforliggende latent modell. I en slik modell, med feil både i likningen og i
+variablene, blir det skjevheter som må fjernes, og når det er et system av slike likninger,
+blir det vanskelig å få identifisert koeffisentene.
+
+Frisch var en skarp debattant. Han gikk til angrep med artikkelen “Pitfallsin the
+
+Statistical Construction of Demand and Supply Curves” (1933). Her trakk han opp teori
+
+for simultane systemer av lineære regresjonslikninger. I den påfølgende debatt, leverte
+
+han arbeidet “More Pitfallsin Demand and Supply Curve Analysis”? . Frisch var ikke
+
+ubetinget begeistret for utviklingen av økonometrifaget. Han syntes det ble litt mye
+
+‘flinkhet’ og litt lite alvorlig arbeid medå måle de viktige størrelsenei økonomien. Det
+
+ble, med andre ord, for mye playometrics for han. Det kan nok mange være enige i, også
+på andre områder enn økonometrien.
+
+Erling Sverdrup (1917 — 1994) var nesten ferdig med sin aktuarutdanning da krigen brøt
+ut i 1940. Sammen med andre aktuarer og studenter hadde Sverdrup lært chifferteknikk
+på et kurs Generalstaben holdt på Blindern. Sverdrup ble knyttet til Generalstaben alt 9.
+april. Han reiste etter hvert til London, der han deltoki ledelsen av chiffertjenesten. Etter
+krigen kunne Sverdrup ha fortsatt sin militære karriere. Isteden valgte hanå være
+assistent for Frisch, og følge opp sine vitenskapelige interesser.
+
+Sverdrup tok doktorgraden i 1952 på en avhandling innen statistisk beslutningsteori?”.
+
+Her føres klassisk Fisher/Neyman/Pearson teori videre ved hjelp av Walds
+beslutningsteori. Sverdrup finner blant annet at den eksponensielle fordelingsklassen er
+komplett, og kan derved vise optimumsegenskaper vedI betingete tester. Dette er
+
+Sverdrups viktigste bidrag til statistisk teori. Nordberg” omtaler Sverdrups
+
+vitenskapelige bidrag. Det samme gjør jeg i minnetalen over Sverdrup”.
+
+SR Frisch. 1934. Statistical Confluence Analysis by Means of Complete Regression Systems. Publication
+No. 5 from the University Institute of Economics (Sosialøkonomisk institutt, opprettet av Frisch), 1-192.
+1 The Quarterly Journal ofEconometrics, 18, 749-755 (1934)
+
+20 ©. Sverdrup. 1952. Weight functions and minimax proceduresin the theory of statistical inference.
+
+Archiv for matematik og naturvitenskap B.LI. Nr. 7.
+
+21 R Norberg (red). 1989. Twelve contributions to a tradition in Statistics and Actuarial Science.
+
+Festschrift to Erling Sverdrup. Almquist& Wiksell International.
+
+22 Det Norske Videnskaps-Akademi, Arbok 1994, pp 243-248.
+
+14
+
+
+
+I 1953 ble Sverdrup professor i forsikringsmatematikk med matematisk statistikk. Han
+tok sin oppgave som universitetslærer og profesjonsbygger meget alvorlig. Han så det
+slik at det var ”en pinlig mangel på matematiske statistikerei Norge”, og han gjorde mye
+forå bøte på mangelen. Han mente at foreleserens oppgave var å dramatisere stoffet —
+den statistiske teori. Det gjorde han med eleganse. Han var en meget god foreleser. Boka
+til Sverdrup, Lov og tilfeldighet, kom i 1964. Dette to-binds verket var nok kanskje hard
+kost å gi seg i kast med for en ny student. Men det er to innholdsrike bind, som faktisk
+blir bedre og bedre jo flere ganger de blir lest.
+
+Sverdrup mente at teoretisk statistikk ikke er matematikk. Målteori er bra, men til sitt
+bruk. Da Lov og tilfeldighet ble oversatt til engelsk var det mange som ønsket at Sverdrup
+skulle ta med et kapittel med matematisk grunnlag og målteori. Han syntes ikke noe om
+det, men en fredag ombestemte han seg. Mandag kom han til oss med et fullt utarbeidet
+
+appendiks, helt originalti forhold til andre framstillinger”.
+
+Slike raptuser var typiske for Sverdrup. Han var friluftsmann med depot og liten båt langt
+inne i Femundsmarka, og han brukte mye tid i Balestrand der han hadde hus ved fjorden.
+Det gikk lange perioder mellom hver gang han hadde sine forskningsmessige raptuser,
+men når de sto på var de intense.
+
+Sverdrup kastet seg ut i en rekke debatter. Det tok på, og ved en anledning sa han fra seg
+alle sine verv ved Matematisk institutt — fordi han alltid kom i mindretall, og det var så
+strevsomt å skrive dissenser.
+
+Uten Sverdrup hadde norsk statistikk vært noe annet enn det er i dag. Han insisterte på at
+statistikere skulle ha teoretisk ballast, og det ga han oss. Han var ikke alene om det, men
+han bidro sterkt tilå prege diverse generasjoner statistikere, og også selve faget. På 60og 70-tallet gikk det en strøm av studenter fra Oslo til Berkeley forå ta PhD ved
+Neymans og Lehmanns institutt. Der fikk de særbehandling idet de slappå ta de to harde
+begynnerkursene. Lehmann mente det ikke var nødvendig, for vi haddejo lært det hele av
+Sverdrup.
+
+Sverdrup var æresmedlem av Norsk Statistisk Forening.
+
+Avslutning
+
+Historien kan vanskelig skrives før aktørene faller fra. De fleste norske statistikere som
+noen gang har levd er høyst levende og virksomme. Det meste av historieskrivingen må
+derfor vente. Det er mange som burde vært nevnt, ikke minst Trygve Haavelmo, som i
+1989 fikk Nobelpriseni økonomi, først og fremst for sitt banebrytende verk ”The
+
+Probability Approach to Econometrics”*, og for sine arbeider med simultane systemer.
+
+Haavelmo døde sommeren 1999. Likeledes burde Olav Reiersøl vært nevnt. Han har vært
+statistikklærer for mange generasjoner studenter, faktisk helt fra 1938, og fra 1960
+professor på Blindern. Endelig er Amljot Høyland en viktig skikkelse. Han har ledet
+3B. Sverdrup. 1967. Laws and Chance Variations. Vol 2, Appendix D, North Holland.
+2 Supplement of Econometrica, 1944.
+
+20
+
+
+
+oppbyggingen av statistikkfaget ved NTH/NTNU på en imponerende måte. Emil
+Spjøtvoll, med sin betydelige forskningsinnsats og sitt mangeårige virke som rektor ved
+
+NTH/NTNU, må heller ikke glemmes.
+
+Det hadde også vært på sin plass å skrive om enkelte av de statistikere som har falt fra.
+Herdis T. Amundsen var en foregangskvinne innen faget. Hun underviste i statistikk for
+
+sosialøkonomer i en menneskealder, og hun ledet arbeidet med å få igang en
+statistikkgruppe ved Norsk Regnesentral. Denne gruppen ble faglig ledet av Erik Mohn,
+og er vel en av Europas største grupper inne anvendt statistikk. Erik Torgersen ble dosent
+i matematisk statistikk ved Matematisk institutt i Oslo etter Emil Spjøtvoll da han ble
+professor på NLH etter Ottestad, og professor etter Olav Reiersøl. Som en rekke andre,
+tok Torgersen sin doktorgrad is statistikk i Berkeley. Hans veileder var den legendariske
+Le Cam, og Torgeresen førte videre hans arbeide med å karakterisere
+informasjonsinnholdet i et vilkårlig eksperiment. Både i sin undervisning og sin forskning
+representerte Torgersen et matematisk ytterpunkt i statistikkfaget.
+Westergaard var opptatt av statistikkens bølgebevegelser. Hvor står vi, på
+
+selvsikkerhetens topp. eller i den nådeløse tvilens bølgedal? Er bølgene i norsk statistikk i
+fase med de internasjonale strømninger og bølger? På det siste spørsmålet, tror jeg svaret
+er et forsiktig nei. Vi klarer aldri helt å følge med. Og bra er det. Sundt var helt ute av
+
+fase. Kanskje vi skal fortsette med å drive med det som opptar oss og som er viktig for
+oss her oppe i nord. Det hjelper, naturligvis, å være godt orientert, slik Kiær, Hjort og
+Frisch var det. Det tror jeg vi er, i tilstrekkelig grad. Det er verre med de gode og
+
+originale ideene. Dem får en ikke på internett. De kommer, kanskje en sjelden gang,
+gjennom eget tålmodig strev. Da kan man ta seg en forskningsmessig raptus, som
+Sverdrup sa.
+
+Men, er vi på topp. eller er vi på bunn — eller kanskje midt i bølgen? Kvantitativt er vi på
+vei oppover. I årene 1975 til 1985 var tilveksten av statistikere i Norge ca. 10 i året. I 90årene har tilveksten vært nokså jevn, med gjennomsnittlig nærmere 30 statistikere årlig,
+inklusive de som tar spesialisering i forsikringsmatematikk og som tidligere ble regnet
+som aktuarer. Noen har begynt å gå over i pensjonistenes rekker, men det er først om 10
+år vi vil få avgang av betydning (kvantitativt). Det er interessant at Trondheim har tatt
+over føringen i utdanningen av statistikere. Av de 30, står de to miljøene ved NTNU for
+mer enn halvparten. og det har vært stabilt gjennom dette ti-året. Dette er først og fremst
+Liv og Arnljot Høylands fortjeneste.
+
+Men kvalitativt, faglig. og med hensyn til faglig selvfølelse — er vi for oppadgående? Jeg
+har mine tvil. Jeg vil allikevel slutte meg til Westergaards ord:
+
+*Kan statistiken ikke betegnes som Videnskabernes Dronning, kan den dog
+hævde en betydningsfuld Plads som en af Repræsentanterne for den menneskelige
+Tankes Enhedsbestræbelser. Og de her gjorte Bemærkninger turde i hvert Fald
+vise, at Statistiken i Begyndelsen af det 20. Aarhundre har et godt Horoskop, og
+de viser ogsaa, at Statistikens Arbejde i Forbigagne Aarhundreder ikke har været
+
+2]
+
+
+
+forgæves. Videnskabens Maal bestaar ikke minst deri at søge sig nye Opgaver,
+som kræver en Løsning.”
+
+Westergaard tenkte på sine egne bemerkninger. Jeg håper det samme gjelder for mine, og
+at vi, hver på vår kant, kan søke gode oppgaver slik at horoskopet også helt på tampen av
+århundret blir godt.
+
+For de som ikke har sovnet, hvem er den eneste norske originale bidragsyteren til
+matematisk statistikk som Hald viser til i sin historiebok?
+
+AQ
+
+
+
+STATISTIKKFAGET VED ÅRTUSENSKIFTET
+Bent Natvig, Universitetet i Oslo og Norsk Regnesentral
+
+Min første assosiasjon knyttet til årtusenskiftet er «År 2000» problematikken, på engelsk
+
+også kalt «The millennium bug». Dette dreier seg om hvilke konsekvenser det vil ha at en
+rekke datasystemer ikke er skikkelig beredt til å takle overgangen fra 1999 til år 2000. I
+Aftenposten 10. august henvises det til en rapport Statens Strålevern har laget på oppdrag
+av Utenriksdepartementet. Her fremgår det at det kan oppstå en rekke feil i datasystemene
+til Europas atomkraftverk ved overgangen til et nytt årtusen. Det internasjonale
+atomenergibyrået (IAEA) skal nå lede arbeidet med å rette opp feilene i tide, men Statens
+Strålevern har ingen oversikt over hvordan atomkraftverkene på Kola vil takle
+årtusenskiftet.
+
+Sentralt i denne problematikken er forståelse og modellering av usikkerhet samt hvordan
+fornuftige beslutninger bør fattes under usikkerhet. Med full informasjon, uendelig med
+tid og uendelig med kvalifisert dataekspertise ville en her kunne fatte beslutninger under
+sikkerhet. I praksis er det ikke slik og dermed ligger problemstillingen midt i smørøyet
+for statistikkfaget. Muligens i seneste laget har det internasjonale forskningsmiljøet rundt
+atomreaktoren i Halden innsett en flik av dette. I Teknisk Ukeblad 22. juli søker de i alle
+fall etter en cand.scient./ dr. scient. / siv.ing./ dr.ing. i programvarepålitelighet.
+Langt alvorligere enn styringen av kjernekraftverk er de sterkt automatiserte kommandoog kontrollsystemene for kjemefysiske våpen. I februar traff jeg general Lee Butler,
+øverste leder for USAs atomvåpenstyrker 1991-94. Han sa rett ut at de amerikanske
+kommando- og kontrollsystemene var så fragmenterte og uoversiktlige at de rett og slett
+var delvis ute av menneskelig kontroll. Hva da med de russiske?
+
+Midt hovedpoeng er dette. Usikkerhet er et helt fundamentalt aspekt ved dagens samfunn
+og det er all grunn til å tro at dette bare vil forsterke seg i det neste århundre, hvis da ikke
+dagens sivilisasjon brått går til grunne pga. menneskelig dårskap. Med dette alvorlige
+forbehold ser fremtiden lys ut for statistikkfaget. Fagets problem er følgelig ikke
+manglende relevans eller potensial. I Norge har dette vært illustrert de siste årene ved at
+
+statistikere har gitt viktige bidrag f.eks. til analyse av data fra prøveboringer i
+oljesektoren, forståelse av spredning av AIDS- epidemien, telling av hvalbestander,
+modeller for jordskjelvprediksjon samt til utvikling av beslutningsstøttesystemer til bruk i
+store utbygningsprosjekter som Gardermoenutbygningen. La meg for ordens skyld tilføye
+at disse beslutningsstøttesystemer ikke har vært brukt ved utbygningen av det nye
+Rikshospitalet.
+
+Somi idretten hjelper det imidlertid lite med et stort potensial hvis en ikke klarer å
+omsette det til tilsvarende resultater. Det er her utfordringene ligger, og ved årtusenskiftet
+er det ikke bare grunn til å være optimistisk. La meg se på noen av disse utfordringene
+
+ad
+
+
+
+uten å gå i dybden og starte med selve fagbetegnelsen «statistikk». Den gir for mange
+assosiasjoner om endeløse rekker av tall. I våre dager hjelper det heller ikke noe særlig
+med «matematisk statistikk» da matematikk av mange betraktes som fetteren til latin.
+Dette gjør at faget har et enormt markedsføringsproblem. Essenseni faget er etter min
+mening: «Sannsynlighetsbasert modellering av usikkerhet, på bakgrunn av data og annen
+informasjon, til bruk som beslutningsstøtte i konkrete anvendelser». Den dagen faget får
+dette klart frem, er det kommet et langt skritt videre. Beholder en det tradisjonelle image,
+står faget i fare for å bli marginalisert.
+
+Så over til forskningen. En gledelig utvikling i Norge er fremveksten av flere dyktige
+faggrupper både ved universiteter og høyskoler, men også utenfor. Norsk Regnesentral er
+et glimrende eksempel på det siste. Konkrete anvendelser er kommet mer i skuddet
+hvilket er et særdeles gledelig utviklingstrekk. Etter min mening har fagets internasjonale
+og mer prestisjetunge tidsskrifter i altfor liten grad tilpasset seg denne utvikling, men
+tråkker videre i gamle spor. Det er f.eks. for vanskelig å få publisert lengre artikler basert
+på større prosjekter der originaliteten ligger i helheten og i anvendelsesområdet og ikke så
+mye i de enkelte deler.
+
+Heldigvis er det de siste årene kommet noen nye, mer spesialiserte tidsskrifter. Det er
+viktig at gode arbeider blir sendt dit og at fagmiljøene abonnerer på disse nye
+tidsskriftene. I dagens økonomiske situasjon ved i alle fall norske universiteter og
+høyskoler må dette nødvendigvis bli på bekostning av noen av de mer tradisjonelle
+tidsskrifter. Mer konkurranse mellom tidsskriftene vil opplagt være særdeles gunstig.
+Hva så med forskernei statistikkfaget? Ved de akademiske miljøene i Norge er det stort
+sett i realiteten stillingsstopp noe som bl.a. medfører at en lang rekke av dagens «feite
+femtiåringer» ikke får nok utfordringer fra den yngre og blant annet mer
+informatikkyndige generasjon. Enda mer alvorlig blir situasjonen om 15-20 år da en må
+
+foreta «block replacement» av dagens femtiåringer. Hvor skal rekruttene komme fra? Det
+er ingen tvil om at kommende professorer i faget også må rekrutteres blant forskere som
+arbeider utenfor de akademiske institusjoner. Det er bare sunt, men det forutsetter at disse
+forskerne har arbeidsbetingelser som muliggjør tid og konsentrasjon til publisering av
+arbeider. Selv på Norsk Regnesentral er disse arbeidsbetingelsene ikke gode nok i dag.
+Dyktige og toneangivende forskere utenfor de akademiske miljøer er også viktig i seg
+selv som leverandører av fruktbare problemstillinger og metoder med bakgrunn i
+konkrete anvendelser.
+
+Det er naturlig å også komme med noen betraktninger om undervisningen av faget og da
+med utgangspunkt i norske forhold. God, inspirerende og motiverende undervisning er
+viktig for rekrutteringen til faget, særlig i en generell realfagskrise, og legger grunnlaget
+for morgendagens forskning. Innføringen av statistikkfaget, som en del av
+matematikkundervisningen i den videregående skole, er gledelig. Det første halvåret vil
+nå alle, dvs. også de som tar sikte på en mer yrkesrettet utdannelse, vil få en elementær
+innføring i sannsynlighetsregning. Dette gir forståelse av at statistikkfaget dreier seg om
+sannsynlighetsbasert modellering av usikkerhet og ikke bare «trøtt» deskriptiv statistikk
+som de har sett en del av tidligere. Jeg tror at det er viktig at elevene i videregående skole
+i senere kurs først og fremst lærer seg sannsynlighetsregning og ser interessante
+
+24
+
+
+
+anvendelser av denne fremfor å bruke mye tid på tradisjonell statistisk metodelære. Det er
+
+viktig at de skjønner at sannsynlighetsregningen danner en basis for å treffe beslutninger
+
+under usikkerhet, mens mer grunnleggende begreper og teori på dette området må de lære
+ved universiteter og høyskoler. Her trengs mer tid enn det er plass til i videregående
+skole.
+
+En konsekvens av at statistikkfaget blir undervist i den videregående skole, er opplagt at
+undervisningen ved universiteter og høyskoler kan starte på et høyere nivå, etter en kjapp
+repetisjon, og med forhåpentligvis bedre motiverte studenter. Det er imidlertid ingen
+grunn til at fagutdannelseni statistikkfaget skal være svært lik i de fire universitetsbyene.
+Utdannelsen av en lang rekke sivilingeniører i faget ved NTNU er f.eks. et meget gledelig
+utviklingstrekk som har bidratt til å øke fagets tyngde og bredde. Mye av diskusjonen ved
+avdeling for statistikk og forsikringsmatematikk ved Matematisk institutt, Universitetet i
+Oslo det siste året, i forbindelse med revisjon av studieplanene, har dreid seg om hvor
+hemningsløst en bør kaste seg på informatikkbølgen. Et viktig grep som er gjort, er
+innføringen av et fellesemne under lavere grad «Informatiske metoder i statistikk»
+sammen med Institutt for informatikk. Studieplanen vektlegger imidlertid fortsatt
+grunnleggende ferdigheter i matematikk og sannsynlighetsregning. En meget interessant
+utvikling av statistikkfaget dreier seg nettopp om hvordan sannsynlighetsregning,
+matematikk og informatikk, og da særlig ulike simuleringsteknikker, inngår som en
+integrert del i mange av de beregninger som foretas, og det er viktig at studentene gis en
+undervisning som reflekterer dette. Fleksibiliteten i valg av emner på studieretningsnivå
+er på den annen side blitt avgjørende større noe som forhåpentligvis vil gi større
+spredning i de ferdige kandidatenes profil. På dette området er det mange «Statistics
+departments» som har et langt synderegister.
+
+Mitt utgangspunkt når det gjelder endringer i faget, det være seg markedsføring,
+forskning, forskerrekruttering eller undervisning, er den verdikonservative tesen
+«Forandre for å bevare». Jeg tror det er nødvendig nå ved årtusenskiftet å gå relativt
+radikalt til verks på enkelte områder, men fagets sjel er etter min mening verneverdig.
+
+aS
+
+
+
+REFERAT FRA ÅRSMØTE
+I
+
+|
+
+NORSK STATISTISK FORENING
+Quality Grand Hotel Farris, Larvik, 15. juni 1999.
+1. Godkjenning av innkalling og dagsorden.
+Innkalling og dagsorden ble godkjent.
+2. Valg av møteleder og referent.
+
+Odd Aalen ble valgt til møteleder og Ingrid K. Glad til referent.
+
+3. Årsberetning 1997-1999.
+Formann Odd Aalen la frem årsberetningen. I forbindelse med gjennomgangen av
+foreningens ulike aktiviteter ble det bemerket fra salen at foreningen bør vurdere
+å ta ansvar for en bedre nasjonal samordning av kurs på doktorgradsnivå.
+4. Regnskap for samme periode.
+Regnskapet ble lagt frem og kommentert av kasserer Trygve Almøy. Han fortalte
+
+at ca. kr. 195.000 står urørt på foreningens fondskonto, og oppfordret det nye
+styret til å studere vedtektene for fondet for å avgjøre om noen av disse midlene
+kan overføres til lokalforeningene. Videre opplyste han om at et e-mail-arkiv over
+medlemmene er under opprettelse.
+Efter styrets påminnelse i brevs form om innbetaling av kontingent, er det kommet inn ca. kr. 20.000 på foreningens konto efter at regnskapet ble avsluttet.
+Kassereren beklaget at enkelte medlemmer uriktig hadde fått beskjed om at de
+skyldte kontingent. Disse er tilskrevet om saken. Det nye styret ble oppfordret til
+å ta opp hva man skal gjøre med medlemmer som ikke betaler medlemskontingent.
+
+Fra salen ble det reist spørsmål om verving av studentmedlemmer, og bemerket
+at det burde være et veilederansvar å oppfordre til medlemskap i foreningen.
+Regnskapet ble enstemmig godkjent.
+5. Medlemskontingent.
+
+Det ble vedtatt at kontingenten beholdes som den er, dvs. kr. 200 per år for
+medlemmer og kr. 50 per år for studentmedlemmer.
+
+ab
+
+
+
+6. Valg
+
+Det sittende styret la frem forslag til ny formann, nye styremedlemmer og varamedlemmer, nye revisorer, nytt undervisningsutvalg og ny TG-redaksjon. Det
+var ingen andre forslag, og styrets kandidater ble valgt ved akklamasjon.
+Valget ga følgende resultat:
+
+Geir Egil Eide, NHH
+
+Formann:
+
+Ågot Irgens, Haukeland sykehus
+
+Kasserer:
+
+Ulf Indahl, DM-huset
+
+Styremedlemmer:
+
+Stian Lydersen, NTNU
+
+Hans Julius Skaug, Havforskningsinstituttet (gjenvalg)
+Anne Marie Fenstad, Univ. i Bergen
+
+Varamedlemmer:
+
+Hans Karlsen, Univ. i Bergen
+
+Knut Korsbrekke, Havforskningsinstituttet
+
+Revisorer:
+
+Undervisningsutvalg:
+
+TG-redaktør:
+TG-redaksjon:
+
+Per Lea, Matforsk (gjenvalg)
+
+|
+
+Magne Thoresen, Univ. i Oslo
+
+Henrik Dahl, Høgskolen i Agder (gjenvalg)
+'
+
+Jostein Lillestøl, NHH (gjenvalg)
+Utvalget supplerer seg selv med flere personer
+
+Odd Aalen, Univ. i Oslo
+Grete Fenstad, Univ. i Oslo
+Ingrid K. Glad, Univ. i Oslo
+Nils Lid Hjort, Univ. i Oslo
+Andre Peretz, hovedfagsstudent
+
+Ingrid K. Glad, referent
+
+aF
+
+
+
+Det nve styret i Norsk Statistisk Forening
+Fra venstre: Ågot Irgens. Knut Korsbrekke, Geir Egil Eide, Anne Marie Fenstad,
+
+Stian Lydersen og Hans Karlsen. Ikke til stede: Ulf Indahl og Hans Julius Skaug.
+
+Logo-konkurranse
+
+Foreningen har i lengre tid lidd under mangelen på en slående logo. Styret
+utlyser derfor en logo-konkurranse blant medlemmene. Forslag til logoer
+kan sendes
+
+Stian Lydersen,
+Institutt for matematiske fag,
+NTNU,
+7491 Trondheim
+
+innen 15. november 1999. Styret vil vurdere forslagene som kommer inn og
+finne på premier!
+
+Qs
+
+
+
+DET 10. NORSKE STATISTIKERMØTE
+Larvik 14.-16. juni 1999
+
+For å starte med en kort oppsummering: Det var et vellykket møte for de
+86 deltakerne sett fra både faglig og sosial side. I tillegg var værgudene på vår
+
+side og hotellet hadde god mat og hyggelige værelser.
+Det faglige programmet var variert. I anledning jubiléet, det 10. møtet,
+var Tore Schweder invitert til å holde åpningsforedraget:
+
+"Begivenheter og
+
+forløp i norsk statistikk. Noen raske historiske betraktninger”.
+Så fulgte en forløpsanalyse-sesjon.
+
+Ørnulf Borgan fokuserte på norske og
+
+skandinaviske bidrag til dette området, mens Odd Aalen i neste foredrag konsentrerte seg om forståelse av hasardraten, og Nils Lid Hjort avsluttet med å
+presentere et vell av nye metoder for estimering av hasardraten.
+Vi hadde også en tidsrekkesesjon. Det var sikkert ikke mange av tilhørerne
+som trodde at Dag Tjøstheim skulle komme gjennom alle sine punkter som ble
+
+presentert på 2 fulle A4-sider. Men etter nøyaktig en time hadde han gitt en
+utmerket oversikt over trender i tidsrekkeforskning de siste 10-20 årene. Jostein
+
+Lillestøl snakket om anvendelse av tidsrekker innen børs og finans, spesielt om
+hva en statistiker bor vite “mellom” tidsrekker og børs/finans.
+
+Den siste av de planlagte sesjonene var ikke-lineær regresjon. Ole Christian
+Lingjærde presenterte en oversikt over den rikholdige floraen av metoder som
+
+finnes. I denne sesjonen forklarte Bo Lindqvist og Jan Terje Kvaløy en ny idé
+for ikke-parametrisk hasardregresjon, kovariatordningsmetoden, som har vist
+
+seg å ha gunstige egenskaper spesielt i tilfelle med få observasjoner og/eller
+høy grad av sensurering.
+
+Tom Kavli avsluttet sesjonen, og var også møtets
+
+siste foredragsholder, med å presentere ASMOD-algoritmen (Adaptive Spline
+Modelling of Observation Data).
+
+Stephen E.Fienberg gledet oss ved å være til stede under hele møtet og å
+snakke om *History and Background of Capture-Recapture Methods”. Det var
+også flere foredrag under blandet-tema-sesjonen (Knut Opdahl. Ulf Indahl, Rolf
+Volden, Johan Heldal, Mats Carlin, Xeni Dimakos, Arnoldo Frigessi), men det
+vil føre for langt å presentere hver enkelt av disse.
+
+Før årsmøtet tok til tirsdag, var det lagt inn en paneldebatt over emnet
+“Statistikkfagets stilling i Norge mot år 2000”.
+
+Odd Aalen innledet debatten med en definisjon av statistikk og advarte
+mot en for snever definisjon.
+
+Det er en økende bruk av statistikk på mange
+
+fagområder, det er også en økende kompleksitet av faget, men er det en økende
+
+anseelse av statistikk? Det er viktig at allmennheten skjønner statistikk, derfor
+er det viktig at faget har kommet inn i skolen.
+
+Statistikkfaget har fått en
+
+økende kopling mot informatikk — vil den klassiske statistikken overleve? Han
+avsluttet med å stille enda flere spørsmål:
+
+eller informatikken?
+
+Hører vi hjemme i matematikken
+
+Hva skjer med statistiker-profesjonen?
+
+andre ikke kan? Lærer vi det vi bør lære?
+
+Hva kan vi som
+
+
+
+Deretter fikk de 4 paneldeltakerne 5 minutter hver til innlegg. Bo Lindqvist
+
+brukte sin tid til å gjøre rede for statistikkstudiet ved NTNU-NTH. Ingrid Glad
+var opptatt av hva vi kan gjøre for å bedre rekrutteringen til faget. Et forslag
+
+gikk ut på å informere alle typer massemedia om navn på statistikere som har
+interesse for forskjellige emner som f.eks. idrett, miljø, juss, osv.
+
+og som er
+
+villige til å svare på henvendelser. Ulf Indahl var interessert i vår identitet;
+statistikk lever i konkurranse med nevrale nettverk, kunstig intelligens, data
+
+mining, kjemometri og andre -metrier. Geir Egil Eide kom selv med flere forslag
+til svar på spørsmålet om hva Norsk Statistisk Forening kan gjøre for å skape
+faglig tilhørighet. (Geir Egil Eide ble for øvrig litt senere valgt ved akklamasjon
+til ny formann i foreningen!)
+
+I diskusjonen som fulgte hadde mange ordet (Tore Schweder, André Teigland, Gudmund Høst, Henrik Dahl, Katrine Frey, Nils Lid Hjort, Ellen Amund-
+
+sen). Bo Lindqvist avsluttet på vegne av panelet med optimisme på arbeidsmarkedet, men med bekymring over rekrutteringen.
+
+Programkomitéen skal ha takk for å ha funnet frem til et variert og interessant program. Rent praktisk om programmet kunne en kanskje ha ønsket seg
+mer tid til spørsmål og diskusjon og noe lengre pauser til å nyte det praktfulle
+været.
+
+Referat fra årsmøtet kommer et annet sted i dette nummeret av TG.
+Det sosiale programmet er også en viktig del av ethvert faglig møte.
+Den første kvelden ble det arrangert tur til Stavern.
+
+Mange kom seg opp til
+
+Minnehallen, mens andre nøydde seg med besøk på puben.
+
+Atter andre var
+
+fornøydd med å utforske Larvik.
+Den siste kvelden var det festmiddag for deltakerne. Etter et glass musserende
+vin som aperitif, fikk vi servert en tre-retters middag. Ulf Indahl ønsket velkom-
+
+men til bords og som toastmaster styrte han talelisten overfor feststemte og
+muntre gjester under middagen. Fratroppende formann Odd Aalen takket medlemmene av både arrangementskomitéen og programkomitéen for innsatsen og
+
+ønsket den nyvalgte formannen, Geir Egil Eide, lykke til med vervet.
+
+Geir
+
+Egil Eide takket deretter for tilliten, og videre i sin tale minnet han i anledning jubiléet om tidligere moter og foredrag. Arnoldo Frigessi holdt en morsom
+
+tale over hvordan statistikermøter har endret seg. Så fikk Tore Schweder ordet
+
+og gratulerte Arnljot Høyland med 75-års-dagen som nylig hadde vært. Odd
+Aalen overrakte på vegne av foreningen en bokgave til 75-års-jubilanten som
+
+også er foreningens eneste æresmedlem. Som formann i programkomitéen for
+18th Nordic Conference on Mathematical Statistics minnet Tore Schweder til
+slutt om møtet i Grimstad 5.-8. juni neste år.
+Arrangementskomitéen skal ha takk for å ha funnet et egnet møtested og
+
+for et godt arrangement. Blant annet satte mange pris på frukten i forbindelse
+med kaffepausene.
+
+Grete Usterud Fenstad
+
+30
+
+
+
+Er Norge et biostatistisk u-land?
+
+På møte i International Biometric Society i Cape Town i desember i fjor møtte jeg en
+frittalende danske som hevdet følgende: "Norge er et biostatistisk u-land!" Begrunnelsen var
+dels vårt magre oppmøte på internasjonale møter, dels at vi ikke har innført "taleplikt" på
+møtene. Den sistnevnte kritikken er jeg ikke sikker på om jeg støtter. Det forekommer meg at
+det er all right å ha et budskap — ikke bare holde ett eller annet foredrag for å få økonomisk
+støtte til en faglig reise. Påstanden kan likevel synes å ha gjort inntrykk; jeg skal i alle fall
+snakke på årets møte i International Society for Clinical Biostatistics. Om lysten virkelig er
+trigget av u-land-beskyldningen vet jeg ikke helt - jeg har en nyttig metode å presentere.
+
+Det første punktet i den danske provokasjonen er det derimot lett å si seg enig i. Det er nesten
+alltid få nordmenn tilstede på konferanser i biostatistikk, både internasjonale og nordiske. På
+siste møte i Nordic Region of Biometric Society, i Bagsværd 9.-11. juni var vi fem (!)
+nordmenn — tre fra Bergen og to fra Oslo — og to av oss hadde neppe vært tilstede om vi ikke
+hadde vært invitert som foredragsholdere... Det er egentlig litt flaut at vi viser så liten
+interesse! Riktignok lå møtet tett opptil det norske møtet i Larvik, og noe av forklaringen kan
+ligge her, men det er ikke første gang antall nordmenn er lite.
+
+Møtet i Bagsværd samlet nesten 150 biostatistikere av ymse slag, hvorav 80 dansker, 32
+
+svensker, 20 finner og som sagt 5 nordmenn. Hovedtemaene var sammenheng mellom
+
+sykdom og genetiske markører (David Clayton er verd å lytte til), gene mapping (Terry
+Speed) og bayesianske modeller for klassifikasjon av bakterier (Timo Koski holdt et utmerket
+foredrag). Sesjonene med kortere foredrag inneholdt noe for enhver smak; for eksempel
+
+sampling
+
+bias
+
+i
+
+epidemiologi,
+
+multivariate
+
+frailtymodeller
+
+i overlevelsesanalyse,
+
+tetthetsestimering, mixed models, bildeanalyse i skogbruksforskning, modellering av
+fiskebestander, klinisk utprøvning, modeller for spredning av infeksjonssykdommer, romlig
+statistikk, og intervallsensurering. Før møtet ble det avholdt en workshop om frailty modeller
+i overlevelsesanalyse (Philip Hougaard).
+
+Et vesentlig poeng med å reise på konferanser er faglig inspirasjon, ikke nødvendigvis at man
+lærer noe nytt. Nesten like viktig tror jeg det er å bli kjent med kolleger i andre land, både for
+potensielt samarbeid og rett og slett fordi det er hyggelig med en prat over en pils eller flere.
+Det sies at "even the mean statistician is quite nice" — men han liker seg kanskje best på sitt
+eget kontor?
+
+Sees vi på International Biometric Conference i San Francisco 2.-7. juli år 2000? Eller på det
+nordiske møtet i matematisk statistikk i Grimstad 5.-8. juni?
+
+Eva Skovlund
+
+3 |
+
+
+
+18th Nordic Conference on
+Mathematical Statistics
+June 5-8, 2000,
+
+Grimstad, Norway
+
+Homepage: http: //www.math.uio.no/-nordstat/
+
+(to be updated regularly)
+
+Nordic statistical meetings started in the mid 1960s. Traditionally, these meetings have been a
+
+place for statisticians from the Nordic countries to meet and to make new friends and contacts.
+Rather than being an arena for the specialists, the Nordic meetings have provided opportunities for participants to gain some familiarity with new developments and important challenges
+in statistics. Through the parallel theme sessions, the meetings have also provided opportunities for participants to present own contributions and to listen to talks on work in progress in
+their own area of interest.
+
+PROGRAMME (people with their names in bold face have accepted the invitation)
+The meeting is planned to have two main themes with invited speakers and discussants, a
+
+series of 5 invited talks, and 12 parallel theme sessions organised by convenors named below.
+Invited lectures will be accessible to a broad audience of statisticians.
+Main themes
+Large structured models in applied sciences: challenges for statistics
+e
+
+Statistical issues in macroeconomic modelling, Eilev S. Jansen, Bank of Norway.
+Discussant: Søren Johansen.
+
+e
+
+Statistical issues in weather forecasting, Nils Gustafsson, Swedish Meteorological and
+Hydrological Institute.
+
+Discussant: Gudmund Høst.
+
+e
+
+Statistical issues in fish stock assessments, Stratis Gavaris, Department of Fisheries and
+Oceans, Canada.
+Discussant: Elja Arjas.
+
+e
+
+Common statistical threads in complex modelling across applied fields - Reflections upon
+contributions from Jansen, Gustafsson and Gavaris, Anthony Davison, Lausanne
+
+e
+
+Closing panel discussion, S.
+
+Johansen, E. Arjas, T. Schweder.
+
+Complex interactions and dependencies
+
+e
+e
+
+Title to be decided, double lecture, Murad S. Taqqu, Boston University
+Percolation, Markov random fields, and phase transitions, single lecture,
+
+Olle Håggström, Chalmers University of Technology, Gothenburg
+Specially invited lectures
+e
+
+. Stochastic geometry, Aila Sårkkå, Gothenburg
+
+e
+
+Statistics for extremes, Holger Rootzen, Gothenburg
+
+e
+
+Frequentist priors and posteriors, Nils Lid Hjort, Oslo
+
+e
+
+Statistics for infectious diseases Gianpaolo Scalia Tomba, Rome and Stockholm.
+
+e
+
+Statistical genetics and genetical statistics, Thore Egeland, Oslo
+
+32
+
+
+
+Theme sessions (partially in parallel)
+
+The theme sessions are organised by their named convenors. They are open to contributed
+presentations. This announcement is thus a call for contributions to the theme sessions. People
+
+who want to make a contribution in a session should contact the convenor by February 1,
+
+2000, submitting a title and a short abstract. In addition to receiving submissions, the
+convenor will actively promote and invite contributions. Theme sessions are planned to last I
+hour and 30 minutes.
+
+Theme
+
+Convenor
+
+Control, analysis and optimization in industry
+Dynamic event history analysis
+
+Currently undecided
+Thomas Scheike, Copenhagen.
+
+Forestry and ecology
+
+Juha Alho, Joensuu.
+
+T.Scheike @biostat.ku.dk
+
+Juha.Alho @Joensuu.Fi
+
+Learning and graphical models
+
+Jens Henrik Badsberg. Copenhagen.
+
+Mathematical statistics in finance and insurance
+
+Anders Rahbek, Copenhagen.
+
+JensHenrik.Badsberg @agrsci.dk
+rahbek
+O
+stat.ku.dk
+
+Monte Carlo methods in statistics
+
+Håkon Tjelmeland, Trondheim.
+
+Non-parametric curve fitting
+
+Ole Christian Lingjærde, Oslo.
+
+Random processes
+
+Lars Holst, Stockholm.
+
+Space and space-time modelling and inference
+
+Rasmus Waagepetersen, Cph,
+
+Statistics in genetics
+
+Juni Palmgren, Stockholm.
+
+haakont
+O
+math.ntnu.no
+
+o.c.lingjarde @bio.uio.no
+math.kth.se
+O
+Iholst
+
+Rasmus. Waagepetersen @agrsci.dk
+juni
+
+@matematik.su.se
+
+Survival analysis: alternatives to Cox regression
+
+Odd Aalen, Oslo.
+n
+basalmed.uio.no
+@
+0.0.aale
+
+Teaching statistics at the elementary level
+
+Jostein Lillestøl, Bergen.
+jostein.lillestol@nhh.no
+
+CONFERENCE VENUE
+
+The venue of the conference will be Sørlandet Hotell og kurssenter, which is located in
+walking distance from the centre of Grimstad, a small town at the southern coast of Norway.
+Grimstad is easily reached by bus or train from Oslo or by bus from Kristiandsand. The
+nearest airports are Kjevik (Kristiansand) and Torp (Sandefjord). There is a bus connection
+from Kjevik directly to the conference centre.
+
+ACCOMMODATION
+Primarily at the Conference centre.
+
+CALL FOR PAPERS
+
+Participants are invited to present contributed papers (see theme sessions in programme).
+SOCIAL EVENTS
+
+The social program will include a boat trip in the beautiful coastal surroundings of Grimstad.
+The conference dinner will take place at the conference centre.
+ORGANIZER
+Norwegian Statistical Association
+
+33
+
+
+
+ORGANIZING COMMITTEE
+Geir Storvik, University of Oslo (chair) (geirs @math.uio.no)
+
+Trygve Almøy, Agricultural University of Norway (trygve.almoy @imf.nlh.no)
+Grete U. Fenstad, University of Oslo (grete@math.uio.no)
+Ola Haug, Norwegian Computing Center (ola.haug @nr.no)
+Inge Helland, University of Oslo (ingeh@math.uio)
+PROGRAMME COMMITTEE
+
+Tore Schweder, University of Oslo (chair) (tore.schweder @econ.uio.no)
+Amoldo Frigessi, Norwegian Computing Center (Amoldo.Frigessi @nr.no)
+Jostein Paulsen, University of Bergen (Jostein.Paulsen @mi.uib.no)
+
+Håvard Rue, The Norwegian University of Science and Technology (hrue @stat.ntnu.no)
+vlund
+@ basalmed.uio.no)
+Eva Skovlund, University of Oslo (eva.sko
+Geir Storvik, University of Oslo (geirs @math.uio.no)
+Elinor Ytterstad, University of Tromsø (elinor@stat.uit.no)
+ADDRESS
+
+NORDSTAT 2000
+Mathematical Institute
+P.O.Box 1053, Blindern
+N-0316 Oslo
+Norway
+
+Email: (nordstat @math.uio.no)
+
+34
+
+
+
+Rapport fra universitetene
+Universitetet i Tromsø (ved Elinor Ytterstad):
+
+Nytt kurs: Sb-330
+
+(SURVEY SAMPLING)
+
+INNFØRING I UTVALGSUNDERSØKELSER (2 vt)
+
+Forkunnskaper : Hovedsakelig litt sannsynlighet- og estimeringsteori
+
+Kursets målsetting : Å gi studentene kunnskap om planlegging av utvalgs-
+
+undersøkelser, og begrepsapparatet og de viktigste statistiske estimeringsmetodene i
+utvalgsundersøkelser. Det blir lagt vekt på å vise anvendelser av statistiske metoder
+for å handtere frafall (dvs. at det mangler opplysninger fra enkelte enheter i utvalget)
+som kan resultere i skjeve utvalg.
+
+Ansettelser: Tonje Braaten er ansatt som vikar fra 1.8 til 31.12.99
+
+Artikler/preprint
+
+Significance in Scale Space.
+
+http://www.stat.unc.edu/faculty/marron/marron_papers.html
+Fred godtliebsen, J.S.Marron and P.Chaudhuri.
+
+Significance in Scale Space for Density Estimation.
+http://www.stat.unc.edu/faculty/marron/marron_papers.html
+Fred Godtliebsen, J.S.Marron and P.Chaudhuri.
+
+Finite Sample Properties of an Adaptive Density Estimator.
+Preprint Stat. nr. 99-11, Universitetet i Tromsø
+Sigrunn Holbek Sørbye. and Fred Godtliebsen.
+An Estimator for Functional Data with Application to MRI.
+Preprint Stat. nr. 99-12, Universitetet i Tromsø
+Fred godtliebsen, Chih-Kang Chu and Sigrunn Holbek Sørbye.
+
+Long-term variability and trends (1981-97) in surface albedo
+
+in NyÅlesund, Svalbard. Proceedings of Northern Research
+
+Basins Workshops and Symposium, August 1999, Iceland.
+J.G. Winther, Fred Godtliebsen, S. Gerland and R.L.Smith
+
+A Fully Bayesian Approach to Multispectral Image Data Classification
+Preprint Stat. februar 99 Universitetet i Tromsø.
+Giovani Sebastiani and Sigrunn Holbek Sørbye.
+
+35
+
+
+
+Universitetet i Bergen (ved Trygve Nilsen):
+Ferdige cand.scient. våren 1999
+
+Unni Sørhus
+
+:
+
+Veileder: Jostein Paulsen
+
+Ingvild Stave
+
+IBNR-problematikken i forbindelse med.
+ufgrepensjon 1 kollektiv
+
+pensjonsforsikring.
+
+Modellering av uførepensjon
+
+Veileder: Jostein Paulsen
+
+For tredje semester på rad er det ikke kommet nye hovedfagsstudenter
+til statistikkgruppen.
+
+Det matematisk-naturvitenskapelige fakultetet er ikke villig til å
+overta finansieringen av den midlertidige amanuensisstillingen som er
+tillagt undervisningen i forsikringsmatematikk. Den hani fire år vært
+finansiert av forsikringsselskapene Vesta og Vital i samarbeid med PMS
+Corporation.
+
+3
+
+
+
+Statistikkgruppen i Trondheim
+ved Håvard Rue
+
+Statistikkgruppen i Trondheim (NTNU) har hatt stor aktivitet i det siste
+året. Dette referatet dekker både dette årets aktivitet, samt forrige «sesongs»
+(98-99) produksjon av dr.grads, siv.ing. og cand.scient.
+
+Nye tilsatte
+Oddgeir Samset, Jan Terje Kvaløy og Ola Håvard Diserud er alle midlertidlig
+tilsatt som førsteamanuensis for 1999/00.
+
+Nye stipendiater
+Ingelin Steinsland (aug, 1999). Veileder: Professor Håvard Rue.
+Sveinung Erland (aug, 1999). Veileder: Professor Håvard Rue.
+Turid Follestad (aug, 1998). Veileder: Professor Håvard Rue.
+Jo Eidsvik (aug, 1999). Veileder: Professor Henning Omre.
+(aug, 1999). Veileder: Professor Henning Omre.
+Aele
+
+Arild Buland (aug, 1998). Veileder: Professor Henning Omre.
+
+Forskningstermin og permisjoner
+Førsteamanuensis John Tyssedal, Professors Bo Lindqvist, Steinar Engen har
+forskningsfri 1999/00. John Tyssedal vil oppholde seg ved *Center for Quality
+and Productivity Improvement, University of Wisconsin-Madison”.
+
+Uteksaminerte dr.grads kandidater
+Sammendrag: http://www.ntnu.no/ntnu/info/dr/dr.scient/
+
+Magnar Lillegård
+
+(sep, 1998) Statistisk inferens basert på stokastiske simu-
+
+leringer. Veileder: Professor Steinar Engen.
+
+Randi Hammervold (jan, 1999) Statistiske egenskaper til mål for total tilpasning av strukturmodeller. Professor Petter Laake, Universitetet i Oslo har vært
+hovedveileder. Medveiledere har vært professor Bo Lindqvist og førsteamanuensis John Tyssedal, begge fra NTNU.
+
+Alfhild Lien Eide
+
+(mar, 1999) Stokastisk reservoarkarakterisering betinget
+
+på seismiske data. Veileder: Professor Henning Omre.
+
+Ola Håvard Diserud (jun, 1999) The analysis of community structure - Stochastic models, estimation, and simulation. Veileder: Professor Steinar Engen.
+
+Bt
+
+
+
+Jan Terje Kvaløy
+
+(jun, 1999) Statistiske metoder for å påvise og modellere
+
+generelle mønstre og sammenhenger i levetidsdata. Veileder: Professor Bo Lindqvist.
+
+Oddgeir Samset
+
+(jun, 1999) Factor Screening Using Non-Geometric Plackett-
+
+Burman Designs. Veileder: Førsteamanuensis John Tyssedal.
+
+Uteksaminerte siv.ing og hovedfagskandidater
+Sveinung Erland (siv.ing) Å Bayesian point estimator for the rate function
+in a point process with random number of change-points. Veileder: Professor
+Håvard Rue.
+
+Erlend Berg
+
+(siv.ing) Spatial and Spatio-Temporal Modelling. Veileder: Pro-
+
+fessor Håvard Rue.
+
+Terje Strømmen (siv.ing) Bayesian Spline and Template Regression Func- tions in Measurement Error Models. Veileder: Professor Håvard Rue.
+
+Bjø rn Erik Olsrød
+
+(siv.ing) Analysis of factors influencing failure rates
+
+given in OREDA. Veileder: Professor II Per Hokstad.
+
+Egil Husby (siv.ing) A stochastic facies model based on sequential deposition. Veileder: Oddvar Lia (Statoil), Faglig ansvarlig: forsteamanuensis Hakon
+Tjelmeland.
+
+Nils-Petter Andreassen
+
+(siv.ing) Gibbs-punktmodeller med klustering. Veiled-
+
+er: førsteamanuensis Hå kon Tjelmeland.
+
+Hanne Wist
+
+(siv.ing) Betinging på konnektivitetsmål å en merket punktmod-
+
+ell. Veileder: Oddvar Lia (Statoil), Faglig ansvarlig: førsteamanuensis Håkon
+
+Tjelmeland.
+
+Eirill Kallestad (siv.ing) Stochastic simulation of Gaussian vector fields.
+Veilder: Colin Daly (Smedvig Technologies), Faglig ansvarlig: førsteamanuensis
+Hå kon Tjelmeland.
+
+Beate Sander Krogstad (siv.ing) Risikofaktorer for brystkreft. En oppføl-
+
+gingsstudie av 38178 kvinner i Nord-Trøndelag. Veileder: Professor Bo Lindqvist.
+Medveileder: Professor Lars Vatten, Institutt for samfunnsmedisinske fag, NTNU)
+
+Mari Sandelien (siv.ing) Analyse av fart, vekt og luke for store mengder
+enkeltobservasjoner av kjøretøy ved hjelp av SPSS. - Espa og Basterud på E6 i
+1998. Veileder: Professor Bo Lindqvist. Medveileder: Senioringeniør Per Engeset, Vegdirektoratet.
+
+38
+
+
+
+Tom Richard Evensen (siv.ing) Deteksjon av interessante forandringer
+i
+bildesekvenser. Veileder: Førsteamanuensis John Tyssedal. Medveileder: Ketil
+Bøe, Dynamic Imaging.
+
+Martin Veel Svendsen
+
+(siv.ing) Veileder: Førsteamanuensis John Tyssedal.
+
+Helene Due Grøndahl
+
+(siv.ing) Veileder: Førsteamanuensis John Tyssedal.
+
+Geir Thomas Knutheim
+
+(siv.ing) Veileder: Førsteamanuensis John Tyssedal.
+
+Bjørn Heine Strand (cand.scient) Sammenlikning av tester for genetisk
+drift basert på distansemål fra DNA fingeravtrykk. Veileder: Professor Steinar
+Engen.
+
+Siri Hofnes (cand.scient) Beskrivelse av eksisterende algoritmer og utvikling
+av nye metoder og algoritmer. Rama, et dataprogram for pålitelighetsanalyse.
+Veileder: Professor Steinar Engen.
+
+Sondre Aanes (cand.scient) Stokastisk modellering av en lirypebestand (Lagopus lagopus. Parameterestimering og analyser av ulike hgstingsstrategier under
+usikkerhet. Veileder: Professor Steinar Engen.
+
+Tina Todnem
+
+(cand.scient) Stokastisitet i aldersstrukturerte populasjoner.
+
+Veileder: Professor Steinar Engen.
+
+Instilling til Sveinung Erland
+Sveinung Erland fikk instilling for oppgaven Å Bayesian point estimator for
+the rate function in a point process with random number of change-points. Vi
+gratulerer!!!
+
+Tekniske rapporter 1998/99
+HÅVARD RUE AND ODDvar K. Hussy (No. 8/98) Modern Statistical Methods:
+A First Introduction.
+
+‘No. 9/98) Random t-distributed Fields.
+JAN TERJE KVALOY AND Bo HENRY LINDQVIST (No. 10/98) The covariate
+JO ROYSLIEN
+
+order method for censored exponential regression.
+
+BJØRN KARE HEGSTAD AND HENNING OMRE (No. 11/98) Reservoir Characterization Integrating Well Observations, Seismic Data and Production History.
+ODDGEIR SAMSET (No. 12/98) Stepwise Regression under Factor Sparsity using
+a new Stopping Criterion.
+
+ODDGEIR SAMSET AND JOHN TYSSEDAL (No. 13/98) Repeat and Mirror-Image
+Patterns and Correlation Structures of Plackett-Burman Designs, their Foldovers
+i
+
+and Half-Fractions.
+
+bY
+
+
+
+HÅKON TJELMELAND AND BJØRN KÅRE HEGSTAD (No. 1/99) Mode jumping
+proposals in MCMC.
+
+JAN TERJE KvaLøy (No. 3/99) Nonparametric estimation in Cox-models:
+Time transformation methods versus partial likelihood methods.
+
+ODDGEIR SAMSET (No. 4/99) Identifying Active Factors from Non-Geometric
+Plackett-Burman Designs and their Half-Fractions.
+
+MERRILEE A. HURN, INGELIN STEINSLAND AND HAVARD RUE (No. 5/99)
+Parameter estimation for a deformable template model.
+
+HENNING OMRE, HÅKON TJELMELAND OG HANNE T. WIsT (No. 6/99) Uncertainty in history matching - model specification and sampling algorithms.
+JAN TERJE KvaLøy (No. 7/99) Covariate order tests for covariate effect.
+HAVARD RUE (No. 8/99) A Fast and Exact Simulation Algorithm for General
+Gaussian Markov Random Fields.
+
+ALFHILD LIEN EIDE AND ANNE RANDI SYVERSVEEN (No. 9/99) Marked point
+model of calcites conditioned to seismic data and well data.
+
+ALFHILD LIEN EIDE, HENNING OMRE AND BJORN URSIN (No. 10/99) Uncertainty in Seismic Inversion for Reservoir Characterization.
+
+HÅVARD RUE, ARNE MARTHINSEN AND EGIL G. Hussy (No. 11/99) A Di
+
+vide and Conquer Algorithm for Exact Simulation of General Gaussian Markov
+
+Random Fields.
+
+ODDGEIR SAMSET AND JOHN TYSSEDAL (No. 12/99) Two-Level Designs with
+Good Projection Properties.
+
+ARNOLDO FRIGESSI, JORUND GASEMYR AND HAVARD RUE (No. 13/99) Antithetic Coupling of Two Gibbs Sampler Chains.
+
+ODDGEIR SAMSET AND JOHN TYSSEDAL (No. 14/99) Planning Follow-Up Runs
+to Screening Experiments.
+
+Bo HENRY LINDQVIST (No. 15/99) Repairable systems with general repair.
+HAVARD RUE AND HAKON TJELMELAND (No. 16/99) Fitting Gaussian Markov
+Random Fields to Gaussian Fields.
+
+BJORN KARE HEGSTAD AND HENNING OMRE (No. 17/99) Uncertainty in Production Forecasts based on Well Observations, Seismic Data and Production
+History.
+
+GEORG ELVEBAKK, BO HENRY LINDQVIST AND K. HEGGLAND (No. 18/99)
+
+The Trend-Renewal Process for Statistical Analysis of Repairable Systems.
+GEORG ELVEBAKK (No. 19/99) Extending the Use of Some Traditional Trend
+Tests for Repairable Systems Data by Resampling Techniques.
+
+ODDVAR HUSBY AND T. LIE AND T. LANGØ AND J. HOKLAND AND HA VARD
+RUE (No. 20/99) Bayesian 2D Deconvolution: A model for diffuse ultrasound
+scattering.
+
+T. LANGØ AND T. LIE AND ODDVAR HUSBY AND J. HOKLAND (No. 21/99)
+Bayesian 2D Deconvolution: Effect of using Spatially Invariant Ultrasound Point
+Spread Functions.
+
+410
+
+
+
+Nytt fra Universitetet i Oslo
+Nye cand. scient.-er
+Otto Rendedal: “Deteksjon av strukturelle forandringer i dynamiske prosesser”
+Veileder: Tormod Næs
+
+Trond Nordal: “Seleksjonsfenomenet — Mulige forklaringer”
+Veileder: Pål Lillevold
+
+Erik Myhre:
+
+“Modellering ved Bayesiansk tidsrekkeanalyse på motorvogn-
+
+skader”
+Veileder: Bent Natvig
+
+Kåre Dobloug:
+
+“Bayesiansk tidsrekkeanalyse på et datamateriale hentet fra
+
+industrien”
+Veileder: Bent Natvig
+
+Kathrine Frey: "Ikke lineær Bayesiansk regresjon med anvendelser i mekanikk”
+Veileder: Erik Bølviken
+
+Joseph Sexton: “Estimering og stasjonaritet i en økonometrisk tidsrekkemodell”
+Veileder: Anders Rygh Swensen
+
+Tove K. Sjursen: “Analyse av dødelighet blant norske trillinger”
+Veileder: Sven Ove Samuelsen
+
+Erik Marcel Sørensen: “Simulating the Posterior Distribution in Reliability
+Models Involving the Generalized Gamma Distribution”
+Veileder: Bent Natvig
+
+Bjorn Jervell Hansen: *Mønstergjenkjenning i EEG-data”
+Veileder: Geir Storvik
+
+Anders Skaarud: “MTP, Egenskapen og grenser for pålitelighet. en anvendelse
+på konkrete systemer”
+Veileder: Bent Natvig
+
+Harald Fekjær: *A Simulation Study of Methods for Estimation and Testing
+in Mixed Effects Models”
+Veiledere: Petter Laake og Inge Helland
+
+4)
+
+
+
+Nye dr. scient.-er
+Kjetil F. Kaaresen: "Maximum Å Posteriori Deconvolution of Sparse Signals”
+Veiledere: Erik Bølviken og Torfinn Taxt
+Ulf Geir Indahl:
+
+“Pattern Recognition and Feature Extraction - Å Synthesis
+
+of Probability and Fuzzy Approaches”
+Veileder: Tormod Nes
+
+Statistical Research Reports
+Jgrund Gasemyr & Bent Natvig:
+
+“On lifemonitoring and conditional life-
+
+monitoring of system components with application to preventive system maintenance.” No.13, 1997
+
+Erik Bølviken, Peter J. Acklam, Nils Christophersen & J. M. Størdal:
+“Monte Carlo filters for non-linear state estimation.” No.14, 1997
+Helge Blaker: “Minimax Estimation in Linear Regression under Restrictions.”
+No.1, 1998
+Inge Helland:
+
+“Model reduction for prediction in regression models.”
+
+No.2,
+
+1998
+
+Bard Storvik: “Variable weight and location kernel density estimations.” No.3,
+1998
+
+Ingrid K.Glad:
+
+“Bayesian: back-calculations with HIV seropositivity notifi-
+
+cations.” No.4, 1998
+
+Ørnulf Borgan & Sven Ove Samuelsen:
+
+“Exposure stratified case-cohort
+
+designs.” No.5, 1998
+N.L. Hjort & S.G. Walker: “A note on kernel density estimators with optimal
+
+bandwidth’.” No.1, 1999
+Espen Norberg:
+
+“Approximate Comparison of Statistical Experiments with
+
+Filtered Probability Spaces.” No.2, 1999
+N.L.Hjort & A.Koning:
+
+“Tests for Constancy of Model Parameters Over
+
+Time.” No.3, 1999
+
+J. Gåsemyr & B. Natvig: “Bayesian Inference Based on Partial Monitoring of
+Components with Applications to Preventive System Maintenance.” No.4, 1999
+M.C. Jones, D.F. Signorini & N.L. Hjort: “On Multiplicative Bias Correction in Kernel Density Estimation.” No.5, 1999
+
+I.S.Helland: *Relations between quantum theory and symmetry structures in
+a parameter space for statistical experiments.” No.6, 1999
+
+ud
+
+
+
+T. Aven & U. Jensen: “A note on the Poisson limit for the number of system
+failures of a monotone system.” No.7, 1999
+
+T.Schweder & N.L. Hjort: “Frequentist Analogues of Priors and Posteriors.”
+No.8, 1999
+
+J.Gasemyr, B.Natvig & E.Sørensen:
+
+“A comparison of two sequential
+
+Metropolis-Hastings algorithms with standard simulation techniques in Bayesian
+inference in reliability models involving the generalized gamma distribution.”
+No.9, 1999
+
+N.L. Hjort:
+
+“Towards semiparametric bandwidth selectors for kernel density
+
+estimators.” No.10, 1999
+
+E. Bølviken, G. Storvik & F.Gléckner: “Deterministic and stochastic particle filters in state space models.” No.11, 1999
+
+I.S. Helland: “Quantum Theory from Symmetries in a General Statistical Parameter Space.” No.12, 1999
+
+Statistical Memoirs
+Bent Natvig: “Hvordan tenkte Thomas Bayes?”
+Invitert foredrag 19. oktober under emnekurset ” Kit almennmedisinsk partitur”,
+som en del av Nidaroskongressen -97. No.2, 1997
+Pål Lillevold: “Pensjonssparing med og uten forsikringselement — en sammenlignende analyse.” No.3, 1997
+
+Nytt fra
+
+Norges landbrukshøgskole
+Ny cand. scient. (den første!)
+Solve Sæbø: “Rekursiv prediksjon med anvendelse på plantevekst.”
+Veiledere: Trygve Almøy og Lars Snipen
+
+43
+
+
+
+PN
+
+NR=& Norsk Regnesentral
+—
+
+ANVENDT DATAFORSKNING
+
+DOKTORGRADSSTIPEND I STATISTIKK
+PÅ NORSK REGNESENTRAL
+
+Norsk Regnesentral (NR, the Norwegian Computing Center) is a research
+institute with strong competence in the field of statistics and mathematical modelling.
+
+We offer a three year PhD grant (Doktorgradsstipend) linked to our research project
+Knowledge, Data and Decision - Modern Statistics in Action
+
+This is a strategic institute project (SIP) funded by The Research Council of Norway
+and running until year 2002. The aim of the project is to strengthen competence in
+statistics through innovative research at international level in selected areas of
+methodological and applied statistics. In particular the PhD is expected to contribute
+to the areas of advanced stochastic modelling, simulation based inference and
+decision, and modern time series analysis. It might address applications within natural
+resources and environment, public decision making and industrial production, among
+others. NR is a member node of the European Programme on Spatial and
+Computational Statistics.
+
+The candidate will work at NR in Oslo and her/his final degree will be at the
+Department of Mathematics of the University of Oslo.
+
+Applications should reach us by 15. 10. 1999. Please send your CV, a list of your
+university exams with grades (vitnemål), a copy of your master thesis (hovedoppgave)
+and/or any other relevant material to:
+SIP-PHD
+attention: Arnoldo Frigessi
+Norsk Regnesentral
+P.b. 114 Blindern
+
+0314 Oslo
+Norway
+
+For enquires contact Arnoldo Frigessi (frigessi@nr.no) or André Teigland
+(andre.teigland@nr.no). Information is also available on our web pages
+http://www.nr.no.
+Oslo, 2.9.1999
+
+Wy
+
+
+
+Medlemsskap i Norsk statistisk Forening
+Kontingent:
+
+200 kr/år
+
+50 kr/år for studenter (til og med hovedfag).
+
+Kontonummer:
+
+0530 2773299
+
+Nummeret som er angitt på adresselappen på TG angir siste år kontingenten ble betalt.
+Ved innbetaling må man opplyse om endret adresse (f.eks endret postnummer).
+Korrespondanse om medlemsskap og innbetaling av kontingent skal skje til foreningens
+kasserer:
+
+Norsk Statistisk forening v/Å got Irgens
+Kalfarlien 6A
+5018 Bergen
+
+Emailadresse: agot.irgens@haukeland.no
+
+Nye medlemmer melder seg til kasserer og får så automatisk tilsendt Tilfeldig Gang fra første
+påfølgende nummer av.
+
+Mailadresser:
+
+Vi ønsker mailadresser til alle medlemmer i NSF:
+
+Oppgi e-mailadressen din på merknadsfeltet på postgiroen, eller send en e-mail til
+
+agot.irgens(Øhaukeland.no om mailadresse og evt adresseendring.
+
+Annen korrespondanse med foreningen skal foregå med formannen:
+Geir Egil Eide
+Norges Handelshøyskole
+Helleveien 30
+N-5045 Bergen
+
+Emailadresse: Geir.Eide(Qnhh.no
+
+US
+
+
+
+
+
+
+
+RETUR:
+Norsk Statistisk Fo
+rening v/Agot Irg
+
+ens
+
+Kalfarlien 6A
+
+5018 Bergen
+
+Emailadresse: agot.irgen
+
+s @haukeland.no
+
+
+

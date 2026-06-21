@@ -1,0 +1,864 @@
+ISSN 0803-8953
+Tilfeldig gang
+Nr. 2, årgang 31
+Juli 2014
+
+Utgitt av Norsk statistisk forening
+Redaksjonelt
+
+Fra lederen . . . . . . . . . . . . . . . . . . . . . . . . . .
+Fra redaksjonen . . . . . . . . . . . . . . . . . . . . . . .
+
+1
+2
+
+Leserbidrag
+
+Tallfest for barn i Litteraturhuset . . . . . . . . . . . . .
+Sesongjusterte fødselsdata er ikke uniformt fordelt . .
+NRs fotball-VM-modell: Argentina vinner (ikke)! . . .
+
+3
+5
+8
+
+Tankenøtter
+
+Løsning på pusleri nummer 39 . . . . . . . . . . . . . .
+Pusleri nummer 40 . . . . . . . . . . . . . . . . . . . . .
+
+9
+9
+
+Møter og konferanser
+
+Abelsymposiet 2014 . . . . . . . . . . . . . . . . . . . . .
+Rapport fra Nordstat 2014 i Finland . . . . . . . . . . .
+
+11
+12
+
+TG for 25 år siden
+
+Hvilke temaer var aktuelle på Inderøy sommeren 1989? 14
+Gratulerer
+
+Jo Røislien utnevnt til «Årets statistikfrämjare» 2013 . .
+
+15
+
+Meldinger
+
+Nytt fra seksjonene 2 og 3 ved Matematisk institutt,
+Universitetet i Oslo . . . . . . . . . . . . . . . . . . 16
+Nytt fra Universitetet i Bergen . . . . . . . . . . . . . . 17
+Nytt fra Norges teknisk-naturvitenskapelige universitet 18
+Annonseringer
+
+Department of Biostatistics University of Oslo, Norway 19
+Det 18. norske statistikarmøte . . . . . . . . . . . . . . . 20
+Scandinavian Journal of Statistics
+
+Innholdsliste juni 2014 . . . . . . . . . . . . . . . . . . .
+
+21
+
+Informasjon
+
+Har du husket å betale kontingenten i år? . . . . . . . .
+
+23
+
+
+
+
+
+redaksjonelt
+Fra lederen
+Ragnar Bang Huseby | Oslo
+
+Det er fint at foreningens e-postliste benyttes til å avertere
+stillinger for statistikere. Hittil i år har det vært sendt ut mer
+enn ti jobbannonser. Det er flere meldinger enn i tilsvarende
+periode i fjor. Hvis dette er representativt for etterspørselen
+etter statistikere, tyder det på at arbeidsmarkedet for statistikere
+er inne i en god periode. Det er mest universiteter, høyskoler
+og forskningsinstitutter som benytter e-postlisten. Vi er også
+åpne for at andre institusjoner, både i Norge og utenfor, kan
+benytte vår e-postliste til å søke etter folk. Ellers ser det ut
+til at forsikringsselskaper klarer å rekruttere statistikere uten
+å annonsere hos oss. Nettsamfunn er blitt en populær form
+for kommunikasjonsmedium. Mange er sikkert medlem av
+Facebook eller LinkedIn. For snart tre måneder siden ble
+jeg medlem av ResearchGate som inneholder ressurser for
+samarbeid mellom forskere på tvers av forskningsområder.
+Det var Nils Lid Hjort som vervet meg. Jeg har foreløpig ikke
+utnyttet det fulle potensialet av medlemskapet. Det virker
+imidlertid som det er mye som skjer der. Jeg får blant annet
+meldinger av typen «Q&A highlights for Ragnar Bang Huseby»
+og «11 researchers viewed your publications». Man blir også
+varslet om andre forskeres publikasjoner. Forsommeren
+er høysesong for konferanser. Flere statistikere deltok på
+Abelsymposiet i mai der tema var «Statistical analysis for high
+dimensional data». I skrivende stund pågår «International
+Seminar on Stability Problems for Stochastic Models» ved
+NTNU. Undertegnede deltok på det nordiske statistikermøtet
+i Finland. Jeg hadde et visst håp om å treffe noen av lederne
+for de andre statistikerforeningene i Norden, men det skjedde
+ikke. Derimot fikk Geir Storvik treffe sine kolleger i SJS-styret,
+som hadde planlagt å møtes under konferansen. Jeg merket
+meg ellers at nordisk samarbeid praktiseres på ulike måter i
+ulike fagfelt. Når det gjelder «Scandinavian Conference on
+Image Analysis», som er et samarbeid mellom organisasjoner i
+Norge, Sverige, Finland og Danmark, er som regel alle de fire
+landene representert i programkomitéen. Når det gjelder det
+nordiske statistikermøtet i år, var hele programkomitéen fra
+vertsnasjonen (og vertsbyen!).
+
+www.researchgate.net/about
+
+1
+
+
+
+Fra redaksjonen
+Turid Follestad | Trondheim
+
+Frå mi eiga studietid på dåverande NTH på slutten av 80og starten av 90-talet hugsar eg at forkortinga SUS verserte i
+miljøet. Og då tenkjer eg ikkje på Samveldet av uavhengige
+statar (allianse av tidlegare Sovjet-statar), men «Sivilingeniør
+uten statistikk». Uttrykket viste til studentar som gjekk
+gjennom sivilingeniørstudiet utan å få med seg ein gjeldande
+karakter i det obligatoriske innføringskurset i statistikk. Eg
+reknar med at det er fleire lesarar av TG som har opplevd
+at statistikk kan bli oppfatta som eit nødvendig onde heller
+enn eit nyttig verktøy, og som synest det er utfordrande å
+presentere statistikkfaget på ein måte om skaper interesse og
+engasjement. Og vi har nok ein veg å gå før det blir vanleg å
+høyre ein 6-åring seie at han vil bli statistikar når han blir stor.
+Men i dette nummeret kan du lese om ein talfest for barn, eit
+arrangement i regi av Litteraturhuset i Oslo, der grunnbegrep
+i deskriptiv statistikk vart visualisert for 6-åringar. Les og lat
+deg inspirere! Og så gratulerer vi Jo Røislien med utmerkinga
+«Årets statistikfrämjare» i nabolandet.
+I TG for 25 år sidan kan vi lese at «Datastøttet læring - en
+oversikt og en demonstrasjon» var tema for eitt av dei inviterte
+foredraga på statistikarmøtet i 1989. Ovanfor nemnte talfest
+illustrerer kanskje at når formålet er å skape blest om faget vårt
+og gjere det meir handgripeleg, så er det ikkje heilt ueffent å
+ta i brukt bananar og eple eller andre «handfaste» ting som
+supplement til alle skjermbaserte hjelpemiddel som vi 25 år
+seinare omgir oss med frå småbarnsalderen av?
+På dei følgjande sidene finn du også faglige bidrag for
+voksne statistikarar, i form av ein studie av fordelinga for
+fødselsdatoar, og eit nytt Pusleri som du kan ta med deg om du
+treng noko å bryne statistikkhjerna på i ferien.
+Redaksjonen ønskjer alle ein god sommar!
+
+2
+
+Redaksjon
+Turid Follestad
+Bo Lindqvist
+Petter Arnesen
+
+
+
+leserbidrag
+Tallfest for barn i Litteraturhuset
+Kathrine Frey Frøslie | Oslo
+
+Oslo, lørdag 26. april: Sola skinner fra en skyfri himmel, og
+Oslo strutter av vår. I 3. etasje i Litteraturhuset rulles en elleve
+og en halv meter lang gråpapirtallinje tvers gjennom rommet,
+en enorm fruktkurv står på scenen, og barna som har møtt opp
+på tallfest gjør seg klar til å tre inn i rollen som fruktforskere.
+Da boka «Tall forteller» var ute i det fri høsten 2013, gikk
+det ikke lang tid før Litteraturhuset var på tråden for å lage et
+tall-arrangement for barn. «Tall forteller» er en statistikkbok
+uten formler, som i følge forfatterne kan leses av nysgjerrige
+sjeler helt ned i 12-13års-alder. «Så rart» er Litteraturhusets
+foredragsserie med naturfagsfokus, for barn 6-12 år.
+Det å presentere statistikkfaget for 6-åringer er en helt
+annen øvelse enn å forklare statistiske begreper for ungdommer
+og voksne. En 13-åring kan abstrahere, og selv om hun ikke har
+et nært forhold til oljeproduksjon eller fødselsvekt, kan vi trikse
+med ball eller telle SMS-er for å illustrere statistiske begreper
+og forskningsresultater knyttet til nettopp oljeproduksjon og
+fødselsvekt.
+For 6-åringen fungerer ikke dette. For 6-åringen må alt være
+konkret – det må være til å ta og føle på, bokstavelig talt. Men
+statistiske begreper er jo absolutt ikke noe vi kan ta og føle på,
+så her måtte hoder legges i bløt. Løsningen ble frukt. Frukt er
+så konkret at det til og med kan spises! Dessuten kan frukt
+måles og veies og sorteres etter størrelse. Og det er jo statistikk!
+Så, bevæpnet med den nevnte fruktkurven, tallinjen, og en
+stabel med kjøkkenvekter, produserte ungene et frukthistogram
+på gulvet der oppe i 3. etasje.
+Da vi hadde laget frukthistogrammet, tenkte vi oss at
+Kathrine var en kelner som med en hånd skulle balansere et
+brett med all frukten: hvor skulle hun holde under brettet da?
+Det skjønner 6-åringene godt, for holder man for langt ut til
+enten venstre eller høyre, vil brettet velte. Og vipps, så hadde
+de identifisert gjennomsnittet. Telle kan de også, så medianen
+var heller ikke vanskelig å finne.
+3
+
+
+
+Men så hentet statistikeren frem monsterfrukten: to
+honningmeloner som var så tunge at de måtte plasseres helt på
+den andre siden av rommet! Stor oppstandelse! «SE hvor langt
+bort kelneren må holde brettet nå, da!» Gjennomsnittet flyttet
+seg kjempemye, men medianen, den flyttet seg bare en banan
+lenger bort. Så rart!
+Vi avsluttet med å spise opp observasjonene våre. Og med å
+drikke 2.5 dl juice, som er den gjennomsnittlige væskemengden
+i en sky på størrelse med en buss.
+Til dere som ikke fikk med dere tallfesten, anbefales
+Litteraturhusets øvrige tilbud for barn.
+
+http://litteraturhuset.no/
+barnungdom/
+
+4
+
+
+
+Sesongjusterte fødselsdata er ikke uniformt fordelt
+Terje Dønvold | Oslo
+Vi skal se at Benfords lov - og ikke uniform fordeling som vanlig antatt - gjelder for antall fødte på
+fødselsdag nummer 1-31. Benfords lov («Førstesiffer-loven») sier at førstesiffer 1-9 for tall i
+naturlige vekstprosesser er hyppigst for 1 og eksponentielt fallende til lavest for 9. Det gjøres en
+binomisk to-sidig haletest for avvik fra uniform fordeling (p=1/9). Testobservatoren er andel født
+på dagnummerets tverrsum 1-9. Testdata er populasjoner med personer fordelt på menn, kvinner,
+vestlige og ikke-vestlige innvandrere. I tillegg til tidligere funn om variasjoner i fødselsrate for
+uke- og helgedager, kan funnet om fødselsrate ihht. Benfords lov for dagnumre gi bedre
+bemanningsplanlegging på fødselsklinikker. Funnet kan også avhjelpe kapasitetsproblemene i
+Personnummer-systemet grunnet sterk innvandring med datofastsetting.
+
+Amerikanske forsikringskunder
+På http://www.panix.com/~murphy/bday.html
+amerikanske forsikringskunder.
+
+finner
+
+vi
+
+fødselsdag
+
+nummer
+
+for
+
+481.040
+
+Data er innsamlet etter hvert som personene har blitt registrert som kunde over en periode på 13
+år (1981-1994). Dersom aldersfordelingen er spredt så skulle det også gi en utvisking av helgeeffekt på fødselsdag, som skriver seg fra at keisersnitt sjeldnere utføres i helg enn på yrke
+dager. Andel keisersnitt i USA har i løpet av de siste 30 år omtrent doblet seg fra 2% til 4%. For
+våre data med forsikringskunder, kan personene antas å være født for mer enn 30 år siden. En
+antagelse om 2% andel keisersnitt er derfor trolig robust, samtidig som den er lav nok til ikke å gi
+vesentlig påvirkning på vår undersøkelse selv om helge-effekten ikke ble utvisket.
+
+Figur 1: Frekvensfordeling for fødselsdag nummer 1-31 for 481.040 amerikanske forsikringskunder.
+
+Dersom vi tverrsumerer fødselsdagene (f.eks. 21=2+1=3) får vi fordeling 1-9 som i figur 2.
+
+5
+
+
+
+Figur 2: Frekvensfordeling for tverrsummert fødselsdag nummer 1-9 for 481.040 amerikanske forsikringskunder. De
+ekstra tverrsum-generatorene dag 28-31 er ikke slettet.
+
+Av figuren ser vi at tverrsummene 1-4 har klart høyest frekvens. Dette skyldes at disse
+tverrsummene har en fjerde generator med dagene 28-31. Dersom vi sletter dagene 28-31, får
+vi fordelingen vist i figur 3.
+
+Figur 3: Frekvensfordeling for tverrsummert fødselsdag nummer 1-9 for 426.983 amerikanske forsikringskunder. De
+ekstra tverrsum-generatorene dag 28-31 er slettet. (Merk at andre-aksen ikke starter på null, slik at søylenes relative
+lengder ikke uten videre kan sammenlignes.)
+
+Fordelingen har et fallende forløp som ligner Benfords lov, men med en topp for tverrsum 6 som
+skriver seg fra den globale toppen for dag 15 i figur 1. Fem av avvikene fra gjennomsnittet i figur
+3 er signifikante på mer enn 95% konfidensnivå. Vi vet at en del personer ikke kjenner sin
+fødselsdato. Denne blir da satt av dem selv etter hva de husker, ønsker, ved tilfeldighet eller til
+det offentlig organer fastsetter. Kanskje kan den 15. - som er midten av en måned, være en
+foretrukken dato ved fastsetting siden man da forventer å ta minst feil.
+For å undersøke for falsk signifikans pga. mulige feil eller generelt dårlig datakvalitet i datasettet,
+er det i artikkelens fullversjon undersøkt for og funnet samme resultat i data fra det norske og
+danske folkeregisteret.
+
+6
+
+
+
+Noen vil kanskje stille spørsmål om det kan være tverrsummeringene som gir signifikante avvik
+fra uniform fordeling. Som kjøpmannen i den gamle kolonialforretningen benyttet tverrsummering
+for å kontrollere korrekt oppsummert dagsomsetning, har jeg benyttet tverrsummering for å få
+oversikt og synliggjøre effekten av «order of magnitude». Tverrsummering øker avviket fra
+uniform fordeling, men har topologi lik det underliggende avviket. At det fallende forløpet for
+Benfords lov ikke viskes ut over år og populasjoner, er en indikasjon på signifikant avvik fra
+uniform fordeling. Dette sammenfaller med det signifikante avviket uten tverrsummering som er
+presentert på http://www.panix.com/~murphy/bday.html. En tilsvarende Kji-kvadrat test for de 28
+første dagene i eksempelvis figur 4 i artikkelens fullversjon, gir sterkt signifikant testobservator
+Kji=449. For øvrig er tverrsum en lite kjent, men interessant algebraisk statistikk verdt en egen
+behandling.
+
+Datofastsetting og Benfords lov er viktigste grunner til
+kapasitetsproblem i Personnummer-systemet.
+Datofastsetting reguleres av Forskrift om folkeregistrering av 9. november 2007 § 2-3. Her
+framkommer at «I slike tilfeller skal fødselsdag og -måned settes til den registreringsdag og
+-måned innvandringen har fått i Det sentrale folkeregister.» Det er Politiets utlendingsmyndighet
+(PU) som foretar registreringen. PU og DSF opplyser at for flere ikke-vestlige land (f.eks. Irak), så
+har myndigheter lite fokus på registrering av fødselsdato og bruk av personnummer. Relativt
+mange personer født i disse landene får derfor i sitt hjemland fødselsdato satt til 1. januar eller 1.
+juli. PU opplyser at disse to datoene observeres oftere i ikke-vestlige innvandreres pass ved
+ankomst Norge.
+Den spesielt høye frekvensen for fødselsdag nummer 1 grunnet ikke-vestlig innvandring og
+Benfords lov, har medført at personnummer-systemet i Norge og andre land har
+kapasitetsproblemer. Innvandrere som ankommer Norge uten fødselsdato får fastsatt dato lik
+PU sin registreringsdato. DSF/Skatteetaten opplyser at en del av disse senere søker om å endre
+fastsatt fødselsdato til det de mener er riktig. DSF har strenge regler for søknad og innvilgelse.
+Dette innebærer blant annet en spredning av fødselsdag med de ekvidistante dagnumrene 1, 5,
+10, 15, 20, 25 og 30 for innvilgede søknader. Dette medfører også et raskere forbruk av dagens
+system for personnummer enn om man tok i bruk fordelingen for Benfords lov.
+
+Konklusjon
+Benfords lov gjelder for fødselsdag nummer 1-31. Benfords lov gjelder enda sterkere for
+tverrsummerte fødselsdag nummer 1-9 pga. høyere «order of magnitude» og lavere «inverse
+order of magnitude».
+a. Konklusjonen strider mot den generelle oppfatningen av at frekvens for fødselsdag
+nummer er uniformt fordelt.
+b. Konklusjonen innebærer systematikk i fødselsdag nummer.
+Spørsmål og kommentarer kan sendes til donvold@gmail.com. Fullversjon er tilgjengelig her:
+https://sites.google.com/site/nsftgarkiv2/Benfords%20lov%20i%20f%C3%B8dselsdata%20NY
+%20FULLVERSJON%20210714.pdf?attredirects=0&d=1
+
+7
+
+
+
+NRs fotball-VM-modell: Argentina vinner (ikke)!
+Anders Løland | Oslo
+
+Tradisjonen tro har NR også i år laget en modell for de ulike
+lagenes sjanser i fotball-VM. Sannsynlighetene vil bli oppdatert
+gjennom hele mesterskapet.
+Av og til vil NR også dukke opp på Dagbladets VM-studio.
+
+http://vm.nr.no/
+http://livebeta.dagbladet.no/
+brasil2014
+
+Foto: REUTERS/Paulo Whitaker
+
+8
+
+
+
+tankenøtter
+Løsning på pusleri nummer 39
+Jostein Lillestøl | Bergen
+
+Oppgaven
+To byer A og B ligger svært langt fra hverandre er forbundet
+med en smal vei som umuliggjør forbikjøring. Vi sender
+avgårde n biler fra A , der hver er pålagt å kjøre med konstant
+fart. Farten til de enkelte bilene velges tilfeldig og uavhengig
+av hverandre fra en gitt sannsynlighetsfordeling f (v). Hver
+gang en bil innhenter saktekjørende bil(er) må den regulere
+farten ned til de innhentede bilers fart. Hva er forventet antall
+”grupper” av en eller flere biler som ankommer B?
+
+Løsning
+Ulike løsninger basert på rekursjoner eller basert på egenskaper
+ved ordningsobservatoren er mulig, men man kan ganske
+enkelt resonnere slik som Jan Olav Halle (aktuar i If)
+gjør: La oss anta at f er en kontinuerlig fordeling, dvs. at
+P(fart bil k = fart bil l ) = 0. Det er det da slik at bil nummer
+k danner en ny gruppe hvis den kjører saktere enn alle
+bilene foran seg, for hvis ikke vil den ta igjen en bil en
+gang og tilpasser farta. Under uavhengighetskriteriet er
+sjansen for det P((fartk < fart1 ) & (fartk < fart2 ) & . . . &
+(fartk < fartk−1 )) = 1/k da det er like stor sjanse for hver av
+de k første bilene å kjøre saktest. Altså er E[antall grupper] =
+P(bil 1 saktest av de 1 første) + P(bil 2 saktest av de 2 første) +
+· · · + P(bil n saktest av de n første) = 1/1 + + · · · + 1/n,
+som er uavhengig av f . Hvis f er diskret blir det naturligvis
+mer komplisert, f.eks. f (v) = 1{v = 1} vil gi n grupper
+deterministisk, mens med f (v) = 0.5 ∗ (1{v = 1} + 1{v = 2})
+vil en bil danne ny gruppe med sannsynlighet 1 hvis den
+«trekker» fart 1 og sannsynligheten for at minst en bil foran har
+trukket fart 1 gitt at denne bilen trekker fart 2, altså 1 − 0.5k−1
+for bil k, noe som lager en totalsannsynlighet større enn 0.5.
+
+Pusleri nummer 40
+Jostein Lillestøl | Bergen
+
+To dobbeltsporede toglinjer, linje 1 (Syd/Nord) og linje 2
+(Øst/Vest), krysser hverandre. Anta at alle tog ”braser”
+gjennom krysset uten å ta omsyn til eventuelle varsler om
+kryssende tog. Vi ønsker å belyse kollisjonsrisikoen under
+følgende forutsetninger: Togsett på de to linjene har ulik lengde
+ai (i = 1,2), og ankommer krysset iht. en Poissonprosess med
+9
+
+
+
+ulik rate λi (i = 1,2), dvs. at ventetiden mellom hvert tog
+på hver av linjene er eksponensielt fordelt. Farten forut for
+krysningen antar vi er den samme lik v på begge linjene.
+
+(a) Du har tatt et tilfeldig tog på linje 1. Hva er sannsynligheten
+for kollisjon med kryssende tog?
+(b) Hva er totalt forventet antall kollisjoner pr. tidsenhet?
+
+Klargjør den rolle eventuell ulik fart på de to linjene forut for
+krysningen har.
+
+Ikke bry deg om eventuelle komplikasjoner ved veldig lange
+tog, og eventuell rydding av linjen etter et krasj!
+
+Send svar til Jostein.Lillestol@nhh.no.
+
+10
+
+
+
+møter og konferanser
+Abelsymposiet 2014
+Clara-Cecilie Günther | Oslo
+
+Abelsymposiet ble arrangert i Kabelvåg i Lofoten 5. – 9.
+mai. Den faglige organisasjonskomiteen besto av Arnoldo
+Frigessi, Peter Bühlmann, Ingrid Glad, Mette Langaas, Sylvia
+Richardson og Marina Vannucci, og disse hadde fått tak i
+en rekke fremragende foredragsholdere. Temaet var «High
+dimensional statistics».
+Det var felles avreise fra Bodø med Hurtigruten. I strålende
+solskinn fikk vi en behagelig tur nordover til Svolvær. Med
+felles tre retters-middag og bli-kjent-lek var det en hyggelig
+start på uka. I Svolvær ble vi mottatt av Austre Lofoten-russen
+som sang Ja, vi elsker og delte ut russekort. Vi ble deretter
+kjørt til Kabelvåg og installert i rorbuene som lå idyllisk til ved
+vannet.
+I alt var det 21 inviterte foredragsholdere. For å nevne
+noen få fikk vi blant annet høre Yoav Benjamini snakke om
+viktigheten av å ta hensyn til selektiv inferens med tanke på
+å sikre «replicability». Han skilte mellom «reproducability»
+hvor man reproduserer studien fra de orginale dataene og
+får samme tall og konklusjoner, og «replicability» hvor man
+gjentar hele studien, inkludert innsamling av data for å få
+lignende, men ikke nødvendig identiske resultater. Trevor
+Hastie presenterte ulike former for regularisering, slik som
+lasso og ridge-regresjon, i tillegg til blandete grafiske modeller
+og glisne generaliserte additive modeller. Terry Speed beskrev
+hvordan uønsket variasjon i genekspresjonsdata kan fjernes
+ved hjelp av positive og negative kontrollgener. Blant de andre
+foredragsholdere var Peter Bickel, Mike West, Sara van de Geer
+og Ed George.
+I løpet av symposiet var det også satt av tid til faglige
+diskusjoner, en sesjon gruppevis og en i plenum. Gruppevis
+diskuterte vi blant annet temaene «Robustness» og «Sparsity»,
+mens plenumdiskusjonen dreide seg blant annet statistikernes
+framtid. Hvilke fag bør være obligatoriske for statistikere og
+hvordan man skal få kommet med «Big data»-båten, har vi
+allerede mistet den? Eller er det opp til hver enkelt å komme
+seg ombord?
+Det ble også arrangert minipresentasjoner for alle som ikke
+holdt foredrag. Hver deltaker fikk 2,5 minutter til å fortelle om
+seg selv og det man jobber med. Med en streng tidsstyrer ble
+dette veldig underholdende, og opplegget kan anbefales i andre
+sammenhenger.
+
+http://www.mn.uio.no/math/english/
+research/groups/
+statistics-biostati
+
+Foto: Mette Langaas
+
+Foto: Mette Langaas
+
+11
+
+
+
+Den store felles ekskursjonen gikk med båt til Henningsvær.
+De tøffeste ble med frakteskuten Anne Bro fra 1911 ut for
+å fiske. Det ble riktignok ikke den helt store fangsten, men
+en flott tur. Resten av deltakerne fikk sightseeing nærmere
+land i en mindre båt. Vel i land kunne man få med seg en
+fotoutstilling om livet i Lofoten eller se seg om i Henningsvær
+før konferansemiddagen. Middagen var en sjømatbuffet, så å si
+alle rettene inneholdt fisk i en eller annen variant, og det var
+mange spennende arter å velge blant, blant annet klippfisk,
+tørrfisk, røkt hval og torsketunge.
+Programmet var tettpakket, omgivelsene flotte og været
+fantastisk gjennom hele uka. Vi kunne ikke hatt det bedre.
+En stor takk til organisasjonskomiteen for vel gjennomført
+symposium!
+
+Foto: Mette Langaas
+
+Rapport fra Nordstat 2014 i Finland
+Ragnar Bang Huseby | Oslo
+
+Det 25. nordiske statistikermøtet ble arrangert i Turku 2-6. juni.
+Møtet ble holdt i lokalene til Turun yliopisto (University of
+Turku).
+De sju spesielt inviterte foredragsholderne på konferansen
+var Marc Hallin, Andew Gelman, John Aston, Pentti Saikkonen,
+Peter Bank, Henrik Hult og Bing Li. SJS-foredraget var av Søren
+Johansen og Bent Nielsen. Det faglige programmet besto ellers
+av inviterte foredrag, innsendte foredrag og postere. Det var
+et bredt program, og totalt var det i overkant av hundre ulike
+bidrag.
+Det var mange finner på konferansen, men det var relativt
+Foto: http://www.utustats.ﬁ/nordstat-2014/
+
+12
+
+
+
+få fra de andre nordiske landene. Jeg observerte kun åtte med
+tilknytning til norske institusjoner (NILF, NR, NTNU og UiO).
+En del av konferansedeltagerne var fra land utenfor Norden.
+Høydepunktene i det sosiale programmet var båtturen på
+onsdag og konferansemiddagen på torsdag. Vi var spesielt
+heldige med været på båtturen.
+Norma14, en nordisk konferanse for matematikkutdanning,
+ble arrangert på samme sted som vår konferanse mens vi var
+der. Det var i det hele tatt mange som besøkte Turku den uken,
+noe som gjorde at de tilreisende til Nordstat 2014 ble spredt på
+ulike hoteller.
+Det 26. nordiske statistikermøtet skal arrangeres i Danmark
+i 2016. Detaljer angående tid og sted er foreløpig ikke bestemt.
+
+Utﬂukt i nydelig vær
+
+Foto: Ragnar Bang Huseby
+
+13
+
+
+
+tg for 25 år siden
+Hvilke temaer var aktuelle på Inderøy sommeren 1989?
+
+14
+
+
+
+gratulerer
+Jo Røislien utnevnt til «Årets statistikfrämjare» 2013
+Jo Røislien mottok utmerkelsen «Årets statistikfrämjare» av
+«Svenska Statistikfrämjandet»
+Begrunnelsen lyder: «För att i det populärvetenskapliga
+programmet Siffror (SVT1/UR), genom ett underhållande
+format och en genomtänkt kommunikationsstrategi, ha gjort
+statistik intressant och förståeligt för nya målgrupper.»
+
+http://statistikframjandet.se/joroislien-utsedd-till-aretsstatistikframjare-2013/
+
+15
+
+
+
+meldinger
+Nytt fra seksjonene 2 og 3 ved Matematisk institutt,
+Universitetet i Oslo
+Ny ph.d-grader
+Nathalie Stør (14. mars 2014)
+Reuse of controls from nested case-control studies in cancer
+research (prøveforelesning: Confounding, mediation and colliding in
+epidemiological data)
+Bedømmelseskomité: Marie Reilly, Karolinska Institutet;
+Per Kragh Andersen, København Universitet; Anders Rygh
+Swensen, Universitetet i Oslo. Veiledere: Sven Ove Samuelsen,
+Universitetet i Oslo; Ørnulf Borgan, Universitetet i Oslo;
+Haakon Meyer, Folkehelseinstituttet
+Sven Haadem (21. mars 2014)
+Stochastic control and optimal stopping for non-Markovian processes
+with infinite horizon and related topics (prøveforelesning: Stable
+distributions)
+Bedømmelseskomité: Yaozhoug Hu, University of Kansas;
+José Manuel Corcuera, University of Barcelona; Inge Helland,
+Universitetet i Oslo. Veiledere: Frank Proske, Universitetet i
+Oslo; Fred Espen Benth, Universitetet i Oslo.
+Steffen Sjursen (11. april 2014)
+Stochastic optimal control and time changed Lévy noise
+(prøveforelesning: Mean-field games and control: applications to
+economics and finance)
+Bedømmelseskomité: Joseph Vives Santa Eulalia, University of
+Barcelona; Boualew Djehiche, Kungliga Tekniska Høgskolan;
+Tom Lois Lindstrøm, Universitetet i Oslo. Veiledere: Giulia Di
+Nunno, Universitetet i Oslo; Bernt Øksendal, Universitetet i
+Oslo.
+
+Nye mastergrader
+Sophia Yingyu Cui
+Claim reserving in long tailed non-life insurance
+Veiledere: Erik Bølviken, Anders Rygh Swensen
+Line Buset
+Stokastisk dødelighets modellering: evaluering av metoder med
+varierende datamengde
+Veileder: Erik Bølviken
+Eirik Smidt Sagstuen
+One-dimensional spline smoothing in insurance
+Veileder: Erik Bølviken
+16
+
+
+
+Erik Hove Karlsen
+Optimal portfolio problems under model ambiguity
+Veiledere: Fred Espen Benth, Giulia Di Nunno
+Mari Engh Gunnerud
+Pricing models with jumps in credit risk
+Veileder: Frank Proske
+Henrik Paulow Hammer
+Interest rate theory and stochastic duration
+Veileder: Frank Proske
+Michael Graff
+A Bayesian approach to smoothing and forcasting mortality rates
+Veiledere: Geir Storvik, Erik Bølviken
+Henrik Nyhus
+Spatio-temporal analysis of cod catch data from the Barents Sea using
+INLA
+Veileder: Geir Storvik
+Qi Ai
+Pricing of spread options in energy markets with non-zero strike
+Veileder: Fred Espen Benth
+
+Nytt fra Universitetet i Bergen
+Nye mastergrader
+Mette Optun
+Negativ binomisk regresjon med modifiserte sannsynligheter for
+nullobservasjoner; ZINB og ZANB
+Veileder: Ivar Heuch
+Marthe Charlotte Carlsen
+Markov-switching GARCH model
+Veileder: Hans A. Karlsen og Tore S. Kleppe (biveileder)
+Olaug M. Askeland
+Statistiske metoder for alder-periode-kohort-analyser: en
+sammenligning av nyere metoder med konvensjonelle generaliserte
+lineære modeller
+Veileder: Ivar Heuch
+Are Flataker Viken
+Modelling commodity prices using Bayesian regime-switching, with
+application to natural gas
+Veileder: Tore S. Kleppe
+Elina Karklina-Maca
+Statistical demography and forecasting with applications to
+Norwegian population data
+Veileder: Dag Tjøstheim
+17
+
+
+
+Hannu Lyyjynen
+Reversible jump Markov chain Monte Carlo: some theory and
+applications
+Veileder: Dag Tjøstheim og Bård Støve (biveileder)
+
+Nytt fra Norges teknisk-naturvitenskapelige universitet
+Ny PhD-student:
+Michael Gineste
+Fra mai 2014
+Veileder: Jo Eidsvik
+
+Nye mastergrader:
+Ingvild Amaliksen
+Bayesian Inversion of Time-lapse Seismic Data using Bimodal Prior
+Models
+Veileder: Henning Omre
+Karen Sofie Sollie Holt
+Statistical modelling and inference for long gene expression time series
+Veileder: Mette Langaas
+Xin Luo
+Monte-Carlo simulation of hyper-parameters in hidden Markov
+random fields
+Veileder: Håkon Tjelmeland
+Ioannis Vardaxis
+Methods for Analysis of Big Data. A combination of the Lasso method
+and the case-crossover design for investigating potential drug side
+effects on myocardial infarction.
+Veileder: Bo Lindqvist
+
+18
+
+
+
+annonseringer
+Department of Biostatistics University of Oslo, Norway
+PhD position in biostatistics
+
+http://uio.easycruit.com/vacancy/
+1202525/70335?iso=no
+
+A PhD position is available at the Department of Biostatistics of
+The University of Oslo beginning already in September 2014.
+The position is available for 3 years with a possibility for a
+fourth year with 25 % compulsory teaching or consulting.
+Research theme: statistical methodology for the analysis of high
+dimensional genomic data.
+Salary between 429 700 to 466 800 NOK/year.
+Application deadline: 13. July 2014
+
+19
+
+
+
+SOMMAR
+STATISTIKK
+SOLSTRAND
+
+Veit du kva du skal 15.–18. juni 2015?
+Kva med å kombinera noko kjekt med noko nyttig?
+
+Med andre ord: Set av datoane til
+det 18. norske statistikarmøtet –
+på Solstrand Hotel og Bad!☺
+Meir informasjon kjem på
+http://norskstatistiskforening.no/
+
+
+
+SCANDINAVIAN JOURNAL OF STATISTICS
+Volume 41 • Number 2 • June 2014
+Contents:
+
+Page
+
+How to Select Representative Samples
+Anton Grafström & Lina Schelin
+
+277
+
+Coverage-adjusted Confi dence Intervals for a Binomial Proportion
+Måns Thulin
+
+291
+
+Poll of Polls: A Compositional Loess Model
+Jakob Bergman & Björn Holmquist
+
+301
+
+Self-normalization for Spatial Data
+Xianyang Zhang, Bo Li & Xiaofeng Shao
+
+311
+
+Deconvolution Estimation of Onset of Pregnancy with Replicate Observations
+Fabienne Comte, Adeline Samson & Julien J. Stirnemann
+
+325
+
+Is a Brownian Motion Skew?
+Antoine Lejay, Ernesto Mordecki & Soledad Torres
+
+346
+
+Focused information criterion and model averaging based on weighted
+composite quantile regression
+Ganggang Xu, Suojin Wang & Jianhua Z. Huang
+Methods to Distinguish Between Polynomial and Exponential Tails
+Joan Del Castillo, Jalila Daoudi & Richard Lockhart
+On Measuring Uncertainty of Benchmarked Predictors with Application to
+Disease Risk Estimate
+Tatsuya Kubokawa, Mana Hasukawa & Kunihiko Takahashi
+
+365
+
+382
+
+394
+
+Geometric Anisotropic Spatial Point Pattern Analysis and Cox Processes
+Jesper Møller & Håkon Toftaker
+
+414
+
+The Copula Information Criteria
+Steffen Grønneberg & Nils Lid Hjort
+
+436
+
+An estimator for the cumulative co-volatility of asynchronously observed
+semimartingales with jumps
+Yuta Koike
+Variance Components Testing in ANOVA-Type Mixed Models
+Zaixing Li, Fei Chen & Lixing Zhu
+Accurate Confidence Interval Estimation of Small Area Parameters
+Under the Fay–Herriot Model
+Lixia Diao, David D. Smith, Gauri Sankar Datta, Tapabrata Maiti & Jean D. Opsomer
+
+460
+
+482
+
+497
+
+
+
+Variance Estimation and Asymptotic Confi dence Bands for the Mean
+Estimator of Sampled Functional Data with High Entropy Unequal
+Probability Sampling Designs
+Hervé Cardot, Camelia Goga & Pauline Lardin
+Simple Formula for Calculating Bias-corrected AIC in Generalized
+Linear Models
+Shinpei Imori, Hirokazu Yanagihara & Hirofumi Wakaki
+
+Published on behalf of:
+Danish Society for Theoretical Statistics
+Finnish Statistical Society
+Norwegian Statistical Society
+Swedish Statistical Society
+
+516
+
+535
+
+
+
+Har du husket å betale kontingent i år?
+Kontonummer: 0530 27 73299
+
+Kasserer: E-mail: clara-cecilie.gunther@nr.no
+
+Tlf: 22 85 25 63
+
+_____________________________________________
+Medlemskontingenten i NSF er kr. 200,- pr. år for ordinære medlemmer (mastergradsstudenter får gratis medlemskap).
+Dersom du er usikker på når du betalte sist kan du kontakte kassereren per epost.
+Hva gjør vi med pengene?
+De største utgiftspostene for NSF er overføringer til lokallagene i Oslo, Bergen og Trondheim, utdeling av Sverdrupprisen,
+NSFs medlemskap i the European Mathematical Society (EMS) og the International Statistical Institute (ISI), og utgifter i
+forbindelse med diverse arrangementer (bla. støtte til studenter ved deltakelse på det norske statistikermøtet).
+Medlemsregister
+For at medlemsregisteret skal være best mulig oppdatert er det viktig at du oppgir evt. ny post/e-postadresse ved å sende
+meg en e-post. Vi har opprettet en egen epostliste for NSFs medlemmer, nsf-medlemmer@math.uio.no. Dersom du ikke
+mottar e-post fra denne listen, send meg din oppdaterte e-postadresse.
+Betalingsfrist for innbetaling av kontingent er snarest. Vennligst oppgi hvem kontingenten gjelder for ved innbetaling,
+dette er spesielt viktig dersom din arbeidsgiver betaler kontingenten.
+
+PÅ FORHÅND TAKK!
+Vennlig hilsen
+Clara-Cecilie Günther
+Kasserer NSF
+
+Kontingent NSF 2014: kr. 200
+
+snarest
+
+NSF v/ Clara-Cecilie Günther
+Norsk Regnesentral
+Postboks 114, Blindern
+0314 Oslo
+
+0530 27 73299
+
+
+

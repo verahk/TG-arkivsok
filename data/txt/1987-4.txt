@@ -1,0 +1,3876 @@
+TILFELDIG GANG
+
+Nr, 4, Årgang
+DESEMBER 1987
+UTGITT AV NORSK STATISTISK FORENING
+INNHOLD
+
+Era
+
+Lormannem
+
+vd,
+
+NSF
+
+sess spm
+
+sååå SØM åå enone oe viere « euene 6 å EEE 5
+
+2
+
+NSF’ etterutdanningsseminar 1988: Stokastisk simulering .. 3
+Geostatistikk
+Debatt
+
+seas søke ke enone o + moun oe wuepe 3 å BETA EEG EG RSLS 6 GE å
+
+om statistikkfagets plass:
+Innlegg fra Eivind Hoffmann
+
+Svar fra Tore Schweder
+
+..........ee
+eee ee eens
+
+5
+
+svøms ss mes emnene» © muene å wens å rer å
+
+6
+
+Forskningsprosjekter finansiert av forskningråd o.1.
+
+.....
+
+T
+
+aw. new sswess
+sen
+
+8
+
+AES. erenene « overe: o 0 enone 0 SUG å I BYN T å RISES
+
+9
+
+SJØS = Scandinavian Journal of Statistics:
+Div.
+
+fra NOR agy es seer: såk
+
+Nytt
+
+fra Statistisk Forening i Oslo / Bergen
+
+Nytt
+
+fra universiteter og høyskoler
+
+Ny
+
+4
+
+studieplan ved
+
+Statistikk i
+
+avdeling C
+
+............
+
+10
+
+..........0eeeeeeeees
+
+11
+
+... ccc
+e ce ween ne
+
+12
+
+.........
+
+15
+
+Statistikk i japansk skole og høyere utdanning ..........
+
+16
+
+-
+
+noen
+
+ILO med
+
+japansk næringsliv -
+
+noen inntrykk
+
+inntrykk
+nytt
+
+statistisk hjelpemiddel
+
+Innkalling til
+
+ISCB-møte 1988
+
+Internasjonale møter 1988-1990
+Nordisk konferanse i
+
+Annhönser' Å TG
+
+arbeidslivet
+
+sa: seøs sør å
+
+.....
+
+Ui
+
+..........
+cc
+eee ecw eee eens 19
+
+.........
+cee
+eee eee eee 20
+
+matematisk statistikk
+
+Kontingent for 1987 og 1988)
+NESS: HUMMER
+
+i
+
+..............
+
+22
+
+åå kuene ow ones » eerie! « metere å G0NE å ity
+
+23
+
+ses « x sass avs 6 BLE Serene eosin ee
+
+23
+
+Me
+
+; see 0 minerer o annie: 0 6 sene & 6 EGG I TSP KS MONTE SIS SS
+
+LESS
+
+23
+
+
+
+Fra formannen i Norsk Statistisk Forening
+
+I dette nummeret av TG annonseres foreningens etterutdanningsseminar 1988. Emnet vil
+denne gangen være stokastisk simulering, og som foreleser har vi vært så heldige å få
+Brian D. Ripley fra University of Strathclyde, Glasgow. Ripley har nylig utgitt en bok
+
+om
+
+emnet
+
+(se
+
+referanse
+
+i
+
+kursannonsen).
+
+Han
+
+vil
+
+forøvrig oppholde
+
+seg
+
+ved
+
+Norsk
+
+Regnesentral i en kort periode omkring årsskiftet 1987/88, og han gjestet NTH i 1986.
+
+Som det framgår av annonsen, vil kurset som sist ha en varighet på 3 dager. Imidlertid
+vil stedet denne gangen være Trondheim. Det har vært bred enighet i styret om å legge
+kurset utenfor Oslo, og emnet simulering gjorde Trondheim med sitt tekniske miljø til et
+
+naturlig valg.
+
+Når
+
+det
+
+gjelder
+
+emnevalget,
+
+vil
+
+jeg
+
+trekke
+
+fram
+
+følgende
+
+sitat
+
+fra Tore Schweders
+
+artikkel "Statistikkfagets plass mellom matematikk og informatikk" i forrige nummer av
+TG. "Vi norske statistikere ser imidlertid ut til å henge etter også på disse områdene
+
+(bruk
+
+av
+
+regnemaskin
+
+i
+
+statistisk
+
+analyse,
+
+f.eks.
+
+simulering).
+
+Det
+
+er
+
+forøvrig
+
+lite
+
+oppløftende å være redaktør for artikler som presenterer simuleringsresultater. Gjennomgående
+
+er simuleringsresultatene preget av
+
+simuleringsresultatene
+stikkordene
+
+for
+
+lemfeldig
+
+analysert".
+
+etterutdanningskurset.
+
+dårlig
+
+planlegging......
+
+Planlegging
+
+Ripley
+
+legger
+
+og
+
+også
+
+Videre er
+
+analyse
+i
+
+er
+
+forordet
+
+som
+
+nettopp
+til
+
+sin
+
+regel
+
+to
+
+av
+
+bok
+
+(se
+
+kursannonsen for referanse) vekt på betydningen av å bruke en god "random generator".
+"Det kan være katastrofalt å tro på computer-fabrikanten", er hans konklusjon. Dette vil
+
+også bli tatt opp på kurset.
+
+Som tidligere vil det bli lagt vekt på praktiske øvinger. Her vil det bli brukt PC-er, med
+programvare som Ripley bruker i tilsvarende universitetskurs.
+
+Til slutt vil jeg på ny minne om at TG tar imot innlegg om alle mulige emner som er
+knyttet til vårt fag. Jeg håper også at debatten om statistikkfagets forhold til matematikk og informatikk vil fortsette.
+
+Trondheim 27. november 1987
+Bo Lindqvist
+
+
+
+NORSK STATISTISK FORENINGS
+ETTERUTDANNINGSSEMINAR 1988:
+STOKASTISK SIMULERING
+NORGES TEKNISKE HØGSKOLE, TRONDHEIM, 9.-11. MAI 1988
+
+FORELESER: PROFESSOR BRIAN D. RIPLEY, UNIVERSITY OF STRATHCLYDE
+
+Innhold:
+
+Kurset tar sikte på å gi deltakerne innsikt i simuleringsteori, og det dekker
+
+de fleste praktiske aspekter ved bruk av simulering. Ingen spesielle forkunnskaper om emnet er nødvendige. Forelesningene vil bli holdt på et elementært matematisk nivå.
+
+Plan for kurset:
+-
+
+Hvorfor simulere?
+
+-
+
+(Pseudo)tilfeldige tall
+
+-
+
+Nye fordelinger fra gamle
+
+-
+
+Analyse av simuleringsresultater
+
+-
+
+Design av simuleringseksperimenter
+
+-
+
+Simulering innenfor optimering og statistisk inferens
+
+Det vil bli praktiske øvelser på en av NTH’s PC-saler. Ferdig programvare
+for IBM-kompatible PC'er vil bli brukt.
+
+Litteratur:
+
+Brian D. Ripley: "Stochastic Simulation", Wiley, 1987.
+
+Brian
+
+S.
+
+Ripley
+
+Cambridge
+
+og
+
+er
+
+er
+
+født
+
+nå
+
+i
+
+1952,
+
+professor
+
+i
+
+har
+
+PhD i
+
+statistikk
+
+statistikk
+
+ved
+
+Glasgow. Han er særlig kjent for sine arbeider om
+og han utga i
+
+1981
+
+fra
+
+University
+
+University
+of
+
+of
+
+Strathclyde,
+
+romlige statistiske data,
+
+boka "Spatial Statistics" (Wiley). For tiden arbeider han
+
+med en bok om billedanalyse. Det kan også nevnes at han samarbeider med
+
+billedanalysemiljøene ved Norsk Regnesentral og Universitetet i Trondheim.
+Ripley er kjent som en meget god og engasjerende foreleser.
+Arrangementskomité:
+Folgende
+
+arrangementskomité
+
+er
+
+oppnevnt:
+
+Tor Stalhane,
+
+SINTEF/RUNIT,
+
+John S. Tyssedal, NTH og Bo Lindqvist, NTH.
+
+Pris:
+
+Arrangementskomitéen regner med en deltakeravgift på ca. 1500 kr.
+
+Påmelding: Arrangementskomitéen sender ut et eget påmeldingsskjema til NSF's medlem-
+
+mer i februar 1988.
+
+
+
+GEOSTATISTIKK
+
+Kjetil Halvorsen
+
+Norsk Regnesentral
+
+Geostatistikk er betegnelsen på et spennende og noe utradisjonelt arbeidsfelt for statistikere. (Et bedre navn, etter mønster av kjemometri og
+biometri ville være geometri!) Anvendelsene er mange: gruvedrift, malmlet-
+
+ing, miljøstatistikk, kartlegging av undergrunnsgeologi for petroleumsleting,
+skogtakseringer etc. Felleskarakteristikken for data fra disse forskjelligartede feltene er romlig samvariasjon. Hovedformålet med dataanalysen er som
+
+regel prediksjon, hypotesetesting spiller en ubetydelig rolle. (I Journel &
+Huijbregts: “Mining Geostatistics” nevnes ikke hypotesetesting i en eneste
+bisetning.)
+
+Vi skal se på et konkret eksempel. Man er interessert i å predikere dyp,
+D(-) til topp av oljeførende lag i et Nordsjøfelt. Dypet et målt i et (lite)
+antall oljebrønner, og i tillegg har vi seismiske målinger som dekker området
+(dvs; målinger av gangtid for lydbølger som blir reflektert av flaten vi er
+interessert i). Flaten modelleres som en random funksjon, med forventning
+
+gitt som en funksjon av de seismiske gangtidene. Dermed blir det mulig å
+angripe interpolasjonsproblemet over med statistiske metoder. Målingene
+av dyp i brønner er korrelerte, og dermed delvis redundante. For å konstruere en *optimal” prediktor av dyp må vi kjenne denne korrelasjonen. Romlig kovariasjon modelleres ved hjelp av variogrammet, y(x-y) =
+TE(D(x) — D(y)}?, som kan estimeres fra data. I denne sammenhengen
+kalles den “beste” lineære prediktoren for Krigingestimatoren (etter den
+Sørafrikanske gruveingeniøren D. G. Krige, som anvendte slike metoder på
+
+gullfeltene i Witwatersrand).
+
+På Norsk Regnesentral arbeider vi med anvendelse og videreutvikling av
+disse metodene, knyttet til anvendelser i oljeindustrien og miljøstatistikk.
+Spesielt jobber vi med konstruksjon av en betinget sannsynlighetsfordeling
+for olje/gass volumi et reservoir, der simulering av geostatistiske modeller
+brukes i tillegg til prediksjon.
+
+
+
+STATISTIK FAGETS
+
+Sammen
+
+med
+
+Erik
+
+Mohn
+
+var
+
+PLASS
+
+Tore Schweder
+
+en
+
+hovedperson
+
+i
+
+Dette medførte
+en nadvendig revitalisering av NSF i 1983/84.
+bl.a. en klar marginalisering av og, i stor grad, avskalling av
+"statistisk halvskolerte revere som sosiologer og «konomer ...".
+Foreningen fikk en profil som primært en forening for personer
+Det
+med matematisk statistikk som viktigste faglige bakgrunn.
+var derfor med interesse og glede jeg leste TSs selvransaking
+på
+
+denne
+
+gruppens
+
+vegne
+
+i
+
+ikke
+
+har
+
+TG,
+
+sept.
+
+19987.
+
+"Er det slik at vår fokusering på
+TS stiller spørsmålet:
+de matematiske sidene av statistikken gjær oss til nærsynte
+spesialister, som
+
+og
+
+fantasi
+
+mot
+
+på
+
+de
+
+store
+
+oppgavene
+
+Etter min
+- og som ikke gjær oss særlig egnet til dem heller?"
+mening er det ingen tvil om at svaret på dette spørsmålet er:
+JA!
+Iser gjelder dette om vi
+sammenheng og knytter det mer
+
+ser
+til
+
+spersmalet i en bred
+kompetanse enn til fantasi
+
+og
+
+mot.
+
+Dette svaret leder naturlig til et nytt spersmal:
+Reflekterer dette en heldig eller uheldig arbeidsdeling mellom
+substans-fag som sosiologi, sosialskonomi, kjemi, medisin etc
+på den ene side og metode-fag som matematisk statistikk og
+informatikk på den annen?
+TS synes å mene at svaret på dette
+Samtidig synes han også å mene at
+"Uheldig."
+spørsmålet er:
+
+det fortsatt må vere substans-fagene som i hovedsak skal ha
+ansvaret for utvikling og vedlikehold av de måleinstrumenter
+Dette tolker jeg som
+som skal brukes på vedkommende fagområde.
+at han ikke tenker seg at de forslag han framsetter til
+nyorientering i opplæringen av matematisk statistikere skal
+være ledd i en imperialistisk inntrenging på andre fags
+kompetanse-områder, men som et grunnlag for å styrke
+samarbeidet mellom substans-fag og metode-fag for å få lest
+problemer ved innsamling og analyse av statistiske data.
+
+Innenfor denne forståelsen virker de forslag som TS framsetter
+meget fornuftige og tidsmessige, sett fra den andre siden av
+,
+
+gjerdet.
+
+tillegg kommer naturligvis at substans-fagenes evne til
+dialog med matematisk statistikere og informatikere også må
+styrkes, med utgangspunkt i tilsvarende holdninger som de som
+NSF og et eventuelt "Norsk
+kommer til uttrykk i TSs innlegg.
+Statistikkrad" vil i prinsippet kunne ha en viktig rolle å
+I
+
+den prossess som kan lede til slike utviklinger
+de ulike fagområder, men bare om man slutter å
+betrakte som "statistisk halvstuderte ravere" de som arbeider
+med statistiske problemer i bred forstand med utgangspunkt
+Den utvidelsen av
+andre fagområder enn matematisk statistikk.
+det faglige perspektiv som dette vil kreve innenfor NSF vil
+forhåpentligvis snart bli mulig etter den konsolideringsfase
+spille i
+innenfor
+
+nå
+
+som foreningen
+
+gjennom.
+
+vært
+
+har
+
+Forævrig vil jeg bemerke at de statistiske sentralbyråer
+primært er instrumenter for å beskrive samfunnsmessige
+(I noen land, så som Frankrike og
+prossesser og strukturer.
+de
+
+Norge, er
+områder . )
+
+også
+
+instrumenter
+
+Viktige
+
+forskning
+
+for
+
+anvendelsesområder
+
+for
+
+på
+
+de
+
+anvendte
+
+samme
+og
+
+matematiske statistiske metoder vil aldri ble dekket av deres
+Skal derfor direktæren for Statistisk Sentralbyrå
+virksomhet.
+være
+
+fremtredende på
+
+dyktig
+ikke
+
+sitt
+
+fagfelt
+
+administrator, så må det
+
+som
+
+matematisk
+
+Bureau
+
+of
+
+halvstudert
+
+Gh-1214
+
+ræver
+
+Statistics
+
+International
+GENEVE
+
+Labour
+22
+
+tillegg
+
+vere en
+
+til
+
+å
+
+16.
+
+oktober
+
+statistiker.
+
+Eivind Hoffmann
+Statistisk
+
+i
+
+være som samfunnsforsker og
+
+Office
+
+1987
+
+
+
+01.12.1987
+
+Svar til Eivind Hoffmann
+KEKEEKKKKKKKKKKKRKKKKRK
+
+fra Tore Schweder
+
+KKK
+
+TR TR
+
+RTR RE
+
+Takk for din kommentar til mitt innlegg om statistikkfagets plass
+mellom matematikk og statistikk. Jeg tar dine kommentarer til
+støtte
+
+for mitt
+
+syn:
+
+=
+
+statistikkfaget består av mer enn matematisk statistikk
+
+å
+
+vi statistikere legger for liten vekt på fagets informatiske aspekter både i forskning, anvendelse og
+undervisning
+
+-
+
+for å få faget til å blomstre
+og for å styrke rekrutteringen må statistikk forstås, utøves og markedsføres
+som et sentralt informasjonsfag.
+
+Det er riktig at mine forslag til faglig nyorientering er ment
+som et grunnlag for å styrke samarbeidet mellom substans-fag og
+metode-fag for å få løst problemer ved innsamling og tolking av
+statistiske data. Jeg er helt enig i at det er innen de enkelte
+substans-fag at måleinstrumenter må snekres til og teoretiske
+over- og underbygging legges. Min misjon er ikke å ruste til
+imperialistisk inntrenging på andres område. Det er snarere
+indremisjon jeg driver.
+Det er nemlig på høy tid at vi statistikere skjerper oss slik at
+vi makter å stå imot presset mot vårt kompetanse-område, hva
+enten erobrerne er kjemikere, ingeniører eller informatikere.
+
+Det er selvsagt bra at forskere innen de enkelte fag tar i bruk
+statistiske metoder, og at metodene videreutvikles. Det er også
+helt i orden at mye statistisk arbeid utføres av ikke-statistikere.
+
+Men når disse halvstuderte
+
+røvere - unnskyld uttrykket
+
+-
+
+etablerer seg som entrepenører på statistikkfagets område, og når
+de haler de feite kontraktene iland til fortrengsel for faglærte
+statistikere,
+
+da
+
+er det
+
+fare på
+
+ferde.
+
+Det er sunt med konkur-
+
+ranse - når den ansporer til innsats. Men om vi statistikere
+utelukkende fortsetter å ri vår høye matematiske hest uten å
+legge merke til konkurrentene, kan konkurransen føre til store
+tap både
+
+for oss
+
+og
+
+for substans-fagene.
+
+Jeg tror det ville være av stor interesse å ta for seg søknadsmassen til NAVF og NTNF for å se hvem som sender inn statistiske
+metode-prosjekter og hvem som får uttelling. Min hypotese - som
+
+jeg helst så ble forkastet - er at det i alt vesentlig er andre
+enn faglærte statistikere som driver metodeutvikling på den
+ene eller andre måte - og som får penger og dermed prestisje,
+innflytelse
+
+og rekrutter.
+
+Som sagt, jeg setter pris på dine kommentarer, Eivind, og jeg er
+i hovedsak enig med deg. Det eneste jeg er uenig i er at direktøren i Statistisk Sentralbyrå ikke bør være statistiker. En
+
+
+
+bredt orientert statistiker vil trolig lettere kunne lede den
+teknologiske og metodiske utvikling som byrået trenger, enn for
+eksempel en sosialøkonom eller sosialantropolog. Jeg tror også
+statistikeren lettere vil kunne avveie de forskjellige interessene som byrået skal ivareta enn økonomen eller antropologen, som
+vel har lett for å ta særlig godt vare på sitt eget fags interesser. Personlige egenskaper og faglig dyktighet er kanskje
+allikevel det viktigste.
+At det ikke er kommet inn noen reaksjon fra de statistisk
+helstuderte røvere kan tolkes på to måter. Enten er vi statistikere enige om at min diagnose er rett og at den faglige
+nyorienteringen vil bli satt i gang. Eller kanskje det er slik at
+vi er så forherdet at selv indremisjon er spilt møye?
+
+Forskningsprosjekter finansiert av forskningsråd o.1.
+TG har
+
+tenkt
+
+kommende
+
+til
+
+å
+
+publisere en
+
+forskningsråd som NTNF,
+eller private
+eller
+
+til
+
+oppfordrer alle
+
+å sende en oversikt
+
+form:
+
+Prosjekttittel:
+
+Prosjektleder:
+
+Institusjon(er)
+
+som utfører prosjektet:
+
+Prosjektleder:
+
+Volum:
+
+kr. pr. år, hvilke år
+
+Finansieringskilde:
+
+Magne
+
+Aldrin
+
+alle
+
+pågående
+
+finansiert
+
+og
+
+gjennom
+
+NAVF eller andre tilsvarende offentlige
+
+forskningsmidler. Vi
+
+institusjoner
+
+følgende
+
+oversikt over
+
+forskningsprosjekter i Norge som er
+
+til TG.
+
+prosjektledere
+Det
+
+bør være på
+
+
+
+Scandinavian Journal of Statistics
+Sammen med sine søsterorganisasjoner i de øvrige nordiske landene er Norsk Statistisk
+Forening ansvarlig for utgivelsen av Scandinavian Journal of Statistics, som nå går inn i
+sin 15. årgang.
+
+Tidsskriftet er vel ansett internasjonalt, og for å opprettholde den gode standard, er det
+
+nødvendig at NSF's medlemmer også individuelt støtter opp om arbeidet med tidsskriftet.
+Du kan gjøre dette ved:
+
+Å
+
+Sende inn originale forskningsarbeider innen statistisk teori og dens anvendelser,
+herunder relevant sannsynlighetsteori.
+
+De
+
+Sende inn korte bidrag om interessante anvendelser av ikke nødvendigvis ny teori
+(se SJS 6 (1979), s. 179).
+
+a.
+
+Sende inn bidrag til spalten for notiser om upubliserte arbeider.
+
+4.
+
+Abonnere på tidsskriftet. Medlemmene av de nordiske foreningene betaler fortsatt
+kun 200 Sv. kroner mot ordinær pris 625 Sv. kroner.
+
+Hovedredaktør er fortsatt Søren Johansen, København. Norge er representert i redaksjonen med Tore Schweder, Oslo (norsk redaktør), Dag Tjøstheim, Bergen og Nils Lid Hjort,
+
+Oslo. Arnljot Høyland, Trondheim er norsk representant i styret.
+
+BESTILLINGSSEDDEL - SCANDINAVIAN JOURNAL OF STATISTICS
+
+Jeg ønsker å abonnere på Scandinavian Journal of Statistics fra og med 1988.
+Som medlem i Norsk Statistisk Forening betaler jeg 200 SEK pr. år.
+
+Navn
+
+—
+
+Adresser
+
+verse
+
+hurdsmensenereteesenesnsese
+eventer
+degers eteren eatacirnrersteretaerawsteeaires
+
+Sendes: Almqvist & Wiksell Periodical Company, Box 45150, S-104 30 Stockholm
+
+
+
+SJS - Scandinavian Journal of Statistics
+Brief
+
+information
+
+on Current Unpublished Research in Scandinavia er en
+SJS hvor det er ønskelig at mest mulig at den norske
+forskningen i statistikk presenteres. Ved å publisere
+
+spalte
+
+i
+
+rapportsammendrag i
+
+driver
+
+denne
+
+spalten
+
+kan
+
+tilsvarende forskning eller
+
+kontakt er nyttig!
+
+Bidrag i
+
+form av
+
+liknende sendes
+Tore Schweder,
+
+P.B.
+Det
+
+Institutt
+
+1070 blindern,
+
+abstract på engelsk.
+
+knyttes
+
+bruke
+
+til
+
+andre
+
+resultatene.
+
+som
+
+Slik
+
+forskningsrapporter, preprints og
+
+for statistikk og databehandling,
+
+0317 Oslo
+
+er tilstrekkelig åsende
+
+kontakt
+
+som vil
+
+3.
+
+rapporten,
+
+så sant den
+
+Resten ordner redaksjonen.
+
+å sende alle rapporter!
+
+inneholder et
+
+gjør det
+
+til
+
+en
+
+rutine
+
+'
+
+RAPPORTER INNKOMMET TIL NSF
+Formannen har mottatt en del eksemplarer av
+
+Det
+
+nordiske statistikermøtet i Stockholm
+
+1985.
+
+Velferd i
+
+Norden
+
+-
+
+måler vi
+
+de
+
+vesentlige aspektene? Nordisk statistisk skriftserie nr. 46.
+
+African
+
+Population
+
+Conference,
+
+Dakar, Senegal,
+
+November
+
+1988.
+
+Information
+
+Bulletin No. I, July 1987.
+
+samt ett eksemplar av
+
+Kvalitet
+
+i datafångst
+
+eller
+
+Får
+
+vi
+
+bra statistik
+
+utan
+
+motiverade uppgiftslamnare?
+
+Statistiska foreningen, Sverige (Innbydelse til temadag I1. november 1987).
+
+Interesserte kan henvende seg til formannen.
+
+MEDLEMSVERVING
+Dette er et godt tidspunkt for verving av nye medlemmer til foreningen. Vi ønsker nye
+
+medlemmer både blant nyutdannede hovedfagsstatistikere og de som har kommet til faget
+
+fra andre fagområder.
+
+Sett i gang og verv medlemmer på din arbeidsplass!
+
+
+
+10
+
+Nytt fra Statistisk forening i Oslo
+Statistisk
+
+forening i Oslo arrangerte et åpent møte den 16.
+
+i rom 1246,
+
+(12.
+
+etg.)
+
+november
+
+SV-bygget, Blindern.
+
+Emne
+
+for
+
+foredraget var:
+
+"Nytt Institutt for statistikk og databehandling - er det en god ting ? "
+ved
+Professor Tore Schweder, UiO.
+
+Innledning:
+
+Universitetet
+
+i
+
+behandling skal
+
+01.01.
+Det
+
+1988,
+
+nye
+
+Oslo har bestemt
+
+Institutt
+
+for statistikk og data-
+
+samfunnsvitenskapelige fakultet
+
+fra
+
+foreløpig som prøveordning i 3 år.
+
+instituttet
+
+Sosialøkonomisk
+for det nye
+
+at
+
+opprettes ved Det
+
+skal
+
+huse
+
+institutt,
+
+5
+
+statistikere
+
+samt
+
+instituttet er å
+
+fakultetets
+
+fra Statistikk
+
+EDB-tjeneste.
+
+grunnfag og
+
+Et viktig mål
+
+få etablert et vitenskapelig miljø
+
+databehandling samt et undervisningsfag i databehandling ved
+
+for
+
+fakultetet.
+
+Statistikerne vil ha ansvaret for statistikk grunnfag
+
+(20 vekttall),
+
+vil
+
+sosialøkonomer, og
+
+ha noe undervisning i
+
+de vil
+
+delta i
+
+statistikk og økonometri
+
+metodeundervisning og veiledning for
+
+for
+
+fakultetets
+
+de
+
+doktor-
+
+gradsstudenter.
+
+Ved Universitetet
+Seksjon
+
+i
+
+Oslo er det nå
+
+3 miljøer
+
+behandling).
+
+alle statistikere i
+
+spesielle
+økonomi,
+
+forpliktelser
+psykologi,
+
+På møtet vil det bli
+invitert
+
+til
+
+for statistikk
+
+(Avd.
+
+C,
+
+og data-
+
+Er dette en rasjonell organisering av forsker og under-
+
+visningsressursene ved Universitetet
+samle
+
+for statistikk:
+
+for medisinsk statistikk og Institutt
+?
+
+et Statistisk
+
+(joint
+
+Kunne en bedre ordning være å
+institutt,
+
+appointments
+
+medisin etc.
+
+?)
+
+og la de
+
+?
+
+orientert mer om det nye instituttet,
+
+debatt om den
+
+ansatte ha
+'
+
+overfor fag som biologi,
+
+og det blir
+
+fremtidige organisering av statistikkfaget
+
+ved Universitetet.
+
+Nytt fra Statistisk forening i Bergen
+Statistisk Forening i Bergen, møter høsten 1987:
+
+3. november: Trond Haider: En statistikers hverdag i en
+farmasøytisk bedrift.
+
+8. desember: Knut Korsbrekke: Vår utsendte statistiker 18
+Botswana avlegger rapport.
+
+
+
+u
+
+Nytt fra Universitetet i Trondheim, NTH
+Fra 1. januar 1988 blir instituttene for matematikk, numerisk matematikk og matematisk
+statistikk slått sammen til ett institutt med navnet institutt for matematiske fag.
+Som bestyrer for det nye storinstituttet er valgt professor Emil Spjøtvoll.
+Instituttet vil bli delt inn i faggrupper, og statistikk vil danne en slik gruppe.
+
+Stud.ing.
+
+Stein
+
+Hauge
+
+og Stud.ing.
+
+Håkon
+
+Tjelmeland
+
+er
+
+ansatt som
+
+1/2
+
+vit.ass.
+
+ved
+
+instituttet f.o.m. høstsemesteret 1987.
+
+Nytt fra Universitetet i Bergen
+Ferdig kandidat:
+Anne-Berit Salen:
+
+Oversettarsystem og metodesamanlikning
+av statistiske programpakkar
+
+Forskningstermin:
+Trygve Nilsen oppholder
+Santa Barbara, høsten
+
+seg ved
+
+University
+
+1987
+
+våren
+
+og
+
+of
+
+California,
+
+1988.
+
+Nytt fra avd. C, Matematisk Institutt, UiO
+Ansettelse:
+
+Bjørn
+
+Sundt
+
+er ansatt
+
+som professor
+
+II
+
+i
+
+No
+
+1/87
+
+forsikringsmatematikk.
+Forskningsrapporter:Statistical
+
+Thore Egeland
+and
+
+Research Report
+
+og Arne
+
+Bang Huseby:
+
+av
+
+"On dependence
+
+reliability computations".
+
+Statistical
+
+"Some
+
+Research
+
+critical
+
+Report
+
+remarks to
+
+No
+
+the
+
+2/87
+
+av Else
+
+Sandved:
+
+two books:
+
+James
+
+0.
+
+Berger:
+
+Statistical Decision Theory,1980,
+
+James
+
+0.
+
+Berger:
+
+Statistical Decision
+
+Bayesian Analysis,1985"
+
+Theory
+
+and
+
+
+
+12
+
+NY STUDIEPLAN VED AVDELING C
+
+Et forslag til ny studieplan i statistikk ved Det matematisk naturvitenskapelige
+
+fakultet ved Universitetet
+
+instituttrådet ved Matematisk institutt.
+
+i
+
+Oslo har nylig passert
+
+Forutsatt at ingen uventete
+
+ting oppstår under den videre behandlingen av studieplanen,
+
+tre i kraft fra og med høstsemestert
+
+1988.
+
+vil den
+
+Jeg vil her redgjøre for
+
+bakgrunnen for studieplanrevisjonen og beskrive hovedtrekkene i
+forslaget.
+
+Da
+
+flere av TG's lesere selv har studert ved Avdeling C har
+
+jeg
+
+valgt å benytte fullstendige emnebetegnelser i denne orienteringen.
+Videre benytter
+
+jeg de
+
+studieretningsgruppe.
+
+studieplantekniske begrepene emnegruppe og
+
+Her omfatter emnegruppen kurs på tilsammen 20
+
+vekttall som gir en innføring i faget på cand.mag.-nivå,
+10 vekttall
+
+retningsgruppen omfatter
+tas helt på
+
+mens studie-
+
+hovedfagsforberedende kurs som
+
+slutten av lavere grads studiet og er spesifikke
+
+studieretningen
+
+studenten
+
+skal
+
+for den
+
+ta.
+
+Studieplanen i statistikk gjennomgikk en omfattende revisjon
+
+sist gang i 1983.
+
+Da ble de tidligere kursene S 101,
+
+S 102 og 8 103,
+
+hver på 5 vekttall og basert på Sverdrups bøker? erstattet i
+emnegruppa av de nåværende kursene S 091
+
+S 091 og S 092,
+
+,
+
+S 092 og
+
+S
+
+107.
+
+Kursene
+
+på henholsvis 5 og 3 vekttall er basert på
+
+Bhattacharyya og Johnsons bok? mens 7 vekttalls kurset S 107 er
+
+basert på Sverdrups bøker. Hovedformålet med studieplanrevisjonen
+
+den gang var at studentene så tidlig som mulig i studiet skulle bli
+fortrolig med statistisk teknikk og tankegang.
+
+føringen av S 091 og S 092.
+
+skulle så tas igjen i S
+
+Dette førte til inn-
+
+Den manglende teorien fra disse emnene
+
+107 slik at S 091,
+
+S 092 og S 107 tilsammen
+
+skulle bringe studentene opp på samme nivå som de tidligere emnene
+S
+
+101,
+
+S
+
+102,
+
+og S
+
+103.
+
+Et
+
+annet moment ved innføringen av S 091
+
+S 092 var at disse også kunne erstatte "brukerkursene" S 001
+
+S 002,
+
+og
+
+og
+
+som var modne for revisjon. Emnene S 091 og S 092 er derfor i
+
+dag felles for "brukere" og for studenter som tar sikte på hovedfag
+i
+
+statistikk.
+
+(Betegnelsen "brukere" nyttes her om studenter med
+
+lite matematikk-kunnskaper
+statistikk.
+
+som ønsker en enkel innføring i
+
+Studenter med gode matematikk-kunnskaper tar gjerne
+
+emnegruppekursene i statistikk selv om de tar sikte på andre
+hovedfag som f.eks. fysikk,
+
+mekanikk eller kybernetikk.)
+
+
+
+13
+
+Avdelingen har høstet blandete
+
+erfaringer med
+
+Kursene S 091
+
+langt vi kan vurdere det
+
+og S 092 har så
+
+rimelig godt for "brukere".
+fakultetets
+
+studenter har
+
+viktig kritikkpunkt
+
+lært
+
+mot
+
+noe
+
+statistisk
+
+S
+
+091
+
+og
+
+S
+
+i statistikk,
+
+"kokebokpreget"
+
+benytter
+
+ikke
+
+1983.
+
+fungert
+
+tankegang
+
+ved
+
+at
+
+2-300
+
+hvert av de årene kurset har blitt gitt.
+
+sikte på videre studier
+og
+
+av
+
+Det er også positivt at en stor del av
+
+har bestått eksamen i S 091
+Et
+
+studieplanen
+
+092,
+
+for
+
+studenter
+
+som
+
+tar
+
+er at de er for elementære og
+
+fullt
+
+ut
+
+de
+
+matematikk-kunskaper
+
+studentene faktisk har. Et resultat av det lave matematikk-nivået i
+S
+
+091/S
+
+092 er at studentene kan
+
+få
+
+et
+
+feilaktig
+
+statistikk-studium innebærer. Det har også
+nivå til
+
+S
+
+inntrykk av hva et
+
+ført til at spranget i
+
+107 har blitt unødig stort.
+
+Disse forholdene
+
+førte til at Avdeling C for omtrent to år siden
+
+satte i gang en omfattende diskusjon om statistikk-studiet.
+med diskusjonen var ikke bare å
+over, men å
+
+foreta en samlet gjennomgang av hele avdelingens
+
+grads undervisning.
+
+Forslaget til
+
+ny studieplan er derfor
+
+av en større diskusjon på avdeling C,
+bøker til
+
+I
+
+de
+
+hvor også
+
+spørsmålet om lære-
+
+nye kursene har blitt avklart.
+
+vekttalls kursene ST
+disse
+
+er
+
+dende
+
+studieplan,
+
+101,
+
+ST
+
+nyutarbeidete kurs
+
+S
+
+lavere
+
+resultatet
+
+forslaget til ny studieplan består emnegruppen av de
+
+av dagens
+
+Formålet
+
+løse de problemene som er skissert
+
+ST
+
+som ikke
+
+103 og ST
+direkte
+
+mens prosesskurset ST
+
+104 hvor
+
+Kursene ST 101
+
+102,
+
+en
+
+del
+
+104.
+
+fire 5
+
+De tre
+
+svarer
+
+til
+
+første av
+
+kurs
+
+i
+
+gjel-
+
+104 er en modifisert utgave
+
+forløpsanalysestoff
+
+er
+
+innarbeidet.
+
+og ST 102 vil i hovedsak bli basert på
+
+læreboka til
+
+Larsen og MarxS men Supplert bl.a. med stoff om deskriptiv statistikk,
+tatt
+
+Monte Carlo simuleringer og bootstrapping. MINITAB vil bli
+i
+
+bruk
+
+i
+
+begge
+
+disse
+
+kursene.
+
+I
+
+emnet
+
+ST
+
+103
+
+vil
+
+vi
+
+benytte
+
+boka til Bickel og Doks um? mens Bhat's bok” vil bli brukt i ST 104.
+Med ST
+
+101,
+
+ST
+
+102 og ST
+
+103 håper avdelingen å unngå de prob-
+
+lemer dagens studieplan sliter med,
+situasjonen fra før
+
+1983:
+
+I ST
+
+101
+
+statistisk tankegang ved empirisk
+intervallestimering.
+
+uten at vi kommer tilbake ETL
+vil studentene få
+
+statistikk og ved
+
+Samtidig
+
+vil kursene
+
+en
+
+innføring i
+
+teorien
+
+for
+
+ST
+
+ST
+
+punkt-
+
+og
+
+101,
+
+og ST
+
+103 gi en naturlig progresjon i matematisk vanskelighetsgrad
+
+og til enhver tid nytte de matematikk-kunnskaper studentene
+har.
+
+102
+
+faktisk
+
+
+
+14
+
+Innføringen av den nye emnegruppen betyr at vi igjen får separate
+kurs for "brukere" og for studenter som tar sikte på hovedfag i
+statistikk.
+
+For "brukerne" blir det imidlertid ingen forandring i
+
+det
+
+kursene
+
+S
+
+001
+
+og ST 002.
+
+bli
+
+innført.
+
+091
+
+og
+
+S
+
+092
+
+videreføres
+
+under de
+
+nye
+
+betegnelsene
+
+ST
+
+Også i disse kursene vil imidletid øvelser i MINITAB
+
+Etter forslaget til studieplan blir det tre studieretninger til
+
+statistikk hovedfag:
+matematikk.
+
+Statistikk,
+
+Det nye emnet ST
+
+pålitelighetsanalyse og forsikrings-
+
+201
+
+(sannsynlighetsregning,
+
+med hoved-
+
+vekt på asymptotiske metoder), som svarer til dagens S 205,
+studieretningsemne for alle de tre studieretningene.
+
+For
+
+er
+
+studie-
+
+retning forsikringsmatematikk blir det andre studieretningsemnet FM
+200
+
+(skadeforsikringsmatematikk og risikoteori)
+
+som i dag,
+
+mens det
+
+for pålitelighetsanalyse blir dagens S 348 som videreføres under
+betegnelsen ST 203
+
+(Bayesiansk statistikk).
+
+For studieretning
+
+statistikk erstattes dagens studieretningsemne S 206 med et nytt
+emne med betegnelsen ST 202.
+
+fastlagt i detalj
+
+Innholdet i dette emnet er enda ikke
+
+(men en omarbeiding er nødvendig da deler av
+
+dagens S 206-stoff vil bli
+
+innarbeidet i ST
+
+103).
+
+Ørnulf Borgan
+
+Universitetsforlaget.
+
+a)
+
+"Lov og tilfeldighet".
+
+b)
+
+"Statistical concepts and methods". Wiley.
+
+c)
+
+"An introduction to mathematical
+
+statistics and its applications".
+
+Prentice-Hall.
+
+d)
+
+"Mathematical statistics: Basic ideas and selected topies":
+Holden-Day.
+
+e)
+
+"Elements
+
+of
+
+applied
+
+stochastic
+
+processes".
+
+Wiley.
+
+
+
+15
+
+Statistikk
+
+i japansk
+
+næringsliv
+
+-
+
+noen
+
+inntrykk
+
+"The failure of the Japanese to be bored by statistics
+=
+accounts in part for their superior economic and industria
+al
+
+performance"
+
+(Robert
+
+E.
+
+Cole
+
+(1980)).
+
+I forbindelse med et 3 ukers opphold i Japan i september 1987
+søkte jeg å belyse dette utsagnet. Underveis plukket jeg opp et
+relativt ferskt eksemplar av det amerikanske tidsskriftet Business Wekk, som i hovedoppslaget "The push for quality" gir
+
+japanernes idéer om "Total Quality Control" hovederen for deres
+økonomiske suksess. TQC innebærer utstrakt bruk av statistiske
+metoder, og omfatter alt og alle, fra markedsanalyse, produktutvikling, produksjon til markedsføring og administrasjon, og
+angår både produksjonsarbeidere og toppledelse. Det går frem at
+organisasjon JUSE (Japanese Union of Scientists and Engineers)
+har stått sentralt i arbeidet med å spre disse idéene til
+næringslivet.
+
+Jeg bestemte meg for å besøke JUSE, og fikk der et godt inntrykk i omfanget av aktivitetene: et rikholdig kursprogram,
+årlige konferanser og kampanjer, utgivelse av bøker, tidsskrifter
+
+og
+
+forskningsrapporter
+
+En del
+nivåer
+
+elementære statistiske
+i foretaket bør kjenne
+
+høyere
+
+nivå
+
+QC7-Tools", og mer
+i
+
+samt
+
+utvikling
+
+programvare.
+
+av
+
+metoder som ansatte på alle
+til, markedsføres som "The
+
+avanserte metoder
+
+forutsettes
+
+kjent
+
+på
+
+bedriftene.
+
+Kvalitetskontroll har tradisjonelt vært stikkprøver av ferdig
+produserte artikler. Japanerne har vært mer opptatt av å bygge
+kvalitet inn i selve produksjonsprosessen. Målet er feilfrie
+
+produkter som ikke krever etterkontroll. I tillegg til bruk av
+statistiske metoder for prosesskontroll (control-charts), har
+japanerne lagt stor vekt på eksperimentplanlegging både i produkt-design og organisering av produksjonen. Et stikkord er
+"robust kvalitet", dvs. at produktets egenskaper er invariant
+overfor mindre variasjoner i komponentenes egenskaper og
+produksjonsbetingelsene. Mye omtalt er den såkalte "Taguchimetoden".
+
+Det japanske kvalitetsarbeid basert
+startet allerede på 1950-tallet med
+
+Deming og Juran som var
+
+lite påaktet
+
+på statistiske metoder
+amerikanske læremestere
+
+i hjemlandet,
+
+og videre-
+
+ført bl.a. av Ishikawa gjennom organisasjonen JUSE. Rundt 1980
+måtte amerikanerne imidlertid erkjenne at det nå var japanerne
+Kvalitetsstyring er
+som hadde noe å lære fra seg på området.
+nå revitalisert som forskningstema for statistikere i USA.
+Spesielt må miljøet rundt G.E.P.Box ved University of Wisconsin
+
+nevnes.
+
+Jostein
+
+Lillestøl
+
+
+
+16
+
+Statistikk
+
+Ved
+
+i
+
+japansk
+
+International
+
+september
+
+1987
+
+årlig
+
+nasjonal
+
+hadde
+
+over
+
+og
+
+tid,
+
+tema
+
+av
+
+mens
+
+vist
+
+konkurranse
+
+i
+
+av
+
+det
+
+78.000(!)
+
+De
+
+valg
+
+og
+
+høyere
+
+Statistical
+
+ble
+
+ungdomsskolen.
+opptatt
+
+skole
+
+Institutes
+
+en
+i
+
+de
+
+bidragene
+
+om
+
+seg
+
+selv,
+
+ungdomsskoleelevene
+
+storsamfunnet,
+
+fleste
+
+presentasjonsmåte.
+
+temaer
+
+ofte
+
+sentrale
+
+46.
+
+utstilling
+
+statistisk
+
+bidrag,
+
+premierte
+
+utdanning
+
+om
+i
+
+-
+
+noen
+
+sesjon
+
+av
+
+inntrykk
+
+i
+
+Tokyo
+
+arbeider
+
+grafikk.
+
+fra
+
+Konkurransen
+
+fra
+
+elever
+
+viste
+
+stor
+
+i
+
+barne-
+
+større
+
+spørsmål
+
+grad
+
+som
+
+til
+var
+
+et
+
+både
+
+var
+
+skole
+
+og
+
+opptatt
+
+røpet
+
+og
+
+idérikdom
+
+Barneskoleelevene
+
+holdninger
+
+i
+
+en
+
+fri-
+
+av
+
+høyt
+
+bevissthetsnivå.
+
+Hvordan
+
+blir
+
+statistikkfaget
+
+danning?
+
+Elevene
+
+siste
+
+i
+
+år
+
+møter
+
+øymnaset,
+
+konfidensintervaller
+
+japanerne
+ble
+
+lagt
+
+vanligvis
+frem
+
+praktiske
+
+svært
+
+noe
+
+fulgt
+
+opp
+
+statistisk
+
+bl.a.
+
+binomisk
+
+for
+
+p.
+
+Med
+
+har,
+
+var
+
+den
+
+japanske
+
+ungdommer
+
+en
+
+Selv
+
+om
+
+det
+
+tilbys
+
+utdanning,
+
+ofte
+
+en
+
+stor
+
+grad
+
+er
+
+stor
+
+det
+del
+
+av
+
+fordypning
+
+japanerne
+
+ikke
+
+faget
+
+enten
+
+liten
+
+vekt
+
+andre
+
+institutter,
+
+store
+
+er
+
+på
+
+i
+
+i
+
+det
+til
+
+i
+
+arbeidsplassen,
+
+stor
+i
+
+hovedsak
+
+kunne
+
+vente
+
+grunn
+
+for
+
+til
+
+i
+
+slik
+det
+
+som
+
+har
+
+å
+
+merke
+men
+
+institutter
+
+personer
+
+med
+
+og
+
+eller
+
+og
+
+statistikk,
+
+matematiske
+
+legger
+
+på
+
+anvendelse
+
+er
+
+seg
+
+at
+
+at
+
+med
+
+ansettelse
+
+metoder,
+
+opplæring
+
+ledd
+
+i
+
+av
+
+forutsettes
+er
+
+høyskolenivå.
+
+foregår
+som
+
+på
+
+foretak
+
+statistiske
+
+grad
+
+valgfrihet,
+
+er
+
+av
+
+gymnaset,
+
+høyskole-
+
+ved
+
+økonomi.
+
+mange
+
+undervisningen
+i
+
+de
+
+eller
+
+japanerne
+
+der
+
+kjennskap
+
+det
+
+av
+
+f.eks.
+
+som
+
+en
+
+Det
+
+på
+
+statistikkemner
+av
+
+institutter
+
+ivaretatt
+
+vekt
+
+som
+
+statistikk.
+egne
+
+anvendelser,
+
+næringslivet,
+
+reflektert
+
+studentene
+
+i
+
+har
+
+fullfører
+
+utdanning
+
+universitetsnivå.
+
+at
+
+stoffet
+
+eksempler.
+
+fullfører
+
+til
+
+i
+
+av
+
+som
+
+aktuelle
+
+disse
+
+ut
+
+beregning
+
+at
+
+dagens
+
+visst
+
+orientering
+
+forankring
+
+av
+
+et
+
+med
+
+praktiske
+
+overraskende
+
+av
+
+i
+
+situasjon
+
+litt
+
+50%
+
+Den
+
+ut-
+
+matematikkpensum
+
+uten
+
+90%
+
+videre
+
+i
+
+det
+
+over
+
+så
+
+videregående
+
+formalistisk
+
+Over
+
+ikke
+
+i
+
+teori
+
+i
+
+statistikk
+at
+
+alle
+
+liten
+
+grad
+
+Imidlertid
+i
+
+statistikk
+
+kvalitetsfremmende
+
+arbeid.
+
+Jostein
+
+Lillestøl
+
+ser
+på
+
+har
+
+det
+
+
+
+17
+6. november 1987
+
+ILO med
+
+NYTT STATISTISK HJELPEMIDDEL I ARBEIDSLIVET
+
+Et internasjonalt yrkesleksikon og en grupperingsstandard for
+yrker er oppdatert i Den internasjonale arbeidsorganisasjonen
+
+(ILO) under ledelse av nordmannen Eivind Hoffmann. Her innlemmes
+virkningene av den teknologiske utvikling de siste 20 år.
+U-landenes arbeidsliv og forholdene innen de tjenesteytende
+
+yrker og kvinnedominerte yrker avspeiles bedre enn tidligere i
+den nye standarden. Den nye standarden er formelt godkjent på
+ILOs internasjonale konferanse for arbeidslivs-statistikk i
+Genéve,
+
+som avsluttes i dag.
+
+Den internasjonale standard for yrkesgruppering (ISCO) er et
+hjelpemiddel for A bedre forholdene i arbeidslivet i de enkelte
+
+land og for å lette samkvemmet landene imellam.
+
+ISCO er både et
+
+yrkesleksikon som beskriver de viktigste arbeidsoppgaver i ulike
+yrkesgrupper og et system som grupperer like yrker sammen.
+
+Nordmannen Eivind Hoffmann har ledet arbeidet med å revidere
+
+ISCO i ILOs sekretariat i Genéve.
+
+Den reviderte ISCO forventes publisert i 1988 sammen med en
+
+håndbok i hvordan nasjonale yrkesstandarder utvikles og brukes.
+I Norge får revisjonen av ISCO betydning bl.a.
+
+i forbindelse med
+
+revisjon av den norske yrkesstandard til bruk i arbeidsformid-
+
+lingen, Arbeidskraftundersøkelsene, folketellingen i 1990 og
+andre undersøkelser. ISCO ble sist revidert i 1968.
+
+Et yrkesleksikon er et viktig hjelpemiddel bl.a.
+
+for arbeids-
+
+formidling, yrkesveiledning og yrkesopplæring. Som ledd i
+leksikonfunksjonen inngår for hvert yrke beskrivelser av bl.a.
+arbeidsoppgaver og plikter, utdannings- og erfaringsbakgrunn,
+
+karrieremuligheter, lønnsvikår, fysisk arbeidsmiljø.
+
+Grupperingsstandarden er et nyttig verktøy ved statistisk
+
+beskrivelse og analyse av sysselsetting, arbeidsledighet,
+yrkesskader, lønns- og inntektsutvikling og andre forhold i
+
+arbeidsmarkedet oa av folks levekår.
+
+
+
+18
+
+Ny teknologi,
+
+u-land,
+
+kvinner
+
+ISCO inneholder etter revideringen utkast til beskrivelser av 333
+yrkesgrupper på det mest detaljerte nivå. Målsettingen med revisjons-
+
+arbeidet har vært:
+
+.
+
+0 Inkorporere hovedvirkningene av 20 års teknologiske utvikling på
+ulike yrkesgruppers arbeidsoppgaver.
+
+0 Bedre reflektere utviklingslandenes arbeidsliv.
+o Bedre reflektere arbeidsoppgaver og arbeidsfordeling blant de
+tjenesteytende yrker og i yrker hvor kvinner dominerer.
+
+ISCO brukes både i internasjonalt samkvem og som utgangspunkt for land
+som ønsker å utvikle eller revidere sitt eget yrkesleksikon og sin egen
+standard for yrkesgruppering.
+
+ISCO blir bedre egnet enn før til statistiske beskrivelser og analyser.
+Det nye ISCO legger større vekt enn tidligere på de kunnskaper og ferdig-
+
+heter som kreves for å utføre arbeidsoppgavene i de bestemte yrkene ved å
+gruppere yrkene etter fellestrekk.
+
+ISCO = International Standard Classification of Occupations
+
+Eivind Hoffmann
+Bureau of Statistics
+ILO
+
+Ch-1211 Genéve 22
+Tlf.
+
+094
+
+41
+
+22 90 80 76
+
+
+
+a2
+
+AUUnULLiup VIL LUV UPUG + AIMIOVLULR JUV
+"International Society for Clinical Biostatistic (ISCB) kunngjør
+sitt årlige møte for 1988som vil finne sted i Innsbruck (Østerrike)
+i perioden 29. august - 2. september. Hensikten med møtet er å bidra
+
+til utveksling av kunnskap, erfaring og ideer mellom klinikere, statistikere
+
+epidemiologer, kliniske farmakologer etc. som arbeider innen klinisk
+biostatistikk.
+
+ISCB ber nå om norske vitenskapelige bidrag til møtet og følgende emner
+blir prioritert:
+
+A.
+
+Kliniske forsøk, herunder statistiske problemer i fase II og fase IV
+forsøk, meta-analyse, subgruppeanalyse og alternativer.
+
+B.
+
+Epidemiologi, herunder bivirkninger av medikamenter, AIDSepidemiologi, yrkes og miljø-epidemiologi.
+
+C.
+
+Statistisk modellering, herunder farmakokinetikk, pasient monitorering, tidsrekker, modeller for kryss-over design.
+
+D.
+
+Bays'-metoder i klinisk biostatistikk herunder anvendelsesområder, beregningsmessige problemer og løsninger.
+
+E.
+
+Filosofiske aspekter på biostatistikk, herunder fundamenter for
+
+klinisk biostatistikk, biostatistikers
+forskning,
+
+innflytelse på medisinsk
+
+innflytelse av ny teknikk på kliniske biostatistikere
+
+etc.
+
+F.
+
+Minisymposium omkring estimering av livskvalitet i kliniske forsøk.
+
+Abstrakt av arbeide skal sendes til
+
+Dr J Seldrup,
+ISCB Honorary Secretary,
+
+Ciba-Geigy Pharmacueticals,
+Wimblehurst Road,
+Horsham,
+West Sussex,
+
+RH12
+
+4AB,
+
+UK
+
+og vere han i hende innen 29. februar 1988.
+
+Fem kopier ma vedlegges.
+
+Innsendere av abstrakter kan få ytterligere opplysning samt fullstendig
+
+kunngjøring fra Ingar Holme, Postboks 6, Ullevål Sykehus, 0407
+tlf.
+
+(02) 69 23 64".
+
+Oslo 4,
+
+
+
+MOTER 1988-1990
+1988
+685
+
+2nd ASA Winter Conference:
+
+jan.
+
+Hilton Palacio del Rio Hotel,
+Informasjon:
+
+R.L.
+
+Mason,
+
+"Statistics
+
+in Biotechnology",
+
+San Antonio,
+
+Texas,
+
+USA.
+
+Statistical Analysis Section,
+
+Southwest Research Institute,
+
+PO Drawer 28510,
+
+San Antonio,
+
+TX 78284, USA.
+27-30.
+
+SAS User's Group International Meeting, Orlando, Florida, USA.
+
+mars
+
+Informasjon:
+
+28. mars
+
+International
+Matrices,
+
+juni
+
+Meeting on
+
+Universita
+
+Box 8000,
+
+Cary, NC 27511,
+
+the Analysis
+
+Dipartimento di
+
+Applicate,
+
+6.-10.
+
+SAS Institute,
+
+of Multiway Data
+
+Statistica,
+
+"La Sapienze",
+
+Informasjon:
+
+Renato Coppi,
+
+Dip.
+
+Appl.,
+
+Univ.
+
+"La Sapienza",
+
+Roma,
+
+Italy.
+
+USA.
+
+Probalitea eStatistiche
+
+Rome,
+
+Statist.,
+
+Italy.
+Probab.
+
+& Statist.
+
+Piazzale Aldo Moro 5,
+
+I-00185
+
+12. Nordiske konferanse i matematisk statistikk, Abo, Finland.
+Informasjon: L. Nordberg, Abo Akademi, SF-20500 Turku,
+Finland.
+
+12.-15.
+
+8th International Symposium on Forecasting, RAI International
+
+juni
+
+Congress Centre,
+
+Informasjon:
+
+Europaplein,
+
+Amsterdam,
+
+Netherlands.
+
+Symposium Secretariat ISF88,
+
+Bureau Amsterdam bv, Europaplein 12,
+
+c/o Organisatie
+1078gz Amsterdam,
+
+Netherlands.
+
+151. -17.
+
+IMS Western Regional
+
+juni
+
+Informasjon:
+
+Athens,
+
+11.-16.
+
+23.
+
+L.
+
+Meeting,
+
+Billard,
+
+GA 30602,
+
+Honolulu,
+
+Dept.
+
+Hawaii,
+
+Statistics,
+
+Univ.
+
+USA.
+of Georgia,
+
+USA.
+
+International
+
+Congress of Actuaries,
+
+Helsinki,
+
+Finland.
+
+juli
+
+18.-23.
+
+14th International Biometric Conference. Hosted by the
+
+juli
+
+Societe Adolphe Quetelet.
+la Paix.
+
+Facultes Universitaires Notr-Dame de
+
+Namur, Belgium.
+
+Informasjon: Biometric Bulletin, vol.4, no.2, May 1987,
+and
+
+5.
+
+Internat.
+
+Biometric Conference,
+
+p.
+
+1
+
+Centre de Rencontres,
+
+rue de Bruxelles 53,
+
+B-5000 Namur, Belgium.
+
+8.711.
+
+American Statistical
+
+Association,
+
+aug.
+
+(ENAR/WNAR),
+
+Biometric Society
+
+148th Annual Meeting,
+
+Fort Collins,
+
+Colorado,
+
+USA.
+
+Informasjon:
+DC 20005,
+
+ASA,
+
+14.-18.
+
+206th IMS Meeting
+
+aug.
+
+University,
+Informasjon:
+
+Athens,
+
+806 15th St.,
+
+North West, Washington,
+
+USA.
+
+(51st Annual Meeting),
+
+Fort Collins,
+L.
+
+Billard,
+
+GA 30602, USA.
+
+Colorado,
+Dept.
+
+Colorado State
+
+USA.
+
+Statistics,
+
+Univ.
+
+of Georgia,
+
+
+
+21
+
+16:19,
+
+207th
+
+aug.
+
+Applications,
+
+IMS Meeting:
+
+Colorado,
+
+R.L.
+
+GA 30602,
+
+19.-21.
+
+International
+
+aug.
+
+Analysis",
+
+aug.
+
+Prof.
+
+Mathematics
+
+of
+
+39,
+
+1086,
+
+Berlin,
+
+Taylor, Dept.
+
+Statistics,
+
+Univ.
+
+of Georgia,
+
+USA.
+
+Workshop on
+
+Berlin,
+
+Informasjon:
+
+22.-26.
+
+its
+
+Fort Collins,
+
+USA.
+
+Informasjon:
+
+Athens,
+
+Symposium on Probability and
+
+Colorado State University,
+
+"Theory and Practice in Data
+
+DDR.
+H.
+
+Låuter, Karl-Weierstrass-Institute of
+
+the Academy of Sciences of
+
+the GDR,
+
+Mohrenstr.
+
+GDR.
+
+18. European Meeting of Statisticians, Berlin, DDR.
+Informasjon: W. H. Schmidt, Local Organizing Commitee (18th
+EMS), Dep. of Stat., Sec. of Math., Humboldt-University,
+Berlin, P.0.B. 1297, GDR-1086 Berlin.
+
+22.-25.
+
+Joint Annual Meetings:
+
+American Statistical Association
+
+aug.
+
+and Biometric Society
+
+(ENAR/WNAR),
+
+New Orleans,
+
+Lousiana,
+
+USA.
+
+Informasjon:
+
+ASA,
+
+DC 20005,
+
+(ASA)
+
+Marriot & Sheraton Hotels,
+
+806 15th St. NW, Suite 640, Washington,
+
+USA.
+
+29.
+
+aug.
+
+Fourth Prague Symposium on Asymptotic Statistics,
+
+-2.
+
+sep.
+
+Czechoslovakia.
+Informasjon:
+
+J.
+
+Antoch,
+
+Prague,
+
+Department of Probability and
+
+Mathematical Statistics, Chrles University, Sokolovska 83,
+18600 Praha 8, Czechoslovakia.
+29.
+
+aug.
+
+Compstat
+88, 8th Symposium on Computational Statistics,
+
+-2.
+
+sep.
+
+Copenhagen,
+
+Denmark.
+
+Informasjon:
+
+Niels
+
+E.
+
+Raun
+
+-
+
+UNI-C,
+
+Vermundsgade 5,
+
+Copenhagen Ø,
+
+Denmark.
+Conference on Mathematical
+
+29.
+
+aug.
+
+International
+
+-2.
+
+sep.
+
+Poland.
+Informasjon:
+
+J.
+
+Koronacki,
+
+Academy of Sciences,
+
+29.
+
+aug.
+
+Yearly meeting of
+
+-2.
+
+sep.
+
+Biostatistics
+
+DK 2100
+
+Statistics,
+
+Institute of Mathematics,
+
+PO Box 137,
+
+PLOO-950 Warsaw,
+
+Olsztyn,
+Polish
+
+Poland.
+
+International Society for Clinical
+(ISCB), Innsbruck, @sterrike.
+
+Informasjon: Ingar Holme, P.B. 6, Ullevål Sykehus, O407 Oslo 4
+21.-23.
+
+Second
+
+sep.
+
+Applied
+
+International
+
+Symposium on Probabilistic Methods
+
+to Electric Power Systems,
+
+San
+
+Fransisco,
+
+California,
+
+USA.
+Informasjon:
+
+Mr. Richard
+
+Kennon,
+
+General Chairman,
+
+2nd
+
+Int.
+
+Symp. on Probabilistic Methods, EPRI, 3412 Hillview Ave.,
+P.0.Box 10412, Palo Alto, CA USA 94303.
+10-12.
+
+Society of Reliability Engineers
+
+okt.
+
+Sverige.
+
+okt.
+
+First
+
+? 1988
+
+17.
+
+IAOS Conference,
+
+Rome,
+
+(SRE)
+
+symposium,
+
+Våsterås,
+
+Italy.
+
+Conference on Stochastics Processes,
+
+Rome,
+
+Italy.
+
+
+
+22
+
+1989
+29. aug.
+-6. sep.
+
+47th Session of ISI, Paris,
+
+France.
+
+1990
+13.-18.
+
+Second World Congress of the Bernoulli Society, Uppsala,
+
+aug.
+
+Sweden.
+
+aug.
+
+Third International Conference on
+Dunedin,
+
+the Teaching of
+
+Statistics,
+
+New Zealand.
+
+KURS
+29/2-4/3 + 21/3-25/3 (2-ukers kurs):
+EEU-kurs
+
+i pålitelighetsanalyse,
+
+Informasjon:
+
+Kursavdelingen,
+
+NTH,
+
+Trondheim.
+
+Studieadministrasjonen, 7034 Trondheim,
+
+NTH.
+
+12. Nordiske konferanse i matematisk statistikk
+SLUTLIG INBJUDAN
+Slutlig inbjudan såndes ut i början av
+
+1988.Inbjudan adresseras personligen
+
+endast till dem som returnerat nedanstående svarsblankett
+senast inom september månad till
+
+CONGRESSPOINT LTD./STATISTIK
+Observatoriegatan 5 G
+
+SF-20700 ÅBO, Finland
+
+Obs. Anmålan år ej bindande i detta skede.
+
+SVARSBLANKETT
+Jag anmåler mig preliminårt till 12. Nordiska K onferensen i Matematisk
+
+Statistik i Abo 6 - 10. juni 1988.
+Namn
+Adress
+
+Jag önskar
+a) delta i gruppmötena n:r
+
+ES
+
+EN
+
+(högst fyra alternativ)
+b) presentera en rapport över åmnet
+
+—
+
+:
+
+_
+
+hrs
+
+o_o
+
+i grupp nir
+c) att en grupp som behandlar
+
+sn
+
+Øl
+
+införs i programmet
+
+a
+
+
+
+23
+
+ANNONSER I TG
+Det er nå anledning for private firma o.a. å sette inn annonser
+(stillingsannonser o.a.) i TG.
+Annonser av denne typen vil koste kr.
+300,-
+
+for en hel
+
+side
+
+og kr. 150,-
+
+for en halv side.
+
+tidsbegrenset aktualitet vil bare bli
+fortsatt er aktuell
+innsending av
+
+på det
+
+annonser
+
+tatt
+
+tidspunkt TG vil utkomme.
+
+som
+
+ønskes
+
+tatt med
+
+Annonser
+
+med
+
+inn og fakturert dersom den
+i
+
+Frist
+
+for
+
+i neste nummer er
+
+1.
+
+desember.
+
+KONTINGENT FOR 1987 OG 1988
+Vi
+
+har
+
+i
+
+dette nummeret av TG lagt
+
+medlemskontigent.
+er kr. 90,-
+
+inn
+
+innbetalingskort
+
+for
+
+Kontingenten for hvert av de to årene 1987 og 1988
+
+for vanlige medlemmer og kr. 30,-
+
+for studenter
+
+Vi oppfordrer alle medlemmer om å betale kontingenten for 1988på
+vedlagte innbetalingskort. Medlemmer som ennå ikke har betalt for 1987
+oppfordres
+
+til
+
+samtidig å betale for det året som snart
+
+renner ut.
+
+Er
+
+du usikker på om kontingenten er betalt, så kan du se om det står 87
+på adresseslippen. I så fall er alt i orden. Postgirokontoen er
+Norsk Statistisk Forening
+Postgirokonto
+
+Kontingenten til NSF er
+
+5
+
+15
+
+10 55.
+
+fradragsberettiget i post 22 på selvangivelsen.
+
+Dessuten gir den adgang til
+
+rabatt på Scandinavian Journal of
+
+Statistics.
+
+NESTE NUMMER
+av
+
+TG
+
+vil
+
+hende helst
+
+komme
+innen
+
+i
+
+midten
+
+1.
+
+mars,
+
+av mars.
+
+Stoff må være redaksjonen
+
+og kan sendes
+
+i
+
+til
+
+TG v/Magne Aldrin
+Norsk Regnesentral
+
+P.B. 114 Blindern
+0314 Oslo 3
+Telefon (02) 46 69 30
+
+STYREIS ADRESSE
+Post som skal til NSF's styre og ikke til TG's redaksjon skal sendes
+.
+til
+
+Norsk
+
+Statistisk
+
+Forening
+
+c/o Institutt for matematisk statistikk
+
+7034 Trondheim-NTH
+
+
+
+214
+
+Vi ønsker våre lesere en god jul og et riktig godt nyttår!
+
+Returadresse:
+
+TG v/Magne Aldrin
+Norsk Regnesentral
+
+P.B. 114 Blindern
+0314 Oslo 3
+
+B
+
+
+

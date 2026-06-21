@@ -1,0 +1,2623 @@
+ISSN 0803-8953
+TILFELDIG GANG
+
+Nr. 4, årgang 12
+
+Desember 1995
+http://www.nr.no/TilfeldigGang/
+
+Utgitt av Norsk Statistisk Forening
+
+INNHOLD
+
+Fra redaktøren. Thore Egeland.
+Fra formannen. Arnjot Hoyland.
+
+Faglig stoff
+
+Sommer med Landas-saken. Odd Aalen, Medisinsk statistikk, Univ. i Oslo.
+Statistiker1 UNI Storebrand. Sten Sture, UNI Storebrand.
+
+Statistrkkundervisning er blitt stuerent! Henrik Dahl, Høgskolen i Agder.
+Har noen støtt på Fisher-data? Henrik Dahl, Høgskolen i Agder.
+Å tenke statistisk: Fra matematisk metode til grunnlag for
+
+‘total kvalitet’. Frøydis Bjerke, PFI.
+Contributions to nonparametric function estimation and Bayesian
+image analysis. Dr.ing. avhandling, Ingrid K. Glad, p.t.Italia.
+Statistisk diskriminantanalyse og klassifikasjon.
+Dr.ing. avhandling, Mette Langaas, NR.
+
+Over og ut med signifikanstesting? Debattinnlegg fra APA.
+Bokanmeldelse:‘System Reliability Theory: Models and Statistical Methods’,
+av A. Høyland og M. Rausand.
+
+Rune Reinertsen, NTNU.
+
+Konferanser og kurs
+Aeon
+
+Norsk Statistisk Forenings etterutdanningsseminar 1997.
+
+DDD
+
+DD
+
+ND
+
+Xe)
+
+(On
+
+16th Nordic Conference on Mathematical Statistics.
+Vinterkonferens 1 Hemavan.
+
+Konferanseoversikt.
+Meldinger
+Pris til professor Knut K. Aase.
+Nytt fra NTH.
+Nytt fra AVH.
+Førsteamanuensis NTH.
+Professorat 1 Tromsø.
+
+Universitetslektor i statistikk, Karlstad.
+Medlemskap 1 Norsk Statistisk Forening.
+Bidrag til Tilfeldig Gang.
+
+(00)
+
+Tartu Conference on Computational Statistics and Statistical Education.
+
+
+
+
+
+Fra redaktøren
+Redaksjonen takker for mange og interessante bidrag.
+
+Flere av dem bør
+
+kunne være utgangspunkt for debatter nå som geiter og konvolutter åpenbart
+har forsvunnet ut. Jeg er spesielt spent på reaksjoner på innlegget ‘Over og
+ut med signifikanstesting?’. Henrik Dahl oppfordrer til diskusjon om undervisning i innlegget 'Statistikkundervisning har blitt stuerent!
+WEB versjonen av Tilfeldig Gang leses stadig av mange;
+
+har vi merket oss interesse også i våre naboland.
+
+i det siste
+
+Vi kan se fra hvilke
+
+maskiner lesere kommer, men ikke hvem det er som er innom, takk og lov.
+Vi kan forsikre dem som ikke leser den elektroniske versjonen om at papirversjonen inneholder alt og litt til.
+
+Det er imidlertid et viktig unntak:
+
+http://www.nr.no/TilfeldigGang/ er et godt utgangspunkt for å finne elektroniske tidsskrifter slik som ‘Journal of Statistical Education’ eller institusjoner slik som det ‘Statistiske samfunnet 1 Sverige’.
+Vi er stadig like avhengige av bidrag og initiativ. Deadline for neste num-
+
+mer er 1/4/95. Imidlertid blir nye innlegg kunngjort fortløpende elektronisk.
+
+Dersom vi får filer, helst råtekst pr. email kan også hele innlegget publiseres
+på nettet. Redaksjonens fulle adresse er gitt til slutt i bladet.
+Helt til slutt sakses følgende fra nettet:
+
+Three professors (a physicist, a chemist, and a statistician) are
+called in to see their dean. Just as they arrive the dean is called
+out his office leaving the three professors there. The professors
+see with alarm that there is a fire in the wastebasket.
+The physicist says, ” I know what to do! We must cool down
+the materials until their temperature is lower than the ignition
+temperature and then the fire will go out.”
+The chemist says, ” No! No! I know what to do! We must
+cut off the supply of oxygen so that the fire will go out due to
+lack of one of the reactants.”
+
+While the physicist and chemist debate what course to take,
+they both are alarmed to see the statistician running around the
+room starting other fires.
+
+They both scream, ” What are you
+
+doing?”
+
+To which the statistician replies, ” Trying to get an adequate
+sample size.”
+Thore.Egeland@nr.no
+
+
+
+Fra formannen i Norsk Statistisk Forening
+
+Som kjent har vi nettopp fått en ny læreplan i den videregående skolen i Norge, der
+studieretningen Matematikk innføres med to retninger, X og Y, som har mange felles
+elementer.
+
+I 2.klasse skal en, såvel i X- som i Y-retningen ( MX og 2MY) gi en innføring i
+"kombinatorikk og sannsynlighetsregning." I Y-retningen tar en i tillegg opp
+"statistikk" som emne.
+I 3.klasse fortsetter X-retningen (3MX) med "statistikk og sannsynlighetsregning", mens
+Y-retningen (3MY) fortsetter med "statistikk".
+
+Sannsynlighetsregning og Statistikk er m.a.o. på full fart inn i den norske skole.
+I sitt avskjedsbrev til NSF (TG juni 95) skrev den avtroppende formannen
+(Eivind Damsleth) at norske statistikere og NSF burde "markedsføre" faget bedre
+overfor et bredere publikum. I og med innføringen av det nevnte nye studieretningsfaget,
+
+har vi fått en enestående sjanse til å gjøre dette, og den må vi prøve å nytte.
+
+For mange av de elever som tar dette faget, er dette deres første og eneste møte med
+
+statistikkfaget. Såvel innhold som måten statistikkfaget presenteres på, vil da selvsagt
+være helt avgjørende for den oppfatning elevene sitter igjen med etter endt kurs, om hva
+det dreier seg om og hva slags problemer en statistiker ofte arbeider med.
+
+Etter min mening må en ikke prøve å legge det opp som en kortversjon av de
+innføringskurs som idag gis i faget ved våre universiteter og høgskoler, men i stedet
+utarbeide et eget opplegg, tilpasset den videregående skolen.
+Det som er viktig i innføringsfasen, er å få frem at det faget dreier seg om, er å trekke
+
+pålitelige konklusjoner på grunnlag av data.
+Det forhold at fag som f.eks. fysikk, biologi og økonometri gjør bruk av matematisk
+verktøy, har ikke medført at disse fagene av den grunn oppfattes som grener av
+matematikken. Den samme betraktningsmåte må gjøres gjeldende overfor statistikkfaget.
+Det er heller ikke en gren av matematikken selv om det gjør bruk av matematisk verktøy.
+I innføringen til statistikkfaget i MY og 3MX tror jeg det ville være hensiktsmessig, for
+
+å fremme forståelse for faget, at en først går 100-150 år tilbake til den tid da statistikk
+først og fremst ble nyttet til beskrivelse av forskjellige forhold i samfunnet. En kan f.eks.
+
+trekke frem Eilert Sundts bruk av statistikk, både i forbindelse med innsamling av data
+(intervju-undersøkelser) og til utarbeidelse av tabeller av ymse slag, f.eks. "Dødeligheten
+i Norge " (1855), "Giftermaal i Norge" (1855) og intervju-undersøkelsen om
+" Arbeidsklassens Kaar og Seder
+1 Kristiania" (1858).
+
+
+
+En burde også nevne Anders Kiær's lansering av ideen med utvalgsundersøkelser i
+arbeidet "Den Representative Undersøgelsemetode", som han la frem på I.S.I.møteti
+1895, en ide det da var liten forståelse for blant verdens statistikere.
+
+Etter denne korte historiske innføring, ville det være naturlig å følge opp med deskriptive
+metoder, som, etter noen år i miskreditt, nå ser ut til å være kommet til heder og
+verdighet igjen.
+
+I forordet til J. Stuart Hunters "Prediction for Production and the Art of Charts" (1988)
+skriver således George E.P. Box, som vi husker fra NSF's etterutdanningsseminar våren
+1995;
+
+"Like valuable ore trapped in a matrix of rock, vital information on how product quality
+
+can be improved lies within production data.
+
+Simple and efficient methods for extracting this information is needed ... .
+
+Graphical displays prove ideal, since they convey quantitative information directly with
+little or no computation.
+
+Todays quality technologist should keep abreast of the modern art of plotting data."
+
+Etter en slik innfgring kan sa sannsynlighetsregningen presenteres og da som et
+
+matematisk verktgy, gjerne med utgangspunkt 1 forskjellige former for utvelging
+(og ikke nødvendigvis knyttet til kort og terningspill).
+
+Mitt budskap til dere alle ved årsskiftet, er nå at dere, i likhet med Jostein Lillestøl
+(TG, sept.1995), følger nøye med i hva slags innhold 2MY og 3MX gis, og i måten
+emnene bygges opp på.
+
+Fra NFS's side kan jeg love at også vi skal følge nøye med og si fra om 2MY og 3MX får
+
+w
+
+en profil vi som statistikere ikke kan være fornøyd med.
+
+
+
+Sommer med Landås-saken
+
+Som en forsiktig representant for en forsiktig profesjon var det med blandede følelser at jeg tok imot forespørselen om å bli sakkyndig i Landåssaken. På den ene
+siden var det selvsagt spennende, på den annen side føltes et tyngende ansvar.
+Man kan saktens ha et avslappet forhold til sin virksomhet når den alternative
+
+hypotese er at griseför Å er bedre enn griseför B. Det føles noe mer stressende når
+den alternative hypotese er en siktelse for ti drap. Erkjennelse av at våre metoder
+egentlig ikke er så eksakte siger inn over en.
+
+Vi hår muligens et bedre grep om
+
+sannsynlighet og tilfeldighet enn de som ikke har dette som profesjon. Men i dette
+
+ligger også en forståelse av begrensninger.
+Da jeg ble spurt om å være sakkyndig, hadde jeg en god stund tenkt, sikkert
+som de fleste andre statistikere:
+i denne saken?
+
+Når iallverden skal de få faglig ekspertise inn
+
+Avisene skrev og skrev om tall og tabeller og figurer, man fikk
+
+(et nok litt overdrevet) inntrykk av at hele saken stod og falt med statistikk. Et
+spørsmål til ettertanke for vår profesjon er hvorfor det egentlig går såpass lang
+
+tid før faglig ekspertise trekkes inn som i dette tilfellet. Jeg tror det har å gjøre
+med den lave faglige profilen vi holder som profesjon. Nesten alle ligger vi lavt i
+terrenget i forhold til offentligheten. Dessuten: Statistikk har i minimal grad vært
+et skolefag selvom det nå endelig er i ferd med å endre seg noe.
+Nok om det.
+
+Etter å ha blitt oppnevnt ca 1.
+
+kunne skyves til side og satte meg til å regne.
+
+juni skjøv jeg til side alt som
+Min første reaksjon var at jeg
+
+var meget imponert over politiets grundige etterforskning og innsamling av data.
+
+Hadde alle prosjekter vært gjennomført med samme grundighet hadde det vært
+langt enklere å være statistiker. Politiets omhyggelige statistiske oppstillinger og
+dataoversikter var et utmerket grunnlag for analyser.
+Med god hjelp fra Erik Bølvikens og Thore Egelands utmerkede beskrivelse av
+
+brannstiftersaken på Ås, satte jeg meg ned for å regne på P-verdier. Å regne dem
+ut var saktens ikke så vanskelig. Verre er de neste skrittene.
+
+For det første, den
+
+refleksjonen enhver statistiker vil gjøre seg er følgende: Det er jo mange hjelpe-
+
+og sykepleiere som arbeider i sykehjem (faktisk er det rundt 20 000 pleierårsverk).
+
+Sjeldne foreteelser, enten det nå gjelder opphopning av dødsfall eller andre ting,
+vil inntreffe. Man må altså justere P-verdiene. Dette kan gjøres på mange måter;
+
+jeg gjorde mitt valg.
+
+Det neste spørsmålet er verre:
+
+Hvor lav skal den justerte
+
+P-verdi være før den er så liten at en skal si at noe er klart påfallende? Fristelsen
+
+til å være vag på dette punktet er stor, men jeg kom ikke utenom en tallfesting.
+Et annet problem: Som statistikere og forskere er vi vant til å ta forbehold. Vi
+
+forutsetter ditt, vi forutsetter datt, og vi presiserer at mange av forutsetningene
+
+
+
+er usikre.
+
+Når man er sakkyndig i en rettssak blir man konfrontert med det
+
+ubehagelige faktum at man også er nødt til å ta stilling. Alt kan ikke fortape seg
+i forbehold, tross alt danner rapporten grunnlag for beslutninger. Man kan ikke
+være for vassen, men er nødt til å si noe noenlunde klart.
+
+I midten av juli hadde jeg min rapport ferdig og leverte den.
+
+Da hadde jeg
+
+regnet om igjen og om igjen for iallfall å unngå regnefeil. I tillegg hadde jeg filt og
+
+filt på formuleringer. Jeg kunne ta ferie og slappe av, trodde jeg. Men nei, saken
+surret videre i hodet; det var vanskelig å legge den mentalt fra seg. På hytta fikk
+jeg beskjed om at politiet hadde ringt, de trengte litt ytterligere forklaring. Ferien
+
+ble ”sterkt preget av Landåssaken” som min lille sønn skrev i hytteboken.
+Et særlig problem som oppstår i en slik sak er medie-interessen. Journalister
+
+ringer både hjemme og på kontoret.
+
+Man blir litt smigret, er slett ikke vant til
+
+at journalister viser interesse. Hva skal man svare. Det enkleste og formodentlig
+riktigste, er ikke å si noen ting.
+
+Noen av spørsmålene virker uskyldige: hvilken
+
+metode bruker man i vurderingene. Man sier til journalistene at de kan ringe når
+
+saken er ferdig, vel vitende om at da er interessen borte også.
+Litt forbausende var det å se hvordan rapportene jeg skrev i løpet av få dager
+sivet ut til pressen. Dokumenter som bare hadde gått til retten, politiet og forsvarerne, stod kort etter ordrett sitert i VG.
+
+En refleksjon jeg har gjort meg er hvordan enkelte profesjoner er nødt til å ta
+et ansvar langt utover det jeg opplever i min egen arbeidshverdag. Politiet, for eksempel; kan ikke ignorere mistanker som dem som var opphavet til Landåssaken.
+
+De kan ikke si:
+
+æsj, tenk om vi tar feil, nei dette lar vi ligge.
+
+De må ta opp
+
+ubehagelige ting med store menneskelige konsekvenser. Det samme gjelder dommerne som skal vurdere om det ”skjellig grunn til mistanke”.
+
+Jeg har fått en
+
+øket respekt for folk hvis yrkeshverdag er en samling av vanskelige og kanskje
+ubehagelige handlinger og beslutninger.
+
+Sist, men ikke minst, man får et litt endret perspektiv på hva som er viktig.
+Frykten for å gjøre feil rir vel oss alle. I statistikerens yrkesmessige hverdag er det
+frykten for å regne og vurdere feil, for å publisere artikler med gale resonnementer
+
+osv. For de av oss som har ”vokst opp” på matematiske institutter, er det den
+sterkt overdrevne frykt for den logiske brist i beviset som rir en.
+
+Der er det
+
+matematikernes verdisystem som har fått herske. Det er forfriskende å komme i
+en situasjon for en gangs skyld der alle de vanlige faglige bekymringer blekner.
+
+Gid de måtte forbli bleke i fremtiden også.
+
+Odd Aalen
+
+
+
+Statistiker i UNI Storebrand
+Her følger en beskrivelse av statistikeres arbeidsoppgaver i UNI Storebrand.
+Alt i alt er det 11 statistikere fordelt på 4 i UNI Storebrand Skade (Walther Neuhaus,
+Anne Sagsveen, Bjørn Sollie, Sten Sture), 5 i UNI Storebrand Liv (Vibeke Gilde, Sverre
+
+Gulbransen, Hongyan Gong, Audun Indseth, Robert Meisingseth) og 2 i Strategiske Staber
+(Morten Folkeson, Thorbjørn Michelsen).
+Statistikerne i USS er organisert i Aktuaravdelingen hvor arbeidsoppgavene er:
+- Analyser av risikoteknisk og økonomisk karakter med utgangspunkt i selskapets bestandsog skadedatabaser
+
+- Utvikling av (risikobaserte) tariffer
+- Utvikling av prognoser
+
+- Ulike former for rapportering inkl. styringsdata til ledelsen
+- Fastsettelse og oppfølging av avsetninger
+
+Stillingen som ansvarshavende aktuar er lagt til Aktuaravdelingen.
+
+I henhold til $8-7 i
+
+Lov om forsikringsvirksomhet av 10.juni 1989 skal ethvert skadeforsikringsselskap ha en
+
+ansvarshavende aktuar. Aktuarens plikter er primært:
+
+- å sørge for de nødvendige forsikringstekniske beregninger og undersøkelser
+- å sørge for at selskapets premier står i rimelig forhold til den risiko som overtas og i
+forhold til selskapets økonomi.
+
+Statistikerne i USL er organisert i Produkt Person. Deres arbeidsoppgaver er som følger:
+- Utarbeidelse av aktuarielle forutsetninger for produkter og systemer
+- Ulike former for aktuarielle analyser
+- Premie og reserveberegninger
+
+Som i USS er det også en ansvarshavende i livselskapet.
+
+Livselskapets ansvarshavende
+
+aktuar har mye av de samme plikter som aktuaren i skadeselskapet.
+Ansvarshavende aktuar godkjennes av Kredittilsynet og rapporterer dit i tillegg til at ved-
+
+kommende rapporterer til administrerende direktør.
+Statistikerne i Strategiske Staber er involvert i markedsanalyser og finans/risikostyring.
+
+Vårt analyse- og rapporteringsverktøy er SAS. Storebrand tok det i bruk i 1985 og idag
+er det i bruk hos alle de større forsikringsselskapene i Norden. En interessant dimensjon i
+
+SAS-systemet er muligheten for å skreddersy ’brukervennlige’ applikasjoner som gjør det
+mulig for også de ikke programmeringskyndige å hente ut informasjon fra diverse databaser.
+Dette er også noe vi har hatt mye glede av. Ellers går jeg ut fra at mange kjenner til de
+mange øvrige utmerkede kvaliteter ved dette programproduktet.
+
+Når det gjelder arbeidssituasjonen forøvrig er det det å si at en vesentlig del av vår tid går
+med til mer eller mindre rutinemessig rapportering. Vårt ønske er å kunne avsette mer tid
+til analysearbeid.
+
+Sten Sture
+
+6
+
+
+
+STATSTIKKUNDER VISNING ER BLITT STUERENT!
+Henrik Dahl, Høgskolen I Agder.
+
+Lenge har det å beskjeftige seg med selve undervisningsproblemeti statistikk ikke
+hatt særlig høy prestisje blandt folk som underviseri statistikk.
+om dette nå har tatt til å endre seg.
+
+Det kan virke som
+
+I det siste har flere prestisjetunge tidsskrifter
+
+ofret betydelig spalteplass på statistikkundervisning.
+Internasjonal Statistical Review Vol.63 Nr.1 April 1995 presenterer 4 artikler om
+
+statistikkundervisning av noen av verdens ledende kapasiteter på området.
+
+Som
+
+gjesteredaktør opptrer Davis S. Moore, avtroppende president i IASE (Internasjonal
+Association of Statistical Education).
+
+David Vere-Jones:
+Joan Garfield:
+
+The coming of age of statistical education.
+
+How students learn statistics.
+
+Hogg,R.V. og Hogg, M.C.: Continous quality improvement in higher education.
+Wild,C.J.: Continous improvement of teaching: a case study in a large statistics
+course.
+
+The American Statistician Vol.49 Nr.1 Februar 1995 gjengir 7 arbeider presentert på
+symposiet om moderne tverrfaglig universitetsundervisning (MIUSE) 1993:
+Forord av-John R. Tucker
+
+Jon R. Kettenring:
+
+What industry needs.
+
+Peter J. Bickel:
+
+What academia needs.
+
+N. Philip Ross:
+
+What the government needs.
+
+John C. Bailar III:
+John Leholczky:
+
+A larger perspective.
+
+Modernizing statistics Ph.d. programs.
+
+Til slutt kommer kommentarer til foredragene fra
+Joan B.Garfield og Carl N. Norris.
+
+The American Statistician Vol.49 Nr.3 August 1995 har en stor fellesartikkel av
+David S. Moore, George W. Cobb, Joan Garfield og William Q. Meeker:
+Statistics Education Fin de Siecle.
+
+Det er ikke så mye som er skrevet om statistikkundervisning i Norge utenom det
+som står i TG, men for noen år siden ble det skrevet en del i "Statistisk Sett",
+Jubileumsskrift for Norsk Statistisk Forening 1936 - 1986:
+Amljot Høyland:
+
+Sannsynlighetsregning - i 1873 et egnet fag for folkeopplysning.
+
+Henrik Dahl: Statistikkfagets plass i skole og høyere utdanning.
+
+Ivar Heuch:
+
+Utdannelsen av fagstatistikere i Norge.
+
+Det hadde vært ønskelig med mer diskusjon om undervisning av statistikk her i
+landet f.eks. i TG.
+
+De nye utspillene for å få statistikk inn i norsk skole er det vel
+
+mange som har synspunkter på.
+
+
+
+HAR NOEN STØTT PÅ "FISHER-DATA"?
+Henrik Dahl, Høgskolen i Agder.
+
+23. og 24. november arrangerte Agder Labring et seminar om statistiske metoder.
+
+Programmet besto av tre foredrag:
+
+Henrik Dahl, Høgskolen i Agder: Statistisk forsøksplanlegging.
+Dominique Guyot, CAMO a/s: Multivariat analyse, kjemometri.
+Øystein Evandt, Det Norske Veritas: Statistisk prosessstyring.
+
+Tilhørere var 51 representanter fra høgskolene og næringslivet på Sørlandet
+inkludert Nycomed Imaging a/s, Elkem a/s, Kristiansand Jernstøperi a/s,
+Falconbridge Nikkelverk a/s, Norton a/s, Tinfos Jernverk a/s og Hunsfos Fabrikker
+a/s. Det ble i tillegg til foredragene presentert "bedriftscases" som senere ble tatt
+opp i grupper for til slutt å bli presentert i plenum.
+
+Jeg synes seminaret var vellykket på alle måter, men vil nøye meg med å gjengi litt
+av mitt eget foredrag og respons jeg fikk på dette. Som innledning til statistisk
+forsøksplanlegging valgte jeg en historisk tilnærmelse:
+
+Hvordan statistisk forsøksplanlegging oppsto ved Rothamstead forsøksstasjon
+
+for landbruksforskning ca. 1920.
+
+R.A.Fisher, som regnes som den store pioneren innen statistisk forsøksplanlegging,
+ble i 1919 ansatt ved Rothamstead forsøksstasjon for landbruksforskning. En av
+hans viktigste oppgaver var ment å være å analysere resultater etter landbruksforsøk
+som var utført på Rothamstead så lang tilbake som 1847 og helt fram til 1919.
+Faktisk var hovedgrunnen til at Fisher ble ansatt nettop at ingen ved staben på
+Rothamstead følte seg kompetente til denne jobben.
+
+Det viste seg at heller ikke Fisher fikk særlig mye ut av dette enorme
+
+datamaterialet. Hans arbeider med disse dataene er blandt annet publisert under
+navnet "Studies in Crop Variation I - VI". Det siste så sent som i 1928. Dette
+
+— viste at Fisher tok denne delen av pliktene sine på Rothamstead alvorlig.
+Årsaken til at ikke Fisher (eller noen andre for den saks skyld) fikk noe ut av
+disse dataene var at de var samlet inn på en slik måte at det var umulig å skille
+interessante effekter fra tilfeldig støy.
+
+Vi kan si at Fisher utviklet statistisk forsøksplanlegging for å forklare hvorfor de
+dataene han hadde tatt på seg å analysere hadde svært lite interessant å si utenom at
+været varierte fra år til år, jordsmonnet varierte langs forsøksfeltet osv.
+
+Det hører også med til historien at Fisher i årene fra 1919 og utover var med og
+fikk gjennomført en lang rekke landbruksforsøk, som ga svar på spørsmål de
+"gamle forsøkene" ikke hadde noe å si om.
+
+Som eksempel skal nevnes et forsøk som hadde gått i 67 år på et jorde av
+
+følgende form:
+
+,
+
+‘
+
+¢
+
+2
+
+3
+
+4
+
+5
+
+
+
+Det skal ikke så mye fantasi til for å tenke seg til at en eventuell forskjell mellom
+avlingen i 1. felt og 5.felt godt kunne skyldes variasjon av jordens kvalitet langs
+jordet snarere enn forskjell mellom kornsortene som var sådd i 1. og Ds felt
+Fishers første prinsipp i statistisk forsøksplanlegging kalles randomisering:
+"La en tilfeldighetsmekanisme bestemme hvordan behandlingen administreres."
+
+I eksemplet over kan vi tenke oss at to av feltene skulle brukes til en ny kornsort,
+mens de resterende skulle brukes til den gamle sorten. Da sier prinsippet om
+
+randomisering at følgene 10 arrangementer skal være like sannsynlige:
+AABBB ABABB ABBAB ABBBA BAABB
+BABAB BABBA BBAAB BBABA BBBAA
+
+Hvis altså det opprinnelig forsøket brukte AABBB, ville ikke Fishers hovedkritikk
+være at feltene ikke var ordentlig stokket (han ville f.eks. ikke mene at BABAB var
+noe bedre), men at man brukte det samme arrangementet i 67 år!
+
+Hadde man randomisert i hvert av de 67 årene, ville eventuelle forskjeller i
+
+jordmonn som de to kornsortene fikk ha jevnet seg ut.
+
+Selv om prinsippet om randomisering kan virke overbevisende, har det ennå ikke
+slått igjennomi alle fag. F.eks. bruker skogforskere fortsatt ofte systematiske
+
+opplegg av typen ABABABAB----.
+
+Randomisering kan sees på som en slags forsikring mot utriveligheter som lett kan
+oppstå uten randomisering. Mange forsøk ville nok ledet til samme resultat selv
+uten randomisering. Problemet ligger i å vite når det ikke ville gå bra. Det er ingen
+grunn til å tro at det vil gå bra uten randomisering i nettop de forsøkene der
+randomisering er ubekvemt. I et forsøk i en fabrikk skulle alle forsøk ved en
+temperatur gjennomføres før alle forsøk ved en annen temperatur, fordi ovnen ellers
+måtte kjøles ned eller varmes opp mellom forsøkene. Det er naivt å tro at akkurat i
+dette forsøket er det unødvendig med randomisering. Hvis man allikevel velger
+ikke å randomisere, vil ansvaret for at resultatene for forsøket er å stole på ikke
+lenger hvile på statistisk teori, men på en personlig vurdering. Forsøk som ligner
+moderne forsøk ble gjennomført for 100 - 150 år siden, men de manglet
+randomisering.
+
+Fishers neste prinsipp i forsøksplanlegging er gjentakelse, ofte kalt "replikat".
+"For å kunne si noe om tilfeldig variasjon (her tolket som varians), må det
+
+gjøres flere gjentakelser av hvert forsøk under identiske betingelser."
+
+Vi kan innføre begrepet "antall frihetsgrader" som antall observasjoner minus
+antall forventningsparametre vi må estimere. Kravet om gjentakelser kan da
+uttrykkes som at vi skal ha et rimelig antall frihetsgrader.
+
+En tredje viktig ide‘ som Fisher bidro med er ideen om blokkdannelse.
+
+
+
+"Forsøksfeltet deles inn i et viss antall mer homogene deler (blokker) og
+forsøket kjøres i hver av delene."
+
+Hvis vi i tillegg til blokkdannelsen randomiserer tildelingen av behandling innen
+hver blokk, har vi et mye brukt forsøksopplegg som kalles "randomiserte blokker”.
+Faktorielle forsøk.
+
+Fishers sjef på Rothamstead, Sir E.John Russell mente at en for å få gode
+resultater av et forsøk måtte "stille naturen ett spørsmål av gangen". I moderne
+språkdrakt vil vi si at Russell var tilhenger av "enfaktorforsøk". Fisher var helt
+uening med sin overordnede og argumenterte energisk for "flerfaktorforsøk”.
+
+Heldgvis var Russell en romslig person som tolererte slik kritikk fra en underordnet,
+slik at Fisher fikk anledning til å utvikle sine ideer videre på Rothamstead.
+
+Jeg skal forsøke å gi essensen av Fishers argument ved et enkelt eksempel.
+
+Naturen vil reagere på enkeltspørsmål omtrent som en person ville reagere på et alt
+for enkelt spørsmål av typen:
+"Liker du ketchup?".
+
+For å kunne svare på dette spørsmålet, måtte man vite hva ketchupen skulle
+brukes sammen med. For å få meningsfulle svar, måtte man lage et nøye uttenkt
+spørreskjema og f.eks. finne ut i hvilke sammenhenger folk synes ketchup passer og
+i hvilke de ikke synes ketchup passer. Ketchup til pølser er OK, mens ketchup til
+torsk ikke er det.
+
+Fisher mente altså at naturen gir best og mest interessante svar hvis vi presenterer
+et nøye uttenkt spørreskjema. Ut fra slike ideer utviklet Fisher det som nå går
+under betegnelsen "faktorielle forsøksopplegg". Det enkleste faktorielle
+
+forsøksopplegg har bare to faktorer og hver faktor har bare to nivåer. Vi snakker
+
+om et 2x2 opplegg eller et 2? opplegg. For å gjennomføre et slikt forsøk en gang,
+trenger vi altså 4 observasjoner. To gjentak av dette forsøket krever 8
+observasjoner. Faktorielle forsøk gir muligheter ikke bare for å kartlegge
+behandlingseffekter, men også å studere samspill mellom behandlinger. Faktorielle
+forsøksopplegg har i det siste fått økt aktualitet i forbindelse med Shewhart's og
+Demings’s metoder til kvalitetsforbedring.
+Kommentar.
+
+Etter foredraget oppdaget jeg at flere av deltakerne snakket om at de hadde
+liggende "Fisher-data". Med dette mente de data av samme type som de Fisher ble
+
+møtt med da han begynte på Rothamstead i 1919. Det var tydeligvis en stor trøst å
+høre at selv en kanon som Fisher ikke kunne få noe ut av dårlig innsamlede data!
+
+
+
+Papirindustriens
+
+Forskningsinstitutt
+
+Denne artikkelen er skrevet til "Papirforskning", fagtidsskrift for Papirindustriens Forsknings-
+
+institutt (PFI), nr. 3-4 1995. Artikkelen danner samtidig grunnlag for et foredrag som holdes
+
+under "Treforedlingsforum" - et årlig arrangement for bransjens ledelse og ansatte på alle
+plan, i regi av Papirindustriens Tekniske Forening og Treforedlingsindustriens Bransje-
+
+forening. Foredraget presenteres under samletittelen "Resultater fra forskningen gir industrien
+nye muligheter". Innholdet i artikkelen og foredraget er basert på resultater og erfaringer fra
+
+forsknings- og oppdragsprosjekter ved PFI, samt forfatterens inntrykk fra "International
+
+Conference on Statistical Methods and Statistical Computing for Quality and Productivity
+Improvement" i Seoul, august 1995.
+
+Å TENKE STATISTISK:
+Fra matematisk metode til grunnlag for "total kvalitet"
+Frøydis Bjerke, PFI.
+
+"I innføringen av kvalitetsarbeidet er en kjerne av hensiktsmessige statistiske konsepter,
+
+metoder og verktøy identifisert. Det integrerende konseptet kan kalles "å tenke statistisk”, og
+fokuserer på tre elementer: datagenerering, å trekke relevant informasjon ut av data, og å
+utnytte denne informasjonen i beslutningsprosessen. [...] Ved å tenke statistisk i økende grad
+vil man ikke bare forbedre prosessen og produktet, men i tillegg administrere sin organisasjon
+
+bedre, få mer tilfredse kunder og mer effektiv ledelse.”
+
+C. R. Rao og T. S. Arthanari (1995)".
+Fra data til informasjon
+
+Dette sitatet oppsummerer i store trekk mange statistikeres erfaringer i arbeidet med å innføre
+
+statistiske metoder som verktøy for industrielle anvendelser. Etter hvert som tilgangen på data
+fra prosess og produkt øker, øker også behovet for å ekstrahere informasjon ut fra dataene.
+Det er ikke gitt at "mye data = mye informasjon", så det kreves en metodisk tilnærming for
+
+å samle inn data, og omforme data til informasjon. Dette er tradisjonelt det området hvor
+statistiske metoder har blitt benyttet i industrien, og hvor man har sett behov for statistisk
+kompetanse.
+
+I den grad beslutninger blir tatt på grunnlag av innsamlede data, gjøres det som regel av andre
+grupper i organisasjonen enn dem som samler inn og omformer data. Dette øker risikoen for
+at framlagte data ikke er helt relevante for de konkrete problemstillinger, eller at man ikke
+får utnyttet all informasjonen som finnes i datamaterialet.
+
+Statistikk integrert i bedriftskulturen - å "tenke statistisk"
+Statistiske metoder, som av mange blir ansett for kun å være matematiske øvelser, viser seg
+
+å inneholde et godt grunnlag for mye bredere anvendelser, en slags filosofi som kan påvirke
+hele bedriftskulturen, og som i våre dager ofte kalles "total kvalitet". Dette begrepet integrerer
+
+alle deler av organisasjonen, og vil medføre at alle snakker samme "språk". Etter statistikernes
+mening betyr total kvalitet blant annet at statistiske metoder og statistisk tenkemåte i videste
+forstand tas i bruk i hele organisasjonen.
+
+
+
+Papirindustriens
+Forskningsinstitutt
+
+I å tenke statistisk inngår metoder og verktøy som f.eks. grafiske teknikker, statistisk forsøksplanlegging, stikkprøver og utvalgsundersøkelser, statistisk prosesstyring og - kvalitetsstyring
+
+(SPC/SQC). Å tenke statistisk vil innebære forskjellige momenter, avhengig av hvilken gruppe
+
+i organisasjonen man tilhører. Jeg vil spesielt ta for meg forhold omkring daglig drift av en
+
+industriprosess, med bakgrunn i mine erfaringer fra treforedlingsindustrien. Mitt utgangspunkt
+er at det eksisterer en "kulturkonflikt" mellom prosess-/driftspersonell og statistikere. Dette
+skyldes i hovedsak følgende forhold:
+
+Kulturkonflikten
+
+Prosess- og driftspersonell har som sitt overordnede mål å sørge for at prosessen kjøres så
+stabilt og forutsigelig som mulig, slik at produktet oppnår de ønskede egenskaper. Alle
+
+forstyrrelser, nivå-endringer etc., blir det korrigert eller kompensert for, slik at effekten på
+prosessen og produktet blir minimert. Moderne prosessindustri er høyt automatisert, med
+
+styringssystemer som inneholder reguleringssløyfer og tilbakekoblinger, nettopp for å kjøre
+stabilt. Dette er et meget viktig poeng for statistikeren å være klar over, ta hensyn til, og ha
+forståelse for, når man skal tenke statistiski prosessammenheng.
+
+På den annen side er statistikerens mål, ved å gjennomføre statistisk forsøksplanlegging, å
+påvirke prosessen med styrte og systematiske forsøk, d.v.s. å variere med hensikt. På denne
+måten kan observerte responser knyttes til faktorene som ble brukt til å påvirke, og det kan
+utvikles en matematisk/statistisk modell av forholdene. Denne angrepsmåten kan virke ganske
+skremmende på en driftsingeniør, fordi det åpenbart vil medføre variasjoner og nivåskift i
+prosess og produkt.
+
+Kort sagt: Ingeniøren vil ha stabilitet - statistikeren vil ha variasjon. Paradoksalt nok klager
+ingeniøren ofte over at prosessen varierer for mye, mens statistikeren hevder at det ikke er
+
+nok
+
+variasjon når prosessen går som normalt. Derfor hevder statistikeren at det må gjøres
+
+styrte forsøk, mens ingeniøren mener at all informasjon om prosessen finnes allerede, mer
+eller mindre skjult i de historiske, tidligere loggede data. Dette er bakgrunnen for den nevnte
+kulturkonflikten, som er en stor utfordring for begge parter, da den vanskeliggjør arbeidet med
+
+å bygge broer fra statistisk teori til industriell anvendelse i praksis.
+
+Hvordan overvinne kulturkonflikten?
+Statistikernes viktigste utfordring blir, etter dette, å påvirke industrien til å ta i bruk hele det
+
+statistiske konseptet - å tenke statistisk. Dette må gjøres på flere måter, da målgruppene har
+ulike interesser og behov. Det finnes tilsvarende kulturkonflikter i andre av målgruppene, men
+siden mine erfaringer knytter seg til forsøkskjøringer i full skala og analyser av driftsdata,
+skal jeg ta utgangspunkt i det.
+
+Ved PFI har vi forsøkt å arbeide i nært samarbeid med industrien, for å innføre statistiske
+forsøksmetoder. Vi har erfaring fra flere prosjekter, og forskjellige arbeidsformer.
+I)
+
+Læring gjennom deltakelse.
+
+Ved flere av fabrikkene har det vært gjort fullskala fabrikkforsøk basert på statistiske
+forsøksdesign. Erfaringene fra dette er gjennomgående gode. Flere ganger er en viss
+reservasjon og skepsis snudd til interesse og entusiasme blant fabrikkens personell, etter
+
+12
+
+
+
+Papirindustriens
+Forskningsinstitutt
+
+som vellykkede forsøk er gjennomført. Det har også vist seg lettere å gjennomføre
+Q
+
+"dristigere" forsøk etter hvert. Men selv om styrte forsøk blir gjennomført i samarbeid
+med, eller med støtte av PFI, blir ikke forsøksmetodene tatt inn i bedriftens allminnelige
+
+aktivitet. For å komme dit er det lang vei å gå. (Rom ble heller ikke bygget på en dag.)
+Men at positive erfaringer i bedriftene er nødvendige for å komme videre, er helt
+
+sikkert.
+
+2)
+
+Industriforum for statistisk forsøksplanlegging (IFSFP).
+
+I en tre-års periode eksisterte det en gruppe av industrirepresentanter, ca. 5 - 7 personer
+fra hver sin fabrikk, som var tilknyttet et PFI-forskningsprosjekt: "Anvendt statistikk i
+
+treforedlingsindustrien". Disse personene var, foruten å være interessert i selve emnet,
+
+også drivkrefter på sine egne bedrifter, slik at det ble gjennomført styrte forsøk ved flere
+av bedriftene i denne perioden. Møter foregikk dels på bedriftene, dels på PFI. På
+bedriftsmøtene skulle vertsrepresentanten presentere arbeid med anvendt statistikk i
+vertsberdiften. Et mer teoretisk/metodisk tema innen statistikkfaget var fast innslag på
+møtene. Parallelt med dette foregikk PFIs forskningsaktiviteter, som også ble presentert
+
+på møtene. Denne arbeidsformen fungerte egentlig godt, men var veldig avhengig av
+medlemmenes prioriteringer. Dersom industrien er villig til å prioritere og avsette
+ressurser til en slik gruppe og gjennomføre forskningsaktiviteter parallelt, tror jeg det
+
+er en effektiv måte for å bringe ny kunnskap til anvendelse i industrien.
+
+3)
+
+Informasjon, foredrag.
+
+For å rette oppmerksomheten mot anvendt statistikk generelt, er foredrag, artikler og
+annen utadrettet virksomhet gjennomført. Dette høyner nok den generelle interessen,
+men i kampen om oppmerksomhet blir budskapet lett fortrengt av andre emner. Likevel
+
+er det en viktig måte å nå ut til mange på.
+
+4)
+
+Kurs.
+
+PFI har laget og holdt kurs flere ganger, både bedriftsinternt og felles for industriens
+representanter. På kursene har vi lagt vekt på å være så praktisk rettet som mulig,
+
+samtidig som vi har ønsket å motivere for økt bruk av anvendt statistikk med eksempler
+fra treforedlingsbransjen, kort sagt høyne forståelsen og minske terskelen for statistiske
+metoder. Det finnes også en rekke mer generelle, kommersielle kurs innenfor dette
+
+faget, med ulik bredde og dybde. Dersom flere bedrifter skal tenke statistisk, må nok
+både det allmenne kunnskapsnivået og spesialkunnskapen på bedriftene heves, for
+eksempel ved kursdeltakelse.
+
+5)
+
+Kvalitetssikringsprogrammer
+
+De senere år har kvalitetssikringsarbeid på flere områder og nivåer blitt en betydelig
+aktivitet for prosessindustrien. Hovedårsaken til dette er nok innføringen av internasjonale kvalitetsstandarder som ISO-9000-serien. Kvalitetssikringsarbeidet kan fungere som
+
+en "døråpner" for statistikkfaget i industrien, spesielt for aktiviteter som statistisk
+prosess- og kvalitetsstyring (SPC/SQC) og statistisk forsøksplanlegging. Et samlebegrep
+i denne sammenheng er "kvalitetssikring av data", som innebærer
+
+-
+
+metoder som sikrer at datagrunnlaget for konklusjoner/beslutninger er av
+
+-
+
+at dataanalyser gjennomføres med de best egnede statistiske verktøy og
+
+tilfredsstillende statistisk kvalitet
+metoder.
+
+
+
+Papirindustriens
+
+Forskningsinstitutt
+
+Felles for disse tiltakene er at de tar sikte på å øke anvendelsen av statistiske metoder i
+prosessindustrien. Hvor vellykket dette blir, avhenger av flere forhold, hvorav to er spesielt
+viktige:
+-
+
+Det må finnes et ønske eller en vilje til nytenkning og omlegging fra bedriftenes side. Uten denne viljen er det ikke mulig å komme noen vei. Det skal her
+tillegges at interessen og ønsket ofte er tilstede, men til syvende og sist er det
+
+gjerne andre satsningsområder som prioriteres ressursmessig i bedriften.
+
+-
+
+Statistikerne må tilegne seg nødvendig kunnskap om drift av moderne industriprosesser, herunder prinsipper for reguleringsteknikk og praktiske forhold
+
+omkring driften. I tillegg til å markedsføre statistiske metoder må statistikerne
+forstå prosessen og prinsippene godt nok til å kunne kommunisere med driftspersonellet. Siden dette som regel mangler i statistikernes utdannelse, er det
+nødvendig å skaffe seg en del praktisk erfaring.
+I PFIs forskningsprogram forsøker vi å ivareta disse forholdene gjennom en serie forsknings-
+
+prosjekter som har pågått i flere år. Årets prosjekt, "Treholdig trykk: Sammenhenger i prosess,
+produkt og kvalitet" er to-årig og går ut 1996. En stor del av aktiviteten innebærer fullskala
+
+fabrikkforsøk som påvirker hele fabrikken i forsøksperioden. Forsøkene er mulige å gjennomføre fordi bedriften ser en verdi i resultatene, og da har prioritert ressurser til dette. Slike
+forsøksaktiviteter er naturligvis en ypperlig måte for statistikere (og forskere generelt) å få
+
+praktisk prosess-erfaring. I forskningsprosjektet inngår også aktiviteter omkring metode-
+
+utprøving, altså mer statistikkfaglige områder, nettopp for å bygge broen mellom teori og
+praksis.
+
+Avsluttende betraktninger
+PFI har arbeidet med anvendt statistikk de siste 10 - 12 årene, og har merket noe større
+interesse for dette etter hvert, men det tar tid. Det kan jo også nevnes at f.eks. R. A. Fishers
+
+metoder for forsøksplanlegging ble utviklet i 1920- og -30-årene, så et ti-år er et kort
+perspektiv i denne sammenheng.
+
+Hvis det virker som om dette innlegget er skrevet av en litt frustrert statistiker, så er det
+delvis riktig. Men det er samtidig skrevet av en sivilingeniør som er overbevist om at
+
+industrien har et ubenyttet potensiale som kan frigjøres hvis flere tenker statistisk. En
+
+innfallsport kan være gjennom kvalitetssikringsarbeidet og begrepet "total kvalitet". Jeg mener
+
+at både prosessindustrien og statistikkfaget ville ha fordel av et samarbeid for å angripe
+industrielle problemstillinger med statistiske verktøy - -
+
+kort sagt:
+
+TENK STATISTISK!
+
+Referanser
+1.
+
+Rao, C. R. and Arthanari, T. S.: "Data analysis and statistical thinking for quality and
+
+productivity improvement", in Proceedings from International Conference on Statistical
+
+Methods and Statistical Computing for Quality and Productivity Improvement, Seoul,
+1995.
+
+
+
+Ingrid K. Glad:
+
+Contributions to nonparametric function estimation and
+
+Bayesian image analysis (Doktor Ingeniøravhandling 1995:59, Institutt for Matematiske Fag, NTH, Trondheim)
+The thesis collects four articles; one on Bayesian image analysis and three on nonparametric, or semiparametric, function estimation, organised in the following way:
+
+1. Glad, LK. and Sebastiani, G. (1995). A Bayesian approach to synthetic magnetic
+resonance imaging. Biometrika 82, 237-250.
+2. Hjort, N.L. and Glad, I.K. (1995). Nonparametric density estimation with a parametric start. Annals of Statistics 23, 882-904.
+3. Hjort, N.L. and Glad, I.K. (1995). Exact performance of a semiparametric density
+estimator for normal mixture truths.
+4. Glad, I.K. (1995). Parametrically guided nonparametric regression.
+
+Magnetic resonance (MR) imaging is a powerful tool for medical diagnosis and research.
+Due to certain tuning parameters of the acquisition equipment, infinitely many images
+showing different levels of contrast between the pictured biological tissues can be acquired.
+
+Each possible acquisition might carry unique information on the underlying
+
+scene, but it is unfortunately not possible in practice to collect them all.
+
+Only a few,
+
+say three, images are acquired, hence important information might get lost.
+
+Synthetic
+
+MR imaging is a technique for predicting on a computer screen all those images that
+were not actually acquired, based on a set of acquired ones.
+
+This procedure involves
+
+the estimation of three underlying basic physical quantities that are nonlinearly related
+to the noisy observations.
+
+Up to now, this ill-conditioned inverse problem has had no
+
+satisfactory solution within classical estimation frameworks.
+
+Several approaches have
+
+been pursued, obtaining either very noisy and unreliable results or requiring highly time
+consuming, non standard collection of data.
+
+By formulating this problem in a Bayesian framework (Besag et al. 1995, Winkler 1995),
+using knowledge about the physics of the experiment and prior information about the
+underlying physical quantities, we show that synthetic imaging can be performed in an
+accurate and reliable way. More important, synthetic images can be obtained from any
+set of acquired images, hence in particular the three standard ones usually collected in
+medical practice can be used. Since MR imaging is both time consuming and expensive,
+this last aspect is important for the practical applicability of synthetic MR imaging.
+The prior information on the three basic physical quantities expresses a tendency of the
+
+images to be spatially homogeneous in combination with sharp edges.
+
+Such disconti-
+
+nuities are associated with physical tissue boundaries and tend to appear in the same
+
+locations in all basic images, but are always of varying relative sizes.
+
+In mathematical
+
+terms we have formulated this information by means of a multilayer Markov random
+
+field.
+
+Such a multilayer field allows modelling of stochastic dependence between pixels
+
+within each image or layer as well as between pixels in different layers, and can be useful
+
+also in connection with other applications such as multispectral remote sensing.
+
+The form of the likelihood of the acquired images is based on a physical model of the
+imaging experiment and knowledge of the statistical properties of the experimental noise.
+
+Inference on the physical quantities is drawn using Markov chain Monte Carlo methods,
+or simply by using iterated conditional modes in cases where the noise that affects the
+
+We also discuss automatic strategies for selecting or
+
+DA
+
+images is not too dominating.
+
+
+
+estimating the necessary smoothing parameters and present some realistic examples of
+our Bayesian approach to synthetic MR imaging.
+The second part of the thesis concerns two related problems:
+
+density estimation and
+
+regression analysis. Besides the standard parametric approach to both of them, nonpara-
+
+metric methods (Wand and Jones 1995) play an increasingly important role. Parametric
+
+methods have definite advantages in terms of efficiency over the nonparametric ones if
+the chosen family of functions is appropriate, but behave poorly outside the model conditions.
+
+Nonparametric methods, on the other hand, let the data determine the most
+
+representative member of a (parametrically) unrestricted space of possible curves and
+works well for any shape of the unknown curve.
+The contributions presented in the three papers on function estimation build on the idea
+that an appropriate combination of the two techniques might benefit from the advantages
+of both approaches. Some semiparametric methods suggested in the literature are based
+on linear combinations of parametric and nonparametric estimates.
+not achieve especially appealing properties.
+
+However they do
+
+Our new class of semiparametric density
+
+and regression function estimators is in contrast based on a multiplicative combination
+of parametric and nonparametric approaches, and succeeds to enhance the properties
+
+of the nonparametric methods in a broad neighbourhood around the chosen family of
+parametric curves. A parametric start function ‘guides’ the nonparametric estimator in
+order to obtain improved efficiency, while the ability to adapt to the data is maintained.
+The construction of the new classes of density and regression estimators is based on the
+trivial formal observation that
+
+fa)
+f(z) = føle) TI
+føl)
+and proceeds using a parametric start estimate f;(x) for the first factor and a nonpara-
+
+metric estimate of the correction factor r(z) = f(x)/fø(x), giving
+
+f(x) = fsla)- F(z).
+We show that if we choose a constant, or non informative, parametric start function,
+our estimator produces the corresponding standard nonparametric estimator as a special
+
+case. Hence this new class of estimators can be considered as a generalisation of the usual
+nonparametric estimation techniques.
+
+Compared to the purely nonparametric estima-
+
+tors, this semiparametric approach is proved to lead to a smaller bias without enlarging
+the variance when the true function belongs to a broad neighbourhood around the parametric start. At the same time the efficiency is only slightly, or not at all, decreased if
+
+the true function is far from the parametric family.
+In the first of these three papers we consider density estimation. Given the decomposition
+of f(x) above, we wish to construct a nonparametric estimator of the correction factor
+r(x) = f(x)/ f(a). We propose the estimator
+
+n
+
+_ i 2
+
+Ion ( XG — øl
+
+fails 7 pD 0
+where A, is a usual kernel function.
+
+å
+
+The parametric f;(x) could be for example the
+
+normal density with maximum likelihood estimated mean and variance, or any other
+suitable start description of the density in question.
+
+We prove that the leading terms
+
+of the asymptotic variance of f(x) above coincides with that of the standard kernel
+estimator while the asymptotic bias is strictly smaller if certain conditions are satisfied.
+
+The effects of parameter estimation (3) on the overall bias and variance is shown to
+
+16
+
+
+
+be neglectable.
+e.g.
+
+Extensive comparisons with the kernel density estimator in terms of
+
+asymptotic mean integrated squared error are carried out for example through
+
+Hermite expansions when the parametric start density is a normal.
+
+We also discuss
+
+several procedures for choosing the necessary smoothing parameter h and spell out the
+idea for estimation in higher dimensions. The following paper investigates the asymptotic
+and finite-sample performance of the new density estimator in the case of normal mixture
+truths, using a simple normal density as the parametric start. Through exact formulae it
+is demonstrated that the new density estimator with a normal start performs better than
+the usual kernel estimator in terms of both local and global criteria for most distributional
+shapes represented by a large classical set of test densities.
+
+We also show that the
+
+asymptotic results apply even for sample sizes as small as 25 or 50 in these cases. Most of
+
+these densities are considerably different from the normal density used as the parametric
+start, but still the estimator benefits from this (vague) parametric guide.
+The last paper in this collection introduces the new idea to the field of regression analysis.
+
+Let m(x) = E(Y|X = 2) be the unknown regression function and let mg(x) be the
+parametric start. We now wish to estimate r(x) = m(x)/mg(x) nonparametrically, and
+
+since r(x) = E(Z|X = 2) for
+
+Z = Y/mg(X), we suggest the estimator
+
+Ma) = Simi Yi/TMmg(
+Xi) K(X; — 2)
+doi Hal
+BG = 2)
+through the Nadaraya- Watson method, for example. We introduce a new class of parametrically guided local linear estimators as well. Local linear estimators (Fan 1992, 1993,
+
+Hastie and Loader 1993) are becoming increasingly important and both the standard and
+our new generalised version enjoy desirable variance properties and a nice and simple
+
+form of the bias. Formulae for the large-sample properties of the new estimators are de-
+
+“rived and we show that there is substantial room for bias reduction if the true regression
+function belongs to a broad neighbourhood around the chosen parametric pilot family.
+
+Such neighbourhoods are discussed in light of two illustrating examples, demonstrating
+the advantage of the new approach also in regression terms. The class of semiparametric
+regression estimators is furthermore extended to the multidimensional case.
+
+Both for
+
+density estimation and regression function estimation purposes, the parametric guidance
+idea seems to have particular potential for improvement in higher dimensions.
+
+Besag, J., Green, P.J., Higdon, D., Kooperberg, C., and Mengersen, K. (1995). Spatial
+statistics, image analysis and Bayesian inference. Statistical Science 10, 3-66.
+
+Fan, J. (1992).
+
+Design-adaptive nonparametric regression.
+
+Journal of the American
+
+Statistical Association 87, 998-1004.
+
+Fan, J. (1993). Local linear regression smoothers and their minimax efficiencies. Annals
+of Statistics 21, 196-216.
+
+Hastie, T.J. and Loader, C. (1993). Local regression: automatic kernel carpentry. Statistical Science 8, 120-143.
+
+Wand, M.P. and Jones, M.C. (1995). Kernel Smoothing. Chapman & Hall, London.
+Winkler, G. (1995). Image Analysis, Random Fields and Dynamic Monte Carlo Methods.
+Springer Verlag, Berlin.
+
+
+
+Statistisk diskriminantanalyse og klassifikasjon
+
+Statistisk diskriminantanalyse og klassifikasjon
+Mette Langaas (mette.langaasQnr.no)
+Dr. ing. studium ved Institutt for matematiske fag, NTH
+Mitt dr.ing. studium ble avsluttet med disputas og prøveforelesning 7. september 1995. Doktor
+ingeniør avhandlingen har tittel “Statistical Discrimination and Classification”, som pa norsk er
+oversatt til "Statistisk diskriminantanalyse og klassifikasjon”. Min veileder har vært professor
+
+Bo Lindqvist. Prøveforelesningen ble holdt over emnet “Belief Nets for Expert Systems”. Jeg
+
+befinner meg nå i Oslo, der jeg jobber som forsker ved Norsk Regnesentral.
+Dr. ing.
+
+avhandlingen består av fire separate rapporter innen fagområdet statistisk diskrimi-
+
+nantanalyse og klassifikasjon.
+
+Rapportene er listet opp nedenfor og er tilgjengelige via World
+
+Wide Web på URL *http://www.imf.unit.no/techreports/lists/mette.html”.
+I : “Discrimination and Classification”
+
+Technical Report Statistics 1/1995, Department of Mathematical Sciences,
+The Norwegian Institute of Technology, The University of Trondheim,
+revidert versjon (46 sider).
+II : “Mixture Codebook Classification, Part 1: Method Outline”
+
+Technical Report Statistics 3/1995, Department of Mathematical Sciences,
+The Norwegian Institute of Technology, The University of Trondheim,
+revidert versjon (48 sider).
+III : “Mixture Codebook Classification, Part 2: Model Selection and Method Evaluation”
+
+Technical Report Statistics 6/1995, Department of Mathematical Sciences,
+The Norwegian Institute of Technology, The University of Trondheim (54 sider).
+
+IV : “Discrimination and Classification of SGA Births”
+with Geir Jacobsen, Department of Community Medicine and General Practice,
+
+The University of Trondheim.
+Technical Report Statistics 7/1995, Department of Mathematical Sciences,
+The Norwegian Institute of Technology, The University of Trondheim (40 sider).
+
+Diskriminantanalyse og klassifikasjon er multivariable teknikker for a separere og tilordne objekter (observasjoner) til forhandsdefinerte klasser. Diskriminantanalyse beskriver og separerer
+klassene og klassifikasjon tilordner observasjonene til de forhandsdefinerte klassene.
+
+Disse to
+
+oppgavene, diskriminantanalyse og klassifikasjon, er tett knyttet til hverandre og vil ofte overlappe i praksis. Klassifikasjon, slik som begrepet er brukt her, omfatter ikke klynge analyse og
+“unsupervised” læring.
+
+'
+
+Diskriminantanalyse og klassifikasjon er et sentralt tema innen multivariabel statistisk analyse, men utgjør også en viktig del av statistisk mønstergjenkjenning, maskinlæring og kunstige
+nevrale nettverk. Det finnes en stor mengde litteratur om diskriminantanalyse og klassifikasjon.
+
+Generelle referanser er blant annet Mardia et al. (1979), Seber (1984), Johnson and Wichern
+(1982), Hand (1981), McLachlan (1992), Ripley (1993a, 1993b, 1994a and 1994b), Duda and
+Hart (1973), Fukunaga (1990), Devijver and Kittler (1982), Cheng and Titterington (1994),
+
+Hertz et al. (1991), Hush and Horne (1993) and Weiss and Kulikowski (1990).
+Avhandlingens første rapport , “Discrimination and Classification”, gir en introduksjon til fagfeltet diskriminantanalyse og klassifikasjon. Den inneholder en oversikt over og en sammenligning
+av mange metoder. Blant disse metodene finnes klassiske og moderne statistiske metoder for
+regresjon, diskriminantanalyse og klassifikasjon sammen med flerlags-perceptronet (“multilayer
+
+perceptron”) fra fagfeltet kunstige nevrale nettverk.
+
+Sammenligningen av metodene er basert
+
+på teoretiske egenskaper ved metodene og på empiriske resultat fra en analyse av et biologisk datasett av alger og et syntetisk datasett.
+
+Undersøkelsen fungerer som en basis for de
+
+
+
+Statistisk diskriminantanalyse og klassifikasjon
+
+etterfølgende rapportene og kan sees som en oppdatert introduksjon til diskriminantanalyse og
+
+klassifikasjon.
+
+Rapport II og III innfører begrepet “Mixture Codebook Classification” (MC?). MC? er et nytt
+rammeverk for konstruksjon av klassifikasjonsregler. En klassifikasjonsregel er en mapping fra
+
+rommet av observasjoner til rommet av klasser, med andre ord, en beslutningsregel. La æ betegne
+
+en observasjon og g; en vilkårlig klasse, 7 = 1,..., M. I MC? rammeverket baseres konstruksjonen
+av en klassifikasjonsregel på å modellere de klasse-spesifikke fordelingene, p(æ|g;), ved bruk av endelige “mixture models”, p(x|g;, ©). Komponentfordelingenei “mixture models” kan enten være
+felles for alle klassene eller spesifikke for hver klasse.
+
+komponent-arkitekturen.
+
+Antallet komponenter som brukes kalles
+
+Blandings-kodeboken (“mixture codebook”),
+
+M = (0,
+f, K}, består
+
+av parameterne fra de klasse-spesifikke “mixture models”, ©, valget av komponent-fordeling, f,
+og komponent-arkitekturen, A. Klassifikasjonsproblemet er dermed transformert til problemet
+
+med å velge og estimere blandings-kodeboken.
+Estimering av blandings-kodeboken er basert på et treningssett, TJ, av uavhengige observasjoner
+med kjent klassetilhørighet.
+
+Parameterene i blandings-kodeboken estimeres ved å optimere et
+
+kriterium. Ulike kriterier er undersøkt, blant annet den simultane likelihood for observasjoner
+
+og klassetilhørighet og den betingede likelihood for riktig klassetilhørighet gitt observasjonene.
+I optimeringen er EM algoritmen og en “downhill simplex” metode benyttet.
+
+En observasjon
+
+tilordnes til den klassen som har høyest estimert aposteriori sannsynlighet.
+
+I rapport II, *Method Outline”, introduseres MC? rammeverket. Det er lagt vekt på å presentere endelige *mixture-models” og å gi bakgrunn for valg av optimerings kriterier. Her er kun
+
+Gaussiske komponent-fordelinger brukt. Oppførselen til MC? rammeverket er analysert empirisk
+ved hjelp av syntetiske og virkelige datasett.
+
+Rapport III gir en mer detaljert behandling av noen aspekt av MC? rammeverket med hovedvekt på “Model Selection and Method Evaluation”.
+
+Modellvalg er konsentert om valg av
+
+komponent-fordelinger og valg av komponent-arkitektur. I tillegg til Gaussiske komponent-
+
+fordelinger er også multivariable Student-t komponent-fordelinger inkludert i MC? rammeverket.
+Bruk av Student-t komponent-fordelinger fungerer godt i empiriske analyser. Dette bekrefter
+
+en generell trend i moderne statistikk der Gaussiske fordelinger substitueres med Student-t
+fordelinger. Strategier for valg av gode komponent-arkitekturer er også behandlet. For klassespesifikke komponent-fordelinger presenteres en stegvis seleksjonsrutine, og for felles komponentfordelinger for alle klassene foreslås et grid-søk over et sett av utvalgte komponent-arkitekturer.
+
+Et simulerings-studium er utført for å sammenligne ulike optimeringskriterier for Gaussiske
+
+og Student-t komponent-fordelinger. Parameter estimering i MC? modeller kan berikes ved
+å inkludere parameteriske straffeledd som er avhengige av lokasjon og av skala til komponent-
+
+fordelingene. Bruk av disse straffeledene har forbedret oppførselen til MC? klassifikasjonsreglene.
+
+Erfaring med bruk av MC? rammeverket viser at den beste MC? klassifikasjonsreglen alltid
+er minst like god som den beste av klassifikasjonsreglene produsert av andre metoder utprøvd
+i mine analyser. I flesteparten av tilfellene er denne forskjellen ikke funnet å være statistisk
+
+signifikant. Styrken til MC? rammeverket ligger i fleksibiliteten som er innebygd i modell- og
+metode-valg. Det vil si, MC? rammeverket er funnet å være et fleksibelt verktøy for klassifikasjon.
+Lippmann (1994) deler metoder for klassifikasjon inn i tre hovedgrupper; de som estimerer de
+klasse-spesifikke fordelingene, de som estimerer aposteriori fordelingen til klassene og de som
+
+danner klassegrenser. MC? rammeverket er nært knyttet til og inneholder også metoder fra alle
+disse tre hovedgruppene.
+Den siste rapporten, “Discrimination and Classification of SGA Birth”, avslutter avhandlingen
+
+med et praktisk case-studium av SGA (“Small-for-Gestational-Age”) fødsler. En fødsel sies a
+være en SGA fødsel hvis barnet er lavvektig i forhold til gestasjonsalderen (fødselstidspunktet).
+
+SGA datasettet består av data fra Bergen, Trondheim og Uppsala, innsamlet gjennom alle
+stadier av et svangerskap. Metoder for å predikere en SGA fødsel er konstruert for tilgjengelige
+data på fem stadier av svangerskapet.
+
+Forklaringsvariablene i datasettet er gruppert som før-
+
+19
+
+
+
+Statistisk diskriminantanalyse og klassifikasjon
+
+svangerskap variable, variasjons-variable og vekst-variable.
+
+Variasjons- og vekst-variablene er
+
+målt på ulike tidspunkt og et ulikt antall ganger for hvert svangerskap.
+ubalanserte.
+
+Dette gjør analyser vanskelig.
+
+Dataene er dermed
+
+Variabel seleksjon og ekstraksjon er utført ved
+
+hjelp av lineære regresjonsmodeller med stokastiske koeffisienter (*random coefficient regression”). Diskriminantanalyse og klassifikasjon er utført ved bruk av klassiske og moderne statis-
+
+tiske metoder, flerlags-perceptronet og MC” rammeverket. Basert på tilgjengelige data i andre
+trimester (gestasjonsalder på 22 uker) er det konstruert klassifikasjonsregler med sensitivitet
+
+(riktig klassifiserte ikke-SGA fødsler) og spesifisitet (riktig klassifiserte SGA fødsler) like under
+
+70 %. Ved å bruke tilgjengelige data sent i tredje trimester (gestasjonsalder på 39 uker) er det
+mulig å forbedre klassifiksjonsreglene til å ha en spesifisitet og sensitivitet rundt 80 %. Bruk av
+
+MC? rammeverket har gitt gode resultater i analysene av SGA datasettet.
+
+Referanser
+Cheng, B. and Titterington, D. M. (1994),
+
+*Neural networks: Å review from a statistical perspective
+
+(with discussion)”, Statistical Science, 9, 2-54.
+Devijver, P. A. and Kittler, J. V. (1982), Pattern Recognition: A Statistical Approach, Englewood Cliffs,
+
+New Jersey: Prentice Hall.
+
+Duda, R. O. and Hart, P. E. (1973), Pattern Classification and Scene Analysis, New York: Wiley.
+Fukunaga, K. (1990),
+
+Introduction to Statistical Pattern Recognition,
+
+Boston:
+
+Academic Press, 2nd
+
+edition.
+Hand, D. J. (1981), Discrimination and Classification, Chichester: John Wiley & Sons.
+
+Hertz,
+J., Krogh, A., and Palmer, R. G. (1991),
+
+Introduction to the Theory of Neural Computation,
+
+Redwood City, California: Addison-Wesley.
+Hush, D. R. and Horne, B. G. (1993), “Progress in supervised neural networks”, IEEE Signal Processing
+Magazine, January, 8-39.
+
+Johnson, R. A. and Wichern, D. W. (1982), Applied Multivariate Statistical Analysis, Englewood Cliffs,
+New Jersey: Prentice-Hall, 2nd edition.
+
+Lippmann, R. P. (1994),
+tion”,
+
+“Neural networks, Bayesian a posteriori probabilities, and pattern classifica-
+
+in Cherkassky, V., Friedman, J. H., and Wechsler, H., editors, From Statistics to Neural
+
+Networks. Theory and Pattern Recognition Applications, NATO ASI Series F: Computer and Systems Sciences, vol. 136, pages 83-104, New York: Springer-Verlag.
+Mardia, K. V., Kent, J. T., and Bibby, J. M. (1979), Multivariate Analysis, London: Academic Press.
+McLachlan, G. J. (1992), Discriminant Analysis and Statistical Pattern Recognition, New York: John
+Wiley & Sons.
+
+Ripley, B. D. (1993a), “Neural networks and flexible regression and discrimination”, in Mardia, K. V.,
+editor, Statistics and Images 2, Advances in Applied Statistics 2, pages 39-57, Abingdon: Carfax.
+
+Ripley, B. D. (1993b),
+
+“Statistical aspects of neural networks”,
+
+in Barndorff-Nielsen, O. E., Jensen,
+
+J. L., and Kendall, W. S., editors, Networks and Chaos - Statistical and Probabilistic Aspects, pages
+40-123, London: Chapman &
+
+Ripley, B. D. (1994a),
+
+Hall.
+
+“Flexible non-linear approaches to classification”, in Cherkassky, V., Friedman,
+
+J. H., and Wechsler, H., editors, From Statistics to Neural Networks. Theory and Pattern Recogni-
+
+tion Applications, NATO ASI Series F: Computer and Systems Sciences, vol. 136, pages 105-126,
+New York: Springer-Verlag.
+Ripley, B. D. (1994b),
+
+“Neural networks and related methods for classification (with discussion)”,
+
+Journal of the Royal Statistical Society, Series B, 56, 409-456.
+Seber, G. A. F. (1984), Multivariate Observations, New York: Wiley.
+Weiss, S. M. and Kulikowski, C. A. (1990),
+
+Morgan Kaufmann Publishers.
+
+Computer Systems That Learn,
+
+San Mateo, California:
+
+
+
+Over og ut med signifikanstesting?
+Frå Jostein Lillestøl i Bergen har redaksjonen fått i hende eit debattinnlegg om statistisk
+signifikanstesting frå APA (American Psychological Association).
+
+Innlegget er saksa frå
+
+nettet (rmnet), og er skrive av Frank Schmidt.
+Vi siterer:
+I have observed that many of the inquiries concern how to conduct statistical
+
+significance tests; e.g., how to test one’s findings to see if they are statistically
+significant, what test to use, and how to compute it, etc. In the course of these
+observations, I have come to believe that many netters hold false beliefs about
+the value and benefits of significance tests in analyzing research data.
+In fact, there are no legitimate benefits at all, and statistical significance tests
+should never be used.
+
+But I digress.
+
+The purpose here is to inform you that
+
+the APA Board of Scientific Affairs is looking into the question of whether use
+of significance testing should be discontinued. See below.
+
+Vidare refererer Schmidt frå APA sitt arbeid med saka:
+Board of Scientific Affairs Action on Significance Testing
+By Frank Schmidt
+In an article last year in the American Psychologist, Jacob Cohen (1994) urged
+that psychologists completely discontinue the use of statistical significance testing in analyzing research data and instead employ point estimates of population
+parameters and confidence intervals. In his Division 5 Presidental Address at
+
+the 1994 APA convention, Schmidt (in press) reached the same conclusion.
+Albert Bartz, a psychologist who has authored several statistical texts, brought
+this issue to the attention of the APA Board of Scientific Affairs in March of
+
+1995. He proposed that the Board appoint a Task Force to make recommendations as to how to implement the phasing out of statistical significance testing
+in course texts, journal articles, etc. The Board was provided with copies of the
+
+Cohen article, the Schmidt paper, and other materials.
+At its November 3-5 meeting the Board took up Dr. Bartz’ proposal.
+
+Board
+
+member Duncan Luce took the lead in laying out this issue for the Board. The
+Board approved in principle the notion of a Task Force to study this question
+
+and make recommendations. The Board also felt that the question was larger
+than APA; they felt that APS, Division 5, the Society for Mathematical Psy-
+
+chology, and other organizations should be given the opportunity to be involved.
+They also felt they should at least check out the potential involvement of other
+
+disciplines, such as statistics (through the American Statistical Association).
+The Board plans to bring this question up at a meeting of the Federation of
+
+Behavioral and Social Sciences (which includes Anthropology, Sociology, Economics. and other social sciences).
+The Board appointed a committee of its members to study this question and
+make recommendations to be acted on at its March 1996 meeting, specifically:
+
+
+
+1. What the plan for the Task Force should be.
+2. What the budget for the Task Force should be.
+3. Who should be on the Task Force.
+The subcommittee will talk to a variety of people outside and inside APA before
+making its recommendations. The chair of the subcommitte is Duncan Luce.
+
+Suzanne Wandersman, APA staffer to the Board, reported that the Board appeared to be very favorable to the idea of doing away with statistical significance
+
+testing. She thinks this effort will go forward and that there will be quite a bit
+of activity on it in 1996.
+
+Cohen, J. (1994). The earth is round (p < .05).
+
+American Psychologist, 49,
+
+997-1003.
+
+Schmidt, F.L. (in press). Statistical significance testing and cumulative knowledge psychology:
+
+Implications for the training of researchers.
+
+Ny
+
+Io
+
+Methods.
+
+Psychological
+
+
+
+BOOK REVIEW
+System Reliability Theory: Models and Statistical Methods. A. Høyland and
+M. Rausand, 1994, 518 pp., NOK 590, Published by John Wiley & Sons,
+New York, ISBN 0-471-59397-4.
+Reviewed by:
+Rune Reinertsen
+Department of Production and Quality Engineering
+The Norwegian University of Science and Technology
+N-7034 Trondheim, Norway
+
+This 518-page book on reliability theory, is divided into 12 chapters.
+
+The
+
+first five chapters covers situations where the components’ state variables
+
+are binary and independent. Chapter 6 uses Markov processes in situations
+where the state variables may be in more than two states.
+
+Counting pro-
+
+cesses are treated in chapter 7. Renewal Processes, Homogeneous and NonHomogeneous Poisson Processes are given an orderly and clear presentation.
+As in most of the book, the authors present the topic in a comprehensive
+way and still manage to make it interesting and easy to follow the governing
+
+idea. Some theory for how to model dependent failures are given in chapter
+8.
+
+Chapter 9 concentrate on life data analysis and presents methods to use for
+both censored and complete data sets. The presentation of life data analysis
+
+is compressed and also extensive, sometimes making it difficult to follow the
+proves for a non-statistician. If life data analysis is of your main interests,
+then the good book Statistical Analysis of Reliability Data” by Crowder et.
+al. is recommended. Chapter 10 concentrate on experimental design, para-
+
+metric and non-parametric models to use for accelerated life testing. A brief,
+but well written presentation of Bayesian reliability analysis is the contents
+of chapter 11.
+
+Chapter 12 concludes the book with valuable information
+
+about some reliability data sources (data books and data banks).
+
+Some
+
+of the data sources could have been described more thoroughly. The book
+could also have focused more on the principle differences between methods
+
+to use for analysis of repairable and non-repairable systems. The book also
+contains some writing errors, mostly minors.
+It is clear that the book has been written by two statisticians experienced
+
+WK
+
+.
+
+
+
+with reliability theory.
+
+The book is well written, contains a large num-
+
+ber of worked examples, illustrations and last but not least, a selection of
+problems. The carefully selection of problems which beside of providing ex-
+
+ercises, also present additional materials with applications.
+
+Each chapter
+
+contains worked examples which helps the reader to get a thorough under-
+
+standing of the subjects. The book will be useful as a reference book for
+reliability engineers as well as statisticians working in the field of reliability,
+and can also be used as a textbook for students of reliability theory both
+on an introductory as well as on a graduate level. The book is used today
+as a textbook in courses given at the Norwegian University of Science and
+Technology with good response from the students.
+
+This book presents the subjects in a clear, interesting and readable manner.
+The extraneous details such as distribution theorems, Laplace transforms,
+
+main definitions and some statistical tables have been omitted in the main
+text, and are given in appendices.
+
+Whether you are an industrial statistician and reliability engineer, under-
+
+graduate or graduate student, this book will be very valuable to you.
+
+
+
+NORSK STATISTISK FORENINGS
+ETTERUTDANNINGSSEMINAR 1997
+Styret i Norsk Statistisk Forening håper å kunne arrangere et etterutdanningsseminar våren
+1997, og vil nå gjerne ha innspill til valg av emne (og eventuelle forelesere) på dette seminaret.
+
+Har du et forslag så bring det så snart som mulig til et av medlemmenei Styret.
+Vil du sende det til meg, er adressen
+Arnljot Høyland
+
+Inst. for matematiske fag NTH, 7034 Trondheim
+fax 73-593524
+
+e-mail Arnljot Qimf.unit.no
+
+16th NORDIC CONFERENCE ON
+MATHEMATICAL STATISTICS
+Lahti, Finland
+August 18-21, 1996
+"Ist Announcement’ og ’Call for Papers’ for den nordiske konferansen i matematisk statistikk, som vert arrangert i Lahti, Finland i august, vert sendt ut i desse dagar. Vi rekk
+
+dessverre ikkje å få det med i dette nummeret av TG, så vi nøyer oss med å annonsere tid
+
+og stad. Vi kjem tilbake med meir informasjon i neste nummer.
+
+
+
+UMEÅ UNIVERSITET
+
+ily,
+
+PQ Å
+
+Statistiska institutionen
+
+<
+på
+
+Matematisk-statistiska institutionen
+
+FG
+BAe
+
+INBJUDAN
+
+1996-11-27
+
+VE
+
+ER
+
+VINTERKONFERENS I HEMAVAN
+9-16 MARS 1996
+Statistiska och matematisk-statistiska institutionerna vid Umeå universitet inbjuder till sin 28:e
+vinterkonferens.
+
+Amne:
+
+Regression and Regression Graphics
+
+Förelåsare:
+
+Dennis Cook, University of Minnesota: ”Regression Graphics”
+
+Simo Puntanen, University of Tampere: ”Matrix tricks for regression
+
+diagnostics and illustration of regression concepts using
+SURVO”
+
+Dietrich von Rosen, Uppsala universitet: ”Influential Observations and
+Residuals in the Growth Curve Model”
+Deltagare:
+
+Forskare, universitetslårare och forskarstuderandei statistik och matematisk statistik
+samt personer från myndigheter och nåringsliv med intresse för åmnesområdet.
+Antalet konferensdeltagare år begrånsat till 70 personer. Familjemedlemmar år
+
+vålkomna i mån av plats. Vid överanmålan gåller anmålningsdatum som urvalskriterium.
+
+Plats:
+
+Högfjållshotellet i Hemavan, Box 162, 920 66 Hemavan. Telefon 0954-30150,
+fax 0954-30308.
+
+Konferens-
+
+900 kr för deltagare verksamma inom högskolan (motsvarande), 4000 kr för övriga
+
+avgift:
+
+deltagare.
+
+Logi-
+
+Dubbelrum, helpension:
+
+2521 kr/person (2979 kr inkl moms)
+
+kostnader:
+
+Nya dubbelrum, helpension:
+
+2816 kr/person (3609 kr inkl moms)
+
+Ytterligare information:
+
+Hans Nyquist, 090-165632, E-post: hans.nyquistØstat.umu.se eller
+
+Ingrid Westerberg Eriksson, 090-165225, E-post: iw@matstat.umu.se
+Anmålan skickas till:
+
+Ingrid Westerberg Eriksson, Matematisk statistik, Umeå universitet, 901 87 Umeå
+
+Umeå universitet 901 87 Umeå. Telefon: 090-16 52 25. Telefax: 090-16 76 58. E-post: iw@matstat.umu.se
+
+
+
+ANMÄLNINGSBLANKETT
+VINTERKONFERENS I HEMAVAN
+Namn: ..eesonnnvrnnennnannnnsrrnnnsnnrnnnnnnennnnnenennnenennvvnnnnvnneennnrnnnnnnnnnnnennenrnnernnnnenennnennnnneernnnseneeeen
+
+Institution/företag: .......mennvvrrronnnonnnrrnnrnernnvnnrrovennnnnnnnnnsnennnnervvnnsnennnserennnennvnnnesnnnerennansnnnere
+ATIESS:? .eenernnennnennvnnnnsnenernnnennnnnnnnnnnnnnnnnnnnennenenensnnnnnnnnnnnnnenennnennnnnnnnenennnnenennnnenennnnnnnnennener
+
+PPerrerr rrr reer errrrrrrerrrrrrrrrrrrrrerrrrrrrrrrrrrrr irri
+
+eee
+eecccccsesccccccccccececeescccsccccccsosssoce
+
+Familjemedlemmar: ......ronrononnnorrovernnvrnrnvvnnnnnnrnnnnnnnnnnnnnnensvsrrrrnnnnnnnnennnennnnneennnnnnnanennssnnne
+
+(ange åven Alder på barn) .......eennnnnnnnnnnvnvnnnnrrnnatnnnnnnnnrnnenvnnnnarsnnnsnnsnervennnnnnnnassnnnansnnsnenner
+Jag Önskar logi i
+
+[]
+[]
+
+Dubbelrum
+Nyrenoverade dubbelrum
+
+[]
+
+Jag ansluter till buss i Umeå
+[]
+vid Universum
+[]
+vid Umeå jamvagsstation
+[]
+vid Umeå flygplats
+
+[]
+
+Jag ansluter till buss i Vånnås
+
+[]
+
+Jag ordnar resan till Hemavan på egen hand
+
+Förhandsbestållning av liftkort:
+Vuxna
+
+[ ]6 dagar 665:Ungdom 8 - 16 år
+
+[ 16 dagar 485:-
+
+[ ]5 valfria dagar 630:-
+
+[| 3 valfria dagar 430:-
+
+[ ]5 valfria dagar 460:-
+
+[ ]3 valfria dagar 330:-
+
+Umeå universitet 901 87 Ume. Telefon: 090-16 52 25. Telefax: 090- 16 76 58. E-post: iw@matstaLumu.se
+
+
+
+UOYPLWIOJU!
+
+94| 20 82407)
+
+V
+
+BM IONIUI NOI
+
+puddas
+
+Buisn
+
+NOG
+
+ayy si ysy6u3
+
+JOVNONVT
+
+'"UOYPPOUKLGOJD
+
+334
+
+aaf 5! OZ W3d
+
+BAB | JUBLBDUTOU D
+
+Buom
+
+jo ysyoys
+
+jo JUBWIdOPAAJ
+
+UONDTIJDASIA
+
+"NJJD1
+
+ee
+
+of pug aunr
+
+B
+
+'podsupy
+
+raypry
+
+ayj Jo aBonBuo]
+
+$O4SYDES
+
+‘aya
+
+“aqualayi07)
+
+Taupanyos
+
+~OOUSYOYS
+
+“spoujsua
+
+“WE aunr
+
+"PIUOJSJ
+
+joBunpoe
+
+2] |DNISYNIS
+
+|DUOIDUIa4U|
+104 [021151 015
+ÅssaALUp
+
+a.siden
+
+HB SNOILYSINV940
+
+UONDOAP3
+
+Pinoys
+
+Ud|JOIDOS
+Buyndwo
+Jo npuoj
+
+|PUOHDWAU|
+
+Ja Ser
+
+"UOYDINP3
+
+"9661
+
+NOL VDNAI
+
+ABojopoujaw
+
+UONDIDOS Y
+
+suwo)
+
+aq
+
+ENE
+
+jd :jIDU-3
+
+13
+
+Bay uOYDYS
+
+M jim] aq paundwo sn
+(sjewon jo Su pduio200
+
+Jshouny gweqealsieUENGazowerenueewer
+
+penbey
+
+Ba|N'YSOAQS
+
+po
+
+LCLE PL
+
+"njesoug
+
+18942909
+
+ayy
+
+TYNOL VINdNOD
+
+"SHYSYDIG
+
+VONDIUS ed
+
+:spuoamay
+
+LCE SER
+
+ISLE
+
+JO aupoap
+
+M
+
+eI
+
+jo |PUEYONdWE)
+
+Aq -'
+Buy
+
+TESE e n
+
+Syh
+
+'$66L
+
+NOILYYLSIDIY
+
+EE
+
+M
+
+9
+
+SURHGOY
+
+sjuossed
+
+(sjuosæd
+
+csmen EE
+
+">
+
+ENKE
+
+SFA
+Apes
+
+SI UONDAS1Ö21
+
+S4IdVdUOATIVYO
+
+SVIUV
+
+demens
+
+ng
+
+MM
+
+me
+
+| 4
+
+EM
+
+LOAFANS
+
+"Sen
+
+EG BUGKG
+
+ET
+
+-0U+-3
+å
+
+4 4:
+
+EM
+
+JIONIYIINOJD
+
+EE
+
+enernestsereennenenne
+sees
+
+SE
+
+esnsrn nn
+Te ons
+
+:8W:0Y ‘auoug
+
+@
+
+NLYVL
+JONIYI NOD
+
+eaped arensesensevensnesens
+
+Wlaorew e EE
+
+nede
+
+@
+
+AAAxA
+
+nr
+
+evan vises
+
+, ttetsseesesevessse
+
+do
+
+Be(sr srerparensnes
+
+Fro SNENTENITE
+
+gjerne
+
+å NOtlvalsiojid
+
+EH
+
+
+
+Konferanseoversikt 1996
+| TID
+
+| STAD
+
+19-24.mai | Rebild,
+
+Danmark
+21-23.mai | Colorado
+
+| TITTEL
+First European Conference on
+
+| KONTAKTPERSON
+Steffen Lauritzen, Aalborg University
+
+Highly Structured Stochastic
+
+Fax: +45 98 15 81 29
+
+Systems
+
+e-mail: rebildQiesd.auc.dk
+
+Second Int. Symposium on
+
+Dr. H. Todd Mowrer, Chair
+
+Spatial Accuracy Assessment in
+
+Spatial Accuracy Symposium,
+
+Natural Resources and
+
+Rocky Mountain Forest and Range
+
+Environmental Sciences
+
+Experiment Station, 240 W.Prospect,
+
+Fort Collins, CO 80526-2098, USA
+
+2-8. juni
+
+Tartu,
+
+Tartu conference on computational
+
+Ene-Margit Tiit, Institute of
+
+Estland
+
+statistics and statistical education
+
+Mathematical Statistics, University of
+Tartu, J.Luvi 2, Tartu EE2400, Estonia
+
+fax: (37) 27 433 509, tel: (37) 27 465 44
+e-mail: etiit@madli.ut.ee
+
+3-5.juni
+
+Texas,
+Dallas
+
+Fourth International Applied
+Statistics Industry Conference
+
+Tracy Caldwell, 2183 S.Cooper Ct.,
+Wichita, KS 67207-5834, USA
+tel: +316 777 4425
+e-mail: tracyQacginc.com
+
+18-20.juni | Stockholm | Eight Int. Conference on Science and | Per Svensson, FOA, 172 90 Stockholm
+Statistical Data Base Manangement
+1-3.juli
+-
+
+| e-mail: persQsto.foa.se
+
+Edinburgh, | Third International Conference on
+
+C.G.G.Aitken, Dept of Mathematics
+
+Skottland
+
+and Statistics, The King’s Buildings
+
+Forensic Statistics
+
+The University of Edinburgh, Mayfield
+Road, Edinburgh,
+EH9 3JZ, U.K.
+
+tel: 0131-650 4877, fax: 0131-650 6553
+e-mail: icfs96@maths.ed.ac.uk
+1-5 juli
+
+Amsterdam | 18th Int. Biometric Conference
+Free University of Amsterdam
+
+Bureau PAOG, Amsterdam
+Tlf: 31 20 566 4801
+
+Fax: 31 20 696 3228
+e-mail: IBC96@med.vu.nl
+25-31.juli
+
+| Moskva
+
+Int. Conf. on Applied Statistics
+
+Prof. V.Shvyrkov
+
+in Business and Economics
+
+Sonoma State University
+Rhonert Park, CA 94928, USA
+tel: (707) 575-3529, fax: (707) 664-4009
+
+4-8.aug.
+
+Chicago,
+Illinois
+
+Joint Statistical Meetings
+
+ASA, 1429 Duke St., Alexandria,
+VA 22314-3402, USA
+tel: +1 703 684 1221
+fax: +1 703 684 2037, e-mail:
+meetingsQasa.mhs.compuserve.com
+
+
+
+TD
+
+| STAD
+
+18-21.aug | Lahti,
+Finland
+
+TITTEL
+
+| KONTAKTPERSON
+
+16th Nordic Conference on
+Mathematical Statistics
+
+26-30.aug. | Barcelona |COMPSTAT’96
+
+Prof. Albert Prat, Dept. of Statistics, ©
+
+XII Symposium on
+
+Avda. Diagonal 647, 08028 Barcelona
+
+Computational Statistics
+
+tlf: +34-3-4016569, fax: +34-3-4016575
+e-mail: Prat@eio.upc.es
+'
+
+26-31.aug. | Wien
+
+4th World Congress of the
+Georg Pflug, University of Vienna,
+Bernoulli Society
+Austria. tel: +43 1 407 63 55 210
+Elektronisk informasjon:
+fax: +43 1 407 63 55 88
+http://smc.univie.ac.at/~bernoulli | e-mail: wc96@smc.univie.ac.at
+
+11-13.sept | London
+
+Second Int. Conference on Survey | Randy Banks Association for Survey
+and Statistical Computing
+Computing. tel: +44 1206 873067
+fax: +44 1206 873151
+
+e-mail: randy@essex.ac.uk
+
+å
+
+RA ustrop»n-
+
+| wher 0 orsstn Å om
+
+P.0. Lox
+
+32
+
+A= 1857
+
+ie
+
+Veen
+
+W mate
+
+|
+
+Mohan
+
+Ram
+
+«Ft
+
+30
+
+
+
+Pris til Professor Knut K. Aase
+Professor Knut K. Aase er tildelt David Garrick Halmstad prisen 1995. Prisen blir utdelt
+av styret for *the Actuarial Education and Research Fund” (AERF).
+Curtis E. Huntington, Executive Director, skriv om prisen:
+
+The Halmstad Prize is given annually for actuarial research in memory of David
+Halmstad, as Associate of the Society of Actuaries, for his significant contributions to actuarial science and research.
+
+The Price recognizes the best paper in actuarial research published each year.
+... It is based upon the recommendation of a Committee of actuaries (casualty,
+
+life, health, pensions, etc.) and administered through the SoA’s Education and
+Research Section.
+
+Knut K. Aase far prisen for 1993, for dei to artiklane
+“Equilibrium in a Reinsurance Syndicate:
+
+Existence, Uniqueness and Characterization,”
+
+ASTIN Bulletin 23, no. 2 (1993), 185-211
+og
+
+“Premiums in a Dynamic Model of a Reinsurance market,” Scandinavian Actuarial Journal
+(1993), 134-160.
+Prisen er ein sjekk pa 750$, og ein plakett.
+Vi gratulerer!
+
+
+
+NYTT FRA GRUPPE FOR STATISTIKK, NTH
+
+Dr.ing.
+Lars Ødegaard forsvarte 1. desember 1995 sin avhandling:
+*Phase Abberation Correction in Medical Ultrasound Imaging”
+Tittel på prøveforelesning: “Cardiac Imaging - Physical and Technical Limitations to Image Quality”.
+Hovedfaglærer: John Sølve Tyssedal.
+Medveiledere: Professor Sverre Holm, Institutt for informatikk, UiO og forskningsleder Hans Torp, Institutt for biomedisinsk teknikk, UNIT.
+Komité:
+
+Professor Mathias Fink, Université Paris VII, forskningsdirektør
+
+Kjell Kristoffersen, VingMed Sound A/S, Horten og professor Harald Krogstad,
+Institutt for matematiske fag, NTH.
+
+Ferdig sivilingeniør
+Kjetil Mikelborg: ‘Fuzzy set theory in system reliability evaluation’. Veileder:
+Per Hokstad.
+
+Forskningsrapport
+Håvard Rue & Anne Randi Syversveen: Bayesian Object Recognition
+
+bo
+
+w
+
+with Baddeley’s Delta Loss. Statistics No. 8/1995
+
+
+
+Gammelt nytt og nytt fra
+Universitetet i Trondheim,
+AVH
+Uteksaminerte cand.scient.-er høst 1994 og vår 1995:
+Dennis Adaletey
+
+Ny dr.scient.-student:
+Geir Arne Kjønstad er tatt opp som dr.scient.-student fra høsten 1995.
+
+Ansettelser:
+Helga Jonsdottir Vivas er ansatt som førsteamanuensis i biostatistikk fra
+sommeren 1994.
+
+Magnar Lillegård er ansatt som stipendiat fra våren 1994.
+Ola Diserud er ansatt som stipendiat fra høsten 1994.
+
+Svenn Fjeld Olsen er ansatt som amanuensis i høstsemesteret 1995.
+Øyvind Bakke er ansatt som førsteamanuensis i biostatistikk/biomodellering
+
+w
+
+QW
+
+fra høsten 1995.
+
+
+
+LEDIGE STILLINGER:
+
+NORGES TEKNISKE HØYSKOLE
+NTH
+
+FØRSTEAMANUENSIS I STATISTIKK
+Det er ledig en førsteamanuensis stilling i statistikk på Institutt for matematiske fag, NTH.
+
+Stillingsbeskrivelsen finnes i Norsk Lysningsblad nr. 277 den 29.11.95 og i
+Teknisk Ukeblad 30.11.95.
+
+SØKNADSFRIST: 29. desember 1995
+Nærmere opplysninger fås ved henvendelse til professor Henning Omre, NTH,
+tel. 73 59 35 31 / 73 59 35 20
+
+PROFESSORAT I TROMSØ
+Ved institutt for matematiske realfag, Universitetet i Tromsø, vil det bli
+utlyst et professorat i statistikk med sknadsfrist mot slutten av januar 1996.
+
+Potensielle søkere kan kontakte Fred Godtliebsen på tlf 776 44016.
+
+
+
+Högskolan i Karlstad
+år expansiv och har ett brett och djupt utbud: 35 utbildningsprogram
+och över 350 kurser.
+Hogskolans forsknings- och
+utvecklingskompetens
+våxer
+snabbt och stårks av ökande anslag
+
+och uppdrag. Högskolan har idag omkring 650 anstallda och 8 500 studenter.
+
+Institutionen för informatik, matematik, statistik söker
+
+Tre universitetslektorer i
+MATEMATIK nr 470/95
+
+En universitetslektor i
+DATALOGI an: 471/95
+
+En universitetslektor i
+SYSTEMVETENSKAP én: 472/95
+
+En universitetslektor i
+STATISTIK xånr 473/95
+- Vid institutionen för informatik, matematik, statistik bedrivs undervisning inom ett flertal olika områden, bl a lårarutbildning, systemvetenskap, tekniska ingenjörsutbildningar samt ett flertal kurser upp till och
+
+med C-nivå. Informatikåmnet har dessutom osleferardlinine samt en
+inråttad professur
+i informatik.
+
+Tilltråde: 1996-07-01.
+
+Arbetsuppgifter: I tjånsterna ingår undervisning, forskning och utveckling.
+Behörighet: Högskoleförordningen SFS 1993:100 tillampas. För behörighet kråvs doktorsexamen. Förmåga att undervisa på svenska år en förut' såttning för att innehavaren skall kunna utföra sina arbetsuppgifter.
+Befordringsgrunder: Sårskild vikt kommer att fåstas vid såvål vetenskaplig som pedagogisk skicklighet.
+Lön: Individuell lönesåttning tillampas. Ange gårna löneanspråk.
+Huvuddelen av lårarna inom berörda åmnesområde år mån, varför vi
+gårna ser kvinnliga sökande.
+Upplysningar: Prefekt Stig Håkangård eller åmnesföretrådarna i matematik Bengt Alm, datalogi/systemvetenskap Eivind Nordby och statistik
+Ingemar Adolfsson. Fackliga representanter år för SACO Thomas
+
+Wennstam och för TCO Torunn Johansen.
+Samtliga nås på tel 054-83 80 00 (vx).
+Ansökan med angivande av dnr skall vara Rektors kansli, Högskolan i
+
+Karlstad, 651 88 Karlstad tillhanda 1996-01-13.
+Vetenskapliga arbeten och övriga handlingar som åberopas skall inges i
+
+två exemplar. Av redogörelsen skall framgå vilka undersökningar och
+
+resultat samt prestationer i 6vrigt som enligt sökandens mening fråmst
+bör beaktas i tillsåttningsårendet. Anmålda handlingar som inte kan
+bifogas ansökan skall inges inom tre veckor från ansökningstidens utgång.
+
+35
+
+
+
+Nedenfor følger stillingsbeskrivelse for yngre statistiker ved Institut for Sygdomsforebyggelse
+i København.
+
+Kontaktperson er Fg. institutleder Erik Lykke Mortensen, tlf. +45 33 38 38 80, og adressen
+Hovedstadens Sygehusfællesskab
+Institut for Sygdomsforebyggelse
+Kommunehospitalet
+K
+1399 København
+
+Stillingsbeskrivelse
+Yngre statistiker ved Institut for Sygdomsforebyggelse
+
+Ved Institut for Sygdomsforebyggelse er en nyoprettet stilling for en yngre statistiker ledig til
+besættelse snarest. Ansættelsen vil i første omgang være for en tre-årig periode, men der vil
+
+være mulighed for forlængelse.
+Instituttet er en forskningsinstitution under Hovedstadens Sygehusfællesskab, beliggende på
+Kommunehospitalet.
+
+Forskningsområdet er bredt, omfattende sygdomme og helbredsproblemer inden for de
+medicinske, psykiatriske og psykosociale områder. De fleste undersøgelser er af
+
+epidemiologisk art og omfatter derfor betydelige datamængder.
+Foruden en række specifikke projekter huser instituttet en del af Center for Epidemiologisk
+Grundforskning, Hovedstadens Center for Prospektive Befolkningsunderstudier, Copenhagen
+
+Trial Unit, samt et forskningsprofessorat i dermato-venerologi.
+Den der ansættes i stillingen vil blive beskæftiget med EDB-mæssige og data-analytiske
+funktioner inden for en bred vifte af instituttets projekter. Stillingen ønskes derfor besat med
+en person med et godt kendskab til biostatistik, data-base erfraring og evne til at samarbejde
+og kommunikere med instituttets øvrige videnskabelige medarbejdere.
+
+Instituttet har et tæt videnskabeligt samarbejde med Biostatistisk Afdeling ved Københavns
+Universitet, og stillingen indebærer gode muligheder for videreudvikling og videreuddannelse
+inden for det biostatistiske område, som har en central placering i instuttets
+forskningsvirksomhed.
+
+Der er i øjeblikket ansat to yngre statistikere ved instituttet, og der forventes i nær fremtid
+
+ansat en chefstatistiker, som vil få det overordnede ansvar for instituttets data- og
+analysefunktioner.
+
+Løn og ansættelsesvilkår fastsættes efter kvalifikationer i overensstemmelse med gældende
+overenskomst inden for den ansattes faglige område.
+
+36
+
+
+
+Medlemskap i Norsk Statistisk Forening
+Kontingenten i foreningen er på kr. 150 pr.år for regulære medlemmer og kr.
+50 for studenter. Korrespondanse om medlemskap og innbetaling av kontingent
+
+skal skje til foreningens kasserer:
+Norsk Statistisk Forening v/Harald Johnsen
+
+Avd. for klinisk kjemi
+Regionssykehuset i Trondheim
+7006 TRONDHEIM
+
+Innbetalinger skal gjøres på foreningens postgirokonto 0802 5 15 10 55. Medlem-
+
+mer som er usikre på når de betalte kontingent sist, vil nederst til høyre på
+adressedelen for Tilfeldig Gang finne angitt hvilket år siste betaling er registrert
+for. Vær imidlertid oppmerksom på at adressesedlene for bladet ligger noe etter
+ajourføringen av medlemsregisteret, slik at nylig foretatte innbetalinger ikke vil
+
+vere tatt med her.
+
+Nye medlemmer melder seg til kassereren.
+
+Slike medlemmer får automatisk
+
+tilsendt Tilfeldig Gang, med forbehold om at det tar noe tid før tilføyelser
+
+og forandringer i medlemsregisteret gjenspeiler seg i adresselistene til bladet.
+Adresseforandringer meldes også til kassereren.
+
+Ved utsendelsen av Tilfeldig
+
+Gang benyttes det kopier av det vanlige medlemsregisteret, så adresseforan-
+
+. dringer behøver ikke meldes separat til bladet.
+Annen korrespondanse med foreningen skal foregå med formannen under denne
+
+adressen:
+Norsk Statistisk Forening v/Arnljot Høyland
+Institutt for matematiske fag
+
+7034 Trondheim-NTH
+
+Bidrag til Tilfeldig Gang
+Neste nummer av Tilfeldig Gang vil komme ut i desember 1995.
+
+Alle slags
+
+bidrag til bladet er velkomne, enten det gjelder nye temaer av interesse for
+
+norske statistikere, eller man har kommentarer til innlegg som allerede har stått
+
+i bladet. Stoff til neste nummer må vere redaktøren i hende senest 15/12-95.
+Adressen til redaksjonen er
+
+Thore Egeland/Turid Follestad
+Norsk Regnesentral
+Boks 114, Blindern
+
+N-0314 OSLO, Norway
+Telefon: 22852500
+Fax: +47 22697660
+
+e-mail: thore.egeland@nr.no/turid.follestad@nr.no
+
+37
+
+
+
+
+
+
+
+Returadressse:
+
+TILFELDIG GANG
+
+v/Harald Johnsen
+
+Avd. for klinisk kjemi
+
+Regionssykehuset i Trondheim
+7006 TRONDHEIM
+
+
+

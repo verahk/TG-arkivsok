@@ -1,0 +1,1208 @@
+ISSN 0803-8953
+Tilfeldig gang
+Nr. 1, årgang 42
+06 2025
+
+Utgitt av Norsk statistisk forening
+
+Redaksjonelt
+
+Fra lederen . . . . . . . . . . . . . . . . . . . . . . . . . .
+Fra redaksjonen . . . . . . . . . . . . . . . . . . . . . . . .
+
+1
+1
+
+Artikler
+Håvard Rue 60 år . . . . . . . . . . . . . . . . . . . . . . .
+Dykk i arkivet: 1984 – 1989 . . . . . . . . . . . . . . . . .
+Minneord - Tore Schweder . . . . . . . . . . . . . . . . . .
+Minneord - Mette Langås . . . . . . . . . . . . . . . . . . .
+
+3
+5
+8
+18
+
+Tankenøtter
+Pusleri 62: Fuglematkamp . . . . . . . . . . . . . . . . . .
+Pusleri 61: Opptatt-ledig (løsning) . . . . . . . . . . . . . .
+
+22
+23
+
+Møter og konferanser
+Årsmøte i NSF Oslo . . . . . . . . . . . . . . . . . . . . . .
+
+29
+
+Meldinger
+Nytt fra Universitetet i Tromsø . . . . . . . . . . . . . . . . 30
+Nytt fra Oslo senter for biostatistikk og epidemiologi (OCBE) 30
+
+
+
+
+
+redaksjonelt
+Fra lederen
+Hei, TG-lesere!
+Det skjer som vanlig mye om dagen, så vi holder sommerhilsenen kort
+med noen praktiske opplysninger:
+– Det neste nordiske statistikermøtet blir fra 1. til 4. juni 2026 i
+Helsinki.
+– Det neste norske statistikermøtet blir medio juni 2027 i Bergen.
+– Det blir digitalt NSF-årsmøte i år, tilsvarende det som var i 2023.
+Tidspunkt og detaljer kommer på e-post.
+Hvis alt går etter planen, får vi en ny leder på årsmøtet. Derfor vil jeg
+både takke for meg som leder i tillegg til å ønske alle lesere en riktig
+god sommer.
+Vennlig hilsen,
+Jacob Skauvold
+
+Fra redaksjonen
+I denne utgangen av TG kan du lese om jubilanten Håvard Rue,
+mannen bak INLA, som fylte 60 år tidligere i år. Du kan lese om et
+dykk dypt ned i TG’s arkiv, til bladets langt fra spede begynnelse og til
+stadig aktuelle debatter om statistikerens identitet. Jostein Lillestøl
+byr dessuten på nye puslerier, denne gangen for statistikk- og/eller
+fugleinteresserte. Fremfor alt er det likevel tid for å minnes to kjære
+kolleger som har gått bort, Tore Schweder og Mette Langås. To dyktige
+fagpersoner med vidtgående engasjement, som har betydd – og vil
+fortsette å bety – mye for mange.
+Redaksjonen ønsker alle lesere en god sommer – samtidig, og
+selvfølgelig, bidrag til neste nummer varmt velkommen!
+Vennlig hilsen,
+Vera Kvisgaard
+verahk@uio.no
+
+1
+
+
+
+artikler
+
+2
+
+
+
+Håvard Rue 60 år
+Tidligere i år fylte Håvard Rue 60 år. Han er først og fremst kjent som hovedutvikler av
+metodologien INLA (Integrated nested Laplace approximations), som benyttes til
+approksimert bayesiansk inferens for den fleksible klassen av latente Gaussiske
+modeller. I løpet av de siste 15 årene har INLA vært under stadig utvikling og blitt et viktig
+og utbredt verktøy for å analysere bayesianske modeller på en enkel, nøyaktig og
+beregningseffektiv måte, spesielt gjennom programvaren R-INLA. Utviklingen av INLA har
+hatt en dyp innvirkning på en rekke fagområder, fra miljøvitenskap til epidemiologi,
+ettersom kompleks bayesiansk inferens har blitt mer tilgjengelig og effektiv.
+
+Første INLA-workshop i Trondheim i 2009.
+
+Håvard er i dag professor og programleder for statistikk ved KAUST (King Abdullah
+University of Science and Technology) i Saudi-Arabia, hvor han leder forskningsgruppen
+“Bayesian Computational Statistics and Modeling”. Her har han særlig fokus på
+skalerbare bayesianske metoder og romlig statistikk. Karrieren hans startet derimot ved
+gamle NTH, hvor han tok siv.ing.-utdannelse i marin teknikk, før han senere fant sin
+lidenskap innen statistikk. Han tok doktorgrad i statistikk ved Institutt for matematiske
+fag (IMF) med Emil Spjøtvoll som veileder og disputerte i 1993. Etter noen få år som
+førsteamanuensis var han professor ved IMF fra 1997 til 2016. I begynnelsen av denne
+perioden jobbet han blant annet med teori for Gaussiske Markovfelt, noe som la et viktig
+grunnlag for utviklingen av INLA. Et viktig bidrag er også INLA-SPDE metodologien, som
+er spesielt nyttig for modellering av kontinuerlige romlige felt. Innsatsen resulterte i to
+diskusjonsartikler (“read papers”) som ble presentert for the Royal Statistical Society i
+London og senere publisert i det prestisjetunge tidsskriftet JRSSB.
+
+Presentasjoner av “read papers” for the Royal Statistical Society i London i 2008 og 2011.
+
+3
+
+
+
+Håvard har hatt stor innflytelse på statistikkmiljøet både nasjonalt og ikke minst
+internasjonalt. Han har ledet en rekke store forskningsprosjekter og utover sine
+akademiske prestasjoner har Håvard et oppriktig engasjement for veiledning og
+samarbeid, noe som har inspirert utallige studenter og kollegaer over hele verden. Han
+har veiledet/medveiledet hele 39 doktorgradsstudenter, hvorav mange har fått
+akademiske stillinger både i Norge og utenlands. Håvard regnes i dag som statistiker i den
+absolutte verdensklasse og i 2021 ble han tildelt Guy Medal in Silver fra Royal Statistical
+Society for sine betydelige og banebrytende bidrag til skalerbare og effektive metoder for
+dataanalyse.
+I anledning av 60-års dagen ble det arrangert en workshop ved Universitetet i Glasgow,
+INLA: past, present, and future. A workshop in honour of Håvard Rue's 60th birthday.
+Denne samlet rundt 70 deltakere og gav både historiske tilbakeblikk på utviklingen av
+INLA, samt hvor veien går videre.
+
+INLA-workshop i Glasgow, 2025 (Foto: Janine Illian)
+
+Håvard har vært og er en usedvanlig god samarbeidspartner for mange. Vi gratulerer så
+mye med vel overstått jubileum og gir deg våre beste ønsker videre.
+På vegne av samarbeidspartnere og kollegaer,
+Andrea, Geir-Arne, Ingelin, Sara og Sigrunn
+
+4
+
+
+
+Dykk i arkivet: 1984 – 1989
+Vera Kvisgaard
+Juni 2025
+Som ny redaktør for TG, et blad med en levetid lenger enn min egen, har det føltes naturlig
+å dykke ned i arkivet. Her beretter jeg fra et mer enn mindre systematisk slikt dykk,
+nemlig et kronologisk dykk fra den første utgaven ble publisert i 1984 og ut det visstnok
+glade 80-tallet.
+Arkivet er tilgjengelig for alle på NSFs hjemmesider:
+https://sites.google.com/site/statistiskforening/tilfeldig-gang
+Første utgave av Tilfeldig gang (TG) ble publisert april 1984, som et kommunikasjon- og
+sladder-organ for medlemmene i Norsk statistisk forening (NSF). Tross navnevalget, skulle
+utgivelsene være langt fra tilfeldige: fire til fem utgaver ble publisert hvert år de påfølgende
+10 årene, og publiseringene fortsatte de neste 30 frem til i dag, om enn i litt lavere takt.
+Bakgrunnen var et NSF som nok hadde ligget litt brakk, og som nå skulle vekkes til live.
+En forening for norske statistikere, ja vel og selvfølgelig, men «hvem er de?» spurte Tore
+Schweder i nr. 2/84. At det er nettopp han som spør overrasker ikke den som har lest Nils
+Lid Hjorts minneord i denne utgaven, der Nils lyser både fred og «litt fruktbar vennligsinnet
+krangel» over Tore Schweders minne. Tore ønsket både statistikere av utdanning og
+statistikere av interesse (U- og I-statistikere) velkommen i NSF. Tilsynelatende også Bstatistikerne (B for byrå), som i sin tid var initiativtakerne til foreningen, men som nå
+virket å la foreningen seile sin egen sjø. Likevel, for U-statistikeren måtte NSF være en
+profesjonsforening, mens I-statiskerne ville ha andre fag en statistikk som sitt primære.
+Motdebatanten var Eivind Hoffman ved Norsk Regnesentral, som skrev sin motvilje mot
+at NSF i fremtiden skulle «hente sin identitet» i fagtradisjonen Matematisk institutt,
+avd. C representerte – og «medlemmer primært hentes fra dennes disipler» – presist på
+linjene. Odd Aalen, som jeg lurer på om nesten nokså nøyaktig på dette tidspunktet
+ble utnevnt professor i avdeling for biostatistikk ved UiO, bragte diskusjonen inn på
+statistikkutdanningen (nr. 3/84). Om den daværende utdanningen ble det lagt frem ros
+(dens presise karakter er nødvendig for å minske omfattende misbruk av faget i mange
+felt) og ris (den mangler innslag av praktiserende statistikk). Poenget gjøres billedlig klart,
+bokstavelig talt, når han skriver at den matematiske statistikken er «beingrinda som må
+suppleres med kjøtt og blod før det blir levende liv av det hele».
+
+5
+
+
+
+Figure 1: Skjermdump av den gjenkjennelige førstesiden til første utgave.
+Erling Sverdrup, professor ved Matematisk institutt ved UiO og æresmedlem i NSF,
+vurderte at UiO utdannet kandidater som var relativt vel skolert, men uerfarne (nr. 1/85).
+Det er alvorlig, men uungåelig, skrev han. Derfor må det bygges solide faglige miljøer i det
+praktiske liv.
+Mens varianter av denne fagidentitets-debatten skulle dukke opp igjen senere, ble de
+neste numrene fylt side opp og side ned med utlysninger og annonseringer. Blant annet
+annonnseres et to dagers seminar om bootstrap estimering med selveste Bradley Efron som
+foreleser i Oslo våren 1985. Seminaret etterlot et «alminnelig inntrykk om at deltakerne
+var fornøyd», ble det rapportert i nr. 3/85.
+Årgangene 1985 – 1986 bærer preg av to først forestående, senere overståtte jubileum:
+International Statistical Institute (ISI) markerte 100 år siden oppstarten i 1985, mens
+NSF fylte 50 år i 1986. I TG ble dette ble markert med en serie historiske tilbakeblikk
+i begge organisasjonene.1 Dessuten ble det i anledning den norske foreningens jubileum
+manet til markedsføring av statistikkfaget overfor allmennheten, gjennom en lite populær
+populærvitenskapelig tekst-konkurranse utlyst i nr 1/86: «Løgn - forbannet løgn - og
+statistikk». Da bare et bidrag var kommet inn til fristen var daværende NSF-formann og
+nåværende puslerimester i TG, Jostein Lillestøl, på nippet til å refse TGs lesere for å være
+uengasjerte (nr. 3/86).
+Etter at feststemningen la seg, fulgte en serie med omtale av programvare (Minitab,
+BMDP, SPSS, SAS og GLIM, i nr. 3/86 og påfølgende nummer), dessuten mer og
+mindre jevnlige oppdateringer om virke i Svenska Statistikerforeningen, Dansk Selskab for
+Teoretisk Statistikk og Statistiska Samfundet i Finland, før feststemningen igjen reiste seg
+i forbindelse med Erling Sverdrups 70 års jubileum (nr. 1/87 og nr. 3/87).
+En debatt om statistikkfagets plass fulgte i numrene etter statistikermøtet i 1987, der
+Tore Schweder hadde holdt foredraget «Statistikkfagets plass mellom matematikk og
+1
+
+Jubileumstidskriftet Statistisk sett for den norske foreningen ble også utarbeidet. Det finnes i arkivet
+på TGs nettsider og ser ut til å være spennende lesning.
+
+6
+
+
+
+informatikk» (publisert i nr. 3/87). Statistikere blir oppfattet som ganske upraktiske
+matematikerene, lød problembeskrivelsen, sånn omtrent. Kanskje definerer de seg også
+som sådanne. Informatikkfaget var mye mer moteriktig - både forskningsmidler og nye
+studenter strømmet dit. Om ikke fagstatiskerne maktet å gjøre seg selv relevante, ville
+statistisk halvstuderte røvere (sosiologer, økonomer, databehandlere..) i fremtiden ta de
+ledende oppgavene. Den halvstuderte røveren Eivind Hoffmann, som vi vel alt har har
+skjønt at heller ikke lot en diskusjon fare forbi, gledet seg over selvransakelsen (nr. 4/87).
+«Hva er det vi kan som andre fagfolk ikke kan?», spurte Odd Aalen i nr. 1/88, før han
+selv svarte: muligheten til å skjønne grunnlaget for de statisiske metodene, et grunnlag
+med sterkt innslag av matematikk ervervet gjennom mange års utdannelse - som ikke
+kan «snappes opp på si». Det betød imidlertid ikke at fagstatistikeren skulle kose seg i
+akademisk isolasjon, ble det presisert, forøvrig uten anklager om at slik kos hyppig forekom.
+Den siste årgangen av det kanskje ikke-bare-glade-80-tallet ble avsluttet med en diskusjon
+om hva TG skal inneholde, og en uttalt intensjon om å supplere innholdet med diskusjon
+omkring faglige spørsmål (nr. 3/89). Første eksempel er en artikkel i samme nummer om
+Bayesiansk analyse skrevet av Bent Natvig, daværende formann i NSF, som det filosoferes
+over i numrene som fulgte.
+
+7
+
+
+
+Tore Schweder, 1943 – 2024
+
+Av Nils Lid Hjort – en mer detaljert og utdypende versjon av minnetalen holdt på Det
+Norske Videnskaps-Akademi mars 2025.
+Tore Schweder var født 16. januar 1943 og døde 9. mai 2024, 81 år gammel. Han
+vokste opp i en generasjonsbolig nær Holmendammen i Oslo, mellom storesøster Ulla
+og lillesøster Siri. Faren Carl var aktuar og tegner, mor Solveig var også aktuar, men
+var det som heter husmor etter at barna kom.
+Etter skolegang på Slemdal og Ris gymnas havnet han i en av livets gode skuffer, skulle
+det vise seg, i chifferavdelingen ved Forsvarets Overkommando på Akershus, som del
+av militærtjenesten, samtidig med at han begynte å studere på Blindern. Denne
+jobben fikk han nok ved hjelp av sin far, som hadde kontakter til disse hemmelige
+tjenester under krigen, for øvrig derfor i det samme landskap som statistikerne Erling
+Sverdrup og Herdis Thorén Amundsen. På Akershus trengte man klarhodede folk
+som kunne forstå koding og tall, og Tore lærte å programmere i 1961.
+Han bedrev også eksport av tilfeldigheter; i en kjeller på Forsvarets Forskningsinstitutt
+genererte man ved hjelp av en spesiell radioaktiv isotop uniformt fordelte variable, der
+tallene skulle fraktes, med to soldater foran og to bak, til Fornebu og videre transport,
+til bruk for lesing av de krypterte koder. Tore var med på testing av at tallene virkelig
+hadde den korrekte tilfeldige fordeling, og brukte også muligheten til å bli orientert
+om både hemmeligheter og samfunnets noe skjulte hjul. Han snakket med damene
+på det hemmelige rommet som leste russiske og rumenske aviser og var sikkert synlig
+som et lyst hode. Da Kuba-krisen var i oppseiling, ett år etter, stod det en kveld en
+admiral på døren med ventende bil, for å hente studenten Tore.
+På Blindern var det først filosofi, som Tore alltid var opptatt av, og mente burde hatt
+en litt høyere posisjon i naturvitenskapene. Der traff han Guri, og barna Simen og
+Åsa er født i 1970 og 1973. Etter filosofien valgte han seg et hovedfag i statistikk,
+8
+
+
+
+inspirert bl.a. av Erling Sverdrups (1917–1994) forelesninger. Som veileder så han seg
+ut Olav Reiersøl (1908–2001), som ifølge Tore var den som mest så ut som en ekte
+forsker. Annenhver uke kom Tore til sin veileder, som enten ikke sa et ord, hvilket
+var et godt tegn, eller sa «høm-høm», som betydde at noe måtte gjøres bedre. Først
+etter at cand.real.-oppgaven var levert, med god karakter, forklarte Reiersøl at visse
+ting kunne vært gjort annerledes. Temaet var «Identifiserbarhet i konfluensanalyse
+med feil på variablene og feil på likningene», hvilket passet Tore også idet det hadde
+et filosofisk islett.
+Han ble så vit.-ass. på Matematisk institutt, i den gryende avdelingen for statistikk
+og forsikringsmatematikk, med Sverdrup som leder. Første arbeidsdag skulle være
+2. januar 1967, og han ba om unnskyldning for at han ikke kunne begynne før 3.,
+på grunn av en hyttetur. Sverdrup måtte forklare at på Blindern tar man seg visse
+friheter. Tore ble så rekruttert til sosialdemografigruppen på Statistisk Sentralbyrå
+av Jan Hoem (1939–2017), fra januar 1968. Her lærte han modellering et godt stykke
+nærmere dataene enn på Blindern.
+Tores første og viktige artikkel springer ut fra problemstillinger rundt dette sosialdemografiske, selv om Composable Markov Processes er et rent teoretisk bidrag. Han
+sendte den til Journal of Applied Probability, fikk straks svar at den var antatt og skulle
+trykkes – slik trodde Tore at videre akademisk produksjon skulle fungere (hvilket den
+som kjent ikke gjør). Arbeidet handler om å modellere hvordan en prosess over tid
+kan influere en annen, og nærmer seg de vanskelige aspekter ved statistisk dynamisk
+kausalitet. Hovedideene er i nær slekt med det Clive Granger (1934–2009) hadde publisert året før (hvilket Tore ikke visste), og som Granger fikk Nobel-prisen i økonomi
+for i 2003. Tores arbeid oser av idékraft og originalitet, og har så mange som to referanser (Dynkin, 1965 og Khintchine, 1960). Det er Granger som har fått brorparten av
+ære og siteringer, men i feltet snakkes det om Granger-Schweder-kausalitet. Mange
+har fulgt opp dette av Tores mange idérike arbeider, som Odd Aalen og Ørnulf Borgan.
+Her nevner jeg også Vanessa Didelez, som var et år her ved Senter for Grunnforskning,
+og som nær sagt bygget sin karriere rundt Tores 1970-arbeid; nå er hun Professorin
+für Statistik mit dem Schwerpunkt Theorie und Methoden der Kausalitätsforschung i
+Bremen.
+Samtidig har Tore naturligvis hatt tid og kraft til andre innsatser. Et interessant
+eksempel er PAX-boken fra 1970, om storkapitalens tiltagende kvelende makt over
+f.eks. Norge, sammen med Atle Seierstad, Ståle Seierstad, Steinar Strøm. I denne En
+studie av storfinansens ekspansjon. Med et minimumsprogram for norsk uavhengighet,
+som minner oss om kampen mot EEC frem til den første folkeavstemningen i 1972,
+har Tore bidragene «Noen hovedtrekk ved monopolkapitalismen», «Monopolisering
+innebærer internasjonalisering», «Konsesjonslovgivning og utenlandsk kapital». Ikke
+alle på Sos.-øk. likte dette. Professor T hadde kommet og slått knyttneven i både
+bordflate og andre steder, og visstnok meldt «det står på baksiden av boken at du er
+sosialøkonom og det er du [søren klype meg] ikke!».
+Som Akademiet er kjent med er det mange flinke mennesker, og flinke folk er flinke på
+ulike måter. Noen er introverte og lengter etter sine kontorer, noen mer utadvendte.
+
+9
+
+
+
+Tore skåret ikke helt så høyt som til de utagerende flamboyante, men var tydelig
+tilstede, i flinkhet og iver. Kommer man på seminar, så skal man mene noe.
+De som følger med i timen forstår altså at her har vi et ekte og iherdig talent, i vei i
+vellinga-kategorien. I 1969 blir han UiOs visstnok yngste fast vitenskapelige ansatte,
+som universitetslektor på Sosialøkonomisk Institutt. Den senere rektor ved NTH Emil
+Spjøtvoll (1940–2002) skriver brev til Tore og forklarer ham at han er ved feil institutt.
+Dermed er Tore universitetslektor ved Matematisk institutt fra 1971. En gang den
+ledende fagstatistiker Erich Lehmann (1917–2009) er på besøk i Oslo inviterer han
+Tore til en hyggelig lunsj, på kunstnerkafeen Blom, og foreslår at Tore kan jo komme
+til Berkeley og ta seg en doktorgrad der. Tore har også en kontakt i Moskva og er
+lokket av den muligheten. Han er dessuten interessert i det nye Universitetet i Tromsø,
+snakker med den påtroppende rektor Peter Hjort (1924–2011), og spør om han bør
+dra til Moskva eller Berkeley. Hjort mener Berkeley er best. Sverdrup prøver også å
+få Tore på kroken, til en doktorgrad med ham, men er for sent ute. Dermed blir det
+tre års iherdig og særdeles fruktbart opphold i Berkeley, en av metodestatistikkens
+høyborger, der også barn nummer to Åsa blir født i 1973.
+
+To av mange datapunkter, gjennom femti års arbeid og forskning: Kamp mot storkapitalen (PAX 1970), og CLP (Cambridge 2016).
+
+Tore har nok alltid følt og tenkt at han er på den flinke side, de som kan finne ut av
+og gjøre interessante, relevante, utfordrende ting. På Berkeley vokser vingene, han får
+større utsyn og nettverk, han forstår at han er like meget med som racerne fra USA og
+de andre land. Han velger seg et mer anvendt fagtema enn det som er vanlig i denne
+høyborg på 1970-tallet, nemlig hval, som han er venn med resten av karrieren. Med
+den kjente David Brillinger (f. 1937) som veileder skriver han Transformation of Point
+Processes: Applications to Animal Sighting and Catch Processes, with special Emphasis on Whales, som har betydelige teoretiske bidrag til punktprosesslitteraturen, dog
+foreløpig uten en eneste ekte hval i sikte. Tore gjør seg bemerket, i det faglige og
+sosiale, og vinner The Evelyn Fix Prize for 1973, til den mest lovende PhD innen
+10
+
+
+
+statistikk på Berkeley campus; Odd Aalen vinner samme pris året etter, så de norske
+er tydelig tilstede i denne perioden.
+Etter Berkeley blir det verdens nordligste universitet, nystartet, der matematikere,
+fysikere og noen i utgangspunktet få statistikere har kontorer på Nordlysobservatoriet.
+Dosent Tore bygger undervisning og miljø og knytter kontakter med anvendte felt,
+fra arkeologi til fiskeriforskning og medisin, og får seg om litt sin professortittel. Jeg
+var selv kalenderåret 1976 der, på delt kontor med Tore. Jeg var egentlig cand. real.student, men med den aparte tittelen amanuensisvikar underviste jeg på flere nivåer
+med pensum pekt ut av Tore, som del av en klar plan om å bygge frem statistikken
+på det nye universitetet. Siden kommer tungvekterne Erik Bølviken og Odd Aalen,
+så Tromsø får et høyt kvalifisert statistisk miljø. Det er slutt med Guri, så de første
+årene er Tore alene-pappa med Simen. Senere kommer Astrid inn på kartet, via
+studiegrupper med SV, og de får Ole og Amund i 1979 og 1981. Tore liker Tromsø
+og fisken og havet og det hele, men med de små og med aldrende foreldre i Oslo,
+bærer det tilbake til UiO. Professoren må først finne seg i å bli dosent igjen, ved
+Sosialøkonomisk institutt, men blir på ny professor et par år senere.
+To arbeider bør nevnes, fra tiden rundt 1980, før dette demografiske spranget, fra
+Tromsø tilbake til Oslo. Det første er en viktig artikkel i Biometrika 1982, med Emil
+Spjøtvoll, om analyser av mange p-verdier på en gang. Tore mislikte det bestemte
+forskningsspor som lar seg avlese i mange matematisk orienterte artikler fra 1960- og
+1970-tallet, som kan forlede lesere til å tro at det viktigste en statistiker kan gjøre,
+er å konstruere verdens beste test for en gitt nullhypotese og så regne seg frem til
+den berømte p-verdien. Dette kommer frem i denne friske variant, fra Emil og Tore,
+der de foregriper det som nesten er en liten industri fra omtrent 1995 av, rundt False
+Discovery Rates i for eksempel statistisk genetikk, der titusenvis av hypoteser blir
+indirekte testet fra det samme datamaterialet. En klassisk artikkel av Benjamini
+og Hochberg (1995) med dette temaet har godt over hundre tusen siteringer – og
+grunnideene er i Schweder og Spjøtvoll (1982).
+Det andre er Tores store interesse for historie generelt og faghistorie spesielt. I et
+av flere arbeider skriver han konsist og informativt om fagets skandinaviske røtter
+og helter. I denne skriftige versjonen av minnetalen tar jeg meg tid og plass til å
+ramse opp disse helter: Carl Wilhelm Ludwig Charlier (1861–1934), Agner Kedrup
+Erlang (1878–1929), Jørgen Pedersen Gram (1850–1916), Anders Nicolai Kiær (1838–
+1919), Jarl Waldemar Lindeberg (1876–1932), Ernst Filip Oscar Lundberg (1876–
+1965), Ludvig Henrik Ferdidand Oppermann (1817–1883), Eilert Sundt (1817–1975),
+Thorvald Nicolai Thiele (1838–1910), Pehr Wilhelm Wargentis (1717–1783). Tores
+far Carl laget fagre tegninger av disse, som med konsise undertekster av Tore ble til
+fine plakater, brukt i en godt besøkt utstilling i Vilhelm Bjerknes-bygningen under
+European Meeting of Statisticians i 1978. I en annen artikkel stiller han det interessante spørsmålet, når begynte Skandinavia å sakke etter Storbritannia? Her lister
+han opp omtrent samme helterekke som over, men tar også med og marinbiologen og
+havforskeren Johan Hjort (1869–1948).
+I tillegg til det sosioøkonomiske faglige liv, i Tores nye stilling ved UiO, er han i økende
+
+11
+
+
+
+grad aktiv i andre fagfelt, der kompleks modellering og minst like kompleks analyse
+av data er sentralt, fra biologi og medisin til sosiologi og paleontologi. Hvalene melder
+ganske riktig sin tilbakekomst, med komplekse politiske og faglige komponenter. Ett
+av de brennende spørsmål, der det rådet forvirring i et kryssfelt av ulike interesser
+og politiske beslutninger, gjaldt bestanden av vågehval (Minke whale). Den Internasjonale Hvalfangstkommisjonen (IWC) bestemte i 1986 at vågehvalen var en «protection stock», med den følge at norsk hvalfangst ble stanset fra 1987, og med den
+videre sannsynlige konsekvens at dette moratorium ville vare i ti år. Samtidig var det
+en enorm invasjon av grønlandssel langs kysten av Finnmark, der 60 tusen dyr ble
+fanget i fiskeredskaper, med store økonomiske konsekvenser for kystbefolkningen. Alt
+dette, koblet med manglende kunnskap eller kompetanse, gjorde at Norges Fiskeriforskningsråd i 1988 nedsatte en planleggingsgruppe med Lars Walløe som formann,
+og som resulterte i Sjøpattedyrprogrammet. Dette ble gjennomført fra 1989 til 1993,
+med Walløe som leder og med støtte fra regjeringen Brundtland.
+Tore sier nå ja til å være det norske medlem i Vitenskapskomiteen av IWC, fra 1988.
+Der gjør han seg bemerket med større statistisk fagtyngde enn de fleste andre delegatene, og han unnlater ingenlunde å kritisere aspekter ved ulike rapporter. Det blir
+også bevilget midler til en større innsats ved Norsk Regnesentral, med Tore, som har
+en bistilling der, som leder. Prosjektet er stort og tungt, med flere statistikere på
+ulike delprosjekter og med mye programmering rundt svært ulike typer data. Gruppen publiserer rapporter, med matematikk og estimater og konfidensintervaller, og
+vågehvalbestanden er så stor som minst 80 tusen. Den politiske og praktiske konsekvens av dette er at bestanden erklæres som stor nok til å åpne for fangst igjen,
+innenfor beregnede kvoter.
+
+Vågehvalen (Minke whale): hvor mange er det av dem, er de tynnere enn før, og hvordan
+er deres økologiske samliv med resten av havet?
+
+Alle gjør feil, til og med statistikere. Tores gruppe gjør en såkalt midlertidig feil,
+underveis i det komplekse arbeidet som er å holde styr på diverse lange programkoder
+utført av ulike kolleger, der det altså kan oppstå feil ved at A ikke alltid har skjønt
+presist hva B har svart på. Det er såpass dramatisk som at de publiserte estimatene
+er klart for store. Dette blir kjent, statsministeren måtte orienteres, en periode er
+12
+
+
+
+det lov å vitse med «statistikeren som ganget med 2», det er gefundenes fressen for
+Greenpeace og andre, som proklamerer «Norwegian science exposed as a sham» i
+leserbrev i Nature. Tore må forklare seg for over hundre delegater, ved årsmøtet
+for Vitenskapskomiteen, legger alle kort på bordet, forklarer både om feilen og om
+oppdaterte beregninger, og tenker «nå er jeg dau». Men til forbauselse og lettelse
+skjønner han at forumet ikke har mistet den minste tillit til ham, hans standing vokser;
+han er visst den første i komiteens historie som har innrømmet en feil. Dessuten er
+de reviderte bestandsestimatene ikke langt unna det de hadde trodd før feilen ble
+oppdaget.
+Tore var alltid ivrig etter å både innrømme feil, forstå feil, og å lære av dem; et av
+hans mange foredrag het mer eller mindre «All My Blunders». Mange av våre feil er
+små og lar seg lett rette, men tidvis bærer det altså utfor i større dimensjoner, som
+med vågehvalene. NR legger nå ressurser i full og etterprøvbar kvalitetskontroll på
+parallell programmering, klarere numeriske prøver underveis, osv.
+Siden en minnetale er egnet til å peke på faglige karakteristika, så å si, skal jeg nevne
+to av Tores ganske mange faglige fanesaker. Det ene gjelder respekt for data; et
+datasett er ikke noe som magisk ankommer statistikerens computer, men noe som
+strevsomt er samlet sammen av de berømte folk ute i feltet. Man skulle selv «ta på
+data». Det å være på datafangst med hvalbåter lærte ham meget, for å lage bedre
+statistiske modeller enn de før ham. Det andre har stikkordet simulering. Når man
+skal måle metoder mot hverandre, og matematikken ikke straks gir klare formler og
+svar, skal man sette seg til med egnede og gjennomtenkte simuleringsstudier. Dette
+er blitt såpass vanlig, etter la oss år 2000, at det knapt er verd å nevne, men Tore var
+tidlig ute, også her, fra 1970-tallet.
+Tores virke har altså en imponerende bredde, både i mangfoldet av anvendelser –
+her ramser jeg opp arkeologi, biologi (på CEES med Stenseth), demografi, fiskeriforvaltning, genetikk, historie, legenes levekår (hvorfor har leger i mange land høyere
+suicid-rate enn andre med høy utdanning), medisin, paleonotologi (utvikling av marine
+alger over de siste 57 millioner år), samfunnsøkonomi, sosiologi, spørreundersøkelser
+(hvordan får man tusenvis av leger til å fylle ut svar på 16 skjemaer, når de bare orker
+å svare på 4), økologi – men uten å gi opp kjerneinteressen for det rent metodologiske.
+Hva er sannsynligheter; hvordan skal de tolkes og arbeides med; hvor sikre er våre
+konklusjoner; hvor meget skyves under et teppe når vi modellerer og analyserer; når
+er det kontraproduktivt å skape et innviklet rammeverk med for mange eksperter og
+for mye usikkerhet.
+Her er det ulike skoleretninger, og et bredt skille i metodestatistikken går mellom
+Bayesianere og frekventister. De sistnevnte, de klassiske, venter på at data skal gi
+dem svar om de ukjente parametere, mens de førstnevnte tør, og har maskineri for, å
+legge inn forhåndskunnskap, den være seg feilaktig eller synsete eller ekte. Tore var
+ikke bastant, men holdt mer med F enn med B, og mente at Bayesianerne av og til
+gjør det for lett for seg på avgjørende punkter i komplekse analyser. Det er kanskje
+blitt for vanlig at om B-statistikeren får kjørt data gjennom et komplekst program,
+algoritmene ikke kræsjer, og svarene ser rimelige ut, så er det riktig. Altså tillot Tore
+
+13
+
+
+
+seg noen faglige krangler, ved visse høve, og trivdes med dette; han mente at vår
+norske akademiske stil er for høflig og uforpliktende, vi går på seminarer, klapper, og
+går tilbake til kontorene. Han ville ha mer av den britiske stil, der man i større grad
+tillater seg uenigheter, man kritiserer sine kolleger, men i en gjensidig respekt. To av
+disse kranglene jeg kort skal peke på her, fordi de interessante og fordi de har vært
+vidtrekkende fruktbare for Tores og andres forskning, er som følger.
+Den første er fra en konferanse i 1995, der noen flinke amerikanske kolleger hadde
+lagt frem en generell metodikk for Bayesiansk syntese (Raftery et al.). Vanskeligheter
+oppstår når det er data fra ulike kilder der det er fysiske sammenhenger mellom parameterne i modellene; det faller utenfor det vanlige kartet. Denne Bayesianske syntese
+vekket først interesse og begeistring, og ble anvendt til kompleks bestandsestimering
+av grønlandshval (Bowhead whales). Men Tore oppdaget etterhvert at metoden har
+skjulte svakheter, og at den rett og slett kan gi ulike svar ved ulike parametriseringer,
+for samme modell og samme data. Dette ga langsomt støtet til det han kalte frekventistisk syntese, via konfidensfordelinger og impliserte likelihoods. Dette har krevet
+betydelig metodisk innsats å etablere, og har vært videreført av flere andre senere.
+
+Bayesianer eller frekventist? Inviterte foredragsholdere i en av de Bayesianske løvers
+huler, ved International Society for Bayesian Analysis, Sardinia, 2016, og der vi forklarer
+at de stundom kan ta feil. Vår Cambridge-agent Diana Gilloly selger «frekventistenes
+bibel».
+
+Den andre gjelder Christopher Sims, vinneren av Nobel-prisen i økonomi 2011. I sitt
+Nobel-foredrag i Stockholm viste han frem sin analyse av bærende makroøkonomiske
+spørsmål om mellomkrigstiden 1929–1940 i USA. Tore kunne vise, med de samme data
+og de samme modeller, at Sims’ Bayesianske analyse bar galt avsted. Den alternative
+frekventitiske analyse, med Tores konfidensfordelinger, var beviselig bedre, og avklarte
+samtidig hvor Sims’ feil lå; ikke i algoritmer eller metode eller matematikk, per se,
+men ved uheldig valgte prior-fordelinger for noen av modellens sentrale parametre.
+
+14
+
+
+
+I denne skriftige versjonen av minnetalen skal jeg anbringe meg selv og eget arbeid
+i et ekstra fotnote-avsnitt, siden det har med Tore å gjøre. Statistikere velger sine
+modeller, kanskje fra en lang liste mulige kandidater, og holder seg for dette blant
+annet med the Akaike Information Criterion AIC, the Bayesian Information Criterion
+BIC, the Covariance Information Criterion CIC, the Deviance Information Criterion
+DIC. I 2001–2002 arbeidet jeg med min belgiske kollega Gerda Claeskens, der vi greide
+å få orden på et større rammeverk for å analysere brede prosedyrer for inferens når
+man tar med mange modeller simultant. Vi forstod da at vi kunne høste en frukt
+av dette, et nytt informasjonskriterium, men hadde ikke helt konvergert mot dets
+endelige fasong, enn si et egnet navn. Tore hørte på et seminar jeg ga, skjønte straks
+det som heter hele tegningen, og foreslo at det burde jo hete FIC, for the Focused
+Information Criterion. Det var rett bokstav til rett tid, og det er en liten FIC-industri
+i en voksende litteratur – hvilke modeller som er best avhenger av de spissede spørsmål
+man helst vil ha presise svar på. Med midler fra Forskningsrådet ledet jeg prosjektet
+FocuStat: Focus Driven Statistical Inference with Complex Data (2014–2019), med en
+anselig mengde workshops og kitchens og conferences og stipendiater og gjester, alltid
+med Tore ivrig tilstede. Det gledet ham å stadig bli minnet på at F-en var hans.
+
+Inference with Confidence! En fokusert Tore, i en av mange workshops og kitchens og
+konferanser gjennom FocuStat-prosjektet, som har sin F fra ham.
+
+Vi bør ihukomme også Tores politiske engasjement, forankret i det som må hete venstresiden, når det gjaldt de større såvel som de mindre spørsmål i samfunnet. Han
+fulgte også ivrigere med på universitetspolitikk enn de fleste av oss. Naturligvis hadde
+han også overskudd til å se på sine venner og kolleger, statistikerne, utover dagens
+dont og bordkant. Oslo har gjennom årene bygget flere sterke miljøer med statistikk
+ombord, det være seg som hovedsak eller qua (nesten) likeverdige forskere i anvendte
+miljøer – ved siden av seksjoner ved Matematisk institutt har vi et digert miljø på
+det medisinske fakultet (OCBE, Oslo Centre for Biostatistics and Epidemiology), på
+15
+
+
+
+Økonomisk institutt, ved IFI, ved CEES på Biologisk institutt, ved Norsk Regnesentral, ved BI, osv. Tores djerve tanke, en gang på 1990-tallet, var at man kunne skipe
+til en helt annen struktur, noe à la Stanford med joint appointments, med et passende
+stort Institutt for Statistikk på midten, der de ansatte skulle ha sin kjernetid, men
+stadig være i disse mange andre anvendt miljøer. Dette ville styrke fagstatistikken,
+så å si både internt og eksternt, mente Tore; vi skulle bli enda flinkere, til topp internasjonal standard, også i de anvendte miljøer. En kveld trommet han sammen noen
+av oss – først skulle alle gå en runde i lysløypa, derpå av med anorakkene og en lang
+middag hos ham etterpå. Møtelyden forholdt seg positiv men litt for avventende, det
+var praktiske utfordringer med en såpass diger omstrukturering innen UiO, ikke alle
+fikk lyst til å endre premissene for egen arbeidsplass, osv. Så et Fisher Centre ble det
+ikke, men de toreske tankene lever i våre korridorer.
+Tore fortsatte å være aktiv etter fylte 70, både med praktiske prosjekter på Jomfruland
+og ellers, og med forskning. Vår 500-siders bok Confidence, Likelihood, Probability ble
+gitt ut på Cambridge i 2016, da han var 73, og vårt siste arbeid sammen ble publisert
+da han var 77.
+Aftenposten-nekrologen jeg var med på å skrive sier i sin overskrift at det brede
+statistiske fagmiljøet har mistet en bauta i Tore. Det er ord vi kan stå ved. I 2011
+var han mottager nr. to av Sverdrup-prisen, Norsk Statistisk Forenings høythengende
+ærespris. Samtidig aner jeg at Tore bak sin sky ville ment at ordet ikke er det faglig
+sett optimale. En bauta er høy og mørk og stillestående og uangripelig, mens Tore
+kunne være nær sagt det motsatte. Han var alltid nysgjerrig og sosial, likte de små
+og klargjørende krangler med de store og de små, og kunne ta en kaffe med hvem som
+helst. Også derfor vil han bli husket og savnet. I denne ånd fraviker jeg kutymen en
+smule, og lyser fred, men også litt fruktbar vennligsinnet krangel, over Tores minne.
+Referanser
+Benjamini, Yoav og Hochberg, Yosef 1995. Controlling the False Discovery Rate: A practical and
+powerful approach to multiple testing. Journal of the Royal Statistical Society. Series B, 57, 289–300.
+Claeskens, Gerda and Hjort, Nils Lid 2003: The focused information criterion. Journal of the
+American Statistical Association (with discussion), 98, 900–916.
+Cunen, Céline og Hjort, Nils Lid 2018. Whales, Politics, and Statisticians. The FocuStat Blog.
+Cunen, Céline, Hjort, Nils Lid, og Schweder, Tore 2020. Confidence in Confidence Distributions!
+Proceedings of the Royal Society, Series A.
+Eichler, Michael og Didelez, Vanessa 2010. On Granger causality and the effect of interventions in
+time series. Lifetime Data Analysis, 16, 3–32.
+Givens, Geof H., Zeh, Judith E., and Raftery, Adrian E. 1994. Assessment of the Bering-ChukchiBeaufort Seas stock of bowhead whales using the BALEEN II model in a Bayesian synthesis framework. Reports of the International Whaling Commission, 46, 345–364.
+Granger, Clive WJ 1969. Investigating causal relations by econometric models and cross-spectral
+methods. Econometrica, 37, 424–438.
+Hjort, Nils Lid, Moene, Kalle, Walløe, Lars og Aalen, Odd Olai 2024. Nekrolog: Det brede statistiske
+fagmiljøet har mistet en bauta i Tore Schweder. Aftenposten 26. mai.
+
+16
+
+
+
+Hjort, Nils Lid og Schweder, Tore 2018. Confidence distributions and related themes. General
+introduction article to a Special Issue of the Journal of Statistical Planning and Inference dedicated
+to this topic, with eleven articles, med Hjort og Schweder som gjesteredaktører; Journal of Statistical
+Planning and Inference, 195, 1–13.
+Raftery, Adrian and Zeh, Judith 1998. Estimating Bowhead whale population size and rate of
+increase from the 1993 census. Journal of the American Statistical Association, 93, 451–463.
+Raftery, Adrian, Givens, G.H. og Zeh, Judith 1995. Inference from a deterministic population dynamics model for bowhead whales. With discussion. Journal of the American Statistical Association,
+90, 402–430.
+Reitan, Trond, Schweder, Tore, og Henderiks, Jorijtnje 2012. Phenotype evolution studied by layered
+stochastic differential equations. Annals of Applied Statistics, 6, 1531–1551.
+Schweder, Tore 1970. Composable Markov processes. Journal of Applied Probability, 7, 400–410.
+Schweder, Tore 1978. Scandinavian statistics, some early lines of development. Scandinavian Journal
+of Statistics, 7, 113–129.
+Schweder, Tore 1999. Early statistics in the Nordic countries – when did the Scandinavians slip
+behind the British? Bulletin of the International Statistical Institute.
+Schweder, Tore 2000. Distortion of uncertainty in science: Antarctic fin whales in the 1950s. Journal
+of International Wildlife Law & Policy, 3, 73–92.
+Schweder, Tore 2001. Protecting whales by distorting uncertainty: non-precautionary mismanagement? Fisheries Research, 52, 217–225.
+Schweder, Tore 2017. Bayesian Analysis: Always and Everywhere? The FocuStat Blog.
+Schweder, Tore og Hjort, Nils Lid 1996. Bayesian synthesis or likelihood synthesis: What does
+Borel’s paradox say? Statistical Research Report, Department of Mathematics, University of Oslo.
+Schweder, Tore and Hjort, Nils Lid 1997. Indirect and direct likelihoods and their synthesis – with
+an application to Minke whale dynamics. Statistical Research Report, Department of Mathematics,
+University of Oslo.
+Schweder, Tore og Hjort, Nils Lid 1999. Frequentist analogues of priors and posteriors. Econometrics
+and the Philosophy of Economics (red. Bernt Stigum), Ch. 13.
+Schweder, Tore og Hjort, Nils Lid 2002. Confidence and likelihood. Scandinavian Journal of Statistics, 29, 309-322.
+Schweder, Tore og Hjort, Nils Lid 2016. Confidence, Likelihood, Probabiity. Cambridge University
+Press.
+Schweder, Tore og Spjøtvoll, Emil (1982). Plots of p-values to evaluate many tests simultaneously.
+Biometrika, 69, 493–502.
+Seierstad, Atle, Seierstad, Steinar, Schweder, Tore, og Strøm, Steinar 1970. Norge og den internasjonale storkapitalen. Oslo, PAX forlag.
+Aasland, Olaf Gjerløw, Olff, Miranda, Falkum, Erik, Schweder, Tore, og Ursin, Holger 1997. Health
+complaints and job stress in Norwegian physicians: The use of an overlapping questionnaire design.
+Social Science & Medicine, 45, 1615–1629.
+Aaland, Olaf Gjerløw, Ekeberg, Øvind og Schweder, Tore 2001. Suicide rates from 1960 to 1989
+in Norwegian physicians compared with other educational groups. Social Science & Medicine, 52,
+259–265.
+
+17
+
+
+
+Takk for alt, Mette
+
+Mette Langaas (18.6.1967–12.1.2025)
+Det var med stor sorg vi mottok meldingen om at Mette hadde gått bort.
+Etter å ha vært syk og under behandling fra februar 2024, så hun i november frem til å starte på jobb i redusert
+stilling. Hun var i full gang med å forberede forelesninger for våren 2025 da
+det ble oppdaget en alvorlig forverring
+av tilstanden. Og natt til søndag 12.
+januar måtte Mette altså gi opp livet.
+
+Foto: Kai Dragland
+
+Foto: Kai Dragland
+
+Mette startet sine studier ved det daværende NTH i 1986 og ble uteksaminert i 1991 som sivilingeniør fra linjen
+for fysikk og matematikk, med spesialisering i statistikk ved studieretningen
+for industriell matematikk. Hun startet
+deretter på doktorgradsstudier i statistikk og fullførte dr.ing.-graden, som det
+het den gang, i 1995. Avhandlingen
+dreide seg om statistiske metoder for
+klassifikasjon og diskriminasjon.
+
+Etter dette var Mette forsker ved Norsk Regnesentral i Oslo, til hun i 2002 ble ansatt
+ved NTNU – først som postdoktor ved Institutt for matematiske fag og deretter som
+førsteamanuensis i statistikk samme sted. Etter et år som førsteamanuensis i medisinsk
+statistikk ved Institutt for molekylær medisin og kreftforskning, var hun fra 2010 til sin
+død førsteamanuensis, og etter hvert professor, i statistikk ved Institutt for matematiske
+fag. Hun hadde også en professor II-stilling ved Norsk Regnesentral.
+Mettes forskningsfelt var hovedsakelig innenfor biostatistikk og medisinsk statistikk. Hun
+arbeidet spesielt med statistisk modellering og analyse av genomiske data, så vel fra et
+teoretisk som et anvendt ståsted. Mette var blant de første som forsto at det trengtes
+avanserte statistiske metoder da storskala genomiske data ble en realitet, og hennes mange
+bidrag løftet norsk genomisk forskning til et internasjonalt nivå.
+I forskningssamarbeid hadde Mette en uvanlig stor evne til å motivere og være pådriver.
+Hun var faglig nysgjerrig og fremsynt, hadde stor oversikt over nyere forskning i statistikk
+og mange idéer til forskningstemaer. Hun hadde en egen evne til å vite hva andre kunne
+bidra med og ikke, slik at faglige diskusjoner gav resultater. Mette var ikke redd for å
+foreslå å utvikle nye metoder basert på teori som ingen i forskningsgruppen kjente til fra
+før, som «produkt-type-approksimasjoner» eller «dobbel sadelpunkt-approksimasjon», og
+til alles overraskelse førte dette frem.
+
+18
+
+
+
+Hun var hovedveileder for fire doktorgradsstudenter i statistikk, med ulike temaer knyttet til biologiske og teoretiske problemstillinger, og hun var biveileder for ytterligere ni
+doktorgradsstudenter. Mette var en unik og kunnskapsrik veileder med et stort engasjement, og det virket å falle henne naturlig å løfte andre opp og frem. Hennes store kontaktnettverk kom også studentene til gode, og de fikk også delta i tverrfaglige prosjekter.
+Doktorgradsstudentene hennes minnes en engasjert, strukturert og omsorgsfull veileder,
+som fortsatte å være en inspirator og samarbeidspartner i ettertid.
+Mette var involvert i et stort antall tverrfaglige forskningsprosjekter, der hun var ansvarlig
+for statistisk modellering og dataanalyse. Hun var svært god til å knytte kontakter og
+nettverket hennes involverte forskere fra flere institutter og institusjoner. I 2004–2007
+ledet hun det tverrfaglige NTNU-prosjektet BIOEMIT, og i perioden 2013–2023 satt hun
+i styret for den nasjonale forskerskolen i bioinformatikk, biostatistikk og systembiologi
+(NORBIS), som styreleder 2017–2020.
+Mette hadde to lengre forskningsopphold i Australia – ved Walter and Eliza Hall Institute for Medical
+Research, Melbourne, i 2008/09, og ved Centre for
+the Genetics Origins of Health and Disease, University of Western Australia, Perth, i 2014/15. I studieåret 2019/20 hadde hun forskningstermin ved Universitetet i Oslo og Norsk Regnesentral. I 2024 ble
+hun opptatt som medlem i gruppen for matematikk
+Foto: ML
+Aviation
+Museum
+of
+Western
+Australia
+av Det Kongelige Norske Videnskabers Selskab.
+
+Smia
+
+(foto: Kai Dragland, 2017)
+
+Undervisning lå Mettes hjerte nært og hun var en engasjerende og populær foreleser. I 2017 fikk hun utmerkelsen «årets lærer» og i 2018 ble Mette velfortjent utnevnt
+som merittert underviser ved NTNU. Hun var en foregangsperson i bruk av nye og utradisjonelle undervisningsmetoder og tekniske hjelpemidler. Mette ledet blant annet
+det innovative undervisningsprosjektet KTDiM ved instituttet, og var tett involvert i Fremtidens teknologistudier
+ved NTNU. I 2023 gjorde hun en stor innsats i utarbeidelsen
+av en rapport om kunstig intelligens innen utdanning ved
+IE-fakultetet ved NTNU. Som følge av dette ble hun invitert til flere fakulteter for å holde innlegg.
+
+Foto: Kai Dragland
+
+Mette tok også initiativ til flere nye kurs, blant annet et
+populært kurs i statistisk læring (maskinlæring). Gjennom
+hele sin tid ved instituttet gjorde hun en enormt stor og
+samvittighetsfull undervisningsinnsats i kurs på alle nivåer.
+Hun lærte seg gjerne navnene til alle studentene i kurs hun
+underviste. Hun tiltrakk seg dessuten et stort antall masterstudenter, og hun veiledet rundt 40 masteroppgaver. Blant
+
+19
+
+
+
+studentene var det godt kjent at Mette la ned svært mye tid i veiledningen, og at den ble
+gjort med stor faglig tyngde og omsorg for studenten.
+Mette bidro også i høyeste grad i instituttets administrasjon. Da hun ble sykmeldt i
+februar 2024, var hun nestleder for utdanning ved instituttet. Før dette var hun leder for
+statistikkgruppen ved instituttet. Hun deltok dessuten i en lang rekke komiteer og utvalg
+ved NTNU. Mette var ikke den som sa nei når hun ble forespurt om ulike verv.
+Mette var en sann miljøskaper gjennom hele sin tid som student og senere som ansatt ved
+instituttet. Mette var en gledesspreder, et friskt pust og en fornyer. Den oppfinnsomme og
+modige Mette tok utallige initiativer, både faglig og sosialt.
+Hun var aldri redd for å yte en
+ekstra innsats. Dette har både
+studenter og ansatte ved instituttet hatt stor glede av.
+En av Mettes mange kreative
+hobbyer var quilting. I forbindelse med «Høylands dag» i 1994,
+der statistikkgruppens nestorer
+Liv og Arnljot Høyland ble feiret, laget doktorgradsstudenten
+Mette en fremragende billedmontasje i quilt med motiv fra
+statistikkgruppens daglige virke.
+Denne ble sist vist frem under
+feiringen av «50 år med statistikk i Trondheim» i 2015. Dette
+er bare ett eksempel på Mettes store energi, overskudd og
+skapertrang. Hun gav alltid mer
+Veggteppet Høylands dag
+enn man kunne vente.
+
+Foto: ML
+
+For alle oss som kjente Mette vil det knyttes et umåtelig savn og sorg til hennes altfor
+tidlige bortgang. Men for alltid vil det være de mange gode minner vi vil bringe med
+oss videre. Vi er alle takknemlige for tiden vi fikk med Mette som en kjær kollega og
+venn som alltid stilte opp, for små eller store begivenheter, og som alltid slapp oss inn
+på kontoret for både formelle og uformelle samtaler.
+Våre tanker går til samboer Sverre, barn, barnebarn, foreldre, søster og svoger og den
+øvrige familien.
+Vi lyser fred over Mettes minne.
+Øyvind Bakke, Thea Bjørnland, Ingrid K. Glad, Clara-Cecilie Günther, Bo Lindqvist
+
+20
+
+
+
+tankenøtter
+
+21
+
+
+
+Pusleri nr. 62
+En spurv har seks sultne unger i si rede (n=6). Hver tur for å hente mat gir en porsjon mat l
+kun en unge, som disse må kjempe om. Det kan derfor godt hende at en eller ere unger
+ikke får en eneste porsjon, selv om spurven foretar mer enn seks turer (m>6). Anta (det lite
+trolige) at spurven ikke evner å fordele maten e er behov, og at ungene forblir like glupske,
+selv om de allerede har få en eller ere porsjoner mat.
+Hva er sannsynligheten for at alle har få minst en porsjon mat e er m=9 turer?
+Hvor mange turer trengs for å være minst 95% sikker på at alle har få minst en porsjon
+mat?
+Løsning l
+jostein.lillestol@nhh.no
+
+Red. anm.: Til glede for alle puslere, har Jostein har samlet de e og alle dligere TG-pusleri på sine
+ne sider: www.nhh.no/en/employees/faculty/jostein-kare-lillestol/#tab117184
+
+22
+
+
+
+Pusleri nr. 61 (løsning)
+Oppgaven var: På din arbeidsplass er det kun et toale . Om det er ledig eller oppta skal
+markeres med et skyveskilt på utsiden av døren, der hver bruker ved ankomst skyver l
+Oppta (O) og ved utgang skyver lbake l Ledig (L). Imidler d er det mange som ikke følger
+den pålagte ru nen. Anta at bare 1/3 av brukerne gjør det, mens 1/3 markerer Oppta , men
+glemmer å skyve lbake l Ledig e er bruk. Den siste 1/3 bryr seg ikke om skiltet i det hele
+ta , og lar det stå urørt. Endelig anta at toale et i virkeligheten er oppta ½-parten av den.
+Hva er sannsynligheten, gi at dørskiltet viser Oppta , for at toale et virkelig er oppta ?
+Hva er sannsynligheten, gi at dørskiltet viser Ledig, for at toale et virkelig er ledig?
+Løsning 1:
+Denne gang er innkommet løsningsforslag avfotografert fra tavlen i å ende etasje i Abels Hus
+ved UiO. De ansvarlige er Camilla Lingjærde, Christo er Lingjærde og Luca Cibinel.
+
+Kommentar (JL): En u ordring for løsningen er om « y- y» for Ledig versus Oppta gjelder ikke
+bare ube nget (slik det er gi i oppgaven), men også be nget på personlighetstypen l den ankomne
+trengende.
+Løsningen på tavlen er lsynelatende basert på slik (ikke urimelig) uavhengighet, kombinert med
+etablering av (ikke urimelige) likevekter mellom be ngede sannsynligheter. De e er mulig fordi det
+er like mange personer av hver type. Dersom det ikke er lfelle, ligger Simpson’s paradoks på lur, og
+man er nødt l å grave dypere, og bringer inn persontypen l foregående brukere. En generell løsning
+kun basert på den ube ngede antakelse følger som Løsning 3. Først kommer en enkel løsning med
+den sterke antakelsen om at « y- y» gjelder be nget for hver persontype, og derfor også gjelder
+ube nget.
+
+Løsning 2:
+Brukertypene: A=Følger skiltru nen, B=Følger skiltru nen ved inngang, men glemmer den ved
+utgang, C=Ignorerer skiltru nen.
+De ner følgende begivenheter:
+L = Ledig toale , O = Oppta toale , SL = Skilt vise ledig, SO = Skilt viser oppta .
+23
+
+
+
+La A, B, C som begivenheter bety at person av gi type er bruker/siste bruker av toale et.
+Vi kan representere begivenhetene i et diagram med to kolonner, der den venstre representerer
+skiltets markering når toale et er oppta med person av gi type, og den høyre kolonnen skiltets
+markering e er at denne personen har forla toale et. De ulike anta e sannsynligheter er
+representert med arealer. Vi ser at person A og B begge har Oppta -skiltet på når de er inne (rødt),
+og at A slår over l Ledig ved utgang (grønt), mens B ikke gjør det (fortsa rødt). For C gjelder at
+skiltet kan vise Oppta (rødt) eller Ledig (grønt) ved ankomst, og det forblir slik også e er at C har
+forla toale et.
+
+O
+
+L
+
+A
+
+SO
+
+SL
+
+B
+
+SO
+
+SO
+
+C
+
+SO
+
+SL
+
+SO
+
+SL
+
+I guren samsvarer arealene med forutsetningene: P(O)=P(L)=1/2 og P(A)=P(B)=P(C)=1/3.
+Her er også anta at de to mulighetene som C møter er like sannsynlige, og forblir slik. Med disse
+antakelsene kan vi betrakt det indre av guren som et rektangel med areal 1, sammensa av 12 like
+store rektangler, hver med areal 1/12. Ube ngede sannsynligheter gis da som arealer, og be ngede
+sannsynligheter som forhold mellom arealer. Med de e er beregningen redusert l opptelling av
+antall 1/12-rektangler. Vi får
+Ube ngede sannsynligheter: P(SO)=8/12=2/3, P(SL)=4/12=1/3.
+Be ngede sannsynligheter: P(SO |O)=5/6, P(SL|L)=3/6, P(O|SO)= 5/8, P(L| SL )=3/4
+
+Løsning 3:
+Antakelsen om lik sannsynlighet for de to situasjonene et C-individ står overfor kan synes ad hoc. Vi
+vil her gi en generell formalisering av problemet, noe som krever en dypere forståelse av situasjonen.
+Gi at dørskiltet viser Oppta , har vi re gjensidig utelukkende situasjoner:
+1. Toale et er oppta av en A-bruker
+2. Toale et er oppta av en B-bruker
+3. Toale et er oppta av en C-bruker, og siste ikke-C bruker før denne var B-bruker.
+4. Toale et er ledig, og den siste ikke-C bruker forut var en B-bruker.
+Gi at dørskiltet viser Ledig, har vi to gjensidig utelukkende situasjoner:
+5. Toale et er ledig, med følge av at den siste ikke-C bruker må ha vært en A-bruker
+6. Toale et er oppta med en C-bruker, og siste ikke-C bruker forut var A-bruker.
+Man kan også re ektere over om rekkefølgen av de besøkendes type, regelmessig eller lfeldig,
+spiller noen rolle. Vil regelmessighet være annerledes enn lfeldighet?
+
+24
+
+
+
+Med den forståelsen som pkt. 1-6 gir oss, har vi ere muligheter for analyse. En mulighet er
+beregning via be nging og bruk av Bayes’ formel
+
+P(O | SO) =
+
+P(O) ∙ P(SO | O)
+P(SO)
+
+En annen mulighet er å beskrive situasjonen som en Markovkjede med seks lstander, der vi kan lese
+ut svar via de stasjonære sannsynlighetene.
+For begge metoder gjelder at vi like godt kan betrakte den mer generelle formulering der
+P(O) = h , P(L) = 1 − h og P(A) = p , P(B) = q, P(C ) = r , med p + q + r = 1.
+Her følger beregning ved be nging. Vi får ved å be nge mhp. (den siste) besøkendes type
+
+P(SO | O)
+
+=
+
+P(A) ∙ P(SO O ∩ A) + P(B) ∙ P(SO O ∩ B) + P(C ) ∙ P(SO | O ∩ C )
+
+=
+
+p ∙1+q ∙1+r ∙ p+q
+
+q
+
+Forklaring: Gi at toale et virkelig er oppta (O), har vi tre muligheter: Oppta med A, B eller C. I de
+to første lfellene vil skiltet vise oppta (SO) med sannsynlighet 1. I det siste lfellet (C) viser skiltet
+oppta (SO) bare dersom den nærmeste foregående ikke-C besøkende var B-person (altså 3), og
+sannsynligheten for det er q /( p + q). Videre får vi
+
+P(SO | L)
+
+=
+
+P(A) ∙ P(SO L ∩ A) + P(B) ∙ P(SO L ∩ B) + P(C ) ∙ P(SO | L ∩ C )
+
+=
+
+p ∙ 0+q ∙1+r ∙ p+q
+
+q
+
+Forklaring: Gi at toale et virkelig er ledig (L), har vi tre muligheter: Ledig og ne opp forla av
+persontype A, B eller C. I det første lfellet (A) vil skiltet vise oppta (SO) med sannsynlighet 0, og i
+det andre (B) vise oppta med sannsynlighet 1. I det siste lfellet (C) viser skiltet oppta (SO) bare
+dersom den nærmeste foregående ikke-C besøkende var B-person (altså 4), og sannsynligheten for
+det er også q /( p + q).
+Av de e følger
+
+P(SO)
+
+=
+
+P(O) ∙ P(SO O) + P(L) ∙ P(SO L)
+
+=
+
+h ∙ (p + q + r ∙ p + q ) + (1 − h) ∙ (q + r ∙ p + q )
+
+=
+
+h ∙p +q +r ∙ p+q
+
+q
+
+q
+
+q
+
+Bayes’ formel gir da
+
+P(O | SO) =
+
+P(O) ∙ P(SO | O)
+P(SO)
+
+h ∙ (p + q + r ∙ p + q )
+q
+
+=
+
+q
+
+h ∙p +q +r ∙ p+q
+
+Tilsvarende får vi med henvisning l 5 og 6:
+25
+
+
+
+P(SL | L)
+
+P(SL | O)
+
+=
+
+P(A) ∙ P(SL L ∩ A) + P(B) ∙ P(SL L ∩ B) + P(C ) ∙ P(SL | L ∩ C )
+
+=
+
+p ∙1+q ∙ 0+r ∙ p+q
+
+=
+
+P(A) ∙ P(SL O ∩ A) + P(B) ∙ P(SL O ∩ B) + P(C ) ∙ P(SL | O ∩ C )
+
+=
+
+p ∙ 0+q ∙ 0+r ∙ p+q
+
+p
+
+p
+
+P(SL)
+
+=
+
+P(O) ∙ P(SL O) + P(L) ∙ P(SL L)
+
+=
+
+h ∙ r ∙ p + q + (1 − h) ∙ ( p + r ∙ p + q )
+
+=
+
+(1 − h) ∙ p + r ∙ p + q
+
+P(L | SL)
+
+=
+
+p
+
+p
+
+p
+
+Bayes’ formel gir da
+
+=
+=
+
+P(L) ∙ P(SL | L)
+P(SL)
+
+(1 − h) ∙ (p + r ∙ p + q )
+p
+
+p
+
+(1 − h) ∙ p + r ∙ p + q
+p
+
+(1 − h) ∙ p + q
+p
+p + q − hp
+
+For lfellet h=1/2 og p=q=r=1/3, får vi
+
+Sannsynlighet
+
+P(SO )
+
+P(SO | O)
+
+P(O | SO )
+
+P(SL )
+
+P(SL | L)
+
+P(L | SL )
+
+Løsning
+
+2/3
+
+5/6
+
+5/8
+
+1/6
+
+1/2
+
+3/4
+
+%
+
+66%
+
+83%
+
+63%
+
+33%
+
+50%
+
+75%
+
+Vi ser at de e samsvarer med den naive løsningen som vi hentet ut fra guren. Resultatet samsvarer
+også med den nevnte alterna ve løsning, der situasjonen beskrives som en Markovkjede.
+I diskusjonsfora på ne et ns påstand om at denne løsningen er feil, da den ikke tar ( lstrekkelig)
+høyde for sekvenser av e erfølgende C-personer. Forslag l «rik g» løsning gis, som innebærer
+P(SO ) = 3/4. En slik løsning lar seg representere i guren ved å endre fargen på halvparten av hver
+av de to grønne feltene for type-C fra grønt l rødt. Argumentasjonen er imidler d mys sk, og
+forutse er en uendelig sekvens av C-individer.
+La oss gå lbake l spørsmålet om den rolle rekkefølgen av ankomster kan spille. De e gjøres her ved
+å betrakte to diametralt motsa e ankomstsituasjoner:
+
+26
+
+
+
+1. Systema sk ankomst med seks mulige sykliske mønstre ABC, ACB, BCA, BAC, CAB, CBA. For å
+få med mellomperiodene med ledighet halve den, skytes inn L, slik at mønstrene er av
+typen ALBLCL, ALCLBL osv. med like stor sannsynlighet 1/6.
+2. Tilfeldig ankomst, der hver ankomst har tre muligheter A, B eller C, med lik sannsynlighet og
+uavhengighet. For å få med mellomperiodene utvides u allsrommet fra {A, B, C,} l {A, B, C,
+L, L, L}, der hvert element har samme sannsynlighet 1/6.
+Den første modellen gir oss et rent opptellingsproblem for hvert av de seks mønstre. Mønstrene er i
+to grupper M1={ABC, BCA, CAB} og M2 ={ACB, CBA, BAC}. Mønstre fra M1 gir oppta skilt (SO) i alle tre
+typers besøks d, mens mønstre fra M2 gir feilak g ledig (L) når C er inne. Vektet med 1/6
+sannsynligheter gir de sannsynligheter vi fant med vår be ngede analyse ovenfor. Merk at vi godt kan
+utvide modellen l å veksle mellom mønstre i samme gruppe, og også skyte inn de tre L-ene
+systema sk eller lfeldig, uten at det gjør noe for resultatet.
+I den andre modellen har vi gjort det mulig at ere av samme persontype kommer på rad, og at også
+omfanget av ledigperioder varierer over d, men likevel i samsvar med de gi e opplysninger. Denne
+modellen krever simulering, og de e har (noe uventet) også gi resultat som er forenlig med våre
+sannsynlighetsberegninger.
+Merknader. Begge modeller krever en startkonvensjon for lfellet at første besøkende er en C-person.
+For den første modellen utvides syklusen et trinn bakover, slik at en av de to syklene har en
+forutgående A, den andre en forutgående B. For den andre modellen kan en trekke lodd. For
+programmeringen er eneste u ordring at man e er hver forekomst av C og L, må lete lbake og nne
+ut om den siste ikke-C /ikke-L var en A-bruker eller en B-bruker.
+Jostein.lillestol@nhh.no
+
+27
+
+
+
+28
+
+
+
+møter og konferanser
+Årsmøte i NSF avd. OSLO
+Årsmøte i NSF avd. Oslo ble avholdt på Norsk regnesentral torsdag
+22. mai. På menyen sto pizza, sushi og redegjørelser om avdelingens
+aktiviteter og økonomi året som gikk. Dessuten ble følgende styre valgt
+for de neste to årene:
+– Leder: Clara Bertinelli Salucci, UiO
+– Kasserer: Lars Henry Berge Olsen, NR
+– Sekretær: Simon Lergenmuller, Folkehelseinstituttet
+– Nettsideansvarlig: Zhi Zhao, UIO
+– Styremedlem: Marthe Elisabeth Aastveit, UiO
+– Styremedlem: Vera Haugen Kvisgaard, UiO
+Møtets fremste lokkemiddel var Riccardo de Bins foredrag
+«Statistical modelling using gradient boosting algorithms: applications
+across diverse fields». I skjorte og med rykende fersk professor-tittel,
+begge kledelige, fortalte han begeistret om gradient boosting som en
+høyst fleksibel tilnærming for å tilpasse ulike statistiske modeller i
+forsøk på å løse mange av verdens problemer, eksemplifisert med
+prediksjon av levetiden til batterier, tilstanden på rullebaner og analyse
+av kjemiske strukturer.
+
+29
+
+
+
+meldinger
+Nytt fra Universitetet i Tromsø
+Nye PhD-grader
+– Åse Mari Moe: Associations between dietary patterns and
+risk factors for cardiovascular disease. The seventh Tromsø
+study. Bedømmelseskomite: Thea Bjørnland (NTNU), Anna
+Sofia Veyhe (University of Faroe Islands) og Trygve Johnsen
+(UiT). Veiledere: Elinor Ytterstad, Sigrunn Holbek Sørbye, Ola
+Løvsletten og Laila Hopstock.
+
+Nytt fra Oslo senter for biostatistikk og epidemiologi
+(OCBE)
+Nyansatte
+– Førsteamanuensis: Alvaro Köhn-Luque (20%)
+– Forsker (i prosjekt): Anna Pöntinen, Tommi Mäklin, Rune Hoff
+(20%), Matias Janvin (20%)
+– Postdoc: Simon Christoffer Ziersen
+
+Nye PhD-grader
+– Torunn Heggland. «Enhancing the understanding of key
+mammography screening outcomes using statistical modelling
+and Norwegian data.» Bedømmelseskomité: Professor Stephen
+W. Duffy, Queen Mary University of London; Professor Emeritus
+Lars Holmberg, King’s College London, UK and Uppsala
+University, Sweden; Professor Vessela Nedelcheva Kristensen,
+UiO. Hovedveileder: Seniorforsker Harald Weedon-Fekjær,
+OCBE, Oslo Universitetssykehus. Medveiledere: Professor
+emeritus Lars J. Vatten, NTNU; Førsteamanuensis Signe Opdahl,
+NTNU; Professor Kjetil Røysland, OCBE, UiO.
+– Sara Nafisi. «Drug repurposing: new options for prevention and
+treatment of colorectal cancer.» Bedømmelseskomité: Professor
+Jesper Hallas, University of Southern Denmark, Professor Eva
+Skovlund, Norwegian University of Science and Technology,
+Associate Professor Cecilie Dahl, UiO. Hovedveileder:
+Seniorforsker Edoardo Botteri, Kreftregisteret. Medveiledere:
+Forsker Nathalie C Støer, Kreftregisteret; Professor Marit B.
+Veierød, OCBE, UiO.
+– Even Moa Myklebust. «Statistical modeling of cell
+population dynamics for personalized cancer medicine.»
+Bedømmelseskomité: Professor Zohar Yakhini, Reichman
+30
+
+
+
+University; Group Leader Paul Kirk, University of
+Cambridge; Associate professor Helene Knævelsrud, UiO.
+Hovedveileder: Seniorforsker Alvaro Köhn-Luque, OCBE, Oslo
+Universitetssykehus. Medveileder: Professor Arnoldo Frigessi,
+OCBE, UiO.
+– Haifeng Xu. «Prediction of clinical outcomes for
+precision oncology using multi-omics data and machine
+learning.» Bedømmelseskomité: Research Director Leena
+Latonen, University of Eastern Finland; Professor Inge Jonassen,
+University of Bergen; Assistant Centre Director and Group
+Leader, Anthony Mathelier, UiO. Hovedveileder: Professor
+Tero Aittokallio, OCBE, UiO/Oslo Universitetessykehus.
+Medveiledere: Professor Therese Sørlie, UiO/Oslo
+Universitetssykehus; Professor Arnoldo Frigessi, OCBE, UiO.
+
+31
+
+
+

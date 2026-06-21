@@ -1,0 +1,1483 @@
+ISSN 0803-8953
+TILFELDIG GANG
+Nr. 2, årgang 11
+
+Juni 1994
+
+. Utgitt av Norsk Statistisk Forening
+
+INNHOLD
+
+Fra redaktøren. Inge Helland
+Fra formannen. Eivind Damsleth
+Siden sist
+
+Nekrolog over Erling Sverdrup. Ørnulf Borgan og Arnljot Høyland
+
+Erling Sverdrup - Portrait of a Pioneer in Actuarial and Statistical Science in
+Norway. Ragnar Norberg (1989)
+
+Faglig stoff
+
+Mer paradox. Erik Mønness
+Improving the odds on justice? New Scientist, April 1994
+
+Bokanmeldelse: Natvig og Nordseth: Sannsynlighetsregning. Inge Helland
+Konferanse
+
+3. Spruce conference. Merida, Yucatan, Mexico
+Meldinger
+
+Nytt fra Universitetet i Oslo
+Nytt fra Universitetet i Bergen
+
+Nytt fra gruppe for statistikk, NTH
+
+Høylands dag. Statistisk forening Trondheim.
+Medlemskap i Norsk Statistisk Forening
+Bidrag til TG
+
+
+
+
+
+Fra redaktøren
+
+Forrige nummer av TG var nettopp gått i trykken da meldingen om Erling Sverdrup's
+
+bortgang kom. Med dette er grunnleggeren av det norske matematisk statistiske miljøet
+borte. Det jeg sa i forrige leder fikk med dette dobbelt vekt: Nå er vår generasjon nødt
+til å overta hele ansvaret.
+
+Vi overtar i en verden som ikke er blitt lettere, heller ikke for statistikere. Et spesielt
+
+problem for oss i dag er den utfordringen som ligger i forhold til andre miljøer som
+også driver dataanalyse og metodeutvikling. Nevral nettverk-miljøet har tidligere vært
+diskutert i TG av Knut Liestøl (desember 1992). Det som gjøres innenfor dette miljøet,
+er formulert på en for oss uvant måte ut fra noder og forbindelser mellom noder, men i
+virkeligheten arbeider de med metoder som konkurrerer med regresjon, diskriminantanalyse, klusteranalyse osv.. Spesielt interessant er språkbruken: De snakker om
+læring" der vi snakker om 'estimering', om 'pruning', som inneholder det vi kaller
+'variabelutvelgelse' i multippel regresjon, osv.
+
+En del av de beste innenfor dette feltet er opptatt av kontakt med statistikere. Ordet
+
+'generalisering' er kommet mer i forgrunnen innenfor nevrale nett, og det dekker mye
+av det samme som vi tenker på når vi ser på forholdet mellom populasjon og utvalg.
+Bayesansk tankegang har vært lansert innenfor nevrale nett for å regulere antall noder.
+Og så videre. Men fremdeles dreier det seg for en stor del om disjunkte verdener.
+Lignende nesten vanntette skott mot statistikken finner en også mot andre dataanalysemiljøer, for eksempel til en viss grad hos kjemometrikerne. En meget dyktig forsker
+
+jeg snakket med forleden, spesialist på analyse av matvarer, drev daglig med PLSregresjon i forskjellige varianter, men hadde aldri hørt om vanlig multippel regresjon.
+
+Kanskje er det riktig at vi bør prise mangfoldet. Men for bevisste brukere av metoder
+
+må situasjonen være meget forvirrende: Er det tilfredsstillende at mitt valg av metode til
+å analysere mine konkrete data skal avhenge i så sterk grad av hvilken skole jeg har lært
+metodikk fra? Selvfølgelig kan det sies at en intelligent bruk av metoder alltid vil føre
+til fornuftige konklusjoner. Likevel mener jeg at det ligger en meget stor utfordring til
+statistikere i hele denne problemstillingen: Ikke nødvendigvis bare i det å markedsføre
+
+våre egne metoder, men vel så verdifullt i å videreutvikle det som kanskje når alt
+kommer til alt det viktigste i vår kultur: Vi har i den matematiske statistikken kombinert
+med dagens muligheter for simuleringer kraftige metoder til å vurdere metoder. Dette
+arsenalet er langt fra godt nok utnyttet.
+
+Inge Helland
+
+
+
+Fra formannen:
+
+LÆRE FOR LIVET ELLER LÆRE FOR EKSAMEN
+
+Det var sikkert flere enn meg som med interesse leste om doktorgradsarbeidet i Trondheim,
+hvor et antall forholdsvis nyutdannede siv.ing. fra NTH uforberedt ble bedt om å "gå opp til
+eksamen" en gang til. Selv om det bare var noen få år (kun ett for flere) siden deres virkelige
+eksamen, strøk samtlige.
+
+Kandidatene har min fulle sympati. En rask mental gjennomgang av mine fag fra Blindern
+(riktignok for 20 år siden) tilsier at jeg ville være i samme båt, i hvertfall for en god del av
+fagenes vedkommende. Både Kompleks analyse, Integrasjonsteori og Grensesetninger i
+sannsynlighetsregningen ligger under ganske tykke lag med støv, beklageligvis (eller
+heldigvis?).
+
+Men dermed er ikke sagt at undervisningen og tiden som ble brukt på disse fagene var
+bortkastet. For det første ligger nok kunnskapene dypt begravet ett eller annet sted, og kan
+forhåpentlig forholdsvis lett reaktiveres, dersom det skulle bli nødvendig. For det annet har jeg
+fremdeles en viss forståelse for hovedprinsipper og nøkkelresultater, selv om detaljene og de
+tekniske ferdigheter er svunnet hen. Og endelig, prosessen med å lære og forstå nytt stoff,
+benytte det i en kort periode (til eksamen) og så glemme er i høy grad relevant for den
+typen prosjektarbeid mange av oss driver med til daglig.
+Likevel, det var da en tankevekker ...
+
+27. mai 1994
+Eivind Damsleth
+
+
+
+Erling Sverdrup
+
+En nestor blant norske statistikere, professor dr. philos.Erling Sverdrup er død, 77 år
+
+:
+
+Sverdrup var aktuarstudent da Tyskland overfalt Norge 9. april 1940. Han meldte seg
+
+ammel.
+
+samme dag frivillig til tjeneste i Den norske generalstaben og fulgte denne nordover under
+hele felttoget. Han var en viktig person i den lille gruppen som sørget for sikker
+chifferkorrespondanse mellom de ulike norske avdelingene oggeneralstaben. Da kampene i
+Nord-Norge opphørte tok Sverdrup seg over grensen til Finland hvor han ble chiffermann
+hos den norske militærattasjeen i Helsingfors. Deretter ble han i tur og orden beordret til
+Stockholm, Moskva, Tokyo og Washington DC for å organisere det norske chiffersambandet.
+I mars 1942 kom Sverdrup til London hvor han arbeidet i den norske chiffertjenesten.
+Oktober 1944 ble han sendt til det frigjorte Finnmark, der han tjenestegjorde inntil Tysklands
+kapitulasjon.
+
+Sverdrup fullførte sin aktuarembetseksamen ved Universitetet i Oslo høsten 1945.
+Etter en kortere tid som sjef for forsvarets sentrale chifferkontor, ble han i 1946 knyttet til det
+økonometriske miljøet rundt Frisch og Haavelmo. Dette fikk avgjørende betydning for hans
+interesse for statistikkfaget. Sverdrup ble ansatt som vitenskapelig assistent, og eneste
+
+vitenskapelige ansatte, ved Forsikringsteknisk seminar i 1948. I 1949-50 var han Rockefellerstipendiat, først ved University of California, Berkeley, deretter ved University of Chicago
+og Columbia University, New York. Han tok sin doktorgrad i 1952 med en avhandling om et
+desisjonsteoretisk emne, og ble i 1953 utnevnt til professor i forsikringsmatematikk med
+matematisk statistikk ved Universitetet i Oslo.
+
+Sverdrup gikk straks i gang med å revidere studiet. Statistikk var den gang ikke
+etablert som eget fag ved noe norsk universitet. Sverdrup valgte derfor å konsentrere seg om
+arbeidet med å bygge opp et moderne studietilbudi statistikk for aktuarer og andre
+realfagsstudenter. Matematisk statistikk ble etablert som bifag i 1955 og som hovedfag i
+1956. Deretter reorganiserte Sverdrup undervisningen i forsikringsmatematikk slik at denne
+ble basert på den nye grunnutdanningeni statistikk. Han tok så opp arbeidet med å skrive
+
+egnede lærebøker. Hans to-binds verk, "Lov og tilfeldighet", har hatt meget stor betydning
+for utviklingen av statistikkfaget i Norge. Bøkene er senere revidert, oversatt til engelsk og
+gitt ut på et internasjonalt forlag.
+
+Sverdrup hari sine vitenskapelige arbeider særlig behandlet de generelle prinsippene
+for konstruksjon av statistiske metoder. Han har blant annet levert viktige arbeider om
+optimale statistiske tester og multiple metoder. Han har også levert betydningsfulle bidrag
+innen livsforsikringsmatematikk og statistisk forøpsanalyse. Hans arbeider i forlgpsanalyse
+har vært et utgangspunkt for den sterke norske og skandinaviske tradisjonen på dette feltet.
+Sverdrup ble innvalgt som medlem av Det Norske Videnskaps-Akademiet i 1954, og
+av Det Kgl. Norske Videnskabers Selskab i 1981. Han var norsk medlem av International
+Statistical Institute, Fellow av Institute of Mathematical Statistics og æresmedlem av Den
+norske aktuarforening og Norsk statistisk forening. Sverdrup var norsk redaktør av
+Skandinavisk Aktuarietidskrift 1968-82 og formanni Forsikringsrådet 1970-74.
+Sverdrup var en inspirerende lærer med utpreget evne til å se de viktige prinsipielle
+sidene av et problem uten å tape seg bort i matematiske detaljer. Han hadde sterke meninger
+om statistikkens idemessige grunnlag, men var likevel åpen for nye utviklingstendenser i
+faget. Han var en intellektuell i ordets beste forstand med store kunnskaper også utenfor sitt
+eget fag. Sverdrup kunne i offisielle sammenhenger virke reservert og formell. Men de av oss
+som var så heldige å bli nærmere kjent med han, lærte å kjenne et varmt og levende menneske
+med humoristisk sans og interesse for andres ve og vel. Minnet om et fint menneske og en
+
+- imponerende karriere vil leve lenge blant oss.
+
+Ørnulf Borgan
+
+Arnljot Høyland
+
+
+
+Fra: Nordberg, R.[ed.] (1989) Twelve Contributions to a Tradition in Statistics and
+
+Actuarial Science. Festschrift to Erling Sverdrup, Almqvist & Wiksell International,
+
+Erling Sverdrup—Portrait of a Pioneer in Actuarial and
+
+Statistical Science in Norway
+RAGNAR NORBERG
+University of Oslo
+
+Erling Sverdrup, mathematical statistician, born in Bergen, Norway, February 23. 1917,
+son of Georg Johan, Prof., and Gunvor (Gregusson) Sverdrup. Actuarian, Univ. of Oslo
+
+1945, Dr. Philos. 1952. Statistical consultant at Inst. of Economics, Univ. of Oslo, 1946-48,
+research assistant at Inst. of Insurance Mathematics, Univ. of Oslo, 1948-53, professor of
+
+actuarial mathematics and mathematical statistics at Inst. of Mathematics, Univ. of Oslo
+
+1953-84, senior research scholarship, Norwegian Research Council for Science and the
+Humanities, 1984-87. Rockefeller Foundation fellow at Univ. of California at Berkeley,
+
+Univ. of Chicago, and Columbia Univ., 1949-50, Visiting professor at Columbia Univ.,
+New York, 1963-64 and at Aarhus Univ., 1969, Research officer at the Central Bureau of
+
+Statistics 1977-78. Fellow of the Institute of Mathematical Statistics, member of the Royal
+Norwegian Academy of Sciences and the International Statistical Institute. Author of
+
+“Laws and Chance Variations”, North-Holland, 1967. Research on sampling distributions
+
+in multivariate analysis; developed theorem on limit distributions of continuous functions
+of random variables; minimax procedures in statistical inference and statistical prediction;
+
+relationship between unbiased (similar) test procedures and conditional testing for general
+
+exponential classes of distributions, generalizing and reformulating Neyman—Pearson’s
+theory; estimation and test procedures for forces of decrement and transfers in statistical
+follow-up studies. Home addresss: Olav Kyrres gate 4, N-0273, Oslo 2, Norway.
+
+This text, taken from Who’s Who in the World, updated and slightly extended, is, presumably,
+an adequate mention of the world citizen Erling Sverdrup. To a readership of statisticians
+much has to be added, however.
+To begin with the list of exclusive memberships, Sverdrup was elected honorary member of
+the Norwegian Statistical Society at the Society’s general assembly in Bergen, 1987. The event
+marked the 70th anniversary of Sverdrup’s birth in the very same city and was an expression of
+acknowledgement of his endeavours to build statistics in Norway.
+Sverdrup is a member of the Norwegian Polytechnical Society and, of course, the Norwegian Society of Actuaries, where he has played a prominent part as lecturer and discussant.
+
+In his lecture "Scientific requirements in the actuarial profession” [13] presented to the
+Society on the occasion of its 50th anniversary in 1954, the then newly appointed professor
+
+outlined his vision of a modern actuarial study programme. Its primary objective is not to
+teach the students how to run the daily routine work in an insurance company, but to educate
+them: make them firmly acquainted with the mathematical-statistical basis of actuarial science
+and introduce them to scientific method through one year’s work on a thesis, thus enabling
+
+them to formulate and solve new practical actuarial problems currently arising in a rapidly
+developing society. This talk gave rise to discussions through many years, a committee report
+
+and new meetings. A quarter of a century later, in 1979, the programme was put into effect,
+
+with full support from the Society. Already as Sverdrup entered upon his duties as professor,
+
+he made important steps to build a scientifically based actuarial education by designing
+Courses in insurance mathematics founded on modern probability theory and statistics. The
+
+
+
+2
+
+R. Norberg
+
+forerunners of [25] and [26] were decades ahead of contemporary textbooks in insurance
+mathematics. Today Norway can parade a number of actuaries engaged in basic and applied
+research, steadily contributing to international scientific journals.
+
+At pensionable age, Sverdrup retired from the senior scholarship he held in the three last
+years of his working career. Thus, his present position is pensioner, Professor emeritus at the
+
+University of Oslo. None the less, the present survey of his works and activities can only be
+provisional: it seems that Sverdrup for the time being is in one of those periods of feverish
+
+enthusiasm which—according to himself—have been characteristic of his research work.
+
+The scientific production that grew out of these periods is considerable—in the true sense of
+the word. Actually, Sverdrup has been reticent in publishing his results in the traditional form
+
+of papers in journals.
+
+A number of significant contributions have remained unpublished or
+
+they have been placed in memoranda, lecture notes or textbooks without visible claims of
+originality. A typical case is the chapter on moving averages in [16]-[17], which gives precise
+mathematical formulation of, and solves problems related to, the graduation of vital rates,
+
+time series, etc. Another example is the volume of lecture notes [25], which treats problems of
+
+life insurance in a probabilistic setting that accommodates studies of the risk associated with
+the single policy and the entire portfolio. The text includes also an original and clarifying
+treatment of safety loadings in life insurance and their return by bonus allotment schemes.
+
+Also [27] and [29] ought to be mentioned. In a chat I once had with Severdrup on the publishor-perish-syndrome, he uttered: “If one should write something, it must be to express what
+
+One has most at heart”. All his writings are well reasoned, with a clear concern and message.
+A special commitment can be traced in the works on statistical decision theory. The thesis
+
+for the doctorate [9] states and proves a number of results on admissibility and minimaxity,
+both with and without use of least favourable distributions. Some of them have acquired a firm
+
+Position as key theorems in the field. In the introduction to the thesis Sverdrup states that
+some of the results were in the air at that time, but on the whole this work must be recognized
+as an important early contribution to the development of the general theory on admissible and
+
+minimax procedures. Its import is also due to the efforts made to find admissible minimax
+solutions to certain prominent testing problems in normal models, which added knowledge
+
+about the feasibility of the minimax criterion.
+
+Paper [11] marks a turning point in that Sverdrup here gives his last contribution to minimax
+theory and commences his concentrated studies in the foundations of the Neyman-Pearson
+
+theory of testing statistical hypotheses. In [11] he streamlines and extends the theory on the
+
+mathematical side. An elegant proof, based on analytic continuation, is given for a generalized
+version of Neyman and Pearson's result about the construction of similar tests, covering
+both
+
+discrete and continuous distributions. The role of similarity as a necessary condition for
+
+unbiasedness is made lucid, and the classical Neyman-Pearson lemma is presented in a general
+
+form for unbiased tests of hypotheses in the multiparameter exponential family
+of
+
+distributions.
+
+Later works ([19], [27], [34], [35], [37], [38], [55]) clarify the practical interpretations of the
+Neyman-Pearson theory and relate it to general scientific method. In particular the interpretation of the role of the null hypothesis in the context of multiple testing has brought relief
+
+to statisticians. Here are some excerpts from the philosophy:
+— The statistical method should be derived from a model embodying all relevant a priori
+knowledge/insight about the mechanisms that generate the data. The properties of a
+method can be assessed only when it has been specified in advance which conclusion is to
+
+be drawn for each possible outcome of the observations ([16]-[17], Chapters I and VI).
+
+The statistical method should be judged from the characteristics of the performance
+
+
+
+Erling Sverdrup
+function. Its behaviour must be explored for any distribution which cannot a priori be
+
+excluded.
+—A
+
+statistician who believes that he looks at the observations before he constructs the
+
+method, hides part of his model in his subconscious mind. It is indeed impossible to look
+
+at the observations in advance. It would be pulling yourself up by your hair ([27], pp.
+44-47).
+— It is not contradictory to test null-hypotheses which are known to be false and would
+have been rejected anyhow if the number of observations were large enough. The null-
+
+hypothesis should properly be called the null-state. It is chosen, not because we have
+any a priori confidence in it, or are interested in the truth of it, but because we are
+interested in certain effects which are contrasts to the hypothesis. The test is just a
+clearance test, performed initially to determine whether or not to search further for
+
+significant contrasts/departures from the hypothesis (see [38]).
+— Alone and by itself the null-hypothesis gives no guidance to the choice of a test. The
+purpose of the test and hence criterion for designing it becomes clear only when one has
+
+specified the alternatives it is to be tested against (see [35], [38], [55]).
+Besides the influential works in statistical decision theory, Sverdrup’s early contributions to
+modern life history analysis are recognized as the origin of a strong tradition in actuarial and
+
+statistical research in Scandinavia. Key references are [18] and [21].
+The principles of statistical inference that have been so vigorously advanced by Sverdrup,
+with emphasis on the model as the basis for analysis of data, are apparently inspired by, and
+
+carry forth the style of scientific thinking that prevailed in the school of Ragnar Frisch, Trygve
+
+Haavelmo, Olav Reiersøl and other influential Norwegian econometricians.
+The laconic formulations in Who’s Who in the World cover up the circumstance that
+Sverdrup was appointed professor of statistics at a time when this academic discipline was in a
+state of infancy in Norway, and the building of an educational system and an environment of
+
+Statistics was a great challenge. Sverdrup seized the psychological moment—and was seized by
+
+it and by the following three decades of steady commitments, with numerous initiatives for the
+good of the statistics profession. The archives of the University of Oslo contain innumerable
+documents signed by him: strategic plans for education and research, study programmes
+and
+curricula, appraisals of applicants for positions, evaluations of theses and doctoral disserta-
+
+tions, reports from working parties and committees, and records of all kinds of run-of-the-mill
+matters. These documents maintain reflected points of view concerning the university’s role in
+
+society, advocating the unity of education and science and freedom of research—in particular
+
+the rights of the researcher to choose topics of study and publish results—freed from the —
+necessity of producing short-term results for external contracts. Already as a research assistant
+
+he became head of "Forsikringsteknisk seminar”, the forerunner of the Section of Actuarial
+Mathematics and Statistics. He was head of the Section through the bulk of his time as
+
+professor, and has also served
+as head of the Department of Mathematics and chairman of the
+Faculty Committee of Budgeting and Planning. In administrative work he combined thorough
+insight in procedural matters with the best of political calculation, always soberminded, never
+hiding anything.
+
+In addition to his administrative work-load at the university, Sverdrup was Norwegian
+editor of the Scandinavian Actuarial Journal 1968-82, chairman of the Norwegian Council of
+Insurance Supervision 1970-74, and chairman of the Norwegian Mathematics Council
+
+1974-76 (vice-chairman 1973-74).
+
+Alsoin his teaching Sverdrupis a reflected man. His abilities as a teacher are not only the
+result of natural talent, thorough preparation and an excellent grasp of the material. He
+
+3
+
+
+
+4
+
+R. Norberg
+
+regards lecturing as an act of dramatizing the subject. What is hard to convey by the written
+word are the motivation and the overall structure, the highlights, snags and pitfalls. He
+presents his lectures with vigour and elegance, stepping out briskly in front of the blackboard—once in a while on his tip-toes with excitement at a beautiful result. Sverdrup managed
+to keep his students’ fascination for the subject and brought them further than their reading
+would have taken them.
+
+During the Second World War Sverdrup devoted himself entirely to the fight for freedom. I
+have heard him make one statement in public on this stern period of his life: *I usually deduct
+five years from my age”. I consider it appropriate to add some information I have obtained
+from a first-hand source, Karl Borch, whose career has striking parallels to that of Sverdrup.
+They were fellow students, and both served as intelligence officers in the Free Norwegian
+
+Forces during the war, thereby suffering a five-year-long break in their studies. They resumed
+their studies upon the conclusion of peace, received their actuarial degrees, and ended up as
+professors of insurance (Borch at the Norwegian School of Economics and Business Adminis-
+
+tration, Bergen). In a very personal and frank letter dated 24 November 1986, Borch wrote to
+
+me (translated extract):
+In the autumn of 1939 the General Staff organized a course in ciphering at the university,
+with the purpose of building a group of cipher experts who could be called up when needed.
+I was recruited by actuary Per Gotaas, and I think he also was the one who recruited
+Sverdrup.
+
+On the night of 9 April 1940, Sverdrup reported for duty and followed the General Staff
+northwards. For this I admire Sverdrup. He knew immediately—with an unfailing instinct—
+what was the right thing to do. Sverdrup was exempted from military duty for medical
+reasons and, therefore, was not under mobilization orders. He nevertheless volunteered.
+
+He was sent to Helsinki, Moscow and Tokyo to organize the cipher service at the
+Norwegian legations there. Then he was ordered to Washington and, in 1942, to London,
+where he was in charge of a special military cipher service. In 1944 he was sent back to the
+northern part of Norway after it had been liberated by the Red Army, and he served there
+until the German capitulation. He had then attained the rank of captain.
+In the Norwegian Who’s Who Sverdrup makes no mention of his war effort. I don’t know
+why he has been so reticent and stayed in the background. I think you should pass on some
+
+of what I have told here to throw light on the character of Erling Sverdrup. His merits in the
+struggle for freedom were known to many, but most of them have passed away.
+
+Karl Borch died on 2 December 1986, one week after he wrote this letter.
+
+Other personal characteristics of Erling Sverdrup are well known to his acquaintances. The
+following opening phrases seem worn-out when appearing in piece-goods Western novels, but
+here they are almost perfect: "The steel-grey steady gaze tells you that this man will not give an
+inch. Six foot tall, slender—almost lean...” He is easily recognized in street life, striding
+along at an impressive pace, wearing a hat, an overcoat with flowing tails and a well-filled
+
+briefcase. One of the last indomitable pedestrians in the era of mass motorism (he owned a car
+in those days when that was a mark of distinction and still fun).
+His sparsely equipped bachelor’s lair houses a huge book collection (no TV set). His
+
+favourite reading seems to be history, politics and biographies, reflecting a deep social
+awareness and interest in individual fates, and also science, in particular natural sciences and
+
+their history.
+
+’
+
+At times Sverdrup disappears from town life. In case of emergency one can then with
+probable success write to Kalvetreet, N-5850 Balestrand. Here, in the West Country, is his
+cabin and second home, where he works and rests in solitude. Food is provided by fishing in
+
+
+
+Erling Sverdrup
+
+the sea and in lakes and creeks. His reports on the culinary pleasures of smoked salmon, boiled
+coalfish with melted butter, fish soups, etc., are most engaging. Then there is that cuttlefish in
+ink sauce...
+
+He is a keen trout fisherman. In younger days he used to raom in the wilderness with a
+minimum of equipment: a fishing rod and a frying pan, often no hiking tent. A blend of the
+
+refined and the primitive.
+
+It is hard to trace the caveman disposition in the everyday-life appearance of Sverdrup:
+attentive, correct—in official matters rather formal, usually wearing a suit (there must be at
+least two of them). Some signs of his character are the great demands he makes on himself, his
+total reliance on his own strength, and his insisting on complete personal responsibility. On
+closer acquaintance you meet a considerate colleague and friend—and a good mixer: a source
+of ideas and engagements, a gift for story-telling combined with observant listening, a goodnatured sense of humour with no strain of mockery, and a smile which is a miraculous
+collection of horizontal wrinkles.
+
+Inevitably Sverdrup created a tradition in actuarial and statistical science at the University
+of Oslo and in Norway. It is a historical circumstance that he was summoned to leadership in a
+young academic field, where individual achievements necessarily would be decisive. How-
+
+ever, the results are entirely attributable to the strong efforts of this self-sacrificing organizer
+and honest scientist. Younger Norwegian statisticians, who have entered into a well established educational system and proceeded in a rich environment of statistical operations under
+
+stable social conditions in peace-time, must take off their hats to the remarkable person and
+career described here.
+
+Acknowledgements
+
+I am grateful to colleagues, pupils, and friends of Erling Sverdrup who have supported my
+
+work on this biographical note by providing background material and by commenting upon
+the first draft. My special thanks are due to Herdis Thoren Amundsen, Karl Henrik Borch,
+Anders Hald, Jan Michael Hoem, Tore Schweder, Jakob Sverdrup, and Howard Waters.
+
+Writing contemporary history is not easy: the contemporaries are still there, and they may
+have different views. It is inevitable, I think, that in any piece of historical writing there will
+remain elements of subjectivity and personal flavour, and I am confident that it will be allowed
+for also this time. Anyway, scruples of this kind are completely outshined by the pleasure I
+took in drawing this portrait.
+
+.
+
+I take this opportunity to express my heartfelt thanks to all those who upon my solicitation
+prepared scientific contributions to the present volume. All papers were subjected to normal
+
+refereeing and editorial procedures in the Scandinavian Journal of Statistics or in the Scandinavian Actuarial Journal, and each paper presented here has previously been published in one of
+
+these journals. I deeply appreciate the cooperative attitude of my colleagues on the editorial
+
+boards of SJS and SAJin these matters.
+
+Some publications of Erling Sverdrup
+
+[1] Derivation of the Wishart distribution of the second order sample moment by straightforward
+
+integration of a multiple integral. Skand. Aktuarietidskrift 30 (1947), 151-166.
+
+[2] The cleaving of a univariate measurement into two factors. Memo, 1948, Inst. of Econ., Univ. of Oslo.
+(Co-authored with Ragnar Frisch.)
+[3] En bekvem formulering av Cochrans teorem. Memo., 1951, Inst. of Econ., Univ. of Oslo.
+[4] En randbemerkningom Cochrans teorem. Memo., 1951, Inst. of Econ., Univ. of Oslo.
+
+5
+
+
+
+6
+
+R. Norberg
+
+[5] Om punktestimering av sannsynligheter på grunnlag av et tilfeldig utvalg. Memo., 1951, Inst. of Econ.,
+Univ. of Oslo.
+
+[6] How can we decide whether the Minimax Principle is good or bad? Memo., 1952, Inst. of Econ., Univ.
+of Oslo.
+
+[7] Simulian testing av flere hypoteser. Memo., 1952, Inst. of Econ., Univ. of Oslo.
+[8] The limit distribution of a continuous function of random variables. Skand. Aktuarietidskrift 35
+(1952), 1-10.
+
+[9] Weight functions and minimax procedures in the theory of statistical inference. Archiv for mathematik og naturvidenskab B.LI 7 (1952).
+
+'
+
+[10] Basic concepts in life assurance mathematics. Skand. Aktuarietidskrift 35 (1952), 115-131.
+[11] Similarity, unbiassedness, minimaxibility and admissibility of statistical test procedures. Skand.
+Aktuarietidskrift 36 (1953), 64-86.
+{12] Harmonisk analyse med normal erratisk komponent. Memo., 1954, Inst. of Econ., Univ. of Oslo.
+
+[13] Scientific requirements in the actuarial profession. Paper presented on the occasion of the Golden
+Jubilee of the Norwegian Society of Actuaries, 1954. Den Norske Aktuarforening.
+
+[14] Aktuelle spørsmål i forbindelse med den statistiske observasjonsteknikk. Statsøkonomisk tidsskrift
+69 (1955), 213-234.
+[15] Actuarial concepts in the theory of financing life insurance activities. Skand. Aktuarietidskrift 45
+(1962), 190-204.
+[16] Lov
+og tilfeldighet, Vols. I-II (1964, revised edition of Vol. I, 1973). Universitetsforlaget, Oslo.
+
+[17] Laws and chance variations, Vols. I-II (1967). North-Holland Publishing Co., Amsterdam. (English
+translation of [16].)
+[18] Estimates and test procedures in connection with stochastic models for deaths, recoveries and
+transfers between different states of health. Skand. Aktuarietidskrift 48 (1965), 184-211.
+[19] The present state of the decision theory and Neyman-Pearson theory. Rev. Int. Stat. Inst. 34 (1966),
+
+309-333.
+[20] Prinsipper for statistiske slutninger. In Matematikk 1966, Norsk lektorlag.
+
+[21] Statistiske metoder ved dødelighetsundersøkelser. Stat. Memo. No. 1, 1968, Inst. of Math., Univ. of
+Oslo.
+
+[22] Operatormetoder
+i sannsynlighetsregning. Stat. Memo. No. 2, 1968, Inst. of Math., Univ. of Oslo.
+[23] Limit theorems in probability theory. Notes to John Lamperti: Probability (1966). Lecture notes,
+1969, Inst. of Math., Univ. of Oslo.
+[24] Some basic concepts in the theory of stochastic processes. Lecture notes, 1969, Inst. of Math., Univ. of
+
+Oslo.
+
+.
+
+[25] Noen forsikringsmatematiske emner. Stat. Memo. No. 1, 1969, Inst. of Math., Univ. of Oslo.
+(Revised 1976.)
+
+[26] Risiko ved forsikringsvirksomhet; noen videregående emner. Stat. Memo. No. 2, 1969, Inst. of Math.,
+Univ. of Oslo.
+[27] Multiple decision theory. Lecture notes series No. 15, 1969, Inst. of Math., Aarhus Univ.
+[28] The ergodic theorem for stationary processes. Lecture notes, 1970, Inst. of Math., Univ. of Oslo.
+
+[29] Testing statistical hypotheses: the general Neyman-Pearson theory. Stat. Memo. No. 1, 1971, Inst. of
+Math., Univ. of Oslo.
+
+[30] Stepiwvisestatistival procedures with good performancein stepwise reduced parameter spaces. Stat Res.
+Report No. 1, 1972, Inst. of Math., Univ. of Oslo.
+
+[31] Reflections on unit linkedinsurance and product developmentin life insurance industries. Trans.
+19th Int. Congr. of Actuaries, Vol. I (1972), 611-622. (Co-authored with Ragnar Gaarder.)
+
+[32] Multiple and stepwise procedures and their applications in actuarial science. Trans. 19th Int. Congr.
+of Actuaries, Vol. III (1972), 217-224.
+[33] Multiple comparisons by binary and multinary observations. Artikler. Statistisk Sentralbyrå, Oslo
+(1975).
+
+[34] Tests without power. Scand. J. Statist. 2 (1975), 158-160.
+
+[35] Significance testing in multiple statistical inference. Scand. J. Statist. 3 (1976), 73-78.
+[36] Programs on HP-25 desk-calculator of mathematical functions for use in statistics. Stat. Res. Report
+No. 7, 1976, Inst. of Math., Univ. of Oslo.
+
+{
+
+[37] Tests without power. A rejoinder. Scand. J. Statist. 4 (1977), 136-138.
+[38] The logic of statistical inference: Significance testing and decision theory. Bull. Int. Stat. Inst.
+(1977), 573-606.
+
+XLVII,
+
+
+
+10
+
+Erling Sverdrup
+
+[39] The use of autoregressive (ARIMA) processes as background models for analysis and estimation in
+statistical time series. Memo. No. 1, 1977, Central Bureau of Statistics, Oslo.
+[40] The statistical analysis of categorical observations in the case of "large” homogeneous subgroups.
+Memo. No. 2, 1977, Central Bureau of Statistics, Oslo.
+
+[41] Exact statistical analysis of multinomial trials. Memo. No. 3, 1977, Central Bureau of Statistics, Oslo.
+[42] Estimation procedures by regression analysis of multinary observations. Memo. No. 4, 1977, Central
+Bureau of Statistics, Oslo.
+
+[43] The use of autoregressive moving average processes for estimation in repeated sample surveys. Memo.
+No. 5, 1977, Central Bureau of Statistics, Oslo.
+
+[44] Statistical analysis of crossclassified multinomial trials. Memo. No. 6, 1978, Central Bureau of
+Statistics, Oslo.
+
+[45] Analysis of cross-classification data. Alternative treatments of an example. Memo. No. 7, 1978,
+Central Bureau of Statistics, Oslo.
+
+[46] An example of analysis of binomial observations based on a regression model. Memo. No. 8, 1978,
+Central Bureau of Statistics, Oslo.
+
+[47] Testing av statistiske hypoteser. Neyman-Pearsons generelle teori. Stat. Memo. No. 1, 1979, Inst. of
+Math., Univ. of Oslo. (Revised version of [29].)
+[48] Synspunkter på tidsrekkeanalyse. Stat. Memo. No. 2, 1980, Inst. of Math., Univ. of Oslo.
+
+[49] Notes on autoregressively defined stationary processes (ARMA-processes). Basic mathematical properties. Stat. Res. Report No. 3, 1981, Inst. of Math., Univ. of Oslo.
+
+[50] Forsikringsfondet i livsforsikring. Stat. Memo. No. 1, 1982, Inst. of Math., Univ. of Oslo.
+[51] Frequency interpretation in probability and statistical inference. In Kotz & Johnson (1983): Encyclopedia of statistical sciences, Vol. 3, 225-231. Wiley, New York.
+
+[52] The.method of multiple comparison by a delta-method and its relationship to the likelihood ratio test.
+General theory and application to multinomial models. Stat. Res. Report No. 1, 1984, Inst. of Math.,
+Univ. of Oslo.
+
+[53] A note on robust testing by indexing the parameter space. Scand. Actuarial J. (1985), 124-128.
+[54] Har vi råd til syv prosents realrente? Stat. Res. Report No. 1, 1986, Inst. of Math., Univ. of Oslo.
+
+[55] Multiple comparison and the likelihood ratio testing, Scand. Actuarial J. (1986), 13-63.
+[56] The delta multiple comparison method. Performance and usefulness. Stat. Res. Report No. 4, 1988,
+Inst. of Math., Univ. of Oslo.
+
+
+
+11
+
+Mer paradox.
+
+Jostein Lillestøl presenterte et “paradox” i TG 3-93, om at to hoder tenker like dårlig
+som ett. Han antok at de to finansanalytikerene hadde somme marginalfordelig på rett
+
+og gal beslutning, og at de vurderte uavhengige av hverandre.
+Resultatet gjelder uansett uavhengighet eller avhengighet, og uansett vekting i
+loddtrekkingen en gjør om de er uenige, det er nok at de ha samme
+marginalfordelinger, som sees av følgende tabell
+Analytiker A
+
+Analytiker
+B
+
+Rett
+Galt
+Marginal Å
+
+Rett
+
+Galt
+
+Marginal B
+
+q
+p-q
+p
+
+D-4
+1-2p+q
+1-p
+
+Pp
+1-p
+I
+
+p er begges marginalsannsynlighet for rett beslutning, q er simultansannsynligheten
+for at begge har rett vurdering. (Lillestøl har g=p*p). Vi har at q<p fordi
+sannsynligheten for at begge har rett ikke kan overstige sannsynligheten for at en har
+rett.
+
+Anta Oppmannen ikke kaster mynt og kron ved uenighet, men bruker en sjev trekking
+(ao og 1-0), dvs. han stoler mer på den ene enn den andre.
+P(firmaet tar rett beslutning) = q+ O(p-q) + (1-0 Xp-q) =p.
+
+Med samme marginalfordeling kan altså to hoder aldri tenke bedre enn ett! Har du
+samme kunnskap så tilfører du ikke noe nytt. Ansett aldri to økonomer fra samme
+handelshøyskole!
+
+Erik Mønness, Hedmark distriktshøgskole.
+
+
+
+12
+FOCUS
+
+e
+
+NEW
+
+ment
+
+SUTENTIST
+
+A 200-year-old probability theory could help to avoid some of the miscarriages of justice
+that embarrass the courts and have undermined public trust in the judicial system
+
+Improving the odds on justice?
+Robert Matthews
+
+ALL over Britain, juries of ordinary people
+regularly listen to evidence in courts of law.
+It can be anything from a child's statement
+alleging ritual abuse to the probability of a
+DNA match. Somehow, the jury has to pull
+the evidence together, assess its relative
+merits and decide on the probability of guilt
+of the accused.
+It is a notoriously difficult task. When
+mistakes are made, the results can be catastrophic. Yet few members of juries, barristers, or even judges realise that techniques
+designed to solve their age-old problem
+already exist. Earlier this week, the Royal
+Statistical Society met to discuss these
+techniques. Known collectively as Bayesian
+inference theory, they could revolutionise
+the way that juries reach their decision—
+and dramatically reduce the risk of miscarriages of justice.
+The techniques are based on principles
+first published by Thomas Bayes, an 18thcentury cleric, who worked out how new
+evidence can modify the odds for a particular hypothesis. Although they are now
+more than 200 years old, their importance
+for the law was highlighted last December
+by an important Court of Appeal case in
+which Bayesian inference theory helped
+secure a retrial of a convicted rapist.
+In 1990, Andrew Deen was sentenced to
+16 years in jail at Manchester Crown Court
+for raping three women. The main evidence
+linking Deen to the attacks was the allegedly close match between the DNA genetic
+fingerprint of samples found at the scene of
+the crimes and those from Deen. At the
+trial, the forensic scientist presenting the
+DNA and blood-typing evidence said that
+the match was so good that the probability
+of the samples having come from someone
+other than Deen was 1 in 3 000 000. In his
+summing up, the judge told the jury that so
+large a figure, if correct, “approximates
+pretty well to certainty”.
+
+Last December, the Court of Appeal
+quashed the conviction, declaring the verdict unsafe. In their ruling, the appeal
+judges made it clear that both the forensic
+scientist and the judge had fallen into a trap
+known as the “prosecutor’s fallacy”. At the
+
+is guilty (see "Bayes's theorem”). In the
+case of DNA evidence this ratio is usually
+large and could run into millions. The next
+stage is to multiply the probability of the
+suspect being guilty before the discovery of
+the new evidence by the likelihood ratio.
+The result is the new probability of guilt,
+
+often very impressive probabilities generated by DNA techniques.
+
+given this evidence.
+
+heart of this fallacy is the meaning of the
+
+DNA evidence takes
+
+the
+
+form of bands produced by
+samples taken from the scene
+of crime and from the
+accused. The number of
+these bands that coincide in
+each sample is used to calculate a probability. But just
+what does this probability
+mean? It is the probability of
+getting as good a DNA match
+from a person plucked at
+random from the population.
+In other words, the evidence
+in the Deen case implied that
+there was only a 1 in 3 000
+000 chance of getting so
+good a match from an innocent
+person
+unconnected
+with the crime.
+
+Probable confusion
+In the Deen case, however,
+
+the forensic scientist and
+the judge both confused this
+with the probability of Deen
+being innocent, given so
+good a match. These two
+probabilities may sound very
+similar, but Bayesian inference theory shows they are
+completely different.
+In essence the theory as it relates to legal
+proceedings has two stages. The first stage
+involves calculating the value of the
+so-called likelihood ratio, a measure of the
+probabilities of getting specific evidence if
+the accused is innocent and if the accused
+
+i. Bayes’5‘theorem.
+
+: ‘THE simplest form of the theoretis that the updated (“posterior”) odds ='ikelihood ratio
+- x prior odds where the prior odds are based on the pre-existing ape) and the likelihood ratio is extracted from the new evidence.
+
+The likelihood ratio is the probability of getting as good a match given that the defendant
+is guilty, divided by the probability of a match if the defendant were innocent. As the guilty
+person is certain to give a match with the scene of crime sample, this first probability is 1.
+The second probability—of getting as good a match from someone unconnected with
+
+‘> the crime—can, err be very low. if the. match is very peed: as it can be in the case of
+
+“DNA fingerprinting. °
+
+Although this doesike the ieee ratio very large, ifthere is little corroborative
+
+*«evidence, even a likelihood ratio of mnilligne can Elto-amplify 4the odds of
+ao beyond
+å Sregspnable pel
+
+Therefore, to assess the evidence properly the jury would have needed to know
+
+the probability of Deen's guilt before the
+forensic evidence was given. If that prior
+
+probability of guilt was small—that is, if
+there is little other evidence to corroborate
+the forensic evidence—then even the
+impressive probabilities of genetic fingerprinting can be dramatically diminished.
+In the latest issue of the Journal of the
+
+Forensic Science Society, researchers at the
+Institute of Environmental Health and
+Forensic Sciences in Auckland, New Zea-
+
+land. use crime statistics to estimate typical
+
+prior probabilities. They find that even a
+DNA match with odds of millions to one
+can be cut down to final odds of innocence
+
+of just 3 to 1—leaving plenty of room for
+“reasonable doubt”.
+
+In their paper to the Royal Statistical
+
+Society meeting, David Balding and Peter
+16 April 1994
+
+rose
+
+
+
+13
+fit
+
+ae
+
+aad
+
+Gey
+
+oO
+
+UROSTI
+SKE
+
+NOAGES LA
+NDBRUK
+
+FAG
+
+S!HØGSKOLE
+
+Donnelly of Queen Mary and Westfield
+College, London, show that the prosecutor's fallacy is only one of many subtle traps
+waiting for those assessing DNA evidence.
+Balding points out, however, that the dangers reach far beyond this relatively recent
+technique for establishing guilt: "Evidence
+in the form of probabilities has been used
+in courts for years, but it's only now that
+people are beginning to ask about how to
+
+ment for both jurors and lawyers being
+made more familiar with the techniques for
+assessing evidence.
+
+"Even if they don't think about them
+
+consciously, they should have some feel for
+what questions they should be asking
+themselves,” says Colin Howson, reader in
+logic at the London School of Economics,
+and co-author of a recent book on Bayesian
+reasoning (Scientific reasoning: the Bayesian
+
+Attempts to put the assessment of legal
+
+approach). “I think they should be worked
+into all legal courses—not the full-blown
+
+evidence on a rigorous footing are not new:
+the French mathematician Siméon Denis
+Poisson published a treatise on it in 1837.
+Its use in courts has, however, often been
+surrounded by controversy.
+
+qualitative results it leads to.”
+The value of knowing the right questions
+to ask is well illustrated by confessional
+evidence. Bayesian analysis shows that a
+
+assess it all correctly.”
+
+abstract theory perhaps, but certainly the
+
+FOCUS
+
+‘Even a DNA match with
+odds of millions to one
+can still leave room for
+reasonable doubt’
+backing for the misgivings many people
+have
+about unsupported confessions.
+Clearly, such evidence should never be
+admissible in any legal system. Yet only
+after the notorious miscarriage of justice
+involving the Guildford Four have English
+
+courts been wary of such evidence.
+Bayesian analysis can reveal unsuspected
+pitfalls. Peter Urbach, reader in philosophy
+at the LSE, cites the example
+of so-called “similar fact” evidence, currently a hot topic
+among lawyers. Such evidence takes the form of two
+witnesses giving testimony of
+“striking similarity” concerning the guilt of the accused.
+The Law Lords have argued
+
+that such evidence is relevant
+if the similarities go beyond
+what one might expect, and if
+there is only a small chance of
+getting such similarity from
+two
+witnesses
+concocting
+
+their stories separately.
+
+Similar evidence
+
+The scales of justice: jurors and
+lawyers alike find it difficult to
+assess the importance of each
+piece of evidence
+
+A Bayesian analysis shows
+that this is wrong on both
+counts. The evidence does not
+have to be “similar’—it can
+be dissimilar and still support
+a guilty verdict—and its rel- evance depends not just on
+the probability of getting both 2
+
+stories, but also on the prob-8
+ability of getting the first §
+
+story—given that the accused %
+
+may or may not be guilty. 3
+“Without doing the algebra, it =
+is very difficult to think about
+Almost a century ago, the French math-
+
+confession only increases the probability of
+
+ematician Jules Henri Poincaré used prob-
+
+guilt if the probability of obtaining a con-
+
+ability theory in an attempt to cast doubt
+on handwriting evidence used in the trial of
+
+crime is higher than that of getting one
+
+fession from the real perpetrator of the
+
+Alfred Dreyfus. Unimpressed, the jury
+found Dreyfus guilty of treason—a miscar-
+
+other words, if, having heard details of the
+
+riage of justice, the repercussions of which
+
+police interrogation, jurors think an inno-
+
+can still be felt in France today.
+
+cent person is just as likely to have cracked
+
+Even so, many lawyers remain uneasy
+about the use of probability theory in court.
+
+as someone who is guilty they are wrong to
+
+Their concern is that juries may be seduced
+
+probability of guilt.
+
+by the apparently unimpeachable authority
+
+from someone
+
+unconnected
+
+with
+
+it.
+
+In
+
+take the confession as contributing to the
+Bayesian analvsis also shows that if there
+
+of numbers and equations. But probability
+
+is little evidence apart from the confession,
+
+experts see the Deen case as a clear argu-
+
+juries have to be convinced that the interrogation methods are far more likely to
+
+cause the guilty person
+
+‘The judge had fallen into
+
+to confess than
+
+someone who is innocent. It is difficult to
+
+see how this could ever be guaranteed, but
+
+a trap known as the
+
+only then will the prior probability of guilt
+
+prosecutor’s fallacy’
+
+Bayesian analysis thus provides rigorous
+
+16 April 1994
+
+be boosted "beyond reasonable doubt”.
+
+these things abstractly,” admits Urbach. “It’s not at all surprising that
+lawyers come to the wrong conclusions.”
+While many lawyers accept the need to
+
+put the assessment of evidence on a firmer
+footing, some doubt whether juries will
+reach safer verdicts as a result. “Academic
+lawyers tend to talk about these things, but
+I never cease to be amazed by the decisions
+juries come to,” says one leading criminal
+barrister. “You simply cannot tell what it is
+that is going to sway them.”
+Balding believes this underlines the need
+for speeding up the introduction of techniques for assessing evidence: “The fact is
+that vou can't always reach the right conclusions using intuition alone. We have to
+tell juries the truth and help them to think
+properly about what they are being told.”
+Robert Matthews Js science correspondent of
+“so Sunday Telegraph
+
+
+
+14
+
+Bokanmeldelse
+
+Bent Natvig og Tore Nordseth: Sannsynlighetsregning. Etterutdanningshefte. Tilvalgsstoff i 1MA.
+
+Aschehaug 1993.
+
+Vi som underviser i begynnerkurseri statistikk på universiteter og høgskoler, har et stort handicap i
+forhold til våre kolleger matematikeme: Stort sett vet studentene ingenting om faget vårt på forhånd.
+Heldigvis begynner dette å bedre seg noe; det tas inn etterhvert noe stoff i sannsynlighetsregning og
+statistikk under matematikk-undervisningen i den videregående skolen. Dette heftet er ifølge
+omslaget beregnet til etterutdanning av lærere, pensum ved lærerhøgskoler, tilvalgsstoff for eleveri
+1MA, samt til idébank og repetisjon. Som tittelen sier, konsentrerer det seg om
+
+sannsynlighetsregningen.
+
+På mange måter er sannsynlighetsregningen den mest utakknemlige delen av faget vårt å undervise i:
+Det blir ofte til en oppterping av terninger, kortspill og trekking av fargete kuler, og studenter og
+elever mister lett motivasjonen. Vi finner både kort, terninger og kuler i Natvig og Nordseth's hefte
+også, men mange gode virkemidler er tatt i bruk for å gjøre stoffet mer interessant: Aktuelle spill som
+lotto, rikstoto og tipping er benyttet i rikelig monn med realistiske bilder av kuponger som figurer.
+Historiske bemerkninger er med på å krydre stoffet. Ikke minst er bruken av aktuelle fornavn
+(Vegard, Bjørn og Vladimir...) i oppgavene morsom.
+
+På ett punkt har imidlertid forfatterne blitt innhentet av uforutsette begivenheter når det gjelder disse
+navnene: Bruken av ‘Johan Jørgen" sammen med andre politikemavn i oppgavene 1.8 og 5.3 er ikke
+lenger fullt så festlig. På mange måter er det smakløst av en bøkanmelder å trekke frem dette poenget,
+men når det først er gjort, er jeg fristet til å trekke det litt etter hårene: I de siste kapitlene i heftet
+anvendes sannsynlighetsregningen bl.a. på pålitelighetsanalyse-beregninger. Spørsmålet man ofte
+sitter igjen med etter slike regninger, er: Vil ikke de katastrofene som skje, ofte komme der man
+overhodet ikke venter dem på forhånd, kanskje man ikke tenker på muligheten engang?
+Fra disse kjetterske tankene om sannsynlighetsregningen, la oss gå tilbake til heftet: Stoffet er fint og
+enkelt presentert, og utvalget av oppgaver er rikelig og illustrerende. Jeg har lyst til å trekke frem én
+oppgave: I oppgave 1.10 gis en enkel og klar fremstilling av Marilyn von Savant's TV-spill, som har
+skapt het debatt i mange akademiske miljøer, er tidligere (mars 1993) diskutert her i TG av Steinar
+Engen, og også i enda mer seriøse tidsskrifter (American Statistician, 45, 284-289 (1991); 45, 387-388
+(1991); 47, 82-83 (1993) osv.)
+
+Av eksemplene i heftet kan nevnes brosystemet i Eksempel 7.5 med 5 komponenter: 1 + 4
+i parallell med 2 + 5 og med komponent 3 som en bro mellom de to delene. I heftet blir
+sannsynligheten for at et slikt system skal funksjonere, beregnet relativt enkelt ved først å betinge med
+hensyn på om komponent 3 funksjonerer eller ikke. Jeg skulle imidlertid gjerne se den gymnasiasten
+som ville klare en slik oppgave uten å få noe hint!
+
+For de sterkeste elevene tror jeg dette hefte vil virke både motiverende og stimulerende, og jeg tror
+mange vil føle at de finner mye interessant. Jeg er redd endel svake elever vil få vanskeligheter med
+den uunngåelig tunge notasjonen som sannsynlighetsregningen ofte fører med seg. Ellers er det
+vanskelig å si hvordan å si hvordan et slikt hefte vil virke i praksis uten å ha eksponert elever i den
+akteuelle gruppen for det.
+
+Et lite kritisk punkt til slutt: Både på omslagssiden og i forordet snakkes det om hvor viktig det for
+eksempel er i politikken å kunne vurdere risiko og gjøre riktige valg. Det finnes noen få eksempler og
+oppgaver i heftet som kan knyttes opp mot denne alvorlige motivasjonen, men de har ikke noen særlig
+fremtredende plass.
+
+I alt, imidlertid: Heftet anbefales!
+Inge Helland
+
+
+
+15
+
+Merida, Yucatan, Mexico
+December 11 - 15, 1995
+
+M
+
+E
+
+I
+
+R
+
+D
+
+A
+
+Statistics in Public Resources, Utilities, and in Care of the Environment
+
+Guanajuato, Gto. May 12, 1994
+Editor
+Norwegian Statistical Society
+c/o Department of Mathematics,
+
+University of Bergen, Allégaten 55,N.
+5007 , Bergen, NORUEGA
+
+=
+
+Dear Editor,
+
+I would greatly appreciate it you would include the following information in
+
+your International Calendar of Statistical Events:
+
+December 11-15, 1995: Merida, Yucatan, Mexico. Third SPRUCE Conference
+(Statistics in Public Resources, Utilities, and in Care of the Environment).
+[V. Pérez-Abreu, CIMAT, Apdo. Postal 402, Guanajuato, Gto. 36000, México.
+FAX (52-473) 25749, SPRUCE@CONACYT.MAIN.CONACYT.MX]
+
+Sincerely yours,
+A
+
+;
+
+I
+
+Victor Pérez-Abreu
+Local Organiser
+pabreu@conacyt.main.conacyt.mx
+
+Mexico
+36000 - Guanajuato, Gto.
+CIMAT, Apdo. Postal 402
+SPRUCE Ill.
+e-mail: spruce@conacyt.main.conacyt.mx
+Fax: (52) (473) 2 57 49
+Phone: (52) (473) 2 71 55
+
+
+
+16
+
+NYTT FRA UNIVERSITETET I OSLO
+Uteksaminert cand. scient.
+
+Staale Bergland: "Gjeninnsettelsessystemet - alternativ motorvognforsikring."
+Veileder: Walther Neuhaus
+
+Statistical Research Reports.
+
+Geir Storvik: A Bayesian Approach to Dynamic Contours through Stochastic
+Samling and Simulated Annealing. No. 1, 1994.
+
+Nils Lid Hjort og Ingrid Glad: Nonparametric Density Estimation With a
+Parametric Start. No. 2, 1994.
+
+Nils Lid Hjort: Dynamic Likelihood Hasard Rate Estimation. No. 3, 1994.
+Nils Lid Hjort: Bayesian Approaches to Non- and Semiparametric Density
+Estimation. No. 4, 1994.
+
+Erik Bølviken og Eva Skovlund: Confidence intervals from Monte Carlo tests.
+No. 5, 1994.
+
+
+
+17
+
+NYTT FRA UNIVERSITETET I BERGEN
+. Uteksaminert cand. scient.
+
+Ki Hyun Park: "Parametric estimation of ruin probabilities."
+Veileder: Jostein Paulsen
+
+Jamshain Iqbal: "Estimation of probabilities of misclassification in discriminant
+analysis."
+Veileder: Trygve Nilsen
+
+Dr. scient.
+
+Hans Julius Skaug disputerte 2. juni 1994 med avhandlingen:
+"Nonparametric functional estimation with application to hypothesis testing."
+
+Komite:
+
+1 Professor Peter Robinson, London School of Economics
+2 Docent Markku Rahiala, University of Oulu
+
+Veileder: Dag Tjøstheim
+
+Førsteamanuensis Jostein Paulsen tilbringer vårsemestret
+ved Department of Statistics, University of California, Berkeley.
+
+
+
+18
+
+NYTT FRA GRUPPE FOR STATISTIKK, NTH
+Ferdige sivilingeniører
+Tove Andersen: ”Dimensionality selection in regression”. Veileder: Thore Egeland, Norsk
+Regnesentral, Oslo. (Faglærer ved NTH: Bo Lindqvist)
+
+Sigrunn Hansen: ”Prediksjon i stokastiske felt med ikke-homogen varians”. Veileder:
+Henning Omre.
+
+Geir Johansen: ’Simulation algorithms for gaussian related random functions’. Veileder:
+Henning Omre.
+
+Randi Jule: ’Statistisk analyse av levetidsdata med programpakken S-PLUS. Anvendelse
+
+pa feildata fra sikkerhetsventileri oje- og gassbrgnner’. Veileder: Bo Lindqvist.
+
+Lars Edward Kjellesvik: ’Stochastic description of reservoir characteristics conditioned
+on seismic data’. Veileder: Henning Omre.
+
+Geir Arne Kjgnstad: ’Selected determinants for all-cause mortality among 2242 diabetics: a follow-up study after The Nord-Trøndelag Health Survey 1984-86’. Veileder: Øystein
+Kriger, Folkehelsa, Verdal/Samfunnsmedisinsk institutt, UNIT. (Faglærer ved NTH: Bo
+Lindqvist).
+
+Jan Terje Kvaløy: ”Analysis of repairable systems: Trend-testing’. Veileder: Bo Lindqvist.
+Morten Lien: ”Bruk av tidsrekker ved analyse av reparerbare systemer”. Veileder: Per
+Hokstad.
+
+Nils Meland: ’Regression with censored response — Analysis of coagulation time of blood’.
+Veiledere: Poul Thyregod og Helle Holst, Danmarks Tekniske Høgskole. (Faglærer ved
+NTH: Bo Lindqvist).
+
+Ola-Petter Munkvold: ”Bootstrapping og estimering av forventet ekstremverdi’. Veileder:
+Fred Godtliebsen.
+
+Simen Normann: ”Enhancing SAR images by modern statistical and geometrical methods’. Veileder: Fred Godtliebsen.
+
+Jan Gerhard Norstrøm: ”Bayesian analysis and decision theory in reliability and risk
+analysis”. Veileder: Henrik Kortner, Norsk Hydro, Forskningsavdelingen, Porsgrunn. (Faglærer
+ved NTH: Per Hokstad).
+
+Pål Marius Rødseth: ”Hazop and environmental risk analysis”. Veileder: Stian Lydersen.
+
+Inger-Anne F. Sætermo: ”Target characterization : Å comparizon between diffraction
+tomography and maximum likelihood estimation’. Veileder: Leiv-J Gelius, Norwave Development A/S, Oslo. (Faglærer ved NTH: Fred Godtliebsen)
+
+Jan Frode Saasen: ”Using software metrics to manage software quality’. Veileder: Stein
+B. Jensen.
+
+Inger Maren Tveit: ’Sammenkobling av ekspertvurderinger og data i palitelighetsanalyse’.
+Veileder: Olav Bakken, DnV Technica, Høvik. (Faglærer ved NTH: Bo Lindqvist).
+Are Willersrud: ”Restoration of curves disturbed by outliers and noise”. Veileder: Fred
+Godtliebsen.
+
+
+
+19
+
+Høylands dag
+Torsdag 10. mars arrangerte statistikkgruppen seminar og middag til ære for ekteparet
+
+Høyland. Arrangementene hadde rundt 75 deltakere. Statistikere fra hele landet (og
+utlandet) deltok, og både yngre og mer etablerte statistikere hadde tatt veien til Trondheim
+og NTH denne dagen.
+
+Foredragsholdere ved seminaret var:
+
+Bo Bergman, Linköping: Statistikens roll inom offensiv kvalitetsutveckling.
+Marvin Rausand, NTH: RCM - Reliability centered maintenance.
+
+Bent Natvig, UiO: Noen aspekter ved pålitelighetsanalyse i sjokk-modeller.
+Kjell Doksum, Berkeley: Degraderingsprosesser.
+
+John Tyssedal, NTH: Verdet av gode forsøksplanar.
+
+Steinar Engen, AVH: Dynamiske modeller for biologisk mangfold.
+
+Statistisk Forening Trondheim
+Foreningen har hatt to møter våren 1994:
+
+Tirsdag 8. mars med foredrag av professor Kjell Doksum, University of California, Berkeley: Om kvantiler og kvantil-prosesser.
+
+Onsdag 18. mai med foredrag av forsker Øystein Kruger, Institutt for samfunnsmedisinske
+
+fag, UNIT og Samfunnsmedisinsk Forskningssenter, Verdal: Helseundersøkelsen i NordTrøndelag - Ny arena for statistikermiljøet i Trondheim?
+
+
+
+20
+
+Medlemskap i Norsk Statistisk Forening
+
+Kontigenten i foreningen er på kr. 150 pr. år (kr. 90 for 1993) for regulære medlemmer og kr.
+50 for studenter (kr. 30 for 1993). Korrespondanse om medlemskap og innbetaling av
+
+kontigent skal skje til foreningens kasserer:
+
+Norsk Statistisk Forening v/Eva Seim
+Statistisk avd. Nycomed A.S.
+p.b. 4220 Torshov
+0401 OSLO
+
+Innbetalinger skal gjøres på foreningens postgirokonto 0802 5 15 10 55. Medlemmer som er
+usikre på når de betalte kontigent sist, vil nederst til høyre på adressseddelen for Tilfeldig Gang
+finne angitt hvilket år siste betaling er registrert for. Vær imidlertid oppmerksom på at
+adressesedlene for bladet ligger noe etter ajourføringen av medlemsregisteret, slik at nylig
+
+foretatte innbetalinger ikke vil være tatt med her.
+
+Nye medlemmer melder seg til kassereren under adressen oppgitt ovenfor. Slike medlemmer
+får automatisk tilsendt Tilfeldig Gang, med forbehold om at det tar noe tid før tilføyelser og
+forandringer i medlemsregisteret gjenspeiler seg i adressesedlene til bladet.
+Adresseforandringer meldes også til kassereren. Ved utsendelsen av Tilfeldig Gang benyttes
+det kopier av det vanlige medlemsregisteret, så adresseforandringer behøver ikke meldes
+separat til bladet.
+
+Annen korrespondanse med foreningen skal foregå med formannen under denne adressen:
+Norsk Statistisk Forening v/Eivind Damsleth
+
+Norsk Hydro
+p.b. 200
+1341 STABEKK
+
+Bidrag til Tilfeldig Gang
+
+Neste nummer av Tilfeldig Gang vil forhåpentligvis komme ut i september 1994. Alle slags
+bidrag til bladet er velkommen, enten det gjelder nye temaer av interesse for norske statistikere,
+eller man har kommentarer til innlegg som allerede har stått i bladet. Stoff til neste nummer må
+
+være redaktørene i hende senest 1. september 1994.
+Adressen til redaktørene er:
+
+Inge Helland
+Institutt for matematiske fag
+Norges Landbrukshøgskole
+Boks 5035
+
+Are Aastveit
+Institutt for matematiske fag
+Norges Landbrukshøgskole
+Boks 5035
+
+Telefon 64 94 88 75
+
+Telefon 64 94 88 72
+
+1432 Ås
+
+1432 Ås
+
+Fax: 64 94 88 79
+Mail: are.aastveit@imf.nlh.no
+
+
+
+
+
+Returadresse:
+
+TILFELDIG GANG v/Eva Seim
+NYCOMED Imaging
+
+Postboks 4220 TORSHOV
+0401 OSLO
+
+
+

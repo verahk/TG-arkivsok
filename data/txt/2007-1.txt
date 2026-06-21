@@ -1,0 +1,2076 @@
+ISSN 0803-8953
+TILFELDIG
+GANG
+Nr. 1, årgang 24
+Mars 2007
+
+Utgitt av Norsk Statistisk Forening
+INNHOLD
+Fra redaktøren, Inge Helland ....................................................................................................
+
+Side
+1
+
+Brev
+Scandinavian Journal of Statistics, Ørnulf Borgan og Bo Lindqvist .......................................
+Fra presidenten i European Mathematical Society, Ari Laptev ...............................................
+
+2
+3
+
+Artikler
+Grete U. Fenstad – 50 år på Blindern. Ingrid Glad og Bent Natvig ........................................
+Om kultur, om statistikk og om bakgrunn for egne meninger. Inge Helland ..........................
+Gambling og sannsynlighetsteori. Kjell Stordahl ...................................................................
+Bruno de Finetti – a great probabilist and a great man. Giuseppe Arichini ............................
+
+5
+9
+11
+16
+
+Puslerispalten
+Løsning til pusleri nr. 20. Jostein Lillestøl ..............................................................................
+Pusleri nr. 21. Jostein Lillestøl ................................................................................................
+
+21
+22
+
+Stipendiatpresentasjoner
+Bayesian p-values. Gunnhildur H. Steinbakk .........................................................................
+Tools for improved total value chain analysis... Nils F. Haavardsson ..................................
+
+23
+24
+
+Notiser
+Statistikkpakker med kontor i Norge. Inge Helland ...............................................................
+Statistisk forening Bergen. Geir Egil Eide ..............................................................................
+
+26
+27
+
+Meldinger og annonser
+Nytt fra UiO ............................................................................................................................
+Nytt fra UiB .............................................................................................................................
+Nytt fra NTNU .........................................................................................................................
+Baltisk-nordisk konferanse om utvalgsundersøkelser..............................................................
+Nordisk Statistikermøte, Reikjavik ..........................................................................................
+PLS-konferanse, Oslo ..............................................................................................................
+14, norske statistikermøte med prekonferansekurs og med faglig program ............................
+Stillingsannonse .......................................................................................................................
+
+28
+28
+29
+30
+32
+33
+34
+39
+
+Årskontingent og medlemsregister, NSF .................................................................................
+
+40
+
+
+
+Fra redaktøren
+Ledertrioen ved Universitetet i Oslo hadde kronikk i Aftenposten i dag 27.2. Det ble mange fine ord
+om fremragende forskning, faglige muligheter og breddeuniversitet. Til og med ordet
+’regnbueuniversitet’ ble brukt for å illustrere hele det spekteret av fag og faggrupper som finnes på
+universitetet. Her sitter jeg ved vinduet i 8. Etasje i Matematikkbygningen og ser utover Fredrikkeplassen, og lurer på hvor stor grunn vi egentlig har til å være stolte av oss selv. Jo da, vi har våre fjær i
+hatten, vi på Matematisk institutt, avdeling C, også. Vi har en god evaluering bak oss, har vært innom
+et par gode SFF-er, er aktivt med i oppstarten av en SFI og har en søknad på gang om å bli et
+toppforskningsmiljø.
+Men noe savnes: Ungdommen tenner ikke på oss. I flere år nå har søknaden til masterstudiet i
+statistikk vært lav. Samtidig trenger vi rekruttering, først til interessante masteroppgaver og videre til
+enten PhD-stipender her eller til utfordrende jobber andre steder. Dette er ikke et lokalt problem, og
+det er ikke et problem som er spesielt for statistikk, men likevel.
+Hva er det så ungdommen ønsker? Er det ikke nok å gå til et fag som er sentralt i all empirisk
+forskning? Er det ikke nok, som det står på nettet ’å forstå og tolke prosesser i naturen og
+samfunnslivet basert på bruk av matematikk’, eller å ’lære et generelt begrepsapparat for statistisk
+analyse, og lære hvordan en statistisk undersøkelse kan gjennomføres i praksis i en rekke konkrete
+situasjoner’?
+OK, studieplaner kan sikkert forbedres, men det rører ikke ved kjernen: Hva er det ungdommen
+ønsker? Mer spennende matematikk? Mer konkret databehandling? Flere eksempler fra den virkelige
+verden? Den som hadde svarene på alt dette, kunne sikkert skyte gullfuglen.
+Slik kan man sitte og tenke. Et konkret resultat av akkurat disse tankene var at jeg sendte utkastet over
+til noen kolleger ved avdelingen, og fikk straks forslag til mulige løsninger på problemet. Jeg fikk også
+en meget god diskusjon over temaet med studentene på masterkurset dagen etter.
+Så i alt bør det absolutt være lys i enden av tunnelen. Men håpet er å få enda mer lys og enda flere
+gode forslag gjennom at dette tas opp her på lederplass i TG. Problemstillingen er jo ganske generell.
+Dette nummeret av TG er tenkt som et påskenummer, men om vi ikke klarer helt å få det ut før påske,
+får dere tilgi oss. I alle fall mener vi at det inneholder interessant stoff: Puslerier, nyheter, stipendiatrapporter og flere artikler. God fornøyelse!
+Hilsen
+Inge Helland
+
+*****
+
+1
+
+
+
+Scandinavian Journal of Statistics
+Scandinavian Journal of Statistics (SJS) er nå inne i sitt 34. år. Tidsskriftet drives i fellesskap av
+statistikerforeningene i Danmark, Finland, Norge og Sverige. Fra å være et lite og hovedsakelig
+regionalt tidsskrift ved starten i 1974 har det med tiden utviklet seg til et velrenommert internasjonalt
+statistikktidsskrift. Mens årgangen 1976 for eksempel hadde 224 sider og 20% ikke-nordiske
+forfattere, hadde årgangen 2006 nesten 900 sider med 90% av forfatterne fra land utenfor Norden.
+Undertegnede overtok som redaktører fra 1. januar 2007. Den forrige redaktøren var Thomas Scheike
+fra København. For første gang er det to hovedredaktører for SJS, begrunnet med det stadig økende
+antall innsendinger. I 2006 mottok SJS for eksempel 218 nye manuskripter til vurdering, noe som er
+mer enn en dobling av antallet manuskripter pr. år ved begynnelsen av 90-tallet. I tillegg til
+hovedredaktørene er følgende norske statistikere for tiden med i redaksjonsstaben til SJS som
+”Associate Editors”: Håkon Gjessing, Ingrid Glad, Ivar Heuch og Håvard Rue.
+For å gå litt tilbake til historien, var det et viktig vendepunkt for SJS i 1992 da det ble skiftet forlegger
+fra svenske Almqvist & Wiksell til engelske Blackwell Publishing. Sistnevnte er blant annet kjent som
+utgiver av journalene til Royal Statistical Society i London. I tillegg til trykking og distribusjon er
+Blackwell ansvarlig for markedsføring, noe som ikke minst har vært viktig for å bygge opp og
+opprettholde den internasjonal profilen til SJS. I denne sammenheng kan nevnes at ferdige artikler nå
+publiseres online på Blackwell Synergy (http://www.blackwell-synergy.com) før de publiseres i
+papirversjon. Inntil 1. januar 2007 var disse tilgjengelige på internett via bibliotekene ved
+universitetene, men som muligens er velkjent, ble avtalen mellom universitetsbibliotekene og
+Blackwell sagt opp fra denne datoen. Bakgrunnen er at bibliotekene finner Blackwells
+lisensbetingelser og stadige prisøkninger uakseptable. Det hele er selvsagt meget beklagelig, men vi
+vet at bibliotekene forhandler for å få til en ny avtale. Det arbeides også for tiden fra SJS’ side med å
+få til en ordning med JSTOR (se http://www.jstor.org) for scanning og elektronisk publisering av de
+eldre årgangene av SJS.
+Alle personlige abonnenter har fremdeles elektronisk tilgang til SJS i tillegg til at de mottar
+papirversjonen. Som medlem av Norsk Statistisk Forening får du en årgang av SJS for £ 19 (se under
+”Subscribe” på hjemmesiden til SJS som finnes via Blackwells nettadresse
+http://www.blackwellpublishing.com). Tiden er nå inne til å bestille abonnement for 2007, eventuelt
+fornye tidligere abonnement!
+For å holde på sitt gode renommé er SJS avhengig av å motta manuskripter av høy kvalitet. Det er
+SJS’ uttrykte siktemål å publisere betydningsfulle og nyskapende bidrag til statistisk metodologi, både
+innenfor teori og anvendelser. SJS har et spesielt rykte for å publisere viktige arbeider innen
+overlevelsesanalyse, longitudinal dataanalyse, romlig statistikk og grafiske modeller. Det er viktig å
+kunne opprettholde dette ryktet, men samtidig er det ønskelig å kunne publisere kvalitetsarbeider i et
+bredt spektrum av metodiske problemer der statistikk og sannsynlighetsregning spiller en vesentlig
+rolle.
+Vi vil med dette oppfordre norske statistikere til å sende inn sine beste arbeider til SJS! Det bør være
+et mål å øke tidsskriftets prosentandel av nordiske (og norske!) artikler. For de som jobber i
+universitetssystemet, er det også verdt å merke seg at SJS figurerer på nivå 2 (høyeste nivå) blant
+statistikktidsskrifter. Dette brukes ved fordelingen av budsjettkroner ved universitetene, der en artikkel
+i et nivå 2 tidsskrift teller tre ganger så mye som en artikkel i et nivå 1 tidsskrift.
+Som redaktører vil vi gjøre vårt beste for å fortsette den fine tradisjonen til SJS, og vi håper at norske
+statistikere støtter opp både som abonnenter og forfattere!
+Ørnulf Borgan og Bo Lindqvist
+
+2
+
+
+
+Brev fra presidenten i European Mathematical Society.
+Dear members of Norsk Statistisk Forening,
+Let me introduce myself. My name is Ari Laptev and I am Professor of Mathematics at Imperial
+College London and at KTH in Stockholm. I have been elected as the President of the European
+Mathematical Society (EMS) for the period January 2007 - December 2010.
+EMS is a relatively new Society which still needs to attract many more individual members, by
+providing a service which will meet the needs of every European mathematician.
+Many important aims have already been achieved. Among them is the establishment of the EMS
+Publishing House, a non-profit organization, to which six journals and several book series are already
+contracted. It has been responsible for all the publications related to this year’s International Congress
+of Mathematics in Madrid.
+The EMS plays an increasingly important role in relation to the governing bodies of the European
+Union. In particular, it is able to act as an intermediary for all European mathematicians, in contrast to
+the more limited possibilities of National Mathematical Societies.
+The EMS promotes the quadrennial European Congress of Mathematics which awards ten prizes to
+young European Mathematicians. It also runs a series of mathematical weekends and supports
+European Summer Schools. Many EMS Committees are involved in a large spectrum of activities.
+The EMS Newsletter continues to improve in content and is now a valuable source of information
+concerning job opportunities, new publications, European Conferences, etc. It regularly publishes
+interviews with prominent mathematicians as well as articles of general interest.
+Among our ambitions today is the encouragement of a closer collaboration between Pure and Applied
+Mathematics. We also plan to actively draw the attention of the younger generation of mathematicians
+to the beauty, diversity and importance of Mathematics.
+Our concern is to make the EMS more visible and more efficient in its promotion of Mathematics
+within Europe. We must highlight the significance of Mathematics as a field of competence which is
+absolutely crucial to almost all areas of future Science and Engineering.
+The creation of the European Research Council is an important step forward for Science in Europe
+and we all hope that the ERC will ultimately be financially self-sufficient and independent of
+Brussels’ bureaucratic structure. Please pay attention to the web page: http://erc.europa.eu.
+There is a call for grant applications to young mathematicians, see documents
+http://ec.europa.eu/research/fp7/
+http://cordis.europa.eu/fp7/home_en.html
+It could be also useful to look at
+http://cordis.europa.eu/fp7/ideas/home_en.html
+and click on "ERC Starting Independent Research Grant" [PDF]
+As far as I understand the most important cite for us is:
+http://cordis.europa.eu/fp7/dc/index.cfm
+click on: Ideas: 2006-12-22: ERC-2007-StG
+I would like to use this opportunity to advertise Zentralblatt (ZB). EMS is one of the three owners of
+
+3
+
+
+
+ZB. It recently became clear that ZB is about to launch an Author Data base of high quality which
+could be a good alternative to MathSciNet. We have agreed with Springer that this data base will be
+available,
+free of charge, to all users for three months starting from April 2007. Moreover, it also has been
+agreed that all EMS individual members will have free access to this Data Base for at least two years.
+All members will be provided with a password and be able to log-in from any computer.
+It is my strong wish to have a closer contact with you Society members.
+Yours sincerely,
+Ari Laptev
+
+*****
+
+Tankekors.
+Statistics - A subject which most statisticians find difficult but in which
+nearly all physicians are expert.
+Innsendt av Øystein Evandt etter innspill fra en lege.
+
+*****
+
+4
+
+
+
+Grete U. Fenstad – 50 år på Blindern
+av Bent Natvig og Ingrid Glad
+Det faktum at vår kjære Grete Usterud Fenstad gikk over i pensjonistenes rekker i fjor ble markert ved
+en gedigen og hyggelig middag på Skytterkollen 2. mars 2006. Venner og kollegaer fra fjern og nær
+hyllet henne for innsatsen gjennom mer enn 40 år for statistikkfaget i Norge. Alle norske statistikere
+burde vært der, men som ellers i faget måtte en trekke et representativt utvalg. Det følgende er skrevet
+til informasjon og glede for alle TGs lesere.
+
+Oppvekst
+Grete ble født i Kristansand (derav de fine r-ene) i 1939 rett før utbruddet av 2. verdenskrig. Hun
+tjuvstartet på folkeskolen som seksåring og flyttet til Monradsgate på Tøyen i Oslo i tredje klasse.
+Dette var midt i Gerhardsen-land, og faktisk også barndomsriket for påfallende mange kommende
+statistikere, hvorav et par er blitt kolleger med Grete ved avdeling C senere. Hun presterte for øvrig å
+dra på vinterferie til Kristiansand under vinter OL i Oslo i 1952.
+Hun begynte på reallinjen på Vahl gymnas i 1954. Her var det et godt miljø, og så mye som en
+tredjedel av elevene i realklassen var jenter. Lærebøkene i matematikk var skrevet av Alfsen, Alfsen
+og Alfsen, mens klassen brukte Isaksens bøker i fysikk. Kort sagt et veldig godt grunnlag for en
+kommende realfagsstudent. Hun gikk i klasse med Frøydis Guldahl (for sosietetsinteresserte tante til
+statistiker Ane Seierstad og mor til forfatter Åsne Seierstad). De to dyktige jentene avla artium i 1957
+noen måneder etter at den seks år eldre Knut Kuppern Johannesen fra Hertug Skules gate (noen
+steinkast unna) ble verdensmester på skøyter i Østersund.
+
+Studietid
+Oppmuntret av Frøydis, startet de to venninnene umiddelbart med realfagsstudier på Blindern. Grete
+tok det store grunnkurset i kjemi og ex. phil., men planen om å bli kjemiker ble raskt forkastet i
+frustrasjon over hvite bunnfall på labben. Mye takket være Jon Stenes overtalelser, satset hun videre
+på matematikk og statistikk. I matematikk brukte man lærebøkene til Tambs Lyche, i statistikk
+stensiler av Erling Sverdrup. Disse var forløperne til lærebøkene Lov og Tilfeldighet. Venninnene uten
+lektorambisjoner tok projeksjonstegning med Johs. Østvold for hyggens skyld og startet en ren
+kvinnekollokviegruppe for matematikkfagene sammen med 3-4 andre. Grete ble i 1962 ansatt som
+vitenskapelig assistent ved avdeling C og var ferdig cand. real. med statistikk hovedfag i 1964.
+Tittelen på hovedfagsoppgaven var: ”Asymptotiske normale, effisiente estimatorer.” Sverdrup var
+veileder, men han oppholdt seg i USA, så unge Grete klarte seg på egenhånd, med svært gode
+resultater.
+Miljøet rundt statistikk-fagene de første årene var lite, men meget inspirerende. La oss repetere de åtte
+første plassene for uteksaminerte hovedfagskandidater i statistikk: Else Sandved (1959), Erik
+Torgersen (1962), Jon Stene, Hans Olav Egede Larsen (1963), Grete U. Fenstad, Emil Spjøtvoll, Erik
+Mohn (1964), Liv Høyland (1965). Dette sier litt om hvem Grete studerte sammen med, og hvor
+mange dyktige folk som ble trukket mot dette fagområdet.
+
+Tidlige arbeidsår
+Grete var visiting scholar ved Stanford University fra høsten 1965 til desember 1966. Datteren (og
+statistikeren) Anne Marie ble født det siste året. Grete ble ansatt som universitetslektor ved
+Matematisk institutt ved UiO den 1. januar 1967 og ble kollega med Erling Sverdrup, Olav Reiersøl,
+Else Sandved og Emil Spjøtvoll. Hun flyttet da inn på det kontoret i 8. etasje i Niels Henrik Abels hun
+siden har bebodd frem til sommeren 2006. Hun fikk opprykk til førsteamanuensis i 1980.
+
+5
+
+
+
+Grete underviste basiskurset S13 - Sannsynlighetsregning etter Karlin`s bok våren 1968 og S 12Statistikk II etter Sverdrups bøker hele dette året. Hun utmerket seg med en gang som en dyktig, vel
+forberedt, ryddig og ut på høsten også høygravid (med tvillinger) foreleser. Med innsatsen dette året
+sikret hun en stor generasjon av norske statistikere på bekostning av en fornyelse av bestanden av
+realister i gymnasene. Denne generasjonen fordelte seg etter hvert på ulike anvendelsesområder, og
+svært mange av dem har blitt sentrale personer i det norske statistikkmiljøet senere. Hennes
+forelesninger har siden gledet tallrike statistikk-studenter hvert eneste semester frem til sommeren
+2006.
+
+Vitenskapelig interesser
+Gretes vitenskapelige interesser og faglige samarbeidpartnere er reflektert i følgende
+internasjonale publikasjoner:
+Fenstad, G.U. On Asymptotically Normal Estimators, Skandinavisk Aktuarietidsskrift, 1965, pp.48-60
+Fenstad, G.U., Njå, A., Walløe, L. Linear Subtractive Inhibition Produced by
+Summation of Individual IPSPs, Acta Physiol.Scand., 1974, 91, 9A-10A
+Fenstad, G.U., Njå, A., Walløe, L. Summation of Excitation and Inhibition in the
+Slowly Adapting Stretch Receptor Neuron of the Crayfish, Biological Cybernetics,
+1976, 24, pp.67-74
+Fenstad, G.U., Walløe, L., Wille, S.Ø. Three Tests for Regression Compared by
+Stochastic Simulation under Normal and Heavy Tailed Distribution of Errors,
+Scand. J. Statist., 1977, 4, pp.31-34
+Doksum, K.A., Fenstad, G.U., Aaberge, R. Plots and Tests for Symmetry, Biometrika,
+1977, 64, pp.473-487
+Fenstad, G.U., Kjærnes, M., Walløe, L. Robust Estimation of Standard Deviation,
+Journal of Stat. Comp. and Sim., 1979, 10, pp.113-132
+Fenstad, G.,U. A Comparison between U and V tests in the Behrens-Fisher Problem,
+Biometrika, 1983, 70, pp.300-302
+Fenstad, G.U., Skovlund, E. A Two-Sample Sequential Rank Test by Sen Investigated by Stochastic
+Simulation, Journal of Stat.,Comp. and Sim., 1990, Vol.36, pp.129-137
+Hjort, N.L., Fenstad, G.U. On the last time and the number of times an estimator
+is more than  from its target value, The Annals of Statistics, 1992,
+Vol.20, pp.469-489
+Hjort, N.L., Fenstad, G.U. Second order asymptotics for the number of times an
+estimator is more than  from its target value, Journal of Statistical
+Planning and Inference, 1995, Vol.48, pp.261-275
+Grete har også hatt forskningssamarbeid gjennom mange år med professor Inger Moen innen
+lingvistikk. Dette har resultert i blant annet egne appendiks i både Moens doktorarbeid
+"Konduksjonsafasi: En fonologisk analyse av spontantalen" (1983) og artikkelen "Functional
+Lateralization of the Perception of Norwegian Word Tones --Evidence from a Dichotic Listening
+Experiment", Brain and Language, 1993.
+I løpet av sin yrkeskarriere har Grete også gjort en utmerket administrativ innsats for statistikkfaget,
+matematikkfaget samt Det matematisk naturvitenskapelige fakultet og Det akademiske kollegium ved
+Universitetet i Oslo. Se bare listen over noen utvalgte verv som er lagt ved til sist.
+
+6
+
+
+
+Gift med Jens Erik
+Grete giftet seg med logikeren Jens Erik Fenstad i 1962. Den observante leser har registrert 3 barn. I
+tillegg er antall barnebarn foreløpig kommet opp i 10.
+Paret har i alle år vært ansatt på samme institutt. Grete sier hun er glad de har jobbet i så ulike fagfelt,
+men har ellers alltid opplevd å ha samme arbeidsplass som en stor og hyggelig fordel. I
+småbarnsperioden var det for eksempel mulig å planlegge undervisningen slik at de to aldri underviste
+på samme tidspunkt, i tilfelle en av dem måtte være hjemme med syke barn. Datidens tidsklemme var
+like klemmende som den vi stadig hører om i dag. De første årene hadde familien dagmamma til
+eldstejenta og tvillingguttene, og foreldrene fartet i drosje og bil mellom Blindern og hjemmet på
+Østerås. Etter iherdig innsats (med Jens Erik i barnehage-komité) ble de tre barna i 1970 de første til å
+begynne i nystartet barnehage i Villa Eika på Blindern. I likhet med sin mor, begynte alle barna ett år
+for tidlig på skolen ’fordi barnehagen var så dyr’!
+
+Nesten eneste kvinne
+Leilighetene på Østerås var kjøpt opp av universitetsansatte, og selv om vi vet at det både var uvanlig
+med en mamma i full stilling og med en mamma som var matematiker på universitetet på den tiden,
+følte Grete aldri at hun gjorde noe banebrytende eller var i en uvanlig livssituasjon. ’Alle på Østerås
+hadde det slik den gangen…’
+Hun kan likevel ikke benekte at hun i alle år har vært en av bare 2-3 kvinner i akademisk stilling ved
+Matematisk institutt. På spørsmål om hvordan det har vært å være så alene i et så mannsdominert
+miljø, svarer hun todelt. For det første, har hun alltid følt seg sett, hørt og respektert av sine mannlige
+kolleger, og har aldri følt det vanskelig å være kvinne blant så mange menn. For det andre, har det
+alltid vært spesielt og veldig hyggelig med de få kvinnelige kollegene hun har hatt opp gjennom
+tidene. Selv de søteste og snilleste statistiker-menn klarer ikke å kompensere for mangelen på
+kvinnelige samtalepartnere på jobb. Men hun har tatt igjen med syklubb på fritiden!
+Grete har vært involvert i ulike debatter om likestilling og kjønnskvotering ved UiO
+opp gjennom årene. Hun hevder at hun selv aldri har opplevd forskjellsbehandling pga. kjønn, men at
+det er viktig å jobbe for å bedre kvinners kår i forskning. Muligens er det enklere å likebehandle
+innenfor naturvitenskapene enn i humaniora, der det er vanskeligere å vurdere kvalitet av arbeidene
+på et nøytralt grunnlag.
+Grete har ellers opptrådt i universitetets internpresse som eier av en gedigen monsterplante, som var i
+ferd med å presse henne ut at hennes eget kontor før den ble avlivet, og som en ihuga fotgjenger, lenge
+før skritt-tellernes tid. Uniforum har i full beundring dokumentert Gretes morgenturer i all slags vær
+fra Østerås til Blindern (dog med noe bruk av trikk) - mens ektemannen kjører samme turen i en tørr
+og varm bil. Grete er fremdeles fysisk aktiv med fotturer i marka og jenteturer i fjellet med tidligere
+omtalte Frøydis. Hun var til og med reserve på Holmenkollstafettlaget til hovedfagsstudinene ved
+avdelingen i ganske moden alder. Det var den gangen vi hadde så mange studenter at den kvinnelige
+halvparten av dem var nok til et helt Holmenkollstafettlag!
+
+Grete og norsk statistikk
+Svært mye har endret seg i løpet av de 40 årene Grete har vært i fagmiljøet. Rekrutteringen til faget og
+kvaliteten på studentene har alltid gått opp og ned, bortsett fra en 10-års periode i begynnelsen som
+hun betegner som en gullalder når det gjaldt tilgang på uvanlig mange usedvanlig flinke folk.
+Statistikk-faget i seg selv har selvfølgelig endret seg enormt gjennom disse årene, spesielt med
+innføringen av datamaskiner. Grete har en morsom samling ’forhistoriske’ regneinstrumenter på
+kontoret, men var selv raskt ute med å kjøre simuleringer da det ble mulig, og er meget avansert når
+det gjelder moderne teknologiske hjelpemidler. Hun drømmer imidlertid fortsatt om Neyman-Pearson.
+Ved siden av å være ’urmor’ for en stor andel av de som har bygget opp norsk statistikk videre, har
+Grete vært aktiv i Norsk statistisk forening i alle år.
+Grete har deltatt på samtlige 13 norske statistikermøter siden starten på Røros (der hun har hytte som
+utgangspunkt for et meget aktivt friluftsliv) i 1979. Hun er nå klar for årets møte på Sommarøy utenfor
+Tromsø. Vi er lykkelige over at hun fortsatt jevnlig er på sitt kontor på Blindern, og takknemlige for
+den innsatsen hun fremdeles gjør for avdeling C som vikar, rådgiver og faglig orakel.
+
+7
+
+
+
+Utvalgte faglige tillitsverv
+Formann i Norsk Matematikkråds undervisningsutvalg
+Undervisningsleder ved Avd.C, Matematisk institutt i flere perioder
+Avdelingsbestyrer ved samme avdeling
+Fakultetsrådsmedlem, fakultetsstyremedlem og fakultetsrepresentant i Det akademiske kollegium
+1978-1980
+Instituttbestyrer ved Matematisk Institutt 1985-1986
+Formann i Instituttets undervisningsutvalg 1989-1990
+Medlem av NAVF's faggruppe i matematikk 1989-1992, senere prolongert ut 1993
+under Norges forskningsråd, avdeling NAVF/RNF
+Medlem av Undervisningsutvalget i Norsk Matematikkråd og varamann til styret i en
+periode fra 1. januar 1995
+Medlem av organisasjonskomitéen for NORDSTAT2000, 18.Nordic Conference on
+Mathematical Statistics, i juni 2000 med spesielt ansvar for økonomien
+Medlem av organisasjonskomitéen for 25th European Meeting of Statisticians, 24-28
+July 2005 med spesielt ansvar for innkvarteringen på Kringsjå
+
+Kvinne med flyndre anno 2005 (kfr. forrige nummer av TG).
+
+8
+
+
+
+Om kultur, om statistikk og om bakgrunn for egne meninger
+av Inge Helland
+Hva er det største problemet i verden? Ikke vet jeg, men i alle fall langt oppe på listen kommer
+motsetningen mellom ulike kulturer. Ekstreme utslag gir det i Midtøsten, i Irak, på Balkan og en rekke
+andre steder, men kanskje er mekanismen velkjent i mindre sammenheng også andre steder. Hvor som
+helst hvor grupper av mennesker har noe som binder dem sammen, kan det lett dannes holdninger av
+typen: Vi har rett og alle andre tar feil. Det som skiller mellom grupperinger, er ofte vilkårlige kriterier
+som har lite å gjøre med spørsmålet som skal vurderes. For eksempel: Er det ikke ganske absurd at du
+har tendens til å mene forskjellig om de evige spørsmålene om du er født i Roma, Teheran eller på den
+norske sørlandskysten?
+Sett at en tar dette fenomenet helt alvorlig. Hvordan skal en da danne seg meninger og synspunkter?
+Selvfølgelig kan en prøve å tenke så rasjonelt som mulig, men i bunnen ligger alltid en magefølelse,
+noe som er basert på enkel intuisjon. Og dette vil jo være en intuisjon som er utviklet gjennom kontakt
+med en eller annen kultur, en kultur som kanskje i utgangspunktet er temmelig vilkårlig, i alle fall ofte
+bestemt av faktorer utenfor en selv.
+Hva er så en kultur? Følgende definisjon finner vi i boken ’Managing Chaos’ av Ralph D. Stacey:
+’Kultur er et sett av holdninger, meninger og overbevisninger som en gruppe mennesker deler, om
+hvordan man skal oppføre seg mot hverandre, hvordan ting skal vurderes og gjøres, hvilke spørsmål
+som er viktige og svar som er aksepterte. De viktigste elementene i kulturen er ubevisste, og kan ikke
+påtvinges utenfra.’
+Men vitenskapen, da; den er vel objektiv, absolutt og kulturuavhengig? Man ville gjerne tro det, og
+idealet kan nok være en vitenskap som går foran og danner et eksempel for annen menneskelig
+aktivitet når det gjelder å være objektiv. Men kulturelle elementer finnes også i alle vitenskaper, ikke
+minst gjennom det språket som brukes i den vitenskapelige diskusjonen, og gjennom den felles
+umiddelbare og uformelle erfaringen som forskere i en gruppe deler. Alt dette kan lett føre til skarpe
+skiller mellom vitenskaplige grupperinger, eller til at gode idéer fra andre kulturer blir oversett.
+Ta vårt eget fag: Et vesentlig kulturelt element er modellapparatet bygget opp ved klasser av
+sannsynlighetsmål. Dette gjennomsyrer nesten all statistisk undervisning og en vesentlig del av
+forskningen. Likevel er mange anvendte statistikere og dataanalytikere skeptiske til en overdreven,
+eller i alle fall til en altfor rigid, bruk av dette modellapparatet. En interessant kulturdiskusjon på dette
+området finner vi i Breiman (Statistical Science 16, 199-231 (2001)). Det kan til og med vises logiske
+begrensninger i selve modellapparatet: Noen klasser av sannsynlighetsmål leder til absurde modeller,
+veldefinerte nok matematisk sett, men absurde fra et praktisk synspunkt; se McCullagh, Ann. Statistics
+30, 1225-1310 (2002).
+Men tross alt, dette er et modellspråk med et stort antall anvendelser og en omfattende teori. Andre
+vitenskapelige kulturer bygger på helt andre språk. Går det an å oversette og komme nærmere en
+universell kultur for empirisk vitenskap? For å si det med John A. Wheeler: ’Progress in science owes
+more to the clash of ideas than to the steady accumulation of facts.’ Noen er skeptiske til slike utsagn.
+Gjennom en del år nå har jeg prøvd om det er mulig å bruke vårt språk innenfor to andre kulturer:
+partial least squares-kulturen i kjemometri og kvantemekanikken. Den første av disse har et språk som
+bygger på det vi ville kalle algoritmer, men variablene som inngår, har klar mening for
+kjemometrikerene; de brukes til ulike plott og til prediksjon. Når det gjelder kvantemekanikken, gjør
+den utstrakt bruk av sannsynligheter, men på en annen måte enn vi er vant til. Det vanlige språket er et
+formelt operatoralgebra-språk. At det hele likevel dreier seg om hva vi kan si om naturen, og dermed
+nærmer seg statistisk tankegang, går fram av følgende sitat fra Niels Bohr: ’There is no quantum
+world. There is only an abstract physical description. It is wrong to think that the task of Physics is to
+
+9
+
+
+
+find out what Nature is. Physics concerns what we can say about nature.’ Et viktig generelt poeng her:
+Ulike språk er bærere av ulik intuisjon. Det er ikke opplagt hva som er det riktige språket og den
+riktige intuisjonen.
+Problemstillingen har resultert i endel artikler i statistiske tidsskrifter (den første i SJS 17, 97-114
+(1990); den siste i Ann. Statistics 34, 42-77 (2006)), noen artikler i kjemometriske tidsskrifter og et
+par konferanse-rapporter innenfor fysikk. For tiden arbeider jeg med å skrive om både problemstilling
+og enkelte resultater i en bok, men dette vil nødvendigvis ta noe tid.
+Hva har jeg lært av denne prosessen? En hel del om detaljer, ikke minst om hvordan vitenskapsmenn
+kommuniserer. På en fysikerkonferanse i Bulgaria i 2005 var det en intens strid mellom teoretikere og
+eksperimentalfysikere, og av en tysker ble jeg entusiastisk tatt til inntekt for et mer praktisk syn på
+fysikken. Egentlig var jeg litt forsiktig med å gi uttrykk for synspunkter i denne distingverte
+forsamlingen. Men foredraget mitt hadde tittelen: ’Quantum mechanics from a theory of experiments’,
+og dette ble godt mottatt, også av andre enn tyskeren.
+Det er selvfølgelig klart at det enkle statistiske paradigmet ikke er nok til fullt ut å dekke disse andre
+kulturene. Det som ser ut til å være saken, er at det statistiske språket må utvides med elementer som
+vi kjenner igjen fra ulike anvendte områder: Fokusering av problemstilling, modellreduksjon,
+symmetribetraktninger, kontrafaktoriske betraktninger og så videre. Til sammen kan det hele bli nokså
+komplekst, men ved konkrete anvendelser forenkler det seg ofte. Som Emil Spjøtvoll en gang sa:
+’Man kan forstå ting på mange forskjellig nivåer.’
+Problemet er å få aksept for disse statistiske tankene blant forskere i de andre kulturene. Disse
+forskerne har sine egne språk, som de er vant til. Særlig gjelder dette innenfor kvantemekanikk, bygget
+på et matematisk språk formalisert av John von Neumann. Som von Neumann selv sa: ’One doesn’t
+understand things in mathematics, one just gets used to them.’.
+Likevel er det nettopp matematikken som viser at endel ekvivalenser mellom språk eksisterer.
+Generelt: Forskning innebærer leting; leting etter gode spørsmål og leting etter overbevisende svar på
+spørsmålene. Og når man leter etter noe, kan det være lurt å se flere steder. For å få en god bakgrunn
+for egne meninger, kan det være nyttig å ha kontakt med flere kulturer.
+Håpet er at når boken kommer, skal den gi et lite bidrag til en prosess mot et mer universelt grunnlag
+for empirisk forskning. Men prinsippet om kulturer kan diskuteres allerede nå.
+Men etter dette, hvor ble det av alle de positive elementene ved de enkelte kulturene? Og hva med vår
+egen kultur? Skal vi gi den opp og bli universelle alle sammen? Tillat meg å røpe en ting jeg ikke sa
+over: Sitatet fra Ralph D. Stacey i begynnelsen som ga en definisjon av begrepet kultur, er fra min side
+hentet fra Ingebrigt Steen Jensens bok: Ona fyr. Og Steen Jensen ser – som mange av oss – på kultur
+som noe meget positivt. I forbindelse med sitatet over går han inn for at bedrifter og andre skal danne
+en stammekultur etter mønster fra fotballfolket.
+Med et kvantemekanikk-ord er det her, slik jeg ser det, snakk om å prøve å forene to komplementære
+sett av verdier: Jeg tror det er helt OK at norske statistikere forsøker å danne en stammekultur, og det
+er helt OK at vi dyrker våre egne helter, tenker i vårt eget språk og fortsetter våre egne aktiviteter, men
+jeg tror også vi skal ha øynene oppe for verdier som finnes i andre kulturer. Og da gjerne prøve å
+forstå dem ut fra vår synsvinkel, og kanskje også hente noen impulser til oss fra andre miljøer.
+Til slutt: Av ulike grunner inneholder denne artikkelen flere sitater. La meg slutte med et av Albert
+Einstein: ’Subtle is the Lord, but not malicious’; det vil si: Naturen er vanskelig når det gjelder å gi
+slipp på hemmelighetene sine, men den er ikke ondsinnet. Og la meg helt til sist oppsummere med
+dette enkle sitatet fra 1. Korinterbrev 13.9: ’For vi skjønner stykkevis’; i virkeligheten en dyp sannhet
+som har flere nivåer, og som gjelder oss alle sammen, også forfatteren av denne artikkelen.
+
+10
+
+
+
+Gambling og sannsynlighetsteori
+av Kjell Stordahl
+Bakgrunn
+Undertegnede holdt det selvvalgte foredraget: ”Are the odds against you? The history of how
+gambling initiated the theory of probability and how the theory can be used to improve your odds” i
+sin dr philos disputas 19/12 2006 ved NTNU (Dissertation title: Long-Term Telecommunications
+Forecasting; Assigned lecture: Wireline versus Wireless – Performance and Business).
+Jeg fant så ut at et par utdrag av det første foredraget, kunne egne seg som innlegg i TG. Jeg har
+tidligere holdt noen foredrag og skrevet to bøker om tipping/gambling, men denne gangen ville jeg i
+tillegg ta med litt av historien om hvordan gamblingen initierte utviklingen av sannsynlighetsteorien.
+Dette innlegget er kun om starten av sannsynlighetsteorien.
+De viktigste kildene som jeg har brukt, er
+(Todhunter, 1865)
+I. Todhunter: A history of the mathematical theory of probability,
+Macmillan and Co, 1865
+(Ore, 1953)
+Øystein Ore: Cardano, The gambling scholar, Princeton University
+Press, 1953
+(Ore, 1960)
+Øystein Ore: Pascal and the invention of probability theory, Amer.
+Math. Monthly, 67, p 409-419, 1960.
+(King, 1963)
+Amy C King and Cecil B Read: Pathways to probability, Holt, Rinehart and
+Winston, 1963
+(Hald, 1990)
+A. Hald: A history of probability and statistics and their applications
+before 1750, John Wiley&Sons, 1990
+(Mahoney, 1994)
+Michael Sean Mahoney: The mathematical career of Pierre de Fermat,
+Princeton Univerity Press, rev 1994.
+Boken av Todhunter fra 1865, med 1062 noter, er av mange sett på som selve bibelen for
+sannsynlighetsteoriens historie. Den er på flere områder nyansert og utdypet av (Hald, 1990).
+Som innledning til sannsynlighetsteoriens historie kan det være morsomt å starte med følgende sitat
+fra den velkjente matematiker Marquis Pierre-Simon de Laplace i sin bok ”Thèorie Analytique des
+Probabilitiés (1812): It is remarkable that a science which began with consideration of games of
+chance should have become the most important object of human life .…. The most important questions
+of life are, for the most part, really only problems of probability. Dette er sterke saker selv for
+statistikere!
+
+Gerolamo Cardano (1501 – 1576)
+Gerolamo Cardano må sies å være sannsynlighetsteoriens far. Øystein Ore har skrevet en svært
+interessant bok (Ore, 1953) der han analyserer mange sider av det usedvanlige mennesket og
+vitenskapsmann Cardano. Siste del av denne boken består av Cardanos bok Liber de Ludo Aleae (The
+Book on Games of Chance) som Ore fikk oversatt fra latin.
+Gerolamo Cardanos far, Fazio Cardano, var advokat, men han hadde også svært gode kunnskaper i
+medisin og matematikk. Han ble også konsultert av Leonardo da Vinci i geometriske analyser.
+Gerolamo Cardanos liv er godt beskrevet i hans selvbiografi De Propria Vita. Han var utdannet lege.
+Under studietiden drev han også med gambling for å finansiere utdannelsen. Han holdt også på med
+gambling i mange år etter det. Cardano hadde svært mange interesser og skrev blant annet om
+matematikk, fysikk, astronomi, sannsynlighetsregning, moral, oppdragelse, musikk, sjakk, drømmer,
+døden, sjelens udødelighet, men mesteparten av hans bøker omhandlet medisinske spørsmål. I sin
+
+11
+
+
+
+selvbiografi teller han 131 trykte arbeider etter at han brente 170 manuskripter som han ikke anså for å
+være gode nok. Cardanos første bok ”On the Bad Practises of Medicine in Common Use” kom ut i
+1536. Boken ble skrevet da han ikke fikk stilling på sykehuset i Milano, men med dette fikk han
+stilling og etter få år toppstillingen på sykehuset. Han var en dyktig lege og ble mange ganger benyttet
+av adelen. Han var også en enestående debattant som var umulig å slå i de dueller som ble arrangert på
+den tiden.
+I 1545 utga han Ars Magna, en lærebok i aritmetikk, der blant annet løsningen til 3. og 4.
+gradslikningen første gang ble publisert. Løsningen på 3. gradslikningen ble først gjort av Scipione del
+Ferro rundt 1500, men han offentliggjorde aldri løsningen. Årsaken var at ansatte på universiteter på
+den tiden kunne utfordres til duell om stillingen som ble avgjort ved at duellantene ga hverandre et sett
+med oppgaver som skulle løses. Derfor var det viktig både å ha og skjule kunnskap ovenfor andre.
+Løsningen av 4. gradslikningen ble gjort av Cardanos briljante elev Lodovico Ferrari.
+Cardano skrev flere bøker om spill. Boken Liber du Lodo Aleae (The book on Games and Chance) er
+en håndbok for gamblere og det går klart frem at Cardano hadde mye gambling-erfaring. Det gis
+mange råd om hvordan ulike triks og falskspill skal unngåes. I boken anvender Cardano metoder som
+er grunnleggende for sannsynlighetsregningen. Han definerer fundamentale prinsipper eksempelvis
+ved å definere utfallsrom og ved å definere sannsynlighet som gunstige dividert med mulige. Han
+angir sannsynlighet for et sett med uavhengige begivenheter som produktet av sannsynlighetene og
+han toucher inn på matematisk forventning og store talls lov. Cardano viser komplett utfallsrom for
+kast med to og med tre terninger og hans metoder ville i utgangspunktet løst Chevalier de Mèrès
+problem som vi skal se ble diskutert av de Mèrè og Pascal 100 år senere.
+Mye av manuskriptet til boken ble laget på et tidlig stadium i Cardanos karriere, men noe er supplert
+også senere. Han fikk imidlertid ikke gitt ut boken fordi han i 1570 ble arrestert av inkvisisjonen og
+nektet videre publisering. Boken ble dessverre ikke utgitt før i 1663 og da inkludert i stort 10bindsverk med Cardanos publikasjoner.
+Derfor fikk ikke Liber du Lodo Aleae den betydning den kunne ha hatt for utvikling av
+sannsynlighetsteorien.
+
+Blaise Pascal (1623 – 1662)
+Da Pascal var et år ble han alvorlig syk og sykdommen forfulgte ham i alle år. Han ble da også bare 39
+år gammel. Da han var 16 år publiserte han en bemerkelsesverdig avhandling om koniske snitt. Da han
+var 18 år laget han verdens første regnemaskin for addisjon og subtraksjon, dette for å hjelpe sin far
+som bl.a. arbeidet med skatteberegninger. Han utførte også en serie med trykkmålinger og konkluderte
+med eksistens av vakum. Pascal var også kjent som en flink skribent med særlig talent for polemikk.
+Hans litterære stil ble også påvirket av Antoine Gombard Chevalier de Mèrè (1607 – 1684) som han
+ble kjent med 1651/52. I mange bøker om sannsynlighetsteoriens historie står det at ”En gambler ved
+navn de Mèrè i 1654 forela to spilleproblemer til Pascal og at dette ble starten på
+sannsynlighetsteorien”. I (Ore, 1960) står det at de Mèrè ville snudd seg i sin grav dersom hans liv
+hadde blitt karakterisert på denne måten. de Mèrè fikk en god utdannelse, hadde erfaring fra hæren og
+han arbeidet blant annet ved en domstol i Paris. Han var ofte ved Ludvig XIV hoff og ble en
+prominent person både selskapelig og som rådgiver ved konflikter.
+Pascal og de Mèrè ble godt kjente. De utvekslet synspunkter på mange områder og det hendte også at
+de gamblet sammen. (Ore, 1960) sannsynliggjør imidlertid at verken Pascal eller de Mèrè hadde noen
+form for spillelidenskap. Ved anledninger uttrykte de seg også foraktelig om gambling.
+de Mèrè gjorde Pascal oppmerksom på det som ofte er kalt terningproblemene som var velkjente fra
+lang tid tilbake. Her beskrives et av dem: Med spill med to terninger, hvor mange ganger (n) må de
+kastes for at sannsynligheten skal bli størst for at det har forekommet minst en dobbel 6-er. Pascal
+løste dette på følgende måte: Han fant at sannsynligheten for at det ikke skal bli en dobbel 6-er i ett
+kast er 35/36. Deretter antok han det samme som Cardano gjorde et hundre år tidligere at kast med
+
+12
+
+
+
+terninger er uavhengige begivenheter og angir da at sannsynligheten for ikke få en dobbel 6-er i løpet
+av n kast er (35/36)n. Dermed blir sannsynligheten for minst en dobbel sekser i løpet av n kast pn = 1 (35/36)n. Pascal beregner da p 24 = 0,491 og p25 = 0,506. Grensen går altså mellom kast 24 og kast 25.
+Det var på den tiden Pascal tok kontakt med Fermat for å få bekreftelse på sine teorier og det er dette
+som av mange ansees å være starten på utviklingen av sannsynlighetsteorien. Men først litt om Fermat.
+
+Pierre de Fermat (1601 -1665)
+Fermat kom fra en velstående kjøpmannsfamilie på farssiden og advokatfamilie på morsiden. Han
+studerte juss ved universitetene i Toulouse og Orlèans og matematikk ved universitet i Bordeaux. Han
+gjorde karriere som jurist og fikk stadig høyere stillinger. Så det kan sies at han i sin yrkeskariere var
+jurist, men hadde matematikk som en livslang hobby! Fermat var kjent for ofte å vise sine
+matematiske resultater, men uten å vise sine bevis eller bare gi ufullstendige bevis. Årsaken kan være
+at han ikk så på dette som sine primæroppgaver i dette livet. Mye viktig informasjon fra Fermat finnes
+som notater på kantene av manuskripter og i brev til sine venner. Han var med andre ord ikke så
+opptatt av å publisere sine resultater. Først på et senere stadium – august 1654 – foreslo han for
+Carcavi at Carcavi og Pascal skulle publisere hans arbeider. Dette ble imidlertid først gjort av hans
+sønn etter hans død, i 1679.
+Fermat er kjent for å ha lagt grunnlaget for analytisk geometri, han har gitt signifikante bidrag til
+calculus ved beregninger av tangent, maksimum og minimum og til tallteorien. Fermat er også berømt
+for sitt siste teorem (imidlertid fra1637) der han sier at det ikke finnes noen heltall som tilfredsstiller xn
++ yn = zn der n >2. Det er en fantastisk historie om hvordan de beste hjerner i matematikken i mer enn
+350 år har prøvet å utvikle dette beviset. Så, i 1993 etter 7 års arbeid i full isolasjon offentliggjør
+professor Andrew Wiles sitt bevis på en større matematikk-konferanse i Cambridge. Dette vakte stor
+oppmerksomhet. Imidlertid viste det seg et det var et hull i beviset og det var en katastrofe for Wiles.
+Han hadde isolert seg – akkurat som pytagoreerne gjorde 2000 år tidligere - da de utviklet
+matematikken nærmest som en religion, men kun for de innvidde. Til tross for et enormt press blant
+annet fra media lyktes det Wiles å fullføre beviset ett år senere. Han hadde da blant annet benyttet
+Selmer-grupper i sin fullføring. Selmer-grupper ble utviklet på 50-tallet av den norske professor Ernst
+Selmer som dessverre døde 8. november 2006.
+
+Starten på sannsynlighetsteorien
+Mange anser at starten på sannsynlighetsteorien er brevvekslingen mellom Pascal og Fermat fra juli til
+oktober i 1654.
+Pascal ønsket på denne tiden å få bekreftelse på noen av sine bevis på gambling problemer. Han
+kontaktet den velkjente matematiker Roberval, men fikk liten støtte og heller kritikk. Mange beskrev
+Roberval som: ”The greatest matematician in Paris, and in conversation the most disagreeable man in
+the world”. Pascal henvendte seg derfor til Fermat som bodde i Toulouse og det fulgte en brevveksling
+mellom Pascal og Fermat på flere brev hvorav 7 er kjente. Fermat som levde isolert fra matematiske
+miljøer var svært glad for den kontakten han fikk med Pascal og det var gjensidig.
+Fermat bekrefter i korrespondansen Pascals løsning på terning problemene.
+Korrespondansen starter imidlertid med diskusjon av det klassiske Poeng-problemet som var velkjent
+fra flere århundre tilbake, men som ingen hadde funnet løsning på. Det var ulike varianter og
+”innpakninger” av problemet. Her vises Pascals løsning på et enkelt Poeng-problem:
+To spillere A og B legger hver 32 gullmynter (på den tid kalt pistoler) i potten. Den første spiller som
+får 3 poeng, får hele potten. Vinner av hver omgang får ett poeng. Hver spiller har sannsynlighet på 
+for å vinne en omgang. Imidlertid blir spillet avbrutt, når spiller A har 2 poeng og spiller B ett poeng.
+Spørsmålet er nå, hvordan skal potten deles på en rettvis måte?
+
+13
+
+
+
+Pascal tilordner sannsynlighet til ulike realiseringer og resonnerer som følger: Sannsynligheten for at
+spiller A vinner neste omgang er . For dette skal han tildeles 32 gullmynter. Sannsynligheten for at
+spiller B vinner neste omgang er . Da vil spiller A og B begge ha 2 poeng og skal følgelig tildeles 16
+gullmynter hver. Følgelig skal spiller A totalt ha 48 gullmynter og spiller B 16.
+Fermat generaliserer Poeng problemet og finner løsninger for mer kompliserte tilfelle og når det er
+flere spillere. Har benytter seg av permutasjoner som jo kan brukes så lenge sannsynligheten for å
+vinne er lik for hver spiller. Fermat finner også feil i noen av Pascals resonnementer som Pascal så
+retter opp.
+Deretter finner Pascal også løsninger ved bruk av Pascals trekant. Pascals trekant var velkjent fra
+tidligere, men fikk Pascals navn fordi Pascal fant flere egenskaper ved den som ikke var kjent fra før.
+Som kjent beregnes også de binomiske koeffisienter i Pascals trekant. Pascals viser så hvorledes
+binomiske koeffisienter kan brukes til å beregne sannsynligheten for at A skal vinne (og B) når A
+trenger m poeng og B trenger n poeng. Dette gjorde imidlertid også Fermat ved bruk av den binomiske
+fordeling.
+Brevvekslingen stopper så i slutten av 1654, da Pascal ofret seg fullt, slik som hans familie, for
+jansemeismen. Han arbeidet i sine siste år hovedsakelig med religiøse spørsmål og skrev i 1656
+Lettres provinciales som sterkt imøtegikk jesuittenes angrep på jansemeismen.
+
+The Gambler’s Ruin problem
+Korrespondansen mellom Pascal og Fermat ble kort gjenopptatt i 1656. Her stiller Pascal Fermat et
+problem som er kjent som ”The Gambler’s Ruin problem”. Fermat og Pascal løste dette for noen
+verdier på parameterne, men det er ikke kjent at de fant frem til den generelle løsningen.
+Problemet er som følger: Spiller A starter med m poeng og spiller B med n poeng. Den som vinner en
+omgang får ett poeng fra den andre. Sannsynligheten for at spiller A vinner en runde er p, mens
+sannsynligheten for at spiller B vinner er q = 1-p. Hva er sannsynligheten for at spiller A vinner, dvs
+står tilbake med n+m poeng? Generelt: Hva er sannsynligheten for at spiller A vinner gitt at
+beholdningen er x poeng?
+Christian Huygens (1629 – 1695) var den neste som førte sannsynlighetsteorien videre. Han utga ”De
+Ratiociniis in Ludo Aleae”, en bok i sannsynlighetsregning, i september 1657, og det var 6 år før
+Cardonos bok ble utgitt. Boken inneholder blant annet en presis definisjon av matematisk forventning.
+Huygens setter også opp fem uløste problemer – ett av dem ”Huygens fifth problem” er Gambler’s
+Ruin problem som han selv også kun har løst for noen verdier på parameterne.
+Det skulle gå noen år før den generelle løsningen ble funnet. Løsningen ble utviklet av James
+Bernouilli (1708), Montmort (1708), de Moivre (1712) and Struyck (1716), se (Hald, 1990). Dette er
+en radom walk med absorberende barrierer i 0 og i n+m. La p(x) være sannsynligheten for at spiller A
+vinner gitt at spilleren har x poeng. Da kan spillet beskrives ved differenselikningen:
+p(x) = p p(x-1) + q p(x+1)
+Det som gjør dette spesielt interessant, er at dette er eksakt den samme differenselikningen som
+beskriver stasjonærtilstand i et M/M/1 køsystem. Dette sees ved å multiplisere venstre side med p + q
+som jo er lik 1. Randbetingelsene er riktig nok ulike, men Struycks metode for løsning er lik. I M/M/1
+køsystem er tid mellom ankomster eksponentielt fordelt med parameter  og betjeningstid
+eksponentielt fordelt med parameter µ. Ved å erstatte p med  og q med µ får vi samme likning som
+heuristisk i køteorien angir at strøm ut fra tilstanden x er lik strøm inn til tilstanden x. Ved å bruke like
+notasjoner her og sette  = /µ = p/q og K= m+n har vi følgende løsninger:
+Gambler’s Ruin problem:
+M/M/1/K:
+M/M/1/:
+
+p(x) = (1 - x)/(1 – K)
+p(x) = x (1 - )/(1 - K+1)
+p(x) = x (1 – )
+
+14
+
+
+
+I notasjonen M/M/s/K står s for antall betjenere og K for venteromskapasiteten.
+Etter hva jeg kan se, ble først køteorien utviklet på starten av 1900 tallet med de berømte arbeidene
+fra Erlang i 1909, 1917 (Brockmeyer, 1948) og Engset, 1915 og 1918 (Myskja, 2002). Det viser seg
+da etter hva jeg kan se, at løsninger på dette feltet er generert av gambling og tidlig start av
+sannsynlighetsteorien omlag 200 år tidligere.
+Det må imidlertid påpekes at arbeidene til Erlang og Engset går noe lengre ved å se på mer enn en
+betjener i køsystemet, men løsningene følger av samme metodikk.
+Dette er et eksempel på at utvikling og kunnskap på ulike vitenskapelige felter ikke nødvendigvis
+utveksles særlig fort. Det må også sies at det ofte vil være et insitament for utvikling av en teori.
+Sannsynligvis var det ikke presserende behov for utviklingen av køteorien på 1800-tallet. På 1900tallet derimot var det svært store, tunge investeringer i telefonsentraler. For å dimensjonere
+telefonsentralene riktig basert på telefontrafikken og utnytte investeringene optimalt var det nødvendig
+å benytte sannsynlighetsregning samt å utvikle køteorien. Pionerer i dette arbeidet var nordmannen
+Tore Olaus Engset som også ble generaldirektør for Telegrafverket samt den danske ingeniøren Agner
+Krarup Erlang.
+Bent Natvig (Natvig, 2000) gir også noen betraktninger til denne utviklingen der han sier: Arbeidene
+til Engset er svært imponerende, delvis fordi det ble utført i sene nattetimer utenom ordinært arbeid,
+men også fordi han ikke hadde tilgang til våre dagers moderne sannsynlighetsteori samt numeriske
+metoder tilrettelagt for datamaskiner.
+
+Referanser
+(Brockmeyer, 1948)
+(Natvig, 2000)
+(Myskja, 2002)
+
+Brockmeyer E, H. L. Halstrøm, A. Jensen: The life and work of A. K. Erlang,
+Acta Polytechnical Scandinavica, 2, Copenhagen 1948
+Natvig B: ”Køteori – en nøkkel til kortere ventetider” Kronikk i
+Aftenposten samt foredrag Forskningsdagene 2000.
+Myskja A, O. Espvik: ”Tore Olaus Engset – The man behind the
+formula” Tapir Academic, Press, Trondheim , 2002
+
+*****
+
+15
+
+
+
+Biography
+
+Bruno de Finetti –
+a great probabilist
+probabilist and
+and aa great
+great man
+man
+Giuseppe Anichini (Firenze, Italy)
+Giuseppe Anichini, Firenze (Italy)
+
+Bruno de Finetti was born in 1906. One hundred years later,
+in the year 2006, the birth of this mathematician is celebrated
+everywhere in the (mathematical) world through a series of
+meetings, events and conferences. In Italy the Accademia
+Nazionale dei Lincei, the Mathematics Department of the University of Roma “La Sapienza” and the Unione Matematica
+Italiana (UMI) are going to put in action a series of initiatives. The UMI, for instance, aims to promote a very big event
+in September and also to publish two volumes in the series
+“Opere dei Grandi Matematici” in which a Selecta of the
+most important papers of de Finetti will be collected together.
+In the ﬁrst volume there will be about forty papers concerning the scientiﬁc work that de Finetti did in probability and
+statistics; in the second there will be work that de Finetti did
+in economics, ﬁnancial science, actuarial science, mathematical analysis, and (mathematical) education and popularization.
+Biography
+As a member of the committee appointed (by the UMI) to
+choose the papers of the Selecta, I would like to recall some
+facts relating to the life and scientiﬁc thinking of this famous
+mathematician.
+Bruno de Finetti was born in Innsbruck to Italian parents;
+they were also Austrian citizens as he himself wrote in an autobiographic note accompanying the book [1] edited by his
+former students and friends on the occasion of his 75th birthday. In 1906 his father was working in Innsbruck as a railway constructor; he was an engineer as was his father before him. Thus it was no surprise when in 1923 Bruno de
+Finetti enrolled at Milano Polytechnic. There he discovered
+his true passion for mathematics and during his third year at
+Milano Polytechnic, perhaps inspired by a paper by the biologist Carlo Foà, he started research in the ﬁeld of population genetics, which soon led him (aged twenty years) to the
+ﬁrst of almost three hundred writings. It was the ﬁrst example
+of a model with overlapping generations in population genetics and it was many years ahead of its time. Even today, bioscience researchers quote the results of the young de Finetti.
+He then moved to the recently founded University of Milan and there, in 1927, he graduated in mathematics with a
+dissertation on afﬁne geometry. Among his teachers at the
+University of Milan, it is worth mentioning Oscar Chisini,
+who is well known in statistics for his general deﬁnition of
+“Chisini’s mean”.
+At the time de Finetti received his degree, a position was
+waiting for him in Roma at the Italian Central Statistical Institute, which was founded and directed by Corrado Gini. De
+Finetti remained there until 1931, after which he moved to
+
+24
+
+Trieste and started working for a big insurance company.
+There he worked as an actuary and also on the mechanization
+of some actuarial services. In the following years, he supplemented his work with several academic appointments both in
+Trieste and Padova. In 1947 he became a full professor ﬁrstly
+at the University of Trieste and subsequently at “La Sapienza”
+University of Roma, where he remained until the end of his
+career.
+Numerous letters, memoranda, newspaper clippings, articles and court documents give evidence of de Finetti’s political and social activism. It is worth considering his vital interest in civil aspects and social justice [6]. His longing for social
+justice caused him in the 1970’s to be a candidate in several
+elections and he was also arrested for his antimilitarist position. At the time of his death in 1985, Bruno de Finetti was
+an honorary fellow of the Royal Statistical Society as well as
+a member of the UMI, a member of the International Statistical Institute and a fellow of the Institute of Mathematical
+Statistics. Additionally, in 1974, he had been elected a corresponding member, and then a full member, of the Accademia
+dei Lincei. Many details on his life are given in the papers of
+M.D. Cifarelli and E. Regazzini [5] (in which a broad picture
+of the scientiﬁc milieu in which Bruno de Finetti took the ﬁrst
+steps of his scientiﬁc career is given) as well as by L. Daboni
+[6], who was appointed by the UMI to the ofﬁcial commemoration for the Bollettino of the UMI (the society’s major journal). Some signiﬁcant ﬂashes of the history of probability in
+Italy, in which de Finetti played the main role, are given in [7]
+and [8].
+A summary of de Finetti’s scientiﬁc contributions
+Bruno de Finetti is known worldwide as one of the most important probabilists and statisticians of the 20th century. In
+fact, even in his former position in Roma, he was laying the
+foundations for his principal contributions to probability theory and statistics: the subjective approach to probability (i.e.,
+the operational subjective conception of probability), the definition and analysis of sequences of exchangeable events, the
+deﬁnition and analysis of processes with stationary independent increments and inﬁnitely decomposable laws, and the
+theory of mean values (it is worth remarking that in this period he qualiﬁed as a university lecturer of mathematical analysis; the examiners were Giuseppe Peano, Mauro Picone and
+Salvatore Pincherle). De Finetti started working on probability and statistics in a period of tremendous development for
+these subjects. For instance A. N. Kolmogorov and P. Lévy
+were giving their decisive contributions to the modern theory of probability and R.A. Fisher was setting out the basic
+technical concepts for his new approach to statistics. In Italy
+
+EMS Newsletter December 2006
+
+
+
+Biography
+Genetics: even today a de Finetti diagram is used to graph
+the genotype frequencies of populations where there are two
+alleles and the population is diploid. It is based on an equilateral triangle and on the theorem that from any point within
+the triangle the sum of the lengths of the three lines from that
+point to the sides of the triangle, where these lines are perpendicular to the sides, is equal.
+Mathematical analysis: at the beginning of his scientiﬁc
+career de Finetti studied the characteristic properties of vectorial analysis with regard to the case of projective homographies (bijective maps between linear spaces). Subsequently he
+considered some very important topics in mathematical analysis like measures in abstract spaces, the Riemann-Stieltjes
+integral and convex stratiﬁcations. The latter are now known
+as quasiconvex functions (or quasi concave as W. Fenchel
+named them later on). Since then convex and quasiconvex
+analysis has been widely applied in many ﬁelds such as optimization theory, game theory, and linear and nonlinear programming.
+Economics: Bruno de Finetti’s interest in economics was
+innate and led him during his ﬁrst year at the Milano Polytechnic to attend the lectures given there by Ulisse Gobbi,
+who was later the dean of the important economics and ﬁnancial studies at “Bocconi” University. The lectures, in turn,
+conﬁrmed his radical position, which he himself summarised
+as follows in his autobiographical note [1]:
+
+At the 2nd Berkeley Symposium, from left to right: M. Loeve, P. Lévy,
+W. Feller, B. de Finetti
+
+Guido Castelnuovo, Francesco Paolo Cantelli, Corrado Gini
+and young de Finetti became impressed by this cultural revival. Moreover a very big event took place over these years,
+i.e., the International Mathematical Union (IMU) Congress in
+Bologna. The former president of the UMI, Salvatore Pincherle, successfully worked, at the end of the world war, to get
+together all the people who had a keen interest in mathematics irrespective of nationality. So around 840 mathematicians assembled in Bologna, among them de Finetti and the
+most famous probabilists and statisticians of the time: Maurice Fréchet, Aleksandr Y. Khinchin, Paul Lévy, Jerzy Neyman, Ronald A. Fisher and George Pólya.
+Let us summarize the main scientiﬁc contributions of
+Bruno de Finetti: Major research topics studied by de Finetti
+were probability (subjective theory, calculus, Bayes’s theorem) and statistics but also mechanization, genetics, mathematical analysis, mathematics applied to economics (game
+theory, ﬁnancial and actuarial mathematics), and popularization and educational mathematics.
+Mechanization: as stated above, working in an insurance
+company probably contributed to making him one of the ﬁrst
+mathematicians to be aware of the possibilities offered by
+computing machinery. Later on, after 1950, in the position
+of adviser to the Italian Research Council (CNR), he was instrumental in getting the ﬁrst electronic computer to the INAC
+(National Institute for Applied Computation) in Roma, whose
+director at the time was Mauro Picone.
+
+EMS Newsletter December 2006
+
+. . .the only directive of the whole of economics, freed from the
+damned game and tangle of individual and group egoisms,
+should always be the realisation of a collective Pareto optimum
+inspired by some criterion of equity.
+
+Educational: it is worth emphasizing the devotion of such
+a great scientist to mathematical education topics. As Carla
+Rossi (one of de Finetti’s pupils) said in [8] the substance of
+de Finetti’s approach and ideas of teaching can be found in
+his every scientiﬁc paper even more than in the many works
+speciﬁcally devoted to that issue. And about problems to take
+into consideration he used to say
+. . . before approaching a problem to solve you need to see it, in
+order that a subject of study, speciﬁcally Mathematics, does not
+appear sterile, obscure and useless, it should always be presented
+so that studying it is fully and genuinely justiﬁed.
+
+Involvement in school reform and teaching methodology
+was one of his major interests throughout his life. A wide variety of materials illustrate de Finetti’s efforts to improve science and mathematics teaching, teacher education, and school
+curricula, e.g., his writings Il Saper vedere in matematica
+(Know-how in Mathematics) and Perchè la matematica?
+(Why Mathematics?), his plans for educational movies, and
+a project for an educational centre for teachers.
+Now let us shortly outline the major contributions given
+by de Finetti in the ﬁelds of probability and statistics theory.
+Probability and statistics
+The classic exposition of his distinctive theory are the papers
+[2] and [3], in which he discussed probability founded on the
+coherence of betting odds and the consequences of exchangeability. A “summa” of Bruno de Finetti’s revolutionary ideas
+
+25
+
+
+
+Biography
+
+Bruno de Finetti (1979)
+
+on probability can be found in the two volumes [4] of his
+best known book Teoria della Probabilità (1970), which was
+translated into English in 1975. However, his contributions
+to probability and statistics do not reduce to his subjective
+approach; they include important results on ﬁnitely additive
+measures, processes with independent increments, sequences
+of exchangeable variables and associative means (see the review [5] for details on these).
+(a) The concepts of probability in de Finetti’s time: until the
+1920’s it was tacitly assumed that the frequentist interpretative ideas of probability played the main role in the various applications of the discipline, or at least the most popular methods of assessment were based on a combinatorial approach or
+on an observed frequency. The idea of subjective probability
+was almost surely undermined by the developments in physics
+after a few considerations on it given by a couple of French
+scientists (E. Borel (1924) and P. Lévy (1925); see [10] for a
+suitable reference).
+Since his early days as a mathematician, Bruno de Finetti
+revitalized the theory of subjective probability in a very different spirit with respect to the past. De Finetti probabilism
+(as he called it in [2]) is the “true heir of the empiricist philosophical tradition in the spirit of David Hume . . . de Finetti
+was a prodigy who could make his philosophical and conceptual ideas match his mathematical developments” [10]. In
+an interesting correspondence with M. Fréchet in the 1930’s
+de Finetti, discussing some papers concerning the almost sure
+convergence of a sequence of independent and identically distributed bernoullian random variables, states that the problems concerning stochastic convergence are mere signs of a
+
+26
+
+deeper problem concerning the correct mathematical deﬁnition of probability. As a matter of fact, in his opinion, the
+deﬁnition has to adhere to the intuitive notion of probability
+as it is conceived by every one of us in usual everyday life.
+He maintains that one has no right to make arbitrary use of
+the properties introduced to give a mathematical deﬁnition of
+probability. Indeed, these very properties have to be not only
+formally consistent but also intrinsically necessary with respect to a meaningful interpretation of probability. De Finetti
+shares Fréchet’s opinion implying that each concept, even of
+a mere mathematical nature, is more or less directly triggered
+by intuition. Nevertheless, this deﬁnition can effectively be
+arbitrary, provided that one conﬁnes oneself to deduce purely
+formal conclusions from it. This turns out to be the case in the
+deﬁnition of measure. A different case is connected with the
+deﬁnition of weight, since we cannot force a pair of scales to
+work according to our deﬁnition.
+De Finetti proposed a thought experiment along the following lines (a philosophical gambling strategy): you must
+set the price of a promise to pay 1 (lira in de Finetti’s time)
+if, for instance, there was life on Mars one billion years ago
+and 0 if there was not, and tomorrow the answer will be revealed. You know that your opponent will be able to choose
+either to buy such a promise from you at the price you have
+set, or require you to buy such a promise from them, still at
+the same price. In other words, you set the odds but your opponent decides which side of the bet will be yours. The price
+you set is the operational subjective probability that you assign to the proposition on which you are betting. This price
+has to obey the probability axioms if you are not to face certain loss, as you would if you set a price above 1 (or a negative
+price). It is seen that in any application of probability theory
+we can interpret the probabilities as personal degrees of belief of a rational agent; this is the term reserved for a person
+who will not accept a Dutch book. By considering bets on
+more than one event de Finetti could justify additivity. Prices,
+or equivalently odds, that do not expose you to certain loss
+through a Dutch book are called coherent. Probability will be
+the degree of belief assigned by you to the occurrence of an
+event.
+The mathematical formulation of probability IP was given
+in [2]. Given a class E of events and an element A of the class,
+any p ∈ [0, 1] represents a coherent assessment on A. After
+deﬁning a probability de Finetti proves that the usual rules
+of the calculus of probability are necessary for the coherence
+of IP on E, i.e., he states the well known properties (except
+σ-additivity):
+If IP is a probability on a class E, we have:
+1. A ∈ E =⇒ IP(A) ∈ [0, 1];
+2. Ω ∈ E =⇒ IP(Ω) = 1 (here Ω is the certain event);
+3. if A1 , · · · , An ∈ E, ∪nk=1 Ak ∈ E and Ai ∩ A j = /0 for
+i = j then IP(∪nk=1 Ak ) = ∑nk=1 IP(Ak ).
+These classical properties, i.e., the fact that IP is a function whose range lies between 0 and 1 (these two extreme
+values being assumed by, but not kept only for, the impossible and the certain events respectively) and which is additive
+for mutually exclusive events, constitute the starting point in
+the axiomatic approach; so de Finetti can rightly claim that
+the subjective view can only enlarge and never restrict the
+practical purport of probability theory.
+
+EMS Newsletter December 2006
+
+
+
+Biography
+Subsequently, in 1949, with regard to the problem of existence of at least a probability on a given class of events, he
+provided the following extension theorem:
+If A and B are classes of events such that A ⊂ B and IP1
+is a probability on A, then there is a probability IP2 on B such
+that IP1 = IP2 on A.
+He also showed that the previous methods (i.e., the combinatorial and the frequentist methods) can be recovered if some
+useful (even if very particular) methods of coherent evaluation
+are considered; they are subjective as well and they are unnecessarily restricted to the domain of applicability. De Finetti
+also makes absolutely clear the distinction between the subjective character of the notion of probability and the objective
+character of the elements (i.e., events) to which it refers.
+Although there is no reason why different interpretations
+(senses) of a word cannot be used in different contexts, there
+is a history of antagonism between the followers of de Finetti
+(sometimes called Bayesians) and frequentists, with the latter
+often rejecting the subjective interpretation as ill-grounded.
+The groups have also disagreed about which of the two senses
+reﬂects what is commonly meant by the term probable. In the
+preface of many books concerning probability theory there is
+a wide trace of this controversial dispute. Today the long wave
+of the subjective approach of de Finetti is growing more and
+more in the ﬁeld of assessments of probability. All the work of
+de Finetti exhibits an intuitionist and constructivist view, with
+a natural bent for submitting the mathematical formulation of
+probability theory only to the needs required by any practical
+application.
+(b) Stochastic processes with independent increments: the crisis of determinism and of the casuality principle introduces a
+novelty into the scientiﬁc method. Rigid laws stating that a
+certain fact is bound to occur in a certain way are being replaced by probabilistic or statistical laws stating that a certain
+fact can occur depending on a variety of ways governed by
+probability laws. Thus, given a scalar quantity whose temporal evolution is described by X = X(t), t ≥ 0, one assumes that
+the values taken by X(t) are known for t ≤ t0 and considers the
+conditional increment {(X(t) − X(t0 )/X(u), u ≤ t0 , t > t0 }.
+As far as the probability distribution function F(·) of such an
+increment is concerned, de Finetti considers the three cases:
+1. F(·) is independent of X(u) for every u ∈ [0,t0 ] - (F(·) is
+called known);
+2. F(·) is independent of X(u) for every u ∈ [0,t0 ) - (F(·) is
+called differential);
+3. F(·) is dependent on X(u) on [0,t0 ] - (F(·) is called integral).
+De Finetti deals with the problem of characterizing the probability distribution of X(t): if X(0) = 0 and φt , ψt denote the
+probability distribution function and the characteristic function of X(t) respectively, then {ψ 1 (·)}n is the characteristic
+n
+function of the sum of n independent increments, identically
+distributed according to the law X(t) − X(0). In modern literature these processes are known as processes with homogeneous independent increments and ψ1 [ = (ψ 1 )n ] is called
+n
+the inﬁnitely decomposable characteristic function; de Finetti
+shows that ψt is continuous whenever X is continuous on
+[ 0, +∞) and X(t) is different from ct. Moreover the examples chosen to emphasize the relevance of the continuity for
+
+EMS Newsletter December 2006
+
+X are very noteworthy: the Poisson process and the compound
+Poisson process. The method de Finetti uses here is quite innovative with respect to the past. Finally he achieves the well
+known result:
+The class of inﬁnitely decomposable laws coincides with
+the class of distributions limits of ﬁnite convolutions of distributions of Poisson type.
+This result was a starting point for a subsequent series of
+papers by A. N. Kolmogorov and P. Lévy.
+(c) Exchangeability: the works of P. Levy and G. Castelnuovo
+(from 1925 to 1928) taught him the analytical tools for arriving at one of the most important results in the theory of probability, i.e., the concept of exchangeability of events (1928),
+followed (in 1929) by the probability laws of continuous time
+random processes.
+With regard to the connections between the subjective
+viewpoint and the objective one, which in a different way
+characterizes the classical approach and the frequentist approaches, these procedures are, according to de Finetti, not
+necessarily conducive to the existence of an objective probability. But, if the classical probability assignment can be justiﬁed immediately by judging the events equally probable, the
+analysis of the frequentistic point of view is more complex.
+To do that de Finetti broke the analysis down into two steps
+(explaining their subjective foundations): the ﬁrst deals with
+the relations between the assignments of probabilities and the
+prevision of future frequencies; the second concerns the relationship between the observation of past frequencies and the
+prevision of future frequencies.
+Let us consider a sequence of events E1 , E2 , · · · relative to
+a sequence of trials and suppose that, under the hypothesis HN
+stating a certain result of the ﬁrst N events, a person considers
+equally probable the events EN+1 , EN+2 , · · · . Then, denoting
+by fHN the prevision of the random relative frequency of the
+occurence of n events EN+1 , EN+2 , · · · , EN+n conditional to
+HN , the well known properties of a prevision yield pHN = fHN ,
+where pHN indicates the probability of each EN+1 , EN+2 , · · ·
+conditional to HN . But when is it possible to estimate fHN in
+such a manner? De Finetti’s answer is: when the events considered are supposed to be elements of a stochastic process
+whose probability law, conditional on a large sample, admits,
+as prevision of the future frequencies, a value approximately
+equal to the frequency observed in these samples. Since the
+choice of the probability law governing the stochastic process
+is subjective, the prevision of a future frequency based on the
+observation of those past is naturally subjective. This procedure is perfectly admissible when the process is exchangeable, that is when only information about the number of successes and failures is relevant, irrespective of exactly which
+trials are successes or failures.
+De Finetti deﬁnes a sequence of events to be equivalent
+(the word “exchangeable” was proposed later by Pólya) in
+a communication at the above mentioned IMU Congress of
+Bologna. Subsequently de Finetti was able to justify the evaluation of fHN via past frequencies thanks to some important
+representation theorems (see [5] for a suitable reference).
+(d) The de Finetti–Kolmogorov–Nagumo theorem: de Finetti
+worked in the ﬁeld of statistics ﬁrstly by approaching descrip-
+
+27
+
+
+
+Biography
+tive statistics and afterwards inductive reasoning. We conﬁne
+ourselves to the ﬁrst argument leaving to the considerations
+illustrated in the previous section the main ideas of statistical inference. “Reasoning by induction” means, according to
+de Finetti’s interpretation, learning from experience, and this
+thought provoking remark is clear enough and wholly pervasive.
+In a paper of 1931 de Finetti obtained a signiﬁcant extension of a theorem independently proved by Kolmogorov
+and Nagumo. To this aim he extends Chisini’s deﬁnition of a
+mean to distribution functions in the following way: given a
+class F of frequency distribution functions on IR and a real
+valued function f on F, a mean of φ in F, with respect to
+the evaluation of f , is any number ρ such that f (φ) = f (Dρ )
+where Dρ denotes the probability distribution function which
+degenerates at x.
+Subsequently let A, B, A < B be real numbers and let F =
+F(A, B) denote the class of all distribution functions whose
+support is included in [A, B]; moreover he deﬁnes m : F → IR
+through f (Dm(φ) ) = f (φ) for any distribution φ ∈ F. Finally
+the result is given:
+Suppose that m : F[A, B] → IR is a consistent, strictly increasing and associative mean. Then there is a function ψ,
+continuous
+and strictly increasing in [A, B], for which m(φ) =
+
+ψ−1 ( IR ψ(x)dφ(x)), (φ ∈ F(A, B)). Moreover ψ is uniquely
+determined up to linear transformations. Conversely, if m is
+deﬁned as before for a function ψ with the properties stated,
+then it satisﬁes consistency, strict monotonicity and associativity.
+The latter properties of consistency, strict monotonicity
+and associativity identify with a well know deﬁnition, in terms
+of random gains and of stochastic dominance.
+Final remark
+It is strange that the summary of a lifetime of work on the theory of something should begin by the declaration that something does not exist but so begins de Finetti’s Theory of Probability [4]: My thesis, paradoxically, and a little provocatively,
+but nonetheless genuinely, is simply this: Probability does not
+exist. This conveys his idea that probability is an expression
+of the observer’s view of the world and as such it has no existence of its own. As a consequence of the subjective approach,
+statistical inference is no longer an empirical process producing opinions from data but it becomes a logical-psychological
+process selecting opinions compatible with data among the
+available ones. In de Finetti’s theory, bets are for money, so
+your probability of an event is effectively the price that you
+are willing to pay for a lottery ticket that yields 1 unit of
+money if the event occurs and nothing otherwise; de Finetti
+used the (Italian) notation ‘Pr’ to refer interchangeably to
+Probability, Price and Prevision (foresight) and he treated
+them as alternative labels for a single concept. The appeal
+of his money based deﬁnition is that it has the same beauty
+and simplicity as theories of (modern) physics; the measurements are direct and operational, they involve exchanges of
+a naturally conserved quantity and their empirical laws are
+deducible from a single governing principle, namely the principle of coherence or non-arbitration. The coherence condition can also be shown to be very useful for welfare evalua-
+
+28
+
+tions, where it provides a natural foundation for utilitarianism.
+Starting from [3], where the famous argument of de Finetti
+on decision under uncertainty is presented, economists tried
+to develop an argument stating a natural condition that turns
+out to imply the existence of coherent subjective probabilities
+and can justify a model of choice based on them; de Finetti’s
+idea served later as a point of departure for Savage’s theory of
+subjective expected utility (see [9]).
+We conclude by quoting de Finetti himself.
+The only relevant thing is uncertainty – the extent of our knowledge and ignorance. The actual fact of whether or not the events
+considered are in some sense determined, or known by other
+people, and so on, is of no consequence.
+
+Bibliography
+[1] B. de Finetti Scritti (1926–1930), Cedam, Padova, 1981.
+[2] B. de Finetti, Sul Signiﬁcato Soggettivo della Probabilità,
+Fundamenta Mathematicae, vol. 17, 1931, 298–329.
+[3] B. de Finetti, La prévision: ses lois logiques, ses sources subjectives, Annales de l’Institute Henri Poincaré, vol. 7, 1937,
+1–68.
+[4] B. de Finetti, Theory of Probability, (translation of 1970
+book) 2 volumes, New York, Wiley, 1974–75.
+[5] D. M. Cifarelli and E. Regazzini, de Finetti’s contribution to
+probability and statistics, Statistical Science, vol. 11, 1996,
+253–282. Or: D. M. Cifarelli and E. Regazzini, Il contributo
+di de Finetti alla probabilità e alla statistica, Pristem/Storia,
+Note di Matematica, Storia e Cultura, vol. 2, pag 55–113,
+Springer Italia, 1999.
+[6] L. Daboni, Bruno de Finetti, Bollettino dell’Unione Matematica Italiana, Serie VII, vol. 1-A, 1987, 283–308.
+[7] E. Regazzini, Teoria e Calcolo delle Probabilità, La Matematica Italiana dopo l’Unità. Gli anni tra le due guerre mondiali.
+Ed. S. di Sieno, A. Guerraggio, P. Nastasi; Marco y Marcos,
+Milano, 1998.
+[8] C. Rossi, Bruno de Finetti: the mathematician, the statistician,
+the economist, the forerunner, Statistics in Medicine, vol. 20,
+2001, 3651–3666.
+[9] L. J. Savage, The Foundation of Statistics, Dover Publications,
+1972.
+[10] J. von Plato, Creating Modern Probability, Cambridge Studies in Probability, Induction, and Decision Theory, Cambridge
+University Press, 1994.
+
+Giuseppe Anichini [giuseppe.anichini@uniﬁ.
+it] is a full professor at the Engineering Faculty of the University of Firenze, Italy. He
+works on problems in control theory, on the
+existence of solutions for differential inclusions and on boundary value problems for
+ordinary differential equations and on the
+popularization of mathematics. He is the secretary of Unione Matematica Italiana (UMI) and the editor
+in chief of Notizario UMI. He is a member of the editorial
+board of the EMS-Newsletter.
+
+Trykt med tillatelse fra forfatteren.
+
+EMS Newsletter December 2006
+
+
+
+Pusleri nr. 20 (løsning)
+Problemstilling: Dreidel er et gammelt spill med jødisk opprinnelse, der en bruker
+en firesidig terning (tetraeder) med sider markert med N, G, H og S. Spillet tillater
+et vilkårlig antall spillere p, og starter med at alle legger en pengeenhet i potten. Så
+kastes dreidelen av spillerne etter tur. Resultatet for spiller ved de ulike utfall er
+N=”Nun”=ingen gevinst, G=”Gimel”= Hele potten, H=”Hay”=Halve potten,
+S=”Shin”=Legg en pengeenhet i potten. Hver gang potten tømmes bidrar alle
+spillere med en pengeenhet, og spillet fortsetter.
+(a) Hva er forventet utbetaling for spilleren i n’te spilleomgang?
+(b) Hva er forventet utbetaling til første spiller som tømmer potten?
+Løsning:
+(a) La X n = utbetaling til spiller i n’te spill. Vi skal finne EX n og betinger mhp beløp
+i potten etter foregående spill. La derfor Z n = beløp i potten etter n’te spill. Vi har
+1
+1
+3
+1
+( Z n −1 + Z n −1 / 2 − 1) som gir E ( X n ) = ( EZ n −1 + EZ n −1 / 2 − 1) = EZ n −1 − .
+4
+4
+8
+4
+1
+5
+1
+Nå er E ( Z n | Z n −1 ) = ( p + Z n −1 + Z n −1 / 2 + Z n−1 + 1) som gir E ( Z n ) = EZ n −1 + ( p + 1) .
+4
+8
+4
+1
+5
+Med randkravet EZ 0 = p gir dette EZ n = (( p − 2)( )n + 2( p + 1)) .
+3
+8
+1
+5 n −1 p
+Innsatt ovenfor får vi E ( X n ) = ( p − 2)( ) + . For p=2 er forventningen uavhengig
+8
+8
+4
+av n, mens den for p>2 er avtagende i n. Merk at EX 1 = (3 p − 2) / 2 og at EX n → p / 4 .
+E ( X n | Z n −1 ) =
+
+(b) N=Antall spill til potten tømmes. Vi skal finne EX N = EE ( X N | N ) der N er
+5
+6
+
+geometrisk fordelt. Vi får tilsvarende ovenfor E ( X N | N = n) = 2 + ( p − 2)( )n −1 , slik at
+∞
+5
+5
+3
+1 14 5
+EX N = E (2 + ( p − 2)( ) N −1 ) = 2 + ( p − 2)∑ ( ) n −1 ( ) n −1 = + p (=2 for p=2).
+6
+4
+4 12 12
+n =1 6
+
+
+
+Pusleri nr. 21
+Gitt at EX n =
+
+1
+n = 1, 2,3,... . Vis at den uniforme fordeling over [0,1] er den
+n +1
+
+eneste fordeling med denne sekvens av momenter.
+Kommentar: Problemet har en interessant forhistorie knyttet til a posteriori
+beregningen av binomisk p for uniform prior. Thomas Bayes (1702-1761) var
+blant de første til å diskuterer dette, og viste flere resultater uten dagens begreper
+og metoder. På hans tid ble parametere betraktet som diskrete størrelser. Bevis
+måtte skje uten integraler og differensial-resonnementer, slik vi kjenner det, og
+man gikk ikke ut over endelig additivitet. Beviser måtte derfor ofte ta (unødige)
+omveier. I ettertid har man funnet ut at Bayes bevis av a posteriori problemet
+hadde et hull, som kunne fylles med referanse til ovenstående resultat.
+Forslag til løsning av problemet sendes til jostein.lillestol@nhh.no.
+
+
+
+Bayesian p-values
+Doktoravhandling – planlagt innlevert i oktober 2007
+Gunnhildur Högnadóttir Steinbakk
+Avdeling C, Matematisk institutt, Universitetet i Oslo
+Tiden går fort når man har det gøy og når man skriver på en doktorgrad. Jeg startet som
+stipendiat ved Matematisk institutt, Universitet i Oslo, oktober 2003. Det som da virket som
+en evighet til jeg skulle levere oppgaven, har skrumpet inn til noen måneder. Planlagt
+innlevering av arbeidet er oktober dette år.
+Jeg er tilknyttet prosjektet ”Evaluation of Bayesian Hierarchal Models”, som er et samarbeid
+mellom Matematisk institutt ved Universitetet i Oslo og Norsk Regnesentral, finansiert av
+Forskningsrådet gjennom BeMatA programmet.
+Hovedfokuset i avhandlingen er Bayesianske p-verdier, eller rettere sagt posterior prediktive
+p-verdier (ppp). En Bayesiansk analyse består av å velge en prior for ukjente parametere og
+en observasjonsmodell for data gitt de ukjente parametere. Hensikten med ppp er å finne ut
+om modellen er god nok, hvor ppp er sannsynligheten for å posteriori observere noe som er
+mer ekstremt enn det vi har observert i lys av modellen.
+Kritikken mot ppp er at de er konservative på grunn av dobbel bruk av data. Først for å
+estimere ukjente parametere og variable, så for å estimere hvor ekstreme dataene er relativt til
+posteriori fordelingen. Det er derfor ikke overraskende at ppp langt fra er uniform(0,1) under
+modellen. Vi ønsker at p-verdiene skal ha samme tolkning for ulike kombinasjoner av
+observasjonsmodeller og a priori fordelinger for ukjente parametere. For å kunne vurdere om
+en beregnet ppp-verdi er ekstrem eller ikke, foreslår vi en postprosessering eller kalibrering
+av ppp som en funksjon av de observerte yobs gitt ved cppp(yobs)=Pr{ppp(Y)ppp(yobs)},
+hvor fordelingen til Y er generert under modellen. Denne cppp, som vanligvis beregnes ved
+dobbel simulering, er per konstruksjon uniform under modellen.
+Vi må spesifisere en passende testobservator for å beregne ppp, som spesielt bør være
+designet for å teste aspekter som er viktige for formålet med den statistiske analysen. I
+motsetning til tradisjonelle testobservatorer, kan disse testobservatorene også avhenge av
+ukjente parametere og variable, noe som gir en større fleksibilitet i valg av hvilke deler av
+modellen vi vil teste. Disse Bayesianske p-verdiene har vært populære, fordi de krever
+minimalt med ekstra programmering eller beregninger så lenge vi har resultater fra MCMC
+kjøringer. P-verdier er mest forbeholdt den klassisk statistikken, men de brukes også av
+Bayesianeren.
+Jeg har jobbet med ppp innenfor rammen av en ikke hierarkisk Bayeasiansk modell, samt en
+utvidelse av ppp-begrepet til en hierarkisk Bayesiansk modell. Denne flernivå modellklassen
+består av en observasjonsprosess, en underliggende (eller latent) prosess og en modell for
+hyperparameterne.. Her er jeg spesielt interessert i hvordan størrelsen på observasjonsstøyen
+og prior variansen påvirker egenskapene til ppp og cppp. I tillegg til å illustrere metodene på
+reelle data, undersøkes egenskapene til p-verdiene på relativt enkle eksempel modeller, hvor
+jeg (delvis) kan finne analytiske uttrykk.
+
+Arbeidet er skrevet i samarbeid med mine veiledere Nils Lid Hjort og Geir Olve
+Storvik, samt Fredrik Andreas Dahl mens han var post doc. ved instituttet.
+
+23
+
+
+
+Tools for improved total value chain analysis of offshore
+oilfield projects
+Doktoravhandling – planlagt innlevert i mars 2008.
+Nils F. Haavardsson
+Universitetet i Oslo og Norsk Regnesentral
+Avhandlingen dreier seg om industriell risiko med spesiell fokus på olje- og gass-sektoren.
+Når energiselskapene skal ta beslutninger om utbygging av eksisterende eller nye felter,
+baserer de seg typisk på netto nåverdi av prosjektet. For å få et godt estimat av denne
+størrelsen, bør mange usikkerhetskilder hensynstas. De viktigste bidragsytere til usikkerheten
+er typisk:
+ Usikkerhet om mengden råvarer, altså hvor mye olje eller gass som kan utvinnes fra
+feltene.
+
+
+Usikkerhet om olje og gass pris, altså hvor mye selskapet kan tjene på å utvinne råvarene
+fra feltene.
+
+
+
+Usikkerhet om investeringskostnad (CAPEX), altså hvor mye vi må investere, hovedsaklig
+før produksjon kan begynne.
+
+
+
+Usikkerhet om driftskostnader (OPEX), altså hvor mye det vil koste å drive feltene
+gjennom de ulike produksjonsfasene.
+
+Siktemålet med avhandlingen er å utvikle metoder som kan være nyttige verktøy i
+prosjektanalyser av eksisterende eller nye olje- og gassfelt. Foreløpig er fem artikler
+planlagt, og det vil muligens bli skrevet en sjette om tiden tillater det.
+1. Multisegment production profile models, a tool for enhanced total value chain
+analysis
+Medforfatter: Arne Bang Huseby.
+I denne første artikkelen lager vi et modellrammeverk for gjenskapelse av
+produksjonsprofiler for prosjektanalyse. Reservoarsimulatorer produserer
+produksjonsprofiler for eksisterende felter basert på innspill fra geofysikere,
+oljeingeniører, geologer og andre spesialister. Disse produksjonsprofilene er vår beste
+gjetning på reservoarets oppførsel. Reservoarsimulatoren bruker timer eller til og med
+dager på denne jobben. I vårt modellrammeverk kan vi gjenskape disse
+produksjonsprofilene med ønsket nøyaktighet på 0.1 sekund. Dermed kan vi bruke de
+replikerte produksjonsprofilene til usikkerhetsanalyser, sensitivitetsanalyser og
+optimering.
+2. Multireservoir production optimization
+Hensikten her er å utvikle modeller for å optimere produksjon fra flere reservoarer
+som deler de samme prosesseringsressursene. Produksjonen fra de ulike reservoarene
+modelleres som beskrevet i artikkel 1 over. For å replikere produksjonen fra
+reservoarsimulatoren brukes ordinære differensiallikninger
+. Vi deler inn
+analysen i to hovedtilfeller, avhengig av formen på relasjonsfunksjonene i de
+ordinære differensiallikningene. Dersom relasjonsfunksjonene er konvekse, tyder
+forskningen så langt på at vi kan finne gode beslutningsregler ved hjelp av
+ordningskriterier. Dersom relasjonsfunksjonene er konkave, vil vi finne optimum ved
+to ulike metoder. Disse optimumspunktene vil så bli benyttet i en backtrackings
+algoritme. Hensikten med backtrackingen er å finne fram til optimum med minimal
+beregningstid.
+
+24
+
+
+
+3. An alternative approach to optimization of multiple reservoirs.
+Temaet er det samme som i artikkel 2 over, altså optimering av produksjon fra flere
+reservoarer som deler de samme prosesseringsressursene. Dersom vi har en
+kombinasjon av konvekse og konkave relasjonsfunksjoner, eller at vi har
+multisegmenterte konvekse relasjonsfunksjoner, vil ikke metodene i artikkel 2 over
+kunne løse optimeringsproblemet. Videre vil det være av interesse å kunne studere en
+mer generell objektfunksjon enn vi kunne bruke i artikkel 2 over. En parametrisk
+klasse foreslås som kan benyttes i de angitte situasjoner. Kostnaden er økt
+beregningstid.
+4. Simplified three phase flow.
+Hittil har vi kun sett på oljeproduksjon. I den virkelige verden produseres vann og
+gass i tillegg i reservoarene. Selv om den økonomiske verdien av disse råvarene er
+beskjeden i forhold til den økonomiske verdien av olje, er det viktig å få med disse
+aspektene i modelleringen. Grunnen er at vann- og gassproduksjon legger
+begrensninger på hvor mye olje vi kan produsere. Artikkelen vil fokusere på simultan
+modellering og muligens optimering av olje-, gass- og vannproduksjon, der et
+rammeverk basert på rammeverket i de foregående artikler benyttes.
+5. The value of flexibility in offshore oilfield projects.
+Artikkelen tar sikte på å benytte alt utviklet rammeverk i en prosjektanalyse.
+Beslutninger av interesse er viktige investeringsbeslutninger, som for eksempel
+utbygging av eksisterende felter eller oppgradering av eksisterende plattformer. Det
+er også interessant å studere innfasing av ulike felter og hvilken effekt dette har på
+prosjektets netto nåverdi.
+6. History matching.
+Artikkelen tar sikte på å benytte produksjonsdata og inkorporere disse i modeller for
+statistisk analyse av et felts produksjon.
+Så langt har jeg samarbeidet med Arne Bang Huseby og Lars Holden, og disse vil være
+medforfattere på flere av de uferdige arbeidene. Arbeidet utføres ved Matematisk Institutt,
+Universitetet i Oslo og Norsk Regnesentral med førsteamanuensis Arne Bang Huseby som
+hovedveileder, og sjefsingeniør og professor Eivind Damsleth og sjefsforsker Xeni Kristine
+Dimakos som medveiledere. Arbeidet er en del av STAR prosjektet, finansiert av Norsk
+forskningsråd.
+
+*****
+
+25
+
+
+
+Statistikkpakker med kontor i Norge
+av Inge Helland
+De ulike statistikkpakkene er ekstremt viktige for store deler av den empiriske forskningen.
+De danner et språk som for en stor del bestemmer hvordan analysen av data skal foretas. Også
+statistikere bruker pakker, og noen klager over at de er lite fleksible, mens andre klager over
+store og tunge brukermanualer. Det er klart at det er viktig at de største pakkene gir et stort
+nok tilbud på analysemetoder, selvsagt at disse er godt dokumentert i statistisk teori, samtidig
+at brukervennlighet er vesentlig.
+En måte å arbeide mot best mulige løsninger med hensyn til alle disse motstridende
+hensynene, kan være å ha et stort antall pakker som konkurrerer med hverandre. Nå har den
+frie konkurransen ikke virket helt perfekt på det økonomiske området, vil mange hevde, og
+det er kanskje ikke så stor grunn til å vente det her, heller, men det er ikke tvil om at noe godt
+kan komme ut av denne konkurransen.
+Denne notisen er for å melde at StatSoft 15. September åpnet norsk kontor, StatSoft Norway,
+i Bygdøy Alle 2, Oslo med Knut Opdal som leder. (www.statsoft.no ; knut.opdal@statsoft.no
+). Inntil nå har SAS og SPSS vært de eneste leverandørene av analyseverktøy som har hatt
+kontorer i Norge.
+I en pressemelding fremhever Opdal verktøy for spørreundersøkelser og for datamining, og
+sier at på det siste området fått en meget god internasjonal evaluering. Base-delen har også
+fått en god omtale. I tillegg nevnes Six Sigma prosesser, som noen liker, andre ikke liker fullt
+så godt.
+Hva som er den beste pakken, vil alltid avhenge av behov, men vil også være en smakssak.
+Derfor kan det i seg selv være bra at vi får mer å smake på. Jeg er sikker på at framtidige
+redaktører i TG vil sette pris på å få bidrag i form av mest mulig balanserte omtaler og
+evalueringer av statistikkpakker. (Se også TG for august 2006.)
+De to andre pakkene med kontor i Norge er:
+SAS Institute Parkveien 25, Oslo (www.sas.com/norway ; info@nor.sas.com)
+SPSS Norway, Drammensveien 126, Oslo (www.spss.com/no/ ; postmaster@spss.no)
+
+26
+
+
+
+STATISTISK FORENING I BERGEN
+Opprettet 15/12 1983
+
+Styret 2006
+Styreleder Grethe Albrektsen Matematisk institutt, UiB Tlf. 55 58 26 86
+Sekretær Bård Støve AnalyseTjenester AS Tlf. 41 64 59 14
+Kasserer Terje Schaathun Vital forsikring ASA Tlf. 55 17 84 10
+Styremedlem Jan Aarseth MS-register, Nevrol. avdeling, Haukeland Sykehus Tlf. 55 97
+60 63
+
+Referat fra årsmøte for 2006
+Møtet ble holdt tirsdag 20. februar 2007 i Bjerkedalsrommet, Institutt for
+samfunnsmedisinske fag, UiB på Pleiestiftelsen, Kalfaret
+Tilstede var 12 medlemmer: Jostein Lillestøl, Eva Dybvik, Hans Julius Skaug, Dag
+Tjøstheim, Hans Andreas Karlsen, Bård Støve, Terje Schaathun, Tore Wentzel-Larsen, Ivar
+Heuch, Grethe Albrektsen, Ågot Irgens og Geir Egil Eide
+
+SAKER:
+1.
+2.
+3.
+4.
+5.
+
+6.
+
+Godkjenning av saksliste.
+Det var ingen bemerkninger til sakslisten.
+Valg av møteleder og referent.
+Lederen foreslo seg selv som møteleder og Eide som referent.
+Det var det ingen protester mot.
+Årsberetning, 2006.
+Utsendt årsberetning ble godkjent.
+Regnskap, 2006.
+Utdelt regnskap ble godkjent.
+Valg.
+På forslag fra leder ble følgende enstemmig valgt:
+Sekretær: Astrid Lunde 2007-8
+Styremedlem: Ågot Irgens 2007-8
+Revisor: Bård Støve 2007-8
+Leder: Grete Albrektsen 2007
+Eventuelt
+Ingen saker meldt.
+
+Møtet ble avsluttet med Peppes pizza og mineralvann.
+Referent
+
+Geir Egil Eide
+(sign.)
+
+27
+
+
+
+Nytt fra UiO
+Ny PhD, desember 2006:
+Ingunn Fride Tvete
+Bayesian hierarchical modelling applied to insurance claims, earthquake predictions, marine
+biology and medicine.
+Veiledere: Bent Natvig, Geir Storvik
+
+Nye masterkandidater, desember 2006:
+Marion Haugen
+Estimering i Log-lineære modeller for kontingenstabeller med manglende data.
+Veileder: Anders Rygh Swensen
+
+Amund Hilstad
+Prising av avkastningsgarantier i livsforsikring.
+Veileder: Pål Lillevold
+
+Nytt fra UiB
+Nye masterkandudater, desember 2006:
+Lars Aga Reisæther
+Hedging av rentederivat
+Veileder: Jostein Paulsen
+Arbeidssted: CSC (Computer Science Corporation)
+
+Jorunn Slagstad
+Blanda modellar i R.
+Veileder: Hans Julius Skaug
+Arbeidssted: Storm Weather Center AS
+
+28
+
+
+
+NYTT FRA NTNU OG TRONDHEIM
+Nye Master, Vinter 2007:
+• Øyvind Stokkenes Johansen,
+Stokastisk analyse av råtekledningspotensiale i huskledning
+(Veileder: John Tyssedal)
+• Frederic Dumont-Kristiansen,
+Spatial variability constraints in seismic depth tomography
+(Veileder: Jo Eidsvik)
+• Morten Dahl,
+Model choice and experimental design for generalized linear
+spatial models
+(Veileder: Jo Eidsvik)
+
+Tekniske Rapporter 2007:
+1. Approximate Bayesian Inference for Latent Gaussian Models Using
+Integrated Nested Laplace Approximations,
+Håvard Rue, Sara Martino and Nicholas Chopin
+2. Density Estimation Using the Sinc Kernel,
+Ingrid Glad, Nils Lid Hjort and Nikolai Ushakov
+3. Upper bounds for the MISE of Kernel Estimators of Probability Density Functions and their Derivatives,
+Ingrid Glad, Nils Lid Hjort and Nikolai Ushakov
+
+Gjesteprofessor dette semesteret:
+Jayant V. Deshpande, University of Pune, India.
+
+1
+
+
+
+Second Baltic-Nordic Conference on Survey Sampling
+2–7 June 2007, Kuusamo, Finland
+
+SECOND ANNOUNCEMENT AND CALL FOR PAPERS
+Dates
+Conference in Kuusamo: 2−7 June 2007
+Pre-Course in Helsinki: 31 May – 1 June 2007
+
+Location and Venue
+This international conference will be held in an exotic area in east-north Finland, Kuusamo, close to the Russian
+border. Kuusamo is located about 800 km to the north-east from Helsinki. The conference venue is Holiday Club
+Kuusamon Tropiikki. The hotel offers not only excellent conference facilities but also exiting options for free-time
+wellness and fitness activities.
+
+Aims and Scope
+The Second Baltic-Nordic Conference on Survey Sampling is a scientific conference presenting current developments in: (i) design and analysis of complex surveys, and (ii) use of auxiliary information in survey sampling, with
+applications to empirical research and statistics production. The conference aims to provide a platform for discussion and exchange of ideas for a variety of people. These include, for example, statisticians, researchers and
+other experts of universities, national statistical institutes, research institutes and other governmental bodies, and
+private enterprises, dealing with survey research methodology, empirical research and statistics production. University students in statistics and related disciplines provide an important interest group of the conference. The
+First Baltic-Nordic Conference on Survey Sampling was held in 2002 in Ammarnäs, Sweden.
+
+Keynote Speakers
+Prof. Harvey Goldstein, University of Bristol, UK
+Prof. Carl-Erik Särndal, University of Montreal, Canada
+Dr Jean-Claude Deville, INSEE/ENSAI Ecole nationale de la statistique et de l'analyse de l'information, France
+Each keynote speaker will give four lectures. Additional invited speakers will be announced.
+
+Call for Papers
+The programme will cover survey sampling and survey methodology in a wide sense. The programme consists of
+sessions of invited papers, contributed papers and posters. Participants are encouraged to submit contributed papers or posters. If you wish to present a paper or poster, please submit a one-page abstract by email
+using address banocoss-info@helsinki.fi before 16 April, 2007.
+Topics of contributed papers or posters include: Business survey methodology, Calibration techniques, Combining data from surveys and registers, Design and analysis of complex surveys, Design and estimation strategies
+using auxiliary information, Edit and imputation techniques, Estimation for domains and small areas, Estimation in
+the presence of nonresponse, Internet and web surveys, Longitudinal and panel surveys, Measurement errors in
+surveys, Methods for international comparison, Multilevel and hierarchical modelling, Non-parametric methods in
+survey analysis, Questionnaire development and testing, Sample surveys in special fields, Software for survey
+sampling and analysis, Statistical disclosure control, Survey data mining, Variance estimation, Weighting strategies.
+Announcement of paper acceptance will be given by 30 April 2007. The conference language is English. An option to submit conference papers to Special Issue of Statistics in Transition Journal will be available.
+
+Important Dates
+31 March 2007: Early registration ends (reduced registration fee applies)
+1 April - 2 June 2007: Late registration (higher registration fee applies)
+16 April 2007: Deadline for submission of titles and abstracts of contributed papers and posters
+30 April 2007: Announcement of paper acceptation
+31 May - 1 June 2007: Pre-course on Multilevel Modelling (Helsinki, Finland)
+2 - 7 June 2007: BaNoCoSS Conference (Kuusamo, Finland)
+
+
+
+Scientific Committee
+Timo Alanko, Statistics Finland, Helsinki, Signe Bāliņa, University of Latvia, Riga, Jan Bjørnstad, Statistics
+Norway, Oslo, Dan Hedlin, Statistics Sweden, Stockholm, Annica Isaksson, Statistics Sweden, Stockholm,
+Danutė Krapavickaitė, Institute of Mathematics and Informatics, Vilnius, Gunnar Kulldorff, University of Umea,
+Seppo Laaksonen, University of Helsinki, Jānis Lapiņš, Bank of Latvia, Riga, Risto Lehtonen (Chair), University of
+Helsinki, Peter Linde, Statistics Denmark, Aleksandras Plikusas, Institute of Mathematics and Informatics, Vilnius,
+Lauri Tarkkonen, University of Helsinki, Daniel Thorburn, University of Stockholm, Imbi Traat, University of Tartu,
+Jan Wretman, University of Stockholm.
+
+Tentative Program
+Saturday 2 June 2007
+Afternoon
+Arrival to Kuusamo; Registration
+18.00−19.30
+Welcome Reception
+
+Tuesday 5 June 2007
+9.00−17.00
+Conference Sessions
+18.00−
+Excursion to Ruka
+
+Sunday 3 June 2007
+9.00−13.30
+Opening; Conference Sessions
+13.30−
+Excursion to Oulanka National Park
+
+Wednesday 6 June 2007
+9.00−17.00
+Conference Sessions
+18.30−
+Conference Dinner
+
+Monday 4 June 2007
+9.00−17.00
+Conference Sessions
+
+Thursday 7 June 2007
+9.00−13.30
+Conference Sessions;
+Closing; Departure
+
+Pre-Course on Multilevel Modelling
+A two-day pre-course Multilevel modelling in social, behavioral and economic research will be organized on
+Thursday and Friday, 31 May − 1 June, 2007. Venue: University of Helsinki, the Kumpula Campus.
+Main lecturer: Prof. Harvey Goldstein (University of Bristol). Participation is free of charge.
+
+Registration Information
+Registration Fees
+Regular Participants: EUR 220 by 31 March 2007, EUR 250 after 31 March 2007.
+Full-time students: EUR 120.
+Accompanying persons and children 15+ years: EUR 80 by 31 March 2007, EUR 100 after 31 March 2007.
+Children 7−15 years: EUR 50.
+The fees include sessions, conference material, refreshments, social program and conference dinner.
+Grants for partial financing of participation of students (to be announced).
+Registration protocol is available at the conference website. On-line registration is recommended.
+
+Accommodation Information
+The Conference Secretariat has made an early reservation for accommodation at Holiday Club Kuusamon Tropiikki, with special rates EUR 74 per night for a single room and EUR 46 per night per person for a double room
+for the conference participants. Hotel services include free spa services (included in room prices). Instructions on
+booking procedures are available at the conference website.
+
+Travel Information
+Most international flights to Finland land at Helsinki international airport. Detailed travel information to Kuusamo is
+available at the conference website.
+
+Organizers and Sponsors
+The conference is organized by the University of Helsinki, Baltic-Nordic Network in Survey Sampling, Statistics
+Finland and the Finnish Statistical Society. Sponsors include the International Association of Survey Statisticians
+(IASS) and the Academy of Finland.
+
+Organizing Committee
+Kari Djerf, Statistics Finland, Helsinki, Tarja Hämäläinen, University of Helsinki, Seppo Laaksonen, University of
+Helsinki, Risto Lehtonen (Chair), University of Helsinki, Lauri Tarkkonen, University of Helsinki, Maria Valaste
+(Secretary), University of Helsinki, Kimmo Vehkalahti, University of Helsinki.
+
+Contact Addresses
+Postal Address: Conference Secretariat, P.O.Box 54 (Unioninkatu 37), FI-00014 University of Helsinki, Finland.
+Fax: +358-9-191 24872. Email: banocoss-info@helsinki.fi
+Web site: www.mathstat.helsinki.fi/msm/banocoss/
+
+
+
+Förhandsinbjudan
+
+Mätproblem
+i statistik
+Vad skall vi mäta?
+Hur skall vi mäta?
+Nordiska
+Statistikermötet
+25.–28. juni 2007
+Reykjavik
+Island
+
+www.nordstat2007.is
+
+
+
+Internasjonal PLS-konferanse i Oslo
+Organisert av Matforsk, Cigene og Universitetet for miljø- og biovitenskap
+(UMB) i samarbeid med Universitetet i Oslo og Centre for Biospectroscopy
+and Data Modelling (Ås)
+For mer informasjon: www.PLS07.org
+
+PLS07 - 5th International symposium
+Causalities explored by indirect observation - PLS´07
+5th International symposium on PLS and related methods
+Voksenaasen Conference Centre, Oslo, Norway
+September 5th - 7th 2007
+Aim: The purpose of the symposium is to bring together scientists from different fields to
+
+discuss how complex systems can be explored by multivariate Partial Least Squares (PLS)
+and related data modelling methods.
+The main aims of this PLS symposium are:
+•
+•
+•
+•
+
+To focus on how causalities can be studied in complex systems by letting multivariate
+data and prior knowledge supplement each other.
+To improve the communication and co-operation between persons interested in the
+scientific principles, methods and applications of data modelling in complex systems.
+To serve as an interdisciplinary meeting to disseminate scientific knowledge in the
+field of PLS data modelling.
+To merge the different PLS methods from the main PLS cultures, and combine these
+with other tools, such as mutual causality, temporal dynamics etc.
+
+Scientific Committee
+Local Scientific committee:
+
+Harald Martens (Chairman) Matforsk, Cigene and Norwegian University of Life Sciences
+Tormod Næs, Matforsk and University of Oslo
+Magni Martens, Matforsk
+Inge Helland, University of Oslo
+Elin Kubberød, Matforsk
+Martin Høy, Matforsk
+Ingunn Berget, Cigene and Matforsk
+Stig Omholt, Cigene and Norwegian University of Life Sciences
+Solve Sæbø, Norwegian University of Life Sciences
+Ulf Indahl, Norwegian University of Life Sciences
+International Scientific Committee:
+
+Vincenzo Esposito Vinzi, Italy
+Carlo Lauro, Italy
+Michel Tenenhaus, France
+Svante Wold, Sweden
+Lars Munck, Denmark
+Tomas Aluja-Banet, Spain
+Alain Morineau, France
+Huiwen Wang, China
+Wynne Chin, USA
+
+33
+
+
+
+PREKONFERANSEKURS
+GENERALIZED LINEAR LATENT AND MIXED MODELS
+SOMMARØYA (Tromsø), 18.-19. juni 2007
+Norsk statistisk forening ønskjer velkommen til prekonferansekurs før statistikarmøtet på
+Sommarøya (Tromsø)
+
+Tidspunkt
+Kurset startar med lunsj måndag 18. juni klokka 13.00 og blir avslutta tysdag 19. juni klokka
+12.00. Statistikarmøtet startar på same stad etter at kurset er ferdig.
+Lokalisering
+Sommarøy kurs og konferansesenter, sjå omtale under presentasjonen av statistikarmøtet.
+Foredragshaldarar
+Anders Skrondal <mailto:a.skrondal@lse.ac.uk> ,
+London School of Economics & Norwegian Institute of Public Health.
+http://www.gllamm.org/anders.html
+Sophia Rabe-Hesketh <mailto:sophiarh@berkeley.edu> ,
+University of California, Berkeley & Institute of Education, University of London
+Tema for kurset
+Generalized linear mixed (or multilevel) models (GLMMs) are useful for longitudinal data,
+cluster-randomized trials, surveys with cluster-sampling, genetic studies, meta analysis, etc.
+The random effects in GLMMs are latent variables representing between-cluster variability
+and inducing within-cluster dependence. Latent variables also are used often to represent true
+values of variables measured with error. Measurement models specifying the relationship
+between measured and latent variables can form part of regression models, giving structural
+equation models (SEMs). SEMs also can be used to model dependence between processes.
+Taking a unified view of these models is beneficial because developments for one model-type
+are applicable to other model-types and the same
+software can be used for seemingly different models. The course will be structured in three
+parts: GLMMs, measurement models, and SEMs. Ideas will be developed by starting from
+simple versions of the models and motivating extensions through examples. Methods of
+estimation and prediction will be surveyed. Real applications will be considered from
+different disciplines.
+Litt reklame
+Kurset er tidlegere halde ved to "Joint Statistical Meetings" (Toronto og Seattle) der det var
+eitt av dei mest populære og med best evaluering. Elles er kurset gitt m.a. i Firenze, Pacific
+Grove, Washington DC, Munster, Montreal, Research Triangle Park og Boston.
+Litteratur
+Skrondal, A. and Rabe-Hasketh, S. (2004): Generalized Latent Variable Modeling:
+Multilevel, Longitudinal and Structural Equation Models. Chapman and Hall/CRC Press.
+ISBN: 1-58488-000-7.
+Målgrupper
+Kurset vil vere av interesse for alle som arbeider med statistikk, epidemiologi, biologi,
+økologi, økonomi m.fl.
+
+34
+
+
+
+Påmelding
+Påmelding og hotellbestilling skjer via nettsidene for statistikarmøtet:
+http://uit.no/matstat/statistikermote. Påmeldingsfristen er 1. juni, og kursavgifta er
+1000 kroner.
+Hotellovernatting for 1 dag med heilpensjon vil komme på omtrent 1400 kroner.
+Transport
+Det vil bli sett opp (gratis) buss frå Tromsø lufthamn til Sommarøya klokka 11.45 måndag
+18/6. Den vil då korrespondere med flyruter frå Oslo og Trondheim med ankomst mellom
+11.00 og 11.15. Bussturen tar omtrent 45 minutt.
+tysdag 19/6 blir det sett opp buss frå Sommarøya klokka 12.30 slik at den
+korresponderer med fly til Oslo og Trondheim med avgang 14.00.
+Informasjon
+For ytterligare informasjon sjå nettsida http://uit.no/matstat/forkurs der det etter kvart vil bli
+lagt ut meir materiale om kurset.
+
+Velkommen!
+
+Det 14. norske statistikarmøtet
+SOMMARØYA (Tromsø), 19.-21 juni 2007
+Norsk statistisk forening avdeling Trondheim ønskjer velkommen til:
+Det 14. norske statistikarmøtet, 19.-21. juni 2007
+på Sommarøy kurs og konferansesenter
+Tidspunkt
+Møtet startar med lunsj tisdag 19. juni klokka 13.00 og blir avslutta torsdag 21. juni klokka
+12.30.
+Lokalisering
+Sommarøy kurs og konferansesenter, www.sommaroy.no, ligg på Sommarøya, som er er
+lokalisert på vestsida av Kvaløya omtrent 50 km vest for Tromsø, altså omtrent ytst mot
+havgapet. Det er frå gamalt av eit fiskeribasert samfunn der det i dag òg blir drive ein del med
+turisme. Øya har brusamband med Kvaløya og vidare til Tromsø. På sommarstid er det og
+mogeleg å ta ferje frå Brensholmen (5 km frå Sommarøya) til Senja og følgje ytre veg vidare
+derfrå til Vesterålen og Lofoten utan å dra innom fastlandet.
+Program
+Sjå eigen presentasjon av programkomite og program nedanfor.
+Påmelding
+Påmelding og hotellbestilling skjer via konferansenettsidene
+http://uit.no/matstat/statistikermote Påmeldingsfristen er 1. mai, og konferanseavgifta er
+sett til 1000 kroner. Det er mogeleg å melde seg på fram til 1. juni, då med ei
+konferanseavgift på 1250 kroner.
+
+35
+
+
+
+For studentar er konferanseavgifta sett til 500 for påmelding før 1. mai, og 750 mellom 1. mai
+og 1. juni. Det vil i tillegg bli gitt støtte til dekning av (delar av) utgiftene til reise og opphald
+for studentar som vil delta, meir informasjon om dette vil kome på nettsidene.
+Hotellovernatting for 2 dagar med heilpensjon vil komme på omtrent 2800 kroner. I tillegg
+kan dei som ønskjer det bestille lunsj siste dagen, dette er ikkje inkludert i pensjonsprisen.
+Transport
+Det vil bli sett opp (gratis) buss frå Tromsø lufthamn til Sommarøya klokka 11.45 tirsdag
+19/6. Den vil då korrespondere med flyruter frå Oslo og Trondheim med ankomst mellom
+11.00 og 11.15. Bussturen tar omtrent 45 minutt.
+Torsdag 21/6 blir det sett opp buss frå Sommarøya klokka 12.30 slik at den
+korresponderer med fly til Oslo og Trondheim med avgang 14.00.
+Det går òg rutebussar frå flyplassen til Sommarøya, sjå www.tromsbuss.no (rute 1) for
+nærmare informasjon.
+Sosiale aktivitetar
+På ettermiddagen onsdag 20. vil det bli eit tilbod om anten tur med båt eller eit opplegg med
+«naturbaserte spenningsaktivitetar og moro» frå http://www.naturogutfordring.no. Påmelding
+og betaling for den enkelte deltakar skjer via konferansenettsidene. På kvelden den 20. er det
+òg konferansemiddag.
+Forkurs
+Det vil bli arrangert eit kurs på Somarøy kurs og konferansesenter frå måndag 18/6 til
+statistikarmøtet startar tisdag den 19. Temaet for kurset er «Generalized Linear Latent and
+Mixed Models». Kurshaldarar er Anders Skrondal og Sophia Rabe-Hesketh. Sjå elles
+eigen presentasjon.
+
+Arrangementskomité
+Georg Elvebakk (Tromsø), leiar
+Sigrunn Sørbye (Tromsø), økonomi
+Elinor Ytterstad (Tromsø), påmelding, transport, websider
+Turid Follestad (Trondheim)
+Vi ønskjer velkommen til det første norske statistikarmøtet nord for polarsirkelen!
+
+*****
+
+36
+
+
+
+D ET 14. NORSKE STATISTIKERMØTET:
+FAGLIG PROGRAM
+Det 14. norske statistikermøtet arrangeres på Sommarøy utenfor Tromsø, 19.-21.juni 2006. Informasjon fra arrangementskomitéen (bla. om påmelding og kurs med Skrondal og Rabe-Hesketh i
+forkant av møtet), finner du et annet sted i dette TG.
+F ORELØPIG PROGRAM : I NVITERTE FOREDRAG :
+• Hovedforedrag:
+– Professor Nils Lid Hjort, UiO:
+"Modellvalg og modellblanding"
+• Tema: "Modellering av avhengighetsstrukturer ved vines og copulae"
+– Assisterende Forskningsjef Kjersti Aas, NR:
+"Modellering av avhengighetsstrukturer med finans som anvendelse"
+– PhD-student Daniel Berg, UiO/NTNU/NR:
+"Goodness-of-fit testing av avhengighetsstrukturer"
+• Tema: "Fiskeriforskning"
+– Alf Harbitz, Havforskningsinstituttet Tromsø:
+"Statistikk innen marin ressursforskning med eksempler fra
+Havforskningsinstituttets aktiviteter"
+• Tema: SFF og SFI med tung statistikk-komponent
+– “Statistics for Innovation”
+ved Norsk Regnesentral.
+– “Centre for Ecological and Evolutionary Synthesis”
+presentert av Professor Tore Schweder, UiO.
+– “Tromsø Telemedicine Laboratory”
+presentert av Professor Fred Godtliebsen, UiTø.
+I tillegg til de inviterte fordragene ønsker vi oss påmeldte foredrag, innen ALLE tema! Posterseksjonen vil bli avholdt tirsdag ettermiddag. Spesielt ønsker vi:
+• Foredrag eller poster fra hovedfagsstudenter og stipendiater.
+• Postere og “læremiddel” under temaet “fargerik statistikk og visualisert undervisning”. Har
+du funnet på noe spennende i statistikkforelesningene dine, så ønsker vi at du deler det med
+andre statistikere - ved å vise ideen din på stand eller som en plakat. Forslag: todimensjonale
+fordelinger i plastelina, spill Monty Hall med skoesker, to-utvalgs t-test brukt på seigmennsstrekking,
+Poisson-sokk, Florence Nightingale - statistikk i det godes tjeneste.
+
+
+
+For alle påmeldte foredrag (og postere) gjelder:
+• Tittel sendes innen 15.mars og kort abstract innen 1.mai til programkomitéen.
+Innspill og påmelding av foredrag sendes Programkomitéen v/Mette Langaas,
+email: Mette.Langaas@math.ntnu.no.
+Vi ser frem til å se deg på det 14.norske statistikermøtet!
+Med vennlig hilsen
+Programkomitéen
+• Mette Langaas, Institutt for matematiske fag, NTNU, Mette.Langaas@math.ntnu.no.
+• Fred Godtliebsen, Institutt for matematikk og statistikk, Universitetet i Tromsø.
+• Ivar Heuch, Matematisk institutt, Universitetet i Bergen.
+• Magne Aldrin, Norsk Regnesentral, Oslo.
+
+2
+
+
+
+StatSoft er en global leverandør av verktøy, løsninger og tjenester innen analyse og
+datamining. StatSoft er mest kjent for analyseverktøyet
+
+StatSoft Norway AS er et norsk datterselskap etablert høsten 2006 som delvis er eid av
+StatSoft Inc og delvis av de norske ansatte. Søkere med spesielt høye kvalifikasjoner vil
+bli tilbudt å bli partner i selskapet ved ansettelse. Andre kan søke om å bli tatt opp i
+partnerprogrammet senere. Partnerne vil opparbeide seg vesentlige eierandeler i selskapet.
+Vår visjon er å hjelpe bedrifter i å realisere verdier ved praktisk bruk av statistikk. Vi er
+pragmatiske og kundeorienterte og ikke opptatt av grunnforskning. Vi bruker mer enn
+gjerne enkle analyser hvis vi tror kunden er mest tjent med dette. Utfordringer får vi
+likevel nok av på flere fronter.
+Vår oppdragsmengde er økende og vi søker derfor
+
+STATISTIKERE
+Arbeidsoppgaver: Levere analysetjenester til våre kunder på ulike prosjekter.
+•
+
+•
+•
+
+Vi legger stor vekt på bredde når det gjelder faglig kompetanse. Helst skal man
+beherske så mange som mulig av de analyseteknikkene som finnes i kommersielle
+analyseverktøy fra StatSoft, SAS og SPSS.
+Programmeringskompetanse og kjennskap til databaser og SQL er en fordel.
+Du må være flink til å kommunisere, også med personer som har liten innsikt i
+statistikk.
+
+Vi søker i første rekke etter statistikere med solid erfaring fra næringslivet. Søkere med
+mindre erfaring men med de rette holdninger og gode karakterer vil også bli vurdert.
+Vi tilbyr meget konkurransedyktige og fleksible betingelser, utfordrende arbeidsoppgaver
+og et godt sosialt miljø.
+For mer informasjon send mail til knut.opdal@statsoft.no eller ring: 92 22 41 81.
+StatSoft Norway AS
+www.statsoft.no
+Telefon: 4000 7057
+Mail: post@statsoft.no
+
+39
+
+
+
+Bidrag til Tilfeldig Gang
+Alle slags bidrag til bladet er velkomne, enten det gjelder nye temaer av interesse for norske
+statistikere, eller man har kommentarer til innlegg som allerede har stått i bladet. Stoff til neste
+nummer må være Sven Ove Samuelsen (osamuels@math.uio.no) i hende innen 01.06.2007.
+
+Norsk Statistisk Forening
+Kasserer: E-mail:hborgos@slb.com Tlf: 51 94 64 66
+2773299
+
+Postgirokonto: 0530
+
+_____________________________________________
+
+Årskontingent Norsk Statistisk Forening 2007
+Medlemskontingent i NSF er kr. 200,- pr. år for ordinære medlemmer og kr. 50,- for studenter (til og
+med hovedfag). På adresselappen bakpå TG står det anført siste år vi har mottatt kontingent fra deg.
+Sjekk adresselappen! De som ikke har betalt for tidligere år gjør dette sammen med kontingenten for
+2007. Dersom du mener betalingsinformasjonen ikke stemmer, gi beskjed til hborgos@slb.com.
+NB: Dersom din arbeidsgiver betaler kontingenten, sørg for at navnet ditt kommer med på
+innbetalingen.
+
+Medlemsregister
+For at medlemsregisteret skal være best mulig oppdatert er det viktig at du oppgir evt. ny post/epostadresse enten ved å sende meg en epost eller oppgi dette på innbetalingsgiroen. Vi har opprettet en
+egen mailingliste for NSFs medlemmer, nsf-medlemmer@math.uio.no. Dersom du ikke mottar epost
+på denne lista, send meg din oppdaterte epostadresse.
+
+Betalingsfrist for innbetaling av kontingent er 20. april.
+PÅ FORHÅND TAKK!
+VENNLIG HILSEN
+HILDE GRUDE BORGOS
+KASSERER NSF
+
+40
+
+
+
+Kontingent NSF 2007: kr. 200 (kr. 50 for stud.)
+
+NSF v/ Hilde Grude Borgos
+Schlumberger Stavanger Research
+Postboks 8013
+4068 Stavanger
+
+0530 2773299
+
+41
+
+
+
+Retur:
+Norsk Statistisk Forening
+v/Hilde Grude Borgos
+Schlumberger Stavanger Research
+Postboks 8013
+4068 Stavanger
+
+42
+
+
+

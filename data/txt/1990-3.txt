@@ -1,0 +1,3489 @@
+TILFELDIG GANG
+Nr. 3, årgang 7
+Oktober 1990
+
+Utgitt av Norsk Statistisk Forening
+
+Innhold
+
+Nekrolog: Else Sandved. Erik Torgersen
+
+Synspunkter på utdannelse av statistikere, del II. Erling Sverdrup
+Om kortspill og annen lastefull ferd. Rolv Terje Lie
+Kan statistikk også være business? Intervju med Leiv Sandvik,
+Medstat A/S. Ivar Heuch
+
+Et simuleringsprogram for illustrasjon av begreperi statistisk
+metodelære.
+
+Solfrid Lilleeng
+
+Sammendrag av doktoravhandling: Two incomplete data problems in
+life-history analysis: *Double censoring” and *The case-cohort
+design”.
+
+Sven Ove Samuelsen
+
+Sammendrag av doktoravhandling: Bedre modeller og mer komplisert
+teori i tidsrekkeanalysen? Hans Arnfinn Karlsen
+
+Datamaskiner i statistikkundervisningen ved Matematisk institutt,
+Universitetet i Oslo. Erik Bølviken
+
+Innføring i statistisk metode: Erfaringer med datastøttet læring i
+økonomistudier ved Norges Handelshøyskole. Jostein Lillestøl
+Det norske statistikermøtet 1991. Doris Tove Kristoffersen
+Nytt fra universiteter og høyskoler
+
+Fra kontaktflaten mellom vårt fag og verden utenfor
+Kalender for internasjonale møter
+
+Medlemskap i Norsk Statistisk Forening
+
+
+
+
+
+ELSE
+
+SANDVED
+
+Amanuensis Else Sandved er død 61 år gammel.
+
+E. Sandveds liv som statistiker faller sammen med fremveks-
+
+ten av matematisk statistikk som et selvstendig fag ved Universitetet i Oslo. Til denne utviklingen ydet hun viktige bidrag.
+Hun var den første som avla embetseksamen med statistikk
+som hovedfag. Tidligere hadde fagutdannelsen i matematisk
+statistikk vært innpasset i andre fag som aktuarfag, økonomi og
+matematikk.Hovedoppgaven hennes fra 1959, som omhandlet konstruksjon av forsøksplaner, ble publisert i Mathematica Scandinavica.
+Høsten 1959 ble hun tilsatt som vitenskapelige assistent og
+2 år senere universitetslektor i matematisk statistikk ved Univversitetet i Oslo. Avdeling for statistikk og forsikringsmatematikk ved Matematisk institutt bestod i de første årene av ikke
+mere enn ca 5-6 personer. Det at andre var interessert i egen
+forskning og arbeide var derfor viktig for oss alle. E. Sandveds
+engasjement betydde meget i denne tiden. Hun nedla et omfattende
+og grundig arbeid med å utarbeide øvelsesopplegg for studentene
+til nye kurs. Hun ydet vesentlige bidrag ved utarbeidelsen av
+Erling Sverdrups læreverk "Lov og tilfeldighet". Spesielt engasjerte hun seg i statistikk-undervisningen for biologer. Hun utarbeidet kursopplegg tilpasset såvel biologer som andre brukere
+av statistikk utenfor den matematiske fagkrets.
+
+Allerede i løpet av de første travle år ble hun opptatt av
+
+noen helt sentrale problemer innen statistisk inferens eller beslutningsteori. Disse problemene vedrører det i og for seg selvsagte forhold at de sannsynlighetslover som frembringer vare data, kan oppfattes som betingete gitt et sett av variable. I alminnelighet vil det i en gitt situasjon vere mange slike sett av
+variable. Denne flertydigheten kan også uttrykkes ved spørsmålet
+om hva som er det relevante sampelrommet for en statistisk undersøkelse. Statistikerens problem er når og hvordan slike forhold
+skal trekkes inn ved konstruksjonen av de statistiske metoder.
+Else Sandved ydet vektige bidrag til dette problemområdet.
+Et vitnesbyrd om interessen for hennes avhandlinger fra årene
+1966-72 er referanser i sentrale og aktuelle læreverk. Et annet
+
+vitnesbyrd er betegnelsen S-ansillaritet som er innarbeidet Al
+
+faglitteraturen. Bokstaven S henspiller her pa Sandved og
+Sverdrup som begge bidro til innfgringen av det underliggende
+
+begrepet.
+
+Else fikk oppleve mye sykdom og vi kan spgrre oss om hva
+hun ville ha fått utrettet om hun ikke hadde hatt disse prøvelsene. Selv fikk hun oppleve hvordan hennes bidrag har stått seg
+mot tidens tann. Hun hørte hjemme i en faglige tradisjon som
+
+fortsattstår sterkt i våre statistiske miljøer. Denne tradisjon
+er preget av en kritisk spørrende holdning som ikke gir grobunn
+for universalløsninger. Hennes mange spørsmål og eksempler har
+fått mange av kollegaene til å spørre seg om verden kanskje ikke
+var så enkel som vi gjerne ville tro.
+
+Else var et varmt menneske som var opptatt av hvordan ven-
+
+ner og kollegaer hadde det. Hun uttrykte takknemlighet for hva
+
+mann og sønn betydde for henne i vanskelige år. Hun var et
+medmenneske og i det etterlater hun seg mye.
+
+Eri fr Torgers eu
+
+
+
+SYNSPUNKTER PÅ UTDANNELSE AV STATISTIKERE. DEL II.
+Erling Sverdrup
+
+Vi fortsetter drøftelsen i kapittel III. Som nevnt banaliseres ofte Neyman-Pearson teorien
+i lærebøkene ved å presentere den som Neyman-Pearsons lemma. Analyse av metodenes
+egenskaper - deres pålitelighet, følsomhet og robusthet - ved hjelp av ytelsesfunksjonen er
+hovedsaken. Konstruksjonsmetoder (sannsynlighetskvotetesten, Bayes konstruksjon e.l.)
+kan være nyttige, men garanterer ikke for kvalitet. I litteraturen drøftes Wilcoxontesten,
+så vidt jeg kan se utelukkende ut fra ytelsesfunksjonen. Noen konstruksjon av metoden har
+
+jeg aldri sett. Den er da også, som tidligere understreket, en av de aller fineste eksempler
+på rendyrking av Neyman-Pearsons ånd.
+
+Optimale egenskaper ved ytelsesfunksjoner kan være vel og bra. Disse egenskapene blir
+ofte illustrert ved testing av helspesifiserte (*simple”) hypoteser; men stopper man med
+det blir det hele temmelig tamt. To grunnleggende tester i statistikken. Student test i
+det normale tilfelle eller Irwin-Fishers test ved dobbel dikotomi for kategoriske data vil
+umiddelbart, synes å falle utenfor. En våken student vil ganske raskt oppfatte det og vil
+ha svært vanskelig for å forstå at N.-P.-teorien skal være så fundamental. (Også modne
+statistikere har gitt uttrykk for samme mening.) Et grunnleggende emne i den optimale
+Neyman-Pearson teorien hører hjemme på første avdelings nivå. Skal man først behandle
+optimale testmetoder må man behandle disse viktige tester. Bemerk også at begrunnelsen
+for Wilcoxon’s test bygger på at Student’s test har optimal styrke.
+
+Skal man studere styrkeoptimalitet i dag, har man på bokmarkedet dessverre valget mellom enten Lehmanns (1959, 1986) fremragende, men omfattende monografi eller de korte innføringer om Neyman-Pearsons lemma som altså presenteres som Neyman-Pearsons
+teori. Allerede N.-P.-avhandlingen fra 1933 går meget lenger, “similarity” (nivåkonstans)
+er sentralt.
+
+Jeg mener at den undervisning som har vært gitt i Oslo representerer et brukbart kompromis som riktignok trenger moderniseringer. Vil man presentere ideen i Neyman-Pearson
+
+teorien allerede på grunnplanet, kan man gi følgende bevis for optimaliteten av Student's
+test.
+
+La X =(Xq,-::,Xn) være uavhengige normale (6,0). Vi skal teste € = 0 mot > 0 med
+nivå e. Vi skal bevise at forkastningsområdet T = X./n/S > t1-. gir en overalt sterkeste
+styrkerettet test. La 6,(X) være indikatorfunksjonen for dette området. Bemerk at det
+kan skrives
+
+R=5X? > d(Y)Y = 5X;
+
+(1)
+
+hvor c(-) er fullt spesifisert. Vi har for sannsynlighetselementet for observasjonene
+
+(27) å 030770" dys dn = Al" Y+RAG,
+
+(2)
+
+
+
+hvor G, er den simultane kumulative sannsynlighetsfunksjon svarende til € = 0,0 = 1, og
+T=
+
+1
+2
+
+l p=€/0",A= ene fe"
+202
+
+(3)
+
+Bemerk at A = 1 når p = 0. Styrkefunksjonen for en vilkårlig test 6 (dvs. indikatorfunksjon) er
+
+B(r,p) = EB6(X) = A / s(z)erY+”"4G,
+
+(4)
+
+La E, betegne forventningsverdien for p = 0.
+Da har vi
+
+B(T,0) = E,E,(6(X)|Y) = E,E,[6(X)I¥]
+
+(5)
+
+siden Y er suffisient for p = 0. Herav
+
+B(r,0) = / e"* E.(6(X)|Y )dG,
+
+(6)
+
+Ved den dominerte grensesetning verifiserer vi at G(T, ) er en kontinuerlig funksjon av p.
+Av styrkeretthet med nivå e følger da at f(7,0) =e.
+
+Videre er f(7,0) = f e7YdG, = 1 nar 6(X) er identisk lik 1. Herav ved (6)
+
+/ e’Y (E,(6(X)|Y) — e)dG, = 0
+
+(7)
+
+for alle 7(< I). Ifølge kompletthetsegenskapen ved Fourier-Laplace-teorem følger nå at
+parentesen i integranden må være 0,
+
+E(&(X)|Y) -e=0
+
+(8)
+
+Dette gjelder altså for enhver styrkerett 6 og spesielt for 6 = 6,. Herav
+
+Eo|(50(X) — 6(X))|¥] = 0
+Multipliserer vi her med
+
+og integrerer, far vi
+
+et
+
+(9)
+
+tec(Y) dG,
+
+A / e7Y +26
+(6 (X) — 6(X))dG, =0
+
+(10)
+
+Av (4) finner vi for differansen mellom styrkefunksjonene for 6, og 6
+
+A=A / [5.(x) — 6(2)JeTM®
+*°¥ dG,
+
+(11)
+
+
+
+Subtraherer vi (10) får vi
+
+Je dG,
+A= A / (6,(2) — (ax) ye? — cP)
+
+(12)
+
+Vi ser na pa denne differens for et alternativ p > 0. Siden 6, er indikator funksjonen for
+ulikheten (1), ser vi at de to første faktorer i integranden overalt har samme tegn, dvs.
+A>0, Q.E.D. Utledning av optimalegenskapen for student-testen for to utvalg går etter
+samme retningslinjer.
+
+Jeg har gått ut fra at studentene er fortrolig med betingede sannsynligheter og forventninger, samt suffisiens fra det elementære emne om mål- og integralteori i sannsynlighetsregningen.
+
+Et utsagn i beviset ovenfor er uthevet. Det er et utsagn fra den matematiske analyse som
+kan være ukjent for studentene hvis beviset presenteres på et elementært nivå; men som
+er så sentrale at de vil bli kjent før eller senere i studiet.
+
+En annen fundamental test er Irwin-Fishers test (L & T, Bind I p. 272-277) for uavhengighet ved 2 x 2 tabeller av kategoriske data. Den bygger som kjent på den hypergeometriske
+fordeling. Den optimale egenskap ved denne test kan avledes på samme måte som ved
+Student-testen. Den kunne også vært utledet av kompletthetsegenskapen for n-te grads
+
+polynomet P,(x) (dvs. hvis P,(x) har flere enn n røtter, da er P,(x) identisk lik 0.)
+
+Student-testing og Irwin Fisher testing må, ved siden av Wilcoxontesting ansees for vesent-
+
+lige grunnpilarer i statistisk teori, som må studeres allerede på et meget elementært nivå.
+
+Et sidesprang: Det er en eiendommelighet i læreboklitteraturen at *sammenligning av relativ hyppighet” prinsipielt skjer tilnærmet ved å sammenligne differensen mellom relative
+hyppigheter med det estimerte standardavvik. I spesielle tilfeller anbefales så Irwin-Fishers
+test. Overalt ellers utleder man først det eksakte og så tilnærmer man. Da vet man hva
+man skal tilnærme til, og om tilnærming er nødvendig. Det er den ofte ikke i dag, med
+det regneutstyr vi nå har.
+
+Hvorledes man enn stiller seg til ovenstående presentasjon av et hovedtrekk ved N.-P.teorien, er det viktig at N.-P.-teorien for Darmois-Koopmanske fordelingsklasser er en del
+av det fundamentale grunnlag for alle statistikk studerende.
+
+Det har vært hevdet at Neyman-Pearson konstruksjonene bare er brukbare til underbygging av metoder som er kjent på forhånd. Konstruksjonene er derfor svært “teoretiske”. Dette ekstreme standpunkt kan ha hatt en viss berettigelse før regneteknologiens
+fremkomst, men den er avgjort ikke berettiget i dag. N.-P.-konstruksjonen som i gamle
+dager var helt urealistiske, kan i dag implementeres for EDB. Det finnes eksempler på
+at nevnte konstruksjoner har vært neglisjert til fordel for meget primitive konstruksjoner.
+(F.eks. en programpakke for log-lineære modeller.) Denne utvikling vil vel før eller senere
+snues og vi bør ligge i forkant i en slik utvikling. Vi bør i alle fall ikke følge en uheldig
+trend.
+
+
+
+IV UNIFISERING
+
+Descartes (1596-1650) fremhevet om seg selv at han hadde gjennomsnittsmenneskets intelligens, men at det ikke var intelligensen det kom an på, men det at man hadde en
+*metode”. (Dicourse de la Methode (1637)). Med *metode” mener han det som vi i dag
+kaller *unification”; på norsk kan vi kalle det unifisering (enhetlig-gjøring). At unifiseringen har vært en veldig drivkraft i utviklingen av mange vitenskaper, kan det neppe være
+tvil om. Således i fysikken fra Arkimedes til Schrødinger. Heller ikke er det tvil om at
+unifiseringen lar vært en kraft i den statistiske inferensteoris korte historie fra 1890 av til
+i dag. I studiet av statistikk er det viktig å fange opp disse drivkrefter slik at studiet ikke
+blir et lappeteppe av enkelt-emner.
+
+Jeg vil nedenfor konkretisere hva drivkreftene innen fysikken består i. Jeg vet at enkelte
+lesere av nærværende notat vil irritere seg og krympe seg over det jeg nå skal presentere. Jeg vil be om at leserne viser overbærenhet og tålmodighet og leser det selv om
+de synes horisonten blir vel vid. Vær oppmerksom på at unifiseringer ofte vil virke banale når de først er fordøyet, slik som lærerne har; men studentene kan ha vanskeligheter
+med fordøyelsen. Jevnfør hva jeg skriver nedenfor om Halmos. La meg punktvis nevne
+unifiseringer i fysikken.
+
+—
+
+1. Arkimedes (287-212) prinsipp om arbeide = kraft x vei, omfatter så forskjellige
+ting som spett, kubein, vekter, skruer, taljer, spillverk og var også grunnleggende
+ved unifisering med andre energiformer i det attende og nittende århundre (Mayer,
+Joule, Helmholz, Black.)
+
+2. Descartes unifisering av algebra og Euklidsk geometri ved hjelp av koordinatsystemet, som rasjonaliserte løsningen av geometriske problemer og bante veien for
+Newton som trengte den analytiske geometri som metode.
+
+3. Newton (1642-1727) gravitasjonsprinsipp som unifiserte jordens, planetenes og
+månens bevegelser, samt legemers fall og tidevann.
+
+4. I det nittende århundre så man en eventyrlig utvikling med unifisering av teorier
+for lys, elektrisitet og stråling. Ved begynnelsen av århundre utforsket menn som
+Aragot, Fresnel og Young lysets bølgenatur ved å studere dets refleksjon, refraksjon
+og polarisering. De forkastet dermed den rådende teori for lys, dvs. Newtons
+emisjonsteori (og tok opp teorien til Huygens.)
+
+På tilsynelatende et helt annet område eksperimenterte Ampére, Ørsted og Faraday med spoler (kveiler av kobbertråd) og magneter, og Coulomb med elektriske
+ladninger. De lover om indusering av elektriske og magnetiske felter, samt ladninger som derved fremkom, sammenstilte Maxwell til et system av ligninger som
+han også generaliserte. Dermed kunne Maxwell forutsi at elektromagnetiske signaler kunne utbre seg i vacuum eller i mange slags medier, noe som eksperimentelt
+ble bekreftet av Hertz. Ved å løse sine differentialligninger fant Maxwell at signalenes hastighet var 1/,/e# hvor € var den fundamentale konstant i Coulombs
+lov og pu den fundamentale konstant i Ampéres lov om en strøms indusering av
+
+
+
+magnetiske felter. I vacuum viste det seg da at 1/,/eu = c = lysets hastighet
+som var målt eksperimentelt av Foucault, ved hjelp av hurtig roterende speil.
+Et fundamentalt resultat! Det var ingen tvil om at lysets bølgenatur fra begynnelsen av hundreåret kunne dermed underbygges konkret. Ved å studere helt
+andre fenomener enn lys, nemlig strømførende ledninger og elektriske ladninger,
+var det altså mulig å bestemme lysets hastighet og avsløre lysets natur. En triumf
+for unifiseringstanken og en triumf for den Cartesiske idé.
+
+—
+
+Samtidig sto man rustet til nye oppgaver, f.eks. utforskning av radioaktive strålinger (Becquerel, Curie).
+
+5. Men Maxwells teori var ikke generell nok.
+
+Sort varmestråling kunne ikke fork-
+
+lares. Kvantemekanikken oppsto. Parallelt vokste atomteorien frem (Rutherford),
+
+så forente Bohr kvantemekanikk og atomteori, og utviklet teorien for hydrogenatomet i detalj. En videreføring av dette førte til Schrødingers bølgeligning som
+etterhvert fikk et langt videre virkefelt enn det som den oppsto fra (molekylære
+konstellasjoner, faste stoffers fysikk.)
+
+Denne utvikling innen fysikken mot unifisering og universalitet, som er beskrevet ovenfor,
+er åpenbar også innen vårt fag.
+
+I matematikken finner man også i høy grad unifiseringer, (men også det stikk motsatte,
+man søker efter “ngtter” som er spesielt harde å knekke og hvor man ikke kan anvende
+standard prinsipper). Paul R. Halmos skrev i sin bok “Finite Dimensional Vector Spaces”
+(1948): “That Hilbert space theory and elementary matrix theory are intimately associated came as a surprise to me and many of my generation only after studying the two
+subjects separately. This is deplorable: it took us as much time to discover for ourself that
+there is a connection as it took to learn the two seemingly separate disciplines.” Dette
+
+viser at også matematikerne er entusiastiske overfor unifiseringer. Men det viser også
+at når unfiseringene først er fattet så taes de som en selvfølge. Sammenhengen mellom
+
+Hilbertrom teori og matriseregning taes vel i dag som temmelig banalt og selvfølgelig av
+enhver førsteavdelingsstudent i ren matematikk. Her er det altså en stor rasjonaliseringsgevinst.
+
+Denne utvikling som er beskrevet ovenfor er åpenbar innen vårt fag og den må vi dyrke. Det
+er her spørsmål om velutviklede standardmetoder ved bruk av fundamentalteoremet for
+multinomiske og lineærnormale situasjoner, se L & T, B.II side 210 og 177. De omhandler
+situasjoner som til stadighet opptrer i praksis og man må lære seg å se de enkelte situasjoner
+som spesialtilfeller av de generelle teoremer. Konstruksjonene av metodene for behandling
+av situasjonene må innøves, slik at studentene i sitt fremtidige arbeide behersker dem og
+derfor (i ekte Cartesisk ånd) kan bruke meget av sin tid til nyskapende utfordringer.
+Jeg mener at sidene 177-204 i L & T, B.II gir et godt grunnlag for en slik innøving.
+Men man må bli fortrolig med teknikken, særlig med bruk av setningen på side 177-178.
+Eksemplene på side 182-186 viser hvorledes man med *utfylling” med sett av lineære
+restriksjoner kan slippe lettere enn med Cochrans teorem og, frem for alt, slippe å lete
+etter ikke-singulære matriser for å bestemme frihetsgradene.
+
+
+
+Jeg har hørt den innvending mot fremstillingen at det er for mye gjentakelser. Man tenker
+da kanskje på at man ved siden av å utlede sannsynlighetsfordelingene for de behørige
+kvadratiske former ut fra de fundamentale teoremer, også bruker en utledning som ikke
+benytter fundamentalteoremene, men som i stedet gjør bruk av spesielle ortogonale transformasjoner (variansanalyse av en- og toveis grupperinger, regresjonsanalyse med én fri
+variabel). Jeg tror dette er viktig for å bli fortrolig med hvorledes det hele fungerer. Andre er kommet til samme resultat, se Lehman (første utgave (1959) side 266-267, annen
+utgave (1986) side 366-367). Metoden med først å studere et viktig spesialtilfelle, så å presentere et generelt resultat, og så gå tilbake til det spesielle resultat; er ikke ualminnelig på
+mange områder. F.eks. studeres først vannstoff-atomet ut fra Bohrs postulater, sa presenteres Schrödingers ligning, så anvendes denne på vannstoffatomet for å oppnå de samme
+resultater én gang til. I det hele virker innvendingen med gjentakelser svært forbausende
+på meg, enten man nå mener at det er for mange eksempler eller for mye tilbakevending
+til samme eksempler.
+
+[Klare tendenser til unifisering av såvel lineærnormale situasjoner som multinomiske situ-
+
+asjoner finner man allerede i R.A. Fishers berømte bok “Statistical Methods for Research
+
+Workers” (1925), meget lest av både profesjonelle statistikere og andre forskere som brukte
+statistiske metoder. Men Fisher hadde fundamentalteoremene bare i bakhode, han greide
+aldri å få dem ned på papiret. Eksplisit uttalt fundamentalsetning for lineærnormale forsøk
+finner vi hos P.C. Tang, Stat. Research Memoir (1938) samt en monografi av Mann (1949).
+Full oppklaring av situasjonene i de lineærnormale modeller kom først med Henry Scheffés
+monografi fra 1959. Hvor vanskelig situasjonen var kan man se av to monografier, en av
+Cochran and Cox (1950) og en av Kempthorne (1952), de inneholdt fremdeles mange uklarheter. En grunn til uklarhetene var at i den historiske utvikling hadde metodene ofte
+blitt utviklet før det var klart hvilke modeller som lå til grunn.
+
+Fundamentalteoremet av de multinomiske situasjoner ble klarlagt gjennom Neymans avhandling i Berkeleys første symposium fra 1949 (men her var styrkefunksjonene ikke omtalt).
+
+Det kan neppe være tvil om at alle studenter bør få en bred innføring i lineærnormale
+modeller, dvs. varians- og regresjonsanalyse. Studentene bør oppøves i å uttrykke metodene ved klare gjenneskuelige formler. Her har man en gren av teoretisk statistikk som
+har viktige anvendelsesområder og som kan rasjonaliseres gjennom fundamentalteoremet,
+slik at statistikeren også kan ofre seg for andre viktige oppgaver.
+
+Men det bør også pekes på at det neppe er noe annet område av statistikken som illustrerer
+den statistiske tankegang på en så klar og presis måte. Man får eksakte matematiske
+resultater om implimenteringer, effisiens og ytelser. Man får klart frem virkningen av bruk
+av forskjellige modeller og av å konsentrere seg om visse trekk ved modellene.
+V SLUTTBEMERKNING
+
+Man må ikke gjøre vårt fag til et lappeteppe av i og for seg interessante enkelt-ideer i
+tiden. [Da sekvensanalysen kom (Wald 1947) vakte den enorm interesse og det ble spådd
+
+
+
+at den ville få sentral betydning i vårt fag. Dette var en overdrivelse, selv om teorien
+
+fremdeles er viktig.] Vårt fag er bygget opp gjennom en utvikling hvor det er mulig å se
+det beste som bør bli stående. En sammenligning med andre fag kan være verdifull. En
+god læreboki fysikk av i dag er forbausende lik en god lærebok fra slutten av 1930-årene,
+dette til tross for en rivende utvikling av faget etter krigen (molekylærteori, faste stoffers
+fysikk, biofysikk. Men det “gammeldagse” stoffet om atomets oppbygning må fremdeles
+med, selv om det ble klarlagt så *tidlig” som i 1931 da Chadwick oppdaget neutronet.)
+Det kan være en tendens til å glemme det verdifulle og vesentlige i det etablerte og dermed
+rive vekk grunnlaget for en sunn fremtidig utvikling.
+
+Gauss, W.F. (1821). Theory of least squares. (Trans. H.F. Tratter Stat. Techniques Res.
+Group, Tech. Report No. 5. Princeton Univ.).
+Laplace, P.S. (1818). Theorie analytique de probabilité.
+
+Pearson, Karl (1900). On the criterion that a given system of devivations from the probable
+in the case of a correlated system of variables are such that it can be reasonable supposed
+to have arisen in random sampling. Phil Mag. (5), 50, 157.
+
+Fisher, R.A. (1921). On the mathematical foundation of theoretical statistics. Phil. Trans.
+Roy Soc. A. 222, 309.
+
+Fisher, R.A. (1925). Theory of statistical Estimation. Proc. Canb. Phil. Soc. 22, 700.
+
+Neyman, J. and Pearson, E.S. (1933).
+
+On the problem of the most efficient tests of
+
+statistical hypothesis. Phil. Trans., A., 231, 289.
+
+Neyman, J. and Pearson, E.S. (1935 til 1939). Se forskjellige “Stat. Res. Mem.”
+
+Wald, A. (1939). Contribution to the theory of statistical estimation and testing hypotheses. Ann. Math. Stat., 10, 299
+
+Wald, A. (1950). Statistical Decision Functions, New York. John Wiley & Sons. Inc.
+Sverdrup, Erling. Lov og Tilfeldighet. Bind I (1973), Bind II (1964).
+
+Wald, A. (November 1943). Tests of statistical hypotheses concerning several parameters
+when the number of observations is large. Transaction Ann. Math. Soc. Vol. 54, No. 3,
+p. 426.
+
+Neyman, J. (1949). Contribution to the theory of the chi square testing. Proceeding
+Berkeley symposium on mathematical statistics and probability, University of California
+Press, Berkeley p. 239.
+
+Cramer, H. (1945). Mathematical methods of statistics. Almquist & Wiksell.
+
+Goldstein, H. (1985). Robust inference in contingency tables I-III. Scand. Actuarial J.
+157-247.
+
+
+
+10
+
+Lehman, E.L. (1959 og 1986). Testing statistical hypotheses. John Wiley & Sons inc. New
+York.
+
+Halmas, P.R. (1948). Finite dimensional vector spaces.
+
+Fisher, R.A. (1935, første utgave 1925). The design of experiment. Oliver & Boyd, Edinburgh.
+
+Cochran, W.G. and Cox, G. (1950, 1951). Experimental Design, John Wiley, New York.
+Kempthorne, O. (1952). The design and analysis of experiment, John Wiley, New York.
+Scheffé, H. (1959). The analysis of variance. John Wiley & Sons, inc.
+
+Tang, P.C. (1938). The power function of the analysis of variance tests with tables and
+illustrations of their use. Stat. Research Memoirs. vol 2, p. 126.
+
+Mann, H.B. (1940). Analysis of design of experiments. Dover publications, inc.
+
+
+
+11
+
+Om kortspill og annen lastefull ferd
+
+Rolv Terje Lie
+Forskningsstip. NAVF
+
+— Kom, la oss kaste lodd, så vi kan få vite hvem som
+er skyld i at denne ulykken har hendt oss!
+Jonas 1,7
+
+Og Aron skal kaste lodd om de to gjetebukker —
+3. Mosebok 16,8
+
+Ømulf Borgan og Bent Natvig gav i forrige nummer av Tilfeldig Gang (Juli 1990) en utdyping
+av grunnlaget for den beregningen de har foretatt i forbindelse med utvalget av domsmenn til
+
+Treholtsaken. Jeg er helt enig med Borgan og Natvig i at det avgjørende punktet i deres
+beregning er hvorvidt det var mulig å definere et slags spill med en rekke veldefinerte utfall som
+vil være i Treholts disfavør. Men dette spillet måtte kunne stilles opp på forhånd, uten kjennskap
+
+til det endelige utfallet av rettsaken, og jeg har en følelse av at det ikke er like opplagt i dette
+tilfellet som i bridge. Det var en stor skuffelse i deler av Oslo Arbeiderparti over det Arne
+
+Treholt hadde gjort. Ikke bare på grunn av de sikkerhetspolitiske implikasjonene, men kanskje
+
+enda mere på grunn av at Treholt hadde sviktet en del av sine nære venner. Er ikke også
+Arbeiderbladet den avisen som har kjørt den hardeste tonen mot Arne Treholt? Hva med
+Fremskrittspartiet i Oslo? Er de spesielt Treholtvennlige? Jeg tror at dersom lagdommeren ønsket
+
+å manipulere med uttrekkningen av domsmenn for å sikre seg en fellende dom, så ville hun ha
+hatt mye å velge i, og hun burde lett kunne unngått det litt påfallende utfallet med de to
+høyremenn. Allikevel viser Borgan og Natvig's beregninger at det aktuelle utfallet ikke har en
+ubetydelig sannsynlighet. Dersom det skal være en skikkelig loddtrekning må man også være
+
+villig til å akseptere litt spesielle utfall.
+Borgan og Natvig koster på seg et langt sitat fra Erling Sverdrup. Jeg har stor sans for
+
+gode sitater og bringer derfor følgende fra romanen Dr. Zhivago av Boris Pasternak (del 7., kap
+
+28):
+
+
+
+12
+
+"Han var en slags militær statistiker. Han mumlet noe for seg selv, mens han så etter i
+oppslagsverker, undersøkte militærkarter, sammenlignet og sammenholdt forskjellige data, tok
+
+utklipp og klistret dem opp. Han lot blikket gli over alle vinduene i rommet, det ene etter det
+andre, og sa: — I dag blir det svært varmt, -som om han var kommet fram til den slutningen først
+etter å ha sett ut gjennom alle vinduene, da et blikk gjennom bare et av dem ikke ville hatt
+tilstrekkelig beviskraft."
+
+(Det er da interessant at en forfatter gjorde seg kostelig på statistikernes bekostning allerede rundt
+
+den andre verdenskrig.) Og dette er i grunnen mitt andre poeng: Når man på en måte stiller en
+hel profesjon bak en uttalelse, så bør det også være noe fagfolk lett kan enes om. Nå står
+selvfølgelig beregningen for Borgan og Natvig's regning, men jeg må si jeg hoppet litt i stolen
+da en representant for Treholtkomiteen forleden uttalte følgende i TV-programmet Antenne-Ti:
+- To professorer ved Universitetet i Oslo har regnet ut at det er usannsynlig at utvelgingen av
+
+domsmenn har skjedd lotterisk —. Dette var ikke den eksakte ordlyden (for personen hadde vondt
+for å finne ordene selv om han var advokat), men jeg mener at dette var innholdet. For det første
+
+er ikke en signifikanssannsynlighet på 0,032 uttrykk for noe som er usannsynlig. I epidemiologisk
+sammenheng, for eksempel, er det ingen som lar seg overbevise i første omgang av en p-verdi
+på 0,032, selv om man kan argumentere for at den er på den sikre siden. For det andre er selve
+anvendelsen ikke god. Det vil si at den etter min mening ikke kan taes helt alvorlig. Den egner
+
+seg forsåvidt godt i lukkede selskaper der man kan ta den mindre høytidelig. Jeg har en følelse
+
+av at denne typen anvendelse, dersom den brukes slik representanten fra Treholt brukte den, på
+en måte støtter opp under det synet på statistikere som Pasternak skildrer. Dersom statistikere
+
+ønsker å bli tatt alvorlig bør de bli flinkere enn de er i dag til bidra til allmen kunnskap om og
+forståelse av hva statistikk er, og hva statistikk kan brukes til.
+
+
+
+13
+
+Kan statistikk også være business?
+
+Intervju med Leiv Sandvik, Medstat A/S
+Det lar seg ikke benekte at en stor del av de norske statistikerne er beskjeftiget
+i offentlig eller halvoffentlig virksomhet. Selvfølgelig er mange statistikere også
+ansatt i private bedrifter, men ytterst få har tatt spranget fullt ut og driver egen
+virksomhet. Noe av grunnen kan være at de fleste av oss står fremmede overfor
+tanken om å kjempe med de frie markedskrefter. Vi ser nok det generelle behovet
+i markedet for kjøp av assistanse også på vårt felt, men på det personlige plan
+rygger vi tilbake for den risiko det ligger i etablering av egen bedrift.
+De fleste vil likevel kjenne til en virksomhet av denne typen som har gjort seg
+sterkt gjeldende på det norske marked for statistikktjenester innenfor medisinske
+fag. Bedriften Medstat A/S, beliggende på Strømmen utenfor Oslo, ble startet
+i 1984 av de to statistikerne Stig Larsen og Leiv Sandvik. Den har nå eksistert
+så lenge at man bør kunne dra vesentlige erfaringer fra virksomheten, noe som
+generelt kan være til nytte for oss som fagkolleger. Redaktøren av Tilfeldig Gang
+har selv støtt på medisinere med all verdens positive og negative innstillinger til
+nettopp denne bedriften, uten at det behøvde å være mer enn rent subjektive
+forestillinger. Blant statistikerne selv har han kanskje kunnet spore en blanding
+av forskrekkelse og beundring når Medstat ble omtalt. For å knuse mytene var
+det derfor naturlig å arrangere et intervju med en av grunnleggerne.
+Redaktøren ringer til Medstat og spør etter Leiv Sandvik. I første omgang får
+man bare beskjed om at intervjuobjektet først vil være til stede etter lunchtid. Er
+dette tonen i det sagnomsuste private næringsliv? Men når man ved neste forsøk
+
+virkelig slipper frem til den forrige styreformanneni firmaet, er han avgjort villig
+til å underkaste seg kryssforhør av Tilfeldig Gang:
+
+- Hvordan hadde det seg egentlig at dere startet med denne bedriften?
+
+- Etter at vi var ferdig utdannet, undersøkte Stig og jeg muligheten for å
+arbeide med anvendelser av statistikk innenfor medisin. Vi så et klart behov for
+større statistisk kompetanse i den farmasøytiske industrien. Selv arbeidet jeg først
+halvannet år etter eksamen ved Zoologisk museum i Oslo, men så tok vi det store
+spranget og grunnla vårt eget lille firma. Det viste seg at praktisk talt alt gikk
+galt for oss. Vi tok bl.a. for lave priser for våre tjenester. Vi avviklet derfor dette
+firmaet og gikk direkte over som ansatte i farmasøytisk industri. Senere, etter
+
+at kontaktene var etablert, ville vi prøve på nytt med egen bedrift, men denne
+gangen gikk vi mer omhyggelig til verks. Vi dannet et aksjeselskap, som siden har
+vokst og blitt stadig større.
+— Hvor mange ansatte har dere?
+
+- Vi var altså to ved starten i 1984, og i dag er vi tyve ansatte. Blant disse er det
+nå syv statistikere. Vi har egentlig ikke hatt noen bevisst plan bak utbyggingen,
+
+men grovt regnet har vi utvidet med én ny statistiker pr. år. Selvfølgelig har vi
+
+
+
+14
+
+også støttepersonale, f. eks. for å ta hånd om henvendelsene ved sentralbordet, og
+for å produsere ferdige rapporter av høy standard. Det er påfallende hvor nøye
+man er med sluttproduktet innenfor vår kundekrets. Spesielt stilles det store krav
+til tabellariske fremstillinger og figurer i arbeider for den farmasøytiske industri.
+- Påtar firmaet seg også oppdrag som går mer direkte på databehandling?
+- Vi har en egen avdeling som særlig tar seg av utvikling av medisinsk programvare. Dette arbeidet ble startet fordi vi kom i kontakt med leger som spesielt
+så behovet for slik programvare vedrørende sykdommer i mave- og tarmregionen.
+Fire personer er i dag beskjeftiget ved denne avdelingen.
+
+— Så dere beveger dere mer i retning av generell servicevirksomhet innenfor
+
+kvantitative metoder i medisin?
+
+— Nei, i prinsippet er vi statistikere, og våre tjenester faller innenfor faget
+statistikk. Mesteparten av personalet skal støtte opp om denne virksomheten.
+
+Dette forhindrer likevel ikke at vi kan gjøre en spesiell innsats på andre beslekt-
+
+ede områder. Vi har f.eks. også en egen *monitoravdeling” som kan bistå ved
+administrering av kliniske forsøk. På denne avdelingen arbeider det en biokjemiker
+og en farmasøyt. Mindre farmasøytiske bedrifter vil ofte ha problemer med å
+gjennomføre sine egne forsøk med utprøvning av legemidler i Norge, og det kan
+være en fordel om et firma som vårt kan yte bistand.
+
+— Dere stiller ikke i annen rekkei slike sammenhenger etter alle de utenlandske
+firmaene?
+
+— Nei, det er ingen annen bedrift i Skandinavia som tilbyr tjenester på samme
+måte som oss. I Europa ellers finnes det noen få selskaper som ligner Medstat,
+og i USA eksisterer det flere. Vi merker imidlertid lite til konkurranse fra disse
+firmaene.
+
+— Hvordan ser egentlig kundemassen ut?
+
+— Grovt regnet utgjør oppdragene fra den farmasøytiske industrien 50% av vår
+
+virksomhet. De resterende 50% kommer fra oppdrag knyttet til forsknings- og
+universitetsmiljøene. Som bedrift har vi imidlertid problemer med å påta oss for
+mange oppdrag av den siste typen. De økonomiske rammene for prosjekter i universitetssammenheng er ofte dårlige. Et enkelt prosjekt kan gjerne ha til rådighet
+omtrent 8000-10000 kr. for statistisk behandling, og det rekker ikke alltid til den
+gjennomgripende analysen man kunne ønske. Disse prosjektene har også gjerne
+den ulempen at de vokser etter hvert som resultatene kommer ut. Vår økonomi
+ville bli ødelagt hvis vi bare satset på oppdrag av denne sorten. Oppdragene er
+gjerne spennende, men de ansvarlige har ofte helt urealistiske forestillinger om
+hvor lett den statistiske behandlingen skal kunne gjennomføres.
+— Hvordan fastlegger dere forresten prisen på tjenestene som tilbys?
+— Vi opererer stort sett med en timepris som skal dekke alle utgifter vi ellers har
+i forbindelse med oppdrag. Vi har jo en rekke faste utgifter i tillegg til omkost-
+
+ningene som oppstår ved hvert prosjekt, f.eks. med databehandling. For kunder
+innenfor universitetsmiljøene opererer vi gjerne med en timepris på omkring kr.
+500, noe som tilsvarer vår kostpris. For farmasøytiske firmaer varierer satsen en
+
+del ettersom det dreier seg om faste kunder eller mer spesielle konsulentoppdrag.
+
+
+
+15
+
+I det første tilfellet kan timesatsen ligge omkring kr. 600, i det siste nærmere kr.
+700.
+
+— Virker dette avskrekkende overfor kundene?
+
+- Nei, husk at dette skal omfatte alle utgiftene som vårt firma har. Firmaet
+har stort sett hatt inntekter av samme størrelsesorden som utgiftene. Vårt aksjeselskap har derfor ikke vært noe særlig lønnsomt foretagende hittil. Likevel er
+vi nå blitt interessante utad, og Norsk Hydro har gått inn i selskapet med en
+stor aksjepost. Tidligere var jeg styreformann, men nå sitter direktøren i Hydro
+Pharma i denne posisjonen.
+
+- Har du inntrykk av at kundene stort sett er fornøyd?
+
+— Generelt er kundene fra universitetsmiljøene fornøyd. Man kan imidlertid
+støte på folk med urealistiske forventninger om hva man kan få utført på et begrenset budsjett. Kundene fra farmasøytisk industri stiller ofte svært strenge krav
+til at arbeidet må være avsluttet innen en spesiell dato. I de fleste tilfeller har vi
+kunnet legge oss i selen for å imøtekomme ønskene.
+
+— Driver dere særlig reklamevirksomhet for dere selv?
+
+— Ingen! Vi har ikke en gang noe skilt utenpå bygningen som viser hvor vi
+holder til. Stort sett har vi altfor mye å gjøre til å kunne ofre tid på å markedsføre
+oss selv. Noe reklame får vi indirekte gjennom kurs vi arrangerer for leger, der
+opplegget naturligvis må annonseres.
+
+— Dette må vel bety at dere gjerne kunne ekspandert?
+
+— Jo, men i øyeblikket mener vi at det ville koste mer enn det smaker. Vi vil
+gjerne drive med statistisk virksomhet i tradisjonell forstand, og en ekspansjon
+ville bl.a. kreve en vesentlig større administrasjon.
+
+— Så dere har ingen føling med andre som arbeider i det samme markedet?
+— Nei, ikke med andre organisasjoner som tilbyr sine tjenester. Selvsagt finnes
+det frittstående personer med kompetanse i medisinsk statistikk som påtar seg
+freelance-arbeid av denne typen, med det er gjerne som bibeskjeftigelse til noe
+annet. Faktisk representerer 50% av oppdragene vi får i farmasi prosjekter fra
+utlandet. Dette viser ganske godt hvor lite det finnes av konkurrenter.
+— Fører dette til at dere kan presse opp lønnsnivået?
+
+— Det har nok versert en del helt urealistiske forestillinger om hva man kan
+oppnå i det private marked som statistiker. Vi betaler relativt bra, men hvis
+vi f.eks. sammenligner med forsikringsselskapene, ligger vi noe i underkant av
+lønnsnivået der.
+
+— Får dere noe tid til faglig fordypning i en slik virksomhet?
+- Naturligvis diskuterer vi mye oss imellom faglige spørsmål i forbindelse med
+
+oppdragene. I matematisk statistisk forstand er det imidlertid klart at vi ikke har
+hatt tilstrekkelig tid til fordypning. Vi har rett og slett hatt for mange oppdrag
+som har opptatt all tilgjengelig tid. Vi har vært klar over at dette har vært en av
+våre svake sider, og vi akter nå å avsette mer tid til å gå dypere ned i grunnlaget
+for metodene som benyttes. Det er vår hensikt å forandre dette forholdet i løpet
+av de neste 1-2 årene.
+
+
+
+16
+
+— Hvordan stiller det seg med faglig fordypning i forbindelse med selve anvendelsene?
+
+— På denne siden har vi i vesentlig grad hatt muligheter for å gå i dybden.
+Vi deltar i planlegging av større medisinske prosjekter og sitter i styringsgrupper.
+Dette er naturligvis noe avhengig av hvem vi har som oppdragsgivere, men vi føler
+at vi i stor grad er godtatt som samarbeidspartnere. I denne bransjen må man
+ha sans for praktiske medisinske problemstillinger og føle at man kan bidra med
+
+noe. Det har vi inntrykk av at vi har lykkes med.
+
+- Har dere noen form for arbeidsdeling mellom statistikerne i miljøet deres,
+avhengig av problemtypen?
+
+- Jeg har opplevd allergiproblemer i familien, så etter hvert er det blitt til at
+jeg har tatt de fleste prosjekter som har hatt noe med allergi å gjøre. Det blir til
+dels også egne statistiske metoder på dette feltet. En som skal være daglig leder i
+vårt miljø må være tøff om han ikke skal få problemer med maven. Så situasjoner
+som dreier seg om mave- og tarmkanal har gjerne havnet hos ham. Men ærlig
+talt synes jeg det er viktigere å understreke den store bredden vi finner blant de
+problemene vi må gi oss i kast med.
+
+— Hva slags forhold har dere til statistikere i mer akademiske miljøer? Føler du
+
+noen konkurranse der?
+
+- Personlig har jeg ikke opplevd noe særlig motsetningsforhold av den typen.
+Men det er likevel klart at det var enkelte negative reaksjoner fra miljøer i matematisk statistikk da vi startet med vår private virksomhet for fjorten år siden.
+Jeg har følelsen av at vi fikk ganske hard medfart fra visse hold i begynnelsen.
+Når man ser på situasjonen i dag, er det lett å betegne reaksjonene den gangen
+som smålige.
+
+— Hvilken oppfatning har du om den tradisjonelle undervisningen for hovedfagsstatistikere? Har du egentlig fått noe bruk for det som ble dosert den gangen
+du var hovedfagstudent ved Universitetet i Bergen?
+
+— Etter min oppfatning har vi kunnet utnytte svært mye av det som var lagt inn
+i undervisningen. Temaer som Banach-rom og o-algebraer virker selvsagt ganske
+perifere i dag. Likevel aksepterer jeg at dette var ledd i en større utvikling,
+bl.a. frem mot nyttige konvergensresultater som vi stadig gjør bruk av, f.eks. i
+sammenheng med sentralgrenseteoremer.
+
+— Mener du faktisk også at du har hatt nytte av hovedfagsoppgaven om “taksonome nøkler”? [Her må redaktøren gjøre oppmerksom på at han i sin tid selv
+
+var veileder for denne oppgaven!|
+
+— I oppgaven spilte bruken av grafer fremstilt som *trær” en vesentlig rolle
+ved beskrivelsen av bestemmelsesnøklene. Disse idéene har fellestrekk med klassifikasjonstrær som jeg har kommet borti i andre sammenhenger. Så jeg vil også
+anse arbeidet med hovedoppgaven som direkte “nyttig”.
+— Dette lyder da positivt!
+
+- Hvis jeg skulle komme med noe klagemål, måtte det være at overgangen
+til livet etter hovedfagseksamen kunne vært forberedt noe bedre. Det kunne
+
+
+
+17
+
+med fordel vært lagt inn i hovedfag et kurs som tok utgangspunkt i konkrete
+situasjoner, der man kom mer inn på problemer med manglende data, eller seleksjonsproblemer som kan skape skjevheter i utvalget som analyseres. Dette er
+vanskeligheter som ofte spiller en stor rolle i de konkrete situasjonene vi behandler.
+— Det synes jeg minner sterkt om uttalelser i tidligere intervjuer i Tilfeldig
+Gang. Du føler ikke av og til at dere møter konkurranse fra ikke-statistikere med
+bedre praktisk skolering?
+
+— Dette er ikke noe særlig problem innenfor klassiske medisinske problemstillinger. Jeg har likevel inntrykk av at et område som effektivisering av helsevesenet
+
+med fordel kunne utnyttet flere statistikere. Jeg tror forskning omkring organisering av sykehusene i for stor grad ligger i hendene på andre profesjoner, og at
+statistikerne kunne bidratt til en opprydning.
+
+— Hvordan ser du på markedet for salg av tjenester innenfor statistikk generelt
+i vårt land? Vil du oppfordre andre interesserte til å etablere tilsvarende firmaer
+
+som tar sikte på anvendelser på andre områder?
+
+— Generelt kan jeg gjerne gå ut med en slik oppfordring. Man må likevel være
+klar over at det trengs helt bestemte egenskaper hos de personene som skal lykkes
+i en slik situasjon. Man må ha stort pågangsmot, man må være fantasifull og
+dristig, og man må kunne tåle et stort arbeidspress med korte tidsfrister. Dessuten
+er det viktig at man har et stimulerende bakgrunnsmiljø som utgangspunkt for
+den virksomheten som skal drives. En slik innsats passer ikke for enhver som
+
+ellers sitter i et beskyttet akademisk miljø. Man kan ikke pukke på sin rett til
+noen 9-4-jobb. Det er nødvendig å operere som “grinder”, og det er sannelig ikke
+lett slik betingelsene er i Norge i dag.
+
+— Du tror ikke at forholdene nå er annerledes enn de var da du tok det første
+skrittet ut i det private?
+
+— Innenfor det medisinske fagområdet har det skjedd store forandringer i løpet
+av de siste ti årene når det gjelder holdningen til anvendelser av statistiske metoder. Det har foregått en opprydning ved hjelp av statistikere i mange land. Likevel
+er det tøft å drive business på denne måten.
+— Hvordan ser du fremtiden videre i en slik virksomhet?
+
+— Vi har innsett at vi ikke har hatt samme kompetanse på bruk av statistiske
+metoder innenfor alle aktuelle medisinske disipliner. Vi har stått sterkt innenfor
+kliniske forsøk, men noe svakere innen epidemiologi. Firmaet har nå satset sterkere
+på epidemiologisk statistikk, og dessuten har jeg gått inn i et bestemt prosjekt
+på dette området. Jeg har fått i stand et samarbeid med kardiologer ved Sentralsykehuset i Akershus, og er nå NAVF-stipendiat og skal studere sammenhenger
+mellom fysisk form og fremtidig helse.
+
+— Hvordan er dette ordnet i praksis?
+
+— Arbeidet som stipendiat er for tiden min hovedbeskjeftigelse, og hver dag inntil kl. 12 arbeider jeg i miljøet på sykehuset. [Så det var forklaringen på den første
+responsen i telefonen!] Bare én dag i uken deltar jeg i den vanlige virksomheten
+ved Medstat. På denne måten får jeg mulighet til å styrke min kompetanse innen
+medisinsk epidemiologi og få et bedre innsyn i *det indre liv” på et stort sykehus.
+
+
+
+18
+
+Men jeg vil tilbake til fulltidsarbeid på Medstat når stipendperioden er over. Den
+viktigste grunnen til det er at det her finnes personer med en solid utdannelse i
+statistikk, som samtidig har en medisinsk kompetanse som er langt større enn den
+man vanligvis finner hos biostatistikere.
+— Så det er ikke pengene som lokker mest?
+— Nei.
+
+Ivar Heuch
+
+ET
+
+FOR
+
+SIMULERINGSPROGRAM
+
+AV BEGREPER I STATISTISK
+
+ILLUSTRASJON
+
+METODELÆRE
+
+I forbindelse med min hovedoppgave i statistikk utarbeidet jeg
+et demonstrasjonsprogram; $ I M , som ved hjelp av simulering;
+tall,
+
+tilfeldige
+
+generering
+
+av
+
+variasjon
+
+knyttet
+
+tilfeldige
+
+konfidensintervall
+
+og
+
+normalfordelingen: N(a,1),
+
+og
+
+estimatorer,
+
+til
+
+den
+
+illustrerer
+
+tester.
+
+Programmet tar
+
+uniforme
+
+den
+
+sammenlignes når
+a,
+
+i
+
+utgangspunkt
+
+Metoder
+U[0,a].
+sannsynlighetsmodellen;
+det gjelder punkt- og intervallestimering av
+Metodene er
+
+oma.
+
+samt hypotesetesting
+
+basert på
+
+minste
+
+kvadratsums estimatoren (M.K.E) og sannsynlighetsmaksimeringser som kjent estimatorene
+For N(a.1)
+(S.M.E).
+estimatoren
+sammenfallende,
+
+U[0,a]
+
+men for
+
+har
+
+ulike egen-
+
+estimatorene
+
+skaper og programmet gir muligheter for å sammenligne disse.
+
+Punktestimeringen sammenlignes ved å betrakte histogrammenes
+
+samme
+
+forløp i
+
+opp
+
+slik
+
+at det
+
+skjermbilde.
+er lett
+
+samme gjelder sammenligning
+to
+
+estimatorene
+
+er
+
+en
+
+Konfidensintervallene er
+
+tegnet
+
+estimatorene
+
+og det
+
+å sammenligne
+
+av styrkefunksjonene basert på
+
+i hypotesetestingssituasjonen.
+
+skalaparameter
+
+for
+
+både N(a,1)
+
+og
+
+de
+
+Parameteren a
+
+U[0,a)]
+
+og
+
+er
+
+programmet satt lik henholdsvis 0 og 1 for de to fordelingene.
+
+i
+
+
+
+19
+
+Av teknisk utstyr trengs en vanlig PC med tilkoblet mus og EGA
+
+skjerm.
+
+Ved oppstart
+
+raskere
+
+dersom
+
+det
+
+$
+
+skrives
+på
+
+ligger
+
+velges fordeling fra valget
+
+IM
+
+.
+
+Programmet
+
+harddisken.
+
+Fra
+
+arbeider
+
+hovedmenyen
+
+Start og metode velges fra Metode.
+
+Menyvalg Estimer gir følgende valgmuligheter:
+
+tegner histogram for estimatoren. Her kan
+
+Punkt -
+
+y-aksens høyde
+
+halveres og normaliseres ved
+
+valget Skala - høyde. Teoretisk fordeling
+
+tegnes inn dersom Teori er valgt.
+
+Her kan også sekvens av histogrammer for
+voksende utvalgsstørrelse velges ved
+
+Obs - sekvens
+
+. hvor neste skjermbilde i
+
+sekvensen fås ved å bruke <return>-tasten.
+
+Intervall - tegner konfidensintervall med valgte
+
+konfidenskoeffisient alfa.
+
+Styrke - tegner estimert styrke for intervallet
+[start, stopp]
+
+definert under Skala
+
+og med antall gjentak definert samme sted.
+Teoretisk styrke tegnes inn dersom Teori er
+valgt.
+
+Menyvalgene Obs og Simuler gir muligheten for 4 legge inn
+og antall utvalg. Før
+vilkårlig utvalgsstørrelse
+h.h.v.
+skjermen må valget Estimer
+fremkommer på
+illustrasjonen
+gjentas. Sletting av skjermbildet gjøres med Slett.
+
+Programmet kan tilsendes ved henvendelse til undertegnede.
+Adresse:
+
+Haugen,
+
+Bjørkmyr.
+
+7036 Trondheim
+
+Telefon:
+
+(07)
+
+966709
+
+(privat)
+
+(07)
+
+592578
+
+(jobb)
+
+Solfrid Lilleeng
+
+
+
+20
+
+Two incomplete data problems in life-history analysis:
+"DOUBLE CENSORING" and "THE CASE-COHORT DESIGN".
+Sammendrag av Dr.Scient.avhandling forsvart oktober 1989
+ved Universitetet i Oslo
+
+Sven Ove Samuelsen.
+
+Avhandlingen behandler altså to problemstillinger i forløpsanalyse som har det felles kjenne-
+
+tegn at man ikke klarer eller ønsker å observere data fullstendig. I ett arbeid behandles asymptotiske egenskaper ved estimatorer fra såkalt dobbelt-sensurerte data. I tre andre arbeider
+studeres såkalte case-cohort studier som kan sees på som en generalisering av case-control
+studier til forløpsanalyse generelt.
+
+En av de sentrale problemstillingene i forløpsanalyse er hvordan man behandler høyre-
+
+sensurerte data, dvs data der den hendelse man studerer for en rekke individer ikke har inntruffet før observasjons-perioden er utløpt. Man estimerer gjerne levetidsfunksjonen fra slike
+datasett med den såkalte Kaplan-Meier estimatoren. Kaplan-Meier estimatoren kan også
+beregnes fra venstretrunkerte data, dvs data der man bare har oppfølging på individene fra gitte
+tidspunkter.
+
+Dobbelsensurering er en mer komplisert type ufullstendige levetidsdata der mani tillegg
+til eksakte og høyresensurerte verdier også kan ha venstresensureringer, dvs data der man bare
+vet at hendelsen har inntruffet før et gitt tidspunkt. For slike data finnes det en generalisering
+
+av Kaplan-Meier estimatoren, foreslått av Turnbull i 1974. Denne er bare gitt som løsningen til
+et sett av likninger, men den kan beregnes ved E-M algoritmen. Fordi Turnbull-estimatoren
+
+ikke er eksplisitt er det mer vanskeligere å utlede asymptotiske egenskaper for den enn for
+Kaplan-Meier estimatoren.
+
+Den innfallsvinkel som er valgt i avhandlingen er å anta at tidspunktet for eventuell venstre-
+
+sensurering er kjent uansett om hendelsen er venstresensurert eller ikke. Da har man nemlig et
+subdatasett av venstretrunkerte / høyresensurerte data fra hvilket man kan beregne en Kaplan-
+
+Meier estimator med kjente asymptotiske egenskaper. Itererer man så en gang gjennom E-M
+algoritmen mot Turnbull estimatoren får man en eksplisitt, om enn komplisert, estimator som
+benytter all informasjon.
+
+Etter en del teknikaliteter utledes det at denne ett-trinns estimatoren er konsistent og
+asymptotisk normal, eller mer presist, konvergerer mot en Gaussisk prosess. Det utledes også
+et eksplisitt uttrykk for den asymptotiske kovariansstrukturen. Videre presenteres resultater fra
+et simuleringsforsøk der det indikeres at man ved å iterere kun en gang får med seg den
+vesentlige del av informasjonen og det påvises at på tross av at variansfunksjonen bl.a. inneholder ett femdobbelt integral er det mulig å numerisk regne ut en variansestimator basert på
+
+
+
+21
+
+den. Denne variansestimatoren kan beregnes også når antagelsen om at venstresensureringstidspunktet er kjent ikke holder og den er rimeligvis en konservativ estimator for variansen til
+Turnbull estimatoren.
+
+Det andre emnet som behandles, case-cohort studier, er altså relatert til case-control
+studier. Denne typen studier er utviklet innen epidemologi og er nyttige spesielt for studium av
+sjeldne sykdommer. Man ønsker å påvise hvorvidt en gruppe av individer som er eksponert,
+
+f.eks for luftforurensing, har høyere syklighet enn ikke-eksponerte. Innen case-control tradisjonen er det utviklet metoder for å kvantifisere og teste overhyppighet basert på informasjon
+om eksponering bare på casene, dvs de som blir syke, og kontrollene, dvs en delgruppe av
+
+dem som forblir friske. Det gjelder også at antall kontroller kan være av samme størrelsesorden
+som antall case, i nullhypotese-situasjoner er ofte effisiensen ved å innhente data for hele
+befolkningen sammenlignet med å samle inn data bare for K kontroller pr. case lik 1 + 1 /K.
+Case-control studier blir derfor billige i forhold til å utføre oppfølgingsstudier, eller kohort
+
+studier. Siden case-control studier også ofte kan utføres retrospektivt, altså i ettertid, vil de
+
+også kunne gjennomføres på kortere tid.
+
+|
+
+Det er imidlertid en del begrensninger ved tradisjonelle case-control studier. F. eks. er de
+
+basert på individenes status som case eller kontroll, altså tar man ikke inn i betrakning tid til
+sykdom, flere typer sykdommer eller varierende lengde av observasjon. Det er videre
+vanskelig å estimere intensiteter, eller i epidemiologiske termer insidens, i case-control studier.
+Dette i motsetning til en annen type epidemiologiske studier, kohort studier, der en befolkningsgruppe (eller kohort) følges over tid samtidig som man samler inn informasjon om
+
+eksponering og inntreden av sykdom. På data fra kohort studier kan man ofte benytte forløpsanalyse og isåfall byr ikke de nevnte begrensinger ved case-control på noe vesentlig problem.
+I case-cohort studier, foreslått av Prentice i 1986, følger man opp en del av kohorten, en
+subkohort som i en kohort studie, mens man samtidig observerer sykeligheten for alle individene. For casene, dvs de som blir syke, forsøker man så også å få opplysninger om
+
+eksponering. Fra slike data kan man generelt sett benytte forløpsmetoder ved ganske enkelt å
+veie informasjonen fra subkohorten med sannsynligheten for at individ (i subkohorten) skal ha
+bli valgt ut.
+
+Denne framgangsmåten er mer eller mindre implisitt i litteraturen om case-cohort studier,
+
+men den er forslått som en generell regel i arbeid 2 i avhandlingen. Dette arbeidet er et over-
+
+siktsarbeide der sammenhengen mellom case-control, kohort og case-cohort studier diskuteres.
+Videre foreslås det i dette arbeidet å generalisere case-cohort studier ved å tillate alle former for
+utvalgsplaner, ikke bare enkel random sampling, for subkohorten. Av størst praktisk
+betydning i så måte vil nok stratifiserte utvalgsplaner være.
+
+Case-cohort varianter av vanlige forløpsestimatorer kan ofte beregnes med vanlig
+komersiell programvare. Imidlertid vil estimater for varianser o.1. fra slike programmer være
+
+gale med case-cohort data. Grunnen til dette er at det utvelgelsen av subkohorten leder til øket
+
+
+
+22
+
+varians. I avhandlingen legges det stor vekt på å utlede formler for korrekte asymptotiske varianser fra case-cohort estimatorer og å anslå hvor stort tapet er. I arbeid 2 gis hevristiske utledninger av de asymptotiske egenskapene til case-cohort varianter av Kaplan-Meier og Nelson-
+
+Aalen estimatorene. I arbeid 3 utledes de asymptotiske egenskapene til case-cohort varianten av
+
+MLE for den proposjonale intensitetsmodellen når man har antatt en parametrisk form for den
+underliggende intensiteten. Det gis så numeriske eksempler på at effisiensene blir tilsvarende
+dem for case-control estimatorer under enkel random sampling, men at stratifisert sampling
+kan forbedre effisiensene betraktelig. I arbeid 4 betraktes Cox-regresjon fra case-cohort data
+
+med stratifisert utvalgsplan. Den asymptotiske kovariansmatrisen utledes (estimatorene blir
+ganske generelt asymptotisk normale) og ved analytiske betrakninger utledes det at stratifisert
+
+sampling har tilsvarende egenskaperi dette tilfellet som ved de numeriske eksemplene i arbeid
+nr. 3.
+
+
+
+23
+
+Bedre modeller og mer komplisert
+teori i tidsrekkeanalysen ?
+A Class of Nonlinear Time Series Models
+ved Hans Arnfinn Karlsen
+
+disputas: Universitetet i Bergen, 21.august 1990.
+
+Tidsrekkeanalyse har vært dominert av linære modeller, de såkalte ARMA modellene.
+Dette er nå i ferd med å endre seg og interessen for ikke-linære modeller er økende
+(jfr. [1]). Det betyr også at teori og metoder endrer seg. Den mest kjente modellen i
+tidsrekkeanalyse er AR(1) modellen ( 1.ordens autoregressjon). Hvis vi starter denne
+
+ved tid to = 0, så kan AR(1) modellen skrives som
+
+hvis t = 0;
+
+=| f(Xi-1,%), hvis| t > 0.
+Xo,
+
+(1)
+
+hvor modellfunksjonen, f, er liner; f(z,z) =az+z. Anta nå at {Z;, t > 0} er iid og
+uavhengig av Xo, da;
+
+P(X EA | Xi-1 = TZ, Xt-2 = Zt-2,°°*, X0 = Zo) = P(f(z, Z) €E A)
+som viser at {X;, t > 0) er ei Markov kjede med kontinuerlig tilstandsrom , initial-
+
+fordeling v(dz) = P(X, € dz), og overgangssannsynlighetsfunksjon;
+
+P(z,4) = [ dFsl(z- az), Fy(z) = P(Z < 2).
+Det har vært sagt at blant de fire kombinasjonene (tid, tilstandsrom) = (diskret /kont.,
+diskret /kont.) så er nettopp vår Markov kjede uinteressant (jfr. [2], side 30). Det er
+
+også verd å merke seg at AR(1) modellen har vært analysert i flere tiår uten at man
+har tatt spesielt hensyn til Markov strukturen. På tross av disse innsigelsene vil vi
+beholde Markov-perspektivet. Hvis vi returnerer til (1) er det naturlig å spørre om
+det fins et valg av Xo slik at {X;, t > 0) blir stasjonær. Det er også viktig å vite i
+hvilken grad prosessen ”husker” initialfordelingen. Disse spørsmålene kan vi formulere
+med begreper fra Markov teorien; Eksisterer det ei stasjonærfordeling, 7, som skal
+tilfredsstille
+
+A) ?
+7(A) = [ 7(dz)P(z,
+
+(2)
+
+A) = P(X; € A | Xo ==) mot 7(A) ? Anta nå at |a| < 1 og E|Z,|?
+Konvergerer P'(z,
+
+er endelig. Vi kan finne løsningen av (2) ved å iterere (1) som da gir
+
+(A=PT Zu € A)
+j=0
+
+
+
+24
+
+Dette betyr at hvis initialfordelingen, v, er lik 7 så blir (Xi, t > 0) stasjonær.
+Det andre spørsmålet om konvergens av t - steg overgangssannsynlighetene er vanskeligere. Hvis fordelingen til støyprosessen er tilstrekkelig glatt så er {X;, t > 0) geometrisk ergodisk. Dette kan utledes ved å verifisere de såkalte Foster-Tweedie kriteriene (jfr. [3]) siden forutsetningen om fordelingen til 7; medfører at {X;, t > 0)
+er irreduserbar. Geometrisk ergodisitet medfører blant annet at ’alle’ tenkelige estimatorer har de riktige asymptotiske egenskaper, dvs asymptotisk normalitet med
+optimal konvergensrate. Dette er imidlertid egenskaper man antakelig kan klare å
+
+regne seg fram til på en mer direkte måte uten å gå veien om Markov teori.
+
+Hvis vi dropper kravet om at f er linær så går vi ut av klassen av ARMA modeller og (1) blir da en såkalt 1. ordens ikke linær autoregressiv modell, NLAR(1).
+I dette tilfellet er analysen opplagt vanskeligere og det er ikke lenger innlysende at
+enkelt håndverk fører fram. Selv grunnlegende egenskaper som stasjonaritet (positiv rekurrens), instabilitet (null rekurrens) eller eksplosjon (transiens) er vanskelig
+å avgjøre. Heldigvis er (X;, t > 0) fremdeles ei Markov kjede og igjen er Markov
+teorien anvendelig, se f. eks [4].
+
+Vi får en parametrisk modell hvis modellfunskjonen avhenger av en parmater Ø, dvs
+
+=
+
+Xo,
+
+hvis t = 0;
+
+f(Xt-1,9,%),
+
+hvis t > 0.
+
+|
+
+(3)
+
+En mulig utvidelse av (3) er å erstatte den deterministiske parameteren 0 med en
+
+stokastisk prosess; {@;, t > 0} og vi far da en såkalt dobbelt stokastisk process;
+t=0;
+
+| Xo,
+
+Us
+
+(X14 %), t > 0.
+
+(4)
+
+Her vil vi oppfatte {©,} som en parameterprosess, {Z,} som en stgyprosess og
+{X;, t > 0} som den observerbare prosessen. Det er rimelig å anta at parameterpros-
+
+essen er uavhengig av støyprosessen. Imidertid så er ikke {X;, t > 0) Markov med
+mindre {©,, t > 0} er iid. På den annen side er {(X;, ©;)} en Markov kjede hvis {©;}
+er en Markov kjede. Dette kan vi utnytte. Eksempelvis, så vil geometrisk ergodisitet
+for {(X:, O1) medføre at avhengigheten i {X;, t > 0) avtar eksponensielt. Studiet av
+denne modellklassen ble initiert av Dag Tjøstheim[5] og flere har blitt trukket med;
+John Sølve Tyssedal, Gyrid Johnsen samt undertegnete. I anvendelser har vi spesielt
+sett på det tilfellet hvor {@;} er ei diskret Markov kjede med endelig tilstandsrom og
+
+hvor modellfunksjonen, f, er linær. I den enkleste situasjonen med kun to tilstander
+kan (4) skrives som
+
+Xp = {O1Xe-1 + 017) {Or = 1} + {02Xi-1 + 022] IO = 2)
+
+hvor de to tilstandene korresponderer til (01,01) og (82,02). Hvis nå overgangsmekanismen til (0;) er ’treg’, dvs. p(t,7) = P(O1 =1| O1-1 = 1) er nær 1, så vil en realisasjon
+av (X;) ligne på en vanlig AR(1) innenfor segmenter hvor (O;) er konstant. Mer
+sofistikerte modeller kan vi oppnå hvis modellfunksjonen er ikke-linær;
+
+Xt = fj(Xi-15 Zt),
+
+hvis
+
+O1=73
+
+
+
+25
+
+Her kan {f;} være ganske vilkårlige.
+
+I avhandligen har jeg blant annet funnet betingelser for eksistens av momenter til
+{X;, t > 0} når {X;, t > 0} tilfredsstiller (4), er stasjonær, og modellfunksjonen f
+
+er linær. I den generelle modellen er betingelser for ¢-irreduserbarhet etablert. Noe
+arbeid er også gjort for å etablere betingelser som medfører geometrisk ergodisitet.
+Avhandligen består av 5 arbeider:
+
+[a] Karlsen, H. A. and Tjøstheim, D. Consistent estimates for the NEAR(2) and the
+
+NLAR(2) time series models.
+
+Journal of the Royal Statistical Society, Ser. B 50, 313 - 320, 1988.
+[b] Karlsen, H. A. Existence of moments in a stattonary stochastic difference
+equation.
+
+Advances in Applied Probability 22, 129 -146, 1990.
+
+[c] Karlsen, H. A. and Tjøstheim, D. Autoregressive segmentation of signal traces
+
+with applications to dipmeter osl well measurements.
+
+IEEE Transactions on Geoscience and Remote sensing 28, 171-181, 1990.
+
+[d] Karlsen, H. A. Markov Analysis of some Doubly Stochastic Time Series Models.
+
+University of Bergen, Bergen, Norway, 1990.
+
+[e] Karlsen, H. A. Doubly Stochastic Vector AR(1) Processes.
+
+University of Bergen, Bergen, Norway, 1990.
+
+Referanser
+[1] Tong, H. (1990) Nonlinear Time Series: a dynamical approach, Clarendon Pr.,
+Oxford.
+
+[2] Nissen-Meyer, S. (1970) Genererende funksjoner og stokastiske prosesser, Univ.
+
+i Bergen.
+
+[3] Feigin, P. D & Tweedie, R. L. (1985) Random coefficient autoregressive processes:
+A Markov chain analysis of stationarity and finiteness of moments, J. Time Ser. Anal
+
+6, 1-14.
+
+[4] Tjøstheim, D. (1990) Nonlinear time series and Markov chains, kommer i Adv.
+
+Appl. Prob.
+
+[5] Tjgstheim, D. (1986) Some doubly stochastic time series models, J. Time Ser.
+
+Anal., 7, 51-72.
+
+
+
+26
+
+Datamaskiner i statistikkundervisningen ved Matematisk Institutt, Universitetet i Oslo
+
+1. Statistikkavdelingen ved Matematisk Institutt, UiO, har i løpet av de siste fire årene
+foretatt betydelige investeringer i nytt EDB-utstyr. De ansatte disponerer idag hver sin
+UNIX arbeidsstasjon (SUN/DEC) koblet sammen i et nettverk med felles disker. Til
+nettet hører også små terminalstuer med arbeidsstasjoner beregnet på hoved- og doktorgradsstudenter. I tillegg har vi en større terminalstue for lavere grads undervisning der 18
+terminaler betjenes av 4 arbeidsstasjoner. Dette er tilstrekkelig til våre brukerkurs med
+400 studenter.
+
+2. UNIX-nettverket og terminalstuen drives av en nyansatt driftsingeniør ved Matematisk
+Institutt, som har dette som en del av sine oppgaver ved Instituttet. I noen grad er også
+Universitetets sentrale EDB-tjeneste koplet inn, og man kan henvende seg der i driftsingeniørens fravær. (En tungtveiende grunn til at vi satset på UNIX-maskiner var forøvrig
+at Institutt for Informåtikk tidligere hadde valgt denne løsning. Dette ga både prismessige
+og praktiske fordeler).
+
+3. Vår hovedprogramvare til undervisningsformål er BLSS (leses bliss). Opprinnelig ble
+BLSS utviklet på Princeton (under navnet ISP), men er idag overtatt av Berkeley, som har
+en egen gruppe med ansvar for vedlikehold og videreutvikling. BLSS er en programpakke
+av samme type som MINITAB, spesiallaget for undervisning, men etter min vurdering
+betydelig sterkere. Den er en aning vanskeligere å lære, pga. et kraftigere kommandospråk,
+men min erfaring både med BLSS og MINITAB er at de etter kort tid kan brukes av
+personer som på forhånd var helt EDB-ukyndige.
+
+4. BLSS er under kontinuerlig utvikling. Utvalget av procedurer er fremragende og
+åpenbart foretatt av personer med dyp innsikt i undervisningsbehovenei statistikk. Vi
+anvender pakken til kurser både på høyere og lavere grad (brukerkurs medregnet), og
+mange av hovedfagsstudentene bruker den til arbeidet med hovedfagsoppgaven. Den er
+også nyttig for de ansattes egen forskning.
+
+5. Datamaskiner skal i statistikkundervisningen spille rollen som verktøy. Poenget er
+ikke å lære studentene bestemte programvare med bestemte kommandoer*, men å bruke
+maskinen til å regne og diskutere realistiske eksempler og som støtte til begrepsinnlæring.
+
+Jeg er overbevist om det her ligger enorme muligheter i å effektivisere undervisningen.
+Vi har i de siste to årene tilrettelagt flere og flere kurs for slik datastøttet undervisning,
+der tradisjonell teori belyses ved simuleringer og realistiske eksempler. Dette gjelder også
+bruker- og hovedfagskurs. Erfaringene er gode, og det er stor interesse blant studentene.
+Vi vil bygge dette ytterligere ut i årene som kommer. Obligatoriske oppgaver er til nå kun
+innført i et eneste kurs.
+
+Erik Bølviken
+
+* Vi pleier ikke å gi slike oppgaver til eksamen
+
+
+
+27
+
+Innføring i statistisk metode: Erfaringer med datastøttet
+læring ved Norges Handelshøyskole
+Jostein Lillestøl
+
+Hovedstudiet
+som
+
+er
+
+tre
+
+et
+
+ved
+
+Norges
+
+fireårig
+
+program der
+
+obligatoriske
+
+statistikk
+
+og
+
+databehandling.
+økonomiske
+
+matematikk
+
+blant
+
+er
+
+av
+
+allmenne
+
+spesialisering
+
+på
+
+en
+
+med
+
+fordypning
+
+teorigrunnlag
+
+Statistisk
+både
+
+med
+
+de
+
+lagt
+
+programvare
+
+statistisk
+
+dataanalyse
+
+løpet
+
+integrering
+kommer
+
+av
+
+av
+
+tilbake
+
+og
+
+kom
+
+inn
+
+i
+
+og
+
+siste
+
+disse
+
+dataverktøy
+
+i
+
+undervisningen
+
+siste
+
+som
+
+i
+
+med
+
+hvor
+
+studieår
+
+studieår
+
+hovedsak
+av
+
+EDB
+
+det
+
+i
+og
+
+har
+
+er
+
+viet
+
+skal
+
+være
+
+metode-
+
+og
+
+studieår.
+
+tilbud
+
+i
+
+har
+
+man
+
+ikke
+
+noen
+
+del
+
+av
+
+omkring
+
+1980,
+
+metodekurset
+
+om
+
+et
+
+bygget opp
+
+Eksperimenterende
+
+har
+
+matematikk,
+
+første
+
+MINITAB
+
+studieår
+
+årene
+
+i
+
+undervisningen
+av
+
+studieår
+
+valgfag,
+
+anvendelse
+
+første
+
+innslag
+
+første
+
+tre
+
+mens
+
+tre
+
+studieår,
+
+til.
+
+De
+
+de
+
+forsiktig
+
+første
+
+I
+
+såkalt
+
+valg.
+
+integrasjon
+
+i
+
+starter
+
+funksjonsområder,
+
+statistikk
+
+SPSS.
+
+mulige
+
+et
+
+teoristudier,
+
+to
+
+som er
+
+et
+
+og
+
+Siviløkonomstudiet,
+
+henholdsvis
+
+Samtidig
+
+fag
+
+er
+
+studentene
+
+metodekurs,
+
+grunnleggende
+
+karakter
+
+Handelshøyskole
+
+brukerkurs
+
+rundt
+
+særlig
+
+studiet,
+
+av
+har
+
+i
+
+MINITAB og
+
+gått
+
+virksomhet
+
+i
+
+langt
+
+grunner
+den
+
+i
+vi
+
+senere
+
+tid foregått i større omfang i andre av Høyskolens programmer.
+Det
+
+gjelder
+
+omfatter
+i
+
+f.eks.
+
+kurset
+
+multivariat
+
+i
+
+det
+
+dataanalyse
+
+omfatter
+
+i
+
+teori
+
+av
+
+som
+
+kan
+
+finne
+
+senere
+
+år
+
+har
+
+innslaget
+
+organisert
+
+kurset
+
+i
+
+bedriftsøkonomistudiet
+
+m/EDB
+
+i
+
+i
+
+tilbys
+
+og
+
+allmenn
+
+anvendelse
+
+av
+
+samarbeid
+
+databehandling.
+
+Høyere
+
+(pakker
+
+statistikk
+
+stoff
+
+blitt
+
+ettårige
+
+Statistikk
+
+Metodeundervisningen
+studiet
+
+i
+
+i
+
+med
+
+en
+
+analyser
+
+i
+
+dataverktøy
+med
+
+de
+
+der
+
+kurs
+
+SPSS,GLIM,LISREL).
+
+2.semester
+
+natur,
+
+ved
+
+avdeling
+
+som
+
+i
+
+i
+viss
+
+siviløkonomovervekt
+
+bedriften.
+
+I
+
+av
+
+de
+
+metodeundervisningen
+
+kursansvarlige
+
+for
+
+metode-
+
+
+
+28
+
+I dette kurset som starter allerede 1.
+
+til
+
+en introduksjon til ulike
+
+være nyttig i
+regneark,
+
+semester er det avsatt tid
+
+typer programvare som kan ventes å
+
+studiet og senere arbeid
+samt
+
+programvare
+
+optimalisering osv.).
+introduksjon
+
+(tekstbehandling,
+
+for
+
+statistisk
+
+Studentene får i
+
+til
+
+programvaren,
+
+grafikk,
+
+analyse
+
+og
+
+tillegg til en kort felles
+gruppevis
+
+veiledning
+
+av
+
+studentassistenter i terminalrom. En uke tidlig i 2. semester er
+MINITAB.
+
+til
+
+avsatt
+
+Institutt
+
+for
+
+matematikk
+
+vedlikeholder
+
+en
+
+og
+
+statistikk
+
+database
+
+statistikkundervisning,
+
+med
+
+har
+
+tilrettelagt
+
+og
+
+datasett
+
+for
+
+varierte
+
+hvorav et mindre antall
+
+er blinket ut for
+
+elementærundervisning. For disse er det formulert spørsmål på to
+nivåer.
+
+Det
+
+beskrivende
+Dette
+
+(høyde,
+sikte
+
+på
+
+i
+
+for
+
+et
+
+vekt,
+
+kjønn
+
+osv.),
+
+som
+
+er
+
+lagt.
+
+Studentene
+
+til
+
+gjennomføre analysen
+
+i
+
+å
+
+forelesningene.
+
+nå
+
+terminalsesjon
+
+ved
+
+imidlertid
+
+vært
+
+vanskelig
+
+hjelpen
+
+for
+
+å
+
+Pensum
+
+i
+
+lærebok
+
+Ved
+
+avsluttende
+
+oppgave
+
+med
+
+kandidaten
+
+i
+
+levere
+
+til
+
+utskrift
+
+teorikunnskaper,
+
+under
+
+til
+
+og
+
+det
+
+Disse
+
+tas
+
+er
+
+en
+
+veiledning.
+
+kurset
+
+i
+
+er
+
+til
+
+en
+
+under
+
+revisjon
+
+eksamen
+
+gis
+
+alltid
+
+fra
+
+dataanalyse,
+
+denne
+
+fordi
+
+har
+
+mer
+
+enn
+
+).
+
+minst
+
+en
+
+og
+
+der
+
+og
+
+tolke
+
+resultater
+
+fra
+
+ikke
+
+kommer
+
+spesielt
+
+godt
+
+den
+
+regneoppgaver.
+bøte
+
+Det
+
+tradisjonell
+
+3.utg.
+
+en
+
+ekstra
+
+databehandling.
+
+fortsatt
+
+ut
+
+kunne
+
+kun
+
+personressurser
+
+studenter
+
+undervisningsmateriale vil
+
+og
+
+tilbudt
+
+at mange
+
+øvrige
+
+aspekter
+
+teorigrunnlaget
+
+blitt
+
+Erfaringen er
+
+kanskje
+
+må
+
+det
+
+denne.
+
+de
+
+de
+
+kommentert
+
+informasjon
+
+enn
+
+seg
+
+blir
+
+relevant
+
+"åpen"
+
+om
+
+oppgavene
+
+statistikk
+
+skriftlige
+
+oppgaven,
+
+inn
+
+ferdigheter
+
+avsette
+
+1986,
+
+programvaren.
+
+tekniske
+
+og
+
+knyttet
+
+om
+
+samler
+
+når
+
+nødvendige
+
+er
+
+hovedsak
+
+datainnsamlingen.
+
+hente
+
+av
+
+må
+
+de
+
+år
+
+Lillestøl
+
+vedlagt
+
+som
+
+semesteret
+
+selv,
+
+å
+
+igang
+
+teoretisk
+den
+
+for
+
+semesterslutt
+
+metodekurset
+(
+
+i
+
+ha
+
+Enkelte
+
+komme
+
+til
+
+de
+
+forutsetter
+
+målet
+
+senere
+
+burde
+
+og
+
+i
+
+teorikunnskaper.
+
+sannsynlighetsteoretiske
+
+ofte
+
+statistikkurset
+
+minimale
+
+datasett
+
+spørsmålsnivå
+
+belyse
+
+seg
+
+introduksjonen
+
+analysere
+
+å
+
+dreier
+
+forutsetter
+
+så
+
+Neste
+
+inferensaspekt
+
+opp
+
+og
+
+grunnlaget
+
+skal
+
+godkjenning.
+tar
+
+spørsmålsnivå
+
+statistikk,
+
+danner
+
+Studentene
+selv
+
+laveste
+
+som
+
+regel
+
+Tjenlig
+
+på dette.
+
+er
+
+noe
+
+mer
+
+supplerende
+
+
+
+29
+
+Når
+
+statistisk
+
+det
+
+ikke
+
+settes
+i
+
+dette
+
+skyldes
+
+-
+
+programvare
+
+mange
+
+er
+
+fullt
+
+individuelle
+
+krever
+
+store
+
+terminaler/PC'er
+
+en
+
+mangelen på personressurser
+
+til
+
+med
+
+varierende
+
+hos
+
+til
+
+å
+
+med
+
+EDB-erfaring
+
+overkomme
+kan
+
+integrert
+
+i
+
+kurset,
+
+og
+
+bruksferdigheter,
+
+så
+
+at
+
+hovedsak
+
+på
+
+oppfølging
+
+-
+
+til
+
+studenter
+
+mangelen
+
+~
+
+krav
+
+ikke
+
+tekniske
+
+opplegget
+
+resultater som bare
+
+ressurser.
+
+Tidligere
+
+bremse,
+
+det
+
+mens
+
+nå
+
+var
+
+mer
+
+er
+
+nødvendig brukerstøtte
+
+studentene
+
+gar
+
+mye
+
+begynnervansker.
+
+lett
+
+degenerere
+
+flimrer forbi
+
+til
+
+tid
+
+Uten
+
+med
+
+faglig
+
+tastetrykking
+
+på skjerm
+
+tradisjonen forelesning-eksamen uten innleveringer og faglig
+feedback og evaluering underveis har vært vanskelig å bryte.
+Praktiske
+rammen
+
+-
+
+øvelser
+
+for
+
+kan
+
+kurset,
+
+studentene
+
+evt.
+
+får
+
+har
+
+vært
+
+vanskelig
+
+beskjære
+
+ikke
+
+dataanalyseverktøy i
+nå
+
+også
+
+og programvare kanskje
+
+revisjon
+
+av
+
+enhetlig
+
+strategi
+
+på
+
+studieplanen
+
+tvil
+
+om hvilket
+
+Ved
+
+Institutt
+
+å
+
+Dette
+
+en
+
+lærebok.
+
+teoretisk
+
+kan
+
+av
+
+ferdigheter
+
+enten
+
+trolig
+
+Oppbyggingen
+
+i
+
+bedriften
+
+har
+
+til
+
+rette
+
+også
+
+er
+
+gitt
+
+i
+
+Oslo både
+
+for
+
+har
+
+vi
+
+og
+
+en
+
+fra
+
+en
+
+en viss
+
+studiet.
+
+senere
+
+år
+
+bruk
+
+av
+
+sammen
+
+med
+
+til
+
+alene
+
+eller
+
+er
+
+moduler
+
+som
+
+i
+
+ved
+
+ut
+
+de
+
+knyttet
+
+kan
+
+brukes
+
+er utarbeidet
+
+en almen modul
+
+(Lillestøl
+
+Ytrehus
+
+1988).
+
+materialet
+
+i
+
+i
+
+1988,
+
+for
+
+å
+
+utprøve
+
+nytt ett-årig bedriftsøkonomistudium som startet
+som sener
+
+skje
+
+brukt
+
+Hittil
+
+borte
+
+råder nok
+
+tjenlig
+
+nærmere
+
+tenkes
+
+først
+
+Det
+
+statistikk
+
+lærestoff
+
+enkelte
+
+også endret.
+
+som er mest
+
+dataanalyse
+ligget
+
+evt.
+
+dataverktøy.
+
+og
+
+øke
+
+som til
+
+vil
+
+siviløkonomstudiet,
+
+og
+
+Forholdene
+
+studieår
+
+hele
+
+sammen med andre.
+
+for
+
+økonomi
+
+for
+
+alene eller
+
+en
+
+er
+
+i
+
+kan
+
+matematikk
+
+programvare.
+
+da
+
+å
+
+statistisk
+
+felt
+
+bruk
+
+utvikle
+
+av
+
+dette
+
+ambisjonsnivå
+
+for
+
+med
+
+for
+
+men
+
+siste
+
+teknologi
+
+arbeidet
+
+behovet,
+
+Først
+
+møte
+
+endringer
+
+nytte
+
+de etterfølgende kurs
+
+teoripreget.
+
+uten
+
+teorinnholdet
+
+direkte
+
+studenter
+
+Vesentlige
+
+innarbeides
+
+for
+
+dag-
+
+&
+
+Bergen
+
+i
+
+og kveldsstudenter.
+
+et
+
+
+
+30
+
+Studiet
+
+et
+
+omfatter
+
+ett-semesterskurs
+
+i
+
+m/EDB,
+
+Statistikk
+
+der
+
+statistisk metode skjer vha MINITAB. Grunnleggende
+fortrolighet med MINITAB bygges opp i forbindelse med innføringen
+i beskrivende statistikk. Deretter tar en for seg statistiske
+innføringen i
+
+inferensproblemer knyttet til noen enkle men sentrale statistiske
+modeller. MINITAB brukes til å eksponere den rolle tilfeldigheter
+spiller ved generalisering fra utvalg til populasjon både ved
+
+sannsynlighetsberegning
+som
+
+så
+
+resultater,
+
+og
+
+simulering.
+
+statistiske
+
+Viktige
+
+sentralgrensesetningen
+
+kvadratrotloven,
+
+og
+
+normaltilnærming blir sannsynliggjort ved simuleringseksperiment.
+I
+
+forhold
+
+til
+
+tradisjonelle
+
+blir
+
+kurs
+
+det
+
+her
+
+formler,
+
+mindre
+
+beregninger og utledninger, mer vekt på eksplorativ aktivitet og
+
+tolkning av resultater. Ved siden av ca. 30 timer forelesning gis
+studentene
+
+6
+
+to-timers
+
+sesjoner
+
+PC-rom
+
+i
+
+under
+
+veiledning.
+
+I
+
+kurset er lagt inn to obligatoriske innleveringer, den første for
+å sikre at studentene tidlig blir fortrolige med programvaren.
+
+Erfaringene er hittil
+bedre
+
+forståelse
+
+statistisk
+
+av
+
+analyse
+
+ikke entydige.
+teoribegreper
+
+enn ved et
+
+og
+
+Mange
+
+studenter
+
+tilfeldigheters
+
+tradisjonelt kurs.
+
+får nok
+
+en
+
+rolle
+
+ved
+
+Det er
+
+likevel
+
+påfallende mange som er usikre med denne mer søkende tilnærming,
+og etterlyser mønsterløsninger og noen faktisk mer teori.
+Vi håper likevel at opplegget gir oss flere statistikkbrukere.
+
+
+
+31
+
+Det norske statistikermøtet 1991
+Det er allerede på tide å tenke på neste års store begivenhet for norske statistikere, og her
+kommer en foreløpig oversikt over arrangementet.
+
+Styret i Osloavdelingen er arrangementkomite for Det norske statistikermøtet i 1991 og består av
+følgende personer:
+
+Frøydis Bjerke
+Henriette Eide
+Doris Tove Kristoffersen
+
+Magne Årseth
+
+Øystein Evandt
+
+Statistikermøtet vil bli holdt på Jeløya utenfor Moss i tidsrommet 10. - 12. juni 1991.
+Frelsesarmeens folkehøyskole er allrede bestilt.
+
+Arrangementskomiteen forslår følgende organisering av møtedagene:
+mandag 10. jumi:
+
+kl. 11-13
+
+kl. 13-18
+
+Registrering
+
+Lunsj
+
+Faglig program,
+
+innlagt pauser med kaffe/te/mineralvann + kjeks
+
+Middag etter siste foredrag.
+
+kl. 19.30
+tirsdag 11. juni:
+
+Årsmøte med kaffe og kake etter middagen.
+
+kl. 8- 9 Frokost
+kl. 9-13 Faglig program,
+
+innlagt pauser med kaffe/te/mineralvann + kjeks
+
+Lunsj
+
+kl. 16-18.30
+
+Faglig program
+innlagt pauser med kaffe/te/mineralvann + kjeks
+
+kl. 19.30
+
+Bussavgang til Refsnes Gods (hotell)
+
+kl. 20.00
+
+Festmiddag på Refsnes Gods.
+
+onsdag 12. juni kl. 8- 9 Frokost
+kl. 9-12
+
+Faglig program
+
+innlagt pauser med kaffe/te/minralvann + kjeks
+
+kl. 12 - Lunsj, avreise
+
+Det er diskutert om det skal ordnes med fellesbuss fra Fornebu/ Oslo S til Moss. Vi tror at
+det enkeleste er tog fra Oslo S til Moss. Det er svært god kommunikasjon mellom Fornebu og
+Oslo S. NSB reklamerer med sitt stoppested Fornebu/Lysakerelva, og det går flybuss hver
+halvtime til Oslo S flybussterminal. Fra Moss stasjon til Jeløya er det ikke lange biten, og fra
+jernbanestasjon er det mulig å ta taxi til folkehøgskolen. Deltagere som kommer med samme
+tog oppfordres til å kjøre "fellesdrosje" til skolen!
+
+Dersom enkelte er interessert i å overnatte på Refsnes Gods under møtedagene, burde det være
+muligheter for det, men arrangementskomiteen ønsker ikke å organisere dette.
+
+Det er viktig at statistikkstudentene kommer med i det faglige miljøet. Hovedfagsstudenter ved
+universitetene og studenter som er ferdige med 4. året på NTH (statistikk-fagretning) ønskes
+velkommen, og reise og opphold bør subsidieres for disse.
+
+Hovedtema for statistikermøtet blir ‘vel anvendt statistikk”, og endelig invitasjon vil bli sendt ut
+
+utpå nyåret.
+
+Doris Tove Kristoffersen
+
+
+
+32
+
+NYTT FRA AVD. C
+
+Matematisk institutt, UiO
+Cand. scient.
+
+Trygve Almøy : Sammenligning av prediksjonsmetoder for data faktorstruktur’
+Veiledere : Inge Helland og Erik Bølviken
+
+Forskningsrapporter
+Bent Natvig : ‘Using expert opinions in Bayesian estimation of system reliability’
+Statistical Research Report, No 3, 1990
+
+Bjgrn Sundt : ‘On Allocation of Excess of Loss Premiums’
+Actuarial Research Report 20, August 1990
+
+Nye stipendiater
+
+Kjetil Halvorsen og Knut Håkon Brox er/vil bli ansatt fra henholdsvis 1. juli og
+1. novemberi år.
+
+Dødsfall
+
+Else Sandved døde 16. juli og ble bisatt i Gamle kapell, Vestre gravlund 24. juli. Selv
+om det var midt i sommerferien, var kapellet fullsatt med familie, venner og kolleger. Det
+var en enkel seremoni med minneord ved Erik Torgersen, Grete U. Fenstad og Karl Egil
+Aubert.
+
+Erik Torgersen’s nekrolog over Else Sandved i Aftenposten 15.august 1990 er gjengitt et
+annet sted i dette nummer av TG.
+
+Tidsskrift
+
+Else etterlater seg The Annals of (Mathematical) Statistics fra og med Vol. 35,No 1
+1964 til og med Vol. 12, No 4 1984 (No 4 1974 og No 4 1984 mangler), - er det et bibliotek
+som trenger å supplere?
+
+Dekanus
+Bent Natvig er valgt til dekanus ved Det matematisk-naturvitenskapelige fakultet, Universitetet i Oslo.
+
+
+
+33
+
+NYTT FRA UNIVERSITETET I BERGEN
+Uteksaminert cand. scient.
+Jan-Harald Aarseth: ‘Ezpress - Et verktøy for konstruksjon av kunnskapsbaserte
+systemer innen statistikk.” Veileder: Ivar Heuch.
+
+Doktorgrad
+Hans Arnfinn Karlsen holdt 20. august 1990 prøveforelesninger over emnene ‘Mix-
+
+ing theory and its applications to time series’ (oppgitt emne) og ‘Aspects of spatial
+
+series’ (selvvalgt emne) for den filosofiske doktorgrad. Den 21. august forsvarte han
+sin avhandling ‘A class of non-linear time series models’. Bedgmmelseskomitéen bestod av professor Howell Tong, University of Kent (førsteopponent), professor Dag
+Tjøstheim, Universitetet i Bergen (annenopponent) og professor Knut Aase, Norges
+Handelshøyskole.
+
+Ansettelse
+Jan-Harald Aarseth er ansatt som stipendiat ved Matematisk institutt fra 1. september 1990.
+
+NYTT FRÅ GRUPPE FOR STATISTIKK, NTH
+Ferdig sivilingeniør
+Rune Gåsemyr: ‘Generalisert fetltreanalyse’. Veiledar: Bo Lindqvist.
+
+Tilsetjingar
+Dr.ing. Fred Godtliebsen er tilsett som førsteamanuensis.
+
+Forskar Per Hokstad, Sikkerhet og Pålitelighet (SINTEF), er tilsett som professor II
+i Sikkerhet.
+
+Siv. ing. Ingrid Glad er midlertidig tilsett som vitenskapelig assistent.
+
+
+
+i
+
+Fra kontaktflaten mellom
+
+vårt fag og verden utenfor
+
+=
+
+ne
+
+=a LOTTO-
+
+Å
+kort.
+hele verd
+inent
+mask
+n
+se
+ar
+atil rvalotto,
+tipping. måltips, V6 Riks-tote » med 7 spill
+:
+
+-
+
+ng en rekke andre talispill. Enkel å bruke
+
+bingo,
+(oruksenv. iiadf.). Du kan la LOTTO-maskinen f egg!
+plukke tail fritt og du ken veige & ha med dine favorittall. Lettvint og spennende. I tillegg har LOTTOmaskinen an komplett kalkulator, klokke og alarm
+for vekking, parkometervarsel m. m. Mål 10x6 cm.
+
+Får fint plass | lommen. ”
+
+Oe
+
+otto
+
+N
+
+-/
+
+4
+
+Å
+
+Innsendt av forarget leser
+av Tilfeldig Gang. — Vil
+maskinen gjøre alle regneoppgavene med terningkast
+overflødige?
+
+velg 7 av 347
+s
+ettiednin
+
+bid
+he
+
+?
+
+tatongens br*
+
+Pris pr. rekke !
+
+———
+
+a
+
+v=ntrrillelt tor Systems
+ir qi magne kryss
+
+VPC-konsernet selger kunnskap og ertaring
+
+Norwegian Petroleum Consultants A.S. er et
+
+tordelt pa petroleum. intormasjonsteknologt
+-g landbasert tenestevung.
+
+ca. 700 ansatte. NPC A.S. er lokaliserti
+Asker. Bergen og Stavanger.
+
+satt t system. I alt utgjør vi ca. 1500 ansatte
+
+av selskapene 1 NPC-konsernet og har idag
+
+Estimering
+&
+
+e
+
+NPC bygger for fremtiden. og utvider og styrker derfor sin estimeringskapasitet for 4 mote fremtidens utfordringer.
+
+Til landets største prosjektstyringsavdeling ønsker vi erfarne, entusiastiske
+ingeniører/økonomer, som har motivasjon for personlig suksess.
+Vi søker etter:
+
+Senior Estimatorer
+til Estimeringsseksjonen.
+
+Fra Aftenposten 17/7 1990. - Hvorfor
+
+søker ikke Estimeringsseksjone
+
+n like
+
+godt etter ‘Markoff Estimatorer’ med
+
+én gang? Og finnes det også en
+Hypotesetestingsseksjon?
+
+pep
+
+på
+
+denn
+
+pia
+
+6 Innkjøp; Kontrakt
+& Quantity Surveillance
+
+bee
+
+beeen
+
+Mr
+
+e Engineering
+© Construction
+
+vil også være av interesse.
+
+De som ansettes må beherske engelsk. kunne arbeide metodisk, ha en
+analytisk legning og kunne bruke PC-verktøy.
+Seksjonen bruker avanserte, egenutviklede regne- og analyse-programmer,
+utviklet i Dataflex, i tillegg til standard regneark.
+Gode betingelser og interessante utfordringer for de rette personer.
+Spørsmål om stillingen kan rettes til O. Jonstad eller B. Wangberg.
+tlf. 02 - 79 30 00.
+
+Søknader merket "A-0890" inkludert fullstendige CV/resyméer. må være
+
+sendt NPC A.S., Personalavdelingen. Postboks 23, 1371 Asker, innen 01.08.90.
+
+NORWEGIAN PETROLEUM CONSULTANTS A.S.
+
+
+
+35
+
+KALENDER FOR INTERNASJONALE MØTER
+
+1991
+15.-20. april Fourth Valencia International Meeting on Bayesian Statistics, Peniscola, Spa-
+
+nia. Informasjon: Professor José Bernardo, Presidencia de la Generalidad,
+Caballeros 2, E-46001 Valencia, Spania.
+
+21.-24. april - Computing Science and Statistics; 23rd Symposium on the Interface, Seattle,
+
+Washington, USA. Informasjon: J. Kettenring, Statistics Research Group,
+
+Bellcore, 445 South Street, Morristown, NJ 07960, USA.
+23.-26. april
+
+Fifth International Symposium on Applied Stochastic Models and Data Analysis - The Ins and Outs of Solving Real Problems, Granada, Spania. Informasjon: R. Gutierrez, Department of Statistics and Operation Research,
+University of Granada, E-18071 Granada, Spania.
+
+10.-14. juni
+
+20th Bernoulli Society Conference on Stochastic Processes and their Applications, Nahariya, Israel. Informasjon: R. Adler, Industrial Engineering and
+Management, Technion, Haifa, 3200 Israel.
+
+6.-9. aug.
+
+3rd Conference: International Federation of Classification Societies, HeriotWatt University, Edinburgh, Skottland. Informasjon: D.J. Hand, Open University, Walton Hall, Milton Keynes, MK7 6AA, England.
+
+2.-6. sept.
+
+19th European Meeting of Statisticians, Barcelona, Spania.
+
+Informasjon:
+
+BRP-Barcelona Relaciones Publicas, Edificio Layetana, Pau Claris 138, 7*,
+4*, E-08009 Barcelona, Spania.
+
+9.-17. sept.
+
+International Statistical Institute, 48th Biennial Session, Cairo, Egypt. Informasjon: ISI Permanent Office, 428 Prinses Beatrixlaan, P.O. Box 950, 2270
+AZ Voorburg, Nederland.
+
+18.-20. sept.
+
+Order Statistics and Nonparametrics: Theory and Applications, Faculty of
+Commerce, Alexandria University, Egypt. Informasjon: P.K. Sen, Department of Biostatistics, University of North Carolina, Chapel Hill,
+
+NC 27599,
+
+USA.
+
+1992
+15.-19. juni 21st Bernoulli Society Conference on Stochastic Processes and their Applica-
+
+tions, North York, Toronto, Canada. Informasjon: G.L. O’Brien, York University, Department of Mathematics, 4700 Keele Street, North York, Ontario,
+Canada M3J IP3.
+14.-18. sept.
+
+20th European Meeting of Statisticians, Bath, England. Informasjon: R. Sibson, School of Mathematical Sciences, University of Bath, Bath BA2 7AY,
+England.
+
+10.-14. des. 26th International Biometric Conference, University of Waikato Conference
+
+Centre, Hamilton, New Zealand. Informasjon: Biometric Society, 1429 Duke
+Street, Suite 401, Alexandria, VA 22314, USA.
+
+
+
+36
+
+Medlemskap i Norsk Statistisk Forening
+Kontingenten i foreningen er på kr. 90 pr. år for regulære medlemmer og kr. 30 for studenter. Korrespondanse om medlemskap og innbetaling av kontingent skal skje til foreningens
+kasserer:
+
+Norsk Statistisk Forening v/John Sølve Tyssedal
+Institutt for matematiske fag
+Norges Tekniske Høgskole
+7034 Trondheim-NTH
+
+Innbetalinger skal gjøres på foreningens postgirokonto 5 15 10 55. Medlemmer som er usikre
+på når de betalte kontingent sist, vil nederst til høyre på adresseseddelen for Tilfeldig Gang
+finne angitt hvilket år siste betaling er registrert for. Vær imidlertid oppmerksom på at
+adressesedlene for bladet ligger noe etter ajourføringen av medlemsregisteret, slik at nylig
+foretatte innbetalinger ikke vil være tatt med her.
+
+Nye medlemmer melder seg til kassereren under adressen oppgitt ovenfor. Slike medlemmer får automatisk tilsendt Tilfeldig Gang, med forbehold om at det tar noe tid før tilføyelser
+og forandringer i medlemsregisteret gjenspeiler seg i adressesedlene til bladet. Adresseforandringer meldes også til kassereren. Ved utsendelsen av Tilfeldig Gang benyttes det kopier
+av det vanlige medlemsregisteret, så adresseforandringer behøver ikke meldes separat til
+bladet.
+
+Annen korrespondanse med foreningen skal foregå med formannen under denne adressen:
+Norsk Statistisk Forening v/Bent Natvig
+Matematisk institutt
+Universitetet i Oslo
+Postboks 1053, Blindern
+0316 Oslo 3
+
+Bidrag til Tilfeldig Gang
+Neste nummer av Tilfeldig Gang vil forhåpentligvis komme ut i desember 1990. Alle slags
+bidrag til bladet er velkommen, enten det gjelder nye temaer av interesse for norske statistikere, eller man har kommentarer til innlegg som allerede har stått i i bladet. Stoff til neste
+nummer må være redaktøren i hende senest 1. desember. Det kan sendes til:
+Tilfeldig Gang v/Ivar Heuch
+Matematisk institutt
+
+Universitetet i Bergen
+Allégt. 55
+5007 Bergen
+
+Telefon (05) 21 28 35 (direkte)
+(05) 21 28 38 (instituttkontoret)
+
+
+
+
+
+
+
+Returadresse:
+
+Tilfeldig Gang v/Ivar Heuch
+Matematisk institutt
+Universitetet i Bergen
+
+Allégt. 55
+5007 Bergen
+
+
+

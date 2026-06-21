@@ -1,0 +1,2175 @@
+TILFELDIG GANG
+Nr. 4, årgang 6
+Desember 1989
+
+Utgitt av Norsk Statistisk Forening
+
+Innhold
+
+Klarer statistikerne å profilere seg overfor almenheten?
+Fra formannen i Norsk Statistisk Forening
+
+Against all odds. Inside statistics.
+
+Undervisningsutvalget/JL
+
+Bayes-analyse: Et svar på Bent Natvigs innlegg.
+Everybody counts.
+
+Odd Aalen
+
+Undervisningsutvalget/JL
+
+En sannsynlighetsberegning knyttet til uttrekningen av
+meddommere i Treholtsaken. Ørnulf Borgan og Bent Natvig
+
+Klipp fra debatten utenfor statistikernes rekker
+Nytt fra universiteter og høyskoler
+
+Etterutdanningsseminar i dataanalyse og grafiske metoder
+Nytt tidsskrift: The Annals of Applied Probability
+Ledig amanuensisstilling ved NTH
+
+SJS. Brief information on current unpublished
+research in Scandinavia. Tore Schweder
+Statistisk forening i Trondheim
+Statistisk forening i Bergen
+
+Kalender for internasjonale møter
+
+
+
+
+
+Klarer statistikerne å profilere seg overfor almenheten?
+
+Dette nummeret av TG inneholder klipp fra tre publikasjoner utenfor statist-
+
+ikernes rekker. Alle klippene kan trolig si noe vesentlig om om vårt fags forhold
+til almenheten.
+
+Den mest uskyldige uttalelsen er sakset fra fagtidsskriftet Sykepleien, men
+
+den kunne nesten stammet fra hvilket som helst organ i Norge som bringer
+aktuelle reportasjer. Iallfall på overflaten støtter sitatet opp under det tradisjonelle, litt naive inntrykket folk gjerne har av vårt fag. Statistikerne skal være
+i stand til å presse noe interessant ut av nær sagt hva som helst, så lenge det
+dreier seg om tallmaterialer av anseelig størrelse. På en måte bekrefter klippet
+bare Erling Sverdrups mye siterte uttalelse i forordet til Lov og Tilfeldighet,
+der det gjelder den vanlige forestillingen om statistikerne som personer *med
+glupende appetitt på tall”.
+
+Samtidig ligger det også noe negativt i overskriften fra Sykepleien. Kanskje
+antyder den at det man egentlig får ut av slike data, er lite verdt i forbindelse med
+virkelige problemer. Denne tvetydige holdningen er imidlertid noe vi trolig må
+godta i vårt fag. Som statistikere vet vi at selve metodegrunnlaget som benyttes
+ikke kan kritiseres når anvendelsene tar utgangspunkt i sviktende forutsetninger.
+Men for folk flest er det likevel ikke så lett å skille mellom faget statistikk i seg
+selv og den feilaktige bruken av dette faget.
+Hvordan skal man så reagere på det Lille-Maud Vonlausbråten karakteriserer som den *mest krevende avskrift jeg noensinne har skrevet av”? Uttalelsen
+
+viser i hvert fall at hun ikke er særlig skolert i
+
+matematisk /statistiske reson-
+
+nementer, noe man neppe hadde ventet av skribentene i den aktuelle spalten
+uansett. Dessuten må det antagelig ansees som en æresbevisning å bli hengt ut
+
+på denne måten. Det spørs likevel om det ikke er den åpenbare sammenhengen
+med alkoholforskning som berettiger innleggene til å tas med i NDF’s annaler.
+Hvem tror at tilsvarende sitater ville kommet med dersom de utelukkende dreide
+seg om sannsynlighetsteoretiske resonnementer, blottet for forbindelser med så
+
+utfordrende områder som f.eks. alkoholforskning? Kanskje vi statistikere også
+her har problemer med forholdet til almenheten?
+Den 9. desember inneholdt A-Magasinet en samling artikler under over-
+
+skriften *Tilfeldighetenes spill — eller”. Artiklene gav en omtale av mennesker
+som på vesentlige punkter i livet åpenbart hadde nytt godt av tilfeldighetenes
+lunefulle spill.
+
+For oss var likevel innledningen til artikkelserien det viktigste.
+
+Her klarte nemlig Tore Schweder å profilere grunnlaget for sannsynlighetsregn-
+
+ingen slik at det skulle være vel så forståelig for menigmann som mye annet
+stoff i samme organ. I kontrast til de etterfølgende beretningene kom det tydelig
+frem at sannsynlighetsregningen generelt kan bidra med noe vesentlig, selv om
+det ikke foreligger noe enhetlig filosofisk grunnlag for selve begrepet tilfeldighet.
+
+For fagets anseelse utad skulle denne klargjøringen være av stor betydning.
+
+
+
+FRA FORMANNEN I NORSK STATISTISK FORENING
+I den nye §1 i vedtektene for NSF's fond heter det:
+
+"Fondets hovedhensikt er å stille garanti for tiltak som settes i
+verk av NSF, eller som ansees betydningsfulle for statistikkfaget al
+Norge".
+
+Enkelte fryktet under hovedmøtet i sommer at den nye formannen
+
+ville bruke dette fondet til å finansiere et etterutdanningskurs i
+Bayesiansk statistikk på Maldivene i desember. Dette slår neppe til
+i år. Derimot har styret besluttet å bruke fondet som garanti for
+
+«videoproduksjon. Ikke akkurat av det mest kommersielle slaget, men
+med foreningens eneste æresmedlem, professor Erling Sverdrup at
+hovedrollen. Ved Universitetet i Oslo er det nemlig laget
+intervjuer av en rekke fremtredende senior professorer. Jeg har
+
+selv sett deler av et med juristen Torstein Eckhoff og det jeg sa
+
+var glimrende. Mye star og faller med intervjueren. Med Ragnar
+Norberg i den rollen skulle jobben vere i de aller beste hender
+
+også med tanke på Sverdrups innsats for forsikringsmatematikkfaget.
+Sammen får de to arbeide seg frem til et opplegg av selve
+intervjuet, som vi andre bare kan glede oss til å se. For egen
+
+regning vil jeg her bare fremheve to sider av Sverdrups innsats.
+Den ene er evnen til å se, samt og vurdere, statistisk metodikk aL
+
+et perspektiv som gar langt utover det rent matematiske. Den andre
+er evnen til å inspirere yngre forskere, også med andre forskningsinteresser enn sine egne, og glede seg ekte over deres fremgang.
+Begge egenskaper bør stå som forbilder for min egen generasjon av
+forskere
+
+i
+
+statistikkfaget.
+
+En slik video vil kunne brukes til undervisningsformål og til
+fremvisning i NSF's lokale foreninger, nettopp for å kunne se faget
+i et videre perspektiv. Endelig vil den kunne være et viktig
+
+historisk kildemateriale for statistikkfaget i Norge. Prisen for å
+lage en slik video med 10 kopier er ca. kr 10 000,-. Beløpet håpes
+dekket av bl.a. Universitetet i Oslo og Den norske Aktuarforening,
+i tillegg til NSF. Andre sponsorer er hjertelig velkommen - dog
+uten
+
+krav om draktreklame.
+
+La meg avslutte med å fastslå at etterutdanningskurset i grafiske
+metoder har slått bra an med 25 påmeldte deltagere pr. dags dato.
+Med det teamet som står bak dette kurset, har vi lite å frykte.
+Endelig er planleggingen av Norsk Statistikermøte i 1991 så smått
+kommet i gang i samarbeid med Osloforeningen. Med de beste ønsker
+for julen og kanskje viktigere - for det neste tiår.
+
+Oslo 22.
+
+november 1989
+
+Bent Natvig
+
+
+
+Against all odds: Inside statistics
+Dette er en fjernsynsserie produsert av Consortium for Mathematics and its
+Applications, i samarbeid med American Statistical Society.
+Serien består av 26 halvtimes programmer, og den vises for første gang på
+amerikansk *public television” (PBS) høsten 1989. Programmene kombinerer på
+en utmerket måte presentasjon av sentrale statistiske begreper med viktige og
+interessante anvendelser fra virkeligheten. Vi treffer personene som problemene
+angår og statistikerne i aksjon, supplert med en overbevisende presentasjon av
+begreper og resultater, der det beste i moderne *computer graphics” er tatt i
+bruk.
+
+Serien er tilpasset nivået til amerikanske undergraduate studier og voksenopplæring. Den kan brukes som et komplett college-kurs eller som supplerende materiale. Tema for programmene er : What is statistics?, Picturing Distributions,
+Describing Distributions, Normal Distributions, Normal Calculations, Time Series, Models for Growth, Describing Relationships, Correlation, Multidimensional
+Data Analysis, The Question of Causation, Experiment Design, Blocking and
+Sampling, Samples and Surveys, Random Variables, Binomial Distributions, The
+Sample Mean and Control Charts, Confidence Intervals, Significance Tests, Inference for One Mean, Inference for Two Means, Inference for Proportions, Inference
+for Two-Way Tables, Inference for Relationships, Case Study.
+En del av eksemplene kan nok være spesifikke for amerikanske forhold, men
+serien kan avgjort være av interesse for norske læresteder. I USA er prisen $ 350
+(13 kasetter) og $30 pr. kasett (to programmer) for 1/2” VHS eller Beta, mens
+prisene er henholdsvis $500 og $45 for 3/4” U-MATIC. En må imidlertid være
+oppmerksom på at amerikansk VHS standard er basert på 525 linjer (NTSC),
+mens europeisk standard er 625 (PAL/SECAM). Leverandøren vil kunne skaffe
+europeisk standard til noe høyere pris. Imidlertid er en rekke storauditorier i
+Norge i dag utstyrt med videomaskiner med opsjon for U-MATIC og/eller NTSCstandard, men enkelte krever da en bestemt innspillingshastighet.
+Distribusjonene av serien skjer gjennom The Annenberg/CPB Project, som
+utenfor USA nås på telefon 1-805-968-2291.
+
+Undervisningsutvalget/JL
+
+
+
+Bayes-analyse: Et svar på Bent Natvigs innlegg.
+I forrige nummer av TG gir Bent Natvig oss et innblikk i Bayes-analysens teori.
+Det er prisverdig at han tar seg tid til å skrive et såpass omhyggelig innlegg til
+TG, og det er utmerket at redaktøren med dette starter en ny linje og hever bladet
+opp på et høyere nivå. Jeg oppfordrer også redaktøren og leserne til å få i gang
+debatter i bladet, det norske statistikermiljøet ville helt sikkert ikke ha vondt av
+det. For å følge opp min egen oppfordring, vil jeg presentere noen av mine egne
+reaksjoner på Bents Bayes-innlegg.
+
+En sentral del av filosofien i Bayes-analysen er å inkorporere faglig skjønn
+direkte i de statistiske beregninger. Dette kan virke besnærende. I visse sammenhenger er det antagelig også fornuftig. Uten at jeg vet noe som helst om konstruksjon av oljeplattformer, kan jeg saktens forestille meg at ingeniørens gode faglige
+skjønn er essensielt og at de statistiske analyser som skulle være aktuelle må sees
+i svært nær sammenheng med dette skjønnet. Dette kan muligens skje ved hjelp
+av Bayes-analyse.
+
+Et problem ved Bents innlegg er imidlertid at han ikke gir noen konkrete
+anvendelser. Hans gjennomgangseksempel med de 100 metallstrenger er i virkeligheten rent teoretisk, og regne-stykkene er av en ren læreboktype. Apriorifordelingen, selve ”cluet” i Bayes-analysen, som man venter spent på, er bare en teoretisk
+fordeling. Hvor er dataene og hvor er det faglige skjønnet som skal inkoroporeres
+med dataene?
+
+Nå kan det sies at Bent med sitt innlegg er vel plassert i en tradisjon som dessverre har vært sterk innen vårt fag. Den går ut på at en rent matematisk-statistisk
+analyse i seg selv gir verdifull informasjon om statistiske metoders faglige innhold.
+På det norske statistikermøtet la Emil Spjøtvoll seg, 1 sitt diskusjonsinnlegg til
+Bents foredrag, på akkurat samme linje. Hans svar var, såvidt jeg kan huske, ren
+statistisk teori.
+
+Jeg skal selvfølgelig ikke påstå at denne type diskusjon er fullstendig formålsløs.
+Imidlertid, hvis jeg skal forstå verdien til en statistisk metodikk, er jeg helt nødt
+til å se den anvendt i praksis, på virkelige problemer. Det er bare da jeg skjønner
+hvilken nytteverdi den kan ha. Hvis Bent ønsker å fremme Bayes-analysen i Norge,
+må han derfor vise oss hvordan denne brukes. Selv er jeg spent på det, faktisk i
+positiv forstand fordi jeg synes ideene kan være interessante.
+
+Ikke minst må kontakten med virkeligheten være viktig når det et gjelder
+et slikt komplekst og subjektivt begrep som ”skjønn”. Hva er egentlig skjønn
+for noe? Jo, det er vel menneskers meninger og oppfatninger om hvordan ting
+forholder seg. Allminnelig menneskekunnskap tilsier at det her kan være mye
+
+
+
+hummer og kanari. Det kan være tale om et godt faglig skjønn som virkelig er
+et verdifullt bidrag. Det kan på den annen side være tale om et dårlig skjønn,
+eller om direkte feilaktige oppfatninger. Eller, hva verre er, ”skjønnet” kan være
+uttrykk for helt bestemte interesser, for eksempel av økonomisk art. Bent har en
+
+elegant formel som kombinerer det empiriske resultatet og skjønnet i et Bayesestimat. Det kan unektelig virke noe naivt å presentere et slikt resultat uten noen
+
+som helst vurdering av begrepet skjønn.
+Den omtalte formelen leder hen til det som er noe av hovedproblemstillingen
+her, nemlig forhold mellom skjønn og empiri. Den klassiske frekvensbaserte statistikk er et middel til å bedrive empirisk vitenskap, til å få kunnskaper om virkelig-
+
+_ heten som er uavhengige av eksperimentatorenes subjektive oppfatninger. Selvsagt
+kan dette ønsket om objektivitet lett bli noe illusorisk, observatørene kan ikke sees
+helt atskilt fra det de observerer. Likevel, jeg tror den klassiske statistikk er et
+godt middel til å oppnå forholdsvis objektiv empirisk kunnskap. Så kommer selvfølgelig skjønnet i tillegg, det vil det alltid gjøre. Men man kan få inntrykk av at
+Bayesianerne vil innføre en tvangssammenblanding av skjønn og empiri, jfr. Bents
+formel. De mer klassiske statistikere vil si: la oss få empirien (f.eks. sannsynlighetsmaksimeringsestimatet) og skjønnet hver for seg, så er det opp til den enkelte
+hvordan de vil kombinere det. Selvsagt er det ingen som vil se bort fra skjønnet,
+slik Bent later til å tro at klassiske statistikere mener en skal gjøre. Statistisk
+metodikk er alltid et supplement til et faglig skjønn. Spørsmålet er bare hvordan
+de forskjellige elementene kombineres.
+
+Som eksempel kan man tenke på en klinisk prøvning som utføres for å sammenlikne to legemidler. Dette er felt som er preget av sterke økonomiske interesser,
+nemlig den farmasøytiske industri som ønsker å markedsføre og tjene penger på
+sine medikamenter. På den annen side har en helsemyndighetene som ønsker å
+kontrollere medikamentbruken, slik at den ikke tar overhånd, eller at skadelige og
+verdiløse medikamenter tas i bruk. Nok en meget viktig faktor er legene. Forskjell-
+
+ige legers skjønn kan ofte stå steilt mot hverandre. Det er mange eksempler på
+bitre disputter leger i mellom om hvilke medikamenter som egentlig er de beste.
+Hvordan skal man ut fra dette utlede en kjekk apriori-fordeling og putte inn i
+sin Bayes-estimering? Det lar seg neppe gjøre. Skjønnet er splittet og særdeles
+mangetydig, hele den menneskelige virkelighet kommer veltende inn og lar seg ikke
+- feie under teppet selv med den mest elegante matematikk.
+Hvilken rolle spiller så statistikken på dette feltet. Jo, det viser seg at det
+er meget stor interesse for statistikk.
+
+Omhyggelig planlagte kliniske prøvninger
+
+med sine klassiske p- verdier og konfidensintervaller nyter stor respekt. Hvorfor
+er det slik? Jo, statistikken oppfattes som et objektivt middel til å vurdere hvilket
+medikament som i praktisk klinisk bruk på pasienter er best egnet. Statistikken
+gir empirien som et korrektiv til de stridende skjønn. Den fungerer derfor i praksis
+
+som et meget viktig middel til å bilegge konflikter, til å skape konsensus. Hvis
+statistikken før den ble presentert, ble blandet opp med (et skjønnsmessig) utvalg
+av de foreliggende skjønnsmessige vurderinger, ville den ende opp som nok en
+
+
+
+meningsytring. Interessen ville svekkes, og medisinske statistikere måtte finne seg
+noe annet å gjøre.
+
+Nå vil bayesianerne kanskje si: Dere er ikke så objektive som dere tror. Dere
+gjør masse forutsetninger av tvilsom karakter i deres modeller. Min praktiske
+erfaring er, egentlig til min forbauselse, at de statistiske resultater svært ofte er
+særdeles robuste overfor modellmessige forutsetninger. Vidt forskjellige modeller
+gir svært like resultater. Hvis det ikke er slik robusthet, og det heller ikke er
+opplagt at en modell er den klart riktigste, så vil jeg stille meg tvilende til at man
+trekker entydige konklusjoner fra forsøket.
+
+Til slutt en teknisk kommentar til Bents artikkel. I avsnitt 4 tenker han seg at
+-— man har et visst antall metallstrenger under testing, med feilintensitet A. La total
+testtid være T. Hvis ingen strenger har feilet i denne testtiden, blir sannsynlighetsmaksimeringsestimatet for Å lik 0. Dette mener Bent er åpenbart urimelig, og
+sammenlikner med hva han anser som et langt mer fornuftig Bayes-estimat. En kan
+imidlertid beregne et klassisk konfidensintervall som vil være svært meningsfylt.
+Nedre grense er 0 og øvre grense er —lne/T, der 1 — € er konfidenskoeffisienten.
+Hvis denne settes lik 95%, blir intervallets øvre grense lik 3/T. For å parafrasere
+Bent kan man derfor si at også frekventister lærer mens de venter.
+For til slutt å understreke det: Jeg er ingen anti-bayesianer (jeg vil heller bruke
+energien på å bekjempe andre og større onder (utenfor statistikken)). Jeg tror så
+gjerne at Bayes- tankegangen har sin berettigelse på visse felter. Nå er det opp
+til Bent å overbevise oss klassiske statistikere om dette med eksempler fra den
+virkelige verden.
+
+Odd Aalen
+
+
+
+Everybody counts
+
+I USA har National Research Council (NRC) de senere år gjennomført omfattende studier med sikte på å revitalisere undervisningen i matematikk og naturvitenskap. En rapport myntet på almenheten er nylig gitt i publikasjonen *Every-
+
+body Counts” (National Academy Press, Washington DC, 1989). I sterke ordelag
+blir det pekt på nødvendigheten av å styrke matematikkens stilling i skoleverket.
+Rapporten reflekterer synspunkter fra 70 ledende personer innen de fleste aktuelle interessegrupper: undervisere på alle nivå, forskere, skoleledere, lokale og
+
+statlige administratorer, samt foreldre og næringsliv.
+
+Rapporten har følgende hovedkomponenter (som skiller den fra mange tidligere
+rapporter som bare peker på problemer):
+— den ser på matematikkutdanningen som et system fra barnehage til studier på
+hovedfagsnivå;
+— den ser pa alle hovedkomponenter i systemet, fra pensum, undervisning og
+
+eksamen til faglige ressurser og nasjonale behov;
+— den ikke bare identifiserer problemer, men peker også ut mulige veier å gå,
+samt en nasjonal strategi;
+
+— den legger grunnlag for en prosess der lærere, statlige og lokale myndigheter
+
+og avtagere av elever /studenter kan samarbeide for å nå målene m.h.t. matematikkens stilling i år 2000.
+Vi gjengir på de etterfølgende sider syv endringsprosesser som en ønsker å
+
+initiere og stimulere. For oss statistikere er det verd å merke seg *Transition 5”,
+der sannsynlighet, dataanalyse, statistikk og modellbygging er blant emnene som
+
+fortjener større oppmerksomhet. Forøvrig har statistikere vært godt representert
+
+i komitearbeidet (Bickel, Chernoff, Kadane, Lieberman, De Groot, Moore).
+En oppsummering av *Everybody Counts” kan fås fra Mathematical Sciences
+Education Board, 818 Connecticut Avenue, N.W., Washington D.C. 20006. Hele
+rapporten kan kjøpes fra National Academy Press, 2101 Constitution Avenue,
+N.W., Washington DC 20006.
+
+Undervisningsutvalget/JL
+
+
+
+... bridges to the 21st century
+
+I n order to meet the chal enges ofour time,
+
+mathematics education is beginning already to
+negotiate several difficult transitions that will
+
+dominate the process of change during the remainder ofthis century.
+Transition 1: The focus of school mathematics is
+
+shifting from a dualistic mission—minimal mathe-
+
+matics for the majority, advanced mathematics for
+a few—to a singular focus on a significant common
+core of mathematics for all students.
+The needs ofindustry for a mathematically
+and technically literate work force compel schools
+to provide more mathematical education to more
+students than ever before. Accomplishing this
+will pose significant challenges to:
+
+e develop a core of mathematics appropriate for
+all students throughout each year of school;
+
+* educate well a significantly larger proportion
+of the population;
+e stimulate able students with the excitement
+
+and challenge of mathematics;
+e differentiate instruction by approach and speed,
+not by curricular goals;
+
+e select topics and approaches ofbroad interest
+and effectiveness.
+Transition 2: The teaching of mathematics is shifting
+from an authoritarian model based on "transmis-
+
+sion of knowledge” to a student-centered practice
+Jeaturing “stimulation of learning.”
+In both schools and colleges, classrooms of
+
+passive students Who are expected to sit and
+absorb rules that appear as arbitrary dicta are
+
+"Everyone depends on
+
+the success of
+mathematics education;
+everyone is hurt when it
+fails. Mathematics must
+become a pump rather
+than a filter in the
+pipeline of American
+education.”
+
+
+
+10
+
+gradually giving way to learning environments
+that:
+
+¢ encourage students to explore;
+
+e help students to verbalize their mathematical
+ideas;
+
+¢ show students that many mathematical questions have more than one right answer;
+
+¢ provide evidence that mathematics is alive and
+exciting;
+
+* teach students through experience the
+importance of careful reasoning and disciplined understanding;
+
+* build confidence in a// students that they can
+learn mathematics.
+
+Transition 3: Public attitudes about mathematics
+are Shifting from indifference and hostility to recog-
+
+nition of the important role that mathematics plays
+
+in today’s society.
+
+Although the burden of unfavorable school
+experiences continues to color public opinion
+about mathematics, contemporary events are
+
+sending different messages which are gradually
+being heard:
+
+some traditional paper-and-pencil skills, but also
+many broader and more powerful capabilities.
+Today’s students must be able to:
+
+e perform mental calculations and estimates with
+proficiency;
+e decide when an exact answer is needed and
+when an estimate will serve the purpose;
+
+e know which mathematical operations are appropriate in particular contexts;
+
+* use a calculator correctly, confidently, and
+appropriately;
+
+* estimate orders of magnitude to confirm mental or calculator results;
+
+* use tables, graphs, spreadsheets, and statistical
+techniques to organize, interpret, and present
+numerical information;
+¢ judge the validity of mathematical and technical information presented by others;
+* use computer software for mathematical tasks;
+formulate specific questions from vaguely defined problems;
+select effective problem-solving strategies.
+
+e in other nations where more is expected, more
+mathematics is learned;
+
+* as the roles of science and technology expand,
+so does the importance of mathematics;
+
+* foran informed citizenry, mathematical literacy IS as important as verbal literacy.
+
+AS attitudes about the importance of mathematics improve, so will expectations for mathematics education.
+
+Transition 4: The teaching of mathematics is shifting from preoccupation with inculcating routine
+skills to developing broad-based mathematical
+power.
+
+Broad mathematical power requires that students be able to discern relationships, reason
+logically, and use a range of mathematical
+
+methods to solve a wide variety of nonroutine
+problems. The repertoire of skills which now
+undergird mathematical power includes not only
+
+“Evidence from many
+sources Shows that the
+least effective mode for
+
+learning mathematics is
+the one that prevails in
+most ofAmerica’s
+classrooms: lecturing
+and listening.”
+
+
+
+11
+
+Transition 5: The teaching of mathematics is shift-
+
+Calculators and computers are not substitutes
+for hard work or precise thinking, but challenging tools to be used for productive ends.
+
+Most mathematics should be presented in the
+context of its uses, with appreciation of mathematics as a deductive logical system built up
+slowly through the rising levels of education.
+Examples ofareas deserving greater emphasis
+
+Transition 7: The public perception of mathematics
+
+are:
+
+world around us and the mind within us. Al-
+
+ing from emphasis on preparation forfuture courses
+to greater emphasis on topics that are relevant to
+students’ present and future needs.
+
+* probability, which facilitates reasoning about
+
+uncertainty and assessment of risk;
+
+¢ exploratory data analysis and statistics, which
+facilitate reasoning about data;
+
+¢ model-building, which facilitates systematic
+structured understanding of complex situations;
+* operations research, which facilitates planning
+complex tasks and achieving performance
+objectives;
+
+e discrete mathematics, which facilitates understanding of most applications of computers.
+These new topics imply that observation and
+
+experimentation will be important in future math-
+
+ematics programs and that school mathematics
+will draw closer to other school subjects, especially to science.
+
+is shifting from that of a fixed body of arbitrary
+rules to a vigorous active science ofpatterns.
+
+Mathematics is a living subject that seeks to
+understand patterns which permeate both the
+
+though the language of mathematics is based on
+rules that must be learned, it is important that
+students move beyond rules to be able to express
+things in the language of mathematics. This
+transformation suggests change in both curricular content and instructional style. It involves
+renewed effort to focus on:
+¢ searching for solutions, not just memorizing
+procedures;
+
+* exploring patterns, not just learning formulas;
+¢ formulating conjectures, not just doing
+exercises.
+As teaching begins to reflect these emphases,
+students will have opportunities to study mathematics as an exploratory, dynamic, evolving discipline rather than as a rigid, absolute, closed
+
+body of laws to be memorized. They will be
+encouraged to see mathematics as a science, not
+
+Transition 6: The teaching of mathematics ts shift-
+
+ing from primary emphasis on paper-and-pencil
+calculations to full use of calculators and computers.
+
+as a canon, and to recognize that mathematics Is
+really about patterns and relationships and not
+merely about numbers.
+
+Mathematics teachers at all levels—from elementary school to university—are adapting their
+teaching methods to include both new approaches
+to instruction and new Subject matter appropriate to future-oriented curricula. Calculators and
+
+computers make new modes of instruction feasible at the same time that they inject into the
+learning environment the special sense of wonder which goes with the healthy development of
+mathematical power.
+
+Calculators and computers should be used in
+ways thal anticipate continuing rapid change due
+to technological developments. Technology
+should be used not because it is seductive, but
+because it can improve mathematical learning by
+extending each student’s mathematical power.
+
+“As a practical matter,
+mathematics is a science
+ofpattern and order. Its
+domain is not molecules
+or cells, but numbers,
+chance, form, algorithms,
+and change.”
+
+
+
+12
+
+EN SANNSYNLIGHETSBEREGNING KNYTTET TIL
+
+UTTREKNINGEN AV MEDDOMMERE I TREHOLTSAKEN*
+Ørnulf Borgan**, førsteamanuensis
+Bent Natvig**, professor
+
+I Treholtsaken skulle det tjenestegjøre 4 legfolk som meddommerei tillegg til de 3 juridiske
+dommerne. Ved uttrekningen viste det seg at 2 av disse 4 legfolkene var aktive medlemmer
+av Bygdøy Høyre. I dette notatet vil vi utføre en sannsynlighetsberegning knyttet til denne
+uttrekningen. Videre vil vi på bakgrunn av denne beregning vurdere om det er rimelig
+grunn til å tvile på at uttrekningen var rent lotterisk.
+
+De 4 representanter skulle sammen med 4 vararepresentanter trekkes fra et domsmannsutvalg på 3100 gjeldende for Oslo lagsogn for perioden 1/1-1983 - 31/12-1987. Dette lagsogn
+dekker følgende kommuner:
+
+Oslo, Vestby, Ski, Ås, Frogn, Nesodden, Oppegård, Bærum, Asker, Aurskog-Høland,
+Sørum, Fet, Rælingen, Enebakk, Lørenskog, Skedsmo, Nittedal, Gjerdrum, Ullensaker,
+Nes, Eidsvoll, Nannestad, Hurdal, Kongsvinger, Nord-Odal, Sør-Odal og Eidskog. Av de
+3100 kom 1700 fra Oslo. Disse 1700 var igjen fordelt med 50 fra hver av de daværende 34
+bydeler. Videre hadde Bærum 280 og Asker 122 representanter i domsmannsutvalget.
+I Oslo ble de 50 fra hver bydel oppnevnt av det enkelte bydelsutvalg, mens de øvrige
+
+representanter ble oppnevnt av kommunestyrene. Sammensetningen av det enkelte bydel-
+
+sutvalg og kommunestyre var bestemt utfra kommunestyrevalget i 1979. En skal her være
+klar over at f.eks. andelen Høyre representanter i bydelsutvalget på Bygdøy ble bestemt
+utfra prosentandelen 43.31 for Høyre i Oslo sett under ett ved valget i 1979 og ikke andelen
+72.55 på Bygdøy.
+
+Ved uttrekningen av meddommere i Treholtsaken hadde ca 1/3 av de 3100 tjenestegjort
+tidligere i perioden og måtte derfor forbigås under uttrekningen. Da vi ikke sitter inne
+med opplysninger om hvem disse var, kan vi i det følgende regne som om disse ikke skulle
+forbigås.
+
+Vi vil ikke gå inn på beregning av sannsynligheten for at akkurat 2 av de 4 legfolkene var
+aktive medlemmer av Bygdøy Høyre. Uansett utfall av uttrekningen vil sannsynligheten
+for det faktisk observerte resultat, beregnet før uttrekningen, være mikroskopisk. Vi vil i
+stedet beregne sannsynligheten, P(A), for følgende relevante begivenhet:
+
+Utarbeidet for Nordisk Treholtkomite.
+sok
+
+Avdeling for statistikk og forsikringsmatematikk
+Matematisk institutt, Universitetet i Oslo
+Postboks 1053, Blindern
+0316 Oslo 3
+
+
+
+13
+
+A =(Uttrekningen av 4 meddommere gir minst 2 aktive medlemmer av Høyre
+enten fra en typisk Høyre bydel i Oslo eller en typisk Høyre kommune
+i Oslo lagsogn )
+
+Med en typisk Høyre bydel i Oslo vil vi her forstå en bydel hvor Høyre hadde minst 50% av
+stemmene i 1979. I tillegg har vi tatt med de typiske Høyre kommunene Asker og Bærum.
+Dette gir følgende 11 bydeler og 2 kommuner (med prosentandel for Høyre i parentes)
+Frogner-Vika (65.18)
+Homansbyen-Uranienborg-Majorstuen (58.83)
+Marienlyst-Blindern-Ullevål (54.97)
+Ekeberg-Holtet-Bekkelaget (50.95)
+Nordstrand (62.07)
+Sogn (54.71)
+Vindern-Slemdal-Holmenkollen (70.05)
+Røa-Hovseter- Voksen (62.69)
+Ullern (65.46)
+
+Smestad-Skøyen (70.73)
+Bygdøy (72.55)
+Asker (49.25)
+Bærum (56.8)
+Innfør nå begivenheten
+
+B =( En enkelt uttrekning gir et aktivt medlem av Høyre enten fra en typisk
+Høyre bydel i Oslo eller en typisk Høyre kommune i Oslo lagsogn }
+Betegn sannsynligheten for B, P(B), med p. Innfør videre følgende begivenheter
+
+C ={ En enkelt uttrekning gir en meddommer enten fra en typisk Høyre bydel i
+Oslo eller en typisk Høyre kommune i Oslo lagsogn )
+
+D =( En enkelt uttrekning gir en meddommer som stemte Høyre ved valget
+i 1979 }
+
+E ={ En enkelt uttrekning gir en meddommer som er et aktivt medlem av et
+politisk parti )
+
+Begivenheten B svarer da til at alle begivenhetene C, D og E inntreffer. Utfra den generelle
+multiplikasjonssetning for sannsynligheter har vi da:
+p= PB)= PGA,
+PR)
+= P(C)- P(DIC)-P(E|D, 0)
+
+
+
+14
+
+Her betyr f.eks. P(D|C) sannsynligheten for begivenheten D gitt at begivenheten C' har
+inntruffet.
+
+Antall av de 3100 som enten er fra en typisk Høyre bydel i Oslo eller de typiske Høyre
+kommuner Asker og Bærum er 11 - 50 + 280 + 122 = 952. Dermed har vi:
+P(C) = 952/3100.
+
+Siden ogsa de typiske Hgyre bydelene hadde bydelsutvalg sammensatt utfra Hgyres prosentandel pa 43.31 ved Oslovalget i 1979, velger vi a sette
+P(D|C) = 1/2.
+
+Vi har her tatt hensyn til den høyere prosentandel for Høyre i Asker og Bærum samt at
+
+det er lettere å finne frem til en domsmann som stemmer Høyre i en typisk Høyre bydel.
+|
+
+Endelig velger vi å sette
+P(E|D,
+C) = P(E) = 1/2,
+
+idet vi antar utfra diskusjoner med bydelsutvalgsrepresentanter at alle kommunestyrer
+og bydelsutvalg plukker ut halvparten av sine domsmenn blant aktive medlemmer av de
+politiske partier. Dermed har vi:
+952
+
+1
+
+1
+
+P= 3509 3 3
+
+238
+
+3100 0077.
+
+Den søkte sannsynlighet blir da ved å bruke en binomisk fordeling
+
+P(A) = 1 — (1 —p)* — 4(1 — p)?p = 0, 032.
+
+Konklusjon:
+
+En liten sannsynlighet for begivenheten Å, beregnet under forutsetningen om rent lotterisk
+utvalg, gir grunn til å tvile på at uttrekningen var rent lotterisk. Hvis en derfor fremsatte
+følgende hypotese:
+
+“Uttrekningen av domsmenn i forbindelse med Treholtsaken foregikk rent lotterisk”,
+
+ville denne utfra våre beregninger forkastes med en signifikanssannsynlighet på 3,2%. Sagt
+med andre ord—hvis en påstår at uttrekningen av domsmenn i forbindelse med Treholt-
+
+saken ikke foregikk rent lotterisk, er vår beregnete sannsynlighet for å ta feil så lav som
+3,2%. Det er følgelig rimelig grunn til mistanke om at uttrekningen ikke var rent lotterisk.
+
+
+
+15
+
+Klipp fra debatten utenfor statistikernes rekker
+
+Fra Sykepleien, 16. november 1989
+
+3000 EGG OG
+2400 LITER KAFFE
+
+2400 liter kaffe, 3000 egg, 2800 håndklær, 500 ruller
+toalettpapir, 1300 wienerbrød, 18 meter napoleonskake,
+180 000 liter varmt vann, 68 840 kilowatt strøm og
+mer enn 2000 manglende søvntimer. Hva en statistiker
+
+får ut av disse tallene vet ikke vi, men det er i alle fall
+
+statusrapport etter Norsk Sykepleierforbunds avholdte
+landsmøte i Loen.
+
+Fra A-Magasinet, 9. desember 1989
+
+—
+
+For å gardere seg mot den tilfeldige enkelthendelse det ville
+
+være å ramle ned fra taket av matematikkbygningen på
+Blindern, bør man oppholde seg der så sjelden som mulig,
+mener professor Tore Schweder.
+
+Hvor tilfeldige er egentlig
+tilfeldighetene? Uforklarlige enkelthendelser — eller
+finnes det en sammenheng
+i tilfeldighetene hvis vi ser
+dem samlet? Og mennesker som unnslipper
+
+døden på hengende håret,
+hvilket inntrykk gjør tilfeldighetene på dem?
+
+
+
+16
+
+Fra Dagbladet
+
+«| Presidentens fravær»
+
+ille
+
+a
+
+a
+
+|
+=a
+
+fi ll
+All
+
+tilfellet der alle kategorier har
+
+BE
+
+=
+
+Det er lenge siden vi har hatt en
+virkelig god APPENDIKS, nå. I
+håp om å oppveie dette, - ikke
+bare sørgeligemen direkte latterlige - misforhold bringer vi i dag
+et kort utdrag av en Appendiks
+(til en artikkel om Alkoholforskning). Vår Appendiks er skrevet
+av alkoholforsker Ole-Jørgen
+Skog i Statens Institutt for Alkoholforskning, og lyder slik: .
+
+I]
+
+va
+
+NY
+
+samme sannsynlighet pi=1/K. Vi
+lar At betegne antallet personer
+som er i kategorier med nøyaktig
+t subjekter, og bemerker at dette
+antallet er t ganger så stort som
+antallet kategorier med samme
+antall subjekter. Etter litt regning finner vi at
+
+N!
+
+de
+
+Appendiks
+La N være antall personer i utvalget og K antallet kategorier.
+Vi lar x betegne forholdstallet.
+N/K. La videre pi være sannsyn-
+
+(t-1) T(N-t)!
+
+(LK) (1-1/K)N-t
+
+(Tidsskrift for Samfunnsforskning, 1988, argang 29,
+side 357- 365)
+
+ligheten for at en person skal tilhøre i-te kategori.
+
+Vi har Fe ovenstående for
+
+Utvalget kan dels være trukket lotterisk fra en gitt popula-
+
+forfatteren
+
+ner som kommer i kontakt med
+
+et bestemt registreringssystem.
+Vi forutsetter at totalpopulasjo-
+
+nen er stor i forhold til utvalget.
+Under disse omstendigheter
+vil antallet personeri i-te katego-
+
+ri være tilnærmet binominalfordelt, og sannsynligheten for at
+denne kategorien skal inneholde
+nøyaktig t personer er
+!
+
+La nå Yi være en indikatorvaria-
+
+From
+
+jr.,
+
+bel med verdien 1 hvis i-te kategori inneholder eksakt t personer, og null ellers. Det forventede antall kategorier med nøyaktig t subjekter blir derfor
+N!
+
+t! (N-t)!
+
+DP
+
+forsker).
+«Appetitten», uttaler
+vår alkoholforsker innledningsvis, og fortsetter, «appetitten
+kommer mens man spiser, tørsten trenger jeg heldigvis ikke å
+arbeide med.» Sitat slutt.
+Dette er den mest krevende
+avskrift jeg noensinne har skrevet av. Nå får andre overta. Jeg
+har fått nok.
+
+På vegne av
+NDF's Avskrivningsbyrå
+I Presidentens fravær
+Lille-Maud Vonlausbråten
+Konst. fung. president
+
+nat
+
+1
+
+Vi betrakter forst det homogene
+
+«I frk. Lille-Maud Vonlausbråtens fravær»
+Herr President!
+«Uten meget å drikke duger
+helten ikke», sa min far bestandig. Jeg sier det samme med.
+Nok av det. Her kommer et nytt
+kapittel av min kollega, alkoholforsker Ole-Jørgen Skogs artikkel «Om å gjøre longitudinelle
+studier med anonymdata», eller
+rettere sagt hans Appendiks til
+denne artikkelen. Sitat:
+
+od
+
+oppnas gjennom
+en ‘laylorutvikling rundt verdien x, som
+
+il
+
+——
+
+Å
+
+HJELLE LTE
+in
+
+==
+
+Ti
+Ny
+
+ør
+
+APPENDIKS
+
+len.
+
+Vi betrakter nå en situasjon
+der matchingskategoriene er heterogene, dvs. der sannsynligheten varierer fra kategori til kategori. Vi skal imidlertid forutsette
+at variasjonene ikke er svært sto- dvs. vi forutsetter at pi er av
+re
+omtrent samme
+størrelsesordedn som 1/K. Vi skal med ut-
+
+tabel forutsatt at variasjonene i
+
+sjonsformelen er benyttet ved
+beregningene i tabell 2.
+
+xt-1 ex
+
+og dette er altså den forventede
+andelen av utvalget som tilhorer
+en matchingskategori med eksakt t subjekter. Tallene i tabell 1
+er beregnet utfra denne forme-
+
+Den approksimasjonsformelen
+vi her har funnet.vil være aksep-
+
+p-verdiene (målt med 6) ikke er
+altfor store. Denne approksima-
+
+god tilnærming (Sverdrup 1964,
+s. 274) skrive
+
+Ty
+
+= Al/N sy e*(1-x6?) ©
+
+Ø0=KZp:?-1
+
+Når N og K er store kan vi med
+
+at = A/N gy
+
+er gjennomsnittet av eksponentene piN. Substitueres dette i
+den generelle formelen, far en
+etter litt regning
+
+Størrelsen @ beskriver graden av
+variasjon i p-verdiene, og kan
+skrives
+
+——TtF
+
+Fra den kjente alkoholforsker,
+forfatteren Diderik From jr., har
+vi mottatt følgende:
+
+[II
+
+t! (N-t) !
+
+GtabeL
+
+aa
+
+E (2 Y)=
+
+pit(1-pilN-t
+
+Diderik
+
+(som selv er litt av en alkohol
+
+sjon, eller det kan bestå av perso-
+
+Slutt
+
+SEE
+
+Giabel
+
+gangspunkt i ovenstående formel finne et forenklet uttrykk
+som er tilnærmet lik den forventede andel av utvalget med unik
+matchingskategoni.
+Under disse betingelser vil
+falgende tilnærming kunne brues
+
+(1-pi)N As E-PIN ay
+e*(1
+(Npi - x)]
+der den siste approksimasjonen
+
+Jørgen
+Ole
+(Alkoholforsker
+Skogi Statens Institutt for Alko-
+
+holforskning. Kort utdrag av
+Tidsskrift for Samfunnsforskning, 1988, side 357-366)
+Jeg slutter meg fullt ut til min
+kollega i denne sak.
+Pa vegne av
+NDF's Avskrivningsbyra
+i frk. Lille-Maud Vonlausbratens
+fraveer
+
+Diderik From jr.
+Alkoholforsker
+Fung. pres.
+
+
+
+17
+
+NYTT FRA AVD.C
+
+Matematisk institutt, UiO
+
+Dr. scient.
+Sven Ole Samuelsen : ‘Two Incomplete Data Problems in Life-history
+Analysis: Double Censoring and the Case-cohort Design ’
+Sakkyndig komité :
+Professor Niels Keiding, Statistisk Forskningsenhed, København
+Førsteamanuensis Nils Lid Hjort, Matematisk institutt, UiO
+
+Førsteamanuensis Ørnulf Borgan, Matematisk institutt,
+UiO (veileder)
+Thore Egeland : ‘On Dependence and System Reliability ’
+Sakkyndig komité :
+
+Professor Bo Lindqvist, Institutt for statistikk, NTH, Trondheim
+Professor Henrik O. Madsen, Dansk Ingeniørakademi, Lyngby, Danmark
+Professor Bent Natvig, Matematisk institutt, UiO (veileder)
+
+Forskningsrapporter
+Bent Natvig : ‘Strict Bounds for the Availabilities in a Fired Time Interval
+for Multistate Monotone Systems’
+Erik Torgersen : ‘Stochastic Orders and Comparison of Experiments ’
+Erik Torgersen :
+
+‘Monotone Likelihood, Power function, Diagrams and
+
+Selection ’
+
+Erik Torgersen : ‘Functionals of Experiments ’
+Statistical Research Report, No 1, 2, 3 og 4, 1989
+
+
+
+18
+
+Gjester
+Kjell Doksum vil være gjesteprofessor ved avdelingen våren 1990, nærmere
+bestemt de 2 ukene før påske.
+
+Etterutdanning
+I uken 9.-13. oktober ble det ved avdelingen arrangert et intensivt kurs i
+statistikk for matematikklærere ved ingeniørhøgskolene. Kurset vil bli fulgt
+opp med oppgaver og rettledning frem til en avsluttende uke i mai 1990.
+Kurset hadde 20 deltagere og var planlagt og ledet av Erik Bølviken.
+
+NYTT FRA UNIVERSITETET I BERGEN
+Uteksaminert cand. scient.
+Grethe Albrektsen:
+
+"Effekt av feilklassifisering 1 uavhengig variabel i logistisk re-
+
+gresjon”. Veileder: Ivar Heuch.
+
+Ansettelse
+Hans Arnfinn Karlsen er ansatt som amanuensis i statistikk ved Matematisk insti-
+
+tutt, Universitetet i Bergen fra 1. september 1989.
+
+
+
+19
+
+Etterutdanningsseminar i
+Dataanalyse og grafiske metoder
+Som medlemmene er orientert om vil Norsk Statistisk Forening 5. -7. februar 1990 arrangere et etterutdanningsseminar i Dataanalyse og Grafiske metoder. William S. Cleveland
+fra Bell Laboratories vil forelese.
+
+Kurset avholdes på Blindern og går over tre dager. De første to dagene vil omhandle
+ulike dataanalytiske metoder og vil blandt annet dekke følgende emneområder: (1) grafisk
+analyse av fordelinger; (2) glatting av en avhengig variabel som en funksjon av en eller
+flere uavhengige variable; (3) metoder for å presentere kategoriske data; (4) plotting av
+multidimensjonale data; (5) studie av toveis- klassifiserte data; (6) metoder for å få fram
+*det vesentlige” i et spredningsdiagram og (7) dynamiske grafiske metoder. Kursets siste
+dag vil konsentrere seg om tolking av grafiske plott og hvordan informasjonen fra disse blir
+dekodet rent visuelt. Det vil bli presentert en modell som beskriver denne tolkingsprosessen.
+Modellen vil så bli benyttet til å analysere ulike grafiske metoder for å finne ut hvilke
+metoder som fungerer godt og hvilke som ikke gjør det.
+Det er fortsatt mulig å melde seg på kurset.
+
+Prisen er kr. 1400,- som innbetales til
+
+Norsk Statistisk Forenings etterutdannings-seminar, postgiro 4 24 70 86, innen 10. januar
+1990. Påmeldingen må imidlertid skje snarest!
+
+(klipp ut)
+
+PÅMELDING SNAREST
+
+navn:
+
+adresse:
+
+Sendes:
+
+Ørnulf Borgan
+Matematisk institutt
+
+P.b. 1053 Blindern
+0316 Oslo 3
+
+
+
+20
+
+THE ANNALS OF APPLIED PROBABILITY
+published by the
+
+Institute of Mathematical Statistics
+
+School of Engineering and Applied Science
+
+J. Michael Steele, Editor
+
+E-220 Engineering Quadrangle
+Princeton University
+Princeton NJ 08544
+Telephone: (609) 258-6486
+
+E-mail: steele@ jackknife.princeton.edu
+
+Dear
+
+Colleague,
+
+The Institute
+new
+its
+issue of
+February
+
+of
+
+Statistics will publish the first
+of Mathemstical
+Frobability in
+Applied
+of
+Annals
+The
+journal,
+
+1991.
+
+In addition
+
+to welcoming
+
+the traditional areas of
+
+papers in all
+
+encourages submission
+of work that develops and deepens the interplay of probability and the
+fields of computer science, finance, network modeling» and biology.
+applied probability the new Annsls particularly
+
+IMS Annals suggest
+The long and excellent service of the earlier
+Probability has 3 fine chance Ow
+the new Annsls of 4pplied
+that
+this
+but
+field,
+in our
+journals
+leading
+the
+becoming one of
+g
+contributin
+of
+support
+the
+through
+realized
+be
+opportunity can only
+authors.
+
+Manuscripts
+now,
+The time to submit work for the new Annals is
+for Authors
+ns
+Instructio
+the
+with
+in accordance
+be prepared
+should
+te
+quadruplica
+in
+submitted
+and
+Annals,
+other
+two
+that are given in the
+
+to me,
+the
+
+J. Michael
+
+address
+
+Steele, Editor,
+
+Annals of Applied Probability. at
+
+above.
+
+and I am
+I am enthusiastic about the future of the new Annals,
+ers
+research
+of
+ity
+commun
+growing
+and
+large
+a
+is
+there
+confident that
+
+to whom it can provide valuable service. Your help in this enterprise
+to its success, and I look forward to receiving articles
+is essential
+I hope to hear from you soon.
+Best
+
+regards,
+
+I VALEN OG t.
+«ag
+
+from you and your colleagues.
+
+.
+
+Michael
+
+Editor
+
+Sted i
+
+Steele
+
+
+
+21
+
+Ledig amanuensis-stilling ved NTH
+Ved Institutt for matematiske fag, NTH er det ledig en fast amanuensis-stilling med
+fagområde matematisk statistikk.
+
+Instituttet er organisert i tre faggrupper, for matematikk, numerikk og statistikk.
+Stillingen er knyttet til faggruppe for statistikk. For tiden har instituttet 22 faste
+
+vitenskapelige stillinger, hvorav 6 tilhører gruppe for statistikk. Gruppe for statistikk
+har i tillegg to professor II stillinger i risiko- og pålitelighetsanalyse.
+
+Undervisningen ved instituttet består i
+
+-
+
+grunnundervisning i matematiske fag for samtlige ingeniøravdelinger ved NTH
+
+-
+
+videregående kurs for sivilingeniørstudenter
+
+-
+
+kurs for dr.ing. studenter
+
+Videre har instituttet ansvar for
+
+-
+
+studieretningen for industriell matematikk.
+
+Hensikten med denne er å utdanne sivilingeniører med en brukerorientert matematisk
+profil. I undervisningen for denne studieretningen inngår, i tillegg til ordinære kurs,
+
+prosjektarbeider og hovedoppgaver. Statistikkfaget har en sentral plass innenfor denne
+studieretningen, og en stor del av studentene velger prosjekt- og hovedoppgaver i
+statistikk.
+Det tilbys også dr.ing. studium innenfor hver av instituttets faggrupper.
+
+Gruppe
+
+for
+
+statistikk
+
+er
+
+pålagt
+
+et
+
+spesielt
+
+ansvar
+
+for
+
+det
+
+teoretiske
+
+grunnlag
+
+for
+
+sikkerhetsfagene ved NTH, spesielt risiko- og pålitelighetsanalyse.
+
+Den som tilsettes i amanvensisstillingen, må delta i undervisnings- og veiledningsvirksomheten innenfor fagomradet, og ma derfor ha solid bakgrunn i statistisk metodelere.
+Gruppe for statistikk har definert tre prioriterte forskningsomrader:
+-
+
+Risiko- og pålitelighetsanalyse
+
+-
+
+Statistisk forsøksplanlegging med vekt på metoder for forbedring av kvalitet og
+produktivitet
+Statistisk inferens i stokastiske prosesser
+
+Det forutsettes at den som tilsettes er villig til å bidra til utvikling av ett av disse
+områdene. Forøvrig foregår forskning og utvikling ved gruppe for statistikk innenfor
+statistiske metoder i billedanalyse og tidsrekkeanalyse.
+Gruppen har et utstrakt samarbeid med SINTEF, først og fremst gjennom SINTEFs
+Seksjon for industriell matematikk og Avdeling for sikkerhet og pålitelighet.
+
+Søkere må ha relevant utdanning fra vitenskapelig høgskole eller universitet og må
+kunne dokumentere faglige/vitenskapelige kvalifikasjoner innen fagområdet. Det vil også
+bli tatt hensyn til undervisningserfaring.
+
+Fullstendig stillingsbeskrivelse og andre opplysninger om stillingen kan fås ved henvendelse til Institutt for matematiske fag, 7034 Trondheim-NTH, tlf. (07) 593520. Det
+henvises også til annonse i Norsk Lysingsblad (i desember 1989).
+
+Søknadsfrist: 10. januar 1990.
+
+
+
+22
+
+SJS,
+
+Brief
+
+information
+
+on
+
+current
+
+unpublished
+
+research
+
+in
+
+Scandinavia.
+
+Som alle vet
+har
+vårt
+tiddskrift
+en
+spalte
+som
+heter Brief
+information
+...
+Denne
+spalten
+er
+til
+for å brukes. Desverre
+bruker vi nordmenn spalten for lite. Vi produserer da mer enn det
+som
+blir
+nevt
+i
+spalten?
+En
+rask
+opptelling
+for de 4 sist
+prubliserte
+numrene
+(nummer
+4
+1988
+til
+nummer
+3
+1989)
+ga
+følgende antall nevnte forskningsrapporter fordelt etter land.
+Danmark
+
+14
+
+Norge
+
+10
+
+Sverige
+
+56
+
+norske
+
+arbeidene
+
+Matematisk
+
+inst,
+
+C,
+
+Inst
+
+statistikk
+
+for
+
+ST,
+
+og
+
+den
+
+enkeltes
+
+SSb,
+
+å
+
+gjøre
+
+For
+
+å
+
+få
+
+du
+
+gir
+
+pa
+
+et
+
+får
+
+bekymrer
+
+tanke
+
+enkeltforskerne
+
+tidlig
+
+også
+
+oss
+
+seg
+
+vist
+
+litt
+
+synlig
+
+enn
+
+tittel
+
+og
+
+rapporten
+
+står
+
+ditt
+
+navn,
+
+selvsagt,
+
+et
+
+passende
+
+bunken
+
+med
+
+meg
+
+til
+
+kort
+
+adressen
+
+sammendrag.
+
+rapporter
+
+sammendragene
+
+gleder
+
+sender
+
+til
+a
+
+som
+en
+
+Når
+jeg
+
+ham
+
+og
+
+kunne
+vi
+
+og
+
+selv
+det
+
+om
+
+Søren
+
+kontakt
+
+vere
+ikke
+
+er
+
+være
+
+en
+
+gjør?
+
+inn
+
+i
+
+spalten,
+
+til
+
+meg.
+
+I
+
+-
+
+og
+
+institusjon
+
+Johansen
+
+fått
+
+inn
+
+maser
+siden
+
+sammenstilling
+
+fyldigere
+
+i
+
+der.
+
+PR
+
+rapporten
+
+din
+
+har
+
+fa
+
+kanskje
+
+tydligvis
+
+godt
+
+til
+
+a
+
+derfor
+
+manuskripter
+
+sammendrag
+
+redigert
+
+sende
+
+sine
+
+det
+
+til
+
+skulle
+
+fram,
+
+mest,
+
+mer
+
+Du
+
+kopierer
+
+seg
+
+forfatternavn,
+
+slik:
+
+Det
+
+rapportere
+
+statistikere
+
+noe
+
+anledning
+
+tidspunkt.
+
+å
+
+gjøre
+
+Jeg
+
+Oslo
+
+...
+
+interesse
+
+Institusjonene
+
+jeg
+
+datb.,
+
+Oslo
+
+information
+
+likesinnete
+
+tar
+
+institusjon:
+
+Oslo
+
+NR,
+
+med
+
+skal
+
+på
+
+Trondheim
+
+Tromsø,
+
+som
+
+slik
+
+Oslo
+
+NTH,
+
+Brief
+
+seg
+
+Bergen
+
+Avdeling
+
+Storebrand,
+
+det
+
+fordelte
+
+ORPRPRPHEUP
+
+De
+
+50
+
+Finland
+
+på
+
+meg
+
+sist
+
+og
+
+til
+
+bidrag
+
+Søren.
+
+til
+
+Brief
+
+information!
+Vennlig
+
+Tore
+
+hilsen
+
+Schweder
+
+Inst.
+
+for
+
+Postboks
+
+0316
+PS.
+
+Abonerer
+
+Det
+
+er
+
+meget
+
+forening.
+
+For
+
+du
+
+på
+
+SJS?
+
+billig
+
+for
+
+1989
+
+kostet
+
+Om
+
+oss
+
+du
+som
+
+det
+
+ikke
+er
+
+120
+
+Oslo
+
+gjør
+
+og
+
+data.
+
+Blindern
+
+3
+
+det
+
+medlemmer
+
+svenske
+
+statistikk
+1070
+
+kan
+
+av
+
+kroner
+
+du
+
+jo
+
+Norsk
+
+for
+
+begynne.
+
+statistisk
+
+fire
+
+nummer.
+
+
+
+23
+
+Årsberetning for statistisk forening i Trondheim (SFT).
+
+Siden det første ordinære møte i foreningen etter stiftelsen
+29/9-88 ble holdt så sent på året som 24/11-1988 ble det ikke
+skrevet noen årsrapport for 1988. Denne rapporten omfatter
+
+derfor perioden 29/9-88 til årsmøtet 28/11-89.
+
+Foreningen ble stiftet 2979-88. Det ble samtidig vedtatt
+I brev datert 18/10-88 godkjente
+vedtekter for foreningen.
+Norsk Statistisk Forening lokalforeningen i Trondheim med de
+vedtektene som ble vedtatt på stiftelsesmøtet.
+
+Arnljot Høyland ble valgt til foreningens leder, med Jørn Vatn,
+Steinar Engen og Randi Hammervold som styremedlemmer, Per
+Hokstad og Ragnar Aarø som revisorer. På første styremøte ble
+Randi Hammervold valgt til kasserer og Steinar Engen til
+sekretær.
+
+Det har vært avholdt styremøter før hvert møte i lokalforeningen
+og dessuten flere styremøter under planleggingen av det 5.
+Norske
+
+Statistikermøtet.
+
+Det er arrangert 5 møter i
+
+vært ca.
+
+lokalforeningen.
+
+20 medlemmer tilstede.
+
+Det har hver gang
+
+Følgende foredrag er holdt på
+
+møtene:
+
+29/9-88
+
+:
+
+Arnljot Høyland, Den inverse Gaussfordelingen - en
+nyttig modell
+
+24/11-88:
+
+Bo Bergman,
+
+i
+
+pålitelighetsanalyse?
+
+Robust konstruksjon og forsøks-
+
+planlegging.
+
+21/2-89
+
+:
+
+Fred Godtliebsen,
+
+Bruk av statistiske metoder i
+
+billedbehandlingen.
+
+25/4-89
+
+:
+
+Harald Johnsen,
+Ritualer
+
+og
+
+Statistikk i medisinske tidsskrifter.
+
+feilbruk.
+
+
+
+24
+
+24/10-89:
+
+Magnar Lillegård og Jon Daniel Nesje, Taguchis
+metoder - presentasjon og diskusjon av en
+
+kvalitetstyringsmodell.
+Planlagt
+
+28/11-89:
+
+John S. Tyssedal, Skiftepunktestimering i stokastiske
+prosesser.
+
+Den største arbeidsoppgaven for styret i 1988 var å stå som
+
+Jørn Vatn hadde
+arrangør av det 5. norske statistikermøte.
+ansvaret for den forberedende kontakten med Sund Folkehøgskole.
+Det var 67 deltakere på møtet som ble avviklet 12.-14. juni.
+Når det gjelder det faglige innholdet vises det til "Faglig
+program - sammendrag", utgitt av programkommitéenn for møtet.
+Det ble også arrangert omvisning på Norske Skog.
+
+Arrangementet
+
+gikk med økonomisk overskudd kr. 1.192,40.
+
+Pr. 23.11 har lokalforeningen 25 medlemmer.
+
+Medlemsliste med
+
+adresser er vedlagt.
+
+Steinar
+
+Engen
+
+STATISTISK FORENING I BERGEN
+
+Avholdte møter høsten 1989
+3. oktober. T. W. Anderson: ‘Robust estimering 1 tidsrekker’
+5. desember. Trond Olsen: ‘Optimalt investeringstidspunkt under usikkerhet?
+På årsmøtet 5. desember ble det valgt nytt styre i foreningen:
+
+Trygve S. Nilsen, formann
+
+Rolv T. Lie, sekretær
+Valborg Baste, kasserer
+Bjørn Henrik Auestad, styremedlem
+
+
+
+25
+
+KALENDER FOR INTERNASJONALE MØTER
+
+1990
+3.-5. april 5th Statistical & Scientific DataBase Management (SSDBM) Meeting,
+Charlotte, North Carolina, USA. Informasjon: Z. Michalewicz, Dept.
+of Computer Science, Victoria University at Wellington, P.O. Box
+600, Wellington, New Zealand.
+
+23.-24. april Konferens om Statistisk Programvara i Undervisning, Forskning och
+Praktik, Göteborg, Sverige.
+
+Informasjon:
+
+Lennart Råde, Matema-
+
+tiska Institutionen, Chalmers Tekniska Högskola, S-41296 Göteborg,
+Sverige.
+
+4.— 8. juni International Conference on Bootstrapping and Related Techniques,
+
+at Universitat Trier. Informasjon: Prof. Dr. W. Sendler, Universitat
+Trier, FB IV - Mathematik, Postfach 3825, D-5500 Trier, Federal
+Republic of Germany.
+
+11.-15. juni 13. Nordiske Konference i Matematisk Statistik, Odense, Danmark.
+Informasjon: Anders Milhøj, Økonomisk Institut, Odense Universitet,
+Campusvej 55, DK-5230 Odense M, Danmark.
+
+13.-15. juni 7th Annual Quality and Productivity Research Conference at the
+University of Wisconsin, Madison, USA. Informasjon:
+
+T.J. Snod-
+
+grass, Dept. of Engineering Professional Development, 801 Extension
+Building, Univ. of Wisconsin, Madison WI 53706, USA.
+
+2.-6. juli XVth International Biometric Conference, Budapest, Ungarn. Informasjon: XVth IBC Secretariat, Ms Eva Sos, Computer and Automation Institute, Hungarian Academy of Sciences, PO Box 63, H- 1502
+Budapest, Ungarn.
+
+6.-9. aug. American Statistical Association, Joint Statistical Meetings, Ana-
+
+heim, California, USA. Informasjon: ASA, 1429 Duke Street, Alexandria, VA 22314-3402, USA.
+
+13.-18. aug. 2nd World Congress of the Bernoulli Society and 53rd Annual Meeting
+of the Institute of Mathematical Statistics, Uppsala, Sverige.
+
+Infor-
+
+masjon: Lars Holst, Matematiska Institutionen, Chalmers Tekniska
+Högskola, S-41296 Göteborg, Sverige.
+
+19.-24. aug. Third International Conference on Teaching Statistics (ICOTS II),
+Dunedin, New Zealand.
+
+Informasjon:
+
+The Secretary, ICOTS III,
+
+Dept. of Mathematics and Statistics, University of Otago, POB 56,
+
+Dunedin, New Zealand.
+9.-15. sept. COMPSTAT 1990, Dubrovnik, Jugoslavia. Informasjon: Mrs. Vesna
+Mildner, University Computing Center, 41000 Zagreb, Engelsova bb,
+Jugoslavia.
+
+
+
+26
+
+NESTE NUMMER
+Neste nummer av TG vil komme ut i midten av mars. Stoff til bladet må være
+redaksjonen i hende senest 1. mars. Det kan sendes til:
+
+TG v/Ivar Heuch
+Matematisk institutt
+Universitetet i Bergen
+
+Allegt. 55
+5007 Bergen
+
+Telefon (05) 21 28 35 (direkte)
+(05) 21 28 38 (instituttkontoret)
+
+STYRETS ADRESSE
+Post som skal til styret i NSF og ikke til redaksjonen i TG skal sendes til:
+Norsk Statistisk Forening v/ Bent Natvig
+Matematisk institutt, avd. C
+Universitetet i Oslo
+Postboks 1053, Blindern
+0316 Oslo 3
+
+
+
+
+
+
+
+Returadresse:
+
+TG v/Ivar Heuch
+Matematisk institutt
+Universitetet i Bergen
+Allegt. 55
+5007 Bergen
+
+
+

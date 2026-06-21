@@ -1,0 +1,3880 @@
+TILFELDIG GANG
+Nr. 2, årgang &
+Mai 199
+
+Utgitt av Norsk Statistisk Forening
+
+Innhold
+
+Egger statistikerne til strid? Ivar Heuch
+
+Fra formannen i Norsk Statistisk Forening.
+
+Bent Natvig
+
+Den skyldige — en klassisk tragedie om Edda-dikt og en NAVF-autorisert
+“izrebok”.
+
+Hans Olav Egede Larssen
+
+Veien fra Overkommandoen til Berkeley. Et annerledes intervju med
+professor Arnljot Høyland. Ivar Heuch
+
+TG feilinformerer —- Bayes og ICOTS. Ragnar Norberg
+Om beskyldningene mot meg, litt om Bayes og mye om mye
+annet.
+
+Erling Sverdrup
+
+Svar ti! Sverdrup.
+
+Ragnar Norberg
+
+Oss statistikere imellom: Hva skal vi gjøre for å fa fart på
+statistikkfaget? Henrik Dahl
+
+Konsulentvirksomhet som et leddi statistisk utdannelse — noen erfaringer
+fra Chicago.
+
+Per Mykland
+
+Sammendrag av doktoravhandling: MUSTAFA, programmer for analyse av
+multinære feiltrær. Gutorm Høgåsen
+Inside Stanford. Bo Lindquist
+
+Dataøvelseri statistikkundervisningen: Institutt for matematiske realfag,
+Universitetet i Tromsø. Elinor Ytterstad
+
+Integrering av programvare i statistikkundervisningen ved
+Handelshøyskolen BI. Ole Fugleberg
+
+Støtt Scandinavian Journal ot Statistics! Bo Lindquist
+Nytt fra universiteter og høyskoler
+Statistisk Forening i Oslo
+Påminnelse om Det 6. Norske Statistikermøtet
+
+Medlemskap i Norsk Statistisk Forening
+
+
+
+
+
+Egger statistikerne til strid?
+Tilfeldig Gang er i stor grad ment å være et organ for intern meningsutveksling
+mellom norske statistikere. Hvis noen utenfor vår profesjon likevel kaster et blikk
+på dette nummeret, vil det muligens gi inntrykk av at vi utgjør en svært stridbar
+yrkesgruppe. Det begynner bra med formannen i NSF som konstaterer at “jakten
+på de gode poenger bevisst overskygger alle hensyn” hos redaktøren av TG. Så
+tar Hans Olav Egede Larssen et oppgjør med det humanistiske fagråd i NAVF
+og påpeker at en NAVF-autorisert lærebok i lingvistisk statistikk fører til "det
+rene tøv”. Ragnar Norberg understreker at *TG feilinformerer”. Endelig finner
+Erling Sverdrup at han må imøtegå “beskyldninger” som er rettet mot ham i TG’s
+spalter.
+
+I den grad noen måtte føle seg personlig rammet av uttalelser i TG, skal
+
+redaktøren være den første til å beklage forholdene. Det har vært et prinsipp
+i denne redaktørperioden at TG skulle inneholde stoff som kunne anspore til
+diskusjon, og som kunne få leserne til å reflektere over ulike prinsipielle synspunkter. Om man ikke nødvendigvis var enig i alt som ble forfektet, burde man
+tross alt kunne nå frem til større forståelse for oppfatningene i de ulike leirene.
+Med en slik redaksjonell linje blir enkelte meningsnyanser kanskje noe overdrevet,
+men forhåpentligvis vil norske statistikere vite å sette pris på en farverik debatt.
+Det kan likevel være kjedelig hvis misforståelser fører til diskusjoner der debattantene snakker forbi hverandre. Oppstår det slike motsetninger, er det viktig at
+de ulike partene raskt kan enes om hva striden virkelig dreier seg om. Vårt fag
+byr fremdeles på mange åpne grunnleggende spørsmål, og man bør ikke kaste bort
+unødig tid på skinndiskusjoner.
+
+Sammenlignet med andre faggrupper er det trolig lite strid innad blant statistikerne, iallfall når det gjelder den daglige utøvelsen av faget. Utad kan det selvsagt
+ofte virke som om vi egger til strid. Henrik Dahl gir i sitt innlegg i dette nummeret følgende råd: *For husfredens skyld kan det også være klokt av statistikeren
+ikke å markere sin egenart for sterkt.” Dahl har trolig nokså spesielle situasjoner
+i tankene, men prinsippet bør kunne følges generelt i tilfeller der statistikerne
+samarbeider jevnlig med fagfolk med annen bakgrunn. I siste omgang er det
+neppe statistikernes personlige egenart som er avgjørende, eller for den saks skyld
+personlige egenskaper hos medisinere, økonomer, oljefolk eller noe så aparte som
+filologer som benytter statistiske metoder. Hovedsaken må være prinsippene som
+ligger bak de statistiske anvendelsene på andre fagfelt. Særlig viktig må det være
+at brukerne stiller seg åpne for impulser fra våre rekker når de tydeligvis selv har
+forvillet seg inn i et statistisk villniss.
+
+Blir det mye bitter strid på vårt møte på Jeløya 10.-12. juni? Å svare på det er
+
+kanskje litt vanskelig som prediksjonsproblem, men like før redaksjonen avsluttes,
+kommer det inn et nødskrik fra arrangørene. Det er fremdeles mye ledig plass
+på møtet, og vi risikerer en falsk samstemmighet dersom ikke flere av våre kjente
+ugagnskråker viser sin interesse. Hvis noen lurer på om det fortsatt går an å melde
+seg etter fristen — og dette nummeret av TG vil helt sikkert utkomme lenge etter
+den! — bør deres personlige sannsynlighet for velvilje hos arrangørene være ganske
+stor. Redaktøren ser i alle fall frem til en skarp konkurranse om hvem som skal
+bli hans etterfølger.
+
+Ivar Heuch
+
+
+
+FRA FORMANNEN I NORSK STATISTISK FORENING
+
+La meg starte denne spalten med å gi Gyrid Johnsen og Bergensmiljøet en uforbeholden
+unnskyldning. Egentlig hadde jeg registrert, og det med glede, at hun forsvarte sin doktoravhandling ved Universitetet i Bergen før sommeren 1990. Som en nitidig leser av dette
+utmerkede medlemsblad hadde jeg også nøye lest sammendraget av avhandlingen i TG's
+julinummer. Hvordan kunne jeg så utrope Eva Skovlund til første kvinne med doktorgrad i statistikkfaget i siste TG? Grunnen var ikke at Gyrid tok en dr.scient grad og Eva
+en dr.philos grad. Disse gradene er formelt likeverdige og også, så langt jeg har registrert
+innenfor vårt fagområde, reelt likeverdige. Grunnen var rett og slett det som kan kalles festtalersyndromet (alternativt dekanussyndromet) som i jakten på de gode poenger ubevisst
+fortrenger viktig informasjon. Hadde det videre ikke vært for festtalertilhørersyndromet,
+ville jeg blitt gjort oppmerksom på feilen, før jeg sendte mitt innlegg til TG. Og endelig hadde det ikke vært for Bayes-debatt syndromet, der også jakten på de gode poenger bevisst overskygger alle hensyn, hadde redaktøren gjort meg oppmerksom på feilen - i stedet
+for å ruge på den og slippe den løs en måned senere.
+
+Siden Gyrid altså ble forbigått sist, kan jeg fortelle leserne at hun nå er ansatt ved Haugesund Maritime Høgskole og innmeldt i Society of Reliability Engineers, Scandinavian Chapter. Jeg har sikkert ordførande Stian Lydersen med meg i at hun er hjertelig velkommen
+til pålitelighetsfolket.
+
+Det nærmer seg raskt Norsk Statistikermøte på Jeløya 10-12 juni med tilhørende hovedmøte
+i NSF. Etter feilgrepet beskrevet over har jeg selvsagt ikke annet å gjøre enn å ta min
+formannshatt og gå. Det er selvfølgelig hva Bergensmiljøet har lagt opp til. All informasjon
+fra festspillbyen går ut på at statistikerne der brenner av lyst til å overta taburettene i
+styret. Etter all sannsynlighet fortsetter imidlertid Leiv Solheim for å sikre kontinuitet
+i organiseringen av neste års hovedoppgave - det Nordiske møte på Røros. Ryktene via
+e-mail sier også at den mer enn utmerkede redaktør av TG har tenkt å hvile på sine
+laubær i Seattle fra høsten av. Av hensyn til maktfordeling og rotasjon utfordres herved
+Trondheimsmiljøet til å overta denne nøkkelposisjonen.
+
+Ellers har vi nylig hatt styremøte. Det er bare å registrere at det meste nå synes klappet
+og klart for Jeløya møtet. Videoen med Sverdrup er også mottatt. Tilsvarende er arbeidet
+både med organiseringen av, og programmet for, neste års Røros møte i god gjenge. Styret
+er her positive til Steinar Bjerves forslag om å invitere statistikere fra de baltiske land til
+dette møtet. Lokalforeningene i Oslo, Bergen og Trondheim er videre hver bevilget kr.
+3000,- for 1991. Endelig er styret innstilt på at vår forening skal søke om medlemskap i
+International Statistical Institute. Dette er imidlertid en så viktig sak at den vil bli avgjort
+på årets hovedmøte.
+
+La meg til slutt takke for meg i disse spalter, med håp om at viljen til å stille opp for
+foreningen blir like bra i de neste 2 år som i de siste 2. Med en slik vilje er i alle fall
+formannsjobben svært hyggelig.
+
+2. april 1991
+
+Bent Natvig
+
+
+
+Den skyldige — en klassisk tragedie om Edda-dikt
+og om en NAVF-autorisert lærebok”
+Hans Olav Egede Larssen
+
+Men største skylda, det har nå snekker’n
+som laga stæga tå røtne bord!
+Alf Prøysen i *Den skyldige”
+
+Å rangordne diktverk etter relativ andel av et ord eller en ordklasse skulle være
+enkelt — så lenge man bare holder seg unna en NAVF-støttet lærebok i lingvistisk
+statistikk.
+
+Om man først regner ut gjennomsnittlig frekvens over det hele og så rangordner
+etter hvert diktverks positive eller negative avvik fra dette gjennomsnittet, skulle
+rangordenen bli den samme - fortsatt i betryggende avstand fra alle fagbiblioteker
+m.m. hvor nevnte lærebok” måtte befinne seg.
+
+Om man derimot tester om det i hvert diktverk er signifikant” avvik fra
+gjennomsnittet, og så rangordner etter graden av slik signifikans, blir resultatet
+ikke det samme. “Signifikant avvik” kan noen ganger være interessant i den grad
+det tilskrives “bakenforliggende” forskjeller. Men andre ganger kan det meste rett
+og slett skyldes at en minimal forskjell blåses opp ved at materialet er stort, her
+at diktverket er langt og lengre enn langt!
+
+For ca. 10 år siden støttet NAVFs edb-senter for humanistisk forskning utgiv-
+
+else av boken
+
+Charles Muller: Innføring 1 metoder for lingvistisk statistikk.
+Oversatt fra fransk av Kari Fonnes. Universitetsforlaget 1981.
+Mullers spesialitet er klassisk fransk litteratur. Fra dette utgangspunkt viser
+
+han en prisverdig innsatsvilje for bruk av statistisk metode. Dessverre står resultatet ikke i forhold til den ideelle målsetning; det bent frem yrer av feil og uheldige
+formuleringer.
+
+Nå skal det med en gang innrømmes at Muller stiller seg på en Urias-post når
+han vil bruke signifikanstester på materiale som er gitt én gang for alle, på “ikkefornybare ressurser” statistisk sett. Uten skikkelig definisjon av superpopulasjon
+(*Super-Ibsen” m.fl.) kommer mani hvert fall opp i store problemer.
+Det er kanskje derfor han går rett på limpinnen når han finner på å rangordne
+etter grad av signifikans, mer nøyaktig etter det han kaller “normerte avvik”: “Vi
+har allerede gjort oppmerksom på at i de problemene som interesserer oss, dreier
+det seg ikke så ofte om et dilemma mellom å godta eller forkaste en hypotese som
+
+å rangere fenomener fra det mest signifikante til det minst signifikante.” (Muller,
+1981; s. 135).
+
+Og Muller *rangerer” rollene i Corneilles *L"Illusion comique” etter sine “normerte avvik” på andel substantiver. Han finner — interessant nok — at de kvinnelige
+
+rollene har negative avvik, mens alle de mannlige har positive avvik, dvs. mer bruk
+
+
+
+av substantiver. Men han unnlater helt å fortelle oss hva den øvrige rangordning
+egentlig forteller, om den skyldes at substantivbruken er høy, eller at rollene rett
+og slett er store, respektive små.
+
+Eddadikt, datering — og andel “fyllord”
+
+En som dessverre har lest Mullers bok — den eneste lærebok på norski sitt slag
+— er professor Bjarne Fidjestøl. Han har rimeligvis hatt all grunn til å stole pa det
+
+som ikke bare utgir seg for å være en lærebok, men som endog synes garantert av
+
+det NAVF-senter som bl.a. har vunnet anerkjennelse ved å legge Ibsens samlede
+inn på edb.
+
+I Festskrift til Finn Hødnebø 29. desember 1989” hylder han jubilanten med
+artikkelen *Ekspletivpartikkelen som dateringskriterium. Forsøki filologisk statistikk.”
+
+Fidjestøls gode idé er å rangordne de gamle Edda-dikt i tid. Han vil prøve å
+bruke *ekspletivpartikkel”, en urgermansk partikkel som ennu fantes i norrøn dikt-
+
+ning, men som da var blitt redusert til “fyllord” uten sitt gamle betydningsinnhold.
+
+Bruken avtok etter hvert, ifølge den siterte tyske forsker Kuhn fra 27 ganger pr.
+10 sider på 800-tallet til 0,2 pr. 10 sider på 1300-tallet.
+
+En høy andel fyllord skulle etter dette tyde på at Edda-diktet er gammelt; en
+
+lav andel skulle tyde på sen tilblivelse.
+
+Men Fidjestøl får betenkeligheter: *Dersom vi tek eit fragment med berre eit
+par strofer, og det råka til å vere eit fyllord i dei, kunne dei lett kome heilt på topp
+i rankinglista, utan at ein kunne vite om det eigentleg var noko grunnlag for det.
+Men det finst metodar som kan bøte noko på dette, og når ein såleis kan ta med
+også kortare brotstykke, får vi samstundes ei lengre og for så vidt meir interessant
+liste med dikt. Eg har i det følgjande halde meg til Charles Mullers innføring i
+statistikk for lingvistar, og han tilrår i tilsvarande høve at ein tek utgangspunkt
+i såkalla normert avvik frå det ein skulle vente om det var ei heilt jamn fordeling
+(Muller 1981: 135-137, jf. 6g Muller 1977: 52-53).”
+*Normert avvik” — veien til fortapelsen
+Muller definerer
+
+Z = normert
+
+avvik =
+
+2
+
+absolutt avvik
+
+standardavvik
+
+.
+
+Hans begrunnelse er (s. 82) at vi her kan “fa et ‘rent’ mål som er uavhengig av
+måleenhetene”. Og videre i fotnote: “Normere er her brukt i betydningen gjøre
+om til en bestemt måleenhet”. Den operasjonen som består i å gjøre om alle reelle
+avvik til samme enhet, standardavviket, er lik den omregning man foretar når en
+eller annen monetær enhet brukes som basis (franc, dollar,...) for å gjøre summer
+uttrykt i forskjellige myntenheter sammenlignbare.” Mullers egen forståelse synes
+her å være noe mangelfull. Det riktigste som sies her, er sluttparentesen i samme
+fotnote: “(Begrepet "normert avvik” er ikke vanlig i norsk statistisk terminologi
+(0.a.))” — et av de få spor etter at boken faktisk ble forevist statistikere, her Elsa
+Quale.
+
+
+
+Denne størrelsen Z skulle altså være et vidundermiddel som gir mer korrekt
+rangordning enn *ukorrigert” fyllordsfrekvens ved at den samtidig korrigerer for
+
+statistisk usikkerhet som skyldes de korteste diktene.
+
+Dessverre er det ikke så lett å få både i pose og sekk. Med betegnelsene
+z; = antall fyllord i dikt nr. +,
+
+n; = samlet antall ord i dikt nr. 1,
+T:
+
+p; = — = relativ andel fyllord i dikt nr. 2,
+n4
+
+i
+
+DDE
+Dm
+
+p = 2 = relativ andel fyllord i alle diktene samlet,
+får vi for hvert dikt
+avvik i andel = p; —p =
+
+n-mp —
+
+n;
+
+absolutt avvik
+
+— antall ord i diktet ’
+
+samt ifølge Muller / Fidjestøl
+*normert avvik” =
+
+z;—n;p
+Vn p(1 — p)
+
+absolutt avvik
+=
+
+standardavvik
+
+.
+
+Av dette fas forholdstallet
+
+*normert avvik” _
+
+avvik i andel
+
+—
+
+WL
+
+p(1 — p) '
+
+Siden p ikke avhenger av 1 og derfor ikke kan påvirke rangordningen, får vi altså:
+*Normert avvik” = Avvik i andel fyllord - Kvadratroten av diktets lengde - Konstant.
+
+Dersom oppgaven var hypoteseprøvning, nærmere bestemt å teste om de enkelte
+dikts avvik i andel var *utgangskraftige” (i definert forstand), da kunne det være
+av interesse å studere slike avvik hvor diktlengdens kvadratrot var et uttrykk for
+graden av pålitelighet”.
+
+Men brukt som grunnlag for rangordning, ja endog datering, blir dette det rene
+tøv! Når tallverdien av *normerte avvik” øker med diktets lengde, selv om andel
+fyllord er den samme, så betyr dette at et langt dikt blir datert enda tidligere
+hvis det er blitt til tidlig, enda senere hvis det er blitt til sent. Et kort dikt blir
+nærmest uunngåelig datert midt i den aktuelle tilblivelsesperiode, selv om andel
+
+fyllord skulle tilsi meget tidlig eller meget sen tilblivelse.
+
+Et talleksempel — som godt kunne vært reelt — viser hvor galt det kunne ha
+gått Fidjestøl i hans meget prisverdige hopp ut i statistikkens verden når allerede
+
+porselenssporet i ovarennet var lagt etter Mullers meget dårlige råd:
+
+
+
+Tekst
+nr.
+
+Lengde
+i ord
+
+Herav
+fyllord
+
+Andel
+=fyllord
+
+Avvik
+i andel
+
+Rang
+andel
+
+‘“Normert
+avvik”
+
+Rang
+norm. avvik
+
+A
+
+100
+
+10
+
+0,1000
+
++0,0500
+
+1
+
++2,2942
+
+4
+
+B
+
+200
+
+18
+
+0,0900
+
++0,0400
+
+2
+
++2,5955
+
+3
+2
+
+C
+
+1000
+
+68
+
+0,0680
+
++0,0180
+
+3
+
++2,6117
+
+D
+
+10000
+
+559
+
+0,0559
+
++0,0059
+
+4
+
++2,7071
+
+1
+
+E
+
+2000
+
+10
+
+0,0050
+
+-0,0450
+
+5
+
+-9,2338
+
+5
+
+Totalt
+
+13300
+
+665
+
+0,0500
+
+*Diktverk A” har her en andel fyllord på 0,1000, dvs. 10 %, mens tilsvarende
+andel for D er 0.0559, eller bare 5,59 %. Like fullt gir Mullers *normerte avvik” at
+D “dateres” tidligere enn A, med rang 1 mot A’s rang 4. Rekkefølgen av positive
+avvik er, jeg hadde nær sagt: pervertert!
+
+Fornuft og Flaks Forminsker Feil hos Fidjestøl
+
+Fullt så galt går det ikke for Fidjestøl — selv om han på eget initiativ opererer
+
+med “fyllord pr. kortline” istedenfor andel fyllord uten å gjøre oppmerksom på de
+endrede forutsetninger.
+
+Fidjestøl stoler heldigvis ikke helt på at *normerte avvik” vil løse alle problemer. Han tar derfor ikke med de aller korteste Edda-diktene i sin rangordning.
+Selv med variasjon i antall *kortliner” pr. dikt fra 80 til 763, et forholdstall på
+ca. 9,5, så blir kvadratroten av dette ikke mer enn 3,1. Samtidig er han så heldig
+at fyllordsfrekvensen varierer sterkt, fra 0,0039 til 0,0853 pr. kortline, et forholdstall på 21,7 som dominerer så mye over 3,1 at Fidjestøl langt på vei slipper med
+skrekken.
+
+Det tross alt noe ublide nedslaget har likevel ført til en lettere hjernerystelse
+-i resultatene. Det største utslaget er at Håvamål, del 1, “forynges” ved å falle
+ned fra rang 4 til rang 9 blant de 31 Edda-dikt som er tatt med.
+Kapittel 21 i særtrykk — og så ny bok!
+
+I sin sammenligning med Edda-dateringer hos andre forskere bruker Fidjestøl
+
+Spearmans rangkorrelasjon — fornuftigvis som rent deskriptivt mål uten signifikansutsagn. Her er han en lykkens pamfilius som kan støtte seg til Mullers kapittel
+
+21: *Korrelasjon”. Ved gjennomsyn i 1979 fant jeg her bare noen få skjønnhetsfeil.
+Den forenklede behandling av de mange rang-sammenfall (jfr. Siegel) fører i seg
+selv til bare små feil (dvs. økninger) i Edda-korrelasjonene. Med sine 26 sider —
+og langt færre rettelser — kan kapittel 21 utgis i særtrykk!
+
+I sluttavsnittet (21.24) sier Muller endog så kloke ting som at signifikans kan
+skaffes ved å gjenta et forsøk med større antall forsøkspersoner, *500 eller 5000
+elever”. Hvis han hadde filosofert litt videre om hvilken virkning dette ville ha på
+de nye *normerte avvik”, så kanskje Muller selv var kommet til samme konklusjon
+som undertegnede: Sidene 1-167 må omskrives radikalt, ja helst erstattes med en
+ny bok.
+
+Men så har ikke skjedd. Hva er grunnen til en så åpenlys misere?
+
+
+
+*Den skyldige”
+
+Årsaken må søkes i NAVFs humanistiske fagråd og tilknyttede organer. Her
+har man - gjennom to tiår og med ubønnhørlig konsekvens — vendt det døve øre
+til søknader og alle gode råd fra fagstatistikere.
+
+En tid i 1979 så det riktignok lovende ut: Da NAVFs edb-senter for humanistisk forskning ønsket Mullers bok utgitt på norsk, ble to statistikere bedt om
+uttalelse, Elsa Quale og undertegnede. Vi var begge kritiske, Elsa Quale kom med
+fundamental kritikk, selv måtte jeg direkte fraråde at boken ble utgitt.
+Da var våre meninger ikke lenger så interessante, de ble berget som fødte
+en mus: noen detalj-korreksjoner og noen få fotnoter merket o.a. (oversetterens
+anmerkning!).
+
+Boken ble utgitt, og har siden vært et minefelt for alle lingvister som måtte
+få den egentlig så fornuftige idé å bruke statistiske metoder. Særlig gjelder dette
+for yngre lingvister i etableringsfasen, for hvem statistiske feil i hovedoppgave,
+doktoravhandling og/eller artikler kan bety over og ut, at alle forhåpninger om
+vitenskapelig karriere sprenges i tusen biter.
+
+NAVF’s fagråd har helt upåvirket av alt dette fortsatt å si nei til alle søknader
+om støtte til Norges eneste fagstatistiker med erfaring og tilleggutdannelse (grunnfag) i lingvistikk. Mitt forventnings(t)rette estimat er 20 avslag i løpet av de siste
+17 år.
+
+I søknaden for 1991 gjorde jeg uttrykkelig oppmerksom på feilene og farene
+ved Mullers bok — bl.a. under overskriften *Lærebok som vei- eller villeder”. I
+disse trange tider påpekte jeg også risikoen for at *Måneders arbeid og verdifulle
+økonomiske ressurser er bortkastet — ene og alene p.g.a. en upålitelig lærebok”.
+Som botemiddel søkte jeg om midler til statistisk konsulentvirksomhet koordinert
+med å utarbeide en ny lærebok for lingvister /humanister til erstatning for Mullers
+*stæga tå røtne bord”.
+
+Svaret kom nylig: *Ikke støtteverdig”.
+
+Benjamin Disraelis "løgn, grov løgn, statistikk” er altså den eneste form for
+
+statistisk metode som NAVFs humanister finner “stgtteverdig”.
+
+Hvis du i din hverdagsdont
+
+snubler i din horisont,
+véd du, at dit virke kræver
+én som er lidt mindre snæver.
+Kumbel
+
+
+
+Veien fra Overkommandoen til Berkeley
+
+Et annerledes intervju med professor Arnljot Høyland
+Del 1
+
+Ivar Heuch
+
+Som tidligere omtalt i Tilfeldig Gang gikk professor Arnljot Høyland over i
+stilling som NTNF-seniorforsker ved NTH fra 1. september 1990. I årenes løp har
+Høyland latt seg underkaste mange intervjuer. De som fulgte med i sendingene
+fra NRK julaften 1990, kunne på denne måten faktisk oppleve noe så usedvanlig
+som et fjernsynsintervju med en professor i statistikk. Faget selv ble riktignok
+ikke nevnt i programmet, men Høylands innsats som komponist av melodien til
+Julekveldsvisa ble behørig omtalt.
+
+Også vår konkurrent VG brakte julaften et
+
+innslag om dette temaet.
+
+Statistikerne må selvsagt betrakte dette som gratis reklame for faget. For oss
+kan det likevel være rimelig å spørre om ikke andre sider ved Høylands virksomhet fortjener vel så stor oppmerksomhet. For å bøte på disse manglene mente
+redaktøren av Tilfeldig Gang at det burde arrangeres et intervju med professor
+
+Høyland som kompenserte for det ensidige bilde offentligheten kunne ha fått.
+Intervjuobjektet viste seg raskt å være så samarbeidsvillig at det falt naturlig å
+dele intervjuet i to. Den andre delen kommer i neste nummer.
+
+En militær innfallsport
+
+— Hvordan hadde det seg egentlig at du kom i kontakt med faget statistikk?
+— For å kunne forklare det må jeg gå tilbake til 1943, da jeg tok artium. Det
+ble imidlertid ikke noe greie på studiene den høsten, og så ble Universitetet i Oslo
+stengt av tyskerne 30. november. Etter en periode på halvannet år mens jeg lå i
+en slags dekning, ble det endelig fred, og jeg begynte å studere på Blindern høsten
+1945. Planen var å ta matematikk, mekanikk, kjemi og fysikk, med fysikk som
+hovedfag. Jeg begynte med matematikken, etter at jeg først hadde tatt filosofi og
+tegnekurs.
+
+— Hva var det som fikk deg til å fravike denne planen?
+
+— Det kom beskjed om at min årsklasse, altså de som var født i 1924, hadde tre
+måneders militærtjeneste som plikt. Jeg fant ut at det var lurt å prøve å få alt
+unnagjort i en sommerferie. Midt i mai 1946 reiste jeg inn til Krigskommissariatet
+i Oslo og spurte om det gikk an å begynne avtjeningen så snart som mulig, slik
+at jeg kunne få gjort ferdig tjenesten før høstsemesteret startet. Det ble litt
+snakk frem og tilbake. Jeg fikk greie på at det trengtes to rekrutter i Forsvarets
+Overkommando. Det var allerede sendt noen bort dit, men de var kommeti retur.
+Hvis jeg selv ville gå bort og snakke med disse folkene i Overkommandoen, var
+
+jeg hjertelig velkommen til det. Så kunne jeg komme tilbake igjen og si fra om de
+
+
+
+ville ha meg. I så fall var det greit.
+— Så de skulle se om du passet til oppgavene der?
+
+- Jeg forstod ikke hva det dreide seg om, men da jeg kom opp i etasjene i
+
+Rådhusgaten 8, viste det seg at det var avdeling 2 i Forsvarets Overkommando,
+
+FOII, som holdt til der. Det var den gamle etterretningsstaben fra krigen. Jeg
+fikk beskjed om å melde meg for sjefen for 4. kontor, og den sjefen var Erling
+Sverdrup. Han var kaptein.
+
+~— Så han hadde deltatt i dette arbeidet i lengre tid?
+
+- Ja, Sverdrup hadde vært med i kampene i Norge i 1940. Via Arkangelsk og
+USA havnet han i England, og han ble med i denne tjenesten i 6 år til sammen.
+Jeg så på ham, og han så på meg med et skarpt blikk. Så fant han frem noen
+ufullstendige tekster. Jeg ante jo ikke det da, men dette var en analytisk avdeling.
+Noen av testene gikk ut på at jeg fikk se bruddstykker av en tekst, og så skulle jeg
+fylle ut de bokstavene som manglet for å få sammenheng. Jeg fylte nå ut skjemaet
+og leverte og ventet ganske lenge. Så kom Sverdrup og sa: *Det er greit. Han kan
+begynne.” Det var bare å melde fra på Krigskommissariatet.
+Etappevis ligningsløsning
+
+— Så det var i den testen at de andre hadde falt fra?
+
+- De andre var blitt sendt hjem, for Sverdrup var jo ikke interessert i noe
+bud. Han skulle dessuten ha en som kunne regne litt. Da jeg kom tilbake til
+Overkommandoen igjen, hadde de fått tak i den andre rekrutten som Sverdrup
+trengte. Det var aktuar Harald Bastiansen. Han ble senere sjef for Kommunal
+Landspensjonskasse. Vi to fikk som oppgave av Sverdrup å løse 26 ligninger med
+26 ukjente. Harald Bastiansen brukte en Odhner regnemaskin hvor man svingte til
+det sa pling, og så gikk man tilbake et hakk, osv. Jeg var ikke trenet i bruk av den,
+så jeg fikk en elektrisk maskin. Vi brukte eliminasjonsmetoden under løsningen,
+og på hvert trinn ble vi på forhånd enige om hvilken variabel som skulle elimineres
+i neste trinn. Så sammenlignet vi ligningssystemene som vi fikk, og deretter tok
+vi en ny variabel. Vi holdt på i mange uker før vi greide å finne løsningene.
+— Og dette var meningsfylt?
+
+- Ja, antallet 26 kom av at det er 26 bokstaver i det internasjonale alfabetet.
+Dette hadde med analyse av chiffersikkerhet å gjøre. Men hvordan ligningene var
+stilt opp, ante vi ikke. Mye av sommeren gikk med til dette arbeidet. Men ute
+i august sluttet Sverdrup for å arbeide med doktorgraden sin, og nestkommanderende rykket opp. Det var Nils Stordahl. Mine tre måneder begynte å gå mot
+slutten. En dag kom Stordahl høytidelig inn og spurte om jeg ville fortsette frem
+til nyttår hvis jeg ble fenrik. Det fantes ikke noen lånekasse for studenter den
+
+gangen, og jeg trengte pengene, så jeg slo til.
+En blandet karriere
+
+— Det lød ikke særlig militært?
+
+— Nei, men det kom likevel en offiser fra staben og festet høytidelig en stjerne pa
+meg. Det var riktignok en *sivil-militær” stjerne, en flat pyramide. Det var slike
+
+
+
+10
+
+som ble brukt når sivile skulle ha en grad under krigen. Stjernen hadde jeg frem
+til nyttår. Etter hvert ble 4. kontor utbygget videre. Da var Vilhelm Evang blitt
+sjef for Etterretningsavdelingen. Den 1. januar 1947 sluttet jeg og drog tilbake til
+Blindern. Om sommeren gikk jeg opp i matematikk bifag. Deretter begynte jeg å
+lese mekanikk, men da det led litt ut på høsten i 1947, fikk jeg en ny henvendelse
+
+fra Stordahl, med spørsmål om jeg ikke kunne søke en kapteins stilling i Hæren,
+knyttet til hans kontor.
+
+— Så man oppsøkte aktivt de personene som var aktuelle?
+
+- Det var krigens metoder som ennå ble brukt. De ønsket at jeg skulle bygge
+opp *analyseavdelingen”. Jeg syntes ikke dette lød så verst, så jeg sa nå ja,
+sendte inn en søknad og ble litt senere utnevnt i statsråd til kaptein i Hæren.
+Den eneste militære utdannelsen jeg fikk, var at jeg ble sendt opp i Huseby-leiren
+med en tidligere Kompani Linge-mann for å skyte med pistol på noen blinker som
+snudde seg fort. Jeg ble i analyseavdelingen fra mars 1948 og frem til høsten 1951.
+Avdelingen ble bygget opp både med matematikere og språkfolk. Som konsulenter
+hadde vi bl.a. Ernst Selmer og Jan Garwick.
+
+— Det er altså dette som er beskrevet i boken “Svartkammeret”, som kom ut
+på Cappelen i 1989?
+
+- Ja, i boken kan det se ut som om Selmer og Garwick var konsulenter hos
+meg, meni virkeligheten sorterte de nok direkte under Stordahl. De ivret for at
+en skulle anskaffe en elektronisk regnemaskin til Forsvaret. Spørsmålet var hvor
+pengene skulle komme fra. Stordahl tok opp spørsmålet med ledelsen i FO II, og
+det endte med at en kjøpekontrakt ble inngått med Ferranti i Manchester høsten
+1954, omtrent samtidig med at jeg søkte avskjed i Forsvaret og ble tilknyttet
+Forsikringsteknisk Seminar på Blindern. Det tok for øvrig ytterligere tre år før
+maskinen var på plass på Forsvarets Forskningsinstitutt på Kjeller. Den ble døpt
+Frederic, etter daværende sjef for FFI, Fredrik Møller. Jeg vet ikke hvor pengene
+
+egentlig kom fra, men i boken *Svartkammeret” hevdes det at maskinen ble betalt
+med midler etterretningstjenesten disponerte over i utlandet.
+Behovet for et nytt fag
+
+- Fulgte du ellers ditt opprinnelige studieopplegg i denne tiden?
+— I løpet av 1947, 48 og 49 hadde jeg tatt eksameni tre bifag, matematikk,
+
+mekanikk og kjemi. Da kom det imidlertid et nytt reglement for matematisknaturvitenskapelig embetseksamen. Etter det trengte en bare tre bifag og ikke fire.
+Et av de tre bifagene kunne deretter utvides til hovedfag. Siden jeg hadde tenkt å
+ta fysikk hovedfag, hadde jeg planlagt å ta dette som siste bifag. Spørsmålet var
+nå om jeg skulle endre opplegget.
+
+- Denne forandringen måtte da være kjedelig for dem som hadde ordnet seg
+etter de gamle reglene?
+
+- Ja. Noen holdt vel fast ved planene sine og tok fire bifag likevel. For meg
+ble det stadig klarere at vi hadde bruk for statistikk i analyseavdelingen. Jeg
+diskuterte med Stordahl hva vi skulle gjøre med det. Stordahl var egentlig matematiker. Han hadde studert sammen med Selmer, men måtte avbryte studiene
+
+
+
+11
+
+fordi han ble nødt til å rømme til Sverige under krigen. Vi ble fort enige om at
+vi måtte lære oss statistisk teori. Men matematisk statistikk eksisterte ikke som
+
+fag ved matematisk-naturvitenskapelig embetseksamen den gangen. Riktignok ble
+det holdt noen forelesninger i statistikk for aktuarstuderende, men det var relativt
+beskjedent. Etter at jeg hadde fått kontakt med en medstudent som også ønsket
+å ta statistikk, Alf Gudbrandsen, gikk vi til matematikkprofessorene Johansson,
+Skolem og Tambs Lyche med vårt problem.
+
+Matematikkprofessorene ser med blide øyne på faget
+
+— Dere spurte altså om dere kunne ta inn noe i hovedfagspensum fra et beslektet
+fag?
+
+— Nei, vi spurte dem generelt til råds om hva vi burde gjøre. Visa at vi ville ha
+en skikkelig utdannelse i statistikk. Skolem spurte hva vi trengte av matematikk.
+Vi svarte at vi hadde følelsen av at vi behøvde analyse og funksjonsteori, så der
+kunne vi ta samme pensum som de andre hovedfagsmatematikerne.
+— Men ikke geometri, da?
+
+— Johansson sa at vi godt kunne slippe geometrien for hans del, og Skolem gikk
+med på at vi også kunne slippe algebraen og tallteorien. Men funksjonsteorien la
+vi opp, med pensum hentet fra Knopps bøker på tysk, og i tillegg leste vi analyse
+i Goursat. Resten av pensum bestod av Moods bok i statistikk, Cramers bok
+*Mathematical Methods of Statistics”, og dessuten noen spesialforelesninger av
+Reiersøl.
+
+— Så dere måtte stort sett klare dere på egenhånd i det nye faget?
+
+— Det var ingen systematisk gjennomgåelse av stoffet, så vi slet med det så godt
+
+vi kunne sammen. Sverdrup var ennå ikke tiltrådt som professor.
+Esperanto til hovedfag
+
+— Hvordan kom dere i gang med hovedoppgaver?
+
+— Vi gikk hver for oss og banket på hos Reiersøl og sa at vi gjerne ville ha et
+emne for en hovedoppgave. Han var svært opptatt av et spesielt tema den gangen,
+nemlig å karakterisere sannsynlighetstettheter ved å angi differensialligninger som
+tetthetene måtte tilfredsstille.
+
+— Fikk man ut noen spesielt nyttige resultater av det?
+
+- Hvor nyttig det egentlig var, skal jeg ikke si nå. Reiersøl var imidlertid også
+esperantist, og alt han hadde publisert om dette emnet var på esperanto. Så vi
+fikk en liten bok hver, til 25 øre, en nøkkel til esperanto.
+
+— Og det var tilstrekkelig? Det ble ikke som å lese matematikk på russisk?
+— Nei, det var uttrykk som *diferencialaj ekvacioj de specimenaraj distribuoj”,
+
+så man kunne jo gjette seg frem.
+Dobbelt ikke-sentral F
+
+— Hvilke differensialligninger var du opptatt med?
+
+- I min hovedoppgave utledet jeg bl.a. en differensialligning som tettheten
+
+
+
+12
+
+for en ikke-sentral t må oppfylle. Dessuten fant jeg — som statistiker er det jo
+bare å riste på hodet av dette, så jeg skjønner ikke helt at det ble godtatt —
+differensialligningen til tettheten for en brøk hvor både telleren og nevneren er
+ikke-sentralt x?-fordelt.
+— Den fordelingen har jeg aldri vært borte i.
+
+— Nei, den har man vel sjelden bruk for i statistikk. Selve differensialligningen
+tok en hel side og så aldeles forferdelig ut. Men jeg fikk det til. Jeg var ikke så
+sterkt opptatt av hva det kunne nyttes til, annet enn til en hovedoppgave. Det er
+vel ingen andre enn Reiersøl som har gått grundig gjennom produktet. Gudbrandsen fikk en tilsvarende oppgave, men der dreide det seg om differensialligninger
+for karakteristiske funksjoner. Man så på de karakteristiske funksjonene for litt
+spesielle fordelinger og utledet differensialligningene for dem.
+En statistiker på vakt
+
+- Jeg har bestandig innbilt meg at du arbeidet med et eller annet i Forsvaret
+som lå uendelig langt borte fra statistikkfaget.
+
+— Nei, etter hvert som vi lærte mer statistikk, ble det klart at vi kunne gjøre mer
+og mer nytte for oss. Fordi jeg hadde en militær grad, måtte jeg likevel ta stabsvakt
+som alle andre offiserer. Det ville si at man gikk på kl. 16 ved kontortidens slutt,
+
+og så hadde en vakt til kl.8 neste morgen. Alle meldinger av litt dramatisk art
+som kom inn til Forsvarets Overkommando, gikk via vakthavende til ukehavende
+offiser og derfra opp til ledelsen.
+
+— Så du silte det vesentlige?
+
+- Ja, i noen utstrekning. Det første året 1948 var akkurat det året da NATO
+ble opprettet, og det var ganske spennende. Russiske skip gikk ute i internasjonalt
+farvann frem og tilbake mellom Kola og Østersjøen. De ble plottet og fulgt hele
+veien. For alt man visste, kunne de plutselig snu og gå rett inn, slik tyskerne
+hadde gjort i 1940.
+
+— Men det hendte aldri noe slikt?
+
+— Nei, det gjorde ikke det. Vi hadde kontorer under Akershus festning, rett
+nedenfor det kongelige gravkapellet. Bygningen var sikret med alarmanlegg, og
+dersom noen prøvde å bryte seg inn, gikk alarmen. Hvis det skjedde, skulle man
+varsle ukehavende offiser. Så skulle man rykke ut med pistol.
+— Vakthavende offiser alene?
+
+- Ja, når alarmen gikk, oftest midt på natten, måtte vakthavende gå gjennom
+hele bygningen for å prøve å finne ut hva det var. Om en oppdaget noen som
+var i ferd med å bryte seg inn, skulle en først rope, og deretter skyte i bena. For
+en sivilist som meg var dette nokså brutalt. Jeg oppdaget heldigvis aldri noen
+innbrytere. Om vinteren var det svært kaldt av og til, og jeg tror at enkelte av
+alarmene ble utløst av store temperatursvingninger.
+
+Et hovedfagsstudium i matematikk blir avsluttet
+— Hva skjedde etter hovedfagseksamen?
+
+
+
+13
+
+— Gudbrandsen og jeg gikk opp sammen til eksamen høsten 1952, og så vendte
+jeg tilbake til Forsvaret. Der ble jeg i to år, og i mellomtiden gjorde de meg til
+major, så fikk jeg sølvkant også.
+
+- Var det differensialligningene som bidrog til det?
+
+- Nei, dem fikk jeg aldri bruk for. Tambs Lyche sensurerte oppgaven sammen
+
+med Reiersgl, og jeg var glad for at jeg var ferdig. Og så fikk jeg eksamenspapirer
+
+fra fakultetet der det stod matematikk hovedfag.
+— Matematikk?
+
+- Ja, hovedfag matematikk. Det var ingen av matematikerne på Blindern som
+var så smålige at de kom med innvendinger mot det. Det er for øvrig interessant
+å tenke på at Gudbrandsen og jeg vel var de første hovedfagsmatematikere som
+hadde mål- og integrasjonsteori i pensum, riktignok etter Cramers opplegg.
+- Ja, tar ikke Cramer alt sammen på sin egen måte i begynnelsen av boken?
+
+- Han tar utgangspunkt i definisjonen av lengden av et intervall 7, L(:), og
+utvider lengdebegrepet til en ikke-negativ, additiv mengdefunksjon L(S) som er
+definert for en mer generell klasse av mengder S, der L(S) faller sammen med
+L(t) når S =%.
+
+Et revolusjonerende nytt felt av matematikken
+
+— Hadde de vanlige hovedfagsmatematikerne en mer klassisk innrettet analyse?
+- Ja, de leste Goursat. Alfsen og Aubert hadde startet et matematisk seminar
+for hovedfagsmatematikere, og de bad Gudbrandsen og meg om å holde hvert vårt
+foredrag på seminaret. Jeg skulle gi en innføring i målteori, og Gudbrandsen skulle
+komme gangen etterpå og ta for seg integrasjonsteori etter Cramers opplegg.
+— Så dere gav en innføring i dette stoffet for hovedfagsmatematikerne?
+~ Ja, men alle matematikkprofessorene møtte også opp. Skolem reiste spørsmål
+om logikken var i orden i et av bevisene, men jeg var ikke mer nervøs enn at jeg
+argumenterte for at det stemte. Da smilte Skolem på sin litt spesielle måte og sa:
+*Jo, du har visst rett.”
+
+— Hvordan var reaksjonen hos de andre?
+
+- Tambs Lyche var begeistret. Det forstod jeg da jeg hadde følge med ham
+over Tørtberg etterpå. Johansson så ut som han sov, men han fulgte jo som
+vanlig meget godt med. Men for ordinære hovedfagsmatematikere var dette nytt
+stoff.
+Brede kontaktflater
+
+~ Du følte deg ikke isolert i arbeidet i Forsvaret etter at du hadde tatt hovedfagseksamen?
+
+— Nei, vi hadde svært god kontakt med Blindern ved denne avdelingen. F.eks.
+arbeidet Alfsen der en tid, og vi trakk også inn flere andre matematikere som
+konsulenter. Jeg hadde mye å gjøre med styringen av avdelingen, men var også
+med på analysene.
+
+
+
+14
+
+— Men vil du da si at du i praksis var statistiker? Nå spør jeg muligens litt pa
+siden.
+
+- Ethvert språk er underlagt streng statistisk lovmessighet. I norsk språk opptrer f. eks. de enkelte bokstaver med en forbausende regelmessighet. Det analysearbeidet jeg var med på, var i høy grad basert på statistiske resonnementer, så
+i denne sammenheng arbeidet jeg jo som statistiker. Sommeren 1954 kontaktet
+Sverdrup meg og fortalte at Ragnar Frisch skulle være rådgiver for den indiske
+regjering i et helt år. Frisch disponerte en vit. ass.-stilling, som Sverdrup hadde
+fått låne i denne perioden. Han spurte meg om jeg ville ha denne stillingen på
+Blindern.
+
+— Var det så sterk forbindelse mellom miljøene på Universitetet?
+
+— Reiersøl hadde tidligere forelest sannsynlighetsregning for sosialøkonomer,
+og jeg hadde inntrykk av at også Sverdrup hadde nær kontakt med Frisch og
+Haavelmo. Såvidt jeg husker, var Frisch annenopponent da Sverdrup disputerte
+for doktorgraden.
+
+— Var det valget du gjorde mellom Forsvaret og Blindern helt opplagt?
+— Nei, jeg talte på knappene, for i mellomtiden hadde jeg som major kommet
+i lønnsklasse 17, som den gang var ganske bra. Som vit.ass. gikk jeg ned til
+
+lønnsklasse 10. Det hadde visst aldri hendt før i Staten at noen var gått ned slik,
+hvis de ikke var blitt avskjediget. Men jeg sa ja og begynte som vit. ass. høsten
+1954. Når jeg nå forteller noen at jeg var i Forsvaret i studietiden, tror visst de
+fleste at Forsvaret bare finansierte meg, og at jeg kunne studere hele tiden, men
+slik var det altså ikke. Jeg måtte jobbe fullt ut for lønnen jeg fikk.
+Støtte for studenter i nød
+
+— Hva slags undervisning ble du involvert i på Blindern?
+
+- Jeg underviste hovedsakelig aktuarstudentene. På den tiden var det imidlertid to andre som fikk samme ordning med matematikk hovedfag som Gudbrandsen
+og jeg hadde hatt. Det var Johan Galtung og Kristen Nygaard.
+
+— Det er ikke akkurat navn som man i dag umiddelbart forbinder med statistikkfaget?
+
+— Kristen Nygaard var visst mest interessert i stokastiske prosesser den gangen.
+Som vit. ass. fikk jeg en del å gjøre med dem mens de forberedte seg til muntlig
+
+eksameni statistikk. En dag kom begge til meg og spurte om jeg kunne hjelpe dem
+med fundamentalsetningen, som Sverdrup var så opptatt av i variansanalysen.
+— Og da forelå den setningen allerede med sin relativt lange, omhyggelige formulering?
+
+- Ja da. Så to eller tre dager før de skulle opp til muntlig eksamen, gjennomgikk
+jeg hele fundamentalsetningen for dem. Det var bare de to som satt i auditoriet.
+Det hele ble utelukkende gjort som en gest, siden de bad om det. Men neste dag
+kom Kristen Nygaard alene tilbake og spurte om jeg ikke også kunne gi et praktisk
+eksempel på bruk av setningen.
+
+— Så du hadde ikke tatt opp den siden av saken ved samme anledning?
+
+
+
+15
+
+- Nei, jeg hadde gjennomgått teorien og beviset, og da sa de at de skjønte alt
+sammen fint. Men nå ville altså Nygaard likevel ha en illustrasjon. Jeg tok det
+eksempelet som går igjen overalt, med griseraser og dietter, og jeg presiserte for
+ham at avgjørelsen om det skulle være samspill eller ikke i modellen, var uavhengig
+av hvor mange observasjoner det var i cellene. Man måtte ikke blande sammen
+
+modell og analyse.
+Et sentralt eksamensspørsmål
+
+- Fikk dette temaet noen betydning for eksaminasjonen?
+
+- Da de skulle opp i muntlig, gikk jeg og satte meg på bakerste benk og hørte
+på. De fikk samme spørsmål, begge to. Det var formodentlig slik at Galtung var
+inne først, for jeg skulle tro det gikk alfabetisk. Og hva fikk de? Jo, fundamentalsetningen.
+
+— De hadde vel sine forutanelser?
+
+- Jo, det gikk jo for så vidt greit for begge to. Men så kom spørsmålet om
+samspill eller ikke. Her kom Galtung til å si at om modellen skulle omfatte samspill
+eller ikke, det var avhengig av om man hadde flere observasjoner i hver celle eller
+bare én. Sverdrup kjørte ham litt hardt der.
+
+— Gikk det bedre med den andre kandidaten?
+
+~ Nygaard brukte eksempelet med griseraser og dietter. Han breiet seg og fikk
+
+alt det der riktig. Sverdrup var meget fornøyd.
+— Han spurte ikke om hvor det kom fra, da?
+
+- Nei, men Kristen Nygaard var også fornøyd og inviterte Liv og meg på middag
+
+på Dronningen etterpå.
+Endelig eget fag
+
+- Var det enda flere statistikere som seilte under matematikkens flagg?
+— Nei, den neste som kom etter dette, var Else Sandved, og hun tok statistikk hovedfag. Selve innføringen av statistikk som eget fag kom i 1955, hvis jeg
+husker riktig. Spørsmålet om innføring av faget statistikk hadde vært diskutert i
+
+fakultetet, og der gikk fysikeren Egil Hylleraas imot.
+
+— Det var han med lærebøkene i teoretisk fysikk?
+
+- Akkurat. Det ble sagt at han mente at statistikk var noe man lærte seg på
+en ettermiddag hvis man hadde bruk for det. Man skulle ikke plage andre med
+dette faget. Statistikk ble innført ved fakultetet likevel, og Sverdrup var fornøyd.
+Et norsk læreverk i sikte
+
+— Og da ble det startet opp en mer regulær undervisning?
+
+— Sverdrup foreleste det stoffet som senere ble til bøkene hans. Det var min
+jobb som vit. ass. å referere forelesningene. Jeg hadde omtrent ikke jule- eller
+sommerferie de årene, for i de periodene arbeidet Sverdrup dobbelt så hardt. Han
+skrudde opp tempoet kraftig når det ikke var undervisning.
+— Måtte du ta deg av detaljer?
+
+
+
+16
+
+— Det var slik at Sverdrup foreleste, og jeg refererte. Det står vel også på de
+stensilerte heftene at de var nedtegnet av meg. Sverdrup gikk gjennom referatene
+før de ble maskinskrevet. Av og til var han misfornøyd med formuleringene som
+
+jeg hadde brukt, og da ble de rettet opp.
+
+— Jeg har bare så vidt sett disse heftene i bokhandelen da jeg begynte å studere.
+Det gjorde et sterkt inntrykk på meg at'det så ut til å være så forferdelig mange
+hefter. Det var så enormt mye man måtte lese i dette ukjente faget statistikk.
+— Jo, men alt var ikke med i bifagspensum. Det var bl.a. et lite hefte som het
+*Sannsynlighetsfordelinger” som ikke var med der. Det omfattet multinomiske
+
+forsøk, multinormal fordeling og karakteristiske funksjoner.
+
+— Fantes det overhodet ikke utenlandske læreverk som kunne vært aktuelle den
+
+gangen?
+
+— Det fantes vel, men Sverdrup ville utforme opplegget på sin egen måte. Da
+det led ut på våren i 1957, hadde jeg vært vit. ass. i tre år. Da sa Sverdrup at
+
+jeg burde reise ut. Etter Sverdrups råd søkte jeg NTNF-stipendium for å dra til
+University of California i Berkeley.
+Også tradisjoner må utvikles
+
+— Det var allerede den gangen det store stedet?
+
+— Det var stedet for ham, for Lehmann og Scheffé var jo der. Sverdrup satte
+dem begge meget høyt. Så fikk jeg svar tilbake fra NTNF om at jeg hadde fått
+rekrutteringsstipendium, men NTNF hadde av alle ting bestemt at jeg skulle
+dra til England uten å si noe om hvor i England de mente jeg skulle være. Da
+jeg fortalte dette til Sverdrup, ble han temmelig irritert og ringte med én gang til
+NTNF for å spørre hva meningen var. Resultatet ble at jeg kunne dra til Berkeley,
+men bare med europastipendium, på 16000 kr. USA-stipendiene var på 21 000 kr.
+— Sa det ordnet seg på en måte?
+
+— Jo, høsten 1957 drog jeg til Berkeley, med beskjed om å komme tilbake til
+Norge etter ett år. Riktignok kom jeg godt i gang i løpet av den tiden, men det
+viste seg at jeg hadde et relativt dårlig grunnlag i matematikk, sammenlignet med
+andre Ph.D.-studenter. Det varte ikke lenge før jeg traff Peter Bickel, som jeg
+kom til å arbeide sammen med. Han var supermatematiker, med en helt annen
+matematisk bakgrunn enn jeg.
+
+— Og det var virkelig nødvendig å ha en sterk matematisk bakgrunn?
+- Ja, ellers var det vanskelig å komme i gang. Etter et år skrev jeg tilbake til
+NTNF og spurte om jeg ikke kunne få enda et år. Jeg fikk forlenget stipendiet, men
+etter to år fikk jeg beskjed fra Sverdrup om at det var opprettet en lektorstilling
+“for meg” fra 1. august 1959.
+
+— Og da var det bare å pakke?
+
+- Ja, det var litt dumt, for da hadde jeg fått gjort unna de fagene som alle
+
+måtte ta for en Ph.D. i statistikk i Berkeley.
+
+
+
+17
+
+Ulike råd fra Norge og California
+— Så du tok straks sikte på en Ph.D.?
+
+- Ja, jeg gjorde det, selv om NTNF frarådet meg å gjøre noe slikt. Statistikkprofessorene i Berkeley mente derimot at det var mye bedre å arbeide mot en
+grad. “Freeriders” som var på forelesning når det passet dem og gikk når de ville,
+var ikke særlig populære.
+- Det var holdningen i Berkeley?
+
+— Blackwell som var “graduate adviser” da jeg kom dit i 1957, sa at jeg burde
+
+registrere meg som Ph. D.-student. Da ville jeg få et fasttømret studieprogram og
+mye lettere bli medlem av statistikkmiljøet. Jeg fulgte Blackwells råd. De første
+obligatoriske emnene jeg måtte ta, var Loéves forelesninger i sannsynlighetsregning
+og Lehmanns forelesninger i hypotesetesting.
+
+— Begge deler får en straks til å tenke på lærebøker som nå betraktes som
+
+klassikere.
+
+- Ja, Lehmann foreleste hypotesetesting etter noen stensiler som senere gav
+
+opphav til hans kjente lærebok “Testing Statistical Hypotheses”. Der ser du
+også at jeg har hatt en stor ære: I forordet blir jeg takket av Lehmann fordi jeg
+gikk gjennom mesteparten av oppgavene. Lehmann krydret forelesningene med
+oppgaver, og så prøvde han dem på meg først.
+
+- Jeg har alltid synes at Lehmann i stor grad kjørte videre på ny teori i de
+
+oppgavene, og at det var lite med illustrerende eksempler.
+
+- Ja, det stemmer. Det hendte at jeg — etter å ha jobbet dager og netter med en
+av hans oppgaver uten å greie å finne løsningen - gikk til ham og sa at jeg trodde
+oppgaven var uløselig. Da svarte han bare: *OK, så kutter vi den.” Han så bort
+fra at jeg hadde holdt på å ta livet av meg for å få det til. Da jeg reiste hjem til det
+lektoratet på Blindern i 1959, var den første utgaven av hans hypotesetestingsbok
+allerede kommet ut.
+
+(Fortsettes)
+
+
+
+18
+
+TG feilinformerer — Bayes og ICOTS
+Herr redaktør!
+
+I forrige nummer av Deres blad forekommer to feilaktige utsagn, som jeg
+
+finner det nødvendig å beriktige.
+
+I referanselisten til undertegnedes artikkel om Bayes star det at J.O.
+Bergers bok er utgitt på Wiley. Dette er helt galt, herr redaktør! Boken er
+
+utgitt på Springer.
+
+Som om ikke dette var nok, heter det i undervisningsutvalgets lille notis
+om ICOTS-møtet på New Zealand at Norge ikke var representert, trass i
+iherdige forsøk på å skaffe reisepenger. Galt igjen, herr redaktør, faktisk
+dobbelt galt! Jeg var der. Og mine forsøk på å skaffe reisepenger var ikke
+iherdige.
+
+I det referat fra ”gode kilder på New Zealand”, som undervisningsutvalget kolporterer, heter det at ”none of the invited speakers really made you
+sit up”. Jeg holdt et invitert foredrag, og etter hva jeg kunne se — og jeg
+kan forsikre om at det var en overskuelig forsamling — var det ingen som
+
+gikk og la seg mens jeg snakket. (Jeg medgir at det var kl. 8 om morgenen
+lokal tid, tilhørerne var utsovet og hadde nettopp fått kaffe, og at jeg selv
+var for trett (jet-lag) til å følge nøye med på om alle de fremmøtte virkelig
+satt oppreist.)
+
+Vel, kritikk til side. I ICOTS-møtets to-binds kongressberetning finnes
+referater fra sesjonene og manuskriptene til de presenterte foredrag. Et
+invitert foredrag somi alle fall fikk meg til å sitte oppreist en stund, var
+
+Dennis Lindleys om Bayes. Han kritiserte her klassisk statistikk på det
+grunnlag at den ikke tar i betraktning all viten vi har. Som eksempel tok
+han for seg modellering av restlevetiden til en x år gammel forsikret person,
+
+og hevdet at man må ta hensyn til eventuell tilleggsviten om personen, f.eks.
+helsetilstand. Men da sovnet også jeg.
+
+Ragnar Norberg
+
+
+
+19
+
+Om beskyldningene mot meg,
+litt om Bayes og mye om mye annet
+Erling Sverdrup
+
+Ragnar Norberg er på ville veier i sin artikkel i siste nummer av TG (1991,
+
+nr. 1). Slik er det når man forveksler N og S på kompasset, da havner man langt
+
+fra der man skulle være. Det gjelder hans omtale av min artikkel i TG (1990,
+nr. 1).
+
+Jeg anbefaler i min artikkel som en mulighet å bruke en Bayes-konstruksjon
+som gir forslag til en statistisk metode (se side 8, linje 8, samt side 7, linje 6
+nedenfra i min artikkel).
+
+Norberg sier at jeg avviser en Bayes-konstruksjon (se side 15, linje 14 i hans
+artikkel).
+
+Jeg anbefaler en analyse av den avledede metode ved hjelp av ytelsesfunksjonen, med eller uten tapsfunksjon (se side 8, linje 2 og linje 5, samt tabellen på side
+7 i min artikkel).
+
+Norberg sier at jeg utelukker bruken av en tapsfunksjon (vektfunksjon, se
+side 15, linje 8 i hans artikkel).
+
+Det er virkelig frustrerende å bli utsatt for helt feilaktig fremstilling av hva
+jeg har sagt. Det kan jo tenkes at det finnes personer som bare leser Norbergs
+artikkel og ikke min.
+
+Det er beklagelig at TG's sider skal brukes til den slags polemikk som Norberg
+legger opp til. For ikke helt å miste ansikt er jeg nødt til å svare. Til alle leserne
+av TG vil jeg si: Jeg er ikke så dum som Norberg utgir meg for å være. De som
+tror på denne forsikring fra meg, behøver ikke å lese det jeg skriver nedenfor, men
+da bør de heller ikke lese Norbergs artikkel (eller ta den alvorlig hvis de allerede
+er kommet i skade for å lese den).
+
+Jeg siterer fra min TG-artikkel side 8: “Mitt hovedsynspunkt er altså at ytelsesfunksjonen må være det grunnleggende i inferensteori, enten det dreier seg om
+estimeringsteori (samplingfordeling) eller hypoteseprøving (styrkefunksjon), eller
+noe annet. Da er gjennomsnittsrisikominimering bare en berikelse som ikke burde
+være kontroversiell blant statistikerne. Men gjennomsnittsrisikominimering blir
+til Bayes prinsipp, hvis man begrunner en metode ut fra en gitt a priori fordeling som man tror på.” (Kursiveringene er gjort her og nå, de var ikke gjort i
+TG (1990, nr. 1).) Gjennomsnittsrisiko er det samme som Bayes-risiko. Første
+kursiverte setning kunne derfor hatt denne ordlyden: “Da er Bayes-konstruksjon
+bare en berikelse som ...”, m.a.o. en sterk anbefaling av Bayes-konstruksjon som
+en mulighet. Ikke på noe sted i artikkelen *avviser” jeg Bayes-konstruksjon, slik
+som Norberg påstår på side 15, linje 14. Tvertimot, jeg anbefaler den. Heller
+ikke finner jeg på noe sted i min artikkel noe utsagn som kan misforståes som en
+
+
+
+20
+
+avvisning av en Bayes-konstruksjon. Norbergs påstand er grepet ut av luften og
+
+er helt uforståelig. Jeg har aldri hørt om noen statistiker som *avviser” Bayes-
+
+konstruksjon. Hva skulle det bety?
+
+Det kan da ikke bety noe annet enn at man forkaster den metode som fremkommer, likegyldig om en analyse av den ved hjelp av ytelsesfunksjonen viser at
+den er god, dvs. etter vanlige kriterier er god. Da ville man jo måtte forkaste alle
+statistiske metoder. Man kan jo nesten alltid finne en a priori fordeling relativt
+til hvilken en statistisk metode er Bayes (i en viss forstand).
+Det kan nok være forskjellige oppfatninger blant ikke-Bayesianere om Bayeskonstruksjoner. Noen vil anbefale dem. Andre vil kanskje finne dem lite fruktbare.
+Men å avvise dem? Det må da være tøv. Jeg kan ikke tillegges en slik oppfatning.
+En tkke-Bayestaner kan altså gjerne være positiv til en Bayes-konstruksjon
+(konstruksjon ved kredibilitetskriteriet). Det som kjennetegner Bayestanerne er
+at de mener at statistisk inferens skal skje ved hjelp av et kredibilitetskriterium
+basert på ena priori fordeling som gir uttrykk for en vurdering av hvor sannsynlige
+de forskjellige verdier av parameteren er. Dette er Bayes prinsipp.
+
+En ikke-Bayesianer setter ytelsesfunksjonen Ø(A,0) i fokus. En statistisk
+metode analyseres ved hjelp av den. I den forbindelse er det ofte naturlig å innføre
+en tapsfunksjon (vektfunksjon) og studere risikofunk ionen, som er et karakteristikum for ytelsesfunksjonen. Dette siste har jeg tuct som en selvfølge i min
+TG-1990-artikkel. At bruken av ytelsesfunksjon skulle utelukke bruk av risikofunksjonen, forstår jeg ikke (se Norbergs artikkel fra nederst side 14 til øverst side
+15). Selvfølgelig skal man bruke en vektfunksjon L(6,d) når aidaaa), det er
+
+;6), se lig-
+
+ningene (1) og (2) i min TG-1990-artikkel, samt ou eksempel a a. 6 til 7,
+L(@
+givende, og man studerer ytelsen ved hjelp av r(6; 6) = f L(
+hvor jeg nettopp bruker en risikofunksjon.
+
+De to påstander fra Norbergs side at jeg, 1) avviser Bayes-konstruksjon, 2) ikke
+
+vil bruke vektfunksjon (side 15, linje 7), er altså grovt uriktige.
+
+Min anbefaling av ytelsesfunksjonen skulle altså implisere at jeg forkaster
+
+bruk av risikofunksjon. At dette er meningsløst, kommer særlig klart frem ved
+
+punktestimering, hvor ytelsesfunksjonen er samplingfordelingen for estimatoren,
+
+og risikofunksjonen er variansen (evt. bruttovariansen) for estimatoren. Men (for å
+
+komme helt ned på det elementære nivå) denne varians er jo variansen i samplingfordelingen, altså et karakteristikum for denne. I eksempelet i min TG-artikkel ser
+jeg nettopp på forventet tap (altså variansen) i ligningene (11) og (12), og jeg studerer det numerisk i tabellen på side 7. Øverst på side 8 sier jeg at *For Gauss var
+det ikke nok å minimere 3 (Y; — 3, 2:;9;)?. For ham var det viktig å studere sam-
+
+plingfordelingen (ytelsesfunksjonen, risikofunksjonen) for 6.” M.a.o. man studerer
+
+samplingfordelingen (ytelsesfunksjonen) gjennom å studere variansen (risikoen).
+Hvorledes Norberg etter dette kan tro at jeg ved å fremheve bruken av ytelsesfunksjonen forkaster bruken av risikofunksjonen er meg en gåte. Hans spørsmål
+nederst på side 14: *Hvordan kan disse sammenligninger foregå?” har et meget
+
+enkelt svar: Gjerne ved hjelp av risikofunksjonene (variansene, bruttovariansene).
+
+
+
+21
+
+Spørsmålet om studiet av ytelsesfunksjonen med eller uten tapsfunksjon har det
+
+aldri falt meg inn er noe prinsipielt problem. Det har fremfor alt ingen sammen-
+
+heng med om metoder er Bayes-konstruert eller ikke. Det kan vi derfor diskutere
+uavhengig av Bayesproblemet. Jeg kan ikke gi noen regel for når studiet skal skje
+direkte ved bruk av ytelsesfunksjonen (Norberg, side 14 nederst). Jeg vet bare at
+det kan gå godt selv om antall parametre er stort og antall desisjoner er mang-
+
+foldig, gjerne uendelig. Slike studier har vært meget vellykkede. Det kan rikelig
+dokumenteres. Klassisk er Scheffés studium av sin metode for multiple sammen-
+
+ligninger i Biometrika (1953). Det gjelder lineære kontraster i variansanalyse, altså
+uendelig mange desisjoner. En lignende studie gjør Hjort i SJS 1988, side 259-271.
+Han ser på glatte kontraster i en mer generell sammenheng, og han sammenligner
+den generaliserte Scheffés metode med en metode som bruker Bonferronis ulikhet.
+I min artikkel i TG nr. 2, juli 1990, side 8-9, gir jeg et eksempel på *direkte”
+studium av ytelsesfunksjonen, som skulle være overbevisende nok. I en artikkel
+i SJS (1990), side 115-134, gir jeg et eksempel på et meget omfattende studium
+av en ytelsesfunksjon, se tabellene på side 123, 124, 125 og 126. Se særlig kom-
+
+mentaren til tabellen øverst på side 124, som viser at studier av ytelsesfunksjoner
+kan være meget givende, selv med mange parametre og et mangfoldig desisjonsrom.
+
+En avhandling fra Norsk Regnesentral av Erik Mohn er også et meget godt
+eksempel på bruk av ytelsesfunksjonen direkte. Der sammenlignes forskjellige
+metoder til valg av regressorer.
+
+Som sagt, dette har intet med drøftelsen av Bayes prinsipp å gjøre. Heller
+ikke har det noe med Bayes-konstruksjon å gjøre. Det kunne like godt vært
+
+Likelihoodkonstruksjon (Troverdighets-konstruksjon) som skulle vurderes.
+Man behøver naturligvis ikke bruke noen standard konstruksjon i det hele tatt.
+
+Wilcoxon-testen presenteres uten bruk av noen standard konstruksjon. De første
+kapitlene i Lehmanns bok om ikke-parametriske metoder er et glimrende eksempel
+
+på bruk av ytelsesfunksjonen til å analysere en metode (Wilcoxon-testen). (Ja,
+
+ja, Norberg, jeg vet at det er et to-desisjonsproblem.)
+
+Ragnar Norbergs artikkel i TG er på den annen side et glimrende eksempel
+på å bruke av Piet Heins taktikk: *Å dutte sine motstandere meninger på, hvis
+dumhet alle kan forstå.”
+
+La meg gi en siste illustrasjon. Jeg kommer til slutt i min artikkel med uttalelsen *at man istedenfor å bruke Bayes bør studere ytelsesfunksjoner idet man
+(subjektivt) veier betydningen av de forskjellige kombinasjoner (A, 6) av desisjon
+og parameter. Men kredibilitetsmetoden som konstruksjonsmetode vil alltid være
+viktig.” Denne klare uttalelse får Norberg til å bemerke:
+*Sverdrups siste setning, hvor han går inn for kredibilitetsestimatorer, er
+
+gåtefull på bakgrunn av at han like i forveien har avvist bruken av Bayeskonstruksjonen.”
+
+Hvor står det at jeg avviser bruken av Bayeskonstruksjoner? Det er nok meget som
+blir *gåtefullt” for Norberg hvis han fortsetter med sine fortolkningskunster. Jeg
+har grundig redegjort for begrepene i min artikkel i TG fra midt på side 7 til midt
+
+
+
+22
+
+på side 8. I den ovenfor siterte uttalelse brukes ordet *Bayes” som forkortelse
+for "Bayes prinsipp”. Det er jo nettopp det som er oppe til diskusjon. Det er
+også åpenbart av sammenhengen at det er “Bayes prinsipp” jeg tenker på. Det
+er nemlig bare en annen betydning av forkortelser, nemlig *Bayes konstruksjon”,
+hvilket ville gjøre min uttalelse fullstendig tøvet og selvmotsigende. Det liker
+Norberg. Den slags ordkløveri liker ikke jeg. Det finnes mange ord som har vidt
+forskjellig mening alt etter sammenhengen.
+
+For å oppsummere mitt syn: Jeg kan bruke en a priori fordeling til å lage en
+Bayes-konstruksjon, men denne konstruksjon må analyseres ved hjelp av ytelsesfunksjonen som enhver annen statistisk metode. En slik holdning gjør meg ikke
+til halv-Bayes eller kvart-Bayes, den gjør meg til ikke-Bayes. Men den medfører
+at jeg ser med positiv interesse på den forskning omkring Bayes-konstruksjonen
+som foregår i Blindern-miljøt. (En avhandling av Hjort i siste nummer av Annals
+
+om Bayes-konstruksjon i en ikke-parametrisk situasjon er uhyre interessant.)
+
+En annen ting til slutt: Jeg skisserer innledningsvis det generelle desisjonsteore-
+
+tiske opplegg slik som det pleier å bli presentert. Det skulle ikke være provoserende
+på noen måte, og det var ikke min mening å lansere noe nytt. Desisjonsfunksjonen 6(A|X) har provosert Norberg. Det ble i 1950—0-årene publisert arbeider
+i Annals om situasjoner hvor man oppnår ikke-randomiserte løsninger selv om
+utgangspunktet er randomiserte desisjoner, slik som Norberg demonstrerer det i
+sin TG-artikkel. Jeg har også gått inn for å synliggjøre alle variable, altså også de
+som representerer randomisering. (Det gjorde jeg i mine forelesninger i Aarhus i
+1968.) Men jeg synes ikke dette hører hjemme i debatten om Bayes prinsipp. Det
+vil føre debatten langt ut på viddene, og leserne vil spørre hvilken sammenheng det
+er. Jeg vil derfor heller ikke svare på spørsmålet til meg om strengen og terningen
+ved denne anledning. (Å legge ut om konveksitet og Cauchy-kompletthet vil være
+malplassert.)
+
+Jeg synes jeg må si stopp et sted. Norberg har allerede trukket debatten langt
+bort fra hovedsaken (Bayes prinsipp) ved sin polemikk om ytelse og tapsfunksjon.
+
+
+
+23
+
+Svar til Sverdrup
+Det står ikke noe sted i mitt innlegg at Sverdrup avviser bruk av tapsfunksjon (L) og risikofunksjon (p). Jeg konstaterer bare at han ikke vil veie
+risikoen med en vektfunksjon (G) for å komme frem til den endelige beslutning. Jeg har brukt uttrykket vektfunksjon konsekvent gjennom innlegget
+
+slik at forveksling med tapsfunksjon ikke skulle være mulig.
+Mitt synspunkt er: Desisjonssituasjonen krever at det treffes en og bare
+en beslutning. Hvis dette valget skal begrunnes eksplisitt innenfor rammen
+av modellen, må det innføres et kriterium som ordner alle beslutninger og
+dermed gjør det mulig å finne en som er best. Ett mulig kriterium av denne
+typen er den veiede risiko, Bayes prinsipp.
+
+En kommer ikke frem til en ordning ved å studere risikofunksjonen eller tapsfordelingen eller (enda mindre summariske funksjoner av) ytelsesfunksjonen. Dette argumentet er ikke avhengig av en oppkonstruert premiss
+som sier at Sverdrup bare vil studere hele ytelsesfunksjonen og ikke risikofunksjonen, og den som vil lese mitt innlegg i sammenheng, med en åpen
+og rimelig innstilling, vil se at jeg ikke har skrevet noe slikt. Piet Hein-gruk
+og utsagn om fortolkningskunster returneres hermed til avsenderen. Jeg ser
+imidlertid at min formulering ”...har avvist Bayeskonstruksjonen” var upresis; det skulle vært ”Bayes-kriteriet”, men også det burde være klart av
+sammenhengen.
+
+Jeg vet at Sverdrup er åpen for å vurdere alle desisjonsregler uansett
+hvordan de er konstruert. Jeg er også helt med på at det kan være gode
+grunner for ikke å redusere vurderingen av reglenes egenskaper ned til en
+endimensjonal størrelse, men heller studere forskjellige aspekter av reglenes
+ytelsesfunksjoner, f.eks. risikofunksjonene i hele deres forløp. I det hele tatt
+
+er det mange forskjellige slags situasjoner statistikere kan stå i, og de leder
+til forskjellige betraktningsmåter. Rene beslutningsproblemer er ikke alt.
+Men de er der, og de krever sine egne betraktninger. Når Sverdrup vil føre
+det hele tilbake til den tradisjonelle sammenligning av statistiske metoder
+basert på studier av styrkefunksjoner o.]., og ikke vil ta det siste skritt og
+definere et kriterium som leder til en regel som den beste, så forblir han
+ubesluttsom og har ikke forholdt seg til beslutningsproblemet.
+Ragnar Norberg
+
+
+
+24
+
+Oss statistikere imellom:
+
+Hva skal vi gjøre for å få fart på statistikkfaget?
+Henrik Dahl
+
+Hvor står vi i dag?
+
+Det er min faste overbevisning at undervisning på høgskolenivå bør overlates
+til fagfolk med solid utdannelse i faget det undervises i. Denne utdannelsen må
+i alle fall ligge på hovedfagsnivå. På offisielt hold har jeg aldri sett at noen har
+gått imot dette synet.
+
+Det er imidlertid et trist faktum at det i Norge ikke utdannes nok statistikere
+til at all undervisning i statistikk på høgskolenivå kan gis av statistikere. At
+en da som nødløsning må bruke fagfolk med en solid bakgrunn i andre fag som
+matematikk og økonomi som erstatning, er vel ikke så unaturlig. Men at det drives
+undervisning i statistikk på høgskolenivå av folk med en bakgrunni statistikkfaget
+som ikke ville holde til undervisningskompetanse i ungdomskolen (der det gis slik
+undervisning i dette skoleslaget, f. eks. på Fiji), synes jeg er mer enn betenkelig.
+Statistikerne har noe av skylden selv for dette. Etter hvert bør vi få utdannet
+flere statistikere som er så interessert i undervisning at de ikke lar seg friste av
+de bedre lønnsforholdene i industri og annen virksomhet. Da må det bli regelen
+og ikke unntaket at statistikkundervisning på elementærnivå gis av personer som
+
+både har et solid studium i faget bak seg, og som helst også har praktisert som
+statistikere.
+
+Stort sett er statistikerne ved distriktshøgskolene knyttet til institutter for
+matematiske fag. Der fører de en anonym tilværelse og vil rimeligvis av omverdenen oppfattes som matematikere, men det bør det bli slutt på. (Det gjelder
+ikke tilknytningen, men anonymiteten!)
+
+For husfredens skyld kan det også være klokt av statistikeren ikke å markere sin
+egenart for sterkt. Allikevel er nok matematikermiljøene mer forståelsesfulle for
+statistikkens egenart enn f.eks. kjemi- eller samfunnsvitermiljøene. Der ser man
+statistikeren helst som en regneassistent og et skjold mot kritikk fra fagkolleger,
+når en uheldig forsker er tatt for usømmelig omgang med data.
+
+All matematikervelvilje kan imidlertid ikke bortforklare det faktum at det å
+utføre statistikk er en profesjon på linje med den bilmekanikere, tannleger, advokater og praktiserende leger driver. Dette er i liten utstrekning tilfelle i matematikk. Selv såkalte *anvendte matematikere” kan tillate seg å holde en sikker
+avstand til all ugreien i den virkelige verden, og de henter også det meste av
+inspirasjonen til sin virksomhet i fagtidsskrifter snarere enn i egenhendig innsamlet
+empiri. Ikke alle statistikere er heller så lystne på *blodferske” data, men tvert
+imot nærmer de seg data med *en viss sky forsiktighet”, som professor Sverdrup
+så treffende skriver i innledningen til Lov og tilfeldighet, bind I.
+
+Gjennom sin profesjonelle virksomhet må statistikeren på en helt annen måte
+føre en dialog med problemer i en ikke alltid like velordnet virkelighet. Til de
+
+
+
+25
+
+fleste matematiske problemer finnes det en anerkjent korrekt løsning, som det
+overveiende flertall av fagfolk i matematikk godtar uten reservasjon. Man skal ikke
+ha lest myei statistisk faglitteratur, f.eks. TG, for å se at dette ikke er tilfelle i
+
+statistikk. Selv autoritative oppslagsverk som Encyclopedia of Statistical Sciences
+inneholder ferske eksempler på faglige disputter. Professor Sverdrups utmerkede
+
+stykke “Frequency interpretation” i dette oppslagsverket gir et interessant bilde
+av en slik faglig diskusjon.
+
+Modellering av en situasjon i den virkelige verden omfatter mange uhumske
+
+overlegninger, som nok kunne få hårene til å reise seg på hodet til mange matematikere. I enkelte tilfeller er nok forskrekkelsen berettiget. Dette tilsier at stat-
+
+istikere, og de som underviser dem, snarere enn å være dårligere skolert enn andre
+fagfolk, heller burde ha en grundigere utdannelse, gjerne med innlagt praksis.
+Om dette ble gjennomført, ville det ytterligere hemme utdannelsen av statistikere, så det er neppe en løsning på dagens problemer. Situasjonen kan ligne litt
+på den i Det ville vesten, der enhver person med en tilstrekkelig skarp kniv ble
+ansett som kvalifisert som kirurg.
+
+Jeg tror at en bedre markedsføring av statistikkfaget, slik Norsk Statistisk
+Forening har lagt opp til de siste årene, på litt lengre sikt vil bedre situasjonen.
+Jeg synes det er besynderlig at det gis tilleggslønn til dataeksperter for å lokke
+folk fra næringslivet til undervisningssektoren, mens slike utspill ikke har vært på
+tale for statistikere. Hovedårsaken til dette er nok at statistikere oppfattes som
+
+matematikere, som det en stund har vært rikelig av.
+Konsulentoppdrag
+
+Det er også et tankekors at konsulentoppdrag, som en statistiker utfører for en
+fagmann i et empirisk fag, der statistikeren har hatt hovedansvaret for modellformulering og utvikling av metodikk, kan gi empirikeren doktorgrad, mens statistikeren må utføre faglig nybrottsarbeid for å få anerkjennelse som statistiker.
+Dette kan være en av hovedgrunnene til at så få norske statistikere engasjerer seg i konsulentoppdrag. Det synes ikke å være vanskelig å få betalt for slik
+virksomhet, om man ikke er så uheldig å sitte i en stilling der betaling for ekstraarbeid ansees som kriminelt. At enkelte smarte personer har klart å omgå dette
+problemet, og endatil har prestert å bli tildelt doktorgrad i fag der de mangler
+grunnutdannelsen, er imponerende, men hører til unntakene.
+
+En annen måte å få godtgjort for konsulentarbeid er å bli medforfatter. Jeg
+har personlig fått flere slike tilbud, men har en beklemmende følelse av at dette
+mindre er tenkt som en vennetjeneste til statistikeren, enn som en snedig bruk av
+*skjold-effekten”, som er nevnt ovenfor.
+
+En merker seg at flere av våre bedre statistikere har fått ledende stillinger i
+
+anvendte fag, som de ikke la hovedvekten på i sin egen grunnutdannelse.
+Heldigvis har vi fått et kjærkomment tilskudd av fremragende fagfolk fra andre
+
+fagområder, som har latt seg engasjere av statistikkfaget. Disse utgjør en viktig
+del av eliten av norske statistikere. Statistikkmiljøet i Norge kan med andre ord
+oppfattes som en emigrasjons/immigrasjons-prosess. Om vi hadde fått inn litt
+flere *fødsler” i prosessen, ville det være fint.
+
+
+
+26
+
+Til slutt et hjertesukk av mer lokal karakter:
+
+For tre år siden valgte en av de mest lovende studentene som jeg har hatt i den
+
+i
+tidenjeg har vært ved Agder Distriktshøgskole, å forsøke å ta hovedfagseksamen
+statistikk ved Universitetet i Oslo. Med en ballast på bare 6 vekttall delvis brukerstatistikk fra ADH (som er vårt maksimale tilbud), ble hun heldigvis velvillig mottatt i Oslo-miljøet. Der fikk hun tilbud om å supplere sin førsteavdeling samtidig
+som hun fulgte hovedfagsundervisningen. Hun tar forhåpentlig hovedfagseksamen
+våren 1991.
+
+Det hører med til historien at hun er lærerutdannet, gift med en lærer, og at
+de har tre viltre gutter i skolepliktig alder. Som en forstår, har denne familien
+
+med to studielån ingen spesielt sterk økonomi. At de da permitterer fruen for
+å ta hovedfagseksamen, som bare gir noen få lønnstrinn over lærerlønn, viser at
+statistikkfaget har et ikke så lite markedsføringspotensial. Personlig beskjedenhet (?) forbyr meg å røpe hvem som har drevet markedsføring i dette tilfellet.
+At det norske samfunnet ikke verdsetter dette, er ille. At det ikke i det minste gir et klekkelig stipend for en ny kandidat i et fag som sårt trenger det, gjør
+meg harm! Særlig gjelder det når en ser hvordan penger øses ut til *sysselsettingstiltak” av tvilsom verdi for elevene, men som derimot gir kjempefortjenester
+til foretaksomme *kursentreprenører”.
+
+Hva om Norsk Statistisk Forening kastet seg inn med et etterutdannelsestilbud i statistikk for ledige akademikere? Det er allerede en viss kompetanse på
+dette området, noe det vellykkede etterutdannelseskurset for lærere ved ingeniørhøgskolene viser.
+
+Jeg stiller meg til disposisjon for fremtidige tiltak av dette slaget.
+
+Konsultentvirksomhet som et ledd i statistisk utdannelse
+— noen erfaringer fra Chicago
+Per Mykland
+
+Department of Statistics, University of Chicago
+
+Det er i økende grad vanlig at amerikanske statistikk-institutter søker å gi sine
+Ph.D.-studenter en viss anvendt erfaring. I hovedsak blir dette gjennomført via
+såkalte *consulting programs”, hvor studentene får prøve sin statistiske viten på
+små prosjekter brakt inn av forskere ved andre institutter.
+
+Slike *consulting programs” har stort sett det felles at de representerer en
+slags symbiose mellom statistikernes og *kundenes” interesser. Konsulenttjenesten
+
+blir avertert internt innen universitetet, og det er stort sett ingen mangel på
+forespørsler om hjelp. I de fleste tilfellene betaler klientene intet for statistikernes
+tjenester. Dette gjør det på den annen side lettere å begrense studentenes arbeid
+
+
+
+27
+
+til ting som er interessante i utdannelsesøyemed. Man unngår på den måten
+
+oppgaver som er trivielle eller repetitive.
+
+Jeg er for tiden med på å drive konsulenttjenesten ved University of Chicago,
+
+og jeg skal konsentrere meg om å beskrive hvordan den fungerer her. Andre
+
+universiteter med lignende opplegg er Berkeley, Seattle og Stanford (og mange
+andre).
+
+Konsulenttjentesten er administrert av to akademisk ansatte som formidler
+kontakten mellom forskere med data og studentene som skal analysere dem. En
+av oss er også med på et initielt møte mellom klient og konsulenter. Hvis det
+der viser seg at det dreier seg om en datastruktur som studentene kan takle på
+
+egenhånd (ved hjelp av regresjon, generaliserte lineære modeller, ANOVA e. dels
+
+blir prosjektet som regel overlatt til dem for videre analyse og flere mgter med
+klienten. I andre tilfeller fortsetter vi å være sterkere involvert i analyseprosessen.
+Etter at analysen er utført (og av og til også mens det pågår), blir den presentert
+
+av de to konsulentene i et ukentlig møte hvor alle studentene (i prinsippet) er til
+stede. Det er der mulighet for kommentarer og forslag til andre analysemetoder.
+På den måten har studentene mulighet for å se en rekke anvendelser av statistiske
+metoder.
+
+*Consulting” er en obligatorisk del av utdannelsen her. Alle studentene blir
+tildelt prosjekter, og alle forventes å være tilstede på de ukentlige møtene hvor
+prosjekter blir presentert. Dette skiller oss fra de fleste andre institutter, hvor
+*consulting” er et kurs som man kan melde seg på. (Det er f. eks. tilfellet i Berkeley,
+Seattle og Stanford). Bortsett fra det er opplegget stort sett det samme ved andre
+universiteter.
+
+Enkelte steder holdes det også undervisning eller seminarer i konsultentvirksomhet. Det er f. eks. tilfellet i Seattle. Deltakerne i dette kurset gjennomgår kritisk tidligere konsulentrapporter. Det fokuseres også på effektiv kommunikasjon
+med klienten, og det blir bl.a. vist video-opptak av møter mellom konsulenter og
+klient. Kurs av denne typen kommer sannsynligvis til å bli mer og mer vanlige
+
+(så sent som for et par dager siden fikk jeg en reklame i posten for video-kassetter
+med filmer av konsulentmøter), og jeg regner med at vi før eller siden kommer til
+å innføre et slikt kurs her i Chicago og.
+
+Fordelen ved at *consulting” er obligatorisk, er at alle studentene til en viss
+grad blir utsatt for anvendt statistikk. Det blir også en sterkere del av den lokale
+*studentkultur”: konsulenttjenestens ukentlige møte er den eneste klassen som
+alle studentene tar. Den typiske arbeidsmengde som et prosjekt representerer for
+en student er ca. 3-7 timeri tillegg til møter med klienten. Vi prøver å sørge for
+at hver student får utføre 2-3 prosjekter pr. år. For de fleste studentene er derfor
+den totale tid som blir brukt på konsulentvirksomhet ganske liten.
+
+Studentenes forhold til konsulentvirksomheten varierer selvsagt en del. De
+mest teoretisk orienterte studentene opplever nok av og til anvendt statistikk som
+et ork, mens de mest anvendt orienterte har tendens til å bruke alt for mye tid
+på konsulentprosjekter og alt for liten tid på teoretisk forskning. Majoriteten ser
+imidlertid ut til å tjene på denne delen av utdannelsen.
+
+Det er ikke bare studentene som har utbytte av konsulenttjenesten, den er
+
+
+
+28
+
+også av verdi for de ansatte. Jeg har selv lært meget om anvendt statistikk i den
+tiden jeg har vært med på å lede tjenesten. For enkelte kan “consulting” være
+
+bestemmende for deres videre karriere. En av mine kolleger, Augustine Kong,
+fant en genetisk anvendelse for sin sannsynlighetsteoretiske forskning gjennom
+konsulenttjenesten (se f.eks. [1]). En annen, Peter McCullagh, ble interessert i
+generaliserte lineære modeller gjennom den samme tjenesten. Noen av datasettene
+i boken *Generalized linear models” [2] skriver seg også fra denne tiden. Det
+
+gjelder f. eks. salamander-eksperimentet (kap. 14.5 i annen utgave).
+*Consulting” kan selvfølgelig overdrives, for ansatte som for studenter. Inntil
+
+tidlig i 80-årene ble konsulenttjenesten ledet av kun en akademisk ansatt, som
+hadde ansvaret for hele driften. Dette var vanligvis en nyutdannet *assistant professor”, som ikke fikk for mye tid til å tenke på mer teoretiske problemer. Kun de
+sterkeste overlevde dette; de aller fleste arbeider nå som anvendt statistikere. Den
+nåværende deling av arbeidet på to ser imidlertid ut til å virke tilfredsstillende.
+Klientene kan av og til by på problemer. Vi hadde en Ph.D. student inne i
+november som trengte en statistisk analyse for å få avhandlingen sin godtatt. Han
+ringte meg den 12. november og hadde planlagt å disputere den 19. november. Vi
+løste faktisk problemet hansi tide.
+
+Mer vanlig er det at klienter kommer som har foretatt omfattende eksperimenter, men eksperimenter som ikke inneholder den informasjon som er nødvendig
+for å trekke konklusjoner. Kontrollgruppe mangler for eksempel. Dette er likevel
+unntakene. De aller fleste klientene som vi har kontakt med, har rimelige problemer og fornuftige datasett. Det kan også være en utfordring å presse informasjon
+ut av dårlige data.
+
+En spesielt gledelig ting er at prosjektene kommer inn fra mange forskjellige
+fagfelt. Det er sannsynligvis ikke overraskende at den største kunden er medisin
+
+og biologi (ifjor 40 % av alle prosjekter), men mange andre felter er representert — naturvitenskap, sannfunnsvitenskap, psykologi, osv. Et prosjekt dreiet seg
+
+f.eks. om aksjehandel i Østindiakompaniet i London i 1712. Et annet prosjekt
+hadde som formål å forutsi når vårt lokale universitetsbibliotek vil slippe opp for
+plass. Et prosjekt søkte å fastslå kostnadene ved å katalogisere alle bøker utgitt
+i Britisk India i årene 1867-1900. Et prosjekt sammenlignet formen på skjelettet
+til urmennesket *Lucy” med skjelettet til forskjellige nålevende etniske grupper.
+En konsulenttjeneste er noe meget givende.
+Referanser
+
+[1] Kong, A. Efficient methods for computing linkage likelihoods of recessive
+diseases in inbred pedigrees. Genetic Epidemiology 8 (1991) no. 2, to appear.
+[2] McCullagh, P. & Nelder, J.A. Generalized linear models, 2. utgave. Chapman
+& Hall, 1989.
+
+
+
+29
+
+MUSTAFA, programmer for analyse av multinære feiltrær
+Gutorm Thomas Høgåsen
+
+Norsk Regnesentral
+
+Sammendrag
+Jeg vil i det følgende presentere deler av min dr.scient.-avhandling MUSTAFA, Programs for MUlt:STAte Fault-tree Analysis, utført ved Matemat-
+
+isk institutt, avdeling C, Universitetet i Oslo.
+
+Oppgaven er innenfor felt-
+
+et pålitelighetsanalyse, men erfaringene mine med parallellisering vil ha et
+bredere publikum.
+Hensikten med oppgaven var todelt:
+1. Lage et godt verktøy for analyse av multinære systemer.
+
+2. Utnytte tilgjengelig hardware (standard arbeidsstasjoner) til å løse et
+problem i parallell på en slik måte at andre brukere ikke ble forstyrret.
+Artikkelen vil fokusere på introduksjonen av det multinære feiltreet og
+på nytten av programmene i
+
+MUSTAFA.
+
+1. Noen multinære referanser
+
+I pålitelighetsanalyse er det et viktig problem å finne sannsynligheten for at
+et gitt system funksjonerer. Eksempler på systemer kan være fly, oljerigg,
+rørledningssystem og kjernekraftverk.
+
+Et relatert problem er å finne systemets tilgjengelighet, sannsynligheten
+for at systemet funksjonerer hele tiden i [0, t].
+I klassisk pålitelighetsanalyse (binær teori) kan systemet ¢ ha to mulige
+tilstander: 0 og 1. Siden systemet er en funksjon av sine komponenter,
+skriver vi $ = Ø(X1... Xn), der X1,..., Xn er tilstanden til systemets komponenter.
+
+Et viktig bidrag i analysen kom fra Fussel og Vesely [1] i 1972. Det
+baserte seg på begrepene minimale stier og kutt. En sti er en samling komponenter som sikrer at systemet funksjonerer. En minimal sti er en sti som
+ikke kan reduseres. Tilsvarende defineres minimale kutt; en minimal samling
+
+komponenter som til sammen sørger for at systemet er sabotert.
+Det viste seg fort at mange av systemene man ville analysere i praksis
+
+var for komplekse til å regne eksakt på. Ved hjelp av begrepene minimale
+stier og kutt ble det derfor utviklet metoder for finne det nest beste: Øvre
+og nedre grenser for systemets tilgjengelighet. De beste grensene man har
+stammer fra Universitet i Oslo ved Bent Natvig.
+
+På begynnelsen av 80-tallet fødtes det en ny gren av pålitelighetsanalysen, den multinære teorien, der systemet og dets komponenter kan beskrives
+med mer enn to tilstander.
+
+
+
+30
+
+To hovedgrener utviklet seg: Den som modellerte systemets tilstander
+
+kontinuerlig (Block og Savits), og den som modellerte systemet diskret!
+
+(Butler, Griffith og Natvig). Den sistnevnte leiren har hatt størst suksess,
+og det er definisjonene fra [4] som er brukt i avhandlingen
+
+MUSTAFA.
+
+De beste grensene for systemets (u)tilgjengelighet fra det binære tilfell-
+
+et ble generalisert og forbedret i [2],[5] og [6]. Imidlertid er ikke multinær
+analyse blitt den suksessen man kunne ha ventet.
+
+De tunge brukerne av
+
+pålitelighetsanalysen (f.eks. oljeselskapene og kjernekraftsindustrien) har
+ikke har vært villige til å ta skrittet ut i de nye modellene.
+
+Dette har
+
+nok delvis kommet av at det ikke finnes verktøy i form av programvare til
+
+å utnytte den eksisterende teorien.
+
+2. Feiltrær
+
+Rundt 1970 ble feiltreet introdusert ved de store amerikanske selskapene
+
+Boeing (best kjent for fly) og Bell (best kjent for telenettet i USA). Man
+trengte en effektiv måte å representere et stort system på. Det man gjorde
+
+var å dekomponere systemet ved å se på hva som kunne få det til å feile. Et
+feiltre kunne se ut som følger:
+
+Figur 1: Et lite feiltre
+ENTEN
+
+OG
+
+9: Systemet
+
+ENTEN
+
+Moduler (sammensatte komponenter)
+
+|
+
+PET
+|
+
+Cy
+
+C2
+
+C3
+
+c4
+
+Basishendelser (enkle komponenter)
+
+Figur 1 vil for eksempel modellere et system som feiler enten når en
+strømgenerator (venstre gren) eller et pumpesystem feiler. Videre vil generatoren feile når både hovedmotoren c; og reservemotoren c feiler. Pumpesystemet feiler når det enten er feil på det elektriske anlegget cg eller på ventilsystemet c4.
+
+Generaliseringen av det binære feiltreet er relativt rett fram: I stedet
+for at nodene i treet bare har to tilstander, sier vi at de kan ha mange.
+
+Det betyr tilsvarende at det som var binære funksjoner før (OG, ELLER,
+
+2-UT-AV-3), nå blir mer generelle diskrete funksjoner.
+
+For å kunne utnytte den eksisterende teorien fant jeg det nødvendig
+å redusere klassen av systemene jeg ser på til det jeg kaller monotone
+multinære feiltrær: Disse kjennetegnes ved at alle involverte funksjoner er
+ikke-avtagende, og ved at alle komponenter skal ha felles dårligst tilstand,
+og felles beste tilstand. Kravet om monotoni betyr at reparasjon av en komponent ikke skal kunne skade systemet, mens kravet om felles endepunkter
+
+— i tilstandsrommet bare er et normeringsspørsmål.
+1] praksis med et moderat antall tilstander.
+
+
+
+31
+
+3. MUSTAFA-programmene
+
+MUSTAFA består av tre relativt store programmer
+
+1. cretre. (create tree) (Lager et tre)
+
+2. minipath. (minimal path sets) (Finner stier og kutt)
+3. bounds. (Finner grenser for system-tilgjengeligheten)
+3.1. cretre
+
+Programmet cretre hjelper brukeren til å forklare datamaskinen hva slags
+
+system han har. Det sjekker utførlig? at det treet som er blitt tastet inn
+dekkes av den teorien som programmene minipath og bounds bruker.
+cretre godtar temmelig generelle nodefunksjoner. Det tar seg av passende
+avrunding dersom den gitte (kontinuerlige) funksjon produserer ulovlige til-
+
+stander for treet.
+
+En del ting kan ikke cretre sjekke: For å regne ut grensene for systemets
+tilgjengelighet, må en del forutsetninger om komponentenes innbyrdes av-
+
+hengighet? være oppfylt. Disse kan i enkelte tilfeller sjekkes av programmet
+bounds, men er som oftest overlatt som en vanskelig oppgave til systemets
+
+bruker.
+
+3.2. minipath
+Grensene for systemets tilgjengelighet er funksjoner av de minimale stiene
+
+og kuttene til systemet. Det er ingen triviell oppgave å finne disse stiene og
+kuttene. Imidlertid har jeg vært overrasket over hvor mye mer komplisert et
+multinært tre er å analysere enn et binært. Metoder for å finne de minimale
+
+stiene og kuttene i et multinært monotont feiltre er utførlig beskrevet i
+oppgaven min, og implementert i programmet minipath.
+
+3.3. bounds
+
+Programmet bounds produserer de endelige resultatene. Gitt de minimale
+
+stiene og kuttene funnet av minipath* samt informasjon om påliteligheten
+
+til komponentene i det aktuelle tidsintervallet, vil bounds finne grenser for
+
+systempåliteligheten.
+
+Informasjonen om enkeltkomponentene består av to deler: Den innbyrdes
+avhengigheten (eventuelt assosierthet?), og tilgjengeligheten til komponent-
+
+ene sett på som isolerte deler.
+298 langt det lar seg gjøre.
+SUavhengighet, assosiativitet.
+
+“Til en viss grad er bounds istand til å finne disse stiene selv, ved å utnytte parallellitetsverktøyene til msnspath.
+
+5 Assosierthet er en spesiell form for positiv korrelert avhengighet mye brukt i
+pålitelighetsanalyse.
+
+
+
+32
+Avhengighetsdelen er som vanlig den vanskeligste å kontrollere:
+
+Det
+
+kreves enten at de marginale tilstandsprosessene til komponentene er uav-
+
+hengige i tid, eller at den simultane sannsynlighetsfordeligen for modulene
+
+og modulenes komponenter alle er assosiert i tid.
+rimeligvis overlates til brukeren av systemet.
+
+Disse problemene må
+
+Sjekkingen av komponentenes assosierthet er vanskelig med mindre kom-
+
+ponentenes tilstand kan beskrives som en markovprosess over tid. Dersom
+
+dette er tilfellet, finnes det et greit teorem av Hjort, Natvig og Funnemark(3]
+som gir en tilstrekkelig betingelse for assosierthet ved hjelp av overgangs-
+
+sannsynlighetene. Dette resultatet blir brukt av bounds, som sjekker om
+komponentene er assosiert i tid dersom det er nødvendig og mulig.
+La nå T være et tidsintervall og la h;(T) være sannsynligheten for at
+
+systemet @ fungerer tilfredsstillende under hele T.
+
+(Tilfredsstillende kan
+
+velges ved at man f.eks. forlanger at det skal skal være minst i den 3. beste
+
+tilstand gjennom hele T).
+
+La systemets komponenter være %j,...,%n.
+
+Brukeren oppgir h;(T),
+
+sannsynligheten for at komponentene fungerer tilfredsstillende i hele intervallet. Disse kan enten være gitt eksplisitt, eller implisitt ved å spesifisere
+at komponentenes tilstand er en markov-prosess med gitte overgangsintensiteter.
+
+Den eksisterende teorien gir oss grenser I og u,
+
+lø(T) < hg(T) < ug (T),
+som er funksjoner av komponentenes tilgjengeligheter. For å finne uy(T)
+trenger man min ug(t), t € T; bounds finner disse effektivt ved å undersøke
+om komponentens tilstand er blitt stasjonær.
+
+4. Parallellisering
+MUSTAFA er i stand til å utnytte flere UNIX-maskiner i samme nett i
+parallell: En sjefsmaskin splitter problemet opp i mindre biter, og setter de
+
+andre maskinene i nettet til å løse delproblemer for seg. Dette blir gjort på
+en slik måte at
+
+MUSTAFA kan utnytte regnekraften til arbeidsstasjonene
+
+rundt om i nettet slik at det omtrent ikke merkes for arbeidsstasjonenes
+“eiere”. Det var her to problemer:
+
+e Maskinene må kunne *snakke sammen”.
+
+e Problemet må kunnet deles opp i biter som kan løses uavhengig av
+hverandre.
+
+Siden våre maskiner kjører operativsystemet Unix, hadde jeg tilgang på
+verktøyet RPC, Remote Procedure Call. Dette er et temmelig slagkraftig
+
+verktøy for å sette i gang jobber automatisk på andre maskiner. RPC finnes
+på tre nivåer: Jo dypere nivå, jo vanskeligere å bruke, men desto kraftigere.
+For at minipath skulle kunne sette forskjellige maskiner til å tygge på ulike
+deler av treet, måtte jeg til med det dypeste og mest omstendelige laget av
+RPC.
+
+Det finnes mange alternativer til RPC. RPC ble valgt hovedsaklig fordi
+RPC finnes på mange ulike maskiner, og en er derfor ikke avhengig av å
+kjøpe maskiner fra en bestemt leverandør for å få MUSTAFA til å fungere.
+
+
+
+33
+
+Den praktiske gjennomføringen av konseptet går ut på at jeg har pro-
+
+grammert en sjef (klienten) som gir ordre, samt et slaveprogram (tjeneren).
+Slaveprogrammet startes på mange maskiner i nettet, man gir beskjed til
+sjefen hvor disse slavene finnes, og sjefen utnytter slavene så godt den kan.
+Idéen kunne godt ha vært ført lenger enn jeg har gjort: Slik det er
+i dag, må klienten og slavene dele et felles dataområde. Dersom denne
+begrensningen ble fjernet (noe som er enkelt), kunne man faktisk bruke
+
+slaver over hele verden. RPC gjør det mulig allerede i dag å *kommandere”
+
+maskiner over hele verden som er knyttet sammen via satellitt.
+Dessverre er det med datamaskiner som med folk: Dersom det bare er
+småtteri som skal gjøres, er det lettere å gjøre arbeidet selv, enn det er.
+å få andre til å gjøre det. Derfor skal det ganske store problemer til for
+at gevinsten med denne form for parallellisering blir betydelig. De små
+eksemplene som ble kjørt greide sjeldent å redusere regnetiden med mer enn
+50%.
+
+Parallelliseringsmekanikken er bygd opp på en slik måte at klienten vet
+hva som er kraftigere slaver, og hva som er svake slaver: Klienten vil altså
+prøve å gi de tunge oppgavene til de sterke maskinene.
+
+5. Konklusjon: Nytten av MUSTAFA
+Det finnes i dag lite kunnskap om hvordan man best modellerer multinære
+
+systemer. Den viktigste grunnen har vært at en med håndkraft kun har
+greid å modellere trivielle systemer; fram til i dag har f.eks. valget av
+systemets tilstander vært et viktig og håndverksmessig problem.
+
+MUS-
+
+TAFA har med sin store familie av strukturfunksjoner og sine automatiske
+tilstands-tilpasninger gjort både modellerings- og regneprosessene mer effektive.
+
+Den største gevinsten ved MUSTAFA vil forhåpentlig bli at brukere av
+pålitelighetsanalyse begynner å benytte multinær teori i større grad enn før,
+og derved kan gi uerstattelig tilbakemelding til forskningsmiljøene.
+
+Men også grunnforskningen tror jeg vil kunne utnytte
+
+MUSTAFA. Det
+
+er store utfordringer i multinær teori; min erfaring er at forståelsen av
+multinære systemer gjør et byks framover så fort en har mulighet for hurtig
+
+å avkrefte teorier eller oppdage trender ved hjelp av eksperimentering. Til
+slutt følger noen eksempler på dette:
+
+Mot slutten av oppgaven dukket det opp så mange gode idéer til forbedringer av de allerede eksisterende grensene at det ble rent frustrerende:
+
+“state of the art” forandret seg daglig. Disse idéene (som naturligvis ble
+implementert) dukket opp p.g.a. den intimiteten både jeg og de andre i
+
+pålitelighetsanalysegruppa fikk ved eksemplifisert multinær analyse.
+En hovedfagsstudent ved avdelingen, Hans Wilhelm Mørch, fant i en
+case-studie et system der det viste seg at modulær dekomposisjon av systemet ga opphav til dårligere grenser enn dem man fikk dersom man ikke
+splittet systemet. Dette var et svært overraskende resultat i og med at det
+er kjent at for et fast tidspunkt vil det alltid lønne seg å moduldekomponere
+systemet.
+
+
+
+34
+
+Referanser
+
+[1] Fussel J. B., Vesely W. E. A methodology for obtaining cut sets. American Nuclear Society Transactions 15, 262-263, (1972).
+
+[2] Funnemark E., Natvig B. Bounds for the availabilities in a fized time
+interval for multistate monotone systems. Adv. Appl. Prob. 17, 638-665
+(1985).
+
+[3] Hjort N. L., Natvig B., Funnemark E. The association tn time of a
+Markov process with application to multistate reliability theory. J. Appl.
+Prob. 22, 474-480 (1985).
+
+[4] Natvig B. Multistate coherent systems. In Encyclopedia of Statistical
+Sciences, Vol. 5, eds. N. L. Johnson and S. Kotz. Wiley, New York,
+732-735 (1985).
+
+[5] Natvig B. Improved bounds for the availabilities in a fized time interval
+
+for multistate monotone systems. Adv. Appl. Prob. 18, 577-579 (1986).
+
+[6] Natvig B. Strict bounds for the availabilities in a fized time interval for
+multistate monotone systems. Submitted to Scand. J. Statist. (1990).
+
+Inside Stanford
+Bok om “bootstrapping”
+
+Bradley Efron (Stanford), som foreleste NSF’s etterutdanningskurs i “bootstrapping” i 1985, og som er kjent som metodens *oppfinner”, er godt i gang med
+
+å skrive en bok om emnet sammen med Robert Tibshirani (ex Stanford). Utkast
+til første halvdel av boken ble brukt som lærebok i forbindelse med et elementzrt
+kurs i emnet gitt vinteren 1991.
+
+Efron kan fortelle at det nok vil ta en del tid før boken foreligger i sin endelige
+form. I tillegg til den elementære innføringen i emnet nevnt ovenfor, skal boken
+også inneholde en mer avansert del beregnet på lesere med en del matematikkkunnskaper.
+
+Undertegnede har lest det foreliggende utkast og er imponert over hvordan
+Efron og Tibshirani makter å få fram idéene ved statistisk inferens generelt og
+*bootstrapping” spesielt, uten å måtte ty til spesielt avansert matematikk og et
+stort begrepsapparat.
+
+
+
+35
+
+Efron mener da også at innen 10 år vil måten elementærkurs i statistikk foreleses på, være totalt *flipped over” i forhold til i dag. Det vil bli lagt mye mer vekt
+på deskriptive og data-analytiske teknikker. Teknikker som *bootstrapping” og
+*cross-validation”, som vi regner som videregående, vil for studentene virke mye
+mer intuitive og appellerende enn de parametriske t-tester og kjikvadrat-tester vi
+propper dem med i dag.
+
+En liten sidebemerkning til slutt: Mens *bootstrapping” i utgangspunktet er
+ment som en teknikk for å la datamaskinsimuleringer erstatte kompliserte teoretiske utledninger, kan man si at *ringen er sluttet” når man leser en nylig
+utkommet forskningsrapport fra Stanford der *bootstrap-fordelingsfunksjoner”
+approksimeres analytisk ved sadelpunkt-metoder.
+
+*Mathematics of Sports” — lokkemat for å rekruttere studenter til program i anvendt matematikk
+
+Ved Stanford University har man et eget *undergraduate” program (ledende
+til Bachelor’s degree) i “Mathematical and Computational Science”. Meningen
+er å gi en bred og anvendelsesorientert innføring i matematikk, statistikk og
+computer-science. Graduate studenter i statistikk rekrutteres hovedsakelig fra
+dette programmet.
+
+Nytt i inneværende studieår var faget “Mathematics of Sports”, gitt av professorene Thomas Cover og Joseph Keller. Det innrømmes at dette var ment
+
+som et lite PR-trick for å rekruttere studenter. Man ønsket å ha et fag som var
+morsommere enn de andre fagene.
+
+Men de som kjenner litt til Cover og Keller, vil skjønne at kurset er seriøst nok.
+Undertittelen på kurset er “The use of mathematics, statistics and probability in
+the analysis of athletic performance, sports records, strategy, etc.” Eksempler på
+emner er effekten av luftmotstand på flyvende disker, og effekten av å skifte gear
+i sykkelritt. Også spill-teori (læren om optimale strategier) er medi kurset.
+Noe for Norge? Hva er sannsynligheten for at Rosenborg vinner *the double”
+også i 1991? Eller, formann Bent, hva er forventning og varians for din maratontid?
+
+Bo Lindquist
+
+
+
+36
+
+Dataøvelser i statistikkundervisningen:
+
+Institutt for matematiske realfag,
+Universitetet i Tromsø
+
+Ved Institutt for matematiske realfag har vi to brukerorienterte kurs og fem
+laveregrads kurs. MINITAB benyttes som et hjelpemiddel i regneøvelsenei flere av
+disse kursene. Vi bruker EDB-senterets utstyr, Vax 8600 og terminalstue med ca.
+
+20 terminaler. Vax-maskinen vil etter hvert bli erstattet med DEC-system 5820,
+
+men det er uvisst om vi kommer til å benytte denne eller PC/arbeidsstasjoner i
+dataøvelsene for fremtiden.
+
+SB-1 Brukerkurs 1 statistikk (3 vekttall) gir en introduksjon i statistikk for
+studenter ved andre fagområder, hovedsaklig biologi og fiskerifag.
+
+Som en del av regneøvelsene gis et kurs i MINITAB. Vi starter først i siste
+halvdel av semesteret og lar studentene prøve programpakken fra første time.
+Det forutsettes ikke noen forkunnskaper i databehandling. De får utdelt et kort
+
+notat med eksempel på inn- og utlogging, oppstart av MINITAB og registrering /
+behandling av et datamateriale. Videre gis oppgaver fra håndboka (Ryan, Joiner &
+
+Ryan) og læreboka i kurset, som skal løses ved hjelp av programpakken. 6-8 timer
+av regneøvelsene settes av til MINITAB-øvelser på terminalrommet. Vi legger
+vekt på at programpakken er et hjelpemiddel i statistikkfaget og demonstrerer
+MINITAB som et eksempel på en statistikkprogrampakke.
+
+På grunn av at enkelte studenter er veldig pensum- og eksamensopptatte, legger
+vi enkelte år inn en Minitab-oppgave i eksamenssettet. Den består som regel av
+ei datautskrift som vil være tidsbesparende for de studentene som kan lese den.
+Vi tar gjerne med ett punkt i oppgaven som kun kan løses av MINITAB-kjennere.
+De siste årene har vi hatt 60-70 studenter til eksamen på dette kurset.
+
+SB-300 Brukerkurs i statistikk II (5 vekttall) er en videreføring av SB-1 for
+studenter som vil vite mere om blant annet varians- og regresjonsanalyse. Dette
+kurset gies ikke regelmessig. Siste gang, høsten 1990, ble MINITAB benyttet som
+et hjelpemiddel i regneøvelsene.
+
+S-101 Sannsynlighet og statistikk (5 vekttall). Det første kurset i emnegruppa
+
+på 20 vekttall til hovedfagsstudiet. Dette kurset er nytt av i år (vår 91), og skal
+legge vekt på det sannsynlighetsteoretiske grunnlaget for inferens. Vi vil ikke
+
+benytte statistikk-programpakker i dette kurset.
+
+S-200 Matematisk statistikk (5 vekttall) er en videreføring av statistikkdelen i
+S-101, og MINITAB introduseres på samme måte som i SB-1. Kurset inneholder
+en obligatorisk oppgave der det vil være naturlig å benytte programpakken som
+et hjelpemiddel.
+
+S-210 Stokastiske prosesser (5 vekttall). Markov kjeder. Ingen bruk av programpakker.
+
+'
+
+
+
+37
+
+S-300 Videregående statistikk (5 vekttall). Kurset bygger på S-200, og MINI-
+
+TAB benyttes i forbindelse med den obligatoriske oppgaven.
+
+S-220 Tidsrekker (5 vekttall). Minitab benyttes som et hjelpemiddel i den grad
+
+det er behov for det.
+
+Elinor Ytterstad
+
+Integrering av programvare i statistikkundervisningen
+ved Handelshøyskolen BI
+
+Jeg vil her omtale bruk av programvare i statistikkundervisningen
+i siviløkonomstudiet,
+
+I
+
+revisorstudiet og høyskolekandidatstudiet.
+
+siviløkonomstudiet gis det et innføringskurs i statistikk i 2.
+
+semester,
+
+som
+
+følges
+
+modellbygging.
+
+opp
+
+Videre
+
+multivariate metoder i
+undervisning i
+
+med
+
+tilbys
+
+et
+
+prosjektarbeid
+
+det
+
+et
+
+7.semester. I
+
+ikke
+
+samt
+
+et
+
+kurs
+
+i
+
+obligatorisk
+
+kurs
+
+i
+
+revisorstudiet gis det ikke
+
+statistikk utover innføringskurset.
+
+INNFØRINGSKURS I STATISTIKK
+
+I SIVILØKONOMSTUDIET OG
+
+REVISORSTUDIET
+
+Fra
+
+1986
+
+har
+
+statistikk
+
+undervisning
+
+vært
+
+Innføringskurset
+
+identiske
+
+helt
+
+gis
+
+og
+
+i
+
+2.
+
+for
+
+semester
+
+i
+
+i
+
+i
+
+et
+
+åinnføringskurs
+
+de
+
+to
+
+studieretningene.
+
+eksamen
+
+studiet.
+
+Tidligere hadde
+
+Dataverktøyet
+revisorstudentene en kursvariant uten dataverktøy.
+På siviløkonomstudiet har det vært brukt
+som brukes er MINITAB.
+
+siden
+
+1979.
+
+PC/dataverktøy,
+
+Studentene
+
+tilbys
+
+videre
+
+et
+
+forkurs
+
+i
+
+bruk
+
+av
+
+samt et forkurs i bruk av MINITAB.
+
+Integreringen av bruk av programvare gjøres først og fremst å:
+
+forbindelse med oppgaveøvelser. Foruten at MINITAB selvfølgelig
+brukes som et analyseverktøy, brukes også i noen grad muligheten
+
+for simuleringer til innlæring av sentrale statistiske begreper.
+Oppgavene til øvelsene er nesten utelukkende basert på data fra
+
+
+
+38
+
+virkeligheten,
+
+og
+
+det
+
+administrative
+
+økonomisk
+
+også
+
+det
+
+bruker
+
+vi
+
+selv.
+
+Datamaterialet
+
+ferdige
+
+datafiler
+
+også
+
+data
+
+bruke
+
+PC
+
+vært
+
+basert
+
+på
+
+med
+
+økonomiske
+er
+
+som
+
+BI's
+
+betydelig
+
+data
+
+av
+
+på
+
+brukes
+
+emner.
+
+mindre
+
+Noen
+
+og
+
+i
+
+øvelser
+
+stormaskin.
+
+en
+
+på
+
+egnet
+
+å
+
+hente
+
+en
+
+viss
+
+en viss
+
+Høsten
+
+for
+
+1990
+
+er
+
+inn
+
+som
+
+utstrekning
+
+har
+
+de
+
+som
+
+ble
+
+bruk
+
+relativt
+
+i
+
+fra
+
+studentene
+
+ofte
+
+ønker
+
+det
+
+samfunnsøkonomiske
+
+filene
+
+for
+
+I
+
+data
+
+utstrekning
+
+om
+
+legges
+
+disketter,
+
+rekke
+
+av
+
+I
+
+på
+
+spørreundersøkelser
+
+MINITAB.
+
+fra
+
+vekt
+
+fagområdet.
+
+tilgjengelig
+
+versjonen
+
+database
+
+andre
+
+data
+
+legges
+
+laget
+
+og
+
+å
+en
+
+bedrifts-
+
+omfattende,
+
+innføringskurset
+
+mens
+
+i
+
+stati-
+
+eksamen,
+
+inngår
+
+Stikk.
+
+Til
+
+eksamen
+
+tolkning
+
+som
+
+av
+
+utskrift.
+
+er
+
+en
+
+utført
+
+Fra
+
+og
+
+studentene på
+
+programvare.
+
+til
+
+den
+
+skriftlige
+
+I
+
+fagoppgaven
+
+er
+
+til
+
+selv
+
+er
+
+våren
+
+Denne
+
+skriftltig
+
+analyse
+
+1991
+
+utført.
+
+av
+
+legges
+
+så
+
+vil
+
+i
+
+legges
+skal
+
+fagopgaven
+
+eksamen
+
+bruk
+
+undervisningen
+
+seg
+
+timers
+
+slutten av semesteret
+
+av
+
+insitamenter
+
+fem
+
+statistisk
+
+med
+
+bruk
+
+at
+
+en
+
+en
+
+MINITAB-
+
+noe
+
+om,
+
+idet
+
+utføre en fagoppgave med
+
+skal
+
+er
+
+av
+
+eksamen
+
+studentene
+
+Hensikten
+
+form
+
+ikke
+
+få
+
+blant
+
+leveres
+
+spørsmål
+annet
+
+å
+
+inn,
+
+men
+
+basert
+
+på
+
+gi
+
+sterkere
+
+dataverktøy.
+
+det
+
+vesentlig,
+
+vekt
+
+men
+
+på
+
+å
+
+at
+
+formidle
+
+det
+
+er
+
+at MINITAB ikke
+
+nødvendig
+
+å
+
+bruke
+
+i
+
+en
+
+eller annen programvare for å utføre statistiske analyser av noen
+omfang.
+
+Dette
+
+eksamen
+
+i
+
+er blant
+
+form
+
+medfører
+
+at
+
+det
+
+skriving
+
+av
+
+små
+
+av
+
+ikke
+
+blir
+
+gitt
+
+"MINITAB-programmer".
+
+annet valgt utfra sin lave brukerterskel,
+
+tilgjengelig
+
+oppgaver
+
+for både stormaskin,
+
+til
+
+MINITAB
+
+samt at den er
+
+IBM PC og Macintosh maskiner.
+
+PRAKTISK PROSJEKTARBEID MED DATANALYSE
+
+I
+
+slutten
+
+av
+
+2.
+
+semester
+
+(vårsemesteret)
+
+siviløkonomstudiet
+
+gjøre
+
+praktisk
+
+analyse.
+
+leveres
+
+Arbeidet
+
+Prosjektarbeidet
+
+er
+
+innføringskurset
+
+i
+
+Det
+
+er
+
+vare
+
+I
+
+ikke
+
+kan
+
+3.
+
+være
+
+og
+
+statistiske
+og
+
+er
+
+at
+
+i
+
+man
+
+og
+
+på
+
+bruker
+
+prosjektarbeid
+
+begynnlesen
+
+selvstendig
+
+studentene
+
+arbeid,
+
+øvelse
+
+i
+
+MINITAB.
+
+av
+
+men
+
+bruk
+Annen
+
+med
+
+3.
+det
+
+av
+
+på
+
+data-
+
+semester.
+bygger
+
+på
+
+programvare.
+
+egnet
+
+program-
+
+bra.
+
+det
+
+stokastisk
+delen
+
+inn
+
+statistikk
+
+krav
+
+like
+
+semester
+
+køteori
+
+stikk
+
+et
+
+et
+
+et
+
+må
+
+av
+
+forutsetter
+
+integrert
+
+en
+
+simulering)
+
+i
+
+et
+
+kurs
+
+bygger
+
+på
+
+innføringskurset
+
+kurset
+bruk
+
+del
+
+av programvare
+
+statistikk
+i
+
+(regresjon,
+
+modellbygging.
+
+(MINITAB).
+
+i
+
+Den
+
+stati-
+
+
+
+39
+
+INNVALGSKURS
+
+Studenten
+
+tilbys
+
+Hovedvekten
+
+er
+
+I
+
+gir.
+
+MINITAB
+
+ikke
+
+I
+
+semester
+
+på
+
+på
+
+strekker
+
+kurset
+til
+
+på
+
+SAS
+
+Eksamen er en
+personer.
+
+utover
+
+72
+
+Den
+
+datamateriele
+
+av
+
+den
+
+brukes
+annet
+
+Forøvrig
+
+har
+
+behov
+
+som
+
+økonometrisk
+
+bruk
+
+av
+
+programvare.
+
+informasjon
+
+seg
+
+analyse
+
+utført
+
+der
+
+ved
+
+av
+
+estimering
+
+dekkes
+
+dreier
+
+som
+
+SAS-programvare
+
+ikke
+
+som
+
+og eller
+
+en
+
+besluttet
+
+eksamen
+
+metoder.
+
+på
+
+BI
+
+timers
+
+om
+
+multivariate
+
+vekt
+
+(blant
+
+de
+
+i
+
+utstrakt
+
+fortolkning
+
+dette
+
+kurs
+med
+
+inngår
+
+ligningssystemer).
+
+satses
+
+et
+
+regresjon,
+
+kurset
+
+legges
+
+analyse
+
+tane
+
+7.
+
+lagt
+
+innfallsvinkel.
+
+Hovedvekten
+
+i
+
+løses
+
+i
+
+av
+
+at
+
+av
+
+hvor
+
+simul-
+
+det
+
+skal
+
+MINITAB.
+
+grupper på opptil
+et
+
+på
+
+tolkning
+
+av utskrifter.
+
+inngår
+
+BI's
+
+forhånd
+
+tre
+
+innlagt
+
+HØYSKOLEKANDIDATSTUDIET
+Høyskolekandidatstudiet
+
+bygger på det
+ervisning
+
+i
+
+regionale høyskolesystem og
+
+to årige bedriftsøkonomstudiet basert på kveldsund-
+
+(ett
+
+år
+
+som
+
+heldagsstudium).
+
+Høyskolekandidatstudiet
+
+består av et mellomfagstillegg i bedriftsøkonomi og to delfag. I
+mellomfagstillegget må
+
+studentene gjennomgå et
+
+-
+
+Kurset
+
+regresjonsanalyse.
+
+dataverktøy
+økonomisk
+
+en
+
+-
+
+MINITAB.
+
+over
+
+programvare er
+
+modellen
+
+med
+
+bruk
+
+data
+
+av
+
+Videre
+
+sterkt
+
+legges
+
+to
+
+uker,
+
+en
+
+det
+
+motiverende på
+
+bruk
+
+forutsetning.
+
+integrering
+fra
+
+hvor
+
+av
+
+vekt
+
+Dataanalyse
+
+med
+
+på
+
+Kurset
+
+bruk
+
+av
+
+analyse
+
+av
+
+avsluttes med
+
+av
+
+MINITAB
+
+eller
+
+annen
+
+Vår
+
+erfaring
+
+er
+
+denne
+
+statistiske
+
+virkeligheten
+
+i
+
+integrert
+
+administrative problemstillinger.
+
+fagoppgave
+
+egnet
+
+er
+
+kurs
+
+faller
+
+metoder,
+heldig
+
+at
+
+dataverktøy
+ut
+
+og
+
+og
+
+virker
+
+studentene.
+
+Ole Fugleberg
+
+Støtt Scandinavian Journal of Statistics!
+Som meddelt i forrige nummer av TG er jeg fra 1. januar valgt til nasjonal
+
+redaktør for SJS.
+
+Jeg overtar etter Tore Schweder (Oslo), som har hatt dette vervet fra 1983
+og som har vært med i redaktørstaben siden 1981. Tore fortjener stor takk for
+
+sin innsats for SJS! Det samme gjelder Dag Tjøstheim (Bergen), som samtidig
+går av etter 8 års virke som *associate” redaktør.
+
+De øvrige nordmenn i redaktørstaben er nå Nils Lid Hjort (Oslo) og Kjell
+Doksum (Harvard), sistnevnte også ny i 1991. Hovedredaktør for SJS er Elja
+Arjas (Oulu, Finland).
+
+
+
+40
+
+Norske statistikere kan støtte SJS ved å:
+e Sende inn gode arbeider! (Manuskripter sendes til hovedredaktøren).
+
+e Abonnere! (SJS har en meget fordelaktig abonnementspris for medlemmer
+av de nordiske statistikerforeningene).
+
+Brief Information on Current Unpublished Research in
+Scandinavia
+
+Som nasjonal redaktør har jeg bl.a. ansvaret for å redigere Norges bidrag
+til ovennevnte spalte (som stort sett finnes i hvert nummer av SJS). Her gis en
+løpende oversikt over ennå upubliserte forskningsrapporter, med sammendrag.
+Inspirert av formann Natvig’s spalte i forrige nummer av TG (angående
+
+forskningsaktivitet og siteringshyppighet for norske statistikere) har jeg gått
+gjennom årgangen 1989 av SJS (1990 var ikke tilgjengelig ved Stanford University’s bibliotek) for å undersøke bruken av spalten “Brief Information...”.
+Dette resulterte i følgende antall refererte rapporter:
+
+Land
+
+Antall
+
+Danmark
+
+57
+
+Finland
+
+15
+
+Norge
+
+12
+
+Sverige
+
+78
+
+(Det bemerkes at 2 rapporter oppført under Danmark er skrevet av vår egen
+Ragnar Norberg).
+
+Idet jeg lar tabellen tale for seg selv, vil jeg oppfordre alle norske statistikere
+til å benytte også denne anledningen til å gjøre sin forskning kjent.
+
+Meldinger om forskningsrapporter til *Brief Information...” skal inneholde:
+Navn på forfatter(e), institusjonstilknytning med adresse, utgivelsesmåned og
+år, tittel, antall sider, samt et sammendrag (på engelsk).
+Formatet framgår forøvrig av løpende nummer av SJS.
+Bidrag til spalten sendes:
+Bo Lindqvist
+
+Institutt for matematiske fag
+Norges Tekniske Høgskole
+7034 Trondheim
+
+Telefon /fax: (07)593532 / (07)593524
+
+Før ca. 15. juni kan bidrag også sendes til mitt nåværende oppholdssted:
+Department of Statistics
+Stanford University
+Sequoia Hall
+
+Stanford, CA 94305, USA
+Fax: 1-415-725-8977
+
+Email: bo@playfair.stanford.edu
+Bo Lindquist
+
+
+
+41
+
+Nytt fra universiteter og høyskoler
+
+NYTT FRA UNIVERSITETET I OSLO
+Uteksaminerte cand. scient.
+Rune Winther: ‘Threshold systems.” Veileder: Arne Bang Huseby.
+Petter Olav Pripp: 'Markov random field modeller.” Veileder: Nils Lid Hjort.
+Ingeborg Ulheim: 'Glatting av dødelighetsfunksjoner.” Veileder: Grete U. Fenstad.
+Jon Holtan: ‘Bonus made EASY.’ Veileder: Walther Neuhaus.
+
+Dr. philos.
+Eva Skovlund: ‘Sequential two-sample methods in controlled clinical trials’. Bedømmelseskomité: Ørnulf Borgan, Matematisk institutt, Universitetet i Oslo; Knut Laake, Geriatrisk
+avdeling, Ullevål sykehus; Petter Laake, Medisinsk statistikk, Universitetet i Oslo. Disputasen
+fant sted i Gamle Festsal 8. desember 1990.
+
+Publikasjon
+
+Steinar Bjerve og Kjell Doksum: ‘Correlation curves: Measures of association as functions
+of covariate values,’ Statistical Research Report No. 1, 1991.
+
+NYTT FRA UNIVERSITETET I BERGEN
+Uteksaminert cand. scient.
+Marit Olsbø Holen: ‘Retningsstatistikk’. Veileder: Trygve Nilsen.
+
+NYTT FRA GRUPPE FOR STATISTIKK, NTH
+Ferdig sivilingeniør
+Linda Martens Pedersen: ‘Analyse av pålitelighetsdata”. Veileder: Morten Sørum.
+Ansettelser
+Siv.ing. Helge Blaker er midlertidig ansatt som vitenskapelig assistent.
+Siv.ing. Ingrid Glad er ansatt som vitenskapelig assistent.
+
+NYTT FRA UNIVERSITETET I TROMSØ
+Uteksaminert cand. scient.
+
+Heidi K. Walsøe: ‘Nonresponse in sample surveys: Current and new methods’. Veileder: Jan
+F. Bjørnstad.
+
+Forskningstermin
+Elinor Ytterstad har forskningstermin i ett år fra 1. august 1991.
+
+
+
+42
+
+ÅRSMØTE FOR STATISTISK FORENING I OSLO
+Årsmøte for statistisk forening i Oslo ble avholdt onsdag 27. februar på
+
+Papirindustriens Forskningsinstitutt, Forskningsveien 3 , Oslo.
+a)
+
+Henriette Eide ble valgt til møteleder og Doris Tove Kristoffersen til
+
+b)
+
+Årsberetningen for 1990 ble godkjent. Det har vært holdt 4 foredrags- og
+
+referent.
+
+diskusjonsmøter med sosialt samvær og enkel servering for medlemmene.
+Innkalling til medlemsmøter har vært sendt til alle som er registrert på
+medlemslistene i hovedforeningen og som har postnummer lavere enn
+
+3999. Styret har avholdt 2 styremøter.
+
+;
+
+c)
+
+Revidert regnskap for 1990 ble godkjent.
+
+d)
+
+Årskontingent blir krevd inn av hovedforeningen. Det er gitt tilsagn om
+at lokalforeningen kan påregne en overføring på kr 3000.- fra
+
+hovedforeningen.
+
+e)
+
+Valg av styret med særskilt valg av leder, og av 2 revisorer. Styrets
+innstilling til leder, styremedlemmer og revisorer ble enstemmig valgt.
+
+Leder:
+
+Doris Tove Kristoffersen, Nycomed Imaging AS
+(gjenvalg som medlem av styret)
+
+Styremedlemmer:
+
+Frøydis Bjerke, PFI (gjenvalg)
+Espen Funnemark, Veritas (ny)
+Marit Bragelien Veierød, MEDSTAT (ny)
+
+Revisorer
+
+Per Lea, Matforsk (gjenvalg)
+
+Ole Fugleberg, BI (ny)
+
+Leiv Solheim, SSB (gjenvalg)
+
+Etter årsmøtet var det faglig møtedel med tittel:
+Fuzzi sets: Keiserens nye klær?
+
+Innledende foredrag ble holdt av prof. Fred Wenstøp, BI, og det var invitert
+
+debattinnlegg ved prof. Bent Natvig, universitetet i Oslo
+
+Doris Tove Kristoffersen
+
+Referent
+
+Det nyvalgte styret hadde sitt første møte mandag 18. mars der Espen
+Funnemark ble valgt til sekretær for 1991 og Marit Bragelien Veierød ble
+kasserer.
+
+
+
+43
+
+Påminnelse om
+
+DET 6. NORSKE STATISTIKERMØTET, JELØYA 10.-12. JUNI 1991
+
+på Jeløya utenfor Moss i tidsrommet 10. - 12. juni 1991. Hovedtemaet for møtet
+er vel anvendt statistikk, og programkomiteen har bestått av:
+
+1
+
+1
+
+I
+
+Det 6. norske statistikermøtet vil bli arrangert på Frelsesarmeens Folkehøyskole
+
+08.00 - 09.00
+
+Frokost
+
+Forsikringsmatematikk
+
+Arild Kristiansen: Om solvens i skadeforsikring
+Knut Aase:
+Syndikater og prising under usikkerhet.
+
+09.00 - 09.45
+09.45 - 10.30
+
+Inge Helland, Norges Landbrukshøgskole
+Aage Tverdal, Nycomed Imaging AS
+
+Geir Storvik, Norsk Regnesentral
+
+10.30 - 10.50
+
+Morten Folkeson, UNI Storebrand
+
+Pause.
+
+Arrangementskomiteen har bestått av styret for statistisk forenings lokallag i
+
+Medisinsk statistikk
+Rolv Skjærven:
+10.50 - 11.35
+
+Spørsmål
+
+11.35 - 12.20
+
+Leiv Sandvik:
+
+12.30 - 16.00
+
+forsøk.
+Lunsj og tid til utflukt på Jeløya.
+
+Oslo.
+
+angående faglig program
+
+kan stilles til formann i programkomiteen:
+
+Inge Helland
+Institutt for matematiske fag
+
+1432 ÅS-NLH
+
+Medisinske fødselsregister - en unik kilde
+for epidemiologisk forskning.
+Vekselvirkning epidemiologisk
+prospektive undersøkelser og kliniske
+
+Rom- og tidvarierende fenomen
+
+Andre spørsmål kan rettes til:
+Marit Bragelien Veierød, tlf. nr. (arbeid) 06-81 49 87
+
+Knut Sølna: Estimering av loddebestand
+Fred Godliebsen: Bruk av statistiske metoder i medisinsk
+
+16.00 - 16.45
+16.45 - 17.25
+
+billedbehandling
+
+Pause.
+
+17.25 - 17.45
+
+Med inviterte og påmeldte foredrag er programmet for møtet:
+
+Gudmund Høst:
+
+17.45 - 18.25
+Kveldsprogram:
+
+MANDAG 10.06.91
+11.00 - 13.00
+
+Overvåking av luftforurensning
+
+Bussavgang til Refsnes Gods.
+Festmiddag på Refsnes Gods.
+
+19.30
+
+20.00
+
+Lunsj/ Registrering
+
+13.00 - 13.15
+
+Åpning av møtet
+
+ONSDAG 11.06.91
+Hovedtema: Hvordan er statistik
+
+13.15 - 14.00
+
+14.00 - 14.20
+
+Ivar Heuch:
+
+Kveldsprogram:
+
+20.00 - 22.00
+
+Diskusjon med
+
+Pause.
+Erik Bølviken:
+
+15.30 - 15.50
+
+dret p.g.a. dat
+
+Om programpakker.
+
+Trond Haider:
+
+14.20 - 14.45
+14.45 - 15.30
+
+17.00 - 18.00
+18.00 - 20.00
+
+rolle f
+
+Rolf Volden:
+
+utg
+
+kinen?
+
+kt i SAS.
+
+Statistikere i EDB-alderen: Utnytter vi
+mulighetene.
+
+Diskusjonsinnlegg.
+
+Frokost
+
+Industristatistikk
+09.00 - 09.45
+
+Jostein Lillestøl:
+
+Kvalitet og statistikk.
+
+Frøydis Bjerke:
+Rune Winther:
+
+Bruk av forsøksplanlegging i fabrikkmiljø.
+Metoder for beregning av påliteligheten
+
+Påmeldte foredrag
+
+09.45 - 10.15
+10.15 - 10.45
+
+til terskelsystemer.
+
+Sesjon for doktor- og hovedfagstudenter
+Preferansefunksjoner og inferens.
+Helge Blaker:
+10.45 - 11.10
+
+Middag
+Årsmøte med kaffe og kake etter middagen.
+
+Video med Sverdrup.
+
+PÅMELDING:
+
+08.00 - 09.00
+
+Jan Harald Aarseth: Interface til programpakker.
+
+11.10 - 11.35
+
+Avslutning.
+Lunsj og avreise.
+
+11.35 - 11.45
+12.00 -
+
+Påmelding til det 6. norske statistikermøtet skjer ved
+innbetaling til
+
+postgirokonto 0824 0523079,
+Norsk Statistisk Forening Oslo
+tet 1991
+
+v/Marit Bragelien Veierød
+Neuberggaten 16
+0367 OSLO 3
+
+Pris:
+
+Studenter
+
+Ikke-studenter:
+
+INNEN 16. ma q
+G
+
+kr 800.-
+
+Men etternølere godtas også!
+
+kr 1250.-
+
+Prisen inkluderer deltageravgift, kost og losji på Jeløya
+Folkehøyskole, festmiddag på Refsnes Gods samt buss t/r
+Folkehøyskolen i forbindelse med festmiddagen.
+Det er viktig at statistikkstudentene kommer med i det faglige miljøet.
+
+For
+
+studenter og andre som ikke får økonomisk støtte fra arbeidsgiver, er det mulig
+å søke reisestøtte fra Norsk Statistisk Forening. Søknader med foreløpig
+reisebudsjett kan sendes til formann i Norsk Statistisk Forening:
+'
+
+Bent Natvig
+Universitetet i Oslo
+Matematisk Institutt
+Postboks 1053 Blindern
+0316 OSLO 3
+
+PRAKTISKE OPPLYSNINGER:
+
+Det vil ikke bli ordnet med fellesbuss fra Fornebu/ Oslo Sentralstasjon til Moss.
+Det enkleste er tog fra Oslo til Moss. Det er svært god kommunikasjon
+mellom Fornebu og Oslo S. NSB reklamerer med sitt stoppested
+Fornebu/Lysakerelva, og det går flybuss hver halvtime til Oslo S
+flybussterminal. Det tar ca. 1 time med tog fra Oslo S til Moss stasjon.
+
+Fra Moss stasjon til Jeløya er det ikke lange biten, og fra jernbanestasjonen er
+det mulig å ta taxi til folkehøgskolen. Deltagere som kommer med samme tog
+oppfordres til å kjøre "fellesdrosje” til skolen!
+
+VELKOMMEN!
+
+
+
+44
+
+Medlemskap i Norsk Statistisk Forening
+Kontingenten i foreningen er på kr. 90 pr. år for regulære medlemmer og kr. 30 for studenter. Korrespondanse om medlemskap og innbetaling av kontingent skal skje til foreningens
+kasserer:
+
+Norsk Statistisk Forening v/John Sølve Tyssedal
+Institutt for matematiske fag
+Norges Tekniske Høgskole
+7034 Trondheim-NTH
+
+Innbetalinger skal gjøres på foreningens postgirokonto 5 15 10 55. Medlemmer som er usikre
+på når de betalte kontingent sist, vil nederst til høyre på adresseseddelen for Tilfeldig Gang
+finne angitt hvilket år siste betaling er registrert for. Vær imidlertid oppmerksom på at
+adressesedlene for bladet ligger noe etter ajourføringen av medlemsregisteret, slik at nylig
+
+foretatte innbetalinger ikke vil være tatt med her.
+
+Nye medlemmer melder seg til kassereren under adressen oppgitt ovenfor. Slike medlemmer får automatisk tilsendt Tilfeldig Gang, med forbehold om at det tar noe tid før tilføyelser
+og forandringer i medlemsregisteret gjenspeiler seg i adressesedlene til bladet. Adresseforandringer meldes også til kassereren. Ved utsendelsen av Tilfeldig Gang benyttes det kopier
+av det vanlige medlemsregisteret, så adresseforandringer behøver ikke meldes separat til
+bladet.
+Annen korrespondanse med foreningen skal foregå med formannen under denne adressen:
+Norsk Statistisk Forening v / Bent Natvig
+Matematisk institutt
+Universitetet i Oslo
+
+Postboks 1053, Blindern
+0316 Oslo 3
+
+(Det skal velges nytt styre på møtet på Jeløya 10. juni!)
+
+Bidrag til Tilfeldig Gang
+Neste nummer av Tilfeldig Gang vil forhåpentligvis komme ut i juli 1991. Alle slags bidrag
+til bladet er velkommen, enten det gjelder nye temaer av interesse for norske statistikere,
+eller man har kommentarer til innlegg som allerede har stått i i bladet. Stoff til neste
+nummer må være redaktøren i hende senest 1. juli. Det kan gjerne sendes som ASCII-filer,
+eventuelt tilpasset TeX, på diskett eller med elektronisk post. Den nåværende redaktørens
+adresse er:
+
+Tilfeldig Gang v/Ivar Heuch
+Matematisk institutt
+Universitetet i Bergen
+Allégt. 55
+
+5007 Bergen
+
+Elektronisk post:
+
+heuch@mi.uib.no (internet)
+nmaihGnobergen (bitnet)
+
+Telefonnummer:
+
+(05) 21 28 35 (direkte)
+(05) 21 28 38 (instituttkontoret)
+
+
+
+NORDISKE
+
+MØTER
+
+I
+
+1992
+
+1. DEN 14. NORDISKE KONFERANSE I MATEMATISK STATISTIKK
+
+Norsk statistisk forening arrangerer på Røros 15. - 19. juni neste år den 14. nordiske konferanse
+i matematisk statistikk.
+
+Første annonsering av møtet vil bli sendt ut til medlemmene i de nordiske foreningene i
+oktober/november og endelig innbydelse i februar 1992.
+Det vil også bli sendt innbydelse til de baltiske land.
+
+2. DET 19. NORDISKE STATISTIKERMØTET
+
+Hagstofa Islands - Islands statistiske sentralbyrå skal i samarbeid med de nordiske statistiske
+foreningene arrangere det 19. nordiske statistikermøtet i Reykjavik 22.-25. juli 1992.
+Møtets tema er "statistikk uten grenser" og vil ta for seg konsekvensene for statistikkproduksjonen
+i et "grenseløst" Europa.
+
+
+
+
+
+
+
+Returadresse:
+
+Tilfeldig Gang v/Ivar Heuch
+Matematisk institutt
+
+Universitetet i Bergen
+Allégt. 55
+5007 Bergen
+
+
+

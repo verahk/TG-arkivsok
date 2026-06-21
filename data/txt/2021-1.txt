@@ -1,0 +1,1504 @@
+ISSN 0803-8953
+Tilfeldig gang
+Nr. 1, årgang 38
+Mai 2021
+
+Utgitt av Norsk statistisk forening
+Redaksjonelt
+
+Fra lederen . . . . . . . . . . . . . . . . . . . . . . . . . .
+Fra redaksjonen . . . . . . . . . . . . . . . . . . . . . . . .
+
+1
+1
+
+Tankenøtter
+
+Pusleri nr. 55 . . . . . . . . . . . . . . . . . . . . . . . . .
+Pusleri nr 54 (løsning) . . . . . . . . . . . . . . . . . . . . .
+
+3
+3
+
+Artikler
+
+Vi er alle begrensete . . . . . . . . . . . . . . . . . . . . . .
+7
+Hvem er statistiker? . . . . . . . . . . . . . . . . . . . . . . 12
+Tilsvar fra NSF-leder . . . . . . . . . . . . . . . . . . . . . 13
+USIKKERHET I MÅLINGER: Et varsko og en bokanmeldelse 14
+A Wizard Predicts New COVID-19 Cases . . . . . . . . . . 21
+Nye PhDer
+
+Information in local curvature
+
+. . . . . . . . . . . . . . . .
+
+28
+
+Welcome to Tromsø and NORDSTAT 2021 . . . . . . . . .
+
+30
+
+Kunngjøringer
+
+Meldinger
+
+Nytt fra Oslo senter for biostatistikk og epidemiologi . . . .
+Nytt fra NTNU . . . . . . . . . . . . . . . . . . . . . . . .
+Nytt fra Stavanger . . . . . . . . . . . . . . . . . . . . . . .
+Nytt fra Matematisk institutt ved Universitetet i Oslo . . . .
+Nytt fra UiB . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+31
+31
+32
+32
+35
+
+
+
+
+
+redaksjonelt
+Fra lederen
+Henning Omre | Trondheim
+
+Hei NSF-medlemmer !
+En lang vinter og vår preget av corona-smitte er tilbakelagt.
+NSF-aktiviteten i lokal-lagene har vært preget av strenge corona-tiltak.
+Det har vel i praksis ikke vært noen aktivitet lokalt. Slik ble det i 2021
+– men nå er det lys i enden av tunnelen.
+NSF sentralt har imidlertid vært mer aktive. Styret har bidratt aktivt
+i EuroStat/SSB Statistikk-konkurranse for ungdoms- og videregåendeskoler. Denne tevlingen ble annonsert for NSF-medlemmene like før
+års-skiftet, og den består av tre deler. Del en var åpen for lag fra alle
+skoler og velvalgte spørsmål skulle besvares digitalt. De beste fra del
+en ble invitert til del to hvor en presentasjon av et gitt tema skulle
+lages – årets tema var Stortingsvalg gjennom tidene. Vinnerne i hver
+klasse, samt to publikumsfavoritter, gikk videre til den europeiske
+finalen hvor vinnerne kåres 31.05. De norske vinnerne av del to ble:
+Gressvik Ungdomsskole i Fredrikstad og Arendal Videregående Skole
+i Arendal. Konkurransen ble, trass i corona-tiltak som holdt mange
+skoler på rødt/gult nivå, en stor suksess – omtrent 370 lag deltok
+som betyr at over 1000 elever var aktive. NSF Styret bidro aktivt
+med å kvalitetssikre oppgave-tekstene – takk til Geir Arne Kjønstad –
+og NSF-lederen satt i juryen som kåret vinnerne. Videre utarbeidet
+NSF/NTNU, i samarbeid, støtte-informasjon til deltakerne om
+sannsynlighet og statistikk – takk til Mina Spremic. Denne tevlingen
+skal arrangeres årlig, og SSB ønsker bidrag fra NSF, noe Styret har
+lovet.
+Det er vel passende å minne om NordStat 2021 – selv om mange
+frister allerede er utløpt. Vi møtes vel i Tromsø – fysisk eller digitalt
+- fra 21.-24.06.2021. NSF Hovedmøte 2021 arrangeres Tirsdag
+22.06 kl 1600 – også det både fysisk og digitalt. I løpet av møtet vil
+Sverdrup-prisene utdeles, en rekke Forslag vil bli diskutert og et nytt
+NSF Styre vil bli valgt. Alle er viktige saker.
+Til slutt vil jeg takke alle tillitsvalgte i NSF i perioden 2019-21
+for god innsats – selv om mange planlagte aktiviteter måtte avlyses
+grunnet corona-restriksjoner. NSF Styret 2019-21 takker herved for
+seg – og ønsker påtroppende Styre lykke til.
+HENNING OMRE
+
+Fra redaksjonen
+Tore Selland Kleppe, Jan Terje Kvaløy, Stein Andreas Bethuelsen |
+Stavanger/Bergen
+
+Igjen ønsker redaksjonen å takke alle som har bidratt med stoff til
+denne utgivelsen. Videre ønsker vi å takke for oss og ønsker lykke til
+1
+
+
+
+til neste redaksjon som skal velges i NSFs hovedmøte i juni 2021.
+Til sist vil vi bemerke at på grunn av en epost tapt i et spam-filter
+er artikkelen til Hoffmann publisert en utgave for sent.
+
+2
+
+
+
+tankenøtter
+Pusleri nr. 55
+Jostein Lillestøl (Jostein.lillestol@nhh.no) | Bergen
+
+Pål er tilbudt et spill der en i hver spilleomgang kan vinne 1 myntenhet
+eller tape 1 myntenhet. Sannsynligheten for å vinne i en spilleomgang
+er imidlertid avhengig av spillerens monetære status for øyeblikket
+i forhold til utgangspunktet S = 0. Dersom status er S ≡ 0 (mod 3)
+er sannsynligheten for å vinne 1 enhet kun lik 1/10, ellers er denne
+sannsynligheten hele 3/4. Pål lurer på om dette er rettferdig spill,
+gitt at han er tvunget til å følge dette oppsettet. På baksiden av en
+konvolutt noterer han at den ugunstige sannsynligheten opptrer ved
+status 0, ±3, ±6, ±9, . . . som utgjør en tredjedel av tallinjen, slik at den
+ubetingede sannsynligheten for å vinne en spilleomgang blir
+P(Vinne) =
+
+1 1
+2 3 16 1
++
+=
+>
+3 10 3 4 30 2
+
+Jøss, dette er til min fordel tenker Pål, og setter i gang å spille. Etter en
+(lang) stund uteblir den forventede positive gevinst, og han lurer på om
+noe er galt i utregningen. Kan du hjelpe Pål?
+
+3
+
+
+
+Pusleri nr. 54 (løsning)
+Jostein Lillestøl
+Oppgaven var: Under en pandemi har myndighetene krevd stans av organisert idrettslig aktivitet, også
+den som ikke innebærer kontakt mellom aktørene. Etter en tid får enkelte idretter starte trening under
+forutsetning av at det holdes avstand. Anta at det også gjelder for standplassen på en skytebane, der
+skytterne ligger på linje i båser, og at reglene sier at ingen kan ha bås rett ved siden av hverandre.
+Betrakt en skytebane med n=5 båser
+1
+
+2
+
+3
+
+4
+
+5
+
+Anta at skyttere ankommer etter tur, og velger bås etter «first come, first serve» prinsippet. Disse
+skytterne er ikke av det glupeste slaget, og er også uvillige til å bytte bås etter å ha gjort sitt valg. Anta at
+hver ankommen skytter velger bås tilfeldig blant de som fremdeles er ledige og samtidig oppfyller
+regelen om avstand. Når ingen flere får plass starter en skyteomgang.
+Hva er sannsynlighetene for at banen blir/ikke blir utnyttet optimalt, og hva er forventet antall skyttere
+som får skyte i hver omgang? Hommelvik Skytterlag åpnet sommeren 2020 sin nye 100 meters bane
+med n=7 båser (og eget rom med kaffekrok). Hva blir her sannsynlighetene og forventningen?
+For et stort antall skyttere n og det samme antall tilgjengelige båser, hva er andelen skyttere som får
+plass, dersom de oppfører seg som ovenfor?
+
+Løsning : Med n=5 båser er det i beste fall plass til tre skyttere, i verste fall bare to. De mulige utfall
+
+med tilhørende sannsynligheter er gitt i tabellen nedenfor. Eksempelvis: Dersom den først ankomne
+velger bås nr. 1 (sannsynlighet 1/5), er den neste nødt til å velge bas nr. 3, 4 eller 5. Velger denne bås nr.
+4 (sannsynlighet 1/3) er det ikke plass til flere (X=2). Velger denne bås nr. 3 eller bås nr. 5 (sannsynlighet
+1/3+1/3), har også en tredjemann en tilgjengelig bås (sannsynlighet 1). Her er det altså de andre
+ankomne som forkludrer. Mer ødeleggende er dersom den først ankomne velger bås nr. 2 eller bås nr, 4.
+Da er det ikke plass til alle tre uansett hva de neste gjør.
+Utfall
+Prob
+Utfall
+Prob
+
+14
+⅕·⅓
+135
+⅕·⅓
+
+24
+⅕·½
+153
+⅕·⅓
+
+25
+⅕·½
+315
+⅕·½
+
+41
+⅕·½
+351
+⅕·½
+
+42
+⅕·½
+513
+⅕·⅓
+
+52
+⅕·⅓
+531
+⅕·⅓
+
+X=2
+8/15
+X=3
+7/15
+
+Sannsynligheten for full utnytting iht. avstandsregelen er dermed 7/15, altså litt mindre enn 50%.
+Forventet antall skyttere som får plass er EX=2·8/15+3·7/15=37/15.
+For n=6 er de mulige verdiene av X fortsatt 2 og 3. Sannsynlighetene finnes enklest ved å merke seg at
+nå vil full utnyttelse kunne forhindres bare når de to først ankomne velger bås nr. 2 og 5. Det skjer med
+sannsynlighet 1/6·1/3 +1/6·1/3=1/9. Forventningen blir EX=2·1/9+3·8/9=26/9.
+For n=7 kan X anta verdiene 3 og 4. Full utnyttelse kan nå oppnås eller forhindres på flere ulike måter.
+Ser vi på hvordan valgene til de to først ankomne kan lede til full utnyttelse, er det fire tilfeller:
+! ! !
+Først ankomne velger endebås og den andre ankomne velger endebås blant de nå tillatte: 8 ∙ " ∙ # ∙ $.
+
+
+
+! ! !
+
+Først ankomne velger endebås og andre ankomne velger ikke endebås: 4 ∙ " ∙ # ∙ % .
+
+! ! !
+
+Først ankomne velger ikke endebås og andre ankomne velger endebåsen på «trang side»: 4 ∙ " ∙ & ∙ $.
+! ! !
+
+Først ankomne velger ikke endebås og andre ankomne velger bås på «vide side»: 8 ∙ " ∙ & ∙ % .
+Lagt sammen gir dette sannsynligheten 34/105 for full utnyttelse og dermed 71/105 for ufullstendig.
+Forventningen til antall plasserte blir derfor EX=3·71/105+4·34/105=349/105.
+For n=9 vil X kunne anta tre mulige verdier, 3, 4 og 5, og antallet vi øke med n. Det er ikke lett å finne et
+formeluttrykk for sannsynlighetene for vilkårlig n. Det er imidlertid enkelt å etablere en
+rekursjonsformel for forventet antall plasserte skyttere for gitt n, kall forventningen 𝑎' . Formelen er
+')%
+
+2
+𝑎' = 1 + + 𝑎(
+𝑛
+(*!
+
+Formelen uttrykker 1 (den først plasserte) pluss forventet antall plasserte utover den første. Resultatene
+ovenfor bekreftes ved følgende beregninger:
+%
+
+𝑎$ = 1 + ($) ∙ 1=5/3
+2
+𝑎& = 1 + ( ) ∙ (1 + 1) = 2
+4
+2
+5
+𝑎# = 1 + / 1 ∙ /1 + 1 + 1 = 37/15
+5
+3
+%
+#
+𝑎+ = 1 + 5+6 ∙ 51 + 1 + $ + 26 = 26/9
+2
+5
+37
+𝑎" = 1 + / 1 ∙ /1 + 1 + + 2 + 1 = 349/105
+7
+3
+15
+Begrunnelsen for rekursjonsformelen skjer ved betinging med omsyn til den først ankomnes valg av bås
+nr. k, som skjer med sannsynlighet 1/n, for k=1,2,…,n. Den neste ankomne står foran følgende:
+For k=1 og n: En valgsituasjon med n-2 sammenhengende båser.
+For k=2 og n-1: En valgsituasjon med n-3 sammenhengende båser.
+For 2<k<n-1: En valgsituasjon med to områder med henholdsvis k-2 og n-k+2 båser.
+Ved betinging og summasjon over k, ser vi at de betingede forventninger for antall ytterligere plasserte
+kan uttrykkes ved de ubetingede forventningene på en slik måte at hver 𝑎( , 𝑖 = 1,2, … , 𝑛 − 2
+forekommer to ganger i summen.
+Rekursjonsformelen ovenfor kan skrives (som påpekt av Jarle Tufto, takk til han!)
+2
+𝑛−1
+(𝑎')! − 1))
+𝑎' = 1 + (𝑎')% +
+𝑛
+2
+som gir oss rekursjonen
+𝑎' =
+
+𝑛−1
+2
+1
+𝑎')! + 𝑎')% +
+2
+𝑛
+𝑛
+
+
+
+Numerisk beregning med startverdiene 𝑎! = 𝑎% = 1 gir at 𝑎' vokser tilnærmet lineært med n, og med
+vinkelkoeffisient omtrent lik 0.432.
+Rekursjonen er en inhomogene differensligning med ikke-konstante koeffisienter.
+'
+En analytisk løsning {𝑎' } kan finnes ved hjelp av den genererende funksjon 𝐴(𝑥) = ∑,
+'*- 𝑎' 𝑥 . Med
+,
+. (𝑥)
+')!
+utgangspunkt i differensligningen og utnytte den deriverte 𝐴
+= ∑'*- 𝑎' 𝑛𝑥
+, får vi følgende
+differensialligning for den genererende funksjon:
+1
+2𝑥
+𝐴. (𝑥) =
++
+∙ 𝐴(𝑥)
+%
+(1 − 𝑥)
+1−𝑥
+Denne har løsning
+1 − 𝑒 )%/
+𝐴(𝑥) =
+2(1 − 𝑥)%
+Rekkeutvikling gir følgende sluttede uttrykk for forventningen
+'
+
+𝑎' = +(−2)()!
+(*!
+%
+
+%
+
+(𝑛 − 𝑖 + 1)
+.
+𝑖!
+
+$"
+
+Som sjekk beregnes 𝑎# = 5 − 4 + 2 − $ + !# = !# , dvs. som funnet ovenfor.
+Av formelen følger også at 𝑎' /𝑛 →
+
+0!)1 !" 2
+%
+
+≈ 0.43233235838 når 𝑛 → ∞
+
+Merknad: Differensialligningen kan også utledes uten nå gå veien om den avledede differensligning. Vi
+%
+skriver da 𝑎'3! = 1 + '3! ∑')!
+(*! 𝑎( , som alternativt kan uttrykkes som
+%
+
+𝑎'3! = 1 + '3! ∑'(*- 𝑏( ∙ 𝑎')( , der 𝑎- = 0 og {𝑏' } er sekvensen {0, 1, 1, 1, 1, 1, 1, …} med genererende
+funksjon 𝐵(𝑥) = 𝑥/(1 − 𝑥). Her er 𝑐' = ∑'(*- 𝑏( ∙ 𝑎')( konvolusjonen {𝑐' } = {𝑏' } ∗ {𝑎' } med
+generende funksjon 𝐶(𝑥) = 𝐵(𝑥) ∙ 𝐴(𝑥)
+
+
+
+artikler
+Vi er alle begrensete
+Inge S. Helland | Oslo
+
+Dette er den siste i serien av TG-artikler : ‘Kan statistikere forstå
+kvantemekanikken?’ Jeg vil konkludere med at svaret kan være ja, men
+et begrenset ja.
+Først : Kan et tema som diskuteres opp og ned ad stolpe blant
+fysikere ha interesse for statistikere? Bell’s ulikhet er et slikt tema. Jeg
+skal prøve å vise at noen sider ved denne diskusjonen også kan ha
+interesse for statistikere: Enhver matematisk modell er knyttet til en
+person eller til en gruppe personer, og denne personen/ disse personene
+vil alltid ha sine begrensninger.
+Fysikerne snakker om to observatører, Alice og Bob, som er så
+langt fra hverandre at de ikke kan kommunisere. Midt mellom dem er
+en kilde som sender ut par av partikler, en til hver av dem; tenk på dem
+som elektroner. Hvert par er i en tilstand av totalt spinn 0, og Alice og
+Bob måler spinnkomponenten av sin partikkel i en bestemt retning. Si
+at Alice får verdien X = θ , som kan være ±1, mens Bob får verdien
+Y = η, også ±1.
+Det er avgjørende i hvilken retning spinnkomponentene måles. Si
+at Alice har valget mellom retningene a og a0 , og kaller den tilhørende
+0
+responsen A = θ a og A0 = θ a , mens Bob velger mellom retningene b
+0
+og b0 og kaller responsen sin B = η b og B0 = η b .
+Diskusjonen blandt fysikerne går tilbake til John Bell [1]. Her
+ble spiren til det som kalles Bell’s ulikhet lagt, en ulikhet som har
+mange varianter. Den mest kjente varianten er CHSH ulikheten, lansert
+i [2]. Utgangspunktet er eksperimentet skissert over, og notasjonen
+introdusert der.
+Den avgjørende antakelsen er at variablene som jeg har kalt A, A0 , B
+og B0 ‘finnes’ i en eller annen forstand; dette må bety i det minste at
+de finnes, samtidig, i forhold til en eller annen observatør. Hvis dette
+holder, vil de alle ta verdiene ±1 (i alle fall for denne observatøren),
+og vi kan argumentere som følger.
+I forhold til denne observatøren har vi den opplagte ulikheten
+AB + A0 B + AB0 − A0 B0 = A(B + B0 ) + A0 (B − B0 ) ≤ 2.
+
+(1)
+
+Argumentet er ganske enkelt. B og B0 er enten like eller ulike. I det
+første tilfellet er B − B0 = 0 og B + B0 = ±2; i det andre tilfellet
+er B − B0 = ±2 og B + B0 = 0. Derfor er A(B + B0 ) + A(B − B0 ) lik
+enten A eller A0 (som begge er ±1) multiplisert med ±2. Alle disse
+mulighetene fører til AB + A0 B + AB0 − A0 B0 = ±2.
+Vår tenkte observatør kan nå tenke på at Alice og Bob gjør n
+gjentatte målinger på n par av partikler, der de to hver gang velger
+retninger på en eller annen måte. Han vil da ut fra (1) predikere
+AB + AB0 + A0 B − A0 B0 ≤ 2.
+
+(2)
+7
+
+
+
+Endelig kan observatøren tenke seg en eller annen matematisk
+modell for dette forsøket, der A, A0 , B og B0 er stokastiske variable.
+Uansett hvordan denne modellen er, vil han ut fra betraktningene over
+konkludere med at
+E (AB) + E (A0 B) + E (AB0 ) − E (A0 B0 ) ≤ 2.
+
+(3)
+
+Dette er den berømte CHSH ulikheten. Det meget overraskende er
+nå: 1) I kvantemekanikken kan forventningene E (AB) osv. beregnes ut
+fra det som kalles Born’s formel. Da viser det seg at retningene a, a0 , b
+og b0 kan velges slik at (3) ikke holder. Den maksimale verdien venstre
+√
+side av (3) kan ha, er 2 2. 2) En rekke empiriske eksperimenter; de
+mest nøyaktige fra 2015 var designet for å imøtegå alle innvendinger,
+har vist at til og med ulikheten (2) kan bli brutt!
+Hva kan ha gått galt med resonnementet over? La oss prøve å
+danne oss et bilde av hvordan observatøren over kan være. Vi tenker
+oss at Alice og Bob har gjort en serie på n målinger som beskrevet over,
+der de hver gang har valgt retninger a/a0 og b/b0 på en eller måte,
+fått responser A/A0 og B/B0 , og så overlatt alle dataene sine til en
+intelligent og kunnskapsrik person Charlie. Han kan for eksempel være
+statistiker. Charlie analyserer disse dataene, og gjør sine konklusjoner.
+Det første Charlie gjør, er å prøve å sette opp en matematisk
+modell for forsøket. La xi være Alice’s retning i kjøring nummer i
+og Xi den tilsvarende responsen (enten A eller A0 ). La yi og Yi være
+tilhørende verdier verdier for Bob. Som god statistiker tror Charlie på
+betingingsprinsippet, og sier at data-analysen hans må være basert på
+betingete fordelinger for X og Y , gitt x og y, Spesielt er han interessert
+i
+E (AB) = E (XY |x = a, y = b)
+(4)
+osv., i alt 4 forskjellige forventinger, knyttet til 4 forskjellige deler av
+datasettet som han har.
+For å finne (4), må han sette opp en simultan sannsynlighetsmodell
+for variablene han kaller A og B i hodet sitt. Men for å ta stilling til
+ulikheten (3), må fra ett synspunkt ha en simultanfordeling for alle
+variablene A, A0 , B og B0 . Det er her jeg mener begrensningen til Charlie
+kommer inn.
+Charlie kan ha lært seg noe kvantemekanikk, i alle fall så mye at
+han kan det som kalles Born’s formel. Ved å gjøre beregninger ut fra
+denne formelen finner man
+E (AB) = −cos(a, b).
+
+(5)
+
+Dette gir den store overraskelsen: Ved passe valg av a, a0 , b og b0
+(a ∼ 0o , a0 ∼ 90o , b ∼ 225o og b0 ∼ 135o ), finner man at venstre side
+√
+av (3) er 2 2.
+Det er mange måter Charlie kan ha lært kvantemekanikk. Hvis
+han er heldig, har han lest David Mermin’s korte notat [3]. Der hevder
+Mermin at vektorer i Hilbertrom og slike ting bare er hjelpemidler for å
+gjøre beregninger. Det eneste reelle er det som kan kalles begivenheter.
+I min egen bok [4] sier jeg at begivenheter kan være av formen ‘θ = u’,
+8
+
+
+
+der θ er en variabel knyttet til en observatør og til en fysisk kontekst,
+og der u er en av verdiene θ kan ta.
+I Bell eksperiment sammenhengen trenger man slett ikke å ha lest
+[4] for å ha dette synet. I en artikkel [5] utvikler Peter Höhn en teori
+om begivenheter knyttet til spinnkomponenter i spin 1/2 situasjoner.
+Basisen er en rekke spørsmål av typen ‘Hva blir verdiene hvis jeg
+måler spinnkomponentene θ , θ ‘ osv.?’ med tilhørende svar. Fra dette
+kan en utvikle et Hilbertrom-apparat, og assosiere spørsmål og svar
+med vektorer i dette Hilbertrommet.
+Det avgjørende er hvilken dimensjon dette Hilbertrommet har.
+Dette er alltid knyttet til en observatør og til en konkret fysisk situasjon.
+I den konkrete situasjonen over har vi 3 mulige observatører, Alice,
+Bob og Charlie.
+Se først på Alice. Hennes Hilbertrom H knyttet til en konkret
+kjøring er 2-dimensjonalt. I min tolkning av kvantemekanikken betyr
+det at hun maksimalt kan ha 2 binære variable i hodet sitt samtidig.
+Dette er en stor begrensning. La oss anta at hun på et gitt tidspunkt er i
+en tilstand der hun vet at hun har valgt retningen a og at hun har f⁀t den
+tilhørende responsen A = +1. Da kan hun samtidig tenke på 1 annen
+binær variabel, enten A0 , B eller B0 . Spesielt kan hun ikke ha alle de
+4 variablene i hodet samtidig, og hun kan ikke følge resonnementet
+bak (1) over. Dermed kan hun ikke ta stilling til gyldigheten av CHSH
+ulikheten.
+Men også Charlie har sin begrensning. Hans Hilbertrom K
+er 4-dimensjonalt. Slik jeg ser det, betyr dette at han samtidig
+kan tenke på to par av binære variable samtidig. Disse parene er
+C = (A, B), D = (A0 , B), E = (A, B0 ) og F = (A0 , B0 ). Hvert par svarer
+altså til ett av de 4 delene av datasettet som han skal analysere.
+Hvis han tenker hardt, kan han for eksempel sette opp en simultan
+sannsynlighetsmodell for for eksempel C og E, men dette er det
+maksimale han kan få til. Han er ikke i stand til å sette opp en simultan
+sannsynlighetsmodell for 3 par. Hvis han hadde i utgangspunktet klart
+å finne en simultan modell for alle variablene A, A0 , B og B0 , ville dette
+også gitt ham en modell for alle par, men dette betyr at utgangspunktet
+her må være umilig: Charlie klarer ikke på noen måte å finne en
+simultan modell for A, A0 , B og B0 .
+Slik jeg tolker det, må vi se dette som en konsekvens av det faktum
+at han ikke a priori er i stand til å tenke på alle de 4 variablene A, A0 , B
+og B0 samtidig. Han er da ikke i stand til å underskrive det enkle
+resonnementet over som førte til ulikheten (1). Dermed er han a priori
+ut fra dette heller ikke i stand til å ta stilling til gyldigheten av CHSH
+ulikheten.
+Vi kan anta at Charlie, som en kunnskapsrik observatør, hele tiden
+vet at Alice og Bob mottar partikler fra et par med totalt spinn 0. Ifølge
+kvantemekanikken betyr dette at han under hele sin analyse er i en
+bestemt tilstand i K , en tilstand som, hvis man er flink nok til å
+beregne, kan sette opp ved en bestemt compleks vektor i K . Men det
+trenger vi ikke å bry oss om her.
+Ut fra denne tilstanden kan han for eksempel sette opp en simultan
+sannsynlighetsmodell for A og B. Denne modellen kan ta mange
+9
+
+
+
+former. Men hvis han kjenner til kvantemekanikken, vil han a priori
+komme fram til det konkrete resultatet (5). Og da konkludere ut fra
+dette at det er mulig at CHSH ulikheten kan bli brutt.
+Etter dette kan han sette seg ned og analysere de dataene han har
+fått fra Alice og Bob. Og, hvis retningene a, a0 , b og b0 er passe, ikke
+bli overrasket over at middeltallene ikke tilfredsstiller ulikheten (2).
+Alt dette kommer altså fra en observatør som ut fra sin egen
+begrensning ikke er i stand til å sette opp en simultanfordeling for
+de 4 mulige responsvariablene. Enhver delvis sannsynlighetsmodell
+han måtte ha her, vil være knyttet til det vi kaller epistemiske
+sannsynligheter. Betraktningene over gir en sterk mistanke om at
+Kolmogorov’s regler ikke alltid holder for slike sannsynligheter. Når
+det gjelder kvantesannsynligheter, er det velkjent (se for eksempel [6])
+at de ikke alltid følger disse reglene.
+Ut fra de resultatene Charlie har kommet fram til, kan han gjøre
+prediksjoner. La oss si at Alice og Bell tenker på å sette igang en
+ny måle serie på n kjøringer, av sammen type, med retninger a, a0 , b
+og b0 slik at CHSH ulikheten ikke holder. I forhold til denne serien
+er Charlie i en tilstand som kan beskrives ut fra Hilbertrommet
+K1 ⊗ K2 ⊗ ... ⊗ Kn , og spesielt kan han tenke på variabelen
+Z = sign(AB + AB0 + A0 B − A0 B0 − 2), og konkludere med at med stor
+sannsynlighet, hvis n er stor nok, blir Z = +1.
+Charlie kan ha lyst til å fortelle om sine betraktninger og
+prediksjoner til endel venner. Da må han forutsette at disse vennene,
+i forhold til Bell eksperimentet, har en tilstand slik at det er mulig å
+kommunisere. Spesielt, for en enkel kjøring, må de ha en tilstand som
+svarer til Charlie’s tilstand i Hilbertrommet K . Dette medfører at disse
+også, som Charlie, har den begrensningen at de ikke kan gjennomføre
+det enkle resonnementet som førte til (1) og til Bell’s ulikhet.
+På denne måten mener jeg at vi alle har våre begrensninger. Ifølge
+Hervé Zwirn [7,8] har vi alle vår egen verden, og all virkelighet
+må relateres til en slik verden. I den forstanden finnes ingen annen
+virkelighet enn den vi kan komme fram til ved å kommunisere med
+hverandre. Men til tross for alle disse begrensningene vi har, kan vi
+ikke la være å handle.
+Hervé Zwirn og jeg arbeider nå på en felles artikkel. Argumentene
+våre ligger nær opp til diskusjonen over, men vi går mer i detalj om
+den fysiske bakgrunnen. Blant annet gir vi en eksplisitt formel for
+den tilstandsvektoren i K som svarer til Charlie’s konstante tilstand
+under hans data-analyse. I konklusjonen vår prøver vi å underbygge
+både hans grunnleggende filosofi og min epistemiske tolkning av
+kvantemekanikken som en felles basis. Og vi mener i utgangspunktet
+at en slik basis kan formuleres på en slik måte at den i prinsippet kan
+bli forstått både av fysikere og statistikere. Vi vet at dette kan virke
+ambisiøst, men det er i alle fall målet vårt.
+
+Referanser
+[1] Bell, J. (1964). On the Einstein Podolsky Rosen paradox. Physics 1,
+195-200.
+10
+
+
+
+[2] Clauser, J.F., Horne, M.A., Shimony, A. og Holt, R.A. (1969).
+Proposed experiment to test hidden-variable theories. Phys. Rev. Lett.
+49, 1804-1806.
+[3] Mermin, N. D. (2009). What’s bad about this habit? Physics Today
+62, 8-9.
+[4] Helland, I.S. (2021). Epistemic Processes. A Basis for Statistics
+and Quantum Theory. Springer, Berlin. Revidert utgave.
+[5] Höhn, P.A. (2017). Quantum theory from rules on information
+acquisition. arXiv:1612.06849v4 [quant-ph]. Entropy 19 (3), 98.
+[6] Pothos, E. M., og Busemeyer, J. R. (2013). Can quantum probability
+provide a new direction for cognitive modeling? With discussion.
+Behavioral and Brain Sciences, 36, 255–327.
+[7] Zwirn, H. (2016). The measurement problem: Decoherence and
+Convivial Solipsism. Found. Phys. 46, 635-667.
+[8] Zwirn, H. (2020). Nonlocality versus modified realism. Found.
+Phys. 50, 1-26.
+
+11
+
+
+
+Hvem er statistiker?
+Eivind Hoffmann
+
+Som mangeårig medlem av Norsk Statistisk Forening (NSF) er dette et
+spørsmål som jeg synes at NSFs styrer og medlemmer bør diskutere.
+I mange år var NSF dominert av såkalte «Byråstatistikere», dvs.
+medarbeidere i Statistisk sentralbyrå (SSB), men rundt 1985 var det
+klart at de ikke klarte å holde liv i NSF. Dette var nok i stor grad fordi
+sosialøkonomene (nå betegnet samfunnsøkonomene), sosiologene
+og geografene i SSB hadde sin faglige identitet mer knyttet til disse
+fagområdene enn til sitt arbeidsområde. Som sosialøkonom med
+arbeidserfaring fra SSB og NR, og tidligere styremedlem, støttet jeg
+derfor at statistikere med sin fagidentitet fra matematisk statistikk
+reddet NSF ved å overta makten i foreningen. Det jeg da ikke så for
+meg var at matematisk statistikk derved tilsynelatende og i praksis
+ble så dominerende i NSF at vi andre er blitt (nesten) fullstendig
+ekskludert, eller i det minste helt ignorert. Et eksempel er at det
+Nordisk statistikermøte som de nordiske statistikkforeningene har
+arrangert på omgang hvert fjerde år i mer enn 120 år, med støtte fra
+sine respektive statistiske sentralbyråer, ikke lenger annonseres eller
+omtales i Tilfeldig gang. Det siste møtet fant sted i Helsinki i august
+2019, jf. https://nsm2019.fi/.
+Er det virkelig slik at det ikke regnes som statistisk arbeid å
+samle inn data som kan danne grunnlag for statistikk, gjennom
+spørreundersøkelser til personer og bedrifter, sørge for at disse og
+andre (ofte administrative) registreringer av begivenheter, personer,
+bedrifter og miljørelaterte fenomener registreres og lagres på en
+måte som gjør at de kan brukes som grunnlag for statiststikk; og at
+heller ikke arbeidet med å lage gode verktøy for slikt arbeid (f.eks.
+innsamlingsmetoder og klassifikasjoner) regnes som statistisk arbeid?
+Dette er jo grunnlagsarbeid bl.a. for å kunne få et datagrunnlag for
+bruk av matematisk statistiske metoder.
+Dette innlegget ble ferdig 31. mars, etter at det i Norge hadde vært
+rapportert om at det fram til da var registrert 37 dødsfall som involverte
+Covid-19 epidemien: det første ble meldt 26. februar. Det tallet må
+sees i sammenheng med at det i 2019 var 40 100 dødsfall i Norge, dvs.
+rundt 110 per dag, Ved sammenligning med dødsfall i andre land, bør
+vi også huske at vi ikke vet om de norske tallene gjelder personer med
+Covid-19 som viktigste dødsårsak, mens tallene fra f.eks. Italia og
+Spania kan gjelde alle med sars-cov-2 virus påvist.
+Fra Frisch-senteret kom det 27. mars 2020 en første
+rapport om arbeidsmarkedet under Korona-krisen: «Hvem tar
+støyten?», jf. https://www.ssb.no/arbeid-og-lonn/artikler-ogpublikasjoner/den-okte-arbeidsledigheten-rammer-bredt-men-skjevt
+For en arbeidsmarkedsstatistikker og -økonom er den interessant, selv
+om det den viser ikke er uventet. Bl.a. viser den at av alle frisører
+og kosmetologer som i mai/juni var meldt som arbeidstakere til
+A-registeret var det 22. mars 2020 om lag 66 prosent som hadde søkt
+om støtte fra NAV. Imidlertid er dette nok et altfor lavt anslag på
+12
+
+
+
+andelen frisører/kosmetologer som hadde mistet jobben på grunn av
+tiltakene mot spredning av sars-cov-2 smitten. Svært mange av disse
+var nemlig selvstendige, og var derfor ikke meldt til A-registeret, selv
+om de arbeidet i en frisør-/kosmetikksalong som eies av en bedrift:
+de «bare leide arbeidsplass og utstyr» der. Tilsvarende funn er nå
+rapportert fra mange land, og internasjonale organisasjoner som OECD
+og IMF baserer mange anbefalinger på dette.
+At det er blitt så mye rapportering om statistikk i norske medier
+bør vel glede alle typer statistikere, men mye av det som sies viser
+kanskje at vi ikke har vært flinke til å gi journalistene (og legene?) god
+nok forståelse av statistikk. Som eksempel kan nevnes at ordet ‘påvist’
+vanligvis droppes i omtalen av ‘antall med sars-cov-2 virus’, og at
+andelen påvist smittede i en testet befolkning ikke nevnes i de daglige
+nyhetsmeldingene om utviklingen i smitteomfanget.
+Tilsier ikke dette at statistisk arbeid omfatter mer enn bruk av
+matematisk-statistiske metoder, og at NSF vel bør være interessert i å
+ha alle typer statistikere blant sine medlemmer?
+Eivind Hoffmann (eks. SSB, NR, ILO og UDI)
+
+Tilsvar fra NSF-leder
+Henning Omre | Trondheim
+
+Takk til Eivind Hoffmann - som reiser en problemstilling som er
+viktig for NSF - Hvordan kan NSF ’være et bindeledd mellom norske
+statistikere og fremme deres faglige og profesjonsmessige interesser’ ?
+- som det heter i Vedtektene. La meg først understreke at NSF er en
+forening ’for alle med interesse for statistikk og med ønske om å bidra
+til statistikkfagets utbredelse og innflytelse i samfunnet.’ Det er altså
+ingen krav til utdannings-bakgrunn - kun interesse for statistikk.
+Når det er sagt - så er det helt klart at matematisk-statistikk
+miljøene i U&H-sektoren for tiden utgjør den mest synlige delen
+av NSF. Jeg - som Leder av NSF - skulle gjerne sett at miljøene i
+anvendt statistikk med mange hovedfags-utdannede statistikere var mer
+aktive og synlige. Statistikk-fagets fremtid avhenger av vellykkede
+anvendelser av faget.
+NSF Styret 2019-21 har tatt et par initiativ som peker i den retning
+Eivind H etterspør: Vi var svært aktive i SSB Statistikk-konkurranse
+for skoleverket 2021 og vi fremmer et forslag om opprettelse av Fag
+seksjoner i NSF på Hovedmøtet 2021.
+NSF bør absolutt speile mangfoldet av statistikk-anvendelser bedre
+enn det gjør idag - men for å realisere det må anvendte statistikere
+bidra selv.
+Henning Omre/25.05.2021
+
+13
+
+
+
+USIKKERHET I MÅLINGER
+Et varsko og en bokanmeldelse
+Gunnar Taraldsen
+Institutt for matematiske fag
+Norges teknisk-naturvitenskapelige universitet
+9. april 2021
+Sammendrag
+Dette er et varsko og en bokanmeldelse av boken “Usikkerhet og støy
+i målinger” av Jonsdottir (2016, s.1-105). Laboratorieoppgaver er mange
+studenters første møte med statistikk, og det er naturlig å kombinere dette med undervisning i statistikk slik boken gjør. Boken anbefales som et
+verdifullt supplement til de mere kortfattede notatene som brukes for eksempel ved laboratorieoppgaver i fysikk (Risinggård, 2018, s.1-3) (Lilledahl
+and Risinggård, 2017, s.1-4) (Strand, 2011, s.1-7).
+Bokens store styrke er at den behandler usikkerhet slik JCGM (2008) 1
+beskriver det - og dermed i samsvar med Norsk Standard og Meterbyrået
+(BIPM). Jeg har et varsko til statistikere og brukere av statistikk:
+DET FINNES EN NASJONAL OG INTERNASJONAL GUIDE
+FOR FORMULERING AV USIKKERHET PÅ EN STANDARDISERT MÅTE. BRUK DEN!
+Dette er - etter min mening - noe ethvert innføringskurs i statistikk må
+formidle. Begrunnelsen er like innlysende som at ethvert studium i fysikk
+må formidle at det finnes et standardisert system for måleenheter gitt av de
+syv grunnenhetene i det internasjonale enhetssystem (SI) (BIPM, 2019).
+Når du kjøper en 1kg appelsiner kan det være nyttig å ha en presis
+definisjon av hva 1kg betyr. På samme måte er det nyttig å ha en presis
+definisjon av usikkerhet. JCGM (2008) gir en slik definisjon, og den kan
+brukes generelt. Den er ikke begrenset til enkle målinger av enkle fysiske
+størrelser. Enhver observasjon er en måling.
+1
+
+In 1997 the Joint Committee for Guides in Metrology (JCGM), chaired by the Director of the
+BIPM, was formed by the seven International Organizations that had prepared the original versions of the Guide to the expression of uncertainty in measurement (GUM) and the International
+vocabulary of basic and general terms in metrology (VIM).
+
+1
+
+
+
+Figur 1: Vi, og isbjørnen, har et klimaproblem!
+
+1
+
+Innledning
+
+Venstre del av figur 1 viser forsiden på Helga Jonsdottirs bok. Hun minner oss om at
+covid-19 pandemien er som en krusning i forhold til flodbølgen av menneskeskapte
+ødeleggelser av jordens klima. Samtidig er det en påminnelse om at usikkerhet
+er sentralt også der. Filosofiske problemstillinger omkring usikkerhet kan være
+altoppslukende, men usikkerhet er også praktisk viktig. En presis definisjon av
+usikkerhet - slik som for SI enhetene i høyre del av figur 1 - er praktisk viktig. All
+honør til Helga Jonsdottir for å minne oss om alt dette!
+I tillegg til en presis definisjon av usikkerhet er det viktig å ha et forhold til
+hva usikkerhet betyr i ulike sammenhenger. Figur 2 viser at en fysikkstudent i sitt
+andre studieår ved Linjen for teknisk fysikk høsten 1984 hadde ukentlige laboratorieoppgaver. Hensikten med første oppgave var å få øvelse i analyse av usikkerhet!
+I første studieår hadde studenten ukentlige laboratorieøvinger i både fysikk og kjemi. I andre semester våren 1984 - i sitt første studieår - hadde studenten emnet
+Statistikk 1 som til all lykke ble forelest av professor Arnljot Høyland. Bind 1 av
+Høylands lærebok (Høyland, 1979) var et perfekt følge. Dette var en meget heldig
+og lykkelig student. Jeg skulle ønske jeg var denne studenten!
+En av videreføringene av Linjen for teknisk fysikk (1932-) er fra 2006 kalt
+studieprogram Fysikk og Matematikk (Hemmer and Svare, 2007, p.32). Dagens
+studenter her har fortsatt laboratorium i fysikk og kjemi de to første årene, men
+2
+
+
+
+Figur 2: Øvelse i analyse av usikkerhet i laboratorium i generell fysikk høsten 1984.
+Statistikk blir uheldigvis forelest først i andre studieår. Kloke hoder har besluttet
+at det er viktigere å ha emnet Examen philosophicum for naturvitenskap og teknologi allerede i første studiesemester. Et tilsvarende fag er tradisjonelt ved åpne
+universitetsstudier, men var med gode grunner ikke en del av det opprinnelige
+sivilingeniørprogrammet.
+Andre studenter i det 5-årige sivilingeniørprogrammet er enda dårligere behandlet ved at de får Statistikk først i tredje studieår. Denne håndteringen av
+statistikkfaget er i samsvar med at statistikk og sannsynlighet er totalt fraværende i de nye læreplanene i studieforberedende programfag i matematikk fellesfag
+(Utdanningsdirektoratet, 2019, matematikk 1T). Det er nærliggende å følge en
+tidligere kollega og lærers eksempel: Skaffe meg en button med påført slagord eller
+symbol for i desperasjon å si hva jeg mener om politikernes og pedagogene sitt
+valg her. Jeg er glad jeg ikke er utsatt for pedagogenes valg som student i dag!
+
+2
+
+En bokanmeldelse
+
+Ved andre av landets utdanningsinstitusjoner er statistikkfaget bedre integrert i
+annen undervisning. I følge forfatteren Jonsdottir (2016, s.3) ble boken til ved
+at man ved Høgskolen i Bergen ønsket å undervise måleteknikk sammen med et
+grunnkurs i statistikk for ingeniørstudenter. Det ble utarbeidet et fag der laboratorieoppgaver ble en viktig del, og regneoppgaver ble knyttet til egne målte eller
+simulerte data. Samarbeid med fysikere ved Institutt for elektrofag var sentralt.
+Dette fremstår som en prinsipielt god løsning.
+Kapittel 1 til 5 består av en Innledning (1) og kortfattede betrakninger omkring henholdsvis Målinger (2), Tallfesting av målinger (3), Måleteknikk (4) og
+Målesystemer (5). De siste to av disse er mest omfattende og er tydelig preget av
+innspill fra fysikere med bakgrunn fra elektrofag og signalbehandling. I kapittel
+4 er det også enkle oppgaver omkring målevariable, forventningsverdi og stan3
+
+
+
+dardavvik som mål på henholdsvis posisjon og spredning. Grafer av tettheten til
+normalfordelingen er brukt som illustrasjon. Oppgavene i kapittel 5 omhandler
+temperaturavhengighet til følsomheten til en termistor og en strekklapp utledet
+fra tilhørende karakteristikker.
+Kapittel 6 med tittel Statistikk (6) er første hovedkapittel i boken. Sidene 25-38
+gir en kortfattet innføring. Motivasjonen er at statistikkfaget gir metoder for å se
+på og vurdere data som er beheftet med usikkerhet. Til tross for at innføringen er
+meget kortfattet presenteres mange begrep, symboler og definisjoner gitt av JCGM
+(2008). Dette er utelatt i alle andre innføringsbøker i statistikk som jeg kjenner til.
+Høyland (1979) kan unnskyldes for å ikke omtale definisjonene fra JCGM (2008),
+men andre senere formidlere av statistikkfaget kan ikke unnskyldes ved samme
+argument.
+De viktigste begrepene fra JCGM (2008) er her gitt ved (Jonsdottir, 2016, s.2930) presisjon, nøyaktighet, oppløsning, avlesningsusikkerhet, standard usikkerhet
+u, dekningsfaktor k, utvidet usikkerhet ku og kombinert standard usikkerhet. I tillegg defineres de mer familiære begrepene forventning, varians, standardavvik og
+standardfeil (til en estimator) for en populasjon og for et utvalg. Kapittel 6 avsluttes med enkle oppgaver omkring tilfeldige utvalg fra en normalfordelt målevariabel
+M . Stikkord er gitt ved uavhengighet, utvalgsstørrelse, fordeling til minste observasjon, største observasjon, og spredningsintervall til en målevariabel.
+Forfatteren Jonsdottir (2016, s.3) skriver at det kreves at man har kunnskap i
+grunnleggende sannsynlighetsteori og statistikk. Her settes imidlertid listen svært
+lavt i praksis. Det faglige nivået i presentasjonen er vesentlig lavere enn i for
+eksempel læreboken til Høyland (1979). Normalfordelingen brukes, men det finnes
+ingen formel som definerer den. Integrasjon - som brukes flittig av Høyland (1979)
+- brukes ikke i det hele tatt. Derivasjon av enkle uttrykk er hovedverktøyet.
+Det faglige nivået i læreboken (Jonsdottir, 2016) er godt valgt ut fra at det
+er beregnet brukt i et grunnkurs i statistikk for ingeniørstudenter. Studenter i de
+5-årige sivilingeniørprogrammene ved NTNU vil også ha stor nytte av boken, men
+nivået kunne da mer ideelt legges litt høyere og i samsvar med nivået på boken til
+Høyland (1979).
+På den annen side kan nivået tenkes å være passelig valgt i forhold til flertallet av dagens og fremtidens studenter ved sivilingeniørprogrammene. Politikere og
+pedagoger har nylig fjernet sannsynlighetsregning og statistikk fra læreplanene i
+matematikk fellesfag (Utdanningsdirektoratet, 2019, matematikk 1T). I tillegg til
+dette fraværet av sannsynlighetsregning og statistikk har problemløsning ved digitale verktøy og programmering vært et sentralt kompetansemål i matematikk i flere
+år. Dette er så sentralt at eksamen er todelt ved at en del krever bruk av digitale
+verktøy. Konsekvensen av pedagogenes prioritering er dermed at førsteårsstudenter
+i realfag har mye svakere forkunnskaper i matematikk enn tidligere studenter.
+
+4
+
+
+
+Kapittel 7 har tittel Usikkerhet (7) og er andre hovedkapittel i boken. På sidene
+39-78 presenteres bokens hovedinnhold. Jonsdottir (2016, s.41) tar utgangspunkt
+i definisjonene gitt av JCGM (2008, GUM), men støtter seg også til samsvarende
+presentasjon gitt av Coleman and Steele (2018). Jeg anbefaler hermed sistnevnte
+referanse som en kilde til en mer utfyllende diskusjon, men JCGM (2008, GUM)
+er den sentrale kilden.
+Delkapittel 7.1 forklarer forskjellen på type A og type B evaluering av usikkerhet. Type A evaluering er typisk gitt ved statistisk analyse av gjentatte målinger.
+Type B evaluering kan gjøres uten gjentatte målinger og er basert på antakelser
+og kunnskap om variasjon i variabelen. Dette illustreres ved antagelser om henholdsvis normalfordeling, trekantfordeling og firkantfordeling.
+Standard usikkerhet
+√
+u til en firkantfordeling med bredde a er u = a/ 3. Type B evaluering illustreres ved eksempel 7.1 (Kalibreringssertifikat) til eksempel 7.7 (Vekt til gjenstand).
+Eksemplene er konkrete og illustrerer godt evaluering av type B usikkerhet.
+Type A evaluering er mer velkjent territorium for statistikere. Det påpekes at
+en vanlig misforståelse er gitt ved at type A evaluering er mer pålitelig eller mer
+objektiv enn type B evaluering. Leseren oppfordres til å tenke kritisk omkring alle
+antagelser som skal være oppfylt for en gyldig analyse. Det gis et enkelt eksempel
+7.8 med beregning av standard usikkerhet u og utvidet usikkerhet ku basert på
+20 gjentatte målinger. Det forklares at en dekningsfaktor k = 2 tilsvarer et 95%
+konfidensintervall.
+Delkapittel 7.2 forklarer hva en målefunksjon er ved gode og konkrete eksempel
+7.9 til eksempel 7.12. I utgangspunktet er en målefunksjon gitt ved at en ønsket
+størrelse er gitt som en funksjon av andre størrelser. Jonsdottir (2016, s.51) observerer at en i noen situasjoner kan velge mellom flere ulike målefunksjoner, og at
+dette tilsvarer et valg mellom ulike estimatorer. En estimator som er forventningsrett og med liten varians vil da ofte fortrekkes.
+Delkapittel 7.3 fokuserer på presentasjon av måleresultater og spesielt valg av
+antall desimaler i forhold til usikkerheten. Ofte kreves at usikkerhet gis kun i siste
+siffer og maksimalt i to siste siffer. Delkapittel 7.4 består av oppgaver som gir
+leseren praktisk øvelse.
+Delkapittel 7.5 forklarer beregning av kombinert standard usikkerhet med utgangspunkt i en målefunksjon. Dette er nok kapittelet som er mest krevende for
+studentene. Hovedpoenget er at en målefunksjon kan lineariseres og dette kan brukes til estimering av en kombinert standard usikkerhet som resultat av standard
+usikkerhet til inngangsvariablene og deres korrelasjon. Følsomhetsfaktoren til en
+inngangsvariabel er gitt via derivasjon, eller den beregnes tilnærmet ved endelige
+differanser (Jonsdottir, 2016, s.62). Eksempel 7.13 til 7.19 gir gode og praktiske
+illustrasjoner av begrepene.
+Delkapittel 7.6 illustrerer den praktiske nytten av usikkerhetsbudsjett i tabell-
+
+5
+
+
+
+form og delkapittel 7.7 avslutter kapittelet med en serie oppgaver. Kapittel 8 omhandler kalibrering, kapittel 9 omhandler sensitivitet i målesystem og kapittel 10
+gir løsning på oppgaver gitt tidligere i boken. Bakerst i boken finnes et emneregister
+og en bibliografi med seks referanser.
+
+3
+
+Diskusjon og konklusjon
+
+Det er fristende å gi en egen frittstående presentasjon av kravene formulert av
+JCGM (2008), men det får vente til en annen gang. Boken til Jonsdottir (2016) gir
+det viktigste: En måling skal alltid formuleres sammen med en standard usikkerhet.
+Denne beskjeden er som i de fleste kurs i statistikk, men dette er også et krav i følge
+JCGM (2008) komiteen ledet av Meterbyrået (BIPM)2 . Norge har vært medlem i
+Meterbyrået fra opprettelsen i 1875 og er i dag representert ved Justervesenet.
+Gjennom sitt tilsynsarbeid sørger Justervesenet for tillit til at måleresultater
+er tilstrekkelig nøyaktige. Vi omgir oss alle daglig med måleresultater bl.a. som
+grunnlag for økonomiske oppgjør. Dette kan være når vi fyller bensin, når vi kjøper
+grønnsaker eller ferdigpakkede produkter hos kjøpmannen. Andre områder er der
+industribedrifter selger eller kjøper produkter basert på vekt eller volum, når Biltilsynet kontrollerer om det er overlast på lastebilen, eller når oljeselskapene betaler
+bensinavgift basert på de målerne som benyttes på tankanleggene. Felles for alle
+disse eksemplene er viktigheten av å kunne stole på at måleresultatet er tilstrekkelig nøyaktig. Det er da viktig å følge en felles standard for å oppgi usikkerhet.
+JCGM (2008) gir en generell metode som kan brukes i alle tilfeller. Dette gjelder
+ikke bare enkle målinger, men også målinger gitt ved psykologenes instrumenter
+(standardiserte spørreskjema) og mer kompliserte modeller som brukes i for eksempel biostatistikk. Metoden kan i de fleste tilfeller forbedres ved mer avansert
+analyse, men det viktigste kravet gjenstår: Standard usikkerhet skal dokumenteres
+av de som presenterer målingene.
+I tillegg til kombinert standard usikkerhet gir JCGM (2008) også en generell
+metode for beregning av dekningsfaktor k. Welch-Satterthwaite metoden (JCGM,
+2008, s.73) er forklart i en forenklet utgave også i læreboken (Walpole et al., 2012,
+s.289) som brukes i statistikk grunnkurset i det 5-årige sivilingeniørprogrammet
+ved NTNU. Notasjon og konvensjoner med standard usikkerhet u, dekningsfaktor
+k og utvidet usikkerhet ku er hensiktsmessige og anbefales hermed.
+Konklusjonen er et varsko til statistikere og brukere av statistikk:
+2
+
+In 1997 the Joint Committee for Guides in Metrology (JCGM), chaired by the Director of
+the BIPM, was formed by the seven International Organizations that had prepared the original
+versions of the Guide to the expression of uncertainty in measurement (JCGM, 2008, GUM) and
+the International vocabulary of basic and general terms in metrology (JCGM, 2012, VIM).
+
+6
+
+
+
+DET FINNES EN NASJONAL OG INTERNASJONAL GUIDE
+FOR FORMULERING AV USIKKERHET PÅ EN STANDARDISERT MÅTE.
+BRUK DEN!
+
+Referanser
+BIPM (2019). The International System of Units (SI). Technical report.
+Coleman, H. W. and W. G. Steele (2018). Experimentation, Validation, and Uncertainty Analysis for Engineers (4th edition ed.). Hoboken, NJ, USA: Wiley.
+Hemmer, P. C. and I. Svare (2007). Linjen for teknisk fysikk ved NTH og dens
+videreføring: 75 år 1932-2007. Norges teknisk-naturvitenskapelige universitet,
+Institutt for fysikk.
+Høyland, A. (1979). Sannsynlighetsregning Og Statistisk Metodelære, Volume I-II.
+Tapir, 3. utgave.
+JCGM (2008). Evaluation of measurement data — Guide to the expression of
+uncertainty in measurement (GUM). Technical report, Geneve.
+JCGM (2012). International vocabulary of metrology – Basic and general concepts
+and associated terms (VIM). Technical report.
+Jonsdottir, H. (2016). Usikkerhet Og Støy i Målinger. Fagbokforlaget.
+Lilledahl, M. and V. Risinggård (2017). Målinger og usikkerhet. Technical report,
+Institutt for fysikk, Norges teknisk-naturvitenskapelige universitet, Trondheim.
+Risinggård, V. (2018).
+Bestemmelse av tyngdeakselerasjonen via rulling
+på skråplan.
+Technical report, Institutt for fysikk, Norges teknisknaturvitenskapelige universitet, Trondheim.
+Strand, K. A. (2011). Foroppgave i usikkerhetsanalyse – Viskositet i glyserol. Technical report, Institutt for fysikk, Norges teknisk-naturvitenskapelige universitet,
+Trondheim.
+Utdanningsdirektoratet (2019). Læreplan i matematikk fellesfag Vg1 teoretisk
+(Fastsatt som forskrift 15.11.2019). Technical report.
+Walpole, R., R. Myers, S. Myers, and K. Ye (2012). Probability & Statistics for
+Engineers & Scientists (Ninth ed.). Boston: Pearson.
+7
+
+
+
+A Wizard Predicts New COVID-19 Cases
+doi:10.13140/RG.2.2.18967.60324
+
+Gandalf Olórin KnowledgeΩ
+December 19, 2020
+Abstract
+I was given the number of daily new Norwegian COVID-19 cases for the
+period from February 21th to November 10th. It started off with 1 new case
+and on November 10th there were 599 new cases. I predicted, rounded to
+the nearest hundred , that there would be 700, 600, 700, 400, and 400 new
+cases the next five days. The next five days gave, rounded to the nearest
+hundred: 700, 600, 700, 400, and 400 new cases. This note explains the
+magic. 1
+Keywords: conditional probability; likelihood; time series;
+
+Figure 1 shows the daily number of new COVID-19 cases in Norway. Based
+on this I was asked to predict the daily numbers for November 11th to 15th.
+The actual daily numbers are now known, and are presented together with my
+predictions (and two greeningly inferior predictions) in Figure 2. The aim of
+this note is to explain the magic in elementary terms. Note, however, that a true
+understanding can only be obtained after years of study at a major school of magic
+- and these are predicted to disappear in the near future. So, hurry on!
+It is clear that the future numbers of COVID-19 occurrences are uncertain.
+My predictions are based on conversations with fellow wizards Bernoulli (1713,
+Ars conjectandi), Pearson (1920, correlation), Kolmogorov (1933, conditional expectation), Doob (1953, stochastic processes), Fisher (1973, likelihood), and Engle
+(1982, conditional variance model). 2 It turns out, for the given data, that including a conditional variance model outperforms a purely conditional mean model as
+shown in Figure 2. Explanations of some of the main ideas in the conversation
+with my fellow wizards follow below.
+1Ω
+
+Beware! The One Space, Ω, rules them all! Disclaimer: This is NOT research on COVID19. Transcribed from communications in norønt by the humble servant G. Taraldsen.
+2
+Robert Fry Engle III, together with Clive Granger, received the 2003 Nobel Memorial Prize
+in Economic Sciences for methods of analyzing economic time series with time-varying volatility.
+
+1
+
+
+
+Figure 1: Daily numbers y−7 , y−6 , . . . , y256 of new reported cases of COVID-19 in
+Norway from February 21th to November 10th 2020.
+According to Bernoulli (1713, ch 2 in part 4), the art of conjecture is:
+The art of measuring, as precisely as possible, probabilities of things,
+with the goal that we would be able always to choose or follow in our
+judgments and actions that course, which will have been determined to
+be better, more satisfactory, safer or more advantageous.
+I will now apply this art to our problem. Let A = (U = u) be the event corresponding to the observed numbers u = (y−7 , y−6 , . . . , y256 ) of COVID-19 occurrences on
+days from February 21th to November 10th. Let B = (V = v) be the event
+corresponding to the five unknown 3 numbers v = (y257 , . . . , y261 ) of COVID-19 occurrences from November 11th to November 15th. The uncertainty of the unknown
+event B, when A is known, is given by the conditional probability
+P(B | A) =
+
+P(A ∩ B)
+P(A)
+
+(1)
+
+The interpretation of this conditional probability is, as explained by the Bernoulli
+(1713, golden theorem, part 4) law of large numbers: The theoretical limit of the
+relative number of success, but restricted to outcomes in A.
+How can the conditional probability P(B | A) be used to predict the COVID-19
+cases on November 11th-15th? Let f (u, v) = P(A ∩ B) and let P
+f (v | u) = P(B | A).
+It follows then that f is a probability density in the sense that u,vPf (u, v) = 1. It
+also follows that f (v | u) is a conditional density in the sense that v f (v | u) = 1,
+and f (u, v) = f (v | u)f (u) from equation (1).
+3
+
+Unknown then, on November 10th, or unknown if you have not seen the five numbers.
+
+2
+
+
+
+Figure 2: Observed and predicted cases of COVID-19.
+How can the conditional density f (v | u) be used for prediction? More generally:
+How can the probability distribution of a random quantity R be used to predict
+its value? The textbook answer is the expectation E(R). Then, for our problem,
+the textbook answer is the conditional expectation
+X
+vf (v | u)
+(2)
+Eu (V ) =
+v
+
+This is not the best choice in this case as demonstrated in Figure 2. A better choice
+is the component-wise conditional median from the conditional density f (v | u).
+The forecasts in Figure 2 have been computed simply as the empirical median and
+empirical mean of 1001 samples from the conditional density f (v | u). What can
+we learn from this? Students of magic should not only learn about the expected
+value, but also learn about the median, and its relatives.
+But wait! The conditional density f (v | u) is unknown since the density f is
+unknown. This is true, so the sampling giving Figure 2 has been done based on
+an estimate of f . Beware! This is the point in our tale where true magic appears.
+Elementary estimation of a density f can be done starting with for instance a
+histogram based on repeated observations from the density. A slightly improved
+method is sometimes given by introducing a parametric model f θ (y) for the density,
+followed by estimating the model parameter θ by setting a suitable number of
+moments equal to the corresponding empirical moments. These methods give
+nothing, or very little, if only one observation from the density f is given. In our
+case, we do not even have 1 single observation from the density! All that is given
+is the part u of 1 observation y = (u, v). True magic is needed!
+Fisher (1973) comes in, after Bernoulli (1713), and solves the problem: Use
+the model density f that maximizes the likelihood of the actual observation. The
+3
+
+
+
+likelihood is, in our case, given by
+L(θ) =
+
+256
+Y
+
+t=−7
+
+f (ut | ut−1 , . . . , u−7 )
+
+(3)
+
+with the understanding that f depends on θ. For our problem it turns out that a
+particular model where θ is given by four numbers performs well. The estimate of
+θ used for the simulations giving Figure 2 was obtained by numerical optimization
+of the likelihood in equation (3).
+How did I come up with a parametric model for our problem? A first convenient
+simplification is to consider the transformation Yt = floor(exp(St )). It follows that
+a model for St gives a model for Yt , so I seek a model for St . One motivation behind
+the transformation is that St can take all real numbers as its values. Another
+motivation is that a symmetric distribution for St gives a skewed distribution for
+Yt . Further motivation exist, but I will remain silent on this.
+Equation (3), and it’s version with st replacing ut , motivates to consider a
+recursion equation where st is determined by it’s past values st−1 , st−2 , . . ., and a
+white noise source term. Assuming the white noise is Gaussian it turns out that
+Pearson (1920) correlation together with some helpful hints from Doob (1953) give
+a model with a reasonable prediction as shown in green in Figure 2.
+Investigating the previous resulting noise term shows, however, that the white
+noise cannot be Gaussian. The estimated noise is white, but squaring the noise
+gives a correlated noise sequence. Now! Engle (1982) comes in and saves the day.
+He showed that this phenomena can be modeled by a conditional variance model.
+The resulting model, after some pondering and analysis (doi:10.13140/RG.2.2.23540.37769),
+7
+is given
+− 0.32(5)B 7 )Zt ,
+√ by three equations: (1 − B)(1 − B )St = (1 − 0.35(4)B)(1
+2
+Zt = ht Wt , and (1 − 0.90(1)B)ht = 0.001 + 0.10(1)BZt . Here B is the backshift operator, BXt = Xt−1 , and . . . , W−1 , W0 , W1 , . . . is a doubly infinite random
+sample from the standard normal distribution.
+The notation 0.35(4) = 0.35 ± 0.04 indicates, in accordance with ISO (1995),
+a standard uncertainty equal to 0.04 with a corresponding approximate expanded
+uncertainty of 0.08 for a confidence level of 95%. A similar interpretation holds for
+the three remaining estimates of the components of θ. All students, and magicians,
+be aware! It is useful to have a standard for uncertainty!! Just as it is useful to have
+standard units for length, mass, and similar: All is provided by the International
+Organization for Standardization (ISO), and it’s partners.
+But! Kolmogorov (1933)? Yes, he has been there all the time, but hidden as in
+most texts on magic. There is, One Space, Ω, that rules it all. The axioms of the
+probability space Ω are presented in elementary texts on magic, but most often
+in a faulty way. Many say, for instance, that an event by definition is the same
+as a subset of Ω. Some magicians play the trick of using this erroneous definition
+4
+
+
+
+when teaching younger students of magic. Shame on them! Thou shalt not lie! It
+is wrong. Every subset is not an event. Just as every function is not continuous
+or infinitely differentiable.
+Solving the above given three equations involve limits of infinite sums of random
+variables. Proof of this requires the foundation given by the axioms of Kolmogorov
+(1933), or some generalization thereof. The same holds for the definition of the
+expectation E(R), and countless other concepts. Without the axioms, the magic
+disappears, bewildering dominates, and all that is left is endless handwaving when
+’paradoxes’ appear.
+Tyche, the goddess of chance, also known as Fortuna in the positive minded
+Roman culture, plays the lead figure in this tale. Tyche selected the One Outcome
+ω in the One Space Ω before the appearance of time. As a goddess she did this
+only once - of course. By this she rules all events such as floods, droughts, frosts,
+or even in politics, when no cause can be discovered. This was described already
+by the Greek historian Polybius, but I provide here the version formulated more
+recently by Kolmogorov (1933).
+In our example, we are given the value u = U (ω), but ω remains unknown. In
+fact, the One Space Ω, that rules it all, will also always remain unknown. How can
+I then, at November 10th, say anything about the value v = V (ω) for the days to
+follow? This has already been explained! A summary of the arguments are given
+by
+(i) Axioms ensure existence of all probabilities P(A) = P{ω | U (ω) = u} . . .
+(ii) The likelihood gives an estimate of the model.
+(iii) Prediction is based on the conditional probabilities P(B | A).
+The above argument can be enhanced if a Bayesian prior distribution for θ = Θ(ω)
+can be motivated. Alternatively, the fiducial arguments of Fisher (1973) can be
+used. In either case, the last two steps are then modified accordingly. Tyche, the
+goddess of chance, rules, of course, also over the choice of model θ. As noted, there
+is One Space, Ω, that rules them all. Beware! Tyche is Ω.
+The methods used for estimation and forecast are standard, and can most
+possibly be improved. It is, however, a challenge, for You, to get predictions that
+outperforms the ones given in Figure 2. Hints are possibly given by the finishing
+list of comments focused on the given prediction problem.
+1. It’s hard to be a Nissemann, and also a Bayesian. But interesting and fun!
+2. How can a prior be chosen - without interpretation of the model parameters?
+3. Objective Bayes? Fiducial inference? Confidence distribution?
+5
+
+
+
+4. Focus parameter? Loss function? Choice of model?
+5. Can machine learning4 outperform the classics?
+Funding for research in true magic is, sadly, scarce and decreasing in Norway. The
+government decided to put a ’university’ on every hill, and spread the already
+lacking funding accordingly. There are many hills of different and dark origin and also so in Norway. True schools of magic will not be there in the future.
+The financing structure ensures that this is universally so. Formerly true schools
+of magic are transformed to the consultancy firms and research institutions with
+which they are competing with in ’research’ proposals. Product development, with
+deadlines and clearly formulated work packages, is the golden standard.
+The new managing director for the Research Council of Norway (RCN) comes
+then, not to my big surprise, directly from a leading position in the The Confederation of Norwegian Enterprise (NHO). NHO is Norway’s largest organisation for
+employers and the leading business lobbyist. It clear that funding for true magic
+will continue to be essentially absent in Norway. 5
+The teaching and education are measured in a similar way, but now guided by
+popularity quests. Some magicians, possibly guided by this misguiding popularity
+quest, choose to demonstrate ’magic’ for students by pointing line by line on
+computer scripts and the resulting graphics. This disease has gone even further in
+pre-magic schools: The exams are divided in two parts, where one part is pointand-click repetition of what the pre-teachers have demonstrated. The student
+majority are often very happy with this. How could they know better? They
+are students, and hence lacking in knowledge. This lack is exactly why they
+are students! The politicians, possibly also somewhat lacking in knowledge, are
+superhappy with this: The ’university’ is then using the modern tools of computer
+science. Hurra, Hurray! The magic, which is in the subject matter, is lost.
+
+References
+Bernoulli, J. (1713). Ars Conjectandi (The Art of Conjecturing, Translated by
+Edith Sylla 2005). Johns Hopkins Univ Press.
+Doob, J. L. (1953). Stochastic Processes. Wiley.
+Engle, R. F. (1982). Autoregressive Conditional Heteroscedasticity with Estimates
+of the Variance of United Kingdom Inflation. Econometrica 50 (4), 987–1007.
+4
+
+Read: Modern computer intensive statistical methods. Beware! The classical methods are
+also developing. Time has not stopped.
+5
+The last yearly round of RCN applications in Norway gave support to only 1 research project
+(FRIPRO) in true magic (topology this time).
+
+6
+
+
+
+Fisher, R. A. (1973). Statistical Methods and Scientific Inference. Hafner press.
+ISO (1995). Guide to the Expression of Uncertainty in Measurement. International
+Organisation for Standardization.
+Kolmogorov, A. (1933). Foundations of the Theory of Probability. Chelsea (1956).
+Pearson, K. (1920). Notes on the history of correlation. Biometrika 13 (1), 25–45.
+
+7
+
+
+
+nye phder
+Information in local curvature
+Berent Ånund Strømnes Lunde | Bergen
+
+Avanserte statistiske beregninger har i de senere år blitt mer populære
+og endelig fått utstrakt bruk, samtidig som data-science har blitt
+et kjent begrep i både akademia og næringslivet. En av de mest
+anvendelige og sterkeste metodene for regresjonsproblemer, når det
+kommer til ren prediksjonskraft, er gradient tree boosting. Popularisert
+gjennom XGBoost i 2014, og i senere tid LightGBM og CatBoost, har
+gradient tree boosting vunnet en mengde maskinlæringskonkurranser,
+og er i dag i bruk i både små og store bedrifter over hele verden. Et
+problem er at alle de tre overnevnte implementeringene har en mengde
+hyperparametrer som er lagt opp til å bli stilt inn gjennom bruk av
+et datasett for validering eller gjennom kryssvalidering. Dette er
+beregningsmessig svært ressurskrevende, det er vanskelig for brukeren
+som må forstå en avansert modell i større detalj, og fører til mer kode
+(som skal i produksjon) skrevet av mennesker som ikke er utviklere.
+Avhandlingen min undersøker om det er mulig å unngå alle disse
+umedgjørlige hyperparametrene for gradient tree boosting. Essensielt
+har vi et modellseleksjonsproblem: Hvor mange trær skal vi lære
+og hvor dype skal de være? I gradient tree boosting algoritmen
+blir all denne modellkompleksiteten lagt til og lært iterativt. Det at
+kompleksitet blir lagt til etter grådig profilering av alle mulige splitter
+for en tre-node, som fører til diskontinuiteter i modellfunksjonen,
+gjør at bruken av de mest normale informasjonskriteriene som AIC
+og TIC ikke er statistisk klok. Avhandlingen inneholder originale
+bidrag som bygger på teorien bak AIC og TIC. Dette fører frem til et
+informasjonskriterium som tillater svært rask modellseleksjon for alle
+de små iterative modellvalgene i gradient tree boosting algoritmen.
+Utledningen bak informasjonskriteriet er statistisk interessant, der
+TIC blir kombinert med asymptotisk konvergens av empiriske prosesser
+(grådig profilering av node-splitting) til kontinuerlig-tid stokastiske
+prosesser som Ornstein-Uhlenbeck og til slutt Cox-Ingersoll-Ross
+(endelig fikk jeg litt «praktisk» bruk for renteteori og kurset i
+finansmatematikk ved UiB).
+Noe av det hyggeligste med avhandlingen er de positive
+tilbakemeldingene fra praktikere i næringslivet, og å se at
+grunnforskning med litt tyngre statistisk teori kan ha så umiddelbar
+effekt og relevans for praktiske problemer. En selvfølge er da at
+teorien blir implementert og gjort tilgjengelig gjennom kode. En viktig
+del av avhandlingen er derfor R-pakken aGTBoost som skal gi en
+behagelig interface for brukere, men med effektiv trening grunnet
+kildekode som er skrevet i C++. Følg gjerne prosjektet gjennom
+www.github.com/Blunde1/agtboost
+Det er verdt å nevne at avhandlingen også inkluderer bidrag opp
+28
+
+
+
+mot bruken av sadelpunktsmetoder i statistikk, og at overgangen til
+gradient tree boosting kom etter en særdeles naiv tanke om å kombinere
+sadelpunktsapproksimasjonen for den empiriske karakteristiske
+funksjonen med modellseleksjonsproblemer i trær. Dette viste seg
+raskt å være uklokt. Jeg takker mine rettledere (professorene T. S.
+Kleppe (UiS) og H. J. Skaug (UiB)) for at jeg fullstendig fritt har
+kunnet sample mange rare ideer fra mitt sinn, og at de har fungert som
+effektive accept-reject algoritmer.
+
+29
+
+
+
+kunngjøringer
+Welcome to Tromsø and
+NORDSTAT 2021,
+June 21st-24th!
+The conference venue is Linken conference center,
+located close to the University of Tromsø. The
+conference will be both physical and digital.
+Årsmøte NSF will be held Tuesday June 22nd, where the
+Sverdrup price winners will be announced.
+Social and scientific programme is available at
+https://site.uit.no/nordstat2021/.
+
+Programme committee:
+Ingelin Steinsland (chair, Norwegian University of Science and Technology)
+Anders Løland (Norwegian Computing Center)
+Sigrunn Holbek Sørbye (UiT The Arctic University of Norway)
+Sondre Hølleland (University of Bergen)
+Organising committee:
+Sigrunn Holbek Sørbye (chair, UiT The Arctic University of Norway)
+Alf Harbitz (Institute of Marine Research)
+Elinor Ytterstad (UiT The Arctic University of Norway)
+Georg Elvebakk (UiT The Arctic University of Norway)
+Ingeborg Gullikstad Hem (Norwegian University of Science and Technology)
+Questions can be sent to contact.nordstat2021@uit.no.
+
+30
+
+
+
+meldinger
+Nytt fra Oslo senter for biostatistikk og epidemiologi
+Nyansettelser
+– PhD stipendiat: Ashley Ahimbisibwe
+– Postdoktor: Fekadu Lemessa Bayisa, Leonardo Miranda Santana,
+Leon Alexander Mclaren Berge, Hilde Brustad.
+
+Nytt fra NTNU
+Nye mastergrader
+– Kenneth Aase: ’Statistiske metoder for evolusjonsbiologi’.
+Veileder Stefanie Muff.
+– Ola Bollestad: ’Using GLM to Analyze Acceptability Judgement
+Test Data’. Veileder Ingelin Steinsland.
+– Adrian Bruland: ’Manual hyperparameter tuning for optimal
+regression uncertainty estimates in Bayesian deep learning’.
+Veileder Jo Eidsvik.
+– Marte Fjelltveit: ’Image analysis : Bayesian Inversion in Hidden
+Markov Models’. Veileder Henning Omre.
+Nye PhD-grader
+– Rasmus Erlemann
+’Contributions to the theory of goodness of fit testing and
+change point detection’ Disputas 28 Januar, 2021. I komiteen
+var Torres Castro, University of Extremadura, Spain, Hugo L
+Hammer, Oslo Met Universitetet, Øyvind Bakke, NTNU (intern),
+Prøveforelesningstema: ’Change point detection in time series’.
+Veileder: Bo Lindqvist.
+– Michael Gineste
+’Seismic waveform inversion using the iterative ensemble
+Kalman smoother’ Disputas 29 Oktober, 2020. I komiteen var
+Thomas Mejer Hansen, Aarhus Univ, Danmark, Andreas S
+Stordal, NORCE/Universitetet i Bergen, Stefanie Muff, NTNU
+(intern). Prøveforelesningstema: ’Seismic waveform inversion
+- a comparison of current state of the art method for seismic
+waveform inversion (based on shotgathers and AVO gathers)’.
+Veileder Jo Eidsvik.
+Nytilsatte PhD studenter
+– Florian Beiser. Veileder Jo Eidsvik
+31
+
+
+
+– Daesoo Lee. Veileder Erlend Aune
+– Philip S Mostert. Veileder Bob O’Hara
+Nytilsatte
+– John Paige er tilsatt som Post Doc.
+– David Klindt er tilsatt som post Doc.
+– Kjersti Aas er tilsatt som Professor II.
+
+Nytt fra Stavanger
+Nye PhD-grader
+– Berent Ånund Strømnes Lunde
+Information in Local Curvature: Three Papers on Adaptive
+Methods in Computational Statistics
+Komite: Gerda Claeskens (KU Leuven), Riccardo De Bin
+(Universitetet i Oslo) og Jörn Schulz (UiS)
+Veiledere: Tore Selland Kleppe, Hans Julius Skaug, Jan Terje
+Kvaløy
+NSF avd Stavanger
+– Jan Terje Kvaløy erstatter Stein Andreas Bethuelsen i ledelsen
+av NSF avd Stavanger.
+
+Nytt fra Matematisk institutt ved Universitetet i Oslo
+Nye mastergrader
+– Bjørn Gunnar Hansen (Statistikk): Making the most of data in
+diary farming research - how twenty-first century statistical
+learning methods can contribute
+Veileder: Ingrid Kristine Glad
+– Madeleine Innholt Halle (Finans, forsikring og risiko):
+Importance Measures in Multistate Systems
+Veileder: Arne Bang Huseby
+– Aleksander Wang-Hansen (Data Science): Time-robust Optimal
+and Fair Automated Decisions
+Veiledere: Christos Dimitrakakis, medveileder: Magdalena
+Ivanovska
+– Vera Kvisgaard (Statistikk): Can undersampling boost fraud
+detection?
+Veiledere: Ingrid H. Haff, Ørnulf Borgan
+32
+
+
+
+– Chris Ghai (Data Science): Finding the needle in the haystack:
+Fine-tuning transformers to classify protest events in a sea of
+news articles, with Bayesian uncertainty measures
+Veiledere: Gudmund Horn Hermansen, Håvard Mokeliv Nygård
+– Oda Johanne Kristensen (Data Science): Scalable Markov Chain
+Monte Carlo by subsampling methods
+Veileder: Geir Storvik
+– Katrine Nordby (Statistikk): Dødlighet ved hoftebrudd Analyser av kohort og matchet kohort data
+Veileder: Sven Ove Samuelsen
+– Hanne Jahreie Tresselt (Statistikk): Modelling Car Insurance
+Data with Individual Effects
+Veileder: Ørnulf Borgan
+– Fredrik Lundvall Wollbraaten (Statistikk): Parallel subsampling
+MCMC and the Perturbed Subset Parameter Approximation
+Veileder: Geir Storvik
+– Aleksander Njøs (Statistikk): Multiple imputation for Cox
+regression with sampled cohort data
+Veileder: Ørnulf Borgan
+– Mathias Hestdahl Kristiansen (Finans, forsikring og risiko):
+Machine learning techniques in interest rate modelling
+Veileder: Salvador Ortiz-Latorre
+– Graeme Lawrence (Statistikk): Bacteraemia and Cardiovascular
+Disease
+Veileder: Sven Ove Samuelsen
+– Daniel Christensen (Finans, forsikring og risiko): Optimising
+reinsurance in a multivariate case
+Veileder: Arne Bang Huseby
+– Eva Steine Dahl (Finans, forsikring og risiko): Reinforcement
+learning and stochastics with applications in mathematical
+finance
+Veileder: Kristina R. Dahl
+– Lars Henry Berge Olsen (Data Science): Likelihood-Based
+Boosting: Approximate Confidence Bands and Intervals for
+Generalized Additive Models
+Veileder: Riccardo De Bin
+– Ville Santeri Jalasto (Finans, forsikring og risiko): Polynomial
+Processes and Applications
+Veiledere: Salvador Ortiz-Latorre, Giulia Di Nunno
+Nye PhD-grader
+33
+
+
+
+– Martin Tveten: Scalable change and anomaly detection in
+cross-correlated data
+Veiledere: Ingrid Kristine Glad, Nils Lid Hjort
+Bedømmelseskomité: Senior researcher Stéphane Robin,
+AgroParisTech/Universié aris-Saclay, Senior lecturer Haeran
+Cho, University of Bristol, Associate professor Johan Pensar,
+University of Oslo
+– Jonas Moss: Psychometrics and the modelling of publication
+bias
+Veiledere: Riccardo De Bin, Nils Lid Hjort
+Bedømmelseskomité: Førsteamanuensis Karl Bang Christensen ,
+Københavns Universitet, Førsteamanuensis Björn Andersson,
+Universitetet i Oslo, Professor Sven Ove Samuelsen,
+Universitetet i Oslo
+– Marc Lagunas Merino, Stochastic Modeling with Fractional and
+non-Fractional Noises
+Veiledere: Salvador Ortiz Latorre, David Ruiz Baños
+Bedømmelseskomité: Professor José Manuel Corcuera Valverde,
+Universitat de Barcelona, Analyst Krzysztof Paczka, Gjensidige
+Forsikring ASA, Associate Professor Tenure Track Kristina
+Rognlien Dahl, Universitetet i Oslo
+– Emil Stoltenberg: Epidemiological, Econometric, and Decision
+Theoretic Applications of Statistical Inference
+Veiledere: Sven Ove Samuelsen,Hedvig Marie Egeland Nordeng,
+Nils Lid Hjort Bedømmelseskomité:
+– Håvard Kvamme: Time-to-Event Prediction with Neural
+Networks
+Veiledere: Ørnulf Borgan,Ida Scheel, Kjersti Aas
+Bedømmelseskomite: Professor Harald Binder, Albert-LudwigsUniversität Freiburg, Professor Jan Terje Kvaløy, Universitetet i
+Stavanger, Professor Geir Storvik, Universitet i Oslo
+– Yinzhi Wang: Model selection and reinsurance optimization for
+general insurance
+Veiledere: Ingrid Hobæk Haff, Erik Bølviken, Arne Huseby
+Bedømmelseskomité: Professor Maria De Las Mercedes Ayuso
+Gutiérrez, Universitat de Barcelona, Associate Professor Bård
+Støve, Universitetet i Bergen, Professor Ingrid Kristine Glad,
+Universitetet i Oslo
+Nyansatte
+– Ved seksjon 2 (statistikk og data science) er Aliaksandr Hubin
+ansatt som postdoc, Timo Lohrmann, Lars Henry Berge Olsen,
+Fredrik Lundvall Wollbraaten ansatt som PhD og Anders Hjort
+tilknyttet som nærings-PhD.
+– Ved seksjon 3 (Risiko og stokastikk) er Natalia SirotkoSibirskaya, Emel Savku og Andreas Erik Petersson ansatt som
+postdoc’er.
+34
+
+
+
+Nytt fra UiB
+Nye PhD-grader
+– Kristian Gundersen: «Bayesian Variational Methods in Carbon
+Storage Monitoring” Veiledere: Guttorm Alendal, Jarle Berntsen
+og Hans Julius Skaug Opponenter: Professor Maurizio Filippone,
+EURECOM, og Nils Olav Handegard, Havforskningsinstituttet
+Nye mastergrader
+– Sandra Vervik Heimsæter: A dimensionality reducing extension
+of Bayesian relevance learning. Veiledere: Yushu Li og Ingvild
+M. Helgøy (bi-veileder)
+– Stevie Louise Cervantes: A statistical study of the non-linear
+properties of shoaling ocean waves. Veiledere: Henrik Kalisch
+og Francesco Lagona
+– Andreas Hansen: Discrete hidden Markov models with
+application to stock trading algorithms. Veileder: Andreas
+Stordal
+– Pernille Kjeilen Fauskanger: Commutability of control materials
+– statistical methods of evaluation. Veiledere: Bård Støve og
+Thomas Røraas
+
+35
+
+
+

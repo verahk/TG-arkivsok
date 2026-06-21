@@ -1,0 +1,1424 @@
+ISSN 0803-8953
+TILFELDIG
+GANG
+Nr. 1, årgang 26
+Januar 2009
+
+Utgitt av Norsk Statistisk Forening
+INNHOLD
+Fra lederen, Magne Aarset . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Fra redaksjonen, Jo Eidsvik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Side
+3
+4
+
+Artikler
+Tromsø Telemedicine Laboratory (TTL), Fred Godtliebsen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Thinking about PhD’s, Arnoldo Frigessi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Fiduse sannsynligheter, Gunnar Taraldsen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Klima-alarmen går, Fridtjof Wiese . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5
+7
+9
+14
+
+Jubileum
+Arne Bang Huseby 50 år, Bent Natvig . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+17
+
+Nekrolog
+Steinar Bjerve, Ørnulf Borgan og Bent Natvig . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+18
+
+Stipendiatpresentasjoner
+Guro Dørum . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Steffen Grønneberg. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+19
+21
+
+Møter og konferanser
+Det 15. norske statistikermøte, Jevnaker 2009 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Nordisk-baltisk biometrisk konferanse 2009 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Referat fra ENBIS-8, Erik Mønness, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+23
+24
+25
+
+Puslerispalten
+Pusleri nr. 26, Jostein Lillestøl . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Løsning til pusleri nr. 25, Jostein Lillestøl. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+26
+27
+
+Utlysninger
+Tilbud på SJS-abonnement og bøker for NSF-medlemmer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+28
+
+Meldinger
+Nytt fra Universitetet i Bergen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Nytt fra Universitetet i Oslo, Avd. C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Nytt fra Universitetet i Tromsø . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Nytt fra Norges teknisk-naturvitenskapelige universitet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+29
+30
+32
+32
+
+Årskontingent NSF . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+33
+
+
+
+
+
+3
+
+Godt nyttår, alle sammen!
+I år har jeg virkelig begynt året med blanke ark og nye fargestifter. Ny jobb, ny PC, ny mailadresse og nytt mobilnummer! Det føltes godt et øyeblikk, men så skjønte jeg hva som ligger i
+uttrykket: Hvis det virker, ikke gjør noen endringer! Jeg er plutselig begynt å se det fornuftige
+i å gi nyfødte barn så vel et mobilnummer som en mail-adresse for livet.
+Dette har imidlertid alltid virket litt skremmende på meg, og det gjør det for så vidt fremdeles,
+men i øyeblikket kan jeg faktisk se fordelene. Og det er jo akkurat faren med mange ideer: De
+virker fornuftige nok til å bli vedtatt, bortsett fra noen såkalte sekundæreffekter man kanskje
+ikke ser før senere. Men det å lage slike prognoser, det er jo vår spesialitet.
+I min nye jobb skal jeg se på hvordan folk lager egne prognoser, men da er også fagområdene
+kognitiv psykologi og ledelse svært sentrale. Jeg vet ikke hvordan de med annen utdanning
+enn et hovedfag i statistikk har det, men igjen slår det meg at det jeg tidligere har lest om
+matematisk modellering og statistikk er utrolig nyttig også i denne sammenheng. Dersom
+noen har glemt det eller skulle begynne å tvile, så har vi altså en fantastisk flott utdanning!
+Nå er det beslutningsteorien jeg støtter meg på. Men selv om både nytteteori (med og uten vår
+venn Bayes) fra den anglosaksiske siden og ”out-ranking” teknikker fra de fransktalende land
+har mye for seg, så har jeg for lengst innsett at også psykologien har viktige innspill til slike
+problemstillinger. Men her har vi ikke all verdens ballast fra utdanningen! Og det virker det
+som ikke så mange andre har heller.
+Det har forundret meg hvor overrasket vi mennesker blir når fremtid blir nåtid, og ser helt
+annerledes ut enn vi hadde tenkt. I Ålesund hadde vi en stygg ulykke med 5 drepte i fjor da en
+steinblokk raste ut og tok med seg et hus i Fjelltunveien. Alle i byen var naturligvis overrasket
+og ingen skjønte at noe slikt kunne skje, selv om lignende ting har skjedd før og vil skje igjen.
+For det er noen prognoser vi ikke vil tro på. Noen hundre meter fra Åkernesremna (en
+”fjellknaus” ikke langt fra Geiranger som vil rase ut ”snart”) planlegges det i dag en dypvanns
+havn for å kunne ta mot flere og større cruiseskip.
+
+Fjelltunveien i Ålesund (2008), Langhammaren i Tafjorden (1934) og Åkernesrenma (?).
+Det kan ligge mange gode matematiske modeller i en prognose, men det er mye god
+psykologi gjemt der også. La oss håpe 2009 blir et fredelig og godt år også i dette fantastisk
+vakre landet vårt med så mange flotte fjell - selv om ”Dei gamle fjell i syningom”, altså ikke
+alltid vil være ”eins å sjå” (Aasen).
+Magne
+
+
+
+4
+
+Fra redaksjonen
+’Statistikere i media’ har vært diskutert tidligere i TG. Er vi for dårlige til å markedsføre faget
+vårt uttad? Vi kunne jo lett bidratt i populære mediashow. For eksempel i utregning av en
+enkel beslutningsregel i programmet ’Deal or No Deal’, eller til analyse av sportsdata utover
+Scheie’s formuleringer: ’Det er 12 år siden en nordmann var bedre enn nummer 5 i denne
+bakken, dere!’. Matematikerne har vært flinke til å markedsføre hendelser som Abel- og
+Onsagerforelesning, men vi statistikere har ikke helt vært med her, ennå.
+Torsdag 15 januar så jeg NRK programmet ’Schrødingers katt’, der Per-Henrik Zahl fra
+Fokehelsa representerte statistikere i media på en flott måte. Riktignok var Zahls tittel
+undertekstet til ’lege’, men programleder brukte ordet ’statistiker’ en eller to ganger.
+Folkehelsa har gjennomgått et datamateriale på bruken av mammografiundersøkelser til
+brystkreftscreening. Resultatene gir ny innsikt, og det har skapt debatt i fagmiljøet. Dette er
+tydelig et skikkelig stykke arbeid, – og det gjorde godt å se en statistiker på TV.
+Akademikermiljøet har versert mye i media i den siste tiden. Fornøyelige bøker som ’De beste
+blant oss’ av Helene Uri og ’Francis Meyers lidenskap’ av Henrik Langeland setter
+universitetsmiljøet på kartet. De to bøkene er artig lesing, men jeg kjenner meg ikke helt igjen
+i beskrivelsene av fagmiljøet. En bok fra statistikkhverdagen ville trolig ikke blitt så morsom.
+Hva om TG hadde mer fokus på ’Statistikere i media’? En spalte med diskusjoner av
+elementer / datasett som kunne tas opp i media? I det minste bør det vel være et
+rapporteringsorgan for statistikk-hendelser i media. Hvis vi får en statistikkens svar på Knut
+Røed Ødegaard, synes jeg vi skal være glade, og ikke støte han/hun ut i kulden.
+Dette nummeret av TG byr på nyheter, informasjon og artikler. En artikkel er av faglig
+karakter, og oppfølgingskommentar eller diskusjon mottas gjerne til neste nummer av TG. En
+annen av artiklene er et innlegg i klimadebatten, som følger opp tidligere TG innlegg.
+Merk reklame for Norsk Statistikermøte 2009. Møtet går av stabelen på Jevnaker i Juni.
+
+Vi tar gjerne imot flere bidrag til TG. Vær aktiv!
+
+Neste nummer av TG kommer i Juni 2009. Frist for
+innsending er 15 Mai 2009.
+God vinter!
+Redaksjonen v/Jo Eidsvik
+Foto:Stein Thue
+
+
+
+5
+
+Tromsø Telemedicine Laboratory (TTL)
+av
+
+Fred Godtliebsen, UiTø og NST
+”Hva i alle dager har statistikk med føflekk-kreft å gjøre?” var et spørsmål jeg fikk fra en
+bekjent da jeg fortalte hva jeg driver med på jobb for tida. Det tok meg ikke mange minuttene
+å forklare han hvordan vi tror statistiske metoder kan bidra til at føflekk-kreft oppdages på et
+svært tidlig tidspunkt, noe som er helt avgjørende for en vellykket behandling. Jeg er sikker
+på at mange andre i vårt felt kan berette om lignende hendelser. Fremdeles er det nok slik at
+’mannen i gata’ identifiserer fagfeltet vårt med noe tørt og kjedelig. De skulle bare ha visst
+hvor feil de tar!
+Ved TTL, som er et av 14 Sentre for Forskningsdrevet Innovasjon, driver vi med spennende
+problemstillinger som kan ha stor betydning for folk flest. Hovedfokus i senteret er å utvikle
+gode telemedisinske løsninger for pasienter som lider av kroniske, alders- og livsstilrelaterte
+sykdommer. Ved bruk av denne nye teknologien vil mange rutineundersøkelser kunne foretas
+av pasientene selv slik at det blir mer ressurser tilgjengelig for de pasientgruppene som må ha
+behandling ved sykehus. En jevn telemedisinsk kontakt mellom pasient og lege kan også føre
+til at endring i sykdomsforløp oppdages på et tidligere tidspunkt, noe som ofte kan bidra til
+færre komplikasjoner. Forskningen ved senteret er fordelt på de tre hovedfeltene:
+1) Sensor-based systems (SBS)
+2) Extended Decision Support (EDS)
+3) Computer-Supported Cooperative Work (CSCW).
+Det er i EDS-gruppa statistikerne i første rekke bidrar. Per i dag har vi 5 stipendiater og 1
+postdoktor ansatt. I tillegg bidrar to av de vitenskapelige ansatte ved institutt for matematikk
+og statistikk på UiTø med forskning og veiledning. Vi har også god drahjelp av svært dyktige
+nasjonale og internasjonale forskere.
+Hvilke problemstillinger er det så vi jobber med? Jeg har allerede nevnt forskning relatert til
+føflekk-kreft. Mer presist jobber vi her med to ulike systemer som kan brukes til å detektere
+ondartede føflekker på et svært tidlig tidspunkt. Hovedideen i denne problemstillingen er å
+avbilde føflekkene på en enkel måte samtidig som vi får med viktig informasjon om
+føflekkens form, farge, symmetri osv. Kort sagt gjør vi dette ved hjelp av et kamera
+påmontert en lupe. Utstyret er valgt basert på et kompromiss mellom bildekvalitet og pris.
+Per i dag får vi samlet inn bilder ved Hudavdelingen på UNN. I tillegg får vi et stort antall
+bilder jevnlig tilsendt fra en privatpraktiserende lege i Tyskland. De statistiske utfordringene
+relatert til dette problemet er segmentering og klassifisering. Den første biten har vi nå en
+meget bra løsning for. Ideen til denne metoden ble faktisk til under statistikerkonferansen på
+Sommarøya. Metoden, demonstrert på en føflekk nedenfor, ble testet ut på noen bilder før en
+masterstudent ble satt til å studere metodens egenskaper nøye. Denne studenten fortsetter
+som stipendiat ved TTL og vil, i samarbeid med andre forskere, fokusere på egnede
+klassifiseringsalgoritmer. Et biprodukt av segmenteringsalgoritmen er at den, kombinert med
+prinsipal komponentanalyse, kan brukes til å få føflekkbilder tatt på forskjellige tidspunkter til
+
+
+
+6
+
+å overlappe så godt som mulig. Med et slikt hjelpemiddel på plass, kan man lage statistiske
+metoder for å avdekke om en føflekk har endret seg over tid. På den måten kan de som måtte
+ønske det få en mer objektiv metode for å overvåke sine føflekker.
+Det ble en god del om føflekker, men det er også på sin plass fordi dette per i dag er EDSgruppas flaggskip. I tillegg er vi i startgropa med undersøkelser som gjelder strålebehandling
+av pasienter med prostatakreft, analyse av daglige målinger fra blodet til pasienter som går på
+blodfortynnende medisin, samt at vi etter hvert også skal se på hvordan smittsomme
+sykdommer spres i befolkningen.
+Tildelingen av SFI-en innen telemedisin har hatt svært stor betydning for statistikkmiljøet i
+Tromsø. Det er utrolig inspirerende å jobbe sammen med dyktige medarbeidere på
+interessante og utfordrende oppgaver. Dersom jeg skulle trekke fram noe som har skapt et
+visst hodebry, så må det være frafall av enkelte nøkkelpersoner i prosjektets startfase. Det har
+ikke vært enkelt å erstatte disse personene, men det må man antakelig regne med når man bor
+på the edge of civilization som en av mine kollegaer ved IMS så betegnende beskrev vår
+breddegrad. En annen ting jeg har lært i løpet av den perioden TTL har eksistert er at det
+ALLTID tar mye lenger tid å få samlet inn data enn man regner med. Dette kan i noen
+situasjoner være frustrerende, men innen vårt fag betyr det at man i stedet må satse på
+utvikling av nye metoder. Ledelsen i TTL har heldigvis stor forståelse for en slik disponering
+av ressursene.
+Tida framover blir spennende med utfordringer av både faglig og administrativ art. Et av
+målene ved SFI-ene er å rekruttere gode folk til postdoktor- og stipendiatstillinger. Her føler
+jeg at vi har lyktes bra idet postdoktoren er fra Brasil mens to av stipendiatene er fra
+Tyskland. I tillegg ser det ut til at vi i nær framtid få ansatt en forsker rekruttert fra MaxPlanck instituttet. At vi greier å rekruttere så dyktige medarbeidere er inspirerende for oss
+som er fastboende langt, langt mot nord. Med et stort antall stipendiater og forskere på plass
+ligger alt til rette for å levere varene. Det er bare å brette opp armene!
+
+
+
+7
+
+Thinking about PhD’s
+Arnoldo Frigessi
+Luckily, at UiO, we had many Ph.D defences in the last year. These are always very
+interesting events, both the discussion of the thesis, and the prøveforelesning. At (sfi)2,
+we try to maintain a list of disputas, which are connected to the centre, sometimes
+strongly, sometimes more loosely. See
+http://sfi.nr.no/sfi/index.php/Defended_Ph.Ds.
+Here you will find details on each disputas, including the members of the committee, the
+title of the prøveforelsning and often pdf files of the presentations. The list, even if not
+complete – there are several additional UiO defences which are not included –, gives an
+impressive picture of the achievements of the new doctors, and more generally of the
+lively statistical environment in Oslo.
+I like the format of and the traditions around the disputas. Compared to similar events
+which I have experienced in other places in the world, I think the Norwegian scheme is
+best. I like that the event is public, that the discussion can be tough and detailed, though
+the outcome is predefined. Indeed, the fact that the grade will be given more or less in
+any case, puts the candidate in a better situation and allows the discussion to be
+substantial. I like that the supervisors have a secondary role. I like that there are some
+formalities, that some of the protagonists dress properly and the leader has a gown. It is
+important that there is a wide audience, which usually includes almost the whole staff and
+students, plus family and friends. I like the taler at the doktorgradmiddag.
+Still, some aspects are worth some more thought.
+Prøveforelesning. How close should the theme be to the main corpus of the thesis? There
+are very different practices here. At medicine, it is very close, usually a survey of the area
+of the thesis. In statistics, sometimes I feel the theme is too close, and sometimes too far
+away. In the first case, the candidate is not challenged enough: in principle, she/he gets
+two weeks to present an area which she/he does not know in detail in advance, but this is
+not the case. If the theme is too far away, then the task might be very difficult and the
+presentation risks to be superficial. The right distance from the thesis is therefore
+important. I prefer more distant than too close. The theme should be broad enough to be
+interesting for a general audience, which does not mean that it should not be technical. I
+like when the candidate is asked to present also motivations and applications, but these
+should not put statistical methods too much in the background. Usually at UiO (but I
+might be wrong), it is the internal member of the committee who guides the committee in
+deciding for a theme. This is an important role indeed. As a side, I like when questions
+are allowed after the prøveforelening, but this happens seldom.
+How long should a disputas be? First, they should not be too short. Both opponents
+should have time to discuss the thesis in depth. The first opponent should aim to one hour
+discussion. She/he should make sure to ask questions, both simple and more complex,
+without too many preliminaries. It is mostly interesting when the opponent contrasts
+
+
+
+8
+
+her/his view of the matter with that of the candidate, but still the candidate should talk
+most. Sometimes the opponents push the discussion in very technical and complicated
+corners, and the candidate (together with her/his supervisors in the audience) feels lost.
+The disputas should not be too difficult: the candidate is still junior, and hence the level
+should be ≤ that of a referee. I think it is absolutely necessary to have a break after 45-60
+minutes. This is not usual at UiO, which makes life hard for the audience (at least). A
+disputas should not last more than two hours, I would say.
+Moving away from the disputas let me touch a couple of further thoughts on the thesis
+itself.
+Forskningsrådet funds three years for a PhD. This is from day one to the disputas day, in
+principle. I think one semester is dedicated to courses; the committee needs time to study
+the thesis. Hence time to research is approximated 2 years. This is quite similar to other
+countries. What can be achieved in two years? Let us be realistic here. One accepted
+paper and one submitted paper, plus a short introduction, I would say. Not much more.
+What is requested by the university? Here for UiO:
+§ 10.1 Krav til avhandlingen
+Avhandlingen skal være et selvstendig, vitenskapelig arbeid som oppfyller internasjonale
+standarder med hensyn til faglig nivå, metode og etiske krav. Avhandlingen skal bidra til å utvikle
+ny faglig kunnskap og ligge på et faglig nivå som tilsier at den vil kunne publiseres som en del av
+fagets vitenskapelige litteratur. (omissis) En avhandling kan innleveres til bedømmelse av flere i
+fellesskap dersom de individuelle bidragene kan identifiseres. (omissis) Ved bruk av publiserte
+arbeider kan disse ikke godtas som del av et doktorgradsarbeid hvis de ved kandidatens
+opptakstidspunkt er eldre enn 5 år fra publiseringsdato.
+
+There is no mentioning on the number of papers, or if these should be accepted or not,
+not even on orders of authors. Still there are strong traditions, and I have (almost) not
+seen a thesis that does not have 4 papers. This cannot be achieved in 2 years, and hence
+most students get 4 years. The last year is funded through other sources, usually with a
+teaching assistant job, which does not in reality take a full year. Given the financial
+situation of UiO, it is almost impossible to get such funding anymore, which makes the
+situation hard. I hear that it is better at NTNU. But in any case, four papers are squeezed,
+and in my experience, the last paper is almost systematically the less interesting one. It
+remains unsubmitted and is thereafter forgotten. I think this is not worth, and supervisors
+should avoid this. Because it is us supervisors who demand four papers, plus plus plus,
+not the university.
+How important is the introduction? At medicine it is traditionally very important. The
+reason is that papers are often much specialised, so that there is a need to set the scene. In
+mathematics, they are very short and often summarise the papers. I think a good
+introduction is nice, if it touches some additional point, maybe carries opinions of the
+candidate that could not go into the papers, or conjectures or potential extensions. But a
+long collection of basic facts is quite unnecessary in my opinion.
+The acknowledgement is important! Everybody reads it very carefully. It should be
+generous and complete. That is were the heart of the candidate shows up ☺
+
+
+
+9
+
+FIDUSE SANNSYNLIGHETER
+Gunnar Taraldsen, SINTEF Akustikk og NTNU Nevromedisin
+
+24. desember 2008
+Konfidensfordelingen, Fisher’s fiduse fordeling, og a-posteriorifordelingen sammenfaller
+i mange viktige tilfeller. Den teoretiske statusen til a-posteriorifordelingen er imidlertid
+uklar fordi den tilsvarende a-priorifordelingen ikke er en sannsynlighetsfordeling. Her
+forklares det kort hvordan dette problemet løses ved at Kolmogorov’s aksiomer erstattes
+av Renyi’s aksiomer for et betinget sannsynlighetsrom.
+
+1
+
+Introduksjon
+
+Følgende sitat fra en noe lenger og mer teknisk presentasjon gir supplerende informasjon.
+Improper priors are used frequently, but often formally and without reference to a sound
+theoretical basis. A consequence is the occurrence of seemingly paradoxical results. The
+most famous example is perhaps given by the marginalization paradoxes presented by
+Stone and Dawid (1972). More recently there has been a focus on problems related to
+propriety of posteriors in Markov Chain Monte Carlo methods.
+Renyi (1970) formulated the theory of conditional probability spaces motivated by the
+idea that the concept of conditional probability is the fundamental concept. His theory
+has had little impact on statistics, but it is shown here that it provides a theoretical
+frame which includes improper priors. The resulting theory is very close to the classical
+formulation of probability theory given by Kolmogorov (1933). It follows in particular
+that the conventional formal calculation with densities to obtain the posterior can be
+justified in most cases. This includes in particular cases discussed by Fraser where the
+prior gives a posterior which coincides with a fiducial distribution as introduced by
+Fisher.
+KEY WORDS: Axioms of probability, Bayes, Fiducial, Conditional, Marginalization,
+Paradox, Propriety of posterior, Sigma-finite, Correlation coefficient, Sufficient conditional Monte-Carlo simulation
+Hensikten i det følgende er å gi en kort forklaring av noe av overstående.
+
+2
+
+Bayesiansk inferens
+
+La a-priori kunnskapen om en parameter θ være gitt ved tettheten f (θ). En statistisk model for
+observasjonen x med tetthet f (x | θ) gir a-posteriori tettheten
+f (x | θ)f (θ)
+f (x)
+
+(1)
+
+f (x | θ)f (θ)ν(dθ)
+
+(2)
+
+f (θ | x) =
+hvor
+
+Z
+f (x) =
+
+er tettheten til x. Bortsett fra at noen kan undres over den generiske bruken av symbolet f , så vil
+de fleste gjenkjenne ligningene (1)-(2) som Bayes’ teorem.
+Algoritmen gitt av ligningene (1)-(2) gir god mening så sant f (x) < ∞, men Kolmogorov
+(1933)’s sannsynlighetsteori dekker kun tilfellet hvor f (θ) er en sannsynlighetstetthet. Følgende
+argumentasjon viser at dette problemet løses ved å erstatte Kolmogorov’s sannsynlighetsteori med
+Renyi (1970)’s teori for betingede sannsynlighetsrom. I argumentasjonen antas det at leseren er
+fortrolig med vanlig notasjon fra mengdeteorien og spesielt betydningen av mengdeoperasjonene:
+union (A ∪ B), snitt (A ∩ B), og komplement (Ac ).
+1
+
+
+
+10
+
+3
+
+Kolmogorov’s aksiomer og statistiske modeller
+
+I Kolmogorov (1933)’s formulering av sannsynlighetsteorien antas det at enhver hendelse A identifiseres med en delmengde av et underliggende rom Ω, og mengden E av hendelser er en σ-algebra.
+Antagelsen sørger for at den motsatte hendelsen (Ac ) alltid er en hendelse, og at tellbare snitt (A
+og B) og unioner (A eller B) av hendelser er hendelser. Det antas videre at Ω er utstyrt med en
+lov Pr(A) som er tellbart additiv: Pr(A1 ] A2 ] · · · ) = Pr(A1 ) + Pr(A2 ) + · · · .
+Enhver stokastisk størrelse x identifiseres med en funksjon x : Ω → Ωx med den egenskap at
+(x ∈ C) :={ω | x(ω) ∈ C} er en hendelse for enhver C med i σ-algebraen Ex som Ωx er utstyrt
+med. Denne formuleringen har den egenskapen at det gir mening å snakke om stokastiske tall,
+stokastiske vektorer, stokastiske prosesser, stokastiske mengder, stokastiske differensialoperator og
+andre stokastiske objekter som måtte være av interesse. Det geniale med et underliggende rom er
+at hendelser definert av ulike stokastiske objekter også automatisk er definert. Et matematikkrikt
+eksempel er gitt ved hendelsen at en stokastisk differensialoperator er selvadjungert og en stokastisk
+mengde snitter en annen mengde. Et mer sedvanlig eksempel er hendelsen at et n-tuppel av
+tilfeldige tall er innehold i en mengde i Rn .
+Fordelingen Prx til en stokastisk størrelse x defineres ved
+Prx (C) := Pr(x ∈ C)
+
+(3)
+
+Dermed overføres loven Pr til en lov for x, og mer generelt er simultanfordelingen til enhver endelig
+samling stokastiske objekter bestemt på naturlig hvis. Dette, og mye mer sannsynlighetsteori,
+beskrives godt av for eksempel Feller (1966), Doob (1953) og Halmos (1950).
+I statistikk har man i tillegg til de stokastiske størrelsene fra sannsynlighetsteorien også parametre. I Bayesiansk statistikk er også enhver parameter θ en stokastisk størrelse. I samsvar med det
+foregående antas det derfor at θ : Ω → Ωθ og Prθ (A) = Pr(θ ∈ A). Vanligvis antar en i statistisk
+teori at utfallsrommet Ωx og parameterrommet Ωθ er gitt uten noen kopling til en underliggende
+Ω (Lehmann, 1997; Schervish, 1995). Antagelsen her skal imidlertid snart vise seg å ha heldige
+konsekvenser.
+En statistisk modell spesifiseres gjerne ved en antagelse Prθx (dx) = f (x | θ)µ(dx), hvor formen
+til tettheten f (x | θ) tilsvarende observasjonen x antas kjent. I Bayesiansk statistikk antar en i
+tillegg at a-priorifordelingen Prθ (dθ) = f (θ)ν(dθ) til θ er kjent.
+Av ulike grunner er det hensiktsmessig å tillate a-priorifordelinger hvor Prθ (Ωθ ) = ∞, men
+dog slik at Ωθ = A1 ∪ A2 ∪ · · · hvor Prθ (Ai ) < ∞. Når dette er oppfylt så sies loven Prθ å være
+ubegrenset og σ-endelig. Det overlates til leseren å bevise ved et to linjers argument at når Prθ er
+ubegrenset og σ-endelig, så må Pr også være det.
+Konklusjonen er at formuleringen her er som hos Kolmogorov (1933), men normaliseringen
+Pr(Ω) = 1 erstattes med en antagelse om at Pr er ubegrenset og σ-endelig.
+En mer detaljert oppsummering er gitt ved følgende engelskspråklige formulering.
+Definition 1 (Conditional probability space) A conditional probability space is a set Ω equipped
+with a σ-finite measure Pr - the law - defined on a σ-algebra E of sets in Ω. The members of the
+σ-algebra are called the events. An event A is an elementary condition if 0 < Pr(A) < ∞. The
+conditional probability PrA given an elementary condition A is defined by
+PrA (B) = Pr(B | A) =
+
+Pr(A ∩ B)
+Pr(A)
+
+(4)
+
+Two conditional probability spaces are regarded as identical if all elementary conditional probabilities coincide. A random quantity w in a set Ωw is a measurable function w : Ω → Ωw . The law
+Prw of w is Prw (A) = Pr(w ∈ A). Assume that Prθ is σ-finite. The conditional law Prθw of w
+given θ = θ is Prθw (A) = Prθ (w ∈ A), where Prθ is the conditional law given θ = θ.
+Overstående definerer hva som menes med et betinget sannsynlighetsrom. Det kan vises fra
+Radon-Nikodym teoremet at dersom θ er σ-endelig, det vil si dersom Prθ er σ-endelig, så er Prθ
+veldefinert og normalisert.
+2
+
+
+
+11
+
+Den viktigste konsekvensen så langt er at et betinget sannsynlighetsrom er utstyrt med en
+rik familie av betingede sannsynligheter. Dette gir en ramme for statistisk inferens som tillater
+a-priorifordelinger som er ubegrenset.
+
+4
+
+Renyi’s betingede sannsynlighetsrom
+
+Renyi (1970) introduserer og motiverer betingede sannsynlighetsrom uavhengig av argumentasjonen som er gitt over. Han har ikke statistisk inferens som utgangspunkt, men har som en grunnleggende ide at betingede sannsynligheter er det fundamentale. Dermed gir han en aksiomatisk
+definisjon av et betinget sannsynlighetsrom med utgangspunkt i en familie av objekter Pr(A | B).
+Kort formulert på engelsk:
+Definition 2 (Bunch) A family B of events is a bunch if
+1. B1 , B2 ∈ B ⇒ B1 ∪ B2 ∈ B.
+2. There exist B1 , B2 , . . . ∈ B such that ∪i Bi = Ω.
+3. The empty set ∅ does not belong to B.
+Definition 3 (Renyi conditional probability space) A Renyi conditional probability space is
+a set Ω equipped with a σ-field E of events with a bunch B ⊂ E of elementary events, and a family
+{Pr(· | B)}B∈B of probability measures on E which fullfils B1 , B2 ∈ B and B1 ⊂ B2 ⇒ Pr(B1 | B2 ) >
+0, and the identity
+Pr(A ∩ B1 | B2 )
+, B1 ⊂ B2
+(5)
+Pr(A | B1 ) =
+Pr(B1 | B2 )
+Motivasjonen til Renyi er som sagt helt uten referanse til argumentasjonen som ble presentert
+før Definition 1. Den argumentasjonen bygger på ønsket om å inkludere ubegrensede σ-endelige
+a-priorifordelinger i teorien fordi dette brukes i anvendelser. Renyi (1970) har et mer fundamentalt
+utgangspunkt gitt ved at utgangspunktet for teorien skal være de betingede fordelingene. Renyi’s
+teoremer viser imidlertid at den resulterende naturlige teoretiske rammen er identisk.
+Strukturteoremet (Renyi, 1970, p.40, Theorem 2.2.1) og kompletthetsteoremet (Renyi, 1970,
+p.43) viser at ethvert betinget sannsynlightesrom etter Renyi’s definisjon har en entydig utvidelse
+til et betinget sannsynlighetsrom Definition 1.
+En kort versjon av Renyi’s argument er gitt ved:
+The idea and main content of the structure theorem is that the family of conditionals
+uniquely determines a σ-finite measure which extends the family of conditionals. The
+first step in the proof is to pick an arbitrary B0 ∈ B and define Pr(B) = Pr(B | B0 ∪
+B)/ Pr(B0 | B0 ∪ B) on B. This choice gives the normalization Pr(B0 ) = 1. This definition is then extended to events A ⊂ B ∈ B by Pr(A) = Pr(A ∩ B) = Pr(A | B) Pr(B).
+The law Pr can then be extended uniquely to a measure on the family of events by
+standard measure theoretic arguments.
+
+5
+
+Fiduse sannsynligheter
+
+Det foregående gir en ramme for statistisk inferens som inkluderer ubegrensede a-priorifordelinger.
+Noen slike a-priorifordelinger gir a-posteriorifordelinger som er konfidensfordelinger. Noen konfidensfordelinger sammenfaller med det som her vil kalles fiduse fordelinger. Noen har referert til
+dette begrepet som Fisher’s største tabbe. Det er imidlertid nærliggende å se på dette som et av
+Fisher’s viktigste bidrag til den teoretiske statistikken fordi dette kontroversielle begrepet har gitt
+opphav til en diskusjon som fortsatt ikke har stilnet. I det følgende vil det vises at dette begrepet
+også kan knyttes til Renyi’s teori.
+Ideen med fiduse fordelinger lar seg kanskje best illustrere ved å sitere Fisher (1973, p.54-55):
+3
+
+
+
+12
+
+By contrast, the fiducial argument uses the observations only to change the logical
+status of the parameter from one in which nothing is known of it, and no probability
+statement about it can be made, to the status of a random variable having a well-defined
+distribution.
+Kontrasten er gitt ved at en i Bayesiansk analyse også trenger a-priorifordelingen til parameteren. Det er også verdt å notere seg en likhet. Fisher insisterer i sitt siste arbeid på at tolkningen
+av fordelingen skal være som for en a-posteriorifordeling i Bayesiansk teori (Fisher, 1973, p.54).
+Spesielt kan en da utlede fiduse fordelinger til funksjoner av parametre på samme måte som ved
+andre fordelinger.
+Konfidensfordelinger (Efron, 1998, p.106)(Schweder and Hjort, 2002, p.312) er et beslektet
+begrep, men tolkningen her er via konfidensintervall. Sitatet over begrunner at en med fordel kan
+se på konfidensfordelinger og fiduse fordelinger som to distinkte begrep.
+Hva er så en fidus fordeling? Foreløpig synes det ikke å være en konklusjon på dette spørsmålet.
+En mulighet antydes av arbeidet til Hannig et al. (2006). Et tidligere arbeid av Dawid and Stone
+(1982) i kombinasjon med teorien her for betingede sannsynlighetsrom gir imidlertid en annen
+mulighet.
+Anta at inferens for en parameter θ skal basere seg på observasjon av en statistikk t og en
+funksjonell modell
+t = θv
+
+(6)
+
+hvor Prθv antas kjent og uten avhengighet av θ. Notasjonen θv er her lånt av Dawid and Stone
+(1982) og skal tolkes via en funksjon Ωθ × Ωv → Ωt . Motivasjonen for notasjonen er via spesialtilfellet hvor Ωt = Ωθ = Ωv er en gruppe og θv er gitt av gruppemultiplikasjonen.
+En første observasjon er at fordelingen Prθt - den statistiske modellen - er kjent fra Prθt (A) =
+θ
+Pr (θv ∈ A). Dawid and Stone (1982) gir eksempler som viser at ulike funksjonelle modeller kan
+gi samme statistiske modell. Dermed inneholder en funksjonell modell informasjon som ikke er
+inneholdt i den statistiske modellen.
+Anta nå at den funksjonelle modellen er invertibel, det vil si (θ, v) 7→ θv er invertibel som
+funksjon av θ for alle v. Gruppetilfellet motiverer Dawid and Stone (1982)’s notasjon tv −1 for
+den inverse. Den fiduse fordelingen kan nå defineres som fordelingen Prθtv−1 , og den er bestemt av
+antagelsene over. Lindqvist and Taraldsen (2005) bruker notasjonen θ̂(v, t) = tv −1 for variabelen
+som gir den fiduse fordelingen.
+I gruppetilfellet gir Fraser (1961, p.664, p.668) resultater som viser at den fiduse fordelingen er
+identisk med a-posteriorifordelingen svarende til en unik a-priorifordeling (høyre Haar mål). I dette
+tilfellet har man altså en fidus a-posteriorifordeling. Nyere resultater av Lindqvist and Taraldsen
+(2005) gir betingelser for eksistens av fiduse fordelinger uten referanse til noen gruppestruktur,
+men mer arbeid gjenstår.
+Teorien for konfidensfordelinger er foreløpig ikke velutviklet, og spesielt gjelder dette tilfellet
+med flerdimensjonal parameter. Schweder and Hjort (2002) gir en god introduksjon til dette med
+flere referanser. Tilfellet med en pivotal funksjonell modell, det vil si tilfellet hvor (θ, v) 7→ θv er
+invertibel som funksjon av v for alle θ gir et mulig utgangspunkt. I dette tilfellet vil den betingede
+fordelingen til θ−1 t gitt θ = θ ikke avhenge av θ, og er dermed en pivotal størrelse.
+Et pent og viktig eksempel er gitt ved inferens basert på et tilfeldig utvalg fra den bivariate normalfordelingen. Her finnes en naturlig pivotal invertibel funksjonell modell med gruppestruktur
+og de fiduse a-posteriorifordelingene for forventningene, variansene og korrelasjonskoeffisienten
+er konfidensfordelinger. Dette siste er mindre kjent enn det burde være, og gjenoppdages med
+ujevne mellomrom med varierende argumentasjon (Berger and Sun, 2008). Korrelasjonskoeffisienten brukes ofte som et effektmål i anvendelser i for eksempel medisin og psykologi, men dessverre
+angir de færreste usikkerheten med et konfidensintervall slik de gjør for andre effektmål.
+
+4
+
+
+
+13
+
+6
+
+Konklusjon
+
+Renyi’s teori for betingede sannsynlighetsrom er en naturlig utvidelse av Kolmogorov’s teori som
+gir en god teoretisk ramme for statistiske modeller.
+Denne rammen tillater ubegrensede a-priorifordelinger og har anvendelser i diskusjonen omkring
+konfidensfordelinger og Fisher’s fiduse fordelinger.
+Tilslutt kan det nevnes at Hartigan (1983) presenterer en alternativ ramme for statistikk
+som inkluderer ubegrensede a-priorifordelinger. Han konkluderer imidlertid med - i motsetning til
+presentasjonen her - at Renyi (1970)’s teori ikke er velegnet som et utgangspunkt for en Bayesiansk
+teori. Hartigan (1983)’s bok er et pent stykke arbeid, men synes å være unødvendig generell i
+forhold til de fleste anvendelser. Renyi’s teori gir en ramme som ligger nærmere Kolmogorov’s
+originale formulering.
+Arbeidet her er et resultat av et langvarig samarbeid med Bo Lindqvist og eventuell kreditering må deles med
+han. Detaljene i fremstillingen her er imidlertid mine egne, så eventuell kritikk må rettes til meg.
+
+Referanser
+Berger, J. and D. Sun (2008). Objective priors for the bivariate normal model. The Annals of
+Statistics 36 (2), 963–82.
+Dawid, A. P. and M. Stone (1982). The functional-model basis of fiducial inference. The Annals
+of Statistics 10 (4), 1054–67.
+Doob, J. L. (1953). Stochastic Processes. Wiley Classics Library Edition (1990). Wiley.
+Efron, B. (1998). R. A. Fisher in the 21st century (with discussion). Statist. Sci. 13, 95–122.
+Feller, W. (1966). An Introduction to Probability Theory and Its Applications, vol. I-II (second
+(1971) ed.). Wiley.
+Fisher, R. (1973). Statistical methods and scientific inference. Hafner press.
+Fraser, D. (1961). On fiducial inference. Ann. Math. Statist. 32 (3), 661–76.
+Halmos, P. (1950). Measure Theory. Van Nostrand Reinhold.
+Hannig, J., H. Iyer, and P. Patterson (2006). Fiducial Generalized Confidence Intervals. Journal
+of the American Statistical Association 101, 254–69.
+Hartigan, J. (1983). Bayes theory. Springer.
+Kolmogorov, A. (1933). Foundations of the theory of probability. Chelsea edition (1956).
+Lehmann, E. (1997). Testing statistical hypotheses. Springer (second edition).
+Lindqvist, B. and G. Taraldsen (2005). Monte Carlo conditioning on a sufficient statistic. Biometrika 92, 451–464.
+Renyi, A. (1970). Foundations of Probability. Holden-Day.
+Schervish, M. (1995). Theory of Statistics. Springer.
+Schweder, T. and N. Hjort (2002). Confidence and likelihood. Scandinavian Journal of Statistics 29, 309–332.
+
+5
+
+
+
+14
+
+Klima-alarmen går bl.a. pga;
+- Betydelig misbruk av matematisk statistikk.
+- Frekke/smarte dokumentasjoner ved for eks. påstander som
+”Vitenskapelig bevist”
+Innlegg skrevet av: Fridtjof Wiese
+
+Klimadebatten har gått ”helt av sporet” slik at forskere, debattanter og journalister kan rope
+”ulv, ulv, - - -”
+Dessverre har mange klimaforskere åpenbart sviktende kunnskaper innen matematisk statistikk – d.v.s.
+sannsynlighetsregning for bl.a. å kunne sammenligne kurver eller å lage prognoser eller benytte andre
+matematikkrelaterte modeller. Svikten går mye på at de ikke helt er klar over begrensningene den
+matematiske statistikken setter ved eventuelle anvendelser. Dette er en av hovedårsakene til at
+klimadebatten over hele Verden har gått ”helt av sporet”. Noe som har gitt mange forskere,
+debattanter og journalister grunnlag til å rope ”ulv, ulv, - - -”.
+Leser man TG, vil man vedrørende klimadebatten oppleve en helt annen verden enn den som
+fremkommer i de mange norske media inklusiv TV. I 2008 skrev prognosespesialist dr.philos. Kjell
+Stordahl følgende i TG; ”I dette innlegget vil jeg prøve å klargjøre at FN´s klimapanel IPCC ser ut til å
+mangle statistisk kompetanse, og at de ikke følger retningslinjer som enhver statistiker er opplært til å
+følge”
+Det største misbruket foregår ved såkalte regresjonsanalyser. De foregår også et vesentlig misbruk
+ved faktoranalyser og en del matematikkrelaterte modeller, men det vil bli for komplisert å komme inn
+på her.
+”Positive/gode korrelasjoner” ved regresjonsanalyser er ikke noe sannhetsbevis
+Om man ved regresjonsanalyser oppnår ”god korrelasjon” mellom 2 kurver, er ikke det noe
+sannhetsbevis for at de virkelig samvarierer. Nei, slike resultater sier bare at det kan muligens
+eksistere en viss samvariasjon. Men likevel bruker mange forskere ”positive korrelasjoner” som
+sannhetsbevis når de for eks. sammenligner kurver for CO2-utslipp og globale temperaturøkninger.
+I ovennevnte og lignende sammenhenger tilføyes det ofte frekke påstander om at forholdene er
+”vitenskapelig bevist”. Videre tegnes det gjerne opp en kurve over temperaturøkningen 50-100 år
+fremover i tid hvor temperaturen på jordens overflate snart vil begynne å konkurrere med varmen i
+helvete. Ja, da er klima-trusselen virkelig blitt alarmerende. En alarm som stort sett er basert på
+misbruk av matematisk statistikk.
+I mine øyne inneholdt foredraget ”Himmel og hav” som Siri Kalvig og en oseanograf reiste rundt om i
+Norge med slik misbruk av matematisk statistikk. Dessuten fikk de økonomisk støtte (les; våre
+skattepenger) fra Miljødepartementet til denne Norgesturneen.
+Heldigvis er det noen ”ikke-matematikere” som har forstått regresjonsanalysenes begrensninger.
+Solforsker Pål Brekke har laget et veldig godt eksempel på hvordan regresjonsanalyser kan
+misbrukes. I dette tilfellet gjorde han en korrelasjonsanalyse mellom solens aktiviteter i de siste 50
+årene og New York-børsen Dow Jones-indeks hvor han oppnådde meget god korrelasjon. En
+korrelasjon som ved misbruk kan lede oss til å tro at vi her på jorden kan styre solens aktiviteter via
+
+
+
+15
+
+Dow Jones-indeksen. Imidlertid hvis det virkelig var riktig, så kan vi nå vente oss et betydelig kaldere
+klima p.g.a. den sterke børsnedgangen vi for tiden har i USA og verden for øvrig.
+For korte sammenligningsperioder gir lett feilkonklusjoner
+Videre brukes det vanligvis altfor korte sammenligningsperioder i regresjonsanalysene. Det nytter
+ikke å gå bare 10-15 år tilbake i tid. Nei, svært så ofte burde forskerne minst ha gått tilbake til
+Vikingtiden da gjennomsnittstemperaturen var så høy at buskapen gikk ute stort sett hele året, og man
+dyrket korn på Grønland.
+Gal bruk av gjennomsnittsverdier gir falsk trygghet i prognoser og lignende
+Ofte baserer forskerne beregningene på gjennomsnittsverdier – noe som virker trygt og beroligende på
+oss vanlige mennesker. Imidlertid glemmer mange forskere å ta spredningen i datamaterialet som er
+knyttet til gjennomsnittsverdiene med seg i de videre beregningene/prognosene. Dermed blir den
+forannevnte tryggheten forvandlet til en falsk trygghet.
+Misbruk av Normalfordelingen (Gauss-fordelingen)
+Ofte baserer klimaforskerne seg på at dataene deres tilhører en sannsynlighetsfordeling som er
+tilnærmet lik normalfordelingen. For der er formel- og tabellsystemet meget godt utviklet. Men
+enkelte forskere bare antar uten i det hele tatt å sjekke om denne tilnærmetheten virkelig eksisterer.
+Hva da, hvis så ikke er tilfelle? Ja, da er forskningsresultatene egentlig basert på ren løgn!
+Gale konklusjoner anvendt som om de er riktige
+Ved alle prognoser og annen bruk av matematisk statistikk – er det en viss sannsynlighet for å
+konkludere galt. Og hvis konklusjonen så blir feil, snakker forskerne nærmest aldri om at
+konklusjonen muligens kan være feil. Ja, de ”glemmer” som oftest det forholdet at konklusjonen kan
+være feil. M.a.o. behandler klimaforskerne ofte gale konklusjoner som om de er riktige.
+Forskning på samme datagrunnlag gir ”falsk enighet”
+Uavhengighet mellom observasjonene er også et viktig krav ved bruk av matematisk statistikk. Her
+vil jeg bl.a. peke på at mange forskere forsker delvis på de samme dataene.
+La for eksempel 100 forskere forske på det samme datagrunnlaget – hvor de fleste vil komme
+noenlunde til det samme forskningsresultatet. Jo, her er selve forskningen uavhengig av hverandre,
+men forskningsresultatene er på ingen måte uavhengige. Derfor kan enigheten betraktes som en ”falsk
+enighet”. Dette betyr bl.a. at om 2 500 forskere i FN´s klimapanel er enige – så er disse forskernes
+egne forskningsresultater på ingen måte helt uavhengige.
+Avhengighet mellom meteorologiske data
+Dataene sine henter klimaforskerne gjerne fra forskjellige meteorologiske observeringssteder. Og da
+er ikke dataene helt uavhengig av hverandre, hvis disse observeringsstedene ligger for nær innpå
+hverandre. Konsekvensen av dette forholdet er at det matematiske formelapparatet kan i mange
+tilfeller ikke anvendes på dataene forskeren har innhentet. Men det er forhold den enkelte klimaforsker
+gjerne ikke tenker over eller vet om.
+Meteorologiske data fra tiden før målingene via satellitter er ofte lite representative
+Fra tiden før man startet med satellitter, har man lite med meteorologiske data fra havområdene som
+dekker størsteparten av jordkloden. Videre lå de meteorologiske stasjonene gjerne i nærheten av
+tettbygde strøk med en del oppvarming av luften fra industri og boliger. Derfor er meteorologiske
+data fra denne tiden ofte lite representative som også er et krav den matematiske statistikken krever før
+formelapparatet kan tas i bruk. Et krav som klimaforskerne ikke alltid tenker tilstrekkelig over.
+Direkte juks!
+Et annet misbruk som dessverre er vanlig innen forskningen - er at forskere selvsagt ønsker
+undersøkelsene deres skal bli vellykkede. I denne sammenhengen faller enkelte gjerne for fristelsen å
+fjerne data/observasjoner som de synes ”ikke passer” helt inn i undersøkelsen. Ved å gjøre dette,
+
+
+
+16
+
+svekker de datamaterialets utsagnskraft meget betraktelig, men på den annen side oppnår de
+”vellykkede” undersøkelser. Slikt kaller mange med meg for direkte juks.
+Konsensusavgjørelser uten rot i vitenskapelig tenkning
+Dersom en gruppe klimaforskere er noe uenige om resultatet av en viss forskning, kan man av og til se
+at ”Hva som er rett og riktig” bestemmes ved flertallsavgjørelser. Dette har ingen rot i vitenskapelig
+tenkning, og for all del ikke i matematisk tenkning. For eks. kan flertallets enighet gjerne bestå i at de
+har i stor grad forsket på de samme dataene. I et slikt eksempel er resultatene fra de enkelte ikke
+uavhengige til tross for at selve forskningene har foregått uavhengig av hverandre. En annen form for
+konsensusavgjørelse er når man delvis bestemmer hva som er rett lære etter antallet
+forskningsutredninger som er kommet på trykk for de enkelte teoriene som heller ikke har rot i
+vitenskapelig tenkning. Derfor er slike konsensusavgjørelser helt forkastelige.
+Sluttord
+Selv om jeg her har kritisert klimaforskerne, så er det mulig at klimaet påvirkes av menneskenes
+aktiviteter. Men samtidig eksisterer det sterke teorier om at denne påvirkningen egentlig er minimal.
+At klimaet påvirkes av jordens store energikilde solen synes åpenbar, men hvordan vet vi også altfor
+lite om. Derfor bør Klima-forskning og Sol-forskning være høyt prioritert samtidig som denne
+forskningen bør i langt større grad koordineres internasjonalt, men for all del ikke av FN´s Klimapanel
+som til nå har totalt feilet som en slik koordinator. Og mens vi venter på resultatene fra forskerne, bør
+vi leve etter ”føre-var-prinsippet”. M.a.o. bør vi forurense kloden vår minst mulig. Men det må
+gjøres etter en langt, langt mer realistisk klimadebatt enn den debatten vi til nå har hatt.
+
+Med vennlig hilsen
+Aktuar Fridtjof Wiese,
+Dælifaret 9,
+1383 Asker
+
+
+
+17
+
+Arne Bang Huseby 50 år
+For å bruke terminologien fra ishockey: Centerforward i ungdomsrekka ved
+Matematisk institutt, avd. C, UiO, Arne Bang Huseby, fylte 50 år 11. november. Fra
+1. mars blir hans rolle enda mer sentral som den første ansatte leder ved instituttet.
+Arne Bang Huseby har siden 1986 vært ansatt som førsteamanuensis i risiko- og
+pålitelighetsanalyse ved Matematisk institutt og har tatt mer enn sin sin del av
+rimelige administrative byrder. Han var undervisningsleder ved avdelingen i perioden
+1987-1989 og avdelingsbestyrer våren 1992, våren 1993 og i perioden 1994-1996. I
+den siste perioden var han også visebestyrer ved instituttet. I 1997 og i perioden
+2000-2004 var han bestyrer ved instituttet. Han har vært medlem av styret ved Det
+Matematisk-naturvitenskapelige fakultet i periodene 1994-1997 og 2000-2004, og
+ledet i perioden 1999-2001 fakultetskomitéen som forberedte sammenslåingen av
+geofagsinstituttene ved fakultetet. I perioden 1988-1990 og i sine perioder som
+bestyrer ved Matematisk institutt var han medlem av Norsk Matematikkråd. I den
+første av disse periodene var han også sekretær for styret i dette rådet. Siden våren
+2006 har han vært UiOs representant i styret for N.H. Abels minnefond.
+Ved siden av sin stilling ved Matematisk institutt hadde han en omvendt II-stilling
+ved Senter for Industri-forskning (SINTEF-Oslo) i perioden 1986-1990. Han har også
+hatt mangeårig samarbeid med bedrifter som Veritas, Avinor og Terramar og er en
+aktiv deltager i SFI-enheten "Statistics for innovation".
+Som forsker har han arbeidet med et bredt spekter av temaer innenfor risiko- og
+pålitelighetsanalyse. Arbeidene inkluderer grunnleggende problemstillinger knyttet til
+matroider og grafteori, mål for pålitelighetsmessig betydning, avanserte
+simuleringsmetoder, stokastiske avhengighetsmodeller, kombinering av
+ekspertvurderinger, totalskadefordelinger, stokastiske modeller for flybevegelser,
+prediksjon av rullebanefold basert på værdata, samt en lang rekke anvendt orienterte
+arbeider.
+I de siste fire årene har han særlig konsentrert seg om teori for rettede matroidesystemer, og optimering av oljeproduksjon modellert ved ordinære differensialligninger. Innenfor disse områdene har han oppnådd resultater som har vakt
+internasjonal interesse. Han har også nedlagt et betydelig arbeid innenfor programutvikling med spesiell fokus på simulering, et arbeid han også har mottatt flere priser
+for. Programmene han har utviklet, er av kommersiell kvalitet, og benyttes i dag av
+forskere og konsulenter over hele verden.
+Ved siden av å være en utmerket administrator og en svært allsidig og spennende
+forsker, er Arne en dyktig og samvittighetsfull veileder og underviser. Av
+mennesketype er Arne instituttets svar på politimester Bastian. Han har en utrolig
+evne til ikke å la seg stresse, men noterer ned og tar de ulike oppgavene i tur og
+orden. Etter litt tid kommer en lengre e-post utredning der alle tenkbare scenarier er
+grundig utredet. Ellers har også Arne skjønt at det fra tid til annen kan være smart å
+trekke seg tilbake til en hytte i Valdres med optimal kombinasjon av arbeid og
+friluftsliv.
+Bent Natvig
+
+
+
+18
+
+Steinar Bjerve
+Nyttårsaften døde Steinar Bjerve 65 år gammel.
+Steinar ble født inn i norsk statistikk og inn i Arbeiderpartiet. Faren hans, Petter Jakob
+Bjerve, var direktør i Statistisk Sentralbyrå og finansminister under Gerhardsen. Steinar ble
+født på Levanger 22. november 1943, men det meste av barndommen hadde han på Tøyen, i
+samme borettslag som Gerhardsen og andre arbeiderpartiledere. Familien Bjerve flyttet etter
+hvert til Nordstrand, og der har Steinar stort sett bodd siden.
+I 1962 begynte Steinar å studere realfag på Blindern, og der falt valget på matematikk og
+statistikk. Han ble cand. real. med hovedfag i statistikk i 1968. Etter noen år som
+vitenskapelig assistent ved Avdeling C ved Matematisk institutt, Universitetet i Oslo, dro
+Steinar til doktorgradsstudier ved University of California, Berkeley høsten 1971. Steinar
+fikk Peter Bickel som veileder, og ble PhD i 1974 med avhandlingen Error Bounds and
+Asymptotic Expansions for Linear Combinations of Order-Statistics.
+Ved hjemkomsten fra Berkeley ble Steinar førsteamanuensis ved Avdeling C. Omtrent
+samtidig ble det klart at han led av multippel sklerose. Selv om sykdommen etter hvert
+begrenset Steinars muligheter til å utfolde seg fysisk, hindret det han ikke i å være faglig
+aktiv, og det er ikke alle statistikere som kan skilte med publikasjoner både i Annals of
+Statistics og Journal of the American Statistical Association. I 1994 ble Steinar
+uførepensjonert, men han beholdt sitt kontor og var jevnlig på Blindern helt til sist sommer.
+Vi så han siste gang i november da Avdeling C markerte hans 65 års dag med en stor
+bløtkake. Et liv i rullestol har heller ikke hindret Steinar fra å være på en rekke besøk hos
+Kjell Doksum og alle hans andre gode venner i Berkeley.
+Trass i de problemene sykdommen ga, beholdt Steinar sitt gode humør, livsglede og
+pågangsmot til det siste, og vi vil alltid tenke på han som den blide, positive og energiske
+personen han var. På vegne av alle Steinars kollegaer og venner ved Avdeling C, i resten av
+Norge og i California går våre tanker til familien og Steinars to døtre, Kristine og Ingrid.
+
+Ørnulf Borgan
+
+Bent Natvig
+
+
+
+19
+
+Selvpresentasjon: Guro Dørum
+Institutt for Kjemi, Bioteknologi og
+Matvitenskap, UMB
+Planlagt disputas: Høst 2011
+Veiledere: Solve Sæbø og Lars
+Snipen
+Jeg begynte som stipendiat ved
+Biostatistikkgruppa på UMB i august 2007,
+etter å ha fullført en master i bioinformatikk.
+Masteroppgaven ble skrevet på samme gruppe
+med Lars Snipen og Solve Sæbø som
+veiledere.
+.
+Hovedmålet i doktorgradsavhandlingen er
+utvikling av metoder for modellering av
+multivariate data med ulike avhengighetsstrukturer, der antall variable overskrider antall
+observasjoner. I all hovedsak jobber jeg med å utvikle metoder for analyse av
+mikromatrisedata som også inkluderer informasjon om gengrupper/gennettverk.
+Mikromatriser måler genekspresjon for tusenvis av gener samtidig, og brukes blant annet for å
+identifisere gener som er differensielt uttrykte mellom en eller flere grupper (eks. syk/frisk).
+Mikromatriseteknologien er svært støyfylt, og testing av enkeltgener for differensiell
+ekspresjon kan derfor gi svært usikre resultater. I tillegg vet vi at gener er koblet sammen i
+nettverk eller genrgupper, og vi vil derfor forvente avhengighet mellom genuttrykket til gener
+som er nært koblet. Utnytting av den informasjonen som ligger i slike avhengigheter kan
+stabilisere analyser, øke signal-til-støy forholdet i data og gi mer pålitelige utsagn om
+koblingen mellom genommålinger på den ene siden og fenotypeinformasjon på den andre.
+Mange metoder som benytter seg av informasjon om a priori definerte gengrupper (eks.
+pathways, funksjonelle grupper) i analyse av mikromatrisedata, baserer seg på lister av
+signifikante enkeltgener hvorpå det utføres Fishers exact test eller lignende. Gene Set
+Enrichment Analysis (GSEA), som er vårt utgangspunkt, skiller seg fra disse metodene ved at
+den tar hensyn til alle genene i mikromatriseforsøket, i stedet for kun statistisk signifikante
+gener. Ideen er at GSEA er mer sensitiv for å oppdage små, men konsekvente endringer i
+genuttrykket i en gruppe av gener, enn metoder som først trekker slutninger om enkeltgener.
+Trolig kan en liten endring i en hel gruppe være et mer interessant resultat enn en stor endring
+i noen få gener.
+GSEA er i utgangspunktet utviklet for data fra forsøk designet som såkalt ”indirekte
+sammenligning”, hvor to grupper som skal sammenlignes hybridiserer til ulike mikromatriser
+med en felles kontroll, slik at matrisene kan merkes med gruppenavn. GSEA beregner en
+score for hver gengruppe, og tester signifikans for gruppescoren ved bruk av en
+permutasjonstest som permuterer sampler. En annen vanlig metode å utføre forsøkene på, er å
+la de to gruppene hybridisere til samme matrise, kalt ”direkte sammenligning”. Ettersom vi
+ikke lenger har én gruppe per matrise, kan ikke den opprinnelige permutasjonstesten i GSEA
+benyttes. Et annet problem er at mikromatrisedata ofte har svært få sampler, dette gjelder
+spesielt for ”direkte sammenligning”-data. En eventuell permutasjonstest for parvise data vil
+da ha lav styrke. Permutasjon av gener i stedet for sampler vil ødelegge korrelasjonsstrukturen
+
+
+
+20
+
+mellom genene, noe som fører til mange falske positive. For å estimere nullfordelingen til
+gruppescoren har vi derfor tatt i bruk rotasjonstesting. En rotasjonstest tillater genene å rotere
+fritt samtidig som kovariansmatrisen til genene bevares. Andre problemstillinger vi jobber
+med i forhold til testing av gengrupper i mikromatrisedata, er fjerning av uønskede effekter i
+dataene som for eksempel dye-effekt og batch-effekt.
+
+
+
+21
+
+Selvpresentasjon av Steffen Grønneberg
+Jeg har nå fullført to år av doktorgradsstudiet ved UiO og er dermed akkurat midtveis.
+Her tok jeg også master og bachelorgraden, så nå har det blitt syv år på UiO. Veilederne
+mine er Nils Lid Hjort (fra Universitetet i Oslo) og Kjersti Aas (fra Norsk Regnesentral),
+og stipendet mitt er 3/4 dekket av SFI2 , og 1/4 fra UiO for undervisning. Det vil si at jeg
+både er en del av SFI2 -miljøet og UiO-miljøet, noe jeg setter stor pris på.
+Jeg er oppvokst i kunstnerboligene Ekely i Oslo sammen med bestemoren min (som
+er billedhugger) og moren min (som er skuespiller), og da jeg var liten ville jeg nok heller
+gjettet på at jeg skulle til humaniora eller bli kunstner. I motsetning til de fleste realfagsstudenter må jeg innrømme at jeg ikke kunne fordra matte på ungdomsskolen (men fikk et
+noe mer nøytralt forhold til det på videregående), og interessen kom først da jeg tilfeldigvis
+kom borti matte på et høyere nivå. Jeg brukte store deler av fritiden min som tenåring til å
+programmere og finne ut av alle mulige rare ting om datamaskiner, og det var en selvfølge
+at jeg begynte å studere informatikk da jeg var ferdig på videregående. Dette førte til at
+jeg var nødt til å ta noen mattekurs. Til min overraskelse viste det seg at det jeg hadde
+syntes var mest spennende ved informatikk rett og slett var matte. Jeg endte opp med å
+ta bare ett eneste informatikkurs. På samme måte tok jeg pliktoppfyllene et statistikkurs,
+stort sett siden jeg tenkte det kunne være praktisk i en fremtidig jobbsituasjon og uten
+de helt store forhåpningene. Jeg ble svært interessert. Først i sannsynlighet - og dette
+førte til at jeg begynte på en master, og så i de faktiske anvendbare statistiske aspektene
+i begynnelsen av mastergraden. Nå har hovedinteressen min vært stabil i flere år, så jeg
+føler meg trygg på at jeg har funnet mitt felt. Matematisk statistikk består dessuten av tre
+hovedkomponenter, som alle etter tur har vært mine lidenskaper: Informatikk, matematikk
+og statistikkens egenart. Dermed ser jeg nå en rød tråd i min vei til statistikk, selv om jeg
+ikke visste det selv.
+Doktorgradsarbeidet mitt hilttil er rettet mot forskjellige aspekter ved multivariat
+data (spesifikt copulaer), og til nå har jeg jobbet med estimering og modellvalg for semiparametriske modeller hvor marginaler estimeres ikkeparametrisk gjennom empiriske fordelinger og avhengighetsstrukturen (copulaen) er parametrisk. Dette kalles Maximum
+Pseudo Likelihood estimering (MPLE), og har ledet til matematisk interessante problemer
+som også er av praktisk interesse: copulaer er nemlig veldig ”hot” i visse miljøer for anvendt statistikk og empirisk finans, og denne semiparametriske estimeringsformen brukes
+mye. Sammen med Nils har jeg utvidet AIC-modellvalgskriteriet til MPLE-tilfellet, og vist
+at det semiparametriske tilfellet er mer komplekst enn det rent parametriske i at det ofte
+ikke finnes en AIC-formel (se Statistical Research Report nummer 7 (2008) fra UiO).
+I masteroppgaven min drev jeg med probabilistiske aspekter innen asymptotisk statistikk ved hjelp av empirisk prosessteori. Dette gjorde at mye asymptotisk litteratur åpnet
+seg for meg, som har hjulpet godt for PhD-arbeidet: En veldig stor klasse statistiske estimeringsteknikker kan uttrykkes som funksjonaler av empiriske prosesser indeksert over et
+muligens abstrakt rom. Så selv om man har vanlige, reelle estimatorer, er det hensiktsmessig å øke dimensjonaliteten på problemet ved å heller jobbe med stokastiske pros-
+
+
+
+22
+
+esser fordi det gir svært generelle og kraftige resultater. Dette er et eksempel på at rent
+matematiske studier, som muligens ikke er direkte anvendbare i seg selv, kan gi særdeles
+anvendbare resultater - noe som passer min matematikkinteresse veldig godt.
+I skrivende stund er jeg gjesteforsker på Weierstrass-instituttet i Berlin for å jobbe
+med probabilistiske egenskaper ved semiparametriske estimater i samarbeid med Professor Vladimir Spokoiny. Spokoiny har skrevet en artikkel som benytter ”chaining” (som
+er velkjent i empirisk prosessteori, men her brukt på andre måter) av supremumet til
+likelihoodfunksjonen sett på som et stokastisk felt til å finne konsentrasjonsegenskaper til
+estimatorer. Disse konsentrasjonsegenskapene er gyldige for alle n (antall observasjoner)
+og bruker ikke den klassiske antagelsen om uavhengighet og identisk fordelthet av observasjonene. Konsentrasjonsegenskapene er altså ikke asymptotiske resultater, men også
+gyldige for en GLM-modell med la oss si ti datapunkter. Målet med besøket er å prøve
+å utvide dette til når man har to-stegs estimering med plageparametre, som kan være
+uendeligdimensjonale (som i MPLE). Kjæresten min (som tar et språkkurs) og jeg skal
+være her i hele januar, og vi trives godt.
+Jeg ønsker også å benytte anledningen til å takke for to kurs ved Universitetet i Oslo
+som har hatt stor innflytelse på interessene mine, nemlig ST110 med Nils Lid Hjort som
+fikk meg interessert i statistikk og sannsynlighet, og STK4040 med Tormond Næs som fikk
+meg interessert i de rent anvendte sidene ved statistikk. Og en ny takk til Nils Lid Hjort
+som har hjulpet og inspirert meg i veilederrollen i nå fire og et halvt år.
+
+
+
+Norsk statistisk forening, avdeling Oslo, inviterer til
+
+Det 15. norske statistikermøtet
+Jevnaker 2009
+Det 15. norske statistikermøtet finner sted ved Thorbjørnrud Hotel, Jevnaker, mandag 15.
+- torsdag 18. juni. Møtet innledes med et kurs i ”Modellvalg og modellblanding”, holdt
+av Nils Lid Hjort.
+Timeplan
+Forkurs: Mandag etter lunsj - tirsdag før lunsj
+Konferanse: Tirsdag etter lunsj - torsdag før lunsj
+Program
+Vi ønsker påmeldte foredrag innen ALLE tema! Spesielt ønsker vi foredrag eller poster
+fra masterstudenter og stipendiater.
+For alle påmeldte foredrag og postere:
+Tittel sendes innen 15. mars og kort sammendrag (maks 1 side) innen 1. mai til
+programkomitéen.
+Innspill og påmelding av foredrag sendes programkomitéen v/ Jo Eidsvik.
+For mer informasjon og påmelding
+http://www.math.uio.no/div/nsf/moter/jevnaker-2009.html
+Arrangementskomité: Styret i Norsk
+statistisk forening, avdeling Oslo
+Ingunn Fride Tvete (leder)
+Tor Cato Gjerdingen (kasserer)
+Øyvind Langsrud (sekretær)
+Ståle Nygård (web-ansvarlig)
+Hege Marie Bøvelstad (styremedlem)
+Anders Løland (styremedlem)
+
+Programkomité
+Kjersti Aas (kjersti.aas@nr.no)
+Jo Eidsvik (joeid@math.ntnu.no)
+Hans Julius Skaug
+(Hans.Skaug@mi.uib.no)
+Ingrid Glad (glad@math.uio.no)
+
+
+
+24
+
+Nordisk – Baltisk Biometrisk Konferanse 2009 i Tartu, Estland
+Geir Aamodt, Nasjonalt folkehelseinstitutt
+
+I tidsrommet 10-12. juni 2009 arrangeres nordisk - baltisk biometrisk konferanse i Tartu,
+Estland (NBBC09).
+Konferansen innledes med et forkurs innen kausal inferens (Causal Inference) 9-10. juni og
+foreleser er Stijn Vansteelandt fra Universitetet i Ghent, Belgia.
+Videre har konferansen et bredt program med seksjoner innen følgende felt: kausal inferens i
+genetikk, demografi & statistikk, romlig statistikk, forløpsmodeller i epidemiologi og
+bioinformatikk.
+Konferansen har fått flotte plenumseksjoner med spennende foredrag:
+Martyn Plummer
+(IARC, Lyon, France)
+Bayesian hierarchical modelling with JAGS
+Nanny Wermuth
+(Chalmers/Gothenburg University)
+What does indirect confounding imply for meta-analyses?
+Eric Renshaw
+(University of Strathclyde, Scotland, U.K.)
+Stochastic Growth/Interaction Strategies for Simulating Spatial-Temporal Marked Point
+Processes
+Frist for innsending av abstrakt er 1. mars. Du får redusert påmeldingsavgift hvis du melder
+deg på før 15. april.
+Leder for programkomiteen er Jukka Corander, og Krista Fischer leder den lokale
+organisasjonskomiteen.
+Konferansens hjemmeside er: http://www.ms.ut.ee/NBBC09/index.html
+Vi sees i Tartu!
+
+
+
+25
+
+ENBIS-8, Athen September 2008.
+Erik Mønness, Høgskolen I Hedmark
+Hva er ENBIS:
+ENBIS — the European Network for
+Business and Industrial Statistics — is
+the platform where applied statisticians
+and statistical practitioners meet. The
+annual conferences and this webpage
+are the places where people go with
+their questions, find solutions, meet
+fellow statisticians from all over Europe.
+And all that without any costs for you!
+The only thing we ask from you is to be
+part of it!
+In exchange for it, ENBIS offers you:
+• network facilities
+• conferences;
+• courses;
+• Special Interest Groups; and
+• Local Networks in many European
+countries, for even more direct
+networking.
+
+Årets konferanse foregikk ved Business
+Universitetet i Athen. Det ble også på en
+måte en gjensyn med Blindern fra tidlig
+-70-tall: Veggaviser og bannere (bilde)
+
+ENBIS hadde sitt første møte i Oslo i år 2000 og har siden klart å samle godt over 100
+anvendte statistikere samt brukere innen industri, tjeneste, og næringsvirksomhet i en årlig
+konferanse. Det ble levert 86 abstracts i år.
+Konferansen dekker både teoretiske og anvendte tema relevant i sammenhengen. Programmet
+er her http://www.enbis.org/events/current/66_ENBIS8_Athens/programme .
+Norske bidragsytere i år var Yousif Rahim, John Tyssedal og undertegnede. Årlig deltar
+omkring 5-6 personer fra Norge. I tillegg til konferansen holdes det en rekke korte kurs med
+dyktige kursholdere. I år: Statistical Leadership: From Consultant to Effective Leader.
+Statistics in Innovation and the Design Process. Consultancy Skills for Statisticians. Design of
+Experiments: New Methods and How to Use Them
+ENBIS deler ut ”George Box Medal”. I år gikk medaljen til Doug Montgomery, i fjor Poul
+Thyregod.
+
+
+
+26
+
+Pusleri nr. 26
+Tenk deg at du skyter mot blink, og at du etter hvert skudd vurderer avviket
+mellom treffpunkt og senterpunkt, med sikte på eventuell korrigering av siktet.
+Betrakt hver av de fire strategiene:
+1. Skyt som før uansett siste avvik.
+2. Korriger vekk fra nåværende innstilling iht siste avvik.
+3. Korriger vekk fra opprinnelig innstilling iht siste avvik.
+4. Rett siktet mot siste treffpunkt uansett hvor det er.
+Hva kan sies om disse strategiene mht. risiko for avvik fra blinken?
+Har du analogier fra andre felt eller dagliglivet for noen av disse strategiene?
+
+Løsning til: jostein.lillestol@nhh.no
+
+
+
+27
+
+Pusleri nr. 25 (løsning)
+Oppgaven var (Banachs fyrstikkproblem):
+Du har to fyrstikkesker med n fyrstikker i hver eske. Hver gang du trenger en fyrstikk velger
+du en av eskene tilfeldig, og bruker en fyrstikk fra denne. Slik fortsetter du, uten å holde rede
+på hvor mange fyrstikker du har brukt, inntil den eske du åpner er tom. Hva er forventet antall
+fyrstikker i den andre esken?
+Løsning: Betrakt valg av eske A eller B som binomiske forsøk, der A er suksess og
+suksessannsynligheten er ½. At eske A finnes tom for første gang samtidig som B inneholder
+k fyrstikker, er ekvivalent med (n-k) fiaskoer før (n+1)te suksess, dvs. at en har suksess i
+𝟐𝒏 − 𝒌
+forsøk nummer (n-k)+(n+1)=2n-k+1, mens de øvrige n suksesser kan plasseres på
+𝒏
+𝟐𝒏 − 𝒌 𝟏 𝟐𝒏+𝟏−𝒌
+måter . Vi får derfor sannsynligheten
+, og tilsvarende for at B finnes tom
+𝟐
+𝒏
+først. Vi får derfor
+𝟐𝒏 − 𝒌 𝟏 𝟐𝒏−𝒌
+𝑷 𝑿=𝒌 =
+for k=0,1,…,n
+𝟐
+𝒏
+De kumulative sannsynlighetene kan danne utgangspunkt for ulike betraktninger, eksempelvis
+med n=50 vil 𝑷 𝑿 ≤ 𝟓 = 𝟎. 𝟒𝟔𝟏𝟔𝟎𝟓, slik at det er mer enn 50% sjanse for mer enn 5
+fyrstikker i den andre esken når den ene er tom
+𝒏
+𝟐𝒏−𝒌
+𝟐𝒏 − 𝒌 𝟏
+𝑬𝑿 =
+𝒌
+𝒏
+𝟐
+𝒌=𝟎
+
+Ved bytte av summasjonsvariabel (j=n-k, i=j-1), forkorting og velkjente kombinatoriske
+formler får vi
+𝑬𝑿 =
+
+𝒏
+𝒋=𝟎 𝒏 − 𝒋
+
+𝒏+𝒋
+𝒋
+
+𝟏 𝒏+𝒋
+
+=𝒏−
+
+𝒏
+𝒋=𝟏(𝒏 + 𝟏)
+
+𝒏+𝒋
+𝒋−𝟏
+
+𝟏 𝒏+𝒋
+
+𝟐
+
+𝟐
+
+𝒏
+𝒋=𝟎 𝒋
+
+𝒏+𝒋
+𝒋
+
+= 𝒏 − (𝒏 + 𝟏)
+
+𝒏−𝟏
+𝒊=𝟎
+
+=𝒏−
+
+𝟏 𝒏+𝒋
+𝟐
+
+𝒏+𝟏+𝒊
+𝒊
+
+𝟏 𝒏+𝟏+𝒊
+𝟐
+
+Tas den siste summen fra 0 til n+1 må vi få 1 (følger av vår fordeling med n+1 istedenfor n) .
+Innsettelse av 1 med fradrag av de to manglende ledd gir etter forenkling:
+𝟐𝒏
+𝑬𝑿 = (𝟐𝒏 + 𝟏)
+𝒏
+
+𝟏 𝟐𝒏
+−𝟏
+𝟐
+
+For n=50 får vi EX=7.03851
+Varianter av problemstillingen fins: Dersom en isteden spør etter antall i den andre esken når
+en for første gang tar siste fyrstikk i en eske, så er fordelingen
+𝟐𝒏 𝟏 𝟐𝒏−𝟏
+𝟐𝒏 − 𝒌 − 𝟏 𝟏 𝟐𝒏−𝒌−𝟏
+𝑷 𝒀=𝒌 =
+(𝑘 = 1, … , 𝑛)
+og 𝑬𝒀 = 𝒏
+𝟐
+𝒏 𝟐
+𝒏−𝟏
+𝒏 + 𝒌 − 𝟏 𝟏 𝒏+𝒌−𝟏
+Merk også at 𝑷 𝒀 = 𝒏 − 𝒌 =
+(𝑘 = 0,1, … , 𝑛 − 1 ) som dukket opp
+𝟐
+𝒏−𝟏
+i pusleri nr. 24, og er sannsynlighetsfordelingen til antall av det motsatte utfall straks en har
+fått n suksesser eller n fiaskoer i binomiske forsøk. Her blir 𝑌 ′ = 𝑛 − 𝑌 som dermed gir 𝐸𝑌 ′ .
+
+
+
+28
+
+TILBUD PÅ SJS ABONNEMENT FOR NSF MEDLEMMER:
+Wiley-Blackwell gir medlemmer av Norsk Statistisk Forening abonnement på
+Scandinavian Journal of Statistics (SJS) i 2009 til redusert pris:
+£20 in the Non-Euro Zone,
+€29 in the Euro Zone.
+
+Ny web-link til SJS er forøvrig: http://www.interscience.wiley.com/journal/sjs
+
+TILBUD PÅ BØKER FOR NSF MEDLEMMER:
+Special 20% Books Discount for Members !
+Wiley-Blackwell are pleased to offer all members* a 20% discount on all
+Wiley-Blackwell statistics books in 2009.
+Take a look at the extensive books collection at
+www.wiley.com<http://www.wiley.com> , just click on 'Mathematics and
+Statistics' to see the full range and the latest titles.
+To claim your discount all you have to do is quote the special society
+promotional code SSS on your online order form, if you buy online at
+www.wiley.com, or quote SSS when ordering your books by phone, email, post
+or fax.
+Placing your order is easy:
+Online - Place your order at www.wiley.com<http://www.wiley.com>
+Phone - Place your credit card order at +44 1243 843 294
+Email - Email your order to cs-books@wiley.co.uk
+Post - Post your completed order form to: John Wiley & Sons Ltd., 1
+Oldlands Way, Bognor Regis, West Sussex PO22 9SA, UK
+Fax - Fax your completed order form to +44 (0) 1243 843 296
+Discover the world of statistics at www.wiley.com<http://www.wiley.com>
+*
+Offer open to members of: Danish Society for Theoretical
+Statistics, Finnish Statistical Society, Norwegian Statistical Society,
+Swedish Statistical Society
+
+
+
+29
+
+Nytt fra Universitetet i Bergen
+
+Nye masterkandidater 2008
+
+Dagrun Daltveit: Justering for Startverdi i Epidemiologiske
+
+Undersøkelser av Endring over Tid
+Veileder: Ivar Heuch
+Andreas S. Stordal: Sequential Monte Carlo Methods for Bayesian
+
+Filtering
+Veileder: Hans A. Karlsen.
+Frank H. Pedersen: Noen Metoder for Analyse av Alder-Periode
+
+Kohort-Modeller
+Veileder: Ivar Heuch
+Arne Johannes Holmin: Statistical analysis of data from
+
+Simrad MS70 multibeamsonar
+Veileder: Dag Tjøstheim
+Andreas Hillersøy Henriksen: Statistiske metoder på nedbørsdata
+
+Veileder: Hans A. Karlsen
+Ingrid Langfeldt Gould: Stochastic chain-ladder models in
+
+nonlife insurance
+Veileder: Trygve Nilsen
+Tomas Djønne: Sammenligning av Dersimonian-Lairds og
+
+Paule-Mandels metode for meta-analyse
+Veileder: Ivar Heuch
+
+Ansettelser
+Arne Johannes Holmin er ansatt som universitetsstipendiat.
+
+1
+
+
+
+30
+
+Nytt fra Avdeling C,
+Matematisk institutt, UiO
+Nye PhD-kandidater:
+Trond Reitan forsvarte 14. november 2008 sin avhandling:
+Classical and Bayesian nonlinear regression applied to hydraulic rating curve
+inference.
+
+Prøveforelesning: Statistical and practical challenges in estimating flow in
+
+rivers.
+
+Veiledere: Bent Natvig, Nils Lid Hjort og Inge Helland
+Ståle Nygård forsvarte 19. desember 2008 sin avhandling:
+Statistical modeling of complex time-dependent data in genomics and ecology.
+
+Prøveforelesning: False discovery rate and related concepts in multiple com-
+
+parisons problems, with applications to microarray data.
+
+Veiledere: Ørnulf Borgan, Arnoldo Frigessi og Magne Aldrin
+
+Nye Master-kandidater:
+Simen Gan Schweder: Recommender Systems and the Netfix Prize.
+
+Veileder: Nils Lid Hjort
+Mohammad Omer Saddiqi: Dynamic and Stochastic Survival Models.
+
+Veileder: Erik Bølviken
+Jimmy Veekas Paul: Dynamisk dødelighet i pensjonsforetak.
+
+Veileder: Erik Bølviken
+
+1
+
+
+
+31
+
+Trygve Ragnar Sunde: Modellkontroll for kasus-kontroll studier ved
+martingal residual prosesser.
+
+Veileder: Ørnulf Borgan
+Patrick Kakunze: Calibration of Claim Size Processes in Non-Life
+Insurance by Non-Linear Filtering for Lévy Processes.
+
+Veileder: Frank Proske
+
+Tekniske rapporter:
+Nils F. Haavardsson, A. B. Huseby, F. B. Pedersen, S. Lyngroth,
+J. Xu, T. I. Aasheim: Hydrocarbon production optimization in fields with
+different ownership and commercial interests.
+B. Natvig, K. A. Eide, J. Gåsemyr, A. B. Huseby, S. L. Isaksen:
+Simulation based analysis and an application to an offshore oil and gas production system of the Natvig measures of component importance in repairable
+systems.
+A. B. Huseby, K. A. Eide, B. Natvig, S. L. Isaksen, J. Gåsemyr:
+Advanced discrete event simulation methods with application to importance
+measure estimation.
+
+Ny administrasjon fra 1. januar 2009:
+Avdelingsbestyrer:
+Ørnulf Borgan overtar etter Bent Natvig, med Geir Storvik som vikar
+det første året.
+Undervisningsleder:
+Nils Lid Hjort overtar etter Ingrid Glad
+Leder av masterprogrammet i MOD:
+Inge Helland overtar etter Ingrid Glad, med Anders Rygh Swensen
+som vikar første halvår.
+
+Markering av to fødselsdager i november:
+Hovedbestyrer Kristian Ranestad var til stede ved en sammenkomst i 8. etasje
+for å markere Arne Bang Husebys 50-årsdag og Steinar Bjerves 65årsdag. Bent Natvig og Tore Schweder minnet om innsatsen til henholdsvis Arne og Steinar.
+2
+
+
+
+32
+
+NYTT FRA UNIVERSITETET I TROMSØ
+Uteksaminert masterstudent:
+• Kajsa Møllersen: Unsupervised Segmentation of Skin Lesions.
+(Veileder: Fred Godtliebsen)
+Ansettelser:
+• Marc Geilhufe (Stipendiat, aug. 08)
+• Stig Uteng (Stipendiat, aug. 08)
+• Kajsa Møllersen (Stipendiat, jan. 09)
+
+NYTT FRA NTNU
+Uteksaminert masterstudent:
+• Eva Kvam: Effect of Safe Failures on the Reliability of Safety Instrumented Systems.
+(Veiledere: Marvin Rausand, John Tyssedal)
+Ansettelser:
+• Gabriele Martinelli (Stipendiat, jan. 09)
+
+1
+
+
+
+33
+
+Norsk Statistisk Forening
+Kasserer: E-mail: hborgos@slb.com
+
+Tlf: 51 94 64 66
+
+Postgirokonto: 0530 27 73299
+
+_____________________________________________
+
+Årskontingent Norsk Statistisk Forening 2009
+Medlemskontingent i NSF er kr. 200,- pr. år for ordinære medlemmer og kr. 50,- for studenter (til og med mastergrad). På
+adresselappen bakpå TG står det anført siste år vi har mottatt kontingent fra deg. Sjekk adresselappen! De som ikke har
+betalt for tidligere år gjør dette sammen med kontingenten for 2009. Dersom du mener betalingsinformasjonen ikke
+stemmer, gi beskjed til hborgos@slb.com.
+NB: Dersom din arbeidsgiver betaler kontingenten, sørg for at navnet ditt kommer med på innbetalingen.
+Hva gjør vi med pengene?
+De største utgiftspostene for NSF er overføringer til lokallagene i Oslo, Bergen og Trondheim, NSFs medlemskap i the
+European Mathematical Society (EMS) og the International Statistical Institute (ISI), utsending av TG, og utgifter i
+forbindelse med diverse arrangementer (bla. støtte til studenter ved deltakelse på det norske statistikermøte).
+Medlemsregister
+For at medlemsregisteret skal være best mulig oppdatert er det viktig at du oppgir evt. ny post/epost-adresse ved å sende
+meg en epost. Vi har opprettet en egen mailingliste for NSFs medlemmer, nsf-medlemmer@math.uio.no. Dersom du ikke
+mottar epost på denne lista, send meg din oppdaterte epostadresse.
+Betalingsfrist for innbetaling av kontingent er 1. mars.
+PÅ FORHÅND TAKK!
+Vennlig hilsen
+Hilde Grude Borgos
+Kasserer NSF
+
+Kontingent NSF 2009: kr. 200 (kr. 50 for stud.)
+
+01.03.2009
+
+NSF v/ Hilde Grude Borgos
+Schlumberger Stavanger Research
+Postboks 8013
+4068 Stavanger
+
+0530 27 73299
+
+
+
+
+
+
+
+RETUR:
+Norsk Statistisk Forening
+v/Hilde Grude Borgos
+Schlumberger Stavanger Research
+Postboks 8013
+4068 Stavanger
+
+B
+
+
+

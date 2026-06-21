@@ -1,0 +1,2169 @@
+ISSN 0803-8953
+
+TILFELDIG GANG
+
+Nr. 2, årgang 19
+Mai 2002
+
+Utgitt av Norsk Statistisk Forening
+INNHALD
+
+Frå redaktøren Johndyssedal SNE
+Frå ler i NSFeAndrée Teigland SN
+Emil Spjøtvoll til minne. Bo Lindqvist
+Fagleg stoff
+
+Vellykket forsøk med ny lærebok. Henrik Dahl
+The Oslo Joint Centre for Advanced Statistical Research: in the final round
+to become a Norwegian Centre of Excellence. Arnoldo Frigessi
+
+Konsepter kommer og gar - Utfordringene bestar. "Det er 6 sigma denne
+gang. " Asbjørn Aune
+
+Six Sigma - En blant mange døgnfluer. Øystein Evandt
+Puslerispalten
+
+Puslen nr 10 skostein Eillestøk- sm mn vs
+PM SEN
+Tøysingavpuslerinr. 9. Jostem-Lillestgly SN
+
+Konferansar, meldingar og anna
+Brad Efron æresdoktor ved Universitetet i Oslo
+Ledig professorat i Biostatistikk ved Gøteborgs universitet
+Scandinavian Journal of Statistics
+Nytt om Statistikkundervisning. Henrik Dahl
+
+Finansnæringens hovedorganisasjon søker statistiker
+
+Nytfrå Universitetet 1 Oslos NR
+NytfANINT STN
+re ad Me
+ee
+Nytt frå Universitetet i Berpenie
+
+8.22243.
+
+ee
+
+ee
+
+as,
+
+Medlemskap i Norsk statisuskförenng 2.802.223.
+isos os. eet
+
+
+
+
+
+Redaksjon:
+
+John Tyssedal (redaktør)
+Bo Lindqvist
+Stian Lydersen
+Henning Omre
+
+Inge Olsen
+
+Adresse til redaksjonen:
+John Tyssedal
+Institutt for matematiske fag, NTNU
+
+Alfred Getz vei 1
+
+7491 Trondheim
+Tlf: 73 59 35 34
+Fax: 73 59 35 24
+e-post :
+tyssedal
+O
+stat.ntnu.no
+
+Trykking og utsending av TG blir utført av
+
+Statistisk Sentralbyrå.
+Bidrag til Tilfeldig Gang:
+Alle slags bidrag til bladet er velkomne, anten det gjeld nye tema av interesse for norske
+
+statistikarar eller ein har kommentarar til innlegg som alt står i bladet. Stoff til neste
+nummer må vere redaksjonen i hende innan 15.09.2002.
+Det greiaste er at stoffet blir sendt inn som Word-fil (Word 97 eller lågare versjon) til epost adressa til redaktøren, sjå ovanfor. Andre typar format vil og normalt bli akseptert.
+
+Nettversjon av TG, er å finne på følgjande internettadresse:
+www.math.uio.no/nsf/web/index.htm . Dei som leverer bidrag til TG og som ynskjer å
+reservere seg mot at bidraget blir lagt ut på nettet, må gje beskjed om dette ved
+innsending av stoff.
+
+NSF har og si eiga mailingliste, nsf- forum Omath.uio.no. Informasjon finst på
+Nsf-forum Info Page, internettadresse: www.math.uio.no/nsf/ . Der får du og vite korleis
+du kan melde deg på.
+
+
+
+Ein stor profil innanfor norsk statistikk og universitsleiing har gått bort. Emil Spjøtvoll blei
+berre 61 år gamal. Sjølv rakk eg berre å vere fagleg kollega med Emil ei relativt kort tid før
+
+han blei trekt inn i administrativt arbeid. Då undra eg meg over korleis ein person som var så
+
+naturleg og utan typisk akademisk stil og væremåte kunne vere så respektert og beundra i eit
+- akademisk miljø. Seinare lærte eg at respekten for Emil ikkje berre var eit norsk fenomen,
+men noko som og galdt i internasjonale akademiske kretsar. Bo Lindqvist gjev i dette
+nummeret ei oppsummering av kva Emil har betydd som statistikar og samfunnsbyggjar.
+
+Å selje statistisk tankegong til norsk industri og næringsliv er ikkje enkelt. Som statistisk
+
+rådgjevar for Elkem har eg erfart korleis oppbyggjinga av fagleg kompetanse med statistikk
+
+som ein
+av
+grunnpilarane
+har
+stoppa
+opp
+og
+blitt
+reversert
+som
+følgje
+av
+konjunktursvingingar. I førre nummer av TG gjorde Øystein Evandt greie for ideane rundt
+
+”Six Sigma”. Øystein Evandt og Asbjørn Aune har begge lang erfaring med statistisk
+kvalitetsforbetrings arbeid. Interesserte kan i dette nummeret lese meir om kva tankar desse
+har vedrørande utvikling og drift av kvalitetsforbetringsprogrami norsk industri.
+
+På
+
+universitet
+
+og
+
+høgskular
+
+er
+
+vi
+
+og
+
+opptekne
+
+av
+
+kvalitet
+
+gjennom
+
+arbeidet
+
+med
+
+kvalitetsreforma herunder nye studieprogram. Det er å vone at dette arbeidet munnar ut i nye
+og spanande studietilbod som kan vitalisere fag, vårt eige inklusivt.
+
+Diverre ser eg stor fare
+for at dette ikkje skjer og at det gamle består med mindre kosmetiske endringar.
+
+Sommarstid er konferansetid. Nokon dreg til Trondheim på MMR konferansen, nokon til
+Stockholm og Nordstat, nokon til ... . TG redaksjonen ynskjer alle ein god sommar og ein
+velfortent ferie.
+
+John Tyssedal
+
+'
+
+
+
+Kjære medlemmer!
+
+I begynnelsen av mars mottok vi den triste nyheten om at Emil Spjøtvoll var gått bort
+etter lengre tids sykdom. Ved siden av sin faglige tyngde bemerket Spjøtvoll seg som
+en statistikere som har påtatt seg store lederoppgaver. Han var rektor ved NTH fra
+
+1993 - 1995 og ble den første valgte rektor ved NTNUi perioden 1996 - 2001.
+
+Spjøtvoll ble i 1999 utnevnt til kommandør av St. Olavs Orden for sin innsats som
+universitetsleder og samfunnsbygger. Med Spjøtvolls bortgang har vi mistet en
+
+samfunnsengasjert statistiker vi har all grunn til å være stolte av.
+
+Jeg setter stor pris på diskusjoner og tanker rundt nytteverdien av faget vårt. Denne
+dagen som dette skrives holder matematisk institutt ved Universitetet i Oslo et
+
+seminar med tittelen: "Statistical modelling: the two cultures". Tittelen er hentet fra
+
+en interessant diskusjonsartikkel av Leo Breimani Statistical Science, August 2001,
+
+side 199-231. Kort fortalt snakker Breiman om to skoler; (1) den klassiske og
+modellbaserte, og (2) en som istedet tenker algoritmisk og velger parametre for
+
+å optimalisere prediksjonskvalitet. Breiman gir, satt på spissen, uttrykk for at skole (2)
+
+er undervurdert, er i farta, og vil bli dominant for det 21. århundre, mens skole (1) har
+gjort mye skade... I min hverdag ved Norsk Regnesentral er dette et stadig
+tilbakevendende tema med til dels stor temperatur i debatten. Jeg synes det er flott at
+
+det tas initiativ til denne typen debatter (og den pågår sikkert over store deler av
+
+landet allerede.)
+
+Artikkelen til Breiman leder fort til spørsmålet om hvordan vi best mulig bruker vår
+
+kunnskap. Har faget vårt stor nok nytteverdi? Brukt riktig (nei da, jeg skal ikke gå inn
+i debatten her ©) er mitt svar et entydig JA. Jeg synes Norges forskningsråds prosess
+
+for å velge ut "Sentre for fremragende forskning" illustrerer vår verdi ganske klart.
+
+Her konkurrerer faggrupper, innen alle fag og temaer, fra universiteter, institutter og
+næringsliv om status og midler til ca 10 sentre. 129 søknader ble sendt inn, og 40 av
+disse er valgt ut til en finalerunde. Kriteriene er både faglig kvalitet og
+
+samfunnsmessig nytteverdi. I konkurranse med alle dyktige norske forskere, fra alle
+fagfelt, er, meg bekjent, minst fire av finalistene tungt befolket av statistikere. I tillegg
+
+har flere andre søknader statistikk med som viktig hjelpefag. Jeg vet mange av våre
+medlemmer venter i meget stor spenning på endelig avgjørelse som faller 10. juni
+
+Med de beste ønsker for våren og sommeren,
+André Teigland
+
+
+
+Emil Spjøtvoll til minne
+
+Professor Emil Spjøtvoll døde 4. mars i år. Med ham er en av de aller fremste
+norske statistikere gått bort. I tillegg til sine tallrike og banebrytende bidrag til
+
+statistikkfaget står Emil også fram som den store administratoren som de siste årene la
+ned all sin tid i utviklingen av den nye universitetsstrukturen i Trondheim. Som kjent
+
+ble Emil den første valgte rektoren ved NTNU i 1996 og satt to perioder i denne
+
+stillingen.
+Emil var født i Hemne i Sør-Trøndelag 21. juli 1940. Han tok eksamen artium
+ved Trondheim Katedralskole i 1959 og dro deretter til Oslo for å studere. Han ble
+cand.real. i statistikk ved Universiteteti Oslo i 1964. I 1968 tok han dr.philos. graden
+ved Universitetet i Oslo.
+
+Når vi går igjennom Emils samlede virksomhet, står det meget klart at han var
+en stor begavelse som antageligvis ville ha nådd langt uansett hvilke felter han hadde
+
+gått inn på. Nå ble det først en imponerende faglig karrierei statistikk, og deretter en
+enestående innsats som universitetsleder og samfunnsbygger.
+Vi finner det naturlig å skille mellom de to virksomhetene og tar for oss den
+
+faglige karrieren først. I to perioder var han ansatt ved Matematisk institutt, avdeling
+C ved Universitetet i Oslo, som universitetslektori 1965-68 og som dosent i 1970-72.
+
+Mellom disse periodene var han i to år ”visiting assistant professor” i USA, ved
+University of California, Berkeley, og ved University of Wisconsin, Madison. I tiden
+
+1973-1982 var han professor i statistikk ved Norges Landbrukshøgskole på Ås. Han
+var også i en kort periode gjesteprofessor ved ETH i Sveits i 1982-83, før han i 1983
+kom til Norges tekniske høgskole i Trondheim, til det daværende Institutt for
+matematisk statistikk.
+Emils profil innen multivariabel analyse betød en vesentlig styrking av
+
+virksomheten ved instituttet. Med sitt store engasjement i undervisning og veiledning
+ble han ikke minst en viktig aktør i studieretningen for industriell matematikk i
+sivilingeniørstudiet.
+
+Fra
+
+denne
+
+var
+
+det
+
+dessuten
+
+god
+
+rekruttering
+
+av
+
+doktor-
+
+gradsstudenter, og Emil utmerket seg også her som veileder. Det er et faktum at han
+var veileder for mange som siden er blitt tilsatt i akademiske stillinger ved norske
+
+My
+
+
+
+universiteter, og som dermed i en forstand bringer Emils virksomhet videre. Frukter
+av
+
+Emils
+
+virksomhet
+
+ser
+
+vi
+
+selvsagt
+
+også
+
+tydelig
+
+gjennom
+
+det
+
+store
+
+antall
+
+hovedfagsstudenter han har veiledet.
+I tillegg til sin virksomhet ved universiteter og høgskoler deltok Emil i
+oppbyggingen av flere forskningsmiljøer i Norge. Gjennom hele 70-tallet var han
+
+vitenskapelig rådgiver ved Norsk Regnesentral, der han særlig arbeidet med å bygge
+opp kompetanse i tidsrekkeanalyse og multivariabel analyse. Den største delen av
+Emils ikke-akademiske faglige virksomhet
+
+har vært knyttet til landbruksrelatert
+
+forskning. Allerede i 1963-64 var han stipendiat ved Det norske skogsforsøksvesen.
+
+Da han ble professor ved Norges Landbrukshøgskole i 1973, tok han straks til med å
+bygge
+
+opp
+
+et
+
+forskningsmiljø
+
+knyttet
+
+til
+
+anvendelse
+
+av
+
+statistikk
+
+i
+
+landbruksvitenskapene. Et område det ble lagt vekt på, var modellering av markforsøk
+som gjentas på flere steder og gjennom flere år. Videre initierte han bruken av
+multivariabel
+
+analyse
+
+i
+
+næringsmiddelforskning,
+
+spesielt
+
+gjennom
+
+analyse
+
+av
+
+spektraldata. Emil var også i en periode i 1983 forskningsprofessor ved Statistisk
+
+Sentralbyrå. I Trondheim ble han tidlig engasjert innenfor SINTEF. Han var en av
+inititativtakerne
+matematikk.
+
+til
+
+Denne
+
+opprettelsen
+har blant
+
+av
+
+en
+
+annet
+
+egen
+
+vært
+
+en
+
+SINTEF-seksjon
+viktig
+
+for
+
+Industriell
+
+samarbeidspartner for
+
+det
+
+matematiske miljøet ved NTH, ikke minst fordi den har virket som en åpning mot
+industri og næringsliv.
+
+Vi ser altså at Emil involverte seg i mange typer virksomhet, der vinklingen
+mot anvendelser kan ha vært forskjellige, men der bruken av relevante statistiske
+
+metoder har vært fellesnevneren. Emil viste hvordan statistikk er et universelt
+redskap, og at de samme metoder og filosofier kan brukes innenfor svært ulike
+anvendelsesområder. På alle de stedene som er nevnt, har Emil satt varige spor etter
+seg fordi han insisterte på systematisk og riktig bruk av statistiske metoder. Denne
+grunnholdningen har siden ført til mange suksesser for disse forskningsmiljøene.
+
+Emil er kanskje den norske statistikeren som er mest kjent i det internasjonale
+miljøet. Av hans internasjonale virksomhet kan nevnes at han var med og startet
+Scandinavian Journal of Statistics i 1973. Han var norsk redaktør for dette tidsskriftet
+
+fra 1973 til 1982. I tida 1977-82 var han medlem i European Regional Committee of
+the Bernoulli Society, som programkoordinator i tiden 1978-80 og formann 1980-82.
+Han var medlem av rådet i Bernoulli Society i perioden 1980-85. Emil var ”fellow” i
+
+Institute of Mathematical Statistics, og han var videre innvalgt medlem i International
+Statistical
+
+Institute,
+
+Norges
+
+Tekniske
+
+Vitenskapsakademi,
+
+Det
+
+Norske
+
+Viden-
+
+skapsakademi og Det Kongelige Norske Videnskabers Selskab.
+
+Emil døde altså bare to måneder etterat han hadde fullført sin andre periode
+som NTNUs rektor. Da hadde han i 12 år vært med i toppledelsen ved universitetet i
+
+Trondheim. Han ble prorektor ved NTH i 1990 og rektor i 1993. Fra 1. januar 1996
+
+ble han så valgt som rektor ved nyskapelsen Norges teknisk- naturvitenskapelige
+universitet, NTNU. Oppgaven han gikk til, var formidabel. Selv hadde Emil som
+NTH-rektor noen måneder tidligere stått på barrikadene for å melde NTH ut av
+Universitetet i Trondheim. Motstanden mot NTNU-konstruksjonen var stor ved
+sivilingeniør-miljøene på Gløshaugen. Men også på den andre delen av universitetet,
+
+hos humanistene og samfunnsviterne på Dragvoll, var det motstand å hente. Disse var
+spesielt skuffet over det nye navnet på universitetet og prioriteringen av teknologi og
+naturvitenskap. På en imponerende måte maktet Emil å få dempet gemyttene og
+
+stimulere fremveksten av en samarbeidskultur på tvers av de gamle skillelinjene. Med
+et universitet som begynte å fungere, tok han så fatt på en omfattende prosess med
+
+vekt på effektivisering av styre og ledelse samt en forenklet fakultetsstruktur. Det
+
+5
+
+
+
+siste vakte igjen stor motstand, spesielt i sivilingeniør-miljøene der omleggingen ville
+bli mest merkbar. Emil maktet imidlertid å bringe også denne saken til fullførelse. Det
+er klart at dette var et meget radikalt prosjekt, men vi tror at det ganske snart vil bli
+klart at Emil var på rett spor også her. For sin innsats som universitetsleder og
+
+samfunnsbygger ble han utnevnt til kommandør av St. Olavs Orden i 1999.
+I det norske og internasjonale statistikkmiljøet er det selvsagt fagmannen Emil
+som vil bli husket. Men det er på det rene at Emil hadde mange adminsitrative verv
+
+også før den nevnte 12 års periode ved NTH/NTNU. Han var blant anneti to år styrer
+ved avdeling C ved Matematisk institutt i Oslo, og i to perioder var han instituttstyrer
+ved Institutt for matematiske fag ved NLH. Han var også avdelingsformann for den
+matematisk- naturvitenskapelige avdeling ved NLH. I de siste årene før han ble
+prorektor ved NTH i 1990, var han den første instituttstyrer ved det da nyopprettede
+
+Institutt for matematiske fag ved NTH, og han var dessuten avdelingsformann ved
+avdeling for fysikk og matematikk ved NTHi en periode.
+Emil var personlig både beskjeden og tilbakeholden. Men han hadde evnen til
+
+å lytte til mennesker og prøve å forstå deres meninger. For oss som kjente ham,
+fremstår hans lune humor som fremtredende. Smilet var alltid på lur. Emil var
+samfunnsengasjert og likte å lese all slags litteratur.
+Emil var svært syk det siste året før han døde, men med sin sterke vilje klarte
+
+han likevel å gjennomføre hele sin periode som rektor. Han ble kreftsyk allerede i
+1996, men sykdommen ble holdt i sjakk helt fram til påsken for ett år siden da den
+forverret seg. Emil hadde imidlertid lagt klare planer for sin virksomhet også etter sin
+rektorperiode. I et intervju i Universitetsavisa i Trondheim i desember 2001 fortalte
+
+han at han planla en bok om bruk og misbruk av statistikk. Han hadde blant annet
+samlet mange eksempler fra mediene på mistolkning av statistikk. Han hadde også
+
+sett fram til å få mer tid sammen med sin kone Turid, blant annet til reising. Dessverre
+
+skulle han aldri få realisere disse planene.
+Emil vil bli dypt savnet i det matematiske og statistiske miljø, både i Norge og
+internasjonalt. Vi takker ham for hans store innsats og entusiasme. Respekt og
+
+beundring vil alltid være knyttet til hans minne.
+
+Bo Lindqvist
+
+
+
+VELLYKKET FORSØK MED NY LÆREBOK
+MA 2440 er et videregående statistikk-kurs på 3 vekttall som bygger på et kurs
+
+på 3 vekttall. Det har vært gitt ved Høgskolen i Agder siden 1984. Inntil 2001
+har det vært basert på læreboka: Bhattacharya & Johnson: Statistical Concepts
+and Methods, Wiley 1977. Denne boka har hele tiden vært supplert med ekstra
+
+læremateriell laget spesielt for kurset. Etter hvert har boka blitt gradvis mer
+- foreldet — særlig når det gjelder de deler av statistikken som best bør utføres på
+datamaskin. Samtidig har tilgjengeligheten og studentenes mestring av
+
+datateknologien blitt stadig bedre. Det har derfor vært aktuelt å gå over til en
+mer moderne bok. Nå er dette i utgangspunktet ikke så enkelt, siden mange
+
+videregående lærebøkeri statistikk sprenger rammen på 3 vekttall (MA 1440) +
+3 vekttall (MA 2440) som vi har til disposisjon. Et annet problem er omfanget
+av matematiske forkunnskaper. Siden MA 1440 av mange studenter tas i første
+
+studiesemester, bygger dette kurset på en beskjeden matematikk-bakgrunn. Hvis
+en skulle trekke inn mer avansert matematikk i MA 2440, måtte dette stoffet
+undervises i selve MA 2440 og fortrenge statistikk-stoff. Omkring 1990 hadde
+
+vi en del slikt stoff (for eksempel om Gammafunksjonen) med i pensum, men
+det ville vel være en overdrivelse å si at studentene satte pris på dette stoffet.
+
+En bok av Tamhane & Dunlop: Statistics and Data Analysis, Prentice Hall 2000
+
+ble vurdert. Denne boka er helt moderne med diskett for datafiler og
+gjennomgående bruk av Minitab, som vi har brukt helt siden 1984 og er godt
+fornøyde med. Hvis pensum skulle omfatte det stoffet vi tidligere hadde brukt,
+var følgende kapitler aktuelle:
+
+Kap 8
+
+Inference for two samples
+
+Kap 9
+
+Inference for proportions and count data
+
+Kap 10
+
+Simple linear regression and correlation
+
+Kap 11
+
+Multiple linear regression
+
+Kap 12
+
+Analysis of single factor experiments
+
+Kap 13
+
+Analysis of multifactor experiments
+
+Nå meldte det seg flere problemer: De syv første kapitlene i boka var langt fra
+identiske med pensum i MA 1440. Kunne en likevel starte på Kap 8 uten å måtte
+rekapitulere for mye? Heldigvis så ikke dette ut til å by på for store problemer,
+
+hvis en godtok visse fordelingsresultater. Dette ville føre til at kurset mer fikk
+karakter av et brukerkurs enn et kurs i matematisk statistikk. For hovedgruppen
+
+av studenter, Informatikk, var dette neppe noe problem. Boka inneholder en god
+del avansert stoff, men det viste seg at det var muligå skippe dette stoffet uten at
+det gikk ut over sammenhengen. Et spesielt problem ble Kap 3 om
+
+datainnsamling. Etter hvert som kurset utviklet seg ble det tydelig at en
+
+diskusjon om datainnsamling hører medi et skikkelig statistikk-kurs, i alle fall
+hvis kurset skal ha en anvendt karakter. Det er stor forskjell på konklusjoner
+
+
+
+trukket på grunnlag av observasjonelle og eksperimentelle data. For å unngå at
+
+kurset ble for omfangsrikt ble bare utvalgte emner fra Kap 3 (og Kap 4) tatt
+med.
+
+Gjennomføringen av kurset
+Det meste av tiden regnet studentene oppgaver på PC-lab, men det kom etter
+
+hvert ønsker om smågruppeundervisningi tillegg. Dette ble organisert på den
+måten at det ble delt ut to prosjekter som studentene skulle arbeide med i
+grupper. I det første prosjektet ”Jentelønn” var det ikke lagt opp til noe
+
+datakjøring i det hele tatt i og med at denne alt var utført og at gruppene tok
+
+utgangspunkt i denne kjøringen. Siden dette var formen eksamensoppgavene
+
+kom i, var det stor interesse blant studentene for å prøve ut dette opplegget. Så
+
+mye som 13 av de 16 deltakerne i kurset gjennomførte dette prosjektet, men ikke
+
+alle gjorde det i grupper. Alle gruppebesvarelsene fikk fyldige kommentarer og
+
+dette satte studentene pris på. Det andre prosjektet, ”Mult” forutsatte noe
+
+datakjøring fra studentenes side og ble ikke levert av fullt så mange som det
+
+første, men noen av de beste besvarelsene var meget bra. Også her ble det laget
+fyldige kommentarer som ble verdsatt. Som lærer garanterte jeg at prosjektene
+dreide seg om ”eksamensrelevant stoff” (dvs multippel regresjonsanalyse) og
+
+dette var nok med til å få opp interessen. Derimot brukte vi lite tid på gamle
+
+eksamensoppgaver.
+
+Eksamensresultatene
+Det var 16 som fulgte kurset, men en del flere gikk opp til eksamen. Alle som
+
+. møtte opp til eksamen besto. Eksamensresultatene er gitt i stamme-blad-
+
+diagrammet:
+1
+
+3467889
+
+2
+
+1344577
+
+3
+
+24789
+
+Resultatet må karakteriseres som svært tilfredsstillende.
+
+Henrik Dahl
+
+
+
+The Oslo Joint Centre for Advanced Statistical Research:
+in the final round to become a Norwegian Centre of Excellence
+Arnoldo Frigessi, Norsk Regnesentral
+The Norwegian Computing Centre (NR) and the statisticians of the Department of
+
+Mathematics and of the Medical Statistics Section at UiO have applied to Norges
+
+forskningrad to create a Norwegian Centre of Excellence (Senter for fremragende forskning)
+in Statistics. The proposal has been chosen (as one of the 40 out of 130 applicants) for a
+second round, where 10-12 centres will be selected. These will then be funded for a period up
+
+to 10 years. We are waiting with excitement and enthusiasm to the decision which will be
+taken in mid June 2002.
+The centre plans to make important and innovative contributions to statistical methodology,
+emphasising modern, application driven modelling techniques and inference. The centre will
+
+focus on substantial application areas, including medical and marine research. If funded, it
+will be one of Europe’s leading and largest research institutions in statistics. The team of
+researchers joining the centre includes internationally established statisticians, younger
+researchers, post-doc's, PhD students and guest researchers. The centre will actively
+
+participate in European networks. An exchange programme will be established with the
+
+leading departments of statistics in Europe.
+
+At the heart of the centre is a methodological core, with four broad and important themes of
+modern statistics:
+
+Theme 1: Highly structured stochastic
+
+structurally discontinuous phenomena,
+
+systems and Markov chain Monte Carlo
+
+Bayesian nonparametrics.
+
+Some keywords: repeated but irregularly
+
+Theme 3: Model criticism, reduction
+
+spaced measurements; grouping due to
+
+and comparison
+
+sampling method, geography or risk exposure;
+measurement error in regression; multiple
+
+sources of data; non-random drop out from
+longitudinal studies; missing, incomplete or
+censored data; latent variables; random
+
+effects; frailty; Bayesian networks; Bayesian
+hierarchical models; Markov chain Monte Carlo
+
+(MCMC); parametrisation and simplification of
+hierarchical models; multiple observation
+systems; non-informative priors; spatial
+
+Statistics; disease mapping; Bayesian model
+
+Criticism.
+
+Theme 2: Nonparametric modelling and
+
+inference
+Some keywords: Semiparametric and
+nonparametric constructions; function and
+
+curve estimation; new nonparametric
+applications in bootstrap, resampling,
+simulated likelihood and in modelling
+
+Some keywords: Automatic model validation;
+directional model improvement; Bayesian
+parameter residuals; other measures of conflict
+between data and model; sensitivity to priors;
+model averaging; model selection and model
+
+compromising; balancing global fit against
+complexity; model symmetry and group
+representation theory.
+
+Theme 4: Survival and event history
+analysis
+Some keywords: Cox' proportional hazards
+model; counting processes; complex life
+histories; dynamic models; alternatives to Cox
+
+regression; hidden Markov chains; first
+passage time and killing in stochastic
+processes; frailty models and genetics; cohort
+sampling; measurement errors and
+misclassification; martingales; Lévy
+processes, hierarchical Bayesian models.
+
+
+
+The methodological research at our centre will be influenced by and respond to needs
+_ Originating in applications. While there will be no restrictions on application areas, we shall
+have a permanent focus on medical research, epidemiology and marine research. We shall
+also be active in industrial manufacturing, technology, communications, computer science,
+
+energy production and consumption (oil, electricity, gas etc.), animal epidemiology,
+environmental sciences. A strength of the centre is the link to NR which, through its contacts,
+
+is a continuous source of challenging applied research problems.
+If the centre is funded, statisticians from all three institutes and from abroad will join the
+
+centre. Odd Aalen, @rnulf Borgan, Arnoldo Frigessi, Inge Helland, Nils L. Hjort, Petter
+Laake and Bent Natvig are the named key senior scientists but the staff of the centre will also
+
+include many other statisticians from NR, UiO and beyond, with 20% to 100% appointments
+in various periods. In
+addition, many new
+positions will be
+
+announced internationally.
+All activities of the centre
+will be open, including
+seminar series, lectures
+and courses. Statisticians
+
+from other institutions will
+also join research at the
+centre. We will have a
+sabbatical programme for
+
+international statisticians
+and short-term visits.
+Three PhD students and
+one post-doc will be
+recruited every year,
+
+advertised internationally.
+We will explore new ways
+of organising and housing
+statistical research,
+building on the experience
+of other departments and
+
+centres in the world, such
+as The Newton Institute in
+
+Cambridge. The centre
+will be located in the
+building of NR, which is
+on the same campus as the
+two partner institutes. It
+
+Reratios orb faves såreduggen. fobsSindy wgnnand jromksller.
+
+will host organised team
+
+work, spontaneous discussions and exchanges of ideas, social and cultural activities. For
+
+example, we plan a monthly review of the latest volumes of journals, monitoring statistical
+science beyond our own specialities. The centre will be a legal part of NR, the host institute,
+with full scientific and organisational independence from NR and from UiO, with an
+international scientific committee and a board. The required funding should be provided
+
+mainly by NFR, but also by UiO, NR, EU and other sources. Important international
+
+/0
+
+2
+
+
+
+activities of the centre will be to contribute to an international PhD programme, EU and ESF
+programmes, workshops and summer schools. For example, NR and UiO will host the 25th
+European Meeting of Statisticians in 2005.
+We believe that the centre, if funded, would be a benefit for the whole Norwegian statistical
+community. We shall coordinate activities with Bergen, Trondheim and Tromsø, so that the
+centre will enrich our discipline nationwide. Naturally, all are welcome! For the time being
+
+we are proudly waiting for the decisions in June. TG’s reader will be updated on the results!
+
+Illustration*: Anders Österlin (1926 - )
+Detfinns goda dagar och dåliga dagar.
+Detfinns ettor och detfinns sexor.
+Jagfungerade som slumpgenerator och kastade tårn ingen. Jobn förde noggrant
+Ett kastför varje dag.
+
+protokollet.
+
+* Takk til Ingrid og til Kåre.
+
+[I
+
+3
+
+
+
+KONSEPTER KOMMER OG GÅR -UTFORDRINGENE BESTÅR
+”Det er 6 sigma denne gang”
+Professor Asbjørn Aune
+NTNU/SINTEF
+Hvorfor
+a
+
+Kvalitetsomradet har gjennom de siste tiårene blitt invadert, for det meste fra vest, av
+større og mindre guruer. Disse og deres læresvenner har blant annet etterlatt seg et
+
+ikke ubetydelig antall BOHICAer.' Dette innlegget skrives i håp om å kunne bidra til
+å begrense antallet nye som følge av en mulig 60-invasjon.
+
+Hva
+
+Når det gjelder en beskrivelse av 6 sigmaprogrammet henvises til Øystein Evandts
+gode oversiktsartikkel i ”Kvalitet, Ledelse, Miljø” nr. 7, 2000 Les artikkelen om du
+
+ikke allerede har gjort det.
+
+For de som ennå ikke har lest den er 66 er
+
+navnet på
+
+Jorbedringsprogrammet det amerikanske Motorola-konsernet utviklet midt på 1980-
+
+tallet. Satsingen var basert på teorier utviklet i USA på slutten av 1920-tallet og
+erfaringene fra bruk av denne kunnskapen i japanske bedrifter i perioden 1950-1980.
+
+Teoriene fortalte at skal en optimalisere produktytelser og redusere og kontrollere
+prosessvariasjoner når produktene og prosessene påvirkes av et stort antall faktorer —
+og ikke minst av samspillet mellom disse — må en forstå og bruke statistiske verktøy.
+
+Erfaringene fra Japan var at dyktige fagfolk innen ulike områder med eg ferdigheter i
+
+å utnytte statistiske verktøy var en betingelse for å oppnå en status i verdensklasse.
+
+Legg merke til understrekingen av fagfolk.
+
+(Uten kjennskap til faget/teknologien kan
+bruk av statistiske metoder i beslutningssituasjoner gjøre galt verre).
+Kjernen i Motorolas 60-program var og er kombinasjonen:
+-
+
+Konsentrasjon om prosessen mer enn om resultatene (det er prosessene som
+skaper resultatene).
+
+-
+
+Utstrakt bruk av statistiske verktøy for å bringe og holde prosessene under
+kontroll med en så liten forutsigbar tilfeldig variasjon at eventuelle prosess-
+
+endringer ville bli oppdaget v.hj.a. kontrollgrenser før resultatene falt
+toleransegrensene.
+
+"BOHICA: Bend Over Here It Come Again!
+
+(2
+
+utenfor
+
+
+
+-
+
+Utstrakt bruk av (statistisk) forsøksplanlegging for å spesifisere produktparametre
+
+og toleranser, og for å optimalisere prosessparametre.
+Som Boeing forteller sine ansatte og leverandører:
+
+”Variasjoner er kvalitetens
+
+erkefiende”.
+
+Gammelt nytt
+
+Både statistisk prosesskontroll og forsøksplanlegging var kjent, undervist i og i en
+viss
+
+grad utnyttet
+
+i norske bedrifter allerede på slutten av 1950-tallet. Metodene
+vakte imidlertid ingen spesiell interesse i industrien. På slutten av 1980-tallet kunne
+imidlertid
+
+Motorolas
+
+produkt
+
+solgt
+
+toppsjef
+
+rapportere
+meget gode
+resultater av
+sitt
+forbedringsprogram På amerikansk vis ble Motorolas 60-erfaringer bearbeidet til et
+og
+
+gjennom
+
+Motorola-universitetet.
+
+Senere
+
+har
+
+mange
+
+konsulenter hengt seg på.
+
+andre
+
+Undersøker en innholdet i kurstilbudene for 60-program domineres timeplanene av
+grunnleggende
+statistikk,
+hypotesetesting,
+identifisering
+av
+dominerende
+
+variasjonsårsaker, statistisk toleransesetting, grunnleggende prinsipper og bruk av
+statistisk forsøksplanlegging — både enkel og mer omfattende, ulike former for
+generelle og situasjonstilpassede kontrolldiagrammer, samt praktiske tips om bench-
+
+marking av prosesskapabiliteter og om introduksjon og bruk av metodene i daglig
+drift
+
+Store besparelser, bare pga 6 sigma(?)
+
+På en? av mange internettsider med informasjon om 66 fant jeg bl.a. følgende om
+kostnadsreduksjoner:
+
+”Corporations implementing Six Sigma see radical net income improvements.
+
+Most
+often financial results are seen shortly after implementation. Through the deployment
+of BLACK BELTS focused on high-leverage projects, our clients have reported that a
+
+typical BLACK BELT will produce: $230,000 average direct cost reduction per
+project, four to six projects per year. In addition to the material and labor savings
+which flow directly to the bottom line, a company engaged in six sigma can expect to
+see:
+
+Improved customer satisfaction,
+
+reduced cycle times, increased productivity,
+
+improved capacity and output, reduction in total defectsIncreased product reliability,
+
+decreased work-in-progress (WIP),
+
+improved process flow”
+
+rapporterte resultater vekker interesse.
+
+Kjernetropper
+
+Det er naturlig at slike
+
+—
+
+I sin artikkel beskriver Evandts 60’s kjernetropper: Champion, Master Black Belt,
+Black Belt og Green Belt somi tillegg til omfattened statistiske kunnskaper skal ha en
+
+? http://www.6-sigma.com/what.html
+
+{3
+
+
+
+rekke andre egenskaper. (Tilretteleggere og koordinatorer ble og blir slike personer
+kalt i andre forbedrings-/endringsprogrammer)
+
+Hva nå ?
+Et slikt suksessrikt program — dyktig markedsført — virker - på bedriftsledere og på
+konsulenter, som honning på bier.. I USA har det imidlertid de siste 20 — 30 årene
+blitt
+
+lansert mange programmer for kvalitetsforbedring. Prosentandelen av
+virksomheter som har hatt suksess med de forskjellige programmene har vært heller
+
+liten.
+
+Årsaker til manglende suksess kan ha vært manglende forståelse om hva store og
+
+varige endringer med hensyn til prioriteringer av kvalitet, tid, kostnad, mengde, etikk
+
+m.m. krever av lang-siktige anstrengelser, manglende vilje til å satse ressurser på
+nødvendig opplæring og trening, og ikke minst et ønske om å løpe før en kunne gå.
+
+Kanskje har man også manglet forståelse av at varige kulturendringer må bygge på
+endrede handlingsmønstre ”nedenfra og oppover” støttet av endrede prioriteringer og
+nye verdier ”ovenfra og nedover.”
+
+Norge er ikke USA(ennå)
+
+Jeg
+
+er
+
+en
+
+svoren
+
+tilhenger
+
+av
+
+bruk
+
+av
+
+statistiske
+
+metoder
+
+og
+
+statistisk
+
+tenkning/forståelse hos så vel ledere som utøvere fordi resultater fra alle prosesser,
+også intellektuelle, som kjent varierer og derfor ikke kan forstås/beherskes uten slik
+
+forståelse.
+måter
+
+Videre er statistisk planlagte forsøk der eneste økonomisk aksepterbare
+
+å optimalisere
+
+samvirkende parametre enten
+
+produkter.
+
+det
+
+gjelder
+
+prosesser eller
+
+Jeg har også utviklet en stor skepsis overforå hoppe på et nytt program. også 60
+
+uansett hvor lovende det ser ut, uten førstå ha studert dets innholds-elementer for å
+
+finne ut hvordan eventuelle nye interessante elementer kan passes inn i allerede
+eksisterende systemer/løpende programmer. Jeg har gjennom mer enn 25 år nå litt for
+
+ofte sett hvordan bedrifter har stoppet lovende initiativ til fordel for tilsynelatende mer
+
+fristende nye for så å oppdage at vel så det nye gresset grønnere ut akkurat da, men
+det hverken smakte eller gjorde bedre.
+
+Studerer man 60-konseptet mer i detalj finner man at det som andre programmer for
+
+radikale langsiktige kulturendringer krever ledelsesforpliktelse, lagarbeid på tvers av
+områder/funksjoner, kjennskap
+
+til problemløsningsmetoder.
+Også 60-konseptet
+under-streker nødvendigheter av å få etablert en ”gjennombruddskultur”.
+Heller bedre styrings(management)systemer enn nye forbedringsprogrammer
+Jeg er skeptisk til tanken om at det er til beste for et flertall av norske bedrifter å
+adoptere et 60-program med hud og hår.
+Ønsker en virkelig å konsentrere
+forbedringsarbeidet om prosjekter definert ovenfra og nedover og som min. må gi en
+økonomisk gevinst på 400.000 kr.? Tror vi at en ”Black Belt” i en gjennomsnittlig
+
+drå
+
+
+
+middels stor norsk bedrift vil produsere i gjennomsnitt 1,7 mill. kr. i direkte
+kostnadsreduksjoner pr. prosjekt 4-6 ganger pr. år? Ønsker man en så sentralisert
+
+angrepsmåte konsentrert om det til enhver tid største problem sett fra ledelsen, og la
+de mindre seile i sin egen sjø? Studer i såfall også ”Theory.
+of Constraints.”
+
+Etter min oppfatning er en av de store utfordringene en virksomhet står overfor i dag
+
+følgende:
+
+|
+
+Å utvikle, vedlikeholde og kontinuerlig forbedre et ledelses- og styringssystem som
+
+på en integrert måte handterer både det daglige rutinemessige arbeidet inkludert
+kontinuerlig
+
+omradeintern forbedring og det mer trinnvise bedriftsomfattende
+utviklingsarbeidet (endrings-/forbedringsarbeidet).
+(Nye ideer og verktøy — ja,
+
+programmer -nei.)
+
+I stedet for å bruke all energien på å studere 66 og lignende programmer bør en i
+stedet studere bedrifter som har utviklet slike systemer.
+
+En vil da finne at disse
+systemene bygger på noen felles prinsipper for ledelse og styring:
+
+Boeing omtaler ikke sitt avanserte kvalitetsprogram med utstrakt bruk av statistiske
+verktøy som et 60-program.
+
+De opererer heller ikke med sorte, grønne og andre
+belter. (Boeings kvalitetssystem ble for øvrig tilbudt norske industribedrifter som et
+
+ledd i TOPP — Teknologibedriftenes produktivitetsprogram i 1996/97 men vakte liten
+interesse.)
+
+Konsepter og programmer blir ofte satt opp mot hverandre av ivrige selgere som
+understreker forskjeller — ikke likheter.
+hvilket produkt
+
+Dermed oppstår ufruktbare diskusjoner om
+
+er ”det beste”.
+
+Toyota er fortsatt på høyden mht. Kvalitet
+Der har de såvidt jeg har oppfattet arbeidet med det samme
+”programmet” i 50 år.
+
+produktivitet etc.
+
+Evandt er også inne på likheter i sin artikkel om 66 der han skriver:
+”Til slutt vil jeg understreke at Six Sigma neppe inneholder et eneste element av
+
+kunnskap og metoder som ikke var kjent før begrepet ble lansert hos Motorola i 1987.
+Det er måten å kombinere og bruke den aktuelle kunnskapen på som har gitt de
+oppsiktsvekkende gode resultatene”Jeg understreker ”kombinere og bruke”.
+
+Motorola fant sin
+verdensklasse.
+
+måte å gjøre dette. Andre bør finne sine hvis de tar de sikte på
+
+15
+
+
+
+Øystein Evandt, ImPro, Melumveien 44 A, 0760 Oslo
+Tel: 22501506
+
+Mobil: 930 89 118 Fax: 2273 47 43 E-post: oystein.evandt@c2i.net
+
+Six Sigma — en blant mange døgnfluer?
+Professor Asbjørn Aune hari sitt innlegg ”Konsepter kommer og går — utfordringene består;
+Denne gang er det Six Sigma!” i ”Kvalitet Lederskap og Miljø” nr.2, 2001, fremsatt noen
+_ interessante betraktninger, synspunkter og papekninger.
+Litt historikk
+
+Som påpekt i Aunes innlegg var satsingen på Six Sigma hos Motorola på 1980-tallet i
+hovedsak basert på teorier utviklet på 1920 tallet, samt på erfaringene fra bruk av denne
+kunnskapen i japanske bedrifter i perioden ca 1950—1980. At teorigrunnlaget langt på vei var
+ferdig allerede på 1920-tallet, har sikkert forundret noen lesere. De to viktigste statistiske
+”ingrediensene” i Six Sigma, SPC (Statistical Process Control) og forsøksdesign (eller DOE —
+
+Design of Experiments) ble begge utviklet på 1920-tallet.
+Om SPC
+Opphavsmannen til SPC, fysikeren Walter Shewhart (1891-1967), hadde sitt første SPC
+diagram, eller Control Chart (på norsk ofte kalt kontrolldiagram eller styrediagram) klart 16.
+mai 1924 i Bell Laboratories i New Jersey. Dette enkle og kraftfulle verktøyet var et resultat
+
+av flere års intens arbeid med å redusere variasjon i produksjonsprosesser. Anvendelsene av
+disse diagrammene er imidlertid mange og omfattende, også utenfor produksjonsvirksomhet. I
+
+følge Donald J. Wheeler, en av verdens ledende eksperter på SPCi dag, er det bare
+manglende kreativitet som begrenser anvendelsesmulighetene. Her nevnes bare at SPC
+diagrammer ofte er uomgjengelig nødvendige for å få produksjonsprosesser til å forløpe
+
+stabilt og regelmessig med viktige prosessparametere nær ønsket nivå, samt for å avgjøre om
+
+prosessparametrene da har liten nok variasjon til at eventuelle toleransekrav kan tilfredsstilles.
+
+(Styrdiagram er en noe uheldig betegnelse fordi den antyder at diagrammene bare kan brukes
+til styring av prosesser. Prosessforbedring er en minst like viktig anvendelse. Kontrolldiagram
+er en noe uheldig betegnelse fordi den bl.a. antyder at diagrammene brukes til kontrolli
+betydningen
+4 skille defekt materiale fra ikke defekt, en aktivitet som disse diagrammene kan
+
+bidra tilå gjøre overflødig.) I følge Wheeler er Shewhart’s bok ”Economic Control of
+
+Quality of Manufactured Product” fra 1931 fortsatt ”den dypeste kilden til visdom” når det
+
+gjelder SPC. Dessverre skrev Shewhart på en måte som er tungt tilgjengelig. Wheeler har
+imidlertid gjort Shewhart’s tankegods vesentlig lettere tilgjengelig gjennom sine bøker.
+
+Om forsøksdesign
+
+Utviklingen av forsøksdesign begynte da den engelske statistikeren Ronald A. Fisher (1890—
+1962), av mange regnet som den fremste statistikeren gjennom alle tider, begynteå arbeide
+
+ved landbruksforskningsstasjonen Rothamsted utenfor London i 1919. Han ble ansatt for å
+
+analysere data som stasjonen da hadde samlet inn over en så lang periode som 72 år. Håpet
+
+var at de aktuelle data skulle gi svar på spørsmål som bl.a. hvilke kornsorter gir best avling på
+ulike typer jordsmonn, hvor meget såkorn bør brukes på ulikt jordsmonn, hvor meget vanning
+
+bør foretas for ulike kornsorter på ulike typer jordsmonn osv. Fisher måtte imidlertid gi tapt
+
+fordi data var samlet inn på en slik måte at de ikke kunne gi svar. At været hadde variert fra år
+til år var omtrent det eneste en kunne finne ut av datamaterialet. Med utgangspunk i
+ovennevnte fant Fisher fant opp enkle og systematiske forsøksdesign, som sikrer at data fra
+
+eksperimenter lar seg analysere på en slik måte slik at de gir innformasjon om det de samles
+inn for å gi informasjon om. Fisher’s første forsøsdesign, enkle (såkalte) faktorielle design,
+
+6
+
+
+
+som på en oversiktlig måte kan brukes til å undersøke effekten av å variere flere faktorer på
+en gang, tilhører kjernen i Six Sigma. Svært ofte kan problemer som produksjonsbedrifter har
+
+slitt med i årevis, eller til og medi flere tiår, fjernes på kort tid med en statistisk
+forsøksmetodikk så enkel at de fleste ungdomsskoleelever ikke vil ha noe problem med å
+forstå den. (Tror du det ikke? Det er sant.) Det understrekes imidlertid at fagkunnskap på de
+
+områdene der metodikken brukes er uomgjengelig nødvendig for at resultater skal oppnås, i
+likhet med all annen statistisk metodikk. Ofte er det hensiktsmessig med teamarbeid der noen
+har aktuell fagkompetanse og andre har statistisk kompetanse.
+
+Må bruken av metodene være en del av et større program?
+Slik forsøksmetodikk som omtalt ovenfor, og statistiske metoder forøvrig, kan selvfølgelig
+brukes i industriell virksomhet uavhengig av et Six Sigma program eller et annet
+
+forbedringsprogram. Problemet er bare at det i praksis sjelden blir gjort. Derfor er det viktig at
+bruk av metodene settes i system, gjerne i et program. Det er et tankekors at så effektive
+metoder som SPC og grunnleggende forsøksdesign, til tross for sin enkelhet, store potensial,
+og at de er mer enn 75 år gamle, nesten ikke brukes i industriell virksomhet. Det bemerkes at
+
+dette ikke er noe særnorsk fenomen, men gjelder mer eller mindre over hele verden, med
+unntak av en del vellykkede bedrifter/konsern. I Six Sigma programmer settes bl.a. bruken av
+disse statistiske metodene, og andre relativt enkle statistiske metoder, i system. Systematisk
+
+bruk av statistiske metoder forekommer sjelden i andre forbedringsprogrammer, og i de
+tilfellene metodene har en plass i programmene, har de en langt mer beskjeden plass.
+Tre ganger i industriens historie har statistiske metoder hatt en fremtredende plass
+1. gang: USA 1942-1945
+
+Tre ganger i historien har (relativt) enkle og effektive statistiske metoder blitt brukt i større
+
+omfang i industriell virksomhet over et lengre tidsrom. Alle tre gangene har det gitt gode
+_ resultater. Første gang var i forbindelse med produksjon av krigsmateriell i USA i perioden
+1942-1945. En gruppe statistikere ved Stanford University, ledet av W. Allen Wallis,
+
+diskuterte hvordan statistikere kunne gjøre nytte for seg i forbindelse med at USA kom med i
+Den andre verdenskrig som følge av bombingen av Pearl Harbor 7. desember1941. Wallis
+henvendte seg til den nå legendariske W. Edwards Deming (1900—1993) for å få råd. Deming
+ga uttrykk for at det tar lang tid å utdanne statistikere, men at meget kan oppnås på kort tid
+med Shewhart’s medtoder, det vil i første rekke si SPC. Nytten av SPC hadde Deming
+opplevd på nært hold før krigen mens han arbeidet i forbedringsprosjekter hos Western
+Electric i Chicago sammen med Shewhart. Deming foreslo 10 dagers kurs for ingeniører og
+andre som arbeidet med produksjoni krigsindustrien. Interessant nok var SPC ukjent blant
+
+statistikerne ved Stanford University før dette tidspunktet. Imidlertid ble utdanning av
+instruktører, og opplæring av produksjonspersonell, satt i gang, ledet og administrert fra dette
+universitetet. Aktiviteten vokste, og ved utløpet av krigen hadde ca 30.000 personer som
+arbeidet i amerikansk krigsproduksjon gått gjennom slik opplæring, noe som hadde stor
+betyding for USA’s evne til krigsinnsats. (Dette er beskrevet i en artikkel Wallis skrev for
+
+”Journal of American Statistical Assosiation”, årgang 1980.) Da krigen var slutt, ble den
+ervervede kompetansen bare i liten grad tatt i bruk i vanlig kommersiell industri, og forsvant
+
+etter hvert nesten helt. Noe forenklet kan en si at den ervervede kompetansen bare ble utnyttet
+
+i liten grad av to grunner. Den ene var at amerikanerne kunne selge omtrent hva de ville i de
+
+første årene etter krigen, uten tanke på kvalitet, fordi store deler av verdens
+produksjonsapparat utenfor USA var ødelagt. Den andre grunnen var at Wallis, til tross for
+
+iherdige forsøk, ikke hadde klart å få ledere på høyt nivå i amerikanske bedrifter til å forstå
+viktigheten av de aktuelle statistiske metodene. Ikke en enste leder på høyt nivå hadde tatt seg
+
+/7
+
+
+
+tid til å følge et orienteringskurs planlagt spesielt for ledere, selv om ledelsen i alle involverte
+bedrifter var invitert.
+
+2.gang: Japan ca 1950-1980
+
+Aune påpekeri sitt innlegg at erfaringene med de omtalte statistiske metodene i Japan i
+
+tidsrommet ca.1950-1980 er en del av basisen for Six Sigma. Dette var andre gangi historien
+
+(relativt) elementære statistiske metoder ble brukt i større utstrekning i industriell virksomhet.
+. Deming har, sammen med sin landsmann Joseph M. Juran, født i 1904 og lever fortsatt, fått
+hovedæren for Japans enorme industrielle suksess og vekst i denne perioden. JUSE (Japanese
+Union of Scientists and Engineers) inviterte i 1949 Deming til å gi opplæring i
+
+kvalietsforbedring og industriell statistikk i japanske bedrifter. Deming forlangte, etter
+
+erfaringene i USA da krigen sluttet, å få snakke med japanske ledere på høyt nivå. Da han
+
+kom til Japan første gang i 1950, hadde han et åtte dager langt møte med bl.a. lederne for 39
+
+av de største konsernene for å sikre seg støtte hos toppledere før han begynte sin virksomhe
+t
+med opplæring, og organisering av opplæring, i samarbeid med JUSE. Etter hvert utviklet
+han en ledelsesfilosofi som han anså for å være nødvendig for å få de statistiske metodene til å
+fungere. Denne filosofien, som går under navnet Deming’s filosofi, har meget til felles
+med
+det som ofte kalles Soft Six Sigma, selv om det også er klare forskjeller. (Se artikkelen ”Six
+Sigma virkeliggjør intensjonene med TQM”i ”Kvalitet Lederskap og Miljø” nr. 7, 2000.
+
+perioden 1950-1980 besøkte Deming Japan i alt 25 ganger. Etter 1980 har bruken av
+
+) I
+
+statistiske metoder i japansk industri gradvis avtatt, selv om en del av de store, suksessful
+
+le
+
+konsernene og andre mindre bedrifter fortsatt utnytter potensialet i disse metodene
+
+.
+
+3. gang: Six Sigma
+Tredje gang (relativt) elementære statistiske stastistiske metoder er tatt i bruk i større
+utstrekning i industrivirksomhet er i forbindelse med Six Sigma fra og med 1987 og
+
+frem til i
+
+dag. Som kjent beretter store konsern verden over om oppsiktsvekkende gode resultater.
+
+F.eks. skriver Black and Decker, produsent av elektroverktøy, i sin årsrapport for 1999 bl.a.
+følgende: ” Having begun, in late 1998, to coordinate Six Sigma strategies and measurem
+
+ents
+on å worldwide basis, our experience clearly shows that the potential benefits are enormous
+in
+terms of productivity improvements, product quality, customer satisfaction, more
+efficient
+capital spending, and overall corporate profitability..... Savings attributable to Six Sigma
+were
+
+more than $30 million in 1999, and we expect to generate twice that amount in 2000 as
+
+intensify our efforts”. Når et så seriøst konsern som Black and Decker skriver dette
+
+we
+
+i sin
+
+årsrapport, er det grunn til å feste lit til at det, i hvert fall i all hovedsak, er riktig. Imidlertid
+bør en langt fra feste lit til alt som sies og skrives om Six Sigma. For eksempel refererer
+Aunei sitt innlegg til en internettside med en ”beskrivelse” av kostnadsreduksjoner knyttet
+til
+Six Sigma som han begrunner at det kan settes spørsmålstegn ved troverdigheten av.
+
+Det trenger ikke å være avansert
+
+Ovenfor er det referert til et utsnitt av årsrapporten til ”Black and Decker” fra
+1999. På en
+konferanse med tittel ”Industrial Statistics in Action 2000” i Newcastle 8.-10. septembe
+r
+
+2000 overvar jeg en presentasjon med tittel ”Improved Process Capability using
+
+Tools at Black and Decker”. Foredragsholderne var to Black Belts som arbeider
+
+six Sigma
+
+i en ”Black
+and Decker” bedrift nær Newcastle. De redegjorde for hvordan de hadde oppnådd
+å få
+gjennomsnittsverdier av nøkkelparametere i produksjonsprosesser til å ligge nærmere
+sine
+ønskede verdier og samtidig vise mindre variasjon. (Målet er ”On-Target with Minimum
+
+Variance”, formulert slik av japaneren Genichi Taguchi i 1960.) Betylige forbedrin
+ger var
+
+oppnådd med enkle metoder på kort tid. En av tilhørerne spurte foredragsholderne
+om hvor
+store beløp som var spart pga prosessforbedringene. Det hadde de ikke lov
+å si, men det var
+
+18
+
+
+
+' betydelig. De aktuelle metodene ligger klart innenfor det en normalt dyktig person med god
+
+allmenutdanning kan lære i løpet av noen få uker. Riktignok finnes det praktiske
+problemstillinger som bare kan løses ved hjelp av avanserte statistiske metoder, som er
+
+vanskelige å tilegne seg uten lang og omfattende statistisk skolering i forkant, eller som
+krever utvikling av ny metodikk. Men heldigvis er det slik at de enkleste og velkjente
+metodene stort sett er det en har bruk for. Japaneren Kaoru Ishikawa (1915-1989), :
+
+opphavsmannen til årsaks-virknings diagrammet (også kalt fiskebeinsdiagrammet eller
+
+- Ishikawa diagrammet), hevdet at 95% av problemene kan løses med elementære metoder.
+Må det hete Six Sigma?
+Aune fremholderi sitt innlegg at Toyota, etter å ha arbeidet med det samme programmet for
+
+kvalitet i 50 år, fortsatt er ”på høyden mht. kvalitet, produktivitet, etc.”. Det er grunn til å anta
+at Toyota driver kontinuerlig videreutvikling av det aktuelle programmet. At Toyotai sitt
+
+forbedringsarbeid benytter de samme statistiske metodene som er sentrale i Six Sigma,
+fremgår av Toyota’s jubileumsbok fra 50-års jubileet i 1987. Selvfølgelig kan de samme
+tingene som gjøres i Six Sigma gjøres uten å kalle den samlede aktiviteten, eller eventuelt
+programmet, for Six Sigma. Det finnes ingen verktøy eller metoder som er unike for Six
+
+Sigma. Samtlige metoder som er aktuellei Six Sigma, elleri hvert fall praktisk talt samtlige,
+
+eksisterte før Six Sigma konseptet ble unnfanget. Noe forenklet kan en si at Six Sigma er (en
+fengende betegnelse for) en måte å organisere en bedrift på der hensikten er systematisk
+
+identifisering av forbedringsprosjekter med stort økonomisk potensial, og at prosjektene blir
+gjennomført med adekvate metoder brukt på riktig måte, av dyktige personer som har fått
+grundig og omfattende praktisk og teoretisk opplæring, og som gis tilstrekkelig tid til å
+
+gjennomføre prosjektene. Hvis noen skulle støte på en ny og hensiktsmessig metode under
+forbedringsarbeidet, eller utvikle en slik metode selv, kan den selvfølgelig inkorporeresi et
+Six Sigma program, enten metoden
+
+er av statistisk natur eller ikke. I Six Sigma er
+
+systematisering og utnyttelse av erfaringer en integrert del av aktiviteten. Six Sigma er ikke et
+strengt strukturert program uten plass for hensiktsmessige tilpasninger, selv om Six Sigma er
+langt mer veldefinert og strukturert enn for eksempel TQM (Total Quality Management).
+Black Belts vs tilretteleggere og koordinatorer
+
+Aune skriver at i andre forbedrings-/endringsprogrammer enn Six Sigma brukes betegnelsene
+tilrettelegger og koordinatorer for personer som innehar tilsvarende funksjoner som
+
+Champions, Master Black Belts, Black Belts og Green Belts har i Six Sigma programmer.
+(Hvis Aune mener at de aktuelle betegnelsene i Six Sigma virker noe ”voldsomme”, så er jeg
+
+enig i det.) En typisk forskjell mellom koordinatorer/tilretteleggere og Black Belts er
+imidlertid at personer i sistnevnte kategori vanligvis har en relativt tung opplæring i statistiske
+metoder sammenlignet med personer i førstnevnte kategori. Dette gjenspeiler det faktum at i
+Six Sigma legges det vesentlig mer vekt på statistiske metoder enn i kanskje samtlige andre
+
+forbedringsprogrammer. Riktignok kan kraftige forbedringer oppnås også uten, eller praktisk
+talt uten, bruk av stastistisk metodikk. For eksempel, kvalitetssirkler der deltakerne kjenner de
+
+aktuelle problemstillingene/prosessene godt fra daglig arbeid, kommer i blant frem til
+løsninger som gir årlige millionbesparelser uten at statistisk analyse benyttes, bortsett fra
+
+kanskje histogram, Paretodiagram, årsaks-virkningsdiagram og andre meget elementære (men
+nyttige) verktøy. En rekke ganger har Den norske forbedringsprisen, som årlig utdeles av
+
+NFKL
+
+i forbindelse med Kvalitetsdagene, blitt tildelt kvalitetssirkler for slike forbedringer.
+Tre av gangene har de årlige besparelsene vært på over 10 milloner kroner. Som oftest er
+
+imidlertid forbedringsmuligheter av en slik økonomisk størrelse av en art som ikke kan
+realiseres uten bruk av statistisk metodikk utover det aller mest elementære. Når det gjelder
+
+betegnelsen Black Belt, brukes ikke den
+i alle bedrifter/konsernsom driver
+
+å
+
+
+
+kvalitetsforbedring i hht et Six Sigma program. I følge boka ”Six Sigma — The Breakthrough
+Management Strategy Revolutionizing The Worlds Top Corporations” av Mikel Harry og
+
+Richard Schroeder, utgitt i 2000, omtales Black Belts i Polaroid Corporation som “Variability
+
+Reduction Leaders” eller VRLs. I følge den samme boka har Polaroid Corporation hatt
+
+betydelig suksess med Six Sigma etter starten i 1995.
+Betydningen av å redusere variasjon
+
+Betegnelsen ”Variability Reduction Leaders” hos Polaroid Corporation understreker
+
+betydingen av å redusere variasjon i prosesser. I følge Aune’s innlegg forteller Boeing sine
+
+ansatte og leverandører at ”Variasjoner er kvalitetens erkefiende”. For Polaroid Corporation
+
+er det bl.a. viktig at den kjemiske sammensetningen av filmene som brukes i konsernets
+polaroidkameraer varierer lite mellom ulike steder på samme film, og fra film til film, samt at
+
+fremkallingsprosessen som foregår automatisk i kameraenei et tidsrom på ca et minutt etter at
+et bilde blir tatt, har liten variasjon fra kamera til kamera. Dette er helt nødvendig for å sikre
+
+at bildene blir skarpe og får riktige farger, noe som igjen er nødvendig for å sikre fornøyde
+kunder. Vedrørende betydningen av variasjon sa Deming det slik: ”If I should reduce my
+
+advice to management to a single sentence it would be: Constantly reduce variation in your
+processes and systems!”. Styreformann og konsernsjef i GE (General Electric), som vel er det
+
+konsernet som har oppnådd de mest oppsiktsvekkende økonomiske resultatene med Six
+Sigma, har uttalt at ”The common objective of virtually all Six Sigma projects is the
+
+elimination of variance”. Variasjon er et grunntemai all statistisk metodikk og tankegang.
+
+For å gjøre noe med variasjon som ødelegger for kvalitet, må man skaffe seg innsikt i den og
+
+helst kvantifisere den. Dette er bare mulig ved hjelp av observerte data og statistiske metoder.
+Heldigvis er det svært ofte tilstrekkelig med enkle statistiske metoder, ofte meget enkle.
+Er Six Sigma en døgnflue?
+Aune begynner innlegget det er referert til noen ganger ovenfor med følgende:
+
+-”Kvalitetsområdet har gjennom de siste tiårene blitt invadert, for det meste fra vest, av større
+og mindre guruer. Disse og deres læresvenner har etterlatt seg et ikke ubetydelig antall
+
+BOHICAer”. (BOHICA: Bend Over Here It Comes Again!) Det virker som om Aune med
+
+dette utsagnet, og med tittelen på sitt innlegg (gjengitt i innledningen av dette innlegget), gir
+uttrykk for at Six Sigma sannsynligvis også kommer til å vise seg å være en BOHICA, eller
+
+en døgnflue. Det er i den forbindelse interessant å merke seg at i GE, et av verdens største og
+
+mest suksessfulle konsern, vil konseptet neppe forsvinnei løpet av, i hvert fall, det nærmeste
+tiåret. I boka til Harry og Schroeder, som det er referert til ovenfor, kan en på side 45 lese
+
+følgende: ”Tolvte mars 1997 sendte Welch (som nevnt ovenfor er Jack Welch styreformann
+og konsernsjef i GE) en e-post melding til samtlige ledere i GE verden over om at de som var
+
+interessert i å bli forfremmet til en lederstilling på høyt nivå måtte begynne Black Belt eller
+Green Belt opplæring innen 1. januar 1998, og fullføre denne opplæringen innen første juli
+1998. Inntil denne meldingen kom, hadde mange ansatte betraktet Six Sigma som nok et
+
+”flavor of the month” tiltak.....”. Under et interessant bedriftsbesøk med tema Six Sigma hos
+GE Hydro på Sørumsand 27. mars i år, arrangert av Østlandet region av NFKL, ble det fortalt
+
+at ved rekruttering til lederstillinger på høyt nivå i GE, verden over, blir det lagt betydelig
+vekt på hvorvidt kandidatene har fått Black Belt opplæring og har arbeidet i
+
+forbedringsprosjekter. I boka av Harry og Schroeder, sitert fra ovenfor, fortelles at Noel
+Tichy, professor i management ved University of Michigan, mener at Jack Welch har ”set a
+
+new, contemporary paradigm for the corporation that is the model for the twenty-first
+
+century”. Betegnelsen Six Sigma kommer kanskje ikke til å bli brukt om hundre år. Men det
+
+er lite tvilsomt at de mest sentrale metodikkene, som ble utviklet for mellom 75 og 80 år
+
+oO
+
+
+
+siden, vil ha en fremtredende plass i effektivt arbeid med kvalitetsforbedring også ved
+
+inngangen til neste århundre.
+
+Vil Six Sigma ”invadere” Norge?
+
+Aune bruker i innledningen av sitt innlegg uttrykket ”en mulig Six Sigma-invasjon”. En slik
+
+”invasjon” tror jeg er svært lite sannsynlig. Det sannsynlige er, dessverre, heller at
+
+inneffektive konsepter, med lite eller intet forbedringspotensial, kommer til å fortsette
+å
+
+komme og gå, og at gamle utfordringer derfor kommer til å fortsette å bestå, samtidig som
+
+nye kommer til. (Jfr. tittelen på Aunes innlegg.) De relativt få norske bedriftene som kommer
+
+til å bryte ut av denne onde sirkelen ved å satse på Six Sigma og lykkes, eller som eventuelt
+klarer å dra nytte av hovedingrediensene i Six Sigma uten å gjennomføre et Six Sigma
+
+program, vil få et kraftig konkurransefortrinn fremfor de som ikke gjør det. De bedriftene som
+velger å ”la alt være som før”, kan bare håpe at deres konkurrenter ikke satser på Six Sigma
+
+og lykkes. Når bedrifter mislykkes med satsing på Six Sigma skyldes det bl.a. at satsingen er
+halvhjertet, at ledere ikke setter seg tilstrekkelig inn i konseptet og at fokus stadig skiftes, bl.a.
+
+på grunn av at nye ledere ikke følger opp. Personlig tror jeg at Six Sigma har potensial til å
+
+være et delvis svar på de utfordringene Norge vil stå overfor når oljealderen er slutt, men at
+
+det vil være naivt å tenke seg muligheten av at noe slikt kan bli en realitet. Det minnes i den
+
+forbindelse om at til tross for det enorme potensialet til SPC og elementære forsøksdesign, og
+til tross for disse metodenes enkelhet, er bruken av disse metodenei industriell virksomhet
+bare i sin spede begynnelse mer enn 75 år etter at de ble utviklet.
+
+Artikkelen ovenfor er trykt i ”Kvalitet, Lederskap og Miljø”, nr 3-2001 (mai). Dette
+
+tidsskriftet er medlemsbladet til Excellence Norway , tidligere Norsk F:orening for Kvalitet og
+Lederskap. Navnet på medlemsbladet er nå endret til ”Excellent”.
+
+. Ta gjerne kontakt med artikkelforfatteren.
+
+o |
+
+
+
+Pusleri nr 10
+
+Hva er sannsynligheten for å oppnå YATZY ?
+Med andre ord kast med 5 terninger, der målet er å oppnå samme antall
+
+øyne på de 5 terningene, men der en etter første kast har anledning til inntil
+
+to nye kast med det utvalg av terninger som ikke passer. Vi forutsetter at
+
+optimal strategi ved utvalget av terninger til nytt kast benyttes.
+
+Finn gjerne en løsning egnet for numerisk beregning, for eksempel i Minitab.
+
+Ekstraspørsmål:
+
+Hvor mange ekstrakast må tillates for at sannsynligheten skal bli > 2?
+Hva er forventet antall kast som er nødvendig for å få YATZY?
+
+Jostein Lillestøl
+
+ad
+
+
+
+Pusleri nr 9 (løsning)
+Oppgaven var:
+Du tilbys et spill med gjentatte terningkast, der gevinsten i hvert spill er antall øyne på
+
+terningen. På forhånd er terningen fikset ved at den trilles, og oppsiden overmales, slik at
+siden nå viser ”0 øyne”. Du får ikke vite på forhånd hvilken side som er overmalt, og heller
+ikke se terningen under spillets forløp, men får kun vite utfallet av hvert nytt terningkast.
+
+Anta at innsatsen i hvert spill er 3 kroner, og du kan velge å stoppe eller fortsette så lenge
+
+du vil.
+
+a. Hvilken strategi vil du velge, og hva er forventet gevinst ved å spille denne strategien?
+
+b. Hvilken innsats vil gjøre spillet til et rettferdig spill, under forutsetning av optimalt spill?
+
+Løsning: I første kast har vi ingen informasjon om hvilken side som er overmalt.
+Antall øyne Y har sannsynlighetsfordeling
+
+y
+P(Y=y)
+
+0
+
+1
+
+2
+
+6/36
+
+5/36
+
+3
+
+4
+
+5/36
+
+5
+
+5/36
+
+5/36
+
+6
+
+5/36
+
+5/36
+
+og forventning EY=35/12=2.91<3. Imidlertid lønner det seg å forsette å spille inntil det er
+klarlagt om terningen gir oss en ”pengepumpe” eller et ”pengesluk”. Vi kan ha 6 ulike
+terninger, hver med sannsynlighet 1/6. La X=overmalt antall øyne . Da er E(YIX=x) gitt
+ved
+x
+
+E(YIX=x)
+
+1
+
+2
+
+2
+
+4
+
+5
+
+6
+
+20/6
+
+19/6
+
+18/6
+
+17/6
+
+16/6
+
+15/6
+
+Dersom den overmalte siden er ”1” eller ”2” har vi en pengepumpe, mens dersom den
+
+overmalte siden ”4”, ”5” eller ”6” har vi et pengesluk. For ”3” er fortsatte spill etter at
+terningen er ”avslørt”, rettferdige spill. Den optimale strategi er derfor å fortsette inntil
+
+dette er klarlagt. I utgangspunktet er forventet gevinst uendelig over en uendelig horisont,
+
+og tilbudet bør gripes med begjærlighet. Spørsmålet om hva som gjør spillet rettferdig var
+en utlagt snubletråd. Er spørsmålet i det hele tatt meningsfylt? Vi har jo en blanding av
+
+spillehorisonter, før og etter terningen er avslørt, og det er vanskelig å definere rettferdighet
+
+som omfatter begge. Med en pengepumpe spiller det jo liten rolle hva man ”søler vekk” i
+
+starten for å finne ut. I en reformulert oppgave, der vi tillater et gitt antall spill, ville
+spørsmålet ha vært meningsfylt. Kommentarer fra leserne er velkomne.
+Digresjon: Merk flere andre måter som EY kan fremkomme på:
+
+(1) EY=EE(YIX)=1/6 * (20+19+18+17+16+15)/6=105/36.
+(2) EY=(5/6) * EX=(5/6)*(7/2)
+
+(3) EY=7/2—(1/6)*(7/2)
+De to siste kan argumenteres for ved at oppnådd gevinst ved kast med rettferdig terning
+“nulles ut” hvis den matcher et nytt uavhengig kast med terningen.
+
+Jostein Lillestøl
+
+
+
+Brad Efron æresdoktor ved Universitetet i Oslo
+I forbindelse med Abel-jubileet, vil Universitetet i Oslo den 2. september utnevne 10
+æresdoktorer i matematikk og matematiske fag. En av disse er statistikeren Brad Efron, som flere
+norske statistikere har hatt gleden av å treffe når de har vært på forskningsopphold ved Stanford
+
+Universitetet i California.
+
+I anledning av Efrons æresdoktorat, vil statistikerne i Oslo arrangere et ”mini-symposium”
+
+tirsdag 3. september. Arrangementet vil være åpent for alle interesserte. Næremere informasjon
+vil bli gitt etter hvert på web-adressen www.math.uio.no/avde/statistikk.html.
+
+Eventuelle
+
+spørsmål om arrangementet kan rettes til undertegnede (helst ved mail til borgan@math.uio.no).
+
+Ørnulf Borgan
+
+od
+
+.
+
+
+
+PROFESSORAT I BIOSTATISTIKK VED GØTEBORGS UNIVERSITET
+
+LEDIGKUNGORELSE 2002-04-23
+
+Naturvetenskapliga fakulteten
+
+vid Göteborgs universitet ledigkungör en anstållning som
+PROFESSOR I BIOSTATISTIK Professuren
+i biostatistik, vid universitetets naturvetenskapliga
+
+fakultet, stöds också av den medicinska fakulteten och av AstraZeneca. Tjånsten omfattar hela
+
+åmnesområdet, från grundlåggande statistik och sannolikhetsteoretisk modellering till arbete med
+direkt medicinskt- eller biologisktstatistiska problem. Tjånsten år placerad vid avdelningen för
+
+matematisk statistik. Den för Göteborgs universitet och Chalmers gemensamma verksamheten i
+
+matematisk statistik hör till de slagkraftigaste i Europa och stöds bl. a. av ett stort anslag från
+
+Knut och Alice Wallenbergs stiftelse. Vi bygger för nårvarande upp forskning och utbildning
+inom bioinformatik. Biostatistikprofessuren har en nyckelposition
+i hela denna verksamhet.
+
+Vi ser gårna kvinnliga sökande till tjånsten.Upplysningar om anstållningen ges av professor
+Peter Jagers, 031-772 3520, jagers O math.chalmers.se
+Ansökan
+
+Ansökan skall skrivas på engelska och innehålla verifierad CV, en kort översikt över pågående
+
+och planerad forskning samt andra för anstållningen relevanta aktiviteter, en kommenterad
+sammanstållning av undervisningsmeriter samt de övriga dokument som den sökande önska
+
+åberopa. Högst 10 vetenskapliga arbeten får bifogas ansökan. Ansökan skall sorteras i fyra
+
+identiska, kompletta paket som utan ompackning kan överlåmnas till de sakkunniga. Ansökan
+
+skickas tillsammans med merithandlingar till universitetet under följande adress: Registrator,
+Göteborgs universitet, Box 100, SE-405 30 Göteborg.
+
+Ansökan ska vara inkommen senast den 3 juni 2002. Mårk ansökan med ref E311 1564/02.
+Fackliga företrådare: SACO Jan Berggren, tel 031-773 1078, SEKO Lennart
+
+Olsson, tel 031-773 1173, OFR-S Eeva Nisshagen, tel 031-773 1169. DEKANUS
+
+as
+
+
+
+Kcandinavian
+Reduced subscription rates including
+free online access for members of the
+Danish Society for Theoretical Statistics,
+the Finnish Statistical Society, the
+Norwegian Statistical Society and the
+Swedish Statistical Association
+Scandinavian Journal of Statistics: Theory and
+Applications is internationally recognised as
+one of the leading statistical journals in the
+
+world. It is devoted to reporting significant and
+innovative original contributions to statistical
+methodology, both theory and applications. It
+specialises in statistical modelling showing
+particular appreciation of the underlying
+substantive research problems.
+Ranked 25/69 in Statistics and Probability
+in the Sciences Citation index
+m
+m
+
+m
+
+innovative and original research
+contributions to statistical methodology
+international articles on all aspects of
+theoretical and applied statistics
+path breaking developments in such areas
+as survival and longitudinal analysis,
+regression, graphical models, likelihood
+theory, statistics for diffusion processes,
+times series and analysis of spatial data
+
+RECENT PAPERS
+On Quasi Likelihood Equations with
+Non-parametric Weights
+Bing Li, Pennsylvania State University
+The Consistency of Estimators in Finite
+Mixture Models
+R. C. H. Cheng and W. B. Liu,
+University of Kent
+
+The Cusum of Squares Test for Scale Changes
+in Infinite Order Moving Average Processes Sangyeol Lee and Siyun Park, Seoul National
+University
+Truncated Poisson Regression for Time
+Series of Counts
+Konstantinos Fokianos, University of Cyprus
+
+Boundary and Bias Correction in Kernel
+Hazard Estimation
+Jens Perch Nielsen, Codan, Copenhagen and
+Carsten Tanggaard, The Aarhus School of
+Business, Copenhagen
+
+Exact Non-parametric Confidence Intervals for
+Quantiles with Progressive Type-ll Censoring
+Olivier Guilbaud, AstraZeneca, Sweden
+For contents, abstracts and subscription information visit
+http://www.blackwellpublishers.co.uk/journals/sjos
+
+TO ORDER
+
+Scandinavian Journal of Statistics, Volume 29, 2002, ISSN: 0303-6898, (4 issues and online access),
+REDUCED MEMBER RATES © £18.00 UK/Europe © US$29.00 The Americas O £18.00 Rest of World
+CONTACT
+
+Paula O’Connor, Blackwell Publishing, 108 Cowley Road, Oxford, OX4 1JF, U.K.
+Email: poconnor Qblackwellpublishers.co.uk
+
+26
+
+
+
+NYTT OM STATISTIKKUNDER VISNING
+IASE (International Association for Statistical Education) er den delen
+
+av ISI som SRG, tar seg av statistikk-undervisning.
+I 2002 arrangeres ICOTS 6 (International Confernce on Teaching
+Statistics)i Durban, Sørafrika, 7-12.juli.
+Informasjon om konferansen fins på http:/www.beeri.org.il/ocots6/.
+
+I august 2003 arrangeres International Statistical Institute ISI-54 i
+
+Berlin, Tyskland. Mange av sesjonene vil dreie seg om undervisning
+og arrangeres i regi av IASE.
+
+I 2004 arrangeres ICME-10 (International Conference for
+Mathematics Education) i København, Danmark med innslag om
+
+stistikkundervisning. Dessuten arrangerer IASE en
+rundebordskonferansei tilknytning til konferansen.
+
+I 2002 blir det startet et nettbasert tidsskrift on statistikkundervisning
+under navnet: Statistics Education Research Journal (SERJ). Første
+nummer skal ut mai 2002.
+
+Redaktører:
+
+Carmen Batanero, Spania (president IASE)
+
+Flavia Jolliffe, England
+
+Ellers i redaksjonen:
+
+M.Gabriella Ottaviani, Italia
+
+Chris Reading, Australia
+
+Chris Wild, New Zealand
+Henrik Dahl
+
+27
+
+
+
+FNH Finansnæringens Hovedorganisasjon
+Finansnæringens Servicekontor
+
+Finansnæringens Hovedorganisasjon — FNH — representerer forsikringselskaper,
+Jorretningsbanker og finansieringsforetak i Norge. FNH har ca 45 større og
+mindre finansbedrifter som medlemmer. Vi skal representere medlemmene og
+ivareta deres interesser i forhold til nasjonale og internasjonale myndigheter og
+
+institusjoner som har betydning for finansnæringens rammebetingelser. Vi skal
+arbeide for en sunn utvikling av finansnæringen og bidra til å skape økt
+
+forståelse for næringens rolle i norsk opinion. Vi skal samle og koordinere
+medlemmenes virksomhet på områder der fellesløsninger og samarbeid er
+
+naturlig. FNH har et allsidig, høyt respektert fagmiljø, bestående av 90
+medarbeidere, med kontorer på Drammensveien i Oslo.
+
+FNH søker
+
+STATISTIKKER / AKTUAR
+til Nevnden for helsebedømmelse
+Nevnden er et fellesorgan som forsikringsselskapene benytter for
+
+vurdering av helserisiko knyttet til livsforsikring. For å kunne
+bedømme enkeltsaker og behandle søknader utarbeider Nevnden
+retningslinjer som angir en forsikringsmessig vurdering av øket risiko
+
+for død og uførhet for enkeltlidelser i forhold til normalbefolkningen.
+Nevnden er sammensatt av leger og forsikringskyndige fra selskapene.
+I tillegg er det utpekt leger. fra legeforeningen.
+
+Nevnden benytter en administrativ sekretær i sitt arbeid, og det er
+denne stillingen vi nå ønsker besatt. Den administrative sekretæren vil
+
+også inngå som en del av teamet i FNH som arbeider med ulike
+næringspolitiske problemstillinger innen livsforsikring.
+
+Ønskede kvalifikasjoner:
+* Interesse for, og eventuelt erfaring fra, medisinsk statistikk og/eller
+
+livsforsikring
+© Interesse for rammevilkår og næringspolitikk innenfor livsforsikring
+
+© Strukturert og selvstendig arbeidsform
+* Evne til å samarbeide med andre faggrupper
+"Lønn etter avtale. Kontakt Sjefaktuar liv Sissel Rødevand,
+
+tlf. 23 28 43 82 eller se på www.fnh.no for mer informasjon.
+Skriftlige søknader med attester sendes innen 15.06.02 til:
+Finansnæringens Hovedorganisasjon
+Att: Søknad
+
+Postboks 2473, Solli
+0202 Oslo
+
+28
+
+
+
+Nytt fra Universitetet i Oslo
+Matematisk institutt, Avd. C.
+Nye Cand.scient.-er
+Morten Naustdal: “Forbedrede betingede
+
+Monte Carlo metoder i pålitetlighetsberegninger”
+
+Veileder: Arne Bang Huseby
+~
+
+Cecilie Sjuls Nygård “Application of an adaptive Metropolis-Hastings algorithm on a model taken from Arjas &
+
+Gasparra”
+
+Veileder: Bent Natvig og Jørund Gåsemyr
+
+Statistical Research Report
+Ø. Borgan : "Estimation of covariate-dependent Markov transition probabilities from
+
+nested case-control data” http://www.math.uio.no/eprint/stat_report/2002/rept_2002.html
+
+Nytt fra NTNU
+Institutt for matematiske fag
+
+Gruppe for statistikk
+Dr.ing.:
+Bjorn Axel Gran forsvarte 15. mai 2002 sin avhandling: "The use of Bayesian BeliefNetworks
+for combining disparate sources of information in the safety assessment of software based
+systems”.
+
+Tittel på prøveforelesning: "The role of qualitative evidence to arrive at quantitative assessments
+
+ofsoftware dependability".
+
+Doktorgradsarbeidet er utfgrt ved Institutt for energiteknikk i Halden, IFE, og Institutt for
+
+matematiske fag, NTNU, med førsteamanuensis Stian Lydersen, Institutt for matematiske fag,
+
+som hovedveileder og professor Tor Stålhane, Institutt for datateknikk og informasjonsvitenskap,
+som medveileder.
+
+Komite: Professor Bev Littlewood, Centre for Software Reliability, City University, London,
+
+Seniorforsker Per Hokstad, SINTEF Teknologiledelse, Trondheim og Professor Bo Lindqvist,
+
+Institutt for matematiske fag, NTNU
+
+24
+
+
+
+Nye sivilingeniører:
+Elin Hilde Roti Alsaker:
+
+”Statistiske analysar av autokorrelerte data med eksempel frå
+
+silisiumproduksjonen”. Veiledar: John Tyssedal.
+
+Halvor Sehested Grønaas: ”Object trackingin industrial systems”. Veileder: Mats Elin,
+SINTEF, Oslo. Ansvarlig ved NTNU: Håvard Rue.
+
+Monica Liamo Hisken: ”Statistisk inferens av data for rekurrente hendelser med kovariater”.
+
+Veileder: Bo Lindqvist.
+
+Nytt fra Universitetet i Bergen
+Matematisk institutt
+Ny cand. scient.:
+
+Thorbjørn Rønning: "Autoregressive binære panel med individeffekt".
+Veiledere: Hans A. Karlsen og Dag B. Tjøstheim.
+Rønning er ansatt ved LOCUS for registerepidemiologi ved Haukeland sykehus.
+
+Ny dr. scient.:
+Terje Myklebust: "Markov chain analysis and nonparametric estimation for unit roots and
+cointegration”.
+
+Veiledere: Hans A. Karlsen og Dag B. Tjgstheim.
+
+Myklebust er ansatt ved Høgskolen i Sogn og Fjordane, avdeling for lærereutdanning i Sogndal.
+Forskningsterminer:
+Professor Jostein Paulsen har forskningstermin og oppholder seg ved University of Chicago hos
+Per Mykland. I hans fravær foreleser aktuar Terje Schaathun emnet "MS231
+
+Skadeforsikringsmatematikk og risikoteori".
+
+Professor Rolv Terje Lie har forskningstermin og oppholder seg ved NIEHS (National Institute of
+
+Environmental Health Sciences), Research Triangle, North Carolina.
+
+30
+
+
+
+Medlemsskap i Norsk Statistisk Forening
+Heimeside for Norsk Statistisk Forening: http://www.math.uio.no/nsf/
+Kontingent:
+
+200 kr/år
+50 kr/ar for studentar (til og med hovedfag).
+Kontonummer: 0530 2773299
+Nummeret som er oppgitt på adresselappen på TG fortel siste år
+kontingenten blei betalt. Ved innbetaling må ein opplyse om enor adresse
+
+(f. eks. endra postnummer).Korrespondanse om medlemskap og innbetaling av kontingent skal skje til
+
+kasserar i foreininga:
+Norsk statistisk forening v/Sigrunn Holbek Sørbye
+
+Institutt for matematikk og statistikk
+
+Universitetet i Tromsø
+9037 Tromsø
+e-post: sigrun
+Q stat.uit.no
+n
+Nye medlemer melder seg til kasserar og får så automatisk tilsendt Tilfeldig
+
+Gang frå første påfølgjande nummer av.
+E-post adressar:
+
+Vi ynskjer e-post adressar til alle medlemer i NSF:
+
+Oppgje e-post adressen på merknadsfeltet på postgiroen, eller send ein epost til sigrunn @stat.uit.no om e-post adresse og evt. adresseforandring.
+Anna korrespondanse med foreininga skal føregå med leiar i foreininga:
+
+André Teigland
+Norsk Regnesentral
+
+Gaustadalleen 23
+P.O. Box 114 Blindern
+
+N-0314 Oslo
+
+31
+
+
+
+
+
+
+
+Retur:
+
+Norsk Statistisk
+
+Forening
+
+v/Sigrunn Holbek Sørbye
+Institutt for matematikk og statistikk
+
+Universiteteti Tromsø
+9037 Tromsø
+
+
+

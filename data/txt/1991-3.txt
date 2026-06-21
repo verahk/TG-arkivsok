@@ -1,0 +1,3424 @@
+TILFELDIG GANG
+Nr. 3, årgang 8
+Juli 1991
+
+Utgitt av Norsk Statistisk Forening
+
+Innhold
+
+Pennen overlates til ny redaktør. Ivar Heuch
+Fra formannen i Norsk Statistisk Forening. Trygve S. Nilsen
+
+Fra variansanalyse med bibetingelser til akselerert testing. Et annerledes
+intervju med professor Arnljot Høyland. Dei 2. Ivar Heuch
+Anmeldelse av programvare: GAUSS. Odd O. Aalen
+Environmetrics og The International Environmetrical
+Society. Eivind Damsleth
+
+Sammendrag av doktoravhandling: Sequertial two-sample methods in
+controlled clinical trials. Eva Skovlund
+Bruk av EDBi statistikkundervisningen på AVH, Universitetet i
+Trondheim. Steinar Engen
+
+Bruk av dataøvinger i statistikkundervisningen ved Agder
+Distriktshøgskole, Kristiansand. Henrik Dahl
+Sammendrag av innlegg gitt ved Det 6. norske statistikermøte:
+Statistisk programvare. En oversikt. Rolf Volden
+Diskusjon av Rolf Voldens foredrag. Trond Haider
+Express: Et verktøy for konstruksjon av kunnskapsbaserte
+statistiske system. Jan H. Aarseth
+
+Et regelsett for logistisk regresjon i Express. Ågot Irgens
+
+Om solvens i skadeforsikring. Arild Kristiansen
+Syndikater og prising under usikkerhet. Knut K. Aase
+Kvalitet og statistikk. Jostein Lillestøl
+Preferansefunksjoner og inferens. Helge Blaker
+Estimering av loddebestand. Knut Søina
+Nytt fra Universitetet i Oslo
+
+Referat fra årsmøte i Norsk Statistisk Forening. Geir E. Eide
+Planlagt program ved 14. Nordiske konferanse i matematisk
+ae atk 49
+OE PG
+TL GA ST
+
+Medlemskap i Norsk Statistisk Forening
+
+
+
+
+
+Pennen overlates til ny redaktør
+I historiens lys er det ofte vanskelig å gi forsøk på reformer noen rettferdig
+bedømmelse før man har fått det hele på avstand. Det spørs om Tilfeldig Gang
+vil kunne gjøre krav på noen særlig omfattende plass når historieskriverne tar
+fatt på statistikkfagets utvikling i Norge. Likevel kan det være en fordel å vente
+med en samlet vurdering av den *opprustningen” som redaktøren bebudet da han
+overtok med augustnummeret i 1989.
+
+Ikke desto mindre har redaktøren gjort seg noen personlige refleksjoner over
+
+den større eller mindre innsatsviljen hos de potensielle bidragsyterne til bladet.
+Det er klart at enkelte personer har bidratt langt mer enn andre i løpet av denne
+toårsperioden. Redaktøren har likevel all sympati også for dem som stadig bebudet at de ville komme med innlegg i TG, men som dessverre ikke klarte å få det
+ferdig til den endelige fristen for noe bestemt nummer av bladet. Ganske typisk
+ønsket redaktøren selv å bidra til diskusjonen om dataøvelser i statistikkundervisningen, men dessverre ble det aldri til noe håndfast. Kanskje er det likevel fortsatt
+et håp for etternølerne? Skal vi bevare TG som et aktuelt organ for statistikerne
+i Norge, trengs det en jevn tilgang av bidrag. Alle gamle idéer som ikke resulterte i innlegg, men som stadig burde kunne forfølges, blir i alle fall overlatt til
+den nye redaktøren, så får det være hans redaksjonelle linje som avgjør hvilke
+temaer som skal føres videre. Jeg vil nøye meg med å takke alle som bidrog i
+den perioden som nå avsluttes, enten de deltok i heftige diskusjoner, beskrev egen
+faglig innsats, fungerte som intervjuobjekter, eller rapporterte om begivenheter
+av generell interesse.
+
+Statistikermøtet på Jeløya er vel overstått. Det er mitt bestemte inntrykk at
+deltagerne var enige om at arrangementskomité og programkomité hadde nedlagt
+et stort arbeid som vi andre kunne nyte godt av. Særlig gledelig var det at møtet samlet så mange yngre statistikere, med representasjon fra mange forskjellige
+miljøer. Noen “falsk samstemmighet” som redaktøren uttrykte frykt for i forrige
+nummer av TG, forekom neppe.
+
+Det forelå ikke noe hefte med sammendrag av foredragene som ble gitt på møtet.
+Redaktøren fant det derfor naturlig å be hver foredragsholder om å utarbeide
+en kort orientering for TG's lesere. Resultatet, gitt ved bidrag innkommet før
+23. juli, foreligger i dette nummeret fra side 26 og utover. Det ble uttrykkelig
+bedt om utvidede sammendrag, med et omfang på ca. to sider, men med stort
+spillerom for den enkelte. Sammendragene - slik de nå fremstår — illustrerer noen
+av de generelle problemene med tilpasning av statistisk fagstoff til en publikasjon
+som TG. I tillegg til den store variasjonsbredden i lengden av sammendragene,
+
+foreligger det også stor spredning når det gjelder presentasjonsmåte, særlig i bruk
+av matematisk formspråk. Jeg foretrekker å se på denne variasjonen som noe
+
+positivt. Den gir uttrykk for hvor mangfoldig vårt fag er, både i valg av aktuelle
+
+problemstillinger og i uttrykksmåte. Jeg håper at noe av denne mangfoldigheten
+også er kommet til syne generelt gjennom det stoffet TG har brakt de to siste
+årene.
+
+For meg gjenstår det bare å ønske den nye redaktøren, Jan Bjørnstad, til lykke
+
+med arbeidet i tiden som kommer.
+Ivar Heuch
+
+
+
+Fra formannen i Norsk Statistisk Forening
+Som nevnt et annet sted i TG ble jeg på Jeløya valgt til formann i NSF for
+de neste to år. Jeg vil benytte anledningen til å takke det avgåtte styret for utmerket arbeid. Egentlig burde vel ingen vært nevnt og ingen glemt siden jeg ikke
+har innsyn i hvordan styrets medlemmer har fordelt arbeidsoppgavene mellom seg.
+Men det som vi i ettertid vil huske perioden for, er uten tvil endringene i TG. Fra
+å være et meldingsblad er det vokst til å bli en meget interessant trykksak. Jeg
+vil derfor rette en spesiell takk til redaktøren Ivar Heuch og alle skribentene som
+har bidratt til dette vellykkede resultatet.
+
+Det nye styret har ikke full oversikt over de aktuelle arbeidsoppgavene. Den
+viktigste oppgaven for NSF i den kommende perioden er uten sammenlikning
+arrangementet av den 14. Nordiske konferanse i matematisk statistikk på Røros i
+tiden 15.-19. juni 1992. Her har det avgåtte styret oppnevnt komitéer, og alt er i
+god gjenge.
+
+Etterutdanningsseminar er en viktig del av arbeidet i NSF. På grunn av møtet
+på Røros er styret innstilt på å vente med dette til våren 1993. Emnet er ikke
+fastlagt, og det er fremdeles anledning til å påvirke bestemmelsen.
+
+Da NSF ble en landsomfattende forening, ble det lagt opp til at styret skulle
+
+sirkulere mellom Oslo, Bergen og Trondheim. Årets erfaring tilsier at dette kan
+
+bli vel ofte for Bergens vedkommende. Jeg synes det ville være bedre at Osloregionen hadde styret hver annen gang, og Bergen og Trondheim hver fjerde gang.
+Ressursene i Oslo er så meget større enn de andre stedene, og vi er ikke redde for
+å bli overkjørt.
+
+Det blir for tiden diskutert om det er aktuelt med en revisjon av matematikk-
+
+undervisningen i den videregående skolen. I denne forbindelsen vil mange mene
+at det kan være rimelig å ta opp statistikkens plass i I MA og i de høyere klassene.
+Undervisningsutvalget vårt følger med i saken. Personlig mener jeg at matema-
+
+tikkundervisningen ikke må spres på for mange valgenheter. Det er fordelaktig
+å konsentrere seg om sentrale ting i stedet for å gå lettere over flere. Dessuten
+er det jo så at neste trinn bare kan bygge på det som er felles i alle de valgbare
+variantene.
+
+Til slutt vil jeg ønske dere alle en fortsatt riktig god sommer.
+Trygve S. Nilsen
+
+
+
+Fra variansanalyse med bibetingelser til akselerert testing
+Et annerledes intervju med professor Arnljot Høyland
+Del 2
+Ivar Heuch
+
+- I første del av dette intervjuet forklarte du hvorfor du reiste hjem fra Berkeley i
+1959 for å overta et lektorat på Blindern. Du hadde fulgt flere kurs i California med
+tanke på et Ph. D.-opplegg. Men hvordan lå det egentlig an med det vitenskapelige
+arbeidet innenfor dette opplegget?
+
+— Jo, da jeg reiste hjem, var jeg allerede kommet et stykke på vei med det som
+
+skulle ha blitt emnet for doktoravhandlingen.
+
+— Var det et ikke-parametrisk emne?
+
+— Nei, det hang sammen med noe annet som Lehmann var svært opptatt av
+
+i 1958-59. I 1957 hadde Constance van Feden publisert arbeidet “Maximum
+likelihood estimation of partially or completely ordered parameters”. Nå ville
+Lehmann ha utviklet tester for slike situasjoner. Om en f.eks. vet på forhånd i
+vanlig variansanalyse av enveisgruppering at forventningsverdiene følger et konvekst mønster, kan en ikke bare bruke en vanlig F-test, for da ville en forkaste om
+forventningene skulle danne “en hengekgye”. A priori viten om konveksitet må inn
+i modellen. V.J. Chacko, en av Lehmanns Ph. D.-studenter, arbeidet med dette
+problemet og tok først for seg en situasjon med a priori viten om monotont stigende eller monotont avtagende forventningsverdier. Han avsluttet sin avhandling
+og leverte den inn våren 1959. Like etter publiserte D.J. Bartholomew artikkelen *A test of homogeneity for ordered alternatives” i Biometrika, der mange av
+Chackos resultater var med. Siden det var klart for alle at Chacko ikke kjente til
+Bartholomew og hans arbeid, fikk han sin doktorgrad likevel.
+- Men det ble ingen publikasjon for ham?
+
+- Jo, for så vidt. Chacko fortsatte å arbeide med problemet, og kunne publisere
+et arbeid som gikk noe videre i Annals of Mathematical Statistics i 1963, “Testing
+homogeneity against ordered alternatives”. Lehmann ønsket at jeg skulle utvikle
+tester i situasjoner der en a priori visste at forventningene fulgte et konvekst
+mønster uten å vite hvor en eventuell topp var. Dette strevde jeg med inntil jeg
+måtte reise hjem, og så kom det ikke noe mer ut av det.
+
+Undervisning hjemme
+
+- Så problemet glapp ut av fingrene dine?
+
+~ Jeg var antagelig ikke god nok til å kunne drive med det alene. Da jeg kom
+hjem til Oslo, var det fullt kjør med undervisning. Jeg var eneste universitetslektor
+i statistikk ved instituttet.
+
+
+
+— Var det på det tidspunktet allerede opprettet emner etter den nye studieordningen?
+
+- Ja, men som et lite mellomspill midt på 50-tallet var det også innført en egen
+ordning med et bifag som het mekanikk /statistikk. Halvparten av pensum var
+statistikk, og den andre halvparten var fra mekanikk bifag. Det varte et eller to
+år, og så kom den nye studieordningen.
+
+— I de årene må det da ha foregått en ganske kraftig oppbygging etter hvert
+
+med nye emner. Var det studenter til alle kursene?
+
+- Ja, på den tiden hadde jeg Erik Torgersen som student i Statistikk I. Senere
+hadde jeg også Jan Hoem, Else Sandved, Jostein Lillestøl, Grete Fenstad og Erik
+Mohn som studenter. Jeg husker spesielt at jeg i lange samtaler overtalte Erik
+Mohn til å skifte over fra fysikk til statistikk hovedfag.
+
+— Og de utgjorde stort sett alle studentene som fulgte det nye opplegget?
+— Nei, det ble raskt mange andre også, men dette er navn jeg spesielt husker.
+Nye reisemuligheter
+
+- Hva fikk deg til å vende tilbake til California?
+
+— Jeg syntes det var for ille at jeg ikke hadde fått gjort meg ferdig, selv om jeg
+ikke helt visste hva jeg skulle gjøre med det. Da ble jeg kontaktet av professor
+Sigmund Selberg fra NTH. Der ønsket en å innføre statistikk som fag. Selberg sa
+at det sannsynligvis ville bli opprettet et dosentur i statistikk dersom han kunne
+peke ut en mulig søker. Spørsmålet var nå om jeg i tilfelle ville søke et slikt
+dosentur. Dette må ha vært i 1960-61. Jeg tenkte meg om lenge og vel, og sa at
+jeg ikke ville søke et slikt dosentur så lenge jeg ikke hadde doktorgradeni orden.
+— Så du gav uttrykk for at du ikke var interessert?
+
+- Jeg prøvde en annen mulighet. Jeg spurte om jeg kunne få lov til å bruke
+Selberg og NTH som referanse hvis jeg på nytt søkte NTNF om rekrutteringsstipendium.
+— Var det i orden?
+
+- Ja, jeg søkte igjen og førte opp Selbergs navni tillegg til Sverdrups. Det var
+jo uvanlig at en skulle kunne få nytt stipendium allerede tre år etter at en hadde
+hatt et annet.
+
+— Men det var vel ikke så urimelig hvis man skulle fullføre en Ph.D.?
+- I NTNF mente man at man ikke skulle prøve å ta Ph.D. i utlandet. Vi
+var så gode hjemme at det ikke skulle være nødvendig. Men så fikk jeg faktisk
+stipendium på nytt høsten 1962. Jeg drog direkte til Berkeley og hadde naturligvis
+
+alle kontaktene fra forrige gang. Ikke minst gjaldt det Lehmann, som jeg var blitt
+riktig godt kjent med, og som hadde synes det var ganske dumt at jeg hadde reist
+hjem i 1959.
+
+Ikke-parametriske metoder presser seg frem
+
+— Men temaet for avhandlingen måtte altså skiftes ut?
+
+
+
+- Lehmann sa at jeg ikke kunne bruke det samme temaet mer. Tre år var gått
+siden Bartholomew og Chackos første arbeider forelå, og de hadde begge fortsatt
+å arbeide med det samme problemet. Jeg tok imidlertid den såkalte *qualifying
+exam” som alle måtte gjennom før de offisielt ble godkjent som Ph. D.-studenter.
+Jeg holdt bl.a. en prøveforelesning om rangmetoder i multivariable situasjoner.
+Det gikk bra, og så måtte jeg prøve å skrive en Ph.D.-avhandling i løpet av ett
+år.
+
+- Måtte selve avhandlingen stå ferdig allerede etter ett år?
+- Ja, jeg hadde jo bare stipendium og permisjon for ett år. Nå var problemet
+å finne et egnet emne for avhandling. I 1952 hadde Hodges og Lehmann publisert
+sitt senere så kjente arbeid *The efficiency of some non-parametric competitors
+of the t-test” i Annals. Nå var de opptatt av å utvikle estimatorer motsvar-
+
+ende Wilcoxon-testen, på samme måte som medianestimatoren svarer til tegntesten og gjennomsnittet til t-testen. Forslaget til estimatorer forelå allerede,
+de såkalte Hodges-Lehmann-estimatorene for forskyvning, og jeg skulle spesielt
+studere robustheten for disse estimatorene.
+
+— Så det var naturlig at du også ble ledet inn på dette området?
+- Ja, siden Lehmann og Hodges selv hadde utrettet en god del her, var de nokså
+sikre på at det ville å gå bra innenfor dette feltet. Jeg jobbet ganske hardt det året.
+En annen Ph. D.-student arbeidet med lignende problemer, nemlig Peter Bickel.
+Peter hadde en mye sterkere matematisk bakgrunn enn meg, og dessuten var han
+mer enn 10 år yngre. Vi kollokverte mye av det nødvendige bakgrunnsstoffet, noe
+
+jeg hadde stor nytte av, for Peter var svært inspirerende å arbeide sammen med.
+En doktorgrad blir fullført
+
+- Hvordan gikk det i praksis med tidsplanen din?
+
+- Da det led ut på våren 1963, begynte jeg å bli redd for at jeg ikke skulle
+rekke å avslutte avhandlingen i vårsemesteret. Jeg søkte universitetet om å få et
+halvt års ekstra permisjon. I Berkeley sa de at jeg skulle få forskningskontrakt
+fra den dagen jeg var ferdig og frem til jul, så jeg ikke skulle behøve å tenke
+
+på økonomien hvis jeg greide å fullføre i begynnelsen av høstsemesteret 1963.
+Jeg fikk forlenget permisjon fra lektoratet. I slutten av august var jeg ferdig og
+leverte inn avhandlingen. Bedømmelseskomitéen bestod av Lehmann, Blackwell
+og Hodges fra Statistics Department og en professor fra et annet institutt, og jeg
+måtte forsvare avhandlingen i en vanlig disputas.
+— Ble det hard kritikk?
+
+- Nei, i grunnen ikke. Pitmans effisiensbegrep var nokså sentralt i forbindelse
+med bestemmelse av asymptotisk relativ effisiens for estimatorene, og jeg husker
+at personen som kom utenfra i komitéen spurte meg om jeg også hadde sett på
+Bahadur-effisiens i forbindelse med undersøkelsene av robusthet. Det hadde jeg
+nok gjort, men ikke fått noe ut av. Da bemerket Hodges at Bahadur selv hadde
+innrømmet at han ikke skjønte hvordan hans eget effisiensbegrep kunne komme til
+nytte i forbindelse med dette estimeringsproblemet. Hodges syntes derfor ikke at
+doktoranden skulle plages med dette. Jeg var lettet, og det ble ikke mer snakk om
+
+
+
+det. Mitt arbeid ble godkjent, og neste dag fikk jeg beskjed om at jeg var satt på
+forskningskontrakt frem til nyttår. Jeg hadde litt undervisning, og nyttet tiden
+til å forberede den versjonen av Ph. D.-avhandlingen som senere ble publisert i
+Annals i 1964 og 1965. Så begynte jeg på Blindern igjen 1. januar 1964.
+
+En grafisk forenkling
+
+- I Lehmanns bok om ikke-parametriske metoder har jeg lagt merke til en referanse til noe du har gjort med en spesiell grafisk teknikk. Oppstod den metoden
+også på denne tiden?
+
+- Ja, det dreide seg om hvordan en rent praktisk kunne bestemme HodgesLehmann-estimatoren for en forskyvning A. Hvis de to datasettene består av
+
+verdier z; og y;, er Å gitt som medianen blant alle differansene y; —z;. Min
+
+*oppskrift” var svært primitiv. Jeg ordnet verdiene z; og y; i hvert av de to
+datasettene etter størrelsen, og skrev dem opp henholdsvis langs horisontal- og
+vertikalkantene i et rektangel. På grunn av ordningen av verdiene x%; og y; ble
+også differansene inne i rektangelet ordnet, og en kunne finne medianen uten å
+behøve å regne ut alle verdiene y; —z;.
+
+— Så det var en rasjonalisering av arbeidet?
+- Ja, det var ikke noe annet.
+
+— Er denne metoden publisert noe sted?
+
+- Den ble ikke tatt med i de to hovedartiklene i Annals, men den ble publisert
+i Det Kgl. Norske Videnskabers Selskabs Forhandlinger i 1964.
+Ikke-parametriske modeller må forsvares også på hjemmebane
+
+— Vil du si at arbeidet den gangen har preget ditt syn senere på forholdet
+
+mellom ikke-parametriske og andre metoder?
+
+- Ja, jeg var sterkt opptatt av ikke-parametriske modeller en stund. Så begynte
+de nordiske møtene i statistikk, og der ble det mer diskusjon om dette temaet.
+— Hvordan kom egentlig disse møtene i stand?
+
+— Det siste året jeg var i Berkeley, oppholdt Ole Barndorff-Nielsen seg i Stanford,
+og vi møttes på Berkeley-Stanford-seminarene. Vi var enige om at vi burde få til
+
+et lignende felles arrangement for Århus og Oslo når vi kom hjem.
+— Men det er jo litt større avstand mellom Oslo og Århus.
+
+— Jo, men det går båt over natten, så det skulle ikke være umulig. Vi bestemte
+
+at det første møtet skulle være i Århus. Det må ha vært høsten 1964. Hele tiden
+arbeidet jeg på Blindern med ikke-parametriske metoder i den utstrekning jeg
+hadde tid. Jeg syntes det var riktig artig, men Sverdrup var visst ikke noe særlig
+begeistret.
+
+— Så det dreide seg om en fundamental uenighet?
+
+- I parametrisk teori innførte man ofte forutsetninger i modellene utelukkende
+for gjøre det matematisk bekvemt. Man forutsatte f. eks. normalfordeling selv om
+den empiriske fordelingen indikerte alt annet enn normalfordeling.
+
+
+
+~ Og så ble grunnen revet unna denne tankegangen da man begynte å studere
+
+de ikke-parametriske modellene?
+
+- I sin kjente artikkel fra 1957 hadde Hodges og Lehmann påvist at Wilcoxons
+test var *minst like bra” som t-testen, og hvis man la på en ganske liten *gross
+error”, gikk det riktig ille med t-testen. Jeg var entusiastisk til de nye idéene.
+Men på side 190 i bind I av i sin bok “Lov og Tilfeldighet” sier Sverdrup: “Mange
+fristes til for sikkerhets skyld” å forutsette minst mulig a priori. Da den statistiske
+metode avhenger av a priori viten, kan dette føre til metoder som stemmer dårlig
+overens med *sunn fornuft”, dvs. hva vi virkelig vet a priori. Det er viktig å være
+oppmerksom på at det i like høy grad kan være en feil å si mindre enn man vet
+på forhånd som å si for meget.”
+
+Nordisk samarbeid kan være problematisk
+
+— Ble det mer generell diskusjon om dette temaet i Norden?
+- Ja, de nordiske møtene ble en realitet, men de ble ikke helt slik vi hadde
+forestilt oss. Barndorff-Nielsen kontaktet meg og sa at det første møtet skulle
+være i Århus slik vi var blitt enige om. Ved Københavns Universitet hadde man
+imidlertid insistert på at det også måtte få være med deltagere derfra.
+- På denne måten ville det bli dansk dominans?
+- Jo, det stemmer nok, men jeg mente at det ikke var aktuelt å trekke inn noen
+flere fra Norge på det tidspunktet.
+— Men Sverige, da?
+
+~ Det gikk en uke, og så kom det beskjed om at Lunds Universitet insisterte pa
+å være med, for der hadde man kontakt med København. Nå var det blitt Lund,
+København, Oslo og Århus som deltagende institusjoner. Men dermed este det
+ut, og slik ble det et generelt nordisk møte. Jeg husker godt det første møtet i
+Århus. Det kom en delegasjon fra Stockholm og Uppsala, og noen av svenskene
+virket litt fornærmet fordi de ikke hadde fått være med på planleggingen. På
+det første møtet holdt Sverdrup foredrag om Neyman-Pearson-teorien, og Gustav
+
+Elfving om Bayes-metoder.
+
+— Ble det noe sammenstøt? Var det prinsipiell motstand mot betraktningsmåt-
+
+ene på den andre siden?
+
+- Diskusjonen var livlig, men det gikk meget pent for seg. Den nåværende
+presidenten i ISI, Gunnar Kulldorf, og jeg opptrådte som inviterte diskutanter til
+Elfvings oversiktsforedrag. Vi stilte spørsmål og kritiserte Bayes-teorien så godt
+vi kunne, men Elfving var meget rolig og parerte gemyttlig våre innvendinger.
+- Ikke-parametriske metoder hadde altså ikke noen fremtredende plass pa det
+første nordiske møtet?
+
+— Nei, men Sverdrup foreslo ikke-parametriske modeller som emne for det neste
+møtet som skulle holdes i Lofthus, og han foreslo også at jeg skulle holde et av
+
+hovedforedragene der.
+
+
+
+En rettferdig kappestrid?
+
+— Det kunne tyde på stor fordragelighet mellom parametrikere og ikke-parametrikere?
+
+— Sverdrup har bestandig vært meget velvillig innstilt overfor meg, selv om vi
+ikke alltid var helt enige. På det tidspunktet visste han at jeg formodentlig kom
+til å søke stilling i Trondheim, men det var ikke noen mislyd av den grunn. På
+det nordiske statistikermøtet i Lofthus 1966 holdt jeg så et av hovedforedragene,
+med tittelen “Statistical inference in non-parametric models. Robustness”. Den
+ene av de to inviterte diskutantene var Ole Barndorff-Nielsen.
+— Og han var kritisk innstilt?
+
+— Forferdelig! De fleste andre danske statistikerne, med unntak av Anders Hald,
+protesterte mot filosofien bak de ikke-parametriske modellene. Det ble faktisk
+foreslått at Barndorff-Nielsen og jeg skulle få et datamateriale utlevert, og så
+skulle vi ha en konkurranse på stedet.
+
+— Og det skulle avgjøre striden én gang for alle?
+— De mente visst det.
+
+— Så du gikk ikke med på den måten å bilegge striden på?
+
+— Nei, jeg var ikke villig til det. En kvinnelig dansk statistiker, H. Dalgas
+Christensen, støttet opp om filosofien bak de ikke-parametriske modellene. I en
+kaffepause sa en annen dansk statistiker til meg at når de begynte å brenne hekser
+igjen i Danmark, var hun den første som skulle på bålet. Da møtet var slutt, tok
+alle toget til Oslo. Barndorff-Nielsen og jeg diskuterte så busta føyk hele veien,
+fra vi gikk på toget på stasjonen oppe på Hardangervidda og helt til Oslo.
+— Men dette var vel ikke bare en spesiell uenighet akkurat med deg?
+— Nei, det gjaldt ikke meg personlig. Men det ikke-parametriske synet var helt
+
+fremmed for danskenes måte å tenke på.
+
+— Har det noe med tradisjonen å gjøre?
+
+- Ja, danskene har alltid orientert seg i retning av England, mens vi i Norge
+har vært mer Berkeley-orientert.
+Ulike statistiske grunnsyn
+
+- Kunne du ta med deg denne entusiasmen for ikke-parametriske metoder til
+NTH?
+
+— Da jeg kom dit i januar 1965, var det ikke særlig interesse der for den ikkeparametriske tankegangen. Ingeniørene foretar alle slags målinger, og de mener
+at de virkelig vet hva slags størrelser målingene representerer.
+
+— Og dette fører naturlig til parametrisk statistikk?
+
+- Ja, det er lett å se motsetningen til fag som psykologi og sosiologi, der man
+ofte ikke vet hva man egentlig måler. Under slike forhold er det mer risikabelt å
+bruke metoder som ikke bare avhenger av måleresultatenes innbyrdes rangering,
+men også av differansene mellom målingene.
+
+— Så du følte at du måtte ta konsekvensen av denne praktiske forskjellen?
+
+
+
+- Jeg følte at det ville være meningsløst for meg å kjøre videre i samme retning
+som før, og jeg begynte derfor heller å orientere meg mot det industrien trengte
+av statistiske metoder.
+
+— Det betyr altså at du har et balansert grunnsyn som åpner for forskjellige
+statistiske angrepsmåter, avhengig av de praktiske anvendelsene?
+- Ja, det gjelder forsåvidt også bruk av Bayes-metoder. Jeg vil ikke hevde at
+en aldri skal bruke Bayes, men jeg vil heller ikke si at en alltid skal bruke det.
+— Som de ekstreme Bayesianerne virkelig sier?
+
+~ Som de virkelig sier. Barlow og kretsen omkring ham er jo blitt helt fanatiske.
+
+Det er dette Bent Natvig er smittet av.
+Ingeniørenes holdninger
+
+— Var alle grupperingene ved NTH positivt innstilt til statistikkfaget da du
+kom?
+
+— Til å begynne var det meningen at jeg skulle etablere kurs, mer eller mindre
+
+tilpasset de forskjellige avdelingene på NTH. Det var naturligvis noen som mente
+at de ikke hadde bruk for dette faget. Fysikerne og elektrofolkene var tidlig ute og
+
+ville ha statistikk. Det gjaldt også maskinavdelingen, for der var det en tidligere
+rektor, S.P. Andersen, som var svært opptatt av kvalitetskontroll.
+- Hadde det noen praktisk betydning for utviklingen av faget ved NTH?
+- Ja, utvilsomt. S.P. Andersen hadde vært rektor i perioder da NTH vokste
+sterkt. Det første semesteret jeg var på NTH, gav jeg et spesielt kurs som jeg
+holdt ved siden av det regulære kurset i statistikk. Der gikk den tidligere rektor
+på alle forelesningene, sammen med noen av sine folk. Det er ikke ofte at slikt
+skjer.
+
+— Så det måtte bety at det virkelig var et ønske på grunnplanet ved NTH om
+statistikkundervisning?
+
+- Ja, sikkert. Det hadde tidligere vært litt undervisning i sannsynlighetsregn-
+
+ing, inkludert i Matematikk I. Men der gikk det slik som det går nesten overalt når
+
+matematikerne tar over statistikkundervisningen, det blir kombinatorikk. Profes-
+
+sor Wergeland på teoretisk fysikk ville ha et kurs i statistikk i siste semester av
+
+fysikkstudiet. Jeg sa at det var helt meningsløst. Hvis jeg ikke fikk undervise
+studentene på et tidligere stadium, ville jeg ikke i det hele tatt. Det ville omtrent
+være som å komme med sukker til grøten når grøten er spist.
+
+— Så statistikken ble ikke sett i sammenheng med basisfagene?
+
+~ Nei, ikke til å begynne med. Men så gav de seg på det, og det ble etter hvert
+et generelt statistikk-kurs, for samtlige studenter unntatt arkitektstudentene.
+Er det mulig å omvende skeptikere?
+
+— Fra min korte tid som vit. ass. ved NTH hadde jeg også inntrykk av at det
+var enkelte forskjeller mellom avdelingene i holdningen til statistikk. F.eks. virket
+det som om kjemikerne var temmelig kritisk innstilt.
+
+
+
+10
+
+— Da jeg kom til Trondheim, skulle jeg besøke de forskjellige avdelingene, og jeg
+gikk rundt med professor Stubban fra Matematisk institutt for å bli introdusert.
+Vi kom bl.a. til Kjemiavdelingen. Der la jeg svært entusiastisk ut om hvor nyttig
+statistikkfaget ville være i industriell kjemi. Jeg visste ikke så mye om anvendelsene, men jeg tok en sjanse. I staben av kjemikere satt det en eldre herre som
+røkte sigar. Jeg ante ikke hvem det var. Da jeg var ferdig med mitt misjonsforedrag, reiste han seg og sa at han forstod at dette kunne være interessant, særlig
+i industriell kjemi. Men innenfor hans eget område, som var organisk kjemi, ville
+en aldri få bruk for noe slikt, for der hadde man aldri så mange observasjoner at
+en kunne anvende statistikk.
+— Klarte du å forsvare deg?
+
+~ Selv om jeg var ung og entusiastisk, burde jeg kanskje vært litt mer forsiktig.
+Herren med sigaren var nemlig en meget betydelig person i NTH-miljøet, professor
+Nils Andreas Sørensen. Jeg spratt opp og sa at det var det dummeste jeg hadde
+hørt. Det var nettopp når man hadde lite data at man hadde bruk for statistiske
+metoder. Hvis man hadde svært mange observasjoner, kunne selv en idiot trekke
+de riktige slutningene, antydet jeg. Han rødmet, men sa ikke noe mer da.
+— Kom det noen respons siden?
+
+- Da Kjemiavdelingen etterpå diskuterte et opplegg jeg hadde utarbeidet for
+et statistikk-kurs for kjemikere, hevdet han at det var altfor teoretisk. Han skrev
+at for en mann som hugger ved, er det ikke nødvendig å kjenne metallinnholdet i
+øksehodet.
+
+— Det kan jo stemme?
+
+— Jeg svarte at det ikke dreide seg om å kjenne metallinnholdet i øksehodet.
+
+Man måtte vite om man skulle sage eller hugge.
+
+- Er det fortsatt en misstemning i forholdet til kjemikerne?
+— Nei, vi ble de beste venner senere. Professor Sørensen eide en del store skog-
+
+områder. Fra tid til annen ble det foretatt en såkalt skogbrukstelling, en vurdering
+av hvor mye virke det er. Fra Landbruksdepartementet hadde skogeierne fått
+oppgitt en metode med et nett som ble lagt på området, og så gikk man inn og
+så hvor mange kubikkmeter virke det var i bestemte ruter for å anslå totalen.
+Sørensen kom til meg og beskrev denne problemstillingen, mange år etter vårt
+sammenstøt. Han sa at han hadde tenkt mye over metoden som var i bruk, og
+mente at metodikken sikkert hadde vært i orden før i tiden da man hugget et
+tre her og et tre der. Men med moderne drift blir jo hele områder felt. Likevel
+ble de gamle metodene fra tyveårene brukt i skogbrukstellingen. Det måtte da få
+innflytelse på usikkerheten.
+
+— Hadde du noe å tilby ham som erstatning, da? På stående fot er det ikke
+
+alltid så lett å finne noe bedre i slike situasjoner.
+
+— Nei, det han ønsket var bare å få støtte av en statistiker i kritikken av den
+gamle metoden. Han skrev formodentlig til departementet og sa at nå måtte de
+finne på noe bedre. Jeg hørte aldri noe mer om det praktiske problemet.
+
+
+
+11
+
+Resultater kan måles på mange måter
+
+~ For en utenforstående kan det virke som om NTH må være mgnstereksempelet på en generell innføring av statistikk som fag i undervisningen. Ved andre
+institusjoner er det ofte vanskelig å få gjennomslag for at statistikk er noe alle
+studentene trenger.
+
+- Ja, dette gjelder alle sivilingeniørstudentene her. De eneste som ikke har
+statistikk, er arkitektene, men de har ikke matematikk ellers heller.
+— Hva er hemmeligheten bak dette?
+
+— Jeg tror det er viktig at sivilingenigrene ser at de får bruk for faget når de
+etterpå kommer ut i arbeid. NTH har arrangert en årlig konferanse på Lerkendal
+Gård, med folk som kommer inn fra industrien og gjør kort rede for hva de mener
+NTH bør legge vekt på i undervisningen. I de senere år har det kommet stadig
+flere yngre folk til disse møtene. Til de teknologiske avdelingenes store sorg er
+budskapet fra industriens folk at studentene først og fremst trenger basalfag, dvs.
+matematikk, statistikk, fysikk og kjemi. Spesialitetene som ingeniørene vil få bruk
+
+for i jobben, kan de alltids plukke opp senere.
+
+— Har du også sett dette som et argument som taler for brede, generelle kurs i
+
+statistikk?
+
+— Jo, det stemmer nok, men det har iallfall ikke forhindret megi å gi et eget kurs
+i ikke-parametriske modeller, som jeg har betraktet som en liten luksus i alle år.
+Vi brukte Lehmanns bok, som er relativt enkel. Kurset har vært modellorientert,
+og jeg har mer understreket selve måten å tenke på enn detaljene i de enkelte
+testene. Vi har hatt en del spesielt gode studenter som har tatt dette kurset, og
+jeg tror den generelle statistiske tankegangen de har fått innblikk i, har gitt god
+reklame for faget.
+
+Et fruktbart samarbeid
+
+— Så tross alt har du også på NTH klart å utbre mer spesielle idéer som du har
+
+vært opptatt av?
+
+— Det stemmer nok, men i så måte har jeg lykkes bedre på et annet felt, nemlig
+pålitelighetsteori. Dette området dukket plutselig opp i 1975-76 da Kjell Doksum
+sendte meg Barlows bok. Fra 1977 har vi gitt et eget kurs i pålitelighetsteori. Det
+er ikke noe oljeselskap her i landet som ikke har ansatte som har gjennomgått det
+kurset. Når vi ser hvor i industrien våre tidligere studenter har havnet, er det
+nærliggende å tenke på uttrykket *vår mann i Havana”. Det gjelder å få sine folk
+inn i de riktige posisjonene, og det har faktisk skjedd med dem som har tatt våre
+
+opplegg i pålitelighetsteori og risikoanalyse.
+
+— Du har også vært med på å skrive lærebok om dette temaet. Hvordan oppstod
+
+tanken om å gjøre noe slikt?
+
+— Vi var tre stykker som hadde undervist i pålitelighetsteori hver for oss.
+Foruten meg var det Arne Holen på elektroavdelingen og Marvin Rausand, som
+var leder av Avdeling for sikkerhet og pålitelighet ved SINTEF. Vi syntes det
+var svært vanskelig å finne passende lærebok i pålitelighetsteori. Første del av
+Barlows bok er grei, men så går den rett til himmels og blir nærmest en artikkel-
+
+
+
+12
+
+samling. Vi tre ble derfor enige om å skrive en bok sammen som kunne brukes
+parallelt i oppleggene ved de tre avdelingene hvis vi gjorde det litt fornuftig.
+- Det ble ikke vanskelig å gjennomføre et slikt felles prosjekt?
+— Mye arbeid var det. Bent Natvig har jo uttalt at det vi har gjort, er å
+*oversette” deler av Barlows bok til norsk. Det synes vi er en drøy påstand. Hvis
+man sammenligner de to bøkene, er de svært forskjellige, bortsett fra avsnittet
+om strukturell pålitelighet og strukturfunksjoner, men dette emnet fremstilles slik
+i svært mange bøker. For tiden arbeider vi med å revidere og oversette boken til
+engelsk. Når resultatet foreligger, kan jo Bent sjekke om vi er kommet tilbake til
+Barlows bok.
+
+Er kvalitet bare noe japanere bekymrer seg om?
+
+— Men du har likevel tatt opp nye interesser i de siste årene?
+- Ja, for tiden er jeg spesielt opptatt av statistiske metoder for kvalitetsforbedring, og dessuten har jeg arbeidet med akselerert testing.
+— Idéene om “kvalitet” kommer altså utenfra?
+
+- Ja, siste gangen jeg hadde friar, i 1987-88, skulle vi prøve noe nytt. Tidligere har vi alltid vært i Berkeley, men denne gangen drog vi til Madison. Takket
+være George Box er det der bygget opp et senter for *quality and productivity
+improvement”. Nå er det vel 6-7 år gammelt. Det startet med at Box reiste til
+Japan sammen med Bill Hunter. De ville finne ut hva japanerne hadde foretatt seg
+for å feie Vestens industri helt av banen. I en rapport forteller de at det går helt
+tilbake til årene etter krigen. Det skulle arrangeres en folketelling i Japan, og den
+amerikanske øverstkommanderende MacArthur innkalte en statistiker fra USA,
+W. Edwards Deming. Han fikk samtidig god kontakt med industrien i Japan.
+— På den tiden var vel standarden annerledes der?
+
+— Før krigen var japanske varer ensbetydende med dårlige produkter eller rene
+etterligninger. Deming lovet japanerne at de skulle kunne lage de beste produktene i verden hvis de fulgte hans råd. Han holdt et kurs i kvalitets-styring
+og -forbedring, og 600 ingeniører meldte seg med én gang. Siden har Deming
+regelmessig holdt slike kurs i Japan.
+
+— Så det var Deming alt startet med?
+
+— Han satte prosessen i gang. I 1954 inviterte japanerne nok en kjent amerikansk
+statistiker, Joseph Juran, til å gi kurs i kvalitetsledelse, spesielt lagt opp for industriledere. Dette ble også en suksess, og utdannelsestilbudet er stadig blitt utvidet.
+I 1960 begynte japanerne å gi kurs i statistisk kvalitetskontroll for arbeidsformenn,
+og i 1962 for vanlige industriarbeidere. Det sies at ca. 100000 nå deltar i slike kurs
+hvert år i Japan. Når vi ser på listen over kurs, legger vi merke til vekten som
+legges på statistisk forsøksplanlegging. I en rapport fra senteret i Madison siteres
+en japansk industrileder som sier at *en ingeniør som ikke kjenner prinsippene for
+statistisk forsøksplanlegging, er ingen ingeniør”.
+— Går alt tilbake til amerikanerne?
+
+— Nei, den japanske ingeniøren Genichi Taguchi har også ydet viktige bidrag
+til utviklingen i Japan i perioden etter krigen. Han omtales nå med stor respekt,
+
+
+
+13
+
+såvel i Japan som i USA. Hans filosofi kan uttrykkes slik: *Det er bedre å bygge
+inn god kvalitet i et produkt enn å måtte frasortere dårlig kvalitet etterpå.” Det
+stedet der man prøver å oppnå kvalitetsforbedring, bør derfor flyttes *upstream”.
+
+— Så på denne måten blir det svært viktig hvilket stadium av produksjons-
+
+prosessen kreftene settes inn på?
+
+- Den japanske statistikeren Ishikawa inndeler den historiske utviklingen av
+kvalitetskontroll i Japan i tre perioder: Den første, som gikk frem til 1920, var
+kjennetegnet ved 100% kontroll ved *enden av samlebåndet”. I den andre perioden, fra 1920 til 1945, foregikk det både stikkprøvekontroll ved *enden av samlebåndet” og prosesskontroll *midt på eller ved enden av samlebåndet”. I den siste
+perioden, fra 1945 og frem til i dag, er hovedvekten lagt på bruk av statistiske
+
+metoder — fortrinnsvis forsøksplanlegging — på planleggingsstadiet før eller “ved
+begynnelsen av samlebåndet”. Forskjellen mellom prosesskontrollen i den andre
+og den tredje perioden kan billedlig illustreres slik: I den andre perioden lytter
+en passivt til hva prosessen forteller, og styrer prosessen etter det. I den tredje
+
+perioden går en aktivt inn i en dialog med prosessen, og styrer etter de *svar”
+
+prosessen gir *på spørsmål”. En ser f.eks. hva resultatet blir om en endrer en
+eller flere faktorer i prosessen.
+
+— Det er altså her statistikken kan bidra vesentlig?
+
+- Akkurat. Nå er spørsmålet hva en må gjøre for å ta igjen noe av det markedet
+en har tapt til japansk industri. Box mener at hvis vi andre bare nøyer oss med
+å gjøre det Taguchi anbefaler, vil vi aldri kunne slå japanerne. En del av de
+statistiske metodene Taguchi anbefaler er ikke like godt fundert. En må derfor
+kombinere hans idéer med bedre statistiske metoder enn dem han bruker selv.
+Teorier skal omsettes i praksis
+
+— Var det en spesiell atmosfære ved senteret for kvalitet i Madison?
+— Det var tydelig. Inntrykket ble også forsterket ved at Box arrangerte seminar
+hjemme hos seg selv hver mandag kveld. Nytt for oss var det at de også tok opp
+problemeri forbindelse med forbedring av kvalitet og produktivitet i serviceinstitusjoner som f. eks. sykehus, politi, brannvesen og renholdsverk. I samarbeid med
+ordfører, politisjef, brannsjef osv., hadde de oppnådd noen resultater, men mye
+gjenstod.
+
+- Er dette tanker som også kan omsettes til norske forhold?
+
+— Det er opplagt. Det er bare spørsmål om noen vil ta opp denne hansken.
+- Føler du at det er lettere å gå inn på slike nye områder nå når du er blitt
+seniorforsker?
+
+— Det er vel rimeligere at yngre statistikere enn jeg tar opp dette problemet.
+Vi er imidlertid interessert i å sette opp et etterutdannelsestilbud ved NTH på
+dette området, så neste gang de gir et slikt kurs eller seminar i Madison, håper
+
+jeg å kunne være der og følge med.
+
+— Hva var grunnen til at du gikk over på seniorforskerstipendium?
+— Jeg har alltid vært glad i å undervise, men var lei av alt maset i forbindelse
+med avvikling av eksamen. Ved NTH har vi et enormt arbeid i den sammenhengen.
+
+
+
+14
+
+Dessuten var jeg lei av administrasjon. Ved å gå av fra professoratet får jeg bedre
+
+tid til å arbeide med de nye idéene som opptar meg.
+
+Enda et industrielt arbeidsfelt
+
+- Du er ikke på denne måten blitt fristet til å gå inn på enda flere arbeidsområder?
+
+- Jo, jeg nevnte et annet spesielt felt som jeg har vært opptatt av i den senere
+tid, nemlig akselerert testing. Komponenter som brukes f. eks. i forbindelse med
+romfart, medisinsk-teknisk utstyr eller i oljeutvinning har nå en forventet levetid
+på 30 år eller mer. Når en skal teste slike komponenter i forbindelse med valg av
+komponenttype, kan en ikke nytte de klassiske utprøvingsmetodene. Under testingen utsetter man derfor komponentene for et akselererende stress og bestemmer
+levetidene, og så ekstrapolerer man tilbake til forholdene i den opprinnelige situasjonen. Dette interesserte jeg meg for i Madison. Der kom jeg imidlertid bort i
+noe spesielt i denne situasjonen. Ofte kan det være naturlig å modellere trettheten
+som bygger seg opp i en komponent med en Gauss-prosess, med positiv drift. Det
+man særlig er interessert i, er når denne trettheten oppnår en viss kritisk verdi slik
+at komponenten svikter. I denne modellen får levetiden en såkalt invers gaussisk
+fordeling.
+
+— Det er et underlig navn. Har det noe å gjøre med den gaussiske prosessen?
+— Jeg tror forklaringen er at den momentgenererende funksjon for den inverse
+gaussiske fordeling minner om den tilsvarende momentgenererende funksjon for
+vanlig normalfordeling, men med et ledd *satt på hodet”. Denne fordelingen gir
+skjeve levetidsfordelinger som kan være ganske realistiske.
+
+— Men pleier man ikke å bruke enklere standardfordelinger i disse situasjonene?
+- Jo, det er vanlig at en bruker en lognormalfordeling. Det kjedelige er imidlertid at sviktintensiteten i lognormalfordelingen går mot null med tiden. Bare
+enheten blir gammel nok, skal den altså aldri svikte. I den inverse gaussiske
+fordelingen kan sviktintensiteten gå mot andre bestemte verdier enn null, avhengig
+av valg av parameterverdier, når tiden går mot uendelig.
+— Fører det til nye teoretiske resultater?
+
+- Da Kjell Doksum kom til NTH for et par år siden, så han hva jeg arbeidet med og ble interessert i problemstillingen. Senere har vi arbeidet sammen
+om dette problemet, han ved Harvard University, jeg i Trondheim. Vi har nå
+utviklet en modell der stresset økes ved gitte tidspunkter, dersom enheten frem-
+
+deles funksjonerer, og vi modellerer dette ved å la en ny Gauss-prosess overta
+
+der den gamle slutter. Modellen er nå utvidet til også å omfatte kontinuerlig
+økende stress, og vi har utviklet de tilhørende estimatorene. Det hele kommer til
+å dreie seg om en transformasjon av tidsskalaen ved de forskjellige tidspunktene
+for endring av stresset. Resultatene er presentert i en artikkel som er akseptert
+for publikasjon i Technometrics, og som forhåpentligvis kommeri et av de første
+numrene.
+
+— Så på dette området er det gode muligheter for å utrette mer?
+- Det ligger mange problemer og venter her, både teoretiske og praktiske. For
+
+
+
+15
+
+øvrig skal vi også ta med et kapittel om akselerert testing i den reviderte engelske
+utgaven av boken i pålitelighetsteori. Noe annet nytt som vi behandler der, er
+periodevis vedlikehold.
+
+Direkte kontakt med industriens folk
+
+- Når man går gjennom de forskjellige områdene som du har arbeidet med,
+får man inntrykk av at du har sett på formidling av kunnskap til andre som en
+
+vesentlig del av virksomheten. Stemmer det?
+
+- Ja, jeg har ment at det var viktig å sørge for tilbud til de aktive utøverne
+av faget. F.eks. har jeg deltatt i utviklingen av et eget undervisningsprogram i
+sikkerhet ved NTH. Det ble nedsatt en komité i 1987 som jeg fremdeles er formann
+for. Vi har nå etablert et omfattende tilbud av forskjellige sikkerhetsfag, med 2025 kurs.
+
+— Har dette vært et spesielt satsningsområde?
+
+— Ja, vi har fått store bidrag fra Conoco, Phillips Petroleum, Vesta og NTNF for
+å utvikle dette feltet. Det er opprettet tre stillinger som professor II i sikkerhetsfag
+ved NTH, og dr. ing. Stian Lydersen er engasjert på full tid for å være koordinator
+for virksomheten. Videre har NTH nettopp utpekt dette feltet som det ene av to
+spesielle satsningsområder for de kommende 5 år. Dette medfører at vi vil få øre-
+
+merket solid økonomisk støtte fra NTH og SINTEF. Doktorgradsundervisningen
+
+vil bli utvidet, og vi har også utarbeidet såkalte spesialistprogrammer innenfor
+sikkerhet og miljø for ferdige sivilingeniører.
+
+— Har dette noe å gjøre med de berømmelige Sikkerhetsdagene ved NTH?
+— Nei, det er et separat arrangement, som jeg også er formann for. Det ble arrangert for sjette gang i novemberi fjor, med 250 deltagere. Som foredragsholdere
+hadde vi folk fra ledersjiktet i oljebransjen, sikkerhetssjefen i Hydro og konsernsjefen ved Norske Skog. Det er gøy å holde på med slikt, selv om det er litt på
+siden av faget statistikk.
+
+Statistikerne ved NTH utvikler sin egen profil
+— Har akkurat det noen betydning?
+
+— Nei, hadde jeg vært 30-40 år, kunne man kanskje sagt at jeg heller burde
+gjort noe annet. Men jeg har ment at det var viktig for statistikerne ved NTH å
+vise at deres aktivitet hadde betydning for NTH generelt og for industrien.
+— I andre ikke-tekniske fag ved NTH har folk kanskje ikke alltid vært så flinke
+til det?
+
+— Jeg vet ikke hvor stor vekt man skal legge på det. Men ved en liten genistrek
+klarte vi i syttiårene å få et eget institutt for statistikk ved NTH. Hele tiden
+prøvde vi å profilere dette instituttet og gå i møte med brukerne av faget. Etter
+hvert begynte virkelig statistikkinstituttet på NTH å få et navn ute i industrien,
+og bedriftene sendte folkene sine hit på kurs og videreutdannelse.
+— Men dagens administrative ordning er annerledes?
+
+— Ved universitetene i Norge synes det for tiden å være en tendens til at ledelsen
+
+
+
+16
+
+— av Gud vet hvilken grunn — ønsker store institutter. Derfor ble vi for et par
+år siden slått sammen med instituttene for matematikk og numerikk. Jeg pekte
+på at det umulig kunne være noen fordel å få et stort inhomogent og tungrodd
+institutt, istedenfor de tre mindre instituttene vi hadde. Videre understreket jeg
+at utviklingen ute i verden ellers går den stikk motsatte veien, slik at statistikk
+skilles ut i egne institutter. Men det hjalp ikke. Sammenslåingen er et faktum,
+og vi har store vanskeligheter med å opprettholde vår profil overfor industrien.
+— Går det ikke ut over teorien når dere satser såpass sterkt på anvendelsene?
+— Nei, jeg tror ikke det. For vår del mener jeg iallfall at vi har lykkes i å
+orientere oss mot anvendelser uten at det har gått ut over teorien. Se f.eks. på
+virksomheten til Emil Spjøtvoll og Bo Lindqvist. Det er vel ingen som vil bestride
+at de har teorien i orden.
+
+Er det mulig å vinne anerkjennelse i et forherdet ingeniørmiljø?
+- Har du følelsen av at denne kombinasjonen av teori og praksis også blir satt
+
+pris på i andre miljøer ved NTH?
+
+— Jeg oppfattet det som en generell anerkjennelse av fagområdet da Emil i fjor
+ble valgt til prorektor ved NTH. Før ble det alltid sagt at rektor og prorektor
+måtte komme fra de tunge teknologiske avdelingene.
+
+- Alt i alt virker det som du er relativt fornøyd når du ser deg tilbake. Det er
+
+vel ikke noe galt i å si det?
+
+— Det har alltid vært slik: Når jeg ser fremover, synes jeg av og til at det
+går langsomt. Ser jeg derimot bakover, synes jeg det har skjedd ganske mye.
+Fra og med 1. juli har vi faktisk fem professorater i statistikk ved Universitetet i
+Trondheim,i tillegg til meg, da. Ved NTH vil det være Emil, Bo og min etterfølger,
+og ved AVH er det Steinar Engen og Jan Bjørnstad. Da jeg ble utnevnt i 1970,
+var jeg eneste statistiker i Trondheim. Så når jeg ser meg tilbake, synes jeg at vi
+har grunn til å være relativt fornøyd.
+
+- Ville du i sin tid trodd at det skulle gå på denne måten?
+
+— Neppe. Jeg var selvsagt klar over at jeg ikke burde fortsette med mine ikkeparametriske modeller. Jeg visste at jeg måtte konsentrere meg om å bygge opp
+et skikkelig kurstilbud i statistikk for ingeniørstudentene, et tilbud som med tiden
+kunne føre helt frem til doktorgrad. Med gode hjelpere har vi fått til det. Jeg
+måtte videre regne med å velge nye forskningsområder av interesse for industrielle
+og tekniske anvendelser. Om jeg har lykkes i å komme noen vei her, får andre
+bedømme. Jeg hari alle fall aldri angret på at jeg valgte å dra fra Oslo til NTH
+i Trondheim.
+
+
+
+17
+
+Anmeldelse av programvare
+
+GAUSS, Aptech Systems Inc., 26250 196th Place South East, Kent, Wash-
+
+ington 98042, USA.
+
+I statistikken er det en kløft mellom teori og praksis. Teoretikeren beveger seg i
+
+sin egen abstrakte verden, og publiserer i tidsskrifter (f. eks. Annals of Statistics)
+
+der det ikke engang spørres om hvorvidt forslagene til nye metodikker har noen
+som helst praktisk betydning. Den statistiske praktiker kjører på den annen side
+traust sine statistikkpakker og håper i det lengste han kan slippe å utvikle noe
+nytt. Når nye programmer iblant trenges, utvikles de motvillig og med megen
+møye. I denne situasjonen trenges det broer over kløften. Slike broer kan f. eks.
+være nye effektive programmeringssystemer som gjør at vår gjennom et langt
+studium hardt tilkjempede matematisk-statistiske kunnskapsbase kan omgjøres
+til praktisk anvendelse uten for mye strev. Moderne eksempler på slike systemer
+er GAUSS og Mathematica, hvorav det siste er desidert det mest spennende.
+Likevel vil bare GAUSS bli omtalt her.
+
+Min personlige bakgrunn for å interessere meg for GAUSS er et på den ene
+siden hjelpeløst forhold til tradisjonelle programmeringsspråk, og på den annen
+side behovet for å kunne maksimere noen egenkonstruerte likelihoodfunksjoner,
+samt lage grafiske fremstillinger av litt kompliserte funksjoner. Min takknemlighetsgjeld er stor til Petter Laake som foreslo at GAUSS kanskje var svaret på
+mine problemer. Jeg ønsker følgelig å reklamere litt for dette systemet, som er
+
+beregnet på IBM-kompatible PC-er med matematikkprosessor.
+
+GAUSS er altså et programmeringsspråk som er vesentlig enklere å bruke enn
+de vanlige som Fortran og Pascal. Programmene i GAUSS er enkle, naturlige
+
+og kompakte, man skriver dem nesten som man skriver formlene. Programmeringen er interaktiv i den forstand at man umiddelbart kan få opp programmet
+
+på skjermen for videre revisjon når man har prøvekjørt det. Språket er matriseorientert. Dette betyr at operasjoner på matriser utføres meget raskt, og at
+matriser kan håndteres på en svært effektiv måte i programmeringen. Det finnes
+en rekke *smarte” regler for dette.
+
+GAUSS har innarbeidet gode numeriske rutiner. Selv har jeg mest brukt
+maksimeringsrutinen som fungerer utmerket for selv litt *vanskelige” likelihoodfunksjoner. Derivasjoner foretas numerisk, og man får således automatisk opp-
+
+gitt standardfeil uten å derivere selv. Det er såpass enkelt å programmere at en
+til dels kan lage sine egne versjoner av rutiner som ellers finnes i statistikkpakker.
+Jeg laget for eksempel mitt eget lille program for Cox-analyser. Programmer-
+
+ingen besto essensielt i å skrive tre linjer for å beregne Cox-likelihooden (som
+
+kan skrives på matriseform). Jeg vil ikke påstå at man generelt bør skrive sine
+egne programmer, men det virker unektelig litt komisk når man f.eks. innen
+GLIM-kulturen bestreber seg på å vri og vende på GLIM for å tilpasse det til
+problemer det ikke er egnet til, f. eks. i overlevelsesanalyse, i stedet for å bruke
+et effektivt høynivå programmeringsspråk som GAUSS.
+
+Det finnes også mye ferdig utviklet programvare i GAUSS og mere kommer
+til etterhvert. Eksempler på felter med slik programvare er loglineær analyse,
+
+
+
+18
+
+Poissonregresjon, tidsrekker, autoregressive prosesser og lineær programmering.
+GAUSS har god grafikk, både to- og tredimensjonal, og av publikasjonskvalitet. Det har vært visse svakheter ved grafikken, men disse later til langt på vei
+å være utbedret i siste versjon. Grafikkprogrammene kan nok kanskje virke litt
+kompliserte, men noe stort problem er det ikke, og forenklinger og forbedringer
+skjer hele tiden.
+
+GAUSS foreligger for 286-PC-er, men da med en ganske sterk begrensning på
+størrelsen av de datamatriser som kan håndteres. Denne begrensningen er opphevet i de versjoner som nylig er kommet for 386-maskiner. En av disse (GAUSSVM) benytter maskinens harddisk som ekstra hukommelse, og kapasiteten blir
+da i praksis ubegrenset.
+
+En stor fordel med GAUSS er at det gjennomgår en meget intens utvikling
+og kommer i stadig nye og forbedrede utgaver. Det finnes også en forenklet
+versjon for studentbruk og spesialversjoner for visse brukergrupper. De som vil
+ha nærmere opplysninger om programmet og priser etc., bør henvende seg til
+produsenten.
+
+Odd O. Aalen
+
+Environmetrics og
+
+The International Environmetrical Society
+The International Environmetrical Society (TIES) ble startet i 1988, som et
+samlende forum for kvantitativt arbeid innenfor miljøvitenskapene. Initiativet
+til foreningen ble tatt av Ian B. MacNeill fra University of Western Ontario og
+Abdel H. El-Shaarawi fra National Water Research Institute, begge i Ontario,
+Canada. Selv kom jeg i kontakt med foreningen allerede i planleggingsfasen,
+under mitt gjesteopphold i Canada 1986/87.
+
+TIES arrangerer årlige internasjonale møter. Disse har foreløpig funnet sted
+
+i Cairo (Egypt) og i Como (Italia). Årets møte foregår i Madison (USA) i
+oktober, og neste år står Finland for tur. Kopi av en informasjonsfolder om
+Madison-møtet er vedlagt dette nummeret av TG. Møtene har vanligvis hatt
+200-500 deltagere, med statistikere meget sterkt representert. Hvis noen ønsker
+mer informasjon om TIES, eventuelt medlemskap og/eller foreningens møter, så
+ta gjerne kontakt med meg.
+
+TIES står også bak et forholdsvis nystartet tidsskrift, ENVIRONMETRICS,
+som utgis av Wiley. Undertegnede er knyttet til tidsskriftet som Associate Editor
+- et nokså uforpliktende engasjement. Kopi av en reklamebrosjyre for tidsskriftet
+er også vedlagt dette nummer av TG, og jeg håper mange føler seg kallet både
+til å bidra med stoff og til å tegne sin institusjon som abonnent. Norge står jo
+tradisjonelt sterkt innenfor miljøvern og miljøfag, og vi bør også markere den
+norske statistikerstanden gjennom TIES og ENVIRONMETRICS.
+Eivind Damsleth
+
+Norsk Hydro A/S
+Postboks 200, 1321 Stabekk
+
+Telefon: (02)738160 (direkte)
+
+
+
+19
+
+Sequential two-sample methods
+in controlled clinical trials
+Sammendrag av dr. philos.-avhandling, forsvart 8. desember 1990
+ved Universitetet i Oslo
+Eva Skovlund
+
+Hensikten med mange kontrollerte kliniske forsøk er å sammenligne effekten
+av to forskjellige behandlinger, og det vanligste er å utføre parallellgruppeforsøk.
+Som regel analyseres pasientenes respons ved hjelp av en signifikanstest når forsøket er avsluttet. Fordi pasientene i et klinisk forsøk ikke starter behandlingen
+samtidig, vil imidlertid resultatene som regel samles over en lang periode. Det vil
+derfor ofte være fristende å analysere resultatene underveis i forsøket og stanse
+forsøket dersom man finner signifikant forskjell mellom effekten av de to behandlingene. Ved å utføre slike interimanalyser, kan man stoppe et forsøk tidlig og
+oppnå at få pasienter får det dårligste behandlingsalternativet.
+Konvensjonelle p-verdier kan imidlertid ikke uten videre brukes gjentatte ganger
+
+i et forsøk der utvalgsstørrelsen er bestemt på forhånd. Dersom man utfører en
+rekke tester på f.eks. 5 % nivå, og man fortsetter inklusjon av nye pasienter
+
+hvis man ikke finner signifikant forskjell mellom de to behandlingene, men stanser
+forsøket dersom man finner en signifikant forskjell, vil det virkelige nivået overstige
+5 % og øke med antall tester som utføres.
+En måte å unngå dette problemet på når gjentatt signifikanstesting er ønske-
+
+lig, er å benytte en sekvensiell forsøksplan. Da er stoppreglene laget slik at
+forsøksresultatene kan analyseres kontinuerlig uten at det totale signifikansnivå
+overstiger den valgte verdien.
+
+Sekvensielle tester for binomisk respons har vært brukt i en rekke kliniske
+forsøk, og egenskapene til disse testene er godt kjent. Derimot har man visst
+lite om egenskapene til sekvensielle tester for kontinuerlig respons, hovedsakelig
+på grunn av den kompliserte matematiske teorien disse testene ofte er basert på.
+Målet med mitt arbeid var i første rekke å undersøke egenskapene til eksisterende
+sekvensielle toutvalgstester for kontinuerlig responsvariabel. Siden det viste seg
+at mange av disse testene i praksis ikke ga nominelt signifikansnivå og teststyrke,
+fremkom ideen om å utvikle en ny sekvensiell test basert på Wilcoxons toutvalgstest.
+
+Metode
+
+Arbeidet er utført ved hjelp av stokastisk simulering. Simuleringsprogrammene
+
+er skrevet i SIMULA. For det meste har hensikten med simuleringene vært å
+bestemme forskjellige testers signifikansnivå og styrke under gitte betingelser som
+er variert systematisk. De simulerte pasientenes respons er generert fra valgte
+teoretiske fordelinger, vanligvis i rene forskyvningsmodeller. Testenes egenskaper
+er bestemt både under nullhypotesen (nivå) og under forskjellige alternativer
+
+
+
+20
+
+(styrke).
+
+På denne måten er “fasitsvaret” kjent, fordi nominelt nivå og styrke
+
+ligger til grunn for bestemmelse av stoppgrensene. Testenes robusthetsegenskaper
+og fordelingsfrihet er studert ved å generere respons fra mange forskjellige typer
+fordelinger. I tillegg er antall pasienter som ble inkludert i hver simulering registrert.
+12
+
+|
+
+10-
+
+Test
+
+statistic
+
+Ho
+
+Number
+
+of
+
+patients
+
+Figuren viser et eksempel pa stoppgrenser for en ensidig sekvensiell Wilcoxontest. Vinkelkoeffisienten for grensene er bestemt av den alternative hypotesen.
+Konstantenei ligningene for grensene bestemmer niva og styrke. Endring av konstanten for den nedre grensen vil i hovedsak pavirke nivaet; endring av gvre grense
+påvirker styrken. Inklusjon av pasienter fortsetter så lenge ingen av stoppgrensene
+
+krysses. I dette eksempelet stanses forsøket etter inklusjon av 16 pasienter. Nullhypotesen forkastes ikke.
+
+Resultater
+
+Mange av de eksisterende testene er basert på asymptotisk teori og har vist
+seg ikke å ha så gode egenskaper når forventet antall pasienter er forholdsvis lite.
+Flere av testene viste seg å være lite robuste mot avvik fra normalfordeling. Fordi
+disse testene kan være lite egnet i mange kliniske forsøk, har jeg utviklet en ny
+sekvensiell test basert på Wilcoxons toutvalgstest. Stoppgrensene for testen er
+utviklet ved stokastisk simulering. Denne testen er enkel, robust og tilnærmet
+fordelingsfri. Den er også benyttet i praksis i to kontrollerte kliniske forsøk.
+I tillegg til simulering av testers egenskaper, har jeg også undersøkt forskjellige
+estimatorer for forskjellen i behandlingseffekt etter en sekvensiell test. I teorien
+er fordelingen til responsvariabelen skjev idet en sekvensiell grense krysses, og
+
+man har antatt at tradisjonelle estimatorer for fast utvalgsstørrelse ikke kunne
+anvendes. Mine simuleringer har vist at skjevheten i virkeligheten ikke er så stor,
+og at de tradisjonelle estimatorene er like gode som estimatorer utviklet spesielt
+for sekvensielle forsøk.
+Diskusjon
+
+Sekvensielle forsøk har etiske og økonomiske fordeler fordi de kan bidra til å
+
+holde pasienttallet lavt i et klinisk forsøk. For at man skal kunne dra nytte av
+
+
+
+21
+
+fordelene med sekvensielle forsøk, må responstiden være kort sammenlignet med
+den tiden det tar å inkludere pasienter i forsøket. Sekvensielle forsøksplaner er
+altså særlig egnet ved akutte sykdommer som kan helbredes eller lindres raskt.
+
+Både i simuleringsundersøkelser og i praksis har jeg vist at noen av de sekvensielle
+forsøksplanene har gode egenskaper, og etter min oppfatning burde man oftere
+vurdere en sekvensiell forsøksplan når et klinisk forsøk skal gjennomføres.
+
+Avhandlingen består av 10 arbeider:
+I. Skovlund E. and Walløe L. (1987) A simulation study of a sequential t-test
+developed by Armitage. Scand. J. Statist., 14, 347-352.
+
+II. Skovlund E. (1988) The correction of a two sample sequential t-test developed by Hajnal. Comput. Statist. Data Anal., 6, 165-175.
+
+III. Skovlund E. (1988) A simulation study of three sequential two-sample tests
+with triangular continuation regions. J. Stat. Plann. Inference, 19, 383-394;
+
+Erratum (1989), 22, 403-404.
+IV. Skovlund E. and Wallge L. (1988) A sequential two-sample test developed
+by stochastic simulation. J. Statist. Comput. Simul., 29, 87-104.
+
+V. Skovlund E. (1991) Truncation of a two sample sequential Wilcoxon test.
+Biometrical Journal, 33, no. 3.
+
+VI. Fenstad G. U. and Skovlund E. (1990) A two-sample sequential rank test
+by Sen investigated by stochastic simulation. J. Statist. Comput. Simul.,
+36, 129-137.
+
+VII. Skovlund E. and Wallge L. (1989) Estimation of treatment difference following a sequential clinical trial. JASA, 84, 823-828.
+
+VIII. Skovlund E. and Wallge L. (1991) Sequential or fixed sample trial design?
+A case study by stochastic simulation. J. Clin. Epidemiol., 44, 265-272.
+
+IX. Skovlund E., Fyllingen G., Landre H., and Nesheim B.I. (1991) Comparison
+of postpartum pain treatments using sequential trial design. I. Paracetamol
+versus placebo. Europ. J. Clin. Pharmacol, 40, 343-347.
+
+X. Skovlund E., Fyllingen G., Landre H., and Nesheim B.I. (1991) Comparison
+of postpartum pain treatments using sequential trial design. II. Naproxen
+versus paracetamol. Europ. J. Clin. Pharmacol., under trykking.
+
+Bruk av EDBi statistikkundervisningen
+på AVH, Universitetet i Trondheim
+Steinar Engen
+
+I grunnkurset S111 (5 vekttall) og det påbyggende kurset S12 (5 vekttall), blir
+det ikke brukt tid på databehandling ved hjelp av programpakker. Dette skyldes
+ikke motstand mot bruk av programpakker i statistikkundervisningen — tvert i
+mot. Vi har planer om å komme i gang, men med bare 2 stillinger i statistikk har
+det foreløpig skortet på resssurser. Instituttet har valgt å prioritere utbyggingen
+
+
+
+22
+
+av statistikk hovedfag framfor å intensivere arbeidet med grunnkursene.
+I 3-vekttalls-kurset S18 - Anvendt statistikk, gjør vi bruk av EDB. Det
+forutsettes at studentene som tar kurset, har forkunnskaper tilsvarende S111 og
+
+S12, og at de behersker et programmeringsspråk, f. eks. PASCAL. Hensikten med
+kurset er i hovedsak å gi studentene en mer praktisk innsikt i statistikkfaget enn
+den de tilegner seg i de mer tradisjonelle statistikk-kursene.
+
+Et egenutviklet kompendium dekker den teoretiske delen av pensum (2 vekttall). Dette må betraktes som et utkast til kompendium som vil bli omarbeidet og
+
+muligens utvidet. Det er planer om å ta med noe mer stoff, blant annet litt om tetthetsestimering. I løpet av kurset skal studentene utføre 4-6 små prosjektoppgaver
+
+som er obligatoriske og som teller 1 vekttall til eksamen. Prosjektoppgavene er
+i hovedsak programmeringsoppgaver (som utføres på Universitetets VAX-anlegg
+eller PC), men kan også inkludere noen analytiske beregninger. De første 2-3
+oppgavene er felles for alle, mens de siste er individuelle.
+
+Bruk av programpakker inngår heller ikke i S18. Det legges i stedet vekt på å
+gi studentene trening i å formulere og analysere nye og ukjente problemstillinger
+uten å være bundet av tilgjengelig programvare. Den underliggende filosofien er at
+programpakker bør betraktes som et supplement, og ikke danne selve plattformen
+for arbeidet.
+
+Kurset behandler bl.a. metoder for generering av stokastiske variable. Mange
+programpakker kan bare generere sekvenser av stokastiske variable fra de mest
+kjente fordelingene. Derfor kan det vise seg nødvendig å kunne lage sin egen
+generator. Videre inngår numeriske metoder som løsning av ikke-lineære ligninger,
+løsning av ekstremalproblemer, numerisk derivasjon og integrasjon som en del
+av det teoretiske pensumet. Tilnærmingsmetoder og transformasjoner blir også
+gjennomgått. Det er tatt med noen statistiske metoder som ikke er behandlet i
+S111 og S12. En har med hensikt valgt metoder som egner seg godt for utprøving
+
+ved hjelp av de teknikkene som gjennomgås i kurset f. eks. x?-tester. ‘Bootstrap’og ‘jack-knife’-teknikker som baseres på stokastisk simulering, behandles relativt
+overfladisk. Hensikten er å gi studentene en viss forståelse for tankegangen og
+sette dem i stand til å bruke teknikkene i enkle situasjoner.
+
+Antall studenter som har fulgt kurset har variert mellom 2 og 5. Årsaken til at
+
+det er så få er at det er få studenter som fortsetter etter grunnkurset og tar S12,
+som er en av forutsetningene for å kunne ta S18. Tendensen er at de som tar S12
+fortsetter på S18 og deretter som regel til hovedfag. Dommen fra studentene er
+éntydig. De synes det er et artig og svært lærerikt kurs.
+Det ville være svært ressurskrevende å gi denne typen kurs til en stor gruppe
+
+studenter. Man måtte da enten ha flere studentassistenter, eller gi avkall på de
+individuelle oppgavene slik at all veiledning og gjennomgang av problemstillinger
+kunne gjøres i plenum.
+
+
+
+23
+
+Bruk av dataøvinger i statistikkundervisningen
+ved Agder Distriktshøgskole, Kristiansand
+Henrik Dahl
+
+Til nå har vi dataøvinger i to statisikk-kurs på ADH:
+Statistikk 2 (2 vekttall, som bygger på 2 vekttall fra
+Statistikk 1) for videregående studenter i
+prosjektadministrasjon og internasjonalisering. Dette kurset
+hadde sist høst 52 kandidater. Siden det er et såkalt "åpent
+kurs" hadde vi også en del studenter fra de to første årene
+samt en del interesserte EDB-studenter.
+
+Matematisk Statistikk (3 vekttall, som bygger på 3 vekttall
+fra Sannsynlighetsregning og statistikk) for videregående
+studenter i realfag og matematikk. Dette kurset kjøres annet
+hvert vårsemester og hadde våren 1990 20 kandidater, men dette
+lave antallet skyldes spesielle forhold i forbindelse med en
+omlegning av studiet og det "normale" antallet kandidater er
+nok nærmere 50.
+
+Statistikk 2 må kunne regnes som et rent brukerkurs, men
+
+Matematisk Statistikk har ambisjoner om å gjøre bruk av disse
+studentenes sterke bakgrunn i matematikk (flervariabelteori,
+reel analyse, abstrakt algebra, med tiden også muligens
+
+programmeringsferdigheter).
+
+I begge kursene brukes programpakken MINITAB versjon 7.1.
+Jeg har i lang tid hatt to innvendinger mot bruk av "pakker"
+med statistikkprogram i elementærundervisning i statistikk:
+(1)
+
+Tiden det tar og innsatsen lagt ned i innlæringen kan
+
+(2)
+
+Når studentene først mestrer det rent tekniske, kan de
+
+ikke rettferdiggjøre den nytten studentene har av opplegget.
+lett fristes til å misbruke metodene.
+
+Derfor var jeg relativt sent ute med å slippe ADH-studentene
+løs på datapakker i statistikk (høsten 1980).
+Da hadde alt samfunnsvitere ved skolen i flere år brukt
+systemer som FAKAD og DDP, som jeg opplevde som bekreftelser
+Jeg fikk stadig henvendelser av typen:
+av skepsis (1) og (2).
+"Jeg har skutt noe,
+
+kan du si meg hva det er?"
+
+- eller i mer "vitenskapelig"
+
+språkdrakt:
+
+"Datasettet er signifikant ifølge datapakken,
+betyr det for meg i mitt arbeid"
+
+men hva
+
+Jeg valgte å satse på MINITAB, fordi jeg vurderer at denne
+pakka langt på vei imøtegår innvendingene (1) og (2).
+Jeg er ikke blitt skuffet!
+
+Det vesentlige av problemer vi har hatt skyldes maskinutstyret
+(NORD 100/500)
+
+og mangelfull
+
+implementering,
+
+særlig de to
+
+første årene.
+Opprinneliog brukte vi skrivemaskinterminaler,
+som tidligere versjoner av MINITAB la opp til.
+Senere fikk
+ADH skjermterminaler og detre ga en del problemer til vi fikk
+
+MODE-filer osv.
+
+I de senere årene har MINITAB kommer i stadig forbedrede
+versjoner: Versjon 5 fra 1985 var et stort fremskritt og det
+
+er den siste versjonen vi bruker på NORD 560.
+
+Det som særlig
+
+var betydningsfullt ved versjon 5, var at "worksheet" ble øket
+
+
+
+24
+
+fra 5000 til 100000. slik at det ble mulig å analysere
+betydelig større datasett enn tidligere. Dermed kunne MINITAB
+taes i bruk i mer realistiske situasjoner og ikke bare i
+oppkonstruerte "undervisningseksempler".
+
+Etter et kort mellomspill med versjon 6 for PC er vi nå over
+på versjon 7.1, som i sær hever seg over tidligere versjoner
+ved å ha en "on screen editor".
+Ellers kan jeg nå glede meg
+over at aller studenter har et innføringskurs i EDB, slik at
+
+jeg ikke trenger å kaste bort tiden med EDB-tekniske
+
+problemer.
+
+vi bruker ikke egne læremidler til øvelsene og jeg tror ikke
+jeg noen gang kommer til å gjøre det.
+Fra tid til annen løser
+vi oppgaver fra den regulære læreboka i kurset, men disse vil
+i liten utstrekning utnytte de muligheter for interaktiv
+
+kjøring som moderne datapakker gjør mulig.
+
+I stedet kopierer
+
+jeg datafiler jeg selv har samlet inn over på studentenes
+disketter og overlater til studentenes initiativ og
+oppfinnsomhet å gjennomføre analyser. Dette gir glimrende
+muligheter til å illustrere at det til et visst datasett ikke
+finnes noen "riktig" analyse, noe mønsterløsninger og fasiter
+til lærebøker lett kan gi inntrykk av.
+Derimot er det gode
+muligheter for å øve opp ferdigheter så som:
+Å kunne samarbeide.
+Å kunne overholde tidsfrister.
+Å kommunisere klart og effektivt, muntlig og skriftlig.
+Å forstå at i praksis må det finnes et svar, selv om
+dette ikke alltid er tilfredstillene.
+
+Å forstå statistikerens etiske stilling.
+Å oversette generelle mål til rimelig presise og
+realistiske oppgaver dvs. at visse faktorer er relevante
+og andre ikke.
+Å gjenkjenne situasjoner som krever undersøkelse av
+datakvaliteten og å lage hensiktsmessige
+kontollrutiner.
+
+Å forstå grensene for hva vi vet.
+Å forstå hva statstikk kan og ikke kan gjøre.
+Å innse hvilke teknikker som er gyldige og/eller
+brukbare.
+
+:
+
+:
+
+A anvende teknikker, tolke resultater og trekke riktige
+
+slutninger dvs. forståelse.
+Å anvende teknikker, beregning og tilsvarene ferdigheter.
+Å lære og bruke en tidligere kjent teknikk.
+Å forstå at virkelige data har svakheter og reagere
+fornuftig på vansker.
+
+Å ha oversikt over de ulike nivåer av teknisk raffinement
+i analysemetode og tilpasse disse til data med ulik
+relevans og pålitelighet.
+
+Å sette sammen tilsynelatende ubeslektede fakta til et
+mønster.
+
+Å oversette et problem til statistisk form.
+Å bygge opp modeller.
+
+Den våkne leser vil kjenne disse punktene igjen fra en
+bokomtale i TG.
+Jeg gjør ikke krav på at jeg i et
+
+elementærkurs på 2 vekttakk kan gi studentene en fullgod
+
+forståelse i alt det disse punktene innebærer, men jeg mener
+
+at arbeid med "open ended problems" spesielt der studentene
+
+selv sitter inne med en viss ekspertise kan gi en viss
+forståelse for noen av punktene over.
+
+Vi starter datalabben (i begge kurs)
+
+med to dobbelttime der
+
+
+
+25
+
+studentene kan gjøre seg kjent med MINITAB.
+I løpet av disse
+dobbltimene løser de også en enkel oppgave i multippel
+
+regresjonsanalyse, som dreier seg om opptakssystemet på ADH.
+Dette er noe studentene har forutsetninger for å ha
+I disse timene blir det gitt
+velbegrunnede meninger om.
+
+ganske mye veiledning.
+
+Senere får studentene ulike prosjekter som de må gjennomføre
+mer eller mindre på egen hånd og der gjennomgåelsen
+innskrenker seg til kommentarer av mer filosofisk karakter,
+som f.eks. hvorfor opptakssystemet gir så liten
+forklaringskraft og om det er mulig å bedre situsjonen uten at
+enkelte grupper kommer i klemme.
+
+Til en del eksamener har det vært gitt MINITAB-spørsmål, og
+generelt synes disse å falle lett.
+
+Dette kan godt komme av at
+
+vi arrangerer eksamener med alle hjelpemidler tillatt.
+
+Sa
+
+godt jeg kan forsøker jeg å formidle kunnskap som ikke er
+programvarespesifikk, men det er sikkert subtile begrensninger
+som dert er vanskelig å se for en som er inne i systemet.
+MINITAB's generelt dårlige grafikk og ADH's mangel på satsing
+på utstyr som plottere har nok ført til en nedtoning av
+Når det gjelder dette er jeg nok også
+presentasjonsgrafikk.
+Jeg håper i nærmeste
+litt engstelig for innvending (2).
+fremtid å få S-Plus tilgjengelig og dette kan kanskje
+representere en ny åpning i Matematisk Statistikk-kurset våren
+1992.
+
+Til slutt vil jeg nevne et eksperiment,
+
+våren 1988,
+
+som ble gjennomført
+
+og som jeg selv synes var ganske vellykket:
+
+Høsten 1987 tok siste kull av studenter fra ØK/ADM-studiet med
+kvantitative metoder spesialiseringsretning, Statistikk 2.
+14 av disse studentene henvendte seg til meg med forespørsel
+om det kunne la seg gjøre å ta seminaroppgave i statistikk.
+Det hører med til historien at dette Statistikk 2-kullet er,
+
+noe av den beste studentgruppe jeg noen gang har arbeidet med
+Problemet som
+og at de 14 ikke representerte minusvarianter.
+gjensto var å finne passende prosjekter. På den tiden fikk
+jeg henvendelse fra administrasjonen ved ADH om å bistå i en
+For å gjøre en lang historie kort ble
+analyse av opptaksdata.
+de 14 studentene satt på oppgaven. Etter et møte med den
+
+ansvarlige i administrasjonen ble 14 ulike prosjekter fordelt.
+Siden jeg våren 1988 hadde to kurs, måtte arbeidet organiseres
+strømlinjeformet og slik at alt skulle være ferdig til
+utgangen av februar 1988.
+
+En student gjennomførte en forberedende undersøkelse allerde i
+
+romjula slik at alt var klart for de andre som kunne kastet
+seg over problemene i begynnelsen av januar. En
+
+seminaroppgave på ADH er ment å svare til tre ukers arbeid.
+Dette ble organisert slik: Hver student kodet data i en uke.
+Deretter fulgte en uke med MINITAB-kjøringer for å skaffe
+oversikt over hva de tilgjengelige data hadde å fortelle om de
+respektive prosjektene. Endelig fulgte en uke med skriving av
+selve seminaroppgavene. Jeg forlangte at disse skulle skrives
+i NOTIS-WP og være tilgjengelige fra min terminal, slik at jeg
+helt tiden kunne holde oversikt over progresjonen. Enkelte
+studenter var overambisiøse og disse fikk beskjed om å
+
+begrense problemstillingen og eventuelt "gi bort"
+problemstillinger til andre. Alle unntatt en student overhodt
+
+det opprinnelige tidskkjemaet, og etter litt "armbending" fikk
+også denne fullført på et vis. Sluttresultatet var en rekke
+interessante datafiler, som vi har hatt nytte av i
+
+undervisningen, som nevnt over. Det er et poeng at opptak er
+et fenomen som studentene har mye kunnskap om som de kan
+integrere i en innsiktsfull analyse.
+
+
+
+26
+
+Sammendrag av innlegg ved Det 6. norske statistikermøte
+Jeløya, 10.—12. juni 1991
+
+Statistisk programvare — en oversikt
+Rolf Volden
+
+Norsk Regnesentral
+
+En grov skisse over noen viktige utviklingstrekk for maskinvare er gitt for bedre
+å forstå utviklingen på programvarefronten. En rekke hovedgrupper av programvare med eksempler er omtalt. Noen viktige trender i programvareutviklingen og
+konsekvensene for brukeren er nevnt.
+
+Hovedpunktet i programvareomtalen er 6 generelle statistikkpakker for PC
+
+under DOS. De pakkene som er omtalt, er SAS, SPSS/PC+, Systat /Sygraph,
+
+S-PLUS, Statgraphics og Minitab. Disse pakkene fins også for flere alternative
+maskinplattformer. Den sterke standardiseringen av statistikkpakkene over ulike
+maskintyper gjør at mange av konklusjonene fra en statistikkpakke for PC også
+er gyldige for den samme pakken på andre maskiner. Det gjelder selvfølgelig med
+unntak av priser og kapasitetsproblemene som er noe spesielle for DOS.
+Samtlige av de statistikkpakkene som omtales, er i dag blant de *beste” på hver
+sin måte. De fleste pakkene er nokså fullverdige med hensyn til hovedgruppene
+av metoder, dog med noen mangler for Minitab og S-PLUS. Når man ser på
+pakkenes tilgjengelige opsjonsutvalg og prosedyrenes fleksibilitet til å løse gitte
+brukerproblem, er det dog større forskjeller mellom pakkene. Spesielt er SAS,
+S-PLUS og SPSS/PC+ blant de bedre her. Noen grove sammenligninger mellom
+SAS og S-PLUS ble gjort.
+
+Ellers ser de fleste pakker ut til å tilby flere former for brukerdialog. Både Systat
+og Minitab er i ferd med å bygge ut en menydialog i tillegg til den kommandodialog
+de har i dag. De øvrige pakkene, med unntak av S-PLUS som bare har interaktiv
+dialog, har alt flere dialogformer. SAS vil i neste versjon komme med et grafisk
+brukergrensesnitt under MS Windows i tillegg til de dialogformer de har i dag.
+Det fins en slags grunnleggende konflikt mellom det å tilby høy fleksibilitet og
+mange programopsjoner på den ene siden, og det at brukeren lett kan misforstå
+og misbruke det programverktøy som tilbys. Noen fallgruver i programvaren er
+gitt med utgangspunkt i SAS.
+
+Et notat laget til statistikermøtet, kan fås fra forfatteren.
+
+Diskusjon av Rolf Voldens foredrag
+Trond Haider
+
+Nycomed AS
+
+Rolf Volden har utført en formidabel oppgave ved å sammenligne statistikkpakker. Det krever solid bakgrunn for egne meninger ved å formidle slike sammenligninger offentlig. Jeg tar for meg fire områder som Rolf enten ikke berørte
+eller bare berørte i liten grad. Først et lite hjertesukk om datakvalitet, deretter
+
+
+
+27
+
+presenterer jeg Nycomeds erfaring med programpakker, jeg vil si litt om hva myndigheters krav til programpakker kan medføre, og til slutt vil jeg berøre statistik-
+
+erens rolle vis å vis andre pakkebrukere.
+
+Hjertesukket er knyttet til noe jeg stadig opplever: Dataenes kvalitet taes for
+gitt! Før i tiden fikk statistikerne en viss føling med dataene fordi de enten måtte
+regne med dem for hånd eller mate dem inn i en regneinnretning uten lagerkapasitet. Programpakkene har gjort det mye lettere på dette området: Dataene
+
+kommer, om ikke på en fjæl, så i alle fall på en diskett, og mates rett inn i programpakken. Ved noen få tastetrykk er det mulig å få ut alle de konfidensintervall,
+p-verdier og andre mål vi måtte ønske, uten egentlig å kjenne dataene. Statistikkpakkene gjør det mye lettere å la være å se på enkeltverdiene. Vi kan få resultater
+uberørt av statistikerhånd.
+
+Nycomeds avdeling for statistikk har hatt tilgang på PC-er og programvare
+siden 1984. Vår hovedoppgave har vært og er å planlegge, analysere og presen-
+
+tere resultater fra kliniske prøvinger, som utføres for å dokumentere effekten og
+sikkerheten til nye produkter. Vi opplever at det er meget lett å la seg fange
+opp av alle de nye muligheter på presentasjonssiden en programpakke gir. De
+kosmetiske aspekter ved tabeller og grafikk tar mye tid. (Alltid litt mer enn det
+som er tilgjengelig.) Og det tar tid som vi burde bruke på mer statistisk pregede
+oppgaver. Vi har sett faren i å la statistikere være eneste faggruppe knyttet til
+datasiden. I de siste årene har vi også ansatt programmerere som skal ta seg av
+produksjon av tabeller og grafikk i nært samarbeid med statistikere. Men, som
+
+Geir Eide kommenterte under diskusjonen av min diskusjon, vi må vokte oss for
+at dette ikke fører til en avstand mellom dataene og statistikere.
+Europeiske og amerikanske helsemyndigheter har startet en prosess som kan få
+store konsekvenser for farmasøytisk industri og dokumentasjon av nye produkter.
+All programvare knyttet til dokumentasjonsdata skal være validert. Dette begrepet
+er ennå ikke endelig definert, men det vil ligne på følgende: Det skal godtgjøres
+at et datasystem skal fungere riktig i sitt funksjonsmiljø. Dette innebærer at
+også samspillet mellom bruker, programvare, maskinvare og brukerinstrukser skal
+valideres, og dette skal dokumenteres. Noen spørsmål som ennå ikke er avklart
+er: Skal ad hoc, én-gangs programmer valideres? Skal vi ha avdelings-interne eller
+-eksterne kontrollfunksjoner? Må kontrollinstansene også ha fagekspertise?
+På Nycomed har vi et mangfold av programpakker med enda flere brukere. De
+aller fleste har visse statistiske funksjoner innebygd, noen har mange. Hvordan
+skal statistikerne forholde seg til dette? Vi vet at en del kommer til å bruke
+statistikken galt. Dette gjelder helt sikkert i de aller fleste andre miljøer også.
+
+Skal vi som statistikere ta den ene ekstreme holdning ved å gå inn for å sertifisere brukere av statistikkpakker, eller den motsatte holdning at det er ikke vårt
+bord, la dem ture frem? Begge holdninger er naive og vil skade oss som gruppe.
+Utfordringen for oss blir å finne den middelvei som både gir oss mulighet til å
+skape forståelse for faget og samtidig ikke bli oppfattet assistenter, men som en
+likeverdig part i et vitenskapelig samarbeid.
+
+
+
+28
+
+Express: Et verktøy for konstruksjon
+av kunnskapsbaserte statistiske system
+Jan Harald Aarseth
+Universitetet i Bergen
+
+Programsystemet Express er implementert på PC, og det tilbyr et verktøy for
+å konstruere kunnskapsbaserte statistiske system som utfører analyser på gitte
+datasett. Systemet gjør det mulig for en statistiker å spesifisere regler for hvordan
+systemet skal gå frem i en analysesituasjon, slik at resultater funnet underveis
+avgjør den videre analysetypen. Denne spesifikasjonen skjer ved at en kodefil
+fylles ut med de statistiske størrelsene som må finnes, og at det implementeres
+et regelprogram i Fortran. Dette programmet består stort sett av kall av ferdige
+prosedyrer som Express tilbyr.
+
+Når man starter Express, blir brukeren presentert for de forskjellige valgmulighetene som finnes m.h.p. regler for statistiske situasjoner (f. eks. logistisk regre-
+
+sjon, lineær regresjon eller sammenligning av lokasjonsparametre). Når bruker
+
+har bestemt seg for hvilket statistisk domene som skal behandles, kommer man
+inn til hovedmenyen i systemet. Her kan man starte selve regelkjedingen som skal
+arbeide seg frem til den endelige konklusjonen. Dette arbeidet utfører systemet
+
+ved hjelp av baklengs kjeding.
+
+Det som typisk skjer når man starter en regelkjeding, er at systemet undersøker
+om en spesiell statistisk størrelse allerede er funnet (disse verdiene lagrer systemet
+på en egen fil). Er den alt bestemt, presenterer systemet verdien for bruker, og
+Express går videre til neste steg i analysen. Er en observator derimot ikke funnet,
+må systemet finne denne ved å starte en programpakke. Brukeren kan da følge
+med på skjermen mens systemet selv setter opp de nødvendige styresetningene for
+korrekt utførelse av en passende statistisk programpakke. Express utfører så den
+aktuelle programpakken og leser gjennom utskriftsfilen fra pakken for å plukke
+
+ut aktuelle verdier. Nå vil systemet automatisk returnere til den posisjonen som
+regelkjedingen befant seg i før pakkekjøringen, og analysen vil fortsette.
+
+Brukeren har under hele regelkjedingen anledning til å avbryte for å undersøke
+hvilke verdier som er funnet og eventuelt endre noen av dem. Det kan f. eks. være
+at systemet har funnet at normalfordeling kan antas i den videre analyse, mens
+bruker ikke er villig til å benytte denne antagelsen. Brukeren kan også skaffe seg en
+bedre oversikt over den analysen som allerede er utført. Videre kan han gjennom
+forskjellige *systemvariable” velge om regelkjedingen skal gå raskt eller i sakte
+tempo, og om det skal gis fyldige forklaringer underveis eller ikke. Det at man
+har et omfattende grensesnitt til bruker, blir ansett som viktig i kunnskapsbaserte
+systemer i den forstand at det endelige resultat skal være et samarbeid mellom
+bruker og maskin. Dette er for å unngå at maskinen produserer resultat i løpende
+bane som en uerfaren statistiker stoler blindt på.
+
+I dagens utgave av Express er det regelsettet for logistisk regresjon med to
+
+uavhengige variabler som er mest omfattende (se presentasjon av Ågot Irgens),
+
+men det finnes også et par andre mer begrensede regelsett. De tjener mer som
+
+
+
+29
+
+enkle eksempler på hvordan Express prinsipielt kan utnyttes enn som realistiske
+oppskrifter på hvordan en statistiker vil gå fram i prakisis. Et av disse regelsettene tar for seg sammenligning av lokasjonsparametre for to datasett. Den første
+regelen i dette regelsettet avgjør hvilken analyseform som skal benyttes. Her har
+vi valget mellom tre forskjellige metoder. Den første går ut på å benytte t-test
+hvis vi kan anta at datasettene stammer fra en normalfordeling, eller en passende
+ikke-parametrisk test hvis vi antar at den underliggende fordelingen er ukjent.
+Metode nummer to er å benytte en parplan-analyse, mens den siste muligheten
+er å behandle dataene som om de stammet fra en 2x K-kontingenstabell, der K
+er antall nivåer i de to datasettene. Hvis vi f.eks. antar at systemet velger den
+første metoden med t-test (dette kan også lett bestemmes av bruker), vil Express
+kontrollere om det finnes ekstreme observasjoner i noen av datasettene. Hvis dette
+er tilfelle, vil den videre analysen ikke ta hensyn til disse verdiene med mindre
+bruker gir beskjed om noe annet. Nå vil systemet utføre normalitetskontroll på de
+to variablene. Kan begge variablene antas normalfordelt eller lognormalfordelt,
+vil passende metoder bli gjennomført basert på t-fordeling. Ellers vil systemet
+velge en av to ikke-parametriske metoder, basert på Wilcoxon- eller median-test.
+
+Et regelsett for logistisk regresjon i Express
+Ågot Irgens
+Universitetet i Bergen
+
+Demonstrasjonen viser tilpasning av et bestemt statistisk regelsett til programsystemet Express, som fungerer som et skall for konstruksjon av kunnskapsbaserte
+statistiske systemer. I utgangspunktet ønsket vi å lage et system som kunne
+avgjøre hvilken logistisk regresjonsmodell som var anvendbar for en situasjon med
+én avhengig variabel og et stort antall uavhengige variable. De aktuelle anvendelsesområdet var i første rekke epidemiologiske studier av sammenhenger mellom sykdom og ulike risikofaktorer, enten oppfølgingsundersøkelser eller “case-
+
+control”-studier. Praktisk-statistisk analyse av slike situasjoner blir i stor grad
+basert på uformelle prosedyreri tillegg til logistiske analyser av forskjellige variabelsett. Slike problemstillinger skulle derfor egne seg godt for formalisering i
+regelsett i kunnskapsbaserte systemer.
+
+Da løkkestruktur i regelkjedingen i Express ikke var implementert på det tidspunktet arbeidet startet, fant vi å måtte lage et enklere system som bestemmer den
+logistiske regresjonsmodellen for én avhengig og to uavhengige variable. Systemet
+er utviklet med tanke på senere utvidelse av antall uavhengige variable. I den
+eksisterende versjon av Express er dette mulig. Det var viktig ikke å binde seg til
+spesielle stivalg i utgangspunktet, men ha et system som består av et lite antall
+prosedyrer som kan gjentas flere ganger.
+
+BMDP ble valgt som hovedprogrampakke for utførelse av beregningene, da
+dette er en statistikkpakke som er kjent av de fleste som eventuelt skal benytte
+
+
+
+30
+
+systemet. I tillegg har BMDP et godt utviklet program for logistisk regresjon.
+Dessuten bruker vi SAS til noen enkle analyser. Det spesielle programmet StatXact ble brukt som tilleggspakke til beregning av likelihood, odds-ratio og homogenitet dersom datasettet har få observasjoner.
+
+Vårt system er laget slik at en erfaren statistiker kan trekke sine egne konklusjoner på grunnlag av resultatene de forskjellige pakkekjøringene gir. Brukeren kan
+på flere trinn sette seg over systemet og bestemme om en variabel skal taes med
+i modellen eller ikke. Enkelte pakkekjøringer er tatt med selvom de utplukkete
+parametrene ikke brukes i reglenes modellbestemmelse. I tillegg kan bruker se på
+flere plott og deskriptiv beskrivelse av variabelen. Dette er gjort for at bruker skal
+ha et godt utgangspunkt for å foreta alternative beregningsmetoder.
+Med tanke på en mindre erfaren bruker er systemet laget slik at det alltid
+kommer frem til en konklusjon, selv om bruker ikke går inn og tar avgjørelser
+under kjøringen. Avgjørelsene blir i hovedsak tatt ved å se på forskjeller i loglikelihood for de ulike modellene. Systemet kommer imidlertid ikke alltid frem
+til en spesiell modell. Underveis i kjøringen foretas flere kontroller på modellen:
+Det undersøkes om det er avvik fra trend, homogenitet eller linearitet i logit,
+
+eller om den avhengige variabelen er feilaktig kodet. Regelkjedingen kan derfor
+bli avsluttet allerede på dette trinnet, med beskjed om den aktuelle situasjonen.
+For kategorivariable anvendes en spesiell rutine for å slå sammen små grupper
+med nabogrupper for å unngå nullceller i 2 x k-tabeller. Etter at kategoriseringen
+eventuelt er justert, lages en BMDP-fil hvor variablene lagres.
+
+Det blir anbefalt først å foreta en grundig univariat analyse for hver av de
+uavhengige variablene. Systemet viser plott over observerte frekvenser ved de
+forskjellige z-verdiene. Er en z-variabel kontinuerlig, foretaes det også omvendt
+en to-utvalgs t-test med den avhengige variabelen som grupperingsvariabel. Variablene blir videre undersøkt ved univariate logistiske regresjoner, ved å se på
+forskjellige kategorier av x-verdier hver for seg, og ved multivariate logistiske regresjonsanalyser, med og uten samspill. Metodene prøver spesielt å ta hensyn
+til at en ikke skal få med i modellen overflødige z-variable som fører til ustabilitet med stor usikkerhet for koeffisientene. Blir det påvist samspill, foretas det
+ny kjøring med logistisk regresjon der det også blir inkludert kategorivariable som
+representerer kombinasjoner av forskjellige nivåer for de opprinnelige z-variablene.
+
+Om solvens i skadeforsikring
+Arild Kristiansen
+Kredittilsynet
+
+I regi av Kredittilsynet er det i løpet av de siste årene utarbeidet et regelverk for fastsett—
+ing av krav til de avsetninger et skadeforsikringsselskap må ha for å kunne dekke forplikt—
+
+elsene overfor forsikringstakerne. Målsettingen med dette innlegget er dels å gi en kort opp—
+summering av hovedtrekkene ved det utarbeidede regelverket, dels å foreta en gjennomgang
+av noen av de risikoteoretiske metoder som skal anvendes ved beregningen av minstekrav—
+
+ene til de forsikringstekniske avsetninger.
+
+
+
+31
+
+Figur 1. Hovedstrukturen i det utarbeidede regelverk for minstekrav til avsetninger.
+Forsikringsvirksomhetslovens § 8-6
+
+}
+Forskrift om skadeselskapenes avsetninger
+e generelle krav til avsetningene
+e minstekrav til de enkelte komponenter i de samlede avsetninger
+
+}
+Utfyllende regler til forskriften
+e utdyping av minstekravene gitt i forskriften
+
+e oversikt over risikoteoretisk baserte beregningsmetoder
+
+I
+Vedlegg til de utfyllende regler
+e bransjeinndeling
+
+e beregningsmetoder for minstekrav til premie— og erstatningsavsetning
+e beregningsmetoder for minstekrav til sikkerhetsavsetning
+e oversikt over bransjespesifikke parameterestimater
+
+j
+Dokumentasjonsnotater
+
+e detaljert gjennomgang av anvendte risikoteoretiske modeller
+
+og utledede beregningsmetoder (inkl. mulig videreutvikling)
+
+e detaljert gjennomgang av parameterestimeringen, samt
+
+utprøving av beregningsmetoder for minstekrav til avsetninger
+(for "konstruerte" selskap & case-study)
+
+Hovedstrukturen i det utarbeidede regelverket er som vist i figur 1. Med utgangspunkt i
+
+forsikringsvirksomhetslovens § 8-6 har Kredittilsynet utarbeidet en forskrift der det bade
+fastsettes enkelte generelle krav til de forsikringstekniske avsetningene og dessuten gis
+
+minstekrav til alle komponentene i de samlede avsetninger. (Forskriften ble forøvrig gitt
+av Finansdepartementet medio mai 1991.) Mer detaljerte beregningsmetoder for minste—
+kravene til avsetninger vil bli gitt i et sett av utfyllende regler som er under utarbeiding i
+Kredittilsynet. I tilknytning til de mer detaljerte beregningsmetoder som vil bli spesifisert
+i (vedleggene til) de utfyllende regler er det også utarbeidet to relativt omfattende doku—
+mentasjonsnotater. Disse notatene inneholder en detaljert gjennomgang av hhv. de an—
+vendte risikoteoretiske modeller og beregningsmetoder samt oversikter over resultatene av
+
+parameterestimeringene og utprøvingen av de dokumenterte beregningsmetoder for minste—
+krav til avsetninger.
+
+Videreutviklingen av regelverket forutsettes å foregå ved en vekselvirkning mellom bestem—
+melsene i de utfyllende regler, vedleggene til disse regler og de dokumenterte modeller og
+beregningsmetoder.
+
+Årsakene til at et skadeforsikringsselskap må foreta forsikringstekniske avsetninger kan
+kort — og noe firkantet — oppsummeres på følgende måte:
+
+— Premiene betales på forskudd for en avgrenset tidsperiode mot at selskapet påtar seg
+å dekke alle skader som oppstår i denne perioden. I et selskaps portefølje vil det derfor
+
+
+
+32
+
+til enhver tid være en rekke forsikringer /poliser der deler av forsikringstiden er uavløpt.
+— Det tar tid fra et skadetilfelle inntreffer til det anmeldes og videre fra anmeldelsen fore—
+tas til erstatningsbeløpet faktisk utbetales. I et skadeselskaps portefølje vil det mao. til
+enhver tid være en rekke skadetilfeller der det endelige erstatningsoppgjøret ikke har
+funnet sted.
+
+De to nevnte forhold gir opphav til hhv. premie— og erstatningsavsetninger. Et skadefor—
+
+sikringsselskaps premie— og erstatningsavsetninger vil generelt være det beste anslaget på
+(dvs. forventningen til) hhv. de samlede erstatningsutbetalinger til framtidige skader som
+
+er dekket på betraktningstidspunktet (de såkalte CBNI-skader), og de samlede framtidige
+erstatningsutbetalinger til skader som er inntruffet men ikke endelig oppgjort (de såkalte
+IBNS-skader). Disse anslagene vil generelt være beheftet med tildels betydelige usikker—
+heter, noe som igjen medfører et behov for separate sikkerhetsavsetninger. Sikkerhetsavset—
+
+ningene kan eventuelt også omfatte en buffer mot fluktuasjoner i skadeforløpet over en fler—
+årig periode eller beløp til dekning av andre risikofaktorer avledet av forsikringsvirksom—
+heten (inflasjonsrisiko, renterisiko, valutarisiko m.v.).
+
+Oppgaven er dermed å finne fram til statistiske modeller som gir en rimelig beskrivelse av
+den risikoprosessei. som genererer skadetilfellene og de tilhørende enkelterstatningsbeløp.
+Videre må avviklingsprosessen modelleres, dvs. man må finne fram til en rimelig beskriv—
+
+else av "ventetiden" fra en skade inntreffer til den anmeldes og videre fra anmeldelse til
+utbetaling av erstatningsbeløp.
+
+Vi lar betraktningstidspunktet være utgangen av kalenderår nr. J. For et tilfeldig valgt
+skadeforsikringsselskap, f.eks. selskap nr. i, innføres
+
+LS ., samlede framtidige erstatningsutbetalinger for egen regning til IBNS-skader,
+Li”
+
+Ly i samlede framtidige erstatningsutbetalinger for egen regning til CBNI-skader.
+
+(Toppskriften c markerer at vi betrakter cedentens andel av de samlede erstatningsbeløp.)
+De framtidige erstatningsutbetalinger til hhv. IBNS-skader og CBNI-skader kan dekom—
+poneres på de (la oss si H) bransjer som selskapet opererer innenfor. Dette gir
+H
+
+Erstatningsutbetalingene til IBNS-skadene kan dekomponeres videre på hver skadeårgang
+
+som ikke er ferdig avviklet (oppgjort). Lar vi antall avviklingsår i bransje nr. h være E>
+gir dette
+
+Li.Lhi 7= =5
+
+j=J-E, +1
+J
+
+E,
+
+p
+
+= %
+
+j=J-E, +1 e=3—j+1
+h
+
+(2.a)
+
+L:L,hij
+Ba 2
+"*
+
+(2.b)
+
+
+
+33
+
+I likning (2.a) betegner Ly ni; de gjenstående IBNS-utbetalinger for skadeårgang nr.j.
+
+I likning (2.b) har vi videre tar størrelsen Sihije 80M står for samlet erstatningsbeløp
+
+for egen regning utbetalti år nr. j+e for skadetilfeller inntruffeti år nr. j. Vi har opplagt
+at samlet erstatningsbelgp for skadetilfeller inntruffeti skadeårgang nr. j er gitt ved
+
+(3)
+
+gebie”
+gthij = eg
+
+I de enkelte skadeforsikringsbransjer settes minstekravene til erstatnings— og premieavset—
+
+ninger lik de tilsvarende ansvarsstørrelser. Med de anvendte risikoteoretiske modeller vil
+
+erstatningsansvaret være lik den approksimerte aposterioriforventningen til de gjenstående
+
+IBNS-utbetalinger, der approksimeringen er basert på prediksjonsbasisen Pi (jf. neden—
+for). For selskap nr. i og bransje nr. h gir dette, idet vi anvender notasjonen M (X) for
+det s—te ordens (sentrale) momentet til en stokastisk variabel X,
+
+phi,l = M (Li1,hi 174) >
+
+h=1,..., H.
+
+(4)
+
+Premieansvaret vil derimot være gitt ved den ubetingede forventningen til de gjenstående
+CBNI-utbetalingene, dvs.
+
+“hip = MLahi)*
+
+h=1,..., H.
+
+(5)
+
+Det samlede minstekravet til hhv. erstatnings— og premieavsetningen er selvfølgelig lik
+summen av de tilsvarende minstekravene for de enkelte bransjer, jf. likning (1).
+
+Minstekravet til sikkerhetsavsetningene settes på tilsvarende måte lik sikkerhetsansvaret
+(u.ifp der sikkerhetsansvaret approksimeres vedå anvende den såkalte NP—metoden.
+
+Dette gir
+
+a
+
+=
+
+H
+
+Te
+| I {MoE
+al FM An] tå
+1
+
+= ep 2 {5 ($ 5,17) + My(L5 .)|/ KAN + M,(L, ad] (6)
+H
+
+h=1
+
+I likning (6) er €, = 2) 99 08 Cy = (ci-1) /6, der Z) 99 99. pst. fraktilen i standard nor—
+malfordeling. Videre har vi ved beregningen av sikkerhetsansvaret forutsatt uavhengighet
+mellom stgrrelser som relateres til ulike skadeforsikringsbransjer og at det kun skal bereg—
+nes et felles sikkerhetsansvar for alle bransjer. Ulike praktiske hensyn tilsier imidlertid at
+det kan bli aktuelt å foreta separate beregninger av sikkerhetsansvaret for noen hoved—
+
+grupper av bransjer. Dette vil i tilfelle medføre et noe høyere minstekrav til sikkerhetsav—
+setningene.
+
+For å få beregnet minstekravene til de enkelte avsetningskomponentene må vi kunne utlede
+
+uttrykk for de tre første (ubetingede og/eller betingede) momentene til de samlede erstat—
+ningsbeløp som inngår i likningene (1)(3). Nedenfor skisseres kort et par av de utform—
+
+ingene av momentstrukturen som Kredittilsynet har anvendt i forbindelse med det foreligg—
+
+ende regelverket.
+
+
+
+Det forutsettes at skadefrekvensen (intensiteten for inntreffelse av skader) kan fluktuere fra
+skadeårgang til skadeårgang. Den modelleres derfor som en stokastisk parameter for hver
+bransje og skadeårgang, dvs.
+
+(7)
+
+84; = %Q;» der M,(Q,,) = 1-
+
+Videre antas det at sannsynligheten for at et erstatningsbeløp utbetales f.eks. e år etter at
+skadetilfellet inntreffer, kan fluktuere mellom skadeårgangene. Følgelig må også disse sann—
+synlighetene modelleres som stokastiske parametre. Summen av de stokastiske avviklings—
+sannsynlighetene må av opplagte grunner være lik 1, dvs.
+
+Il, 9 -
+
++ TE, = 1.
+
+(8)
+
+Når det gjelder erstatningsbeløpet knyttet til det enkelte skadetilfellet antas det at dette
+utbetales gjennom en engangsutbetaling. Hvis det i tillegg gjøres noen rimelige forutset—
+ninger om fordelingen til antall skadetilfeller og fordelingen til enkelterstatningsbeløpene,
+leder dette til at det samlede erstatningsbeløp utbetalt i år nr. j+e for skadetilfeller inn—
+truffet i år nr. j er generert av en sammensatt Poissonfordeling betinget gitt Q; og I;
+Dette medfører igjen at de betingede momentene til disse totalerstatningsbeløpene er gitt
+ved
+—
+2,3.
+s=1,
+
+c
+Ui I) =~ Phi nen hi) Cn nie ’
+MShijel
+
+(9)
+
+I likning (9) er Phij et mål på selskapets eksponeringsvolum for bransje nr. h og skade—
+årgang nr. j. Videre er B, h forventet bruttoerstatningsbelgp pr. risikoeksponeringsenhet,
+mens momentfaktorene av s—te orden er gitt ved
+
+Xeni) = nil Ga
+
+s=1,2,3,
+
+(10.2)
+
+$= 1, 2,3,
+
+(10.b)
+
+der
+
+Flo) = [F6,(dz0,,))
+
+G, (: Gui.) er fordelingsfunksjonen til enkelterstatningsbeløpene og Gi; parametre som
+
+kralteriserer selskapets reassuranseavdekningi den aktuelle bransje og skadeårgang.
+Spesielt er Oy , forventet brutto erstatningsbelgp pr. skadetilfelle.
+
+Ved å spesilere momentene til de stokastiske parametrene Qh og i; kan eksplisitte
+e til
+
+uttrykk for ansvarsstørrelsene definert ved (4)6) utledes. De ubetingede momenten
+
+CBNI-utbetalingene finnes lett ved hjelp av (9) ved å erstatte eksponeringsvolumet Pyij
+
+med det uavløpte eksponeringsvolumet ved utgangen av skadeårgang ur. J.
+
+Utledningen av de approksimerte momentene til IBNS-utbetalingene er i den skisserte
+modellen basert på kredibilitetsmetoder, der prediksjonsbasisen velges slik at
+P=
+hi
+
+og
+
+J
+
+U
+
+(Shø Sn js-j)
+,
+der 7... =
+P.
+
+jsJ-E, 41 hij
+
+hij
+
+7Å
+
+(11.a)
+
+
+
+35
+
+I
+
+£=Dy sm It:
+
+Sag = © Shi
+l=
+
+(11.b) .
+
+(Prediksjonsbasisen er mao. lik for alle skadeselskap.)
+
+Et eksplisitt uttrykk for f.eks. den approksimerte aposterioriforventningen til Li hij ut—
+ledes ved å benytte at
+
+ML pi] Phij) = M,(L; pi) + MÅL pip Pai Mori) gj Mihij)) '
+—1
+
+c
+
+c
+
+c
+
+V
+
+(12)
+
+Det kan da vises at
+
+pil Phi) = Um 5 Pair an Ghilnj
+Mi(L;
+p
+
+-
+
+a
+
+(13)
+
+der
+
+frst = Mjød = ay
+255
+
+©
+
+a
+
+je
+
+gå
+
+mens hj er kredibilitetsestimatoren til Ej Th 5 > Qnj/ Th Ij
+En detaljert utledning av bade de approksimerte aposteriorimomentene til gjenstående
+IBNS-utbetalinger samt de ubetingede momentene til CBNI—utbetalingene er forøvrig gitt
+i Kristiansen (19912).
+
+I praksis vil man (av ulike grunner) være tvunget til å anvende inflasjonsjustert, opptjent
+bruttopremie som et mål på risikoeksponeringen. Siden både tidspunktene for og størr—
+
+elsene på premieendringene generelt vil variere fra selskap til selskap, bør dette også gjen—
+speiles i modellforutsetningene. En mulig framgangsmåte for å få tatt hensyn til dette er
+å innføre egne latente variable som avhenger av både skadeselskap og skadeårgang. Disse
+variable forutsettes da å fange opp forskjeller i selskapenes premiepolitikk. Momentstruk—
+turen (9) må i dette tilfellet erstattes av
+
+M Shijel Anij Qu I;) = {PpiP1 as n (hi)! {Anis + Qe:
+c
+
+—
+
+(13)
+
+Gitt noen rimelige forutsetninger om de latente variable, vil de ubetingede momentene til
+totalerstatningsbeløpene fortsatt være gitt ved rimelig enkle uttrykk. Utledningen av den
+
+approksimerte aposteriorforventningen — og ikke minst aposteriorivariansen — til de gjen—
+stående IBNS—utbetalingene vil imidlertid bli betydelig mer komplisert. For detaljer i ut—
+ledningen vises det igjen til Kristiansen (1991a).
+
+Utarbeidingen av praktisk anvendbare risikoteoretiske metoder for beregning av minste—
+kravene til de enkelte avsetningskomponentene krever også at det formuleres hensikts—
+
+messige løsninger på bl.a. følgende problemstillinger:
+
+— modelleringen av skadeforsikringsselskapene reassuranseavdekning, det vil i praksis si
+
+noen rimelige approksimeringer av (de tildels kompliserte) reassuranseprogrammene, 0g
+
+— valg av metoder for estimering av modellenes parametre.
+
+En forholdvis detaljert drøfting av disse problemstillingene er gitt i Kristiansen (1991a).
+
+
+
+36
+
+Når det gjelder oversikt over faktiske estimeringsresultater samt utprøving av de dokumen—
+terte modeller og beregningsmetoder vises det til Kristiansen (1991b).
+Referanser:
+
+Kristiansen, Arild (1991a) "Modeller og metoder for beregning av det forsikringstekniske
+ansvaret og dets komponenter. Teoretisk del." Dokumentasjonsnotat, Kredittilsynet.
+Kristiansen, Arild (1991b) "Modeller og metoder for beregning av det forsikringstekniske
+
+ansvaret og dets komponenter. Empirisk del." Dokumentasjonsnotat, Kredittilsynet.
+
+Syndikater og prising under usikkerhet
+Knut K. Aase
+
+Norges Handelshøyskole
+
+Forord: Foredraget mitt på Jeløya er gjengitt nedenfor. Dette er Kapittel 2 av en artikkel ([1])
+(derav ligningsnummereringen), og består i hovedsak av min egen framstilling av den klassiske
+likevektsteorien til Karl Borch. Kort fortalt handler denne teorien om prising av stokastiske
+variabler i økonomisk likevekt, og burde derfor være av stor interesse for statistikere/aktuarer.
+I Introduction
+
+The following model is interpreted as a reinsurance syndicate, in which I insurers trade among
+themselves. We take as given
+
+(a) The preference of insurer ie /={1,2,...,1}, >;, represented by expected utility E{uj(-)},
+where u; > 0 and u; <0.
+
+(b) The initial net reserve of insurer i, represented by the random variable x;, i €/.
+
+We assume that each x, € LY(Q, F,P), where (Q,F,P) is the probability space on which all the
+x; 's are defined, all the insurers agree on the probability measure P (homogeneous beliefs), and
+
+the events F on which P is defined are generated by the I net reserves, which we sometimes
+call the initial portfolios, i.e. F=o{x1,x2,...,.x1}. This means that the uncertainty in the model is
+totally described by the initial portfolios x;, i € 1. We briefly comment on the realism of
+homogeneous beliefs in reinsurance:
+
+The assumption about homogeneous beliefs appears reasonable for a reinsurance market,
+where trade is supposed to take place under conditions of wnberrimae fidei, and no information
+
+is supposed to be hidden. Our pricing results for a reinsurance market are likely to influence
+premiums in the market for direct insurance as well. In the direct market the assumption about
+homogeneous beliefs seems more unrealistic. It is likely that the buyers of insurance have more
+
+information about the risks they try to cover, than the insurers. This asymmetric information
+gives rise to adverse selection. In addition, the buyers can directly or indirectly influence events
+
+so that the probability distributions of the risks are altered. This can happen since the insurer is
+usually unable to monitor the insured, and the phenomenon gives rise to moral hazard.
+
+
+
+37
+
+Whereas the problem of moral hazard does not seem important in a reinsurance market, the
+problem of adverse selection may occur since the ceding company usually has more detailed
+information about the risks they underwrite than the reinsurers. It may of course be tempting
+for some direct insurer to sell some "bad risks” in the reinsurance market. In the long run this
+
+"practice" is not likely to pay off, since the reinsurance industry makes heavy use of a detailed
+rating system for insurance companies (i.e Insurance Solvency International), and there exist
+penalties for such actions.
+
+In the market these I insurers exchange parts of their initial portfolios among themselves. As a
+result of these exchanges insurer i obtains a final portfolio, represented by the random variable
+yi(X1,X2,....Xp- Market clearing requires that
+
+(2.1)
+
+Ly, =Xx="X%
+
+ie!
+
+Pas,
+
+ie!
+
+since the insurers only trade among themselves, where xm represents the "market portfolio”.
+The premium functional we denote by n(-). In order to prevent arbitrage possibilities this
+
+must be a linear functional on L’(Q,F,P). As an illustration of this point, assume on the
+contrary that 1(y1+y2)>m(y1)+"(y2) for two risks y; and ya. Then one agent could insure the
+bundle (y1+y2) and reinsure separately y and ya. The cash flow at time zero equals (7(y1+y2)T(y1)-7(y2))>0. The cash flow at time one equals -(y1+y2)+y1+y2=0. This agent has no
+obligations at time one, so he has madea riskless profit at time zero. This is a money pump, or
+a "free lunch", which is inconsistent with an economic equilibrium.
+
+By the Riesz’ representation theorem there exists some function U’e L?(Q,F,P) such that
+(2.2)
+
+(x) = E{xU’},
+
+Vx ELYQ,F,P).
+
+Since F=6{x1,X2,...,X1}, it follows from measure theory that U"=U (x1,x2,-...X]) is some
+
+Borel-measurable function of (x;,X3,...,X1) (see e.g. Tucker (1967)). The statement in (2.2)
+means, in economic terms, that the market is complete in the sense that it will assign a unique
+
+value m(x) to an arbitrary random variable x € L?(Q,F,P) (Borch (1962)).
+2 Borch’s Theorem
+
+The economic theory of pricing of contingent claims started with Arrow’s paper in (1953).
+Borch (1960-62-68) developed these ideas further, and below we present the elements of his
+theory.
+
+Agent i’s problem is to solve
+
+(2.3)
+
+max, E{u,(¥;(%1.X29"""+%1))}
+
+y, (BE
+
+such that the budget constraint
+
+iel
+
+(2.4)
+
+TM(y;) = TX; ),
+
+(2.5)
+
+L(y,34,) = E{u,(y,(%,,X25"**)X;)) -A ly; -—x,)U’}.
+
+holds. Forming the Lagrangian of this problem, agent i has to find the saddle point of
+
+Because of the concavity of the Bernoulli utility functions uj, the necessary and sufficient
+conditions for optimality are given by the Euler equations
+
+(2.6)
+
+ui(y; O5,5X25** Xp) = AU" Xs" Xp),
+
+ie T, P-as..
+
+
+
+38
+
+'s marginal utility
+The economic interpretation of U’(x1,x2,...,x1) is that it represents the market
+at x. We may also think of U’ in terms of the marginal utility function of a representative agent,
+or, of a central planner. A final interpretation in terms of the shadow price per unit of Pprobability when x(@)=x, is also possible.
+Some immediate consequences of (2.6) are:
+
+(i)
+
+OU’ (x,,X95°°°X1)
+>
+=
+
+1
+
+|
+
+x ur(y,(x))
+
+%
+
+:
+
+iel, P-as..
+
+This follows from differentiating (2.6). Since the right-hand side above does not depend on i,
+it follows directly that
+
+U’(x,,X5,°°*,X;) = U’(xy),
+
+(2.7)
+
+P-a.s.,
+
+so that only changes in the market portfolio xy affects U”. Similarly
+
+OY; (X1sX25"""Xy) S
+
+(ii)
+
+Ox.j
+
+Å;
+
+Å,
+6
+Y———
+
+ije/, P-a.s.,
+
+which again follows from (2.6). We notice that the right-hand side above does not depend
+upon j. This means that the total derivative
+dy; (x) =
+
+AL = 2) dx,,, for any j,k € I, and for allie I, P-a.s.,
+Ox,J
+
+Ox,
+
+so that only changes in the aggregate portfolio xy affects the optimal final portfolios yj, i.e.
+(2.8)
+
+Y;(X1,Xo5°°*,X_)= ¥,(Xy),
+
+iel, P-as..
+
+A consequence of this is that the syndicate members can hand in all their initial portfolios to a
+
+pool, and let the pool’s clerk distribute parts of xm back to the syndicate’s members according
+to the optimal sharing rules y;(xm).
+
+3 Pareto optimality
+
+There exist alternative derivations of Borch’s theorem. It is well known that Pareto optimal
+sharing rules are found by solving (Wilson (1968))
+
+(2.9)
+
+max El 0 (9,00)
+
+y (x)eL?
+
+such that
+
+Ly (x) = Lx, =xy, P-a.s,
+
+ie/
+
+ie]
+
+where kj,k2,...,.Kr are arbitrary constants. In two dimensions there is a nice graphical
+illustration of this point. The Lagrangian of problem (2.9) is
+
+(2.10)
+
+Sly,
+Yoo
+¥r5A(X)} = E{Eku(y, (x)) = AM) LY, = xh
+
+where the Lagrangian multiplier A(-) is now a Borel-measurable function, so that A=A(x) is an
+F-measurable random variable.The first order necessary and sufficient conditions for an
+optimum are again given by the Euler equations
+
+(2.11)
+
+k,u;(y,(x))
+
+=A(x),
+
+iel,P-as.,
+
+which is seen to be equivalent to (2.6) after identifying U“(x) with A(x) and k; with 4;'. This
+explains the shadow price interpretation of the function U”. We notice from this that Borch’s
+theorem gives the necessary and sufficient condition for the final portfolios y;(xm) to be Pareto
+
+
+
+39
+
+optimal allocations. Finally we notice that the formulation (2.3) and (2.4) implies that the
+solutions y;(xm), i € 7, must also satisfy individual rationality, since clearly the solution
+yi(xm)=X; is possible, where x; is square integrable and obviously satisfies (2.4).
+
+4 Syndicate vs. corporation
+
+One could now ask the question whether the syndicate would be better off by forming a
+corporate company with the members as stockholders. For this to be rational the Pareto optimal
+sharing rules y;(xm) must be linear in xy. This is so since a corporation pays its shareholders
+
+dividends per share, i.e. in proportions to ownership. Sharing rules are linear when the
+individual utility functions are members of the class of HARA-utility functions. Two examples
+are:
+
+1, Exponential utility.
+Example
+
+Here u;(x;) = exp(-=x; /a;), @,>0, ie/.
+Borch’s theorem gives
+
+k,u;(y,(x4)) = U’(xy), iel,
+
+P-as.,
+
+which leads directly to
+
+(2.12)
+
+Utg mem Kl, where K = Ya, Ink,.
+ies OG
+
+iel
+
+Notice how the marginal utility of the market depends upon the parameters a; from the
+individual preferences, and the positive constants kj. The latter can finally be determined from
+
+the budget constraints (2.4), which in its turn require a full specification of the joint probability
+distribution of x=(x1,X2,-->XI)
+
+We also notice that the optimal sharing rules are given by
+
+(2.13)
+
+Y¥i(Xy)=
+
+jel)
+
+vu [ink 0
+
+jer
+OG
+
+}
+
+iel, P-a.s.,
+
+which verifies that the sharing rules are linear in xm.
+Example 2. Logarithmic utility.
+
+Here u,(x,) = In(B, +04x;), where (B; +a,x;)>0 P-a.s., a; >0.
+The individual marginal utilities are given by
+Qa.
+Ws
+
+u;(x;) =
+
+.
+ijeé/, P-as.,
+
+B, +x,
+and the absolute risk aversion and the relative risk aversion are both increasing with net reserve
+levels. Borch’s theorem gives
+
+(2.14)
+
+k.a:
+
+—— ii
+
+Bi + ay; (xy)
+
+iel, P-as.,
+
+=U(x,),
+
+M
+
+which leads to
+
+(2.15)
+
+U'(y)=—Z=k —, P-as.,
+Lier
+/B, + Xm
+
+and linear sharing rules
+
+(2.16)
+
+y(Xy)
+
+See år gå a,
+=
+
+k;
+
+xy +
+
+kb BT:
+i y—-—}| iel, P-as..
+
+Finally the positive constants k; must be determined from the budget constraints.
+
+
+
+40
+
+5 Risk tolerance
+
+Further consequences of Borch’s theorem are:
+
+(2.17)
+
+ur (y;(X4))¥; Cay) = U"(xy)
+ie
+u;(y;(X4))
+
+iel,
+
+P-as.,
+
+which follows from differentiating (2.6). (2.17) can alternatively be written
+(2.18)
+
+yi(Xy) =
+
+1
+
+R(xy)
+
+R;(y; Cm)
+
+iel,
+
+a
+
+P-as.,
+
+where R=-"", and R, =-%
+U
+
+u:
+
+stand for absolute risk aversion. Since XierYi(Xm) = 1, we see that
+(2.19)
+
+a= yt
+
+R(Xy)
+
+ie R,(y;(Xy))
+
+P-a.s..
+
+The quantity 1/R is called the risk tolerance. Thus (2.19) says that in a Pareto optimum the risk
+
+tolerance of the market as a whole is equal to the sum of the risk tolerances of the participants.
+If one member is risk neutral, his risk tolerance will be infinite, and hence that of the market.
+This may be interpreted as saying that in a Pareto optimum all risk should be carried by the risk
+neutral participants. We can also easily derive the following
+(2.20)
+
+dy; (Xu) _
+
+Ry)
+
+OXy 7 R;(y;Cx))
+
+iel, P-as..
+
+If all the syndicate’s members are strictly risk averse, then R;>0, and R>0 follows from
+(2.19), so that y;(Xy) > 0 P-a.s.. This means that as the market portfolio increases, all the
+insurers increase their net reserves in å Pareto optimum.
+6 Risk adjustment of the probability measure
+
+The premium functional x can alternatively be represented by a risk adjusted probability
+measure as follows. Suppose there exists a riskless security xo in the economy, and assume
+without loss of generality that xo(M) = 1 P-a.s.. We can then normalize such that
+
+E(U'(xm))=1. Suppose that P[U (xm)>0]=1. Define a new measure P* as follows:
+
+(2.21)
+
+P*(A)= [U"(xy(@))dP(@).
+
+Clearly P*(Q)=1 from our normalization assumption. Also it follows from integration theory
+
+that P*(-) is countably additive, confirming that P* is a probability measure. Finally P* and P
+
+are mutually absolutely continuous with respect to each other, meaning that if P(B)=0 then
+P*(B)=0 and if P*(A)=0 then P(A)=0 for any A,B €F. Using P* we can express the premium
+as follows
+
+(2.22)
+
+T(x) = E(U’(x,)x) = J U’ (xy,(@))x(@)dP(@) = fx(m)dP"(a) =E"(x),
+
+where E* refers to the expectation operator under P*. The interpretation is that the market
+premiums can be computed using an altered probability measure P* corresponding to a world
+
+of market risk neutrality. We call P* the risk adjusted probability measure. Notice from (2.21)
+that the market’s marginal utility U“(xm) corresponds to the Radon-Nikodym derivative of P*
+with respect to P, i.e.
+dP*
+
+(2.23)
+
+U'(tu)="7-
+
+This type of construction is of considerable importance in the time-continuous case (see [1]).
+
+
+
+41
+
+7 Insurance premiums
+
+The foregoing has been formulated in terms of portfolios and market values of net reserves. To
+
+obtain market premiums of insurance contracts, we note that the net reserves of insurer i
+consist of assets a; and of liabilities under the insurance contracts held by the insurer. Let the
+non-negative random variable z;(@) represent claim payments under the contracts if the state of
+the world becomes we Q, ie I. Let the events be completely specified by F=0(z},Z2, ... .21),
+so that the assets a; are riskless, and write
+(2.24)
+
+xXj=a; - Z, lel.
+
+Now we have that
+
+(2.25)
+
+n(X;) = a, —1(z,) = a, - E{U’
+(ay — Zy)Z
+
+where am=3 aj and zy=2 z;. We define the marker's dis-utility of claim payments by the
+function V, where
+
+(2.26)
+
+(am - zM).
+V(zu)=U
+
+Clearly V (zu)=-U"(am - zm)>0 because of assumption (a) and (2.19). Formula (2.25) simply
+says that the market value of the insurer’s portfolio is equal to his riskless assets less the
+market premium for insurance of the liabilities. This formula makes it easy to translate results
+
+expressed in terms of net reserve values into insurance premiums. Notice in particular that if
+for some portfolio x; 1(x;)<E(x;), we get from (2.25) that the corresponding insurance
+premium satisfies %(z;)>E(z;), so that the risk premium {n(z;) - E(z;)) of this insurance
+
+contract is positive. After normalization, we find in general that the risk premium can be written
+as follows
+
+(2.27)
+
+n(z,)— E(z;) = cov{z;, V(zy)},
+
+iel.
+
+Since the marginal dis-utility of the market increases as the aggregate claims in the market
+increase, from (2.27) we may be tempted to believe that for claims which are positively
+correlated with zm, the risk premium is positive, and for claims which are negatively correlated
+
+with zm, the risk premium is negative. Both these cases make perfectly sense in a rational
+reinsurance market with risk averse insurers. However, there exist joint distributions for
+Z=(Z},Z2,...,2]) under which this result may not hold true. Covariances are measures of linear
+
+statistical dependance, and can only be considered as a good measure of "stochastic
+association” under multinormality. In insurance an assumption of jointly normally distributed
+claims is usually not very realistic. Among other things can claims only take on non-negative
+values. We are therefore reluctant to use the nice results obtainable from an assumption of
+multinormality in insurance. Here we cite Harald Cramér (1930) who wrote: "... in many cases
+
+the approximation obtained by using the normal function is not sufficiently good to justify the
+conclusions that have been drawn in this way".
+
+From the above we observe that the premiums in a reinsurance market typically must depend
+on:
+
+(i) The stochastic properties of the risk itself.
+
+(ii) The stochastic relationship between the particular risk z and claims in the market as a
+whole, described by the covariance between V(z) and z.
+
+(iii) The attitude towards risk in the market as a whole, represented by V.
+(iv) The total assets of all the insurers in the market, represented by am.
+
+
+
+42
+
+Å realistic theory of insurance premiums must of course take all these four elements into
+account. This is however rarely done in actuarial risk theory. Several books have been written
+on insurance premium principles, some even recent, where only the first of these four elements
+
+are covered.
+
+References
+[1] Aase, Knut K. (1991a). Premiums in a Dynamic Model of a Reinsurance Market. Working
+Paper No. 2, Institute of Finance and Management Science, Norwegian School of Economics
+and Business Administration, Bergen.
+
+[2] Aase, Knut K. (1991b). Dynamic Equilibrium and the structure of Premiums in a
+
+Reinsurance Market. Working Paper No. 4, Institute of Finance and Management Science,
+Norweg. School of Econ. and Busin. Admin., Bergen.
+
+[3] Aase, Knut K. (1988). Contingent claims valuation when the security price is a
+combination of an Ito process and a random point process. Stochastic Processes and their
+Applications 28, 185-220.
+
+[4] Aase, Knut K. (1990). Stochastic equilibrium and premiums in insurance. In: Approche
+Actuarielle des Risques Financiers, 1et Colloque International AFIR-Paris 59-79.
+
+[5] Arrow, K.J. (1953). Le role des valeurs boursiers pour la répartition la meilleure des
+risques. Colloques Internationaux du CNRS, XL, Paris 41-88.
+
+[6] Borch, K.H. (1960). The safety loading of reinsurance premiums. Skandinavisk
+Aktuarietidsskrift 163-184.
+
+[7] Borch, K.H. (1962). Equilibrium in a reinsurance market. Econometrica 30, 424-444.
+[8] Borch, K.H. (1967). The theory of risk. Journ. of the Royal Statist. Soc., B 29, 432-452.
+
+[9] Borch, K.H. (1968). General equilibrium in the economics of uncertainty. In: Risk and
+Uncertainty, Borch and Mossin (Eds.) London: Macmillan.
+
+[10] Borch, K.H. (1990). Economics of Insurance. Editors: Knut K. Aase and Agnar
+Sandmo. Advanced Textbooks in Economics Series, North Holland; Amsterdam, New York,
+Oxford, Tokyo.
+
+[10] Cramér, H. (1930). On the mathematical theory of risk. Skandia Jubilee Volume.
+Stockholm.
+
+[11] Tucker, H.G. (1967). A graduate course in probability. Academic Press, New York and
+London.
+
+[12] Wilson, R. (1968). The theory of syndicates. Econometrica 36, 119-131.
+
+Kvalitet og statistikk
+Jostein Lillestøl
+Norges Handelshgyskole
+
+Kvalitet - ordet brukes i dagligtale, i reklame, i omtale av produkter og
+tjenester. Hva har det med statistikk å gjøre ? Som konsumenter er selv
+statistikere opptatt av kvalitet, men behøver vi bry oss som fagfolk.
+
+Moderne kvalitetsteknologi har flere viktige statistiske komponenter, både
+
+på det ideologiske plan og det metodiske plan. På det ideologiske plan dreier
+det seg bl.a. om forståelse av ulike typer variasjon, og hva som er fornuftige
+
+reaksjonsmåter på avvik. På det metodiske plan dreier det seg bl.a. om å
+sette et knippe av enkle dataanalysemetodeir system, slik at de kan bli tatt
+i bruk av alle i en organisasjon, uansett teoretisk bakgrunn.
+
+
+
+43
+
+Foredraget tok for seg deler av idégrunnlaget for kvalitetsstyring av spe-
+
+siell interesse for statistikere, i hovedsak knyttet til metode for kvalitets-
+
+forbedring og konsekvenser for ledelse. Avslutningsvis ble det stilt spørsmål
+
+om det budskapet vi statistikere idag formidler i innføringskurser er i samsvar
+med behovet, og om vi ikke alt for lenge har oversett de som ønsker å bruke
+statistikk i sin arbeidssituasjon, dvs. voksenopplæring, som, i den utstrekning slik finnes, ofte er svært lik det vi tilbyr våre regulære studenter. Det
+
+ble spesielt pekt på den dominerende fokus på inferensproblematikk, mens
+systematikk for avdekking av problemer, identifisering av mulige årsaker og
+planlegging av endringer er utenfor interessefeltet. Man kan hevde at dette
+må komme i senere kurs, men problemet er at dette er den eneste sjansen
+
+vi har til å møte flertallet av studentene, og hva bør da prioriteres?
+
+Preferansefunksjoner og inferens
+Helge Blaker
+Norges Tekniske Høgskole
+
+1. Motivasjon
+Standard teori for konfidensintervaller og tester henger nøye sammen. Det er noen ”kjedeligheter”
+i teorien som det viser seg å være fruktbart å studere via preferansefunksjoner. Jeg ønsker å se
+på problemstillinger av typen:
+e Hva bør være vårt krav til et ordningsrett (”unbiased”) konfidensintervall?
+
+e Hvordan kan man unngå urimelige konfidensintervaller, dvs. tomme intervaller med positiv
+dekningsgrad 1 — a, uendelige konfidensintervaller med dekningsgrad under 1 og intervaller
+som inneholder umulige parameterverdier. Alle disse mulighetene kan oppstå i visse situasjoner.
+e Tester med urimelige forkastningsområder. I Chernoff (1951) er det gitt et eksempel på en
+
+test der forkastningsområdet ikke øker med signifikansnivået, dvs. data kan være signifikant
+
+på 1% nivå. men ikke på 5%.
+
+2. Innledning
+Anta dataene er observerte verdier av en stokastisk variabel X med kjent tetthet fx(x;0). På
+grunnlag av de observerte z’er vil vi trekke konklusjoner om 0. Dette gjøres gjerne ved å presentere
+punktestimater, konfidensintervaller og utfallet av visse tester. Man kan reise innvendinger mot
+
+disse måtene å presentere dataene på. Konfidensintervaller setter alle verdier innenfor intervallet
+på like fot og skarpt adskilt fra de utenforliggende verdier. Likevel er det er klart at verdier rundt
+intervallgrensene er omtrent like gode eller dårlige uansett om de er innenfor eller utenfor. For å gi
+
+en kontinuerlig representasjon av vår kunnskap om Ø, introduserer vi begrepet preferansefunksjon.
+Hensikten med en preferansefunksjon er å ordne alle parameterverdier etter hvor rimelige de eri lys
+av observasjonene. Eksempler på slike funksjoner er likelihoodfunksjonen og aposterioritettheten. I
+
+Spjøtvoll (1983) introduseres en ny preferansefunksjon. godtagbarhetsfunksjonen (the acceptability
+function), som er nærmere knyttet til standard inferensmetoder enn f.eks. likelihoodfunksjonen.
+
+
+
+44
+
+3. Preferansefunksjoner
+Definisjon 1 En funksjon som til hver observasjon z assosierer en reell funksjon på parameterrommet 2, kalles en preferansefunksjon. Vi skriver 7(Ø;x) for verdien i Ø av funksjonen på 2 for
+observert z.
+
+Med denne definisjonen kan f.eks. et konfidensintervall representeres som 7(0; z) = 1 for innenfor
+intervallet og 7(0;z) = 0 for @ utenfor. Videre vil P-verdien i en test H : 0 = 09 definere en
+preferansefunksjon
+
+7(Ø9;2) = inf{z € wa}
+a
+
+der w er forkastningsomradet. En preferansefunksjon ordner parameterverdiene slik at 6; er bedre
+
+enn 62 hvis 7(61;z) > 7(02; 2).
+
+Eksempel 1 La X,..., Xn uif N(u, 03), der of er kjent. P-verdien i den styrkerette testen for
+po
+=
+mot K : pF
+po
+H:p
+
+— pol/n/oo). Tegnet som en funksjon
+er t(o;2) = 2min[P,.(X > F,Pyo(X < =)] = 26(-|3
+
+av plo for observert = har denne et maksimum for po = = slik at 3 er den p-verdi som er mest
+akseptabel. Kurven vil være konfidensintervallene for ø på alle nivåer, som foreslått i Birnbaum
+(1961).
+
+4. Godtagbarhet
+Godtagbarhetsfunksjonen er definert på følgende måte: Anta X er en stokastisk variabel med
+tetthet f(x;0) avhengig av en parameter Ø.
+
+1. P-verdieni sterkest test for Å : 9 = 09 mot K :0=6, er
+
+7(90, 0132) = PoolF(X;01)/F(X;00) > F(2z;01)/F(2z; 00)].
+Hvis y(00,01;2) < y(01,00;2) er 0, å foretrekke, siden den motsies minst av z.
+
+2. Hvis det finnes en verdi 6 som alltid er å foretrekke, dvs. v(0,6;zx) < 7(6, 8; z) for alle 6,
+
+så er Å mest akseptabel og brukes som referanseverdi. Imidlertid kan referanseverdier også
+velges på andre måter. Størrelsen 7(0,0;x) kalles enkel godtagbarhet for Ø relativt til 6.
+
+3. For å justere for det forhold at 6(z) velges etter at dataene er observert, defineres godtagbarheten til Å som
+
+i
+
+.
+
+a(0;2) = Polr(0,0(X);
+X) < 7(8,6(z); 2)]
+I eksempel 1 vil a(u;2) = 7(p;7).
+
+Mer generelt kan det vises at i kontinuerlige en-parameter
+
+eksponensielle familier
+
+C(Ø)H(z)e?(OTEE)
+
+er mest akseptabel verdi gitt som den 6 der P;(T<t)= = og godtagbarheten av Ø blir
+a(0;7) = 2min[P,(T > t), Pe(T < t)],
+dvs.
+
+P-verdien i den ”likehalede” testen for H : 9 = 99 mot K : 6
+
+09. For ikke-symmetriske
+
+fordelinger gir dette dermed en annen ordning av parameterverdiene enn preferansefunksjonen
+
+basert pa den sterkeste styrkerette test.
+Det er flere fordeler med godtagbarhetsfunksjonen a(6:z). Umulige parameterverdier ekskluderes
+
+automatisk, siden 7(09,01;2) = 0 og y(01,09;x) = 1 hvis f(z;09) = 0. Videre kan konfidensintervaller og tester kan lages direkte siden
+
+S(X) = (0: a(Ø;
+X) > a}
+er et 1 — a-konfidensintervall for
+
+og testen som forkaster når a(Ø9; X) < a er en a-nivå -test for
+
+H:0= 6. For fordelinger med monoton sannsynlighetskvote vil a(6;z) alltid være ordningsrett,
+hvilket betyr at sannsynligheten for en riktig klassifisering av parameterverdiene alltid er større
+eller lik sannsynligheten for gal klassifisering. Dette kan skrives som
+
+Po[a(@; X) > a(0'; X)] > Pofa(8";
+X) > a(6; X)]
+
+
+
+45
+
+Spesielt er da sannsynligheten for riktig klassifisering da større eller lik 1/2.
+Tester evalueres vanligvis ved styrkefunksjonen, og en tosidig test sies å være ordningsrett hvis
+styrkefunksjonen har minimum i H. Vanligvis lager man konfidensintervaller ved å snu den
+
+styrkerette testen. For konfidensintervaller synes det imidlertid mer naturlig å bruke en ordningsrett prosedyre, siden vi her er interessert i å klassifisere parameterverdier. Neste eksempel
+
+illustrerer disse ideene.
+
+Eksempel 2 La Xj,...,
+
+Xn være uavhengige og invers Gaussfordelte IG(ø, Ao) der Ao er kjent.
+_
+
+_
+
+Det kan her vises at
+
+a(p; 2) = 2min[P,(X > z, P(X <=)]
+
+mens P-verdien i sterkeste styrkerette test er
+
+7(p;z)= 2 (- 225-1) .
+Disse funksjonene er plottet for = = 1,n = 5 og Ag = 1.
+1
+
+0.84
+
+0.2+
+
+3
+
+8
+,
+
+6
+Å
+
+1
+
+0
+
+2
+
+Figur 1. a(y;
+2) og 7(p;2)
+Vi ser at konfidensintervallene basert på a(0;z) vil bli lengst. Derimot viser det seg at 7(0;z) ikke
+er ordningsrett. Det lar seg vise at P,[m(u;
+X) > 7(u'; X)] og Pu[a(u; X) > a(u'; X)] blir som på
+figur 2 (tegnet for p = 1).
+
+p, lea X) > alu". x)]
+
+x) > Tax
+Å (Thee.
+
+0.5
+
+Må
+
+1.5
+
+Fig. 2 Sannsynlighet for riktig ordning.
+
+
+
+46
+
+5. Noen spesielle eksempler
+Eksempel 3 La X ~ N(s1,1) og Y ~ N(u2, 1). Vi ønsker et konfidensintervall for 9 = po/p1.
+Siden vi har flere parametre kan ikke a(6;z, y) beregnes direkte. Ved å se på
+
+HH:
+
+H1
+
+sa
+mot
+K:
+å =0
+Hi
+
+og finne P-verdien i den sterkeste testen i den betingede fordelingen for Y gitt t = z+ Ooy,
+kan vi bruke apparatet som før og finne a'(0;z,y) = 2&(—|y — 0z|/vV1+ 0?) som også er Pverdien i den tosidige testen for 0. Ved å tegne a'(0;z,y) ser man hvorfor man kan få merkelige
+konfidensintervaller i denne situasjonen.
+ir
+3
+0.5
+
+— Kong. ont. for |-et
+
+=== Kom f- meaadt for Jew 208
+Ppe-e=e
+
+a
+
+0
+
+.
+
+2)
+
+Kon 4 mengde for |-az 09
+
+5
+
+Fig. 3 a’(6;z, y) som funksjon av 6 nar z =-1 og
+
+y= 1
+
+ig
+
+Eksempel 4 La X ~ N(0,1/(1+9)) der 6 > —1. Chernoff (1951) studerte problemet å lage en
+test for H : 9 = 0 mot K : 6 40. Det viser seg at en lokalt sterkeste test finnes, men har de
+urimelige egenskaper omtalt i innledningen. P-verdien i testen for H : 9 = 6) mot K :0= 0 er
+
+(80, 51:2) = | 1 = 71(8o,81:2) 80 > 91
+.
+
+må
+
+v1(00,01;2)
+
+00 < A;
+
+der 71(90, 01; x) = B((|z — 40-1 = +4, +1)V1 + 90) — B((—|z — 80 - 1 - 1]+ 6, + 1)V1 +- 60).
+
+Da er a(0;2) = 27(0,6(z);z) der 6(z) er løsningen av 7;(6,6;z) = 4. Dette gir en helt rimelig
+test for Chernoffs problem; på nivå 0.10 er akseptområdet f.eks. X € (—1.78, 1.63).
+Referanser
+
+Birnbaum (1961) Confidence curves. JASA 56 246-49.
+Chernoff (1951) A property of some type A regions. AnnMathStat 22 472-76.
+Fieller (1954) Some problems in interval estimation. JRSS Ser B. 16 175-83
+
+Spjøtvoll (1983) Preference functions. 1”
+
+A Festschrift for Erich L. Lehmann”, Wadsworth, Bel-
+
+mont, California p.409-32.
+
+Estimering av loddebestand
+Knut Sølna
+. Norsk Regnesentral
+
+For å sikre en god utnyttelse av fiskebestandene i Barentshavet og hindre
+
+overbeskatning er det viktig med gode modeller for bestandsutvikling av artene.
+
+Ved Havforskningsinstituttet i Bergen foregår det for tiden utvikling av en flerbestandsmodell for torsk og lodde. Dette arbeidet startet etter at loddebestanden i
+
+
+
+47
+
+Barentshavet kollapset i 1983-1986. En viktig årsak til kollapsen var trolig økning
+av torskebestanden med tilsvarende økning av torsks predasjon på lodde.
+Som grunnlag for bestandsmodelleringen er det tilgjengelig et meget stort datasett basert på målinger av det biologiske miljøet i Barentshavet. Datasettet karakteriseres bl.a. av uregelmessighet i rom og tid. Tre hovedtyper målinger er tilgjengelige: Ved biologiske målinger plukkes et visst antall fisk tilfeldig fra trålen og
+endel biologiske parametre registreres. Integratordata fås ved akustisk måling som
+
+gir grunnlag for beregning av bestandsmengde. Endelig har en funnet magedata
+
+ved at et stort antall torskemager, ca. 30000, har blitt samlet fra Barentshavet
+over noen år, og type/mengde byttedyr er registrert. Norsk Regnesentral har
+nylig startet et samarbeid med Havforskningsinstituttet der formålet er å ta i
+bruk statistisk metodikk for å bedre utnyttelsen av disse datakildene.
+Et eksempel på dette finnes ved konvertering av akustiske målinger til mengdeestimater. Ved å betrakte fiskebestanden som et romlig stokastisk felt og eksplisitt modellere romlig korrelasjon, kan presisjonen på bestandsestimatet økes og
+usikkerheten reduseres.
+
+Et annet eksempel finnes ved modellering av modning. Med dette menes identifisering av den lodda som er gytemoden. Nesten all lodde som gyter dør, og
+andelen av bestanden som er moden hvert år er derfor avgjørende for bestandsutviklingen. Ved biologiske målinger bestemmes parametre som er nært knyttet
+til graden av gytemodenhet. Dette gir grunnlag for å relatere f.eks. lengde til
+en sannsynlighet for gytemodenhet. Videre foretas det målinger over flere år, og
+eksplisitte målinger av gytebestanden, noe som også gir grunnlag for å karakterisere den lodda som gyter og dør. Totalt muliggjør dette et rimelig presist
+estimat for sannsynligheten for at en lodde er gytemoden basert på kjennskap til
+modellparametrene alene, dvs. lengde, kjønn, alder og lokasjon for lodda.
+
+NYTT FRA UNIVERSITETET I OSLO
+Uteksaminerte cand. scient.
+
+Knut Utne Hollund: ‘Importance Measures, Dependence and Structural Reliability.” Veileder: Bent Natvig.
+
+Pål Perger: ‘AIDS og livsforsikring.” Veileder: Walther Neuhaus.
+Bård Espen Storvik: ‘Tetthetsestimering.’ Veileder: Nils Lid Hjort.
+
+Jon Ketil Grønnesby: ‘Yrkesastma i primær aliminiumsindustri.’ Veiledere: Odd Aalen og
+Ørnulf Borgan.
+
+Hans Wilhelm Mørch: ‘En anvendelse av multinær pålitelighetsteori på et eksisterende
+rørledningsnettverk for gass.” Veileder: Bent Natvig.
+
+Helene Bjørkholt: 'Simulering av et forsikringsselskap ved hjelp av
+
+EVENT.’ Veileder: Ørnulf
+
+Borgan.
+
+Ansettelse
+
+Eva Skovlund tiltrer som førsteamanuensis fra 1. januar 1992. Hun vil spesielt ta seg av
+
+undervisning og veiledning av farmasistudenter.
+
+
+
+48
+
+Publikasjoner
+Nils Lid Hjort: ‘The ezact amount of t-ness that the normal model can tolerate,’ Statistical
+Research Report No. 2, 1991.
+
+Nils Lid Hjort: ‘Some ezponential distributions associated with Brownsan motion, ’ Statistical
+Research Report No. 3, 1991.
+
+Jørund Gåsemyr & Bent Natvig: ‘Using ezpert opinions in Bayesian estimation of component lifetimes in a shock model - a general predictive approach,’ Statistical Research Report
+No. 4, 1991.
+
+Torfinn Taxt, Nils Lid Hjort & Line Eikvil: ‘Statistical classification using a linear mizture
+of two multinormal probability densities,’ Statistical Research Report No. 5, 1991.
+
+Referat fra årsmøte i Norsk statistisk forening
+Jeløya, 10. juni 1991
+
+1. Godkjenning av innkalling og dagsorden
+Innkalling og dagsorden ble godkjent uten bemerkninger.
+2. Valg av møteleder og referent
+
+På lederens forslag ble Trond Haider og Geir Egil Eide ved akklamasjon valgt til h.h.v.
+
+møteleder og referent.
+
+3. Beretning v/foreningens leder Bent Natvig
+Sakspapir utsendt: Beretning fra styret i NSF 1989-1991.
+Natvig gjennomgikk beretningen punktvis:
+
+Ad. medlemsblad: Redaktøren Heuch fikk applaus fra årsmøtet.
+Ad. SJS: Natvig orienterte om skifte av forlag.
+
+Ad. 14. Nordiske Konferanse i matematisk statistikk: Lillestøl orienterte om arbeidet med
+programmet. Natvig orienterte om at organisasjonskomitéen var utvidet med Tyssedal.
+Ad. Festskrift for Sverdrup: Natvig orienterte om finansieringen.
+Ad. Medlemmer: Svært mange kontingenter utestår. Purring må intensiveres. 4. Regnskap
+
+Kassereren John Tyssedal orienterte. Regnskapet ble godkjent.
+5. Medlemskontingent
+
+Ble vedtatt som før.
+
+6. Forslag om innmelding av NSFi ISI
+Natvig orienterte: Kontingent kr. 1000,-.
+
+7. Valg av styre, revisorer og undervisningsutvalg
+Alle valg ble foretatt ved akklamasjon:
+Nye i styret 1991-93:
+
+Leder:
+
+Trygve Nilsen
+
+Medlemmer:
+
+Jan Bjørnstad
+Geir Egil Eide
+
+Ole Lauvskar
+Leif Solheim
+John Tyssedal
+
+Varamedlemmer:
+
+Edvin Bredrup
+Harald Johnsen
+
+Revisorer:
+
+Herdis Thorén Amundsen
+Steinar Tretli
+
+
+
+49
+
+Hele undervisningsutvalget ble gjenvalgt, dvs.:
+Jostein Lillestøl
+
+Henrik Dahl
+Grete U. Fenstad
+
+Etter møtet takket Trygve Nilsen det forrige styret for utmerket innsats, samt likeså
+redaktøren av TG. Natvig luftet et forslag fra Leif Solheim om en egen seksjon for samfunnsstatistikk i NSF.
+
+Bergen 910619
+
+Geir Egil Eide
+referent
+
+Planlagt program ved 14. Nordiske konferanse i matematisk statistikk
+Røros, 15.-19. juni 1992
+
+Inviterte hovedforedrag:
+Ls
+
+Erik Bölviken & Dag Tjøstheim, Norge
+
+2s
+
+Grace Wahba, Wisconsin USA
+"Spline Models in Statistics"
+
+3.
+
+Hermann Thörisson,
+
+4.
+
+Lene Theil Skovgaard, Danmark
+
+"Non-linear time series. regime models and related topics"
+
+Island
+
+"Coupling Methods in probability theory"
+
+"Repeated Measurements Designs”
+
+Gruppesesjoner (med forbehold om mindre justeringer):
+1.
+
+Principles of Statistical Inference
+Organisator: Jan Bjørnstad, Norge (Trondheim)
+
+2.
+
+Computational Statistics and Graphics
+Organisator: Knut Conradsen, Danmark (Lyngby)
+
+3.
+4.
+
+5.
+6.
+7.
+
+8.
+
+9.
+
+Reliability (and Quality)
+
+Organisator: Bengt Klefsjø, Sverige (Luleå)
+Biostatistics:
+
+Organisator: Odd Aalen, Norge (Oslo)
+
+Spatial Statistics (and Marked Point Processes)
+Organisator: Aila Sårkkå, Finland (Jyvåskylå)
+Teaching Statistics
+
+Organisator: Hans Stenlund, Sverige (Umeå)
+Statistics of Stochastic Processes
+
+Organisator: Michael Sørensen, Danmark (Aarhus)
+Latent Models in Social Statistics
+Organisator: Ib Thomsen, Norge (Oslo)
+
+Regression: Recent theory and applications (med forbehold)
+
+Organisator:
+
+NN
+
+deg å
+Gruppesesjonene vil bestå av flere kortere bidrag. Kan dudetenke
+sesjon. Bedre
+bidra, meld din interesse til organisatoren av vedkommen
+
+tidlig enn sent!
+
+
+
+50
+
+Nærmere opplysninger (adresser etc.) kan fåes fra programkomiteen ved:
+Jostein Lillestøl
+
+Norges Handelshøyskole
+Helleveien 30
+
+5035
+
+Bergen-Sandviken
+
+Norge
+
+Telefon +47 5 95 92 48
+EMail (Internet) MATJLEDEBET.NHH.NO
+
+En offisiell bulletin kan ventes utpå høsten 1991.
+
+Programkomiteen
+
+Medlemskap i Norsk Statistisk Forening
+Kontingenten i foreningen er på kr. 90 pr. år for regulære medlemmer og kr. 30 for studenter. Korrespondanse om medlemskap og innbetaling av kontingent skal skje til foreningens
+kasserer:
+
+Norsk Statistisk Forening v/Ole Lauvskar
+Vital Forsikring
+5020 Bergen
+
+Innbetalinger skal gjøres på foreningens postgirokonto 5 15 10 55. Medlemmer som er usikre
+på når de betalte kontingent sist, vil nederst til høyre på adresseseddelen for Tilfeldig Gang
+finne angitt hvilket år siste betaling er registrert for. Vær imidlertid oppmerksom på at
+adressesedlene for bladet ligger noe etter ajourføringen av medlemsregisteret, slik at nylig
+foretatte innbetalinger ikke vil være tatt med her.
+
+Nye medlemmer melder seg til kassereren under adressen oppgitt ovenfor. Slike medlemmer får automatisk tilsendt Tilfeldig Gang, med forbehold om at det tar noe tid før tilføyelser
+
+og forandringer i medlemsregisteret gjenspeiler seg i adressesedlene til bladet. Adressefor-
+
+andringer meldes også til kassereren. Ved utsendelsen av Tilfeldig Gang benyttes det kopier
+av det vanlige medlemsregisteret, så adresseforandringer behøver ikke meldes separat til
+
+bladet.
+
+Annen korrespondanse med foreningen skal foregå med formannen under denne adressen:
+Norsk Statistisk Forening v / Trygve Nilsen
+Matematisk institutt
+Universitetet i Bergen
+Allégt. 55
+5007 Bergen
+
+Bidrag til Tilfeldig Gang
+
+Neste nummer av Tilfeldig Gang vil forhåpentligvis komme ut i september 1991. Alle slags
+bidrag til bladet er velkommen, enten det gjelder nye temaer av interesse for norske statistikere, eller man har kommentarer til innlegg som allerede har stått i i bladet. Stoff til neste
+nummer må være redaktøren i hende senest 15. september. Adressen til den nye redaktøren
+som overtar f.o.m. neste nummer er:
+
+Tilfeldig Gang v/Jan Bjørnstad
+Institutt for matematikk og statistikk
+Universitetet i Trondheim
+Den allmennvitenskapelige høgskolen
+7055 Dragvoll
+
+
+
+
+
+Returadresse:
+
+Tilfeldig Gang v/Ole Lauvskar
+Vital Forsikring A.S
+5020 Bergen
+
+
+

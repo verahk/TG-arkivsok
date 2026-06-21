@@ -1,0 +1,1776 @@
+ISSN 0803-8953
+TILFELDIG
+GANG
+Nr. 1, årgang 25
+Jaunar 2008
+
+Utgitt av Norsk Statistisk Forening
+INNHOLD
+Fra lederen, Magne Aarset . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Fra redaksjonen, Mette Langaas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Side
+3
+4
+
+Artikler
+FNs klimapanel ser ut til å mangle statistisk kompetanse, Kjell Stordahl . . . . . . . . . . . . . . . . . . . . . . . .
+Statistikere og klimaforskning, Tore Schweder . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+6
+15
+
+Brev
+Statusrapport fra (sfi)2 , Arnoldo Frigessi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+16
+
+Stipendiatpresentasjoner
+Doktoravhandling, planlagt innlevert mai 2008, Trond Reitan . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Statistisk hypotesetesting i funksjonell genomforskning, Clara-Cecilie Günther . . . . . . . . . . . . . . . . . . .
+
+19
+21
+
+Møter og konferanser
+Schweder og Spjøtvoll (1982): referat fra en artikkels 25-års jubileum, Mette Langaas . . . . . . . . . . . .
+Avdeling for biostatistikk, UiO har feiret 25-års jubileum, Marit B. Veierød og Odd O. Aalen . . . .
+NORDSTAT 2008 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+23
+26
+27
+
+Puslerispalten
+Pusleri nr. 23, Jostein Lillestøl . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Løsning til pusleri nr. 22, Karl Ove Hufthammer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+33
+34
+
+Utlysninger
+Stipendiatstilling i biostatistikk, NINA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+To stipendiatstillinger, (sfi)2 , UiO og NR . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+37
+38
+
+Meldinger
+Nytt fra Norges teknisk-naturvitenskapelige universitet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Nytt fra Universitetet for miljø og biovitenskap . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Nytt fra Universitetet i Bergen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Nytt fra Universitetet i Oslo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Nytt fra Universitetet i Tromsø . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+39
+40
+41
+42
+43
+
+Årskontingent og medlemsregister, NSF . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+45
+
+
+
+
+
+3
+
+Godt nyttår, alle sammen!
+Som innbitt optimist er det alltid godt å begynne på et nytt år, selv om året heller ikke i år har
+begynt med helt blanke ark og fargestifter til. Men som statistiker må jeg la meg både glede
+og skremme av hvordan året faktisk har begynt. For variasjon, tilfeldig eller ei, er jo viktig.
+Punkt 1: Været
+Her på nordvest landet venter vi ikke lengre på vinteren. Jeg pleier riktignok å være sen med å
+skifte fra sommerdekk til vinterdekk på bilen, men nå kjører jeg faktisk fremdeles med
+sommerdekk. (Og dette er ikke et utslag av at jeg ønsker å begynne med en ny form for
+”ekstremsport”.) Det er foreløpig svært behagelig, men også litt skremmende.
+
+Fig. 1 og 2. Utsikt i januar i år over grønne marker og hvite fjell fra hjemmekontoret mitt, og
+utsikt i august i fjor fra Romfergen Endeavor over bl.a. den internasjonale romstasjonen og
+Sør-Italia (nederste del av ”støvelen” vises ned til venstre på bildet).
+Nedenfra ser dette altså riktig så vakkert ut, men hvis vi på bildet til høyre ser på den blå
+smale streken på randen av Jorden så viser det hvor tynn vår atmosfære faktisk er. Den eneste
+plassen i verdensrommet vi vet om der vi mennesker kan leve er et belte bare noen få tusen
+meter tykt rundt en kule, og her vil antakelig fremtidige variasjoner kunne bli vel store.
+Punkt 2. Studentene
+Med hvert nytt år kommer det også nye håpefulle studenter, som for så vidt også gir nytt håp.
+Mine studenter har så langt vært en positiv overraskelse. Det skal ikke mer til for å glede en
+gammel foreleser enn å overhøre en entusiastisk stemme etter en forelesning slå fast at ”Oi –
+dette blir et spennende fag!”. Utvilsomt stikk i strid med det han tidligere var blitt fortalt av
+andre, kanskje av han som i fjor kom og unnskyldte seg for at han ikke kom på forrige ukes
+forelesning fordi han hadde forsovet seg. (Forelesningen begynte så tidlig som kl. 12.30!)
+Punkt 3. Andre ”yrkesgrupper”
+Den delen av mitt foreløpige ansvar som leder av Norsk statistisk forening som har overrasket
+meg mest har vært variasjon i innhold og i antall mailer foreningen mottar. Vi har nesten hver
+dag sensurert mange innkomne mailer som var ment skulle gå ut til alle dere. (Jeg håper det
+hverken har ført til et mindre variert sex-liv eller en skuffelse over ikke å få overført en
+fantastisk sum for ”bryderiet” – bare man sendte over sitt kontonummer til en kjekk kar i
+Nigeria - eller aksepterte 100 US$ i gave for å komme i gang som pokerspiller på nettet.)
+Jeg ønsker dere alle et godt 2008, med sånn passe variasjon – alt etter hvor mye dere ønsker!
+Magne
+
+
+
+4
+
+Fra redaksjonen
+Velkommen som leser av Tilfeldig gang nummer 1, 25.årgang!
+Statistikere er vanligvis ikke en yrkesgruppe som er veldig synlig i media. Men,
+nå i januar 2008 har Kjell Stordahl, og andre, figurert ofte i debatten rundt de
+siste års klimautvikling og nøyaktigheten av klimaprognoser eller klimascenarier
+fra IPCC (Klimapanelet). I dette nummer av TG følger Kjell Stordahl opp sin
+artikkel i forrige nummer av TG – og nå står ”Statistisk kompetanse i
+Klimapanelet” i fokus. The American Statistical Association (ASA) kom sommeren
+2007 med støtte til konklusjoner fra IPCC, og Tore Schweder deler noen tanker
+med oss rundt dette temaet. (Tegningen under er fra www.nearingzero.net.)
+
+I dette nummer av TG kan du også lese en statusrapport fra Statistics for
+Inovation (SFI)2.. Vi har faste TG-tema; stipendiatpresentasjoner (denne gang
+med lenke til YouTube), referat og invitasjon til møter og konferanser (25 års
+jubileet til biostatistikk ved UiO, 25-års jubileet til Schweder og Spjøtvolls
+Biometrika-artikkel fra 1982, invitasjon til Nordstat 2008 i Vilnius) og Jostein
+Lillestøls puslerier (husk å sende inn forslag til løsning). Videre er det utlysning
+av 3 PhD stipend som kan være av interesse for statistikere, og nytt fra
+Universitetene.
+
+
+
+5
+
+Det er plass til flere faste spalter i TG, og vi annonserte i forrige nummer av TG
+at vi gjerne ville ha innspill fra norske statistikere i utlendighet (konferanser,
+sabbatsopphold, eller annet) og fra ikke-norske statistikere i Norge. Dette har vi
+ikke lykkes med ennå, men jobber med saken (innspill og angiveri ønskes). En
+annen idé er å fokusere på statistiske metoder som vi statistikere flittig bruker
+eller kanskje bruker for sjelden – dvs. metoder som bør/kan ligge i enhver
+statistikers verktøykasse. Vi inviterer dere herved til å komme med en-siders
+bidrag om ”min favorittmetode”!
+Imens du tenker litt på hvilken metode som er din favorittmetode så opplever du
+kanskje at det tikker inn en ny epost, med små eller store arbeidsoppgaver som
+du blir bedt om å ta på deg. Noen av arbeidsoppgavene kan du løse raskt og
+effektivt, mens andre krever ro og konsentret tankevirksomhet. La oss tenke oss
+følgende scenario: Du setter deg ned med den utfordrende oppgaven – men så
+banker det på døra, og det tikker inn nye eposter, og telefonen ringer. Så, blir
+det endelig stille og du setter deg igjen ned for å løse oppgaven. Du sitter pent
+ved skrivebordet ditt og stirrer på et blankt ark, der din løsning skal bli
+presentert. Lenge sitter du og stirrer på det blanke arket. Men, så flyr tankene
+dine av sted, og du spør seg selv ”klarer jeg virkelig å løse denne oppgaven, dvs.
+løse den på en GOD måte”? Før du vet ordet av det har du begynt å
+prokrastinere (utsette, skyve oppgaven foran deg med alle midler). Det finnes
+utallige måter å bedrive prokastinering på – og spesielt ser mulighetene for
+computerbasert prokastinering ut til å eksplodere i antall! Du sjekker epost, du
+ser etter interessante nyheter fra VG eller Dagbladet, du svarer på en quiz, du
+ser om noen har sagt noe interessant på Facebook eller Nettby. Og det blanke
+arket forblir like blankt mens dagen går mot kveld og så mot natt. Kjente du deg
+igjen i denne beskrivelsen? Vil prokrastinering bli et alvorlig problem – et
+problem som øker i takt med de utallige mulighetene vi har til å bli avledet. Kan
+det hjelpe å forsøke og begrense mulighetene vi har til å bli avledet. Kanskje det
+nye blir ”en computerfri dag”?
+Vel, prokrastinering er ikke et nytt problem,
+http://www.structuredprocrastination.com/
+men, det har nok kommet for å bli. Og, det kan tenkes at det ikke bare finnes
+dårlig prokrastinering, men også god prokrastinering
+http://www.paulgraham.com/procrastination.html
+Så, hvis du først har innsett at du har et midlertidig behov for å utsette et
+gjøremål – eller du bare trenger en liten pause - så beveg deg ut på Internett, gå
+til http://www.math.uio.no/nsf/ og trykk på ”Tilfeldig gang”. Da kan du lese
+dette nummeret av TG og følge opp alle lenkene til artikler og videoer på
+YouTube. Og, kanskje dette igjen fører til at du skriver en artikkel til TG? Vi hører
+gjerne fra deg om alle dine hjertesaker.
+Husk frist for innsending:15.april 2008.
+Vi ønsker deg et produktivt og prokastineringsfritt 2008!
+Redaksjonen
+Jo Eidsvik, Sara Martino, Håkon Tjelmeland og Mette Langaas
+
+
+
+6
+
+FNs klimapanel ser ut til å mangle statistisk kompetanse
+Kjell Stordahl
+I siste nummer av TG hadde jeg innlegget: ”Klimautvikling, klimadebatt, statistikk og
+prognoser”. Innlegget utfordret andre statistikere til å komme med synspunkter på
+IPCC/Klimapanelets arbeid – og da særlig på modelleringen. I dette innlegget vil jeg prøve å
+klargjøre at IPCC ser ut til å mangle statistisk kompetanse og at de ikke følger retningslinjer
+som enhver statistiker er opplært til å følge.
+Usikkerheter i klimaprognosene
+Usikkerhet i klimaprognosene var det viktigste punktet i innlegget mitt i siste nummer av TG.
+En mer bearbeidet, men kortere versjon av TG innlegget finnes som kronikk på forskning.no
+20. desember 2007 [1]. I tillegg til tidligere argumenter vises det til synspunkter fra
+professor John Christy [2] som har deltatt med bidrag til samtlige av IPCCs hovedrapporter
+(1990, 1995, 2001 og 2007). Han sier at nøyaktigheten i IPCCs klimamodeller er overvurdert.
+Professor i fysisk geografi Ole Humlum ved UiO har også et innlegg i Bergens Tiende 20.
+desember [3] der han argumenterer for at det i seg selv genereres usikkerheter når ulike type
+klimamodeller skal tilpasses samme ledende variable – temperaturen.
+Og det henvises til P1s populærvitenskapelige magasin, 25.september [4] der professor
+Eystein Jansen, en av de ledende forfattere av IPCC Fourth Assessment Report, ”The Physical
+Science Basis” [5], sier at det er 90% sannsynlig at den klimautviklingen vi har sett til nå er
+menneskeskapt. Ole Humlum tviler sterkt på den høye sannsynligheten og han spør i samme
+radioprogram om dette anslaget er statistisk signifikant – altså underforstått at det er basert på
+analytiske modeller. Eystein Jansen viser til at IPCC spurte de som har arbeidet med
+modellene hva de mener (tror) er usikkerheten. 90% er da et gjennomsnitt fra de litt over 100
+som har arbeidet med modellene pluss input fra noen hundre som har fått vurderingen til
+høring. Konklusjonen her er at usikkerheten er basert på subjektive vurderinger og kun fra
+miljøet rundt IPCC.
+På forskning.no har det vært en diskusjon om klimaprognoser og usikkerhet etter den første
+kronikken [1]. Referanse til innleggene er [6], [7], [8], [9] og [20]. Ellers er det også et
+innlegg i Teknisk ukeblad [10]. Forskningsdirektør Knut H. Alfsen og professor Helge
+Drange har representert IPCC i debatten. Her er et par sentrale diskusjonspunkter:
+Klimamodellene er meget kompliserte og inneholder svært mange parametere og variable.
+Meg bekjent er det ikke faste prosedyrer for når variable skal tas med i en klimamodell. Dette
+i motsetning til statistisk modellbygging der kun signifikante variable tas med. En
+"overestimering" i klimamodeller vil lett kunne skape falsk sikkerhet. Modellen gir da en
+bedre tilpasning, men det betyr imidlertid ikke at den vil lage bedre prognoser.
+Det hevdes at usikkerheten hovedsakelig illustreres ved ensamblekjøringer. Dette er kjøringer
+av mange ulike modeller parallelt. Avviket mellom de ulike modellene gir da et anslag for
+usikkerheten. Dette er dessverre ikke noen faglig måte å estimere usikkerhet på. Dette
+innrømmes da også i det siste innlegget av Alfsen og Drange [20] der de sier at IPCC ikke
+kvantifiserer usikkerheten i klimaprognosene, men kun illustrerer usikkerhet ved bruk av
+ulike klimascenarioer. I tillegg sier de ”I IPCCs rapporter legges det vekt på å beskrive, om
+enn ikke kvantifisere, usikkerheten knyttet til vår forståelse av klimaproblemet”.
+
+
+
+7
+
+Drivhusgasser
+IPCC har basert sine klimamodeller på et energiballansebudsjett for atmosfæren. Dersom
+dette ikke er i ballanse genereres global oppvarming. Ikke alle er enige i disse
+forutsetningene. Noen mener at jorda selv, slik den har gjort i millioner av år, tilpasser seg
+markante endringer. Det finnes en hel rekke argumenter begge veier her, men dette kan ikke
+tas inn i denne artikkelen.
+De viktigste klimagassene er karbondioksid (CO2) og metan (CH4). Skytetthet/Vanndamp er
+imidlertid det suverent viktigste elementet fordi den i meget store deler av strålingsspekteret
+absorberer refleksjonsstråling fra jorden. CO2 og CH4 absorberer refleksjonsstrålingen fra
+jorden kun i små bølgelengdeintervaller. Nærmere beskrivelse av dette finnes eksempelvis i
+[11].
+Før vi går nærmere inn i disse vurderingene kan vi foregripe dem og presentere det ultimate
+bevis på global oppvarming.
+
+IPCCs fremstilling av statistiske fakta
+I det følgende vil det bli sett på hvorledes IPCC i sin hovedrapport presenterer skytetthet,
+karbondioksid (CO2), metan (CH4) og selve temperaturutviklingen. De nye hovedrapportene
+Fourth Assessments reports (2007) er på om lag på 3000 sider og fordelt på 3 like store
+hovedrapporter:
+- Working Group I Report ”The Physical Science basis”
+- Working Group II Report ”Impacts, Adaptation and Vulnerability”
+- Working Group III Report ”Mitigation of Climate Change"
+Den mest detaljerte informasjon om klimamodellene og klimautviklingen finnes i Working
+Group I Report ” The Physical Science basis” [5]. Derfor er det hit en må gå for å finne
+grunnleggende informasjonen. Men hvor lett tilgjengelig er den egentlig? I innledningen av
+hovedrapporten finnes følgende sammendrag:
+
+
+
+8
+
+- Summary for Policymakers (18 sider)
+- Frequently asked Questions (34 sider)
+- Technical Summary
+(71 sider)
+Deretter kommer 11 kapitler som viser mer detaljert informasjon.
+Skytetthet
+Skytetthet som nevnt den overlegent viktigste forklaringsvariabelen for
+temperaturutviklingen. Det står flere steder i IPCCs hovedrapport [5] at de ikke har greid å
+modellere inn denne effekten på en tilfredsstillende måte. I [5] er det angitt to hovedpunkter
+her. For det første er det stor usikkerhet i observasjonene som jo skal være globalt
+representative. Dernest har det vært vanskelig å modellere inn pådraget av skytettheten i
+klimamodellene på en god måte. Dette skaper da i seg selv betydelige usikkerheter både i
+modellene og i prognosene for fremidig klimautvikling.
+Utvikling av metantettheten i atmosfæren
+Utviklingen av metantetthet i de tre første sammendragene er gitt i følgende figurer:
+
+Summary for policymakers
+
+Frequently asked questions
+
+Technical summary
+
+Figur 1 Utvikling av metantetthet i atmosfæren slik den er fremstilt i Summary for
+policymakers, Frequently asked questions og Technical summary [5]
+Metantettheten er angitt som antall enheter per milliard (ppb) i atmosfæren. Slik som
+utviklingen av metantettheten er fremstilt i de tre figurene ser det ut som den er i ferd med å
+gå til himmels. I Summery for policymakers kommenteres at vekstraten har avtatt på 90-tallet.
+Det tas også med en figur, som viser at metan (CH3) er den drivhusgass etter CO2 som har
+størst betydning for global oppvarming. I Frequently asked questions: How do Human
+Activities Contribute to Climate Change and How do they Compare with Natural Influences?,
+må det leses svært nøye. Da finnes det en setning som sier at metantettheten for øyeblikket
+ikke øker. Inntrykket av midterste figur over er imidlertid motsatt. I Technical Summary er
+det en setning som angir at vekstraten har vært nær null de siste årene og det er i tillegg nevnt
+”slowdown” i veksten. Ellers taler jo figuren til høyre for seg selv!
+Spørsmålet er så hva som beskrives i kapittel 2. I Excecutive summary er det en setning som
+sier at veksten i metantettheten de siste 20 år er blitt redusert. Men så for de som har
+overskudd til å gå inn i selve rapporten, finnes følgende figur på side 142:
+
+
+
+9
+
+Figur 2 Øvre figur viser metantettheten og nedre figur årlig vekst i metantettheten 1980 2006.
+Denne figuren viser faktisk en kontinuerlig nedadgående trend i den årlige veksten og at den i
+perioder de siste årene har vært negativ. Dette inntrykket er det ikke lett å få av
+sammendragene!
+Slik informasjonen om utvikling av metantettheten nå er satt sammen i de ulike
+sammendragene, kan en lure på om dette er en klassisk måte å manipulere med statistikk på–
+eller kan det være manglende statistisk kompetanse i IPCC? En statistiker burde i alle fall
+fremstille utvikling over lang tid og samtidig utvikling de siste årene, når begge deler ansees å
+være viktig. Samtidig bør det være konsistens i fremstilling i de ulike sammendragene og i
+hovedkapitlet.
+Metan er en viktig drivhusgass. Selv om det er 210 ganger så mye CO2 i atmosfæren, har
+metan i følge IPCCs forutsetninger en absorpsjonsevne som er om lag 50 ganger større.
+Derfor er energiopptak fra stråling (Radiative forcing) av metan i forhold til CO2 estimert til
+29%! [5]. IPCC sier på side 142 i hovedrapporten at de ikke har noen gode forklaringer på at
+metantettheten ikke lengre øker. Et spørsmål til IPCC kan være hvilken videre utvikling for
+metan som ligger inne i klimamodellene?
+Utvikling av CO2 tetthet i atmosfæren
+I sammendragene (Summary for policymakers, Frequently asked questions og Technical
+summary) er utviklingen av CO2 tettheten vist enten en i 10/20.000 års periode eller i en 2.000
+års periode. Figurene viser at tettheten har vært meget lav i lang tid og at den så stiger
+voldsomt den siste tiden. I kapittel 2 vises også utviklingen fra 1970 til 2005. Tettheten er nå
+på i overkant av 380 enheter per million i atmosfæren. Det fremgår at det nå tilnærmet er en
+fast årlig vekst på om lag 2 enheter per million og at CO2 tettheten i atmosfæren øker
+tilnærmet lineært.
+Målingene er hentet fra IPCCs offisielle punkt på Mauna Loa, Hawaii fra 1958 og frem til nå.
+Tidligere målinger er fra iskjerneboringer i Vostok i Antarktis. Det må refereres at det finnes
+mange måleserier fra en rekke vitenskapsmenn på CO2 tettheten fra perioden 1860 -1950 som
+viser til betydelig høyere konsentrasjoner av CO2 enn de målinger som IPCC benytter.
+I avsnittet under fremgår det at temperaturen for rundt 1000 år siden var på samme nivå som i
+
+
+
+10
+
+dag. Imidlertid viser IPCCs statistikk at CO2 for 1000 år siden var på det laveste nivå i denne
+perioden. Modellering av CO2 som temperaturpådriver må gi en del usikkerheter i modellene.
+Temperaturutvikling
+I IPCCs hovedrapport [5] finnes det grunnleggende informasjon om temperaturen i
+sammendragene: Summary for Policymakers, Technical Summary, Frequently asked
+Questions og i Chapter 1 Historical Overview of Climate Change Science, Chapter 3
+Observations, Chapter 6 Executive Summary og i Chapter 6 Palaeoclimate.
+For å få en god oversikt over temperaturutviklingen bør det etter mitt syn tas med informasjon
+om utviklingen i alle fall fra de siste 1000 år. Dette skyldes at vi hadde det som er kalt den
+lille istiden 1600 – 1800 som var den kaldeste perioden i løpet av de siste 6000 år. I tillegg var
+det en periode i middelalderen rundt 950 – 1100 (The Medieval warm period) som var om lag
+like varm som den vi har i dag.
+Det som er bemerkelsesverdig er at i de syv deler av rapporten som er listet opp over, er det
+kun to steder at det vises temperaturutvikling 900 - 2005 og det er midt inne Technical
+Summary (side 55) og midt i kapittel 6. I rapporter på til sammen 3000 sider, så finnes det
+altså noen ytterst få sider som viser den lille istiden og Middelalder varme perioden.
+Går vi til Excecutive summary for kapitlet, så er det ikke noe informasjon om dette; går vi til
+Historical Overview ser vi kun den kraftige økningen i temperaturen fra 1860 og videre; det
+samme ser vi Frequently asked Questions og det samme ser vi i Summary for Policymakers.
+Et betimelig spørsmål her er: Hvem er det som leser en slik 1000 siders rapport fra side til
+side? Det gjør i alle fall ikke policymakers og politikere. Det ser det heller ikke ut til at
+Aftenpostens klimajournalist, Ole Mathismoen gjør. Han er nå ute med boken “Klima. Hva
+skjer” [12], og han har en stor figur i boken som fremstiller utviklingen av temperaturen
+nærmest som en rett linje som går svakt nedover frem til 1900. Deretter skyter den i været.
+Dette er den såkalte hockeykøllegrafen konstruert av Mann et al(1999) som IPCC benyttet i
+sine Third Assessment reports TAR (2001) [13]. Den har vist seg å være basert på feil bruk av
+statistiske metoder og feil bruk av statistiske observasjoner. Hockeykøllegrafen ses i figur 3.
+
+Figur 3 Den såkalte hockeykøllegrafen: Temperaturutvikling Nordlige halvkule år 1000 2000 fra IPCC TAR 2001 [13]. Avvik fra gjennomsnittstemperatur 1961-1990.
+
+
+
+11
+
+Denne fremstilling av temperaturen viser ikke Middelalder varmeperioden og den viser
+faktisk at temperaturen er på et lavmål rundt 1900 for så å gå kraftig oppover. Den viser
+heller ikke noen markant liten istid.
+Den canadiske matematikeren Stephen McIntyre begynte så å gå igjennom arbeidet til
+Michael Mann et al og han ba også om å få tilgang til de dataene som var brukt. I en artikkel i
+2003 reproduserte han og Ross McKitrick temperaturutviklingen med Mann et al’s metoder
+og fikk en helt annen temperaturutvikling. Etter det startet det en diskusjon som varte i flere år
+og som endte opp med at et panel utnevnt av The National Academy of Science (NAS) skulle
+gå igjennom kildemateriale og metoder. NAS kritiserte Mann et al’s arbeid på en rekke
+punkter og reviderte temperaturutviklingen som også vises i det følgende [14]. Figur 4 viser
+hovedresultatene til NAS panelet for den nordlige halvkule.
+
+Figur 4 Temperaturutvikling for nordlige halvkule basert på gjennomgang av panelet utnevnt
+av The National Academy of Science. Avvik fra gjennomsnittstemperatur 1961-1990.
+En lignende figur er også satt inn i kapittel 6 i IPCC The Physical Science Basis [5]. Her ses
+igjen Middelalder varmeperioden og den lille istiden. I figur 4 sees også en revidert Mann
+kurve ligger inne med større variasjoner enn tidligere. Den svarte kurven er basert på
+instrumentmålinger og er ikke representativ for tidligere perioder. I kapittel 6 i [5] er det også
+lagt inn temperaturutvikling for den sørlige halvkule. Her finnes det kun to kurver som dekker
+siste millennium. De er fra New Zealand og Tasmania. For New Zealand finnes hele ni
+perioder tidligere hvor det var høyere temperaturer enn det har vært den siste tiden. For
+Tasmania har temperaturen en del ganger fra 1300 – 1500 vært på samme nivå som nå.
+Hvordan fremstilles så temperaturutviklingen for øvrig i The Physical Science Report [5]?
+Under Frequently asked Questions stilles følgende spørsmål: How are the Temperatures on
+Earth Changing? Svaret er på to sider og temperaturer i perioden 1000 – 1850 nevnes ikke.
+Det er ikke nok at IPCC begrenser datasettet fra de siste 1000 år til de siste 150. I tillegg er
+det satt fire regresjonslinjer. Med andre ord, dersom vi kun hadde observasjoner for de siste
+25 år, så ville vi få den gule linjen som prognose for videre temperaturutvikling. Noen kan lett
+få den oppfatningen at dette er forventet temperaturutvikling videre.
+Figuren som benyttes vises nedenunder.
+
+
+
+12
+
+Figur 5 Global temperaturutvikling de siste 150 år, IPCC 2007.
+Hvordan har så den reelle temperaturutviklingen vært den siste tiden? Også dette er det
+vanskelig å få oversikt over i sammendragene. Et unntak her er figur 5 og de siste prikkene
+mellom linjene. Figur 6 viser den globale månedlige temperaturutviklingen for de siste 22 år.
+
+Figur 6 Månedlig global temperaturutvikling 1985 – 2007 (HadCRUT3). Linjen angir global
+gjennomsnittstemperatur 1998-2006. Avvik fra gjennomsnittstemperatur 1961 -1990.
+Dataene er hentet fra Hadley Centre for Climate prediction1 og University of East Anglia’s
+Climate Research Centre 2 . Se også Cimate4you [15]. I IPCCs hovedrapport [5] chapter 3,
+figur 3.6 finnes samme fremstilling basert på HadCRUT3, men av årlige observasjoner og for
+en mye lengre periode. Figur 6 viser altså at det ikke har vært noen global temperaturøkning i
+løpet av de siste 9 årene. Temperaturen økte altså frem til toppåret 1998. Etter det vises det
+ikke noen global oppvarming! Dette er ikke noe bevis for at temperaturstigningen har stoppet
+opp, men dette bør kommenteres av IPCC, og ikke underslåes. IPCC har i Chapter 3 i [5] vært
+mer opptatt av å sammenligne ulike temperatur-måledata som også er et viktig og komplekst
+område både med hensyn til måleopplegg og justeringer. De 24 månedene rundt 1998 kan
+eksempelvis betraktes som outliere. Da blir perioden på 9 år redusert. Men statistikere ville
+uansett også analysert og kommentert denne siste utviklingen.
+
+1
+2
+
+http://www.metoffice.gov.uk/research/hadleycentre/
+http://www.cru.uea.ac.uk/.
+
+
+
+13
+
+Uansett undertrykker IPCC viktig temperaturinformasjon for beslutningstagere og andre.
+Dette er nærmest som et formynderskap. Selvsagt kan IPCC si at de mener at den viktigste del
+av temperaturkurven er de siste 150 år fordi det da har blitt skapt menneskegenerert
+oppvarming som påvirker temperaturen. Men det ønskes altså ikke noe fokus på de siste 9
+årene. Det er også interessant å legge merke til at figur 3 – den såkalte hockeykøllegrafen ble
+brukt av IPCC for alt hva den var verdt i IPCCs forrige hovedrapportering (2001) - til og med
+som bakgrunnsfigur på den store pressekonferansen. Det er ønskelig at IPCC er mer objektiv i
+sin fremstilling av temperaturstatistikk.
+For vurdering av den såkalte hockeykøllegrafen til Mann ble det også opprettet en komité
+ledet av statistikeren Edward Wegman for gjennomgang av Manns et al’s arbeid. En kort
+oppsummering fra Wegman-komiteen er gitt i [16]. Noen funn og anbefalinger er listet her:
+• Mann har misbrukt gitte statistiske metoder.
+• Metodene støtter ikke hockeykølleformen på temperaturutviklingen og heller ikke
+utsagnet om at den varmeste 10-årsperioden i det siste millennium var 1990 -2000.
+• Til tross for at IPCCs forskere på dette området i stor grad bruker statistiske metoder,
+ser det ikke ut til at de kommuniserer med det statistiske community (fellesskap).
+• Forskere på området reviewer hverandres arbeid og gjenbruker de samme datasett og
+det må stilles spørsmål om dette er uavhengig peer-review og uavhengige temperatur
+rekonstruksjoner.
+• Beslutningsrelatert klimavitenskap skulle i større grad ha granskning og reviewing av
+statistikere.
+• Prosedyrer fra kliniske forsøk for utprøving av medisiner trekkes frem som eksempel
+der det er krav til dokumentasjon av data og til review av uavhengige statistikere.
+Dette burde også være naturlige krav i IPCC.
+Behov for statistisk kompetanse i IPCCs arbeid
+Wegman-komiteens anbefalinger for bruk av statistisk kompetanse i IPCCs arbeid er
+beskrevet over. Mange av disse punktene trekkes også frem av David Henderson, tidligere
+leder Department of Economics and Statistics OECD, i hans 46 siders artikkel “Governments
+and Climate Change Issues – The Case of Rethinking” i tidsskriftet World Economics [17].
+IPCCs presentasjon av historisk utvikling av de viktigste klimavariable følger ikke de kriterier
+som statistikere er opplært til å benytte. En må formode at også beslutningstagere, politikere
+og andre ønsker å se mer detaljert historisk utvikling av de viktigste klimavariable enn det
+som er vist i sammendragene i Fourth Assessment Report ”The Physical Science basis” [5].
+Styret i American Statistical Association (ASA) kommer med en uttalelse [18] der de sier at et
+lite antall statistikere har vært forfattere og reviewere av hovedrapportene. Styret i ASA sier at
+de støtter hovedkonklusjonene i IPCCs siste rapporter. Samtidig lister de opp svært mange
+områder der de mener det er viktig å få inn statistikere i IPCCs videre arbeide. Det gjelder
+eksempelvis: Utvikling av klimamodellene, design og analyse av simuleringer (computer
+experiments) for videreutvikling av modellene, evaluering av modellene, utvikling av
+innovative metoder for å redusere og kvantifisere usikkerhetene både med hensyn til
+observasjoner og projeksjoner (prognoser), reduksjon av usikkerhet i datasett, prosedyrer for
+kombinering av observasjoner fra ulike kilder, justere skjevhet i ulike målesystemer, m.m.
+Det er grunn til å tro at IPCC ikke har generell prognosekompetanse, da de ikke refererer til
+metoder og prinsipper som kontinuerlig er utviklet på dette området siden 1930-tallet Det ser
+ut til at de heller ikke har god nok statistisk kompetanse i sin modellbygging.
+
+
+
+14
+
+Norges forskningsråd har nå satt i gang en storsatsning på klimaforskning i programmet
+NORKLIMA. Fra 2005 til 2010 er det satt opp et langtidsbudsjett for fire delmål. For delmål
+1: Økt forståelse for klimasystemet og dets variabilitet, samt kvantifisering av usikkerhet er
+det satt av om lag 200 mill NOK. [19]. Statistisk kompetanse er sikkert ønskelig.
+Det ligger i alle fall en rekke utfordringer for statistikere – også norske, på disse områdene.
+Referanser
+[1] K. Stordahl. “Er usikkerheten i klimaprognosene undervurdert”. Forskning.no 20.
+desember 2007. http://www.forskning.no/Artikler/2007/desember/1198132621.88
+[2] BBC News. John Christy. ”No Consensus on IPCC’s Level of Ignorance”. 12.
+November, 2007. http://news.bbc.co.uk/2/hi/science/nature/7081331.stm
+[3] O. Humlum “Derom strides de Lærde”. Debattinnlegg Bergens Tiende 20. desember 2007
+[4] NRK P1s populærvitenskapelige magasin, Verdt å vite, 25. september 2007
+http://www.nrk.no/nyheter/1.3566276
+[5] IPCC. WG1,”The Physical Science basis”, Fourth Assessment Report, November 2007,
+http://ipcc-wg1.ucar.edu/wg1/wg1-report.html
+[6] K. H. Alfsen, H. Drange “Misforståelser om klimaprognoser”. Forskning.no 29. desember
+2007. http://www.forskning.no/Artikler/2007/desember/1198864956.47
+[7] K. Stordahl. “Klimaprognoser og usikkerhet” Forskning.no 6. januar 2007
+http://www.forskning.no/Artikler/2008/januar/1199586235.5
+[8]K. H, Alfsen, H. Drange “Mer om klimaprognoser og usikkerhet”. Forskning.no 15. januar
+2007 http://www.forskning.no/Artikler/2008/januar/1200358028.29
+[9] K. Stordahl. “Fortsatt usikkerheter rundt klimaprognosene” Forskning.no 19. januar
+http://www.forskning.no/Artikler/2008/januar/1200710326.75
+[10] K. Stordahl “Usikre prognoser”. Teknisk ukeblad no. 2 2008, s 87
+http://www.tu.no/multimedia/archive/00056/Teknisk_Ukeblad_0208_56157a.pdf
+
+[11] T. Henriksen, E. Kristiansen, T.Svendby. “Temahefte 1 om miljøfysikk” Fysisk institutt
+UiO, 2005. http://www.fys.uio.no/publikum/temahefter/Hefte1.pdf
+[12] O. Mathismoen “Klima. Hva skjer”. Font forlag. Oktober 2007.ISBN 978-82-816-9019-6
+[13] IPCC Climate Change 2001: The scientific basis. Third Assessment reports TAR, 2001
+http://www.grida.no/climate/ipcc_tar/wg1/index.htm
+[14] The National Academies of Science. ”Surface Temperature Reconstructions for the last
+2.000 years”. 2006. http://dels.nas.edu/dels/rpt_briefs/Surface_Temps_final.pdf
+[15] O. Humlum Cimate4you http://www.climate4you.com/
+[16] U.S. House Committee on Energy and Commerce. ”Report Raises New Questions about
+Climate Change Assessments”. http://www.grida.no/climate/ipcc_tar/wg1/index.htm
+[17] D. Henderson “Governments and Climate Change Issues – The Case of Rethinking”.
+World Economics Vol. 8, No 2, April- June 2007
+[18] American Statistical Association, Board Statement on Climate Change 11. Juni 2007
+http://www.amstat.org/news/index.cfm?fuseaction=climatechange
+[19] K. H. Alfsen. “Mindre til klimaforskning”. Klima 4-2007.
+http://www.cicero.uio.no/fulltext/index.aspx?id=5825
+[20] K. H. Alfsen, H. Drange “Beskrivelse av klimausikkerhet” Forskning.no 26. Januar
+http://www.forskning.no/Artikler/2008/januar/1201103306.25
+
+
+
+15
+
+Statistikere og klimaforskning
+Tore Schweder
+”Beregninger av de regionale klimaendringene er beheftet med stor usikkerhet. Denne
+usikkerheten må kvantifiseres og reduseres. Bare langsiktig forskningsinnsats kan
+gjøre dette mulig. Dagens forskning på forståelse av klimasystemet må derfor minst
+opprettholdes på dagens nivå og helst økes. En særlig utfordring ligger i arbeidet med
+å kvantifisere og kommunisere usikkerhet knyttet til klimascenarier og effekter av
+klimaendringer, samt betydningen av usikkerhet for utarbeidelse av tilpasningsstrategier.”
+Dette skriver Forskningsrådet i programplanen for storsatsingen NORKLIMA 2004-2013.
+Programmet disponerer 70 millioner årlig. Nylig ble tildelingen for 2008 klar. Her kan jeg ikke se et
+eneste prosjekt med tungt innslag av statistikere. I programstyret ser jeg heller ingen med særlig
+statistisk kompetanse. Dette er typisk for klimaforskningen til tross for at den baler med mange
+spørsmål av statistisk natur. Etter det jeg vet er det få om noen statistikere som er trukket tungt inn i
+norsk klimaforskning. Slik er det også internasjonalt.
+I november 2007 uttalte Det amerikanske statistikersamfunnet (ASA) seg om klimaforskningen. Først
+støtter ASA konklusjonen i den fjerde rapporten til FNs klimapanel (IPCC): ”nå er det helt sikkert at
+det globale klimaet varmes opp, og at det meste av denne oppvarmingen de siste 50 år trolig skyldes
+(is most likely due to) menneskeskapt opphoping av klimagasser i atmosfæren”. Deretter anbefaler
+ASA at flere statistikere bør ta del i arbeidet til IPCC, noe som gjensidig vil styrke klimaforskningen
+og statistikkfaget. Mer konkret peker uttalelsen på at klimaforskningen trenger statistisk styrking på
+følgende områder: tolking og syntetisering av klimaobservasjoner (kombinere data fra ulike kilder,
+korrigere for skjevhet, håndtere at målingene endrer karakter og dekning i tid og rom: krevende
+modellering for glisne data i tid og rom); klimamodellering (planlegging og tolking av
+regneeksperimenter, kombinere resultater for ulike klimamodeller, identifisere kilder til usikkerhet og
+måle dem); regionale og lokale effekter av klimaendringer; analyse av høydimensjonale data; og
+helseeffekter av klimaendring. Uttalelsen bør leses:
+http://www.amstat.org/news/index.cfm?fuseaction=climatechange
+Det er ingen grunn til å tro at den norske klimaforskningen er statistisk sterkere enn den amerikanske.
+Det skulle derfor være stort rom for unge (og eldre) statistikere til å kaste seg frampå. Forskningsrådet
+har penger. NORKLIM er et program som skulle gi rom for anvendt statistisk forskning sammen med
+meteorologer og andre klimaforskere. På Stortinget er det nå bredt flertall for å styrke
+klimaforskningen ytterligere. Klimaspørsmålet er jo det store spørsmålet i vår tid. Med fortsatt global
+oppvarming vil selvsagt behovet for forsking øke, og behovet for statistisk input til klimaforskningen
+vil etter det jeg forstår øke enda raskere. Kanskje NR eller et annet statistikkmiljø skulle kjenne sin
+besøkstid og banke hardt på klimaforskernes og Forskningsrådets dør?
+Det er interessant det Kjell Stordahl skriver i dette nummer av TG og også andre steder. Jeg leser ikke
+dette som et angrep på konklusjonene til IPCC, og en påstand om at klimaforskerne tar feil slik at vi
+kan fortsette med å svi av karbon uten tanke på klimakonsekvenser. Det Kjell skriver må vel snarere
+leses som et hjertesukk fra en statistiker – jo mer han leser i rapporten fra IPCC og jo mer han studerer
+annen klimaforskning ser han at statistisk input ville være til gagn. Klimaforskningen trenger rett og
+slett å styrkes statistisk! Det er gjennom saklig kritikk Stordahl gir kraft til dette syn, og han skulle i
+hovedsak være på trygg grunn i lys av uttalelsen til ASA. Klimaforskerne kan sikkert imøtegå Stordahl
+på enkelte punkter, men det rokker neppe ved hovedsaken.
+
+
+
+16
+
+Background: Statistics for Innovation is one of the 14 Norwegian Centers for Research-based
+Innovation, with the aim to enhance the capability of the Norwegian economy to innovate by
+focusing on long-term research, forging alliances between research-intensive enterprises and
+prominent research groups. Statistics for Innovation will develop core statistical methodologies,
+strategically necessary to achieve innovation goals in four key sectors: petroleum, finance,
+marine and health. The centre operates from 2007 for eight years, based at the Norwegian
+Computing Center (NR) in Oslo and in partnership with the University of Oslo (UiO), the
+Norwegian University of Science and Technology (NTNU) and 11 partners: Statoil, DnBNOR,
+Gjensidige, Hydro, Institute of Marine Research, Sencel, Biomolex, Pubgene, RikshospitaletRadiumhospitalet, Smerud Medical research and Spermatech. Statistics for Innovation is funded
+by the Research Council of Norway and by the partners, with an annual budget of about 13 mill
+NOK in addition in-kind contributions. About 40 researchers actively join the research projects of
+the centre. Statistics for Innovation participates to the UiO and NTNU training programmes and
+will fund many PhD grants and postdocs.
+
+2
+
+2
+
+(sfi) is roughly one year old now. In general, it is going really well with (sfi) ! We
+have an ensemble of talented researchers, from UiO, NR, NTNU and partners, working
+2
+with enthusiasm on (sfi) projects. Many projects focus on ambitious aims, from the
+point of view of the application, in terms of innovation and statistical methodology. New
+collaborations are being created, to the benefit of all. Our projects underwent a
+calibration and re-alignment process during the last months. The aim is to concentrate
+efforts on the most promising projects, where we are more convinced that we can reach
+ambitious innovation aims though new statistical methodology. But still we are in the
+beginning, and many seed have to be planted in order to find out the plant grows best.
+Let me mention a couple of examples of research projects, to give you an idea about the
+activities forthcoming in 2008.
+Climate Change and Insurance Industry (CCII): (sfi)² has obtained a new Marie Curie
+Industry-Academia Partnerships and Pathways (IAPP) grant, starting in 2008 and until
+2011. We start a major research activity on the effects of climate change for the insurance
+industry, in an international setting. Our partners are Gjensidige in Oslo and , Llyods and
+the Centre for Applied Time Series of the London School of Economics. The recent
+reports from the Intergovernmental Panel on Climate Change and the UK Stern Review
+argue that the insurance industry must start actively adapting in response to weather and
+climate related risks. The main objective of this partnership is to bring statisticians,
+insurance and climate experts together to help build a methodological basis for the
+emerging field of climate change insurance risk. Statistical analysis will be a critical part
+of the project. We will have access to insurance and loss data from partners and agencies
+as well as to the huge amount of actual and model simulation data on weather and
+climate. This gives us the potential to build models and methods of real relevance to
+decision making in the insurance industry and help regulators. The project will attach
+special importance to training and dissemination. Training is critical in a
+multidisciplinary project such as this, and in a new scientific area, to establish a common
+
+
+
+17
+
+language. Dissemination is a duty imposed by the urgency of the subject matter and the
+relative newness of the climate change insurance risk field.
+Price elasticity models. Banking and insurance are characterized by long-term customer
+relationships. In this project we study the effect of price changes on the demand for
+insurance and customer dynamics. Price is one of many factors that influence the
+behaviour of a customer. In order to isolate the effect of the price we shall include
+explanatory variables that show the development of other factors that might also
+influence customer choices. There are several possible approaches to modelling the price
+elasticity. Traditionally, Poisson regression may be used. We shall focus on event history
+analysis methodology, because the may account for censored observations and, through
+frailty, individual heterogeneity.
+By catch in industrial fishing. The aim is to produce a new regulation and monitoring
+strategy of the Barents sea, to reduce un-wanted by catch of commercial shrimp fishing
+and the temporary closing of fishing areas, due to the presence of to much juvenile fish.
+This will have a significant economical and ecological impact. Based on historical data
+(from 2002, Fiskeridirektoratet and Havforskningsinstituttet ), we shall develop a
+structured model adhering to system, fish and sampling, developing the needed statistical
+models for space time prediction.
+Genome matcher. How to compare high-dimensional, high-resolution genomic data, in
+order to discover precise areas of the genome where things do not match (disorders) and
+where things interact and co-operate (functionally)? We shall develop a new web-based
+tool, for real time analysis. For this purpose, we need a way to do pre-processing of basic
+quantities, which enter statistical queries. Also, we need a theory for local testing. We
+have started to implement general solutions and hope to have a prototype sometimes in
+the coming year(s).
+These are some examples. Our web page
+
+http://sfi.nr.no
+has more information. Please contact us if you wish to know more. On our webpage you
+find also an update list of our various activities. All seminars, and events are open to
+everybody. We have several regular activities.
+Scientific literature reading group: We read important papers of general interest,
+published in the statistics literature in the last years, and present them in an open seminar.
+Roughly every month. The next papers are:
+
+
+
+18
+
+•
+
+Wednesday 13. february. Magne Aldrin presents: Bayarri, M.J., Berger, J.O., A.,
+Paulo, R., Sacks, J., Cafeo, J.A., Cavendish, J., Lin, C.H. and Tu, J. (2007). A
+Framework for Validation of Computer Models. Technometrics, 49, 138-154.
+
+•
+
+Wednesday 12. March. Ørnulf Borgan presents: Ivy Jansen, Caroline Beunckens,
+Geert Molenberghs, Geert Verbeke and Craig Mallinckrodt (2006). Analyzing
+Incomplete Discrete Longitudinal Clinical Trial Data. Statistical Science 2006,
+Vol. 21, No. 1, 52-69.
+
+Papers listed on our web page are suggested for reading. If you wish to read and present
+one of these papers, please let us know. Also, if you have other suggestions, we are happy
+to add them to the list.
+Onsdag (sfi)² lunch: We have started a new tradition: every Wednesday, 12.15-13.15,
+we have a working lunch at (sfi)². Everybody is invited to join. This will be an informal
+occasion for all (sfi)² to meet and share ideas, information, knowledge, discuss projects
+and problems. There will be food, coffee and tea. On each Wednesday there is a small
+programme, roughly 30 minutes: sometimes a mini-lecture, sometimes a report on some
+event or conference, or about one of the research projects and so on.
+Seminars are, as usually on Tuesday (at 14.15, either at Avdeing C of the Departmetn of
+Mathematics at UiO or at (sfi)²) and on Thursday (at 14.30 either at Biostatistics at UiO
+or at (sfi)²). The Tuesday seminar is organised by Avdeling C jointly with (sfi)² and the
+traditional Thursday biostatistics seminar is organised by the department of Biostatistics,
+the UiO Centre for Biostatistical Modelling in the Medical Sciences (BMMS) and
+Avdeling C. We have now the possibility to make international invitations, and our
+programme is often very interesting. Among the forthcomming seminars, so far planned
+we have:
+- Peter Müller, Department of Biostatistics, The University of Texas M. D. Anderson
+Cancer Center
+- Harald Martens (MATFORSK / Norwegian Food Research Institute, Aas, Norway)
+- Tony Pettitt (School of Mathematical Sciences, Queensland University of Technology,
+Australia) (who will also visit NTNU in the same trip)
+- Anestis Antoniadis, Statistics Department at University Joseph Fourier, Grenoble.
+- Anthony Davidson (Ecole Polytechnique Fédérale de Lausanne).
+- Katja Ickstats, University of Dortmund (also visitn NTNU in the same trip)
+The 2008 (sfi)² meeting. We will have our yearly internal meeting, on Tuesday April 8..
+Arnoldo Frigessi
+director of (sfi)²
+
+
+
+19
+
+Doktoravhandling. Planlagt innlevert mai 2008
+Trond Reitan
+Universitetet i Oslo
+Jeg kan nok kalles en anvendt statistiker, men har til tross for det et
+tilholdssted i Abeltårnet, Blindern. Min hovedveileder er Bent Natvig, og
+dermed vil nok mange gjette at jeg jobber med Bayesianske løsninger på mine
+problemer. Jeg har bakgrunn fra fysikkens verdien, men tilbrakte en del år som
+programmerer på NVE (Norges vassdrags- og energi-administrasjon)
+Jeg kom borti statistikk-faget i forbindelse med programmering av et
+verktøy for såkalt vannføringskurve-tilpasning. Dette går ut på å gjøre en
+område-ingeniør i stand til å lage en sammenheng mellom vannstand og
+vannføring på et gitt tverrsnitt i en elv ved hjelp av et lite sett av simultant
+målte vannstander og vannføringer. Grunnen til at dette gjøres er at man i
+hydrologien er interessert i å loggføre en vannføring-tidsserie for videre
+analyse. Men vannføring er dyrt å måle, mens vannstand lett kan måles så
+ofte en vil med relativt billig måleutstyr. En sammenheng mellom vannstand
+og vannføring er derfor ønskelig, slik at vannføring-tidsserier kan lages, noe
+som kan beskrives som en klassisk type regresjons-anvendelse. Dermed blir
+noen titalls relativt dyre målinger av vannstand-vannføring foretatt på hver
+målestasjon for å lage en slik kurve.
+Hydraulisk teori peker på en spesifikk parametrisk form (potens-lov med
+lokasjons-parameter). Dermed burde forholdene ligge tilrette for en enkel
+regresjon med kun en ikke-lineær parameter, som forøvrig kunne
+diskretiseres. Men under programmerings-fasen av verktøyet dukket en
+underlig problemstillinger opp, nemlig at estimerings-rutinen rutsjet ut i
+evigheten i parameterrommet for noen datasett. Dette ble i starten ansett
+som programmeringsfeil, men etterhvert fant jeg ut at problemet heller lå på
+den statistiske siden. En del statistikk-kurs senere var det klart at problemet lå
+i estimerings-tankegangen vi brukte og at det fantes et alternativ til
+frekventistisk ML-estimering, nemlig Bayesiansk metodikk. Det var også klart
+at det eksisterte ekte førkunnskap hos hydraulikerne, noe som gjorde
+resultatene fra ML-estimatorene desto mindre spiselige.
+En videre analyse av den frekventistiske metodikken gav en del krav for hva
+som kunne forårsake problemet med uendelig parameter-estimat samtidig
+som den angav at selve regresjonslinja fremdeles tilpasset data og tilpasset
+det bedre enn den originale parametriske formen. Men parametrene hadde
+fysisk fortolkning, så med ekte førkunnskap følte jeg at en Bayesiansk
+metodikk ville være mer meningsfylt. Det var omtrent på denne tiden jeg fikk
+min stipendiat-stilling.
+Statistikk er på mange måter en løsning som ser etter et problem, så det at
+jeg allerede hadde et problem fra NVE som langt fra var løst, gjorde at jeg
+følte at jeg gjorde lurt i å fortsette med denne problemstillingen. Gradvis
+forfinet jeg min kjennskap til praktisk Bayesiansk metodikk og lærte meg
+simuleringsmetoder som Importance Sampling og MCMC. Dette var ting jeg
+fikk bruk for da jeg skulle gå videre til multi-segmenterte vannføringskurver.
+Tidligere ble segmenter lagt inn manuelt av de som brukte
+vannføringskurvetilpasnings-programmene. En statistisk behandling av
+
+
+
+20
+
+Change Point-problematikk er nødvendig hvis vi skal få et ekte innblikk i
+kurve-usikkerheten, der vi også tar hensyn til usikkerhet angående antall
+segmenter og hvor segmenteringen foregår. En Bayesiansk analyse med flere
+modeller, en for hvert mulig antall segmenter, ble dermed lagd. I forbindelse
+med flomfrekvens-analyse blir ofte vannstandsdata i den ekstrapolertedelen
+av vannføringskurvene benyttet, så det ble også aktuelt å få et forhold til hva
+som skjer utenfor datamaterialet. En hierarkisk modell med en segmenteringsprosess på toppen og parametrene for hvert segment i bunnen, ble dermed
+lagd.
+For å være en så tilsynelatende
+enkel problemstilling, må jeg si at
+vannføringskurve-tilpasningen har
+introdusert meg for overraskende
+mange elementer innen
+statistikken. Jeg har fått bruk for
+modellvalgs-metoder, 'parallell
+tempering' og masse annet snacks.
+At denne analysen igjen ligger til
+grunn for videre analyse i
+hydrologisk sammenheng er også
+inspirerende, og har gjort meg
+nysgjerrig på hvordan
+vannføringskurve-usikkerhet
+Fra min youtube-serie om
+påvirker flomfrekvens-analyse. Min
+sannsynlighet - «Reasoning Under
+samarbeidspartner i NVE, Asgeir
+Uncertainty»,
+Petersen-Øverleir, har allerede
+begynt å se på dette i frekventistisk http://www.youtube.com/view_play_list?
+sammenheng. Her kan det definitivt p=4A65BA193FA66F69
+være aktuelt og se på dette med
+Bayesiansk metodikk, også.
+
+
+
+21
+
+Statistisk hypotesetesting i funksjonell genomforskning
+Doktoravhandling – planlagt innlevert våren 2009
+Clara-Cecilie Günther
+Institutt for matematiske fag, NTNU
+Jeg begynte som stipendiat ved Institutt for matematiske fag, NTNU,
+i januar 2005. Veilederen min er Mette Langaas og temaet for
+oppgaven er statistisk modellering og analyse innen funksjonell
+genomforskning. En av teknologiene som blir mye brukt av biologer
+er mikromatriser. Disse måler genuttrykket til et stort antall gener samtidig, og brukes
+blant annet til å sammenligne genuttrykkene til forskjellig grupper, for eksempel en
+kasusgruppe og en kontrollgruppe, eller til å undersøke hvordan genuttrykket endres over
+tid ved å se på flere tidspunkter. I samarbeid med gruppen til Rigmor Austgulen har jeg
+analysert mikromatriseforsøk fra en studie om preeklampsi (svangerskapsforgiftning), der
+vi fant gener som var differensielt uttrykt hos kvinner med preeklampsi sammenlignet
+med kvinner med normale svangerskap. Resultatene fra mikromatriseforsøk er lister med
+signifikant uttrykte gener som biologene kan undersøke nærmere. Siden gener ofte virker
+sammen er det imidlertid ønskelig å undersøke om bestemte grupper av gener er
+representert på disse listene framfor å bare se på enkeltgenene. Gengrupper kan være
+basert på genontologikategorier. Genontologi er en systematisk måte å kategorisere gener
+på innenfor de tre hovedkategoriene biologisk prosess, molekylær funksjon og cellulær
+lokalisering. Dersom vi har to lister med gener, liste A og B, ønsker vi å teste om en GOkategori er over- eller underrepresentert på liste A sammenlignet med liste B. Jeg har sett
+på situasjonen når listene er delvis overlappende, det vil si at noen gener er til stede på
+begge listene.
+Den samme situasjonen statistisk sett møter vi innenfor diagnostiske tester i medisinsk
+statistikk. Vi har to diagnostiske tester, test A og test B, for en bestemt sykdom. Ved å
+sammenligne de prediktive verdiene til testene, kan vi vurdere prediksjonsegenskapene til
+testene. Den positive prediktive verdien til en diagnostisk test er definert som
+sannsynligheten for at man har sykdommen gitt at testen er positiv. Vi ønsker derfor å
+teste om sannsynligheten for at man har sykdommen gitt at test A er positiv er lik
+sannsynligheten for at man har sykdommen gitt at test B er positiv, det vil si om den
+positive prediktive verdien for test A er lik den positive prediktive verdien for test B.
+Nullhypotesen er at disse to betingede sannsynlighetene er like.
+Situasjonen kan settes opp som en 23-tabell og beskrives ved en multinomisk fordeling.
+For å teste om de positive prediktive verdiene er like bruker vi en likelihood ratio-test.
+Den maksimale likelihooden under H0 må beregnes ved hjelp av numerisk optimering. Vi
+har gjennomført simuleringsstudier for å sammenligne denne og eksisterende tester.
+Likelihood ratio-testen er en asymptotisk test, og ved lave forventede verdier i cellene i
+23-tabellen trenger vi andre løsninger. Vi har funnet fordelingen til testobservatoren under
+
+
+
+22
+
+H0 ved hjelp av parametrisk bootstrapping og jobber nå med en eksakt test ved å ta i bruk
+bayesianske verktøy.
+Hypotesetesten beskrevet over har etter hvert blitt hovedtemaet for oppgaven, men jeg
+jobber også fortsatt med biologiske problemer. Transfekterte cellearray er en ganske ny
+teknologi som kombinerer mikromatriseteknologi med cellebiologiske metoder som
+transfeksjon og cellekultur. Siden dette er en nyere teknikk er det ikke innarbeidet en
+standard måte å analysere dataene på, men i samarbeid med gruppen til Torunn Bruland
+har vi vist at en lineær fixed effects-modell kan være en løsning. I tillegg har vi undersøkt
+hvor mange biologiske og tekniske replikater som er nødvendig for å oppdage
+signifikante effekter.
+
+
+
+23
+
+Referat fra feiringen av en artikkels 25 års jubileum
+Torsdag 22. november 2007 var det duket for 25-års feiring av artikkelen
+”Plots of P-values to evaluate many tests simultaneously” av Professor
+Tore Schweder (bilde til venstre over) og Professor Emil Spjøtvoll (bilde til
+høyre over).
+Det var Professor Odd Aalen som tok initiativ til feiringen, som ble støttet
+økonomisk av Biostatistical Modelling in the Medical Sciences (BMMS) og
+Senter for Forskningsbasert Innovasjon: Statistics for Innovation (SFI2).
+Jubileumsartikkelen ble publisert i tidsskriftet Biometrika i 1982, og siden
+den gang har artikkelen blitt sitert minst 130 ganger av andre
+vitenskapelige artikler (iflg. ISI Web of Science, ). Det betyr at artikkelen
+har blitt lest av tusenvis av interesserte vitenskapsmenn og –kvinner
+verden over.
+
+
+
+24
+
+Programmet for dagen var som følger:
+14:00-14:15
+14:15-14:45
+14:45-15:00
+15:00-15:15
+15:15-16:00
+
+Jubileumskake og kaffe
+Tore Schweder, UiO:
+“P-value plots and integrative confidence inference”
+Mer jubileumskake og kaffe
+Mette Langaas, NTNU:
+“From Schweder&Spjøtvoll (1982) to genomics”
+Helmut Finner, Heinrich-Heine Universität Düsseldorf:
+“Dependency, false discovery rate and the 1982 paper
+of Schweder and Spjøtvoll”
+
+Tore Schweder startet feiringen med å gi et kort overblikk over jubileumsartikkelen. Han fortalte at artikkelen ble skrevet mens han var ansatt ved
+Universitetet i Tromsø og Emil Spjøtvoll var ved Landbrukshøgskolen ved
+Ås. Schweder er nå ansatt ved Insitutt for økonomi ved UiO. Han er også
+tilknyttet Centre for Ecological and Evolutionary Synthesis (SFF, UiO) og
+har en bistilling ved Norsk Regnesentral. Spjøtvoll ble professor ved NTH i
+1983. Han døde i 2002, kort tid etter han hadde fullført sin andre periode
+som rektor ved NTNU. før det hadde han vært både prorektor og rektor
+ved NTH.
+Sammen med Spjøtvolls artikkel ”On the optimality of some multiple
+comparison procedures” i Annals of Mathematical Statistics i 1972, kan
+jubileumsartikkelen sies å være et viktig steg på veien til at begrepet false
+discovery rate (FDR) ble innført av Yoav Benjamini og Yosef Hochberg i
+artikkelen ”Controlling the False Discovery Rate: a Practical and Powerful
+Approach to Multiple Testing” i Journal of the Royal Statistical Society i
+1995. Artikkelen til Benjamini og Hochberg har 2614 siteringer (ISI Web
+of Science).
+I sitt foredrag gikk Tore også fra p-verdi til konfidensintervall, og deretter
+fra konfidensintervaller til konfidenskurver, les mer om dette i Schweder
+(2007) ”Confidence curves for nets”, kapittel 29 i Advances in Statistical
+Modeling and Inference, Essays in Honour of Kjell Doksum, V. Nair, ed.
+World Scientific. Tore har fortalt at det var Doksum som fikk Schweder og
+Spjøtvoll i gang med artikkelen. Da han besøkte Norge i 1978, hørte han
+at de to forfatterne hver for seg tenkte nokså parallelt om p-verdier, og
+foreslo at de skulle skrive noe sammen.
+Mette Langaas snakket om jubileumsartikkelens innføring av en estimator
+for begrepet ”andelen sanne nullhypoteser”. Dette begrepet er blitt veldig
+populært innen fagfeltet genomforskning, hvor tusenvis av hypoteser
+testes simultant (f.eks. for hvert av menneskets rundt 25 tusen gener
+ønsker man å undersøke om det forskjell i aktivitet når vi sammenligner
+syke og friske individer), og varianter av estimatoren fra
+jubileumsartikkelen er flittig ibruk idag.
+
+
+
+25
+
+Til slutt i programmet ble statistisk teori satt i fokus med en spesielt
+invitert foredragsholder fra Düsseldorf. Professor Helmut Finner er en
+velrennomert forsker innen multippel testing, og han fokuserte på
+hvordan man kan finne grenser for FDR under generelle antagelser om
+avhengighet. Foredraget tok utgangspunkt i de to artiklene ”Dependency
+and false discovery rate: asymptotics” av Helmut Finner, Thorsten
+Dickhaus og Markus Roters i The Annals of Statistics i 2007, og ”On the
+false discovery rate and an asymptotically optimal rejection curve” av de
+samme forfatterene, akseptert for publikasjon i The Annals of Statistics.
+Professor Finner avsluttet sitt foredrag med å påpeke at man i
+jubileumsartikkelen hadde foreslått en forbedring til Bonferronis metode
+for kontroll av Familywise error rate (dele på antallet sanne nullhypoteser
+istedenfor totalt antall hypoteser som skal testes). Denne forbedringen
+hadde han nylig studert de teoretiske egenskapene til, og konklusjonene
+var positive.
+Feiringen ble avholdt i lokalene til avdeling for biostatistikk ved Det
+Medisinske Fakultet, og seminarrommet var fylt av statistikere, biologer,
+medisinere, og andre - under hele feiringen.
+Til slutt: det anbefales på det varmeste å lese jubileumsartikkelen.
+http://biomet.oxfordjournals.org/cgi/content/abstract/69/3/493
+Den er velskrevet og fremdeles svært aktuell i dagens aktive multippel
+testings forskningsfelt. Og, som Tore Schweder poengterte i sitt foredrag
+– da kan du se ”hvor opplagt det hele er”!
+God lesning!
+
+
+
+26
+
+Avdeling for biostatistikk ved Universitetet i Oslo har
+feiret 25-års jubileum
+Marit B. Veierød og Odd O. Aalen
+I forrige TG var det en artikkel vedrørende Avdeling for biostatistikk der vi beskrev
+fagmiljøet og hvordan avdelingen har vokst fra én stilling i 1982 til nå å ha 5 faste stillinger
+og mange forskere. I anledning vårt 25-års jubileum fikk vi tatt et bilde av de med
+arbeidsplass ved avdelingen høsten 2007.
+
+Rad 3 fra venstre: professor Arnoldo Frigessi, professor Petter Laake, stipendiat Hayat
+Mohammed, forsker Tron A. Moger, stipendiat Jon Michael Gran, postdoc Taral Seierstad,
+førsteamanuensis Marit B. Veierød, professor Odd O. Aalen, professor Bo H. Lindqvist (på
+friår fra NTNU), førsteamanuensis Magne Thoresen og stipendiat Egil Ferkingstad.
+Rad 2 fra venstre: stipendiat Yiting Xue, stipendiat Marion Haugen, postdoc Kjetil Røysland,
+postdoc Birgitte F. De Blasio, stipendiat Nina Gunnes, stipendiat Ingvild Dalen og konsulent
+Rita Eng.
+Rad 1 fra venstre: stipendiat Joseph Sexton, postdoc Bettina Kulle, stipendiat Ida Laake og
+stipendiat Christine L. Parr.
+Ikke tilstede: postdoc Jo Røislien, forsker Øivind Skare og professor Dag S. Thelle.
+Avdeling for biostatistikk sine nettsider: http://www.med.uio.no/imb/stat/index.html
+
+
+
+27
+
+Vilnius University
+Faculty of Mathematics
+and Informatics
+
+22nd Nordic Conference
+on Mathematical
+Statistics (NORDSTAT)
+16-19 June, 2008, Vilnius, Lithuania
+www.nordstat2008.com
+
+
+
+28
+
+DEAR FRIENDS AND COLLEAGUES,
+th
+
+It is a great pleasure to welcome you at the 22 Nordic Conference on Mathematical Statistics (NORDSTAT)
+in Vilnius on 16-19 June, 2008. NORDSTAT is a biennial meeting for statisticians and probabilists from the
+countries in Northern Europe. First time it is organized by one of the Baltic countries, Lithuania. NORDSTAT also
+welcomes participants from countries outside Scandinavia and Baltic States. The official language at all
+sessions of this international conference is English. The focus is on recent research in the Nordic and Baltic
+countries, but we are also very happy to announce that the conference will be attended by a few specially
+invited guests from other countries. It will be an excellent possibility to share ideas, experience and recent
+scientific achievements, also to have a nice time together.
+th
+
+Vilnius, the historical capital of Lithuania dating back to the 14 century, has the most beautiful and the
+largest old town, awarded with the status of World Cultural Heritage by UNESCO, with Vilnius University being
+the oldest one in Eastern Europe. It is rapidly expanding as a modern European capital, so you can
+experience the harmony of the old and the new Vilnius. For the participants of the meeting this will provide
+beautiful atmosphere and the mood for work and friendship.
+We look forward to greeting you in Vilnius and hope that you will enjoy both the scientific sessions and the
+social program for participants and accompanying persons.
+With warm regards,
+
+Chairman of the Organizing Committee
+Remigijus Leipus
+President of the Lithuanian Statistical Society
+Vygantas Paulauskas
+
+
+
+29
+
+
+
+30
+
+REGISTRATION
+The deadline for early registration is 1 April, 2008. Registration form must
+be completed and participation fees paid by that date. More details
+about registration procedure please visit conference website.
+Conference Fees in Euro:
+Before 1 April
+
+1 May
+
+On site
+
+Participant
+
+200
+
+220
+
+250
+
+Student
+
+100
+
+120
+
+150
+
+Accompanying Person
+
+50
+
+50
+
+50
+
+Gala Dinner
+
+50
+
+50
+
+50
+
+Participants' Registration Fee Includes:
+Attendance to all scientific sessions
+Scientific documentation and conference bag
+Welcome Reception and Gala Dinner
+Coffee breaks and lunches during the conference
+Certificate of attendance
+Students' Registration Fee Includes:
+Attendance to all scientific sessions
+Scientific documentation and conference bag
+Welcome Reception
+Coffee breaks and lunches during the conference
+Certificate of attendance
+Accompanying Person's Fee Includes:
+Welcome Reception
+Vilnius city tour
+
+
+
+31
+
+ACCOMMODATION
+The delegates are welcome to book the rooms in the hotels of
+different categories for a special conference price. More
+information can be found at www.nordstat2008.com
+
+Single room
+
+Double room
+
+Best Western
+Naujasis Vilnius **** conference venue
+
+75
+
+85
+
+Reval Hotel Lietuva ****
+
+90
+
+110
+
+Ecotel ***
+
+46
+
+48
+
+ABSTRACTS
+You are kindly invited to submit abstracts for the NORDSTAT
+conference, either for an oral or poster presentations. Abstracts
+should be submitted by 1 April, 2008 as on-line submission following
+the instruction wizard at www.nordstat2008.com.
+Accepted
+abstracts will be published in the Abstract Book.
+
+
+
+32
+
+DATE
+16-19 June, 2008
+
+VENUE
+The meeting will take place in hotel Best
+Western “Naujasis Vilnius”. The hotel is situated
+on the bank of the River Neris in the center of
+Vilnius, only a 10-minute walk to the Medieval
+Old Town.
+
+OFFICIAL LANGUAGE
+English. No simultaneous translation will be
+provided.
+
+CERTIFICATE
+A Certificate of Attendance will be available
+for all delegates.
+
+CONTACTS
+NORDSTAT 2008 Conference Secretariat
+For questions regarding registration,
+accommodation, social program, and general
+information about the conference, please contact
+Conbaltas, Baltic Conference Organizers:
+Conbaltas UAB
+Baltic Conference Organizers - PCO
+Kareiviu str. 6
+LT-09117 Vilnius, Lithuania
+Tel. +370 5 2101436
+Fax +370 5 2120013
+E-mail: info@nordstat2008.com
+Website: www.nordstat2008.com
+
+
+
+33
+
+Pusleri nr. 23
+For n uavhengige standardnormalfordelte variable, hva blir (evt. tilnærmet)
+korrelasjonen mellom gjennomsnittet X n og medianen M n ?
+Hva kan sies om dette dersom vi fjerner antakelsen om normalitet?
+
+Løsning til:
+
+jostein.lillestol@nhh.no
+
+Pusleri nr. 22 (løsning)
+Denne gangen kom det en fin løsning fra Karl Ove Hufthammer i Bergen. Hans
+løsning og refleksjoner rundt problemstillingen følger som eget oppslag.
+Problemstillingen var:
+En ny type brusautomater tar bare 10-kroners mynter, og gir ikke tilbake vekslepenger. Dersom
+en flaske brus koster mindre enn 10 kroner, kommer en brus, samt mynten i retur med en viss
+sannsynlighet. Denne er slik at forventet beløp til automateier pr. myntinnkast blir korrekt. Per
+og Pål er svært tørste. Den billigste brusen koster 8 kroner, men de har bare en 10 kronemynt ”på
+fellesen”.
+Hva er sannsynligheten for at de får (minst) hver sin brus?
+Hva er forventet antall brus de kan få ut av 10-kronen?
+En annen brusautomat tar også bare 10-kroners mynter, og gir ingen mynt i retur, men gir isteden
+en ekstra brus med en viss sannsynlighet. Denne er slik at forventet verdi av utlevert brus pr.
+myntinnkast blir korrekt.
+Hva er sannsynligheten for at de får hver sin brus?
+Hva er forventet antall brus de får ut av 10-kronen?
+Hvilken av de to brusautomatene vil Per og Pål foretrekke?
+Per og Pål lurer på om forventet kostnad pr. mottatt brus er lik 8 kroner, slik det bør være sett
+fra kundens side. Avgjør om så er tilfelle. Hvis ikke, hva er retursannsynlighetene som gir
+rettferdighet for hver av automatene?
+Endrer dette noe på hvilken automat som bør foretrekkes?
+Hva mener du om spørsmålet om hva som er rettferdig?
+
+
+
+34
+
+Moderne brusautomatar og
+gammaldagse gjennomsnitt
+Karl Ove Hufthammer
+5. november 2007
+Automat 1
+Denne automaten tar inn 10 kroner og gjev ut
+ei brus, og eventuelt òg dei 10 kronene med
+sannsyn p. Sidan éi brus kostar 8 kroner og
+automaten i snitt skal ta inn desse 8 kronene
+per bruskjøp, må me ha:
+E(inntekt per myntinnkast)
+
+= 10(1 − p) + 0p = 8 ⇒ p = 1/5.
+Sannsynet for at både Per og Pål får seg minst
+éi brus kvar er lik sannsynet for at dei får ut
+tikroningen ved det første innkastet, altso 1/5,
+eller 0,2.
+Viss me no lar X vera talet på brus me får ut
+ved innkast på 10 kroner, har X fordelinga
+
+
+1 − p,
+x = 1,
+
+
+
+
+(1 − p) · p, x = 2,
+f (x) =
+
+(1 − p) · p2 , x = 3,
+
+
+
+..
+..
+
+
+.
+.
+Forventa tal på brus, E( X ), finn me lett:
+1(1 − p) + 2p(1 − p) + 3p2 (1 − p) + · · ·
+
+kroner, og 10/8 = 1,25. Men det er kanskje
+litt skuffande for Per og Pål at dei ikkje kan
+«forventa» å få meir, når dei potensielt kan få
+uendelig mange brus for ein tikroning!
+
+Automat 2
+Denne automaten tar òg inn 10 kroner og gjev
+ut ei brus, men gjev i tillegg ut ei ekstra brus
+med sannsyn p. Forventa verdi av utlevert
+brus per myntinnkast skal vera korrekt, altso
+10 kroner:
+E(verdi på brus utlevert)
+
+= 8(1 − p) + 16p
+= 10 ⇒ p = 1/4.
+Sannsynet for at både Per og Pål får seg éi
+brus kvar er altso 1/4, eller 0,25.
+Viss me no lar Y vera talet på brus me får ut
+ved innkast på 10 kroner, har Y fordelinga
+(
+1 − p, x = 1,
+g(y) =
+p,
+x = 2.
+
+∞
+
+Forventa tal på brus er:
+
+k =1
+
+E(Y ) = 1(1 − p) + 2p = 1 + p = 5/4 = 1,25.
+
+= (1 − p) ∑ kpk−1 = (1 − p)/(1 − p)2
+= 1/(1 − p) = 5/4 = 1,25.
+Dette verkar iallfall rimelig, sidan me legg på
+10 kroner for å få ei brus som berre kostar 8
+
+Sidan forventa brus er lik for dei to automatane, mens det er større sannsyn for at både
+Per og Pål skal få si eiga brus med automat 2,
+
+
+
+35
+
+vil det muligens vera fristande å føretrekka
+denne. Men samtidig er dei sikre på å ikkje få
+meir enn 2 brus, noko som er litt synd viss for
+eksempel bror Espen skulle dukka opp . . .
+
+Kostnad per brus
+Sidan me kjenner fordelinga til talet på brus
+per 10 kroner, kan me lett rekna ut forventa
+tikroningar per brus. For automat 1:
+E
+
+1
+X
+
+1
+= (1 − p ) ∑ p k −1
+k
+k =1
+1− p ∞ 1 k
+p
+p k∑
+k
+=1
+
+Verdien av denne uendelige rekkja er ikkje
+heilt innlysande, men viss me prøver å Taylorutvikla log(1 − p) rundt p = 0, finn me han
+lett:
+1
+X
+
+=−
+
+Tilsvarande utrekning for automat 2 er triviell:
+1
+1
+1
+1
+E
+= (1 − p ) + p = 1 − p
+Y
+1
+2
+2
+= 7/8 = 0,875.
+Kostnaden per brus er altso 8,75, som òg er
+i høgste laget, om enn noko billigare enn for
+automat 1.
+
+Meir rettferdige(?) retursannsyn
+For at forventa bruskostnad for automat 1
+skal vera 8 kroner, må me ha
+1
+X
+
+E
+
+1
+Y
+
+1
+= 1 − p = 0,8.
+2
+
+Dette gjev p = 2/5 = 0,4, som er sannsynet
+for at både Per og Pål får seg kvar si brus. Det
+er høgare enn for automat 1, men forventa
+brus er på berre 1,4, som er lågare enn for
+automat 1. Automatvalet ser ikkje like klart
+ut no. For øvrig bør automateigaren no budsjettera på å levera ut brus for 11,2 kroner for
+kvar tikroning som vert putta på, noko han
+nok vil ansjå som litt urimelig.
+
+1− p
+log(1 − p) ≈ 0,893.
+p
+
+Forventa kostnad per brus er altso omtrent
+8,93 kroner, som nok både Per og Pål vil synast er i høgste laget for ei 8-kroners brus.
+
+E
+
+For at forventa bruskostnad for automat 2
+skal vera 8 kroner, må me ha
+
+∞
+
+=
+
+E
+
+Dette gjev p ≈ 0,35, som er sannsynet for at
+både Per og Pål får seg kvar si brus (pluss
+eventuelt meir brus på deling). Forventa brus
+aukar til 1,54 flasker, mens forventa inntekt
+for automateigaren per myntinnkast vert no
+på berre 6,50 kroner, noko han neppe vert
+glad for.
+
+=−
+
+1− p
+log(1 − p) = 0,8.
+p
+
+Moralen
+Moralen får vera at forventinga av ein funksjon sjeldan er lik funksjonen av forventinga.
+For ein konveks funksjon som 1/x er han
+alltid større (eller lik). Når me ser på empiriske størrelsar gjeld det tilsvarande at det
+harmoniske gjennomsnittet alltid er mindre
+enn (eller lik) det aritmetiske.
+Spørsmålet om kva som er den viktigaste størrelsen å måla er interessant. Er det kroner
+per brus eller brus per krone me bør vera
+interessert i? Det vil nok for mange ikkjestatistikarar vera overraskande at dette ikkje
+er hipp som happ!
+Denne problemstillinga minner meg om ei
+som W.S. Jevons arbeida med på 1800-talet.
+Han var interessert i om verdien av gull hadde blitt påverka av store gullfunn som nylig
+hadde skjedd i Australia og California. Han
+
+
+
+36
+
+samla inn data om prisane på ei mengd varer frå to tidsperiodar, for so å samanlikna
+gjennomsnittlig prisendring.
+Men skulle han ta det aritmetiske gjennomsnittet eller det harmoniske gjennomsnittet?
+Med andre ord: skulle han sjå på kor mykje
+gull ein (i snitt) måtte betala for x mengd
+varer, eller heller på kor mykje varer ein i
+snitt fekk for y mengd gull? Løysinga hans
+var ingen av delane; han brukte det geometriske snittet (n-te rot av produktet av dei n
+tala)! Grunnen, og meir om Jevons, og mange
+andre interessante statistikarar, kan me lesa i
+den utmerka boka Statistics on the Table – The
+History of Statistical Concepts and Methods, av
+Stigler (1999).
+
+Meir om ulike snitt
+Val av kva type gjennomsnitt me skal bruka er
+særlig aktuelt i konkurransar og andre situasjonar der me samanliknar tal. La oss tenka
+oss to bilfabrikantar, A og B, som begge har
+to bilmodellar. Kven av fabrikantane har dei
+beste bilane? La oss no berre konsentrera oss
+om drivstoff-forbruket, og sjå på kor mange
+liter på mila kvar bil brukar:
+Fabrikant A
+Fabrikant B
+
+1,0
+0,6
+
+1,5
+2,0
+
+For fabrikant A er gjennomsnittet 1,25 liter
+på mila, mens for fabrikant B er det 1,30 liter
+på mila. Me går altso for fabrikant A.
+Men ein dag får me besøk av vår rike og bilinteresserte onkel Ronald frå Amerika. Han
+fortel entusiastisk at der han kjem frå, der målar dei drivstoff-forbruket i mile per gallon –
+altso kor langt me kjem på ei viss mengd
+bensin.
+La oss for enkelheits skyld halda oss til metriske einingar, og sjå på kor mange mil me
+kjem på éin liter bensin med kvar av bilane:
+
+Fabrikant A
+Fabrikant B
+
+1,00
+1,67
+
+0,67
+0,50
+
+For fabrikant A er gjennomsnittet 0,83 mil per
+liter, mens for fabrikant B er det 1,08. Her er
+store verdiar positivt, so fabrikant B er den
+beste. Men det er jo motsett svar enn me fekk
+når me såg på kor mange liter på mila bilane
+brukte i snitt! Korleis kan dette ha seg? Og
+kva er «rett» måte å rekna ut snittet på?
+Dette er faktisk det same problemet som me
+hadde med brusautomatane. Det som var ein
+«rettferdig» pris sett frå automateigaren sitt
+synspunkt, var urettferdig for kunden, og vise
+versa. «Til lags åt alle kann ingen gjera.» Forventinga (eller gjennomsnittet) er ikkje ekvivariant under ikkje-lineære funksjonar, same
+kor mykje me skulle ønskja det var slik!
+I bileksempelet er det kanskje ikkje so vanskelig å velja rett bil: me vel den eine bilen med
+lågast drivstoff-forbruk. Og då vert svaret
+heldigvis alltid det same, uansett kva måleeining me brukar! Men om me måtte velja å
+kjøpa og bruka begge bilane frå enten fabrikant A eller B, kven skulle me då velja?
+Det kjem an på kjøremønsteret vårt. Er me
+av den eksentriske typen, som kjører éin bil
+til jobb og den andre bilen heim att?1 Eller
+er me av den hypereksentriske typen, som
+kjører eine bilen i éin time, for so å kjøra
+vidare med den andre bilen den neste timen
+(korleis me no skulle få det til)? Graden av
+eksentrisitet avgjer val av bilfabrikant . . .
+
+Referansar
+Stigler S.M. (1999). Statistics on the Table: The
+History of Statistical Concepts and Methods.
+ISBN 0-674-00979-7.
+1 Kanskje litt som Tevje frå Spelemann på taket, som når
+
+han vart rik skulle skaffa seg éi lang trapp som berre
+gjekk opp, og éi, mykje lengre, som berre gjekk ned.
+Og éi som berre sto der til stas.
+
+
+
+37
+122x71 mm
+
+Norsk institutt for naturforskning, NINA, er et nasjonalt og internasjonalt
+kompetansesenter innen naturforskning. Vår kompetanse utøves gjennom
+forskning, utredningsarbeid, overvåking og konsekvensutredninger. NINA har
+ca 160 ansatte. NINAs hovedkontor ligger i Trondheim. Vi har også kontorer
+i Tromsø, Lillehammer og Oslo. NINA er et institutt i Miljøalliansen.
+
+NINA trenger nye medarbeidere:
+
+Stipendiatstilling innen biostatistikk
+- effekter av klimaendring på økologiske systemer
+Se fullstendig utlysningstekst på www.nina.no
+
+Søknadsfrist
+08.02.2008
+
+
+
+38
+
+Two Ph.D research fellowships
+available at the Centre for Research-based Innovation
+Statistics for Innovation,
+at the University of Oslo and Norsk Regnesentral, Norway.
+Both Ph.D fellowships offered are three year appointments. Applicants should have a Master of
+Science degree in statistics, actuarial sciences, mathematics, computer science, or equivalent.
+This degree must be obtained before the appointment is made. The ideal candidate has some
+experience in methodological and /or applied statistics, and an outstanding potential and genuine
+interest to develop statistical methodology aimed to innovation. The research project will be
+defined together with the candidate and the supervising team, including staff from the University
+of Oslo, NR and the other partners. The positions will be at one of the participating departments:
+Mathematics, Computer Science, Basic Medical Research or NR, all located, together with the
+centre’s headquarter, on the campus of the University of Oslo.
+The successful candidates will join a very active scientific group in Oslo conducting research in
+statistical methods directly relevant to innovation in one of the four sectors (marine, health,
+finance and insurance, petroleum) and at our partners. Active research areas include biostatistics,
+statistical genomics, geostatistics, simulation based inference, Bayesian methods, rare events,
+complex models, huge datasets, data integration, event history analysis, among others.
+For more information see: http//:sfi.nr.no or email Arnoldo Frigessi (frigessi@medisin.uio.no)
+Salary: NOK 325 600 – 355 000 annually according to qualifications. Salary code 43 – 48
+Reference no: 08/995
+How to apply:
+The application (marked with reference number 08/995) should be sent before the deadline to:
+The Faculty of Mathematics and Natural Sciences,
+attention Mrs. Grete Andresen,
+P.O. Box 1032, Blindern,
+0315 Oslo
+Norway
+Applications can also be sent by email, to grete.andresen@matnat.uio.no.
+In this case the application must be a SINGLE pdf file, into which all relevant documents have
+been merged. Documents will not be returned.
+The application must include:
+1. a letter of application, also indicating the preferred starting date,
+2. a brief summary of research interests,
+3. curriculum vitae with full list of publications with internet links to published or
+unpublished papers or master thesis
+4. the names and emails of at least two references.
+5. Applicants should send copies (not originals) of grades. Foreign applicants should attach
+an explanation of the grading system of their university.
+
+
+
+39
+
+Nytt fra NTNU
+Nye dr.philos
+Sivilingeniør Kjersti Aas forsvarte 23. januar 2008 sin avhandling Statistical Modelling
+of Financial Risk.
+Tittel på prøveforelesning over selvvalgt emne: Financial risk management: Why it is
+important and why statistics is needed.
+Tittel på prøveforelesning over oppgitt emne: The role of extreme value theory in modelling financial risk.
+Komité: PhD Alexandra Dias, University of Warwick (UK); Professor Jostein Lillestøl,
+Norges Handelshøyskole; Professor Arvid Næss, NTNU.
+
+Nye PhD
+M.Sc Sara Martino forsvarte 30. november 2007 sin avhandling Approximate Bayesian
+Inference for Latent Gaussian Models.
+Tittel på prøveforelesning Recent methods for Bayesian model comparison.
+Komité: Professor Sylvia Richardson, Imperial College, London; Professor Arnoldo
+Frigessi, Universitetet i Oslo; Førsteamanuensis Mette Langaas, NTNU.
+Arbeidet er utført ved Institutt for matematiske fag, NTNU, med Professor Håvard Rue
+som hovedveileder.
+
+Nye Master
+Arild Brandrud Næss: Bayesian Text Categorization
+Veileder: Jo Eidsvik og Heri Ramampiarov (Institutt for datateknikk og informasjonsvitenskap, NTNU).
+
+Nye ansatte
+Ingelin Steinsland er ansatt som førsteamanuensis i statistikk fra 1. januar 2008.
+
+
+
+40
+
+Nytt fra UMB:
+Nye Mastere i Bioinformatikk og anvendt statistikk
+Guro Dørum Juni 2007
+Tittel på oppgaven:
+Gene Set Enrichment – Analyse av stressresponser hos
+Enterococcus Faecalis V583
+Veiledere:
+Førsteamanuensis Lars G. Snipen, IKBM UMB
+Forsker Solve Sæbø, IKBM UMB
+Forsker Ågot Aakra, IKBM UMB
+Sensor:
+Ole Christian Lingjærde, IFI UIO
+
+Ansettelser
+Julia Isaeva August 2007
+Stipendiat i Anvendt Statistikk
+Prosjekt: Bruk av multivariat statistikk på ”in silico”-genererte data fra komplekse
+differensial-likningsmodeller med tanke på modellreduksjon og økt forståelse av
+modellegenskaper.
+Veiledere:
+Forsker Solve Sæbø, IKBM UMB
+Professor John A Wyller, IMT UMB
+Evgeniy Zukovsky, Tamov State University, Russland
+Guro Dørum August 2007
+Stipendiat i Anvendt Statistikk
+Prosjekt: Modellering, testing og validering i forbindelse med multivariate data med
+komplekse avhengighetsstrukturer (variabelgrupper, observasjonsavhengigheter, repeterte
+multivariate målinger).
+Veiledere:
+Forsker Solve Sæbø, IKBM UMB
+Førsteamanuensis Lars G Snipen, IKBM UMB
+
+
+
+41
+
+Nytt fra Universitetet i Bergen
+Nye masterkandidater:
+Håkon Gundersen: Prising av rentegarantier.
+Veileder: Trygve Nilsen
+Wenjia Ma: Analysis of claim numbers in marine insurance.
+Veileder: Jostein Paulsen
+Morten Aarflot: Modellering av tidsavhengig genaktivitet.
+Veileder: Hans A. Karlsen
+Cathrine Hennie Svendsen: Analysis of Asian Options and the Shipping Market.
+Veileder: Jostein Paulsen
+
+Nyansettelser:
+Martin Hunting er ansatt som universitetsstipendiat.
+
+Diverse:
+Jostein Paulsen har permisjon i vårsemesteret og foreleser for studentene på finansprogrammet ved University of Chicago.
+
+1
+
+
+
+42
+
+NYTT FRA UNIVERSITETET I OSLO
+
+Nye Master-kandidater, høsten 2007:
+Bjørn Olav Bakken: Dynamic trading strategies CPPI vs. constant mix.
+Veileder: Erik Bølviken.
+Rettelse til Nytt fra UiO i TG, september 2007:
+Veileder til Ole Nikolai Lie var Fred Espen Benth og ikke Bent Natvig.
+
+Tekniske rapporter:
+D. Berg: Copula goodness-of-fit testing: an overview and power comparison.
+D. Berg, J.-F. Quessy: Local sensitivity analyses of goodness-of-fit tests for
+copulas.
+F. Proske: Stochastic Differential Equations — Some New Ideas.
+A. B. Huseby: Oriented matroid systems.
+
+Sluttet:
+Eivind Damsleth sluttet som professor II høsten 2007.
+
+1
+
+
+
+43
+
+Nytt fra Universitetet i Tromsø
+Uteksaminert master student:
+Mohammed Ouassou: Statistical Analysis of CGPS Time Series
+Veileder: Fred Godtliebsen
+Ansettelser:
+Kevin Thon (Stipendiat)
+Jorn Schulz (Stipendiat)
+Motivasjonspris fra TTO Nord under forskningsdagene i Tromsø
+Tildelt Vedad Hadziavdic og Fred Godtliebsen for prosjekt knyttet til automatisk deteksjon av
+fø‡ekk-kreft.
+
+1
+
+
+
+44
+
+
+
+Norsk Statistisk Forening
+Kasserer: E-mail:hborgos@slb.com
+
+Tlf: 51 94 64 66
+
+Postgirokonto: 0530 2773299
+
+_____________________________________________
+
+Årskontingent Norsk Statistisk Forening 2008
+Medlemskontingent i NSF er kr. 200,- pr. år for ordinære medlemmer og kr. 50,- for studenter (til og med mastergrad). På
+adresselappen bakpå TG står det anført siste år vi har mottatt kontingent fra deg. Sjekk adresselappen! De som ikke har
+betalt for tidligere år gjør dette sammen med kontingenten for 2008. Dersom du mener betalingsinformasjonen ikke
+stemmer, gi beskjed til hborgos@slb.com.
+NB: Dersom din arbeidsgiver betaler kontingenten, sørg for at navnet ditt kommer med på innbetalingen.
+Hva gjør vi med pengene?
+De største utgiftspostene for NSF er overføringer til lokallagene i Oslo, Bergen og Trondheim, NSFs medlemskap i the
+European Mathematical Society (EMS) og the International Statistical Institute (ISI), utgivelse av TG, og utgifter i
+forbindelse med diverse arrangementer (bla. støtte til studenter ved deltakelse på det norske statistikermøte).
+Medlemsregister
+For at medlemsregisteret skal være best mulig oppdatert er det viktig at du oppgir evt. ny post/epost-adresse ved å sende
+meg en epost. Vi har opprettet en egen mailingliste for NSFs medlemmer, nsf-medlemmer@math.uio.no. Dersom du ikke
+mottar epost på denne lista, send meg din oppdaterte epostadresse.
+Betalingsfrist for innbetaling av kontingent er 20. april.
+PÅ FORHÅND TAKK!
+Vennlig hilsen
+Hilde Grude Borgos
+Kasserer NSF
+
+Kontingent NSF 2008: kr. 200 (kr. 50 for stud.)
+
+20.04.2008
+
+NSF v/ Hilde Grude Borgos
+Schlumberger Stavanger Research
+Postboks 8013
+4068 Stavanger
+
+0530 2773299
+
+
+
+
+
+
+
+RETUR:
+Norsk Statistisk Forening
+v/Hilde Grude Borgos
+Schlumberger Stavanger Research
+Postboks 8013
+4068 Stavanger
+
+B
+
+
+

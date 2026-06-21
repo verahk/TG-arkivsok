@@ -1,0 +1,3497 @@
+ISSN 0803-8953
+TILFELDIG GANG
+Nr. 1, årgang 17
+Februar 2000
+
+Utgitt av Norsk Statistisk Forening
+INNHOLD
+Redaksjon:
+
+Fra redaktøren. Odd Aalen
+Fra formannen.
+
+Geir Egil Eide
+
+Millenniumsartikler
+
+Statistikkfaget ved årtusenskiftet: Refleksjoner og visjoner. Ivar Heuch
+
+Statistikkfaget ved årtusenskiftet: Reflections. Arnoldo Frigessi
+Statistiske reisebrev
+Noen personlige inntrykk fra Nepal og Kathmandu University. Stian Lydersen
+
+Forskningsopphold i utlandet — 2 år i Seattle. Per-Henrik Zahl
+Debatt
+“Er Norge et biostatistisk u-land?” Noen kommentarer. Jon Stene
+
+Statistikk i skolematematikken.
+
+Tore Wentzel-Larsen
+
+Er det noen plass til statistikk i skolematematikken? Ivar Heuch
+
+Statistikk i skolen — hva skjer? Ørnulf Borgan
+Eksamensoppgaver fra videregående skole.
+Pusleri
+
+Pusleri-spalten. Jostein Lillestøl
+Milepæler
+
+Ellen J. Amundsen 50 år, 18. januar 2000.
+
+Ørnulf Borgan og Odd Aalen
+
+Ørnulf Borgan 50 år, 8. april 2000. Anders Rygh Swensen og Odd Aalen
+Faglig stoff
+
+Sammendrag av doktoravhandlinger.
+
+Ola Håvard Diserud, Alfhild Lien Eide, Randi Hammervold, Vidar Hjellvik,
+Jan Terje Kvaløy, Oddgeir Samset, Øivind Skare, Bård Storvik og Jarle Strand
+Meldinger
+Seksjon for klinisk statistikk i NSF? Eva Seim
+Referat fra årsmøtet for 1999, Statistisk Forening i Bergen.
+Nytt fra Universitetet i Oslo.
+
+Grete U. Fenstad
+
+Nytt fra statistikk gruppen ved NTNU. Håvard Rue
+Nytt fra Universitetet i Bergen.
+
+Trygue Nilsen
+
+Den 18. nordiske konferanse i matematisk statistikk.
+
+Terje Schaathun
+
+
+
+
+
+Redaksjon:
+Odd Aalen (redaktør)
+Grete Usterud Fenstad (redaksjonssekretær)
+
+Ingrid Glad
+
+Nils Lid Hjort
+
+Redaksjonens adresse:
+Odd Aalen
+
+Seksjon for medisinsk statistikk
+
+Universitetet i Oslo
+P.b. 1122 Blindern, 0317 Oslo
+
+Tlf: 22 85 12 36
+Fax: 22 85 13 13
+
+e-mail: odd.aalen@basalmed.uio.no
+
+Trykking og utsending av TG utføres av
+Statistisk sentralbyrå
+
+Bidrag til Tilfeldig Gang:
+Alle slags bidrag til bladet er velkomne, enten det gjelder nye temaer av interesse for norske
+statistikere, eller man har kommentarer til innlegg som allerede har stått i bladet. Stoff til
+
+neste nummer må være redaksjonen i hende innen 15.4.2000.
+Det greieste er at stoffet sendes inn som Word-fil til redaktørens e-mail-adresse, se ovenfor.
+Alternativt kan vi ta en ren tekst-fil, men vil helst ikke ha TEX-format med mindre dette er
+nødvendig på grunn av matematikken.
+
+Vi er i ferd med å få opp en nettversjon av TG, se følgende internettadresse:
+www.math.uio.no/nsf/web/index.htm . Stoff fra dette nummer og fremover vil bli lagt ut i
+nettversjonen som vil være operativ i løpet av kort tid. De som leverer bidrag til TG og som
+ønsker å reservere seg mot at bidraget deres legges ut på nettet, må gi beskjed om dette ved
+
+innsendelse av stoff.
+
+
+
+Fra redaktøren:
+Med en noe forsinket hilsen om Godt Nyttår utkommer med dette årtusenets første,
+
+men forhåpentlig ikke siste, nummer av TG. Som resten av verden er bladet kommet
+seg helskinnet gjennom årtusenskiftet. Begivenheten, altså årtusenskiftet, er fremdeles
+ikke glemt og markeres i dette nummeret med to innlegg som skuer fremover inn i vår
+tåkede fremtid, nemlig bidragene av Ivar Heuch og Arnoldo Frigessi.
+En av de hyggelige sidene ved å være redaktør er at man møter folks velvilje til
+stadighet. De fleste er positive når de blir spurt om å skrive og de velskrevne innleggene som flagrer elektronisk inn på redaksjonens e-mail når deadline nærmer seg,
+
+og gjerne litt etter deadline, viser at norske statistikere ikke bare behersker tallene,
+men også ordene.
+
+Skoledebatten fortsetter i dette nummer med flere innlegg. Jeg fastholder at dette er et
+
+av de viktigste temaer i norsk statistikk i dag. Statistikkfagets inntog i skolen er også
+fagets vei ut av skyggenes dal. Selvfølgelig får man da litt skarpere lys på seg: Hva
+synes nå egentlig titusener av norske ungdommer om dette faget vårt? Er de fascinert
+av normalfordelingen med og uten kjent varians. Kanskje ikke, men mulighetene er
+der for å formidle det spennende ved faget. Hvis man ser på lærebøker i andre fag pr
+år 2000 og sammenlikner med lærebøkene på 60-tallet da undertegnede gikk på skole,
+er det utrolig hvor mye mer spennende bøkene virker idag. De gamle skolefag ser ut
+til å gjøre fremskritt i sin presentasjon, og det skulle derfor være håp for oss også.
+Saken om statistikk i skolen krever oppmerksomhet hele tiden. Den kan ikke bli
+liggende i troen på at nå er alt såre vel. Det er også avgjørende at denne oppmerksomheten når utenfor våre egne sirkler. For eksempel er det ønskelig at engasjementet 1
+
+skolesaken og andre saker ikke bare begrenses til TG’s spalter og vår forholdsvis
+beskjedne leserkrets. Liknende innlegg burde sendes til blader som Skolefokus, til
+matematikernes blader og kanskje avisene. Enkelte innlegg fra TG, både om skole og
+andre temaer, kunne gjerne, eventuelt i litt bearbeidet form, i ettertid vært publisert for
+et videre publikum. Mye av artikkelstoffet i TG er så godt og grundig utarbeidet at det
+burde nå et større publikum.
+
+En annen mulighet for videre publisering er å få stoff ut på Internett. Redaksjonen
+nærmer seg nå en løsning på denne saken. Vi vil snart være i Cyberspace!
+
+Odd Aalen
+
+
+
+Fra formannen:
+Kjære medlemmer.
+
+I vintertiden er det kjekt å tenke fremover til den varmere årstid, og hva er da mer
+naturlig enn å tenke på mulighetene til å delta på eksotiske faglige møter, konferanser
+eller kurs.
+
+Som statistikere formidler vi tildels
+
+fundamentale og lite skiftene
+
+paradigmer, men ikke minst dataalderen gjør at metodene og hva som er praktisk
+
+mulig endres med økende akselerasjon. Metoder som tidligere bare var teori kan etter
+hvert benyttes i praksis. Internett og email gjør at nye ideer brer seg som ild i tørt
+gress og det blir umulig å være oppdatert om det nyeste nye til enhver tid. Imidlertid,
+utfordringene står i kø, ny teori utvikles og ny programvare tilbys med stadige nye
+muligheter. Tiden fra tanke til artikkel er nok fortsatt den samme, men dataalderen
+gjør at tiden til publisering er vesentlig kortet ned. Kommunikasjon med tidsskrifter,
+konferansearrangører og medforfattere langt borte foregår over natten via email. Man
+kan melde seg på faglige diskusjonsgrupper, hospitere på faglige nyhetstjenester og
+delta i internasjonale og nasjonale faglige fora via datanettet. Har man anskaffet
+
+moderne programvare kan korrigeringer og nye versjoner lastes ned over nettet.
+Enkelte brukergrupper og leverandører tilbyr rådgiving per email der erfarne
+statistikere besvarer spørsmål av teknisk og faglig art i forbindelse med bruk av
+programmer og annet. Man kunne nesten være fristet til å tro at de nye
+kommunikasjonsveiene helt overflødiggjør faglige møter og kurs der mennesker
+møtes og utveksler kunnskap og ideer ansikt til ansikt. Tidligere innlegg i TG har
+påpekt den lave deltakelsen fra norske statistikere på internasjonale konferanser.
+Kanskje er en del av årsaken at man tenker at dette ikke er nødvendig. Vi har jo
+tilgang på alt vi trenger fra *sofakroken' Dog, på tross av teknikkens mange
+velsignelser, det er min overbevisning at som statistikere så trenger vi også å møtes
+utenfor det virtuelle. På konferanser eksponeres vi ofte for det uventede; faglige
+kontakter oppstår der en minst venter det, og foredrag gir oss ideer som vi ellers ikke
+hadde kommet på. Finnene har skjønt det. Ingen reiser så mye internasjonalt som
+finnene. De kan godt være våre forbilder. I NSF slår vi i år et slag for å få med våre
+fremtidige norske kolleger på den nordiske konferansen i matematisk statistikk i
+Grimstadi juni. I alt 9 hovedfagsstudenter har søkt styret om reisestipend og det er
+gledelig. Forhåpentligvis vil de føle en faglig og sosial tilhørighet som vil virke
+inspirerende til senere deltakelse i felles faglige fora og som kan ha ringvirkninger på
+rekrutteringen til statistikk-studiene. Vel møtt til sommeren!
+Geir Egil Eide
+
+
+
+Statistikkfaget ved årtusenskiftet: Refleksjoner og visjoner
+Ivar Heuch
+
+Matematisk institutt, Universitetet i Bergen
+
+I
+
+anledning
+
+av
+
+årtusenskiftet
+
+har mange
+
+fagtidsskrift publisert
+
+betraktninger
+
+om
+
+fagfeltenes utvikling, status og fremtidsutsikter. De fleste artiklene understreker hvor
+vanskelig det er å si noe om videre faglig utvikling, til dels mye verre enn å formulere et
+rimelig scenario for samfunnsutviklingen. Likevel har mange et håp om at oversikter over
+det som skjedde f.eks. i siste århundre skal kunne antyde underliggende lovmessigheter
+bestemt av fagets struktur. Samtidig kan man lære noe av måten utfordringene har vært
+
+behandlet på. I noen grad vil en kunne påpeke potensielle problemer ved utviklingen
+videre og forhåpentligvis unngå stygge fallgruber.
+
+For fag som fysikk eller kjemi kan man gå tilbake til prediksjoner som ble foretatt
+omkring århundreskiftet i 1900, og kontrollere om forventningene den gangen har slått til.
+Hovedinntrykket vil sikkert være at det har skjedd bare i liten grad. I et eget supplement
+med milleniumsinnlegg til tidsskriftet Nature blir det påvist at svært mange av
+problemene som ble tatt opp ved prediksjonene i 1900 om vitenskapelig og teknisk
+utvikling, har sine motstykker i betraktningene rundt dette århundreskiftet [1].
+Er statistikerne spesialister på prediksjon?
+Statistikkfaget burde i prinsippet kunne bidra med aktuelle prediksjonsmetoder når en
+
+har observasjoner av denne typen tilgjengelig fra forskjellige tidspunkt. Det spørs likevel
+om man kan finne statistikere som er villige til å påta seg slikt arbeid når den store
+
+usikkerhet og dårlige relevans av materialet tas i betraktning. Er det snakk om utviklingen
+innenfor faget statistikk selv, blir prediksjonsproblemene enda verre, for det første fordi
+svært store deler av faget har kommet til etter forrige århundreskifte, og dessuten fordi
+utviklingen påvirkes av så mange ytre faktorer.
+På denne måten står vårt fag i en spesiell posisjon sammenlignet med mange grunnleggende realfag. Statistikk er et redskapsfag, der problemformuleringene hentes fra andre
+fagfelt. Utviklingen blir derfor påvirket av landevinninger på disse områdene. Samtidig
+gjør statistikkfaget selv bruk av redskap, særlig hentet fra matematikk og informatikk, slik
+at mulighetene for videre innsats avhenger av metoder som andre gjør tilgjengelige.
+Foruten faglig utvikling i andre disipliner er også generelle samfunnsforhold vesentlige.
+Dette gjør det enda verre å forutsi hvilken vei utviklingen vil ta eller å få øye på tidløse
+lovmessigheter.
+Klassifikasjonsproblemer
+
+I denne sammenhengen er det naturlig å spørre om faget i det hele tatt utgjør noen
+
+naturlig enhet. La oss gjøre et tankeeksperiment der en nøytral klassifikator blir satt til å
+ordne vitenskapelig ansatte på et universitet eller annen forskningsinstitusjon i naturlige
+grupper, ved en eller annen form for ‘cluster-analyse’. Naturligvis må man ignorere
+eksisterende formell tilhørighet til institutter og avdelinger. Vil alle som betegnes som
+statistikere i dag, bli plassert på et eller annet hierarkisk nivå 1 en felles gruppe som ikke
+omfatter noen andre? Selv om svaret trolig er nei, kan det likevel tenkes at organiseringen
+av faget i dag er rasjonell ut fra historiske og strategiske hensyn. Det er for den saks skyld
+tvilsomt om f.eks. matematikere eller informatikere ville komme ut som veldefinerte
+
+A
+
+
+
+klynger i denne analysen, selv om de kanskje utgjør mer enhetlige grupper enn oss
+statistikere.
+
+Passende betegnelse på vårt fag hersker det likevel stor tvil om. Nelder [2] hevderi sitt
+milleniumsinnlegg i The Statistician at ‘statistical science” vil være et mer dekkende
+
+navn enn ‘statistics’. Det nye navnet skal angivelig gjenspeile bedre en syklus med trinn
+av typen ‘design-execute-analyse-predict’, som kan gjennomgås flere ganger i et større
+eksperiment. Natvig [3] er også inne på at dagens betegnelse kan føre til misforståelser.
+
+Navnet har ikke bare intern interesse, men har viktige konsekvenser for folks generelle
+holdning til faget. Personlig har jeg stor sans for betegnelsen "dataanalyse”, selv om dette
+
+begrepet i øyeblikket har en annen, litt mer avgrenset betydning.
+Burde man ansett statistikk som et slags generelt vitenskapsteoretisk hjelpemiddel i
+kvantitative fag? I sin diskusjon av forholdet mellom vitenskapelig metode og statistikk
+nevner Hand
+
+[4] at statistikkfaget er blitt beskrevet som *the science of doing science”.
+
+Han påpeker at det er forholdsvis god, men langt fra perfekt overensstemmelse mellom
+
+ideene i generell vitenskapsteori og tankegangen i statistisk metodelære. Det gjelder
+uansett hvilken innstilling man har til grunnlaget for statistisk inferens. På den annen side
+mener Healy [5] at statistisk tankegang står nærmere teknologi enn vitenskap. Hensikten
+med bruk av statistiske metoder er snarere å belyse praktiske problemer enn å svare på
+dype vitenskapelige spørsmål. Box [6] understreker hvor viktig vekselvirkningen er i
+vitenskapelig arbeid mellom teoribygning og praktiske observasjoner, og han beskriver
+hvordan denne prosessen ga R.A. Fisher inspirasjon til utvikling av mange statistiske
+metoder.
+
+‘Survival of the fittest’ blant statistiske metoder?
+
+Utviklingen innenfor selve faget statistikk har ikke i samme grad blitt gjenstand for
+analyse etter vitenskapsteoretiske prinsipper. Grovt regnet kan man øyne tre stadier i
+utviklingen av nye deler av faget, hvis man begrenser seg til statistikk i betydningen
+analyse av datasett. Nye banebrytende tanker blir ofte lansert med utgangspunkt i
+praktiske problemstillinger. Så kommer et forholdsvis langt tidsrom med utvidelser og
+detaljstudier av metodene. I denne perioden er feltet på mote i mange statistiske
+metodetidsskrift. Mangler ved de opprinnelige ideene kan likevel bli rettet på både med
+teori og praktiske studier. I mange tilfeller blir området dermed en del av den etablerte
+viten innenfor statistikkfaget. Den virkelige ildprøven kommer derimot i anvendelsenes
+verden i tredje stadium. Her vil det vise seg om tankene klarer å konkurrere med andre
+ideer, og om de fører til nyttige praktiske resultater.
+
+Det er for tiden populært å sammenligne utviklingen innenfor forskjellige
+naturvitenskaper med Kuhns teorier [7] om relativt store, raske forandringer fra tid til
+annen, forbundet med vesentlige paradigmeskifter. Ifølge denne teorien foregår det
+mindre epokegjørende ‘normal science’ innimellom de store sprangene. Beskrivelsen
+ovenfor av statistikkfaget stemmer til dels med dette bildet, selv om paradigmeskiftene
+normalt ikke fører til forkastning av de gamle betraktningsmåtene, men snarere gir et
+verdifullt supplement. Deretter foregår det nærmest en *naturlig seleksjon” blant metoder
+og modeller som kan ha blitt etablert på ulike tidspunkt. Det er ikke gitt at metodene med
+størst kompleksitet vinner, og ofte vil enkle metoder ha innebyggede fortrinn som gir dem
+ekstra seleksjonsverdi. Det stemmer riktignok at det også er sterke konflikter om grunn-
+
+leggende statistiske prinsipp, men den uenigheten går langt tilbake og passer ikke med
+beskrivelsen av paradigmeskiftene.
+Hvilken betydning bør disse tankene ha for våre holdninger til nye og uvante statistiske
+ideer? For det første må vi være åpne for vesentlige paradigmeskifter også i fremtiden.
+
+9
+
+
+
+For det andre må man se positivt på en oppblomstring av begrensede fagfelt over kort tid,
+selv om den praktiske nytten ikke alltid er overbevisende. For det tredje bør vi være svært
+forsiktige med å felle noen endelig dom over en gruppe statistiske metoder før de har fått
+anledning til å delta i en rettferdig konkurranse blant brukerne. Omres beskrivelse [8] av
+
+*signifikante metodesprang” initiert av ikke-statistikere passer godt inn i det første stadiet i
+dette bildet og viser hvor viktige anvendelsene er som ekstern inspirasjonskilde. En kunne
+
+også prøve å samle empirisk grunnlag for teorien om paradigmeskifter f.eks. ved å
+gjennomgå verket Breakthroughs in Statistics [9], som gjengir viktige klassiske arbeider.
+Mitt personlige inntrykk er imidlertid at svært mange av de klassiske ideene virkelig har
+blitt stående, uten å bli glemt i den påfølgende raske utviklingen.
+Beskjedne visjoner?
+
+Hva trengs i dagens situasjon? Hva kommer med stor sannsynlighet til å bli utviklet
+innenfor faget i løpet av 10 eller 100 år? Svarene på disse spørsmålene må naturligvis bli
+sterkt personlig preget, og de vil avhenge av om problemene betraktes av en praktiker
+eller teoretiker. Jeg stiller meg vesentlig på praktikerens side og prøver nedenfor å
+
+formulere fem ønsker som jeg vil anse som ganske realistiske. De er av temmelig ulik
+natur, og noen av dem er nesten oppfylt allerede, selv om dagens løsninger er langt fra
+
+perfekte. Ellers kan tidsperspektivet være helt forskjellig for de aktuelle ønskene.
+1. Statistisk metodebank. Statistikkfaget utvikler seg i mange retninger, og det er
+umulig å være spesialist på alle aktuelle områder. Likevel har de ulike disiplinene så
+
+mange berøringspunkt at hver statistiker ofte får bruk for resultater langt utenfor egne
+innsatsområder. Etter hvert som faget ekspanderer, blir det verre og verre å holde rede på
+alt som kan være nyttig. Vi har i dag gode hjelpemidler i databaser og artikkelregistre,
+men likevel er det ikke alltid enkelt å finne frem til beskrivelser som passer med den
+aktuelle problemstillingen. Ofte kan det være snakk om resultater på et annet nivå enn det
+man opererer på i øyeblikket, f.eks. teoretiske resultater som kan være nyttige for å belyse
+en enkel praktisk metode, eller metoder som baserer seg på helt andre observatorer enn
+dem man er vant til. Det ville være en enorm hjelp i slike situasjoner om det fantes enkel
+metodebank tilgjengelig. Her burde man kunne lete på bestemte begrep, men også utføre
+mer intelligente søk, bl.a. ved å ta hensyn til abstraksjonsnivå. Problemet eksisterer i
+mange fag, men er antagelig enda mer aktuelt i statistikk der det finnes så mange ulike
+teknikker med forskjellige forutsetninger.
+
+2. Statistikkundervisning med optimal utnyttelse av datamaskinene. Det eksisterer
+allerede teknikker for dataassistert undervisning, men de har liten praktisk betydning for
+innlæring av stoffet i typiske statistikkurs. Bruk av datamaskiner spiller i dag en stor rolle
+i forskjellige typer øvelser, men selve teorien blir vanligvis ikke illustrert direkte på
+datamaskin. Selv om de tekniske mulighetene 1 høyeste grad er til stede, er det ikke
+utviklet fullgode programsystemer som virkelig er tilpasset undervisningen på ulike nivå.
+Arbeidet med å sette inn relevant stoffi en egnet form vil bli svært arbeidskrevende, og
+det kan bare gjøre på fagfolk.
+
+3. Overordnede statistiske metoder. Dagens statistiske metoder skal ofte belyse
+problemstillinger knyttet til en bestemt analyse av et gitt datasett. Mange metoder er satt
+
+sammen av flere trinn, men ved evaluering av metodenes egenskaper er det likevel en
+tendens til å studere de enkelte delene for seg. Jeg kan se for meg en utvikling i retning av
+grundigere
+
+bedømmelse
+
+av
+
+metodene
+
+som
+
+helhet,
+
+der
+
+en
+
+trekker
+
+inn
+
+både
+
+forhåndsundersøkelser av fordelingsegenskaper, påfølgende konkrete analysemetoder og
+fortolkningsteknikker. I andre sammenhenger er dette blitt betegnet som vurdering av
+
+6
+
+
+
+statistiske strategier. Det vil kreve en oppmykning av tradisjonelle statistiske prinsipper
+
+for vurdering av feilslutninger. Begrepet multippel testing er velkjent. Kanskje de
+klassiske angrepsmåtene, med betraktning av totalt signifikansnivå osv., ikke passer med
+de reelle praktiske situasjonene, slik at man trenger nye hjelpemidler for slike kompliserte
+problemer? Et annet eksempel på en overordnet metode er teknikkene for metaanalyse,
+som er blitt populære på enkelte anvendelsesområder de siste årene. Her trengs bedre
+tilpasset verktøy for å vurdere usikkerheten i slutninger som bygger på flere datasett
+innsamlet under uensartede forhold.
+
+4. Metoder for analyse av små datasett. I den senere tid har det vært mye snakk om
+spesielle statistiske problemer ved analyse av store datasett. Nærmest som en reaksjon på
+dette vil jeg føre opp analyse av små datasett som en egen utfordring. Praktiske erfaringer
+
+har vist at mange standardverktøy som er i bruk, har vesentlige mangler. Problemet kan
+skyldes et misforhold mellom teori og implementering, men utrolig mange av teknikkene
+som man presses til å bruke, baserer seg på egenskaper som bare gjelder asymptotisk.
+
+Naturligvis eksisterer det en lang rekke "eksakte metoder”, men det er skremmende hvor
+
+langt bak ordinær statistisk programvare ligger i denne utviklingen.
+
+5. Vurdering av usikkerhet av ulik type. En av de største utfordringene vi står
+overfor, gjelder det fundamentale problemet med vurdering av usikkerheten i resultatene
+fra en statistisk analyse. Dette henger selvsagt sammen med gamle kontroverser i faget,
+men det må likevel være legitimt å antyde at de reelle problemene langt fra er løst. Fra et
+frekventistisk standpunkt virker det klart at dagens fremgangsmåter med
+konfidensintervaller og hypotesetesting ikke er fullt tilfredsstillende, eller for så vidt andre
+metoder basert f.eks. på ‘likelihood’. Bayesianere er muligens fornøyd med sine a
+posteriori-fordelinger, men på meg virker det som en grov overforenkling å redusere
+beskrivelsen av all usikkerhet til utregninger av sannsynlighetsfordelinger. På en eller
+annen måte bør man bygge inn at usikkerhet som skyldes forskjellige faktorer ofte er av
+ulik natur. Vil disse fundamentale problemene være løst ved neste århundreskifte, eller
+kanskje mye tidligere? Vil en i noen grad frigjøre seg fra sannsynlighetsbegrepet ved
+angivelse av usikkerhet, slik at skillet mellom statistikere og andre dataanalytikere viskes
+ut? Vil selve registreringen av data skje på en ny måte som også får betydning for
+beskrivelsen av usikkerhet?
+
+Referanser
+
+[1] Heilbron JL, Bynum WF. Plus gå change. Nature 402 (supp), C86-C88 (1999).
+[2] Nelder JA. Statistics for the millenium. From statistics to statistical science. The
+Statistician 48, 257-269 (1999).
+
+[3] Natvig, B. Statistikkfaget ved årtusenskiftet. Tilfeldig Gang 16 (1), 23-25 (1999).
+[4] Hand DJ. Scientific method and statistics. I: Encyclopedia of Biostatistics (Armitage
+A, Colton T, red.), Wiley, Chichester 1998, s. 3967-3971.
+[5] Healy MIR. Is statistics a science? Journal of the Royal Statistical Society A 141, 385393 (1978).
+
+i
+
+[6] Box GEP. Science and statistics. Journal of the American Statistical Association 71,
+791-799 (1976).
+[7] Kuhn, TS. The structure of scientific revolutions. University of Chicago Press,
+Chicago 1962.
+
+[8] Omre H. Statistikk - veien videre. Tilfeldig Gang 16 (2), 6-7 (1999).
+[9] Kotz S, Johnson NL (red.). Breakthroughs in statistics, vol. I-II. Springer, New York
+1993.
+7
+
+
+
+Statistikkfaget ved årtusenskiftet:
+
+Reflections
+Arnoldo Frigessi °
+
+1. “Your Life in the 21st Century”, “Facing the
+
+too large. Of course money is a prime resource
+
+Future”, “What will Shape your World’. A
+
+along with metal and electricity, all needed to
+produce. But production is the core: capital to
+
+common message of many of these millennium
+
+invest, but nothing innovative to produce, is of
+
+essays is that we are living an epoch of
+exceptionally important and rapid transformations.
+
+little value. We are putting too much intelligence
+
+Personal computers, mobile phones, derivatives
+
+into serving finance, while we should direct
+
+and futures, internet.... The biggest big revolution
+is happening now: “Don’t lose your chance, take
+
+our best students towards productive projects,
+
+part in it!”
+
+research funding, our own research interests and
+whether they be a new drug or a metallurgical
+
+furnace.
+
+A good strategy to sell more. But the truth is
+
+Are we statisticians working on the important key
+issues that will shape the future? Are we often
+enough working side by side with scientists and
+
+different. Technological and scientific
+development is as slow (or fast) as it has always
+
+been. In 1990 a small group of computer fans
+were surfing the web. Ten years later, 38% of
+households in the USA have access to the web.
+
+engineers in medicine, agriculture, transport,
+environment or climatology on their key projects?
+
+This does not match the success of TV, for
+instance, which jumped from 9% in 1950 to 87%
+
+2. Arelevant question, because we wish to take
+
+in 1960. The first and second derivatives of the
+curve representing the number of children dying
+
+part in the process of discovery. And in the past
+decades we have shown that statistics is indeed
+
+during their first year of life clearly indicate that
+
+an important tool for science and technology
+
+medical progress proceeds with constant speed
+
+(=techniques based on science). We are
+interested in applying statistics to understand and
+
+and that there is no sign of acceleration. To read'
+that mobile phones represent “a revolution that’s
+
+control natural and man made environments. For
+
+evident everywhere”, is a sad sign of our self-
+
+this purpose we learn the subject we are
+
+centred and myopic view of our time. Telephone
+
+contributing to so deeply that we are able to
+
+itself has been a revolution, with effects in
+
+distinguish details and make priorities.
+
+probably every area of human activity, including
+
+Marc Kac? argued that it is rare that
+
+preventing war! The convenience offered by the
+
+cellular format is really a small thing.
+Very large investments, in terms of capital and
+intelligence, are directed towards so many things
+with little relevance, instead of aiming at the
+serious and difficult questions. Can we make
+better weather forecasts to allow for a rational
+management of world food supplies? Can we do
+small scale soil fertilisation control to optimise
+
+mathematicians (and | add: statisticians) will
+discover a new law of nature, because, say, the
+biologist in question will understand it before us,
+
+following a different intellectual path. However,
+we contribute to confirming or disproving theories,
+
+quantifing feasibility constraints, predicting future
+developments under unclear initial conditions, etc.
+By formalising, synthesising and mathematical
+modelling we are able to find general properties.
+
+agricultural production?
+
+Statistics provides the quantitative methodology
+to most disciplines collecting data and we are
+very useful members in the team, not leaders.
+
+Are we mathematicians and statisticians trying to
+give answers to questions of this type?
+
+To be fully respected, we must be prepared to be
+Financial mathematics is booming. The theories
+
+judged by criteria that lie outside statistics,
+
+we are asked to develop are exciting and
+
+according to standards that we ourselves have
+
+stabilising the financial markets is a honourable
+
+not created. This is crucial for our integration,
+
+though sometimes difficult to accept. Richard Gill®
+
+aim. But the effort is several orders of magnitude
+
+* Norsk Regnesentral, P.O. Box 114 Blindern, N-0314 Oslo, Norway.
+Partially supported by NFR grant n. 1211441420 Knowledge, Data, and Decisions. The author would like to thank
+Henrietta Blankson, Ingrid Glad and Jan Olav Sørdal for stimulating and equilibrating discussions
+
+8
+
+
+
+concludes that “statistics is a bit dirty and messy,
+
+perturbation, which would just slightly alter
+
+a necessary evil perhaps”.
+
+conclusions. We know that this is false, and leads
+to serious mistakes. Nature and many artificial or
+
+Well, we are also interested in creating new
+
+social systems are non-linear, non-stationary, not
+
+statistical methodologies. When in connection
+with applied work, this is made possible by our
+
+Markovian, not in equilibrium. Equilibrium
+
+skill in recognising the identical or similar
+
+There are discontinuities, phase transitions,
+
+mathematical character of problems in widely
+different settings. In fact, much of modern
+statistics has developed in applications, like the
+
+critical behaviours. Large scale flows in the
+
+Gibbs Sampler in image processing‘, or Gröbner
+basis theory in experimental design”. For a long
+
+models for the general economy are mediocre.
+
+atmosphere and ecological systems are not a
+small perturbation away from equilibrium. The
+Russian engineers were the first to understand
+the role of non-linear models, struck by the
+
+time we have done design of experiments, quality
+
+macroscopic regularity of certain systems which
+
+improvement and process monitoring for the
+manufacturing industry, by adapting old statistical
+
+look microscopically in full disorder.
+
+methods. More recently, to cope with more
+
+Å common cause of complexity in statistical
+modelling is data originating from various
+
+ambitious aims, by inventing new techniques
+based on algebraic geometry.
+
+sources. This requires us to model correlation so
+that we can distinguish between duplicated
+
+3. Simplifying a much more varied situation, data
+
+information (and use this to reduce the variance
+
+are either sparse, noisy and expensive to collect;
+
+of prediction) and novel information (used to tilt
+the mean).
+
+or, there is a huge quantity of them, of good
+quality but somehow chaotic. In the first case, we
+are often able to build realistic and workable
+
+models to perform inference. In the second case,
+the dimension and non-homogeneity of the data
+set and the requirement to produce results in real
+time do not allow for fine tuning. This is the
+context of data mining, the novel and serious part
+of which corresponds in my opinion to (almost)
+model-free inference. New statistical tools must
+
+Our main tool today is conditional independence.
+It allowing to describe very complex correlations
+by simpler interactions. Sometimes we decouple
+
+dependencies by introducing hidden layers, latent
+quantities or auxiliary variables. Despite
+progress, our tendency to explain complexity with
+
+simpler terms is restrictive. We have to leave
+familiar ground and invent new tools to produce
+
+important ideas with fascinating names are born,
+
+better workable models for, say, complex
+networks or large open natural systems.
+
+like data squashing’, arcing and perturb &
+combine”.There is indeed a role for off-the-shelf
+
+5. A model is not unique: the same phenomenon
+
+statistics, when no tuning is needed, no special
+
+can be represented in various ways. Model choice
+
+be invented to cope with this unusual setting and
+
+settings, read the data in and run!
+
+is a crucial and very hard step in statistical
+analysis. Models differ in how much and what
+
+information they are able to extract from data;
+how they can summarise data; in what way they
+are able to predict. According to the aim of the
+
+study, the efficacy of models can be compared.
+Often different models are not in competition, but
+are compatible and could jointly be used for
+inference, strengthening each other. The
+computational task becomes formidable, and
+
+probably cannot be handled in full with today's
+knowledge and computers.
+When we honestly propagate uncertainty
+
+regarding the statistical model, as we should of
+Mark Tansey,
+
+The
+
+Innocent
+
+Eye
+
+Test
+
+4. We have tools to model complexity and we are
+
+doing it. The fundamental principle of classical
+science, simplification of nature, is more and
+more being abandoned. Lagrange thought that
+the linear part of a differential equation
+characterised the process, the rest being a
+
+course do, we inflate the final uncertainty of
+parameter estimates or predictions, thus making
+our client unhappy. Is there any way to increase
+
+confidence around our results?
+
+One possibility is decision theory. The issue here
+is to take a further step together with our clients
+and to address directly and formally the ultimate
+actions or decisions that they plan to take, with
+
+
+
+the help and on the basis of our statistical
+
+The result is that a quantum computer will be able
+
+conclusions. This can be done by identifying a
+
+to generate a massive parallel computation,
+
+utility function, and by transforming the (a
+
+performing in one step exponentially many
+
+posteriori) probability space into the space of
+
+operations.
+
+decisions. In this way we can hope to reduce
+
+uncertainty and deliver more reliable overall
+
+When the first quantum computer arrives in our
+
+statistical advice. I know that I am vague here, but
+
+office we will run all our MCMC’s for much longer,
+
+these are thoughts for the future... If we pack
+
+feeling the breeze of convergence. After a while,
+
+together model choice, inference and decision
+
+we will wonder if we can do better statistics. For
+
+theory, we might all in all reduce uncertainty.
+
+instance, maybe we can simultaneously compute
+a whole multivariate likelihood function: how
+
+In any case we have to' promote better the culture
+
+would we then summarise information about our
+
+of uncertainty. We have to teach the engineers
+and the medical doctors that a single number is
+not a good enough answer. By not acknowledging
+uncertainty they are in fact reducing their room to
+
+parameters? Maybe we will not optimise
+anymore, but just compute by brute force every
+possible state and then look to level curves.
+Maybe this would open important questions about
+
+manoeuvre. Confidence statements allow them to
+
+optimal discretisation? Would simulation be
+
+decide on one of the many possible strategies
+
+substituted by enumeration? What would happen
+
+which are compatible with the data. Why give up
+
+with computational complexity and the famous
+
+this liberty?
+
+P # NP question?
+
+6. Also inferential procedures are not unique. Do
+
+8. The near future is in any case quite far away
+
+you do objective, subjective or robust Bayesian
+
+and we have time to adjust and think. While
+waiting, we may want to improve our educational
+
+estimation? Are you likelihood, quasi likelihood or
+
+pseudo-likelinood based? Apparently the
+conflicting existence of these various options is
+
+system. There is simply more and more
+knowledge to teach before our young students
+
+imagine that the current situation with several
+
+can become productive. Especially in
+mathematics, material simply accumulates with
+
+worrying. J. O. Beger? writes that "it is hard to
+competing foundations for statistics will exist
+
+time. Our governments must be prepared to
+invest significantly more in education, and we
+
+indefinitely". The point is not new. Richard
+Hamming wrote ten years ago that the fact that
+
+should not be afraid of making our study cycles
+
+there are different approaches “does not meet the
+
+last longer.
+
+requirements of law, medicine and engineering
+(...). A clear answer is what is wantedTM".! think that
+many approaches represent a richness, and | do
+not see any need to merge them. The issue, as
+mentioned before, is to cope coherently with the
+
+different answers and to teach that this is a
+strength.
+7. When computers arrived in our offices our first
+reaction was to use their power to solve larger
+problems with the usual statistical methodology.
+
+However, very quickly we understood how to
+
+profit more and devised completely new methods,
+like Monte Carlo sampling and the bootstrap. The
+idea was rather weird: to use artificially created
+
+randomness to understand more about the real
+world represented by our data!
+
+Mathematical illiteracy in society is a serious
+
+Quantum physics allows fundamentally new ways
+
+time. The naive idea that progress is granted,
+
+matter, because also ignorance accumulates with
+
+of information processing. Richard Gill'* says that
+
+thanks to continuous growth is wrong. The
+
+“within five years the first quantum computer will
+
+Greeks knew that the honey cells are hexagonal
+
+have been built; it will be able to successfully
+
+because this geometric form maximises
+area/perimeter among regular polygons. Some
+centuries later, the Roman Plinius thought that the
+
+factor 15.
+
+This is not a joke: the first digital
+
+computer was also of not much practical use." |
+
+reason was that each of the six legs of the bee
+
+do not understand quantum computation at all,
+but | read that its essential feature is that a qubit
+(the quantum correspondent of the bit) is able to
+
+was working on one side...
+
+Even though he was Italian!
+
+encode at a given moment of time both 0 and 1.
+
+10
+
+
+
+Risto Linturi, Helsinki Telephone, Our
+Technology Becomes Us, Newsweek, Jan. 3,
+2000.
+
+? Marc Kac, On Applying Mathematics:
+Reflections and Examples, Quarterly of Applied
+Mathematics, April 1972, 17-29.
+
+3 Richard Gill, Fringe or Frontier?, see the page
+www.math.uu.nl/gill, 1997
+
+* 5. Geman and D. Geman, Stochastic
+
+® W. DuMochel, C. Volinsky, T. Johnson, C.
+Cortes and D. Pregibon, Squashing Flat Files
+Flatter, Proceedings of the 5th ACM Conference
+on Knowledge Discovery and Data Mining, 1999.
+
+” Leo Breiman, Arcing classifiers, Annals of
+Statistics, 1998 (with discussion).
+
+å James O. Berger, Bayesian Analysis: a Look at
+Today and Thoughts of Tomorrow, to appear on
+
+J.A.S.A., 2000.
+
+Relaxation, Gibbs Distributions, and the
+
+? Richard W. Hamming, The Future of Statistics,
+
+Bayesian Restoration of Images, IEEE Trans. on
+
+J.A.S.A., 1990.
+
+Pattern Analysis and machine Intelligence, 1984.
+
+ST. Holliday, G. Pistone, E. Riccomagno and H.
+P. Wynn, The Application of Computational
+
+Algebraic Geometry to the Analysis of Designed
+
+Experiments: a Case Study, Computational
+Statistics, 1999.
+
+1 Ibiden.
+
+
+
+Noen personlige inntrykk fra Nepal og Kathmandu University
+ved Stian Lydersen
+
+I perioden 14 juni — I juli 1999 holdt jeg et etterutdanningskurs i pålitelighetsanalyse ved
+Kathmandu University i Nepal, som ledd 1 et Norad-prosjekt ved NTNU. Kathmandu
+University ble grunnlagt i 1991, og campusen ligger ved den koselig landsbyen Dhulikel
+30 km øst for hovedstaden Kathmandu. Det undervises i naturvitenskap, ingeniørfag og
+farmasi.
+
+Det statlige Tribuhvan University of Kathmandu er i følge nepaleserne preget av dårlig
+kvalitet og udugelige ansatte, 1 likhet med mange andre statlige institusjoner i Nepal.
+Utdanning derfra er ikke anerkjent i utlandet. En kandidat utdannet ved Tribuhvan
+
+aksepteres f.eks ikke som kvalifisert til doktorgradsstudium i India. Dr Suresh Sharma,
+som er rektor ved Kathmandu University, ønsket å forbedre utdanningen i Nepal. Han
+mente det var mer formålstjenlig å starte et nytt universitet som en privat stiftelse, enn
+ved å forsøke å forbedre det eksisterende systemet. De første 200 studentene med graden
+Bachelor of Engineering ble uteksamninert i 1998, og denne graden er anerkjent i
+utlandet!
+
+Jeg underviste et etterutdanningskurs over 3 uker i pålitelighetsanalyse, dvs i grenseland
+mellom statistikk og ingeniørfag. Den rene statistikkundervisningen ved universitetet var
+jeg ikke involvert i, men den synes å være lik tilsvarende undervisning i Norge. Det
+undervises et grunnkurs i statistikk og sannsynlighetsregning for alle ingeniørstudentene.
+Norge og Danmark har gitt betydelig støtte til etableringen av Kathmandu University,
+både i form av direkte penger og noen lærere som er engasjert i staben, betalt fra Norge.
+De liker den norske undervisningsformen, som er problembasert og bygger på praktiske
+anvendelser. Indiske universiteter, derimot, er veldig teoretisk rettet. Ved eksamen i mitt
+kurs gjorde studentene det bra, med unntak av de oppgavene som krevde kreativitet, der
+var de noe svakere.
+
+Universitetetscampusen er fremdeles under utbygging. Nå bygges det studenthjem der.
+Det var full aktivitet med bygningsarbeidere som bar murstein i kurver på ryggen. De
+fleste av dem var kvinner i fargerike kjoler, med bører som veide minst like mye som
+
+dem selv. De tjener ca 6 NOK per dag. Dette er nok til av 1-2 personer kan spise seg
+
+mett. En universitetslektor tjener ca 1000 NOK pr måned.
+
+Skikk og bruk er vesentlig forskjellig i Nepal og Norge. Nepalesere håndhilser ikke på
+hverandre. De holder håndflatene mot hverandre, bukker lett, og sier ”Namaste”. Dette
+betyr direkte oversatt ”jeg hilser guden i deg”. En mann og en kvinne skal ikke vise
+hengivenhet offentlig, ikke en gang gå hånd i hånd. Men unge menn som er kamerater
+går hånd i hånd på gaten! En nepaleser ved universitetet fortalte meg om en opplevelse da
+han og en kollega var i Wien. De så en mann som løftet en kvinne opp og kysset henne, i
+full offentlighet! Den ene nepaleseren så på den andre, smile og sa: ”En gang skal jeg ta
+med min kone hit og gjøre det samme!”
+
+12
+
+
+
+Nepal er et av verdens fattigste land. Det har ca 20 millioner innbyggere, og 20-30% av
+
+dem er analfabeter. Ved utbygging av universitetet kunne man ikke bare gi tegningene til
+bygningsarbeiderne, for de kan ikke lese. Lesekyndig personer måtte forklare dem hva de
+skulle gjøre. Ca 90% av befolkningen lever av jordbruk. Pga en eksplosiv
+befolkningsvekst utarmes jorda. I mange veiløse bygder er det også for langt til
+markedene, til at de kan få solgt produktene sine. Det er mye fattigdom og
+underernæring. Gjennomsnittlig levealder er ca 55 år, mot 75-80 år i vår del av verden.
+Landet har store vannkraftressurser. En viss utbygging er i gang, bl.a. med støtte fra
+Norge. I beste fall vil dette også kunne gi en viss eksport av energi til India, med sårt
+tiltrengte bidrag på utenrikshandelen. I dag er ca 30% av statsbudsjettet bistand eller lån
+fra utlandet.
+
+Min tilværelse i Nepal var helt annerledes enn hjemme og på andre reiser. Hotellet var
+
+uten engelskspråklig TV. Telefonforbindelsen hjem var dårlig og dyr. Internett og e-post
+fungerte nesten ikke i landbyen og på universtitetet. Flektrisitet er mangelvare, spesielt
+etter en regnfattig vinter og vår. Om kvelden
+
+ble vanligvis strømmen slått av i halve
+
+landsbyen. Jeg satt på hotellrommet om kveldene, tente stearinlys og leste bøker. Kl 21
+kunne jeg tune inn min medbrakte kortbølgeradio og lytte til nyheter på NRK
+utenlandssendinigen. Var det slik de lyttet til Radio London i Norge under krigen?
+
+Om ettermiddagene kunne jeg se et fantastisk landskap og et rikt fugleliv fra verandaen
+på hotellrommet. De to-tre kveldene jeg opplevde med klar nok sikt, kunne jeg se halve
+Himalaya-fjellkjeden! Ellers regnet det en god del. Dette var i monsun-tiden. Det kom ny
+nedbørsrekord, 97 mm på et døgn! Monsunregnet kan ikke beskrives, det må oppleves.
+
+Gore-texen gav fullstendig opp etter % time. Det eneste brukbare var paraply. Alle veier
+og stier blir veldig sølete, og endel veier raser ut og blir ufremkommelige. Men sola
+skinner noe nesten hver dag også i monsuntiden. Når det var godvær, gikk jeg en snarvei
+over rismarkene når jeg skulle hjem til hotellet etter arbeidsdagen. Dette var et fargerikt
+landskap fullt av mennesker i fargerike klær. Etter at risplantingen- var ferdig for
+sommeren, feiret de dette med musikk, sang og dans på rismarkene.
+
+Nepaleserne er et vennlig folk. Det er lite kriminalitet, bortsett fra utstrakt korrupsjon på
+alle nivå i offentlig sektor. Jeg kunne trygt gå alene gjennom landsbyen etter mørkets
+frembrudd. Og da var det bekmørkt, når elektrisiteten var borte! Med mine beskjedne 173
+cm er jeg forresten en stor og kraftig mann sammenliknet med nepaleserne!
+
+Min norske kollega ved universitetet tok meg også med på besøk til en nepalesisk familie
+utenfor landsbyen. Jeg opplevde ekte nepalesisk gjestfrihet. Vi ble invitert inn på te, ris
+og grønnsaker. Denne familien bodde bra etter nepalesiske forhold. Første etasje i huset
+var ett rom, med ku og geit i den ene enden, hinduistisk husalter i midten, og
+kjøkkenkrok i den andre delen. Maten ble laget på parafinprimus eller i en liten ovn fyrt
+med flis. Røyken siver ut gjennom døråpningen, og kjøkkentaket er fullt av svart tjære
+etter all røyken. Annen etasje bestod av soverom. Det var jordgulv i alle rom.
+
+13
+
+
+
+Etter at jeg var ferdig med undervisningen, hadde jeg en uke ferie i Nepal. Det er for lite
+til å reise mye rundt i landet. Men vi fikk oppleve 2 dager med elefantridning 1 Chitwan
+nasjonalpark i syd, ved grensen til India, med ville neshorn, rådyr, slanger, skipadder,
+aper, masse fargerike fugler, og ferske tigerspor. Det ble også tid til å besøke noen av de
+gamle templene i Kathmandu-området.
+
+Maten i Nepal er OK. Man får også kjøpt Tuborg, Carlsberg og Coca-Cola laget på lisens
+i Nepal. Spesielt den kalde Colaen smakte himmelsk i varmen! Som de fleste utlendinger
+ble jeg syk. Jeg fikk feber i 3 dager og diare i 3 uker. Det skyldtes antakelig at jeg en
+gang spiste i universitetets kantine. Hygienen på kjøkkenet der er det verste jeg noen
+gang har sett.
+
+Alt i alt opplevte jeg oppholdet i Nepal som et eventyrlig møte med et land og mennesker
+som jeg ble glad i. Nå sitter jeg igjen med mange positive og fargerike minner, og en
+
+kropp som er 7 kg lettere enn da jeg dro!
+
+
+
+Forskningsopphold i utlandet - 2 år i Seattle
+Den
+
+8.
+
+mai
+
+1997
+
+reiste undertegnede
+
+til
+
+University of Washington
+
+(UW)
+
+med et
+
+postdocstipend fra Kreftforeningen. UW ligger i Seattle på vestkysten av USA, like ved
+grensen til Canada. Området har en befolkning på Norges størrelse og et klima mye likt det vi
+
+finner i Skandinavia, men med større lokale variasjoner enn hva vi er vant med. Det er mange
+av norsk avstamming i området, men langt flere av kinesisk. Seattle er ellers kjent for sine 3
+
+store Boeing flyfabrikker med 110.000 ansatte og Microsoft med 12.000 ansatte. UW er et
+stort og velrenommert offentlig universitet med 45.000 studenter. Området er et av de raskest
+voksende i USA, og rangert som en av de mest populære byer å bo i p.g.a. lav kriminalitet,
+
+ikke for varmt og ikke for kaldt, og lett adgang til naturparker. Det var bare 2-3 timer å kjøre
+hver vei Mt. Rainier!
+
+Oppholdets lengde ble på 2 år — men ved utreise var returen langt fra bestemt. Utreisen
+derimot var planlagt i minst ett år. Det er en psykologisk barriere å flytte utenlands, spesielt
+hvis man har ektefelle og barn. Jeg har tidligere arbeidet som lege på Vestlandet og 1 Troms,
+ved siden av at jeg som stipendiat oppholdt meg en lengre periode i Danmark. Min generelle
+erfaring er at det ikke var vanskeligere å flytte til Danmark eller USA enn hva det er å flytte
+innenfor Norges grenser. Det er lett å glemme at flytting i Norge kan bety mange praktiske
+problemeri tillegg til at man forlater venner og familie. På mange måter opplevde jeg de
+praktiske problemene ved flytting til USA som mindre enn tilsvarende i Norge. Jeg tenker da
+på leie av bolig, bilkjøp, skoleplass og kontakt med helsevesen. Dessuten var det ikke mer
+
+enn 10 timer med fly til Seattle, og billetter kunne kjøpes for Nkr 4000 stykket utenom
+sommeren. Et hyggelig opphold i utlandet krever rimelig god planlegging, godt humør og en
+positiv innstilling fra familie.
+Jeg vil under først skrive om hvordan jeg ordnet meg med arbeidsplass som gjesteforsker ved
+
+. UW, deretter om hvordan vi planla oppholdet for familien, hvordan vi planla vår økonomi og
+til slutt en oppsummering av inntrykk og utbytte av oppholdet. Stort sett levde vi et
+bekymringsfritt liv, men så var vi ikke syke, jeg hadde nær slekt i Seattle og vi kjente flere
+norske forretningsfolk i Washington State som hjalp oss med å etablere oss. Jeg kjente ingen
+på UW på forhånd.
+1. Arbeidsplass
+
+Hvis man skal reise som gjesteforsker til USA må man ta kontakt med stedet man vil reise til
+og be om et “letter of invitation”. Jeg tok kontakt med Biostatistical Department ved UW
+fordi mange av de mest kjente navnene i overlevelsesanalyse arbeidet ved avdelingen og
+fordi jeg trodde Seattle var et sted i USA hvor min familie ville trives. Jeg la ved noen av
+mine publikasjoner i min søknad. Dette ble behandlet i et avdelingsmøte. Biostatistical
+Department hadde utpekt en av sine ansatte som ansvarlig for gjesteforskere, og som siden
+var min kontaktperson. Denne personen svarte velvillig på alle spørsmål, men jeg fikk mye
+mer utbytte av å prate med andre nordmenn som hadde vært i Seattle og ved generell
+orientering via internett. The Seattle Times sin nettversjon var en viktig informasjonskilde.
+Generelt kan man glemme å regne med hjelp fra universitetet til å løse problemer med bolig
+og liknende. Universitetet ordner derimot med søknad om J-visum og arbeidsplass. Man bør
+
+ordne med sin egen PC, og det er viktig å ha med sine egne forskningsprosjekter. Man kan
+ikke regne med at man blir invitert til å være med på amerikanske prosjekter. Alternativt kan
+
+%
+
+
+
+man søke om forskningsmidler i USA eller om jobb på et prosjekt. Med J-visum kan man
+arbeide 1 50 prosent stilling med inntekt fra USA.
+
+Flere nordmenn på opphold i USA som jeg har pratet med klaget over at de ikke fikk egen
+
+kontorplass (men dette hender også for amerikanere i deltidsstilling) og at de ikke hadde noen
+å spise lunsj sammen med. Noen sier at de eneste som de kom i kontakt med på universitetet
+var andre gjesteforskere. Jeg var heldig og kunne spise lunsj med kollegaer hver dag. UW
+hadde for øvrig flere tilbud til ektefeller til gjesteforskere ved siden av felleslunsjer for
+gjesteforskere. Vi benyttet oss ikke av noen av delene.
+2. Familie
+
+Barn lærer språket meget raskt, og språkproblemer er ingenting å bekymre seg for — i hvert
+fall ikke i et engelsktalende land. Ektefeller kan søke fulltidsarbeid i USA med sitt J-visum
+innenfor sitt fagfelt. Dette er en mulighet som man bør benytte seg av hvis man kan og har
+
+lyst til å arbeide. Alle som kan programmere kan få en arbeid umiddelbart. Min ektefelle
+arbeidet i en kirke med mange norskættede på frivillig basis og vi fikk gratis barnepass.
+Kirken er ellers det sted man lettest kommer i kontakt med amerikanere var vår erfaring. Jeg
+var på fottur til toppen av Mt. Rainier og på skitur rundt Crater Lake med folk jeg traff i
+kirken. I helgene dro vi ofte på campingturer med andre barnefamilier som vi hadde truffet i
+kirken. Noen ektefeller til andre gjesteforskere gikk på forelesninger på UW. Dette er gratis.
+Det er først når man skal ta en eksamen at man må betale — og det mye. Det er viktig å tenke
+på hva ektefellen skal gjøre under et opphold.
+Amerikanske skoler kan være mye rart, og er stort sett meget forskjellige fra norske skoler.
+På vår eldste datters skole forandret de sammensetningen av klassen hvert år. Barn på high
+school vandrer mellom forskjellig klasserom og det er ingen faste klassestrukturer slik som
+på norske videregående skoler. I det county hvor vi bodde var det stor immigrasjon fra Asia,
+og skolene hadde et tilbud om introduksjon til det engelske språk for barn om sommeren.
+Men det var ingen tilbud om morsmålsopplæring 1 selve skolen — selv ikke for spansktalende
+elever. Privatskoler, som er ganske utbredt, kostet fra $ 400 (kristne) pr. måned og fra rundt $
+1.000 for de mer elitepregede. Barnepass kostet omtrent som i Norge, men man betalte bare
+for de timene som man hadde behov for. Det var eget system med offentlig godkjenning, så
+man følte seg rimelig trygg.
+Valg av bolig er viktig for familiens trivsel. Jeg vil anbefale alle som reiser til USA å vente
+med å leie bolig til man har reist til stedet. Dette er mye enklere enn i Norge og alle store
+byer har et stort utleiemarked. Mange private utleieboliger opplevde jeg som skitne. Rene
+boliger i norsk forstand var synonymt med nye boliger. Desto mer sentralt man vil bo, desto
+dyrere er det. I tillegg bør man vurdere snobbefaktoren og kriminalitet. Det skal ikke være for
+mange fattige (og er det for mange rike har man ikke råd til å bo der). Man kan se pa folk sine
+biler, eller lese rangering av skolenes eksamensresultater i avisene og eventuelt
+
+prosentandelen som får gratis skolelunsj når man skal velge boligområde.
+Jeg valgte å reise over 5 uker før min familie og ordne med bolig etc. I begynnelsen bodde
+jeg på motell. Det er ganske god offentlig kommunikasjon fra UW, og jeg valgte å bo i enden
+av en bussrutene som gikk fra UW. Da kunne jeg reise kollektivt og min kone disponere
+bilen. Vi leide en *2-bedroom+2-bath” leilighet i et nytt boligkompleks med svømmebasseng
+og store grøntområder. Denne leiligheten hadde alt av hvitevarer. Vi kjøpte møbler gjennom
+avisannonser; TV, video og kjøkkenutstyr kjøpte vi nytt. De fleste bruker 1-2 måneder på å
+
+16
+
+
+
+kjøpe det som trengs til en husholdning. Det letteste er å prøve å overta hus og inventar til en
+som flytter. Dette kan gjøres ved å undersøke hvilke gjesteforskere som skal reise hjem når
+du kommer.
+
+Det kan være lurt å velge et hus med minst ett ekstra soverom og bad. Man får mange besøk,
+
+og det er hyggelig for familien. Jeg tror vi hadde rundt 200 gjestedøgn på 2 år. Og når vi kom
+tilbake til Norge hadde vi kontinuerlig besøk i 2 måneder.
+3. Økonomisk planlegging
+
+Norge og USA har en skatteavtale som åpner for skattefritak for forskere og lærere 1 inntil 2
+år. Man søker sitt lokale likningskontor om fritak for innbetaling av skatt, og skattefritaket
+blir innvilget ved vanlig likning seinere. De fleste som reiser får i tillegg stipendier som skal
+dekke merutgiftene. Mange klager over at det er vanskelig å klare seg i USA på en inntekt,
+men det er ofte de samme som klager over at det er vanskelig å klare seg i Norge på en
+inntekt også. Hvis man er ute av Norge mer enn ett år mister man barnetrygden, men man kan
+søke om å få det med seg for en lengre perioden.
+Man kan søke om medlemskap i FFU (Folketrygdkontoret for utenlandsnordmenn) og betaler
+rundt 8 prosent i skatt til FFU. Alternativt kan man kjøpe en amerikansk sykeforsikring, men
+det er ofte dyrere. Det er ikke pliktig medlemskap i FFU, selv om de sier så. Sykeforsikring
+er obligatorisk for alle med J-visum. Vi fikk ett bam i USA, og opplevde helsevesenet som
+meget profesjonelt. Det var aldri noen ventetid for den som kunne betale for seg. Ett døgn på
+sykehus (aller enkleste fødsel med bare jordmor tilstede) kostet imidlertid $ 4.600 som vi fikk
+igjen etter ett år av FFU.
+
+Vi kjøpte en ganske ny VW Eurocamper som bil fordi denne var regnet som meget lett å
+selge, kunne brukes som campingbil og hadde sitteplass til 7. Amerikanske biler er billige å
+kjøpe, men det tar ofte lang tid å selge dem privat. Hvis man skal selge dem gjennom en
+forhandler tar disse ofte 15-20 prosent provisjon. Vi kjøpte vår bil for $ 14.500 og solgte den
+
+etter 2 år og 50.000 miles for $ 11.500. Vi hadde bestemt oss for å bo rimelig og reise mye.
+Vi var i de fleste nasjonalparker vest for Minneapolis.
+I Seattle opplevde vi et rabatt og kupongsystem som var meget komplisert å finne ut av. Vi
+måtte ha 3 telefonabonnementer og fikk stadig tilbud om nye og billigere abonnementer, men
+fant aldri ut hvilken kombinasjon som egentlig var billigst. Når man ringte og skulle bestille
+hotell fikk man forskjellige priser oppgitt, avhengig av hvem man pratet med. Jeg pleide å si
+at jeg var medlem av mange organisasjoner, og spørre hvilket kort som gav den største
+
+rabatten hos dem. Bilforsikring var like komplisert - noen gjaldt også for leiebiler, og
+kaskoforsikring gjaldt ikke for personskader. Dessuten kunne man forsikre seg mot utgifter
+hvis man ble saksøkt av andre. Full forsikring skulle kostet oss $ 2.100i året for vår bil.
+Vi hadde en leilighet i Oslo som vi leide ut under oppholdet. Her er det viktig å sette seg inn i
+skatteregler for utleie. Disse kan man f.eks. finne 1 Dine Penger. Vi leide ut til et firma på
+
+ettårskontrakt og med firmagaranti til godt under markedspris. Da slipper man risikoen for at
+folk flytter ut mens vi er i utlandet, tenkte vi. Ellers må man be familie eller kjente om å følge
+opp et utleieforhold.
+Når vi reiste hjem solgte vi alt vi hadde bortsett fra personlige effekter. Det ble rundt 500 kg
+som vi tok med på flyet. Vi satte av de siste 4 ukene til avvikling, men det tok under en uke å
+
+17
+
+
+
+selge møbler og bil. Vi flyttet ut av leiligheten og leide en Buick Park Avenue Ultra
+Supercharged og dro på biltur til California. Da hadde jeg endelig funnet ut hvordan man
+
+skulle leie den dyreste bilen hos Avis for $ 250 i uken. Min første leiebil, bestilt og betalt fra
+Norge, var en Corolla som også hadde kostet det samme.
+4. Oppsummering.
+
+Mitt arbeid i USA var på mange måter likt det arbeid som jeg til daglig utfører i Norge. Man
+sitter på et kontor bak en PC og har kontakt med andre via email, fax og telefon. Forskjellen
+ligger først og fremst i forandring i impulser. Disse får man gjennom deltagelse i lunsjmeter
+og seminarer. Man etablerer nye samarbeidspartnere og man får mulighet til å evaluere sine
+egne prosjekter i forhold til hva andre arbeider med. Personlig var jeg overrasket av hvor
+fokusert medisinsk forskning var på genteknologi i forhold til epidemiologi.
+
+Jeg satt på en avdeling med rundt 50 ansatte statistikere, men det var aldri mer enn 10 på jobb
+til samme tid. Dette skyldes delvis at folk flest hadde bistillinger på UW, mens deres
+hovedstilling kunne f.eks. være på Fred Hutchinson’s Cancer Research Center. Eller de var
+kontinuerlig på reise mellom konferanser. Det var også påfallende hvordan de fleste
+statistikere var involvert i forskningsprosjekter utenfor det stedet hvor de fysisk hadde sin
+arbeidsplass. Amerikanske statistikere er vant med å leve på løse prosjektmidler, og begrepet
+fast jobb eksisterer ikke. Folk er på kontinuerlig drift mellom forskjellige jobber, og ingen
+klager over det.
+
+Vi opplevde amerikanere som vennlige og lette å komme i kontakt med. Vi syntes at det var
+lettere å få nye venner i USA enn i Norge.
+
+Kriminaliteten var skremmende. En dag opplevde jeg skyting i naborommet på et motell
+(først trodde jeg det var TV-en som stod høyt på, men så kom politiet). En annen dag sirklet
+flere helikopterer over bilen vår på motorveien. Min datter sa lakonisk at det var sikkert bare
+noen som rømte fra politiet — det hadde vært en skyteepisode inni en buss i fart på motorveien
+som endte med at bussen kjørte utfor en bro og ramlet gjennom en boligblokk på 3 etasjer.
+Det skjer liksom ikke hver dag i Oslo.
+
+Amerikansk byråkrati var like skremmende. Jeg opplevde å tilbringe 2 hele dager i kø hos
+immigrasjonsmyndighetene fordi en offiser i tollen mente at det var en feil i mine 10-15 ark
+med visumpapirer som jeg måtte bringe med meg hver gang jeg reiste ut av USA. Jeg satt i
+mange timer på kontorer og tenkte på en roman av Kafka. Det var aldri noen som fant ut hva
+som var galt, derfor måtte jeg innom alle 5 kontorer og få stemplet at alt var OK.
+Hjemme har vi 3 tykke fotoalbum med bilder og gode minner fra USA. Min ektefelle og
+eldste datter sier de reiser gjerne tilbake til USA. Vår yngste datter fikk navnet Rebecca. Da
+vi kom hjem fra sykehuset spurte naboen om hun skulle hete Becky. Nei sa jeg, men det har
+hun blitt hetende siden. Og hun kan si bye-bye.
+Per-Henrik Zahl
+
+Seksjon for medisinsk statistikk
+Universitetet 1 Oslo.
+
+18
+
+
+
+“Er Norge et biostatistisk u-land?” Noen kommentarer
+Jon Stene, Københavns Universitet
+stene@it.dk
+
+I TG, nr.1, argang 16, september 1999, hadde Eva Skovlund et innlegg, hvor hun diskuterte
+en danskes påstand om at Norge er et biostatistisk u-land. Til tross for at jeg ikke føler at jeg
+egentlig er en del av det norske miljøet, selv om jeg utgikk med hovedfagseksameni statistikk
+fra Blindern i 1963, men har bodd i utlandet, hovedsakelig i Danmark, siden, ble jeg likevel
+
+sterkt provosert av dette innlegget. Jeg har jo gjennom alle årene vært tilskuer til det norske,
+biostatistiske miljøet fra sidelinjen. Jeg mente dog at de, som innlegget direkte vedrørte,
+skulle ha muligheter til å svare først, så derfor unnlot jeg å sende noe innlegg til det
+etterfølgende nummer av TG. Men det kom ingen kommentarer til Eva Skovlunds innlegg,
+hvilket selvfølgelig også er et svar.
+
+Et kort og entydig svar på spørsmålet kan man vanskelig gi, men et tilbakeblikk kan belyse
+hvorfor det i det hele tatt er relevant å stille spørsmålet. For dét er det.
+
+Siden 1958 har jeg arbeidet meget med biostatistikk, og jeg har gjennom mange år vært meget
+aktiv innenfor International Biometric Society (IBS). Jeg har deltatt i og holdt foredrag på en
+lang rekke av IBS’s konferanser og har hatt mange tillitshverv i organisasjonen. Da Nordisk
+Region (NR) ble dannet i 1982, kom jeg inn i styret som representant for Danmark, og satt der
+først som styremedlem, deretter som sekretær i 4 år og formanni to fram til 1992. Med denne
+bakgrunn har jeg hatt gode muligheter til å følge med i det norske, biostatistiske miljøet og
+hvorledes dette engasjerer seg på nordisk og på internasjonalt plan.
+Jeg kan fullt ut bekrefte Eva Skovlunds iakttakelse om at norsk deltakelse ved nordiske og
+internasjonale møter er såre begrenset. Den er dog blitt bedre med arene. Ved noen av IBS’s
+tidligere møter var jeg eneste deltaker med norsk statsborgerskap. Men det er fortsatt så at
+nesten alle norske deltakere nøye følger Pauli ord til kvinnene om at de skal tie i
+
+forsamlingen.
+
+I tillegg til den begrensete konferansedeltakelse og foredragsvirksomhet har også det norske
+bidraget til andre nordiske og internasjonale aktiviteter i biostatistikk vært ytterst beskjeden. I
+de første 10-12 årene etter at NR ble dannet, arrangerte vi en rekke korte, ca. to-dagers, møter
+rettet mot anvendelser innenfor forskjellige spesialområder, f.eks. genetikk, kontrollerte
+kliniske forsøk, epidemiologi m.v. Til disse møtene kom foruten statistikere med større eller
+mindre interesse for anvendelsesområdet, en hel del folk fra selve anvendelsesområdet. På
+møtene, med fra 35 til 80 deltakere, hadde vi en rekke meget gode diskusjoner fordi både
+anvendelsesområdets egne folk og statistikere med erfaring 1 og interesse for området deltok i
+diskusjonene. (Fordi anvendelsesområdenes egne folk aldri møter tallsterkt opp på f.eks.
+IBS’s konferanser eller NR’s generelle konferanser, får man aldri den slags diskusjoner der).
+Disse møtene ble arrangert i Danmark, Finland og Sverige. Norske deltagere i disse møtene
+var alltid få, og det krevde enkelte ganger iherdig overtalelse for i det hele tatt å få Norge
+representert på talerlisten.
+Det var ikke mulig å få de norske medlemmene av styret eller andre nordmenn til å arrangere
+ett eneste av disse møtene i Norge. Som nordmann fant jeg dette forholdet uakseptabelt, og i
+april 1986 arrangerte jeg, fra København, et møte på Leangkollen i Asker med 38. deltakere
+
+19
+
+
+
+om
+
+biologiske
+
+populasjonsmodeller,
+
+hvor
+
+det
+
+foruten
+
+flere
+
+statistikere,
+
+deltok
+
+genetikere,økologer og zoologer som selv arbeidet med slike modeller. Her fikk Oslomiljøet i
+
+statistikk servert på et fat en rekke, riktig gode anvendelser med deres teoretiske og praktiske
+aspekter. Men Oslomiljøet valgte nærmest å boykotte møtet. Ørnulf Borgan kom på en kort
+visitt på ca. 2 timer for, som han sa, at Avdeling C kunne si at de hadde vært tilstede.
+
+Historien om dette møtet illustrerer helt tydelig den distanserte holdning flere ledende kretser
+
+i det norske statistikermiljøet har hatt til biostatistikk, spesielt de biologiske aspektene ved
+denne. Det som virkelig har telt i Norge er matematisk statistikk, sensu strictu. Gjennom
+mange år konsentrerte man seg utelukkende om de rent matematisk statistiske aspektene ved
+en biostatistisk problemstilling. Selve modelloppbygningen, som alltid er helt sentral,
+inndragelse 1 modelldannelsen av problemer i forbindelse med datainnsamlingen, som ofte
+kan være meget kompleks, og kvaliteten av data, som kan være varierende, samt andre
+
+aspekter som er helt avgjørende for at man skal komme fram til en naturvitenskapelig
+akseptabel løsning av en faglige problemstilling, er bare blitt avfeiet som "statistisk
+konsulentarbeide uten vitenskapelig verdi”. Da jeg fulgte forelesningene i statistikk fra midten
+av 1950-årene og til begynnelsen av 1960-årene presiserte foreleseren gang på gang at
+*modelloppstillingen er helt og holdent oppdragsgiverens ansvar”, og at statistikeren først
+kommer inni bildet når modellen foreligger. Da jeg utover statistikk hovedfag også tok kjemi
+og botanikk bifag og hovedfagskurser 1 botanikk, samt fikk etterhvert en del erfaring med
+biostatistiske samarbeidsprosjekter, var jeg klar over, allerede den gang, at dette var en
+holdning som intet hadde med naturvitenskap å gjøre, og jeg protesterte kraftig, men det ble
+pure avvist, selv innenfor et fakultet som har ordet “naturvitenskapelig” i navnet.
+
+Etter at jeg var ferdig med studiet, har jeg arbeidet meget med biostatistikk bl.a. med mange
+prosjekter, som har strukket seg over flere år. En stor del av disse har vært innenfor
+humangenetikk, hvor både modelloppstillingen, datainnsamlingsproblemene og vurderingen
+av den varierende datakvaliteten og dens betydning, ofte var meget kompliserte. Med det
+kjennskap jeg fikk til de statistiske kvalifikasjonene til mine samarbeidspartnere, vil jeg si at
+det ville ha vært helt uansvarlig å forlange at de skulle fremkomme med en modell. Oppstille
+en modell kan kun en statistiker gjøre etter først å ha satt seg så grundig inn i den faglige
+
+problemstilling at vedkommende er i stand til å formalisere denne til matematisk statistiske
+strukturer. Denne formaliseringsprosessen har aldn blitt faglig anerkjent av de ledende
+kretsene i det norske statististiske miljøet, fordi dette ikke er matematisk statistikk, sensu
+strictu. For å komme fram til et fagvitenskapelig holdbart resultat i et vitenskapelig prosjekt
+skal dog både de statistiske og de fagvitenskaplige aspektene gjennomarbeides fullt ut og
+integreres nøye med hverandre, og min erfaring er at statistikeren mange ganger må bevege
+seg langt inn på det fagvitenskapelige området i slike sammenhenger.
+Jeg har selv alltid betegnet dem, som jeg har arbeidet sammen med i disse prosjektene, som
+*vitenskapelige samarbeidspartnere”. Mange statistikere betegner disse forskerne som
+*oppdragsgivere” eller klienter”,
+selv nar det dreier seg om vitenskapelige
+forskningsprosjekter hvor samarbeidet strekker seg over flere år. Dette avslører en
+distansering fra statistikernes side som tyder på at de ikke ønsker å engasjere seg helhjertet i
+løsning av vitenskapelige problemer, som ikke er rent matematisk statistiske. Man hører ellers
+aldri forskere fra ett fagområde betegne sine samarbeidspartnere fra et annet fagområde på
+denne måten.
+
+Denne distanserte holdningen som mange statistikere viser overfor andre fag, en holdning
+som man ikke bare finner i Norge, men også i flere andre land, er nok en vesentlig årsak til
+
+20
+
+
+
+den krisen faget befinner seg i for øyeblikket. Mens man i 1950-, 60- og 70-årene var vitne til
+at det ene statistiske institutt etter det andre ble opprettet på forskjellige universiteter rundt
+omkring i Europa, ser man nå at de samme instituttene blir nedlagt i store mengder. Gamle,
+hederskronte professorater i faget blir også inndratt. Denne reaksjonen viser at de øvrige fag,
+
+somi sin tid gikk inn for å opprette lærestoler og institutter i statistikk, meget ofte med den
+begrunnelsen at de fra disse nye instituttene skulle få hjelp til å løse sine statistiske problemer,
+etterhvert har følt at statistikerne ikke har vært i stand til å levere den ønskete varen, men kun
+har holdt seg for seg selv, og dessuten at statistikerne ofte har maltraktert problemer de har
+fått fra andre, med henblikk på å konstruere elegante eksempler til å illustrere en eller annen
+fiffig, matematisk statistisk problemstilling, men som ikke har meget med den
+fagvitenskapelige virkeligheten å gjøre, selv om statistikerne forsøker å illudere det. Denne
+sistnevnte atferden kan ofte oppleves som faglig krenkende av dem som har levert
+problemstilling og data.
+
+Jeg vet utmerket godt at det er laget flere riktig gode ting innenfor biostatistikk i Norge. Men
+den ovennevnte, klart ringeaktende holdning fra de ledende kretsene i det norske, statistiske
+miljøet til viktige aspekter av biostatistikk har nok vært en vesentlig grunn til at mange av de
+statistikerne som har arbeidet med biostatistikk i Norge, har følt seg nærmest kuet og har
+holdt seg tilbake. Og det er nok årsaken til at folk utenfor Norge hører så lite til norsk
+biostatistikk. Denne manglende informasjon om norske, biostatistiske resultater har nok vært
+avgjørende for at det innledende spørsmål overhodet ble stilt.
+I Danmark er situasjonen helt annerledes. Og det skyldes hovedsakelig én enkelt mann,
+nemlig G. Rasch, den egentlige grunnleggeren av det danske, statistiske miljøet. Han var
+
+virksom fra midten av 1930-årene til omkring 1970. De første mange årene arbeidet han som
+statistiker på Seruminstituttet, svarende til Folkehelsa i Norge, og de siste 10 årene var han
+professor i teoretisk statistik ved Københavns Universitet. For ham var det helt sentralt å ta
+sitt utgangspunkt i de fagvitenskapelige problemstillingene og tilpasse de statistiske
+modellene og metodene etter dem, og for ham var det klart at dette var en av statistikerens
+hovedoppgaver i samarbeide med sine fagvitenskapelige partnere. Rasch var meget artikulert
+og kom fram med sine synspunkter i alle relevante sammenhenger. For Rasch stod
+formaliseringsprosessen helt sentralt, og i Danmark blir formaliseringsprosessen i høy grad
+faglig anerkjent, i motsetning til i Norge. Dette har preget det danske, statistiske miljøet siden,
+og det har medført at biostatistikerne har en sterk stilling i dette miljøet og ikke har noen
+hemninger, slik som de norske. På den IBS’s konferanse i Kappstaden, hvor Eva Skovlund
+fikk den provoserende uttalelse, holdt mange dansker foredrag om biostatistiske emner. På
+statistiske møter i Danmark kan man fortsatt fornemme hvorledes Raschs ånd stadig svever
+over vannene.
+
+Jeg kan helt tilslutte meg Eva Skovlunds synspunkter om den inspirasjon som man får ved å
+delta på konferanser. Men jeg finner også at jeg selv får meget igjen for å holde foredrag. Som
+nevnt har jeg meget ofte holdt foredrag på konferanser. Det er først i de siste tre årene jeg har
+fått taleplikt i forbindelse med deltakelse i internasjonale møter. Tidligere krevde man ikke
+
+noe slikt. Atjeg likevel har foretrukket å ha et foredrag med når jeg drar til en konferanse, er
+
+at jeg derved har tvunget meg selv til å gå grundig gjennom og resymere et avgrenset emne
+som jeg har holdt på med, med henblikk på å fremstille det for andre. I forbindelse med
+forberedelsene til foredraget har jeg ofte fått strukturert det aktuelle emne på en vesentlig
+bedre måte enn jeg ellers ville ha fått gjort. Mange ganger har jeg anmeldt et foredrag med
+
+henblikk på tvinge meg selv til å få avsluttet noe jeg holdt på med, men som ellers ville ha
+blitt nedprioritert. Endelig har jeg som regel fått forskjellige, meget nyttige reaksjoner fra
+
+21
+
+
+
+tilhørerne, f.eks. spørsmål om sammenheng, som jeg ikke hadde tenkt på. Jeg vil derfor, på
+
+samme måte som Eva Skovlund, sterkt oppfordre norske biostatistikere til å stille opp på
+nordiske og internasjonale møter og holde foredrag. Man har også en plikt til å formidle til
+andre det som man blir betalt for å gjøre, spesielt hvis man arbeider for offentlige midler.
+
+Eva Skovlund henviser en del til et NR-møte som ble holdt i Bagsværd utenfor København i
+juni 1999. Jeg skylder nok å opplyse om at jeg ikke kunne delta i dette møtet fordi jeg var
+direkte forhindret. Samme uke deltok jeg nemlig i Warszawa 1 et møte i Den internasjonale
+standardiseringsorganisasjon, ISO’s, Tekniske komité 69 som beskjeftiger seg med utvikling
+og revisjon av internasjonale statistikkstandarder. Her var jeg ansvarlig for én arbeidsgruppe
+
+og deltok meget aktivt i arbeidet i en annen. Dette er også et internasjonalt
+anvendelsesområde som norske statistikere ikke engasjerer seg i. Ved den nevnte IBS's
+konferanse i Kappstaden deltok jeg dog og holdt foredrag om statistiske modeller og metoder
+til analyse av data om løvers atferd, samt viste forskjellige resultater, et relevant emne for den
+delen av verden.
+
+Den uttalelsen fra den danske statistikeren som Eva Skovlund refererte, d.v.s. overskriftens
+sitat uten spørsmålstegn, gir også grunn til visse andre kommentarer. At den nettopp kommer
+fra en danske til en norsk, er ikke belt tilfeldig. Siden jeg har bodd i Danmark det meste av
+tiden fra 1963, har jeg lært en hel del om dansk-norske forhold, danskenes syn på nordmenn
+og hvorledes dét har forandret seg i den forløpne perioden.
+
+At danskenei stor utstrekning reiser til konferanser og holder foredrag, skyldes i høy grad at
+de ønsker å reklamere for seg selv og dét de holder på med. De skal selge varen. Er det noe
+danskene er gode til, så er det å reklamere for seg selv. De setter aldri sitt lys under en
+skjeppe, selv når det er et dårlig lys. På dette området, reklamering for seg selv og sine
+resultater, ligger danskene langt foran nordmennene, og det vet danskene, og de ønsker å
+fremheve det. Om Norge er et u-land i reklamemessig henseende, skal jeg dog ikke påta meg
+å vurdere.
+
+Uttalelsen kan også ses i en annen sammenheng. I de senere år har det blitt mer og mer tydelig
+at danskene forsøker å ignorere og nedvurdere norske resultater. Kritikk av Norge og
+nordmenn forekommer hyppig. Siden Norge fant olje i Nordsjøen, og det ellers i de siste
+årtier har skjedd en rivende utvikling på en rekke områder i Norge, har danskene følt seg
+forbigått, og dette kan de ikke helt tåle fra sin gamle koloni. Det kan kanskje best illustreres
+ved noe jeg leste i *Politiken” kort etter Verdensmesterskapet i fotball i Frankrike i 1998. En
+dansk mediekoryfé ble spurt om hvorfor danskene ikke hadde holdt med nordmennene når de
+spilte sine kamper under VM. Til det svarte han: “I gamle dager var nordmennene så
+hyggelige når de kom hit. Men de har jo gått forbi oss på nesten alle områder, så nå er de ikke
+så hyggelige lenger.”
+
+22
+
+
+
+Statistikk i skolematematikken
+Tore Wentzel-Larsen, Siviløkonomutdanningen i Bodø
+
+Jeg leste med interesse Trygve Nilsens innlegg, og Odd Aalens svar, i TG 2.1999. I de
+
+økonomisk-administrative studiene ved høgskolene har svake forkunnskaper i matematikk vært et
+problem i mange år. En viktig årsak er at en stor del av studentene bare har generell
+studiekompetansei faget. I tillegg til manglende regneferdighet har mange studenter vanskelig for
+å forholde seg til presise, problemdefinerende tekster. Samlet rammer dette flere fag på studiene,
+også statistikk. Jeg er i tvil om kombinerte kurs i matematikk og statistikk er egnet til å øke
+gjennomføringsgraden på disse studiene nå.
+
+Jeg er enig med Trygve Nilsen (og Truls Sevje, leder i Norsk Lektorlag) i at det trengs betydelig
+økt vektlegging av basale regneferdigheter i skolematematikken, og da særlig på videregående
+skoles grunnkurs, som gir generell studiekompetanse. Men mine erfaringer tyder ikke på at
+motivering er uviktig, dagens elever og studenter arbeider ikke med et emne bare fordi det står på
+pensumplanen.
+
+I den nye læreplanen i videregående skoles grunnkurs i matematikk er det et framsknitt at
+sannsynlighetsregning erstatter deskriptiv statistikk. Men det er svært mange emner som skal
+dekkes på dette ene året. I varianten 1MY, som antakelig velges av de svakeste, er det 7
+hovedmål og sammenlagt 38 delmål. Innen hovedmål 7 (praktisk bruk av funksjoner og algebra)
+er det hele 10 delmål, og det er langt mer vekt på funksjonslære enn på algebra. Til og med
+eksponentialfunksjoner og logaritmer skal de innom.
+
+Mine erfaringer tyder på at det er lettere for studenter å sette seg inn i funksjonslære hvis basal
+regneferdighet er på plass, enn omvendt. Det må avsettes tilstrekkelig tid til trening innen
+elementær algebra. Andre emner i kurset må så langt mulig støtte opp under dette, både med
+trening og motivering (jeg er enig med Odd Aalen, her har sannsynlighetsregning mer å bidra
+med enn Euklidsk geometri). Det samme gjelder det større prosjektet som skal inngå i kurset. Og
+ikke minst viktig: Tekniske hjelpemidler må brukes til å støtte opp under regneferdighet, ikke til å
+unngå regning.
+
+Jeg er enig med Odd Aalen i at sannsynlighetsregning og statistikk bør inngå i
+skolematematikken. Men på klassetrinn 2 og 3 bør en vurdere å kutte ned på antall emner, og
+heller ta mer innen hvert emne. De sentrale emnene bør være sannsynlighetsregning og
+punktestimering (med estimert standardavvik). Her er det nok av gode, reelle, anvendelser, som
+både gir regnetrening, innsikt og motivasjon.
+Referanser:
+
+Læreplan for videregående opplæring. Matematikk. Felles alment fag i alle studieretninger. KUF
+juli 1999. http://skolenettet.nls.no/dok/Ip/matte200799.html
+Truls Sevje: Mytene om matte. Innlegg i Dagbladet 6/12 1999.
+
+23
+
+t
+
+
+
+Er det noen plass til statistikk i skolematematikken?
+Ivar Heuch
+
+Matematisk institutt, Universitetet i Bergen
+
+I desembernummeret av TG tar Trygve Nilsen [1] opp til diskusjon spørsmålet om emner fra
+
+statistikk har noen berettigelse innenfor matematikkfaget i skolen. Han gir uttrykk for at
+matematikkundervisningen i videregående skole bør konsentrere seg om grunnleggende ferdigheter, og at det derfor ikke bør legges vekt på anvendte temaer som statistikk. Derimot er han
+åpen for at statistikk kan komme inn som del av undervisningen i andre fag, f.eks. samfunnslære.
+
+Spørsmålene som Trygve Nilsen tar opp, er av stor betydning for arbeidet som undervisningsutvalget i Norsk Statistisk Forening utfører. Vi prøvde for to år siden å veilede forfatterne ved
+
+revisjon av statistikkavsnittene i lærebøkene i matematikk for 3. klasse i videregående skole [2],
+men det er mulig at strategien var feil. Samtidig angår saken også grunnleggende holdninger til
+skolepolitikken generelt hos oss statistikere. Det er på ingen måte innlysende at vi bør kjempe på
+alle måter for størst mulig utbredelse av statistikkfaget innenfor undervisningssystemet. Uansett
+er faget i stor grad avhengig av grundig kjennskap til matematiske metoder blant utøverne. Vi har
+derfor langt videre interesser i diskusjonen omkring skolematematikken.
+Dagens situasjon
+
+Det er antagelig enighet om at enkle begrep fra deskriptiv statistikk hører hjemme i
+matematikkundervisningen opp til og med ungdomsskolenivå. I øyeblikket er det undervisningen
+i videregående skole som mange er bekymret over. Fra flere hold hører vi om alvorlige problemer
+for matematikken på dette nivået etter innføringen av Reform 94. Det klages fra lærerhold og fra
+institusjoner som skal utdanne elevene videre. Situasjonen er i øyeblikket uklar, men det blir
+antydet at det generelle nivået på matematikkferdighetene har sunket betraktelig etter den siste
+reformbølgen. Iallfall fra noen høyskoler og universitet blir det rapportert om at begynner-
+
+studentene har langt større problemer med kursene i matematikk nå enn for noen år tilbake.
+Flere mulige forklaringer på nivåforandringene er blitt fremkastet. Noen mener problemene
+henger sammen med undervisningen lenger nede i skoleverket, mens andre ser en forbindelse
+med nye emner som skal behandles i videregående skole etter Reform 94. Det er imidlertid
+gjennomført flere forandringer, så det er ikke opplagt hva som er vesentlig i denne
+sammenhengen. Blant enkelte matematikere er det tydeligvis populært å henvise til statistikk som
+et nytt, omfangsrikt emne og legge skylden for eventuelle nivåsenkninger på dette stoffet [3].
+Ellers har det vært påpekt endringer i selve arbeidsmåten i matematikken. Det blir lagt mindre
+vekt på teoretiske resonnementer, mens bruk av kalkulator spiller en mye større rolle. Selv om
+læreplanene gir uttrykk for at elevene skal oppøves i matematisk tankegang, er det i praksis blitt
+
+mindre tid til fordypning i basale ferdigheter.
+Rom for anvendelser?
+
+I den aktuelle situasjonen kan det være en fordel å skille de mer prinsipielle synspunktene ut
+fra vurderingen av matematikkundervisningen slik den foregår nå. Det kan diskuteres 1 hvilken
+grad matematikkfaget i videregående skole bør omfatte anvendte emner i det hele tatt. Dette er en
+mer generell problemstilling, som også angår andre aktuelle muligheter enn statistikk.
+
+I den tradisjonelle gymnaset som Trygve Nilsen og jeg kjente fra femti- og sekstiårene, var det
+bare et ganske spesielt emne av anvendt karakter i matematikkfaget, nemlig annuiteter som
+eksempel på bruk av geometriske rekker. På enkelte områder forekom det i lærebøkene isolerte
+
+eksempler med innslag av anvendelser, som f.eks. bruk av integraler til utregning av treghetsmoment. Slike enkeltstående anvendelser var imidlertid lite populære fordi det krevdes en god del
+ekstraarbeid å sette seg inn i de underliggende praktiske problemstillingene. Også fra annen
+
+undervisningssammenheng er det kjent at det kan være vanskelig å føye til korte, velegnede
+
+oA
+
+
+
+eksempler med anvendt tilsnitt. Innenfor matematikken selv forekom det derimot eksempler på
+anvendelser av andre matematiske disipliner, f.eks. ved algebraisk analyse av rent geometriske
+oppgaver.
+
+Situasjonen i skolen er i dag helt annerledes, og læreplanene understreker at anvendelser av
+matematiske metoder skal inngå som en vesentlig del av fremstillingen. Innsikt i matematisk
+modellbygging utgjør et eget mål for undervisningen, som riktignok kan kreve større forandringer
+av arbeidsmåten [4]. Det spørs om det ville være mulig å opprettholde matematikk som et omfattende fag i videregående skole uten vesentlige henvisninger til nytteverdien på andre fagområder.
+
+Dette henger sammen med formålet med undervisning i matematikk på det aktuelle trinnet. Det er
+naturligvis riktig at mange elever får bruk for matematiske teknikker på andre fagfelt senere.
+
+F.eks. vil forståelse av derivasjon og integrasjon være vesentlig for svært mange. Likevel vil det
+være usikkert for mange elever hva slags fag de eventuelt vil fortsette med. Skolematematikken
+må derfor samtidig ha sin klare egennytte, uavhengig av mulige begrunnelser hentet fra
+renmatematiske teknikker utnyttet i fag som elevene kan komme i kontakt med etterpå. Samtidig
+vil sentrale abstrakte begrep også bli bedre utdypet dersom anvendelsene trekkes inn. Tendensen i
+
+retning av flere anvendelser i skolematematikken er også tydelig i andre land, til dels på grunnlag
+av lignende argumentasjon [5].
+
+Selvsagt vil det alltid by på problemer å finne den riktige balansen mellom abstrakte ideer og
+mulige anvendelser. Imidlertid skal undervisningen også bidra til generell forståelse av matemat-
+
+isk tankegang. Det er uhyre vanskelig å beskrive hvordan dette virkelig foregår, men på en eller
+annen måte bør elevene oppnå mer allmenn innsikt når de gjennomgår ulike matematiske betraktninger. Det er ikke gitt på forhånd at disiplinene som anses som spesielt nyttige for videre studier,
+også vil være de mest fruktbare med tanke på generell matematisk dannelse. Dette avhenger av
+
+presentasjonsform og utformning av eksempler og oppgaver. Poenget er at disipliner med mer
+anvendt siktemål også kan bidra til hevning av det generelle matematiske nivået. Det virker helt
+selvsagt på lavere nivå i skolen. Også i det gamle gymnaset kunne en finne eksempler på nyttig
+samspill mellom enkel matematisk tankegang og praktiske problemstillinger. På mange måter
+hadde oppgaveregningen i fysikkundervisningen på real- og naturfaglinjene en slik funksjon, selv
+om stoffet som elevene gjennomgikk de to siste årene i matematikkundervisningen ikke ble særlig
+utnyttet i skolefysikken.
+
+Skolestatistikk?
+
+Sannsynlighetsregning og statistikk står i en litt annen stilling. Fagfeltet er anvendt i seg selv,
+men vil likevel stille elevene overfor en egen enkel teorioppbygging, som igjen fører til
+eksempler med konkrete anvendelser. Passende omfang kan selvsagt diskuteres, men mange bør
+likevel kunne enes om at fagfeltet har sin berettigelse i skolen pga. forbindelseslinjene til
+problemer elevene møter i livet utenfor. Igjen kan man drøfte hvor nyttige begrepene faktisk er,
+men betegnelser som ‘sjanse’ og ‘sannsynlighet’ dukker opp i mange sammenhenger i dagens
+samfunn. Bare det å vise at det går an å formalisere begrepene og stille opp enkle regneregler, vil
+ha en nytteverdi. Samtidig ligger mange av ideene i elementær sannsynlighetsregning på et
+abstraksjonsnivå som passer godt for videregående skole.
+Beveger man seg derimot inni statistisk metodelære, er det lett å være enig med Trygve Nilsen
+at det kan være vanskelig å forstå den grunnleggende tankegangen. Fremstillingen i noen av lærebøkene som har vært brukt de siste årene i skolen, har sikkert forvirret både elever og lærere.
+Kanskje det ville vært bedre å konsentrere seg om en enklere behandling av usikkerhet med
+direkte utspring i sannsynlighetsregningen. Men i seg selv er ikke det noe godt argument for å
+ekskludere fagfeltet statistikk fullstendig. Dessuten er det viktig at de konkrete anvendelsene i
+eksempler og oppgaver er gode, noe som slett ikke har vært tilfellet bestandig. Det må også tas i
+betraktning at lærerne i faget i stor grad ble satt til å undervise stoff de ikke selv var kjent med.
+På mange måter har det virket som om statistikken startet med store handikap ved innføringen av
+Reform 94, slik at det er urimelig å si om feltet er egnet som skolestoff på bakgrunn av
+erfaringene hittil. At det kan være vanskelig å videreutdanne matematikklerere til
+statistikkundervisning, er også velkjent fra USA [6].
+
+25
+
+
+
+Valg av retning for skolematematikken nå
+Betraktningene ovenfor refererer seg til en idealsituasjon som kan ligge langt fra dagens norske
+skole.
+
+Kanskje
+
+Trygve Nilsen
+
+vil
+
+innvende
+
+at problemene
+
+i
+
+dag
+
+er
+
+så presserende at
+
+forutsetningene for diskusjonen er helt annerledes. Å drøfte om man bør konsentrere seg om
+hypotesetesting eller konfidensintervaller i det siste året i skolen, blir meningsløst dersom en stor
+del av elevene ikke mestrer elementær algebra og f.eks. sjonglerer vilt med tellere og nevnere i
+enkel brøkregning.
+Vi befinner oss tydeligvis i en vanskelig beslutningssituasjon med bare delvis informative data!
+
+Det foreligger mange løse rapporter om synkende nivå i matematikk blant elevene fra
+videregående skole, men når det er snakk om forklaringer, er det lite håndfast tilgjengelig.
+Samtidig hevdes det at skoleverket er i en generell krise. Politisk betonte utsagn om høy kvalitet i
+skolen virker provoserende på mange. Diskusjonen omkring statistikk kan lett virke overdrevet
+når man tar de andre, virkelig alvorlige problemene i betraktning. Likevel kan konsekvensene av
+en feilslått politikk for realfagene i videregående skole bli store på lengre sikt. Matematikken
+inntar en viktig plass blant disse fagene. Det er i dette perspektivet vi bør se på dagens problemer
+
+med matematikkundervisningen. Å velge enkle og raske løsninger, f.eks. med å fjerne emner av
+anvendt natur, virker forhastet.
+
+Reform 94 gjenspeilte mange fomuftige tanker omkring matematikkundervisningen. Det er
+
+likevel uvisst om forandringene har falt heldig ut. Det melder seg straks en lang rekke spørsmål:
+Er målene generelt satt for høyt i forhold til timetallet på de ulike nivåene? Har det kommet inn
+for mye tilleggsstoff på siden av de grunnleggende regneteknikkene, slik at innøvingen av
+ferdigheter er blitt dårligere? Er selve læreprosessen ment å foregå på en annen måte som har
+vært uheldig? Har det oppstått en sammenblanding av numeriske teknikker på kalkulator og
+analytiske løsningsmetoder som har fått elevene til å tro at de analytiske løsningene kunne
+ignoreres? Presser skolesystemet for mange matematikksvake elever inn i et felles grunnkurs, slik
+at forutsetningene er mye dårligere for de som skal gå videre? Eller ligger hovedproblemet lenger
+nede i skolesystemet?
+
+Det er ikke vår oppgave som statistikere å svare uttømmende på disse spørsmålene, men
+svarene vil ha stor betydning for diskusjonen omkring statistikk på videregående skole. I
+øyeblikket virker det mer naturlig å prøve å arbeide med de generelle spørsmålene enn å ty til
+panikkløsninger med stryking av større fagområder. Uansett hvilken linje man legger seg på med
+stoffvalg, vil jeg tro at anvendelser kommer til å spille en ikke ubetydelig rolle i matematikkfaget.
+Beveger undervisningen seg derimot i retning av utelukkende ren matematikk, står faget i enda
+større fare for å bli valgt bort av store deler av elevmassen.
+Hva skal statistikerne anbefale i mellomtiden for statistikkdelen av matematikkfaget? Det er
+egentlig et annet spørsmål som bør diskuteres nøye, men uansett bør vi strebe etter en rimelig
+balanse mellom stoff som gir generell matematisk modning, som holder en passende vanskelighetsgrad, som har store anvendelsesmuligheter, og som samtidig gir en viss innsikt i prinsipiell
+statistisk tankegang.
+
+En annen innfallsport?
+
+Trygve Nilsen antyder at det kan være naturlig med statistikkundervisning i skolen utenfor
+
+matematikkfaget. Det er lett å slutte seg til slike prinsipielle tanker, men det er vanskelig å se
+hvordan det kan gjennomføres i dag. Fjerner man statistiske ideer fullstendig fra matematikkundervisningen, vil det neppe føre til at de kommer sterkere inn i andre fag. Som statistikere
+legger vi stor vekt på ikke-matematiske sider ved vårt fag, men det gjenspeiler tross alt en
+kvantitativ tenkemåte. I skoleverket, med forholdsvis bredt avgrensede fag, vil matematikken
+måtte ta opp i seg flere slike disipliner. Ren matematikk, slik det undervises på høyere nivå, har
+ikke noen enerett til å representere matematikkfaget i skolen.
+En innføring i statistiske metoder i samfunnslære kan sikkert være nyttig, men vil neppe
+duplisere stoffet som faller naturlig inn under en mer matematisk behandling. En konsentrasjon
+
+om samfunnsfag vil også lett fremme feilaktige forestillinger om faget statistikk, slik at
+anvendelser bl.a. i tekniske og naturvitenskapelige fag blir oversett.
+
+For den saks skyld kunne
+
+man også gjerne ha tenkt seg statistikkundervisning som en del av datafag. Likevel er det urimelig
+
+26
+
+
+
+å forestille seg at denne typen statistikkundervisning skulle komme istedenfor mer regnepreget
+undervisning
+
+som
+
+f.eks.
+
+gir
+
+forklaring
+
+på
+
+binomiske
+
+sannsynligheter.
+
+Den
+
+samme
+
+problemstillingen møter vi på høyskole- og universitetsnivå, der det blir gjennomført flere typer.
+
+statistikkundervisning avhengig av behovene. Mye av diskusjonen om statistikkens faglige
+plassering innenfor skolen minner for øvrig sterkt om debatten som har foregått i engelsktalende
+land [7].
+
+En samlet front?
+
+Det ser dessverre ut til å ha oppstått mindre misforståelser angående informasjonsstrømmen
+internt i Norsk Statistisk Forening i forbindelse med diskusjonen om skolestatistikk [1,8]. Det har
+neppe vært noe forsøk på hemmelighetsholdelse blant statistikerne i Osloområdet om hva som har
+
+foregått. Hvis jeg som medlem av undervisningsutvalget i foreningen ikke skulle ha gitt god nok
+informasjon til alle i Bergensmiljøet, er det bare å beklage, men det kan i så fall ha sammenheng
+med opphold helt andre steder under forskningstermin.
+Kommunikasjonsproblemene er nok langt større overfor renmatematikerne. Det kan ikke
+overses at Aftenposten [3] rapporterte at *avdelingsleder for Matematisk institutt” ved
+Universitetet i Oslo la vesentlig skyld på sannsynlighetsregning og statistikk for det "dårligere
+kunnskapsnivå i grunnleggende matematikk”. Leserne fikk inntrykk av dette var instituttets
+samlede oppfatning. Kan vi klare å få renmatematikerne til å forstå at slike forhastede reaksjoner
+ikke gavner skolematematikken? Det er vanskelig å evaluere store undervisningsreformer, og
+debatten bør bygge på alle vesentlige faktorer som innvirker på læringsprosessen. De alvorlige
+nivåproblemene forsvinner neppe dersom man bare fjerner dagens statistikkstoff og erstatter det
+f.eks. med mer vektorregning.
+
+For snart fire år siden uttrykte Ørnulf Borgan [9] stor entusiasme i TG da første elevkull skulle
+begynne med statistikk etter de nye læreplanene i 3. klasse. Samtidig la han vekt på usikkerheten
+omkring gjennomføringen av undervisningen. I dagens situasjon, med litt bedre datagrunnlag, bør
+det være mulig å justere opplegget, parallelt med at det gjøres forsøk på å løse andre,
+fundamentale spørsmål av betydning for skolematematikken.
+
+Referanser
+
+[1] Nilsen T. Statistikki skolen = statistikki matematikken? Tilfeldig Gang 16 (2), 8 (1999).
+[2] Heuch I, Lillestøl J, Dahl H. En vurdering av lærebøkene i statistikk i videregående skole.
+Tilfeldig Gang 15 (1), 3-9 (1998).
+
+[3] Samuelsen, RJ. Nye mattestudenter på forkurs. Aftenposten 11.08.1998, 5.
+[4] Erfjord, I. Matematisk modellering og bruk av matematikk i videregående skole. Tangenten 9
+(2), 27-35 (1998).
+
+[5] Usiskin, Z. Applications in the secondary school mathematics curriculum: a generation of
+change. American Journal ofEducation 106, 62-84 (1997).
+[6] Hayden RW, Kianifard F. Preparing high-school mathematics teachers to teach statistics.
+American Statistician 46, 290-295 (1992).
+
+[7] Boland PJ, Nicholson J. The statistics and probability curriculum at the secondary school
+level in the USA, Ireland and the UK. The Statistician 45, 437-446 (1996).
+[8] Aalen O. Statistikki skolen - svar til Trygve Nilsen. Tilfeldig Gang 16 (2), 9 (1999).
+[9] Borgan Ø. Statistikki skolen - hva nå? Tilfeldig Gang 13 (1), 3-5 (1996).
+
+2/
+
+
+
+Statistikk i skolen -- hva skjer?
+Med Reform-94 ble sannsynlighetsregning og statistikk en del av læreplanen i
+matematikk i videregående kurs I og II (dvs. 2. og 3. klasse) på studieretning for
+allmenne, økonomiske og administrative fag i videregående skole. Dette var en viktig
+og positiv begivenhet. Statistisk tankegang gjennomsyrer stadig mer det moderne
+samfunnet, blant annet i form av meningsmålinger, ved utprøving av legemidler og i
+vitenskapelige undersøkelser. Det er derfor en viktig del av allmennutdanningen å
+
+lære elevene litt om mulighetene og begrensningenei statistiske undersøkelser. Viktig
+er det også at sannsynlighetsregningen og statistikken har bidratt til å vitalisere
+matematikkundervisningen, og at dette kanskje er den delen av matematikkfaget flest
+elever har direkte nytte av i høyere studier.
+Sannsynlighetsregningens og statistikkens plass og innhold i videregående skole
+har blitt omtalt på lederplass i TG og har blitt tatt opp i innlegg av
+undervisningsutvalgets medlemmer og undertegnede (som nylig har blitt medlem av
+undervisningsutvalget) -- se numrene 3/95, 4/95, 1/96, 1/98 og 2/98. "Statistikkens
+inntog i den videregående skole" var også et tema på det 9. norske statistikermøtet i
+Selbu i juni 1997.
+Det var derfor med litt undring jeg leste i siste nummer av TG at Trygve Nilsen
+
+følte at debatten om statistikk i skolens matematikkundervisning var forbeholdt
+Osloområdet. Men samtidig rørte han ved min dårlige samvittighet. For
+informasjonen til TGs lesere kunne vært bedre det siste året. Med dette innlegget vil
+jeg prøve å rette opp dette.
+
+å
+
+Debatten høsten 1998
+
+Høsten 1998 kom matematikkfaget i videregående skole i fokus for den offentlige
+debatten. En rekke avisinnlegg tok opp faget og dets problemer. Arsaken til debatten
+var blant annet at de første kullene med Reform-94 elever oppnådde svake resultater i
+matematikk ved universiteter og høgskoler. Selv om det opplagt var mange grunner
+til dette, la flere av debattantene skylden på sannsynlighetsregningen og statistikken.
+
+Ved at vårt fag var kommet med i matematikkpensumet, ble det mindre tid til
+"ordentlig" matematikk, mente de.
+
+En av de få som tok til motmæle var NSFs leder, Odd Aalen. I et avisinnlegg i
+Aftenposten og på et seminar i KUF forsvarte han med stor styrke sannsynlighetsregningens og statistikkens plass i videregående skole. Odds argumenter ble fulgt opp
+med et brev til KUF hvor det ble gjort nærmere rede for foreningens synspunkter.
+Jeg våger å hevde at Odds innsats var av avgjørende betydning. Den ga en
+
+velbegrunnet motvekt til alle de som ville fjerne sannsynlighetsregning og statistikk
+fra skolen, og den gjorde KUF oppmerksom på at statistikk er et selvstendig fag med
+egne fagfolk.
+
+Læreplanarbeidet våren 1999
+I januar 1999 satte KUF i gang et arbeid med å revidere læreplanene i matematikk for
+grunnkurset (dvs. første klasse) i videregående skole. Hovedgrunnen til at planen
+måtte revideres så kort etter Reform-94, var endringene i grunnskolen med Reform97. Meni tillegg ønsket KUF å endre læreplanene i lys av erfaringene med Reform94 og den pågående debatten om matematikkfaget.
+Arbeidet ble startet opp med et stort seminar på Lysebu i slutten av januar. Her var
+NSF representert med Odd Aalen og undertegnede. I forlengelse av dette seminaret
+
+nedsatte KUF en gruppe på fem personer som skulle utarbeide forslag til ny læreplan.
+
+2
+
+
+
+For å få en bredere basis for diskusjonen, ble det også oppnevnt en referansegruppe
+
+med seks medlemmer. Undertegnede var ett av disse.
+I den offentlige debatten høsten 1998 var det mange som hadde uttalt seg negativt
+
+om sannsynlighetsregning og statistikk i skolen. Slike synspunkter var helt
+fraværende i læreplan- og referansegruppa. Tvert i mot var det flere som hadde
+positive erfaringer med faget vårt
+- det ga en avveksling fra den "vanlige"
+matematikken og dette inspirerte mange elever. Læreplangruppa foreslo derfor selv at
+den beskrivende statistikken i grunnkurset (som ikke inneholder noe ut over
+ungdomsskolen) skulle erstattes med en enkel innføring i sannsynlighetsregning.
+Dette forslaget støttet jeg. Det er gunstig at elevene møter sannsynlighetsregningen
+første gang uten å bli belemret med kombinatorikken.
+
+Ny læreplan for første klasse
+
+Den nye læreplanen ble vedtatt sommeren 1999 etter en høringsrunde hvor også NSF
+kom med sine kommentarer. Den trer i kraft høsten 2000. I den nye lærerplanen lyder
+et av hovedmålene:
+
+Elevene skal kjenne grunnbegrepene i sannsynlighetsregningen og kunne bruke
+dem til å utføre enkle beregninger.
+
+Dette målet er nærmere spesifisert ved at elevene skal
+
+a) kjenne til begrepet sannsynlighetsmodell og kunne formulere og eksperimentere
+med enkle uniforme og ikke-uniforme sannsynlighetsmodeller
+
+b) kunne regne ut sannsynligheter ved å telle opp alle gunstige og alle mulige utfall i
+enkle eksempler
+
+c) kunne regne ut sannsynligheter ved hjelp av valgtrær, Venn-diagrammer og andre
+systematiske oppstillinger
+
+d) ha en intuitiv forståelse av uavhengighet og betinget sannsynlighet
+e) kunne bruke addisjonssetningen og produktsetningen
+
+Her gjelder de tre første punktene for alle studieretninger (også yrkesfag), mens de to
+
+siste punktene bare er obligatorisk for studieretningen for allmenne, økonomiske og
+administrative fag.
+
+Arbeidet med nye lærplaner for andre og tredje klasse
+Arbeidet med å revidere læreplanene i matematikk i videregående kurs I og II (dvs.
+andre og tredje klasse) for allmenne, økonomiske og administrative fag har så smått
+startet opp. Opplegget er som for grunnkurset med en læreplangruppe og en
+referansegruppe. Undertegnede er også denne gang med i referansegruppa. Etter
+planen skal arbeidet gjøres unna før sommeren.
+
+Noen tanker om innhold og mål
+I forbindelse med den kommende revisjonen har jeg gjort meg en del tanker om
+sannsnlighetsregning og statistikk i videregående skole. Først to generelle synspunkt:
+e
+
+Hovedvekten bør legges på sannsynlighetsregning. Denne må være spennende og
+
+inspirerende og ikke ha karakter av "julenøtter". Det er viktig å vise mange andre
+anvendelser enn spill.
+
+29
+
+
+
+e
+
+Litt statistisk metodelære bør med for å gi elevene en forståelse av forholdet
+mellom populasjon og utvalg (gitt ved en sannsynlighetsmodell og uavhengige *
+variable fra denne) og av at en fra et utvalg kan få informasjon om populasjonen
+(via parametere i modellen). Det bør ikke være med mye statistisk metodelære,
+delvis på grunn av den kompetansen matematikklærerne har.
+
+Når det gjelder det konkrete innholdet i de to videregående kursene har jeg også gjort
+meg noen tanker. Men disse må nok justeres etter som arbeidet i læreplan- og
+referansegruppene skrider fram:
+e
+
+Videregående kurs I (2. klasse): Her bør en ta kombinatorikken omtrent på samme
+måte som i dag (dvs. ordnet utvalg med og uten tilbakelegging, ikke-ordnet utvalg
+med tilbakelegging). I tillegg bør en "stramme opp" presentasjonen av betinget
+sannsynlighet og uavhengighet fra grunnkurset (jfr. mål 5d over) og ta med Bayes
+setning i enkleste form. Binomisk og hypergeometrisk fordeling hører også
+naturlig hjemme her.
+
+e
+
+Videregående kurs II (3. klasse): Her bør en innføre tilfeldige variable,
+sannsynlighetsfordelinger, forventning, varians og standardavvik. Det er en
+mulighet å begrense seg til det diskrete tilfellet. Jeg vil imidlertid foretrekke at
+også det kontinuerlige tilfellet -- i det minste normalfordelingen -- tas med. Når
+det gjelder statistisk metode, kan jeg tenke meg å kutte ut hypotesetestingen.
+Denne har ikke falt heldig ut i dagens opplegg. Jeg tror det blir en tilstrekkelig
+"touch" av statistisk metode selv om denne begrenses til standardfeil og enkle
+konfidensintervall (basert på normaltilnærmelsen).
+
+Jeg ser fram til reaksjoner på disse synspunktene i TGs spalter og som e-mail til
+styret, undervisningsutvalget eller undertegnede!
+
+Ørnulf Borgan
+
+borgan(Qmath.uio.no
+
+30
+
+
+
+Eksamensoppgaver fra videregående skole
+Nedenfor gjengis eksamensoppgavene som er gitt i sannsynlighetsregning og statistikk i
+og administative fag, de to siste
+videregående skole, studieretning for allmenne, økonomiske
+andre klasse, mens 3MX og 3MY
+i
+gis
+og
+I
+kurs
+årene. Kursene 2MX og 2MY er videregående
+gjelder det at X-versjonen
+klassetrinn
+begge
+er videregående kurs II og gis i tredje klasse. For
+er vanskeligere enn Y-versjonen.
+
+Matematikk 2MX
+
+Matematikk 2MY
+2. juni 1998
+
+OPPGAVE 4
+
+Turid leder en komite som består av 5 personer, inkludert Turid. Hun har kalt inn til et
+møte og er spent på hvor mange som kommer. Selv er hun alltid til stede på møtene.
+Det har vist seg at hvert av de andre medlemmene er til stede på gjennomsnittlig 3
+
+av 4 møter. Medlemmene møter fram uavhengig av hverandre.
+a)
+
+Hva er sannsynligheten for at komiteen blir fulltallig på møtet?
+
+b)
+
+Hvis ett av medlemmene er fraværende, kan Turids dobbelstemme bli avgjørende.
+Hvor sannsynlig er det at akkurat ett medlem uteblir?
+
+c)
+
+Hvis komiteen ikke er beslutningsdyktig, må møtet avlyses. Komiteen er
+beslutningsdyktig hvis minst halvparten av medlemmene er til stede. Forklar
+hvorfor sannsynligheten er ca. 95 % for at komiteen blir beslutningsdyktig.
+
+Foruten Turid består komiteen av to menn og to kvinner.
+d)
+
+Finn sannsynligheten for at det bare er kvinner til stede når to av medlemmene
+er fraværende.
+
+
+
+Matematikk 2MX
+1. juni 1999
+
+OPPGAVE 3
+Fotballaget til Linda er med i en cup. Linda regner med at det i hver kamp er en
+sannsynlighet på 2 for at laget hennes kommer til å vinne, og dermed går videre til
+neste runde.
+
+a)
+
+Hva er sannsynligheten for at laget til Linda blir slått ut i første runde?
+
+b)
+
+Finn sannsynligheten for at laget blir slått ut i tredje runde.
+
+c)
+
+Hvor stor er sannsynligheten for at laget ikke når fjerde runde?
+
+Dersom en kamp må avgjøres ved straffespark, trekkes det lodd om hvilke 5 spillere
+som får ta straffespark (laget har 11 spillere).
+d)
+
+Hvor stor er sannsynligheten for at alle de tre beste spillerne får ta straffespark?
+
+Matematikk 2MY
+1. juni 1999
+
+OPPGAVE 1
+
+e) len flervalgsoppgave har hvert spørsmål 5 forskjellige svaralternativ, hvor ett
+alternativ er riktig.
+
+1)
+
+Hva er sannsynligheten for å svare riktig på et spørsmål bare ved å gjette?
+
+2)
+
+Hva er sannsynligheten for å oppnå Øye 3 riktige svar ved å gjette
+
+svarene på 10 spørsmål?
+
+30
+
+
+
+Matematikk 3MX
+
+Matematikk 3MY
+2. juni 1998
+
+OPPGAVE 4
+
+Da en skolekantine gikk over til å selge en ny type
+colabrus, hevdet elevene at den gamle typen cola
+
+hadde bedre smak. Elevrådet og produsenten av
+
+den nye typen cola ble enige om å teste om elevene
+
+virkelig kunne kjenne forskjell pa de to merkene.
+
+—— ‘
+
+Samtlige 500 elever fikk i tilfeldig rekkefølge drikke
+
+tre små glass cola. Ett av de tre glassene inneholdt
+den nye typen cola, mens de to andre glassene
+inneholdt den gamle typen. Etter smaksprøven måtte
+hver elev peke ut glasset med den nye typen.
+
+Hvis det ikke er mulig å kjenne forskjell på de to colamerkene, er det likevel en
+
+sannsynlighet på : for at en tilfeldig valgt elev kan peke ut det riktige glasset.
+La p vere sannsynligheten for at en tilfeldig elev velger glasset med den nye typen cola.
+
+La X være antall elever blant de 500 som velger den nye typen cola.
+
+Elevrådet ved skolen satte opp nullhypotesen
+
+-
+
+H, : Det er ingen smaksforskjell på de to colatypene, det vil si
+
+p= 3
+
+og den alternative hypotesen
+1
+
+Hi:
+
+a)
+
+P>3
+
+Finn hvilke verdier X må ha for at H, må forkastes. Velg 5 % signifikansnivå.
+
+Du kan gå ut fra at X er tilnærmet normalfordelt.
+
+Før smaksprøven ville produsenten sette signifikansnivået lavere enn 5 %. Han
+mente at minst 190 elever burde peke ut riktig glass før nullhypotesen H, måtte
+
+forkastes.
+
+b)
+
+Hvilket signifikansnivå måtte de da ha brukt?
+
+
+
+Matematikk 3MX
+1. juni 1999
+
+OPPGAVE 3
+
+a)
+
+Bodil bor på Vestlandet og spaserer til skolen hver dag.
+
+På en tilfeldig høstdag er sannsynligheten for regn å.
+Dersom det regner, er sannsynligheten å for at hun kommer for sent på skolen.
+Dersom det ikke regner, er sannsynligheten 7 for at hun kommer for sent på skolen.
+En dag er det skrevet «for sent» på henne i klassedagboken. Finn sannsynligheten for at det var regn denne dagen.
+
+b)
+
+Ledelsen ved en stor skole undersøker trivselen til elevene. Et av spørsmålene i
+undersøkelsen gjelder antall prøver i hver termin.
+
+En gruppe på 100 elever blir trukket ut tilfeldig. Det viser seg at 44 av de 100 er
+tilfreds med antall prøver. Elevrådet hevder at mindre enn halvparten av skolens
+elever er fornøyd med antall prøver.
+
+Bruk dine kunnskaperi statistikk og sannsynlighetsregning til å vurdere
+elevrådets påstand.
+
+Matematikk 3MY
+1. juni 1999
+
+OPPGAVE 1
+f)
+
+En produsent selger poteter i 2,5 kilogram-poser. Hun plukker ut 100 poser
+
+tilfeldig og finner et gjennomsnitt på 2,68 kg og et standardavvik på 0,11 kg.
+Ut fra denne stikkprøven vil hun finne et 95 % konfidensintervall for
+gjennomsnittsvekten av posene hun produserer. Hun antar at vekten til
+posene er normalfordelt med et standardavvik på 0,11 kg.
+
+Finn konfidensintervallet.
+
+34
+
+
+
+Pusleri-spalten
+Leserene opfordres til å sende inn oppgaver av følgende type:
+(i)
+
+Problemer av allmenn interesse, f.eks. spillproblemer som krever en viss
+
+ferdighet i sannsynlighetsregning for å kunne løse. Det kan også vere enkle
+oppgaver av typen paradokser, der vårt fag kan bidra til å klargjøre/villede.
+(ii)
+
+Problemer av interesse hovedsakelig innen vårt fagfelt som er utfordrende,
+
+men som gjerne har en ukonvensjonell og enkel løsning.
+Sagt på en annen måte: både oppgaver som krever (mye) papir og blyant og oppgaver
+som bare krever en god lenestol er velkomne!
+
+Send forslag til oppgaver til meg med din løsning.
+Jostein Lillestøl
+jostein.lillestol@nhh.no
+
+Pusleri nr. 2
+En viss type amøbe har egenskapen at hvert minutt vil den enten dø, forbli
+
+som den er, dele seg i to eller dele seg i tre. Anta at de fire mulighetene er
+like sannsynlige. En slik amøbe puttes i en krukke. Hva er, med rimelige
+tilleggsantakelser, sannsynligheten for at amøbe(kolonien) i krukken dør ut?
+Løsning i neste nr.
+
+Løsning av pusleri nr. 1
+Vi minner om oppgaven:
+Anta at du er alene i en fremmed by på skuddårsdagen. En kino annonserer at alle
+skuddårsbarn kommer gratis inn, de andre må stille seg i kø. Den første person i køen
+
+som kommer frem til luken, og som har samme fødselsdag som en som allerede har kjøpt
+billett, kommer også gratis inn. Anta at du vokter køen og slutter deg til denne når du tror
+at du har størst sjanse for å komme inn gratis. Hvilken plass i køen velger du?
+
+Løsning: La
+P, = person nr. Å i køen har samme fødselsdag som en foran
+
+35
+
+
+
+q, = de k første i køen har ulik fødselsdag
+Da er(sett p, =0 og 94,=4, =1)
+
+k=0,1,2,...
+
+Prat = Ya T Ver
+
+Vi må finne den største k slik at p, > p,_,, eller ekvivalent, første k slik at p,., < p,.Nå er (her er d = 365)
+d-k
+
+k
+
+Fiat = qe FYLT FEL
+slik at
+k
+
+k
+
+Pra = ait = J- plen
+Følgelig er
+
+k
+
+k-1
+
+Pr T Pr = FEL = d-
+
+d+k-K
+
+= d(d-k+1) *
+
+Ligningen
+
+f(x) =d+x-x’ =0
+har positiv losning
+
+x=0.5+Vd+0.25 =19.611
+Den første heltallige k som gir f(k) <0 blir derfor Å = 20
+
+Numerisk beregning ved rekursjonsformelen gir p ,, =0.03232.
+Vi kan alternativt beregne q, direkte ved kombinatoriske argumenter.
+
+La P(d,k) være antall permutasjoner av Å elementer utvalgt fra d elementer. Da er
+
+q, = P(d,k)/d*
+Dette gir oss
+
+Pin
+
+Yr ~ Gn = P(d,k)/d* — P(d,k+1)/dTM
+
+= (P(d,k) — P(d-1,k))/d* =k P(d, k)/d*"
+
+Vi har i siste overgang benyttet følgende kombinatoriske identitet:
+P(d,k) = P(d -1,k) + kP(d-1,k-1)
+
+Denne følger ved argumentet: Fikser en dato. Tell opp antall kombinasjoner der denne
+ikke er med, så alle kombinasjoner der den er med på en av Å mulige plasser og k- 1
+datoer til velges ordnet blant de d — 1 øvrige. Denne kombinatoriske fremgangsmåten
+ser ikke ut til å lede til like åpenbar bestemmelse av optimal &. Numerisk bestemmelse
+
+er selvsagt like enkelt ved begge metoder.
+
+36
+
+—
+
+
+
+Ellen J. Amundsen 50 år, 18. januar 2000
+
+Det er ikke mange familiedynastier i norsk statistikk. Ellen tilhører ett av dem. Hennes mor,
+
+Herdis Thorén Amundsen, var en av pionerenei statistikkfaget i Norge. Ellen har tatt opp den
+statistiske fakkel og bærer den videre.
+
+Ellen studerte statistikk hovedfag i Oslo på 70-tallet. Dette var en periode med veldig godt
+studentmiljø ved Avdeling C, og Ellen var én viktig grunn til dette. De av oss som var
+hovedfagsstudenter den gangen, tenker med glede tilbake på den tiden vi hadde sammeni "8.
+etasje".
+
+Ellen tok hovedfageksamen i 1977 med en hovedfagsoppgave om ulike teoretiske
+tilnærmelser til utvalgsundersøkelser. Etter avsluttet hovedfagseksamen arbeidet Ellen i
+femten år i Statistisk sentralbyrå - det meste av tiden ved kontoret for sosial- og
+kriminalstatistikk. I 1988 begynte hun å bruke sin fagkompetanse i Sosial- og Helsedepartementet, nå som byråsjef. Her hadde hun ansvar for utvikling av statistikk og
+informasjonssystemer på hele departementets arbeidsområde.
+
+Om det var i departementet forskningsgnisten ble tent skal være usagt. Men for fire år siden
+brente Ellen alle broer til og ga seg forskningen i vold. I et prosjekt ved Folkehelsa bega hun
+seg inn på det krevende AIDS-feltet. Hvordan har egentlig AIDS-epidemien forløpt i Norge
+og Skandinavia forøvrig? Hvor store mørketall av HIV-smitte er det? Disse og mange andre
+krevende spørsmål stilte Ellen seg, og svarene begynner nå å komme ut i form av rapporter
+og vitenskapelige artikler. Samtidig jobber Ellen på andre prosjekter ved Folkehelsa.
+Ellen er dyktig, samvittighetsfull og grundig i alt hun gjør, og hun har en egen evne til å se de
+store linjene i det hun arbeider med. Disse egenskapene var gode å ha i Sosial- og Helsedepartementet, men de er ikke mindre viktige for å få oversikt over og innsikt i AIDSepidemien.
+
+Som meor til tre barn har Ellen også andre ting å tenke på enn statistikk. Så det er ikke bare
+prosjektene som haler og drar i Ellen, men også hjemmebanen med sine gleder og krav.
+
+Vi ser fram til fortsatt kontakt med Ellen både som venn og kollega, og gratulerer hjerteligst
+med jubileet!
+
+Ørnulf Borgan
+
+Odd Aalen
+
+37
+
+
+
+Ørnulf Borgan 50 år, 8. april 2000
+Ørnulf Borgan runder 50 år i fin stil. Som kolleger og venner vil vi ønske ham til
+lykke med dagen.
+
+Ørnulf ble cand. real i 1976. Som student var han aktiv i studentpolitikken og
+
+var blant annet nestleder på studentinget en periode og hadde flere tillitsverv i Norsk
+studentunion. Etter hovedfag og en periode som vitenskapelig assistant ved
+Universitetet i Oslo var han i tre år adjunkt i forsikringsmatematikk ved Københavns
+Universitet. Etter en stipendperiode, som inkluderte et opphold ved Stanford
+University, ble han i 1984 dr. philos. ved Universitetet i Oslo. Han var i et år
+førsteamanuensis ved Norges Landbrukshøgskole. Siden 1984 har han vært ansatt ved
+Universitetet i Oslo, først som førsteamanuensis og fra 1993 som professor.
+Hovedoppgaven til Ørnulf dreide seg om analytisk glatting og resulterte i hans
+
+første publikasjon. Det var i perioden i København han for alvor ble interessert i
+forløpsanalyse som siden har vært hans dominerende interessefelt, og som han har
+publisert en rekke artikler innenfor. Sammen med Per Kragh Andersen, Richard Gill
+og Niels Keiding gav han i 1993 ut boken "Statistical models based on counting
+processes” som er blitt et standardverk for forløpsanalyse og telleprosesser. Under et
+forskningsopphold i Cambridge i 1991 startet han og Brian Langholz fra University of
+Southern California et langvarig og fruktbart samarbeid om bruk av ulike
+
+utvalgsmetoder for risikomengden, som er sentral ved estimering i overlevelsesmodeller.
+
+Hans solide internasjonale posisjon vises ytterligere 1 at han er medredaktør i
+Scandinavian Journal of Statistics og i Annals of Statistics og innvalgt medlemi International Statistical Institute.
+
+Ørnulfs pedagogiske evner er velkjente og beundret. Han har vært veileder for
+en rekke hovedfagsoppgaver og doktorgradsavhandlinger. @mulf har en egen
+tålmodighet og grundighet i veilederrollen som man kan misunne ham.
+I de senere årene har Ørnulf lagt adskillig energi i arbeid med statistikk og
+sannsynlighetsregningens plass i den videregående skolen. Mange lærere er ham takknemlig for de videreutdanningskursene han har holdt i forbindelse med reform 94.
+Mindre kjent, foreløbig, er det at han er medforfatter i en kommende lærebok for
+matematikk i den videregående skolen.
+@mulf er et overskuddsmenneske av de sjeldne. Kombinert med hans
+
+ryddighet og grundighet i alt han foretar seg gjør dette ham til en stor ressurs i de
+miljøene han ferdes både nasjonalt og internasjonalt. Ørnulf har venner overalt. Han
+er også en samfunnsorientert person med brede interesser.
+
+Familien er viktig for Ørnulf. Han stiller alltid opp når det trengs en hjelpende
+
+hånd i aktiviteter Yngve og Eldrid er involvert i. Sammen med Tone har han gjort
+Almeveien til et begrep utover landets grenser både for statistikere som er på besøk og
+venner fra andre sammenhenger.
+
+Anders Rygh Swensen
+
+Odd Aalen
+
+38
+
+
+
+Analyse av økologisk samfunnsstruktur —
+stokastiske modeller, estimering og simulering
+Dr.scient. avhandling,
+Ola Håvard Diserud
+
+Avhandlingen er kort sagt en teoretisk studie av artsabundanser, dvs populasjonsstørrelser, og av hvordan dyresamfunn formes av forskjellige øko-
+
+logiske prosesser.
+
+Et område innen samfunnsøkologien som har blitt viet spesiell interesse
+er artsabundansenes fordeling; noen arter er sjeldne mens andre er svært
+
+tallrike. Ved å anvende en diffusjonstilnærming på hver arts populasjonsdynamikk, hvor artenes tetthetsregulering er av en såkalt 6-logistisk type, presenteres en generell artsabundanse modell. De vanligste klassiske modellene
+(‘Fishers log-series’, 'MacArthurs broken stick’, negativ binomisk osv.) kommer her ut som spesialtilfeller. Med få unntak er de eksisterende modellene
+
+statiske. Vår modell har derimot også muligheten for å evaluere svingningene i dyrebestander over tid forårsaket av fluktuasjoner i miljøbetingelsene.
+Estimeringsmetoder for de forskjellige parameterene i den dynamiske modellen er i tillegg utviklet, dvs nevnte miljøvarians, artenes vekstrate og
+tetthetsregulering, samt "artsdannelse".
+
+Metoder som skal overvåke vårt biologiske mangfold og påvise unaturlige
+endringer i samfunnsstruktur må ta hensyn til denne naturlige miljøvariasjonen.
+
+Når to utvalg, f.eks. tatt fra samme samfunn ved forskjellige tidspunkt, skal
+
+sammenlignes, må vi i tillegg korrigere for ulikheter som kan skyldes selve
+utvalgsprosessen, spesielt hvis innsatsen varierer over tid. Vi har derfor utviklet en metode som tester om forskjellen mellom to utvalg er av en slik form
+at den ikke kan forklares kun som utslag av utvalgseffekter og miljøvariasjon,
+men kan skyldes en unaturlig endring i miljøbetingelsene, f.eks. forurensning.
+
+Insekter og grønne planter utgjør nesten 80% av alle arter (eksklusiv
+sopp, alger og ‘mikrober’), så sammen dominerer de mangfoldet i de fleste
+landbaserte samfunn. Samspillet mellom disse to gruppene vil derfor være en
+av hovedkreftene i organiseringen av slike samfunn. En modell som beskriver
+
+hvor spesialiserte organismer på ulike nivå i næringskjeden eri vertsbruk har
+derfor blitt utviklet, f.eks. kan spesialiseringsgraden for parasitter eller planteetende insekter beregnes. Denne modellen kan f.eks. benyttes til å estimere
+antall dyrearter i et gitt område. Basert på tildels spekulative ekstrapole-
+
+ringer kan vi også estimere det totale antall arter på jorda. Vårt anslag
+
+på 5 millioner stemmer godt overens med resultatene fra andre uavhengige
+beregningsmetoder.
+
+Avhandlingen ble utført ved Institutt for matematiske fag, NTNU, med
+professor Steinar Engen som veileder. Stipendet ble finansiert av Forsk-
+
+ningsrådets program 'Bevaring av biologisk mangfold”.
+
+39
+
+
+
+Stokastisk reservoarkarakterisering betinget på seismiske data
+doktoravhandling forsvart 3. mars 1999 ved NTNU
+Alfhild Lien Eide
+
+I forbindelse med olje- og gassutvinning er det viktig å ha en god beskrivelse av geologien i
+det aktuelle reservoaret. For å lage en slik beskrivelse må en kombinere data og informasjon
+
+fra ulike kilder, slik som brønnlogger, seismiske data og generell geologisk kunnskap. Det er
+også viktig å kvantifisere usikkerheten i beskrivelsen.
+
+Stokastisk reservoarmodellering er et
+
+verktøy som kan bidra til økt utvinningsgrad gjennom integrasjon av data og informasjon
+
+fra ulike fagdisipliner. Videre kan tallfesting av usikkerheten bidra til bedre planlegging av
+utvinningstrategien. I avhandlingen er det spesielt fokusert på hvordan seismiske data kan
+integreres i stokastisk reservoarmodellering.
+
+Bayesianske modeller brukes ofte i stokastisk reservoarmodellering fordi de er velegnet for å
+integrere informasjon fra ulike kilder. Geologisk kunnskap kan f.eks. brukes til å spesifisere
+
+apriorifordelingen, og reservoarspesifikke data fra ulike kilder kan integreres gjennom sine
+respektive likelihoodfunksjoner. Brønndataene har god oppløsning, men dekker bare en liten
+del av reservoaret gjennom direkte observasjon.
+
+Seismiske data er indirekte observasjoner
+
+av reservoaregenskapene med langt lavere oppløsning, men dekker til gjengjeld større deler
+av reservoaret. For modellere sammenhengen mellom seismiske data og reservoaregenskaper
+best mulig, brukes i avhandlingen en likelihoodmodell som er basert på en fysisk modell for
+
+sammenhengen mellom de observerte seismiske amplitudene og reservoaregenskapene. Som
+romlige modeller for reservoaregenskapene er brukt både en modell basert på Gaussiske felt,
+og en modell som kombinerer merkede punktprosesser med et Gaussisk felt i bakgrunn.
+
+Avhandlingen inneholder følgende tre hoveddeler:
+
+Part I:
+
+A stochastic model of porosity and acoustic impedance in a
+petroleum reservoir, conditioned to seismic data and well data.
+
+Part II:
+
+Stochastic simulation of high resolution impedance conditioned
+to measured impedance.
+
+Part III:
+
+Marked point model of calcites conditioned to seismic data
+
+and well data. (Med Anne Randi Syversveen)
+
+I tillegg finnes en innledning med introduksjon til seismiske data for ikke-geofysikere, og to
+konferansebidrag er inkludert som appendix.
+Avhandlingen har tittelen “Stochastic Reservoir Characterization Constrained by Seismic
+
+data”. Den er utført ved Institutt for matematiske fag, NTNU, med professor Henning Omre
+som hovedveileder og professor Bjorn Ursin (Institutt for petroleumsteknologi og anvendt
+
+geofysikk, NTNU) som medveileder. Arbeidet har inngatt i det strategiske universitetsprogrammet “Usikkerhet i naturressursforvalting”, finansiert av Norges forskningsråd. Disputas
+
+40
+
+
+
+og prøveforelesning fant sted 3.
+
+mars 1999 ved NTNU. Prøveforelesningen hadde tittelen
+
+“Frekventistiske egenskaper ved Bayesianske metoder”. Fra 15. mars 1999 har jeg vært ansatt
+som senioringeniør ved Statoils forskningssenter i Trondheim, og er involvert i flere prosjekter
+med anveldelse av stokastisk reservoarmodellering og geostatistikk betinget på seismiske data.
+
+Ay
+
+
+
+Dr. Scient: Randi Hammervold
+HIST, AØA
+Trondheim
+
+Tittel på avhandling:
+
+“Properties of the goodness of fit statistics for structural equation models”.
+
+Doktorgrad pa strukturmodeller:
+Strukturmodeller, ofte kalt LISREL modeller, brukes mye i samfunnsvitenskapelig forskning,
+bl.a. annet innen gkonomi, sosiologi og psykologi. Strukturmodeller omfatter bl.a.
+regresjonsmodeller, faktormodeller og modeller med strukturlikninger. Såkalte tilpasningsmål
+for total tilpasning brukes for å evaluere slike modeller. I avhandlingen er egenskapene til slike
+mål for tilpasning studert teoretisk og ved simuleringer.
+Det er foreslått mange mål for total tilpasning. Omfattende sammenligninger av egenskapene
+
+til målene har ikke vært utført. Tidligere studier har ofte forsøkt å finne et ”beste” mål for
+tilpasning. Denne studien finner ikke ett enkelt ”beste” mål, men viser at hvert av målene har
+sine styrker og svakheter, og spesielle egenskaper. De forskjellige tilpasningsmålene påvirkes
+ulikt av utvalgsstørrelse, fordeling av data og av støynivå. Jeg forslår derfor en metode for å
+tolke tilpasningsmålene simultant, en metode som utnytter de enkelte målenes unike
+
+egenskaper. Simultan tolkning vil bedre kunne avsløre feilspesifisering av gitte modeller, og
+om støy i de observerte data har innvirkning.
+Egenskapene til disse målene anvendes også i en metode med nøstede modeller, hvor
+alternative modeller sammenlignes på en systematisk måte. Denne metoden brukes for å
+avsløre feilspesifisering av modeller. Metoden anvendes i studien blant annet på en tidligere
+
+publisert økonomisk modell, som angår skatteplanlegging i bedrifter.
+Arbeidet gir ny helhetlig kunnskap om egenskapene til målene for tilpasning av
+strukturmodeller. Spesielt er kunnskapen om støyinnvirkningen på målene unik, og er med på
+å forklare hvorfor indekser oppfører seg forskjellig i ulike datasett. Fordi målene påvirkes ulikt
+av endringer i faktorene utvalgsstørrelse, fordeling og støynivå, gir simultan tolkning bedre
+informasjon om både modelltilpasning og datakvalitet. Forskningsarbeidet viser at ett enkelt
+beste tilpasningsmål ikke finnes. Metoder for å sammenligne alternative modeller bør
+vektlegges mer. Den foreslåtte metoden med nøsting av alternative modeller, kan være et
+bruks- og utviklingsområde. Dette kan anspore til mer teoretisk arbeide omkring egenskapene
+til målene for total tilpasning i forhold til utvalgsstørrelse, fordeling av data og støynivå.
+Arbeidet kan også lede fram til bedre programvare for evaluering av strukturmodeller.
+Arbeidet er utført ved institutt for matematiske fag - Gløshaugen NTNU, under veiledning av
+Professor Bo Lindqvist og Førsteamanuensis John Tyssedal. Hovedveileder har vært Professor
+Petter Laake ved Universitetet i Oslo.
+Avhandlingen kan lånes gjennom Bibsys ISBN: 82-7861-132-7; eller bestilles fra bibliotektet HiST
+AØA (tlf.: 73559955), i TØH-serien; nr. 1999:4.
+
+42
+
+
+
+Nonparametric Tests of Linearity for Time Series and Panels
+of Time Series
+by
+
+Vidar Hjellvik
+
+Tidsrekkjeanalyse blir nytta for å analysere fenomen som utviklar seg over tid, innan
+
+t.d. økonomi, medisin eller naturvitskap. Å finne ein god tidsrekkjemodell er eit viktig
+aspekt av analysen. Det finst to hovedtypar av modellar; lineære og ikkje-lineære. For
+å teste om ein lineær modell kan nyttast på eit gitt datasett, nyttar ein linearitetstestar. I denne avhandlinga blir nokre slike testar presentert.
+
+Testane baserer seg
+
+på samanlikning av ikkje-parametriske og lineære parametriske estimat av betinga for-
+
+ventning M,(r) = E(Xi|Xi-k = x) og betinga varians Vi(z) = var (Xi|Xi_, = 2).
+Fordelinga til testobservatorane under nullhypotesa om linearitet (M;,(zr) = lineær og
+V,.(z) = konstant) blir funne v.h.a. bootstrapping. Uavhengigheit kan testast ved å
+la nullhypotesa vere Hy : M;,(r) = konstant og Vi(xz) = konstant.
+
+Samanlikna med
+
+eksisterande testar, gir desse gode resultat ved mange ulike typar ikkje-linearitet. Dei
+
+kan også tilpassast til ein situasjon der ein har mange korte tidsrekkjer (paneldata) i
+staden for ei lang. For denne typen data finst det pr. idag ingen alternative linearitet-
+
+stestar. Modellering, estimering og ordensbestemmelse for paneldata med korrelasjon
+mellom tidsrekkjene blir 6g behandla i avhandlinga.
+
+Denne består av 6 artiklar der
+
+dei 5 første no er publiserte (nr. 4 og 5 i revidert form), og den siste framleis er under
+arbeid for publisering:
+
+1) HJELLVIK, V. AND TJØSTHEIM, D. (1995).
+
+Nonparametric tests of linearity for
+
+time series. Biometrika, 82, 351-68.
+
+2) HJELLVIK, V. AND TJØSTHEIM, D. (1996). Nonparametric statistics for testing of
+linearity and serial independence. Journal of Nonparametric Statistics, 6, 223-51.
+
+3) HJELLVIK, V., YAO, Q. AND TJØSTHEIM, D. (1998). Linearity testing using local
+polynomial approximation. Journal of Statistical Planning and Inference, 68, 295-321.
+
+4) HJELLVIK, V. AND TJØSTHEIM, D. (1999).
+
+Modelling panels of intercorrelated
+
+autoregressive time series. Biometrika, 86, 573-90.
+
+5) HJELLVIK, V. AND TJØSTHEIM, D. (1999). Residual variance estimates and order
+determination in panels of intercorrelated autoregressive time series.
+
+In Cointegra-
+
+tion, Causality, and Forecasting, Eds. R.F. Engle and H. White, pp. 385-409. Oxford:
+
+Oxford University Press.
+
+6) HJELLVIK, V., CHEN, R. AND TJØSTHEIM, D. (1999).
+
+Nonparametric tests of
+
+linearity for panels of intercorrelated time series. Preprint, Department of Mathematics,
+University of Bergen.
+
+
+
+Doktograd i statistisk levetidsanalyse
+Hvem: Jan Terje Kvaløy (jtkQstat.ntnu.no).
+Hva:
+
+"Statistical Methods for Detecting and Modeling General Patterns
+
+and Relationships in Lifetime Data.”
+Hvor: Institutt for matematiske fag, NTNU, 10.juni 1999.
+Veileder: Bo Lindqvist.
+Avhandlingen består av en samling av fem artikler. Den første artikkelen
+omhandler tester for trend i Poisson-prosess modeller. Her foreslås det at
+
+tester for trend kan baseres på total test-tid observatoren for ikke-homogene
+Poisson-prosesser.
+
+Tester basert på denne observatoren generaliseres au-
+
+tomatisk til tilfellet med simultan trend-testing i data fra flere prosesser.
+
+Spesielt viser det seg at en test basert på en Anderson-Darling type observator har gode styrkeegenskaper både mot monotone og ikke-monotone
+alternativer.
+I artikkel nummer to foreslå en ny metode for ikke-parametrisk eksponensiell regresjon, kalt *kovariatordningsmetoden”. For tilfellet med en enkelt
+kovariat baserer metoden seg på å ordne observasjonene i stigende rekkefølge
+av kovariaten og deretter konstruere en bestemt punktprosess basert på de
+
+tilhørende observasjonstidene.
+
+Generalisering til situasjoner med flere ko-
+
+variater gjøres enkelt ved å tilpasse generaliserte additive modeller.
+I den tredje artikkelen generaliseres kovariatordningsmetoden, ved bruk av
+en tidstransformasjon, til en metode for ikke-parametrisk estimering i Coxmodeller.
+
+Metoder for å gjøre inferens og modellsjekk i slike modeller
+
+diskuteres også, og en oversikt over ulike metoder for ikke-parametrisk Coxregresjon gis.
+
+I den fjerde artikkelen blir kovariatordningsideen brukt som basis for en
+
+nye måte å konstruere tester for kovariateffekt. Det viser seg at ved denne
+konstruksjonen kan testene for trend diskutert i den første artikkelen også
+brukes som tester for kovariateffekt. Spesielt viser det seg at testen basert
+på Anderson-Darling type observatoren også har gunstige egenskaper som
+test for kovariateffekt.
+I den siste artikkelen analyseres et datasett over sammenhengen mellom
+forekomsten av hjertestans Trondheimsregionen og ulike værvariable.
+
+I
+
+denne analysen blir alle metodene diskutert i de fire første artiklene brukt i
+større eller mindre grad.
+
+44
+
+
+
+Factor Screening Using Non-Geometric Plackett-Burman Designs
+Oddgeir Samset, NTNU
+
+The thesis considers the use of non-geometric Plackett-Burman designs for screening large
+number of factors in few runs when also interactions are taken into account.
+The assumption of negligible interactions is often adopted when using non-geometric PB
+designs in screening situations.
+the contrasts may be biased.
+
+If there are active interactions, however, a large number of
+
+Depending on the alias matrix for the design and the actual
+
+size of the interactions this bias can be severe. Hence, one may easily be mislead to believe
+
+that active factors are inert, and vice versa.
+
+Different methods for analysing experiments
+
+from non-geometric PB designs are proposed. These include i) an alternative interpretation
+of half-normal plot of both main effect contrasts and contrasts corresponding to two-factor
+
+interactions, ii) use of the projection properties of the designs for searching for the most
+plausible models consistent with the data, iii) a stepwise regression procedure on sets of
+potentially active factors and iv) a best subsets regression procedure guided by the principle
+of effect heredity.
+
+One of the rationales for using highly fractionated designs in screening situations is the
+principle of factor sparsity. In this respect it is important to study the behaviour of a design
+when it is ‘projected’ on to a few factor columns. All PB designs and their foldovers have been
+
+examined by computer search, and the projection properties of these designs are summarised
+by means of their repeat and mirror-image patterns. The most important findings from this
+computer search are given, and several methods for constructing designs with good projections
+
+properties are discussed. In particular it is found that the PB designs with run size equal to
+
+68,72,80 and 84 are of projectivity P = 4. One important implication of this result is that
+their half-fractions are of projectivity
+
+P = 3. Thus, one can use the half-fraction of the 68 run
+
+PB design to screen 66 factors in 34 runs where every projection on to three factors contains
+
+a 2° design.
+While the problem of choosing follow-up runs for the geometric designs is mainly related
+to de-aliasing fully confounded effects, the problem of choosing follow-up runs for the nongeometric PB designs is more related to discriminating between models that fit the response
+values almost equally well.
+
+A method is proposed where follow-up runs are found by op-
+
+timising the Kullback-Leibler symmetric information divergence of the predicting densities
+
+for the most plausible models resulting from the initial design.
+
+The estimative density for
+
+linear models is used as predicting density. This density leads to a simple expression for the
+information criterion which in addition will be ‘nearly’ additive. It is therefore often enough
+to evaluate the information criterion for every single candidate run.
+Key words:
+
+Effect heredity; Factor screening; Factor sparsity; Follow-up runs; Kullback-
+
+Leibler information; Plackett-Burman design; Projection properties; Projectivity; Regression
+
+analysis; Sequential experimentation; Variable selection.
+Supervisor: Associate Professor John Tyssedal
+
+45
+
+
+
+SAMMENDRAG AV AVHANDLINGEN: ’SOME CONTRIBUTIONS TO
+
+STOCHASTIC SIMULATION AND SPATIAL MODELLING’
+ØIVIND SKARE
+
+Avhandlingen tar for seg fagområdene stokastisk simulering og romlig statistikk.
+
+Ar-
+
+beidet er utført ved Norsk Regnesentral. samt delvis ved Aalborg universitet ifm et seks
+
+maneders gjesteopphold hvor jeg besøkte Jesper Møller. Veiledere har vært Lars Holden
+
+(Norsk Regnesentral) og Erik Bølviken (UiO).
+En simuleringsalgoritme for å trekke et utvalg approksimativt fra en fordeling 7 er
+sampling-importance resampling (SIR) algoritmen.
+
+Her trekkes først et uavhengig ut-
+
+valg X = (X,,...,X,) fra en kandidatfordeling g.
+
+Til hver X; beregnes så en trekk-
+
+sannsynlighet (vekt), og på bakgrunn av disse vektene trekkes det et mindre utvalg
+
+Y =
+
+ti... Yn). Narn >> m så vil Y være tilnærmet 7-fordelt. I vanlig SIR så er vektene
+
+proporsjonale med 7(X')/q(X*). Erik Bølviken, Lars Holden og undertegnede viser hvordan en liten justering av disse vektene gir bedret konvergens (fra orden n" til orden n~*).
+Vi sammeliknet også den forbedrete SIR versjonen med Metropolis-Hastings algoritmen
+med uavhengige kandidattrekninger. Vi fant at den forbedrete SIR versjonen var bedre for
+
+små utvalgsstørrelser, men dårligere asymptotisk. Vi viser også at de justerte SIR-vektene
+reduserer forventningsskjevhet i importance-sampling estimater der det brukes normaliserte vekter.
+En mer kjent (og anvendelig) simuleringsalgoritme er Metropolis-Hastings (MH) algoritmen. For hver iterasjon trekkes en ny mulig tilstand fra en kandidatfordeling. Et akseptledd
+
+sørger sa for at en oppnår riktig stasjonærfordeling 7. En MH variant, Metropolis Adjusted
+Langevin Algorithm (MALA), bruker en kandidatffordeling som er en diskretisering av en
+stokastisk differensiallikning, Langevin-diffusjonen.
+
+7 som stasjonærfordeling.
+
+Denne er konstruert slik at den har
+
+MALA algoritmen har vist seg å være effektiv for visse typer
+
+7-fordelinger. Den er imidlertid kun definert for kontinuerlig deriverbare 7.
+
+Fred Espen
+
+Benth. Arnoldo Frigessi og undertegnede viser hvordan MALA algoritmen kan modifis-
+
+eres til også å kunne brukes på fordelinger hvor denne betingelsen ikke er oppfylt.
+
+Vi
+
+bruker Langevin-diffusjoner definert for glattede 7-fordelinger og aksepterer mhp den ikke
+
+glattede 7 slik at riktig stasjonærfordeling opprettholdes. Dette er illustrert på en punktprosess modell (Strauss). Vi viser her at vi får en ca 15% redusert asymptotisk varians ved
+
+a bruke var metode.
+Innen bildebehandling og særlig innen reservoarmodellering er det viktig å bruke a priori fordelinger som realistisk gjenskaper viktige strukturer i bildet eller reservoaret. Ulike
+a priori fordelinger har vært brukt i bayesiansk bildebehandling og reservoarmodellering.
+
+Disse innkluderer blant annet piksel-baserte Markov Random Fields (MRF). Disse modellene vil typisk gi sakte konvergerende (MCMC) algoritmer på grunn av et høydimensjonalt
+
+46
+
+
+
+tilstandsrom, dette vil særlig være tilfelle i 3D-anvendelser. Et alternativ til MRF er å
+fargelegge en fleksibel partisjonering av rommet.
+
+Bayesiansk modellering av slike fargelagte partisjoner har imidlertid kun vært gjordt i 2D, og disse arbeidene er vanskelig å
+generalisere til 3D. Jesper Møller og jeg har i vårt arbeide brukt fargelagte Voronoi tessellasjoner, noe som gir en enkel og fleksibel modell for både 2D- og 3D-anvendelser. Voronoi
+tessellasjoner er definert gjennom en underliggende punktmengde, i vårt tilfelle trekkes
+denne fra en poissonfordeling. Hvert punkt definerer en Voronoi-celle som er det område
+som er nærmere dette punktet enn noe annet. Unionen av disse Voronoi-cellene utspenner
+
+så rommet. Vår a priori fordeling er en Ising modell, hvor man kan straffe at to naboceller
+har forskjellig farge.
+
+I samarbeid med kollegaer på Norsk Regnesentral, Ragnar Hauge, Lars Holden og Arne
+Skorstad. så er stokastisk simulering og modellering også brukt til å beskrive oljereservoarer som består av sedimentære avsetninger fra elver. Her har det vært en utfordring å
+modellere avsetningsmønsteret samt å betinge riktig på informasjon bl.a. fra seismikk og
+brønnboringer.
+
+AT
+
+
+
+Nonparametric and semiparametric curve estimation
+
+Bard Storvik"
+My thesis introduces new ways of generalizing the kernel method in curve estimation.
+The ordinary kernel density estimator is defined by
+
+f(z) = Ly Kala — Xi),
+where X,,...,X, are the independent data from the density f, K,(=) denotes h7'A(z/h),
+
+Å is a symmetric kernel function which is a probability density and A is the bandwidth or
+smoothing parameter. The basic properties of f(x), and under smoothness assumptions
+
+these include
+
+bias[Å(2)] = Bfle) - f(x) = za? f() + OL)
+PG
+
+and
+pe
+
+Var[f(a)]
+
+=
+
+(nh) f(æ)R(A) — nn" f(x)? + O(h/n),
+
+where ky = f2z?A(z)dz and R(K) = f A(z)?dz.
+
+There are several ways of trying to do
+
+better than the ordinary kernel method in terms of better asymptotic performance. One
+way is to produce methods that has the same asymptotic variance, but better bias properties through changing the bias function f(x) to other functions. Many semiparametric
+
+methods has such properties, see Paper V in the thesis. Another way to get better asymptotic properties is by bias reduction, that is changing the order of bias to h* or even higher.
+In general the bias reduction methods will not change order of variance O((nh)~'), but the
+
+constant R(A’) may change. Paper I and III in my thesis shows that it is possible to create
+methods where the constant in the asymptotic variance is even smaller than R( A’) and still
+there is bias reduction. The main idea of Paper I is that we can interpret the kernel method
+as a mixture density where the mixture weights are constant, the mixture densities are the
+kernels, the location of the densities are the data points and the scale of the densities is
+
+the smoothing parameter. By introducing non-uniform weights and change the location of
+the densities, we get a generalization of the kernel method. The new weights and locations
+can be found by setting the kernels to be Gaussian and estimate through a ML strategy.
+We will not get a analytical solution, but can iterate through the EM-algorithm.
+
+Only
+
+one iteration of weights and locations is sufficient for bias reduction and for certain scale
+
+changes of the locations we get variance reduction as well. Similar ideas can be introduced
+in regression, see paper IV.
+
+‘Department of Mathematics, University of Oslo, P.O. Box 1053, Blindern, N-0316 Oslo, Norway.
+“Norwegian Computing Center, P.O. Box 114 Blindern, N-0314 Oslo, Norway.
+
+48
+
+
+
+Two-Dimensional Phase Unwrapping
+with Applications
+
+Jarle Strand
+Department of Mathematics
+
+Faculty of Mathematics and Natural Sciences
+University of Bergen, Norway
+1999
+
+Abstract
+This thesis is submitted to the Department of Mathematics. Faculty of Mathematics and Natural
+Sciences, University of Bergen, Norway. for the degree Doctor Scientiarum.
+The topic of the thesis is two-dimensional (2D) phase unwrapping, which has many important
+applications. When phase values are calculated from sampled complex valued images. it is only
+the principal phase values that are found. The principal phase values are restricted to the interval
+
+(—7,7].
+is
+
+Formally, if a true phase value is denoted as ¢, then the measured or computed value
+
+¥ = W(o). The wrap function W is defined as IV(ø) = 0 + 27k, where k is an integer such
+
+that —m < WW (0) < 7. Two-dimensional phase unwrapping is to reconstruct an unwrapped (true)
+
+phase image. given a calculated wrapped phase image. This is usually a difficult inverse problem
+because there is no unique solution based on the observed values. Also, noise and undersampling of
+the image data in areas where the true phase values change rapidly make it hard to find a correct
+solution.
+
+The resuits of the presented work has been submitted as four research journal papers (one
+accepted for publication. the other three are in the review process). one conference paper. and one
+technical report. The major contributions of this thesis are:
+e Two new 2D phase unwrapping algorithms (BLS and AI) that are fast and perform well
+
+compared to other methods.
+e A performance evaluation of eight different phase unwrapping methods.
+
+This is the most
+
+extensive and thorough evaluation of phase unwrapping methods available.
+e A new noise robust method for blind deconvolution of ultrasound images using complex
+cepstrum methods (and phase unwrapping).
+
+e A new method for bias field estimation and reduction in complex-valued magnetic resonance
+(MR) images. This is the first method that reduces the effect of the bias field in the amplitude
+images by deconvolution, and that simultaneously reduces the Bo field inhomogeneity effects
+in the corresponding phase images.
+
+Also, the expected classification error rates between
+
+tissue classes are reduced in the restored images.
+
+EG
+
+The six papers of this thesis constitute a significant contribution to phase unwrapping methodology and to several application areas of phase unwrapping.
+
+49
+
+
+
+Seksjon for klinisk statistikk i NSF?
+Eva Seim, Nycomed
+
+Onsdag 12 januar ble det holdt et møte på Nycomed for å lodde interessen for å
+etablere et nasjonalt forum for klinisk statistikk - enten som en frittstående forening
+eller som en gruppe under Norsk Statistisk Forening. Slike nasjonale fora finnes i de
+fleste land i Europa. I Sverige har man ’Foreningen for Medicinsk Statistik’ som er en
+seksjon innen Svenska Statistikersamfundet. I Danmark har man "Dansk Selskab for
+Biofarmaceutisk Statistik’ som er en frittstående organisasjon. Begge disse
+foreningene er medlem i den europeiske paraplyorganisasjonen EFSPI (European
+Federation of Statisticians in the Pharmaceutical Industry), i likhet med tilsvarende
+foreninger i de fleste andre europeiske land.
+Møtet samlet 17 statistikere som til daglig arbeider med medisinske/kliniske
+problemstillinger ved forskjellige arbeidsplasser i Oslo-området, og det endte opp
+med å nedsette en gruppe på tre personer som skal arbeide videre med spørsmålet og
+legge frem konkrete forslag i løpet av våren. De tre er:
+
+e
+
+Trond Haider, Nycomed Amersham (e-mail: trh@nycomed.com)
+
+e
+
+Heidi Walsg, Parexel/Medstat (e-mail: heidi.walsoe@parexel.com)
+
+2
+Kathrine Frey, Rikshospitalet (e-mail: kathrinefrey(Qhotmail.com)
+Styret i NSF var orientert om møtet på forhånd, og vil selvfølgelig bli bedt om å bidra
+i den videre prosessen med å utarbeide forslag. Gruppen tar også gjerne imot innspill
+fra andre med interesse for spørsmålet.
+I diskusjonen ble det først og fremst uttalt ønske om tettere kontakt mellom
+statistikere som arbeider innenfor klinisk statistikk. Dette som et supplement både til
+universitetene sine kurs og seminar serier innen medisinsk statistikk, og til tilbudene
+fra Norsk Epidemiologisk forening. Forøvrig ble følgende emner tatt opp i
+diskusjonen:
+
+Hvor vil foreningen/gruppen finne potensielle medlemmer?
+Sykehus, Farmasøytisk industri, Konsulentfirmaer, Universiteter og
+læresteder, Andre forskningsenheter
+
+andre
+
+Hva kan være den felles faglige interesseparaplyen?
+Bruk av tilgjengelige metoder, Hvor går utviklingen? Hva styrer utviklingen?
+Hvordan påvirke utviklingen?
+
+Hvorfor danne en slik forening?
+Et mer målrettet forum, Øke interessen for fagområdet, Øke kontaktnettet
+mellom statistikere innen fagområdet, Delta i retningsbestemmende arbeid
+gjennom EFSPI og andre fora
+Organisering?
+
+Frittstående? Tilsluttet NSF? Uorganisert?
+Som bakgrunn for diskusjonen ble det også gjort rede for formålsparagrafene for den
+svenske og den danske organisasjonen og for EFSPI:
+
+50
+
+
+
+FMSi Sverige:
+Formål: Fremme utviklingen og bruken av korrekte statistiske metoder innen det
+medisinske området,
+
+innen
+
+legemiddel
+
+industrien og andre områder med
+
+medisinsk tilknytning.
+
+DSBS i Danmark:
+Formål: Fremme utveksling av information mellom fagstatistikere, som arbeider
+for den farmasøytiske industri i og utenfor Danmark, samt å virke for høyning av
+
+den faglige standard og å fremtre utad som sakkyndig.
+
+EFSPI
+Formål: Utveksle informasjon om hvordan faget praktiseres i de enkelte land,
+
+samt å harmonisere slik praksis. Forfekte profesjonelle standarder, og fagets
+anseelse. Tilby kollektive ekspert råd innen statistiske emner til nasjonale og
+internasjonale myndigheter og andre grupper og organisasjoner.
+
+Møtet på Nycomed ble innledet med et faglig foredrag av Per Fuglerud fra
+Parexel/Medstat. Det dreidde seg om en sammenligning av forskjellige estimatorer for
+forskjell i behandlingseffekt ved gjentatte målinger over tid, før og etter behandlingsstart. Et kort sammendrag av foredraget følger nedenfor.
+
+Tre estimatorer for forskjell i effekt av behandling A eller B i randomiserte forsøk
+med en eller flere målinger på hver pasient før og en eller flere målinger etter
+randomisering (til A eller B) ble sammenlignet:
+
+Post-estimatoren, basert på gjennomsnittet av målinger etter randomisering, Foraestimatoren, basert på forskjellen mellom gjennomsnittet før og etter randomisering
+og Kova-estimatoren, hvor gjennomsnittet før benyttes som kovariat for gjennomsnittet etter randomisering.
+
+Alle estimatorene er forventningsrette for forskjellen i behandlingseffekt og ble derfor
+sammenlignet med hensyn på variansen. Under antagelsen om "compound symmetry"
+for kovariansmatrisen hadde Kova-estimatoren minst varians i alle situasjoner som ble
+undersøkt. Små avvik fra antagelsen om "compound symmetry" medførte vesentlig
+økning i variansen for både Fora- og Kova-estimatoren, men Kova-estimatoren hadde
+fortsatt minst varians i de tilfeller som ble undersøkt.
+
+SI
+
+
+
+STATISTISK FORENING I BERGEN
+Opprettet 15/12 1983
+Styret 2000
+
+Formann
+Sekretær
+Kasserer
+
+Styremedlem
+
+Grethe Albrektsen
+Seksjon for medisinsk statistikk, Inst. Samf.med.Fag, UiB
+Jan Harald Aarseth — MS-register, Nevrologisk avdeling, Haukeland Sykehus.
+
+Terje Schaathun
+
+Ågot Irgens
+
+Vital forsikring ASA
+
+Yrkesmedisinsk avd. Haukeland sykehus.
+
+Tlf. 55 23 85 00
+
+Tlf. 55 17 84 10
+
+Tlf. 55 97 38 83
+
+Bergen, 28.11.99
+
+Referat fra årsmøtet for 1999
+Årsmøtet for 1999 ble holdt 23. november 1999 i Lepramuséet St. Jørgens Hospital.
+Før selve årsmøtet fikk vi en omvisning på Lepramuséet ved profesor Lorentz M. Irgens, som
+deretter holdt foredraget *Resultater fra sykdomsstatistikk i det forrige århundrede til nytte
+også i dag”. 19 medlemmer møtte frem.
+
+Årsmøtesaker
+Årsberetningen for 1999 ble fremlagt og godkjent.
+Revidert regnskap for 1999 ble fremlagt og godkjent.
+Valg av nytt styre
+
+Styret for 1999 har bestått av følgende personer:
+Formann
+
+Sekretær
+
+Kasserer
+
+Terje Schaathun
+
+Astrid Lunde
+Grethe Albrektsen
+
+Styremedlem — Ågot Irgens
+
+Valgt for 1999
+
+Valgt for 1999
+
+Valgt for 1998-99
+
+Valgt for 1999-2000
+
+Nytt styre ble valgt som følger:
+
+Formann: Grethe Albrektsen ble valgt for to år.
+Sekretær: Jan Harald Aarseth ble valgt for ett år.
+Kasserer: Terje Schaathun ble valgt for to år.
+Styemedlem: Agot Irgens (ikke på valg).
+Revisor: Stein Atle Lie (ikke på valg)
+
+Alle valg ved akklamasjon.
+Referent:
+
+Terje Schaathun
+
+dg
+
+
+
+Nytt fra Universitetet i Oslo
+Ny cand. scient.
+Amrit Kumar Shresta: “Aspects of Multiple Comparison Theory and
+Practice”
+Veileder: Inge Helland
+
+Ny dr. scient.
+Bård Espen Storvik: *Contribution to Nonparametric Curve Estimation”
+Veileder: Nils Lid Hjort
+
+Statistical Research Reports
+Inge Helland: “Restricted maximum likelihood from symmetry.” No.14, 1999
+Inge Helland: “Approaching regression methods through symmetry arguments.”
+No.15, 1999
+
+N.G. Ushakov & V.G. Ushakov: "Some inequalities for characteristic
+functions of densities with bounded variation.” No.16, 1999
+
+I.K. Glad, N.L. Hjort & N.G. Ushakov : “Correction of density estimators
+which are not densities.” No.17, 1999
+
+N.L. Hjort & N.G. Ushakov: “Upper Bounds for the I-MSE and max-MSE
+of Kernel Density Estimators.” No.18, 1999
+Grete Usterud Fenstad
+
+53
+
+
+
+Nytt fra statistikk gruppen ved NTNU
+ved Håvard Rue
+
+Endringer i staben
+
+Øyvind Bakke har permisjon i hele år (2000), og Magnar Lillegår er innleid vikar i hans fravær.
+Uteksaminerte dr.grads kandidater
+Georg Elvebakk) (sept, 1999). Analysis of repairable systems data: Statistical inference for a class
+of models involving renewals, heterogeneity and time trends. Veileder: Bo Lindqvist.
+Uteksaminerte siv.ing og hovedfagskandidater
+Jardar Andersen (siv.ing). Uncertainty of Data Used in Risk Analyses. Veileder: Stian Lydersen.
+
+Martin Augustin (siv.ing). Degradation and Residual Lifetime for Rotating Equipment. Veileder:
+Stian Lydersen.
+
+Torunn Jakobsen (siv.ing). Statistisk analyse av hjertestansdata ved bruk av Cox-regresjon.
+Veileder: Jan Terje Kvaløy.
+Per Irgens (siv.ing). Statistical Analysis of Cardiac Arrest Data Using Parametric and
+Nonparametric Poisson Regression. Veileder: Jan Terje Kvaløy.
+
+Arnstein Ressem (siv.ing). Segmentering, følging og klassifisering i videoanalyse av trafikk.
+Veileder: Ketil Bø, Dynamic Imaging. Faglig ansvarlig: Håvard Rue.
+Øvind Rui (siv.ing). Gjennkjenning og klassifisering av objekter, invariant under rotasjon,
+translasjon og skalering. Veileder: Ketil Bø, Dynamic Imaging. Faglig ansvarlig: Håvard Rue.
+
+Alexander Bjerke (siv.ing). Levy stable distributions and self similar random functions --- model
+and simulation algorithm. Veileder: Håkon Tjelmeland.
+
+Kjetill Vassmo Lund (siv.ing). Bayesiansk kriging for logistiske normalfelt. Veileder: Håkon
+Tjelmeland.
+
+Anne Marte Martinsen (siv.ing). Eksakt simulering ved bruk av MCMC-tempering. Veileder:
+Håkon Tjelmeland.
+
+Odd Bjarte Nilsen (siv.ing). Bayesiansk modellering av petrofysiske variable i oljebrønn. Veilder:
+Seniorforsker Jon Bang, Sintef Petroleum. Faglig ansvarlig: Håkon Tjelmeland.
+
+Tekniske rapporter 99/00
+
+No. 21/99. Hilde G. Borgos, Patience A. Cowie and Nancye H. Dawers: Practicalities of
+extrapolating 1D fault and fracture size-frequency distributions to higher dimensional samples.
+No. 1/00.Havard Rue: Fast Sampling of Gaussian Markov Random Fields with Applications
+
+54
+
+
+
+Nytt fra Universitetet i Bergen
+ved Trygve Nilsen
+
+Nye cand.scient.-er:
+
+Oddbjørn Haugen: "Dynamisk modellering av paneldata". Veileder: Dag Tjøstheim
+Kjetil Myrlid Aasen: " Extending the ARCH/GARCH Models to Panels of Intercorrelated Time
+Series". Veileder: Dag Tjøstheim
+
+Morten Andre Torgersen: "Stokastisk modellering av systemer med delvis isolerte sommerfuglpopulasjoner". Veileder: Ivar Heuch
+
+Lien My Diep: 'Parametrisk og ikke-parametrisk sammenligning av to måleserier, med innledende
+test for varianser". Veileder: Ivar Heuch
+
+Roy Miodini Nilsen: "En logistisk tidsseriemodell for interkorrelerte paneldata". Veileder: Dag
+Tjøstheim
+
+Kompetansesenter for klinisk forskning
+er opprettet ved Haukeland sykehus. Det er to statistikkstillinger ved senteret. Den ene er besatt av
+vår formann, Geir Egil Eide, og den andre stillingen er under besettelse.
+
+55
+
+
+
+18th Nordic Conference on
+
+Mathematical Statistics
+
+June 5-8, 2000
+
+- - ur snr”
+
+awe
+
+2000
+
+18th Nordic Conference en Mathematical Statistics
+
+Grimstad, Norway
+
+Faglig og praktisk informasjon om konferansen
+finner du pa hjemmesiden med adressen:
+http://www.math.uio.no/~nordstat/index.html
+
+men vi minner likevel om:
+
+e Frist for å anmelde foredrag er 1. mars.
+
+e Frist for påmelding til konferansen er 1. april.
+gjøres via registreringsskjema på hjemmesiden.
+
+Det
+
+e Bade mottagelsen søndag kveld, båtekskursjonen i skjærgården
+tirsdag og banketten torsdag kveld er inkludert 1 registreringsavgiften
+
+VELKOMMEN
+
+56
+
+
+
+Medlemsskap i Norsk statistisk Forening
+Kontingent:
+
+200 kr/år
+
+50 kr/år for studenter (til og med hovedfag).
+Kontonummer: 0530 2773299
+
+Nummeret som er angitt på adresselappen på TG angir siste år kontingenten ble betalt.
+Ved innbetaling må man opplyse om endret adresse (f.eks endret postnummer).
+Korrespondanse om medlemsskap og innbetaling av kontingent skal skje til foreningens
+kasserer:
+
+Norsk Statistisk forening v/Å got Irgens
+Kalfarlien 6A
+5018 Bergen
+
+Emailadresse: agot.irgens@haukeland.no
+
+Nye medlemmer melder seg til kasserer og får så automatisk tilsendt Tilfeldig Gang fra første
+påfølgende nummer av.
+Mailadresser:
+
+Vi ønsker mailadresser til alle medlemmer i NSF:
+
+Oppgi e-mailadressen din på merknadsfeltet på postgiroen, eller send en e-mail til
+agot.irgens@haukeland.no om mailadresse og evt adresseendring.
+
+Annen korrespondanse med foreningen skal foregå med formannen:
+Geir Egil Eide
+
+Norges Handelshøyskole
+Helleveien 30
+N-5045 Bergen
+
+Emailadresse: Geir.Eide@nhh.no
+
+
+
+
+
+
+
+RETUR
+Norsk Statistisk Forening
+
+v/Å
+got Irgens
+
+Kalfarveien 6 A
+5018 BERGEN
+
+Email: agot.irgens @haukeland.no
+
+
+

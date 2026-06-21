@@ -1,0 +1,2704 @@
+ISSN 0803-8953
+TILFELDIG GANG
+
+Nr. 4, årgang 11
+Desember 1994
+
+Utgitt av Norsk Statistisk Forening
+INNHOLD
+
+Fra redaktøren. Inge Helland
+
+Fra formannen. Eivind Damsleth
+Faglig stoff
+
+Elektroniske tjenester for statistikere. Anne Marie Fenstad
+Misbruk av statistikk!? Knut Opdal
+
+Puzzle. Jostein Lillestøl
+
+On a Christmas Party Problem. Håvard Rue and Brynjulf Owren
+Bokanmeldelse: 0.0. Aalen: Innføring i statistikk. Trygve Almøy
+
+Etterutdanning
+Norsk Statistisk Forenings Etterutdanningsseminar 1995.
+
+Ved George E.P. Box, Liv Høyland og John Tyssedal
+Konferanser
+
+Det 8. norske statistikermøtet 1995. Påminnelse og program-informasjon.
+Nordic Biometric Meeting. Gothenburg, June 14-16, 1995
+
+Nordisk statistikermøte, Rebild, Danmark 2.-5. august 1995
+The 1. Ukrainian-Scand. Conf. on Stochastic Dynamical Systems. Sept. 30, 95
+Ninth International Conference of Genstat Users. Dublin, July 10-14, 1995
+Sympos. on Errors in Demographic Forecasts. Koli, Finland. March 30, 95
+
+Meldinger
+Nytt fra Universitetet i Tromsø
+Nytt fra Universitetet i Oslo
+Nytt fra Universitetet i Bergen
+Nytt fra gruppe for statistikk, NTH
+Melding fra kassereren
+Medlemskap i Norsk Statistisk Forening
+Bidrag til TG .
+
+
+
+
+
+Fra redaktøren
+
+Det sies at etterhvert som en forsker begynner å trekke på årene, blir han interessert i
+sitt eget fags historie. Muligens var det dette som forleden dag fikk meg til å bla i D.B.
+Owens bok 'On the History of Statistics and Probability', en bok med både interessante
+bidragsytere og interessante beretninger.
+
+Ta for eksempel følgende, sannsynligvis sanne, historie fortalt av W.G. Cochran:
+I 1922, 14 år etter at han hadde publisert utledningen av sin t-fordeling med beskrivelse
+av anvendelser, sendte Gosset en kopi av t-tabellene til Fisher med følgende
+bemerkning: "I am sending you a copy of Student's Tables as you are the only man
+that's ever likely to use them!"
+
+Kanskje er det en dyd av nødvendighet at det tar så lang tid før verden oppdager hvilke
+forskningsresultater som er virkelig vesentlige. Hvis en prøver å følge med i
+faglitteraturen, vet en at det kan være uhyre vanskelig å skille klinten fra hveten.
+Mengder av håndtverksmessige gode, isolert sett interessante artikler blir skrevet, lest
+
+av noen få, og deretter glemt. Det er godt mulig at det først er etter mange år vi er i
+stand til å oppdage hva som har varig verdi.
+
+Et annet eksempel på lang tid - om enn av en noe annen årsak - finner vi i en beretning
+av A.W.F. Edwards, som forteller at han i 1957 fikk Fisher's bok 'Statistical Methods
+and Scientific Inference' fra mesteren selv med inskripsjonen 'Good luck - Ronald A.
+Fisher'. Først 16 år senere følte Edwards at han kunne skrive bak i boken at nå hadde
+han lest den ut.
+
+Dette ble fortalt under en diskusjon om ‘fiducial inference’, dette merkelige begrepet fra
+Fisher, i dag nesten glemt. Da Fisher ble spurt om hans fiduciale sannsynligheter (eller
+hva det nå heter på norsk) tilfredsstiller Kolmogorovs aksiomer, var det kontante svaret
+fra mesteren: "Kol who?".
+
+Et godt spørsmål og et godt svar, mente beretteren Edwards.
+
+Det er en viss tradisjon for at redaktøren av TG i desembernummeret ønsker god jul i
+ettertid, slik at det skal harmonere med utgivelsestidspunktet. Altså: Vel overstått jul og
+et riktig godt nytt år ønskes alle leserne.
+
+Inge Helland
+
+
+
+Fra formannen:
+
+Statistikere for/mot EU
+
+I skrivende stund er EU-avstemningen nettopp overstått. I den grad statistikere speiler
+resten av befolkningen er det vel ca. 50/50 også blandt oss, og det er antakelig godt at
+NSF ikke har vært under noe press for å ta standpunkt hverken for eller mot! Forøvrig
+ville vi ha vært i godt selskap: "Blondiner mot EU”, “Fra nei til ja”, “Statistikere for eller
+
+mot EU med 50 % sannsynlighet”!
+Ut fra en mer faglig vurdering er det hyggelig å gi ros til MMI for deres valgdagsmåling
+for NRK. Riktignok skal det litt flaks til for å få en slik sentrumsblink - det vet vi som
+
+fagfolk forhåpentlig bedre enn de fleste - men også faglig, metodisk dyktighet både i utvalg
+og veiing. Gratulerer!
+
+Når dette leses er antakelig julefeiringen allerede overstått for de fleste, og 1994 på vei
+over i historien. Likevel, en riktig god jul og et riktig godt nytt år til dere alle, og takk for
+innsatsen i 1994!
+1. desember 1994
+
+Eivind Damsleth
+
+
+
+Elektroniske tjenester for statistikeren
+
+Anne Marie Fenstad, NR, 30. november 1994
+Dette er ment som en oversikt over tilgjengelige ressurser og elektroniske tjenester som er
+
+interessante fra en statistikers synspunkt. Denne artikkelen er også tilgjengelige elektronisk i
+WWW vedå se på: hitp://www.nr.no/home/fenstad/el.html. Leser du denne artikkelen i WWW kan
+du bare klikke på linkene (kursiv skrift) for å bli koplet opp mot de enkelte adressene.
+Det er opplagt mye å hente for en statistiker ved å bruke elektroniske tjenester. Et oppslag i
+«cyberspace» kan resultere i mange timer spart i «kjedelig» litteratursøk på biblioteket. Dette er
+dessuten en praktisk måte å kommunisere med statistikere over hele verden. En kommer enkelt og
+raskt i kontakt med personer som interesserer seg for «den spesielle problemstillingen» en selv
+arbeider med for øyeblikket.
+
+Det er enkelt å sende en melding i en newsgruppe, spørre om noe i en mailingliste eller søke selv i
+aktuelle ressurser som Gopher space eller i WWW. Det finnes mye tilgjengelig programvare som
+en kan hente fram og mange diskusjoner en kan være med på. Jeg gir en del eksempler på dette
+nedenfor.
+
+Det er tidsbesparende å benytte disse tjenestene og faktisk utrolig gøy også. Jeg anbefaler alle å ta
+seg en «prøvetur gjennom cyberspace». Har du fargeskjerm? Ta en titt på Doctor Fun med
+http://www.oslonett.no/drfun/latest.jpg, en tegneserie i slekt med «Larson» på baksiden av
+Dagbladet.
+
+Internet
+Internet er verdens største og raskest voksende datanettverk. I desember 1993 var antallet direkte
+tilknyttede maskiner mer enn to millioner, og et forsiktig anslag på antall brukere er 15 millioner.
+Nettet har en eksponensiell vekst. Internet Protocol (IP) er den grunnleggende protokollen som
+brukes i Internet. Over denne protokollen ligger brukertjenester som mail, news, WWW og så
+videre.
+
+URL
+
+En URL er en adresse som referer til et dokument eller tjeneste. URL er en forkortelse for Uniform
+Resource Locator, og er en navngivingsstandard for angivelse av en informasjonsressurs innenfor
+WWW. Det er URLer du skriver inn til Open-kommandoen i Mosaic, eller som argument på
+kommandolinjen til Mosaic og lynx.
+
+Det er flere forskjellige typer URLer. Eksempler på dette kan være
+@ http://info.cern.ch/hypertext/WWW/Addressing/Addressing.himl
+
+@ ftp:/Nib.stat.cmu.edu
+@ mailto:fenstad@nr.no
+
+Det er også vist to eksempler tidligere i teksten og det vil komme flere underveis.
+
+
+
+World Wide Web (WWW)
+World Wide Web eller WWW er utviklet ved CERNi Sveits, men nå drives utvikling flere steder i
+verden. WWW er et distribuert og klient/tjener basert informasjonsrammeverk. Rammeverket ble
+originalt utviklet for kjernefysikkforskere ved CERN for at disse enkelt skulle kunne samarbeide og
+utveksle dokumenter på tvers av geografiske og andre skillelinjer. WWW hviler på et hypertekst
+fundament, det vil si dokumenttekst der elementer av teksten kan velges/klikkes på for å komme
+videre til andre dokumenter, og evtentuelt dokumenter som befinner seg på helt andre maskiner i
+verden.
+
+WWW rammeverket er svært generelt, og favner det meste av andre brukte informasjonssystemer
+på Internet, enten direkte eller via gateways. I tillegg til muligheten for grafikk sammen med tekst i
+dokumentene, er det muligheter for å få opp bilder i separate vinduer på skjermen såvel som
+avspilling av lyd og videoanimasjoner. Flere og flere firmaer begynner å se det store
+forretningspotensialet som ligger i det å ha en Internet tilkopling. Det er særlig to ting en fester seg
+ved - nemlig muligheten til selv å finne interessant informasjon, men ikke minst muligheten en selv
+har til å legge ut informasjon, reklame og produktinformasjon. Dette gjelder selvfølgelig ikke bare
+for bedrifter, men også for privatpersoner.
+
+Klienter
+Mosaic og Netscape er WWW-klienter med grafisk brukergrensesnitt. De gir deg flotte figurer og
+fargebilder. Disse klientene finnes for både MS-Windows, Macintosh og Unix. Det noe enklere
+programmet lynx (bare Unix) kjører WWWi terminalvinduet du starter programmet fra.
+Protokoller
+@ HTTP er en forkortelse for HyperText Transfer Protocol, og er en protokoll som brukes
+
+mellom klient og tjener for å sende HTML dokumenter og andre data fra en HTTP tjener til
+en WWW klient. Det eksisterer flere HTTP tjenerprogrammer tilgjengelig i dag.
+@ FTP er en protokoll for overføring av data. Forkortelsen står for File Transfer Protocol. FTP
+er standard i Unix.
+
+@ Gopher er en annen protokoll for overføring av data.
+
+I tillegg er også fip og gopher navn på kommandoer i Unix som brukes for å aksessere tjenestene.
+
+Hva er HTML?
+HTML er en forkortelse for Hypertext Markup Language, og er et meget enkelt språk som brukes
+for å kode hypertekst og hypermedia baserte dokumenter. Dette dokumentet du leser nå er kodet i
+HTML.
+
+HTML er et språk som på mange måter minner om LaTex, men HTML bruker syntaks basert på
+SGML (Standard Generalized Markup Language). Språket brukes for å kode struktur og
+sammenheng mellom elementer av et dokument og mellom forskjellige dokumenter.
+
+For å lære mer kan du lese http://www.ncsa.uiuc.edu/General/Internet/WWW/HTMLPrimer.himl.
+
+
+
+Eksempler på linker i WWW
+Her følger en oversikt over noen forskjellige linker som kan være interessante for en statistiker.
+En introduksjon til WWW og Cyberspace er gitt av Kevin Hughes ved Honolulu Community
+
+College, Hawaii. Referansen er http://www.hcc.hawaii.edu/guide/www. guide.himl. Dette er en link
+til en guide eller oversikt over hva WWW er og hva «cyberspace» kan brukes til. For en som ikke
+har sett WWW tidligere er dette en god start som gir en et visst inntrykk av de utallige mulighetene
+som finnes. Hughes har laget en imponerende presentasjon av WWW i form av et hypermedia
+dokument. Dokumentet er ordnet som et vanlig dokument med kapitler og emner, men med
+hyperlinker på kryss og tvers til en mengde ressurser.
+Fra tidligere er du kanskje vant til å aksessere StatLib fra FTP. Med WWW er dette enda enklere
+enn tidligere. Det er mye lettere å bla og lete seg fram til akkurat det en er ute etter ved hjelp av
+WWW. Referansen til StatLib Index er http://ib.stat.cmu.edu/ .
+
+Statistisk sentralbyrå har sammen med Oslonett A/S startet en tjeneste de kaller: «Ukens statistikk
+fra Statistisk sentralbyrå i World Wide Web». http://www.oslonett.no/SSB/index.html linker deg til
+de siste utgavene av ukebladet: «ukens statistikk».
+
+På Amfs statistikkside har jeg samlet en del interessante referanser. Her finnes pekere til flere
+interessante steder, samt noe av mer underholdningsmessig karakter. Et oppslag på
+http://www.nr.no/home/fenstad/ viser hva som finnes.
+
+MathSearch er en måte å søke i en samling av matematikk og statistikk dokumenter. Det er
+tilgjengelig mer enn 11000 dokumenter. Referansen hit er
+http://ms.maths.usyd.edu.au:8000/MathSearch.html.
+
+Oversikt over metaressurser i WWW
+Indeksen http://www. ifi.uio.no/Tfi/foredrag/Meta.html forsøker å vise noen av de viktigste
+metaressursene som finnes i WWW på Internet i dag. En metaressurs er i denne sammenheng noe
+som peker ut andre ressurser på en strukturert måte.
+Metaressursene som er tilgjengelige i dag er ofte tilrettelagt på helt frivillig basis, kanskje som et
+resultat av at de som gjorde det selv trengte en slik oversikt. Disse oversiktene kan være ordnet etter
+emne, etter tjenestetype (Gopher, FTP, WWW, etc.) eller lignende.
+
+Veronica er en måte å søke seg fram i Gopher space på. Dette er en av de viktigste søkemetodene
+en har i dag. En mer utfyllende beskrivelse av Veronica og Gopher space finnes på referansen
+gopher://rs5.loc.gov/11/other/veronica.
+
+Publisering via WWW
+WWW er en praktisk kanal å bruke til å publisere egne arbeid. En legger bare dokumentet en vil
+
+publisere på et område som den lokale WWW-server kjenner til. En URL vil da kunne brukes til å
+adressere dokumentet. I aktuelle newsgrupper og mailinglister sier en så i fra om tilgjengeligeheten
+
+
+
+til det aktuelle dokumentet og gir dem URLen.
+
+HTML 3.0
+Publikasjoner for statistikere vil ofte inneholde mye matematikk. Dette behersker neste versjonen
+
+av HTML. Det går nok enda et år før dette blir alment tilgjengelig. Den som ikke vil vente så lenge
+kan ta en titt på arena (http://info.cern.ch/hypertext/
+WW W/Arena/Welcome.html).
+
+StatLib
+StatLib er et system for distribuering av statistisk programvare, datasett og informasjon. StatLib er
+
+bygd opp som et elektronisk arkiv og kan nås med elektronisk mail, FTP, programmet gopher og
+WWW.
+
+StatLib spenner over et vidt spektrum; fra rapporter fra statistiske møter til spennende datasett som
+**crab”” (Kodiak Island king crab survey data).
+
+Benytter en seg av en funksjon eller lignende fra StatLib bør en gi kreditt til både StatLib og
+forfatteren av den aktuelle funksjonen.
+
+StatLib via FTP
+Vil en for eksempel knytte seg mot StatLib ved bruk av programmet ftp kan dette gjøres på
+følgende måte (her har jeg logget meg på fra maskinen holt);
+holt:
+
+>ftp
+
+Connected
+220-
+
+lib.stat.cmu.edu
+to
+
+TEMPER.STAT.CMU.EDU.
+
+temper.stat.cmu.edu FTP
+
+server
+
+ready.
+
+220 StatLib users please send e-mail address as password.
+Name (lib.stat.cmu.edu:fenstad): statlib
+331 Please send your email address, for bug reports and logs.
+Password: *****
+
+230
+
+Guest
+
+login ok,
+
+access
+
+restrictions
+
+apply.
+
+Etp>
+
+En logger seg av programmet ftp med kommandoen bye. Under innlogging brukes kommandoer
+som cd, get, Is og pwd. Dette er bare et eksempel på et utall av muligheter som finnes. Vil en knytte
+seg opp til NR for å hente tilgjengelige dokumenter eller programvare benytter en rosmer@nr.no
+og brukernavn anonymous.
+
+StatLib oversikt via mail
+Hvis en er så uheldig at en ikke har tilgang til WWW eller FTP så kan en nå StatLib ved hjelp av
+mail. En kan få tilsendt en liste over hva StatLib inneholder.
+
+Da kan en få en indeks over tilgjengelige dokumenter ved å skrive: mail statlib@ lib.stat.cmu.edu
+og som «subject» skriver en så send index. Følgende respons oppnås:
+Date:
+
+Tue,
+
+6
+
+Jul
+
+93
+
+07:36:27
+
+-0400
+
+
+
+From:
+To:
+
+Statlib Server
+
+(statlibd@stat.cmu.edu)
+
+fenstad@nr.no
+
+Subject:
+
+send index
+
+===== general STATLIB index =====
+
+Welcome to statlib,
+
+a system for distribution of statistical software
+
+by electronic mail.
+This index is the reply you'll get to:
+mail statlib@lib.stat.cmu.edu
+send index.
+
+To examine the full
+send
+
+index for any library send a request of the form:
+
+index from S.
+
+You may include several requests in a single piece of mail,
+each on a separate
+
+but put
+
+line.
+
+I tillegg til en del generelle opplysninger far en en liste over innholdet i systemet.
+
+Newsgrupper og mailinglister
+Ved hjelp av Internet kan en melde seg inn i forskjellige aktuelle newsgrupper og mailinglister.
+Forskjellen på en newsgruppe og en mailingliste er at en mailingliste må en melde seg inn i ved å
+
+sende en elektronisk mail til en spesiell adresse, mens en newsgruppe er tilgjengelig for alle. Videre
+må en lese news ved hjelp av et news-leser-program, mens i en mailingliste kommer alt direkte til
+deg i elektronisk mail.
+Noen aktuelle newsgrupper vil være:
+& sci.math.research
+
+& sci.stat.consult
+O sci.stat.edu
+
+& sci.stat.math.
+
+Av andre norske grupper kan jeg nevne:
+@ no.jus
+@ no.marked
+@ no.general
+
+I tillegg har de forskjellige universitetene egne lokale newsgrupper.
+Under er navn pa tre av de utallige mailinglistene som finnes:
+@ allstat@mailbase.ac.uk
+@ s-news @utstat.toronto.edu
+@ bayes-news @stat.cmu.edu
+
+Alt det administrative, som inn- og utmelding av mailinglister, ordner en ved a sende mail til
+listenavn-request@.... For eksempel hvis du vil melde deg pa s-news-listen skriver du til
+
+s-news-request
+@ utstat.toronto.edu og ber om å bli meldt inn (please subscribe me to the list). Vil
+du sende et innlegg til mailinglisten skriver du det til s-news @utstat.toronto.edu.
+
+
+
+Splus er etterhvert blitt den mest brukte statistikkpakken verden rundt. Dette gjelder i hvertfall for
+universistetsmiljøer og forskningsinstitusjoner. Det er ikke sjelden at noen har laget en funksjon
+
+eller prosedyre som det en selv kunne trenge. Å være medlem av denne mailinglisten kan være
+utrolig lærerikt og ikke minst spare tid.
+
+En må være oppmerksom på at det kan være en del *'støy”” både i newsgrupper og mailinglister.
+Dette kan en unngå ved å lage sine egne «killfiler». I en «killfil» kan man definere temaer eller
+navn på personer en ikke ønsker å lese innlegg om eller fra. Dette hjelper til å minske antall (for
+deg) uinterssante innlegg.
+
+
+
+Misbruk av statistikk !?
+av Knut Opdal,
+Institutt for matematiske fag, NLH
+Som statistiker er jeg opptatt av emnet misbruk av statistikk. Jeg er naturlig nok mest opptatt av dette
+når jeg selv utfører statistiske beregninger, men jeg er også opptatt av å redusere misbruk av statistikk
+generelt. Særlig er dette aktuelt når personer, som har hovedtyngden av sin kompetanse på andre fag enn
+statistikk, utfører statistiske analyser. Det er tre spørsmål jeg synes er viktige i forbindelse med misbruk
+av statistikk:
+1.
+
+Misbrukes statistikk
+i et slikt omfang at det er et problem?
+
+2.
+
+Erdet fare for at slikt misbruk vil øke?
+
+3.
+
+Kan vi gjøre noe for å styre utviklingen?
+
+Jeg mener svaret er ja på alle tre spørsmålene, men jeg vil gjerne få bekreftet eller eventuelt avkrefte
+mine oppfatninger. Jeg synes TG er et passende forum til dette formål, og jeg ville sette stor pris på
+respons fra TG’s lesere. For å unngå misforståelser vil jeg først definere hva jeg mener med misbruk av
+
+statistikk.
+
+Hva er misbruk av statistikk?
+Vi misbruker statistikk hvis sannsynligheten for å trekke gal konklusjon er betydelig høyere enn hva
+oppgitt signifikansnivå og styrke skulle tilsi. M.a.o. vi misbruker statistikk hvis vi gjør feil som fører til
+at vi mister kontrollen over signifikansnivået eller styrken uten at dette tas hensyn til når konklusjonen
+
+trekkes. Det er mange mulige slike feil. Her er noen eksempler:
+Alvorlige brudd på antagelsene i modellen
+
+Overparametrisering
+Bruk av en «for enkel» modell
+Regnefeil (bruk av feil formler, frihetsgrader 0.1.)
+Fortolkningsfeil: modellens parametre tolkes feil.
+Det finnes eksempler på at statistikk misbrukes bevisst for å forlede folk til å tolke resultatene på en
+
+spesiell måte. Formålet kan f.eks. være å få folk til å kjøpe et spesielt produkt, eller å adoptere en
+politisk oppfatning. Jeg skal ikke skille mellom bevisst og ubevisst misbruk av statistikk her men nøye
+meg med å si: Misbruk av statistikk fører til at sannsynligheten for at vi trekker feilaktige konklusjoner
+
+øker.
+I første omgang vil dette bare få negative konsekvenser for de som disse konklusjonene angår. Men hvis
+omfanget av slikt misbruk er stort nok, vil folk oppdage at resultatene av slike analyser ikke er til å stole
+på. Jeg mener dette er tilfelle allerede, og jeg tror det er en av årsakene til at det er mange som ikke
+stoler på resultatene av statistiske analyser. Misbruk av statistikk er selvsagt ikke den eneste årsaken til
+
+
+
+10
+
+dette. Det finnes minst to årsaker til. Den ene er det jeg kaller begrunnet skepsis og den andre er
+ubegrunnet skepsis. Med begrunnet skepsis mener jeg det forbehold man alltid skal ta om at
+konklusjonen, som trekkes på grunnlag av en statistisk analyse, kan være feil. Med ubegrunnet skepsis
+
+mener jeg skepsis forårsaket av uvitenhet om statistiske analyser. Vi har med andre ord tre årsaker til at
+folk ikke stoler på konklusjoner basert på statistiske undersøkelser:
+1.
+
+Begrunnet skepsis
+
+.
+
+Misbruk av statistikk
+
+3.
+
+Ubegrunnet skepsis
+
+De fleste vil ikke klare å skille mellom den usikkerheten som stammer fra sunn skepsis og den
+
+usikkerheten som stammer fra ubegrunnet skepsis eller misbruk av statistikk. Dette fører til generell
+mistillit til statistiske analyser. Dette fører ikke bare til at troverdigheten til statistikerene svekkes, men
+det går også ut over vår status og posisjon.
+
+Jeg mener at misbruk av statistikk og uvitenhet til statistiske analyser til sammen har et så stort omfang
+at det er et problem.
+
+Vil misbruk av statistikk øke eller avta?
+Prisene på PC-er synker stadig samtidig som de blir kraftigere og kraftigere. I dag er PC-er så billige og
+kraftige at selv
+
+en «hjemmecomputer» kan brukes til «tunge»
+
+arbeidsoppgaver. Tilgangen på
+
+datamateriale fra mange forskjellige problemstillinger øker også stadig. I tillegg har tilgjengeligheten til
+moderne statistikkpakker som SAS, SPSS, Sysstat og Minitab også økt. Det avdekkes også stadig nye
+behov for statistiske analyser etter hvert som folk blir klar over hvilke muligheter som finnes. Som om
+ikke dette hadde vært nok, har nå slike programpakker blitt så brukervennlige at det er mulig for enhver
+PC-bruker å kunne kjøre avanserte analyser bare ved å trykke på noen få knapper.
+Statistikkpakkene tilbyr allerede såkalte «ekspertsystemer», eller «analyse med veiledning» som de også
+
+kalles. Jeg kjenner SAS best, og i modulen SAS/LAB trenger brukeren nå bare å fortelle hvilket datasett
+som skal analyseres og hvilken variabel som er respons og hvilke som er forklaringsvariable. SAS/LAB
+
+foreslår en type analyse og utfører denne. SAS/LAB trekker selv den statistiske konklusjonen. Den kan
+f.eks. være av type:
+There
+
+is
+
+means
+
+at
+
+not
+
+much
+
+statistical
+
+different
+
+assumptions
+assumptions
+
+levels
+
+underlying
+
+the
+
+evidence
+
+of
+
+of
+
+a
+
+difference
+
+forklaringsvariabel.
+
+analysis
+
+are
+
+violated.
+
+among true
+
+However,
+Please
+
+some
+
+response
+of
+
+the
+
+explore
+
+the
+
+in detail.
+
+I dette tilfellet har SAS/LAB utført en en-veis variansanalyse. Selve ANOVA-tabellen presenteres bare
+hvis man ber om det. SAS/LAB gjør det altså mulig å utføre statistiske analyser uten at brukeren vet
+hva en P-verdi er («Not much statistical evidence» betyr en P-verdi mellom 0.05 og 0.1). Hvis man
+følger oppfordringen om å «explore the assumptions», blir man «guidet» til å gjøre en transformasjon
+
+eller å fjerne en «outlier» eller lignende. Man kan altså utføre en statistisk analyse av en transformert
+variabel uten å vite hva en transformasjon er.
+
+
+
+11
+
+Foreløpig tilbyr SAS/LAB bare en begrenset mengde med analyseteknikker. Den versjonen jeg har sett
+
+på kan bare utføre enkel og multippel regresjon, samt en-veis og flerveis variansanalyse. Jeg tror vi må
+regne med at slike ekspertsystemer etter hvert vil bli utvidet slik at de omfatter flere og flere statistiske
+modeller. Vi må også regne med at produsentene vil gjøre sitt beste for å selge så mange slike
+programpakker som mulig.
+
+Slike programpakker er svært populære fordi de gir inntrykk av at man kan utføre relativt avanserte
+statistiske analyser med svært begrenset kunnskap om statistikk. Vi må derfor regne med at slike
+produkter vil bli svært utbredt.
+Det som er synd er at den økte brukervennligheten til statistikkpakkene ikke alltid gir seg utslag i at
+analysene blir utført på en mer riktig måte, men den fører helt sikkert til at flere statistiske analyser blir
+
+utført, og at flere som ikke har kompetansei statistikk utfører statistiske analyser. Økt brukervennlighet
+vil derfor indirekte føre til økt misbruk av statistikk.
+
+Vi er altså i en situasjon hvor behovet for, og tilgjengeligheten til, statistiske analyser stadig øker
+samtidig som statistikkpakkene blir mer og mer brukervennlige. Jeg er overbevist om at denne
+kombinasjonen vil føre både til økt bruk og til økt misbruk av statistikk.
+
+Kan vi gjøre noe for å styre utviklingen?
+Hvordan skal vi forholde oss til en slik utvikling? På den ene siden vil vi markedsføre statistisk analyse
+
+som hjelpemiddel til å ta konkrete beslutninger. På en måte er det derfor fint at det finnes brukervennlige
+statistikkpakker. Disse pakkene gjør folk oppmerksomme på at det finnes mange metoder og modeller,
+og statistikkpakkene vil på den måten være med på å avdekke et behov for statistiske analyser. På den
+annen side vil dette også føre til at folk med minimale kunnskaper
+i statistikk utfører statistiske analyser.
+Hvilken strategi skal vi bruke for å bidra til å redusere misbruken av statistikk? Vi kan neppe påvirke
+tilgjengeligheten av hverken datamaskiner, data eller brukervennlige analysepakker. Jeg mener derfor at
+det beste vi kan gjøre er å bidra til at brukerne av statistikk får bedre oversikt over de forskjellige
+analyseteknikkene og sammenhengen mellom dem. På denne måten vil vi både redusere misbruk av
+statistikk og den skepsis som forårsakes av uvitenhet til statistiske analyser.
+Finnes det bøker som på en pedagogisk og oversiktlig måte viser sammenhengen mellom de forskjellige
+
+statistiske modellene, og samtidig inneholder en sjekkliste over ting man må passe på i hver enkelt
+teknikk? Jeg har ikke sett noen slik bok. Jeg foreslår derfor at statistikerene samarbeider om å lage en
+slik bok.
+Jeg tenker meg boka skrevet slik at den lett kan deles inn i små deler hvor vi kan bidra med litt hver. Her
+
+gjelder det selvsagt å få «de beste» i regresjon til å skrive om regresjon, o.s.v. Første del av boka bør
+forklare sammenhengen mellom de forskjellige statistiske metodene. Dette kan f.eks. gjøres ved å bruke
+samme tankegang som ekspertsystemene benytter. D.v.s. vi kan ta utgangspunkt i en figur av type:
+
+
+
+12
+Regresjonsanalyse
+Prinsipalkomponent-
+
+regresjon
+
+Partial least square (PLS)
+
+Kontinuerlig respons
+
+Kategorisk
+
+forklaringsvariabel
+
+En respons
+
+Binomisk
+
+Logistisk regresjon
+
+respons
+
+Nominal; Multinomisk logit!
+
+Multinomisk respons
+
+modell
+
+Ordinal; Logit for ordinal
+respons
+
+Multivariat-variansanalyse
+
+.Clusteranalyse
+Prinsipal komponent
+analyse
+
+Kontinuerlig
+responser
+
+Multivariat
+regresjonsanalyse
+Faktoranalyse
+Kanoniske korrelasjoner
+
+Flere responser
+
+Diskriminant-
+
+analyse
+
+Kategorisk responser
+
+modeller
+
+Figur 1. NB! Figuren er ufullstendig. Det finnes selvsagt mange statistiske modeller som ikke er med her.
+Dessuten kan det ofte være vanskelig å plassere teknikker i båser på denne måten.
+
+
+
+13
+
+For at boka ikke skal bli for omfangsrik bør den henvise til passende litteratur når dette er mulig.
+Målgruppen til boka kan være alle som utfører statistiske analyser. For at boka skal få et stort nok
+marked bør den skrives på engelsk. Det er viktig at leseren forstår modellbegrepet. Fordi dette begrepet
+blir brukt med forskjellige meninger bør boka inneholde en forklaring på hva som menes med ‘modell’ i
+denne sammenheng. Boka bør også følge et bestemt mønster slik at den blir lett å finne frem i.
+Jeg tenker meg altså strukturen på boka slik:
+
+e
+
+Dell:
+
+Oversikt over statistiske teknikker satti sammenheng. D.v.s. denne delen av boka gir
+råd om hva slags analyseteknikk som kan benyttes i de forskjellige tilfellene. Dette kan
+gjøres ved at man f.eks. tar utgangspunkt i en figur som er laget etter de samme
+
+prinsipper som figur 1.
+
+e
+
+Dell:
+
+Forklaring av hvordan man spesifiserer modellen, sjekker antagelser og tolker
+resultatene til hver enkelt teknikk. D.v.s. gir praktiske råd og tips til selve utføringen av
+en analyseteknikk.
+
+Nå kan det selvsagt argumenteres med at en slik bok vil virke på samme måte som et ekspertsystem.
+
+D.v.s. den kan resultere i økt misbruk av statistikk hvis den ikke blir brukt på riktig måte. Selv om jeg
+forstår dette argumentet, mener jeg at det er mulig å lage boken slik at sjansen for at den øker misbruken
+av statistikk blir minimal.
+
+En av fordelene med en slik bok er etter min mening at man får muligheten til å vise sammenhengen
+mellom de forskjellige teknikkene og vise hvilke teknikker som kan brukes til hva. En annen fordel er at
+brukereni større grad må ta stilling til de forskjellige valg som må gjøres. I en bok har man større
+mulighet til å fortelle hvorfor valgene må gjøres og hvordan avgjørelsene skal tas og gjennomføres.
+I ekspertsystemene blir slike avgjørelsen tatt uten at brukeren behøver å være med på beslutningen.
+Hvis du har synspunkter angående en slik bok, eller hvis du mener det allerede finnes bøker som dekker
+dette behovet, eller hvis du har andre aktuelle kommentarer så ta kontakt med meg eller svar med et
+innlegg i TG.
+
+Adresse:
+
+Knut Opdal
+NLH, Institutt for matematiske fag
+Postboks 5035
+
+1432 ÅS
+Telefon:
+
+64 94 88 58
+
+
+
+14
+
+PUZZLE
+
+Følgende utfordrende problem snappet opp:
+
+Du blir forelagt to konvolutter med penger i, og får vite at det er
+dobbelt så mye i den ene som i den andre. Du får velge en av
+dem, åpner den og finner a kroner.
+
+Spørsmål: Lønner det seg å bytte konvolutt?
+
+Løsning : Jeg har da sjansen for å få enten 2a kroner eller a/2
+kroner, og det ene må være like sannsynlig som det andre.
+Forventet beløp er da 2a-1/2 + a/2:1/2 = 1.25a> a.
+Hvor er hunden(e) begravet?
+
+Problemstillingen kan belyses fra mange synsvinkler, og leserne
+
+utfordres herved.
+
+Jostein Lillestøl
+
+Gode diskusjoner omkring dette problemet (og lignende problemer) belønnes med en
+plass i TG.
+
+Inge Helland
+
+
+
+15
+
+On a Christmas Party Problem
+Håvard Rue and Brynjulf Owren
+Christmas 1994
+
+Abstract
+
+n guests arrive at a Christmas party with one Christmas present each.
+All the presents are collected and detained in a Christmas bag. Later in
+the evening Santa Claus drops in and starts to deliver Christmas presents
+
+to everyone from the Christmas bag. What is the probability that exactly
+k guests regain their own Christmas present from Santa Claus?
+We present different solutions to this classic problem and study properties of the probability distribution for the number of unlucky Christmas
+guests.
+
+1
+
+Background
+
+Variants of the rencontre or matching problem [1] occur in many natural situations and one of them is the Christmas party problem: n guests arrive at a
+
+party and each one brings along exactly one Christmas present. All presents
+are collected in one common bag and an external person (acting) Santa Claus
+delivers one present from the bag, picked at random to each guest. What is the
+probability p,(k) that exactly k of the n guests get their own present back?
+The core of the problem is the following [1]. Consider a random permutation
+(71,72,+++;7n) of the numbers 1,2,...,n, which is obtained by drawing one
+
+of the n! possible permutations at random.
+
+Define j as an invariant of the
+
+permutation iff 7; = 7. The permutation
+
+Number
+
+12
+
+3
+
+4
+
+5
+
+6
+
+Permutation
+
+2
+
+3
+
+4
+
+6
+
+5
+
+1
+
+has two invariants, 7 = 3 and j = 4. Let N, be the number of invariants in a
+permutation. The question is now,
+
+What is the probability p,(k) that a random permutation has exactly k invariants, NV, = k ?
+
+This problem is a variant of the rencontre or matching problem! which has a
+long history starting from the 18th century by Montmort and later studied by
+Euler and de Moivre [1]. The solution
+1
+
+1
+
+il
+
+1
+
+Refer to [1] for two more rencontre problems.
+
+1
+
+
+
+was first given Montmort [1]. In the following section we review the solution
+presented by Blom, Holst and Sandell [1]. In Section 3 and 4 we present two
+alternative solutions where the last one is really nice! Finally, we use the results
+obtained so far to discuss how the properties of the distribution of N, vary with
+n.
+
+2
+
+The Solution from Blom, Holst and Sandell [1]
+
+Define the event A; as “2 is an invariant of a random permutation” or g
+“guest 2
+gets his own present back”. Note that the events A;, A2,...,A, are exchangeable, i.e.
+
+på =Pr(A;nA;),
+
+p0 = Pr(A;),
+
+på = Pr(A;M A;N Ar),
+
+ete.
+
+for all 1 <i<n,1<i<j<mnandl<i<j<k<m,etc By counting
+
+the number of favorable cases and dividing by the number of possible cases, we
+
+obtain
+
+Pp
+
+(k) — (nm — k)!
+
+>
+=o
+n!
+
+because k of the numbers are invariant and the remaining n — k numbers may
+be subjected to (n — k)! possible permutations. By using the following result
+
+for exchangeable events”, which was stated but not proved by de Moivre [1],
+pn(k)
+
+=
+
+Pr(exactly k of the events Aj, Ao,...,An occur)
+
+a)
+n—k
+= (2)
+(xen(2
+i=k
+i—kie
+
+(1
+
+we obtain the solution
+
+Pr(k)
+
+==
+
+7 k
+
+Le
+å
+
+.
+1 >
+2
+_1)\t-k§
+
+pa Un
+
+= g-gta
+gta
+OT) 0
+1
+
+1
+
+1
+
+1
+
+1
+
+I
+
+Let us make a small remark. The expected number of guests that get their own
+present back, N,, is 1. This is because N,, = X7- la, and E(14;) = Pr(Ai) =
+1/n. Section 5 discusses this and more in detail, so hang on.
+”The general version of (1) is
+
+pa(k) Sist
+= L(-D) (is.
+where 5, =
+
+1
+
+Pr(A;), So =
+
+Y. , Pr(A; NM A;) J
+
+wy
+
+and so on. We can obtain formula (1) by
+
+using that Ai, A2,..., Ån are exchangeable events.
+
+
+
+17
+
+3
+
+A Recursive Solution
+
+It is perhaps more rewarding to obtain the result (2) without using the prior
+knowledge of formulas like (1) but start from entirely from scratch.
+
+Let us
+
+therefore solve the problem by using a recursive argument.
+
+Let r(n, k) be the number of permutations with exactly k out of n invariants.
+Then, clearly
+
+Pn(k) = 8
+
+(3)
+
+because r(n, k) is the number of favorable cases. Let us divide the n! permutations of the numbers 1,2,...,n into n+ 1 disjoint subsets, each having exactly
+k invariants, k = 0,...,n. We thus obtain
+n
+
+> r(n, k)= n!.
+k=0
+
+By using the obvious, r(n,n) = 1 and r(n,n — 1) = 0, we get
+n-2
+
+r(n,0)= n! - 1 — PD r(n, k).
+
+(4)
+
+k=1
+
+Assume that a permutation has k invariants. The number of permutations with
+exactly the same invariants is r(n — k,0). The k invariants can be chosen in
+(;) different ways, hence
+
+r(n, k) = (7) r(n — k,0)
+n
+
+(5)
+
+which combined with (4) yields
+:
+
+n-2
+
+å
+
+r(n,0) = n! — 1- > (7) ron — &0),
+
+(6)
+
+We have thus obtained a recursive way of calculating r(n,0) and from (3) we
+find p,(0). Here are the first steps in the recursive solution.
+r(2,0)
+
+=
+
+2-1=1
+
+pm)
+
+=
+
+4=3
+
+1
+
+1
+
+3
+r(3,0) = a1 (7)1(@,0)=6-1-3=2
+
+p3(0)
+
+=
+
+2
+
+1
+
+773
+
+4
+4
+r(4,0) = 4!-1- (1)
+-@.0- (3)
+"@.0)=9
+
+pa(0)
+
+=
+
+9
+
+3
+
+7=3
+
+
+
+18
+
+From (5), we can express pr (k) using pn-k(0) as
+
+Pa(k) = FPn-e(0)
+and the solution is obtained.
+
+(7)
+
+The weakness of this approach is that the ex-
+
+plicit solution (2) is not obtained directly. Of course, we could prove that (2)
+is the solution of (6) and (7) by induction, but we choose to pursue a different approach. We will solve the problem from scratch, directly, using another
+argument and obtain (2) in the next section.
+
+4
+
+The Nice Solution
+
+This is a really nice solution of the Christmas party problem. There is a chance
+for this solution to be known already, but anyway it was not to us. Here is the
+trick,
+
+r(n, 0) = (n — 1) (r(n
+— 1,0)
++
+r(n
+—
+2,0)).
+This is obvious if we just get the correct picture.
+
+(8)
+
+Assume that four guests
+
+A, B,C and D bring along presents a,b,c and d. The number of permutations
+of a,b,c and d with no invariants is found by the following argument. Guest A
+
+chooses one of the presents b,c or d. Generally, this gives him n-1 possibilities.
+For each choice made by A, the remaining n—1 guests want to count the number
+of ways they can arrange the n — 1 presents left. Suppose A selects b. Then
+guest B can get present a or any one of the others as they are known to not
+contain b. Firstly, assume guest B get present a. Then the n — 2 other guests
+must choose between n — 2 presents (C and D must choose between present c
+and d) which leave them with r(n—2,0) possibilities. Secondly, assume guest B
+
+does not get present a. Then relabel present a to b’, guest B to B’ and we have
+the same problem with one guest less, i.e. n — 1. The number of possibilities is
+by definition r(n — 1,0) and (8) is proved.
+Let us rearrange (8) to obtain
+
+r(n, 0) — nr(n — 1,0) = — (r(n — 1,0) — (n — 1)r(n — 2,0)).
+
+(9)
+
+Define s(n) = r(n,0) — nr(n — 1,0) and (9) becomes s(n) = —s(n — 1). The
+solution is sn = C(-1)”, where C is an arbitrary constant. The initial values
+r(1,0) = 0 and r(2,0) = 1 are used to determine C = 1 and we get
+
+r(n,0) — nr(n — 1,0) = (-1)”.
+Now, by using
+
+(3) we obtain
+
+(-1)"
+
+pa(0)
+=
+Pra(0)+—
+1
+
+1
+
+(10)
+
+1.1
+
+al
+
+=
+Inta
+gta
+tC ay
+We obtain the desired result by means of (7),
+
+Pr(k) = Fi (2 pra ata
+1
+
+k ==
+
+1
+
+—- aa
+
+1
+
+11
+
+ne EE EE
+
+oe EE 030 fø
+
+CVT GS a)
+=
+
+m-k
+
+1
+
+>
+
+.
+
+
+
+Nice solution, wasn’t it? But-wait, there is more! The next section investigates
+
+the properties of the random variable N,,, the number of guests that get their
+own present back.
+
+5
+
+Properties of N,
+
+Let us investigate the properties of N,,, the number of guests that regain their
+own present (or number of invariants in a random permutation of a sequence
+
+of length n). On page 2 we showed that E(NV,) = 1, so the expected number of
+unlucky guests is 1 and independent of n. What about higher order moments
+
+E(N/), are they also independent of n? To answer this question, let us calculate
+the probability generating function,
+
+Gral) = (5%) = > stpalk).
+
+(11)
+
+k=0
+
+The jth derivative of GN, (8) in s = 1 gives the jth descending factorial moment
+of Np,
+
+GY? (1) = E(Na(Nn - 1)) (Na = (3 - 1)))-
+
+(12)
+
+To obtain Gy, (3), we do the following trick.
+
+GNn41 (8)
+
+n+1
+
+==
+
+HD s* pn+1 (k)
+
+0
+
+n+l
+
+k
+
+S| EE +(0)
+
+k=0
+
+(10)
+
+=
+
+=
+
+n+1 så
+
+(pt
+
+cr sk
+
+n+1 sk( a ee—k
+
+a
+i (>. (0) + (n+1-K)
+
+DEKI Pr Ort+1—k)!k!
+
+ane 00) ondt
+
+n+1
+
+i
+
+Jon
+
+k=0
+
+=
+
+Gn()+ ne DV
+
+(13)
+
+The probability generating function is now obtained using the obvious, Gy,(s) =
+5,
+
+Gu, føles
+
+i=0
+
+EI,
+!
+
+e
+
+(14)
+
+
+
+20
+
+0
+
+1
+
+1
+
+0
+
+1
+
+2
+
+3
+
+0
+
+å
+
+3
+
+4
+
+5
+6
+7
+
+8
+9
+10
+O0
+
+3
+
+2
+
+n\k
+
+4
+
+1
+
+3
+
+1
+
+8
+
+1
+
+.
+
+1
+
+3
+
+2
+
+3
+
+i
+
+4
+
+9
+
+ae
+
+30
+3
+144
+w3
+280
+
+8
+nm
+30
+8s
+144
+
+6
+3
+16
+u
+60
+
+12
+å
+18
+å
+16
+
+a
+1
+48
+i
+73
+
+1
+
+3
+
+1
+
+6
+1
+
+24
+
+2
+um
+8
+18
+m
+64
+180
+288
+280
+5760
+11
+53.
+16687 2119 103
+720
+864
+560
+45360 5760
+53
+103
+2119
+16687
+16481 45360 11520 1680 3456
+44800
+.367879 .367879 .183939 .061313 .0153283
+
+5
+
+7
+
+6
+
+8
+
+9
+
+1
+
+120
+Uk
+9
+720
+19
+240
+
+22
+360
+1
+320
+
+11
+3600
+003065
+
+5040
+
+5
+0
+2
+40320
+1440
+1
+å
+1
+1
+362880
+7160 10080
+7
+1
+1
+1
+1920 15120 80640
+000510 .000072 .000009 .000001
+
+Table 1: The numbers p,,(k) for some selected values of n and k. Notice that
+
+Poo(k) = exp(—1)/k!.
+
+References
+
+[1] G. Blom, L. Holst, and D. Sandell, Problems and snapshots from the world
+of probability, Springer-Verlag, 1994.
+
+Address: Department of Mathematical Sciences, The Norwegian Institute of
+Technology, N-7034 Trondheim.
+
+10
+
+wrenQimf.unit.no.
+
+E-mail addresses: Havard.RueQimf.unit.no an d Brynjulf.O
+
+1
+3628800
+.000000
+
+
+
+21
+
+Bokanmeldelse.
+Odd O. Aalen: Innføring i statistikk, med medisinske eksempler.
+
+Odd Aalen har skrevet en hendig liten læreboki statistikk på begynnernivå. Som det framgår av undertittelen,
+er den fortrinnsvis beregnet på medisinere, men den kan med fordel også leses av andre for eksempel av oss som
+underviseri statistikk, eller av en nybegynner som trenger en rask innføring i faget. I bokas 8 første kapitler
+omhandles deskriptiv statistikk, sannsynlighetsregning, binomisk-, poisson- og normalfordeling, samt
+samplefordelinger og statistisk analyse (hypotesetesting og konfidensintervall) for både en og to populasjoner.
+Disse kapitlene følger omtrent samme oppbygning somi de fleste andre lærebøker. Mer avanserte emner som
+
+regresjonsanalyse og variansanalyse er ikke behandlet metodisk, men forfatteren har lagt inn egne kapitler om
+årsakssammenhenger og forsøksplanlegging. I tillegg er det en konsentrert innføring i MINITAB og en relativt
+fyldig oppgavesamling.
+
+Etter min mening er bokas store styrke at den på en svært lettfattelig og elegant måte begrunner og forklarer
+både sannsynlighetsregning og de forskjellige metodene. Dette semesteret har undertegnede undervist ulandsstudenteri statistikk på Norges landbrukshøyskole. Selv om boka derfor er helt uaktuell, har jeg likevel
+
+hatt stort utbytte av den, når jeg planlegger hvordan jeg skal motivere mine studenter. Jeg har heller ingen
+skrupler med å henvise til boka dersom enkleltstudenter kommer og spør etter tilleggslitteratur (på norsk).
+Det er en stor prestasjon å få såpass mye stoff presentert på en så ryddig måte og på så få sider som det Odd
+Aalen har klart, særlig når en ser hvordan andre lærebøker eser ut. Larsen og Marx "Statistics" er på 830 sider,
+mens Aalen klarer seg (riktignok med noen færre emner) med 290 sider. Selvsagt vil en slik reduksjon (målt i
+antall ord) i stoffmengde ofte medføre at noe går tapt, for eksempel gjelder dette matematisk presisjon. Det er
+vel ikke alltid like opplagt at studenten i det lange løp tjener på en slik forenkling. Forfatteren sier i forordet at:
+
+"En bærende ide i boken er at leseren skal lære såpass mye sannsynlighetsregning
+at han/hun skal skjønne hva p-verdier og konfidensintervaller egentlig er for noe.”
+
+Min erfaring er at dette er begreper som sitter langt inne slik, at dette er en svært ambisiøs målsetting. Dersom
+denne blir bare delvis oppfylt, vil boka absolutt forsvare sin plass i mange bokhyller. Jeg vil oppfordre de som
+underviseri statistikk til å skaffe seg boka, kanskje vil den være en inspirasjon til å bli en bedre foreleser.
+
+Trygve Almøy, Institutt for matematiske fag, Norges landbrukshgyskole.
+
+
+
+22
+
+NORSK STATISTISK FORENINGS
+ETTERUTDANNINGSSEMINAR 1995
+The Scientific Context of
+Quality Improvement
+with particular emphasis on
+Designing Industrial Experiments
+NORGES TEKNISKE HØGSKOLE, TRONDHEIM, 3.-5. APRIL 1995
+FØRELESARAR:
+
+Professor George E.P. Box, Center for Quality and
+
+Productivity Improvement University of Wisconsin,
+Madison.
+
+Førsteamanuensis Liv Høyland, NTH og førsteamanuensis John Tyssedal, NTH.
+
+INNHALD:
+
+Kurset tek til med å gje ei innføring i sentrale prinsipp for kvalitets- og produktivitetsforbetrings
+arbeid. Etter ei kort innføring i grunleggjande metodar for statistisk prosesskontroll og filosofien til
+Deming, vil kurset leggje leggje vekt på dei nye ideane om å byggje god kvalitet inn i eit produkt
+istadenfor å inspisere bort dårleg kvalitet . Hovudvekta blir her lagt på metodar innanfor statistisk
+forsøksplanleggjing, og korleis ein ved raffinert bruk av desse kan løyse problemstillingar reist av
+Taguchi som t. d. design av robuste produkt og å gjere eit produkt lite følsamt for variasjon i
+enkeltkomponentar.
+
+Kurset blir gjennomført som eit samarbeidsprosjekt mellom dei tre førelesarane, der George
+
+Box vil vere hovudførelesar.
+
+OM FØRELESARANE:
+
+George Box har Ph.D. og D.Sc. grad i matematisk statistikk frå Universitetet i London. Han
+var i mange år praktiserande statistikar hos Imperial Chemical Industries. I 1960 grunnla han
+
+Institutt for statistikk ved Universitetet i Wisconsin, Madison.
+
+George Box har stor industriell erfaring og er opphavsmann til mange metodari utstrakt bruk
+innanfor produkt- og prosessforbedring, spesielt kan nemnast responsflatemetodar og EVOP. Han
+har og gjort fundamentale bidrag innanfor forsøksplanleggjing, robust statistikk, Bayesiansk
+analyse og tidsrekkje analyse og kontroll. Han har ei omfattande publikasjonsliste og er
+medforfattar til ei rekkje bøker. Nemnast kan: The Design and Analysis of Industrial Experiments,
+Statistical Methods in Research and Production, Time Series Analysis-Forecasting and Control,
+Bayesian Inference in Statistical Analysis, Evolutionary Operation, Statistics for Experimenters og
+Emperical Model Building and Response Surfaces.
+
+I 1985 var han ein av grunnleggjarane av det velkjende Center for Quality and Productivity
+Improvement ved Universitetet i Wisconsin, Madison der han framleis arbeider aktivt. Han har ei
+rekkje æresmedlemskap og æresutnemnelsar og blei nyleg tildelt "The Gold medal of the Royal
+Statistical Society".
+
+
+
+23
+
+Liv Høyland er cand real i statistikk frå Universitetet i Oslo. Ho har vore tilsett på NTH frå
+1968 til 1994 og har i arbeidet sitt der lagt stort engasjement i bruk og formidling av statistiske
+metodar. Ho har breid undervisningserfaring, mellom anna i forsøksplanleggjing og
+regresjonsanalyse og frå etterutdanningskurs for industrien i statistiske metodar for kvalitetsstyring
+og -forbetring.
+
+John Tyssedal er dr. scient i statistikk fra Universitetet i Bergen. Han har vore tilsett på NTH
+sidan 1985 og har undervisningserfaring mellom anna i tidsrekkjeanalyse og forsøksplanleggjing,
+som dei siste åra har vore hans hovudforskningsområde.
+LITTERATUR:
+
+Det blir utdelt eit hefte som førelesingane baserer seg på: Det er dessutan ynskjeleg at alle
+deltakarane har eit eksemplar av boka Box, G. E. P., Hunter, W. G. and Hunter, J.S. : " Statistics
+for experimenters." Denne vil vere å få kjøpt på kurset. Prisen blir omlag 500 kr.
+ARRANGEMENTSKOMITE:
+
+Førebels arrangementskomite: John Tyssedal, NTH og Harald Johnsen, RIT.
+Spørsmål kan rettast til John Tyssedal, Institutt for matematiske fag, 7034 Trondheim NTH.
+tlf.: 73593534
+mail: tyssedal @imf.unit.no
+
+PRIS:
+
+Deltakaravgift med førelesingsnotat og utan lærebok er sett til kr. 1500 som må betalast inn til
+Norsk Statistisk Forenings etterutdanningsseminar, v/Harald Johnsen, Avd. for klinisk kjemi, RIT
+7006 Trondheim, postgiro 0806 4247086 innan 15. mars 1995.
+INNKVARTERING:
+
+For dei som ynskjer det, blir det ordna med innkvartering på Elgeseter Hotell As. Dette er i
+gang avstand til NTH og til sentrum. Pris: Enkeltrom med frukost kr. 400. Dobbeltrom med
+frukost kr. 285 pr. person.
+PAMELDING:
+
+Påmelding skal sendast til Harald Johnsen, Avd. for klinisk kjemi, Regionsykehuset i
+Trondheim, 7006 Trondheim innan 1. mars 1995. Faxnr.: 73997967 . Nærare informasjon om
+kurset blir tilsendt umiddelbart etter påmeldinga. Det vil vere eit begrensa beløp tilgjengeleg for
+hovudfags- og doktorgradsstudentari statistikk til heil eller delvis dekning av kurs- og reiseutgifter.
+Søknad om dette skal sendast saman med påmeldinga. Medlemer av NSF kan bli prioritert.
+-----
+
+Namn:
+
+Klipp ut -===
+mm
+mme
+PAMELDING NSF'S ETTERUTDANNINGSEMINAR 1995
+SERESTSRESESEEER
+
+Kryss av og/eller fyll
+
+Ynskjer innkvartering?
+
+ween
+
+2
+
+ut:
+
+Nei[]
+
+Saman med ...esorrorovvnevnernvvnnsvnssvenerer
+
+Ja[
+
+eee eee
+
+n nnn
+
+EE
+].
+
+enn
+
+Enkeltrom [ |
+
+Dobbeltrom[ |
+
+Tidsrom ....eorvovvnerevveer
+
+
+
+24
+
+Påminnelse
+
+Det 8. norske statistikermøte
+
+Åsgårdsstrand
+12.-14. juni 1995
+Norsk statistisk forening, avdeling Oslo, har den glede å invitere til det 8. norske statistikermøte som blir holdt på
+
+Åsgårdsstrand Hotel i Vestfold
+i tiden 12.-14. juni 1995
+
+Program
+Se nedenfor.
+
+Adkomst
+Det vil bli arrangert felles reise fra Oslo (båttur nedover). Totale reiseutgifter vil bli ca
+kr 250.
+
+Kostnader
+Konferanseavgiften er satt til kr 400 og dekker konferansemateriell og festmidag.
+Hotellprisen er ca. kr 2000 for hele oppholdet og betales direkte til hotellet. Prisen
+dekker frokost, lunsj og vanlig middag på hotellet.
+
+Endelig innbydelse
+Endelig innbydelse sendes ut i neste TG.
+
+Programkomitée
+- Eva Seim, Nycomed Imaging
+
+- Grete Fenstad, UiO
+- Håvard Rue, NTH
+
+Spørsmål angående faglig progam kan rettes til Grete Fenstad, tlf 22 85 58 76, epost:
+grete@math.uio.no.
+
+Arrangementkomitée
+Arrangementkomitéen bestar av styret for Norsk statistisk forening, avdeling Oslo.
+
+Spørsmål kan rettes til Geir Storvik, tlf. 22 85 58 94, epost: geirs@math.uio.no
+
+
+
+25
+
+Norsk Statistikermøte 1995
+Melding fra programkomitéen
+Grete Fenstad! & Håvard Rue? & Eva Seim?
+
+Som tidligere annonsert i TG, vil det 8. norske statistikermøte bli avholdt i Åsgårdstrand,
+
+12.-14. juni 1995. I den anledning har programkomitéen allerede startet sitt arbeide, med
+det formål å kunne presentere et interessant og allsidig program for alle medlemmer og
+fraksjoner av den norske statistiske familie.
+
+Hovedtema og inviterte foredrag
+Vi har den glede å kunne presentere to hovedtema på neste års møte, samt et spesielt
+invitert foredrag. Det første hovedtema blir presentert av Inge Helland, NLH sammen med
+Tormod Næs, Matforsk og Trygve Almøy, NLH,
+Prediksjonsmetoder for situasjoner med et stort antall
+tilfeldig fordelte forklaringsvariable.
+
+De vil gi oss en kort innføring i teorien for slike prediksjonsmetoder og illustrere metodene
+med ulike eksempler.
+
+Det andre hovedtema vil bli presentert av Johan Heldal fra Sosialøkonomisk institutt,
+
+UiO,
+
+Om spørreundersøkelser og meningsmålinger.
+
+Han vil forklare oss hvordan slike undersøkelser faktisk blir gjennomført og hvilke problemer som oppstår og hvorfor. Kanskje han også vil diskutere erfaringene fra alle de
+meningsmålingene som var like før EU-avstemningen 28. november?
+
+Matematisk Institutt, Avdeling for Statistikk, Postboks 1053 Blindern, 0316 Oslo 3, grete@math.uio.no
+”Institutt for matematiske fag, Norges tekniske høgskole, 7034 Trondheim, havard.rue@imf.unit.no
+3 Nycomed Imaging
+
+
+
+26
+
+Thore Egeland fra Norsk Regnesentral vil presentere et spesielt invitert innlegg,
+Statistikk og DNA-analyse
+
+Han vil snakke om problemstillinger han arbeider med ved Rettsmedisinsk institutt.
+
+Åpen avdeling
+Også denne gang vil det være anledning for deltakerne å melde på egne foredrag. Tid pr.
+
+foredrag antas å være fra 15—25 minutter inkludert diskusjon.
+Vi vil spesielt oppfordre anvendte statistikere ute i industrien til å presentere sine
+statistiske problemer fra den *virkelige” verden.
+
+Hovedfags— og doktorgrads-studenter oppfordres spesielt til å melde på foredrag. Det
+hviler implisitt en plikt for veiledere til å melde på sin(e) student (er) for foredrag.
+Programkomitéen vil prøve, på bakgrunn av påmeldte foredrag, å sette opp et best
+
+mulig program, med forbehold av alle mulige slag.
+
+Tidsfrister
+
+Det er kun to tidsfrister å huske på, 1. mars og 1. mai 1995. Den første fristen gjelder
+påmelding av eget foredrag. Send en foreløpig tittel til Grete eller Håvard. Før 1. mai sendes
+
+den endelige tittel samt et abstrakt av foredraget. Abstraktene vil bli samlet sammen og
+distribuert på møtet.
+
+
+
+27
+
+THE NORDIC REGION OF
+THE INTERNATIONAL BIOMETRIC SOCIETY
+IN COLLABORATION WITH THE SWEDISH
+
+SOCIETY FOR MEDICAL STATISTICS
+
+INVITES TO A MEETING IN
+GOTHENBURG,
+
+JUNE 14-16,
+
+SWEDEN
+
+1995
+
+The meeting will be held at the Nordic School of Public Health at Nya Varvet in Gothenburg.
+The program covers biometric research and development over the full range of applied fields,
+including agriculture and forestry, medicine, biology, the environment and other areas of life
+sciences. Special effort is made to involve biometricians from the British Region.
+PLENARY SESSIONS
+
+Infectious disease modelling (org. Odd Aalen, Oslo)
+
+Ira Longini
+Hein Stigum
+
+Application of image analysis in agriculture and
+
+Chris Glasbey and Graham Horgan
+
+biology (org. Mats Rudemo, Copenhagen)
+
+Martin Bægsted Hansen
+
+INVITED PAPER SESSIONS
+1. Applied Bayesian statistics
+
+4. Analysis of biological populations *
+
+(org. Niels Keiding, Copenhagen)
+
+(org. Antti Penttinen, Jyviiskylå)
+
+Elja Arjas
+
+Juha Alho
+
+Nicola G Best
+
+Paul Wilkinson
+Harri Högmander
+
+2. Statistical analysis of sensory evaluations
+
+5. Exposure measurement error in nutritional
+
+(org. Per Lea, Ås)
+
+epidemiology (org. Juni Palmgren, Helsinki)
+
+Per M. Brockhoff
+
+Jouni Kuha
+
+E Anthony Hunter
+
+Martyn Plummer
+
+Per Lea
+
+3. Environmental statistics
+
+6. Design of experiments (org. Inge Helland, Ås)
+
+(org. Lennart Bondesson, Uppsala)
+
+R. A. Bailey
+Anders Grimvall
+
+Carl-Fredrik Burman
+
+Henrik Madsen
+
+Tomas Morsing
+(Eyvind Langsrud
+
+CONTRIBUTED PAPER AND POSTER SESSIONS
+Submission of contributed papers/posters is encouraged. Topic areas include, but are not restricted to
+
+those covered by the plenary and invited sessions. Submission is made by registering and sending an
+abstract of max. 200 words to the IBS Nordic Regional Secretary (address below) NOT LATER
+THAN JANUARY 31, 1995.
+For further information please contact:
+
+The IBS Nordic Regional Secretary
+
+Doris Tove Kristoffersen
+Nycomed Imaging A/S
+P. O. Box 4220 Torshov
+
+N-0401 OSLO, NORWAY
+
+Fax number: +47-22-85 13 13 or 89 12 00
+
+
+
+28
+NORDIC REGIONAL MEETING OF
+THE INTERNATIONAL BIOMETRIC SOCIETY
+GOTHENBURG, SWEDEN
+JUNE 14-16, 1995
+
+REGISTRATION FORM
+Name:
+Address:
+
+Telephone:
+Fax:
+Email:
+CONTRIBUTED PAPERS/POSTERS
+
+I wish to present:
+
+O
+
+-acontributed paper
+
+DO
+
+aposter
+
+O
+
+-mnocontribution
+
+I have enclosed an abstract of max 200 words with the following title:
+
+REGISTRATION FEE:
+
+Registration fee categories:
+
+D
+D
+
+1000 SEK (IBS-member)
+1300 SEK (non-member)
+
+OD
+OD
+
+500 SEK (student)
+300 SEK (added after March 15)
+
+I wish to stay at the Nordic School of Public Health between dates
+
+and
+
+at a price of 250 SEK per night. (No meals included.)
+PAYMENT
+
+I have made the payment of
+
+SEK (Registration)
+
+SEK (Accommodation)
+SEK (Total)
+
+into postal giro account:
+
+(Norway) No 0826 09 33 273, IBS-Gothenburg, c/o Steinar Tretli,
+
+Kreftregistrret, Montebello, N-0310 OSLO. Documentation is enclosed.
+
+Documentation of student status is enclosed:
+
+O Yes
+
+O No
+
+Please return this form and attached documents not later than JANUARY 31, 1995 for those
+submitting papers, and MARCH 15, 1995 for others, to:
+
+The IBS Nordic Regional Secretary
+Doris Tove Kristoffersen
+Nycomed Imaging A/S
+
+P.O. Box 4220 Torshov, N-0401 OSLO, NORWAY
+(Phone: +47 22 89 18 44, Fax +47 22 85 13 13)
+
+Cancellation fee 300 SEK after March 15. No refund after June 1.
+
+
+
+DANMARK 1995
+
+IS
+STATISTIKEREN
+
+INFORMATIONSSAMFUNDET
+
+Nordisk statistikermøde i Rebild 2.-5. august 1995
+
+
+
+30
+
+MØDEPROGRAM
+Torsdag den 3. august
+Mødets åbning
+
+Plenum
+Indlæg over temaet Statistikeren i informationssamfundet.
+
+Mødeleder: Isak Isaksen, Danmarks Statistik
+
+Indledere:
+
+Professor Chresten Sørensen, Odense Universitet, Danmark
+Informationschef Asta Manninen, Helsingfors kommune, Finland
+Direktör Hallgrimur Snorrason, Hagstofa, Island
+
+Parallelle sessioner
+
+Session 1:
+
+Miljøstatistik. Sessionsleder: Ole Moss, Norge
+
+Session 2:
+
+Erhvervsstatistik. Sessionsleder: Karsten Stetkær, Danmark
+
+Session 3:
+
+Formidling. Sessionsleder: Lars Berglöf, Sverige
+
+Fredag den 4. august
+Parallelle sessioner
+
+Session 4:
+
+Økonomisk statistik. Sessionsleder: Ole Berner, Danmark
+
+Session 5:
+
+Levevilkår og sundhed. Sessionsleder: Kristinn Karlsson, Island
+
+Session 6:
+
+Kvaliteten i statistikproduktionen. Sessionsleder: Seppo Laaksonen, Finland
+
+Parallelle sessioner
+
+Session 7:
+
+Statistiske metoder. Sessionsleder: Paavo Våisånen, Finland
+
+Session 8:
+
+Diskretion. Sessionsleder: Finn Spieker, Danmark
+
+Session 9:
+
+Uddannelse af statistikere. Sessionsleder: Daniel Thorburn, Sverige
+
+Plenum
+
+Statistik for det 21. århundrede
+Afsluttende indlæg (Endnu ikke aftale med foredragsholder)
+
+SOCIALT PROGRAM
+Det sociale program for alle deltagerne vil blandt andet omfatte:
+
+- Get-together arrangement onsdag aften (Barbeque)
+- Festmiddag fredag aften
+
+- Udflugt lørdag den 5. august til Nordjylland og Skagen med afslutning på mødet ved lunch i Skagen.
+Herudover vil der blive arrangeret ture og udflugter torsdag og fredag for ledsagere og børn (Rundtur i Rold
+skov med besøg hos en heks, heldagstur til Legoland samt strandtur til Vesterhavet).
+
+
+
+31
+
+Konferencested
+Konferencestedet er Rebild Bakker Hotel, som ligger ca. 25 kilometer syd for Ålborg midt i det naturskønne
+område - Rebild Bakker. Det er et nybygget og moderne hotel med konferencelokaler af en meget høj
+standard og med mange fritidsfaciliteter tilknyttet hotellet. Brochurer mv. kan fås hos de nationale foreninger.
+
+Deltagerafgift
+Deltagerafgiften inkluderer alle udgifter til konferencen, lunch torsdag og fredag på Rebild Bakker Hotel,
+middag torsdag og festmiddag fredag aften ligeledes på Rebild Bakker Hotel, Get-together party onsdag samt
+udflugt lørdag til Skagen afsluttet med lunch.
+Deltagerafgift: 2.150 Dkr.
+
+Deltagerafgift for pensionister og studerende: 1.500 Dkr.
+
+Ledsagerafgift: 1.350 Dkr. (inclusiv alle udgifter til fortæring og udflugter)
+Børn (fra og med 6 år): ca. 300 Dkr.
+
+Rejser og indkvartering
+Onsdag og lørdag eftermiddag vil der blive sørget for bustransport fra og til Ålborg Lufthavn.
+Prisen for overnatning på Rebild Bakker Hotel vil være følgende:
+Eneværelse: ca. 515 Dkr pr. døgn.
+Dobeltværelse: ca. 410 Dkr pr. døgn pr. person
+
+Børn med egen seng: ca. 150 kr. pr. døgn
+
+Kun ca. 200 meter fra hotellet er der mulighed for overnatning på Rebild Vandrehjem, der er af meget god
+standard. Den samlede overnatningspris for fx en familie med 2 børn vil være ca. 400 Dkr. Alle deltagere som
+
+bor på Rebild Vandrehjem har mulighed for at benytte alle faciliteter på Rebild Bakker Hotel. Dansk Statistisk
+Forening vil tilbyde at stå for det praktiske arbejde for dem, som ønsker at bestille overnatning på Rebild
+Bakker Hotel eller Rebild Vandrehjem.
+
+SVARKORT (returneres inden 20. januar 1995)
+
+Jeg tilmelder mig foreløbigt til det nordiske statistikermøde i Rebild, Danmark
+den 2.-5. august 1995. (skriv med blokbogstaver)
+
+Navn:
+
+Adresse:
+
+Antal ledsagere: —____
+
+Antal børn:
+
+Jeg ønsker at deltage i sessionerne:
+
+Jeg/vi ønsker at overnatte (sæt kryds):
+1) Rebild Bakker Hotel: ——
+
+2) Rebild Vandrehjem: ——
+
+
+
+Nordisk Arrangørkommitte
+Isak Isaksen, Danmarks Statistik, København (tlf. 39 17 31 51, fax 31 18 48 01)
+
+_ Liev Solheim, Statistisk Sentralbyran, Oslo (tlf. 22 86 45 00, fax 22 86 49 73)
+
+Sigridur Vilhjålmsdöttir, Hagstofa Islands, Reykjavik (tlf. 60 98 00, fax 62 88 65)
+
+Jorma Heimonen, Statistikcentralen, Helsingfors (tlf. 17 34 36 00, fax 17 34 32 51)
+Lars Berglöf, Statistiska Centralbyrån, Stockholm (tlf. 7 83 42 99, fax 7 83 41 99)
+Harry de Shårengrad, Nordisk Statistisk Sekretariat, København (tlf. 39 17 39 81, fax 31 18 51 22)
+Henvendelser omkring konferencen torsdag og fredag skal ske enten til de de respektive medlemmer i den
+nordiske arrangørkommitte eller til sessionslederne for de enkelte emneområder. Øvrige henvendelser kan
+ske til:
+
+- Isak Isaksen, Danmarks Statistik (tlf. 39 17 31 51, fax 31 18 48 01)
+- Otto Andersen, Danmarks Statistik (tlf. 39 17 32 31, fax 31 18 48 01)
+
+- Sven Egmose, Danmarks Statistik (tlf. 39 17 31 71, fax 31 18 48 01)
+
+Programinformation
+Vedhæftede svarbrev bedes indsendt inden 20. januar 1995. Husk også at angive om man ønsker at overnatte
+på Rebild Bakker Hotel eller Rebild Vandrehjem.
+Endeligt program vil blive udsendt omkring 1. februar 1995 med tilmeldingsfrist inden 15. april 1995.
+
+porto
+
+Danmarks Statistik
+Sejrøgade 11
+pt 12107
+2100 København Ø
+
+Nordisk Statistikermøde
+
+Rebild 1995
+
+'
+
+
+
+33
+
+The First Ukrainian-Scandinavian Conference
+on Stochastic Dynamical Systems:
+Theory and Applications
+
+Uzhgorod, Ukraine, September 30-October 5, 1995
+FIRST ANNOUNCEMENT
+Stochastic Dynamical Systems (s.d.s.) is a rapidly developing area of research based on deep intersections between Theory of Random Processes on
+one side and Theory of Dynamical Systems on the other. This area includes
+wide classes of stochastic models such as Markov chains and processes, Random
+walks, Random evolutions, Stochastic flows, Stochastic difference and differential equations, Stochastic optimization procedures, Linear and non-linear time
+
+series, Dynamical systems (stochastic aspects), Stochastic models of population
+dynamics, Epidemic models, etc.
+Main Topics of the Conference Include:
+- statistical problems in s.d.s.
+
+- simulation of s.d.s
+- stability and control of s.d.s.
+- applications of s.d.s. in physics, biology, economics, etc.
+- asymptotic behavior, limit theorems and ergodic properties of s.d.s.
+- analytical methods in s.d.s.
+- boundary value problems
+- martingale problems
+
+Organizing Committee:
+
+Vladimir Korolyuk (chair, Ukraine), Gunnar Kulldorff (co-chair, Sweden), Vladimir
+Anisimov (Ukraine), Elja Arjas (Finland), Søren Asmussen (Denmark), Oleg
+Klesov (Ukraine), Andrei Motsa (Ukraine), Dmitrii Silvestrov (Sweden), Ana-
+
+-
+
+tolii Svishchuk (Ukraine), Dag Tjöst- heim (Norway), Mikhail Yadrenko (Ukraine)
+Sponsoring Institutions:
+
+
+
+34
+
+- National Academy of Sciences of Ukraine
+- Academy of Higher Education of Ukraine
+
+- Statistical Association of Ukraine
+
+- Institute of Mathematics of the National Academy of Sciences of
+Ukraine, Kiev
+
+- National University of Ukraine, Kiev
+- Uzhgorod University, Ukraine
+
+- TBiMC Scientific Publishers, Kiev, Ukraine
+- Danish Society for Theoretical Statistics
+
+- Finnish Statistical Society
+- Norwegian Statistical Society
+- Swedish Statistical Association
+
+- University of Umeå, Sweden
+Executive Committee:
+
+Oleg Klesov
+
+Dmitrii Silvestrov
+
+Ukraine
+
+Institute of Mathematical Statistics
+
+253091 Kiev
+
+University of Umeå
+
+ul. Revutskogo, 19/1, kv. 32
+
+S-901 87, Umea
+
+TBiMC Scientific Publishers
+
+Sweden
+
+tel.: (044) 513-84-07
+
+tel.: 46-90-169918
+
+fax: (044) 513-84-07
+
+fax: 46-90-167658
+
+e-mail: tbimc@sovam.com
+
+e-mail: dmitriiQmatstat.umu.se
+
+Participants:
+
+There will be at most 100 participants from Ukraine and Scandinavian coun-
+
+tries. Some experts from Baltic countries, Belorussia, Moldova, and Russia will
+also be invited.
+
+Proceedings:
+
+Proceedings will be published in a separate volume just after the Conference.
+Those wishing to submit their paper are asked to send it to one of the Executive
+Committee members before June 15, 1995 to be able to read galley-proofs during
+
+the Conference. We welcome files with TeX prepared papers. A
+
+style file is
+
+
+
+35
+
+available via e-mail from the Executive Committee.
+Conference Place:
+
+Uzhgorod is a nice Ukrainian town in the Transcarpathian region which is famous for grape plantations. There are picturesque mountains around Uzhgorod,
+and a bus excursion in the mountains will be organized. The weather in early
+October is rather warm and stable.
+Conference Fee:
+
+The conference fee will be $75. The accommodation and meals will be at a low
+price level. More information will be given in the Second Announcement.
+Preliminary Registration:
+Preliminary registration can be made by sending the Preliminary registration
+form given below to the Executive Committee.
+Registration:
+Please make your registration before June 15, 1995.
+
+A later registration is
+
+available, too, but the conference fee will be $100 in this case.
+Further Information:
+The Second Announcement will be available before March 1, 1995. It will be
+published and also sent to all persons who have submitted the Preliminary
+registration form to the Executive Committee.
+
+
+
+Preliminary Registration Form
+Name:
+
+|
+
+Affiliation:
+Address:
+
+Telephone:
+Fax:
+
+E-mail:
+Do you intend to give a lecture or communication: yes
+
+-
+
+no 10mm
+
+Equipments you need (computer, projector):
+
+Do you intend to submit a paper: yes 10mm no
+
+Would you send a disk with TeX file of your paper: yes
+The title of the paper:
+
+What additional information will be of interest for you?
+
+no
+
+
+
+Patron: Her Majesty
+The Queen
+
+ad
+
+4s
+Raiiethamsted
+m
+
+Experimental
+
+Station
+
+AFRC Institute of Arable Crops Research
+
+Harpenden, Hertfordshire AL5 2JQ
+Telephone: (0582) 763133
+
+Fax: (0582) 760981
+
+3 October 1994
+Director of Research:
+Professor B J Miflin
+Biomathematics Division and
+
+Statistics Department
+
+The Secretary
+
+Head:
+Professor
+V
+Bamett MSc PhD DSc FIS
+
+Norwegian Statistical Society
+
+Dear Sir,
+
+I would be grateful if you could add next year’s Genstat Conference to the list of
+
+conferences and events in your Newsletter as follows:
+
+Conference:
+
+Ninth International Conference of Genstat Users
+
+Time:
+
+10 — 14 July 1995
+
+Place:
+
+Dublin
+
+Contact:
+
+J. Connolly
+Department of Statistics
+
+University College Dublin
+Belfield
+Dublin 4
+
+Ireland
+
+(email: jconnoll@irlearn.ucd.ie
+)
+
+Thank you for your help.
+Yours sincerely,
+
+pKRUWVRk
+
+ME
+
+<>
+
+Registered in England No. 2393175. Registered Charity No. 802038. VAT No. 197 4201 51.
+
+Ge)
+
+Company Limited by Guarantee. Registered Office: as above.
+
+=
+
+Professor R. W. Payne
+
+
+
+38
+An Invitation to a Symposium on
+
+ANALYSIS OF ERRORS IN DEMOGRAPHIC FORECASTS
+WITH IMPLICATIONS ON POLICY
+Koli, Finland, March 30 - April 2, 1995
+
+Tentative Program
+
+* Nico Keilman (Statistics Norway): review of ex post errors in 15 countries for population size, vital rates, age
+structure etc., suggestions for future practice.
+
+* Juha M. Alho (U. of Joensuu): review of ex ante methods of assessing uncertainty, their relation to ex post
+assessments, propagation of error calculations.
+
+* Joop de Beer (Statistics Netherlands): experiences from including uncertainty of migration in Dutch national
+forecasts, methods of obtaining ex ante error estimates by simulation, judgmental forecasting.
+* William Bell (U.S. Bureau of the Census): forecasting age-specific vital rates by multivariate time-series
+techniques, review of parametric and principal components approaches, their out of sample performance.
+* Wolfgang Lutz (I.1.A.5.A.): the use of scenarios to describe uncertain future paths of development with
+illustrations from European and global forecasts.
+
+* James W. Vaupel (U. of Odense/Duke U.): uses of predictive distributions in social and health planning,
+review of expert overconfidence, predictive distributions versus scenario approach.
+* Discussion on the implementation of recent results in official forecasts.
+* Discussion on future research needs.
+
+* Short contributions by participants can be accommodated as part of discussion.
+Who should attend? Statisticians, demographers, economists doing forecasting work; producers of national or
+local forecasts; major forecast users.
+
+Where, when? Symposium will be held at Hotel Koli, 70 km from Joensuu in Eastern Finland, Koli is a scenic
+ski resort with opportunities for cross-country and downhill skiing. Joensuu can be reached by air from Helsinki, and by train or bus. The participants are expected to arrive Thursday evening, March 30. The departure is
+Sunday morning, April 2.
+
+Registration: The cost of the symposium is FIM 1,700. This covers three nights in single rooms, three breakfasts, two lunches, two dinners, a snack, transportation between Koli and Joensuu, and the symposium materials. The payment must be made by 31.12.1994 to Postipankki postgiro 800012-14588. Please mark the words
+"Koli symposium" and the name of the participant in the message space of your payment. The Koli Hotel is
+small, so attendance will be limited.
+
+For practical details, please contact Ms. Tarja Karhu (phone 973-1514207; fax 973-1513290; e-mail
+karhu@joyl.joensuu.fi; mailing address Dept. of Statistics, University of Joensuu, P.O.Box 111, 80101 Joensuu, Finland). For further information about the symposium, please contact Prof. Juha Alho (e-mail
+alho@joy] joensuu. fi).
+
+The symposium is supported by NorFA
+
+
+
+39
+
+An Invitation to a Symposium on
+
+ANALYSIS OF ERRORS IN DEMOGRAPHIC FORECASTS
+WITH IMPLICATIONS ON POLICY
+
+Koli, Finland, March 30 - April 2, 1995
+
+Tentative Program
+
+* Nico Keilman (Statistics Norway): review of ex post errors in 15 countries for population size, vital rates, age
+
+structure etc., suggestions for future practice.
+
+* Juha M. Alho (U. of Joensuu): review of ex ante methods of assessing uncertainty, their relation to ex post
+
+assessments, propagation of error calculations.
+
+* Joop de Beer (Statistics Netherlands): experiences from including uncertainty of migration in Dutch national
+forecasts, methods of obtaining ex ante error estimates by simulation, judgmental forecasting.
+* William Bell (U.S. Bureau of the Census): forecasting age-specific vital rates by multivariate time-series
+techniques, review of parametric and principal components approaches, their out of sample performance.
+* Wolfgang Lutz (I.1.A.S.A.): the use of scenarios to describe uncertain future paths of development with
+illustrations from European and global forecasts.
+
+* James W. Vaupel (U. of Odense/Duke U.): uses of predictive distributions in social and health planning,
+
+review of expert overconfidence, predictive distributions versus scenario approach.
+* Discussion on the implementation of recent results in official forecasts.
+* Discussion on future research needs.
+
+* Short contributions by participants can be accommodated as part of discussion.
+
+Who should attend? Statisticians, demographers, economists doing forecasting work; producers of national or
+
+local forecasts; major forecast users.
+
+Where, when? Symposium will be held at Hotel Koli, 70 km from Joensuu in Eastern Finland, Koli is a scenic
+ski resort with opportunities for cross-country and downhill skiing. Joensuu can be reached by air from Helsinki, and by train or bus. The participants are expected to arrive Thursday evening, March 30. The departure is
+Sunday morning, April 2.
+
+Registration: The cost of the symposium is FIM 1,700. This covers three nights in single rooms, three breakfasts, two lunches, two dinners, a snack, transportation between Koli and Joensuu, and the symposium materials. The payment must be made by 31.12.1994 to Postipankki postgiro 800012-14588. Please mark the words
+"Koli symposium" and the name of the participant in the message space of your payment. The Koli Hotel is
+small, so attendance will be limited.
+
+For practical details, please contact Ms. Tarja Karhu (phone 973-1514207; fax 973-1513290; e-mail
+karhuGjoyl.joensuu.fi; mailing address Dept. of Statistics, University of Joensuu, P.O.Box 111, 80101 Joensuu, Finland). For further information about the symposium, please contact Prof. Juha Alho (e-mail
+alho@joyl.joensuu.fi).
+
+The symposium is supported by NorFA
+
+
+
+40
+
+NYTT FRA UNIVERSITETET I TROMSØ
+Uteksaminerte cand.scient:
+Lichun Zhang: Theory of Credibility and A New Likelihood.
+Eksamen desember 1993
+Veileder: Jan F. Bjgrnstad
+
+Tom Wilsgaard. Markovkjedemodeller i evolusjonsgenetikk. En sammenligning av tester for
+modelltilpasning.
+Eksamen: 28.6.94
+Veileder:Elinor Ytterstad
+Nyansettelser:
+
+Lichun Zhang (cand.scient fra Tromsø) er ansatt som stipendiat fra januar 1994.
+
+Fred Godtliebsen (fra NTH) er fast ansatt i førsteamanuensis stilling fra august 1994.
+Sigrunn Sørbye (Sigrunn Hansen, siv.ing. fra NTH) er ansatt som stipendiat fra
+august 1994.
+Vikar:
+
+Tom Wilsgaard ansettes som vikar i vårsemesteret 1995
+Ledig stilling:
+
+Professoratet er fortsatt ledig.
+
+NYTT FRA UNIVERSITETET I OSLO
+
+Uteksaminert cand. scient.
+Gunn Albertsen: Alternative strategier for lokalt vektet regresjon når dataene er kollineære.
+Veileder: Tormod Næs.
+
+
+
+41
+
+NYTT FRA UNIVERSITETET I BERGEN
+Uteksaminert cand. scient.
+Astrid Lunde: "Optimal reassuranse og investeringsstrategi for et
+forsikringsselskap under økonomisk usikkerhet."
+Veileder: Jostein Paulsen
+
+NYTT FRA GRUPPE FOR STATISTIKK, NTH
+Nyansettelse
+
+Dr.ing. Håvard Rue er tilsatt i fast stilling som førsteamanuensis.
+
+
+
+42
+
+Melding fra kassereren.
+Ta en titt på adresselappen bak på bladet. Tallet nederst til høyre er siste
+årstallet
+du har
+betalt kontingent. Det er fremdeles mange som ikke har betalt kontingen for 1994 (kr
+150). Enda verre: Det er noen som ikke har betalt for 1992 og 1993 (kr. 90 hvert år).
+Det rettes sterk oppfordring til alle om å betale snarest til Eva Seim.
+På siste styremøte ble følgende vedtatt: De som står til rest med kontingenten for 1992
+og/eller 1993 får frist til 1.2.95 med å betale. De som ikke har betalt. vil gå glipp av
+TG fra og med neste nummer. Lignende alvorlige trusler vil komme senere for 1994etternølerne.
+Inge Helland/ Eva Seim
+
+PS: For å balansere dette triste bildet kommer Eva også med en melding som går andre
+veien: Hun har mottatt 300 kr fra Chr. Lunde Nilsen, men ingen adresse. Er det noen
+som kjenner Chr. Lunde Nilsen, og kan gi Eva Seim adressen slik at han kan få sin
+
+TG?
+
+
+
+43
+
+Medlemskap i Norsk Statistisk Forening
+
+Kontingenten i foreningen er på kr. 150 pr. år (kr. 90 for 1993) for regulære medlemmer og kr.
+50 for studenter (kr. 30 for 1993). Korrespondanse om medlemskap og innbetaling av
+
+kontingent skal skje til foreningens kasserer:
+
+Norsk Statistisk Forening v/Eva Seim
+
+Nycomed Imaging
+p.b. 4220 Torshov
+0401 OSLO
+
+Innbetalinger skal gjøres på foreningens postgirokonto 0802 5 15 10 55. Medlemmer som er
+usikre på når de betalte kontingent sist, vil nederst til høyre på adressseddelen for Tilfeldig
+Gang finne angitt hvilket år siste betaling er registrert for. Vær imidlertid oppmerksom på at
+adressesedlene for bladet ligger noe etter ajourføringen av medlemsregisteret, slik at nylig
+foretatte innbetalinger ikke vil være tatt med her.
+
+Nye medlemmer melder seg til kassereren under adressen oppgitt ovenfor. Slike medlemmer
+får automatisk tilsendt Tilfeldig Gang, med forbehold om at det tar noe tid før tilføyelser og
+forandringer i medlemsregisteret gjenspeiler seg i adressesedlene til bladet.
+
+Adresseforandringer meldes også til kassereren. Ved utsendelsen av Tilfeldig Gang benyttes
+det kopier av det vanlige medlemsregisteret, så adresseforandringer behøver ikke meldes
+separat til bladet.
+
+Annen korrespondanse med foreningen skal foregå med formannen under denne adressen:
+Norsk Statistisk Forening v/Eivind Damsleth
+Norsk Hydro
+p.b. 200
+1341 STABEKK
+
+Bidrag til Tilfeldig Gang
+
+Neste nummer av Tilfeldig Gang vil forhåpentligvis komme ut i mars1995. Alle slags bidrag til
+bladet er velkommen, enten det gjelder nye temaer av interesse for norske statistikere, eller man
+har kommentarer til innlegg som allerede har stått i bladet. Stoff til neste nummer må være
+redaktørene i hende senest 1. mars 1995.
+Adressen til redaktørene er:
+
+Inge Helland
+Institutt for matematiske fag
+
+Are Aastveit
+Institutt for matematiske fag
+
+Boks 5035
+
+Boks 5035
+
+Norges Landbrukshøgskole
+
+1432 Ås
+
+Telefon 64 94 88 75
+
+Norges Landbrukshøgskole
+
+1432 Ås
+
+Telefon 64 94 88 72
+
+Fax: 64 94 88 79
+Mail: are.aastveit@imf.nlh.no
+
+
+
+
+
+
+
+Returadresse:
+
+TILFELDIG GANG v/Eva Seim
+NYCOMED Imaging
+
+Postboks 4220 TORSHOV
+0401 OSLO
+
+
+

@@ -1,0 +1,2958 @@
+TILFELDIG GANG
+Nr. 2, årgang ‘
+Juli 199(
+
+Utgitt av Norsk Statistisk Forening
+
+Innhold
+
+Artikkelserier i Tilfeldig Gang. Ivar Heuch
+Fra formannen i Norsk Statistisk Forening. Bent Natvig
+
+Synspunkter på utdannelse av statistikere, del 1. Erling Sverdrup
+Til politimannen fra Bergen. Ørnulf Borgan og Bent Natvig
+Statistikk og kvalitet.
+
+Jostein Lillestøl
+
+*Kvalitet” i Madison, Wisconsin. Jostein Lillestøl
+
+Intervju med ny professor i pålitelighetsteori: Marvin Rausand. Ivar Heuch
+Professor Arnljot Høyland over i NTNF seniorforskerstipend. Bo Lindquist
+Sammendrag av doktoravhandling: On dependence and system reliability.
+Thore Egeland
+
+Sammendrag av doktoravhandling: Segmentation and estimation in suddenly
+changing autoregressive models with an application to oil well data.
+Gyrid Johnsen
+
+Sammendrag av doktoravhandling: Empirical Bayes in the unbalanced case.
+Basic theory and applications to insurance problems. Ragnar Norberg
+Litt om dataøvingar i statistikkundervisinga ved NTH, Trondheim.
+John Sølve Tyssedal
+
+Dataøvelser i statistikkundervisningen: Statistikk grunnfag, Det
+samfunnsvitenskapelige fakultet, Universitetet i Oslo. Tore Schweder
+Bokomtale. Bent Natvig: Pålitelighetsanalyse med teknologiske
+anvendelser. Marvin Rausand
+
+Bokanmeldelse. Twelve contributions to a tradition in statistical and
+actuarial science. Festschrift to Erling Sverdrup. Dag Tjøstheim
+13. Nordiske konferanse i matematisk statistikk, Odense 11.-15. juni.
+Noen subjektive inntrykk.
+
+Bent Natvig
+
+Forslag til emner for den 14. nordiske konferansen
+Nytt fra universiteter og høyskoler
+
+Ledig stilling ved Universitetet i Trondheim, Norges Tekniske Høgskole
+ISI Competition for young statisticians from developing countries
+
+
+
+Artikkelserier i Tilfeldig Gang
+
+Tilfeldig Gang kommer bare ut med fire nummer i året, og bladet kan ikke
+
+alltid bringe de mest dagsaktuelle nyhetene for den interessegruppen organet
+
+retter seg mot. Det er likevel naturlig å ta opp emner med tilknytning til de
+tidsbestemte store eller små begivenheter som tross alt forekommer i vårt miljø.
+Slike begivenheter kan f. eks. være doktordisputaser. Det står vanligvis en egen
+glans av slike arrangementer som skjer innenfor ens eget fagfelt.
+Statistikermiljøet i Norge er ikke større enn at disse begivenhetene også ryktes utenfor det lærested disputasene foregår ved. Det er rimelig at man forsøker
+å gjøre temaene som blir behandlet kjent i en videre krets. Tilfeldig Gang vil nå
+prøve å innføre som praksis at doktorandene skal offentligjøre noenlunde fyldige
+sammendrag av sine avhandlinger i bladet. Disse sammendragene bør nettopp
+holdes på et nivå der de kan vekke interesse hos generelt skolerte norske statistikere. Innleggene skal altså representere en mellomting et eller annet sted mellom
+vanlige faglige resyméer, stort sett beregnet på dem som har innsikt i vedkommende spesialområde, og generelle pressemeldinger, som heller tar sikte på det
+alminnelige publikum. Det vil vise seg etter hvert om vi klarer å holde fornuftig
+standard av denne typen. I alle fall starter vi i dette nummeret med sammendrag
+skrevet av tre doktorander som allerede har imøtekommet redaktørens ønsker
+om bidrag.
+
+Vi innleder også en serie med innlegg som beskriver bruken av dataøvelser
+i statistikkundervisningen ved forskjellige læresteder. I første omgang har vi
+
+omtaler av forholdene ved NTH og ved Det samfunnsvitenskapelige fakultet ved
+Universitetet i Oslo. Dette er et område der utviklingen iallfall i visse perioder
+går uforholdsmessig fort, og der det kan være nyttig å utveksle erfaringer. Når
+vi har gjennomgått de ulike aktuelle institusjonene, vil vi også prøve å gi en
+
+sammenlignende oversikt over tiltakene.
+
+Ivar Heuch
+
+
+
+Fra formannen i Norsk Statistisk Forening
+Norsk Statistisk Forening var godt representert ved den 13. Nordiske Konferanse i
+Matematisk Statistikk som nylig ble avholdt i Odense. Styret var representert ved for- |
+mann samt sekretær Ørnulf Borgan, mens Grete Fenstad stilte som representant for
+undervisningsutvalget. Noe av hensikten var selvsagt å invitere til den neste konferansen
+i Norge om 2 år. Så var da også program- og organisasjonskomiteen for denne konferansen
+representert ved henholdsvis Nils Lid Hjort og Thore Egeland.
+
+Konferansen i Odense imponerte ved spennvidde og spenstighet i valg av hovedtemaer
+og ved jevnt gode fremstillinger av til dels vanskelig stoff. Diskusjonene kunne kanskje
+vært friskere. Alt i alt gir dette imidlertid vår egen programkomité en skikkelig utfordring. Klarer vi å legge oss på det samme nivå, burde vi være godt fornøyd. Når
+det gjelder det organisasjonsmessige, bør vi imidlertid legge listen vesentlig høyere enn
+danskene. Vi bør satse på et annet konsept, for å bruke et moteord fra næringslivet,
+nemlig *compact games” — all moro på samme sted. I Odense bodde folk over hele byen
+hvilket medførte mye reising og mindre kontakt.
+
+Ved å legge konferansen på Røros, som synes mest aktuelt nå, skulle organisasjonskomitéen ha gode muligheter for å innfri våre forhåpninger. Her er det heller ikke så lett
+å komme og gå, noe som er en uskikk ved slike konferanser. Henning Omre gjorde seg
+til talsmann for utvidete kulturelle aktiviteter ved konferansen om 2 år, f.eks. sang og
+
+musikk. Dette har mye for seg og da gjerne i samspill med lokale krefter. Skal vi få folk
+helt til Røros, må vi satse på at dette blir en *hyggeligere” konferanse. Gode initiativ
+
+mottas med takk.
+
+Emil Spjøtvoll er utnevnt som prorektor ved NTH. Norsk Statistisk Forening gratulerer og ønsker ham lykke til. Sammen med den nye rektor står han for Universitetsmodellen med økte muligheter for fordypning også for NTH studentene. Konsekvensene av
+dette for bl.a. statistikkfaget er særdeles interessante og representerer en nyttig utfordring for de øvrige universitetene. Vi ønsker Emil velkommen til den neste nordiske
+
+konferanse, også som medlem av programkomitéen.
+
+Ellers vil Arnljot Høyland gå over i senior-stipend om kort tid etter å ha kommet til
+NTH med to tomme hender og noen forelesningsnotater en gang tidlig på sekstitallet.
+Arnljot har vært særdeles trofast når det gjelder de nordiske konferansene og var selvsagt
+til stede i Odense. Vi møtes om to år — sang og musikk passer bra for Arnljot. Jeg tør
+
+foreslå at foreningen spanderer reise og opphold.
+
+Bent Natvig
+
+
+
+SYNSPUNKTER PÅ UTDANNELSE AV STATISTIKERE, Del I.
+ved
+
+Erling
+
+1.
+
+Sverdrup
+
+INNLEDNING
+
+Jeg skal komme med visse synspunkter på oppbygging av et spesialisert statistikkstudium på universitetsnivå, dvs. den undervisning
+som tar sikte på å sette studentene i stand til å angripe metodeproblemer i statistikken, dvs. å utvikle statistiske metoder for
+gitte situasjoner hvor det foreligger en målsetting som kan belyses
+ved statistiske materialer.
+
+Det er vel ingen uenighet om at dette forutsetter at studentene får
+en grundig innføring i operasjoner med sannsynlighetsfordelinger og
+
+tilfeldige variable og at denne innføring må komme straks ved
+studiets begynnelse. Derfor skal jeg ikke komme inn på det her.
+
+Utviklingen av statistiske metoder innebærer at metodene må begrunnes.
+
+1.
+
+Men begrunnelser kan være så mangt.
+
+Den kan vere en fenomenologisk begrunnelse, som beror på feno-
+
+mener ved det matematiske verktøy, (Laplace (1820), Gauss (1821),
+
+Karl Pearson (1900)).
+
+2.
+
+;
+
+Den kan bero på studium av ytelsesfunksjonen, dvs. på fundamen-
+
+tale prinsipper for statistisk inferens,
+
+slik som de ble utviklet av
+
+R.A. Fisher (1920 og 1925), Neyman & Pearson (1933 og 1935-39) og
+
+Abraham Wald (1939 og 1950).
+
+3.
+
+Den kan bero på metodenes generelle anvendelighet, dvs. unifi-
+
+sering (enhetlig-gjøring) av behandlingen av store klasser av statistiske situasjoner, slik som er uttrykt ved fundamentalteoremene
+
+for multinomiske og lineærnormale situasjoner, Sverdrup (1964)
+
+se
+
+"Lov og Tilfeldighet", (L & T), B II, side 210 og 177."
+* Når jeg henviser til mitt eget verk, håper jeg at leserne forstår
+
+det. I mange henseende gir det naturligvis uttrykk for mine synspunkter også i dag.
+
+
+
+Begrunnelser - i en eller annen forstand - for statistiske metoder
+
+må være et overordnet krav i statistikkstudiet. Det kan være vel og
+
+bra at den profesjonelle statistiker til tider er fremme ved forskningsfronten for biologi, medisin, teknologi osv. men statistikeren
+skal først og fremst smi våpnene.
+
+II
+
+DEN FENOMENOLOGISKE BEGRUNNELSE
+
+Dette er vel den eldste form for begrunnelse, og den er verdifull
+Den tar sitt utgangspunkt i visse "fenomener", ikke i
+den dag idag.
+natur eller samfunn, men i den "rene" matematikk som et tankeverktøy
+skapt
+
+av
+
+menneskene.
+
+Standardfeilmetoden (middelfeilmetoden) er en slik begrunnelse (og
+
+Standardfeildeltametoden er en videreføring av denne metode).
+metoden bygger direkte på sentralgrenseteoremet, dvs. det matematiske fenomen at uavhengige og identisk fordelte variable under
+meget generelle forutsetninger har et gjennomsnitt som er tilnærmet
+Metoden er fremdeles viktig, selvfølgelig. Men
+normalt fordelt.
+den kan ofte med fordel utskiftes med moderne, ikke-parametriske
+metoder.
+
+Viktig er også kji-kvadrat føyningstesten, omenn ikke så funda-
+
+mental som i gamle dager. Den behandler, som kjent, tradisjonelt
+uavhengige og gruppevis identisk fordelte kategoriske variable, hvor
+den er solid begrunnet i de tilnærmelser som gjøres. Nullhypotesen
+H dreier seg om p som er en vektor med komponenter lik sannsynlig-
+
+hetene p.. som knytter seg til de enkelte kategoriske variable, se
+
+Sverdrup (1964, Vol. II, side 210). Den har formen p = 6(6). Testobservatoren NE er som kjent kji-kvadratfordelt med en skalar eksenterparameter «x(p),
+
+som er 0 under H.
+
+Dette er et resultat av en
+
+historisk utvikling fra Karl Pearson (1900) til Fisher, videre jestah
+Wald (november 1943), og Neyman (1949) samt Cramérs bok (1945),
+30.3. Gjennom denne utvikling kommer det ogsa frem at resultatet kan
+
+utvides til situasjoner med a priori restriksjoner pa p, hvor res
+
+erstattes med er og at -2log (sannsynlighetskvoten) asymptotisk
+i sannsynlighet er ekvivalent med Pt Endelig kan man erstatte
+
+forutsetningene om kategoriske data med forutsetningene om at hver
+av de uavhengige variable X har en spesifisert a priori tetthet
+f(x:n),
+
+hvor n
+
+overtar p's rolle.
+
+Det interessante fenomen er at i de situasjoner som ovenfor er
+omtalt, eksisterer det med meget god tilnærmelse en testobservator
+
+hvis fordeling avhenger av en skalar x(n). Fordelen ved det er åpen-
+
+bar. Ja, ja vil noen si, enbekvem tilnærmelse i det praktiske
+
+regnearbeide. Nei, det er noe mye mer enn det. Det gir formen på
+
+
+
+styrkefunksjonen og det viser at likegyldig hvor komplisert situasjonen er med kryss-klassifiseringer i mange retninger, O-samspill
+
+og regresjon, så er situasjonen karakterisert ved én eneste para-
+
+meter, et indeks, x(n). Det blir en slags generalisert Studentisering.
+
+Hvis resultatet som her er beskrevet presenteres for studentene
+uten bevis, vil det hele være et mysterium for dem. Hvorfor akkurat
+
+den formen på testobservatoren? På interesserte studenter vil det
+virke frustrerende, forstemmende. Når de ser beviser slik som det
+f.eks. står i Sverdrup (1964), Lov og Tilfeldighet (L & T), bind II,
+side 123-125,
+
+131-134, med Taylorutvikling, sentralgrenseteorem
+
+osv., vil det hele virke naturlig. Det er meget viktig at studentene
+
+snarest mulig kommer inn i en arbeidsform hvor begrunnelser og moti-
+
+vering følger etterhvert som de statistiske metoder presenteres,
+
+slik som det har vært gjort hittil. I L & T er beviset gitt for
+uavhengige og identisk fordelte observasjoner, ikke for bare gruppe-
+
+vis identisk fordelte observasjoner. Men det gjør liten forskjell.
+Det samme fenomen som er beskrevet ovenfor finner man igjen i
+lineærnormale modeller. Ved bruk av Fishers F-test vil styrken kunne
+utrykkes ved en eneste parameter, eksentrisiteten, likegyldig hvor
+komplisert situasjonen er.
+
+III YTELSESFUNKSJONEN. NEYMAN-PEARSON-WALD's PRINSIPP.
+
+Utviklingen fra
+
+1920 av de moderne prinsipper for statistisk
+
+inferens (R.S.Fisher, Neyman & Pearson, Abraham Wald) har ført tal
+dypere forståelse av de fundamentale prinsipper, men har ikke hatt
+den betydning de burde ha hatt i konkrete, praktiske situasjoner.
+Grunnen kan tildels være at man med prinsipper for statistiske
+
+inferens ofte tenker på prinsipper for konstruksjon av statistiske
+metoder. Dermed kommer optimalitet og Neyman-Pearson's lemma i
+fokus. Enkelte synes å identifisere Neyman-Peason teorien med dette
+lemma. Optimalitet kan være nyttig nok, men Neyman-Pearson-Wald
+
+prinsipp, dvs. å analysere metoden ved hjelp av ytelses- og risiko-
+
+
+
+funksjoner har et langt videre perspektiv. Wilcoxon's tester er en
+
+for
+av Neyman-Pearson teoriens fineste resultater, men begrunnelsen"
+
+som
+t ytelsesfunksjonen
+på
+Wilcoxon's test bygger helt og holden
+
+belyser både styrke og robusthet. Man savner ikke beskrivelsen av
+hvorledes: testen ble "konstruert". Det er et savn som vi kan leve
+med. (Dette belyser også den ørkesløse diskusjon mellom Bayes-ianer
+
+og ikke-Bayes-ianere. Ingen kan da forby en Bayes konstruksjon så
+lenge den bli analysert ved ytelsesfunksjonen.)
+
+Men at Neyman-Pear-
+
+son-Wald's prinsipp ikke har hatt den betydning som det burde hatt
+skyldes også de numeriske problem man tidligere hadde. Den moderne
+
+regneteknologi burde ha endret på dette forhold. Numeriske studier
+av samplingfordelinger, styrkefunksjoner og, mer generelt ytelses-
+
+funksjoner i konkrete situasjoner, burde gjennomsyre den praktiske
+bruk av statistikken, og som følge derav, undervisningen. Jeg har
+
+hørt det synspunkt at styrken ikke kan brukes til noe. Det er så galt
+som det kan få blitt. Jeg skjønner at det er nødvendig å dokumentere
+
+ved mangeartede eksempler. Henvisning til ikke-parametriske metoder
+er
+
+nok.
+
+ikke
+
+Eksempel 1. Den totale viltbestand N skal bestemmes. Ved første
+
+fangst merker man a individer, ved annen fangst fanger man n individer og X av dem viser seg å ha merke. Som estimat brukes da
+
+A) er en funksjon av en variabel delQ = an/X. Ytelsesfunksjonen B(N,
+
+mengde A av desisjonsrommet og angir sannsynligheten for å få en N
+som ligger i A.
+
+l.fangst
+2.fangst
+
+a=50
+n=50
+
+.
+
+Hypo-
+
+tetisk
+total
+
+Et utsnitt av funksjonen er
+
+A
+
+N=100
+
+N<86
+N<92
+N> 113
+N> 125
+B6<N<125
+
+8
+
+-036
+«159
+«159
+«036
+.928
+
+A
+
+N<256
+N<312
+N?833
+N>1250
+250<N<1250
+
+a=400
+n=300"
+
+a=50
+n=100
+
+a
+
+N=400
+
+følgende.
+
+:
+
+1
+
+«032
+«151
+-098
+033
+.9350
+
+A
+
+N=400
+Sige
+De
+
+N<294
+N<333
+N?555
+N>714
+294<N<714
+
+Her betyr A = (N<312), A = (N|N<312) osv.
+
+«044
+-148
+«147
+-036
+.920
+
+N=800
+a te ee
+
+N<745
+N<764
+N>845
+N>869
+745<N<869
+
+-046
+«L37
+«187
+-046
+.908
+
+
+
+Når N = 400 er altså sannsynligheten 15,1% forat vi skal påstå en
+verdi av N mindre enn 312. Åpenbart sier dette tallet en hel del om
+
+nøyaktigheten av metoden som vi a priori bare kunne ha vage forestillinger om.
+
+Dette viser hvor nyttig ytelsesfunksjonen er.
+
+I dette tilfelle blir altså ytelsesfunksjonen rett og slett
+samplingsfordelingen,
+
+slik som ved enhver punktestimering.
+
+Eksempel 2. Enveisklassifisering med varians-analyse,
+
+med forvent-
+
+ninger Ejr*r+rbpr varians 0? og Ny Moree 0, observasjoner i de r
+klasser. Observasjonene er X; j'
+
+sene er knyttet verdier
+
+Lad, ss
+
+gs å
+
+J=Lydy vote TIL klas»
+
+tjrereste Vi ønsker å se på kontrastene
+
+LEG zee? = 0. Vi betrakter to metoder, Scheffés metode pa alle
+mulige kontraster og Bonferronis ulikhet på utvalgte kontraster. De
+
+utvalgte er sammenligninger
+(65-65) (t,-t,)
+
+il
+
+og krumninger
+
+£;- Æ
+
+- (Eg Sn) (tt)
+
+å
+
+-
+
+ligninger. La r=5, Hett j=1,2,...,r, alle nj=6.
+A,=(E,-26,+E,)/9
+
+totalt nivå e=0.05.
+
+0
+
+Bonferroni T >
+
+3.075
+
+O,=(6,-85)/9,
+
+C57=3.322 og Cp= 3.075,
+Vi
+
+finner da:
+
+By? &2*
+
+Sannsynligheten for å avsløre stigning
+
+Ay
+
+Scheffé
+
+T >
+
+0.0025
+
+0.001375
+
+0.5
+
+.0225
+
+.0138
+
+1.0
+
+1141
+
+.0789
+
+2.0
+
+«6504
+
+-5637
+
+3.0
+
+«9756
+
+9577
+
+‘eel
+
+.0041
+
+sammen
+
+Da er de kritiske punkter
+
+for T-testing av kontrastene henholdsvis
+Scheffé metoden og Bonferroni-metoden.
+
+ig
+
+MG
+
+:
+
+Vi har da M = (3)+03)
+
+.0023
+
+3.322
+
+ved
+
+
+
+Sannsynligheten for å avsløre krumning 51728,+53-
+
+Scheffé
+
+Bonferroni T > 3.075
+
+A,
+
+|
+
+0
+
+T >» 3.322
+
+0.001375
+
+0.002500
+
+.0188
+
+.0030
+
+.1689
+
+«1233*
+
+3
+4
+5
+
+.4843
+.8099
+9634
+
+3974
+7406
+.9391
+
+6
+
+.9965
+
+9927
+
+'
+
+2
+
+Dette stemmer med at Bonferroni ofte vil være best når det dreier seg
+om et endelig antall kontraster. Tabellen forteller hvor meget bedre.
+
+Forskjellen er ikke så svært stor og det er rimelig å stille spørsmålet: Hvor meget er vi villig til å ofre i styrke overfor spesielle
+
+se på
+ager
+ved å
+virkninger for å kunne teste virkninger som vi oppd
+data, men som vi å priori ikke hadde mistanke om?
+
+Vi ser at de trekk ved ytelsesfunksjonen som er eksponert i de
+to tabeller, gir oss verdifull innsikt om hvorledes metodene virker
+
+og gir et godt grunnlag for å velge den beste metode.
+
+Eksempel 3. Dilemmaet i statistikken er ofte at man har valget mellom
+en "romslig" modell eller en "trang"
+
+("parsimoneous") modell.
+
+I før-
+
+ste tilfelle er man sikker på å få inkludert den "sanne" a priori
+spesifikasjon, men følsomheten blir liten.
+
+I det andre tilfelle kan
+
+man risikere å priori å ha et galt utgangspunkt, altså signifikansnivå ut av kontroll, men følsomheten blir stor, hvis modellen skulle
+
+være riktig. Goldstein (1985) har pekt på at det er en tredje mulighet, nemlig å holde på den romslige modell, men innføre et indeks som
+er en funksjon av de strukturelle parametre og summere opp et vesent-
+
+lig trekk ved modellen. Da kan man oppnå nesten samme følsomhet som
+ved
+
+en
+
+trang modell.
+
+
+
+10
+
+Ta f.eks. utgangspunkt i modellen i eksempel 2 ovenfor. Den
+
+utgjør den romslige modell. Vi skal på klassisk måte teste
+Hj*&1=+++=6,s0m nullhypotese.
+
+Den velkjente F-test med r-l og n-r
+
+frihetsgrader kaller vi test I. Som den noe trangere modell velger vi
+Ei = a+B(t,-t). Da blir nullhypotesen HP = 0,
+
+som testes med den
+
+vanlige F-test med 1 og n-2 frihetsgrader. Den kaller vi test II. Men
+som en tredje mulighet holder vi fast på den romslige modell, men vi
+
+innfører et indeks $ = En 6 (t5-t)/En,(t5-t)? og tester 8 = 0. Utfra
+
+fundamentalsetningen for lineærnormale modeller konstruerer vi en
+F-test med 1 og n-r frihetsgrader. Den kaller vi test III. Vi beregner
+styrken for, 2
+
+B/o = 0.2,
+
+et
+
+r=6,
+
+ty =1,
+
+to=3,
+
+t3=4,
+
+t,=8,
+
+ts=9%
+
+t5711 og
+
+nivå e = 0.05. Vi finner
+
+Test I:
+
+0.7742,
+
+Test II:
+
+0.9642,
+
+Test III:
+
+0.9623.
+
+Test III ved den romslige modell er altså nesten like følsom som test
+II
+
+ved den trange modell.
+
+I virkeligheten er metoden med indeks velkjent i spesielle
+situasjoner. Ta variansanalyse av toveisklassifisering. Xi3x
+
+i=1,2,+++rX;
+
+k=1,2,.+-,m er uavhengige normale,
+
+j=l,2,-+++,8,
+
+uavhengig av k.
+
+varians = 04, EX; 3,7 Sig!
+
+Dette er den romslige
+
+modell. Vi tester om faktor "j" har virkning,
+
+dvs.
+
+Hy tb aya
+
+"Gis"
+
+1=1,2,;..06,G.3 Det gin test I. Ved test II gir vi modellen ovenfor en
+Laj= ZB5= 0, dvs.
+
+tilleggsrestriksjon py SteitBs:
+Ovenstående H.
+
+0
+
+blir da,
+
+B,=...=B = 0,
+1
+
+Ss
+
+intet samspill.
+
+som gir den vanlige test II.
+
+Ved test III forutsetter vi den romslige modell, definerer "indekser"
+
+= ia 5 Ejj/r og tester E GE 3’ som kan rettferdiggjøres hvis
+|
+
+;
+
+A
+
+;
+
+man ikke har for stort samspill. La r=4,
+
+for
+
+E(E 5-8)? /o°
+
+test II:
+
+0.8639,
+
+s=3, m=5. Vi beregner styrken
+
+= 0.6 med intet samspill. vi finner:
+test III:
+
+0.8612.
+
+Test I: 0.6013,
+
+Det samme fenomen gjentar seg.
+
+Test III ved den romslige modell er altsa nesten like fglsom som test
+II ved en trang modell. Vi ser at i de to tilfeller ovenfor at metode
+
+III med indekser bare kan rettferdiggjøres ut fra en vurdering av at
+indeksene gir uttrykk for noe vesentlig,
+
+dvs. vi har bragt inn mer a
+
+priori viten, men ikke i en så rigorøs form at vi vil tvile på realismen.
+
+(Allikevel blir matematikken eksakt.)
+
+
+
+Jill
+
+Igjen ser vi at ytelsesfunksjonen gir oss verdifull innsikt i
+
+hvorledes modelleringer og statistiske metoder virker. Det er en innsikt som i høy grad er praktisk nyttig. Matematisk teori kan gi oss
+
+det optimale, mens moderne regneteknologi gjør det mulig å tallfeste
+
+hvor mye bedre en metode er enn en annen. Det har vært en dyd av nød-
+
+vendighet at man i "gamle dager" bare beregnet nivået samt (muligens)
+"antall observasjoner som trenges" (Owens tabeller).
+Styrkefunksjonsbetraktninger førte til at de følsomme Wilcoxon-
+
+tester avløste deltametodene som var avledet på phomomenologisk grunnlag. Slike betraktninger må med i pensum.
+
+Naturligvis må styrkefunksjonsbetraktninger i stor utstrekning
+også utføres ved kategoriske data, altså i eksemplene iL & T, B. I,
+s. 254-296, B.II, s.205-227. Det generelle uttrykk for styrkefunksjonene finnes av det som er angitt i L &T, B.II, s.134. (Men eksen-
+
+trisiteten for kjikvadrat fordelingen bør settes på en bekvemmere
+form: La nullhypotesen ha formen
+
+6 = $(p)
+
+hvor
+
+p
+
+har dimensjon
+
+w=r-s. La så 90 % H, OG minimer (@-(p))'A(@-¢(9)) mhp. p. Her er X
+
+informasjonsmatrisen. Dette fører til en minimerende på = p(0) bestemt
+
+ved
+
+Dy(p)'r(8-p(p)) = 0, hvor Dy er den Jacobiske av 4 mhp. p. Eksen-
+
+trisitetene blir da 18-50 0 10-a15)). Samme H, kan utrykkes med
+
+forskjellige 4. Man velger 4 slik at man unngår ubekvem algebra med
+
+matriser og determinanter.)
+
+Det er oppsiktsvekkende at man med våre dagers muligheter hva
+regneteknologi angår, ikke utfører slike styrkebetraktninger i lære-
+
+boklitteraturen (og kanskje heller ikke under metodeutviklinger). Man
+synes å være mer opptatt av implementeringen av metodene for konkrete
+
+statistiske materialer ved bruk av EDB. Det er naturligvis også viktig
+
+og muliggjør bruk av metoder som ellers ikke vil kunne brukes.
+
+(Er det mulig at synspunktet at "styrkefunksjonene ikke kan
+
+brukes til noe", beror på den oppfatning at å "bruke" styrkefunksjonen
+betyr "å ta ut tall" fra en tabell over styrken og "sette inn" å noe,
+f.eks. selve konstruksjonen av testen? Da har mine eksempler ovenfor
+vist at en slik innskrenkning i det "å bruke" er høyst ufruktbar.)
+
+
+
+12
+
+Det som er presentert ovenfor ved eksempler er hovedideen i
+Neyman-Pearson teorien og dens videreføring i desisjonsteorien.
+
+Det var begrepet styrke og dets bruk som var det sentrale.
+(og også etter)
+
+Før 1933
+
+var det meget forvirring omkring begrepet følsomhet.
+
+Ved kji-kvadrat-testen
+
+xo = =
+
+(antall obsv.-forventet)?
+
+forventet
+
+>
+
+SN
+
+e
+
+kunne man drøfte hvorvidt det var så viktig å legge stor vekt på stor
+avvik (ved kvadreringen)
+
+og også stor vekt på sjeldne begivenheter
+
+(ved divisjon med "forventet").
+
+Så lenge man ikke hadde begrepet
+
+styrkefunksjon, og kanskje heller ikke visste hvorledes x? fremkommer
+ble dette tåkesnakk.
+
+Liste over henvisning
+
+til
+
+litteratur vil komme
+
+etter del
+
+II.
+
+
+
+13
+
+TIL POLITIMANNEN FRA BERGEN
+Ørnulf Borgan og Bent Natvig
+Matematisk institutt, Avd. C,
+
+Universiteteti Oslo
+De kastet lodd mellom dem, og
+
+loddet falt på Mattias. Fra nå av
+ble han regnet som apostel sammen med de elleve.
+Apostlenes Gjerninger 1,26
+
+Vi takker Rolv Terje Lie for et forsøk på arrestasjon av undertegnede i forrige nummer av
+Tilfeldig Gang (April 1990). Det gir oss mulighet til noen kommentarer og utdypninger
+som det ikke var naturlig å bygge inn i det notat vi utarbeidet for Nordisk Treholt-komité,
+og som ble trykket i Tilfeldig Gang i Desember 1989. Noe av hensikten med å gjengi
+notatet i Tilfeldig Gang var å vise fram en situasjon hvor sannsynlighetsregning kan gi et
+bidrag i samfunnsdebatten. Selv om det hverken er uproblematisk eller farefritt å bevege
+seg utenfor lærebokeksemplenes trygge verden, er det vår oppfatning at norske statistikere
+her er for tilbakeholdende. At vårt bidrag vekker debatt blant norske statistikere, finner
+vi bare naturlig og gledelig, og vi ser gjerne at flere kaster seg inn i denne diskusjonen i
+TG’s spalter.
+
+La oss først foreta en nødvendig oppklaring. Lie avslutter sitt innlegg slik:
+
+“Det ligger jo her en tanke om at politikere generelt har mulighet til å påvirke
+utfallet av uttrekningen, og dette kan altså gi et annet resultat enn om man
+regner som om bare høyrefolk har vilje og mulighet til å tukle med utfallet”.
+
+La det være helt klart — noen slik tanke foreligger ikke. Politikere generelt kunne påvirket
+utvelgelsen av domsmannsutvalget på 3100 gjeldende for Oslo lagsogn for angjeldende
+periode 1/1-1983 — 31/12-1987. Ingen har kritisert denne utvelgelsen og for eksempel
+hevdet at folk fra et spesielt parti er overrepresentert i domsmannsutvalget.
+Det saken dreier seg om er uttrekningen av de 4 meddommere fra domsmannsutvalget
+på 3100. Dette ble gjort av Eidsivating Lagmannsrett. Nordisk Treholtkomité brukte
+
+da også vårt notat for å be om innsyn i denne uttrekningen. Dette ble nektet med den
+begrunnelse at det var noe man ikke hadde krav på. Komitéen hevder derfor, inntil
+det motsatte er godtgjort, at det skjedde en utvelgelse og ingen lotterisk uttrekning i
+Treholtsaken. Synderen er i tilfellet Eidsivating Lagmannsrett.
+La oss så gå nærmere inn på tankegangen bak våre sannsynlighetsberegninger. Det
+er selvfølgelig forskjell på bridgespill og uttrekning av meddommere i Treholtsaken, men
+det kan likevel gi en nyttig bakgrunn for vår videre diskusjon å først betrakte følgende
+
+situasjon: Anta at vi spiller bridge mot en spiller vi ikke stoler helt på. Hvordan kan vi
+gå fram for å få bekreftet /avkreftet våre mistanker om at motspilleren fusker? Sverdrup
+har diskutert denne problemstillingen i en artikkel (Bull. Int. Stat. Inst., 1977, XLVII
+(1), 584-5), og vi tillater oss å gi et fyldig sitat:
+
+
+
+14
+
+_An interesting example in my opinion is the case of the dealer in bridge
+who gives himself 13 spades, or perhaps the best no-trump hand.
+
+Why
+
+are we not willing to ascribe 13 spades to chance despite the fact that the event
+
+13 spades is not less probable than any other hand ?
+
+The null-hypothesis
+that the dealer is not cheating is in this case that all the N = 52 1/(13 1)
+
+‘combinations of the 4 hands are equally likely.
+
+If we reject this hypothesis
+
+in the case of 13 spades allotted to the dealer, it must be because other cir-
+
+cumstances than those which follow from the
+nå under the hypothesis
+are taken into account.
+To be more precise let
+G1, Ga, ..., Gr
+
+be r groups of four-hands-combinations which are such that all combina-
+
+tions x belonging to a fixed G are equally favourable to the dealer, whereas
+if EG, and x'
+dealer.
+
+EG; with
+
+j>7% then z’ is more favourable than x to the
+
+It certainly would be a formidable (really prohibitive) task to deter-
+
+mine G,..., G, but in principle they are given.
+
+Let
+
+Ny, Ny «, Ny (2 M=")
+be the number of four-hands-combinations in G,..., Gy respectively.
+
+We
+
+now let the test statistic be T(x), where T(x) is defined by T(x) =t if:zE Gi.
+
+By the classical' test principle the hypothesis (of no cheating) should be rejected
+if T(X) is large.
+
+This seems rather obvious from the definition of T(x). On
+
+the other hand it seems to be irrelevant whether N7,)/N is large or small,
+i.e. which G; contains few or many combinations.
+
+Thus it is the rules of the
+
+game, and a thorough knowledge of the game of bridge, which are required
+
+to determine the test.
+
+alone.
+
+The test cannot be constructed from the hypothesis
+
+It would be a poor statistician who would neglect the facts about
+
+bridge when constructing the test, just as it would be a poor statistician who
+neglect biological facts when devising a test for analyzing some
+observations.
+
+biological
+
+That is just the idea of the a priori specification, to be able
+
+to mould the known facts of the mattcr into the test construction.
+
+Before
+
+the Neyman-Pearson era it was recommended to do that by using statistic
+
+measuring the distance from the hypothesis.
+procedure.
+
+This is of course still a sound
+
+The main point is that you must bring in something which cannot
+
+be derived from the null-hypothesis alone.
+
+Nullhypotesen bade i bridge situasjonen og i spgrsmalet om uttrekning av meddommere i Treholtsaken er altsa at det er foretatt en ren lotterisk uttrekning. Som i bridge
+situasjonen ma vi ogsa i forbindelse med Treholt uttrekningen benytte var innsikt knyttet til det konkrete problem vi star overfor for a fastlegge testen.
+
+Var vurdering har
+
+vært at dess mer etablert høyremiljø en meddommer kom fra, dess mer ville vi forvente
+
+
+
+15
+
+at dette ville gå i Arne Treholts disfavør. Vi aksepterer at ikke enhver vil være enig i
+den vurdering vi her har foretatt, men det at vår innsikt i dette tilfellet er av politisk
+karakter må heller ikke hindre oss fra å gi et forslag til løsning.
+I prinsippet kunne vi ha prøvd å rangere alle mulige utvalg av meddommere etter hvor
+
+mye de kunné forventes å gå i Treholts disfavør på samme måte som skissert av Sverdrup
+i bridge situasjonen. Det observerte resultatet med to aktive medlemmer av Bygdøy
+Høyre kunne så blitt sammenlignet med denne rangeringen for å fastlegge P-verdien. Da
+vi er klar over at enhver slik rangering ville vekket stor debatt og over det problematiske
+i at våre vurderinger er foretatt etter at vi har observert utfallet av uttrekningen, har vi
+imidlertid i stedet valgt å beregne sannsynligheten for begivenheten:
+
+A = (Uttrekningen av 4 meddommere gir minst 2 aktive medlemmer av Høyre
+enten fra en typisk Høyre bydel i Oslo eller en typisk Høyre kommune i Oslo
+lagsogn)
+
+Vi har altså valgt å beregne sannsynligheten for en begivenhet til *den sikre siden” for å
+kompensere for de usikre momentene det er knyttet til en beregning av den typen vi har
+foretatt.
+
+Lie kommenterer at to av de sannsynlighetene som inngår i våre beregninger noe
+grovt er satt eksakt lik 0.5. Vi har imidlertid også her forsøkt å legge våre anslag til
+“den sikre siden” idet sannsynlighetene pa 0.5 nok ligger i overkant, og dermed gjelder
+det samme for sannsynligheten 0.032 for begivenheten A.
+
+Til slutt for å hindre eventuelle mistanker om noe annet: Vi diskuterte oss fram
+til ønskeligheten av å studere sannsynligheten for begivenheten Å, og vi fastsatte de to
+ovennevnte sannsynligheter til 0.5, før noen beregninger ble foretatt!
+
+
+
+16
+
+Statistikk og kvalitet
+Bruk av enkle statistiske metoder har spilt en sentral rolle i kvalitetsarbei-
+
+det i Japan fra begynnelsen av 50 årene. Mens man i USA var opptatt av å
+kvalitetskontrollere sluttproduktet, lærte statistikeren Deming japanerne heller
+å fokusere på kontroll av produksjonsprosessene, slik at fordyrende sluttkontroll
+etterhvert ble unødvendige.
+
+Japanerne utviklet etterhvert metode for å implementere kvalitetsforbedringsprosesser i såvel produksjon som administrasjon, metoder som forutsattes
+kjent og brukt av alle på alle nivå. I det siste tiåret har man gått et trinn
+videre og utviklet metode for ”Quality Creation”. Alt dette kan integreres i en
+helhetlig ledelsesfilosofi, Hoshin Kanri.
+
+I USA er det for tiden en voldsom interesse for den ”nye” kvalitetsparadigme
+for ledelse. En rekke bedrifter og organisasjoner satser på dette, og enkelte går
+så langt som å hevde at kvalitet og kvalitetsmetode er nødvendig for overlevelse
+i 90’arene. En flom av bøker er kommet på markedet de siste par år, og kurser
+og konferanser tilbys i et stort antall. Deming som nå er over 90 år er fortsatt
+aktiv og ”hot stuff”. En situasjonsbeskrivelse fra Madison, Wisconsin følger
+som eget oppslag.
+
+Denne utviklingen bør oppta statistikere av flere grunner
+e fordi statistiske argumenter er del av det filosofiske grunnlag
+e fordi enkle statistiske metoder spiller en sentral rolle i implementeringen
+
+e fordi dette kan påvirke hva vi bør legge vekt på i vår undervisning av våre
+studenter
+e fordi vi har nye kundegrupper for statistisk kunnskap
+
+Det er grunn til å hevde at statistikere flest ikke har bidratt i særlig grad
+til denne utviklingen. Mange, herunder Deming, hevder at vår undervisning
+er forfeilet, og at den positive utvikling som nå skjer, er på tross av de såkalte
+fagstatistikere. Hovedankepunktet er at ideene må i større grad nyttes til vari-
+
+abilitet (og dets praktiske konsekvenser) og i mindre grad til tilfeldighet. Les
+Demings bok ”Out of the crisis”.
+Denne kritikk bør tas alvorlig, og ganske spesielt i Norge der vi ikke har
+den underskog av ulike typer statistikere som påtar seg formidlingsoppgaver av
+statistisk tankegang uten å bruke frastøtende matematisk-statistisk sjargong.
+Husk dette er idéer og metoder som er tenkt brukt av alle på alle nivå.
+
+Jostein Lillestøl
+
+
+
+17
+
+*Kvalitet” i Madison, Wisconsin
+Byen Madison i Wisconsin, som er søsterby til Oslo og på Bergens størrelse, kan
+oppvise et mangfold av kvalitetsrelaterte tilbud og aktiviteter, der statistikere
+er sentrale støttespillere.
+Hovedelementene er
+
+e Universitet med undervisning og andre aktiviteter knyttet til Department
+of Statistics, School of Engineering og School og Business
+e Voksenopplæringskurser ved Management Institute
+
+e Center for Quality and Productivity Improvement, som driver forskning
+og forskningsformidling på tvers av universitetsinstituttene
+
+e Prosjekter ved en rekke bedrifter i området dels i samarbeid med universitetsmiljøet
+
+e Prosjekter i byadministrasjonen i Madison (for tiden ca.20) .
+
+e Joiner Associates, et konsulentfirma for bedriftsopplæring i kvalitetsforbedringsmetode
+e MAQIN - Madison Area Quality Improvement Network - en non-profit
+
+interesseorganisasjon med aktiviteter på tvers av øvrige miljøer. Har bl.a.
+organisert diskusjonsmøter om *kvalitet og utdanning”.
+e Flere bibliotek med omfattende samlinger på området (bl.a.
+
+over 70
+
+videoer relatert til kvalitetsmetode)
+
+Madison har med andre ord en godt utbygd infrastruktur på området, og
+statistikere har gjort seg sterkt gjeldende, noen med kvalitet som yrke, andre
+som sideaktivitet. Vi nevner George Box og avdøde Bill Hunter som sentrale
+pådrivere som satte ulike aktiviteter i sving og brakte ulike krefter sammen.
+
+De er også velkjente bidragsytere til relevant teori på området, bl.a. innen
+eksperimentdesign. Mark Finster er i ferd med å bygge opp et eget program ved
+Business School i kvalitetsmetode og ledelse. Brian Joiner, skaper av Minitab
+og Cumulative Index of Statistics, leder et konsulentfirma somi fjor nøyde seg
+med 4 nye klienter blant de over 700 foretak som ønsket deres medvirkning til
+å komme i gang med kvalitetsforbedringsmetode.
+Miljøer som ligner dette er i ferd med å bygge seg opp også andre steder i
+USA, og det legges stor vekt på tverrfaglighet. Har vi mulighet til å gjøre noe
+
+lignende i Norge? Vil fagstatistikere spille en rolle eller stå på sidelinjen?
+
+Jostein Lillestøl
+
+
+
+18
+
+Intervju med ny professor i pålitelighetsteori:
+Marvin Rausand
+
+I forrige nummer av Tilfeldig Gang mente redaktøren at han hadde skaffet et
+nesten enestående eksempel på statistikernes vellykkede fagimperialisme. Intervjuet med Tore Skrøppa, som nylig var utnevnt til professor i genetikk, skulle
+vise at våre folk virkelig var i stand til å konkurrere med dem som hadde en annen faglig bakgrunn. Da selve intervjuet foregikk, var redaktøren imidlertid ikke
+klar over at argumentasjonen kunne forbedres ytterligere ved å henvise til et annen utnevnelse. En samtale med en informant i statistisk miljø ved NTH brakte
+imidlertid på det rene at vi nylig hadde fått utplassert en mann som professor i
+pålitelighetsteori ved denne institusjonen.
+
+Folk får ofte underlige assosiasjoner når de hører kortfattede betegnelser på
+fagfelt de vet lite om. Nevnes f.eks. området statistikk, har redaktøren flere
+ganger opplevd at menigmann tror dette må dreie seg om økonomiske problemstillinger. Slike reaksjoner krever selvsagt lange oppklaringer, særlig i en situasjon
+
+der assosiasjonen kan ha noe vesentlig for seg.
+
+I andre tilfeller kan den øyeblikkelige reaksjon gå i stikk motsatt retning av den
+tiltenkte mening med en betegnelse. I samtaler om utviklingen på fagområdet
+pålitelighetsteori blir det ofte snakk om Avdeling for sikkerhet og pålitelighet ved
+SINTEF. Redaktøren husker godt sin noe forbløffede reaksjon da han hørte denne
+betegnelsen for første gang. Navnet ledet utvilsomt tankene hen på en virksomhet
+av typen aksjesalg for tomme gullgruber i Colorado. Moralen blir bare at man må
+være uhyre forsiktig med å la den øyeblikkelige reaksjon prege det varige inntrykk
+av et bestemt fagområde. Gjennom sitt virke har vel nettopp fagfolkene på dette
+området vist at de kan gi håndfaste resultater i samarbeid med praktikere. Det
+skulle også komme klart frem i intervjuet med Marvin Rausand:
+— Det er lett å bli forvirret over alle de ulike fagfeltene som statistikerne erobrer.
+Kan du forklare nøyaktig hvilket område du nå er ansvarlig for?
+- Ifølge betenkningen har jeg ansvaret for sikkerhet og pålitelighet knyttet til
+konstruksjon og bruk av maskinteknisk utstyr.
+
+- Hva er betegnelsen på instituttet der du arbeider? (Jeg lover at jeg ikke skal
+gjøre noe billig poeng ut av svaret!)
+- Institutt for maskinkonstruksjon. For øvrig er jeg nettopp blitt styrer ved
+dette instituttet for neste periode på 21 år.
+— Det er naturlig å spørre hvordan du egentlig kom bort i et slikt fagfelt.
+— Det begynte med at jeg interesserte meg for pålitelighetsteori innenfor statistikk. Jeg ble engasjert ved Avdeling for maskinkonstruksjon i SINTEF, og det
+var denne avdelingen som tok opp virksomheten med sikkerhet og pålitelighet.
+
+Senere ble det opprettet en egen avdeling for dette fagfeltet, der det har arbeidet
+
+flere statistikere.
+
+
+
+19
+
+— Hvordan har det seg egentlig at dere som statistikere fikk boltre dere pa dette
+området? Består ikke arbeidet ved SINTEF mye av praktiske undersøkelser?
+- Virksomheten ved SINTEF var på mange måter dominert av det praktiske,
+eller rettere sagt av ingeniørfagene. Likevel tror jeg at det nettopp var koblingen
+
+mellom statistikk og ingeniørfag som førte til fruktbare resultater.
+
+— Men blir det ikke lett en konkurranse mellom statistikere og ingeniører i
+slike situasjoner? Avspeilte det seg f.eks. en strid mellom statistiker- og ingeniørprofesjonene ved bedømmelsen av søkerne på den stillingen du nå har?
+- På den stillingen var det bare to søkere, som begge var statistikere.
+— Så ingeniørene var skremt bort i utgangspunktet?
+~ Det kunne kanskje ha noe å gjøre med betenkningen.
+
+- I forhold til andre anvendelsesomrader som beskjeftiger statistikere, tror jeg
+likevel at vi kan lære noe generelt. Det må jo tydeligvis ha vært slik at statistikerne
+var de aktive på feltet, og' ikke bare spilte en underordnet rolle som rådgivere.
+Stemmer dette med dine erfaringer ved SINTEF?
+
+- I første omgang var jeg vel nærmest rådgiver, men etter hvert vekslet rollene noe. Da avdelingen for sikkerhet og pålitelighet vokste ut av avdelingen for
+maskinkonstruksjon, ble forholdene annerledes, særlig etter at jeg ble leder for
+denne avdelingen. Generelt må jeg si at avdelingen gjorde det bra, og den vokste
+i omfang til 25 ansatte.
+
+- Gjorde det bra, hva betyr egentlig det i denne sammenhengen?
+- At vi fikk mange oppdrag fra industrien. Det var tydelig at industrifolkene
+satte pris på resultatene som vi frembrakte.
+- Så det forekom aldri noe teori i de rapportene som arbeidet resulterte i?
+- Jo, naturligvis ble teoretiske resultater flettet inn. En må huske på at flere
+av dem som arbeidet ved avdelingen var statistikere.
+- Så du følte ikke den gangen noen konflikt mellom sivilingeniører og realfagsfolk?
+
+|
+
+— Nei, ingen konflikt. Men jeg ser vel at realister har større evne til å fordype
+seg i teorien. Det er likevel klart at de som kommer fra NTH, jobber svært godt
+under de riktige forholdene. De har stort pågangsmot og får oppdragene unna.
+- Stemmer det at dette fagfeltet i stor grad har utviklet sin egen statistiske
+teori? Jeg har inntrykk av at dere ikke alltid behøver å være statistiske generalister
+i samme grad som mange andre utvandrede statistikere?
+
+- De metodene vi bruker har mye til felles med metoder anvendt på andre
+områder. Skal man analysere levetidsdata, går det nesten ut på det samme om
+det er en person som dør, eller en komponent som slutter å virke. Vanlige teknikker
+som Kaplan-Meier-estimering hører like godt hjemme her som andre steder.
+- Når du understreker det sterke slektskapet med statistiske teknikker ellers, er
+det naturlig å ta opp spørsmålet om institusjonstilhørighet. Jeg stiller like godt
+spørsmålet svært provokatorisk. Må man sitte ved et spesielt institutt som har
+ansvar for pålitelighetsteori for å kunne drive innenfor dette faget, eller kan man
+f.eks. befinne ved et matematisk institutt?
+
+
+
+20
+
+- Det går sikkert godt an å arbeide ved et matematisk institutt og oppnå gode
+teoretiske resultater. Men det spørs om faget i så fall går i gale retninger, slik at
+mani praksis blir for mye opptatt med irrelevante problemstillinger. For praktisk
+arbeid er kontakten med industrien vesentlig. Det er iallfall min oppfatning.
+- Hvordan er det med rekrutteringen? Vil du anbefale statistikere å interessere
+seg for dette området?
+
+- Ja, ubetinget. Det er meget gode vekstmuligheter innenfor faget, og det er
+mange tegn som tyder på enda sterkere utvikling videre fremover. Vi får f. eks. en
+produktansvarslov som vil applisere prinsipper for sikkerhet og pålitelighet i langt
+større grad. I fremtiden vil det i større utstrekning bli krevd at leverandører av
+forskjellige typer produkter må følge fastlagte forskrifter på dette området. Dette
+betyr igjen at industrien må bygge opp faglig kompetanse.
+
+- Jeg hadde nærmest tenkt å spørre om interessen for pålitelighetsteori ville
+forsvinne i Norge når oljen tørket ut.
+
+;
+
+- Nei, på ingen måte. Utvidelsen av anvendelsesområdet henger også sammen
+med utviklingen i EF. I 1989 vedtok EF et omfattende direktiv for maskinsikker-
+
+het. Norsk industri som ønsker å selge sine produkter til EF, må etter at det indre
+marked er etablert, oppfylle alle kravene i dette direktivet. Direktivene fra EF
+påvirker dessuten utviklingen innenfor området med forebyggelse av ulykker. Det
+såkalte Seveso-direktivet har f.eks. sin opprinnelse i reaksjonen etter den store
+ulykken i Seveso i Italia. Seveso-direktivet ventes å bli gjort gjeldende i Norge i
+nær fremtid.
+
+- I din nye stilling vil du undervise i pålitelighetsteori for ingeniørstudenter.
+Klarer du å fremstille de statistiske sidene ved faget i den undervisningen?
+— Det er nå min livsløgn at vi greier det. Generelt utnytter vi ikke så mye av
+metodelæren i de store kursene på teknikernivå. Men sannsynlighetsregning og
+estimering kommer inn. Hypotesetesting er det lite av.
+
+- Jeg innbilte meg at det var vanskelig å anvende sannsynlighetsteori i praksis fordi dere i så fall måtte innføre urealistiske forutsetninger om uavhengighet
+mellom komponenter.
+
+- Nei, vi har også mange modeller som trekker inn avhengighet. En vesentlig
+del av det vi driver med, går for øvrig direkte på komponentpålitelighet, og der
+er ikke det problemet så relevant. Vi tar da utgangspunkt i enkeltspørmål som
+
+angår f. eks. sviktmekanikk eller slitasje, og som viser nærmere sammenheng med
+fysiske prinsipper. I laboratoriene kjører vi større forsøk med akselerert testing.
+— Men det blir annerledes med modeller som inkorporerer mange komponenter?
+
+- Ja, for vurdering av systempålitelighet kan det ha større betydning om man
+
+kan forutsette uavhengighet eller ikke. Men også her kan vi studere modeller uten
+slike forutsetninger om uavhengighet, f. eks. ved Monte-Carlo-metoder.
+
+— Jeg må nesten stille deg samme spørsmål som jeg rettet til Skrøppa: Føler
+du deg fortsatt primært som statistiker?
+
+— Nei, jeg er tross alt en frafallen. Jeg er ikke rett-troende statistiker mer.
+
+
+
+21
+
+- Rett-troende? Mener du at det ligger mye spørsmål om tro i den vanlige
+statistiske teorien?
+
+— Nei, vi må ikke komme inn på Bayes-metoder her.
+
+— Så dere har ikke særlig bruk for det?
+
+— Det forekommer lite formalisert bruk av Bayes-metoder på vårt område. Det
+har vært enkelte tilløp, men jeg tror ikke det har ført til noe særlig.
+- Hva er ditt budskap til statistikere som ønsker å gå ut for å gjøre en innsats
+på anvendte fagområder?
+
+- De må utnytte sin styrke til å kunne stille opp generelle modeller, samtidig
+som de setter seg inn i de praktiske problemene på vedkommende område.
+— Det lyder så enkelt. Ser du for deg at statistikerne kunne gå ut og erobre andre
+fagfelt i NTH-miljøet på samme måte som dere har inntatt pålitelighetsteorien?
+
+— Noen statistikere burde nok prøve å få innpass på kjemiavdelingen. Kanskje
+det kunne skje noe på bygningsteknisk avdeling? Det måtte være en virkelig
+
+utfordring for den statistiske almenheten.
+
+Som det seriøse organ Tilfeldig Gang er, får naturligvis alle intervjuobjektene
+anledning til å lese gjennom intervjuet og rette opp eventuelle skjevheter før det
+går i trykken. I dette tilfellet legger styreren av Institutt for maskinkonstruksjon
+an en beskjeden tone i sitt svarbrev, og mener at bladet heller burde fremheve
+et annet utslag av statistisk imperialisme ved NTH. Han påpeker nemlig at Emil
+Spjøtvoll nylig er blitt prorektor ved institusjonen. For oss som betrakter prosessen utenfra, kan det faktisk virke som om statistikerne er i ferd med å overta
+hele styringen av ingeniørenes høyborg. Så spørs det bare hvilken taktikk som er
+best, å infiltrere fra bunnen ved de enkelte avdelingene, eller å forberede maktovertagelsen på toppen.
+
+Ivar Heuch
+
+
+
+22
+
+Professor Arnljot Høyland over i NTNF senior forskerstipend
+Professor Arnljot Høyland er fra 1. september 1990 tildelt NTNF senior forskerstipend.
+Han går dermed av fra sin professorstilling i statistikk ved NTH, etter 25 års iherdig
+
+innsats for å lære sivilingeniørstudentene om statistikkens kunst.
+Høyland har hovedæren for oppbygningen av statistikkfaget ved NTH, fra den spede
+starten som eneste person innenfor fagfeltet til et miljø som idag teller 6 vitenskapelige
+hovedstillinger og 2 professor II stillinger. Kurstilbudet i statistikk har i denne tiden
+også gjennomgått en stor utvikling, fra ren elementærundervisning i den første tiden til
+et
+
+bredt
+
+spekter
+
+av
+
+kurs
+
+fra
+
+elemntærnivå
+
+til
+
+doktorgradsnivå
+
+i
+
+dag.
+
+I
+
+tillegg
+
+gis
+
+veiledning til et stort antall studenter ved studieretningen for industriell matematikk,
+samt doktorgradsveiledning.
+Fra
+
+midt
+
+på syttitallet
+
+har
+
+NTH gitt
+
+undervisning i
+
+pålitelighetsanalyse,
+
+og
+
+det
+
+var
+
+Arnljot Høyland som her tidlig innså behovet for sivilingeniører med kunnskaper i dette
+faget. Han har senere spilt en nøkkelrolle i oppbygningen av sikkerhetsfagene ved NTH
+og er i dag formann i NTH's styre for forskning- og undervisning i sikkerhetsfag.
+Høylands interesse for undervisning har også resultert i lærebøker, både i grunnleggende
+
+statistikk og i pålitelighetsanalyse. Disse lærebøkene brukes ikke bare ved NTH, men
+ved en rekke andre universiteter og høyskoler.
+Høyland tok sin doktorgrad i
+
+statistikk ved University of California, Berkeley i
+
+1963.
+
+Han var dermed den første nordmann med den berømte statistikk-PhD’en fra Berkeley.
+(Siden har et betydelig antall norske statistikere fulgt etter.) Emnet for doktoravhandlingen var innenfor ikke-parametrisk statistikk. I dag driver Høyland forskning først og
+fremst på feltene pålitelighetsanalyse og "statistikkassistert produksjon", og det er nok
+
+disse emnene han vil beskjeftige seg mest med i tiden som kommer.
+Blant de utallige verv Høyland har innehatt, må vi her nevne at han for tiden er NSF's
+representant i styret for Scandinavian Journal of Statistics.
+Vi er glade for at professor Høyland gjennom sitt forskerstipend får anledning til å
+
+fortsette
+
+sitt
+
+arbeid
+
+for
+
+statistikkfaget.
+
+Hans
+
+aktivitetsnivå
+
+idag
+
+lover
+
+det
+
+beste
+
+for
+
+fremtiden, og vi ønsker ham lykke til!
+
+Bo Lindqvist
+
+
+
+23
+
+“On Dependence and System Reliability”
+Sammendrag av dr. scient. avhandling forsvart okt. 89.
+Universitetet i Oslo
+
+Thore Egeland
+
+Problembeskrivelse: Et hovedproblemi pålitelighetsanalysen er å anslå sannsynligheten
+for at et system funksjonerer (systempåliteligheten), ut fra kunnskap om enkeltkomponentene som systemet består av. Kjernekraftverk og oljerigger er eksempler på interessante
+systemer. Ofte antas komponentene å funksjonere uavhengig av hverandre.
+
+Denne an-
+
+tagelsen er i mange situasjoner urealistisk, eksempelvis
+kan komponentene være utsatt for
+de samme miljøbelastninger. I avhandlingen *On Dependence and System Reliability”
+diskuteres konsekvensene av å anta uavhengighet. Betingelser for når denne antagelsen
+leder til at systempåliteligheten blir for høyt eller lavt anslått, blir utledet. I situasjoner
+der det er vanskelig eller umulig å spesifisere avhengigheten mellom komponentene, kan
+
+det tenkes at man er villig til å anta uavhengighet dersom det leder til at påliteligheten til
+systemet blir for lavt anslått.
+Noen Resultater: I litteraturen finnes teoremer om fortegnet til
+
+e = pålitelighet under uavhengighet-korrekt pålitelighet
+
+(1)
+
+for serie- og parallell systemer av komponenter forutsatt at komponentene er assosiert. For
+PDM (positiv avhengighet ved blanding) komponenter er det resultater for systemer som
+funksjonerer hvis og bare hvis minst k av de n komponentene virker (k-av-n-systemer).
+Det er i alminnelighet ingen logiske implikasjoner mellom assosierthet og PDM. Videre
+begrenser PDM seg til identiske komponenter.
+
+I Kapittel 5 (A. Bang Huseby, Universitetet i Oslo, er medforfatter) i avhandlingen utvides
+resultatene om (1) til generelle systemer. Til gjengjeld begrenses avhengigheten til en
+
+bestemt type sjokkmodeller. Beviset av Theorem 5.2.1 inneholder hovedidéene i behandlingen av sjokkmodellen mens Avsnitt 5.3 viser hvordan resultatene kan brukes til å lage
+grenser for påliteligheten til nettverksystemer.
+
+Det nevnte PDM resultatet forbedres i Kapittel 6.
+
+I tillegg modifiseres avhengighets-
+
+modellen til å omfatte ikke-identiske komponenter: La Uj,..., U, være u.i.f. og uavhengig
+av W. Avhengigheten mellom komponentilstandene (eller levetidene) Xj,..., Xn beskrives
+
+ved å sette X; = g;(U;, W). Vi ønsker å holde oss innenfor klassen av assosierte variable.
+Det oppnås ved å kreve at hver g; er voksende i w for fast u;. Denne antagelsen er rimelig
+
+
+
+24
+
+ettersom W typisk fortolkes som et felles, stokastisk miljø. Et godt miljø svarer til en stor
+
+w og vi kan regne med lang levetid for komponentene. Merk også at komponenttilstandene
+er uavhengige gitt W. Størrelsen på feilen studeres i Kapittel 7.
+
+I Kapitlene 3 og 4 presenteres resultater om avhengighetsmodellene og pålitelighetsfunksjonen h = P(systemet funksjonerer). Disse resultatene har en viss egeninteresse. I tillegg
+er de en forutsetning for deler av Kapitlene 5, 6 og 7. Spesielt nevnes:
+(Thm 3.2.3) PDM medfører assosierthet i et viktig spesialtilfelle.
+(Thm 4.3.1) Konveksiteten (konkaviteten) til pålitelighetsfunksjonen
+(Thm 4.2.1) Nytt bevis for S-form Teoremet.
+
+Det er flere tradisjoner eller skoler innen pålitelighetsanalyse og kontakten mellom de
+forskjellige retninger er til dels mangelfull. I konstruksjonspålitelighet utarbeides metoder
+og modeller for å bedømme sikkerheten til konstruksjoner. Dette feltet har stort sett blitt
+utviklet i ingeniørmiljøer, mens matematikere og statistikere har studert pålitelighetsanalyse ut fra et mer generelt synspunkt. En målsetning med avhandlingen er å kombinere metoder og resultater på tvers av tradisjonelle faglige inndelinger. Kapittel 3
+(H.O Madsen, DTH Lyngby, er førsteforfatter) er en oversiktsartikkel over fagfeltet konstruksjonspålitelighet, mens Kapittel 10 behandler de to trendene i pålitelighetsanalyse
+under ett. Kapittel 8 (L. Tvedt, Veritas Research, er medforfatter) omhandler serie av
+parallellsystemer. Fremstillingen baserer seg hovedsaklig på terminologi og metoder fra
+konstruksjonspålitelighet. I et spesialtilfelle (8.3.7) oppnås et eksplisitt utrykk for systempåliteligheten.
+
+Veileder Bent Natvig har vært til stor hjelp i forbindelse med arbeidet med avhandlingen
+mens Bo Lindqvist har bidratt til at flere resultater har blitt korrigert eller forbedret i noen
+rapporter basert på avhandlingen.
+
+
+
+25
+
+Segmentation and estimation in suddenly changing
+autoregressive models with an application to oil well data
+Sammendrag av dr.scient.-avhandling forsvart juni 1990
+ved Universitetet i Bergen
+
+Gyrid Johnsen
+
+Autoregressive tidsrekker definert ved
+
+(Xi — pm) = a(Xi-1 — we)
+
++e
+
+har vært brukt på så vidt forskjellige områder som økonomi, seismologi og talegjenkjenning. Disse prosessene har vært anvendt i mange år og egenskapene er velkjente.
+
+I mange praktiske situasjoner vil det underliggende systemet som genererer
+
+tidsrekken ikke være konstant, men forandres med tiden. Dette fører til modeller
+der parametrene også variereri tid.
+
+I avhandlingen har vi studert den spesielle situasjonen der det underliggende
+systemet er konstant over segmenter av tid, men med plutselige forandringer fra
+
+segment til segment.
+
+Slike forandringer kan skyldes ytre hendinger som f.eks.
+
+at politiske avgjørelser påvirker en økonomisk tidsrekke eller at den geologiske
+
+lagdelingen påvirker en geofysisk tidsrekke.
+
+Motivasjonen vår er at vi ønsker å bruke dipmeterdata fra en oljebrønn i
+Nordsjøen, til å lokalisere grensepunktene mellom de forskjellige geologiske lagene
+(lagkontaktene). Siden den geologiske strukturen skifter, vil vi tilpasse matematiske modeller der parametrene også skifter, til dataene.
+
+En naturlig utvidelse av den vanlige autoregressive modellen er en dobbeltstokastisk autoregressiv modell definert ved
+
+Xi — me = 9:(Xe-1 — Ma) +
+der (n:) og (0:) er stokastiske prosesser som kan ta k verdier (111, ..,4z) Og (41,--, Gx).
+Vi har sett på tilfellet der (n:) og (0:) er Markovkjeder med k tilstander. Et
+problem med den dobbeltstokastiske autoregressive modellen er at i tillegg til å
+
+estimere parametrene (p1,-.-, 4%) Og (41,..,0;), må en også estimere tidspunktene
+der prosessene {n;} og {4} skifter fra en verdi til en annen.
+
+
+
+26
+
+En oversikt over avhandlingen er som følger:
+
+I kapittel 2 ser vi på to forskjellige algoritmer for å segmentere dobbeltstokastiske prosesser. Den ene er basert på detektering av skifte i middelverdi
+og den andre er basert på detektering av skifte i autoregressive parametre. Begge
+algoritmene trenger antall forskjellige tilstander i Markovkjeden (k), som input.
+
+I kapittel 3 presenterer vi en metode for å teste kK = 1 mot k > 1 i situasjonen
+der bare middelverdien forandres i tid. Metoden er basert på å sammenligne
+
+forskjellen mellom observert maksimum og minimum med et estimat for den lokale
+
+variansen. Vi foreslår også en metode for å finne et estimat k for k.
+
+I kapittel 4 undersøker vi de asymptotiske egenskapene til estimatene av middelverdi og de autoregressive parametrene. Vi viser asymptotisk normalitet av
+
+estimatene bådei tilfellet der skiftepunktene er kjente ogi tilfellet der vi bare har
+estimater for skiftepunktene. Vi finner også en formel for skjevheten i estimatene
+når skiftepunktene er ukjente.
+
+I alle kapitlene har vi også gjort en god del simuleringer for å teste resultatene.
+
+Simuleringsresultatene fra kapittel 2 er gode. De viser at segmenteringsalgoritmen
+virker bra også for bilineære prosesser og i tilfeller der vi har innført en ekstra
+støyprosess. Resultatene fra simuleringer på testen gitt i kapittel 3 er mer varierende. Vi ser at testen virker bra når vi gir den sanne lokale variansen som input,
+
+men at resultatene ikke er fullt så gode når vi bruker estimater for den lokale var-
+
+jansen som input. Simuleringsresultatene fra kapittel 4 er også gode, og de viser
+at formlene vi har funnet for skjevheten i estimatene stemmer bra.
+
+I kapittel 5 anvender vi metodene fra kapitlene 2, 3 og 4 på dipmeterdata fra
+
+Nordsjøen. Resultatene er lovende, det ser ut som om en kan detektere lagkontakter mer nøyaktig ved hjelp av dipmeterdata enn ved hjelp av andre logger.
+Resultatene viser allikevel at ikke alle lagkontakter er blitt detektert, slik at det
+er viktig å sammenholde resultatene fra analyser på dipmeterdata med analyser
+fra andre logger.
+
+
+
+27
+
+'EMPIRICAL BAYES IN THE UNBALANCED CASE
+
+BASIC THEORY AND APPLICATIONS TO INSURANCE PROBLEMS
+Ragnar Norbergs
+
+avhandling forsvart for den filosofiske doktorgrad
+19. desember 1989
+
+ved Universitetet i Oslo,
+
+Litt bakgrunnsstoff. Begrepet Empirisk Bayes teori ble lansert av
+Herberth Robbins i to artikler fra 1955 og 1964. Han betrakter en
+
+følge av stokastiske par, (x, .8,),
+
+t=152; 2225 hvor x. og 6. rep-
+
+resenterer henholdsvis en observerbar og en ikke-observerbar størrelse knyttet
+
+til
+
+forsøk/observasjonsenhet nr. i.
+
+Disse parene er
+
+uavhengige og identisk fordelte, med X, |9,=9, ~ F(e 3.) é ¥ og 9,
+
+~ G(-) € %. Det statistiske problem er å trekke slutninger om den
+latente 6 = Gå i det "løpende" forsøk nr. n+l på grunnlag av den
+tilhørende observasjon X = Xn+1 % observasjonene
+
+fra de
+
+n foregående forsøk.
+
+Selve modellapparatet er velkjent fra andre områder av den statistiske metodelære, for eksempel variansanalyse med tilfeldige
+effekter. I variansanalysen samles interessen om forventninger og
+varianskomponenter i den marginale fordelingen til observasjonene,
+mens i empirisk Bayes er det de enkelte tilfeldige effekter som er
+av
+
+interesse.
+
+Oppsettet hører hjemme innefor den klassiske statistikk, idet fordelingene gis en frekvensfortolkning. Formelt er den marginale
+modell for (X,6) den samme som i en ren Bayes-analyse, hvor G spesifiseres fullt ut på subjektivt grunnlag og dermed tas som kjent.
+Empirisk
+
+Bayes-modellen
+
+er
+
+"større"
+
+idet
+
+den
+
+fremkommer
+
+som
+
+et
+
+produkt av en uendelig sekvens av slike marginale modeller, og G €&
+$ er ukjent og må estimeres. En empirisk Bayes prosedyre bygges
+typisk opp etter følgende skjema, hvor vi for enkelhets skyld
+antar at oppgaven er å estimere en skalar m(9) relativt til kvadratisk tap:
+
+1. Finn Å-Bayes-estimatoren mo(X) relativt til gitt G, som miniÅ
+
+A
+
+merer E,(m-m)
+
+-
+
+.
+
+nar m varierer i
+
+:
+
+EG
+
+;
+
+en viss klasse A av funksjoner av
+
+X og G.
+mn
+
+wae
+
+2. Estimer mo(X) med m (X:X,,..-.X)),
+
+3. Hvis m E Me for alle Ge $
+nt
+
+~
+
+en genuin estimator.
+
+når n > %, sies m å være en
+
+empirisk Å-Bayes-estimator relativt til %. Hvis også E(t -m)* >
+
+E (mm -m)* for alle Ge %, så sies m a vere asymptotisk optimal
+ne
+
+relativt
+
+AE
+
+til %.
+
+
+
+28
+
+Omtale av avhandlingen.
+
+Formålet med den foreliggende avhandling
+
+er tosidig. For det første presenterer den en empirisk Bayes-teori
+for situasjoner hvor observasjonsplanen varierer mellom observasjonsenhetene - det ubalanserte tilfellet. For det andre bidrar
+
+den til utvikling av praktisk anvendelige empirisk Bayes-modeller
+ved å foreslå løsninger til to velkjente aktuarielle problemer,
+den ene av dem omfatter en bred empirisk studie. Avhandlingen
+består av 6 enkeltarbeider, som skal omtales kort i det følgende.
+For referanser henvises til de enkelte arbeiders litteraturlister.
+1.
+
+Empirical Bayes
+
+in the unbalanced case.
+
+Working Paper No.
+
+81,
+
+Lab. of Actuarial Math., Univ. of Copenhagen, 1989, 57 pp.
+Det tradisjonelle oppsett beskrevet ovenfor, med identiske forsøk,
+generaliseres til
+tilfellet med ubalansert design.
+Til hvert
+
+forsøk i knyttes et trippel (X;:9,:C;)» hvor xX. og 6. er som før,
+
+mens C.
+
+representerer den observerbare design (typisk dimensjonen
+
+pa vektoren Xp
+
+samt eventuelle kovariable).
+
+Teknikken med konju-
+
+gerte fordelinger, velkjent fra den tradisjonelle teori
+
+(se f.eks.
+
+De Groot), tilpasses til det ubalanserte tilfellet. Suffisiensbegrepet modifiseres slik at designens betydning inkorporeres.
+Empiriske lineær Bayes estimatorer motiveres ved de begrensede
+muligheter for å estimere de urestrikterte Bayesestimatorer i
+situasjoner med lite modellstruktur - ubalansert design og ikke-
+
+parametriske fordelingsklasser. Ved å la designene Cc. vare u.i.f.
+(Neuhaus,
+
+1984),
+
+seg behandle
+
+vises
+
+kommer en igjen tilbake
+
+med
+
+vedrørende
+
+standard asymptotisk
+
+optimal
+
+til en situasjon som
+
+teori.
+
+estimering av
+
+En
+
+rekke
+
+momenter
+
+som
+
+lar
+
+resultater
+
+inngår
+
+i
+
+lineære Bayes-estimatorer. Et basislemma gir grunnlaget for Hesselagers (1988) resultat om nesten sikker konvergens i fordeling
+av parameterestimatorer. Spørsmålet om asymptotisk optimalitet av
+empiriske Bayes-prosedyrer har vært lite berørt p.g.a. problemet
+med uniform begrensning av tapsfunksjonen. Dette løses her ved å
+innføre
+
+en
+
+ny
+
+definisjon
+
+av
+
+asymptotisk
+
+optimalitet,
+
+som
+
+bare
+
+krever at det betingede forventede tap, gitt de tidligere observasjoner, skal konvergere nesten sikkert mot Bayes-risikoen.
+2. Hierarchical credibility: Analysis of a
+model
+with
+nested
+classification.
+Scand.
+
+random effect
+Actuarial
+J.
+
+linear
+1986,
+
+204-222.
+
+Arbeidet
+
+studerer
+
+sjonsmodell
+
+med
+
+en
+
+hierarkisk utvidelse
+
+stokastiske
+
+av
+
+koeffisienter.
+
+klassifiseres i et "nestet" mønster, med
+
+den
+
+lineære
+
+regre-
+
+Observasjonsenhetene
+
+latente variable på alle
+
+nivåer. Formler for rekursiv beregning av de lineære Bayesestimatorer fra laveste opp til høyeste nivå i hierarkiet har vært gitt
+i tidligere arbeider av Jewell (1975) og andre, mest generelt i
+regresjonstilfellet av Sundt (1984). Disse arbeider følger bare en
+sti i hierarkiet. De gir derfor ingen fullstendig algoritme for
+beregninger fra hele settet av stier, og åpner ikke for en diskusjon av empirisk Bayes-aspektet. Det foreliggende arbeid utfyller
+teorien på disse punkter. Den fulle datastruktur stilles opp, og
+de nødvendige rekursjoner fra øverste til nederste nivå utledes.
+En klasse av forventningsrette parameterestimatorer konstrueres.
+
+
+
+29
+
+3. Å class of conjugate hierarchical priors for gammoid likelihoods. Working paper No. 78, Lab. of Actuarial Math., Univ. of
+Copenhagen, 1989, 19 pp. (Kommer i Scand. Actuarial J.)
+I dette arbeidet lanseres en klasse av konjugerte apriori-fordelinger for gammaformede likelihooder organisert i et hierarkisk
+
+mønster. Det viser seg at den passende klasse er et hierarkisk
+system av endelige blandinger av gammafordelinger med faste skalaparametre og stokastiske formparametre. Fullstendige algoritmer
+for beregning av Bayesløsninger finnes i tilfellet med to nivåer i
+
+hierarkiet. Generaliseringer til flere nivåer er meget kompliserte
+og synes å være utenfor praktisk rekkevidde. Resultatene er i en
+
+viss
+
+forstand
+
+negative,
+
+men
+
+kan
+
+tas
+
+som
+
+en
+
+indikasjon
+
+på
+
+de
+
+begrensede muligheter for eksakt konjugert analyse i kompliserte
+modeller og et argument for bruk av de lineære løsninger behandlet
+i arbeid 2.
+
+4. Å note on experience rating of large group life contracts.
+Mitteil. der Verein. Schweiz. Vers.math. 87 (1987), 17-34.
+Empirisk Bayes-estimatorer utvikles for de forventede erstatnings-
+
+utbetalinger på store gruppelivsforsikringer, hvor kravene kan
+antas å følge en Poissonprosess med
+latente gruppespesif ikke
+intensiteter. En ren Bayes-versjon av teorien anvendes på et materiale
+
+5.
+
+fra Oslo kommune.
+
+Experience
+
+79, Lab.
+(Kommer
+
+of
+
+rating
+
+in group
+
+Actuarial
+
+i Scand.
+
+Math.,
+
+life
+
+insurance.
+
+Univ
+
+of
+
+Working paper
+
+Copenhagen,
+
+1989,
+
+43
+
+No.
+pp.
+
+Actuarial J.)
+
+I dette arbeidet utvikles empirisk Bayes-prosedyrer for erfaringstariffering av gruppelivskontrakter under forskjellige forutsetninger om de mekanismer som gir opphav til krav og om de tilgjengelige data. Situasjoner hvor gruppene stratifiseres, f.eks. etter
+
+yrke,
+
+behandles med hierarkiske modeller. Teorien anvendes på et
+
+stort autentisk datamateriale.
+
+6.
+
+Å contribution to modelling of IBNR claims.
+
+1986,
+
+Scand.
+
+Actuarial J.
+
+155-203.
+
+Empirisk Bayes-teori anvendes her
+
+ikke anmeldte krav i forsikring,
+
+til
+
+å prediktere inntrufne,
+
+men
+
+idet de forskjellige skadeår til-
+
+skrives
+latente
+variable
+fluktuerende risikoforhold.
+
+som
+representerer
+ikke-observerbare
+En meny av metoder presenteres for
+
+forskjellige
+
+med
+
+situasjoner
+
+ulike
+
+modellforutsetninger
+
+og
+
+databaser.
+
+Prøveforelesninger
+
+ble
+
+holdt
+
+18.
+
+desember
+
+emne,
+
+"Hierarkisk empirisk Bayes",
+og oppgitt
+
+"Nyere
+
+emne,
+
+teori
+
+for avsetning av IBNR-reserver".
+
+1989
+
+over
+
+selvvalgt
+
+
+
+30
+
+/
+
+Litt om datagvingar i statistikkundervisinga
+ved NTH, Trondheim
+
+Dataøvingar i statistikkfag ved NTH, inngår no i kursa: Statistikk 2 (220),
+Forsøksplanlegging (80), Tidsrekker og Filterteori (20), Multivariabel Analyse (20)
+
+og Pålitelighetsanalyse (30). Tala i parentes fortel omlag kor mange studentar som
+brukar å ta kurset kvart år. Statistikk 2 er ei vidareføring av grunnkurset, og faget
+blir teke av studentar frå nesten heile høgskulemiljøet. Det blir lagt hovudvekt
+på bruk av statistikk, og analyse ved hjelp av programpakkar er ein sentral del.
+Forsøksplanlegging har overvekt av studentar frå Kjemiavdelingen. Studentar på
+
+Studieretning for industriell matematikk, frå Avd. for datateknikk og telematikk
+
+og dr. ing studentar vil som oftast utgjere fleirtalet av studentane i dei andre faga.
+Alle kurs byggjer på grunnkurset i statistikk ved NTH. Behovet for kunnskapar
+utover dette vil vere varierande.
+
+Alle dataøvingane føregår på PC-ar av AT-type. Ambisjonsnivå og omfang kan
+variere noko frå fag til fag. I nokre fag er målet å vise og informere om at det
+finnest programvare som kan nyttast. Øvingar der det inngår bruk av datamaskin
+er då gjerne frivillige. I andre fag som Statistikk 2, Tidsrekker og Filterteori
+og Multivariabel Analyse er det obligatorisk innlevering av øvingar der ein skal
+bruke datamaskin i utføring av statistisk analyse på gitte datasett. Fram til no
+er programpakkane MINITAB (Statistikk 2) og SPSS blitt brukt samt eit program CARAi Pålitelighetsanalyse. Dette er utvikla ved ein avdeling på SINTEF
+(Sikkerhet og Pålitelighet). Det blir utdelt oversikt over turvande kommandoar
+for øvingane og studentane brukar (etter planen) lite tid på å lese manualar. I
+Statistikk 2 blir studentane anbefalt å kjøpe boka: “Minitab Handbook” av Ryan,
+Joiner and Ryan, men mange nøyer seg med det dei får utdelt.
+
+Dei obligatoriske øvingsopplegga er organisert noko forskjellig. I vesentleg grad
+følgjer dei to mønster. I det eine opplegget blir det gitt nokre fa “oppvarmingsøvingar” for å lære bruk av programpakken. Desse blir så etterfølgt av 2 eller
+3 obligatoriske øvingar som skal leverast inn og må vere godkjende for at studenten skal få lov å gå opp til eksamen. Vanlegvis vil desse bestå av å utføre metodar,
+som ein lærer i kurset, på gitte datasett og kommentere og vurdere resultatet. Av
+omfang vil dei normalt vere noko større enn ei vanleg rekneøving. Ekstra belastninga som dataøvingane medfører er rekna inn i belastningstimetalet for kurset.
+Ved sida av desse øvingane blir det gitt vanlege rekneøvingar.
+
+I det andre opplegget som er følgt i Statistikk 2, inngår databruk som ein del
+av rekneøvingane kvar veke. Det er obligatorisk innlevering på ein viss del av
+desse. Dessutan blir det gitt ei prosjektoppgåve (av omfang ca. 2 gonger ei vanleg
+øving) som alle må gjere. Denne vil telje med vekt 1/10 på eksamenskarakteren.
+Regresjons- og variansanalyse utgjer ein vesentleg del av kurset, og det ligg såleis
+vel til rette for øvingar der ein brukar datamaskina som hjelpemiddel. I dette
+
+
+
+31
+
+faget blir det og gjort ein del simuleringar som skal vere til hjelp i å forstå stoffet
+(fordelingar, konfidensintervall o.1.). Studentar som sjølv har teke kurset, blir
+betalt for å hjelpe til med retting og veiledning.
+
+Felles for opplegga er at det blir lagt vekt på at studenten er kjend med utskrifta
+og kan bruke denne til å føreta vurderingar, men og som grunnlag til å føreta vidare
+analyse. Difor blir det på eksamen gitt utskrifter frå den programpakken som er
+brukt i kurset med spørsmål som skal kontrollere dette.
+
+Alle studentane som tek desse kursa har vore gjennom eit grunnkurs i databehandling, og er vel vane med bruk av PC-ar. Inntrykket vi har frå studentane er at
+dei fleste er positive til bruk av data i øvingane så sant dette kan gjerast innanfor
+den tid som er avsatt til faget. Moment som variasjon, meir realisme i øvingane
+og det å bli van med å bruke datamaskin som hjelpemiddel, blir trekt fram. Elles
+vil vi legge til at både MINITAB og SPSS er brukarvennlege programpakkar, og
+at det skal relativt lite veiledning til før studentane er i stand til å greie seg sjølve.
+
+John Sølve Tyssdal
+
+
+
+32
+
+Dataøvelser i statistikkundervisningen: Statistikk
+grunnfag, Det samfunnsvitenskapelige fakultet,
+Universitetet i Oslo
+
+Statistikk grunnfag består av fire 5-vekttallskurs:
+
+- SS1 - Allmenn statistikk, Bhattacharrya & Johnson kapittel 1-10 (til og med
+
+enkel regresjon). MINITAB brukes gjennom hele semesteret. Vi har et 3 ukers
+kurs i MINITAB først i semesteret: to timer forelesninger og to timer øvelser på
+PC-stua (med plass til alle studentene) hver uke. *MINITAB handbook” av Ryan,
+Joiner & Ryan er ført opp som pensum. Vi gir oppgaver i MINITAB hver uke.
+Men hverken studentene eller hjelpelærerne tar dette så alvorlig som de burde. I
+april/oktober gjør studentene en obligatorisk oppgave. Den skal ta netto en ukes
+arbeid. Semesteroppgaven er obligatorisk. Men alle som har levert hittil har lagt
+ned tilstrekkelig arbeid i oppgaven, og de har fått den godkjent. Dette semesteret
+ble studentene bedt om å undersøke effekten av å gruppere en kontinuerlig respons
+
+(svart inntekt, spørreundersøkelse foretatt av MMI). De måtte simulere spredningen over gruppene og undersøke simuleringsfordelingene. For å få dette til måtte
+de kjenne MINITAB ganske godt. Alle studentene får samme oppgave, og de
+oppfordres til samarbeid. Men de må skrive en besvarelse hver. Hjelpelærerne
+
+retter disse. Semesteroppgaven er en sjau for studentene — og for oss. Men de
+lærer en god del statistikk. En annen god effekt er at vi får skrellet vekk de
+useriøse studentene. De orker ikke, og får heller ikke møte til eksamen. Dette
+semesteret møtte ca. 90 studenter til eksamen, 150 hadde meldt seg. Studentene
+tar sosialøkonomi, psykologi, statsvitenskap og andre samfunnsfag.
+
+SS2 — Beskrivende statistikk og utvalgsteori. Her bruker vi SPSS, som det blir
+gitt et innføringskurs i først i semesteret. Det er datahåndtering og grafisk /tabellmessig beskrivende statistikk som fokuseres i SPSS. Det skal gis SPSS-oppgaver
+
+hver uke. Denne versjonen av kurset er ny, så vi har ingen erfaringer å komme med.
+Tidligere kalte vi kurset "Statistisk informasjonsinnhenting” og presenterte stoff
+om statistiske kilder: SSB, NSD, osv., og om databaser og deres oppbygging. Stoffet om statistiske kilder var kurant, men ganske kjedelig. En god del av dette får de
+inn gjennom studiet av Byråets utvalgsplan, som fremdeles er pensum. Database
+var et vanskelig tema. Det kokte i grunnen ned til filhåndteringssystemet i SPSS.
+Hele tiden har SPSS stått sentralt i kurset, og dette har studentene satt pris på og
+blitt flinke med. Det er obligatorisk oppgave. Her har jeg gitt klasseprosjekt. Det
+ene året laget studentene utvalgsplan, gjennomførte spørreundersøkelsen og analyserte data for å evaluere opplegget for Examen Philosophicum ut fra studentenes
+synspunkt. Det er 10-15 studenter fra ymse samfunnsfag.
+SS3 - Analyse av kategoriske data. Bygger på SS1. Loglineær analyse, logistisk regresjon, generalisert lineær analyse. Her brukte vi SPSS dette semesteret.
+Tidligere brukte vi GLIM. Det blir gitt øvelser som forutsetter regning gjennom
+hele kurset. Det er semesteroppgave, men den er ikke obligatorisk. Alle har levert
+
+
+
+33
+
+hittil. Det er 6-12 studenter fra ymse samfunnsfag.
+
+SS4 — Analyse av kontinuerlige data. Bygger på SS1. Regresjon, variansanalyse, litt multivariabel analyse. Vi bruker SPSS. Det gis oppgaver til SPSS
+gjennom hele semesteret. Frivillig semesteroppgave. Det er 6-12 studenter fra
+
+ymse samfunnsfag.
+
+Det kreves ikke forkunnskaper i databehandling for noen av kursene. Imidlertid
+regner vi med at studentene kan grunnleggende SPSS når de begynner på SS3 og
+SS4. Våre to PC-stuer (IBM-type, den ene med 386-maskiner) gir et brukbart
+tilbud til studentene utenom timene, og vi bruker dem til de øvelsene der de
+trengs. Vi legger ikke stor vekt på å øve inn MINITAB. Det er snarere omvendt,
+at MINITAB åpner en dør inn i databehandlingens verden. Og MINITAB gir
+anledning til å lære en god del statistikk. SPSS står såpass sentralt i samfunnsfagene at vi prøver å lære bort det grunnleggende i dette systemet. Men, selvsagt
+som et hjelpemiddel for statistisk arbeid og ikke som noe verdifullt i seg selv. Vi
+tar i meget stor utstrekning sikte på å gi oppgaver og øvelser med data fra seriøse
+(og noen ganger mindre selvlagete og dermed mindre seriøse) undersøkelser. Uten
+MINITAB/SPSS ville dette vært vanskelig. Sånn sett er vårt opplegg “datastgttet
+læring”. Men i den vanlige betydningen: at statistikklæreren er erstattet med et
+dataprogram som studenten sliter med og får respons fra, er vårt opplegg langt
+fra *datastøttet læring”.
+
+Vi har drevet omtrent på denne måteni 8 års tid. Erfaringene er rimelig gode.
+Men det er selvsagt hele tiden et spørsmål om mere eller mindre. Studentene
+finner dette opplegget naturlig, men de syns det er for stort tempo i SS1, og de
+utnytter ikke MINITAB-mulighetene godt nok. I de senere kursene er problemet
+det motsatte. Der er faren at SPSS overskygger den statistiske metodelæren. Alt
+i alt mener vi at vi har et vel balansert og godt studietilbud i anvendt statistikk.
+Vi så gjerne at det kom flere studenter, både fra samfunnsfag og fra biologi og
+andre fag. Dette gjelder særlig SS2-SS4.
+
+Tore Schweder
+
+
+
+34
+
+Bokomtale
+
+Bent Natvig: "Pålitelighetsanalyse med teknologiske
+Matematisk institutt, Universitetet i Oslo. August 1989.
+
+anvendelser”,
+
+Dette kompendiet er utarbeidet som underlag for innføringskurset i
+pålitelighetsanalyse ved Universitetet i Oslo, og er et typisk Bent-produkt velskrevet, men noe snevert.
+
+I forordet finnes følgende utsagn:
+
+"Mye av stoffet i dette kompendiet baserer seg på de to første kapitlene
+i "klassikeren" på området Barlow og Proschan (1975a). Noe av det
+samme stoffet er oversatt til norsk i deler av boken Holen, Høyland og
+Rausand (1983) som brukes ved Norges Tekniske Høyskole. Svakheten
+ved den siste boken er at den i liten grad formidler utviklingen i faget
+siden midten av syttiårene. I dette kompendiet vil vi forsøke å krydre
+det mer klassiske stoffet med noen nyere synspunkter og forskningsresultater."
+
+På bakgrunn av ovenstående utsagn mente redaktøren av dette utmerkede
+blad at undertegnede medlem av oversetterkomitéen Holen, Høyland og
+Rausand burde føle seg provosert til et innlegg. Nå kjenner jeg Bent så
+vidt godt at jeg ikke ble særlig provosert. Forordet ble lest med en viss
+humring.
+Tittelen på kompendiet er noe misvisende. Hvor er det blitt av de
+teknologiske anvendelsene? Bortsett fra noen spredte utsagn i kapittel 1
+og i to regne-eksempler i kapittel 5 finnes det ikke et eneste praktisk
+eksempel.
+Kompendiet er som nevnt velskrevet. Framstillingen flyter lett. Jeg har
+heller ikke funnet noen vesentlige feil. Ankepunktet er emnevalget.
+
+I praktiske pålitelighetsanalyser er metoder som FMEA (Failure Modes and
+Effects Analysis) og feiltreanalyse helt sentrale. FMEA er overhodet ikke
+nevnt i kompendiet. Når det gjelder feiltreanalyse, er det kun gitt en
+henvisning til Barlow og Proschan (1975), som etter min oppfatning er en
+av de dårligste kildene en kan finne på akkurat dette området.
+En viktig del i alle praktisk pålitelighetsanalyser er innhenting, tolking og
+analyse av feildata. Dette er overhodet ikke omtalt i kompendiet.
+Forståelse av hva som menes med en feilmode, en feilmekanisme o.l. er
+nødvendig når en skal benytte data fra datakilder. Likeså metoder for å
+identifisere trender 1 sviktintensiteten til enhetene som studeres (eks.
+Hazard- , Kaplan-Meier eller TTT-plott). I kompendiet gis imidlertid en
+fyldig omtale av velkjente Bayes-metoder for eksponensialfordelingen. Er
+det dette Bent sikter til når han "krydrer det klassiske stoffet med nyere
+synspunkter og forskningsresultater"?
+
+
+
+35
+
+Tekniske systemer blir vanligvis utsatt for ulike former for testing og
+vedlikehold, preventivt og korrektivt. Påliteligheten eller tilgjengeligheten
+er sterkt. avhengig av slik testing og vedlikehold. I et kompendium med
+"teknologiske anvendelser" burde slike tema vært diskutert.
+Et annet viktig problem er avhengige feil (Common Mode Failures). Mange
+store industriulykker har inntruffet på grunn av slike feil. I de senere år
+er det lagt ned et stort arbeid for å bestemme egenarten til slike feil, for
+å beskytte systemene mot fellesfeil, og for å utvikle beregningsmåter.
+Kompendiet omtaler kun en foreldet metode, nemlig assosierte variable.
+Jeg har ennå ikke sett en eneste fornuftig, praktisk anvendelse av
+assosierte variable for å beregne effekten av avhengige feil.
+En lang rekke viktige emner er ikke dekket i kompendiet. Mål for
+pålitelighetsmessig betydning er imidlertid behørlig dekket.
+
+I forordet påpeker Bent at hans kompendium er langt mer "up to date"
+enn den boken vi i oversetterkomitéen Holen, Høland og Rausand har
+produsert. Leseren oppfordres til å studere referanselistene i de to verkene!
+Dersom jeg hadde jobbet med pålitelighetsanalyse i en industribedrift, og
+skulle ansette en av Bents disipler, ville jeg sterkt ha vurdert å sende
+kandidaten til NTH for omskolering.
+
+|
+Marvin Rausand
+Institutt for maskinkonstruksjon
+NTH
+
+|
+
+
+
+36
+
+Bokanmeldelse
+Ragnar Norberg (redaktør): Twelve contributions to a tradition in statistical and actuarial science. Festschrift to Erling Sverdrup. Almqvist & Wiksell
+International, Stockholm 1989. ISBN 91-22-01267-2, 233 sider.
+
+I forbindelse med Erling Sverdrups 70-årsdag ble det publisert flere artikler
+i Scandinavian Actuarial Journal og Scandinavian Journal of Statistics. Disse
+artiklene er nå samlet i bokform og utgitt som et eget festskrift til Sverdrup.
+Boken består av i alt 12 artikler publisert i SAJ og SJS, med en innledning av
+Ragnar Norberg, som er redaktør for boken.
+Artiklene er skrevet av tidligere studenter og kolleger, og de gir et representa-
+
+tivt tverrsnitt av den tradisjonen Sverdrup har stått for og videreført i matematisk
+statistikk. Flere av artiklene tar utgangspunkt i tidligere arbeider av Sverdrup.
+Sverdrups innsats som pioner i norsk aktuarvitenskap og statistikk er belyst
+i innledningsartikkelen av Norberg. Her møter vi både fagmannen og personen
+Sverdrup. Det er gitt smakebiter fra Sverdrups arbeider som illustrerer hans syn
+på statistikken som vitenskap. Det er også tegnet et levende bilde av Sverdrups
+personlighet, blant annet med en omtale av hans krigsinnsats innen etterretningstjenesten. Hans rolle her er også beskrevet i boken *Svartkammeret” av Alf R.
+Jacobsen og Egil Mørk, utkommet på Cappelen i 1989.
+
+Selve artikkelsamlingen starter med en historisk oversikt av Anders Hald om
+utviklingen av aktuarmatematikken på 1600-tallet. Det er interessant å legge
+merke til at foruten John Graunt (av mange betraktet som den statistiske vitenskaps far), så omfatter den første utvikling av faget først og fremst personer som
+har gjort seg kjent på andre områder. Det gjelder fysikeren/matematikeren Chris-
+
+tiaan Huygens og hans yngre bror Lodewijk, astronomen Halley (Halleys komet),
+og statsmannen og politikeren Jan de Witt; den siste en forgrunnsfigur i Hollands
+frihetskamp mot Frankrike.
+
+Med Odd Aalens artikkel om kausalitet og dynamisk modellering rykkes en
+fram til nåtidens forskningsfront. Probabilistiske versjoner av kausalitetsbegrepet
+med tilhørende tester har vært framsatt av flere. En av de første som berørte de
+filosofiske aspekter er Patrick Suppes. Aalen tar opp temaet motivert blant annet
+av en 1965-artikkel av Sverdrup. Som nevnt av Aalen er *kausalitet” et belastet
+ord, og når en forsøker å konstruere *kausalitets”-tester, burde en etterstrebe
+en mer presis språkbruk. Innen et fagfelt som økonometri har slike tester vært
+oppfatttet som ganske kontroversielle.
+
+Glatting av data med glidende gjennomsnitt er en velkjent metode, og likeledes
+er problemene som oppstår i endepunktene. Jan Hoem og Per Linnemann foreslår
+i bokens lengste artikkel en ny metode for å behandle endepunktsproblematikken,
+og de har inkludert tabeller for den som ønsker å bruke metodeni praksis.
+Som det framgår av Norbergs innledning, har Sverdrup hatt en sterk interesse for grunnlagsproblemer i Neyman-Pearson-teorien. I sitt bidrag argumenterer
+
+Tore Schweder for en mer utstrakt bruk av P-verdier kombinert med styrkeberegninger (fordeling av P-verdi under alternativ hypotese). Schweder peker på for-
+
+
+
+37
+
+trinn dette kan ha i vurdering av kumulativ evidens i vitenskapelig modellering
+og hypotesetesting. Artikkelen er etterfulgt av en livlig meningsutveksling mellom
+
+Norberg og Schweder.
+
+I pålitelighetsanalyse av kompliserte systemer forenkles ofte analysen ved å
+anta uavhengighet mellom komponentene. Bo Lindqvist ser på en mer realistisk situasjon med positiv avhengighet mellom komponentene. Det resulterende
+estimerings- og testingsproblem viser seg å ha sammenheng med isoton regresjon
+og partiell ordning.
+
+Noen av Sverdrups tyngste bidrag til inferensteori ligger innenfor multiple
+sammenlikninger. Nils Lid Hjort har valgt dette emne som utgangspunkt for
+sitt kapittel om simultan statistisk inferens. Han presenterer en generell framgangsmåte for å estimere og detektere kontraster.
+
+Et klassisk resultat i matematisk statistikk er Rao-Blackwells teorem om at
+kompletthet og suffisiens er tilstrekkelig for å konstruere UMVU estimatorer. Er
+det også nødvendig? Erik Torgersen ser på dette problemet, og med grunnlag i Bahadurs arbeider gis nødvendige og tilstrekkelige betingelser for UM V U-egenskapen
+for en vid klasse modeller.
+
+I likhet med Lid Hjorts bidrag tar Erik Bølvikens artikkel utgangspunkt i
+problemer i simultan inferens. Bonferronis metode brukes ofte i dette feltet for å
+finne øvre skranker for sannsynligheter som involverer maksimum av stokastiske
+variable. Det er vanskelig å finne skarpe grenser, men Bølviken utvikler en analyse,
+der han i visse tilfeller er i stand til å forbedre Bonferronis metode.
+Sverdrup har hatt opphold av lengre varighet ved Statistisk Sentralbyrå. Det
+er derfor naturlig med et bidrag fra dette miljøet. Anders Rygh Swensen berører
+
+et aktuelt problem i byrået der en kombinerer en billig klassifikasjonsmetode (for
+
+eksempel arbeidsledighetstall fra sosialkontorer) med en mer nøyaktig og dyrere
+metode (for eksempel utvalgsundersøkelser) .
+Den første henvisningen til Sverdrup anmelderen støtte på, var 1947-artikkelen
+om utledningen av Wishart-fordelingen. I sitt bidrag gjør Petter Laake bruk av
+Wishart-fordelingen for å finne eksakt fordeling av sannsynlighetsmaksimeringsestimatoren i en faktormodell.
+
+I bokens siste kapittel tar Ole Bie, Ørnulf Borgan og Knut Liestøl utgangspunkt i statistisk inferensteori for telleprosesser, som i stor grad er utviklet av
+Aalen. Målet er å konstruere praktisk anvendbare konfidensintervaller og bånd
+for kumulativ hasardrate. Forfatterne gjør dette ved å bruke transformasjonsteori,
+og anvender metodikken på laks angrepet av Hitra-syken.
+Den betydning Sverdrup har hatt som inspirator for det faglige miljø i Norge
+er meget stor. En del av den tradisjonen han representerer er nå kanskje i ferd
+med å fortrenges av nye utviklinger i faget. Imidlertid vil selve de grunnleggende
+prinsippene fortsatt ha stor verdi, og artiklene i boken tjener som en utmerket
+illustrasjon av vesentlige komponenter i denne tradisjonen.
+
+Dag Tjøstheim
+
+
+
+38
+
+13. Nordiske konferanse i matematisk statistikk, Odense 11.—135.
+juni — noen subjektive inntrykk
+Ovennevnte konferanse fant sted i landlige omgivelser på Universitetet i Odense, i lokaliteter som arkitekter ville rubrisere under funksjonalismen. Et rent feilgrep, spør du meg,
+for å bruke et uttrykk jeg benytter ved spesielle anledninger.
+Konferansen startet etter lunch første dag med et foredrag av Søren Bisgaard, Univ.
+of Wisconsin: “The role of statistics in modern quality improvement”. For folk som
+hørte Liv og Arnljot Høyland ved det norske statistikermøte i fjor eller har lest det
+Jostein Lillestøl har skrevet om dette temaet, ga foredraget lite nytt. Fremføringen var
+meget god, men bar likevel preg av at var holdt adskillige ganger før og da først og fremst
+med næringslivsfolk som tilhørere. Han hevdet at såkalte Taguchi statistiske metoder,
+som benyttes i japansk industri for å sikre kvalitet i alle ledd, er unødig kompliserte, ofte
+ineffektive og av og til helt gale. Det er den underliggende filosofien vi har noe å lære av,
+mindre av metodikken. Han hevdet også at nye forskningsområder dukker opp som følge
+av fokuseringen på kvalitet og at det ikke bare er snakk om oppkok av etablerte metoder
+fra 50 år tilbake. Her burde han gått mer i detalj for å være overbevisende.
+En av gruppesesjonene "industriell statistikk” bidro til å utfylle foredraget på en fin
+måte. Bisgaard presenterte her en ren detektiv historie der materialet i transportbåndet
+til slutt ble avslørt som den skyldige. Undertegnede dro så fornøyd ut på en løpetur, løp
+seg like fornøyd bort og rakk å møte de øvrige konferansedeltagere etter mottagelsen i
+Rådhuset. England-Irland avsluttet kvelden med 1-1.
+
+Ett av de store temaene ved konferansen var “Analysis of variance and design of experiments” ved Tue Tjur, Kjøbenhavn Universitet. Denne serien utfylte igjen Bisgaards
+forelesninger på en fin måte. Fremstillingen var meget god, både klar og underfundig,
+og la vekt på matematisk presisjon. En svakhet er at han i det store og hele holdt seg
+innenfor rammen av ortogonal design for å få pene resultater. Inge Helland tok dette
+opp som invitert diskutant, og ga biter av egne ideer til å bøte på dette.
+Tirsdag formiddags gruppesesjon bød bl.a. på "statistikk og epidemiologi” med Sven
+Ove Samuelsen som en av bidragsyterne: *Case-cohort studies and other variants of casecontrol studies in the life-history setting”. Et særlig interessant bidrag i denne sesjonen
+ble gitt av Michael Vaeth, Aarhus Universitet: *Allowing for random errors in radiation
+exposure estimates for the atomic bomb survivor data”. Jeg skulle gjerne sett at en
+tilsvarende analyse ble gjort etter Tsjernobyl-katastrofen. Ettermiddagens gruppesesjon
+ble ofret til fordel for løpetur og egen forskning. Nattens høydepunkt var NederlandEgypt 1-1.
+
+Det andre store tema ved konferansen var “Topics in spatial statistics” ved Nils Lid
+Hjort og Henning Omre. De hadde valgt å utvide rammen og eksempelvalget fra det
+opprinnelige foreslåtte “Statistical image processing with applications to quantitative
+geology”. For a bruke et av deres egne ngkkelord ma denne sesjonen karakteriseres
+
+som en “mosaikk prosess” og var også ment å være det. Det ble likevel helt klart at
+miljøet på Norsk Regnesentral har gjort en imponerende innsats på dette spennende
+feltet. Ishockeyutskiftingene mellom den entusiastiske Omre og mer nøkterne Hjort var
+også vellykket. Diskusjonen etterpå ble kanskje noe tam der den danske bidragsyter i
+
+
+
+39
+
+alle fall tok knekken på undertegnede med sin computer grafikk. Et av bildene hans ble
+likevel et høydepunkt — nemlig av “the transformed speaker”. Her var det mye danske
+som forsvant ved et enkelt håndgrep.
+
+Onsdagens utflukt til *Fyns Hoved” ble ofret til fordel for løpetur og egen forskning.
+Kveldens høydepunkt var grøtservering i teltleiren ved Knut Liestøl og Inge Henningsen.
+Da lå jeg i sengen med en velfortjent forkjølelse og så Maradona med armer og venner
+slå Sovjet 2-0.
+
+Torsdagens formiddagsprogram er allerede omtalt. Ettermiddagssesjonen ble droppet
+
+til fordel for noe dere aldri greier å gjette. Kveldens bankett startet kl. 18% og holdt
+
+anstendige former til jeg forlot arenaen ved midnattstider. Fredagens hovedforelesning
+«The growth and stabilization of populations” ved Peter Jagers, Gøteborg Universitet
+bar klare tegn på utenomfaglig virksomhet. Foredragsholderen var noe forsinket, i samme
+feststemning som under takketalen kvelden før, mens antall tilhørere var signifikant mindre. Ellers lærte de våkne av oss at forgreningsprosesser også kan brukes på prosessen
+av mutasjoner og dermed bidra til ny innsikt om våre forgjengere.
+Takket være effektive transportmidler, bl.a. drosje betalt av Storebrands utsendte,
+rakk jeg hjem i god tid til en velfortjent løpetur, kveldspils og Vest-Tyskland-De forente
+arabiske emirater 5-1. Ingen dårlig arbeidsuke.
+
+'
+
+Bent Natvig
+
+Forslag til emner for Den 14. nordiske konferansen
+i matematisk statistikk
+Tilfeldig Gang brakte i forrige nummer en omtale av planleggingen av den neste
+nordiske konferansen i 1992, der Norsk Statistisk Forening skal stå som arrangør.
+Programkomitéen vil nå oppfordre leserne om å sende inn forslag til aktuelle
+temaer og mulige foredragsholdere for møtet.
+
+Forslag kan sendes til programkomitéens formann:
+Jostein Lillestøl
+
+Institutt for matematikk og statistikk
+Norges Handelshøyskole
+Helleveien 30
+
+5035 Bergen-Sandviken
+
+Forslag til passende emner kan også rettes til de andre medlemmene av programkomitéen: Nils Lid Hjort, Emil Spjøtvoll eller Ib Thomsen.
+
+
+
+40
+
+NYTT FRA AVD.C
+Matematisk institutt, UiO
+Cand. scient.
+Bjørn Vidar Mauseth : 'Om beregning av IBNR-reserver for personskader i
+ansvarsforsikring for motorvogn
+Veileder : Bjørn Sundt
+
+Stig Harry Olsen : ‘Erfaringstariffering i gruppelivsforsikring Tariffering av tilleggsytelser’
+Veileder : Ragnar Norberg
+Knut Håkon Brox : *Hierarkisk ombyttbarhet og Lindeberg-betingelsen’
+Veileder : Ragnar Norberg
+Per-Henrik Zahl : ‘Relativ overlevelsesrate for heterogene og sensurerte levetider’
+Veiledere : Odd Aalen og Ørnulf Borgan
+
+Forskningsrapporter
+Jozef L. Teugels & Bjørn Sundt : ‘A Stop-Loss Experience Rating Scheme for
+Fleets of Cars’
+
+Bjørn Sundt : ‘Linearly Sufficient Fun with Credibility’
+Bjørn Sundt : ‘On Excess of Loss Reinsurance with Reinstatements’
+Bjgrn Sundt : ‘On Asymptotic Rates on Line in Excess of Loss Reinsurance’
+Actuarial Research Report, 16, 17, 18 and 19, March, April and May 1990, Storebrand
+Grete U. Fenstad & Eva Skovlund :
+
+‘A Two-sample Sequential Rank Test by Scn
+
+Investigated by Stochastic Simulation’
+Statistical Research Report, No 5 1989
+Nils Lid Hjort : ‘On Inference in Parametric Survival Data Models’
+
+Nils Lid Hjort & Grete U. Fenstad : ‘On the last n where || 0, — % ||2 <*
+Statistical Research Report, Nos. 1 and 2, 1990
+
+Permisjon
+Walther Neuhaus har permisjon i ett år fra 1. juni 1990 for å arbeide ved Mira Cousultants Ltd. i Sydney
+
+NYTT FRA UNIVERSITETET I BERGEN
+Uteksaminert cand. scient.
+Klaus Knag: 'Kalmanfilter og andre adaptive prognosemetoder for den dynamisk autoregressive prosess’. Veileder: Dag Tjøstheim.
+
+Doktorgrader
+John Sølve Tyssedal forsvarte 27. april 1990 sin avhandling ‘Autoregressive models
+with suddenly changing structure’ for dr. scient.-graden. Bedømmelseskomiteen bestod
+
+av professor Jiri Andel, Karlovy Universitetet, Praha (opponent), førsteamanuensis
+Sverre Storøy, Universitetet i Bergen og professor Dag Tjøstheim, Universitetet i
+Bergen.
+
+Gyrid Johnsen forsvarte 21. juni 1990 sin avhandling ‘Segmentation and estimation
+in suddenly changing autoregressive models with an application to os! well data’ for
+
+dr.scient.-graden. Bedgmmelseskomiteen bestod av forsker Eivind Damsleth, Norsk
+
+Hydro (opponent), førsteamanuensis Trygve Nilsen, Universitetet i Bergen og professor
+Dag Tjøstheim, Universitetet i Bergen.
+
+
+
+41
+Nytt fra Gruppe for statistikk, NTH
+DOKTORGRAD
+Amanuensis John Tyssedal er tildelt graden dr.scient. ved Universitet i Bergen.
+
+NY VITENSKAPELIG ASSISTENT
+Siv.ing. Lars A. Ødegaard ar tilsatt som vitenskapelig assistent.
+
+PROREKTOR VED NTH
+
+i
+
+Professor Emil Spjøtvoll er valgt til prorektor ved NTH fra 1.7.90.
+
+PROFESSOR II VED NTH
+Dr. philos
+
+Terje Aven, Høgskolesenteret i Rogaland, er tilsatt
+sikkerhetsteknikk ved Institutt for maskinkonstruksjon, NTH.
+
+som
+
+professor
+
+II
+
+i
+
+PERMISJON
+Professor Bo Lindqvist er innvilget permisjon for studieåret 1990/91 for å oppholde seg
+ved Stanford University, California.
+
+FERDIG SIVILINGENIØR
+Gunnar G. Løvås:
+"Investigation of risk from ship transport of liquid hydrogen on a waterway".
+Hovedoppgaven
+
+er
+
+utført
+
+ved
+
+Institut
+
+för
+
+Nukleare
+
+Sicherheitsforschung,
+
+Forschungszentrum Jilich, Tyskland under veiledning av Dr. W. Katscher. (Faglig
+ansvarlig ved NTH: Bo Lindqvist).
+
+FORSKNINGSRAPPORT
+Liv og Arnljot Høyland:
+
+"Statistikkassistert produksjon (SAP). Årsak til japansk industri's suksess de siste
+tiår?" Preprint Statistikk No. 1/90.
+
+LEDIG STILLING VED
+UNIVERSITETET I TRONDHEIM
+NORGES TEKNISKE HØGSKOLE
+
+PROFESSORAT I MATEMATISKE FAG (STATISTIKK)
+
+Professoratet er knyttet til Avdeling for fysikk og maiematikk, Institutt for matematiske
+fag. Instituttet har for tiden 15 professorater, hvorav 4 professor II-stillinger.
+Fagområdet for instituttet omfatter matematikk, numerikk og statistikk. Dette professoratet har særlig ansvar for vndervisning og forskning innen området statistikk.
+Ved bedømmingen vil uet bli lagt vekt på kvalifikasjoner innenfor områder av teorien
+
+for
+
+stokastisk
+
+modellering
+
+anvendelser. Spesielt
+
+risiko-
+
+og
+
+vil
+
+og
+
+det
+
+statistisk
+
+bli
+
+pålitelighetsanalyse,
+
+lagt
+
+analyse
+
+vekt
+
+statistisk
+
+på
+
+som
+
+er
+
+relevante
+
+kvalirikasjoner
+
+forsøksplanlegging
+
+innen
+
+og
+
+for
+et
+
+teknologiske
+av
+
+statistisk
+
+områdene
+
+inferens
+
+i
+
+stokastiske prosesser.
+Instituttet
+
+har
+
+ansvaret
+
+for
+
+en
+
+egen
+
+studieretning
+
+i
+
+industriell
+
+matematikk
+
+der
+
+en
+
+hovedvekt ligger på matematisk modellering. Det er »t siktemål for instituttet å bygge
+ut et brukerorientert matematisk og statistisk miljø.
+
+Ved
+
+Institutt
+
+for
+
+matematiske
+
+fag
+
+er
+
+forskningsaktiviteten
+
+organisert
+
+i
+
+grupper
+
+for
+
+matematikk, numerikk og statistikk. Ved gruppe for statistikk drives for tiden forskning
+
+og utvikling på følgende områder: risiko- og pålitelizhetsanalyse, statistiske metoder i
+billedanalyse, tidsrekkeanalyse og forsøksplanlegging ‘ned spesiell vekt på metoder for
+bedring av kvalitet og produktivitet. Faggruppen har ex utstrakt forskningssamarbeid med
+
+SINTEF (Stiftelsen for industriell og teknisk forskning ved NTH).
+
+Nærmere opplysninger ka. fås ved henvendelse til Institutt for matematiske fag, 7034
+
+Trondheim-NTH, tlf. (07) 593520.
+
+Søknadsfristen er ennå ikke fastsatt når dette skrives. Interesserte bes derfor kontakte
+instituttet eller høgskolen om dette. Stillingen vil dessuten bli kunngjort i Norsk
+Lysingsblad .
+å
+
+
+
+42
+
+Tilfeldig Gang er blitt spesielt anmodet om å bringe denne bekjentgjørelsen:
+
+COMPETITION FOR YOUNG STATISTICIANS
+FROM DEVELOPING COUNTRIES
+1991
+
+The International Statistical Institute (ISI) announces the Fifth
+Competition among young statisticians from developing countries who
+are invited to submit a paper on any topic within the broad field of
+statistics. for possible presentation at the 48th Session of ISI to be
+held in Cairo. Egypt, in 1991.
+Participation in the competition is open to nationals of developing
+countries who are living in a developing country, and who were born
+in 1959 or later.
+Papers submitted must be unpublished. original works which may
+include material from participants’ university theses.
+The papers submitted will be examined by an international Jury of
+distinguished statisticians who will select the three best papers presented in the competition. Their decision will be final.
+The authors of the winning papers will be invited to present their
+papers at the Cairo Session of ISI, with all expenses paid (i.e. round
+trip airline ticket trom his/her place of residence to Cairo plus a lump
+sum to cover living expenses).
+Manuscripts for the Competition should be submitted in time to reach
+the ISI not later than January 1. 1991.
+The rules governing the preparation of papers. applications forms
+and full details are available on request from the ISI Permanent Oftice. The address is as follows:
+The Director
+Permanent Office
+International Statistical Institute
+428 Prinses Beatrixlaan
+2270 AZ Voorburg
+The Netherlands
+
+Neste nummer
+
+Neste nummer av Tilfeldig Gang vil forhåpentligvis komme ut i september. Alle
+
+slags bidrag til bladet er velkomne, enten man tar opp et nytt tema, eller vil
+
+videreføre den diskusjonen som allerede er satt i gang i bladet. Stoff til bladet
+må være redaktøren /typografen i hende senest 1. september. Det kan sendes til:
+Tilfeldig Gang v/Ivar Heuch
+Matematisk institutt
+Universitetet i Bergen
+Allegt. 55
+
+5007 Bergen
+
+Telefon (05) 21 28 35 (direkte)
+(05) 21 28 38 (instituttkontoret)
+
+Styrets adresse
+
+Post som skal til styret i foreningen og ikke til redaksjonen i Tilfeldig Gang, skal
+sendes til:
+
+Norsk Statistisk Forening v/Bent Natvig
+Matematisk institutt, avd. C
+Universitetet i Oslo
+Postboks 1053, Blindern
+0316 Oslo 3
+
+
+
+
+
+Returadresse:
+
+Tilfeldig Gang v/Ivar Heuch
+Matematisk institutt
+Universitetet i Bergen
+Allegt. 55
+
+5007 Bergen
+
+
+

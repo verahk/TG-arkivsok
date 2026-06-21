@@ -1,0 +1,1270 @@
+ISSN 0803-8953
+Tilfeldig gang
+Nr. 2, årgang 37
+November 2020
+
+Utgitt av Norsk statistisk forening
+Redaksjonelt
+
+Fra NSF-lederen . . . . . . . . . . . . . . . . . . . . . . . .
+Fra redaksjonen . . . . . . . . . . . . . . . . . . . . . . . .
+
+1
+2
+
+Tankenøtter
+
+Pusleri nr. 54 . . . . . . . . . . . . . . . . . . . . . . . . .
+Løsning, Pusleri nr 53 . . . . . . . . . . . . . . . . . . . . .
+
+3
+3
+
+Møter og konferanser
+
+Reisebrev frå Trondheim statistikksymposium 2020 . . . . .
+
+6
+
+Artikler
+
+Kan man kvantifisere kreativitet? . . . . . . . . . . . . . . .
+Litt om sannheten bak kvantemekanikken. . . . . . . . . . .
+Tilbakeblikk: Den andre nordiske konferanse i matematisk
+statistikk, Lofthus 1966 . . . . . . . . . . . . . . . . .
+
+9
+13
+18
+
+Nye PhDer
+
+Essays in statistics and econometrics . . . . . . . . . . . . .
+
+21
+
+Kunngjøringer
+
+Welcome to Tromsø and NORDSTAT 2021 . . . . . . . . .
+Online-seminarer . . . . . . . . . . . . . . . . . . . . . . .
+
+22
+23
+
+Meldinger
+
+Nytt fra Oslo, senter for biostatistikk og epidemiologi . . . .
+Nytt fra Tromsø . . . . . . . . . . . . . . . . . . . . . . . .
+Nytt fra Bergen . . . . . . . . . . . . . . . . . . . . . . . .
+Nytt fra NTNU . . . . . . . . . . . . . . . . . . . . . . . .
+Nytt fra Stavanger . . . . . . . . . . . . . . . . . . . . . . .
+
+24
+25
+25
+26
+29
+
+
+
+
+
+redaksjonelt
+Fra NSF-lederen
+Henning Omre | Trondheim
+
+Hei NSF-medlemmer !
+Det går mot vinter – etter en underlig vår, sommer og høst. Jeg
+håper alle våre medlemmer er ved god helse – og ikke har vært
+for plaget av korona-sykdom. Vi er vel alle påvirket av de mange
+smitteverns-tiltakene som er innført – men vi får bite tennene sammen
+og holde ut.
+Nordstat2020, som skulle vært arrangert i Tromsø i juni, ble som
+de fleste vet utsatt i et år til juni 2021. Både VitKom og ArrKom har
+sagt seg villige til å fortsette arbeidet – TAKK til alle som bidrar.
+Arbeidet med Nordstat2021 er i full gang – og forhåpentligvis vil de
+Inviterte foredragene bli uendret. Mye tyder på at det vil ta tid før
+korona-pandemien brenner ut internasjonalt – så for NSF-medlemmene
+kan Nordstat2021 faktisk bli et av få konferanse-alternativ i 2021. Følg
+med på NSF’s hjemmesider.
+NSF har samarbeidet med de andre Nordiske statistiske
+foreningene i en årrekke, men kontakten med andre internasjonale
+sammenslutninger har vært begrenset. De senere år har imidlertid
+FenStatS – The Federation of European National Statistical Societies
+– vært svært aktiv. Denne sammenslutningen samler 26 Europeiske
+nasjonale foreninger – se forøvrig hjemmesiden – www.fenstats.eu.
+Det viktigste initiativet så langt har vært utarbeidelse av retningslinjer
+og organisering av ‘The European Statistical Accreditation’ – altså
+en sertifisering av profesjonelle statistikere. NSF har ikke vært veldig
+aktive i dette arbeidet – og har vedtatt å se tiden an før det eventuelt
+innføres i Norge. For yngre statistikere med ønsket om et bredere
+internasjonalt kontaktnett kan ‘The YoungStatS blog and webinar
+project’ være av interesse – meld dere på. La meg også nevne at
+FenStatS i våres etablerte en ‘COVID-19 Working Group’, men at NSF
+ikke lyktes med å rekruttere velegnede deltakere fra Norge.
+NSF Styret oppdaterte i fjor høst NSF’s hjemmesider – se
+www.norskstatistiskforening.no – og ønsket gjennom det og andre
+tiltak å styrke lokallagene i NSF. Jeg må innrømme at dette arbeidet er
+blitt betydelig hemmet av alle korona-tiltakene, siden seminarer med
+fysisk tilstedeværelse ikke kan arrangeres. De fleste av oss tilbringer
+mer enn ønskelig tid foran skjermen, så webinarer er ikke et attraktivt
+alternativ. På hjemmesidene under fanen Medlemskap – kan en laste
+ned en Rekrutteringsfolder – og jeg oppfordrer alle NSF-medlemmer
+til å spre denne til nye MSc- og Phd-studenter samt andre statistikk
+entusiaster som ikke ennå er NSF-medlemmer. Da gjenstår bare å
+ønske en god mørketid – ta godt vare på dere selv og andre.
+HILSEN
+HENNING O
+1
+
+
+
+Fra redaksjonen
+Tore Selland Kleppe, Jan Terje Kvaløy, Stein Andreas Bethuelsen |
+Stavanger,Bergen
+
+Redaksjonen ønsker å takke alle som har bidratt, spesielt gitt denne
+travle og spesielle tiden for så mange statistiskere.
+Som alltid er nye bidrag kontinuerlig velkomne; send disse til
+tore.kleppe@uis.no
+
+2
+
+
+
+tankenøtter
+Pusleri nr. 54
+Jostein Lillestøl | Bergen
+
+Under en pandemi har myndighetene krevd stans av organisert
+idrettslig aktivitet, også den som ikke innebærer kontakt mellom
+aktørene. Etter en tid får enkelte idretter starte trening under
+forutsetning av at det holdes avstand. Anta at det også gjelder for
+standplassen på en skytebane, der skytterne ligger på linje i båser, og at
+reglene sier at ingen kan ha bås rett ved siden av hverandre. Betrakt en
+skytebane med n = 5 båser
+1 2 3 4 5
+Anta at skyttere ankommer etter tur, og velger bås etter «first come,
+first serve» prinsippet. Disse skytterne er ikke av det glupeste slaget,
+og er også uvillige til å bytte bås etter å ha gjort sitt valg. Anta at hver
+ankommen skytter velger bås tilfeldig blant de som fremdeles er ledige
+og samtidig oppfyller regelen om avstand. Når ingen flere får plass
+starter en skyteomgang. Hva er sannsynlighetene for at banen blir/ikke
+blir utnyttet optimalt, og hva er forventet antall skyttere som får skyte i
+hver omgang? Hommelvik Skytterlag åpnet sommeren 2020 sin nye
+100 meters bane med n=7 båser (og eget rom med kaffekrok). Hva blir
+her sannsynlighetene og forventningen? For et stort antall skyttere n og
+det samme antall tilgjengelige båser, hva er andelen skyttere som får
+plass, dersom de oppfører seg som ovenfor?
+
+Her må skytes inn at skyttere i Hommelvik Skytterlag neppe
+oppfører seg som ovenfor. Som vist i foto på deres hjemmeside fra
+åpningen av banen 30 juni 2020 er det god avstand mellom nabobåser,
+og ytterligere avstand synes unødvendig. Avstand i kaffekroken er nok
+vanskeligere å holde.
+
+3
+
+
+
+Pusleri nr. 53 (løsning)
+Av Jostein Lillestøl
+Oppgaven var: Fem pensjonistvenner har avtalt å møtes på eldresentret en gang i uken på et
+bestemt tidspunkt. De pleier å ankomme hver for seg i tilfeldig rekkefølge. Tre av dem har
+imidlertid uvanen at dersom ingen andre er der ved ankomst, så går denne sin vei uten å
+komme tilbake den dagen.
+Hva er sannsynligheten for at de blir mange nok til å spille bridge?
+Hva er forventet antall fremmøtte?
+En av de upålitelige er strammet opp, og lover heretter å vente på de andre.
+Hva blir nå sannsynligheten og forventningen?
+Finn uttrykket for fordelingen til antall fremmøtte X og dens forventning generelt for tilfellet
+med n personer, hvorav m er pålitelige og n-m er upålitelige, og går sin vei dersom ingen
+andre er kommet før.
+Løsning: Sannsynlighetsfordelingen for tilfellet (m,n-m)=(2,3), dvs fem venner hvorav to
+pålitelige blir ved opptelling av «gunstige på mulige»:
+k
+P(X=k)
+
+2
+1/10
+
+3
+2/10
+
+4
+3/10
+
+5
+4/10
+
+EX=4
+
+Sannsynligheten for at de blir mange nok til bridge er derfor 70%.
+Etter at en er strammet opp og vi har (m,n-m) =(3,2), blir tilsvarende sannsynligheten 90% og
+forventningen 4.5.
+Generelt for tilfellet (m. n-m) kan opptellingen skje ved å fastslå at
+(X=k) er ekvivalent med at «Første pålitelige ankommer som nr. n-k+1».
+Opptellingen skjer ved å velge ut plassene i rekkefølgen for de pålitelige. For antall gunstige i
+teller skal vi ha den første pålitelige på plass nr. n-k+1, og de m-1 andre pålitelige må
+plasseres blant de k-1 gjenværende plassene etter den første pålitelige. Vi får
+𝑘−1
+'
++
+𝑚
+−
+1
+𝑃(𝑋 = 𝑘) =
+; 𝑘 = 𝑚. 𝑚 + 1, … , 𝑛.
+𝑛
+' +
+𝑚
+Forventningen blir
+
+𝐸 (𝑋 )
+
+=
+=
+
+𝑘−1
++
+!
+𝑚
+𝑘
+𝑚
+−
+1
+4
+𝑘
+=
+4
+' +
+𝑛
+𝑛
+"#$
+' +
+' + "#$ 𝑚
+𝑚
+𝑚
+𝑚 𝑛+1
+𝑚
+𝑛 '𝑚 + 1+ = (𝑛 + 1) 𝑚 + 1
+' +
+𝑚
+!
+
+'
+
+
+
+Dette gir for (m, n-m)=(2,3) og (3,2) henholdsvis EX=6·2/3=4 og EX=6·3/4=4.5, som ovenfor.
+$
+
+Antall upålitelige Y som blir værende har forventning 𝐸(𝑌) = 𝐸(𝑋) − 𝑚 = (𝑛 − 𝑚) $%&.
+
+Forventningen til X for gitt (m,n), kall den 𝐸$,! , kan også finnes ved betinging med
+omsyn til først ankomne. Da får vi rekursjonen 𝐸$,! = $! ∙ 𝑚 + !($
+∙ 𝐸$,!(& for
+!
+𝑛 > 𝑚, der 𝐸$,$ = 𝑚 , med løsning som ovenfor.
+
+
+
+møter og konferanser
+Reisebrev frå Trondheim statistikksymposium 2020
+Emma Sofie Skarstein og Janne Hetle Aspheim | Trondheim
+
+Alle deltakarane, med god avstand mellom kvarandre
+
+Fredag 25. september vart Trondheim statistikksymposie halde,
+som det tolvte i rekka. For aller fyrste gong vart symposiet lagt til
+Trondheim, og vi kunnne endeleg med rette kalle det Trondheim
+Statistikksymposiym. Arrangementet fann stad på Scandic Lerkendal, i
+nærleiken av NTNU Gløshaugen.
+Det er ikkje til å kome vekk frå at den pågåande pandemien satte
+sitt preg på arrangementet. Ein av dei mest merkbare skilnadane var at
+symposiet vart arrangert på ein dag i staden for dei vanlege to dagane.
+Ein anna merkbar skilnad var at borddekninga til lunsj og middag
+var i eit klassisk stemnemøte-format med to personar ved kvart bord,
+og god avstand mellom borda. Desse tiltaka verka dog ikkje til å
+leggje noko dempar på korkje dei faglege eller dei sosiale aspekta av
+arrangementet. På programmet sto fem foredrag, og det var satt av
+god tid til både foredraga og spørsmål. Det var og satt av god tid til
+den viktige småpraten i kaffipausene etter foredraga, der ein har høve
+til å både lytte til og delta i spanande diskusjonar. For to nytilsette
+doktorgradstipendiatar som både er på si aller fyrste konferanse
+og samsundes har det ærefulle oppdraget å omtale arrangementet i
+Tilfeldig Gang, gav den uformelle praten oss høve til å driste oss fram
+med dei spørsmåla ein kanskje ikkje vågar å stillje i plenum.
+Det fyrste av dagens fem foredrag vart gjeve av John Tyssedal frå
+Institutt for matematiske fag (IMF) ved NTNU. Han omtala temaet
+industriell statistikk med eit historisk perspektiv ut frå sitt eige arbeid
+6
+
+Foto: Stefanie Muff
+
+
+
+arbeide innan fagfeltet. Han diskuterte mellom anna dei endringane
+industriell statistikk må forhalde seg til etter at «big data» gjorde sitt
+inntog. Det vart påpeika at di som ein behandlar ei algoritme som ein
+prosess, så stend ein att med ei problemstilling som ikkje skil seg
+veldig frå klassiske industrielle problem.
+Neste foredragshaldar, Claudia Battistin, kjem og frå IMF ved
+NTNU. Ho arbeidar med interaksjonar og strukturar i nevrale nettverk
+av den ekte sorten, og ikkje berre dei kunstige som vi har blitt godt
+kjende med dei seinare åra. Ho fortalde om utforingane ein møter
+når ein observerar kun ein andel av nevronane, og at koplingane
+ikkje treng å vere stasjonære. Stasjonære koplingar og observasjon av
+alle nevronar er vanlege antakingar, men desse blir sjeldan oppfylde
+i røynda. Det vart presentert løysingar i form av rammeverk som
+handterar uobserverte nevronar og ikkje-stasjonere koplingar, som i
+tillegg kan by på innsikt i korleis nettverk i hjerna vert forma og dannar
+basis for læring.
+Siste foredragshaldar før lunsj var Emily Grace Simmonds, og
+frå IMF ved NTNU, i tillegg til Institutt for Biologi(IBI). Foredraget
+vart helde over Zoom, då Emily for tida er koronafast i Skottland. Ho
+fortalde om eit pågåande prosjekt ho er leiar for, om korleis ein kan
+framje ein felles standard for beskriving av usikkerheit i ulike nivå av
+ein modell. Ho demonstrerte korleis praksisen kring kommunisering
+av usikkerheit varierte stort, til og med innad i same fagfelt og
+tidsskrift. Prosjektet, som fortsatt er i startgropa, ynskjer å fremje ein
+felles standard for god praksis på tvers av fagområder og statistiske
+bakgrunnskunnskapar.
+Etter lunsj var Jørgen Ødegård første foredragshaldar. Han er
+seniorforskar hjå AquaGen, og arbeidar med genomisk prediksjon
+innanfor oppdrettslaks. Her blir genetiske markørar nytta til å predikere
+den genetiske verdien til eit individ. Men ein startar gjerne på 50 000
+eller fleire genetiske markørar per laks, og i tillegg er markørar som ligg
+nær kvarandre langs kromosonet er meir korrelerte enn dei som ligg
+langt frå kvarandre. I slike tilhøver evnar prinsipalkomponentanalyser
+å redusere dimensjonaliteten og samstundes fremje variasjonen i
+markørane. Desse eigenskapane gjer gode prediksjonar samstundes
+som modellane vert meir berekningseffektive.
+Siste foredragshaldar var Ingrid Heggland frå Universitetsbiblioteket ved NTNU. Ho snakka om «open science», og konkluderte med at
+det eigentleg ikkje er noko anna enn heilt standard god forsking. Ho
+poengterte og at open vitanskap bør gå begge vegar, og at journalar og
+arkiv er på veg til å gjere pubikasjonar tilgjengelege for almennheita
+utan å ta betalt. Vi fikk nokre ressursar og døme på gode, åpne prosjekt
+ein kan bruke til inspirasjon.
+I tillegg til foredraga blei vi også servert ein god lunsj og ein flott
+treretters middag, med gode samtalar og mange nye bekjentskap.
+Takk til arrangementskomiteen, Stefanie Muff og Geir-Arne
+Fuglstad, for eit særs hyggeleg arrangement i ei noko vrien tid!
+Detaljar om arrangementet finnast på https://wiki.math.ntnu.no/
+selbusymposium/2020/start.
+
+7
+
+
+
+Alle foredragshaldarar, frå øvst til venstre: Claudia Battistin, Ingrid Heggland, Jørgen Ødegård, John Tyssedal, Emily Grace
+Simmonds.
+Foto: Geir-Arne Fuglstad
+
+8
+
+
+
+artikler
+Kan man kvantifisere kreativitet?
+Jo Røislien
+
+I forbindelse med Covid-19-pandemien kom Forskningsrådet i mars
+med en hasteutlysning til kompetanse- og samarbeidsprosjekter for
+bekjempelse av koronaviruset. Det var en utmerket mulighet til å koble
+mine to favorittaktiviteter: Statistikk og film.
+
+«Skal forske på vitenskapsformidling i krisetid»
+
+Foto: Mai Simonsen Krøgenes. Fra Kreativt Forum
+
+Krise
+Da koronaviruset kom sveipende inn over Norge vinteren 2020 var det
+en krise, og mange som er opptatt av kriser og krisehåndtering kom på
+banen. Men koronapandemien er ikke bare en krise, det er en veldig
+spesiell type krise: Det er en smittsom sykdom. En smittsom sykdom
+er en helseutfordring, men en veldig spesiell type helseutfordring.
+Mens antallet individer som får brystkreft er omtrent det samme fra år
+til år, så har smittsomme sykdommer av natur et iboende potensiale for
+voldsom vekst. Én smittet blir til to, to blir fire, fire blir åtte, åtte blir
+seksten. Det hele kan raskt vokse fra noen få til veldig mange.
+Dette potensiale for eksponentiell vekst får noen dramatiske
+konsekvenser for hvordan en smittsom sykdom bør håndteres.
+«Vente og se» er en skummel strategi når man har med smittsomme
+sykdommer – og potensielle pandemier – å gjøre. Hvis man vil
+9
+
+
+
+kontrollere det må man ta det hardt og man må ta det tidlig. Hvis et
+tiltak ikke virker drastisk så er det antageligvis for sent.
+
+Når vitenskapen styrer
+For alle som kan noe om smittsomme sykdommer og pandemier er
+ikke dette nytt. For å lykkes med å håndtere pandemier man legge
+ideologi til side og la helsefagfolkene komme på banen. At det var det
+Norge gjorde ble raskt merkbart på pressekonferansene som ble holdt.
+Store TV-bilder av statsminister Erna Solberg sammen med direktør
+for Folkehelseinstituttet Camilla Stoltenberg. Og det er Camilla
+Stoltenberg som snakker.
+Utgangspunktet for tiltakene som har blitt satt i gang i forbindelse
+med koronapandemien er altså ikke bare et spørsmål om hva man
+personlig synes om en sak, men er fundert i tall og statistikk,
+eksponentiell vekst, R0, statistiske begreper og matematiske modeller.
+Det ligger tung helsefaglig og statistisk vitenskap til grunn for de
+beslutningene som tas om hvordan vi som samfunn skal håndtere
+koronapandemien.
+Da er det plutselig ikke bare de folkevalgte politikerne som
+styrer Norge, men helsevitenskap. Og når helsevitenskap får så store
+inngripen i folks personlige liv, deres bevegelsesfrihet, hva de kan og
+ikke kan gjøre, som nå har skjedd, så må folk også få innblikk i denne
+helsevitenskapen som plutselig har tatt over styringen av så store deler
+av livene deres.
+
+Pressekonferanse
+
+10
+
+Foto: NTB scanpix
+
+
+
+Kunsten å blande
+Etter å ha jobbet med ulike forskningsgrupper i medisin og helsefag
+i over 15 år kan jeg en del om helseforskning. Samtidig har jeg
+de siste 10 årene også bedrevet utstrakt vitenskapsformidling
+i det offentlige rom, blant annet foran og bak kamera på flere
+vitenskaps-TV-produksjoner på NRK, Discovery Channel og VGTV.
+Så hvordan man når ut med vitenskap til mange mennesker kan jeg
+også etter hvert noe om.
+De siste årene har smarttelefonen endret folks mediehverdag.
+Heldigvis vet vi hva de gjør der de sitter og stirrer ned i skjermene sine
+hver for seg. De ser på video. Omtrent 80% av all internettrafikk er
+video. Skal vi nå ut til folk – mange folk – må vi skjønne hvordan vi
+kan utnytte videoformatet best mulig. Dessverre er det gjort veldig
+lite forskning på hva som funker og hva som ikke funker når man skal
+kommunisere med video. Det ville vi gjøre noe med.
+Og det er dette som er utgangspunktet for prosjektforslaget vi
+sendte til Forskningsrådet, og som vi fikk tilslag på, og støtte til fra
+Trond Mohn Stiftelse. Det er helsefag og statistikk på den ene siden,
+og vitenskapsformidling og video på den andre.
+
+COVCOM
+Det vi er interesserte i i prosjektet «COVCOM: Fighting a pandemic
+through translating science» er å utforske om det er mulig å
+finne måter å kommunisere helsevitenskap og statistikk knyttet til
+smittsomme sykdommer og pandemier på slik at flest mulig forstår
+mest mulig, fortest mulig. Samtidig er det ikke alt vi kan forvente at
+alle grunnleggende forstår, men kanskje finnes det måter å formidle
+vitenskapen på slik at folks holdninger blir mer positive. Når man
+driver med matematiske fag blir man jo raskt klar over at en av de
+store utfordringene man har når man skal lære bort grunnleggende
+matematiske kompetanse er samfunnets ofte negative holdninger til
+matematikk. Som gjør det vanskelig å nå ut. Klarer man å få gjort noe
+med folks holdninger rundt tematikken er allerede mye gjort.
+
+Rakett
+COVCOM-prosjektet er rigget som et tre-trinns rakett.
+– Først vil vi etablere hva det er fagmiljøene mener er viktig å få
+formidlet når det gjelder helse, risiko, tallforståelse og så videre i
+forbindelse med smittsomme sykdommer og pandemier generelt,
+og den pågående koronapandemien og Covid-19 spesielt. Dette
+er et kvalitativt studium, med fokusgrupper, intervjustudier og så
+videre.
+– Dernest vil vi se på hvordan man kan best mulig kan formidle
+disse tingene, i forhold til ordvalg, metaforer, filmatiske
+virkemidler med mere. Dette er et kreativt studium, der vi
+sammen med profesjonelle kommunikatører i det private, sånn
+som aviser, reklamebyråer og manusforfattere på TV, vil utforske
+ulike innfallsvinkler til formidlingen.
+11
+
+
+
+– Til slutt vil vi teste effekten av denne formidlingen i
+kontrollerte studier. Dette blir et kvantitativt studium, med
+randomisering av ulike kommunikasjonsformer og videoer til
+ulike mottakergrupper, med tilhørende statistisk analyse av
+innsamlet tallmateriale.
+Prosjektet vil altså kombinere kvalitative, kreative og kvantitative
+studier. Et skikkelig mixed methods prosjekt. Vi er veldig takknemlig
+for at Trond Mohn Stiftelse valgte å ta sjansen på et såpass
+ikke-tradisjonelt forskningsprosjekt som dette.
+
+«Avslutning»
+Å formidle fagkunnskap til den generelle befolkningen er en kompleks
+affære, med en hel rekke faktorer som er med og styrer. Alt fra alder
+og oppvekst og bosted og utdanning, til folks holdninger, hvem de har
+tillit til og hva slags mediehverdag de har. Det er mange som sliter
+med det samme, og det har vært stor interesse for prosjektet. En rekke
+journalister har ringt og vært nysgjerrige, det samme med studenter
+i forskningsjournalistikk og kommunikasjon. Det er også det eneste
+forskningsprosjektet jeg har vært med på som har blitt omtalt i Kreativt
+Forum.
+Formidling av vitenskap er generelt preget av personlige forsøk, og
+med lite vitenskapelig systematisk utforsking av hva som funker og
+ikke. Kommunikasjon er i stor grad kultur, samtidig har vi alle sett
+fagformidling som er bedre enn annen. Formidling som treffer oss
+bedre enn annen formidling. Forklaringer som sitter bedre enn andre
+forklaringer. Dette prosjektet er et forsøk på å begynne å nøste i dette
+komplekse feltet, for å begynne å besvare noe. Så får vi se da, når
+prosjektet er ferdig i 2022, i hvor stor grad det virkelig er mulig å
+tallfeste fagformidling.
+
+12
+
+
+
+Litt om sannheten bak kvantemekanikken.
+Inge S. Helland | Oslo
+
+Man lærer stadig noe nytt. Jeg nå kommet i e-post-dialog med den
+franske fysikeren Hervé Zwirn, som tenker dypt, ikke bare på teori,
+men også på eksperimentene bak teorien, reelle eksperimenter og
+tankeeksperimenter.
+Ett slikt eksperiment er det kjente to-spalte-eksperimentet, som
+Richard Feynman så på som litt av essensen bak det som er uforståelig
+ved kvantemekanikken.
+Tenk på at vi har en kilde som sender ut fotoner enkeltvis, og
+at disse har mulighet til å gå gjennom to parallelle spalter, Bak
+spaltene har vi en skjerm. Hvert foton som treffer skjermen vises
+som en prikk, men når vi har mange fotoner, gir disse tilsammen et
+interferens-mønster. Første spørsmål vi kan stille oss, er da: Er lys
+partikler eller bølger? Svaret må på en måte være begge deler, eller
+kanskje heller: Ingen av delene.
+Men vi har flere mysterier her. Hvis vi på en eller annen måte
+klarer å finne ut hvilken spalte hvert foton går gjennom, forsvinner
+interferensmønsteret helt. Vi har her å gjøre med det som Niels Bohr
+kalte komplementære egenskaper til systemet. Vi har mulighet til å
+velge mellom to komplementære eksperimenter: Enten finner vi ut
+hvilken spalte fotonene gikk gjennom, eller vi får et interferensmønster,
+som viser oss bølge-aspektet av lyset. Vi har ikke mulighet til å få til
+begge deler.
+Hervé Zwirn er interessert i en variant av denne situasjonen: Et
+såkalt Forsinket Valg (Delayed Choice) eksperiment. Vi kan tenke
+oss at skjermen er bevegelig, og kan tas bort. Bak skjermen har vi
+to detektorer, hver registrerer bare lys fra én spalte. Altså: Hvis vi
+beholder skjermen, får vi interferensmønster. Tar vi bort skjermen,
+bestemmer vi hvilken spalte hvert foton går gjennom.
+En vanlig tolkning av interferensdelen, er at da må lyset (hvert
+foton) i en eller annen forstand gå gjennom begge spaltene.
+Vi kan tenke oss følgende: Vi har valget mellom å beholde
+skjermen eller ta den bort. La oss holde oss til tolkningen over. Da
+går fotonene i en viss forstand gjennom begge spaltene hvis skjermen
+er der; gjennom en bestemt spalte hvis vi tar skjermen bort. Men vi
+har mulighet til å handle raskt. Si at vi kan ta valget om å beholde
+skjermen eller ikke etter at fotonet det er snakk om har gått gjennom
+spalten(e). Da har vi på en måte oppnådd en virkning bakover i tid:
+Vårt valg påvirker noe som har skjedd tidligere, om fotonet skal gå
+gjennom en eller to spalter. Kan vi finne en løsning?
+Det finnes mange slike Forsinket Valg eksperimenter. Hervé Zwirn
+har diskutert dem i to lengre artikler [1, 2]. Han foreslår en forklaring
+på disse eksperimentene, og også en forklaring på EPR-eksperimentet,
+som jeg skisserte i forrige nummer av TG, den siste forklaringen på
+grunnlag av en helt ny kvanteteori-filosofi som han kaller convivial
+solopsisme. (På norsk kan den kanskje oversettes med ‘selskapelig
+solopsisme’.) Noe som er spennende, er at det kan se ut som det er
+13
+
+
+
+mulig å forene denne filosofien med min egne måte å tilnærme meg
+kvanteteorien på. Forskjellen er at Hervé Zwirn utvikler filosofien
+innenfor det vanlige, formelle kvantespråket, mens jeg prøver å ta
+utgangspunkt i begrepsmessige variable, knyttet til en observatør.
+Skal man virkelig gå i dybden når det gjelder convivial solopsism,
+må man også lese de to artiklene [3] og [4]. Jeg skal prøve å gi en kort
+forklaring.
+Solopsisme er en filosofisk posisjon med mange varianter. I
+utgangspunktet hevder en solopsist at han ikke vet noenting om
+eksistensen av andre ting enn det som forgår i hans eget sinn
+(mind). I dette sinnet lager han sin egen verden. Den selskapelige
+varianten anerkjenner også at andre mennesker har sin egen verden
+dannet på en tilsvarende måte. Og den anerkjenner kommunikasjon
+mellom forskjellige mennesker om visse, konkrete spørmål, mellom
+forskjellige verdener. Grupper av mennesker som kommuniserer godt
+om visse spørsmål, kan i forhold til disse spørsmålene gå inn og virke
+som en enhet, som én verden.
+I makrosammenheng ser vi noe lignende overalt. Vi kan ta
+beslutninger som individer, ut fra vår egen verden. Men vi kan også
+virke sammen i grupper og ta beslutninger ut fra dette. Kommunikasjon
+mellom mennesker er viktig i denne sammenhengen. I noen tilfeller
+kommuniserer man for å få kunnskap, og for slik kommunikasjon
+bruker man begrepsmessige variable.
+Men tilbake til Hervé Zwirn, og hans utspill, der han innfører
+filosofien convivial solopsism i kvanteteorien. I kvante-sammenheng er
+dette synet beslektet med Everett’s relativ-tilstand teori, som har vært
+bakgrunnen for den populære mange-verden tolkningen. Men det er
+også beslektet med kvante-Bayesianismen og med Rovelli’s tolkning
+basert på relative tilstander. Det er imidlertid en helt ny måte å se på
+kvantemekanikken på.
+Utgangspunktet for Hervé Zwirn er det såkalte måleproblemet
+i kvantemekanikken. Det er to fundamentalt forskjellige måter å
+beskrive en måling av et fysisk system på. Den ene er å ta utgangspunkt
+i en såkalt sammenfiltret prosess mellom system og måle-apparat.
+Dette systemet kan beskrives ved den velkjente Schrödinger-ligningen,
+og alt utvikler seg kontinuerlig. Den andre er å se isolert på systemet
+og beskrive en diskontinuerlig reduksjon av kvantetilstanden til dette.
+Men en kontinuerlig beskrivelse og en diskontinuerlig beskrivelse
+kan ikke lett sammenholdes. Problemet forsvinner hvis vi kan gi en
+klar definisjon av hva en måling er. Da kan vi bruke en beskrivelse i
+tilfellet av en måling, og den andre beskrivelsen hvis vi ikke har en
+måling. Men hva er egentlig en måling?
+Her er det at fysikerne innbyrdes er fundamentalt uenige. Ifølge
+Wikipedia finnes det mer enn 16 ulike tolkninger av kvantemekanikken,
+og mange ulike definisjoner av ‘måling’-begrepet. Hva skal vi gjøre?
+Hervé Zwirn foreslår å utvide den sammenfiltrete prosessen over til
+også å omfatte observatøren, altså tre elementer: system, måle-apparat
+og observatør. Dette medfører nødvendigvis at observatøren i visse
+situasjoner ‘samtidig’ kan være i to forskjellige tilstander; det vi til
+daglig tenker på som å ha to tanker i hodet samtidig. Han utvikler så
+14
+
+
+
+disse idéene videre. En måling er en måling først når resultatet er
+oppfattet i bevisstheten til en observatør, det vil si når de to tankene
+i hodet går over til å bli en. Det er dette som er det eneste som er
+diskontinuerlig; alt annet utvikler seg kontinuerlig.
+Se så på det såkalte Einstein-Podolsky-Rosen (EPR) eksperimentet
+i Bohm’s versjon, som jeg beskrev i forrige nummer av TG. To
+observatører, Alice og Bob, er så langt fra hverandre at de ikke kan
+kommunisere. Midt mellom dem er en kilde av sammenfiltrete partikler.
+Disse er karakterisert ved at den totale spinn-vektoren er 0; partiklene
+har tidligere vært i en sammensatt partikkel med spinn 0. Da har de
+den merkelige egenskapen at hvis Alice måler spinn-komponenten i en
+retning a, og får verdien +1 (-1), vil den målte verdien i retning a for
+Bob automatisk bli -1 (+1).Dette gjelder uansett valg av a. Einstein
+kalte dette en ‘spooky action at a distance’.
+La oss prøve å se alt dette i mitt språk. I EPR eksperimentet
+er det for hvert valg av a snakk om 4 begrepsmessige variable: θ a ,
+komponent målt av Alice, η a , komponent målt av Bob, α a , respons i
+hjernen til Alice etter måling, og β a , respons i hjernen til Bob etter
+måling. Ifølge Hervé Zwirn’s tankegang fører α a til et bevisst resultat
+Aa hos Alice; på samme måte gir β a det bevisste resultatet Ba hos Bob.
+Og Aa og Ba blir bevart med tanke på alle framtidige målinger. Ifølge
+Zwirn er det viktig å skille mellom α a og Aa , for eksempel.
+Det er samtidig viktig at θ a og η a er maksimalt tilgjengelige. De
+er komponenter av utilgjengelige spinn-vektorer, si henholdsvis φ og
+γ. Den sammenfiltrete tilstanden er bestemt av at vi ved at γ = −φ ,
+altså totalt spinn 0. Dette utsagnet er tilgjengelig selv om φ og γ er
+utilgjengelige.
+En samtale mellom Alice og Bob etter målingen vil ifølge Hervé
+Zwirn svare til nye, framtidige målinger. Enhver kunnskapsutveksling
+sees på som en måling. Si at Alice spør Bob: Hva var din verdi η a ?
+Først etter at hun har fått svar på dette, er hun sikker på at svaret er
+det motsatte av hennes målte θ a . Det behøver ikke nødvendigvis bety
+at det har vært en bakenforliggende relasjon η a = −θ a . Dette er en
+subtil forskjell, men forskjellen svarer til et filosofisk grunnsyn: Ingen
+måling er en måling før den er oppfattet av en bevissthet. Og ingen
+relasjon kan sies å holde før den er en målt relasjon.
+I hele den kvantemekaniske litteraturen ser en på målinger som
+noe som er uten usikkerhet. Fra et statistisk synspunkt kan det være
+naturlig, særlig om forsøket gjentas, å se på θ a og η a som parametre,
+og det vi observerer er data, som modelleres ved en statistisk modell,
+gitt parametrene. Det som svarer Aa og Ba er resultatet av inferens
+på disse parametrene, gitt data, inferens utført av Alice og Bob før
+de eventuelt kommuniserer, eller eventuelt sammen etter at de har
+kommunisert. Resultatet av denne inferensen, estimater for eksempel,
+er det som deles mellom dem. Usikkerhet i disse estimatene kan
+uttrykkes ved epistemiske sannsynligheter.
+Tilsvarende kan vi beskrive den generelle målesituasonen
+som definert over. Verdien i systemet selv kan kalles θ , verdien i
+måleapparatet z og verdien som observatøren registrerer i sin hjerne γ.
+En må skille mellom γ og det observatøren til slutt bevisst oppfatter
+15
+
+
+
+som resultatet av målingen, si θb. Fra et statistisk synspunkt er det ikke
+særlig problematisk å si at vi her har å gjøre med en diskontinuerlig
+oppdatering av informasjon om θ . Usikkerhet i informasjonen kan
+beskrives ved en epistemisk sannsynlighet. Selve inferensen kan være
+Bayesiansk eller frekventistisk. Det som er kontinuerlig, er det som
+er bakenforliggende og ukjent. Selve θ , som begrepsmessig variabel
+i bevisstheten til en observatør, er den samme både før og etter en
+måling. Det er imidlertid feil i mange tilfeller å si at θ eksisterer i en
+fysisk verden.
+Hva er Hervé Zwirn’s forklaring på resultatene jeg beskrev over
+for to-spalte-eksperimentet? Jeg skal prøve å gi et sammendrag ut fra
+min egen måte å tenke på. Relativt til situasjonen idet et foton passerer
+spaltene, kan vi stille to komplementære spørsmål: Hva er posisjonen
+her (hvilken spalte?)? Hva er momentum her? (Kan bestemmes ut fra
+bølgemønsteret på en eventuell skjerm.) Sålenge fotonet er i flukt mot
+skjerm/detektorer, er svaret ‘vet ikke’ på begge spørsmålene. Ved å
+beholde skjerm eller ta bort skjerm, kan observatøren velge hvilket
+spørsmål han vil ha svaret på. Zwirn har da et viktig prinsipp: Ingen
+måling er en måling før resultatet er registrert i bevisstheten til en
+observatør. Det finnes ikke nødvendigvis en verdi på forhånd for denne
+målingen. Dette er alt vi kan si. Det er ingen virkning bakover i tid.
+Hva med Bell-eksperimentet, som ble skissert i den forrige
+TG-artikkelen min? Her er det en enorm litteratur, mange synspunkter
+og mange tolkninger. Mye av denne litteraturen ble nettopp diskutert
+i oversiktsartikkelen [5], der Marian Kupczynski også fremmer sine
+egne synspunkter.
+Hervé Zwirn og jeg arbeider nå med en felles artikkel [6], der vi
+prøver å forklare brudd på CHSH ulikheten i Bell-eksperimentet ut
+fra convivial solopsism filosofien kombinert med betingingsprinsippet
+fra statistikk. Denne diskusjonen vil også bli tatt med i den reviderte
+utgaven av [7].
+Der vil det også bli forsøkt vist, ved en utvidelse av diskusjonen
+i [8], at det formelle kvanteteori-apparatet kan utledes, basert på
+gruppeteori og grupperepresentasjonsteori, fra en forholdsvis enkel
+teori om begrepsmessige variable, . Matematikken er vel ikke så
+interessant for alle, men jeg tror det kan være en viss interesse for
+resultater som indikerer at tilstanden til et fysisk system kan defineres
+annerledes enn dette merkelige og abstrakte som vi finner i alle
+lærebøker: ‘Tilstanden til systemet er gitt ved en normalisert vektor i et
+komplekst Hilbertrom’.
+
+Referanser
+1 Zwirn, H. (2017). Delayed choice, complementarity,
+entanglement and measurement. Physics Essays 30, 3.
+2 Zwirn, H. (2020). Is the past determined? Preprint.
+3 Zwirn, H. (2016). The measurement problem: Decoherence and
+Convivial Solipsism. Found. Phys. 46, 635-667.
+16
+
+
+
+4 Zwirn, H. (2020). Nonlocality versus modified realism. Found.
+Phys. 50, 1-26.
+5 Kupczynski, M. (2020). Is the moon there if nobody looks: Bell
+inequalities and physical reality. Front. Phys. 8, 273.
+6 Helland, I.S. og Zwirn, H. (2020). The Bell experiment, the
+conditionality principle and convivial solopsism. Artikkel under
+forberedelse.
+7 Helland, I.S. (2018). Epistemic Processes. A Basis for Statistics
+and Quantum Theory. Springer, Berlin. Under revisjon.
+8 Helland, I.S. (2019), Symmetry in a space of conceptual
+variables. J. Math. Phys. 60, 052101.
+
+17
+
+
+
+Tilbakeblikk: Den andre nordiske konferanse i
+matematisk statistikk, Lofthus 1966
+Jostein Lillestøl | Bergen
+
+Den første nordiske konferansen i matematisk statistikk fant sted
+i Århus i 1965 etter initiativ av Ole Barndorff-Nielsen og Arnljot
+Høyland. Den var en umiddelbar suksess, og deltakerne så for seg en
+fast tradisjon som kunne styrke matematisk statistikk som vitenskap i
+de nordiske land. Den neste konferansen fant sted allerede året etter
+den 14-16 juni 1966 med norske verter. Dette var før Norsk Statistisk
+Forening påtok seg ansvaret for konferansene, og hovedsponsorene
+var Institutt for matematiske fag og Sosialøkonomisk institutt ved
+Universitetet i Oslo, samt Norsk Regnesentral. Konferansen ble
+støttet økonomisk av Forskningsrådet og Kulturrådet, samt bank og
+forsikringsnæringen. Komiteen var ledet av Erling Sverdrup, og med
+seg hadde han Herdis Thorén Amundsen, Arnljot Høyland og de den
+gang svært unge Erik Mohn og Jan M Hoem. Disse fem utgjorde på
+denne tiden brorparten av det lille matematisk-statistiske fagmiljøet.
+Alle er for lengst borte nå, men har satt spor etter seg på ulikt vis.1
+Minst kjent er kanskje Erik Mohn, som kom til å spille en sentral
+rolle som leder av organisasjonskomiteen, da det fortsatt lille norske
+statistikkmiljøet noen år senere påtok seg oppgaven å arrangere
+European Meeting of Statisticians i 1978.
+Stedet for den nordiske konferansen i 1966 var Lofthus i Hardanger,
+nærmere bestemt på det tradisjonsrike Ullensvang hotell. Programmet
+fulgte opplegget fra den første konferansen, med tre inviterte foredrag,
+hvert på tre timer, som var ment å gi en oversikt over et fagområde,
+med utsikt til forskningsfronten. De tre temaene var denne gang
+“The statistical theory of sampling plans in industrial quality control”
+(Anders Hall, København), “Statistical inference in non-parametric
+models: Robustness” (Arnljot Høyland, Trondheim) og “On certain
+distribution free significance tests and confidence contours” (Sten
+Malmquist, Stockholm). Det var avsatt hele seks timer til diskusjon
+med utpekte ved forberedte diskutanter, altså et helt annet format enn
+de fleste andre konferanser med korte innlegg og kort diskusjon.
+Statistisk teori for stikkprøveplaner i industriell kvalitetskontroll
+hørtes interessant ut for en hovedfagsstudent som likte teori, men
+lurte på om faget han hadde valgt også kunne brukes til noe i praksis.
+Anders Hald ga først en generell innføring i attributt-utvalgsplaner (dvs.
+defekt/intakt), der også økonomiske kriterier ble trukket inn. Dette ga
+et innblikk i system for statistisk kvalitetskontroll. Deretter gikk Hald
+i dybden på to områder der han selv han bidratt, nemlig med intakt
+kvalitet på to nivåer og asymptotiske egenskaper ved Bayesianske
+utvalgsplaner. Her var nok interessant teori, samt forsikring om
+at metodene var velprøvd i industriell praksis, blant annet under
+andre verdenskrig og senere (herunder Dodge-Romig tabellene og
+Military Standards). Fem diskutanter tok opp ulike sider ved Halds
+presentasjon: modellformulering og alternative stikkprøveplaner
+(Zackrisson), forholdet til inferensteori for øvrig (Erling Sverdrup,
+18
+
+Anders Hald (1913-2007)
+1 Erling Sverdrup (1917-1994) Professor i
+
+Forsikringsmatematikk og Matematisk
+Statistikk ved Institutt for matematiske fag,
+Universitetet i Oslo.
+Arnljot Høyland (1924-2002) Dosent ved
+Norges Tekniske Høyskole (nå NTNU),
+Trondheim, senere professor.
+Herdis Thorén Amundsen (1913-1997)
+Dosent Sosialøkonomisk Institutt,
+Universitetet i Oslo. Leder Norsk Statistisk
+Forening 1963-1965.
+Jan Michael Hoem (1939-2017)
+Universitetslektor i statistikk ved Institutt
+for matematiske fag, Universitetet i Oslo.
+Senere stifter og leder av
+Sosio-Demografisk forskningsenhet ved
+Statistisk Sentralbyrå, professor ved
+Universitetet i København
+(forsikringsmatematikk), Universitetet i
+Stockholm (Demometri)
+Erik Mohn (1936-1988) Forsker Norsk
+Regnesentral. Leder Norsk Statistisk
+Forening 1984-1985.
+
+
+
+Herdis Thorén-Amundsen) og endelig den økonomiske kontekst
+(Sten Thore, Karl Borch). På begynnelsen 1960-tallet hadde japansk
+industri for lengst forstått at stikkprøveinspeksjon ved enden av
+linjen var avleggs. Dette innebar å sortere ut defekte enheter etter de
+var produsert. I oppbyggingen etter krigen hadde statistikeren W.E.
+Deming lært dem at veien til bedre kvalitet var statistisk prosesstyring
+slik Shewhart hadde redegjort for allerede på 1930-tallet. Dette
+innebar fokus på å unngå å produsere feil fremfor å sortere ut allerede
+produserte feil ved enden av linjen. Ingen av diskutantene var inne på
+disse tankene. Først på 1980-tallet ble dette forstått i Vesten, men er
+vel langt på vei glemt igjen.
+Ikke-parametriske metoder var i ferd med å etablere seg som
+eget matematisk-statistisk forskingsfelt på tidlig 1960-tall, i første
+rekke gjennom arbeider av Lehmann og Hodges i Berkeley. Med
+nylig avlagt doktorgrad fra Berkeley var Arnljot Høyland selvskreven
+til å formidle utviklingen på feltet. Han startet sitt foredrag med en
+diskusjon om bruken av termene ikke-parametrisk og fordelingsfri og
+ga deretter en kort oversikt over den historiske utvikling på feltet. Han
+tok så for seg klasser av estimatorer og tester for ett-utvalgsproblemet
+og to-utvalgsproblemet, asymptotiske egenskaper og robusthet. Til
+slutt gikk han grundigere inn på robusthet mot avhengighet for to
+aktuelle estimatorer, for lokasjon, noe som utgjorde en del av hans
+doktoravhandling.
+Det tredje temaet på konferansen dreide seg om KolmogorovSmirnov type tester, og ble også klassifisert som ikke-parametrisk teori.
+Sten Malmquist demonstrerte styrkeberegninger for visse alternativer
+og konstruksjon av konfidenskonturer. Dette var noe han hadde
+arbeidet med for en tid tilbake, og åpnet kanskje ikke de store nye vyer.
+Med de grafiske muligheter vi har i dag hadde temaet trolig vært langt
+mer aktuelt og spennende. Her må skytes inn at Malmquist var mer
+kjent for bidrag til økonometri, og på flere andre felt.
+I alt syv diskutanter hadde oppgaven med å diskutere de
+to ikke-parametriske foredragene. Den innledende diskutant
+Barndorff-Nielsen uttrykte stor skepsis til å gi ikke-parametriske
+metoder noen plass i statistisk teori. Etter hans mening hoppet man
+da over modellbygging i dialog med data, noe som burde lede til
+en parametrisk modell. Dette syn delte han med de fleste danske
+statistikere som artikulerte seg i tiden som kom. De klassiske metodene
+basert på normalitet ble også forsvart med at dersom man hadde
+en ikke-normal modell kunne man transformere data til normalitet.
+Grunnen til skepsisen var nok en oppfatning av at «Berkeley gjengen»
+misjonerte for å erstatte de klassiske statistiske estimatorer og tester
+med mer robuste og typisk ikke-parametriske metoder, eksempelvis
+Wilcoxon istedenfor t. Det har i hvert fall ikke slått til!
+Det var fint vær og fryktelig varmt i konferanselokalet, og det
+faglige programmet varte til bortimot klokken seks. Det var likevel tid
+til en fjelltur eller tur i eller på fjorden. Jeg minnes spesielt den joviale
+finske professor Leo Tørnqvist med fiskestang på kaien. Det var også
+mulig å ta en titt på Edvard Grieg sin komponisthytte, som sto i hagen
+til hotellet, og en kveld var avsatt til Grieg-aften med opptredener. Det
+
+Arnljot Høyland (1924- 2002)
+
+Sten Malmquist (1917-2004)
+
+Erling Sverdrup, foto tatt i Lofthus 1966
+
+19
+
+
+
+var i alt 92 deltakere på konferansen, hvorav 18 norske, 19 danske, 49
+svenske (!) og 5 finske. Fem av de 18 norske var hovedfagstudenter
+som hadde fått en viss støtte fra instituttet for deltakelsen. I tillegg var
+Kjell Doksum kommet over fra Berkeley. Han hadde all sin utdanning
+fra USA og var den gang ukjent for de fleste. Fra da av ble han en
+viktig del av det norske statistikkmiljøet, ikke minst for de mange som
+senere tok fatt på doktorgradsstudier i Berkeley.
+For meg personlig ble denne konferansen en korsvei i livet. Det
+startet i baren på hotellet, der noen av oss hovedfagsstudenter kom
+i prat med en hyggelig dame som ville vite hvem av oss som skulle
+ta eksamen først. De andre pekte på meg, og da sa hun: «Du skal
+opp på rom 314, der sitter min mann Sten Thore og professor Karl
+Borch fra Norges Handelshøyskole og venter på deg». Jeg tuslet opp,
+og ble tilbudt jobb ved NHH allerede fra høsten av. Hovedoppgaven,
+likegyldig hva det var, kunne jeg ferdiggjøre der. Utover ansvar for det
+obligatoriske ett-semesters kurset i statistikk skulle jeg etablere kurs
+innen det nystartede matematikk valgfag, samt kunne tilby seminarer
+i spesielle emner. Jeg ble lovet stor frihet. Det var fristende å slå til
+med en gang, siden det den gang knapt fantes stillinger i matematisk
+statistikk utenom Blindern. To måneder senere var jeg på plass i
+Bergen, i gang med å forelese sannsynlighetsteori etter Fellers bok
+for meget interesserte studenter. Hovedoppgaven ble raskt ferdiggjort.
+Eksamen ble avlagt rett over nyttår og i februar var jeg fast ansatt. Det
+var andre tider! I årene etter kom det stillinger på løpende bånd andre
+steder, men når jeg ser tilbake er jeg tilfreds med valget jeg gjorde i
+Lofthus i 1966.
+
+Herdis Thorén Amundsen, foto tatt i
+Lofthus 1966
+
+Jostein Lillestøl, foto tatt i Lofthus 1966
+
+20
+
+
+
+nye phder
+Essays in statistics and econometrics
+Kjartan Kloster Osmundsen | Stavanger
+
+Utviklingen til moderne Monte Carlo-metoder har gjort statistisk
+inferens mulig for komplekse ikke-lineære og ikke-Gaussiske
+modeller som inneholder latente variabler. Det er ofte relativt
+beregningskrevende å tilpasse data til slike dynamiske modeller,
+da de typisk består av svært mange slike uobserverbare variabler.
+Imidlertid har modellenes fleksibilitet ført til utstrakt bruk innen ulike
+fagområder.
+Avhandlingen min undersøker hvilke statistiske metoder som
+er best egnet for å håndtere ikke-lineære state-space modeller, og
+hvordan man best mulig kan tilpasse slike modeller til observerte data,
+ved å videreutvikle eksisterende modeller og estimeringsmetoder.
+Hovedmålet var Bayesiansk inferens for alle modellparameterne,
+og ble gjennomført ved bruk av ulike varianter og tilpasninger av
+Hamiltonian Monte Carlo, implementert i både R, C++ og Stan.
+Avhandlingen inneholder originale bidrag gjennom å utvikle ny
+metodikk på området. Ytelsen til både eksisterende og de foreslåtte
+nye metodene er undersøkt gjennom anvendelser på økonomiske
+tidsseriedata. Basert på observerte data, gir metodene informasjon om
+interessante økonomiske størrelser som ikke er direkte observerbare.
+I tillegg inkluderer avhandlingen også forskning av mer anvendt
+karakter, der en eksisterende økonomisk modell for råvarepriser
+utvides med en stokastisk trend, for å oppnå en state-space modell.
+Den inneholder også anvendt økonomisk forskning utenfor det latente
+domenet, der ulike risikomål sammenlignes med hensyn til regulering
+av kredittrisiko. Estimeringsmetodene som er utviklet i avhandlingen
+kan benyttes direkte på passende datakilder innen ulike fagfelt, samt
+bidra til å drive utviklingen videre for slike estimeringsmetoder.
+Les mer på www.kjartako.no
+
+21
+
+
+
+kunngjøringer
+Welcome to Tromsø and
+NORDSTAT 2021,
+June 21nd-24th!
+The conference venue is Clarion Hotel The Edge,
+located in the city centre of Tromsø.
+Save the date!
+More information will be coming at
+https://site.uit.no/nordstat2021/.
+
+Programme committee:
+Ingelin Steinsland (chair, Norwegian University of Science and Technology)
+Anders Løland (Norwegian Computing Center)
+Sigrunn Holbek Sørbye (UiT The Arctic University of Norway)
+Sondre Hølleland (University of Bergen)
+Organising committee:
+Sigrunn Holbek Sørbye (chair, UiT The Arctic University of Norway)
+Alf Harbitz (Institute of Marine Research)
+Elinor Ytterstad (UiT The Arctic University of Norway)
+Georg Elvebakk (UiT The Arctic University of Norway)
+Ingeborg Gullikstad Hem (Norwegian University of Science and Technology)
+Questions can be sent to contact.nordstat2021@uit.no.
+
+22
+
+
+
+Online-seminarer
+Stein Andreas Bethuelsen | Bergen
+
+Tiden med koronatiltak og hjemmekontor har naturligvis medført
+begrensning på gjennomføring av seminarer, workshops og konferanser
+og lignende, og mange har blitt utsatt eller kansellert. Men den
+senere tiden har vi også opplevd flere nyvinninger og et betraktelig
+større tilbud av online seminarer til glede for mange. Et eksempel er
+Bernoulli-IMS One World Symposium 2020 som ble avholdt 24.-28.
+august som en hel-ukes konferanse med mer enn 600 innspilte foredrag.
+De fleste foredragene fra symposiet er fortsatt tilgjengelig og kan ses
+her: https://www.worldsymposium2020.org
+I samme slengen nevner vi også initiativet «One World
+Project» og oppstarteren One World Probability seminar:
+https://www.owprobability.org/about Dette er et verdensomspennende
+seminar som fokuserer på sannsynlighetsteori og som i
+ettertid har motivert tilsvarende initiativ i andre fagkretser:
+https://www.owprobability.org/other-worlds
+Følgende nettside gir en større oversikt over kommende
+internasjonale seminarer: https://researchseminars.org
+
+23
+
+
+
+meldinger
+Nytt fra Oslo, senter for biostatistikk og epidemiologi
+Nye PhD-grader
+– Xiaoran Lai forsvarte 25. oktober 2019 sin avhandling
+«Modelling, inference and simulation of personalized breast
+cancer therapy» for graden ph.d. Tittel på prøveforelesningen var
+«Mathematical Methods in Oncology». Bedømmelseskomite:
+Professor Miguel A. Herrero, Universidad Complutense, Madrid,
+Spain, MRC Rutherford Research Fellow Kathleen Kit Curtius,
+Queen Mary University of London, UK, Group leader, NCMM
+Marieke Kuijjer, University of Oslo. Hovedveileder har vært
+Professor Arnoldo Frigessi, Avdeling for biostatistikk, UiO.
+– Solveig Engebretsen forsvarte 25. november 2019 sin avhandling
+«Contributions to network science in public health» for graden
+ph.d. Tittel på prøveforelesningen var « Modelling Social
+Networks». Bedømmelseskomite: Professor Tom Britton,
+Stockholm University Sweden, Professor Vittoria Colizza, Pierre
+Louis Institute of Epidemiology and Public Health, Sorbonne
+University, France, Post doctoral Fellow Ernst Kristian Rødland,
+University of Oslo. Hovedveileder har vært Professor Birgitte
+Freiesleben De Blasio, Avdeling for biostatistikk, UiO.
+– Gražina Mirinavičiūtė forsvarte 25. februar 2020 sin avhandling
+«Infections associated with varicella-zoster virus in Norway:
+disease burden and healthcare resource utilization» for graden
+ph.d. Tittel på prøveforelesningen var «Facilitators and barriers
+for introduction of new vaccines in national immunization
+schedules». Bedømmelseskomite: Professor Pier Luigi Lopalco,
+University of Pisa, Italy, Dr. oec. Anette Siedler, Robert Koch
+Institute, Germany, Professor Tron Anders Moger, University
+of Oslo. Hovedveileder har vært Elmira Flem, MSD Norway.
+Medveileder: Professor Birgitte Freiesleben De Blasio, Avdeling
+for biostatistikk, UiO.
+– Zhi Zhao forsvarte 9. oktober 2020 sin avhandling
+«Multivariate structured penalized and Bayesian regressions
+for pharmacogenomic screens» for graden ph.d. Tittel
+på prøveforelesningen var “Model selection for time-toevent response variables in high-dimensional settings”.
+Bedømmelseskomite: Professor Anne-Laure Boulesteix,
+Ludwig-Maximilians-Universität München, Associate professor
+Francesco Claudio Stingo, University of Florence, Group leader
+Marieke Kuijjer, University of Oslo Hovedveileder har vært
+førsteamanuensis Manuela Zucknick, Avdeling for biostatistikk,
+UiO.
+24
+
+
+
+Nyansettelser:
+– Forsker: Marko Järvenpää, Ulpu Maria Vilhelmiina Remes
+– Postdoktor: Annika Krutto, Vandana Ravindran, Raju Rimal,
+Xiaoran Lai, Harry Thorpe, Zhi Zhao, Mauricio Soares.
+– PhD stipendiat: Andrea Bratsberg, Even Moa Myklebust, Haris
+Fawad.
+
+Nytt fra Tromsø
+Nye PhD-grader
+– Eirik Myrvoll-Nilsen
+Efficient Bayesian analysis of long memory processes applied to
+climate.
+Veiledere: Sigrunn Holbek Sørbye, Martin Rypdal og Håvard
+Rue
+Komite: Daniela Castro-Camilo (University of Glasgow),
+Christian Franzke (University of Hamburg) og Odd Erik Garcia
+(UiT). Disputasdato: 22.05.20
+
+Nytt fra Bergen
+Nye PhD-grader
+– Sondre Hølleland: «Volatility modelling in time and space»
+Hovedveileder: Hans A. Karlsen
+Opponenter: Prof. Steffen Grønneberg (BI), Prof. Kristofer
+Månsson (Jönköping University)
+En presentasjon av avhandlingen finnes her. Sondre Hølleland er
+nå ansatt som forsker ved Havforskningsinstituttet (HI) i Bergen.
+Nye mastergrader
+– Amany el Gharib: Statistical approaches for finding the
+immigrant women’s political participation in 2015 local elections
+and 2017 national elections Veileder: Ingelin Steinsland
+– Fredrik H Bentsen: Model construction with support vector
+machines and Gaussian processes through Kernel search
+Veileder: Yushu Li
+– Eivind Bjørnøy: Markov-switching GARCH models with
+application to insurance claims Veileder: Antonello Maruotti
+– Emil Lund Eilertsen: Hidden Markov and hidden semi-Markov
+models on financial time series Veileder: Antonello Maruotti
+25
+
+
+
+– Elise Fredrikke Fjeld Isaksen: Generative and discriminative
+classifiers: from theory to implementation Veileder: Yushu Li
+– Benedikte Evensen: Model selection in time series by Deep
+Learning Veiledere: Hans Karlsen og Sondre Hølleland
+(bi-veileder)
+– Tony Ernes: Clustering large networks with node-to-vec
+embeddings Veileder: Hans Karlsen
+– Elyas Dawud Mohammed: Count time series with application to
+corporate defaults Veileder: Bård Støve
+Nyansettelser
+– Stein Andreas Bethuelsen, førsteamanuensis
+– Kristian Gundersen, postdoktor i BIA-prosjektet «Smart
+bolighandel»
+– Robert C. Glastad, phd-stipendiat i ERC prosjektet
+«EvoConBiO»
+
+Nytt fra NTNU
+Nye mastergrader
+– Øyvind Stormark Auestad: Estimating the effect of precipitation
+on buried cable current ratings. Veileder Henning Omre.
+– Eivind Baltzersen: Rangering av lag i Eliteserien med bruk av
+TMB. Veileder Jarle Tufto.
+– Martin Outzen Berild: INLA within Monte Carlo methods.
+Veileder Sara Martino.
+– Andrea Mathisen Bratsberg: Inference of migration patterns
+from genetic data via approximate Bayesian computation.
+Veileder Jarle Tufto.
+– Inge Hoven Brakestad: Analysis of salmon lice count data for
+production zones 6 and 7, in Norway 2017-2019. Veileder John
+Sølve Tyssedal.
+– Huimi Chen: Modeling survival data by Coxian phasetype
+models. Veileder: Bo Lindqvist
+– Lars Fredrik Espeland: Share parameter model accounting for
+data missing not at ransom in hypertension models. Veileder
+Ingelin Steinsland.
+– Ida Marie Steinkellner Falnes: Informational cascades where
+individuals have partial knowledge about other individuals’
+competence. Veileder Håkon Tjelmeland.
+26
+
+
+
+– Håkon Gryvill: Hierarchical ensemble Kalman filter formulated
+with sparse matrices. Veileder Håkon Tjelmeland.
+– Sindre Henriksen: Tracking of horizons in seismic data using a
+hidden Markov model. Veileder Henning Omre.
+– Erik Arne Huso: Generative adversarial networks for seismic
+interpretation. Veileder Jo Eidsvik.
+– Kaia Arnøy Høyheim: State-space models for Atlantic salmon
+migration based on acoustic telemetry data. Veileder Jo Eidsvik.
+– Mathias Leander Isaksen: Comparing global and local
+specification of spatially varying anisotropy. Veileder Geir-Arne
+Fuglstad.
+– Astrid Langsrud: Inferring time varying connectivity from spike
+train data. Veileder Benjamin Dunn.
+– Henrik Syversveen Lie: Segmenting ocean surface currents
+using cylindrical hidden Markov random fields. Veileder Jo
+Eidsvik.
+– Jakob Gerhard Martinussen: Roof geometry inference using
+remorte sensing data. Veileder Erlend Aune.
+– August Sørli Mathiesen: Inference on extreme precipitation in
+Norway using INLA. Veileder Sara Martino.
+– Petter Aarseth Moen: Bankruptcy prediction for Norwegian
+enterprises using interpretable machine learning models with a
+novel time series problem formulation. Veileder Jo Eidsvik.
+– Lars Mushom: Disentanglement in variational autoencoders.
+Veileder Gunnar Taraldsen.
+– Even Moa Myklebust: Discovering latent response properties in
+neural populations. Veileder Benjamin Dunn.
+– Fride Nordstrand Nilsen: Prediction models of systolic blodd
+pressure based on HUNT study data. Veileder Ingelin Steinsland
+– Mathias Opland: Forecasting uncertainty with generative
+adversarial networks. Veileder Erlend Aune.
+– Ingri Benedicte Rønning: A new latent-variable statistical
+method for estimating the cost of phenotypic plasticity. Veileder
+Jarle Tufto.
+– Filip Emil Schjerven: Prediction models for hypertension using
+the HUNT Study data. Veileder Ingelin Steinsland.
+– Sivert Selnes: Degredation modelling of railway turnouts using
+wavelets and the Wiener process. Veileder Ingelin Steinsland.
+– Kristoffer Skuland: Levy processed in term structure and market
+risk models. Veileder Jacob Kooter Laading.
+27
+
+
+
+– Mina Spremic: Space-time modelling of infectious diseases.
+Veileder Henning Omre.
+– Erik Hide Sæternes: Objective priors in Bayesian inference.
+Veileder Gunnar Taraldsen.
+– Vegard Tuset: Sensitivitetsanalyse av SNOWPACK for norske
+forhold. Veileder Jo Eidsvik.
+– Maia Haugen Tømmerbakk: Ship tracking based on fiber optic
+cable data. Veileder Jo Eidsvik.
+– Rut Pernille Vatnedal: Design of experiments and response
+surface methodology to tune hyperparameters in random forests.
+Veileder John Sølve Tyssedal.
+– Nan Amalie Videng: Joint modelling of brain cancer incidens
+and mortality in Norway. Veileder Andrea Riebler.
+– Bergitte Viste: The Social and Spiritual Situation in Lilleby:
+A Statistical Simulation Study with a Questionnaire Survey.
+Veileder Henning Omre.
+– Julie Wilberg: Customer risk for moving mortgage to other
+banks. Veileder Geir-Arne Fuglstad.
+Nye PhD-grader
+– Torstein Mæland Fjeldstad
+’Spatial Gaussian Mixture Models Applied to Bayesian Seismic
+Inversion’ Disputas 18 Juni, 2020. I komiteen var Rasmus
+Waagepetersen, Aalborg Universitet, Danmark, Victor Weibull,
+Universitetet i Stavanger, Andrea Riebler, NTNU (intern).
+Prøveforelesningstema: ’A review of frequentist methods for
+parameter estimation for random fields’. Veileder Henning
+Omre.
+– Jacopo Paglia
+’Statistical modeling for safer drilling operations’ Disputas 4
+Juni, 2020. I komiteen var Sonja Kuhnt, Dortmund University
+of Applied Sciences and Arts, Tyskland, Bernt Sigve Aadnøy,
+Universitetet i Stavanger, Geir-Arne Fuglstad, NTNU (intern),
+Prøveforelesningstema: ’Bayesian design of experiments for
+generalised linear models’ Veileder: Jo Eidsvik.
+– Thea Roksvåg
+‘Bayesian geostatistical two field models for combining data
+sources and exploiting short records: Applied to annual runoff
+interpolation in Norway’. Disputas 21 September, 2020. I
+komiteen var Alexandra Schmidt, McGill Univ, Canada, Gregor
+Laaha, Univ of Natural Resources and Life Sciences, Austria,
+Håkon Tjelmeland, NTNU (intern). Prøveforelesningstema:
+’Geostatistical models for stream networks’ . Veileder: Ingelin
+Steinsland.
+28
+
+
+
+– Maria Selle
+’Novel statistical variance and dependency models in quantitative
+genetics: Enabled by recent inference methods’. Disputas 23
+Juli, 2020. I komiteen var Robert Tempelman, Michigan State
+University, Janine Illian, University of Glasgow, UK, Benjamin
+Dunn, NTNU (intern). Prøveforelesningstema: ’Is Bayesian
+inference scalable for big data’. Veileder: Ingelin Steinsland.
+Nytilsatte PhD studenter
+– Janne Cathrin Hetle Aspheim. Veileder Stefanie Muff
+– Martin Outzen Berild. Veileder Geir-Arne Fuglstad
+– Yaolin Ge. Veileder Jo Eidsvik
+– Håkon Gryvill. Veileder Håkon Tjelmeland
+– Yngvild Hamre. Veileder John Tyssedal
+– Emma Sofie Skarstein. Veileder Stefanie Muff
+– Mina Spremic. Veileder Jo Eidsvik
+Nytilsatt Førsteamanuensis
+– Thea Bjørnland er fast tilsatt ved Institutt for Matematisk fag fra
+1 August 2020.
+
+Nytt fra Stavanger
+Nye PhD-grader
+– Kjartan Kloster Osmundsen
+Essays in statistics and econometrics
+Veiledere: Tore Selland Kleppe, Jan Terje Kvaløy, Atle Øglend
+Komite: Chris Nemeth (Lancaster University), Yushu Li
+(Universitetet i Bergen) og Stein Andreas Bethuelsen (UiS)
+Nye mastergrader
+– Alexandra Evangelou, Handling estimation error in Statistical
+Process Control with EWMA charts, Jan Terje Kvaløy
+– Mohsen Taheri Shalmani, Statistical shape analysis of brain
+structures, Jörn Schulz
+– Francis Osei, Stochastic Epidemic Models on Complex
+Networks, Stein Andreas Bethuelsen
+Nyansettelser
+– Jörn Schulz er ansatt som Førsteamanuensis i statistikk.
+– Mohsen Taheri Shalmani er ansatt som doktorgradsstipendiat.
+
+29
+
+
+

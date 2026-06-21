@@ -1,0 +1,2137 @@
+ISSN 0803-8953
+
+TILFELDIG GANG
+
+Nr. 1, årgang 12
+Mars 1995
+
+Utgitt av Norsk Statistisk Forening
+INNHOLD
+Fra redaktøren. Inge Helland
+
+Fra formannen. Eivind Damsleth
+Faglig stoff
+
+Should the Olympic sprint skaters run 500m twice? Nils Lid Hjort
+Hva er p-verdi? Øyvind Langsrud
+
+Om Jostein Lillestøls hund som befinner seg på et jorde i St. Petersburg.
+Knut Meen
+
+Exchange Paradox. Elinor Ytterstad
+Uteglemmelse....
+
+Håvard Rue og Brynjulf Owren
+
+Konferanser og kurs
+Det 8. norske statistikermøtet 1995. Påmelding
+
+21st European Meeting of Statisticians, Århus. Påmeldingsskjema.
+Nasjonalt doktorgradskursi statistikk. Videregående asymptotikk,
+Ved Nils Lid Hjort og Per A. Mykland
+
+Meldinger
+Aktuarstudium i Bergen.
+
+Trygve Nilsen
+
+Årsberetning for 1994. Statistisk forening i Bergen. Ågot Irgens
+Nytt fra Universitetet i Oslo
+Nytt fra Universitetet i Bergen
+Nytt fra NTH
+Nytt fra NLH
+
+Medlemskap i Norsk Statistisk Forening
+Bidrag til TG
+
+
+
+
+
+Fra redaktøren
+Følgende hjertesukk fra Mao Zse-Dong (fra 1949) fikk jeg nettopp overlevert fra en
+
+økonom: "Ennå idag er det mange av våre kamerater som ikke forstår at de må gi akt på
+tingenes kvantitative aspekt, - den grunnleggende statistikk, de viktigste prosenttallene
+og de kvantitative grensene som bestemmer tingenes kvalitet. De har ingen tall i hodet,
+
+og følgelig kan de ikke unngå å gjøre feil."
+De fleste er enige om at tall er nødvendige, men ikke alle vil følge oss videre i vår
+statistiske paradigme: Er det alltid nødvendig med parametriske sannsynlighetsmodeller
+
+for å analysere disse tallene? Et kraftig angrep på statistikernes bruk av sannsynlighetsmodeller ble nylig fremført av R.E. Kalman (Modeling, Identification and Control,
+
+1994, s. 141-151). Jeg vil ikke sitere fra de mer følelsesmessige utbruddene hans her,
+
+men nøyer meg med å gjengi hovedpåstanden:
+"The majority of observed phenomena of randomness in Nature (always excluding
+games of chance) cannot be and should not be explained by (conventional) probability
+theory; there is little or no experimental evidence in favor of (conventional) probability
+but there is massive, accumulating evidence that explanations and descriptions should
+be sought outside the conventional framework."
+
+Påstander av denne typen - særlig når de kommer fra en autoritet som Kalman fortjener å bli tatt alvorlige. De har også et element av sannhet i seg: Det er ikke gitt
+
+som en nødvendighet at alle tallmaterialer må analyseres ved hjelp av sannsynlighetsmodeller. Imidlertid har det vist seg at sannsynlighetsmodeller i mange empiriske
+
+sammenhenger er nyttige idealiseringer, på samme måte som selve tallbegrepet må ses
+på som en nyttig idealisering i sammenheng med målinger. (Hvem kan avgjøre om en
+målt størrelse er rasjonal eller irrasjonal?)
+Leser en igjennom Kalman's artikkel, finner en dessverre lite konkret belegg for
+
+påstanden om at sannsynlighetsbegrepet fungerer dårlig i praksis. Han nevner i en
+fotnote at det er skrevet tusener av artikler om hans eget mest kjente modell-bidrag Kalman-filteret. Det er selvfølgelig trivielt i denne sammenhengen at det er skrevet
+
+titusener av artikler om statistikk bygget på sannsynlighetsmodeller, både anvendte og
+teoretiske. Mer interessant er det at statistikere har skrevet artikler der de prøver å
+bygge bro mellom de to tankeverdenene. (Eksempler: D.B. Duncan & S.D. Horn,
+JASA 1972, s. 815; G.T. Diderrich, Am. Statistician 1985, s. 193.)
+
+Alle motforestillinger tiltross; grunnlagsspørsmål av denne typen er kanskje likevel
+nyttige å ta opp fra tid til annen?
+Inge Helland
+
+
+
+Fra formannen:
+
+Statistikere for/mot EU
+
+Så er det igjen tid for et nytt TG og nye “visdomsord” fra formannen. Jeg synes riktignok
+at det bare er et par dager siden jeg skrev mitt bidrag til desembernummeret, men det
+viser vel bare at jeg blir eldre og at tiden tilsynelatende går fortere og fortere.
+Vi står foran en begivenhetsrik vår og sommer i NSF regi. Når dette leses er antakelig NSFs
+etterutdanningsseminar umiddelbart forestående. Troikaen Box, Høyland og Tyssedal har
+åpenbart slått an - hva deltakerantallet angår blir hvertfall seminaret en suksess.
+Sommerens store begivenhet, i alle fall her på hjemmebane, blir selvsagt det norske statis-
+
+tikermøtet i Åsgårdstrand. Et passende motto for møtet kan forhåpentlig være 45 (Sol,
+Sommer, Sjø og Statistikk). Arrangementet denne gang blir et familieforetakende, med
+Grete Fenstad i programkomiteen og Anne-Marie Fenstad i arrangementskomiteen. Da
+må det jo bli vellykket - så husk påmeldingsfristen 25. april!
+Før den tid er det imidlertid påske, og da skal vel statistikere som andre nordmenn til
+fjells for å oppsøke de siste rester av denne sneen som vi etterhvert er blitt så lei av her i
+lavlandet. Mot norrrmalt? Uansett, ha en god påske!
+1. mars 1995
+
+Eivind Damsleth
+
+
+
+Should the Olympic sprint skaters run 500 meter twice?
+Nils Lid Hjort*
+ABSTRACT. The Olympic 500 meter sprint competition is the ‘Formula
+One event” of speed skating, and is watched by millions of television viewers. Å draw decides who should start in inner lane and who in outer lane.
+Many skaters dread the last inner lane, where they need to tackle heavier
+centrifugal forces than their companions in the last outer lane, at maximum speed around 55 km/hour, at a time when fatigue may set in. The
+aim of this paper is to investigate this potential difference between last
+inner and last outer lane. For this purpose data from eleven Sprint World
+Championships 1984-1994 are exploited. A bivariate mixed effects model
+is used that in addition to the inner-outer lane information takes account
+of different ice and weather conditions on different days, unequal levels for
+different skaters, and the passing times for the first 100 meter. The underlying ‘unfairness parameter’, estimated with optimal precision, is about
+0.05 seconds, and is indeed significantly different from zero; it is about
+three times as large as its estimated standard deviation.
+Results from the work reported on here played a decisive role in leading
+the International Skating Union and the International Olympic Committee
+to change the rules for the 500 meter sprint event; as of the Nagano 1998
+Olympic Games, the sprinters are to skate twice, with one start in inner
+lane and one in outer lane. The best average result determines the final
+list, and the best skaters from the first run are paired to skate last in the
+second run. It has also been decided that the same rules shall apply for the
+single distance 500 meter World Championships; these are arranged yearly
+from 1996 onwards.
+KEY WORDS AND PHRASES: combining data sources, Dan Jansen, mixed effects model, Olympic Games, speed skating, Sprint World Championships,
+unfairness parameter
+
+1. Background: Is the Olympic 500 meter unfair?
+“He drew lane with anxious attentiveness — and could not conceal his disappointment: First outer lane! He threw his blue cap on the ice with a resigned movement,
+but quickly contained himself and picked it up again.
+
+With a start in inner lane
+
+he could have set a world record, perhaps be the first man in the world under 40
+seconds. Now the record was hanging by a thin thread — possibly the gold medal
+too. At any rate he couldn’t tolerate any further mishaps.”
+
+This book excerpt (from Bjgrnsen, 1963, Ch. 9) illustrates what has been known
+for a long time, that even the most accomplished sprint skaters experience difficulties
+
+with the last inner lane. (Yevgeni Grishin indeed had his famous technical accident
+there and found himself stumbling into outer lane, caused by the leather on his left
+boot touching the ice as he had to lean over at the high speed; he miraculously went
+
+on to win the 1960 Squaw Valley Olympic gold medal at 40.2 seconds. Some days
+
+later he achieved 39.6, this time with last outer lane.) The last inner lane skaters
+have to fight a higher acceleration force, since the inner track radius is about 25-26
+meter and the outer track about 29-30 meter, at a time when speed is at peak and
+
+fatigue may set in; see Figure 1. The acceleration force formula is mv? /r, where m
+* Hjort is Professor of Statistics at the University of Oslo, Research Statistician with the Norwegian
+Computing Centre, and Member of the World’s Speed Skating Statisticians’ Association.
+
+Nils Lid Hjort
+
+November 1994
+
+
+
+is mass, v is velocity, and r is radius. Thus a 90 kg skater with top speed 400 meter
+by 27 seconds meets a force of about 80 kp in inner lane and about 70 kp in outer
+
+lane. As a consequence many skaters are not able to keep to the designated curve,
+
+glide out towards or even into the outer lane, and in such cases have to skate some
+extra distance. This phenomenon is particularly prominent on rinks where the ice
+is fast and the curvature radius minimal, as for the modern indoor rinks. The last
+inner lane skaters are also more prone to experiencing technical accidents.
+
+100m, finish
+FIGURE 1. The speed skating rink. The skaters exchange lanes on the
+backstraight. One lap, comprising one outer and one inner lane, is exactly
+400 meter long.
+
+1.1.
+
+THE PRESENT INVESTIGATION. This problem has been recognised and
+
+solved in a satisfactory manner since 1975 when it comes to the annual Sprint World
+
+Championships events, in that an International Skating Union rule was enforced to
+make skaters have last inner and last outer lanes on alternate days. But the Olympic
+event has a potential unfairness built into it since the skaters run only once, and half
+of them are allotted last inner lane and the other half last outer lane, by chance.
+My aim has been to estimate the potential ‘unfairness’ difference parameter
+
+in question as precisely as possible, and to test whether the unfairness is or is not
+statistically significant. The data I have used consist of the complete 500 meter lists
+from the eleven Sprint World Championships for Men Trondheim 1984-Calgary
+1994.
+
+Each skater has a 100 meter passing time and a 500 meter result for the
+
+Saturday event, and similarly for the Sunday event, and skaters start in inner and
+
+outer tracks on alternative days. (The SWCs also include 1000 meter races on both
+Saturday and Sunday, and all four runs contribute to the final standing; our present
+
+concern lies however with the 500 meter only.)
+Agree to define d as the average difference between a result reached by last
+inner track versus last outer track, for the average top sprinter:
+
+d = average difference (last inner track — last outer track).
+The Olympic 500 meter
+
+(1.1)
+
+November 1994
+
+
+
+This is the statistical parameter we wish to estimate with optimal precision. It is
+easy to put up some simple estimates based on individual differences, for example,
+but such estimates will typically lack in statistical precision. I have used a more
+
+sophisticated statistical approach, involving a model with ingredients
+
+500 mgay1 = a1 + b; - 100 Maay 1 + Cskater + Id + variationgay 1»
+500 Maay2 = @2 + ba - 100 Mgay 2 + Cskater + 5d a variationgay 2°
+
+(1.2)
+
+The + here is a plus if the skater has last inner track and a minus if the skater has
+last outer track. The model and methods used take account of the 100 meter passing
+
+times, the individual skater’s ability, possible differences in day-to-day conditions,
+and the inner-outer information.
+
+For illustration, consider data* from the SWC 1994, held in the Olympic Oval,
+Calgary, Canada. These are of the form given in Table 1; a full listing of the 19841994 results is offered in Appendix II.
+first day:
+
+second day:
+
+100
+
+100
+
+500
+
+1. D. Jansen
+2. S. Klevchena
+
+o
+o
+
+9.82 35.96
+9.78 36.39
+
+i
+i
+
+3. J. Inoue
+4. H. Shimizu
+5. K. Scott
+6. I. Zhelezovsky
+7. T. Kuroiwa
+8. Y.-M. Kim
+.. and so on...
+
+i
+9.98 36.43
+o
+9.70 36.35
+i
+9.96 36.87
+i 10.08 36.90
+i 10.11 36.83
+o
+9.81 36.56
+
+o
+
+500
+
+9.75 35.76 WR
+9.82 36.27
+
+9.76 36.05
+i
+9.77 36.08
+o
+9.87 36.55
+o 10.22 36.99
+o 10.07 36.75
+i
+9.76 36.53
+
+TABLE 1. Results for the best of the 33 skaters taking part in the Sprint
+
+World Championship in Calgary, Candada, January 29-30 1994. Here ‘i’
+and ‘o’ signify that the skater started in respectively outer and inner lane.
+The model is more formally motivated and described in Section 2, and estimation methods along with analysis of their precision are developed in Section 3. I find
+it reasonable to interpret d in a somewhat conservative manner, and do not want it
+
+to be overly influenced by various extreme or too unusual results; it is meant to be
+the average difference for ‘usual runs’ where the skaters are up to their normal best.
+
+It is therefore necessary to decide on criteria to define outliers, run times that are
+subsequently to be removed from the final analysis. Three outlier tests are given in
+
+Section 4, which also contains material and analysis that support the fundamental
+statistical model used.
+
+1.2. CONCLUSIONS. In view of the potentially serious implications (as measured
+on the Olympic scale) of the results and their interpretations I decided to gather
+enough data to reach a standard deviation of the final d estimate of about 0.02
+seconds. Preliminary analysis based on a couple of SWCs indicated that this meant
+including about ten complete SWC data sets. Section 5 reports more fully on analysis
+* Data source: SKØYTENYTT (‘Speed Skating News’), 5/6/1984, 6/1985, 6/1986, 6/1987, 7 and
+8/1988, 6/1989, 5/1990, 7/1991, 7/1992, 5/1993, 3 and 6/1994.
+
+This is an international bulletin
+
+issued by the World Speed Skating Statisticians’ Association about ten times a year, and with
+contributing assistant editors from about 20 countries.
+
+Chief editor is Magne Teigen, Veggli,
+
+Norway.
+
+Nils Lid Hjort
+
+November 1994
+
+
+
+of the eleven SWCs 1984-1994; presently we exhibit an estimate of the d parameter
+
+for each, together with their standard errors (estimated standard deviations) and
+their grand (weighted) average.
+~
+
+1994 Calgary:
+1993 Ikaho:
+1992 Oslo:
+1991 Inzell:
+1990 Tromsø:
+1989 Heerenveen:
+1988 West Allis:
+1987 Sainte Foy:
+1986 Karuizawa:
+1985 Heerenveen:
+1984 Trondheim:
+grand average:
+
+d
+
+st. error
+
+0.010
+0.032
+—0.019
+0.023
+0.096
+0.128
+—0.147
+—0.151
+0.035
+0.090
+0.131
+0.048
+
+0.043
+0.041
+0.086
+0.040
+0.087
+0.047
+0.090
+0.080
+0.066
+0.058
+0.038
+0.016
+
+TABLE 2. Estimates of the difference parameter d for eleven Sprint World
+
+Championships for men, along with standard errors (estimated standard
+deviation) for these.
+The d estimates are seen to vary somewhat from competition to competition, as
+was expected in view of the sometimes quite different conditions regarding wind,
+
+temperature, gliding conditions, and the actual sizes of the inner and outer lane radii.
+In situations where there is a strong wind against the skater on the backstraight,
+‘the crossing stretch’, as arguably was the case for many competitors in Sainte Foy
+1987, West Allis 1988 and Oslo 1992, for example, it may actually be fortuitous to
+
+have the last inner course. The d estimates are indeed found to be negative, and
+
+the corresponding standard errors highest, for exactly these three events. The ds
+for other events have values in the range 0.09-0.13 (Trondheim 1984, Heerenveen
+outdoor 1985, Heerenveen indoor 1989, Tromsg 1990), and in the more modest
+range 0.01-0.04 (Karuizawa 1986, Inzell 1991, Ikaho 1993 and Calgary 1994).
+
+It
+
+is a visible feature of the data that the more statistically secure d estimates are
+
+those that are high, and typically reflect good and stable conditions with runners
+attaining their normal high standards. As a case in point, if one excludes 1987 Sainte
+Foy, 1988 West Allis, 1990 Tromsø and 1992 Oslo, which are the four events with
+
+standard errors for d estimates exceeding 0.08, then the grand average estimate
+for the remaining seven SWCs is 0.065, which is nearly four times its standard
+
+error 0.017 (95% confidence interval [0.032, 0.098]). The grand (weighted) average
+estimate for all eleven SWCs is 0.048 seconds, which is about three times its standard
+
+error 0.016, and hence statistically significant (p-value 0.001; 95% confidence interval
+
+[0.174,0.079]).
+
+Further details, along with supplementary analysis and graphical
+
+evidence supporting the d > 0 conclusion, are given in Section 5.
+
+demon-
+
+Women are different from men, aerodynamically speaking*. Folklore knowledge
+in the stands has it that women are not as bothered with the last inner lane as men
+sometimes are; they are seen to keep much better to the designated curve, and also
+seem to have fewer slips and technical accidents than men.
+
+This is supported by
+
+data; see the discussion of Section 6. Thus the unfairness argument is much weaker
+in case of the women’s event.
+How important is the 0.05 seconds difference? At top speed 26 seconds for 400
+The Olympic 500 meter
+
+* Cujus rei
+
+November 1994
+
+strationem
+
+mirabilem
+sane detexi.
+
+Hanc
+marginis
+exiguitas non
+
+caperet.
+
+
+
+meters a skater manages an impressive 15.4 meter in 1 second, and about 0.75 meter
+in 0.05 seconds, which translates into roughly 0.15 percent. It would mean about
+15 meters in a 10 000 m run, and about 65 meters in a marathon. So the difference
+matters! This is also borne out through comparison with real and simulated result
+
+lists for the 1994, 1992, 1988 Olympics, given in Appendix I. As alluded to above
+there are also reasons to believe that the real d number is larger for the modern
+indoor rinks that will host the future Olympic speed skating events, than the grand
+average value 0.05 arrived at here.
+
+1.3.
+
+Å PROPOSAL TO THE ISU AND THE IOC. Å natural proposal to the
+
+International Skating Union and the International Olympic Committee, in view of
+these findings, is that the skaters should run the 500 meter twice, with one start
+in inner and one in outer lane, as in the Sprint World Championships. The most
+natural solution would then be as in alpine events and ski jumping, with a ‘reversed
+starting list”, with the best skaters from the first run starting the latest in the second
+
+run, subject to correct pairing with respect to inner and outer lane, and with the
+best average result defining the final ranking. This is a spectator-friendly regime
+
+too; large screens would at every stage inform viewers of the current ranking as well
+as the performances required by the next skaters to reach the top of the list. The
+average viewers would then easier understand when to be appropriately excited.
+1.4. Copa: THEY SAID YES. Such a proposal was put forward to the ISU at
+
+their June 1992 congress in Davos, along with a brief summary of the work presented
+here (based on SWCs 1984-1992), through the Norwegian delegation. Also included
+
+as handout material to sell the argument were real and simulated 500 meter result
+lists from the two last Olympic events, where the simulated list in question was the
+the speculated outcome if the inner lane starters had started in outer lane and vice
+versa, and computed under the d = 0.06 assumption (which was the estimate based
+on 1984-1992 data; see Appendix I below for such lists for the 1988, 1992, 1994
+
+events, using the d = 0.05 figure). It is fair to add that the attraction argument,
+that the proposed scenario would actually be (even) more spellbinding for spectators, was emphasised as much as the statistical questions related to the unfairness
+parameter. The meeting decided not to interfere with the already laid plans for the
+1994 Lillehammer Olympics, and to reconsider the matter at their next congress in
+
+June 1994 in Boston. And at this meeting the representatives of the 34 attending
+
+countries (ISU members) after some debate unanimously voted yes to the new proposal, which was this time put forward by the ISU Technical Committee for Speed
+Skating, to be made effective from the 1998 Nagano Olympics onwards, for both
+men and women. The new 500 meter rule is also to be made effective for the annual
+World Championships for single distances, which are introduced as from 1996.
+
+Dette er en mildt editert versjon av Section 1 i min artikkel.
+Den interesserte leser kan fa tilsendt det hele, qua Statistical Re-
+
+search Report No. 11/1994, ved å sende et tilstrekkelig informa-
+
+tivt postkort til meg, Matematisk Institutt, P.B. 1053 Blindern,
+N-0316 Oslo.
+
+Nils Lid Hjort
+
+November 1994
+
+
+
+Hva er en p-verdi ?
+av Øyvind Langsrud >
+
+Som statistiker på MATFORSK har jeg kontakt med
+kjemikere, mikrosom utfører forsøk på laboratoriet. Spørsmålet om det er
+signifikante forskjeller er da svært sentralt.
+Noen kan tilstrekkelig med
+statistikk til å kjøre en analyse og finne ut dette selv.
+Andre oppsøker
+statistikere for å be dem om hjelp. Utgangspunktet for konklus
+jonene blir
+
+biologer m.fl.
+
+programutskrifter med p-verdier.
+
+p-verdier står svært sentralt i praktisk
+
+dataanalye, men vet man hva de betyr?
+
+Mitt inntrykk er at svært mange
+F.eks. tror mange at p-verdien er sannsynligheten for at
+nullhypotesen er sann.
+misforstår dette.
+
+For de fleste er et grunnkurs eneste bakgrunni
+
+statistikk.
+
+Statistikkfaget
+
+var ett av mange basisfag, og bare litt av all kunnska
+pen som ble ervervet
+
+før eksamen, blir sittende. (Selv hadde jeg strøket med glans
+hvis jeg skulle
+hatt eksamen i organisk kjemi nå.) Jeg mener derfor at det
+bør legges mye
+mer vekt på begrepet p-verdi.
+
+Det kan legges mer i begrepet enn "minste
+
+signifikansnivå som null-hypotesen kan forkastes på”. Jeg kunne tenke
+meg
+en praktisk definisjon av p-verdi som ikke tar utgangspunkt i signifika
+nsnivå.
+
+Et forslag til formulering kan være være (inspirert av Aalen (1994) 2 ):
+
+p-verdien er sannsynligheten for at man skulle få minst så ekstremt
+resultat
+som man har fått dersom nullhypotesen er sann.
+
+Denne setningen kunne så blitt terpet på til den satt for godt. Setningen
+måkonkretiseres ved at man gir innhold til begrepet ekstremt resultat” i
+de ulike situasjonene. Dette knyttes da opp mot testobservatorene. Det bør
+også nevnes at i de kontinuerlige situasjonene vil p-verdien være Uniform(0,1)
+
+dersom nullhypotesen er sann.
+
+Jeg tror at bedre forståelse av p-verdi vil øke interessen for statistikk generelt.
+Misforståelse av p-verdi kan føre til meningsløse diskusjoner om f.eks.
+
+som er best
+
+av p-verdi og korrelasjonskoeffisient.
+
+statistikkfaget vil da bli den tapende part.
+
+hva
+
+p-verdien og dermed
+
+MATFORSK, Osloveien 1, 1430 Ås
+oyvind. langsrud@matforsk.nlh.no
+”Odd O. Aalen: Innføring i statistikk, med medisinske eksempler.
+
+
+
+Om JOSTEIN LILLESTØLS
+
+HUND
+
+SOM BEFINNER SEG PÅ ET JORDE
+I ST. PETERSBURG.
+av
+
+Knut Meen
+
+Askøy videregående skole
+
+1.
+
+DE YTRE OMSTENDIGHETER.
+
+Problemet som Jostein Lillestøl presenterte i TILFELDIG GANG, Nr 4, 1994 var dette: Du blir
+forelagt to konvolutter med penger i, og får vite at det er dobbelt så mve i den ene som i det
+andre. Du får velge en av dem, åpner den og finner a kroner.
+Spørsmål: Lønner det seg å bytte konvolutt?
+
+Løsningen som Lillestøl ga oss (men som han neppe uten videre går god for) er følgende: Jeg
+har sjansen for å få enten 2a kroner eller a/2 kroner, og det ene beløpet må være like
+sannsynlig som det andre. Forventet beløp er da 2a > 1/2 + a/2: I/2 = 1.25a > a.
+Konklusjonen som han sannsynligvis vil at vi skal trekke må være at det alltid lønner seg å
+bytte konvolutt. Det er strengt tatt ikke engang nødvendig å åpne den første konvolutten. Velg
+en konvolutt, men siden det lønner seg å bytte så ta den andre i stedet, men siden det
+lønner seg å bytte så ta den andre i stedet, men siden det lønner seg å bytte så ta den
+andre i stedet . .. . Så forsøker Lillestøl å avspore problemet ved å etterlyse hunden sin!?
+
+2.
+
+HUNDEN BLIR FORSØKT AVLIVET, MEN ALT HÅP ER LIKEVEL IKKE UTE.
+
+Jeg har jo allerede sluppet katten ut av sekken i overskriften, hunden er funnet, praktisk talt
+død, men det er andre hunder ute og går og da er det nok mange interessante bakgater å jage
+disse dyrene inni (f.eks. beslutningsanalytiske smug både med og uten nyttefunksjon), og det
+er sikkert enda flere uinteressante blindgater forståsegpåerene uten kunnskaper 1
+sannsynlighetsregning vil påstå at de har stengt hunden inne i. (Debatten Marylyn Vos Savant
+satte i gang sitter frisk i minnet).
+
+Jeg går rett på sak. Feilen i problemet med den kuriøse forventningsverdien er egentlig svært
+enkel å peke på. Sannsynlighetene for beløpene 2a og a/2 er ikke lik 1/2. De er heller ikke
+uavhengige av den observerte verdien a, med mindre vi gjør spesielle antagelser. (Vi må
+
+. strekke St. Petersburgparadokset til det ytterste for å kunne få til dette.)
+
+Det er jo ikke en gang sikkert at disse sannsynlighetene eksisterer. Det kan hende at du må
+være erklært Bayesianer for å kunne snakke om disse sannsynlighetene, men ikke subjektiv
+Bayesianer for da eksisterer ikke sannsynligheter i det hele tatt. (Bruno De Finettis slagord
+er jo nettopp "La probabilitå non esiste"). Vi skal innføre et spøkelse som heter åpriori
+fordeling i hundejakten, denne åpriorifordelingen beskriver hvordan beløpene i de to
+konvoluttene blir bestemt.
+
+
+
+11
+
+Vårt viktigste våpen i hundejakten er følgende påstander:
+Kontinuerlig jakt:
+
+Under de spesifiserte betingelsene for en kontinuerlig jakt på Lillestøls hund er:
+2f(a)
+
+Pr{ xX, = 2a | X, = a)
+
+(4)
+
+rå) + 2f(a)
+a
+
+(5)
+
+‘EL X,|X,=a]
+= a+ 2:
+
+å
+
+Få) + 2f(a)
+
+Det lonner seg 4 bytte konvolutt dersom f(a) > f(a/2)/4
+
+Diskret jakt:
+
+Under de spesifiserte betingelsene for en diskret jakt pa Lillestøls hund er:
+
+(6)
+
+=
+| X, = a),
+= 2a
+Prix
+
+f(a)
+
+FE + f(a)
+2
+
+(7)
+
+E[X |X =a]
+
+= a+ 2
+Å
+
+2f(a) - £(-2)
+
+2
+£(2) + £(a)
+
+Det lønner seg å bytte konvolutt dersom f(a) > f(a/2)/2.
+
+Bevis: Siden Pr { X, =a/2|X,=a} = 1 - Pr{ X,=2a|X,=a} er det bare en av
+disse sannsynlighetene vi behøver å bekymre oss med.
+
+Hvis M har en diskret sannsynlighetsfordeling er det lett å vise påstanden: anta derfor at M
+er diskret fordelt, da er:
+
+Pr{ xX, = 2a | X, =a}
+
+Prix, =2allX, =a}
+Prix =a)
+
+Prix =allm=a)
+
+Prix, =allm=a)+ Prix =alim= <=}
+Prix =a|M=a)"f(a)
+
+Prix =a|M=a)" f(a) + Prix =a|m=Z)- rå)
+
+
+
+12
+
+dg
+
+_
+
+z
+
+dy fila)
+=
+
+Ha)
+
+_
+
+f(a)
+
++ l.på
+5
+f(>)
+
+f(a)
+
++
+
+a
+
+El
+
+Forventningsverdien finner vi etter følgende formel:
+
+E[X,|X,=al]
+
+=
+
+3 «(1
+
+=
+
+- Prix, =2a|X1=a))
+
++
+
+2a:Pr{x,
+=2a| xX, =a)
+
+Når M er kontinuerlig fordelt er beviset mer utfordrende, så vi sparer dette til i kveld. Hvis
+ikke vi vil gjøre det lett da. I såfall erstatter vi bare f(a) med f(a)da og f(a/2) med f(a/2)d(a/2)
+i det diskrete resultatet.
+
+4.
+
+UTBYTTET AV JAKTEN VISES FRAM.
+
+Selve jakten på Lillestøs hund er ikke så spennende, så vi går rett på utbyttet:
+A.
+
+Hunden fra St. Petersburg
+
+Med en St.Petersburg-fordelingen mener jeg en diskret sannsynlighetsfordeling pa mengden:
+Q={1,2,4,...,2*, .. } som gir punktet 2* sannsynlighet (1-p)p‘, for k = 0, 1, 2, ... .
+og p € (0 , 1). (Geometrisk fordeling på 2-er potenser).
+
+Fra (6)
+(6) fi
+finner vii
+
+=
+= =2a|X,=a}
+{
+Prix,
+
+=
+1
+
+1
+
+a=1
+
+p
+
+aod
+
++p
+
+Denne sannsynligheten er mindre enn 1/2, for alle verdier av p, men grenseverdien er lik 1/2
+når p > 1. (Vi ma ut på jordet for å finne hunden).
+
+Vi får at E[ X, | X,
+=a ]=a+a(2p-1)/2(1+p), for a> 1. Denne forventningsverdien er større
+enn a når p er større enn 1/2 og setningen om dobbelt-forventning gir det meningsløse
+resultatet E[ X, ] > E[ X, ]. De ubetingede fordelingene til X, og X, ma jo være identiske.
+Men St.Petersburg-fordelingene har ingen forventningsverdi for p > 1/2, så vi blir egentlig
+ikke forbauset når vi konstaterer at E[ X, ] > E[ X, ]. (Ingen av forventningsverdiene
+eksisterer, eller de er uendelig store begge to.)
+
+Det betingede resultatet E[ X, | X,
+
+=a]
+
+>a er det ikke noe galt med.
+
+Nå da vi har funnet Jostein Lillestøls hund nesten levende kan vi jo vise fram andre hunder
+som kom i vår vei.
+
+
+
+13
+
+B.
+
+En kontinuerlig hund fra Jegvetikkehvor.
+
+Vi finner en kontinuerlig variant av hunden fra St.Petersburg hvis vi bruker apriorifordelingen:
+= 1 -
+
+Fix)
+
+xe
+
+x>1
+
+for en konstant k > 0.
+
+Tettheten til denne fordelingen er:
+
+og vi finner
+
+Prix, =2a|x,=a}=
+
+SF
+
+1
++
+
+ay
+
+Denne sannsynligheten er mindre enn 1/2, men den gar mot 1/2 nar k > 0.
+
+E[ X, | X,
+
+=a] >a når k < 1, men som for St.Petersburgfordelingene så eksisterer heller
+
+ikke forventningen i denne kontinuerlige fordelingen når k < 1.
+
+C.
+
+(H)Un(d) i form fra Baskerville
+
+Anta at M er uniformt fordelt over [ 0 , A ], slik at f(x) = I/A for 0 <x <A, da blir
+utfallsrommet for X, intervallet [0 , 2A ] og vi finner:
+
+2
+
+0<a<aA
+
+0
+
+A<as<2A
+
+Resultatet for A < a < 2A er selvsagt innlysende, men det andre resultatet er ikke like
+opplagt. I beviset for den kontinuerlige påstanden finner vi marginalfordelingen til X,;
+F,(x,) = F(x,)/2 + F(x,/2), og da blir sannsynligheten for at 0 < X, < A lik 3/4. (Ellers kan
+du lett resonnere deg fram til denne sannynligheten.) Vi finner den betingede forventningen
+til X,, gitt X, = a til å være
+
+1.5a når a < A, og 0.5a når a > A.
+
+Sannsynligheten for at det lønner seg å bytte er hele 3/4 og den forventete forbedring av
+gevinsten er på 50%, mens sjansen for at gevinsten vil bli redusert med 50% er bare 1/4. Da
+må det lønne seg å bytte konvolutt uåpnet, også i dette tilfellet:
+1.75 a:
+
+3/44
+
++
+
+050a:
+
+14
+
+=1.25a
+
+> a.
+
+I dette tilfellet har vi en langt mer rimelig fordeling enn i de forrige eksempelene, og det
+oppstår ingen problemer med uendelig forventning. Her må da konklusjonen være, som følge
+av setningen om dobbelt forventning, at E[ X, ] > E [ X, ], som opplagt er feil. Som hunden
+fra Baskerville, eksisterer også dette skremselet kun i leserens fantasi, men en behøver ikke
+være Sherlock Holmes for å løse dette mysteriet.
+
+
+
+14
+
+a
+
+NOEN AVSLUTTENDE BEMERKNINGER.
+
+Jeg innrømmer at jeg nok ikke har løst det paradoksale i den situasjonen Lillestøl viste oss,
+bare presisert at dette er St. Petersburg paradokset i en ny forkledning, og etter min mening
+et langt bedre kostyme en det gamle til Daniel Bernoulli. Hvis problemet skulle vært studert
+seriøst som et beslutningsproblem måtte vi tatt stilling til en nyttefunksjon. En lineær
+nyttefunksjon, som er det vi legger til grunn når vi bruker forventningsverdien, er ikke rimelig
+i forbindelse med St. Petersburgfordelingene, eller noen annen ubegrenset åpriori-fordeling.
+(St.Petersburg paradokset kan alltid modifiseres til enhver strengt voksende nyttefunksjon).
+Riktig spennende blir problemet når vi skal spesifisere åpriori-fordeling og kanskje aller først
+ta stilling til-om en slik eksisterer. Må vi virkelig forutsette en slik fordeling for å kunne
+snakke om de betingede sannsynlighetene i (1) ?
+
+Jeg vil takke en av Tilfeldig Gangs redaktører for at han hentet meg inn fra et helt annet jorde
+enn det som hunden var på.
+
+Dette arbeidet er utført med 40 timer fra arbeidstidsavtalens "190-timersramme", individuell
+
+del, og med hjelp av kolegaene lektor Flæten, lektor Hjørnevik Hansen og adjunkt Skipenes.
+
+Noen flere bemerkninger til løsninger med tilleggsinformasjon.
+
+Fra Jostein Lillestøl
+
+1. En ikke-informativ apriori fordeling (der det blir det samme om en bytter eller
+
+ikke) blir av formen konst./x i det diskrete tilfellet og av formen konst./x? i det
+
+kontinuerlige tilfellet, i begge tilfeller uegentlige fordelinger.
+
+2. Ved en logaritmisk nyttefunksjon er det alltid likegyldig om man bytter eller ikke.
+3. Selv om en ikke har en apriorifordelig f(a), vil typisk opplysning om
+
+variasjonsomradet til a vere informativt, f.eks.:
+
+- Med gitt øvre skranke 2A på beløpene, vil en aldri forbedre beløp større enn A.
+- Gitt at alle beløp er heltall, vil en alltid bytte dersom det observerte beløpet er et
+
+odde tall.
+
+En enkel løsning uten tilleggsinformasjon.
+
+Fra Ulf Indahl, Matforsk
+
+Se på minimumsbeløpet M=a som en parameter. Da er fordelingen til beløpet X;i
+
+den første konvolutten som åpnes, gitt ved ligning (3) i Knut Meens artikkel, og
+beløpet X> i den andre konvolutten har samme fordeling. Altså:
+
+Kan vi konkludere at frekventisten har en enklere løsning enn Bayesianeren i dette
+tilfellet?
+
+Inge Helland
+
+
+
+15
+
+Exchange Paradox
+
+Angående Jostein Lillestøls “PUZZLE” i TG nr. 4 1994.
+
+“Exchange Paradox”
+
+Vi legger z kroner i en konvolutt og 2z kroneri annen konvolutt. To personer Å og B mottar
+
+og åpner hver sin konvolutt. De røper ikke for hverandre innholdet i sine konvolutter, og
+kjenner heller ikke 2.
+Dersom Å
+
+finner z kroner i sin konvolutt, så kan det enten være 2z eller % kroner i konvolutt
+
+B.
+
+Lønner det seg for Å å bytte konvolutt?
+Intuitivt svar: Hvis Å bytter får han
+
+= kroner | hvis 2z =z
+
+sannsynlighet ?
+|
+
+2x kroner | hvis z=
+
+ÅND [mtd
+
+verdi
+
+Forventningsverdien skulle da bli:
+
+(Qn -5+2-2) = år kroner
+A har x kroner og tolker 2z som forventet kronebeløp ved å bytte konvolutt. A foreslår
+bytting for B.
+B har gjort
+de samme beregningene og er enig i å bytte. 77?
+
+Tolkning av åzx
+
+Den intuitive forventningsverdien åz kan ikke uten videre tolkes som en forventning. Christensen & Utts (1992) innfører apriorifordeling på beløpet X i en konvolutt, og viser at en
+
+uekte flat apriorifordeling gir forventningsverdi åz.
+Vi vil betrakte en flat apriorifordeling på Z der fz(z) = %, og lar N — oo. Dvs. vi lar
+grunnbeløpet Z (les konvoluttpar) ha en uekte flat apriorifordeling.
+Anta vi har mange (N) konvoluttpar som inneholder forskjellige beløp, men alltid slik at
+beløpet i den ene konvolutten dobles i den andre konvolutten i samme par. Dvs. (z;, 2z;)
+kroner i konvoluttpar nummer j.
+Grunnbeløpet z i et konvoluttpar kan defineres som en tilfeldig variabel dersom vi først
+trekker ett tilfeldig konvoluttpar og deretter fordeler de to konvoluttene på Å og B.
+
+
+
+16
+
+Exchange Paradox
+
+Vi definerer følgende tilfeldige variable:
+X -
+
+kronebelgp i konvolutt A
+
+Y =
+
+kronebelgp i konvolutt B
+
+Zr-
+
+grunnbelgpet i et konvoluttpar
+
+U; =
+
+22;
+
+dvs. (Z;,U;) er beløpene i ett konvoluttpar
+
+Ser på de to betingede variablene:
+
+(Yi|Z;=2)
+
+og
+
+(YIX;=2)
+
+Der
+
+(Y¥|JX;=2) =
+
+P(Z;=2|X;=2)=
+
+2x hvis Z;=x,
+
+:
+
+3
+
+i
+-
+
+hvis alle U; 4 x (og Z; = 2)
+
+hvis én U; = x (og Z; = 2)
+
+hvis én Z; = x (og U; = 1)
+
+ists, PU=eG=2)- 1 hvis alle Z; Å x (og U; = x)
+
+2
+
+ee
+
+|
+
+TJ: a
+
+fa
+
+z
+
+Betinget forventet beløp i konvolutt B gitt grunnbeløpet z:
+
+E(Y;|Z; = 2)
+= z- P(Y, = 2|Z; = 2) + 2zP(Y;
+=
+22|Z; = 2) = 22 +22 1_ 3,
+Ubetinget forventet belgp:
+
+E(Y;) = EE(Y|Z;
+
+der EZ
+= 5N
+j=1 235
+
+=2)=2EZ
+
+Betinget forventet belgpi konvolutt B gitt z kroneri konvolutt A:
+a
+
+ET
+|
+= å) =
+
+hvis alle U;
+
+2mi+2l=3åx
+
+Frog Z; = x
+
+hvisén U;=xogén Z,=2
+
+$
+
+hvis U; = z og alle Z;
+
+A x
+
+Ubetinget forventet belgp i konvolutt B er som tidligere:
+
+E(Y) = EE(Yi|X;))
+
+=
+
+1
+
+5
+
+z: alle U;ee Zi=z
+
+2
+
+= (Dyrat
+
+= ga
+2]
+
+i=1
+
+OD
+
+2N
+
+Uj=20§ Zi=z
+
+1
+
+æl,
+
+å
+
+PEN
+
+sine aan)
+vi
+
+r
+
+L
+
+1 3
+
+10
+
+2
+
+2
+
+(id
+z
+
+li
+
+a
+
+1
+
+DER
+
+a: U;j=x og alle Z;øz aan
+
+
+
+17
+
+Exchange Paradox
+
+Vi ser at betinget forventet beløp ved å bytte konvolutt gitt at vi kjenner beløpet i egen
+
+konvolutt er enten 2x, åx eller £ avhengig av verdien til x.
+Vi skal videre undersøke hvordan det går med E(Y;|X; = x) når antall konvoluttpar økes
+slik at Z kan anta en hvilken som helst positiv verdi bare N
+
+er tilstrekkelig stor.
+
+Antar 2n konvoluttpar med grunnbeløp:
+
+Z € {€n, 2cn,3Cn,***,2ncn)
+La n — 00 og cn — 0 slik at ne, > 00
+Da er
+2n
+
+1
+
+1
+
+2n
+
+1
+
+1
+
+PU; #a,di=2) = Fy "1
+2n 1
+il
+PU=n%=2) = 35% "3
+PUi=2,2;42) = Jå
+Forventet beløp ved å bytte er uforandret når antall konvoluttpar økes. 2x kan fremdeles
+ikke tolkes som en forventningsverdi selv om vi tillater grunnbeløpet å anta alle positive
+
+verdier.
+
+Referanse:
+Christensen,
+R.& Utts,J. Bayesian Resolution of the “Exchange Paradox”, The American
+
+Statistician, pp 274-276, 1992.
+
+Elinor Ytterstad
+Univ. i Tromsø
+
+
+
+18
+
+Uteglemmelse...
+I forrige nummer av Tilfeldig Gang, Nr. 4, 1994, ble desverre siste avsnitt i seksjon 5
+
+aviånlegget til Håvard Rue og Brynjulf Owren (On a Christmas Party Problem), uteglemt
+når TG ble redigert (noe kanskje den oppmerksomme leser merket?). Det nedenforstående
+skal da følge rett etter ligning 14 på side 19, i nevnte bidrag.
+
+From this we obtain
+
+G1) = iL,
+EM)
+
+=
+
+and then
+
+1,
+
+GO 1) = 1,
+
+and then
+
+var(N,) = G69)(1)+6Q() (1-0Q0)
+=
+
+1.
+
+The variance of N, is then independent of n, n > 2. In fact, we can do even better as
+
+from (14) we find
+
+1, O<j<n,
+GRO = BAO =D) G-y=f BOSE
+This means that all jth order moments are equal and independent of n for n > 7,
+
+E(N2) = E(NZ.),
+
+for 0 < j < min(m, n).
+
+
+
+19
+
+Det 8. norske statistikermøte
+
+Åsgårdstrand 12.—14.juni 1995
+Påmelding og betaling
+Påmelding til Geir Storvik, epost; geirs@math.uio.no eller post; Matematisk
+Institutt, Avdeling for Statistikk, Postboks 1053 Blindern, 0316 Oslo 3.
+
+Betaling av konferanseavgiften, kr 400 (kr 600 ved betaling etter fristen),
+til Norsk Statistisk Forening i Oslo, ved Arnfinn Schjalm, Steinspranget 63,
+
+1156 Oslo, postgirokonto: 0809.34.68113
+Frist for påmelding og betaling: 25.4.95.
+
+Hotell-regningen, ca kr 2000, betales direkte til Åsgårdstrand-hotell.
+Transport
+
+Det er planlagt båt fra Akerbrygge i Oslo kl 09.00 12.6.95 til Åsgårdstrand
+ca kl 11.00. Tilbakereisen vil bli enten med båt eller buss. Pris ca kr 250
+tur og retur for begge alternativene.
+Tilbud om organisert transport vil bli sendt ut sammen med programbladet
+for konferansen.
+
+Spørsmål kan stilles til Geir Storvik på epost (adresse over) eller
+på telefon 22 85 58 94.
+
+Påmeldingsskjema
+Ønsker overnatting på hotell: Ja / Nei
+Ønsker transport: Ja / Nei
+Navn:
+
+Adresse:
+Postnummer:
+
+
+
+20
+
+21ST EUROPEAN MEETING OF STATISTICIANS
+21 - 25 AUGUST, 1995
+UNIVERSITY OF AARHUS - DENMARK
+REGISTRATION FORM
+Kindly retum this form as soon as possible and preferably before 1 June, 1995, to: AARHUS CONVENTION
+BUREAU, Raadhuset, DK-8000 Aarhus C, Denmark. Phone:++45 86 12 11 77; Fax:++45 86 12 08 07.
+(PLEASE TYPE)
+Sumame:
+First name: —
+
+Institution:
+
+-
+
+Mailing address:
+
+Postal code:
+
+City:
+
+Country:
+
+E-mail:
+
+Phone: (+ country code):
+Accompanying person(s)
+
+Surname:
+
+001
+
+Fax:
+~
+
+First name:
+
+Member of je Bemoulli Society— paid before 1 June, 1995
+
+1400
+
+002 |
+003 |
+004 |
+005 |
+006 |
+
+Member of the Bernoulli Society
+— paid after 1 June, 1995
+Non-member - paid before 1 June, 1995
+Non-member - paid after 1 June, 1995
+Joining member - paid before 1 June, 1995
+Joining member - paid after 1 June, 1995
+
+1650
+1550
+1800
+1400
+1650
+
+007 |
+
+Accompanying person(s)
+
+325
+
+PERS.
+
+DATE
+20.8 |
+21.8
+
+23.8
+
+23.8
+23.8
+24.8
+
+SOCIAL PROGRAMME - NOT VALID WITHOUT TICKET
+100] Welcome Reception (Institute of Mathematics)
+200 | Civic Reception & Buffet (The City Hall)
+300 | City Sight-seeing Tour
+
+400 ; Excursion to Ebeltoft
+500 | Excursion to the Lake District of Silkeborg
+600 | Conference Dinner (Varna Mansion)
+700 | Lunches (21, 22, 23, 24 and 25 August)
+
+NB! Please state No. ofpersons also when arrangements are inclusive.
+
+GE
+0
+0
+
+255
+
+275
+275
+400
+350
+
+Total DKK
+
+The above amount has been:
+
+transferred to postal cheque account No. 2 09 80 16.
+
+enclosed by cheque in Danish Crowns, drawn on a Danish bank made payable to: EMS, c/o Aarhus Convention
+Bureau, Raadhuset, DK-8000 Aarhus C, Denmark.
+enclosed by Eurocheque in Danish Crowns (max. DKK 1.500 per cheque).
+
+transferred: Order to: EMS, c/o Aarhus Convention Bureau. Account No. 3627-3258011031, Den danske Bank,
+2-12 Holmens Kanal, DK-1092 Copenhagen K.
+
+creditcard:
+
+Card number:
+
+Visa
+
+Diners
+
+Eurocard
+
+MasterCard
+
+‘Expires:
+
+JCB
+
+Dankort
+
+Card holder's signature:
+
+NB! Fees, if any, are at the sender's expense.
+ACCOMMODATION —
+
+Category
+
+A. with bath / shower / toilet
+B. with bath / shower / toilet
+
+es
+
+3
+
+7
+
+(approx)
+
+single room
+
+198
+
+single room.
+
+2 = 273
+
+325- 340
+single room
+a, ra
+ag ni fa
+The room prices include breakfast, VAT and service charges. Payment directly to hotel upon departure. NB! Should the
+
+preferred category be fully booked, we reserve the right to book you a room in another category. Please state alternative
+choice-category:
+. I wish to share a double room with (state name):
+date
+
+"|
+
+signature
+
+
+
+21
+
+NASJONALT DOKTORGRADSKURS I STATISTIKK 1995:
+
+Videregående asymptotikk: Teori og anvendelser
+Innhold:
+
+Målet med kurset er å vise den brede nyttigheten av begreper og metoder innen
+
+videregående statistisk asymptotikk. Med 'videregående' menes at deltagerne bør ha en
+rimelig 'working knowledge" av de store talls lov, sentralgrenseteoremer med
+anvendelser, og asymptotisk normalitet i vanlige situasjoner. Kurset vil trekke frem
+
+forskjellige retninger som springer videre fra dette stoffet, både klassiske og mer
+
+moderne, og gi en kort innføring i de sentrale begreper og metoder. Intensjonen er å
+komme raskt frem til hovedidéer og anvendelser uten å gå helt ned på dypet i hver
+enkelt retning. --- Blant temaene vil være likelihood-inferens, empiriske prosesser,
+Edgeworth- og sadelpunkt-approksimasjoner, noe om hvorfor bootstrapping virker
+(eller ikke), og endelig noe om martingal-grensesetninger.
+Forum:
+
+Dr.grads-studenter i statistikk i Norge. Vi håper også at en og annen svensk eller dansk
+doktorand vil benytte anledningen. Også cand.scient.-studenter, med passende
+
+bakgrunn (tilsvarende Oslo-kurset ST 201), er velkomne; eksamen vil kunne gå inn i
+cand.scient.-graden. Endelig er dette en etterutdanningsmulighet for arbeidende
+
+statistikere. Det bør presiseres i miljøene at doktorgradsstudenter er ønskede deltagere
+
+selv hvis de tilfeldigvis ikke skal ta eksamen. Dette er jo ment å være de kanoniske
+anledninger for disse, for å se og føle at de er en del av et større norsk miljø.
+
+VENNLIGST SPRE DENNE INFORMASJONEN TIL ALLE TENKELIGE INTERESSERTE.
+Kurssted:
+
+Blindern, Matematisk Institutt, Universitetet i Oslo.
+Tidspunkt:
+
+Kurset gis over to isolerte og noe avkortede uker, én før og en etter sommerferien.
+Studentene skal utføre et passende prosjektarbeid i mellomtiden.
+
+Den første delen er
+
+torsdag 15., fredag 16., lørdag 17. og mandag 19. juni,
+
+rett etter det norske statistikermøtet i Ås garstrand;
+
+|
+
+og den andre luten blir mandag 4.--torsdag 7. september.
+Eksamen:
+
+I tillegg til obligatorisk prosjektoppgave vil det bli arrangert en skriftlig seks-timers
+eksameni etterkant av kurset. Kurset er på tre vekttall.
+Fagansvarlige:
+
+Professor Nils Lid Hjort, Matematisk Institutt, Universitetet i Oslo.
+
+Professor Per A. Mykland, University of Chicago, vil være annen-foreleser.
+
+
+
+22
+
+Ansvarlig institusjon:
+Matematisk institutt, Universitetet i Oslo.
+Utgifter:
+
+Det er søkt om midler som vil gjøre kurset latterlig billig! Deltagerne må imidlertid selv
+sørge for husvære de aktuelle netter.
+
+Påmelding og ytterligere opplysninger:
+Til Nils Lid Hjort, Matematisk Institutt, P.B. 1053 Blindern, N-0316 Oslo; elektronisk
+post nils@math.uio.no, telefon 22 85 59 54, fjernfacsimile 22 85 43 49.
+
+Påmeldingsfrist:
+15. april 1995.
+
+Kursmateriell:
+
+Noen ‘Lecture Notes' av Nils Lid Hjort, samt en referanseliste med anvisninger, vil bli
+tilsendt de påmeldte like etter påmeldings-fristen (til en meget moderat kopieringspris).
+SS
+
+Illustrasjon til historien på de neste to sidene; hentetfra 'På Høyden": Tre
+forsikringsselskaper skal finansiere hovedfag i forsikringsmatematikk ved UiB. Her
+
+står fakultetsdirektør Kjell Sælen (til h.) sammen med toppsjefene Bjørn Elvestad, Vital
+(t.v.), Trygve Bruvik, Vesta og Harald Karlsen, PMS Norden. (Foto: Vital)
+
+
+
+23
+
+Aktuarstudium i Bergen
+I høst mottok Matematisk institutt en henvendelse fra forsikringsmiljgene i
+
+Fyllingsdalen med spørsmål om en kunne være med å på avhjelpe mangelen
+på aktuarer i de bergenske selskapene. Dette kom egentlig ikke som noen
+stor overraskelse. Vi hadde lenge visst at Universitetet i Oslo har hatt prob-
+
+lemer med å få besatt lærerstillingene i forsikringsmatematikk. Vi har også
+tatt de mange annonser fra forsikringselskaper etter aktuarer i aktuarforeningens medlemsblad som en indikasjon på at etterspørselen etter aktuarer er
+vesentlig større enn tilgangen. Under slike forhold er det vanskelig å motivere
+folk som allerede har slått seg ned i Oslo til å flytte på seg. Til det er tidene
+for aktuarer for gode. Så også for forsikringsselskapene i provinsen gjelder
+vel Ibsens ord fra “Terje Vigen”: “Den fattige sultet, den rike led savn”. Som
+vanlig håper en at folk som er utdannet utenfor hovedstaden vil forbli der.
+Ved Universitetet i Bergen har vi hittil betraktet utdannelse av aktuarer som
+et ansvar for Universitetet i Oslo selv om emnet ”Skadeforsikring” har vært
+forelest og flere hovedfagsoppgaver har vært gitt med tema fra forsikring og
+
+finans. En ytterligere bakgrunn for henvendelsen er sikkert at 6 statistikere’
+
+med sin utdannelse fra Bergen arbeider eller har arbeidet i Vital og Vesta,
+noen med og noen uten aktuarkompetanse.
+Som det fremgår av vedlagte utklipp fra det interne meldingsbladet for Uni-
+
+versitetet i Bergen *På Høyden” vil forsikringsselskapene Vesta og Vital og
+dataselskapet PMS Norden finansiere en førsteamanuensisstilling i statistikk
+ved Matematisk institutt for 4 år for å dra det i gang. Dette er ikke første
+gang at instituttet har fått finansiert en stilling fra næringslivet. I 1964
+mottok UiB melding om at forsikringsselskaper og banker i Bergen var villige til å gi et “gaveprofessorat” i statistikk for 4 år. Det var starten på
+statistikkutdannelsen 1 Bergen.
+
+Matematisk institutt har allerede opprettet emnene *Livsforsikring” og *Skadeforsikring”. Foreløpig er de kopi av de tilsvarende emner i Oslo. Det førstnevnte
+foreleses dette semester med god deltagelse både av unge studenter og av
+ansatte i *giverselskapene”. Det andre emnet kommer til høsten når den nye
+stillingen forhåpentligvis er besatt.
+Trygve Nilsen
+
+lJens Løvik, Jostein Paulsen, Ole Lauvskar, Marit Holen, Astrid Lunde og Terje
+Schaathun
+
+
+
+24
+
+Forsikringsselskaper betaler
+
+nytt hovedfag
+
+Nå skal det bli mulig å ta ho-
+
+Bakgrunnen
+
+vedfag i forsikringsmatematikk
+
+ringsselskapene
+
+ved Universitetet i Bergen,
+
+skriver forsikringsselskapet
+Vital i en pressemelding.
+
+Sammen med Vesta og PMS
+Norden skal Vital finansiere en
+
+stilling som førsteamanuensis
+
+ved UiB. — Så lenge vi har sty-
+
+ringen, ser jeg ingen betenkeligheter, sier fakultetsdirektør
+Kjell Sælen.
+
+for initiativet er at
+
+universitetet senere kan videreføre studict
+selv. sier fakultetsdirektør Kjell Sælen.
+— Betyr dette at det er fritt fram for bedrifter.som vil «kjøpe» seg et studium?
+
+vilgning på 1,5 millioner kroner som skal
+
+dekke omkostningene ved en førsteamanuensisstilling i fire år.
+
+Forsikringsmatematikk blir en ny retning innenfor matematikkstudiet, og man
+tar sikte på å uteksaminere tre hovedfagskandidater
+
+hvert
+
+.
+
+i
+
+Bergen
+
+starter
+
+til
+
+— Det er positivt at næringslivet stiller
+for å gi oss
+
+mulighet til å utvikle et nytt hovedfag.
+Blir det vellykket, er det sjanser for at
+
+— Jeg ser ikke noe galt i at næringslivet
+åpner pengesekken, men vi sier ikke ja til
+hva som helst. Det avgjørende er at opplegget har forankring i fagmiljøet og al
+
+ringslivet.
+
+å
+
+år. Studiet
+
+høsten.
+
+UTDANNE FOR MARKEDET
+Fakultetsdirektøren er opptatt av at universitetet må oppfange signaler fra næ— Universitetet har som oppgave å utdanne folk det er behov i samfunnet. Nå
+stiller den lokale forsikringsbransjen midler til disposisjon for at vi skal kunne tilby en utdannelse det er marked for. Da
+skulle det bare mangle at vi ikke vil samarbeide, sier Sælen. Han mener aktuarstudiet ved UiB også kan medvirke til at for-
+
+for sikringsselskapene blir i Bergen og ikke
+
+Universitetet
+
+for
+
+Det matematisk-nafurvitenskapelige fakultet har enstemmig takket ja til en be-
+
+oppslutning i fagmiljøet.
+
+Internavis
+
+forsik-
+
+behov
+
+tuarer som er fagbetegnelsen. Styret
+ved
+
+sier Sælen, og understreker at samarbeidet med forsikringsselskapene har full
+
+Høyden"
+
+har
+
+flere forsikringsmatematikere — eller ak-
+
+universitetet har den fulle kontrollen,
+
+'På
+
+Bergen
+
+risikokapital til disposisjon
+
+OG Av RØNNAUG Tvert
+
+Fra
+
+i
+
+tar utflytting til Oslo, slik andre deler av
+
+næringslivet har gjort de senere årene.
+
+Selskapene i Fyllingsdalen forsikrer
+
+at de ikke har tenkt å legge seg bort i den
+
+faglige siden av studiet.
+— Vi har full tillit til at Universitetet
+
+tar hånd om det faglige. Utgangspunktet
+
+for avtalen er at selskapene i Bergen har —
+behov for flere aktuarer og at vi ønsket å
+samarbeide med Universitetet i Bergen
+om å utdanne flere, sier informasjonssjef
+Harald Queseth i Vital.
+
+INGEN FORTINNSRETT
+
+— Vil de ferdigutdannede aktuarene gå _
+rett til en jobb i et av de tre forsikringsselskapene?
+
+— Nei, de vil ikke få noen fortrinnsrett, men må konkurrere på like fot med
+-andre søkere, understreker Queseth.
+
+Det er ikke første gang en stilling
+ved Mat.nat fakultetet blir finansiert av
+næringslivet. I 1981 bevilget et legemid-
+
+delfirma lønnsmidler til en svarende
+
+stilling, opplyser Sælen. Den vanligste
+formen for eksternfinansiering er imidlertid støtte til forskningsprosjekter, ofte
+som lønn til stipendiater.
+
+— I dagens budsjettsituasjon er vi helt
+avhengig av eksterne midler for å opp- :
+rettholde den faglige virksomheten, sier
+fakultetsdirektøren.
+
+
+
+STATISTISK FORENING
+
+I
+
+BERGEN
+
+opprettet 15/12 1983
+Styret 1994
+
+Formann
+
+Rolv Terje Lie
+
+Medisinsk Fødselsregister, UB
+
+Birgitte Espehaug
+
+Seksjon for medisinsk informatikk og statistikk, UiB
+
+Sekretær
+
+Ågot Irgens
+
+Styremedlem
+
+Jan Aarseth
+
+Kasserer
+
+Yrkesmedisinsk
+
+avdeling, Haul
+
+d Sykeh
+
+Matematisk Institutt, UiB
+
+tlf 55 97 46 63
+
+tlf
+55 97 38 82
+
+tlf. 5597 46 70
+tlf 55 21 28 31
+
+Bergen, 7. desember 1994
+
+ÅRSBERETNING FOR 1994
+
+Styret for 1994 har bestått av følgende personer:
+Formann
+
+: Rolv Terje Lie
+
+Kasserer
+
+: Birgitte Espehaug
+
+Sekretær
+
+: Ågot Irgens
+
+Styremedlem
+
+: Hans Julius Skaug/Jan Harald Aarseth
+
+Årsmøte for 1993 ble holdt 9. februar. Regnskap ble godkjent og ny formann og kasserer ble
+valgt.
+
+De inviterte foreleserne har vært:
+
+09.02
+
+Torbjørn Aasen,
+
+Haukeland sykehus
+22.06
+26.10
+
+07.12
+
+Kaosteori brukt innen medisin.
+
+|
+
+Terri H. Beaty,
+
+Use of log-linear models in genetic
+
+Johns Hopkins, Baltimore, USA
+
+epidemiology.
+
+Eivind Damsleth og Gyrid Johnsen,
+
+Stokastiske metoder for
+
+Norsk Hydro
+
+reservoarbeskrivelse.
+
+Jon Helge Knudsen
+
+Elementærundervisning i statistikk, hvorfor
+
+Jostein Lillestøl
+
+og hvordan?
+
+For styret:
+
+Ågot Irgens
+(sekretær)
+
+pt [gav
+
+
+
+26
+
+NYTT FRA UNIVERSITETET I OSLO
+
+Uteksaminert cand. scient.
+Dag Skinnes: "En programpakke for FM200 - Skadeforsikringsmatematikk og
+risikoteori"
+
+Veiledere: Erik Bølviken, Knut Håkon Brox
+
+Nyansettelse:
+
+Pål Lillevold er ansatt som amanuensis II fra høsten 1994.
+
+Statistical Research Reports:
+
+Jørun Gåsemyr og Bent Natvig: Bayesian Estimation of Component Lifetimes
+Based on Autopsy Data. No 8 1994.
+
+Søren Johansen og Anders Rygh Swensen: Testing rational expectations in vector
+autoregressive models. No 9 1994.
+
+Nils Lid Hjort og Michael C. Jones: Local Fitting of Regression Models by Likelihood:
+What's Important? No 10 1994.
+
+Nils Lid Hjort: Should the Olympic sprint skaters run 500 meters twice?
+
+NYTT FRA UNIVERSITETET I BERGEN
+
+Uteksaminerte cand. scient.
+Terje Schaathun: "Parametriske modeller for saksbehandling. Valg og
+tilpasning."
+
+Veileder: Trygve Nilsen
+
+Knut Ivar Låstad: "Prognoser i tidsrekkeanalyse."
+Veileder: Hans Karlsen
+
+
+
+27
+
+NYTT FRA NTH
+
+Ferdige sivilingeniører
+John Bjørnar Bremnes: 'Multippel ikke-parametrisk regresjon ved hjelp av splines’.
+Veileder: Bo Lindqvist.
+
+Anders T. Frøvig: 'Følsomhetsanalyse for sannsynlighetsfordelinger i stokastisk
+programmering!
+Veileder: Professor Stein W. Wallace, Institutt for økonomi, NTH. (Faglærer
+
+ved NTH: John S. Tyssedal.)
+Ole Martin Halck: 'On Geometric Correction of Landsat Thematic Mapper Satellite
+Imagery’.
+
+Veileder: Rune Solberg, Norsk Regnesentral. (Faglærer ved NTH: Håvard Rue.)
+Henning Hurum Hansen: 'Uncertainty in Event Trees with Application to ASAP’.
+
+Arbeidet er utført ved Aker Engineering a.s. (Faglærer ved NTH: Stian Lydersen).
+Ragnar Hauge: 'Markov chain Monte Carlo simulation of spatial time series".
+
+Veileder: Henning Omre.
+Knut Heggland: 'Nonparametric estimation in trend-renewal
+processes".
+
+Veileder: Bo Lindqvist.
+
+Trond Leikvoll: 'Error analysis methodologies for nonlinear
+least squares problems with application to flow through porous media’.
+
+Veileder: Dr. J.E. Nordtvedt og prof. A.T. Watson, Rogalandsforskning,
+Stavanger. (Faglerer ved NTH: Henning Omre.)
+
+Helene Hafslund Thorsteinsen: 'Statistisk evaluering av forkastningsdata').
+
+Veileder: Overgeolog Christopher Townsend, STATOIL GFoU, Trondheim.
+(Faglærer ved NTH: Henning Omre.)
+
+Forskningsrapporter.
+
+Håvard Rue: An estimator for images with ordered colors.
+Statistics No.6/1994
+
+
+
+28
+
+Mette Langaas: Discrimination and classification.
+
+Statistics No.1/1995
+Ragnar Hauge: Markov chain Monte Carlo simulation of spatial time
+series.
+
+Statistics No. 2/1995
+
+Mette Langaas: Mixture codebook classification. Part 1:
+Method outline.
+
+Statistics No.3/1995
+Ingrid Glad and Giovanni Sebastiani: A Bayesian approach to synthetic magnetic
+resonance imaging.
+
+Statistics No. 4/1995
+
+NYTT FRA NLH
+Forskningsrapporter.
+Inge Helland: Simple counterexamples against the Conditionality Principle.
+
+1994 -5
+Inge Helland: A population approach to analysis of variance models.
+1995 - 1
+Trygve Almøy: A simulation study on comparison of prediction methods when only a
+
+few components are relevant.
+
+1995 - 2
+
+
+
+29
+
+Medlemskap i Norsk Statistisk Forening
+Kontingenten i foreningen er på kr. 150 pr. år (kr. 90 for 1993) for regulære medlemmer og kr.
+50 for studenter (kr. 30 for 1993). Korrespondanse om medlemskap og innbetaling av
+kontingent skal skje til foreningens kasserer:
+Norsk Statistisk Forening v/Eva Seim
+Nycomed Imaging
+p.b. 4220 Torshov
+0401 OSLO
+
+Innbetalinger skal gjøres på foreningens postgirokonto 0802 5 15 10 55. Medlemmer som er
+
+usikre på når de betalte kontingent sist, vil nederst til høyre på adressseddelen for Tilfeldig
+Gang finne angitt hvilket år siste betaling er registrert for. Vær imidlertid oppmerksom på at
+adressesedlene for bladet ligger noe etter ajourføringen av medlemsregisteret, slik at nylig
+
+foretatte innbetalinger ikke vil være tatt med her.
+
+Nye medlemmer melder seg til kassereren under adressen oppgitt ovenfor. Slike medlemmer
+får automatisk tilsendt Tilfeldig Gang, med forbehold om at det tar noe tid før tilføyelser og
+forandringer i medlemsregisteret gjenspeiler seg i adressesedlene til bladet.
+Adresseforandringer meldes også til kassereren. Ved utsendelsen av Tilfeldig Gang benyttes
+
+det kopier av det vanlige medlemsregisteret, så adresseforandringer behøver ikke meldes
+separat til bladet.
+
+Annen korrespondanse med foreningen skal foregå med formannen under denne adressen:
+Norsk Statistisk Forening v/Eivind Damsleth
+Norsk Hydro
+~~ p.b. 200
+1341 STABEKK
+
+Bidrag til Tilfeldig Gang
+Neste nummer av Tilfeldig Gang vil forhapentligvis komme ut i juni 1995. Alle slags bidrag til
+bladet er velkommen, enten det gjelder nye temaer av interesse for norske statistikere, eller man
+har kommentarer til innlegg som allerede har statt i bladet. Stoff til neste nummer ma vere
+redaktgrene i hende senest 1. juni 1995.
+Adressen til redaktørene er:
+
+Inge Helland
+Institutt for matematiske fag
+Norges Landbrukshøgskole
+Boks 5035
+1432 Ås
+
+Are Aastveit
+Institutt for matematiske fag
+Norges Landbrukshøgskole
+Boks 5035
+
+Telefon 64 94 88 75
+
+Telefon 64 94 88 72
+
+1432 Ås
+
+Fax: 64 94 88 79
+Mail: are.aastveit@imf.nlh.no
+
+
+
+
+
+Returadresse:
+
+TILFELDIG GANG
+
+v/Eva Seim
+NYCOMED Imaging
+Postboks 4220 TORSHOV
+
+0401 OSLO
+
+
+

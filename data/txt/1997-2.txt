@@ -1,0 +1,2093 @@
+ISSN 0803-8953
+TILFELDIG GANG
+Nr. 3, årgang 14
+
+September 1997
+
+http://www.nr.no/TilfeldigGang/
+
+Utgitt av Norsk Statistisk Forening
+INNHOLD
+
+Fra redaktøren. Thore Egeland.
+
+Fra den nye formannen. Odd Aalen.
+Faglig stoff
+
+Alternative Bayesian Approaches to Risk Analysis. Terje Aven.
+
+Professor T.W. Anderson utnevnt til æresdoktor ved
+Universitetet i Oslo. Petter Laake.
+Utfordrende oppgaver for statistikere. Knut Opdal.
+Nyheter om statistikkundervisning. Henrik Dahl.
+Test av kalkulator. Henrik Dahl.
+
+Referat fra Årsmøte i Norsk Statistisk Forening. Per Chr. Hagen.
+Konferanser og kurs
+
+Referat fra "International Biometric Society. Nordic Regional Meeting”.
+Magne Thoresen.
+
+ESREL 98 i Trondheim. Stian Lydersen.
+Det 21. Nordiske statistikermøte på Lillehammer 5.-8. august 1998.
+The Fifth International Conference on Teaching Statistics - ICOTS-5.
+Konferens om statistikutbildning
+Konferanseoversikt.
+
+Nytt fra universiteter og høyskoler
+Nytt fra Gruppe for statistikk, NTNU.
+NTNU: Stipendiatstilling øremerket for kvinner.
+
+Nytt fra Universitetet i Oslo.
+Meldinger
+
+Pris til Anders Skrondal. Tore Schweder.
+Nye medlemmeri ISI fra Norge.
+Stig Eindride Larsen 50 år. Petter Mowinckel.
+
+Leiv Sandvik 50 år. Petter Mowinckel.
+Professorat i biostatistik, Københavns Universitet.
+
+Medlemskap i Norsk Statistisk Forening.
+Bidrag til Tilfeldig Gang.
+
+
+
+
+
+Fra redaktøren
+Turid Follestad og undertegnede takker for seg etter 2 år. Arbeidet har vært en fornøyelse.
+Blant annet har det ført til interessante kontakter.
+
+Vi håper at den elektroniske TG versjonen vi innførte for to år siden
+- www.nr.no/TilfeldigGang kan videreføres og viderutvikles.
+
+På dette området har
+
+utviklingen vært voldsom. Alderstegne statistikere (dvs de som er eldre enn oss) sender
+email bidrag og leser web versjonen med en selvfølgelig mine. (Takket være Turid har
+innleggene nærmest uten unntak blitt lagt ut i løpet av en uke.) Slik var det ikke uten
+videre for bare to år siden. Lesere av web versjonen etterlater seg elektroniske spor som
+viser hvilken maskin de sitter ved, men ikke hvilket individ som har vært innom. Et raskt
+oppslag viser at i løpet av formiddagen i dag har det vært lesere innom fra Bergen, Trondhjem, Stavanger, Sverige og USAi tillegg til Oslo. Imidlertid vil papirversjonen fortsette og
+være viktigst ennå en stund. Vi kunne noen ganger ha ønsket oss flere tilbakemeldinger og
+
+reaksjoner på det som trykkes i TG, gjerne mer utførlige enn dem vi får på den elektroniske
+versjonen:
+
+search.tenet.edu Mon Sep
+
+8 10:55:48 GMT 1997 GET
+
+/TilfeldigGang/NSF-info.html HTTP/1.0
+malfatti.math.chalmers.se Mon Sep
+
+8 12:30:50 GMT 1997 GET
+
+/TilfeldigGang/aktuarpris.i HTTP/1.0
+
+Bidrag til neste nummer sendes Leiv Solheim innen 1/12. Hans adresse, samt adresse til
+Norsk Statistisk Forening og ny formann, Odd Aalen, er gitt bakerst i bladet.
+Vi ønsker ny redaktør Leiv Solheim i Statistisk Sentralbyrå lykke til med arbeidet!
+
+Thore Egeland
+
+
+
+Statistikk — en vits?
+Som nyvalgt formann i Norsk statistisk forening takker jeg for tilliten. Jeg vil også
+takke det avgående styret, ledet av Arnljot Høyland, for en utmerket innsats. Noe av
+det viktigste som skjedde i forrige periode var undervisningsutvalgets særdeles
+grundige gjennomgang av det nye statistikkinnslaget i lærebøker i matematikk for
+
+videregående skole. Dette arbeidet resulterte i tykke notater med detaljert påpekning
+av feil og mangler. Notatene ble oversendt angjeldende forlag og forfattere og førte til
+at et større læreverk har måttet revidere statistikk-delen. Undervisningsutvalget har
+her gjort en kjempeinnsats, og jeg er glad for at både Henrik Dahl, Ivar Heuch og
+Jostein Lillestøl hart sagt seg villige til å fortsette i utvalget.
+Tittelen på dette inlegget henspiller således ikke på foreningens innsats, men har
+likevel relasjon til temaet tatt opp over. Jeg ble selv kontaktet sist vinter av en lektor
+som mente hun hadde funnet diverse feil i statistikk-avsnittet i et av læreverkene. Ved
+nærmere ettersyn viste det seg at dette stemte, det var flere grove feil, blant annet var
+et kjernebegrep som konfidensintervall fullstendig galt definert. Det interessante var
+at dette læreverket var det suverent markedsdominerende. Dette verket fikk også den
+
+tyngste kritikken av undervisningsutvalget, og er forøvrig det som har gått til
+omfattende revisjon. Det som slo meg under gjennomgåelsen var at det ikke hadde
+vært fagstatistiker inne i bildet ved utarbeidelsen av verket. Matematikerne bak verket
+
+hadde åpenbart trodd at statistikken skulle de da kunne klare selv. Denne nedlatende
+holdningen til vårt fag finner man igjen i mange sammenhenger. Respekten for
+
+statistikk som fag er svært varierende.
+Et annet trekk som slo meg ved lesningen av læreverket var alle de kjedelige
+oppgavene som fantes, noe som forøvrig gjelder mange andre verk og lærebøker i
+
+statistikk. Dette blir særlig alvorlig i videregående skole fordi undervisningen der
+former det inntrykket ungdommen får av vårt fag. Sannsynligvis er kjedsomheten en
+langt større trussel enn de direkte feil. Skal statistikken i skolen fremstå som en
+
+besynderlig vits (som ingen ler av), eller skal faget presentere seg som en spennende
+teknologi og tankegang med relevans for store deler av samfunn og forskning?
+
+Svaret på dette spørsmålet er langt på vei opp til vår forening. Det er vi som ser det
+spennendei dette faget. Vårt ansvar ligger på flere plan. Vi kan følge opp det som
+faktisk undervises i skolen, for eksempel gjennom egne barn. Vi kan skape en debatt
+om innholdet i statistikken i skolen. De eksisterende undervisningsplaner er antagelig
+alt for dårlige. En sjelløs terping på formell hypotesetesting er for eksempel neppe
+egnet til å få jubelen frem i unge hjerter.
+
+En større oppgave kunne være å utarbeide et hefte med eksempler på spennende
+anvendelser av statistikk. Til sammen burde vi ha en del av dem.
+Er det synspunkter på dette, f.eks. i form av TG-innlegg? Eller gir vi alle blaffen i det
+
+bildet noen titusener ungdommer hvert år skal få av vårt fag?
+Odd Aalen
+
+
+
+Jeg har merket meg diskusjonen i TG i det siste vedrørende ”Bayesianismen”. Dette er
+et tema som jeg har vært opptatt av de siste årene, med utgangspunkt i teknologiske
+
+anvendelser, særlig rettet mot offshore anvendelser. Innenfor vårt fagområde er det mye
+uklarheter når det gjelder hva det Bayesianske alternativet innebærer. Vedlagte artikkel
+forsøker å foreta en opprydding.
+
+Jeg er tilhenger av en såkalt full Bayesiansk tankegang innenfor kvantitativ risikoanalyse
+rettet mot teknologiske anvendelser. Dette betyr imidlertid ikke at jeg føler meg bundet
+
+til å bruke denne tenkemåten i alle sammenhenger innenfor statistikken. For meg er dette
+spørsmål om valg av modell, i forhold til et beslutningsproblem, og da vil ulike problemstillinger kunne gi grunnlag for ulike angrepsmåter. Jeg er altså ingen fanatisk Bayesianer.
+Terje Aven
+
+Alternative Bayesian Approaches to Risk
+Analysis
+Terje Aven *
+
+Stavanger University College and University of Oslo
+
+ABSTRACT
+In recent years there has been an increasing interest in the subjectivistic
+
+(Bayesian) approach to risk analysis. However, when adopting this approach
+
+it is not at all clear if you study the literature what should be the basic
+
+structure of this approach.
+
+This applies to the way risk is presented, the
+
+interpretation and use of models and the parameters of the models, as well
+
+as the use of uncertainty analyses. The purpose of this paper is to contribute
+to a clarification. It is distinguished between a Classical Bayesian approach
+
+where focus is on prediction of “true”, unobservable relative frequency based
+
+probabilities and expectations (frequencies); and a fully Bayesian approach
+where focus is on prediction of observable, unknown quantities like the occurrence of an accidental event,the number of fatalities and lost production. The
+purpose of uncertainty analysis is completely different for the two Bayesian
+approaches.
+KEYWORDS
+
+Bayesian analysis, subjective probabilities, uncertainty analysis, model uncertainty, parameter uncertainty, decision-making.
+
+“Postal address: Stavanger University College, Ullandhaug, 4004 Stavanger, Norway
+
+
+
+INTRODUCTION
+Risk analyses have become an increasingly important safety management
+tool.
+
+Such analyses include a systematic identification and categorization
+
+of risk to people, the environment and to assets and financial interests, and
+
+provide a basis for decisions regarding choice of solutions and actions. Risk
+
+is however a complex and difficult concept, and there is no concensus on how
+risk should be expressed and interpreted.
+
+As to the quantification of probability the typical situation in practice
+is characterized by a mixture of the classical statistical approach and the
+
+Bayesian (subjective) approach. Most engineers and physical scientists have
+been trained in the former approach, where probability exists - independent
+of the analyst - as a quantity characterizing the physical unit. This concept
+of probability is relative-frequency based and the results of the risk analyses
+provide estimates of these “true” probabilities.
+
+This view was challenged
+
+about 25 years ago, when the need to quantify risk from large technological
+systems was recognized and resources were expended to produce numerical
+
+results ([2], p.
+
+247).
+
+Quantification of risk requires quantification of the
+
+likelihood of rare accidental events, which normally cannot be done without
+
+employing engineering judgement. It has become evident that the problems
+of risk quantification cannot be handled with the methods of traditional
+statistics.
+
+The alternative is the Bayesian approach, where the concept of probability
+is used as the analyst’s measure of uncertainty or degree of belief.
+
+This
+
+alternative approach has, however, not been commonly accepted; there is
+still a lot of scepticism among risk analysts when speaking about subjective
+
+probabilities.
+
+Most risk analysts do in fact use some subjective methods
+
+when carrying out risk analyses.
+
+For example, subjective probabilities are
+
+commonly developed for the branches of the event trees. But a total adoption
+of the subjectivistic theory of probability is surprisingly not very often seen
+among risk analysts. Perhaps one reason for this is lack of understanding of
+
+what this approach really means. When looking at different papers in the
+
+field, cf. e.g. [2, 4, 5], it is not clear how we should express and interpret the
+results of risk analyses based on the Bayesian approach. The understanding
+of what a Bayesian analysis means, varies a lot among risk analysts.
+
+The
+
+situation is somewhat confusing, and there is a need for clarifications. The
+purpose of this paper is to contribute to such clarifications.
+THE BAYESIAN APPROACH
+
+Basically there are two ways of thinking within the Bayesian context.
+
+We
+
+refer to these as the “Classical Bayesian approach” and the “fully Bayesian
+approach”. In the following we briefly describe these approaches. We use a
+simple fault tree analysis to illustrate the differences.
+
+
+
+Classical Bayesian approach
+In risk analyses we are interested in probabilities of accidental events. For
+this purpose a model is developed, for example a fault tree, with the basic
+
+event probabilities as parameters. We can formalise this by writing p = f(q),
+where p denotes the probability of the accidental event, f the model and
+q = (01,02,-.-) the parameters of the model.
+
+Consider as an example a
+
+fault tree with two basic events B, and Bo, such that the occurrence of Å is
+connected to B, and By by an AND-gate. Then
+
+p= P(A) = P(B1)P(B»| Bi) = 1492,
+where gq; = P(B;) and g2 = P(B2|B,) denotes the conditional probability of
+
+By given B,. If gg = P(B») the event B» is independent of the event Bi.
+It is assumed that there exist true values of p, f and g. These values of
+p and q can be interpreted in the classical statistically sense as the relative
+fraction of times the events occur if the situation analysed were hypothetically
+
+“repeated” an infinite number of times. The true model f produces the true
+value of p when the input g is true.
+
+'
+
+The true values of p, f and g are uncertain (unobservable and unknown),
+and we use probabilities to express this uncertainty. We start with an apriori
+information J about q, including engineering judgements, that exists before
+
+the data are observed.
+
+The apriori information is expressed by an apriori
+
+probability distribution P(g|I), which reflects our initial knowledge concerning the parameter q. After having observed the experience data D, we derive
+
+the posteriori distribution P(q|Z, D) (using Bayes Theorem), which expresses
+the updated knowledge of the parameter gq after the data have been observed.
+Due to the functional relationship between p and q we can also establish the
+posteriori distribution of p. This uncertainty analysis is very often done by
+using Monte Carlo Simulation, a technique that is applied in many risk analysis codes. Similarily we can take into account our uncertainty related to the
+model f. The produced distribution of p reflects our uncertainty related to
+
+the true value of p.
+This classical Bayesian approach deals with analysis/inference related to
+true, unobservable quantities, which is also the basis of classical statistics.
+Most text books in statistics present the classical Bayesian approach.
+
+To predict q we often use parametric models, e.g. exponential life time
+models. Consider the fault tree example and let Å = (Ai, Az) with A; equal
+to the failure rate in the exponential model associated with event 7.
+
+Then
+
+q; = 1—-e~**', where t is the point in time of interest. An uncertainty analysis
+with respect to the A;s will then produce distributions on g, and from these
+we can establish a distribution on p. Suppose the posteriori distribution of
+
+Å equals the product of the marginal distributions of A;,t = 1,2, and these
+are:
+
+Component 1 Probabilities 0.25, 0.50, 0.25 for values 1-10~?, 1-1073, 1-1074,
+respectively.
+
+Component 2 Probabilities 0.50,0.50 for values 1 - 10-3,1- 107*, respectively.
+
+
+
+Assuming t = 1 this gives a posteriori distribution for p having mass 0.125
+
+at 1-1075 and 1 - 1078, and 0.375 at 1 - 1079 and 1-107’.
+In this set-up, the uncertainty has two elements; the stochastic (aleatory)
+
+uncertainty related to the failure time (expressed by the probability distri-
+
+butions 1 — e~***) and the state-of-knowledge (epistemic) uncertainty related
+to the parameter
+
+(expressed by a distribution P(A)). As long as we stick
+
+to the exponential model 1 — e7**, additional information will change the
+epistemic uncertainty distribution only.
+Here we can treat model uncertainty in the same way as parameter un-
+
+certainty.
+
+A distribution on f reflects our uncertainty related to the true
+
+model; the model which produces the true p when we use the true g as input
+to the model.
+Fully Bayesian approach
+The alternative to the classical Bayesian approach is the “fully Bayesian
+approach”, which is characterised by a focus on observable quantities, like the
+
+occurrence or not of an accidental event, the number of accidental events in a
+given period of time, lost production in a period of time, etc., and subjective
+probabilities are used to express the uncertainty of these quantities. So for
+
+the example considered above, we focus on the number of accidental events
+in the given period of time, or simply the occurrence or not occurrence of an
+
+accidental event (when it is unlikely that two or more accidental events occur
+during the time period of interest). As above let A denote the occurrence
+of the accidental event. The uncertainty involved is related to whether the
+event A will occur or not. Using various risk analysis methods we establish
+a functional relationship g between the occurrence of A and events
+
+B =
+
+(B,, Bo,...) on a more detailed level. Then we can write
+
+“I(A) = 9(I(B)),”
+
+(1)
+
+where I(B) = (I(B,),[(Bo),...) and I() denotes the indicator function,
+which equals 1 if the argument is true and 0 otherwise.
+
+The uncertainty
+
+of the analyst regarding the occurrence of the event B; is expressed by a
+
+subjective probability ¢;
+
+= P(B;).
+
+Using the relationship g and probabil-
+
+ity calculus, we can compute the subjective probability P(A), which then
+expresses the uncertainty related to whether the event A will occur or not.
+
+Usually we will then have
+
+|
+
+P(A) = g(g).
+
+Consider again the fault tree example with two basic events B; and Bo, such
+
+that the occurrence of A is connected to B,; and By by an AND-gate, i.e.
+I(A) = I(B,)I(B.). Then
+
+P(A) = P(B,)P(B2|Bi) = P(B,)P(B»)
+assuming that the events B, and Bz are independent, i.e. the knowledge of
+
+the outcome of B, does not make us change the evaluation of probability for
+
+B». We see that 9(2) = 914.
+
+
+
+In this approach the meaning of uncertainty is completely different from
+uncertainty in the Classical Bayesian approach.
+
+What is uncertain is the
+
+occurrence of the event Å, and probability P(A) expresses this uncertainty.
+The fact that there could be faults and weaknesses of the model used does
+
+not change this interpretation of P(A). There is no sense in speaking about
+
+uncertainty of the probability P(A), because such a reasoning would presuppose the existence of a true value of P(A).
+Now suppose that we use a parametric model to quantify the uncertainty
+whether the event A will occur or not, e.g. an exponential life time model.
+Let Å be the model parameter, e.g. the failure rate in the exponential model.
+Then by the Bayesian approach and according to the Law of total probability,
+
+we can calculate P(A) by
+
+P(A) = / P(A|\)dH(A),
+where P(A|A) denotes the conditional probability of A given Å, and H(,) isa
+distribution function of A - apriori or posteriori depending on the availability
+
+of experience data.
+
+Denoting gq, = P(B|A) = (P(By|A), P(B»|3),...) we
+
+would usually have P(A|\) = g(q,) and hence
+
+P(A) = | (adr (0).
+Consider again the fault tree example. Assuming the events B, and Bp are
+judged independent given 4, it follows that
+
+P(A|A) = P(B,|A)P(Be|A) = g(a).
+If P(B;|\)
+
+= 1—e7**, £ = 1 and we use the same uncertainty distribution
+
+H and the same numerical values as in the Classical Bayesian case, we find
+
+that P(A) = 2-10"% This number equals the posteriori mean of p in the
+classical setting.
+
+Now, how should we interpret H(A) and q,?
+
+Does the use of the un-
+
+certainty distribution H mean that we believe in a true value of A. No, H
+gives weights to the different Å values according to the confidence we have in
+
+the different values (for predicting observable quantities); there exist no true
+value. Similarily, we can give weight to different models g according to the
+
+confidence we have in the different models (for predicting observable quan-
+
+tities). Another way of expressing this is to say that we give them weight
+according to the confidence we have in the assumptions underpinning the
+
+model [7].
+Is it consistent with the fully Bayesian approach to assume a true value
+
+of A? No, because, if we believe in a true value of A, we should also believe
+in a true value of g, and consequently also in a true value of p.
+
+But that
+
+is not possible in a fully Bayesian setting where P(A) is a total measure of
+uncertainty.
+
+In a fully Bayesian setting all probabilities are quantifying epistemic un-
+
+certainty. The probabilities P(B;|A) and P(A|A) (when A is varying) repre-
+
+sent alternative models (mathematical expressions) which we consider suitable for expressing our degree of belief concerning the occurrence of B; and
+
+
+
+A. It is a way of standardizing the probability considerations. By introduc-
+
+ing these conditional probabilities we simplify the probability considerations
+
+by reducing the dimensions of the background information, cf. [6]. It is not
+essential that the parameter Å has a physical interpretation; allowing different values of Å is just a way of generating a class of appropriate uncertainty
+distributions for B; and A.
+
+DISCUSSION
+The fully Bayesian approach will directly provide the probabilities of the
+uncertain events that are relevant in the specific situation of decision making.
+These probabilities are total in the sense that they incorporate both the
+
+stochastical uncertainty (if such uncertainty exists in the case of interest) and
+the state-of-knowledge uncertainty. Thus the result itself is a total measure
+
+of uncertainty, and does not require any further discussion of “uncertainty of
+the probabilities”.
+
+Many risk analysts are unfamiliar with this approach, and it often raise
+strong reactions. How can we ensure that increased knowledge will “improve”
+the probabilities?
+
+Additional knowledge will change (decrease) the state-of-knowledge un-
+
+certainty, represented by H(A), and thereby indirectly change the total probability P(A). The direction of this change depends on the new information
+and cannot be ensured in advance. Additional knowledge, however, will automatically improve the “quality” or “goodness” of the predictive measure
+
+P(A). Unfortunately, this “goodness” of our prediction value P(A) might be
+difficult to evaluate, particularily in cases when A
+
+is a rare event.
+
+Therefore “goodness” is more related to confidence than strict proofs.
+
+Anybody can assign a probability related to the occurrence of rain tomorrow.
+And we do accept that the probability assigned by the Meteorological Office
+
+is subjective, but more “reliable” than ours. All probabilities are formulated
+based on some information and knowledge. When we evaluate the assigned
+probabilities of the Meteorological Office, we acknowledge the competence of
+the Office. In the same way, a risk analysis group having strong competence
+in its field, supported by appropriate tools and data, should be acknowledged
+and given authority when presenting their results.
+When evaluating alternative approaches we should always ask ourselves
+
+whether the model and the interpretation serve the purpose of the analysis.
+How can the analysis provide the best possible basis for making decisions
+
+concerning choice of solutions and measures? Typically, the questions to be
+addressed by a risk analysis are
+e Is the risk level high (relative to other activitites, risk acceptance cri-
+
+teria, intolerability levels)?
+e- What are the main risk contributors?
+
+e What is the difference between alternative solutions?
+e What risk reducing effect will certain measures have?
+
+
+
+The answers to these questions give the message of the analysis and a basis
+for decisions.
+We believe that this message is best presented using the fully Bayesian
+
+approach, with focus on observable quantities (like the occurrence of events,
+
+number of fatalities, lost production etc.) and using subjective probabilities.
+This approach means that we consider risk analysis as a tool for argument
+
+and debate over safety, rather than an attempt to say something about ob-
+
+jective risk values (cf. Watson [8]). Using the fully Bayesian approach the
+message of the analyses is not “disturbed” by a discussion of uncertainty of
+
+the output probabilities/frequencies, as in the classical Bayesian approach.
+In our opinion it is often difficult to use the classical Bayesian approach in
+decision-making as the resulting uncertainty intervals are so large. What are
+
+the conclusions if two options are compared and the uncertainty bands are
+
+(0.01, 0.001) and (0.10, 0.002), respectively? The risk analysis group is consulted as an expert team to help the decision maker, but the message when
+adopting this approach is not very informative and gives the impression that
+
+risk analysis results are extremely uncertain. If instead the fully Bayesian
+approach is adopted, the output results are expressing the analysis group’s
+
+total uncertainty related to observable quantities, and it is possible to present
+a clear message.
+
+It is also difficult to perform a consistent analysis within the classical
+Bayesian setting: In theory, an uncertainty distribution on the total model
+and parameter space should be established, which is of course impossible
+to do in practice. So, in applications only some few marginal distributions
+on some selected parameters are normally specified, and as a consequence
+
+the uncertainty distributions on the output probabilities /frequencies are just
+reflecting some aspects of uncertainty.
+the produced uncertainties.
+
+This makes it difficult to interpret
+
+If all uncertainties could have been included,
+
+the total uncertainty would become very large.
+
+A clear message from the
+
+analysis is then not achievable.
+
+Regardless of the approach taken, the use of sensitivity analyses and importance analyses is required to establish the message of the analysis. The
+information basis of the analysis, and the presuppositions and assumptions
+made in the analysis, should be incorporated into the message.
+
+To elim-
+
+inate unwanted variability in results from one analysis to another, guide-
+
+lines/standards related to methods and data are required. Such guidelines/
+standards should however not reduce the flexibility and freedom of choice
+
+of the analysis group too much. Remember that in a Bayesian setting the
+results of the analysis expresses the best judgements of the analysis group.
+
+Of course, all elements of the analysis must be properly documented.
+
+References
+[1] Apostolakis, G.E. (1990). The concept of probability in safety assessments of technological systems. Science. 250, 1359-1364.
+
+
+
+[2] Apostolakis, G.E. et.al. (eds.) (1988). Reliability Engineering & System
+Safety, The Interpretation of Probability in Probabilistic Safety Assessments, 23, No 4.
+
+Aven, T. and K. Pörn (1996). How should we express and interpret the
+results from quantitative risk analysis. To appear in Reliability Engineering & System Safety, special issue on Offshore Safety.
+
+Barlow, R.E., C.A. Clarotti and F. Spizzichino (eds.) (1993). Reliability
+and Decision Making. Chapman & Hall.
+Helton, J.C. and D.E. Burmaster (eds.) (1996) Reliability Engineering
+& System Safety, Special issue on Treatment of aleatory and epistemic
+uncertainty in performance assessments for complex systems. 54, No.
+2-3.
+
+Singpurwalla, N.D. (1988). Foundational issues in reliability and risk
+analysis. SIAM Review, 30, 264-282.
+
+-
+
+Zio, E. and G.E. Apostolakis (1996). Two approaches to model uncertainty quantification: a case study. In proceedings ESREL’96 - PSAM
+
+III, Crete, June 24-28, (eds.) Cacciabue and I.A. Papazoglou, Springer
+verlag, London.
+
+[8] Watson, S.R. (1994). The meaning of probability in probabilistic safety
+analysis. Reliability Engineering & System Safety. 45, 261-269.
+
+10
+
+
+
+Professor T.W. Anderson utnevnt til æresdoktor ved Universitetet i Oslo
+Professor T.W. Anderson, Statistics Department, Stanford University er utnevnt til
+
+æresdoktor ved Universitetet i Oslo. Kreeringen finner sted i forbindelse med Universitetets
+årsfest den 2. september.
+
+Ted Anderson er født i Minneapolis, Minnesota i 1918. Han fikk sin Ph.D. i matematikk ved
+Princeton University i 1945, og forskningskarriéren startet han ved Cowles Commision for
+Research in Economics i Chicago. I motsetning til hva som var vanlig på denne tiden, ble de
+
+økonomiske problemstillingene i dette miljøet gitt en presis matematisk statistisk
+formulering. Sentralt i arbeidet var formulering av og estimering i simultane
+ligningssystemer. Ted Anderson utnyttet resultater fra sin avhandling til å løse sentrale
+matematisk statistiske problemstillinger innen dette området. Estimering og
+fordelingsegenskaper knyttet til simultane ligningssytemer, som nå er viktig i økonometri,
+har senere alltid hatt en sentral plass i Ted Andersons forskning.
+
+I 1946 begynte så Ted Anderson som assistant professor i matematisk statistikk ved
+
+Columbia University i New York. I tiden på Columbia publiserte han en rekke arbeider som
+har blitt stående som helt sentrale i matematisk statistikk. Ted Anderson var på Columbia
+University til han flyttet til Stanford University i 1967, da som professor i statistikk og
+økonomi. I denne perioden er særlig arbeidene om lineære relasjoner, eksakte og
+asymptotiske fordelinger for estimatorer i faktoranalyse og simultane ligningssystemer
+sentrale. Siden 1989 har han vært professor emeritus ved Stanford. Fortsatt er han en aktiv
+
+forsker, og vi vil også fremover finne artikler av ham i internasjonale tidsskrifter.
+Ted Anderson hadde sin første publikasjon i Annals of Mathematical Statistics i 1943
+
+(*Some significance tests for normal bivariate distributions”). Deler av Ph.D avhandlingen
+ble så publisert i Annals i 1946 (“The non-central Wishart distribution and certain problems
+of multivariate statistics”). Dette arbeidet har fortsatt en helt sentral plass innenfor
+multivariabel statistisk analyse. Arbeidet viser Ted Andersons egenskaper til å gi
+
+problemstillinger en presis formulering, kombinert med en utrolig ferdighet i å løse intrikate
+matematiske problemer. Disse egenskapene karakteriserer også hans senere arbeider. Samlet
+sett har Ted Anderson mer enn 150 artikler i internasjonale tidsskrifter, med jevnlige
+
+publikasjoner over en periode på mer enn 50 år. I 1993, 50 år etter at han publiserte sin første
+artikkel i Annals of Mathematical Statistics publiserte han igjen en artikkel i Annals of
+Statistics (“Goodness of fit for spectral distributions”).
+
+Ted Anderson er mest kjent for sine arbeider knyttet til multivariable statistiske metoder.
+
+Noen er allerede nevnt. Viktige er i tillegg arbeidene om sakalt “limited information
+maximum likelihood estimation” (“Estimation of the parameters of a single equation in a
+complete system of stochastic equations”, med Herman Rubin, Annals of Mathematical
+Statistics, 1949, og “The asymptotic properties of estimates of the parameters of a single
+equation in a complete system of stochastic equations”, med Herman Rubin, Annals of
+Mathematical Statistics, 1950). Arbeidene om “limited information maximum likelihood
+estimation” fgrte senere til utviklingen av to-stegs minste kvadraters metode, som i dag er
+helt sentral innen gkonometri. Viktig for psykometri er arbeidet om faktoranalyse
+
+("Statistical inference in factor analysis”, med Herman Rubin, Proceedings of the Third
+Berkeley Symposium on Mathematical Statistics and Probability, 1956) og arbeidet om latent
+klasseanalyse (“On estimation of parameters in latent structure analysis”, Psychometrika,
+
+11
+
+
+
+1954). En samlet fremstilling av problemstillingene over og sammenhengen mellom dem er
+
+diskutert i hans 1982 Abraham Wald lecture, publisert i Annals of Statistics i 1984
+
+(*Estimating linear relationships”). Ted Andersons tidlige artikler innen disse området er
+fortsatt helt sentrale innen statistikk, psykometri og økonometri. Noen av disse arbeidene har
+dessverre blitt litt “glemt” i den statistiske litteraturen, men de “gjenoppdages” stadig. Andre
+
+områder som Ted Anderson har publisert innenfor, er tidsrekkeanalyse, MANOVA,
+estimering og fordelinger knyttet til matrisealgebra, elliptiske fordelinger og manglende
+
+observasjoner i multinormale fordelinger. Samlet sett har Ted Anderson gitt betydelige
+
+bidrag innenfor en rekke områder.
+Ted Anderson har også skrevet flere lærebøker i statistikk. Mest kjent er selvfølgelig hans
+bok i multivariable statistiske metoder (“An introduction to multivariate statististical
+analysis”, John Wiley & Sons) som komi fgrste utgave i 1958 og i, en betydelig revidert,
+
+annenutgave i 1984. Betydningsfull har ogsa bokeni tidsrekkeanalyse (“The statististical
+
+analysis of time series”, John Wiley & Sons, 1971) vert. I de senere arene har han ogsa
+publisert introduksjonsbøkeri statistikk.
+
+Ted Anderson har hatt god kontakt med norske forskningsmiljøer. Han hadde tidlig kontakt
+med Trygve Haavelmo ved Cowles Commision (se "Trygve Haavelmo and simultaneous
+
+equation models”, Scandinavian Journal of Statistics, 1991.), og han hadde kontakt med
+Erling Sverdrup mens han var ved Columbia University. Etter at han flyttet til Stanford har
+
+han hatt kontakt med flere. Mange norske har hatt forskningsopphold på Statistics
+Department på Stanford, og Ted Anderson har hatt flere opphold i Oslo. Ted Anderson er nå
+også utenlandsk medlem av Vitenskapsakademiet.
+De som ønsker å sette seg litt mer inn i Ted Andersons innsats i statistikk, kan lese to
+publiserte intervjuer med ham, “A conversation with T.W. Anderson (An interview with
+
+Morris H. DeGroot)”, Statistical Science, 1986 eller “The ET interview: Professor T.W.
+Anderson (An interview with Peter C.B. Philips)”, Econometric Theory, 1986. De som
+ønsker en referanseliste over Ted Andersons arbeider, kan fa en slik over e-mail fra meg.
+
+Det er selvfølgelig en stor ære for T.W. Anderson å bli æresdoktor ved Universitetet i Oslo.
+
+Hele det statistiske miljøet ved Universitetet i Oslo står bak denne utnevnelsen. Det er også
+en anerkjennelse av faget matematisk statistikk at en så betydningsfull og aktiv vitenskapsmann innen vårt fag blir æresdoktor ved Universitetet.
+Petter Laake
+
+petter.laake Obasalmed.uio.no
+
+12
+
+
+
+Utfordrende oppgaver for statistikere
+Av Knut Opdal
+
+Teknometri as - et konsulentbyrå innen statistisk analyse og IT
+Teknometri as er et konsulentfirma som ble etablert i 1995. Etter en jevn vekst er vi i dag 10 faste
+ansatte. Ytterligere vekst er planlagt. I tillegg til de faste ansatte har vi et stort nettverk av tilknyttete
+konsulenter som vi formidler oppdrag til. Vi har to forretningsområder, statistisk analyse og IT.
+
+Oppdragsmassen er økende og vår omsetning har vokst i samme tempo som veksten i antall ansatte.
+Vi er i dag størst på IT-siden, men satser på sterk vekst på statistikk-siden.
+
+Hva gjør Teknometri as?
+Vi bruker anerkjente metoder og velprøvd teknologi til å løse praktiske problemer for kunden. Vi
+
+legger stor vekt på å holde oss oppdatert i den teoretiske og teknologiske utvikling, men vi ser ikke
+
+på oss selv som forskere. Vi fokuserer mer på våre kunders behov enn det å publisere artikler. Vårt
+mål er å gi våre kunder førsteklasses service til en riktig pris. Vi satser derfor mye på å rekruttere
+personer som har evner til, og er villige til å yte i overkant av det kundene krever og forventer. Dette
+stiller store krav til innsatsvilje, erfaring, kompetanse, effektivitet, samarbeidsevner og forståelse av
+kundens ønsker og behov.
+
+Markedsutsikter
+Vi satser i første rekke på å leverer tjenester til næringslivet. I næringslivet foregår det en hvileløs
+jakt på konkurransefortrinn. Når ny teknologi eller nye metoder blir tilgjengelig står næringslivet i kø
+for å skaffe seg den nødvendige kompetanse. Den teknologiske utviklingen skaper på denne måten
+behov for konsulenter. Konjunkturene er for tiden også gode. Markedsutsiktene de nærmeste 5 årene
+er derfor svært gode.
+
+Vi trenger flinke folk !
+Hvis du er en engasjert statistiker med et sterkt ønske om å få brukt den statistiske teorien til å løse
+
+praktiske problemer, så ta kontakt med oss. Vi søker statistikere med et solid teoretisk fundament og
+erfaring i praktisk bruk av statistiske metoder. Hvis du ikke er interessert i en full stilling, eller
+ønsker å være uavhengig, kan vi likevel ha fordeler av et samarbeid. Hvis vi får oppdrag som vi ikke
+
+kan ta på oss internt, forsøker vi å formidle disse videre til våre tilknyttede konsulenter (freelancekonsulenter).
+
+Hvorfor velge Teknometri as ?
+Vår visjon er
+
+at Teknometri skal
+
+gi alle involverte ekstraordinære ytelser oppnådd gjennom
+
+ekstraordinær styring og innsats. Et stikkord for våre betingelser er fleksibilitet. Vi spesialtilpasser
+betingelser og arbeidsinstruks til hver enkelt ansatt. Vi er små og dynamiske og tror på frihet under
+ansvar. Ansatte med initiativ kan i stor grad påvirke firmaets prioriteringer og egen arbeidssituasjon.
+En stilling i Teknometri as vil gi deg:
+e — Utfordrende oppgaver
+e — Personlig utvikling
+e
+
+Selvstendighet
+
+e — Frihet
+
+e — Innflytelse på egen arbeidssituasjon
+e — Tilhørighet i et nettverk av ressurspersoner
+
+¢
+
+Mulighet til å opparbeide eierandeler i firmaet og kvalifisering til
+et partner-program.
+
+e — Inntil 10 ukers ferie
+
+e
+
+Høy lønn
+
+Vi våger å tenke annerledes. Vi ser muligheter der andre ser hindringer. Ta kontakt hvis dette høres
+interessant ut. Min adresse er: k. opdal@teknometri.no. Telefon: 22 47 91 80.
+
+13
+
+
+
+Nyheter om statistikkundervisning.
+
+Nytt senter for statistisk undervisning.
+Det er nylig startet et nytt senter for statistisk undervisning i Nottingham ledet av Anne
+Hawkins, som for tiden er president i IASE (International Association for Statistical
+Education). Senteret er samlokalisert med Universitet i Nottingham. Senterets fulle navn
+er: Royal Statistical Society Centre for Statistical Education, The University of
+Nottingham, Nottingham , NG7 2RD, UK. Email ashØnott.ac.uk.
+
+IASE REVIEW Nov 1996.
+Lesere av TG som er interesserte i denne trykksaken kan kontakte undertegnede.
+
+The Fifth International Conference on Teaching Statistics - ICOTS-5 skal holdes i
+Singapore 21-26.juni 1998.
+
+I januar fikk jeg et brev fra Mary Reiger om kvinneri statistikk. Hun inviterer til
+internasjonalt samarbeid om kvinner og statistikk. Lesere av TG som er interesserte i
+denne saken kan kontakte undtertegnede.
+Henrik Dahl
+Høgskolen i Agder
+
+14
+
+
+
+Test av kalkulator.
+Hentet fra Teaching Statistics. Vol. 18, no. 3, autumn 1996.
+Kalkulatorene TI-83 og TI-92 er testet.
+Noen utdrag fra kommentarene:
+
+"In terms of functionality, graphics calculators come with more bells and whistles than a
+campanologist at a rave party. But, so what? For most users, what matters more than
+
+functionality is ease of use."
+
+"But first, the aerodynamic ”tear drop’ case which certainly cathes the eye - students
+assure that it can be thrown a fuil five metre further than the old boxy TI-82."
+
+EE.
+
+i
+
+ae
+
+if;
+»
+
+Et hjertesukk for egen regning:
+
+Det ser ut til at flommen av nye avanserte kalkulatorer har laget et nytt "klasseskille"
+blandt studenter i elementære kurs i statistikk mellom de som er kvikke noki toppen til å
+forstå sin egen kalkulator og de som ikke er det. Et eksempel på en som ikke var det var
+han som under eksamen lurte på hva maskinen mente med svaret "E -3". Etter min
+vurdering vil flertallet av mine studenter ha fordel av å bruke en maskin av "forrige
+generasjon", f.eks. Caiso-82, i stedet for større menystyrte maskiner. Hadde enda
+produsentene holdt seg til en felles standard, men nå er selv standarden helt ulik på
+etterfølgende modeller fra samme produsent.
+
+For at dette ikke skal tolkes som sur kritikk av masiner fra Texas Instruments vil jeg
+avrunde med å nevne at Alan Graham, som hadde utført testen for Teaching Statistics,
+mente at TI-82, TI-83 og TI-92 absolutt er av de bedre maskiner av sitt slag. Min kritikk
+må altså tolkes som en ukritisk bruk av "sværvektermaskiner" i elementærundervisningen
+enn av maskinene i seg selv.
+Henrik Dahl
+
+Høgskolen I Agder
+
+15
+
+
+
+REFERAT FRA ÅRSMØTE
+
+NORSK STATISTISK FORENING
+
+Selbusjøen hotell, 9.juni 1997, 36 medlemmer til stede.
+
+1. Åpning, valg av møteleder og referent.
+Formann Arnljot Høyland ønsket velkommen. Han bemerket også at valg av formann skal
+være med på saklisten punkt 5. Ellers var det ingen merknader til innkalling og sakliste.
+Arnljot Høyland ble valgt til møteleder og Per Chr. Hagen til referent.
+
+2. Årsberetning 1995 - 1997.
+Styret la fram årsberetningen. Beretningen ble kort kommentert av formannen og av
+
+styremedlem Helga J. Vivås. Undervisningsutvalgets grundige gjennomgang av lærebøker
+for den videregående skolen ble spesielt nevnt.
+3. Regnskap for 1995 og 1996.
+
+Regnskapet ble lagt fram og kommentert av kasserer Harald Johnsen. Han kunne fortelle
+om en viss inntektssvikt det siste året. Mange medlemmer har ikke betalt kontingenten, og
+det var enighet om at det nye styret bør sende en påminnelse om innbetaling til de som
+ikke har betalt. En ny utgift har også kommet til fordi det nå betales for trykking av TG.
+
+Regnskapet ble enstemmig godkjent.
+4. Kontingent.
+
+Fra styret ble det fremmet forslag om økning av kontingenten til 200 kr (studenter 50 kr
+
+som før). Etter en kort meningsutveksling ble styrets forslag vedtatt med den begrunnelse
+at det gir det nye styret økt økonomisk handlefrihet.
+5. Valg.
+
+Det sittende styret la fram forslag til ny formann, nye styremedlemmer og varamedlemmer
+
+og nye revisorer. Det var ingen andre forslag, og styrets kandidater ble valgt ved
+akklamasjon. Formannen ble valgt særskilt, og de øvrige ble valgt samlet.
+Valget ga dermed følgende resultat:
+
+Formann:
+
+Odd Aalen, Universitetet i Oslo
+
+Styremedlemmer:
+
+Trygve Almøy, Norges Landbrukshøgskole
+Sven Ove Samuelsen, Universitetet i Oslo (gjenvalg)
+Hans Julius Skaug, Havforskningsinstituttet
+Leiv Solheim, Statistisk Sentralbyrå
+
+Varamedlemmer:
+
+Ingrid Glad, Universiteteti Oslo
+
+16
+
+
+
+Vigdis By Kampenes, Nycomed
+
+Revisorer:
+
+Grete Fenstad, Universitetet i Oslo
+Per Lea, Matforsk (gjenvalg)
+
+Undervisningsutvalg:
+Jostein Lillestøl, Norges Handelshøyskole
+Ivar Heuch, Universitetet i Bergen
+Henrik Dahl, Høgskolen i Agder
+
+Styret hadde ikke forslag til redaktør av TG. På forespørsel til årsmøtet svarte Leiv Solheim
+at han ville forsøke å finne en løsning på redaktørspørsmålet innen Statistisk Sentralbyrå.
+6. Eventuelt.
+Ingen saker.
+
+Per Chr. Hagen, referent
+
+ar
+
+
+
+International Biometric Society
+Nordic Regional Meeting
+
+Møtet gikk av stabelen i Norges Landbrukshøyskoles lokaier på As i tidsrommet 18-20 juni, med et
+forkurs 16-17 juni.
+Vi begynte altså uken med et kurs i analyse av generaliserte lineære blandede modeller (’Generalized
+
+Linear Mixed Models”), forelest av Walter W. Straup fra University of Nebraska, USA. Kurset var i
+stor grad basert på bruk av ”proc mixed” i programpakken SAS, og var således også en fin innføring i
+
+denne prosedyren for de som hadde behov for dette.
+Kurset startet med en relativt inngående innføring i blandede modeller før det gikk over i generaliserte
+lineære blandede modeller. Kurset introduserte også etterhvert SAS macroen ’glimmix’, konstruert for
+
+å analysere nettopp disse modellene.
+Vi fikk en god innføring med regneeksempler i denne teorien som inkorporerer et vidt spekter av de
+modeller vi statistikere ofte jobber med, og av den grunn vil være meget nyttig å lære seg.
+Kurset pekte også på de svakheter som dukker opp i SAS ved analyse av enkelte mer avanserte
+
+modeller.
+Selv om forelesningene nok gikk litt over hodet på mange av oss mot slutten av kurset, tror jeg de
+
+fleste av kursdeltakerne hadde et bra utbytte.
+Etter kursets avslutning gikk vi neste dag over på den ordinære konferansen. Programkomitéen som
+besto av følgende:
+
+'
+
+Lene Theil Skovgaard
+Holmgeir Bjørnsson
+
+Lennart Bondesson
+Ludwig Fahrmeir
+Sture Holm
+Esa Laara
+Aage Nielsen
+Tormod Næs
+Jukka Ofversten
+
+Stein Emil Vollset
+hadde lagt opp til et intensivt og variert program, og vi fikk foredrag som spente fra de mer praktisk
+
+orienterte med titler som ” Analysis of reasons why farmers quit production in Norway’ og "Comparison
+of two treatments using Generalised Estimating Equations” til de mer teoretisk/matematisk orienterte.
+Det burde være mulig å finne noe av interesse for de fleste.
+Noe av det viktigste på slike konferanser er det sosiale aspektet. I den forbindelse virket det som en
+ekskursjon til Oscarsborg utenfor Drøbak slo godt an.
+
+Til slutt vil vi få takke organisasjonskomitéen:
+
+Are Aastveit
+Trygve Almøy
+Doris Tove Kristoffersen
+Petter Laake
+
+for en solid jobb. Dette gikk knirkefritt!
+
+18
+
+
+
+ESREL 98 i Trondheim
+European Safety and Reliability Conference (ESREL) 1998 arrangeres i Trondheim 17 19 juni 1998. ESREL er en bredt anlagt konferanse innen RAMS - ”Reliability, Availability, Maintainability, and Safety”, og den har vært arrangert årlig siden 1992. Initiativet til ESREL-konferansene ble tatt av The European Safety and Reliability Association (ESRA), som ønsket en årlig europeisk konferanse som kunne matche f.eks den årlige
+RAMS (Reliability and maintainability Symposium) i USA. ESREL-konferansene er basert
+på nasjonale konferanser og nasjonale foreninger innen sikkerhet og pålitelighet. Konferansen i Trondheim til neste år er basert på Scandinavian Reliability Engineers (SRE) og
+Norsk forening for risiko- og pålitelighetsanalyse. Det lokale vertskap er NTNU og SINTEF
+Teknologiledelse, og den nasjonale arrangementskomiteen er:
+
+Stian Lydersen, NTNU
+Helge Sandtorv, SINTEF
+
+Geir Klingenberg Hansen, SINTEF
+Henrik Kortner, DNV
+
+Jan Erik Vinnem, Preventor as
+
+Antall deltakere på ESREL har variert fra 260 til ca 500 (på Kreta i 1996). Årets konferanse
+ESREL 97 i Lisboa 17 - 20 juni hadde 480 deltakere hvorav 40 (!) fra Norge. Konferansen
+gikk over 4 dager med 6 parallellsesjoner, og hadde 270 foredrag. Foredragene var plukket ut
+
+blant i overkant av 500 abstracts. Deltakelsen, omfanget og kvaliteten på årets konferanse
+tyder på at ESREL er godt etablert nå. Vi har fått god respons og har registrert stor
+interesse for konferansen i Trondheim, så 300 deltakere synes å være et realistisk mål.
+Trondheim er kanskje et mindre attraktivt reisemål enn Kreta og Lisboa. På den annen
+side får vi se om de lyse sommernettene i Trondheimi juni virker tiltrekkende!
+Se også http://www.sintef.no/sipaa/esrel98/
+
+Stian Lydersen
+
+19
+
+
+
+21. Nordiske statistikermøte
+Lillehammer
+
+5. - 8. august 1998
+
+Utfordringer ved ar 2000
+Møtet er åpent for alle
+
+et møtested for statistikkprodusenter og statistikkbrukere
+
+viktig for alle med interesse for samfunnsdebattens faktagrunnlag
+
+De nordiske statistikermøtene går tilbake til 1927 da det første møtet fant sted i Stockholm. Det tredje
+nordiske statistikermøtet ble arrangert i Oslo i 1939, forøvrig tre år etter dannelsen av Norsk statistisk
+forening. Det er ansatte i de nordiske sentralbyråene som dominerer møtene, men vi håper at også
+statistikere på universiteter, forskningsinstitusjoner, forsikringsselskaper, departementer, fylker,
+kommuner og næringslivet også vil komme til Lillehammer neste år.
+
+Arrangør: De nordiske statistiske foreningene.
+
+Teknisk arrangør: Lillehammer Arrangement AS
+
+20
+
+
+
+Konferansested
+
+Lillehammer ligger snaut 20 mil nord for Oslo. Konferansestedet er Lillehammer Hotel som
+ligger sentralt i OL-byen
+Transport
+
+Det går tog fra Oslo og Trondheim. Det tilbys busstransport til og fra Oslo.
+Innkvartering
+
+Innkvartering på Lillehammer Hotel (kategori A) og Birkebeineren Motell og Leiligheter
+(kategori B og C) som ligger 5 minutters gangavstand fra konferansehotellet.
+
+Priser: Kategori A
+Kategori B og C
+
+Avgifter
+
+Deltakere:
+Ledsagere:
+Barn:
+
+NOK 935 pr døgn (inkl.1/2 pensjon)
+
+Enkeltverelse
+
+Dobbeltværelsen
+
+NOK 735 pr døgn (inkl.1/2 pensjon)
+
+Fra
+
+NOK 300 pr døgn (inkl.1/2 pensjon)
+
+Reduserte priser for ledsagere og barn
+
+NOK 2250 (studenter NOK 1 400)
+NOK 1400
+NOK 500
+
+Avgiften inkluderer måltider onsdag, fredag og lørdag, samt sosialt program lørdag.
+
+SVARKORT FORELØPIG PÅMELDING
+Returneres innen 1. desember 1997
+
+Fullstendig program vil bli sendt ut i februar 1998 med endelig påmeldingsfrist 30. april 1998.
+Jeg melder meg foreløpig på det 21. Nordiske statistikermøte i Lillehammer, Norge, 5.- 8.
+august 1998. Vennligst send meg fullstendig program med skjema for endelig påmelding.
+
+Antall ledsagere
+
+Voksne
+
+Barn........
+
+21
+
+
+
+Nordisk arrangementskomité:
+Leiv Solheim, Statistisk sentralbyrå, Oslo
+Otto Andersen, Danmarks Statistik, København
+Antero Pohjola, Statistikcentralen, Helsinki
+Helga Einarsdottir, Hagstofa Islands, Reykjavik
+Lars Bergløf, Statistiska Centralbyrå, Stockholm
+
+Lennart Norberg, Statistiska Centralbyrå, Örebro
+
+Bjørg Moen, Statistisk sentralbyrå, Oslo
+
+Teknisk arrangør:
+Lillehammer Arrangement AS
+Postboks 14
+
+2601 Lillehammer
+Norge
+
+Tlf.
+
++4761251705
+
+Fax.
+
++4761256515
+
+E-mail: lillarra@sn.no
+
+porto
+
+21. Nordiske statistikermøte
+
+c/o Lillehammer Arrangement AS
+Postboks 14
+2601 Lillehammer
+Norway
+
+22
+
+
+
+Faglig program
+Torsdag 6. august
+
+Plenumssesjon om statistikkens tidsserier.
+Parallelle sesjoner om:
+
+markedsføring av statistikk
+regional statistikk
+
+bruk av administrative registre i statistikkproduksjonen
+feilretting - revisjon og dataeditering - i statistikkproduksjonen
+statistikkfor offentlig sektor
+Fredag 7. august
+
+Plenumsdebatt om statistikken og statistikkens rolle i samfunnet
+Parallelle sesjoner om:
+
+datainnsamlingsmetoder i statistikkproduksjonen
+nordiske levekårsundersøkelser
+
+arbeidsmarkedsstatistikk
+konjunkturstatistikk
+
+nasjonalregnskapsstatistikk
+Avslutningsforedrag
+
+Dessuten work-shop og utstillinger.
+
+Sosialt program
+Jazzparty onsdag kveld
+Festmiddag fredag kveld
+
+Opplev Gudbrandsdalen på heldagstur lørdag med mulighet for rafting, padling, fottur, klat-
+
+ring eller gårdsbesøk
+
+Avslutningslunsj hos Dale-Gudbrands gard
+Eget ledsagerprogram for barn og voksne på torsdag og fredag.
+
+23
+
+
+
+The Fifth International Conference on Teaching Statistics - ICOTS-5
+
+Nanyang Technological University, Singapore,
+
+Place
+
+Dates
+
+June 21 - 26, 1998.
+
+Theme
+
+Statistical Education - Expanding the Network
+
+Contacts
+
+Brian Phillips (bphillips@swin.edu.au
+
+Chair IPC
+
+Chair LOC
+
+Fax +61 9819 0821)
+
+Teck-Wong Soon (twsoon @singstat.gov.sg)
+
+Singapore contact
+
+Lionei Pereira-Mendoza (pereirami Gam.nie.ac.sg)
+
+WWW site
+
+www.nie.ac.sg¢:8000/~wwwmath/icots.html
+
+Background
+
+ICOTS meetings are organised by the International Association for Statistical Education, the LASE,
+which is a section cf the Intemational Statistics Institute, the ISI. These are- the most important
+international conferences on the teaching of statistics and are held in different locations around the
+world once every four years. They bring together several hundred statistics educators and
+
+practitioners, including those from schools, colleges and universities, industries and governments.
+
+It is not necessary to be a member of IASE to participate, but membership is encouraged.
+General objectives
+
+To provide opportunities for educators throughout the world to expand their network in statistical
+education and encourage a worldwide exchange of ideas. In particular the conference aims to create
+opportunities for networking:
+
+;
+
+technology with modern methods in the teaching of statistics
+school and tertiary statistical education at ail levels
+the wider community with statistical educators
+
+statistical education with the forefront of statistical practice
+the exchange of ideas for teaching statistics. between and within
+
+*
+
+developing and developed countries
+
+educational research results and the practice of teaching statistics
+
+- It is planned to include keynote speakers, invited speakers, contributed papers, workshops and
+forums for the exchange of ideas, demonstration lessons, round .table sessions, poster sessions,
+book and software displays, hands-on computer sessions and many opportunities for
+communication and exchange of experiences and ideas. In particular it is intended to have some
+‘networking opportunities’ in which the time and opportunity is provided for participants to develop
+
+links between people in several areas.
+
+24
+
+
+
+Statistik vid Linköpings Universitet
+inbjuder till
+
+Lonferens om statistikutbildning
+i Linköping, 6-7 november 1997
+
+I Linköping finns ett av Sveriges få utbildningsprogram för statistik.
+
+Programmet har sitt
+
+ursprung
+
+i
+
+Statistikerlinjen som startade med sin första årskull hösten 1985. Under vårterminen utexamineras de första
+studenterna från det nya, fyraåriga utbildningsprogrammet. Utbildningen i Linköping har under några år
+genomgått ett omfattande utvecklingsarbete och i höst startar forskarutbildning i åmnet som en naturlig fortsåttning
+
+för de studenter inom programmet som önskar gå vidare med forskarstudier.
+Inom åmnet statistik har vi i Linköping lange sökt ett forum dar vi i mer nationella (och åven internationella)
+
+perspektiv kan diskutera svensk statistikutbildning. Eftersom man på olika håll i landet bedriver statistikutbildning
+
+med olika profilering vill vi gårna få ett erfarenhetsutbyte. Amnet intar en sårstållning i det att det ofta spanner
+över fakultetsgrånserna. Vi måste vara beredda att utforma vår undervisning så att den passar studenter med
+mycket varierande förkunskaper vad betråffar matematik, data, ekonomi, samhållskunskap m m.
+Med anledning av detta vill vi inbjuda alla intresserade att delta i en minikonferens om statistikutbildning som
+kommer att åga rum vid Linköpings Universitet 6-7 november 1997. Konferensen avser att behandla den utbildning
+
+som ges av statistiska institutioner eller motsvarande runt om i Sverige och inte explicit utbildning i Matematisk
+statistik. Under konferensen kommer vi att ha följande preliminåra teman:
+Hur år situationen i Sverige idag? Vilka utbildningar, kurser etc. finns?
+
+Hur undervisar vi i vårt åmne? Pedagogiska metoder? Med eller utan matematisk bas?
+Hur år forskningsanknytningen i dagens utbildningar?
+Hur år kontakten med nåringslivet i dagens utbildningar?
+Hur vill/tror vi att morgondagens statistikutbildning skall se ut?
+
+Om du redan nu kånner att detta år viktigt och intressant, gör en intresseanmålan på talongen nedan och skicka till
+oss. Vi kommer senare under våren att skicka ut mer detaljerad information om tider och programpunkter. Om du
+har frågor år du vålkommen att höra av dig till någon av oss.
+Studierektor Anders Nordgaard
+
+Programstudierektor Charlotte Karlsson
+
+Tel. 013-281974
+
+Tel. 013-281450
+
+Email: annor @mai.liu.se
+
+Email: chkar@mai.liu.se
+
+Q Jag anmåler mig preliminårt till konferensen om statistikutbildning i Linköping 6-7 november 1997.
+
+Q Jag år intresserad, skicka lopande information.
+Posta/faxa talongen helst
+
+före 1/6 till
+Narnn:
+
+Anders Nordgaard
+Matematiska institutionen
+
+Inst./Mynd./Företag:
+
+Linköpings Universitet
+581 83 LINKÖPING
+FAX: 013-100746
+
+Adress:
+
+eller skicka email till:
+Telefon:
+
+Email:
+
+annor @mai.liu.se
+
+
+
+Konferanseoversikt
+| TID
+
+STAD
+
+| TITTEL
+
+| KONTAKT
+
+1997
+
+6-7.nov
+
+Helsinki
+
+Annual Conference of Statisticians in
+
+Finnish Statistical Society, Secretary
+
+Finland: Bayesian Hierarchical Models,
+
+P.O.Box 5A, FIN-00022 Statistics,
+
+Finnish Statistical Society
+
+Finland
+
+http://www.stat.fi/sts/tilpv97.html
+
+19-21.nov | Oxford
+
+UK,
+
+Advanced Course in S-Plus
+
+StatSci Europe, Osney House
+
+http://www.statsci.co.uk/
+
+Mull Street, Oxford OX2 OJX, UK
+Fax: +44 (0)1865 200 953
+e-mail: coursesQstatsci.co.uk
+
+1998
+
+8-12.juni | Elsinore,
+Danmark
+
+17th Nordic Conference on
+
+Dansk Selskab for
+
+| Mathematical Statistics
+
+Teoretisk Statistik
+
+http://www.dsts.dk/nordisk.konf/
+17-19.juni | Trondheim | European Safety and Reliability
+Conference (ESREL 98)
+
+Stian Lydersen, Institutt for
+matematiske fag, NTNU,
+7034 TRONDHEIM
+Fax.: 73 593524, Tlf: 73 597053
+
+E-mail: Stian.LydersenQstat.ntnu.no
+
+21-26.juni | Singapore | The Fifth International Conference on
+Teaching Statistics
+
+Secretary, The Organising Committee
+ICOTS-5, c/o Department of
+
+http://www.nie.ac.sg:8000/ wwwmath/icots.html | Economics and Statistics,
+National University of Singapore
+10 Kent Ridge Crescent,
+
+Singapore 119260, Fax: (65)-775 2646,
+e-mail: ecsicotsQnus.sg
+
+24-28.aug | Bristol,
+
+UK,
+
+COMPSTAT’98
+
+Prof. Roger Payne, Statistics
+
+http://www.stats.bris.ac.uk/COMPSTAT/
+
+Department, IACR-Rothamsted,
+Harpenden, Herts AL5 2JQ, UK.
+Fax: +44 1582 760981
+
+6-ll.sept
+
+| Glasgow,
+
+RSS 98. International Conference of
+
+Skottland | the Royal Statistical Society
+http://www.stams.strath.ac.uk/rss98/
+
+Prof. Eric Renshaw
+
+Dept. of Statistics and Modelling
+Science, University of Strathclyde,
+6 Richmond Street, Glasgow, G1 1XH.
+email: rss98Qstams.strath.ac.uk
+
+6-7.nov
+
+Linköping, | Konferens om statistikutbildning
+
+Studierektor Anders Nordgaard
+
+Sverige
+
+Matematiska Institutionen
+Linköpings Universitet
+
+581 83 LINKÖPING
+Fax: 013-100746, Tlf: 013-281974
+e-mail: annorQmai.liu.se
+
+26
+
+
+
+NYTT FRA GRUPPE FOR STATISTIKK
+NTNU
+
+Dr.ing.
+Bjørn Kåre Hegstad forsvarte 17. juni 1997 sin avhandling:
+“Sampling from Stochastic Reservoir Models Constrained by Production Data”
+Tittel på prøveforelesning:
+
+“Resampling Methods for Assessing Uncertainty in
+
+Estimates of Model Parameters”.
+
+Veileder: Henning Omre.
+
+Komité: Paul Switzer, Stanford University; Eivind Damsleth, Norsk Hydro; Bo
+Lindqvist, NTNU.
+
+Ferdige sivilingenigrer
+Arild Bjgrsvik :
+
+‘Sammenligning av filterbanker med hensyn pa artefakter i
+
+bildekoding’. Hovedoppgaven er utført ved Institutt for teleteknikk, NTNU, under veiledning av professor Tor A. Ramstad. Faglærer ved Institutt for matematiske fag: John Tyssedal.
+
+Steinar Eiklid Braathen: ‘Statistisk analyse av data fra ferrolegeringsindustrien ved hjelp av parametriske og ikke-parametriske metoder”. Hovedoppgaven
+
+er utført ved Institutt for matematiske fag, NTNU og Elkem Mangan Sauda.
+Veileder ved NTNU: John Tyssedal. Veileder i Elkem: Forsker Ragnar Tronstad.
+
+Forskningsrapporter
+De fleste rapportene nedenfor, samt tidligere utgitte rapporter, er tilgjengelige i
+postscript-format via nettadressen
+
+http://www.math.ntnu.no/techreports/lists/statreports.html
+Statistics no.11/1996: Image Restoration with Faithful Residuals by Håvard Rue.
+
+Statistics no.1/1997: Identification of Partly Destroyed Objects using Deformable
+Templates by Håvard Rue and Oddvar Husby.
+
+Statistics no.2/1997: High-Level Image Priors in Confocal Microscopy Applications by Merrilee Hurn and Havard Rue.
+
+Statistics no.3/1997: Loss Functions for Bayesian Image Analysis
+Rue and Merrilee Hurn.
+
+by Havard
+
+Statistics no.4/1997: Generating Confidence Intervals by Stochastic Simulations
+in Models with Nuisance Parameters by Magnar Lillegard.
+
+27
+
+
+
+Statistics no.5/1997: Title:A Comparison of Rejection Sampling and MetropolisHastings algorithm by Bjørn Kåre Hegstad and Henning Omre.
+
+Statistics no.6/1997: Bayesian Object Identification by Håvard Rue and Merrilee
+Hurn.
+
+Statistics no.7/1997: M-smoother with local linear fit by Håvard Rue, Chih-Kang
+Chu, Fred Godtliebsen and James Stephen Marron.
+Statistics no.8/1997: Analysis of the 12 run Plackett and Burman design by John
+Tyssedal and Oddgeir Samset.
+
+NTNU: STIPENDIATSTILLING
+
+ØREMERKET FOR KVINNER
+Ved fakultet for fysikk, informatikk og matematikk ved NTNU er det ledig en
+stipendiatstilling øremerket for kvinnelige søkere.
+Det legges ingen andre restriksjoner på fagområdet enn at stipendiaten skal delta
+
+i fakultetets forskningsaktivitet ved et av instituttene fysikk, informatikk og
+MATEMATISKE FAG - herunder gruppe for statistikk.
+Nærmere opplysninger kan fås ved henvendelse til Institutt for matematiske fag,
+NTNU ved instituttstyrer Kristian Seip, tlf. 73 59 35 16, email seipQmath.ntnu.no.
+
+Søknadsfrist er 25. september 1997.
+Fullstendig utlysningstekst vil komme i Norsk lysingsblad.
+
+28
+
+
+
+Nytt fra universitetet i Oslo
+Uteksaminerte Cand.Scient
+Aslaug Hurlen Foss: *En studie av robuste alternativer til PCR”.
+Veileder: Tormod Næs
+
+Peter John Acklam: “Monte Carlo Methods in State Space modeling”.
+Veiledere: Erik Bølviken og Nils Christophersen
+Espen Moshaug: "Sammenligning av varians for logpseudolikelihoodestimatorer”.
+Veileder: Sven Ove Samuelsen
+
+Fupeng Ye: “Estimation of hazard rates: -some orthogonal expansion approaches”.
+Veileder: Nils Lid Hjort
+Andreé Honsvall: “Sjgforsikring og kredibilitetsteori”.
+
+Veiledere: Knut Hakon Brox og Simen Gaarder
+Johan Fosen: “Semiparametric density estimation - a local parametric approach”.
+Veileder: Nils Lid Hjort
+Geir Holmgren: “Utvikling av personskadeutbetalinger i motorvognforsikring”.
+Veileder: Sven Ove Samuelsen
+
+Bjørn Möller: “Variance estimators for correctly specified and misspecified logistic regression models”.
+
+Veiledere: Petter Laake og Sven Ove Samuelsen
+Ellen Wettre-Johnsen: “Sekvensielle slutningsproblemer”.
+Veileder: Arne Bang Huseby
+Nils Fritdthjov Haavardsson:
+
+“k-utvalgtester med korreksjon for andre kovari-
+
+ater”.
+
+Veileder: Ørnulf Borgan
+Anders Paulsboe:
+
+*En statistisk analyse av dødeligheten blant uføretrygdede i
+
+Norge 1970-1990”.
+
+Veileder: Ørnulf Borgan
+
+Uteksaminerte Dr.Scient
+Petter Abrahamsen:
+
+“Prediction of Geological Subsurfaces Based on Gaussian
+
+Random Field Models”.
+Veileder: Erik Bølviken
+
+Jon Kjetil Grønnesby:
+
+“Linear and proportional regression models in survival
+
+analysis”.
+
+29
+
+
+
+Veileder: Ørnulf Borgan
+
+Nyansettelser
+Ingrid Glad er ansatt som 1. amanuensis fra august 97.
+
+Peter Acklam er ansatt som universitets-stipendiat fra august 97.
+
+Statistical Research Reports
+J. Gåsemyr, B. Natvig:
+
+“An application of the MTP, property on bounds on
+
+system reliability”. No. 1. 1997.
+J. Gåsemyr, T. Aven:
+
+“Asymptotic distributions for downtimes of monotone
+
+systems”. No. 2. 1997.
+Ø.
+
+Borgan:
+
+“Three contributions to the Encyclopedia of Biostatistics:
+
+The
+
+Nelson-Aalen, Kaplan-Meier, and Aalen-Johanson estimators”. No. 3. 1997.
+
+Ø.
+
+Borgan:
+
+“Two contributions to the Encyclopedia of Biostatistics:
+
+Nested
+
+case-control sampling and Counter-matched sampling”. No. 4. 1997.
+K. F. Kaaresen, T. Taxt: “Multichannel Blind Deconvolution of Seismic Signals”.
+No. 5. 1997.
+M. Byholt: “Bayesian nonparametric density estimation with a local likelihood”.
+No. 6. 1997.
+
+A. Basu, I. R. Harris, N. L. Hjort, M. C. Jones: “Robust and efficient estimation
+by minimising a density power divergence”. No. 7. 1997.
+O. Fefeller, N. L. Hjort: “A new look at the visual performance of nonparametric
+hazard rate estimators”.
+No. 8. 1997.
+
+G. Storvik, B. Natvig, J. Gasemyr, I. Aursnes:
+
+“Assessment of the scientific
+
+documentation of the drugs etidronat (Didronate) and alendronat (Fosamax) for
+the reduction of the number of fractures among women with osteoporosis”. No.
+9. 1997.
+
+I. S. Helland: “More examples on the choice of conditioning”. No. 10. 1997.
+
+©. Borgan: “Risk set sampling designs for proportional hazard models”. No. 11.
+1997.
+
+T. Schweder, N. L. Hjort: “Indirect and Direct Likelihoods and Their Synthesis”.
+No. 12. 1997.
+
+30
+
+
+
+Statistical Memoirs
+B. Natvig: "Hva slags forskningsmetodikk bør styre forskningen - fra hypotesetestingsteori til Bayesiansk beslutningsteori? Om føre-var prinsippet, risikoversjon og etikk”. No. 1. 1997.
+
+Læremidler
+E. Bølviken, N. Christophersen, G. Storvik: “Linear dynamical models, Kalman
+filtering and statistics”. Lecture notes to IN-ST 259, august 1997.
+B. Natvig: “En introduksjon til Bayesiansk statistikk og beslutningsteori”. Notat
+til ST115, august 1996.
+
+G. Storvik: *Noen konkrete anvendelser i Bayesiansk statistikk” Notat til ST115,
+september 1996.
+
+31
+
+
+
+1997 Psychometric Society Dissertation Prize.
+Anders Skrondal vant denne prisen for sin avhandling ” Latent trait, multilevel and repeated
+measurement modelling with incomplete data of mixed measurement levels”. Det er Psy-
+
+chometric Society som gir ut tidsskriftet Psychometrica. Anders får en mindre pengepremie
+samt støtte til å reise til selskapets årsmøte i Gatlinburg, Tennessee, der prisen skal deles
+ut.
+
+Avhandlingen, som Anders fikk sin Dr.Philos grad for i desember 1996, utvikler begrepsapparat og metodikk for diverse ulike og til dels temmelig komplekse datastrukturer og
+
+modeller. Denne metodikken er også av interesse utenfor psykometrien.
+Anders er en første rangs fagstatistikker uten statistikk hovedfag, men tvert imot med
+
+statsvitenskap. Han tok Statistikk grunnfag ved Det samfunnsvitenskapelige fakultet, og
+
+gikk rett på doktorgradsstudiet i statistikk (dr.polit i statistikk). Avhandlingen leverte han
+ved Det medisinske fakultet, fordi han fortsatte arbeidet med avhandlingen ved Seksjon
+
+for medisinsk statistikk etter at han var ferdig med sin periode som universitetsstipendiat
+ved Sosialøkonomisk institutt.
+
+Petter Laake veiledet Anders, og skal ha sin del av æren for at Anders ble rekruttert til
+vårt fag, og for at han kom i gang med sin ypperlige forskning innen statistisk metodelære.
+
+Æren for prisen og avhandlingen tilkommer naturligvis Anders. GRATULERER!
+
+Tore Schweder
+
+Nye medlemmer i ISI fra Norge:
+International Statistical Institute har på sin 51. sesjon i Istanbul 18-26. august 1997 valgt
+inn 3 medlemmer fra Norge:
+Jan F. Bjørnstad
+Bo Lindqvist
+Bent Natvig
+
+32
+
+
+
+Stig Eindride Larsen 50 år.
+Den 26. mars fylte Stig Larsen 50 år. Stig ble født i Trondheim og han er fremdeles trøndersk i kropp
+og sjel.
+
+Han ble ferdig cand. real i 1975 fra UniversitetetiOslo med en hovedoppgave om "Maximum
+
+Likelihood estimering”. Allerede i studietiden var han aktiv i studentpolitikken i Kommunistisk
+
+ungdom. Han var også en drivende kraft som organiserte det sosiale miljøet i åttende etasje. Det går
+fremdeles gjetord om en kake som Stig bakte til en bursdagsfeiring i åttende etasje i 1973. Steinar
+Tretli hadde ønsket en skikkelig trønderkake, dynket med sprit og vennlig som han er ofret Stig en
+
+halv flaske 96 % sprit.
+
+Etter studietiden ble Stig stipendiat hos professor Magne Osnes på gastroentorologisk laboratorium
+på Ullevål sykehus. Her fikk Stig virkelig sansen for å bruke statistikken på medisinske
+
+problemstillinger. Han så hvilket enormt behov det var, og han så metodefeilene man begikk. Stig
+brente for statistikken og hari hele sin karriere prøvd å lære forskere til å tenke mere statistisk,
+spesielt i planleggingfasen. Stig blir virkelig lei seg når noen kommer med et forsøk han skal
+analysere, og så har man gjort metodefeil slik at man ikke kan få svar på de ønskede spørsmålene.
+Han var en av pionerene i Norge på design av kliniske studier, og her har han virkelig kunnskap. Stig
+kan komme inn og på et blunk se muligheter med designtyper som ingen andre har tenkt på. Alt
+bygget på hans kunnskap om medisin. Hele tiden har han hatt medisinske problemstillinger som det
+primære, og han er en av de norske statistikerne som virkelig har satt seg inn i medisinen, spesielt
+
+gastroentrologi. Stig har alltid hevdet at statistikken er et hjelpemiddel for å få svar på medisinske
+spørsmål. Hans tese har alltid vært at det viktigste er budskapet, ikke statistiske metoder som sådan.
+Etter stipendiattiden gikk han til den farmasøytiske industri. Han hadde en visjon om at Ciba Geygy
+
+skulle ha et permanent nordisk statistisk senteriNorge. Han begynte også å bygge det opp, men i
+1984 gjennomførte Ciba store nedskjæringer og det nordiske senteret ble også nedlagt. Drømmen var
+vanskelig å gi slipp på og Medstat AS ble et faktum. Til å begynne med bestod firmaet av Stig og
+Leif Sandvik. Oppdragsmengden økte, og flere statistikere ble ansatt. Stig var en virkelig visjonær.
+
+Jeg tror ingen av oss vanlige statistikere som eri fast stilling i statlige eller halvstatlige stillinger kan
+
+forstå det motet man trenger for å starte opp for seg selv. Familien trenger hele tiden penger for å
+betale regninger, og Stig hadde ikke bare seg selv å forsørge. På det meste var det 16 personer ansatt,
+åtte statistikere og åtte som støttepersonell. Stig var hele tiden en inspirerende direktør. Han frontet
+hele organisasjonen. Ja, han er virkelig i sitt ess med stadige møter med nøkkelpersoner i
+
+farmasøytisk industri og på universitetssykehusene. I tillegg har han ofte gitt god støtte til
+stipendiater. Tross visse vansker underveis lever Medstat i beste velgående 13 år etter oppstart. Og
+Stig jobber like hardt. Lyser det i et vindu på Medstats kontorer på Lillestrøm, kan du være sikker på
+at det Stig som er på kontoret selv om klokken er både 23 om kvelden eller 02 om morgenen.
+Etter 13 år som daglig leder er Stig fremdeles like entusiastisk. Han har forblitt en visjonær griinder
+med sans for de store linjer.
+
+Stig må virkelig oppleves som foreleser. Entusiasmen bobler, han nærmest hopper rundt og nærmest
+tvinger stoffet inn i elevene. En forelesning med Stig er en opplevelse. Han foreleser hvert år på dr.
+
+scient studiet på Veterinærhøyskolen i Oslo. I tillegg gir han og Medstat skreddersydde kurs for
+sykehus og medisinske firmaer.
+
+Stig har vært med på ca 150 medisinske publikasjoner, mange i meget anerkjente tidsskrifter.
+Jeg mener at Stig er en av dem som virkelig har fått medisinere til å ta statistikken på alvor. Stig har
+
+styrke til å hevde statistikernes rett overfor legene. Alle som har arbeidet i det medisinske miljøet vet
+at det ikke alltid er like lett for ikke-medisinere.
+
+Petter Mowinckel
+
+33
+
+
+
+Leiv Sandvik 50 år.
+Leiv Sandvik fylte 50 år den 13. januar i år. Leiv har nesten hele sitt yrkesmessige liv arbeidet
+sammen med Stig Larsen, først i Ciba Geigy og deretter i Medstat.
+Leiv tok sitt hovedfag ved universitetet i Bergen i Matematisk statistikk med en oppgave om
+taxonome nøklar. For dem av oss som ikke vet hva det dreier seg om er det en metode for å gi riktig
+
+navn til biologiske individer. Det første året arbeidet han med telling av fisk og hval på Zoologisk
+
+museum i Oslo. Etterpå arbeidet han på Nyegaard og co (Nycomed i dag). På Nyegaard og co trengte
+Leiv en ikke-parametrisk test for spredninger i fordelinger. Sammen med Birgitta Olsson, en av
+kjemikerne på Nyegaard og co laget han Sandvik-Olssons test. Senest i fjord konstaterte Leiv at han
+
+fremdeles får noen forespørsler
+i året om testen.
+Etter et år hos Nyegaard og co flyttet Leiv over til Ciba Geigy sammen med Stig Larsen. Da
+nedskjæringene kom i 1984, hadde Leiv nok tro på statistikken til å starte Medstat sammen med Stig.
+Firmaet besto av de to statistikerne. Litt etter litt ble staben utvidet, fordi oppdragsmengden økte.
+
+Leiv har alltid vært flink til å hente inn oppdrag. Han er alltid entusiastisk når det gjelder medisin og
+statistikk. Han mener at statistikken er et hjelpemiddel for å forklare interessante medisinske
+
+fenomener. Hans store styrke er den elegante måten han alltid klarer å forklare resultatene på. Jeg
+
+kjenner ingen annen statistiker som er så god til å skrive rene medisinske artikler.
+Etter et par år på Medstat kom han i kontakt med overlege Jan Erikssen på Sentralsykehuset i
+Akershus. Erikssen hadde en stor database som var fulgt opp fra 1971, i og for seg ikke så uvanlig,
+men Erikssens database hadde data om personenes fysiske form. Først på 80 tallet ble det et område
+man konsentrerte seg om innen medisinen. Leiv er nysgjerrig av natur og begynte straks å grave i
+materialet. I 1989 fikk han et doktorgradsstipend. Leiv ble førsteforfatter på flere anerkjente arbeider
+
+blant annet i New England Journal of Medicine og British Medical Journal. For dem som ikke er inne
+i de medisinske tidsskriftene kan det nevnes at New England Journal of Medicine er regnet som et av
+de to mest prestisjefylte tidsskriftene man kan publisere i. Leivs artikkel ble også nevnt i flere ledere
+i tidsskriftet, ja to ganger leste jeg at man ventet med spenning på flere resultater fra Sandvik og
+
+Erikssen. Resultatene har også vært presentert på prestisjetunge internasjonale medisinkongresser
+som American Heart i Austin Texas. I fjor høst forsvarte Leiv sin doktorgrad over emnet “Predictor
+of cardiovascular mortality”.
+
+Leiv må sies å være den fødte forsker. Han er nysgjerrig og har alltid vært et oppkomme av ideer,
+ikke bare innen statistikken. I alle år har han arbeidet med oppfinnelser, enten egne eller det å hjelpe
+andre i gang. Hele tiden bobler entusiasmen.
+
+Feriene liker Leiv å tilbringe på hytta ved Larkollen. Her kjører han rundt i en kano med uteligger av
+egen konstruksjon. Han har også montert en påhengsmotor slik at han kan ri på bølgene. Antagelig er
+det den gamles surferen som har dukket opp igjen. I studietiden pleide Leiv å dra til surfeparadiset
+Biarritz på den franske kanalkysten. Han snakker fremdeles om en tur tilbake og kanskje han kan ta
+
+med seg sin Elisabeth når det siste barnet flytter ut om et par år.
+Hjemme på Skjetten er notatboken alltid tilstede. Det kunne hende at han fikk en ide som måtte
+undersøkes nærmere.
+
+Petter Mowinckel
+
+34
+
+
+
+KØBENHAVNS UNIVERSITET
+Det sundhedsvidenskabelige Fakultet
+
+Professorait biostatistik
+
+Ved Institut for Folkesundhedsvidenskab er - under forudsætning af fornødne
+bevillinger - en stilling som professor i epidemiologisk orienteret biostatistik ledig
+
+til besættelse pr. 1. februar 1998.
+
+Fra 1996 har en ny tværfaglig to-årig videreuddanneise til graden Master of Public
+Health været udbudt af de sundhedsvidenskabelige fakuiteter ved universiteterne
+
+i København og Århus i samarbeide med Odense Universitet. Københavns Univer-
+
+sitet vil desuden etablere en bachelor- og kandidatuddannelse i folkesundhedsvidenskab fra 1998. Fagområderne epidemiologi og biostatistik udgør væsentlige
+
+dele af de omtalte uddanneiser og den, der ansættes i stillingen, forventes at deltage i planlægningen og undervisningen i forbindelse med disse nye uddanneises-
+
+initiativer.
+
+Professoratet indgåri den med disse uddannelsesinitiativer forbundne ekspansion,
+
+men den nye professor forventes også at deltage i Biostatistisk Afdelings øvrige
+arbejdsopgaver, nemiig forskning og metodeudvikling i biostatistik, undervisning af
+læge-, tandlæge- og humanbioiogistuderende og af ph.d.-studerende ved
+
+fakuitetet samt biostatistisk rådgivning til fakultetets ph.d.-studerende, øvrige
+studerende og forskere.
+
+Der vil derfor blive iagt vægt på en videnskabeiig produktioni statistiske metoder
+
+navnlig med henblik på epidemiologi, som kombinerer metodoiogisk dybde med
+overbevisende anvendelser, samt på erfaring i undervisning, også af ikke-statisti-
+
+kere, og i rådgivning af og samarbeide med empiriske forskere.
+
+Ansøgningen stiles til rektor og fremsendes til Det sundhedsvidenskabeiige
+Fakultet ved Københavns Universitet. Ansøgningen skal indehoide curriculum
+vitae, publikationsiiste samt dokumentation for de kvaiifikationer, der er nævnt
+
+ovenfor. Ansøgeren fremsender op til 20 arbeider, som ønskes inddraget i bedømmelsen. Ansøgeren skal begrunde, hvorfor disse pubiikationer er udvaigt. Bedøm-
+
+melsesuavalget kan indkalde andre arbejder. Det påhviler ansøgeren at indsende
+det nævnte materiale i fem eksemplarer.
+
+Nærmere oplysninger kan gives af institutleder, professor Allan Krasnik, tif.
+35 32 79 71 eller professor Niels Keiding, tlf. 35 32 79 03.
+Ansøgerne bedømmes af et fagkyndigt bedammeisesudvaig, hvis vurdering i sin
+
+helhed bliver tilgængelig for samtlige ansøgere.
+
+Bedømmelsesudvalgets indstilling er fortrolig for så vidt angår opiysninger om
+medansøgere.
+Ansætteise finder sted efter overenskomst meilem Finansministeriet og vedkommende faglige organisation. Der ydes pensionsgivende tillæg, der udgør forskellen
+
+meilem løn iht. overenskomsten og lønramme 37. Herudover er man indstillet på
+at yde et tillæg som pr. 1. april 1997 udgør kr. 39.242,93 årligt.
+
+Ansøgningen (i 6 eksemplarer) samt det for bedømmeisen nødvendige materiale
+stiles til rektor for Københavns Universitet og indsendes til Det sundhedsvidenska-
+
+belige Fakultet ved Københavns Universitet, Panum Instituttet, Blegdamsvej 3,
+2200 København N, således at den er fakultetet i hænde senest den 27. oktober
+1997, Ki. 12.00.
+
+KØBENHAVNS UNIVERSITET
+
+35
+
+
+
+Medlemskap i Norsk Statistisk Forening
+Kontingenten er kr. 150 per år for regulære medlemmer og kr. 50 for studenter. Fra og med 1998
+økes den til kr. 200 for regulære medlemmer. For studenter er den uforandret. Korrespondanse
+om medlemskap og innbetaling av kontingent skal skje til foreningens kasserer:
+Norsk Statistisk Forening v/Trygve Almøy
+Inst. for matematiske fag
+NLH
+
+Postboks 5035
+
+1432 Ås
+Innbetalinger gjøres på foreningens postgirokonto 0802 5151055. Medlemmer som er usikre på når
+de betalte kontingent sist, kan nederst til høyre på adresselappen for Tilfeldig Gang se hvilket år
+
+siste betaling er registrert for. Vær imidlertid oppmerksom på at adresselappene for bladet kan
+ligge noe etter ajourføringen av medlemsregistret, slik at nylig foretatte innbetalinger ikke vil være
+med her.
+
+Normalt vil det i årets første nummer av Tilfeldig Gang ligge en giroblankett for innbetaling av
+
+kontingent. Ved en forglemmelse kom den ikke medi forrige nummer, men ligger ved nå. Selv om
+blanketten har forrige kasserer til adressat, kan den likevel benyttes.
+
+Nye medlemmer melder seg til kassereren og får så automatisk tilsendt Tilfeldig Gang fra første
+påfølgende nummer av. Tidligere nummer av bladet kan dessverre ikke skaffes. Ved utsendelsen
+av Tilfeldig Gang benyttes kopier av medlemssregistret, slik at adresseforandringer behøver ikke
+meldes separat til bladet.
+Annen korrespondanse med foreningen skal foregå med formannen:
+
+Odd O. Aalen
+Seksjon for medisinsk statistikk
+Universitetet i Oslo
+Postboks 1122, Blindern
+
+0317 Oslo
+
+Bidrag til Tilfeldig Gang
+Neste nummer av Tilfeldig Gang vil komme ut i desember 1997. Alle slags bidrag til bladet er
+velkomne, enten det gjelder nye temaer av interesse for norske statistikere, eller man har kom-
+
+mentarer til innlegg som allerede har stått i bladet. Stoff til neste nummer må vere redaktøren i
+hende senest 1/12-97.
+Adressen til redaksjonen er
+Postadresse:
+
+Leiv Solheim
+
+Statistisk Sentralbyrå
+Postboks 8131, Dep.
+
+0033 OSLO
+Telefon:
+
+22864687
+
+Fax:
+e-mail:
+
+22864973
+lso@ssb.no
+
+36
+
+
+
+
+
+Retur:
+
+Tilfeldig Gang v/ Harald Johnsen
+Avdeling for klinisk kjemi
+Regionssykehuset i Trondheim
+
+N-7006 Trondheim
+
+
+

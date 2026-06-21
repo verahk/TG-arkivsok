@@ -1,0 +1,1929 @@
+ISSN 0803-8953
+
+TILFELDIG GANG
+Nr. 3, årgang 19
+September 2606
+
+2001
+
+Utgitt av Norsk Statistisk Forening
+
+Frå redaktøren Jonn-Tyssedal +25
+Frå (eig NSE. Andre leipland: SS
+Statistisk reisebrev
+
+Reiseberetning fra et kurs i epidemiologi i Firenze . Tarje O. Halvorsen
+
+og Trond Anders Mopger. ............-.00.02-censeoeeenecnsenecercecnnccnoronreescees
+Fagleg stoff
+
+Kan siteringsdatabaser brukes i statistisk sammenheng? En ørliten test med
+
+konklusjon IvarHeuceh. >...
+
+000000
+
+Statistikkfagets nedoverbakke innen samfunnsfagene. Tore Schweder. ......
+
+Puslerispalten
+
+Pusleri nr. 8. Jostein Lillestøl.
+Løysing av pusleri nr. 7. Jostein Lillestøl. .........---»»oo0nnrnrnnrrvrrrnrnernnnr
+Referat og årsberetning
+
+Årsberetning for Norsk Statistisk Forening, juni 99 — juni 2001
+
+Referat frå hovedmøte i Norsk Statistisk Forening. .....------»orrnnrnrorenennenr
+
+Logokonkurranse
+Det nye styret
+
+Milepæl
+
+Geir Egil Eide fylte 50 år 18. september 2001
+Henning Omre fylte 50 år 13. august 2001. .......2..errrrrrserernorrorrrenerr
+Trygve Nilsen fylte 60 år 17. September 2001. ........»+»oorenrnnrrnvrrnnvrnerenn
+Konferansar, meldingar og anna
+
+Workshopin New developmentsin event eet analysisi Oslo
+
+Third international conference on Mathematical methodsin Reliability i
+
+acl weummareatec sir
+L
+PRTONGNEINS N came ee ore h
+
+Den 19. nordiske konferansen i Matematisk statistikk. ...................c008
+
+7® Valencia international meeting on Bayesian statistics
+
+ces
+ioeee
+ecee ssoscsauec
+ere
+eccsuscen
+Nyt fra Universitetet 100 |)... co. -cpaccsecs
+N
+Nytt frå Universiteter Ten SM
+
+NANNA
+Medlemskap i Norsk statistisk forening. .....-.---»-oorrnnnvnvrnrrnnnrrrenerernrr
+
+
+
+
+
+Redaksjon:
+
+John Tyssedal (redaktør)
+Bo Lindqvist
+Stian Lydersen
+
+Henning Omre
+Inge Olsen
+
+Adresse til redaksjonen:
+John Tyssedal
+Institutt for matematiske fag, NTNU
+Alfred Getz vei 1
+7491 Trondheim
+Tlf: 73 59 35 34
+
+Fax: 73 59 35 24
+e-post :
+tyssedal
+O
+stat.ntnu.no
+
+Trykking og utsending av TG blir utført av
+Statistisk Sentralbyrå.
+
+Bidrag til Tilfeldig Gang:
+Alle slags bidrag til bladet er velkomne, anten det gjeld nye tema av interesse for norske
+statistikarar eller ein har kommentarar til innlegg som alt står i bladet. Stoff til neste
+nummer må vere redaksjonen i hende innan 30.11.2000.
+Det greiaste er at stoffet blir sendt inn som Word-fil (Word 97 eller lågare versjon) til epost adressa til redaktøren, sjå ovanfor. Andre typar format vil normalt bli akseptert, men
+kan skape problem for den noverande nettversjonen.
+
+Nettversjon av TG, er å finne på følgjande internettadresse:
+
+www.math.uio.no/nsf/web/index.htm. Dei som leverer bidrag til TG og som ynskjer å
+reservere seg mot at bidraget blir lagt ut på nettet, må gje beskjed om dette ved
+innsending av stoff.
+
+
+
+Frå redaktøren
+
+Redaksjonsansvaret for TG er ei stor og viktig sak og Trondheimsmiljøet må nok
+innrømme at vi ikkje strutta av iver etter å påta oss dette. Vegringa for å påta oss jobben
+
+var nok grunna i forventsa tidsforbruk, men mest i respekt for den jobben som tidlegare
+redaktørar har utført. Når det er sagt, den nye redaksjonen som består av Bo Lindqvist,
+Stian Lydersen, Henning Omre, Inge Olsen og underteikna er optimistiske med tanke på
+
+føre arbeidet med TG vidare.
+
+Sommaren er ikkje noko tidspunkt der ein forventar stor aktivitet korkje på skrivefronten
+eller hos redaksjonsstaben. Til vår store glede har vi opplevd at bidrag til TG har strøyma
+inn jamnt og trutt og gjort det mogeleg å gje ut dette nummeret utan større hovudbry. Vi
+ser det som eit bevis for det utmerka arbeidet som avtroppande redaktør Odd Aalen og
+redaksjonsen hans har utført og rettar på vegne av TG-lesarane ei stor takk til desse.
+Såleis kan vi denne gongen by på ei reiseberetning, puslerioppgåve, faglege bidrag,
+omtale av personar som fyller runde år, invitasjon til å bidra med logo til NSF, nytt frå
+
+universiteta og konferanseannonseringar.
+
+Tore Schweder fortel i eit innlegg om situasjonen til statistikkfaget innanfor
+samfunnsfaga i Oslo. Dette er urovekkande lesing. Samstundes veit vi at rekrutteringa til
+hovedfagi statistikk innanfor cand. scient. utdanninga er jamnt dårleg på alle universitet
+heri landet og innanfor siv.ing. utdanninga i Trondheim er interessa mindre enn før. Det
+er ein ambisjon for det nye styret i NSF å bidra til rekruttering til statistikk og til auka
+profilering av nytteverdien til faget. TG redaksjonen tek gjerne imot innlegg med
+synspunkt på korleis vi kan dra faget ut av bølgjedalen. Nekrologar over studietilbod må
+ikkje få lov til å bli eit vanleg tema i TG framover.
+
+For kort tida sidan var redaktøren deltakar på den 1. ENBIS (European Network for
+Business and Industrial Statistics) konferansen i Oslo. ENBIS har som mål å skape
+nettverk mellom statistiske miljø, brukarorienterte såvel som akademiske. Det var ein
+svært vellukka konferanse. Slike initiativ kan kun telje positivt når det gjeld å profilere
+
+faget og nytteverdien av det.
+
+Over tid har TG hatt innlegg som tek for seg bokanmeldelsar, statistisk programvare,
+
+samandrag av doktoravhandlingar, intervju med statistikarar, utklipp frå pressa, statistikk
+i arbeidsliv med meir. Vi tek gjerne imot slike og lovar at vi ikkje skal sensurere med
+hard hand.
+
+John Tyssedal
+
+
+
+
+
+Reiseberetning fra et kurs i epidemiologi i Firenze
+Tarje O. Halvorsen og Tron Anders Moger,
+Seksjon for medisinsk statistikk, UIO.
+
+Den 22. juni dro to forventningsfulle førstereisgutter til Italia for å delta på et tre ukers
+
+sommerkursi statistikk og epidemiologi. Kurset arrangeres årlig av European
+Educational Programme in Epidemiology (EEPE) og koster 2500 euro. I dette beløpet er
+alt inkludert bortsett fra flyreisen. Man sover, spiser og blir undervist på samme sted;
+kurssenteret ”Studium” i utkanten av Firenze. Dette ligger idyllisk til med god utsikt over
+landskapet i Toscana. For den vanligvis svært så store nordiske deltagermassen er det
+ingen tvil om at lokaliseringen av kursstedet er en betydelig grunn til at man deltar.
+Kurset består av to deler: De to første ukene undervises det i epidemiologiske
+metoder og statistiske metoder i epidemiologi. Den andre uken velger man et tema man
+er interessert i. Det er fire ulike teamer å velge mellom: Kreftepidemiologi, klinisk
+epidemiologi, epidemiologi og miljø samt lineærmodeller. Foreleserne er stort sett veldig
+gode, med Michael Hills og Per Kragh Andersen som de mest kjente statistikerne. Det
+store trekkplasteret, Sir Richard Doll, skulle holdt noen gjestforelesninger men kunne
+desverre ikke komme på grunn av helseproblemer.
+De to første dagene av oppholdet tilbrakte vi i Bologna, og den 23. juni skjedde
+det: Man er jo i et katolsk land, og vi fikk et relgiøst møte med det gudommelige.
+Maranello, vidunderlige bilers arnested. Det var med andakt og tårer i øynene at vi steg
+av bussen utenfor Ferrari-fabrikken. De påfølgende timer løp vi ivrig rundt fra
+souvernirbutikk til souvernirbutikk, og fikk fylt posen med et par klistremerker og en
+kulepenn. Prisene på offisielle Ferrari-produkter står ikke noe tilbake for prisene på
+bilene. På Galleria Ferrari fikk vi minner for livet. Her var det utstilt formel 1 biler,
+gatebiler og motorer som kunne fotograferes og beføles.
+Vi kom oss på kurset i tide til tross for disse svulstige opplevelsene. Vi sto opp
+tidlig mandag morgen, og det var undervisning fra 0830 til lunsj klokken 1300. Så var det
+en utsøkt lunsj med øl, vin og noe attåt. Daglig var det minst en rett som innholdt
+blekksprut, ellers var maten velsmakende og vakkert tilberedt. Etter lunsj var det et par
+timers pause som kunne vært brukt til selvstudium. Stort sett sto imidlertid det sosiale 1
+fokus isteden. På ettermiddagene var det forelesninger og gruppearbeid fram til 1930.
+Med andre ord lange dager. Klokken ble ofte halv ni før middagen var fortært og
+noenlunde fordøyd.
+Vi fikk også med oss litt kultur, selv om vi raskt ble kjent som ”de to
+
+nordmennene som var interessert i biler og motorsykler”. Firenze er som kjent en veldig
+vakker by med renessansebygninger som kan ta pusten fra de fleste. Uffizi museet,
+Boboli-hagene og domen er velkjente attraksjoner. To kilometre bortover og 500 meter
+rett opp fra studiesenteret ligger en pittoresk landsby på en fjellknaus. Fiesole, som byen
+heter, har et amfiteater fra romerrikets dager. Dette er fremdeles i bruk, og det er både
+operaforestillinger og klassiske konserter der nesten daglig. Tron fikk med seg en konsert
+med musikk av Vivaldi og Bach, fremført av et lokalt musikkonservatorium. Strykerne
+holdt gjennomgående god kvalitet, men blåserne, som riktignok bare var med i
+
+
+
+konsertens siste del, gjorde opplevelsen noe mer blandet. Det er generelt dårlig strategi å
+gi de kraftigste instrumentene, i dette tilfellet waldhorn og trompet, til de dårligste
+musikerne.
+
+Den andre kurshelgen arrangerte ledelsen en ekskursjon til Siena og San
+Gimignano. Siena er mest kjent for sin Palio, et hesteløp hvor det meste er lov. Hestene
+får en solid sprøyte steroider før start, og den hesten som kommer først til mål vinner
+uansett om jockeyen fremdeles sitter på hesten eller ikke. Dette løpet er en konkurranse
+mellom de ulike bydelene i Siena, og vinnerbydelen får dekorere bygningene sine med
+flagg fram til neste løp. Kirken i Siena er praktfull og vesentlig mer utsmykket innvendig
+enn domen i Firenze. Det var en stor konkurranse mellom Firenze og Siena om å ha den
+flotteste kirken. I Siena begynte de på en massiv utvidelse av kirken, men taket raste
+sammen, pengesekken tørket inn, og den står halvferdig den dag i dag. San Gimignano er
+kjent for sine mange tårn som ble bygd av konkurrerende adelsfamilier i middelalderen.
+Jo høyere tårn, jo større rikdom hadde familien. Det var opprinnelig 72 tårn, 14 av dem
+står igjen idag. Det var imidlertid ikke lov å bygge høyere tårn enn rådhuset, så da bygde
+man heller flere per familie. Det er et torturmuseum her, som inneholder det meste av det
+
+beste av torturmetoder fra middelalderen.
+
+Kursoppholdet var med andre ord svært vellykket. Faglig sett var kurset
+spennende og innholdsrikt. Vi kan anbefale kurset på faglig grunnlag, men vil nok legge
+enda mer vekt på de sosiale festligheter og rikelig tilgang til vin.
+
+Informasjon om kurset finnes på:
+http://www.iarc.fr/pageroot/ EDUCATION/Saracci.htm
+
+
+
+Kan siteringsdatabaser brukesi statistisk sammenheng?
+En ørliten test med gitt konklusjon
+Ivar Heuch
+
+Matematisk institutt, Universitetet i Bergen
+
+Norges Forskningsråd (NFR sendte nylig ut melding til universiteter og høyskoler om at det
+
+skal foretas en evaluering av grunnforskningen i matematikk her i landet. Evalueringen skal også
+
+omfatte fagområdet statistikk, men bare slik at institusjoner som faller inn under den generelle
+matematikkparaplyen skal tas med. Frittstående forskningsinstitutter og høyskoler som ikke gir
+hovedfagsundervisning, faller også utenfor. NFR har allerede holdt et orienteringsmøte om saken.
+Ved Universitetet i Bergen ble det arrangert et forberedende møte der involverte fra andre fagfelt
+gjorde rede for erfaringer fra tidligere evalueringer.
+
+Det er foreløpig ikke kjent nøyaktig hvordan arbeidet skal foregå, men ved lignende evalueringer har komiteene bl. a. gått inn i databaser som viser siteringshyppighet for vitenskapelige
+arbeider skrevet av de ansatte ved de aktuelle institusjonene. Data av denne typen er ment å gi et
+rimelig inntrykk av hvor vesentlige bidrag publikasjonene utgjør. Arbeider som vekker stor interesse, blir naturligvis flittig sitert, selv om praksis kan variere betydelig mellom forskjellige fagområder. Det synes å være enighet om at slik informasjon må betraktes med en rimelig grad av
+skepsis i enkelttilfeller, men at aggregerte data likevel kan inneholde vesentlig informasjon.
+For å kunne gjennomføre undersøkelser av denne typen trengs det relevante databaser. Ifølge
+et ubekreftet rykte på det forberedende møtet, skulle en evalueringskomite for fysikk ha benyttet
+en oversikt over publikasjoner på området som ikke omfattet vanlige tidsskrifter innenfor feltet
+biofysikk. Resultatet ble at en forskningsgruppe i denne disiplinen ble utsatt for sterk kritikk for
+manglende aktivitet, selv om gruppen hadde sendt inn en publikasjonsoversikt som viste mange
+arbeider offentliggjort andre steder. Det ble også hevdet at noen evalueringsgrupper ikke hadde
+studert individuelle siteringshyppigheter i det hele tatt, men bare lagt vekt på generelle rangeringer (‘‘impact factors’’) av tidsskriftene. Usikkerheten over metodene som hadde vært fulgt,
+førte til en oppfordring om at fremtidige evalueringskomiteer i større utstrekning burde beskrive
+sine formelle vurderingsprosedyrer. Det gjenstår å se om ønsket blir fulgt i prosessen som
+statistikkfaget skal gjennom.
+
+Ved innføring av nye kvantitative metoder på bestemte fagfelt blir det ofte uttrykt ønske fra
+brukerne om at metodene må prøves ut på forhånd på problemstillinger der alle hovedsakelig er
+enige om konklusjonene. Statistikere er vant til å studere egenskapene ved nye metoder ved andre
+betraktningsmåter og vil gjerne legge mindre vekt på resultatene i et fåtall fastlagte testsituasjoner. For fagfolk med annen bakgrunn kan imidlertid slike utslag være avgjørende for om
+metodene skal aksepteres eller ikke. I det følgende vil jeg betrakte et sett med siteringshyppigheter for å belyse en svært enkel problemstilling, der svaret nærmest er gitt på forhånd. Det er
+nærliggende å betrakte det hele mer som en test av metoden enn av den praktiske problemstillingen.
+
+En beskjeden innsamling av data
+
+Ved Det 11. norske Statistikermøtet i Ulvik i juni innledet jeg til diskusjon av et foredrag gitt
+av Tore Schweder i forbindelse med ‘‘79-arsjubileet for R.A. Fishers paradigmerevolusjon’’.
+Selve revolusjonen ble ansett for innledet med publikasjonen av artikkelen **On the mathematical
+foundations of theoretical statistics’? i 1922 [1]. Denne artikkelen har lenge vært ansett som den
+virkelige lanseringen av de grunnleggende prinsippene for statistisk inferensteori, selv om andre
+arbeider fra Fishers hånd også er aktuelle i denne sammenhengen. For å skaffe meg et
+sammenligningsgrunnlag, uavhengig av faget statistikk, tok jeg for meg hele bind 222 av Philosophical Transactions of the Royal Society of London, Series A, der Fishers artikkel kom ut.
+
+
+
+Bindet omfatter bare 10 artikler til sammen. Hensikten med den uhyre enkle bibliometriske
+undersøkelsen var å se om de andre artiklene hadde satt spor etter seg som kunne måle seg med
+Fishers arbeid. Det kan diskuteres om de andre artiklene virkelig utgjør et rettferdig sammenligningsgrunnlag, spesielt når man tar hensyn til den faglige vinklingen. Likevel ligger denne
+sammenligningen svært nær når man etter så mange år skal prøve å konstruere en slags
+kontrollgruppe.
+
+Litt overraskende var det aktuelle bindet lett tilgjengelig på øverste hylle i et hjørne av
+fakultetsbiblioteket for realfag ved Universitetet i Bergen. Tabell 1 gir en oversikt over artiklene.
+Temaene som behandles fører tankene straks hen til eldre problemstillinger i kjemi og fysikk,
+spesielt innenfor geofysikk, astrofysikk og mekanikk. Blar man forsiktig i bind 222, slår det en
+straks hvor mye anvendt matematikk artiklene omfatter, spesielt omformninger der det inngår
+kompliserte integraluttrykk. Arbeidene er skrevet i en annen, mer utflytende stil enn dagens
+vitenskapelige artikler, men likevel er det påfallende hvor mye som umiddelbart er forståelig for
+en leser av i dag, også når vedkommende på ingen måte er spesialist på de aktuelle områdene.
+Mange artikler refererer til datasett som støtter opp om eller avkrefter bestemte teorier. Det virker
+likevel ikke som om statistiske metoder som faktisk var tilgjengelige i 1922, blir utnyttet i særlig
+grad. I noen tilfeller ville det f. eks. vært naturlig i dag å anvende regresjonsanalyse for deskriptive formål i tilsvarende problemstillinger, men forfatterne ser uansett ut til å klare seg bra uten
+slike hjelpemidler.
+
+Universitetene og de fleste høyskolene i Norge har gjennom BIBSYS adgang over Internett til
+en spesiell versjon av ISI-databasen. Den omfatter bl. a. informasjon som tidligere komi skriftlig
+form i Science Citation Index. Selve databasen som er tilgjengelig for oss, går bare tilbake til
+1987, men en finner likevel siteringer av artikler som er kommet ut tidligere når det gjelder
+referanser som er gjort fra og med 1987. Databasen dekker ikke alle aktuelle tidsskrifter, men de
+aller fleste med rimelig vitenskapelig anseelse. Det forekommer en del feil i databasen, men som
+
+statistisk grunnlagsmateriale bør den være brukbar. Det legges stadig inn data for nyutkomne
+
+artikler. Bøker som utkommer separat, tas ikke med, men siteringer av bøker føres derimot opp.
+Jeg gikk gjennom alle siteringene som sto oppført i ISI-databasen midt i juni 2001 for artiklene
+i bind 222 av Philosophical Transactions. Resultatene er oppgitt i en egen kolonne i Tabell 1.
+Samtidig bestemte jeg antallet siteringer av alle arbeidene skrevet av hver førsteforfatter i
+perioden 1920-1929. Er det flere forfattere av et arbeid, er siteringene er knyttet til førsteforfatterens navn, så andre bidrag er ikke kommet med. Antallene er gitt i den siste kolonnen i
+Tabell 1. Disse dataene er trolig beheftet med flere feil, særlig fordi det er vanskelig å identifisere
+forfattere entydig i ISI. Observerte tendenser bør likevel være pålitelige.
+Et statistisk bevis for R.A. Fishers store betydning?
+
+Resultatene er helt klare for antallet siteringer av arbeider i samme bind som Fishers artikkel
+fra 1922. Datasettet er nesten så ekstremt at det vil gjøre enhver statistiker mistenksom. Av de 9
+artiklene er det 3 som har én enkelt sitering hver, mens de andre ikke har noen siteringer i
+databasen. Den aktuelle artikkelen av Fisher er derimot blitt sitert 175 ganger. Det er i grunnen
+forbløffende at de andre arbeidene i det hele tatt har siteringer etter 1987 når de praktisk talt er
+
+gått i glemmeboken. Nå må det understrekes at siteringer av en 79 år gammel artikkel må tolkes
+annerledes enn resultater for en artikkel som kom ut for f. eks. 10 år siden. Etter hvert som
+
+forskningsfronten flytter seg, vil artikler med resultater av stor verdi ikke lenger bli sitert så ofte i
+ordinære publikasjoner. De fleste arbeidene som refererer til Fishers artikkel fra 1922, er
+oversiktsartikler eller publikasjoner som tar opp mer prinsipielle spørsmål i statistikk. En del
+dreier seg rett og slett om Fishers innsats, men ogsåi slike tilfeller kan en anse siteringene som et
+uttrykk for den betydningen artikkelen har hatt gjennom tidene. Det forekommer riktignok noen
+mer spesifikke siteringer som tydeligvis henger sammen med et bestemt eksempel gitt i Fishers
+artikkel, der han diskuterte estimering ved sannsynlighetsmaksimering av antallet mikroorganismeri jord på grunnlag av data fra fortynnede prøver.
+
+
+
+Tabell 1. Antall siteringer i ISI-databasen 1987-juni 2001, for artikler i Phil.
+Trans. Roy. Soc. London, ser. A, bind 222 (1922).
+Artikkel nr.
+
+Førsteforfatter
+
+Emne
+
+Antall siteringer av
+bestemt artikkel
+
+Antall siteringer av
+artikler skrevet av
+førsteforfatter i 1920-29
+
+I
+
+Richardson, OW
+
+Elektroner og
+
+0
+
+19
+
+1
+
+1
+
+1
+
+38
+
+0
+
+9
+
+0
+
+0
+
+1
+
+763
+
+0
+
+640
+
+0
+
+44
+
+175
+
+1765
+
+0
+
+3
+
+kjemiske reaksjoner
+
+II
+
+Walker, GW
+
+Målinger av
+jordskjelvdybde
+
+Hl
+
+Butterworth, S
+
+Strømtap i
+sylindriske ledere
+
+IV
+
+Goldsbrough, GR
+
+Méaners påvirkning
+av Saturns ringer
+
+Vv
+
+Barlow, G
+
+Analyse av lyd og
+strøm som bølger
+
+VI
+
+Love, AEH
+
+Lagranges ballistiske
+problem
+
+VII
+
+Fowler, RH
+
+Aerodynamikk for
+roterende legeme
+
+VII
+
+Lowry, TM
+
+Spredning av lys i
+vinsyre
+
+IX
+
+Fisher, RA
+
+Grunnlag for
+teoretisk statistikk
+
+xX
+
+Merton, TR
+
+Bølgelengder i
+hydrogenspekteret
+
+De overveldende resultatene i Fishers favør kan fa en til å tro at forfatterne av de andre
+artiklene må være fullstendig forsvunnet bak et glemselens slør i løpet av 79 år. Tallenei siste
+kolonne viser imidlertid at det slett ikke er tilfellet. Alle unntatt én forfatter har minst én sitering
+fra et eller annet arbeid utkommet i perioden 1920-1929. To av dem har faktisk ganske mange,
+selv de ikke kommer opp på Fishers nivå. Ved å gå siteringene nærmere etter i sømmene, finner
+en rett nok at det delvis dreier seg om bøker som må ha hatt stor utbredelse. Det medfører
+naturligvis ikke at sammenligningene er ugyldige, men viser at informasjonsmengden i denne
+datatypen lett kan overvurderes. Ved en fullstendig siteringsanalyse for alle Fishers publikasjoner
+vil også hans bøker veie tungt.
+
+Fortolkningen av et korrekt fasitsvar
+
+I en sammenligning med konvensjonelle statistiske metoder, med faste forutsetninger og
+relativt lett tolkbare resultater, er det lett å se negative trekk ved fremgangsmåten anvendt ovenfor. Den leder øyensynlig til korrekt resultat, men det er vanskelig å vurdere resultatet kvantitativt
+og bygge inn noe mål for usikkerhet i forhold til underliggende størrelser som kan være mer
+interessante. Ingen vil være uenig i at Fishers arbeid rager langt over mange andre publikasjoner
+fra tiden omkring 1922, men det er likevel en tankevekker at det helt ekstreme resultatet fra
+sammenligningen av enkeltartikler ikke blir reprodusert når man ser på alle arbeidene publisert av
+forfatterne i en lengre periode.
+Mange vil hevde at bibliometriske metoder allerede har funnet sin plass i undersøkelser av
+forskningsvirksomhet på forskjellige områder. Med bakgrunn i studier av felles forfatterskap er
+det f. eks. publisert arbeider som viser en tendens til vitenskapelig samarbeid mellom grupper i de
+
+
+
+nordiske land og også Vest-Europa og Nord-Amerika [2]. Artikler med forfattere hentet fra flere
+land ble jevnt over mer sitert enn artikler bare med forfattere fra ett nordisk land. Slike resultater
+bør passe godt for dem som leter etter argumenter for internasjonalisering. Også nordmenn har
+bidratt med analyser av vitenskapelig produktivitet i forhold til organisering av forskningsgrupper
+[3]. Innenfor vårt eget fagområde statistikk har bibliometriske metoder blitt brukt til å studere
+avstanden mellom teoretiske og anvendte arbeider [4], og til se på forholdet mellom publikasjoner i sannsynlighetsteori og statistikk [5]. Kanskje statistikerne burde vise mer metodologisk
+interesse for et områdei slik sterk vekst?
+
+En vurdering av Fishers innsats for faget statistikk dreier seg om mye mer enn bare å fastslå at
+hans arbeider hadde stor betydning. I sin omtale av innflytelsen som Fishers tanker har hatt og
+trolig kommer til å få, legger Efron [6] stor vekt på den sterke inspirasjonen Fishers ideer har gitt
+på mange forskjellige områder innenfor faget. Situasjonen egentlig mer komplisert, fordi Fishers
+arbeid også hadde grunnleggende betydning i faget genetikk [7]. Spørsmål om hvordan Fishers
+virksomhet har påvirket utviklingen på disse feltene, burde nettopp være egnet for et studium ved
+bibliometriske hjelpemidler. Går man inn på dypere spørsmål, blir det mer usikkert hva metodene
+kan bidra med. Joan Fisher Box beskriver i sin Fisher-biografi [8] hvordan fareni tidlige faser av
+livet flere ganger følte seg tiltrukket av enkelt jordbruk, og at han kunne ha tenkt seg å bli bonde
+permanent. Hvordan hadde det ligget an med faget statistikk i dag dersom Fisher hadde valgt seg
+en slik løpebane? Kan bibliometriske analyser av publikasjoner som faktisk er kommet ut, si noe
+om hvordan utviklingen ville ha gått dersom en person med stor innflytelse rent hypotetisk ikke
+hadde kunnet utføre sin innsats? Mange vil her stille seg tvilende.
+Når kvantitative metoder blir innført på et nytt område, blir de ofte møtt med sterk skepsis av
+
+noen og med overdreven entusiasme av andre. Etter en tid finner metodene gjerne sin naturlige
+utbredelse som tar hensyn til nytteverdien av resultatene som oppnås. Det spesielle ved vurdering
+av forskningsinnsats med bibliometriske mål er at hensikten ikke alltid er å frembringe nye
+forskningsresultater. Evalueringen som gjennomføres av NFR, skal gi et grunnlag for fagpolitiske
+prioriteringer, både i forskningsråd, innenfor institusjoner som universitet og på et overordnet
+plan i departementene. Det vil sikkert komme kompetente fagfolk i evalueringskomiteene som
+ikke tillegger kvantitative mål overdreven betydning. En får håpe at andre organer også vil være i
+stand til å se resultatenei riktig perspektiv.
+
+Referanser
+
+[1] Fisher RA. On the mathematical foundations of theoretical statistics. Philosophical Transactions of the
+Royal Society ofLondon, Ser. A 222, 309-368 (1922).
+
+[2] Glanzel W. Science in Scandinavia: a bibliometric approach. Scientometrics 48, 121-150 (2000).
+[3] Seglen PO, Aksnes DW. Scientific productivity and group size: a bibliometric analysis of Norwegian
+microbiological research. Scientometrics 49, 125-143 (2000).
+
+[4] Eto H. Bibliometric distance between methodology and application in statistics. Scientometrics 48, 8597 (2000).
+
+[5] Genest C. Probability and statistics: a tale of two worlds? Canadian Journal of Statistics 27, 421-444
+(1999).
+
+[6] Efron B. R.A. Fisher in the 21st century. Statistical Science 13, 95-122 (1998).
+
+[7] Edwards AWF. R.A. Fisher. Twice professor of genetics: London and Cambridge or ‘‘A fairly wellknown geneticist’. Biometrics 46, 897-904 (1990).
+[8] Box JF. R.A. Fisher. The life of a scientist. John Wiley, New York 1978.
+
+
+
+Statistikkfagets nedoverbakke innen samfunnsfagene
+
+Tore Schweder, Økonomisk institute, Universitetet i Oslo
+
+Jostein Lillestøl (TG, mai 2001) skriver om statistikkfagets plass innen økonomi og administrasjon.
+Josteins arbeidsplass er Handelshøyskolen i Bergen, og der er det mer tyngde på bedriftsøkonomi enn
+samfunnsøkonomi. Jeg arbeider ved Økonomisk institutt, SV-fakultetet, Universitetet i Oslo. Her er
+statistikkfagets problemer enda større enn ved NHH. I det følgende vil jeg gjengi hovedinnholdet i et notat
+jeg skrev til mitt institutt og fakultet. Det viser hvor langt ned i unnarennet statistikkfaget er kommet hos
+oss. At det står så dårlig til kan selvsagt skyldes dårlig innsats fra meg og mine kolleger. Jostein har nok
+hatt en heldigere hånd, og han holder derfor skansen bedre.
+
+Selv om det jeg her skriver har et visst masochistisk preg, håper jeg TGs lesere vil ha nytte av det. Det
+sørgelige faktum er desverre at vårt fag nok i stor grad har utspilt sin rolle i samfunnsfagene. Ikke på den
+måten at det blir slutt på datainnsamling og statistiske analyser innen sosiologi, psykologi, statsvitenskap
+og samfunnsøkonomi. Tvert om. Dette er vekstnæring, men den vil bli håndtert av sosiologer, psykologer,
+statsvitere og økonomer. De vil ha denne aktiviteten for seg selv, og vil ikke bli plaget med statistikere som
+tråkker i deres bed.
+
+Jeg skriver dette med litt for bred penn. For den virkelig dedikerte statistiker kan det nok fortsatt være håp
+omå få slippe til. Men det fordrer at vedkommende må konvertere faglig. Vedkommende må gå inni sitt
+nye fag med hud og hår. Dette krever store investeringer, men det kan også gi stor avkastning. den siste
+nobelprisen i økonomi gikk, som kjent, til McFadden og Heckman for deres bruk av modeller med latent
+struktur. Heckman er utdannet statistiker — så de som har ambisjonene, utholdenheten og intelligensen i
+orden må ikke la seg skremme.
+Oversikt
+
+Det undervises i metode ved alle fakultetets institutter. Her er det innslag av statistisk metodelære.
+Fakultets statistikere har ikke vært invitert til å delta på noe nivå i metodeundervisningen ved Institutt for
+sosiologi og samfunnsgeografi, Institutt for statsvitenskap, Psykologisk institutt eller Sosialantropologisk
+institutt. I alle fall ikke de siste 15 årene. Denne metodeundervisningen blir ikke berørt i dette notatet,
+bortsett fra indirekte i diskusjonen.
+
+Statistikkgruppen ved Økonomisk institutt består av en professor (Schweder) og to førsteamanuenser
+(Harald Goldstein og Johan Heldal), alle med utdanning som cand. real. og med doktorgradi statistikk. Vi
+har ansvaret for Statistikk grunnfag og et innføringskurs på 5 vekttall i statistikk for studentene ved
+Økonomisk institutt, samt et innføringskurs i statistikk og økonometri i det engelskspråklige
+masterprogrammet i miljø- og utviklingsøkonomi. I tillegg kommer ansvaret for dr. polit. innen statistikk.
+Statistikk grunnfag
+
+Statistikk grunnfag er et fakultetstilbud. Det består av 4 kurs, hvert på 5 vekttall. I det følgende brukes den
+kursbetegnelsen som gjaldt til og med vårsemesteret 2000: SS1 (innføringskurs), SS2 (utvalgsmetoder),
+SS3 (kategoriske data) og SS4 (regresjon og variansanalyse). Disse kursene kan tas enkeltstående, eller
+som semesteremne (SS1 samt ett av de andre kursene) eller samlet som grunnfag.
+For å kartlegge SV-studentenes interesse for Statistikk grunnfag, har jeg sett på antall bestått eksamen etter
+år og kurs, i henhold til den offisielle eksamensstatistikken (UiO-Studie- og forskningsadministrasjonen,
+FSPROD).
+
+I eksamensstatistikken er det ikke skilt systematisk mellom kursene SOØSTA (SS1 for økonomistudenter)
+og SS1, fordi det var felles undervisning og eksamen i de to kursene. Tallene er derfor slått sammen for
+disse to kursene. Samlet sett har SOØSTA+SS1 hatt en årlig reduksjon på ca 8,3% i antall bestått, se Figur
+1.
+
+Figur 2 viser antall bestått i kursene SS2, SS3 og SS4. Materialet bak Figur 2 lar seg beskrive i en enkel
+statistisk modell. I modellen er antall bestått uavhengig Poissonfordelt med forventning [4 som faller
+eksponensielt med tiden,
+
+[0
+
+
+
+logu = at + B(År —1990).
+
+Denne modellen passer data (residual devians er 37,4 på 30 frihetsgrader, p-verdi 0, 17) når
+trendkoeffisienten B antas felles for de tre kursene og SS2 har et eget konstantledd, @ , mens SS3 og SS4
+har felles konstantledd. En kan selvsagt innvende mot denne modellen at antall bestått ikke er uavhengige
+
+mellom kursene, siden de studentene som tar hele grunnfaget tar alle kursene (selv om de kunne ha byttet ut
+ett av kursene med 5 vekttall matematikk). Den positive korrelasjonene som følger av dette innebærer at
+usikkerheten i estimatene er noe større en angitt.
+
+Figur 1: SOØSTA + SS1
+200 —
+
+150 —
+
+=
+
+s
+
+o
+
+oO
+2
+
+‘3s
+=
+
+[=
+
+100 —
+
+<
+
+T
+
+1990
+
+I
+
+1995
+
+Ar
+
+I
+
+2000
+
+.
+
+=
+
+x
+
+no
+
+oO
+
+2
+
+:
+
+Trendkoeffisientens estimat er B = —0,12 for SS2-4. Standardfeilen er 0,02. De tre kursene har altså hatt
+
+en årlig reduksjon på ca 12% i antall bestått. Det er ingen ting som tyder på at denne trenden er brutt. I SS3
+er det vårsemesteret 2001 tre studenter som følger undervisningen, mens det ikke kom noen studenter til
+SS4.
+
+Statistikk ved Økonomisk institutt
+
+Figur 1 representerer hovedsakelig studentene på SOØSTA, som er et obligatorisk kurs ved overgangen til
+annen avdeling. Instituttet gir også kurs i økonometri, både på annen- og tredje avdeling. Til tross for at
+
+økonometrifaget i stadig større grad framstår som statistisk metodelære anvendt på økonomiske modeller,
+
+er instituttets statistikere nesten ikke involvert i økonometriundervisningen. Instituttet har ikke sett det som
+
+HI
+
+
+
+ønskelig å benytte statistikernes kompetanse innen denne undervisningen, bortsett fra sporadiske mindre
+
+innslag med tidsserieanalyse.
+Dr. polit. i statistikk
+
+Det har hittil blitt utdannet 4 dr. polit. i statistikk på 90-tallet. Det har vært gitt noen sporadiske statistikkurs
+på doktorgradsnivå ved instituttet. Det meste av doktorkandidatenes kursdel har vært dekket av kurs ved
+Økonomisk institutt (økonometri), Matematisk institutt og Institutt for informatikk. Alle doktorkandidatene
+har fått veiledning ved Økonomisk institutt av undertegnete. Bortsett fra én kandidat som har falt fra, har
+alle de som har vært opptatt på programmet gjennomført (det er fremdeles en doktorkandidat, men han vil
+levere i løpet av året
+
+Ordningen med forskerutdanningi statistikk ved SV-fakultetet må sies å ha vært vellykket. Det kan nevnes
+at en av de fire doktorandene er blitt forsøkt rekruttert til University of Washington, Seattle. En av våre
+stipendiater, som ble dr. philos. ved Det medisinske fakultet (i frustrasjon over SV-fakultetet, og fordi
+veilederen, Petter Laake, flyttet til medisin), fikk pris av Psychometric Society for beste doktoravhandling
+innen psykometri i 1997.
+
+Instituttet har ikke ønsket å utlyse den stipendiatstillingeni statistikk som ble ledig i 1999, og har heller
+ikke villet ha åpen utlysing av instituttets siste stipendiatstilling (for doktorgradsstudier innen instituttets to
+
+doktorgradsprogrammer). I tillegg til den vanskelige stillingen på instituttet kommer at Forskningsrådet
+ikke har vært interessert i å støtte gode prosjekter med doktorgradsstipendi statistikk.
+
+Diskursjon
+
+Det er en klart avtagende interesse for statistisk metodelære innen samfunnsfagene. Reduksjonen i
+søkningen til Statistikk grunnfag har vært stor gjennom hele 90-tallet, til tross for det store antall studenter
+ved fakultetet.
+
+Nivå, innhold og lærekrefter har stort sett ligget fast på 90-tallet. Allikevel er det stadig færre studenter som
+er interessert i Statistikk grunnfag. Nedgangen kan ikke forklares ved svingninger i det samlete studenttallet
+ved fakultetet. Statistikk grunnfag faller tydeligvis mer og mer i vanskeligste laget. Tidligere var det et visst
+innslag av videregående studenter, også fra medisin. Nå ser vi færre slike.
+
+Det gjennomføres mange empiriske undersøkelser innen samfunnsfagene. I flere av disse er det
+utfordringer av metodisk art, også statistiske. Internasjonalt er det også interesse for stokastiske modeller av
+mer samfunnsteoretisk interesse. SV-fakultetet har kompetanse innen statistisk metodelære og stokastisk
+modellering. Denne kompetansen har fakultetet latt gå mer og mer på tomgang.
+
+Tiden er tydeligvis inne for å restrukturere undervisningeni statistisk metodelære ved SV-fakultetet. På
+bakgrunn av den sørgelige nedgangeni interessen, er det nærliggende å foreslå at Statistikk grunnfag
+legges ned. En kunne kanskje opprettholde et semesteremne (10 vekttall), men selv det vil ventelig trekke
+meget få studenter.
+Konklusjon
+
+Det er synd å si, men arven etter Eilert Sundt, Ragnar Frisch og Trygve Haavelmo blir, etter min mening,
+ikke tatt tilstrekkelig alvorlig på fakultetet. De var eminente statistikere, og viste med sitt virke at
+
+grundighet og dybdei statistisk metode og modellering ga forkningsmessig uttelling. Frisch var en pådriver
+for å styrke statistisk metode i undervisningen, og Haavelmo fikk altså Nobelprisen for The probability
+approach to econometrics. Istedenfor å la statistikkfaget smuldre bort på fakultetet uten at noen egentlig
+har tatt stilling til utviklingen, kunne en ha ønsket å få statistikkfaget stilling på dagsorden.
+
+I frustrasjon over at dette har vært vanskelig, har vi foreslått for Økonomisk institutt og SV-fakultetet at
+Statistikk grunnfag legges ned. Fakultetet har svart at det ikke skal undervises i SS3 og SS4 i 2002, uten
+ytterligere drøfting. Statistikk grunnfag må derfor regnes som nedlagt. Johan Heldal har fått stilling i
+Statistisk Sentralbyrå, og har søkt om permisjon uten lønn i ett år. Mangelen på initiativ fra fakultet og
+institutt styrker inntrykket at det er over og ut for statistikere innen samfunnsfagene, i alle fall ved
+Universitetet i Oslo.
+
+1d
+
+
+
+Pusleri nr 8
+
+”Eg har 24 sokkar, ikkje to av dei er par!”
+
+synger Belbert i visa ”Sokkane” med den landskjente (?)
+”popgruppa” Salhusvinskvetten.
+
+Problemstillingen kan presiseres på minst to måter:
+(1)
+
+Belbert har n par sokker, men har somlet bort de fleste,
+
+(2)
+
+Belbert har 12 par sokker og har parret demi ørska,
+
+har bare 24 igjen, og ingen av disse er par.
+men de passer ikke sammen.
+
+Finn sannsynligheten ved begge presiseringer under rimelige
+antakelser. Hvor mange sokker måtte Belbert ha for at sjansen i
+(1) skal bli mer enn 50%?
+
+Merk at (2) ikke er det samme som det mer velkjente matchingproblemet, ofte benevnt som ”hatteproblemet”.
+
+Jostein Lillestøl
+
+13
+
+
+
+Vi minner om oppgaven
+
+Pusleri nr 7
+Et spill består av gjentatte terningkast med gevinst sum øyne, men dersom du får en
+
+ener, er spillet slutt og du har tapt alt.
+
+he
+
+Hva er den optimale strategi for å maksimere forventet gevinst og hva blir den
+
+forventede gevinst når denne følges?
+
+Hva blir sannsynlighetsfordelingen til gevinsten?
+
+De som finner det siste spørsmålet for vanskelig eller for tidkrevende, kan skriv en
+makro som simulerer trekninger fra fordelingen. Hvem klarer å skrive makroen (f.eks.
+i Minitab) med færrest antall programlinjer?
+Løsning:
+
+La G, være gevinst etter n spill dersom en spiller optimalt. Så lenge G, > Oer
+forventet gevinst ved Å fortsette å nytt spill me
+
+= 0+2 -(G, #2)42 -(G, +3)+2-G, +4)42 -(G, +5) += -(G, +6)=—(56, +20)
+6
+
+Dette gir følgende karakterisering:
+
+E(G,,,
+
+n+l
+
+IG,
+)= max(G, TOG, +20))
+
+Vi fortsetter derfor så lenge G,,, > G, som skjer så lenge G, < 20.
+
+La F, være forventet samlet gevinst ved optimalt videre spill, dersom en nå har sum
+øyne lik s. Vi søker da F, som finnes ved rekursiv beregning nedover med utgangspunkt
+
+iat F,=s for s= 25,24,...,20, mens Fy =—oF FE
+
+t Fig FR FR) Svaret er
+
+F, =8.1418 . Problemstillingen kan sikkert belyses ved andre metoder. Kan noen varte
+s+2
+
+opp med martingalargumenter?
+
+Sannsynlighetsfordelingen til gevinsten er mer brysom å finne. Den er
+
+g
+
+P(G=g) x 6"?
+
+P(G=g)
+
+0
+20
+21
+22
+
+37.763.596
+6.029.263
+5.743.720
+4.485.916
+3.277.030
+
+0.6245
+0.0997
+0.0950
+0.0742
+0.0542
+
+24
+
+2.128.294
+
+0.0352
+
+25
+
+1.038.357
+
+0.0172
+
+23
+
+14
+
+
+
+Beregningen kan skje ved (omfattende) kombinatoriske opptellinger av gunstige på
+
+mulige. En alternativ tilnærming er å utnytte at situasjonen kan beskrives som en
+Markovkjede med 26 tilstander og overgangsmatrise med en enkel struktur, der 7
+tilstander er absorberende. Overgangsmatrisen kan lett potenseres vha. programvare som
+Matlab eller Maple, som også kan gi eksakt løsning på brøkform.
+Spillet kan simuleres med få kommandoer, eksempelvis i Minitab:
+Random 10 c2; integer 1 6.
+Let c3=parsum(c2)*parprod(c2>1)
+Let k1=sum((c3>0)*(c3<20))
+Let k2=c3(k1+1)
+Stack kl cl cl
+
+Her simuleres først 10 terningkast, som er det maksimalt antall nødvendige (c2).
+Delsummer (parsum) som beholdes eller nulles vha. den logiske variable (c2>1) beregnes
+og lagres (c3). Antall kast (k1) ett kast før stopp eller tap av alt er bestemt ved sum av
+produkt av to logiske variable. Gevinsten fins da c3(k1+1), som puttes i cl, der
+resultatene ved gjentak av de 5 kommandoene bygger seg opp. De tre let-kommandoene
+lar seg skrive enda mer kompakt, men mindre gjennomskuelig.
+
+Jostein Lillestøl
+
+15
+
+
+
+Årsberetning for Norsk statistisk forening for
+perioden juni 1999 til juni 2001.
+
+Tillitsverv.
+
+På hovedmøtet 15. juni 1999 ble følgende styre valgt:
+
+Formann:
+
+Geir Egil Eide, Norges handelshøyskole, Bergen
+
+Styremedlemmer:
+
+Ulf Geir Indahl, DM-huset AS, Oslo
+
+Redaktør TG:
+Varamedlemmer:
+
+Odd O. Aalen, Universitetet i Oslo
+Anne Marie Fenstad, Universitetet i Bergen
+
+Aagot Irgens, Haukeland sykehus, Bergen
+Stian Lydersen, NTNU, Trondheim
+Hans Julius Skaug, Havforskningsinstituttet, Bergen
+
+Hans Arnfinn Karlsen, Universitetet i Bergen
+Knut Korsbrekke, Havforskningsinstituttet, Bergen
+
+Styret konstituerte seg 3. september 1999 med Lydersen som sekretær og Irgens som kasserer.
+På hovedmøtet 15. juni 1999 ble det dessuten valgt følgende:
+Revisorer:
+
+Per Lea, Matforsk
+Magne Thoresen, Universitetet i Oslo
+
+Undervisningsutvalg: Henrik Dahl, Høgskolen i Agder
+
+Jostein Lillestøl, Norges handelshøyskole (formann)
+
+Undervisningsutvalget er senere supplert med
+Ivar Heuch, Universitetet i Bergen, og
+
+Ørnulf Borgan, Universitetet i Oslo.
+
+Foreningens arbeid.
+Styremøter.
+
+Det har vært avholdt 3 styremøter i perioden, alle i Bergen. Forøvrig har styret arbeidet tett
+via epost og telefon.
+
+Bruk av foreningens adresselister.
+Etter diskusjon i styret og en spørreundersøkelse til medlemmene ble det bestemt at foreningen ikke gir sine adresselister til andre organisasjoner eller kommersielle foretak. Foreningen
+kan selv påta seg å sende ut informasjon fra slike dersom det er relevant for medlemmene og
+
+styret har kapasitet til å gjøre det (dvs. i praksis kassereren som har styrt medlemsarkivet).
+Abel-året 2002 og Verdens matematikkår 2000.
+
+16
+
+
+
+Jostein Lillestøl representerer NSF i hovedkomiteen nedsatt av Norsk matematisk forening.
+Stian Lydersen er hans vararepresentant.
+Medlemmer.
+
+Høsten 1999 ble det gjennomført et omfattende opprydningsarbeid i medlemsregisteret og
+medlemmer med utestående kontingent ble strøket. Etter opprydning var der 265 medlemmer.
+De fleste medlemmer er også registrert med epostadresse. Våren 2001 er gjennomført en
+nyrekrutteringskampanje blant tidligere medlemmer som vi fortsatt har adressen til. Det er
+
+særlig kassereren som her har utført en stor jobb. Det er p.t. 250 registrerte medlemmer.
+
+Internettsidene.
+
+Anne Marie Fenstad har vært redaktør for foreningens hjemmesider. I tillegg er det opprettet
+en epostbasert diskusjonsgruppe kalt NSF-forum som medlemmene kan bruke til diskusjon
+og annonsering m.m. Ingrid Glad har administrert hjemmesidene for TG.
+Yrkesveiledning.
+
+Vigdis By Kampenes, Hans A. Karlsen og Hans Julius Skaug har hatt ansvaret for
+
+yrkesveiledningssidene på internett.
+
+Internasjonal kontakt.
+
+Foreningen har opprettholdt sitt medlemskap i International Statistical Institute, men ikke
+deltatt i noen spesifikke aktiviteter i denne sammenheng. Her er det muligheter for initiativer
+i årene som kommer.
+
+Det 10. norske statistikermøte i Larvik 14.-16. juni 1999.
+
+Programmet var preget av et historisk perspektiv ettersom det var det 10. norske møtet og
+under middagen ble Arnljot Høyland hyllet i anledning sitt 75 års jubileum. Møtet samlet 78
+deltakere. Takk til:
+
+Arrangementskomite (styret i Statistisk forening i Oslo):
+Ulf Indahl (formann)
+Ellen Amundsen
+
+Xeni Kristine Dimakos
+Hanne Narbuvold
+
+Øyvind Skare
+Ole Klungsøyr
+
+Programkomite:
+Ingrid Glad, Oslo (leder)
+Marit Veiergd, Oslo
+Magne Aldrin, Oslo
+
+Ulf Indahl, Oslo
+Geir Egil Eide, Bergen
+
+Den 18. nordiske konferanse i matematisk statistikki Grimstad 5.-8. juni 2000.
+Det var NSFs tur til å ha ansvar for denne konferansen. Den ble avviklet på en fortreffelig
+måte og ga et signifikant overskudd som ble tilført NSFs fond. Vi takker
+2
+
+14
+
+
+
+Organisasjonskomiteen:
+Geir Storvik, Oslo (formann)
+
+Trygve Almøy, Ås
+
+Grete U. Fenstad, Oslo
+Ola Haug, Oslo
+
+Inge Helland, Oslo
+
+Programkomiteen:
+Tore Schweder, Oslo (formann)
+Arnoldo Frigessi, Oslo
+Jostein Paulsen, Bergen
+
+Håvard Rue, Trondheim
+Eva Skovlund, Oslo
+Geir Storvik, Oslo
+Elinor Ytterstad, Tromsø
+
+Ekstraordinært hovedmøte i Grimstad 5. juni 2000.
+
+På initiativ fra styret ble dette avholdt og det ble vedtatt endringer i vedtektene som gir muligheten for å opprette fagseksjoner, samt at tittelen formann ble endret til leder. Dessuten ble
+fondsvedtektene endret slik at de kan brukes til stipend for hovedfagstudenteri statistikk for
+deltakelse på faglige konferanser i Norden.
+
+Det 11. norske statistikermøte i Ulvik 2001
+Organisasjonskomite:
+(styret i Statistisk forening i Bergen:)
+Grethe Albrektsen (formann)
+Terje Schaathun (kasserer)
+Jan Aarseth/Astri Lunde (sekretær)
+
+Ågot Irgens (medlem)
+
+og:
+
+Barbro Mork Emblem (nettsidene)
+Programkomite:
+
+Knut Korsbrekke, Bergen (leder)
+Alfhild Lien Eide, Trondheim
+Hans Arnfinn Karlsen, Bergen
+Bent Natvig, Oslo
+Grethe Albrektsen, Bergen
+
+Studentstipend.
+
+Til møtet i Grimstad har NSF utdelt 9 og til møtet Ulvik 1 studentstipend.
+I tillegg har den svenske Statistiska Föreningen i anledning sitt 100-årsjubileum utdelt 2
+stipend til unge norske statistikere for deltakelse ved det 22:a Nordiska statistikermötet i
+3
+
+18
+
+
+
+Stockholm 1.-4. august 2001. For øvrig har Hans-Viggo Sæbø fungert som vår kontaktperson
+overfor de 'byråstatistiske” miljøer og foreninger.
+Etterutdanning.
+
+Styret har tatt initiativ til et etterutdanningsseminar i eksakte metoder i Bergen 18. og 19. juni
+2001 med professor Cyrus Mehta, Cambridge, Massachusetts som foreleser. Som assistenter
+vil fungere Grethe Albrektsen, Tore Wentzel-Larsen, Stein Emil Vollset og Geir Egil Eide.
+Undervisningsutvalget.
+
+Undervisningsutvalget har i perioden fulgt med pa og forsgkt 4 pavirke utviklingen for
+statistikkfaget i den videregående skole og i høgskolestudier. For styret har utvalget
+
+utarbeidet to uttalelser for hhv.
+
+1. Læreplan for matematikk studieretningsfag.
+
+2. Statistikkfaget i forslag til nytt 3 årig økonomisk-administrativt studium.
+På initiativ fra Henrik Dahl har foreningen også finansiert en sammenkomst om
+statistikkundervisning i Grimstad i august 2000 med god deltakelse fra høyskolene og
+universitetene. Møtet resulterte bl.a. i flere gode innlegg i TG.
+Tilfeldig gang.
+
+Medlemsbladet Tilfeldig gang (TG) har i perioden kommet ut med de planlagte 8 nummer.
+Redaksjonen har bestått av:
+Redaktør: Odd O. Aalen
+
+Redaksjonssekretær: Grethe Usterud Fenstad,
+Medlemmer:
+
+Ingrid Glad.
+Nils Lid Hjort.
+
+Tron Anders Moger.
+
+Trykking og utsending av TG har vært utført av Statistisk sentralbyrå.
+TG finnes også i nettversjon som har vært redigert av Ingrid Glad.
+Scandinavian Journal of Statistics.
+
+Tidsskriftet utgis av NSF i samarbeid med de øvrige nordiske statistiske foreninger. Tore
+
+Schweder er NSFs representant i styrets stiftelse og fungerer som leder for styret. Ørnulf
+
+Borgan og Arnoldo Frigessi er p.t. Associate Editors fra Norge.
+Økonomi.
+
+Foreningens 4 bankkonti ble for enkelhets skyld slått sammen til to: en driftskonto
+(Postbanken) og en fondskonto (Sparebanken Nor). Økonomien i foreningen er sterk og
+fondet rimelig stort. Inntektene er i det vesentlige basert på medlemskontingenten.
+Bergen 27. august 2001
+for styret 1999-2001:
+
+Geir Egil Eide, leder
+
+19
+
+
+
+2001-06-26
+
+Referat - hovedmøte i Norsk Statistisk Forening
+Sted: Det 11. norske statistikermøtet - Brakanes Hotell i Ulvik
+
+Tid: Onsdag 20. juni 2001 klokka 17.45-19.00
+
+Møteleder: Geir E. Eide
+Referent: Ulf Indahl
+
+1. Saksliste og innkalling ble godkjent.
+2. Møteleder og referent ble valgt.
+
+3. Foreningens leder gikk gjennom referat fra ekstraordinært hovedmøte i Grimstad med
+understrekning av de endringer som ble vedtatt i foreningens vedtekter. Bl.a. tillates nå
+opprettelse av fagseksjoner.
+
+4. Styrets forslag til årsberetning for 1999-2001 ble gjennomgått og en del rettelser
+påpekt fra salen ble tatt inn. Den endelige årsberetning trykkes i neste TG.
+
+5. Årsregnskapet ble gjennomgått og godkjent. Det ble ytret ønske om en post som viser
+Resultat = ”totale inntekter” — ”totale utgifter”. Det ble også kommentert at
+overskuddet etter konferansen i Grimstad (kr 54.163,93) nok var i høyeste laget.
+6. Styret for perioden 2001-2003 ble valgt:
+
+e
+e
+
+Leder: Andre Teigland (NR, Oslo)
+TG-redaktør: John Sølve Tyssedal (NTNU, Trondheim)
+
+e
+
+TG-redaksjon:
+
+e
+
+i.
+
+Bo Lindquist
+
+ii.
+
+Henning Omre
+
+iii.
+iv.
+
+Inge Christoffer Olsen
+
+Stian Lydersen
+
+Styremedlemmer:
+
+i.
+
+Mette Langaas (NR, Oslo)
+
+ii. Stian Lydersen (NTNU, Trondheim)
+iii. Ulf Indahl (Teknometri AS, Oslo)
+iv. Sigrunn Holbæk Sørbye (UiTr, Tromsø)
+e
+
+Vararepresentanter:
+
+i.
+ii.
+e
+
+Tore Wentzel-Larsen (HS, Bergen/Bodø)
+Anne Marie Fenstad (UiB, Bergen, Vancouver)
+
+Undervisningsutvalg:
+Ørnulf Borgan
+Henrik Dahl
+Ivar Heuch
+
+Jostein Lollestøl
+Ellinor Ytterstad
+* Revisorer:
+Per Lea
+
+Jan Aarset
+
+7. Det ble ikke vedtatt endringer i kontingenten.
+
+20
+
+
+
+Op
+
+Logo-konkurranse
+
+Foreininga har i lengre tid lidd under mangelen på ein slåande logo. Styret
+utlyser derfor ein logo-konkurranse mellom medlemane. Forslag til logo kan
+sendast til
+
+Stian Lydersen
+
+Enhet for anvendt klinisk forskning, 5 etg Kreftbygget
+
+NTNU, 7046 Trondheim
+stian. lydersen(@medisin.ninu.no
+tel 73 86 72 70
+
+innan 30. november 2001. Styret vil vurdere innkomne forslag og finne pa
+premiar.
+
+Det nye styret i Norsk Statistisk Forening
+
+Framme frå venstre: Mette Langaas, André Teigland, Sigrunn Holbek Sørbye. Bak frå
+
+venstre: Tore Wentzel-Larsen, John Tyssedal, Stian Lydersen.
+x
+
+21
+
+
+
+Geir Egil Eide 50 år
+Geir Egil, nylig fratrådt som leder av foreningen vår, fylte 50 år 18. september 2001. Han
+1977 med hovedfag i matematisk statistikk.
+er bergenser, og ble cand. real. i
+
+Hovedfagsoppgaven, veiledet av Trygve Nilsen, var en anvendelse av ergodeteori på et
+fysisk problem. Etter å ha avtjent verneplikten i Systemgruppen ved Forsvarets
+
+Forskningsinstitutt på Kjeller, var Geir Egil i en tiårsperiode knyttet til det medisinskstatistiske miljø ved Universitetet i Bergen. Han var først vit.ass. ved Forskingsgruppen
+for utvikling av sosial- og klinisk-psykiatrisk forskning, og deretter ansatt ved Det
+medisinske fakultets EDB-seksjon, i en periode som daglig leder. Han var således en av
+pionerene innenfor medisinsk statistikk i Norge. I perioder har han hatt permisjon for å
+arbeide på spesielle prosjekter innen kreftens bekjempelse. Fra 1986 var han engasjert
+som forsker og daglig leder ved Seksjon for medisinsk informatikk og statistikk (SMIS).
+Arbeidet her dekker hele spekteret fra planlegging av prosjekter, forsøksdesign, teknisk
+bearbeidelse
+av
+innsamlede
+data,
+statistisk
+analyse
+og
+publisering
+av
+forskningsresultater. Dette ga bred erfaring i anvendelse av ulike biostatistiske metoder,
+mange som på det tidspunkt ikke var veletablert innen biostatistikk, eksempelvis
+loglineære modeller og forløpsanalyse. I denne perioden var han hyppig foreleser og
+foredragsholder om ulike medisinsk-statistiske emner. Hans virke ga i denne perioden
+mange vitenskapelige publikasjoner, hovedsakelig i medisinske tidsskrifter med leger
+som medforfattere.
+
+I 1988 var tiden moden for miljøskifte. Geir Egil gikk da over i stilling som
+førsteamanuensis i statistikk ved Norges Handelshøyskole. Han underviste her
+siviløkonomstudenter i obligatoriske kurs i statistikk og i matematikk valgfag, samt i
+Høyere avdeling. Hans hovedinteresse var fortsatt forløpsanalyse, som på det tidspunkt
+var på vei inn i økonometrifaget. Dette resulterte bl.a. i arbeider vedrørende overlevelse
+av nyetableringer i industrien. Geir Egil opprettholdt hele tiden kontakten med det
+medisinsk statistiske miljøet, og fortsatte å publisere medisinsk-statistiske arbeider. |
+denne perioden bidro han også sterkt til å bygge opp et godt forskningsmiljø innen
+lungemedisin i Bergen.
+
+Etter ti år ved NHH ønsket Geir Egil seg tilbake til det medisink-statistiske miljøet ved
+Universitetet i Bergen/Haukeland sykehus. I 1999 ble han gitt oppgaven å bygge opp
+Kompetansesentret for klinisk forskning.
+I peroden 1999-2001 var Geir Egil leder av Norsk statistisk forening, et verv han skjøttet
+samvittighetsfullt og med glimrende resultater. Han loset i havn både et nordisk og et
+norsk statistikermøte, begge meget vellykkede.
+
+Geir Egil har mange venner både i det medisinsk-statistiske og i det økonomiskadministrative miljøet i Bergen. Han har også gjort en stor innsats for statitikkfaget i
+Norge, og skaffet seg mange venner blant statistikere også utenom Bergen. Vi gratulerer
+han alle med jubileet.
+
+Rov Terje Lie
+
+Jostein Lillestøl
+
+dd
+
+
+
+Henning Omre - 50 år
+Den 13. august i år fylte Henning Omre et halvt hundre år. Henning er utdannet sivilingeniør
+fra NTH, der han i 1975 tok diplom i grenselandet mellom operasjonsanalyse og statistikk.
+Etter dette arbeidet han på Norsk Regnesentral inntil han i 1980 reiste til Stanford for å ta
+Ph.D. innen geostatistikk. Avhandlingen ble sluttført i 1985, og tittelen på denne var
+«Alternative variogram estimators in geostatistics».
+
+Vel tilbake i Oslo og Norsk Regnesentral ville han anvende det han hadde lært i Stanford, på
+
+norsk oljevirksomhet. Folk i oljeselskapene var nok på den tiden ikke spesielt overbevist om
+det store behovet for statistikk og stokastisk modellering innen sin virksomhet. Men Henning
+er ikke den som gir seg i første omgang, og litt etter litt forstod også oljefolkene sitt eget
+beste. Oppdragsmengden fra oljevirksomheten ble etterhvert stor og den ble organisert
+innenfor SAND-gruppen på Norsk Regnesentral der Henning var gruppeleder i mange år. I
+1996 ble han tildelt Statoils Forskningspris, et synlig bevis for at forskningsaktiviteten hans
+ble verdsatt innenfor norsk oljevirksomhet..
+
+I 1992 ble Henning professori statistikk ved Institutt for matematiske fag, NTH. Nå var det
+miljøet i Trondheim som fikk dra nytte av hans store kreativitet, evne til å kommunisere og
+hans store og tilsynelatende uutømmelige engasjement. Hans forskning er fremdeles i stor
+grad rettet mot anvendelser innenfor oljeindustrien, og han beholdt også en 20%-stilling ved
+Norsk Regnesentral like frem til nylig. Henning liker best å arbeide sammen med og gjennom
+andre, og dette har han fått god anledning til i Trondheim ved veiledning av et stort antall
+
+diplomstudenter og et imponerende antall doktorgradsstudenter.
+
+Henning er en person som virkelig bryr seg om menneskene rundt seg, noe ikke minst
+nyutdannede som startet i SAND-gruppa fikk erfare i den tiden han var ansatt ved NR. Selv
+om det som oftest var travelt, tok han seg alltid god tid til å sikre seg at disse kom inn i
+miljøet og trivdes. I Trondheim har studentene ved studieretningen for industriell matematikk
+mang en gang nytt godt av denne siden av Henning.
+
+Selv om hverdagen er travel, er Henning lett å engasjere på andre områder, ikke minst de
+fysiske. Han sier sjelden nei til en fotballkamp, ishockeykamp, løpetur eller skitur om
+muligheten byr seg. Det er en sprek jubilant, fysisk så vel som åndelig, som nå har rundet 50
+ar.
+
+Vi ønsker hjertelig til lykke og de beste ønsker for fremtiden!
+
+Kolleger i Trondheim
+
+23
+
+
+
+Trygve Nilsen 60 år
+
+Trygve Nilsen fyller 60 år 17. september. Han kom til Matematisk institutt
+ved Universitetet i Bergen i 1969 med bakgrunn i teknisk fysikk fra Norges
+Tekniske Høgskole. Han var først ansatt som vitenskapelig assistent og fra 1971
+som universitetslektor. Han har nå i en årrekke vært førsteamanuensis.
+Sammen med Sven Nissen-Meyer og Henrik Dahl fikk Trygve satt i gang og
+bygget opp statistikkfaget i Bergen. Etter at Nissen-Meyer gikk av, og Henrik
+Dahl flyttet til Kristiansand, var det først og fremst Trygve som hadde ansvaret
+for utformingen av faget, og han ga det en distinkt Bergens-profil. Med sin
+bakgrunn fra teknisk fysikk og statistisk mekanikk var det naturlig for ham å
+satse på sannsynlighetsteori og anvendelser av denne. Dette fagområdet ble
+ytterligere styrket da Ivar Heuch ble ansatt.
+Statistikk sorterte først som en faggruppe under anvendt matematikk, og
+dette var ganske naturlig, da anvendt matematiske emner som differensiallikninger og Fourier-analyse inngikk i mange av hovedfagsstudentenes pensum.
+
+Etterhvert ble statistikk skilt ut som selvstendig gruppe, ikke minst etter påtrykk
+fra Trygve.
+
+Statistikkfaget har opp gjennom årene vært i den heldige situasjon at det har
+trukket til seg flere meget dyktige studenter, og mange av dem har hatt Trygve
+som veileder. En av hans første studenter var Inge Helland, nå professor i Oslo.
+Etterhvert førte studenttilgangen til press på ressursene, og dette skjedde stort
+sett etter at den sterke veksten av stillinger på universitetet sent på 60-tallet og
+tidlig på 70-tallet var over. En måtte derfor føre en ganske intens kamp for å få
+hardt tiltrengte stillinger, og ikke minst Trygve gjorde en sterk innsats på den
+fronten. Han viste da en seighet og pågåenhet, som selv ikke et personlig besøk
+av universitetets rektor på hans kontor — med hensikt å få Trygve til å vike —
+klarte å påvirke. Etterhvert ga innsatsen uttelling, og gruppen økte i størrelse
+og bredde.
+
+En viktig ny komponent i studieplanen for statistikk er forsikringsmatematikk og finans. Når Bjørn Sundt sluttet etter et midlertidig engasjement,
+var det behov for en erstatning. Trygve viste her en fleksibilitet og innsatsvilje
+
+som ville gjøre mang en yngre person misunnelig. Han lærte seg både skadeforsikring og livsforsikring, samt finans, og har nå sammen med Jostein Paulsen
+undervisnings- og veilederansvar for denne retningen. Samtidig har han engasjert seg i forskerutdanningen i biofag. Spranget fra statistisk fysikk til forsikring
+og biostatistikk synes kanskje langt, men må tas som et uttrykk for jubilantens
+vitalitet og faglige nysgjerrighet.
+
+Trygve har hatt flere verv både innen instituttet og på nasjonalt plan. Han
+
+var formann for Norsk statistisk forening en periode, og fikk gleden av å se det
+nordiske statistikermøtet på Røros vel i havn. På instituttet, der han for tiden
+er visestyrer, har Trygve vært spesielt opptatt av EDB-saker, og har ofret mye
+
+24
+
+
+
+tid og krefter på dem, blant annet som formann og medlem av EDB-utvalget i
+en rekke år. Jeg tror alle som har arbeidet sammen med ham vil være enigi at
+hans arbeidi slike sammenhenger karakteriseres av jordnær fornuft og utpreget
+sans for hva som går, og like viktig, hva som ikke går. Hans råd og innspill er
+høyt verdsatt.
+
+Selv om Trygve er blant veteranene på instituttet, er han avgjort blant de
+sprekeste. Han ville nok løpt fra de fleste, også av den yngre garde på instituttet,
+
+på sine jevnlige joggeturer hjem til Natlandsfjellet — og det går mye oppover på
+slutten! Han er sammen med sin kone, Inger, en entusiastisk fjellvandrer, og
+er blant de ytterst få priviligerte som har sin egen hytte på Ulriken (i tillegg
+til et bruk i Eksingedalen). Et opphold på Kanariøyene er etterhvert blitt en
+årlig foreteelse, men etter det vi har kunnet bringe på det rene, tilbringer ikke
+Trygve tiden helt på typisk Kanariøy-maner med solbading og/eller barbesøk.
+Derimot har han sammen med Inger utforsket deler av øyene, der folk flest ikke
+ferdes. Dessuten har han lært seg spansk og gjør seg forstått.
+Vi ønsker Trygve hjertelig til lykke med dagen.
+
+Kolleger fra Matematisk institutt, UiB.
+
+23
+
+-
+
+
+
+NEW DEVELOPMENTS IN EVENT HISTORY ANALYSIS
+Det vil bli avholdt en workshop og et pre-workshop kurs om NEW DEVELOPMENTS IN
+EVENT HISTORY ANALYSISved Universitetet i Oslo. Kurset finner sted onsdag 28.
+november 2001 fra kl. 11.00 til kl. 18.00 med dataøvelser neste dag fra kl. 9.00 til
+kl. 11.00. Workshopen starter torsdag 29. november 2001 kl. 12.00 og avsluttes lørdag 1.
+desember kl. 14.00. Vi har, lagd en web-side for workshopen og kurset (jf. nedenfor), og fra
+denne siterer vi følgende om formålet med workshopen og kurset: "Event history analysis has
+undergone a great development during the last few decades. A number of fundamental tools and
+techniques are in place. However, the tackling of more complex problems is really in the
+beginning phase. It is obvious that the phrasing "event histories" is really a rather broad notion,
+going from the simple right-censored data of survival analysis, to very complex processes on a
+number of states with associated covariate and marker processes. There is also a close
+relationship to problems of causality. In addition, the fundamental notion of "frailty" needs
+further development, especially in relationship to the increasing knowledge in genetics. The
+purpose of the workshop is to give researchers in the field an opportunity to get updated on
+
+recent developments, to present their own work, and to discuss the directions for further research
+with others. The course is primarily intended for Ph.D.-students for the Nordic countries. Its
+purpose is two-fold: (i) it will provide the participants with a background for the more
+
+specialized discussions which will take place at the workshop, and (ii) it may together with
+participation in the workshop and the completion of a written course project give credit
+
+corresponding to three weeks of graduate study."Vi vil be alle som syns workshopen og kurset
+høres spennenede ut om å merke av de aktuelle datoene og ta en titt pa var web-side:
+http://www.math.uio.no/avdc/workshops/norevent01.html
+
+Hvis du kjenner andre som kan vere interessert i dette, er det fint om du kan gi informasjonen
+videre. Vi håper å treffe deg i Oslo i november — desember
+
+Odd Aalen, Ørnulf Borgan, Johan Fosen og Sven Ove Samuelsen
+
+26
+
+
+
+MMR 2002
+TRONDHEIM AN
+
+JJ
+
+THIRD INTERNATIONAL CONFERENCE ON
+
+MATHEMATICAL METHODS IN RELIABILITY
+METHODOLOGY AND PRACTICE
+June 17-20, 2002
+Trondheim, Norway
+
+NTNU
+
+Norwegian University of
+Science and Technology
+
+http://www.math.ntnu.no/mmr2002/
+Email: mmr2002@math.ntnu.no
+
+A conference sponsored by the ISI Committee on Statistics in Business and Industry
+
+MMR 2002 er den tredje i en rekke av konferanser om "Mathematical Methods in Reliability". MMRkonferansene utgjør et supplement til de mer ingeniørrettede ESREL og RAMS-konferansene og den
+største delen av deltagerne kommer fra universitetsmiljøer i sannsynlighetsregning, statistikk og
+operasjonsanalyse. Det er verdt å merke seg at "survival analysis" utgjør et viktig tema på konferansene,
+noe som også knytter forbindelse mot biostatistikk og biostatistikere.
+
+Programmet for MMR 2002 vil beså av inviterte foredrag både som plenumsforedrag og parallelle sesjoner,
+
+samt sesjoner for påmeldte foredrag.
+
+Blant de inviterte foredragsholderne finner vi nestorer i fagområdet pålitelighetsanalyse som Richard
+Barlow, Nozer Singpurwalla og Bo Bergman. Dessuten er biostatistikk representert ved blant andre
+David Cox og Odd Aalen.
+
+”CALL FOR PAPERS”
+Det inviteres med dette til å sende inn påmeldte bidrag til konferansen. I første omgang sendes "abstract",
+på maksimum en A4 side, som vedlegg (LaTex eller Word) til epost-adressen ovenfor, eller med vanlig
+
+post til Bo Lindqvist, Institutt for matematiske fag, NTNU, 7491 Trondheim.
+VIKTIGE DATOER
+
+e
+e
+
+e
+
+1. desember 2001: Frist for innsending av "abstract" (1 side)
+15. january 2002: Beskjed sendes ut om aksepterte "abstracts"
+
+1.mars 2002:
+
+Frist for innsending av bidrag til konferanse-proceeding (4 sider)
+
+Noen aktuelle tema for konferansen
+Foundational issues of reliability
+
+Statistical inference in reliability models
+
+Network and system reliability
+Software reliability
+
+Bayesian modeling in reliability
+
+Structural reliability
+
+Quality and reliability
+
+Maintenance modeling
+
+Computational methods
+
+Stochastic processes in reliability
+
+Accelerated life testing
+
+Monte Carlo simulation
+
+Survival analysis
+
+Case studies in reliability
+
+2?
+
+
+
+Den 19. Nordiske Konferansen i Matematisk Statistikk
+Dear colleagues,
+
+This is the first announcement of NORDSTAT 2002 - the 19th Nordic Conference on
+Mathematical Statistics, which will take place in Stockholm, Sweden, June 9-13, 2002. For more
+information, please look up our homepage:
+
+http://www.math.kth.se/nordstat/
+
+On behalf of the Organizing committee I’m happy to welcome all statisticians, mathematical
+
+statisticians and probabilists from the Nordic countries and elsewhere as contributers to, or just
+
+participants at, NORDSTAT 2002.
+
+With your participation, it will be a great conference!
+Esbjörn Ohlsson
+Stockholm University
+
+Chair of the Organizing committee.
+
+28
+
+
+
+7th VALENCIA INTERNATIONAL MEETING
+|
+ON BAYESIAN STATISTICS
+June 2nd - June 6th, 2002
+Canary Islands, Spain
+Dear Colleague,
+
+The Seventh Valencia International Meeting on Bayesian Statistics, sponsored by the Universitat
+
+de Valencia and the International Society for Bayesian Analysis (ISBA), is dedicated to former
+Conference President Professor Dennis V. Lindley. It will take place from June 2nd to June 6th,
+2002, inclusive. As on previous occasions it will be a residential conference in a coastal resort:
+Playa de las Americas, on the South Coast of Tenerife, one of the Canary Islands -- a Spanish
+province in the Atlantic Ocean. For information on this very special place, see
+http://www.canarias-digital.org/turismo. The conference venue is the Mare Nostrum Resort, an
+impressive five star complex by the beach, complete with conference rooms, spa center and
+casino. You can see the resort virtually at
+http://www.expogrupo.com/marenostrum.htm
+
+The V7 Programme Committee consists of Susie Bayarri, Jim Berger, Phil Dawid, David
+Heckerman, Adrian Smith, Mike West and Jose Bernardo, who also acts as Local Organizer. The
+programme will include one stream of 25 invited lectures followed by invited discussions, a
+second stream of 50 contributed talks, and (it is expected) over 150 contributed papers in poster
+form.The invited programme is now complete, and posted at the conference
+'
+—
+web site http://www.uv.es/valencia7
+and at its US mirror site,
+
+http://www.stat.duke.edu/valencia7
+As in previous Valencia meetings, contributed papers will mainly be presented in the very
+popular plenary evening poster sessions. Space of about one square meter per paper will be
+provided. Electronic submission of a text-only abstract of about 250 words long, sent to me
+will be required before May Ist, 2002. Prior registration for the meeting by at least one of the
+authors will be required.The scientific program of the conference will include, for the first
+time in a Valencia meeting, Selected Contributed Papers (SCPs), to be presented in oral sessions.
+The SCPs will be selected from among submissions received, before October 15th, 2001, by a
+SCP Selection Committee appointed by ISBA. Unselected contributed papers will be eligible for
+poster presentation. The deadline for poster submissions is May 1, 2002. Detailed instructions for
+submitting abstracts will shortly be posted on the conference website and on the ISBA web site
+at http://www.bayesian.org/. For both SCP and poster submissions, at least one author must have
+registered for the meeting by the relevant deadline.The Conference will be preceded by a oneday postgraduate tutorial seminar on "Basic Concepts in Bayesian Statistics". This will consist
+offive 90 minute lectures given by members of the Organizing Committee.Delegates will be
+expected to arrive on the afternoon/evening of Saturday June Ist, (opening ceremony Sunday
+morning) and leave on the morning of Friday June 7th (farewell dinner Thursday night). The
+closest international airport is the Reina Sofia Tenerife Sur airport (TFS), only 10 minutes drive
+away. This is well connected to the Spanish mainland and to many European cities, and has
+scheduled flights to some American airports, such as Caracas or Buenos Aires. Early booking is
+advised. Transportation between TFS airport and the conference venue will be provided. Note
+that there is a second, smaller, airport north of the island, the Los Rodeos Tenerife Norte
+
+29
+
+
+
+airport (TFN); this is about 50 km north of the conference venue. Transportation to/from
+Tenerife North will not be provided.The registration fee (which will include transportation
+to/from Tenerife South airport, the farewell dinner, and several other items) will be about
+200/100 EUR for delegates/accompanying persons. The accommodation cost for the full period,
+including breakfast and dinner (with wine), but no lunch, will be about 850/620 EUR on
+single/double room occupancy basis (at present time, I EUR =0.86 US$). Final costings will
+depend on the outcome of negotiations with sponsors, now under progress. Registration forms
+will be posted on the conference web page by the end of August.The organizing committee will
+shortly be submitting grant proposals for travel support for junior researchers and colleaguesfrom
+developing countries. Application forms for financial support will eventually be posted on the
+conference web page.If you may be interested in attending Valencia 7, or if you just want to
+be included in the conference mailing list, and did not attend Valencia 6 (or have moved since
+
+Valencia 6), please send to the local organizer, jose.m.bernardo@uv.es the following
+information:
+
+Name:
+
+Affiliation:
+
+Postal address:
+Telephone:
+Fax:
+
+Internet address:
+Web address:
+
+Area(s) of interest within Bayesian Statistics:
+
+Further information and updates at the conference web site,
+http://www.uv.es/valencia7, and its US mirror site,
+http://www.stat.duke.edu/valencia7.
+All the best, Jose Bernardo.
+
+30
+
+
+
+Nytt fra Universitetet i Oslo
+Matematisk institutt, Avd. C.
+
+Nye Cand.scient.-er
+
+Runar Nesvold: "Numerisk optimering i empirisk finans: En undersøkelse av
+intervallminimerende metoder”
+
+Veileder: Erik Bølviken
+
+Miguel A Vazquez Hirioshi: *TBNR methods for social insurance”
+Veileder: Erik Bølviken
+
+Ny Dr.scient:
+
+Espen Norberg: “Comparison of filtered experiments”
+Veiledere: Inge Helland og Anders Rygh Swensen
+
+Statistical Research Reports
+
+O. O. Aalen, Ø. Borgan, H. Fekjær : “Covariate adjustment of event histories
+
+estimated from Markov chains: The additive approach.”
+no 2 June ISBN 82-553-1293-5
+
+http://www.math.uio.no/eprint/stat_report/2001/02-01 -html
+
+Ø. Borgan : “Cohort sampling in epidemiological studies”
+
+no 3 June ISBN 82-553-1294-3
+
+http://www.math.uio.no/eprint/stat_report/2001/03-01 html
+
+31
+
+
+
+Nytt fra Universitetet i Tromsø
+Institutt for matematikk og statistikk
+
+Ny cand.scient.
+
+Santhini Ponniah Busch: ”Imputation in Population and Housing Census 1990”.
+
+Veileder: Jan F. Bjørnstad.
+
+Ansettelser:
+
+Sigrunn Sørbye og Georg Elvebakk er ansatt som førsteamanuenser fra 1. januar 2001.
+Tor Arne Øigård er ansatt som stipendiat fra 1. februar 2001.
+
+Gjest:
+
+Instituttet hadde besøk av professor Steve Marron fra University of North Carolina i tidsrommet
+21. juli - 2. august 2001.
+
+Rapporter og artikler :
+
+1) Korsnes, R., Pavlova, O. and Godtliebsen F. : Assessment of potential transport of pollutants
+
+into the Barents Sea via sea ice - an observational approach.
+Submitted to Marine Pollution Bulletin.
+
+2) Torheim, G., Godtliebsen, F., Axelson, D., Kvistad, K.A., Haraldseth, O. and Rinck P. :
+Feature extraction and classification of dynamic contrast-enhanced T2*-weighted breast image
+data.
+
+Under revision in Special Issue of IEEE Medical Imaging.
+
+3) Godtliebsen, F., Marron, J.S. and Pizer S. : Significance in Scale Space for Clustering.
+
+To appear in Spatial Cluster Modelling edited by A. Lawson and D. Denison.
+
+4) Torheim, G., Godtliebsen, F., Kvistad, K.A., Haraldseth, O. : Noise reduction and visualization
+of contrast-enhanced T2*-weighted breast images.
+Submitted to Acta Radiologica.
+
+5) Godtliebsen, F., Chu, C.K., Sørbye, S. and Torheim, G. (2001) : An estimator for functional
+data with application to MRI.
+
+IEEE Medical Imaging, Vol. 20, Number 1, 36-44.
+
+32
+
+
+
+Nytt fra NTNU
+Institutt for matematiske fag
+Ferdig cand.scient.
+
+Bjarne Moen: "Stokastisk modellering av populasjoner med kort levealder”. Veileder: Øyvind Bakke
+Ferdige sivilingeniører
+
+Kristine Bastøe: "Statistiske modeller for analyse av aksjer". Veiledar John Tyssedal.
+
+Asbjørn Berge: ”Two-way clustering of gene expression data”. Veileder: Mette Langaas, Norsk
+
+Regnesentral. Veileder ved IMF: Bo Lindqvist.
+
+Audun Bjerke: ”Bruk av optimering i Markovkjedesimulering fra fordelinger med stokastisk dimensjon på
+tilstandvektor”. Veileder: Håkon Tjelmeland.
+
+Cathrine Christiansen: ”Sikkerhets- og pålitelighetsvurdering av sikringsanlegg for planoverganger i norsk
+jernbane”. Veileder: Marvin Rausand, Institutt for produksjons- og kvalitetsteknikk, NTNU. Ansvarlig ved
+IMF: Bo Lindqvist.
+
+Håkon Snørteland Daltveit: ”Ikkeparametrisk Cox-regresjon”. Veileder: Jan Terje Kvaløy, Høgskolen i
+Stavanger. Ansvarlig ved IMF: Bo Lindqvist.
+
+Torkell Dobbe: "Risikostyring av investeringer i fond". Veiledar IMF: John Tyssedal. Veiledar Fokus Bank
+: Thor Ivar Tryggestad.
+
+Ronny Eriksen: "Monitoring Autocorrelated Processes". Veiledar IMF: John Tyssedal. Veiledar Center for
+Quality and Productivity Improvement, UW-Madison: Ernesto Barrios.
+
+_
+
+Andre Grønlund: ”Prediksjon av stuck-pipe”. Veileder: Jørn Vatn; SINTEF Teknologiledelse. Ansvarlig
+ved IMF: Henning Omre.
+
+Trine Listerud Hagen: ”Statistisk analyse av søker- og opptaksdata ved NTNU 2000”. Veileder: Henning
+Omre.
+
+Marianne Hagelsteen Kvien: ”Bayesian Approach to Analysis of Statistical Models for the Failure Pattern
+of Repairable Systems”. Veileder: Bo Lindqvist.
+
+Ole Petter Lødøen: ”Production forecasts with history matching using approximate models”. Veileder:
+Henning Omre.
+
+Håkon Malmedal: ”Trendtesting for repeterte hendelser”. Veileder: Bo Lindqvist.
+
+Kristin Husbye Mork: "Garch Models and Financial Applications". Veiledar John Tyssedal
+
+Inge Christoffer Olsen: ”The directional multigrid Monte Carlo method”. Veileder: Håkon Tjelmeland.
+
+Thorbjørn Galtung Risan: ”Adaptiv markovkjedesimulering fra multimodale fordelinger”. Veileder:
+Håkon Tjelmeland.
+
+
+
+Gisle Bjørndal Tveit: "Automatic Text Classification". Veiledar: John Tyssedal
+Kjersti Ulset: ”Eksakt testing i Poisson-prosesser”. Veileder: Bo Lindqvist.
+
+Ansettelser:
+
+Arvid Næss og Nikolai Ushakov er ansatt i faste stillinger som førsteamanuenser.
+
+Jarle Tufto er ansatt i perioden 1.1.2001 til 1.3.2003 som forsker på EU-prosjektet Metabird.
+Magnar Lillegård er ansatt i 60% stilling som forsker fra 1/9 til 31/12-2001
+på NFR-prosjekt (midler fra området Bioproduksjon og foredling).
+
+Stig Kyrre Foss, Hans Christian Karlsen, Ole Petter Lødøen og Inge Christoffer Olsen er ansatt som
+stipendiateri statistikk.
+
+Preprint:
+
+Postscript-filer er tilgjengelige på http: //www.math.ntnu.no /preprint/statistics/
+
+Håkon Tjelmeland, Kjetill Vassmo Lund: Bayesian modelling of spatial compositional data. Preprint 1/2001.
+Linda Reiersølmoen, Jan Terje Kvaløy: Tests for the proportional hazards assumption in the Cox model.
+Preprint 2/2001.
+
+Henning Omre: Stochastic Reservoir Models Conditioned to Non-linear Production History Observation.
+
+Preprint 3/2001.
+
+Hilde G. Borgos, Henning Omre: Uncertainty in Fault Geometries. Preprint 4/2001.
+Arild Buland, Henning Omre: Bayesian AVO Inversion. Preprint 5/2001.
+
+Odd Kolbjørnsen, Henning Omre: Piecewise Affine Inverse Problems. Preprint 6/2001.
+Jo Eidsvik, Per Avseth, Henning Omre, Tapan Mukerji, Gary Mavko:
+
+Stochastic Reservoir Characterization Using Pre-stack Seismic Data. Preprint 7/2001.
+
+Arild Buland, Henning Omre: Bayesian wavelet estimation from seismic and well data. Preprint 8/2001.
+Bo Lindqvist, Gunnar Taraldsen: Monte Carlo Conditioning on a Sufficient Statistic. Preprint 9/2001.
+Bo Lindqvist, Gunnar Taraldsen: A lemma on conditional Monte Carlo. Preprint 10/2001.
+
+347
+
+
+
+Medlemsskap i Norsk Statistisk Forening
+Heimeside for Norsk Statistisk Forening: http://www.math.uio.no/nsf/
+Kontingent:
+
+på
+
+200 kr/år
+
+ka
+
+50 kr/ar for studentar (til og med hovedfag).
+Kontonummer: 0530 2773299
+
+Nummeret som er oppgitt på adresselappen på TG fortel siste år
+kontingenten blei betalt. Ved innbetaling må ein opplyse om endra adresse
+(f. eks. endra postnummer).
+
+Korrespondanse om medlemskap og innbetaling av kontingent skal skje til
+kasserar i foreininga:
+
+Norsk statistisk forening v/Sigrunn Holbek Sørbye
+Institutt for matematikk og statistikk
+Universitetet i Tromsø
+9037 Tromsø
+
+O stat.uit.no
+e-post: sigrunn
+
+Nye medlemer melder seg til kasserar og får så automatisk tilsendt Tilfeldig
+Gang frå første påfølgjande nummer av.
+
+E-post adressar:
+
+Vi ynskjer e-post adressar til alle medlemer i NSF:
+
+Oppgje e-post adressen på merknadsfeltet på postgiroen, eller send ein eO stat.uit.no om e-post adresse og evt. adresseforandring.
+post til sigrunn
+Anna korrespondanse med foreininga skal føregå med leiar i foreininga:
+André Teigland
+
+Norsk Regnesentral
+
+Gaustadalleen 23
+
+P.O. Box 114 Blindern
+N-0314 Oslo
+
+
+
+
+
+
+
+Retur:
+
+Norsk Statistisk Forening
+
+v/Sigrunn Holbek Sørbye
+Institutt for matematikk og statistikk
+Universiteteti Tromsø
+9037 Tromsø
+
+
+

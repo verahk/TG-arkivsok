@@ -1,0 +1,1239 @@
+ISSN 0803-8953
+Tilfeldig gang
+Nr. 3, årgang 28
+Desember 2011
+
+Utgitt av Norsk statistisk forening
+
+Redaksjonelt
+
+Fra lederen . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Fra redaksjonen . . . . . . . . . . . . . . . . . . . . . . . .
+
+1
+2
+
+Leserinnlegg
+
+Ekskluderende forening? . . . . . . . . . . . . . . . . . . .
+
+3
+
+Gratulerer
+
+Sverdrupprisen 2011 til professor Tore Schweder . . . . .
+Sverdrupprisen 2011 «unge forskere» til Ida Scheel . . .
+Trygve Nilsen 70 år . . . . . . . . . . . . . . . . . . . . . .
+Geir Egil Eide 60 år . . . . . . . . . . . . . . . . . . . . . .
+Henning Omre 60 år . . . . . . . . . . . . . . . . . . . . .
+Bo Lindqvist 60 år . . . . . . . . . . . . . . . . . . . . . . .
+
+5
+6
+7
+8
+9
+9
+
+Tankenøtter
+
+Pusleri nummer 33 . . . . . . . . . . . . . . . . . . . . . .
+Løsning på pusleri nummer 32 . . . . . . . . . . . . . . .
+Finn feilen . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+10
+11
+11
+
+Intervju
+
+Intervju med Jo Røislien . . . . . . . . . . . . . . . . . . .
+
+12
+
+Møter og konferanser
+
+Fjerde Trondheim statistikksymposium . . . . . . . . . .
+Tredje nordisk-baltiske biometrikonferanse i Turku . . .
+
+15
+16
+
+Meldinger
+
+Nytt fra Universitetet i Bergen . . . . . . . . . . . . . . .
+Nytt fra Avdeling for biostatistikk, UiO . . . . . . . . . .
+Nytt fra Avdeling C, Matematisk institutt, UiO . . . . . .
+
+17
+18
+18
+
+Scandinavian Journal of Statistics
+
+Innholdsliste september 2011 . . . . . . . . . . . . . . . .
+
+19
+
+Informasjon
+
+Årskontingent for 2011 . . . . . . . . . . . . . . . . . . . .
+
+20
+
+
+
+
+
+redaksjonelt
+Fra lederen
+Jo Eidsvik | Trondheim, 9. november 2011
+
+Norsk statistisk forening markerer sitt 75-årsjubileum i 2011. Mer
+enn 60 fremmøtte til statistikermøtet på Røros i juni viser at
+75-åringen er svært aktiv. Jeg ser positivt på den store bredden av
+representanter og foredrag. Universitetene var tungt representerte,
+men det kom også mange deltakere fra ulike bedrifter og
+institusjoner – Norsk Regnesentral, Statistisk sentralbyrå, Nor
+Mapping, Norsk institutt for landbruksøkonomisk forskning,
+Sintef Energi og Skattedirektoratet. Vi bør kunne «framsnakke»
+hverandre, og dermed reklamere vidt for statistikk. Foreningen
+har rom for alle statistikere i landet. Initiativ i nye retninger
+mottas gjerne; de mest aktive vil dirigere kursen. Det er viktig å
+rekruttere studenter, noe som muliggjør enda bedre kontakt med
+industrien.
+I høst har hele landet hatt muligheten til å bli opplyst og
+underholdt av en statistiker fra sin egen godstol: Det er en
+fornøyelse å se min navnebror Jo Røislien i beste sendetid på
+søndag kveld. Programmet Siffer på nrk har høye seertall, og gir
+fremragende reklame for matematikk og statistikk. Ifølge Jo er
+tittelen «matematiker» et bevisst valg. I mange av programmene
+ser vi likevel «statistikeren» Jo, som kaster mynt, gambler i Las
+Vegas, ser systemer i tilfeldig plasserte ender i Frognerbadet, eller
+gjør randomiserte forsøk for å teste om champagne er best fra
+magnumflaske eller vanlig flaske.
+Det nye styret har oppdatert websidene til foreningen. Disse
+ligger nå på et eget domene – norskstatistiskforening.no. Vennligst
+stikk innom sidene iblant, si hvordan de kan bli bedre, og send
+oss informasjon som er nyttig for medlemmene eller andre
+interesserte utenfra. Blant annet gjelder dette konferanser. I 2012
+arrangeres flere spennende statistikkarenaer i Norge, blant annet
+International statistical ecology conference på Sundvollen, International
+Society of Clinical Biostatistics i Bergen, og International Geostatistics
+Congress i Oslo. Lykke til i planleggingen, til arrangørene og
+potensielle deltakere!
+
+http://www.nrk.no/
+programmer/sider/siffer/
+
+http://cees.uio.no/isec2012/
+http://www.iscb2012.info/
+http://www.geostats2012.no/
+
+1
+
+
+
+Fra redaksjonen
+Anne Marie Fenstad | Bergen
+
+Det har vært en mild høst på Vestlandet så langt, men nå setter
+kulda inn og det er på tide å tenne i peisen, ha kakao i koppen og
+sette seg ned med et nytt nummer av tg . . .
+Det har skjedd en god del på «statistikkfronten» siden siste
+nummer kom ut. Årets norske statistikermøte ble fortreffelig
+arrangert på Røros – det 16. i rekken. Et nytt styre ble valgt,
+som består Jo Eidsvik (leder), Clara-Cecilie Günther, Anders
+Løland, Bård Støve og Alf Harbitz. I denne forbindelse ble det
+også dannet en ny redaksjon for Tilfeldig gang, hvor Universitetet
+i Bergen har tatt på seg redaktøransvar, ledet an av Bård Støve.
+Han har med seg Karl Ove Hufthammer fra Fiskeridirektoratet og
+undertegnede fra Nasjonalt Register for Leddproteser. Vi er alle
+tre lokalisert i samme by, Bergen, men representerer godt bredden
+av mulige arbeidsplasser for en statistiker.
+For fra forskningsfronten ved universitetet, via kontroll av
+fiskefangst på Fiskeridirektoratet, og til helsesektoren, spenner vi
+vidt. Dette bringer oss inn på et ønske fra redaksjonen, nemlig å
+oppfordre folk til å skrive og fortelle om jobben sin som statistiker,
+da gjerne de som er ansatt i utradisjonelle statistikkyrker, men
+som bruker statistikk i arbeidet. Det ville være fint for å speile
+mangfoldet, og vise at statistikeren lever opp til betegnelsen «å
+være som poteten»: Vi kan brukes til alt – nesten. Vi gleder oss til
+å motta mange innspill og omtaler her! (Send disse på e-post til
+Bard.Stove@math.uib.no, svært gjerne med illustrasjonsfoto.)
+En annen nyhet er jo at matematikk, eller statistikk spesielt,
+er blitt tv-underholdning, flott presentert av Jo Røislien. Hver
+søndag sitter min familie klare i sofaen og lar oss underholde.
+Jeg synes Jo representerer de forskjellige tema på en flott måte,
+ikke for enkelt, men samtidig ikke for vanskelig tilgjengelig for
+«gjennomsnittsnordmannen», hvem nå det måtte være. Flott gjort!
+En ting vi på Vestlandet har opplevd de siste årene, og som
+sikkert går igjen i andre landsdeler, er at de samme personene
+bidrar i de fleste styrer, komitéer, utvalg, redaksjoner osv. Vi er
+som en gjeng «Tordenskiolds soldater» marsjerende inn og ut
+og inn igjen i arbeidsgruppene. Takk til alle de som gjør en flott
+innsats, og en stor oppfordring til alle «å ta et tak»; det er ofte
+ikke store jobben, og i hvert fall ikke når man er flere sammen.
+Det er mange spennende møter for statistikere på gang. Disse
+vil bli omtalt i de neste utgavene av tg. Til slutt vil jeg bare ønske
+alle en god jul og et strålende nytt statistikerår!
+Og hvis noen lurer: Begrepet «Tordenskiolds soldater»
+stammer fra erobringen av Carlstens festning, hvor Tordenskiold
+– ifølge en legende – fikk den svenske kommandanten til å tro
+at den danske styrken var langt større enn den faktisk var, ved
+å la samme (lille) antall soldater gå rundt samme kvartal i flere
+omganger, slik styrken syntes overveldende.
+
+2
+
+
+
+leserinnlegg
+Ekskluderende forening?
+Eivind Hoffmann | Oslo, 29. august 2011
+
+I juni 2011-utgaven av Tilfeldig gang (tg) kan vi lese både
+invitasjon til og referat fra årsmøtet 15. juni i Norsk statistisk
+forening (nsf). Det framgår ikke av referatet hvor mange av
+foreningens 274 medlemmer som var tilstede på møtet som fant
+sted kl. 18.35–18.50, men siden møtet kunne avsluttes etter 25
+minutter, må det være tillatt å anta at det var få kontroverser.
+Av invitasjonen framgår det videre at årsmøtet fant sted i
+tilknytning til det 16. norske statistikermøtet, der deltakeravgiften
+var kr 900 og helpensjon for deltakere som ikke hadde sitt
+hjemsted på Røros var kr 1 420. Vil derfor anta at kostnaden ved å
+delta på nsfs årsmøte for de aller fleste var minst kr 3 000, eller
+kr 120 per minutt. Antagelig er dette et rimelig godt eksempel
+på hvordan man sikrer seg at det ikke kommer noen andre til et
+årsmøte enn de som tilhører de «snevre faglige omgivelser» som
+består av «eksperter på sannsynlighetsregning og (matematiske?)
+statistiske metoder», for å sitere den avgående styreleder i
+samme nummer av tg. Han synes å mene at det er disse som
+skal ha enerett på betegnelsen «statistiker», og kanskje også til
+medlemskap i nsf. Programmet for det 16. norske statistikermøtet
+var for øvrig slik at bare medlemmer av denne gruppen kunne
+forsvare å be sin arbeidsgiver å bekoste deltagelsen.
+Som medlem av nsf siden før medlemmer av dagens
+maktgruppe, med blant annet min støtte, for snart 30 år siden
+reddet foreningen fra en langsom død, synes jeg at dette er meget
+uheldig. Situasjonen er etter min mening uholdbar hvis man
+mener og ønsker at statistikere og statistikk som fag trenger en
+forening som kan være et faglig samlingspunkt og være i stand til
+å løse relativt presserende oppgaver, blant annet å forberede det
+neste nordiske statistikermøtet, som skal finne sted i Norge, og en
+markering av nsfs 100-årsjubileum i 2019.
+Mitt utgangspunkt er at «statistikk» og «statistisk arbeid»
+omfatter alt arbeid med bruk og utvikling av metoder for
+systematisk innsamling, bearbeiding, analyse og presentasjon av
+kvantitativ informasjon. Dette er meget mer enn sannsynlighetsregning og matematiske statistiske metoder, selv om også disse
+elementene er viktige. Både ved utviklingen av statistiske metoder
+i bred forstand, og ved anvendelsen av dem, er samarbeid med
+de aktuelle substansdisipliner helt avgjørende for at «statistikk»
+skal være noe annet enn en intellektuell lek blant matematikere.
+Spesielt er slikt samarbeid viktig i arbeidet for å sikre kvaliteten
+på de data som skal danne grunnlag for den statistikken som skal
+
+3
+
+
+
+nyttes til beskrivelser, analyser og prediksjoner, og derved som
+grunnlag for evaluering og beslutninger.
+Det nordiske statistikermøtet som jeg referer til ovenfor er
+det som tradisjonelt har gått på omgang mellom de nordiske
+lands statistiske foreninger i samarbeid med de respektive
+statistiske sentralbyråer (omtrent) hvert femte år. Det foreløpig
+siste var i København i august 2010. Det er ikke for tidlig å
+starte arbeidet med forberedelsene, organisatorisk og når det
+gjelder programmet, i samarbeid med ssb. Det samme gjelder
+for forberedelsene til 100-årsfeiringen. Med litt helhjertet innsats
+fra nsfs side bør det være mulig å få revet de murene som man
+har bygget mot de typer statistisk arbeid som ikke bare ssbs
+medarbeidere er representanter for. Det eneste som kreves er
+at nsf klarer å få fram for «ikke-matematiske» statistikere at
+foreningen også vil være relevant for dem.
+ps: I dagens situasjon synes det helt naturlig at ssb ikke lenger
+vil bekoste utsendelsen av tg, men det bør da også være mer
+hensiktsmessig å sende e-postvarsel til medlemmene hver gang
+det legges ut et nytt nummer på nsfs hjemmesider.
+
+4
+
+
+
+gratulerer
+Sverdrupprisen 2011 til professor Tore Schweder
+Arnoldo Frigessi, Sven Ove Samuelsen og Magne Aarset
+
+Sverdrupprisen 2011 tildeles Professor Tore Schweder,
+Universitetet i Oslo. Begrunnelse: Tore Schweder er en person med
+stor betydning for faget statistikk både i Norge og internasjonalt,
+og såvel teoretisk som anvendt.
+Tore er født i 1943, og tok hovedfag i matematisk statistikk i
+Oslo i 1968. Han fullførte en PhD i Berkeley i 1974 med David
+Brillinger som veileder. Etter at han kom tilbake til Norge ble
+han i 1974 den første statistiker ansatt på det nye universitetet
+i Tromsø, og bygde opp statistikkstudiet der. I 1984 ble han
+ansatt som professor på Økonomisk institutt ved Universitetet
+i Oslo, hvor han har vært siden. Han har også i perioder hatt
+bistillinger på Statistisk sentralbyrå og Norsk Regnesentral. Han
+er nå dessuten knyttet til et senter for fremragende forskning på
+Biologisk institutt ved Universitetet i Oslo.
+Tores PhD-avhandling dreide seg om punktprosesser, men
+hadde et anvendt perspektiv mot hvaltellinger. Denne bakgrunnen
+skulle vise seg å bli av stor betydning i forbindelse med
+vurderingen av om vågehval var utrydningstruet, og om man
+kunne tillate fangst i norske farvann. Hans virke på dette feltet har
+hatt stor nasjonal betydning og han har sittet i vitenskapskomiteen
+for iwc (den internasjonale hvalfangstkommisjonen) siden rundt
+1990. Dette har dessuten ført ham videre inn i økologiske miljøer
+som senteret på Biologisk institutt, og har dessuten dannet
+utgangspunkt for metodeutvikling omkring blant annet simulert
+likelihood og konfidensfordelinger.
+I 1982 publiserte Tore sammen med Emil Spjøtvoll arbeidet
+«Plots of P-values to evaluate many tests simultaneously» i
+Biometrika, og foreslo blant annet en estimator for andelen sanne
+nullhypoteser. Dette arbeidet om multippel testing har vært meget
+viktig for genotypede data og utviklingen av begreper som False
+Discovery Rate.
+Et annet tema Tore har vært opptatt av er hvordan man bør
+nærme seg kausalitetsbegrepet fra statistiske modeller og data.
+Dette går faktisk tilbake til hans første publiserte arbeid i 1970,
+hvor han var opptatt av hvordan eksplisitt modellering av tid
+via Markov-prosesser kan brukes i denne sammenheng. Denne
+artikkelen er faktisk parallell til forslag av Granger i 1969, og det
+som ofte refereres til som Granger-kausalitet burde kanskje kalles
+Granger–Schweder-kausalitet.
+Anvendelser av statistikk har som nevnt vært viktig i Tores
+karriere. I tillegg til arbeidene med hvaltelling og økologi generelt,
+
+Foto: Lise Åserud/Scanpix/Abelprisen/Det
+Norske Videnskaps-Akademi
+
+Schweder T. (1974).
+Transformation of point processes:
+Application to Animal Sighting
+and Catch Problems, with special
+Emphasis on Whales.
+Ph.D.-avhandling, University of
+California, Berkeley.
+
+Schweder T. og Spjøtvoll E.
+(1982). «Plots of P-values to
+evaluate many tests
+simultaneously». Biometrika,
+volum 69, nummer 3,
+side 493–502. issn 00063444.
+10.2307/2335984
+Schweder T. (1970).
+«Composable Markov
+Processes». Journal of Applied
+Probability, volum 7, nummer 2,
+side 400–410. issn 00219002.
+10.2307/3211973
+
+5
+
+
+
+har han arbeidet med blant annet arkeologiske, demografiske og
+medisinske data.
+Som nevnt var Tore den første professor i statistikk ved
+Universitetet i Tromsø, hvor han bygde opp studiet, samt en
+bemerkelsesverdig sterk statistikkgruppe. Tore har hatt syv
+PhD-studenter.
+Tore har også vært meget viktig for Norsk statistisk forening;
+blant annet var han formann så tidlig som 1971–1972, altså i en
+alder av 28 år. Han er dessuten initiativtaker til Tilfeldig gang. Han
+har også vært opptatt av, og skrevet om, statistikkfagets historie
+og opprinnelse i Norge.
+
+Sverdrupprisen 2011 «unge forskere» til Ida Scheel
+Arnoldo Frigessi, Sven Ove Samuelsen og Magne Aarset
+
+Ida Scheel has received the junior Sverdrup prize for the best
+paper written by a young statistician in Norway, ‘A Graphical
+Diagnostic for Identifying Influential Model Choices in Bayesian
+Hierarchical Models’.
+Real-world phenomena are frequently modelled by Bayesian
+hierarchical models. The building blocks in such models are
+the distribution of each variable conditional on parent and/or
+neighbour variables in the graph. The specifications of centre and
+spread of these conditional distributions may be well motivated,
+while the tail specifications are often left to convenience. However,
+the posterior distribution of a parameter may depend strongly on
+such arbitrary tail specifications. This is not easily detected in
+complex models.
+In this paper Scheel and co-authors propose a new graphical
+diagnostic which identifies such influential modelling choices
+at the node level in any chain graph model. The diagnostic,
+called the local critique plot, examines local conflict between
+the information coming from the parents and neighbours (local
+prior) and from the children and co-parents (lifted likelihood).
+The local critique plot identifies properties of the local prior and
+the lifted likelihood that are influential on the posterior density.
+This allows the user to investigate whether tail assumptions
+are influential, and hence whether such assumptions need
+to be confirmed or can be relaxed. The paper includes many
+examples and applications of the local critique plot. The local
+critique plot can be derived for all parameters in a chain graph
+model, and is easy to implement using the output of posterior
+sampling.
+The paper proposes a very original, yet intuitive idea, that
+parameters are influenced by the data via the likelihood which is
+deformed while climbing up the hierarchical construction, and by
+the local prior. The new tool is a graph, not a test. This opens to
+new ways to perform model criticism.
+
+6
+
+Scheel I., Green P.J. og Rougier
+J.C. (2011). «A Graphical
+Diagnostic for Identifying
+Influential Model Choices in
+Bayesian Hierarchical Models».
+Scandinavian Journal of Statistics,
+volum 38, nummer 3,
+side 529–550. issn 0303-6898.
+10.1111/j.14679469.2010.00717.x
+
+
+
+Trygve Nilsen 70 år
+Kolleger i statistikkgruppen | Bergen
+
+Trygve Nilsen, førsteamanuensis i statistikk ved Matematisk
+institutt, Universitetet i Bergen, fylte 70 år den 17. september 2011.
+Denne dagen markerte også hans siste ordinære arbeidsdag ved
+instituttet.
+Trygve vokste opp på Møhlenpris i Bergen. Etter gymnasiet
+dro han til Trondheim for å studere ved nth, ble sivilingeniør
+og oppnådde senere en lisensiatgrad i teknisk fysikk. På denne
+tiden var man såvidt begynt å bygge ut statistikk som fag ved
+Matematisk institutt. I motsetning til hos Universitetet i Oslo
+var det liten eller ingen tradisjon for statistikkfaget i Bergen. I
+slutten av sekstiårene og begynnelsen av syttiårene var det ennå
+ikke mulig å ta statistikk hovedfag. Trygve ble ansatt i den første
+vitenskapelig assistent-stillingen i statistikk, og avanserte snart til
+universitetslektor. Sammen med Sven Nissen Meyer, Henrik Dahl
+og Ivar Heuch bygde han opp statistikkfaget.
+Etterhvert som statistikkgruppen ble større, ble det på
+80-tallet dannet en egen statistikkfaggruppe uavhengig av
+anvendt matematikk. Gruppen er en god del mindre enn de
+to andre gruppene ved instituttet, og dette ble også reflektert
+i et mindre antall studenter. I de siste årene har dette endret
+seg ved at studieretningen finans og forsikring er bygget opp
+under statistikkfaget. Dette er nå klart det mest populære
+mastergradsstudiet ved instituttet. Trygve Nilsen har sammen med
+Jostein Paulsen vært den drivende kraft bak denne utviklingen, og
+spesielt Trygve har forelest de sentrale emnene i livsforsikring,
+skadeforsikring og finans. Dette illustrerer et typisk karaktertrekk
+ved Trygve, nemlig hans vilje og evne til å reorientere seg
+og tenke nytt. Trygve har samtidig knyttet til seg kontakter i
+forsikringsbransjen, og har tatt aktivt del i aktuarforeningens
+arbeid. Hans utadvendthet og jovialitet har her kommet til sin
+fulle rett.
+Han har også vært formann i Norsk statistisk forening.
+Hans åpenhet har videre kommet ham til gode i hans
+forskningssamarbeid med andre fag, spesielt innen biologi og
+fiskeriforskning. Det har faktisk resultert i en oppblomstring
+i hans forskningsaktivitet, og målt i antall internasjonale
+publikasjoner har han kanskje hatt sin mest aktive periode i
+aldersintervallet 65–70 år. Et slikt forskningsforløp er uvanlig, og
+Trygve har fremdeles prosjekter på gang med fagfeller fra andre
+miljøer. Det ser heller ikke ut til at han har planer om å legge
+denne aktiviteten på hyllen med det første.
+Hans studenter så som hans kolleger er mektig imponert over
+denne spreke 70-åringen som i parentes bemerket også har fortsatt
+med sine løpeturer hjem fra universitetet til sitt hjem på toppen
+av Nattlandsfjellet. Han tar også gjerne sykkelen fatt til eller fra
+familiebruket i Eksingedalen. Her har han sammen med sin Inger
+
+7
+
+
+
+og barn og barnebarn kunnet dyrke sine friluftsinteresser med
+turer i fjellet både vinter og sommer.
+Trygve har vært gruppeleder for statistikkgruppen i flere år før
+han nå går av. Hans vennlige men håndfaste styring av gruppen
+har vært høyt verdsatt. Hans mange innsiktsfulle innspill og hans
+klare markering av standpunkter når det trengtes vil bli savnet.
+Men på den andre side vet vi at vi fremdeles vil treffe ham her
+som vikarforeleser. Vi ser derfor fram til videre kontakt med
+Trygve i det som ser ut til å bli en meget aktiv pensjonisttilværelse,
+og vi ønsker ham all mulig lykke til videre.
+
+Geir Egil Eide 60 år
+Anne Marie Fenstad | Bergen
+
+Geir Egil Eide fylte 60 år 18. september i år. Geir har siden 1999
+jobbet som biostatistiker ved Kompetansesenteret for klinisk
+forskning ved Haukeland universitetssjukehus. Han forsvarte sin
+doktorgradsavhandling 18. april 2008. Avhandlingens tittel var
+Attributable fractions used for partitioning risk and evaluating disease
+prevention: Concepts, estimation, interpretation and presentation.
+Geir ble født i Bergen, og tok hovedfag i matematisk statistikk
+ved UiB i 1977. Fra 1978 og i ti år jobbet han som forsker ved
+seksjon for medisinsk informatikk og statistikk (smis) ved UiB,
+før han i 1988 byttet beite til Handelshøyskolen (nhh), hvor han
+ble til 1999. Tiden 1995–1996 tilbrakte han ved University of
+California, Berkeley. Han har siden 1999 jobbet som biostatistiker
+ved Kompetansesenteret for klinisk forskning, og fra 2010 hatt en
+professor II-stilling ved seksjon for epidemiologi og medisinsk
+statistikk, Institutt for samfunnsmedisinske fag ved UiB.
+Geir har videre vært kursleder for statistikkurs for
+ph.d.-studenter ved Haukeland, og har i tillegg arrangert utallige
+eksterne og interne kurs for statistikere. Han har stilt opp som
+sensor for nhh i alle år – en fin måte å holde kontakt med
+nhh-miljøet, som han tidligere var en del av. Geir er også flittig
+brukt som «referee» i flere tidsskrift.
+Ingen oppgave er for stor og ingen for liten; Geir stiller alltid
+opp. Han er, og har vært, involvert i utallige komitéer både som
+leder og som «menigmann». I Norsk statistisk forening var han
+leder fra 1999–2001. For tiden sitter han blant annet som formann
+i International Biometric Society Nordic-Baltic Region, og leder an i
+organisasjonskomitéen for iscb33, som skal arrangeres i Bergen i
+august neste år.
+Geir er en trivelig fyr, nøyaktig når det kreves, og alltid med
+en lun kommentar og et smil på lur. Går ting litt trått i en gruppe
+eller komité, vet han å trå til. Han er målbevisst og treffsikker, noe
+han muligens har hentet fra sin stadige basketballspilling? Han
+viser alltid omtanke for sine kolleger og oss andre som svirrer
+rundt ham i forskjellige sammenhenger.
+Gratulerer så mye på etterskudd!
+8
+
+Eide G.E. (2008). Attributable
+fractions used for partitioning risk
+and evaluating disease prevention:
+Concepts, estimation, interpretation
+and presentation.
+Doktoravhandling, Universitetet
+i Bergen. http://hdl.handle.
+net/1956/3157
+
+http://ibsnr.org/
+http://www.iscb2012.info/
+
+
+
+Henning Omre 60 år
+John Sølve Tyssedal | Trondheim
+
+Den 13. august fylte Henning Omre 60 år. Då kunne han sjå
+tilbake på 19 år i aktivt virke ved nth/ntnu, der han har vore
+drivkrafta i å byggje opp eit sterkt miljø innan romleg statistikk.
+Henning er ein person med mykje energi og stor kreativitet,
+som likar å arbeide saman med doktorgradsstudentar. Dette
+har gitt gode resultat, og Henning kan sjå tilbake på ein stor
+doktorgradsproduksjon. I tillegg har forskingsinnsatsen blitt
+lønna med Statoil-prisen og no seinast den prestisjefylte Alfred
+Wegener Award-prisen i geostatistikk.
+Dei siste åra har Henning lagt om reiserutene noko.
+mastmo-prosjektet er eit Norad-støtta samarbeidsprosjekt mellom
+Hawassa-universitetet i Etiopia og Institutt for matematiske fag,
+ntnu. Prosjektet har som mål å byggje opp eit masterprogram i
+Industriell matematikk ved universitetet i Hawassa. Saman med
+ein tidlegare doktorgradsstudent er Henning initiativtakaren og
+drivkrafta. Andre faglærarar ved instituttet er òg involverte.
+Henning lever eit aktivt liv. Ein av dei kjæraste aktivitetane er
+skiturar i Bymarka, men ein kan like gjerne finne han i aksjon som
+basketballtrenar eller på ishockeybana. Vi takkar for innsatsen, og
+gratulerer ein sprek person med 60-årsdagen.
+
+Bo Lindqvist 60 år
+John Sølve Tyssedal | Trondheim
+
+Den 7. mai fylte Bo 60 år. Statistikkgruppa fekk eit lite førevarsel
+då det tilsynelatatande heilt utan grunn blei opplyst at han kom
+til å vere i Barcelona nokre dagar. Velfortent ferie, ja vel, men
+lettare detektivarbeid avsløra at Bo feira 60-årsdagen med familien
+i byen med den kjende arkitekturen og det artistiske fotballaget.
+Bo er ein av dei med lengst fartstid i statistikk ved Universitetet
+i Trondheim, no ntnu. Han var ein aktiv bidragsytar til boka
+Abstraksjon og anvendelser: Historien til Institutt for matematiske fag
+ved NTNU 1910–2010. Han er kjend som ein solid fagstatistikar, og
+mange har hatt god nytte av ein tur innom kontoret hans for å
+diskutere statistiske problemstillingar. I perioden 2006–2009 var
+han òg redaktør av Scandinavian Journal of Statistics.
+Bo har alltid vore ein populær førelesar, og i ein alder av
+60 tiltrekkjer han seg framleis mange masterstudentar. Talet på
+studentar han har rettleia konkurrerer lett med alderen. Bo fylgjer
+godt med i sportsaktivitetar, fotball inklusivt, men bravadane til
+rbk har hatt liten innverknad på val av favorittlag, som er laget frå
+heimbyen Skien. Når Odd nærmar seg toppen av eliteserietabellen
+eller cupfinalen, er entusiasmen stor. Elles går det rykte om at han
+er blitt ein aktiv trimmar sjølv. Slik held han seg sprek og skaffar
+seg energi og overskot til ny innsats for statistikkfaget. Vi takkar
+for innsatsen, og gratulerer med 60-årsdagen.
+
+Rabben M.B. (2011). Abstraksjon
+og anvendelser: Historien til
+Institutt for matematiske fag ved
+NTNU 1910–2010. Tapir
+Akademisk Forlag.
+isbn 978-82-519-2778-9.
+http://ntnu.no/imf/historie
+
+9
+
+
+
+tankenøtter
+Pusleri nummer 33
+Jostein Lillestøl | Bergen
+
+Ølle er håndballtrener, og en dag etter treningen samler han de 10
+frammøtte rundt seg i gymsalen, og sier: «I garderoben er det
+akkurat 10 nummererte garderobeskap. Jeg har et foto av hver
+av dere, og har plassert et bilde i hvert av skapene helt tilfeldig.
+Dere får slippe inn i garderoben én etter én, og får lov til å åpne
+halvparten av skapene, det vil si 5 skap hver, med sikte på å
+finne eget bilde. Om du lykkes eller ikke, legger du alt tilbake på
+plass og lukker skapene, slik at nestemann som kommer møter
+akkurat samme oppgave. Deretter forlater du garderoben ut
+døren til gangen, og går hjem, uten å kommunisere med de andre
+på laget. Dersom alle 10 på laget har funnet eget bilde, blir det
+gratis treningsleir for alle. Jeg vil være tilstede i garderoben for å
+observere utfallet, og se til at alt går riktig for seg. Dere får en
+halvtime til å diskutere oppdraget før vi setter i gang. Jeg går ut i
+garderoben imens. Forstått »
+Etter at laget er overlatt til seg selv, tar Bølle ordet først: «Hva
+er det å diskutere? Hver av oss har 50 % sjanse for å finne vårt
+eget bilde, uavhengig av hva de andre gjør. Sjansen for at vi greier
+det alle sammen er da en halv opphøyd i tiende (som er mindre
+enn en promille), og slik er det samme hvilke skap de andre
+velger å åpne, så lenge vi ikke får gitt noe informasjon til de som
+kommer etter.» Crølle bryter inn: «Jeg er uenig. Enn om de 5
+første av oss velger de 5 skapene med laveste numre, og de 5 siste
+av oss velger skapene med høyeste numre? Da tror jeg sjansen for
+å lykkes vil øke.» Dølle har stått og grublet, og sier så: «Crølle har
+rett, men hans løsning gir oss heller ikke særlig stor sjanse. Jeg
+mener det er mulig å velge en strategi som kan gi oss langt større
+sjanse for å komme på treningsleiren. Hør nå her . . . » Bølle bryter
+han av: «For noe tull! Dette er bortkasta tid å diskutere. La oss få
+det overstått, og komme oss ut herfra!»
+Dølle klarer imidlertid å overbevise de andre med intuitive
+argumenter, og laget gikk med på hans strategi. Det viste seg at
+laget lyktes i sitt oppdrag, og kom på treningsleiren. Innen den
+tid hadde Dølle regnet ut sannsynligheten for at den strategien
+han foreslo skulle lyktes. Den var over 30 %!
+Greier du å gjøre han det etter?
+Send svar til Jostein.Lillestol@nhh.no.
+
+10
+
+Foto: Eva Serna
+
+
+
+Løsning på pusleri nummer 32
+Jostein Lillestøl | Bergen
+
+Oppgaven var: Tegn en linje og en sirkel som berører linjen i
+punktet O. Avsett fra punktet O en lengde X langs linjen trukket
+fra normalfordelingen N (0,1). Endepunktet i positiv eller negativ
+retning kaller vi P. Fra punktet P trekker vi en tilfeldig rett
+linje, som i figuren krysser sirkelen i punktene A og B. Hva er
+sannsynlighetsfordelingen til produktet av avstandene PA og PB,
+gitt at linjen krysser sirkelen?
+B
+
+A
+
+O
+
+P
+
+Svar: Kjikvadratfordelt med én frihetsgrad! Den geometriske
+setningen kalt punkts potens sier: Trekk en linje fra et gitt punkt
+som krysser en gitt sirkel. Da er produktet av avstanden fra
+punktet til de to krysningspunktene det samme uansett hvordan
+du trekker linjen. Dette gir oss grensetilfellet PA · PB = PO2 = X 2 ,
+altså kvadratet av en N (0,1)-variabel.
+Løsningen avhenger av at dine geometrikunnskaper er intakte,
+men beviset for punkts potens er enkelt (og fremdeles pensum
+i videregående skole): De to trekantene 4OPA og 4 BPO er
+formlike (likedannede), siden de har en felles vinkel og de to
+periferivinklene 6 POA og 6 OBA fanger opp samme bue, og
+dermed må være like. (Glemt det også? Bevis det!) Vi har da
+PA/PO = OP/BP.
+Merknad: Oppgaveformuleringens «tilfeldig» og betinget
+«gitt» var med hensikt for å villede: Konklusjonen krever ingen
+antakelse om tilfeldighet, og det kreves heller ingen hard regning.
+
+Finn feilen
+Karl Ove Hufthammer | Bergen
+
+Viss me kastar tre vanlege myntar, kva er sannsynet for at alle
+vil landa med same side opp, altså krone–krone–krone eller
+mynt–mynt–mynt? Enkelt! Iallfall to av dei vil landa med same
+side opp, og sannsynet for at den tredje vert mynt eller krone
+er sjølvsagt ½, slik at det totale sannsynet vert 1 · ½ = ½. Men
+sannsynet er også 2 · (½)3 = ¼, så med mindre 2 = 4, er noko feil
+her! Men kor er feilen? Og korleis vil du forklara for eksempel ein
+førsteårs statistikkstudent korfor den første utrekninga er feil og
+den andre er rett? Send forslag til svar til karl@huftis.org.
+11
+
+
+
+intervju
+Intervju med Jo Røislien
+Bård Støve | Bergen, 7. oktober 2011
+
+Røislien er biostatistiker, og aktuell med tv-programmet Siffer på
+nrk i høst. Vi har vært så heldige å få et intervju med han.
+Selv om mange i statistikkmiljøet i Norge allerede kjenner deg, fortell litt
+om deg selv – og kanskje spesielt hvorfor du endte opp som statistiker og
+forsker.
+Da jeg begynte på sivilingeniørutdannelsen i industriell
+matematikk ved ntnu var planen min i utgangspunktet å gå i
+retning av teoretisk matematikk. Men jeg syntes den ofte grisete
+sannsynlighetsregningen var morsommere. Så da professor
+Henning Omre grep tak i meg en dag og sa han hadde en
+masteroppgave i statistikk han mente ville passe perfekt for meg,
+så føltes det helt rett. Masteren ble etter hvert til en doktorgrad i
+geostatistikk.
+Etter disputasen var jeg blitt litt lei stein, så da søsteren min
+tipset meg om at de trengte en forskningsveileder og statistiker på
+Rikshospitalet, kastet jeg meg på. Jeg ringte og sa jeg ikke kunne
+noe som helst om medisin, men at jeg var relativt flink til regne.
+Topp, sa de, og så var jeg plutselig blitt biostatistiker. Deretter ble
+det postdok på Avdeling for biostatistikk ved Universitetet i Oslo,
+og nå er jeg blitt forsker. I høst fikk jeg Norsk Luftambulanse som
+ny hovedarbeidsgiver. Jeg kan ingenting om akuttmedisin, så det
+passer perfekt.
+Hva inspirerte deg til å gå i gang med Siffer?
+Ethvert samfunn er basert på at de som vet noe om noe forteller
+det videre til dem som ikke vet. Så da produksjonsselskapet
+Teddy TV ringte og sa de ville utvikle et underholdningsprogram
+om tall, matematikk og statistikk, og trengte en med matematisk
+bakgrunn på laget, var det bare å kaste seg med. Det å få bruke
+nrk1 som forelesningssal var en mulighet jeg bare måtte gripe,
+samme hvor skummelt jeg egentlig syntes det var. Målet med
+Siffer var å få de som vanligvis ikke ville valgt å se på et program
+om tall, matematikk og statistikk til å faktisk ha lyst til å se på det.
+Og det ser det ut som om vi har fått til.
+For å nå ut til folk som vanligvis ikke synes tall høres spesielt interessant
+ut blir det lett nødvendig å forenkle, og presisjonsnivået kan raskt bli en
+del lavere enn en profesjonell matematiker eller statistiker ville satt pris
+på. Har du noen refleksjoner rundt dette? Kan en komme til å forenkle
+for mye?
+I grunnskolen, helt ut videregående, lærer man at man ikke
+kan ta kvadratroten av et negativt tall. Mens noe av det første man
+lærer på universitetet er at, joda, det går helt fint. Så, hvorfor lærer
+12
+
+Røislien J. (2004). Random Field
+Models and Near Well Reservoir
+Characterization.
+Doktoravhandling, Norges
+teknisk-naturvitenskapelige
+universitet, Fakultet for
+ingeniørvitenskap og teknologi.
+http://urn.kb.se/resolve?
+urn=urn:nbn:no:ntnu:diva-280
+
+http://www.nrk.no/
+programmer/sider/siffer/
+
+
+
+man bort noe direkte feil i grunnskolen? Kunnskapsformidling
+handler ikke om at formidleren skal få fortalt alt han vet, men
+at mottakeren får økt kunnskap. Så, hva trenger hvilken mottager
+å høre når? I grunnskolen trenger man enkle regler, faste knagger,
+og så kan man heller bygge om dette byggverket når innsikten
+økes. Det er jo sånn vi lærer bort nesten alt. Barn snakker
+forferdelig dårlig norsk, men vi justerer det inn etterhvert som
+man blir eldre og situasjonene krever stadig økt presisjonsnivå
+i språket man bruker – det vitenskapelige språket likeså.
+Så begrepet «forenkle for mye» må sees i lys av det. Dersom
+det som skal formidles forenkles så mye at mottageren ikke får
+noe ut av det, da er det man skal formidle «forenklet for mye».
+Men at formidleren faktisk må forenkle, kanskje til og med
+fortelle usannheter, er noe annet. Forenkling er en nødvendighet.
+Hele vår virkelighetsbeskrivelse er en forenkling av verden.
+Tegningen av elektroner i bane rundt en atomkjerne er gal, men
+den gjør det lett for mottageren å forstå greia. I det fagfolk i en
+formidlingssituasjon er mer opptatt av at alt man sier skal være
+superpresist heller enn å formidle faget til en gitt mottaker, er
+man på villspor.
+Hvordan gikk du frem for å finne tema til programmene i serien?
+Det første vi i redaksjonen gjorde var å sette oss ned i to
+gode sofaer midt i et stort kontorlokale og begynne å notere på
+lapper ulike tallting vi lurte på, samtidig som jeg holdt korte
+stuntforelesninger om diverse matematiske temaer – alt fra små
+detaljer til generelle teorier og fenomener, som kanskje kunne
+være interessante for folk utenfor Den Harde Kjerne. Da vi hadde
+fylt rommet med gule lapper, begynte vi å samle sammen de vi
+tenkte kanskje kunne høre sammen. Så valgte vi bare bunkene
+med fleste favoritthistorier og eksperimenter, og begynte å skrive
+manus. Det henger relativt mange gode historier og mulige
+tv-ting igjen på veggen der!
+Har du planer om andre serier, kanskje en oppfølger, eller bøker?
+I forbindelse med Siffer har vi allerede gitt ut en bok,
+med samme navn, som er fylt opp med massevis av de
+favorittanekdotene som av ulike grunner ikke kom med på
+tv-skjermen.
+Det at en halv million mennesker velger å bruke
+søndagskvelden til å se på et program om tall, matematikk og
+statistikk har gitt meg litt blod på tann. Vi har tydeligvis fått til
+noe. Så, ja, jeg driver og pønsker ut nye ting. I arbeidet med Siffer
+har jeg jo jobbet med og kommet i kontakt med en haug med
+mennesker ute i Den Virkelige Verden, folk som mer enn gjerne
+vil hjelpe til med å formidle kunnskap om tall, matematikk og
+statistikk til folket, dersom vi bare finner de rette idéene og den
+rette formen. Og, ja, jeg har noen forslag til hvordan dette kan
+gjøres, men jeg har ikke tenkt å avsløre alt her og nå. La meg
+heller si at både tv og bøker og web er involvert.
+
+http://www.versal.no/
+Gyldendal/Versal/
+Mat-og-drikke-gave/Siffer
+
+13
+
+
+
+Har du noen favoritt-statistikkbok eller en bok du kan anbefale til andre
+statistikere?
+For tiden er jeg veldig opptatt av temporale data med mange
+observasjoner per individ, sånn som gange og 24-timersmåling
+av blodtrykk, så det går en del i funksjonell dataanalyse.
+Da er Ramsay og Silvermans Functional Data Analysis en
+uvurdelig referansebok. Som forsker og medarbeider i flere
+medisinske forskningsprosjekter er det klart at mer tradisjonelle
+regresjonsmodeller og -analyser også er viktige, og Woods’
+Generalized Additive Regression Models var lenge boka for «bread
+and butter»-statistikk. Bøkene jeg kanskje bruker mest, dog, er
+Use R-serien til Springer, og jeg har nesten alltid et par stykker
+liggende på skrivebordet – både for min egen del og til folk som
+stikker innom kontoret og lurer på ting.
+Rekrutteringen til realfag i Norge er ikke den beste, kanskje spesielt i
+matematikk og statistikk. Har du forslag til hvordan den kan forbedres?
+Noe av det vi i realfagene må gjøre er å i større grad lytte til
+og dra nytte av kunnskapen til dem som kan noe om samfunn
+og kulturelle mekanismer. I vår iver etter å vise fram det vi selv
+oppfatter som å være det spennende i det vi driver med, gjør vi
+noen feil vi ikke er klar over at vi gjør. Med litt bedre trening kan
+vi bli flinkere til å få formidlet det vi har på hjertet. Mens alle
+har en viss formening om hva politikere eller rørleggere jobber
+med, så har ikke statistikk på samme måte klart å etablere en
+tydelig identitet. Så hvordan skal vi klare å rekruttere folk til noe
+de ikke vet hva er? Når folk også tror at vi sitter hele dagen og
+lager store tabeller med tall, og pugger Statistisk årbok utenat,
+skjønner jeg godt at folk styrer unna. Hadde de derimot visst at vi
+finner olje, løser kreftgåten og jobber med klimaproblemene, ville
+rekrutteringsjobben vært langt enklere.
+
+http://www.springer.com/
+978-0-387-40080-8
+http://www.crcpress.com/
+product/isbn/9781584884743
+http://www.springer.com/
+series/6991
+
+http://www.ssb.no/aarbok/
+
+Har du noen gode råd eller tips til statistikkstudenter, eller studenter
+som vurderer en karriere innen statistikk?
+Noe av det som gjør at jeg er så glad i statistikk og
+sannsynlighetsregning, er den miksen det er av på den ene siden
+universet av absolutte regler til matematikken, og på den annen
+side de relative betraktningene i filosofi og virkelighetsanalyse.
+Statistisk analyse, slik jeg møter den i medisinsk forskning,
+handler om å lage beskrivelse av virkeligheten, modeller, ofte
+uten at vi har noen kjente, fysiske lover å lene oss på. Så man
+må evaluere og re-evaluere det man gjør matematisk i lys av noe
+ikke-matematisk. Virker det rimelig? Jeg elsker denne tosidigheten.
+Så les og få kontroll over de matematiske byggesteinene i
+sannsynlighetsregning. Og drikk kaffe og diskuter og filosofer
+med andre likesinnede.
+Jo om ti år? Fremtidsplaner?
+Da har jeg blitt pappa, gjort newtonsk mekanikk til en snakkis,
+lest Umberto Ecos Foucaults pendel, laget programvare som
+revolusjonerer statistikkopplæringen, begynt med tanntråd og
+bodd i Afrika.
+14
+
+http://www.tiden.no/index.
+php?ID=Bok&counter=93
+
+
+
+møter og konferanser
+Fjerde Trondheim statistikksymposium
+Erik B. Solbu og Rikke Ingebrigtsen | Trondheim
+
+Trondheim statistikksymposium gikk av stabelen 14.–15. oktober
+på Selbusjøen Hotell & Gjestegård, der Selbusjøen viste seg fra
+sin beste side for gjester fra inn- og utland – med strålende sol
+og vakre høstfarger. Årets symposium var det fjerde i rekken,
+og har etablert seg som en faglig og sosial høsttradisjon i
+Trondheimsregionen.
+I år var antallet deltakere rekordstort, med 48 statistikere fra
+15 forskjellige land. Det var med andre ord gode muligheter for
+å treffe igjen gamle kjente, samt å stifte nye bekjentskaper. De
+inviterte foredragsholderne var Martin Schlater, Bettina Kulle
+Andreassen, Adrian Bowman, Odd O. Aalen og Mark A. Girolami.
+De holdt både interessante og inspirerende foredrag. Fredag
+kveld kunne statistikk og livets tilfeldigheter diskuteres over
+en treretters middag. Praten fortsatte inn i de små nattetimer
+i gjestegårdens fine stuer, men alle var klare for nye foredrag
+lørdag morgen. Symposiet ble avsluttet med en bedre lunsj, før
+deltakerne forlot et Selbu badet i sol.
+Takk til Ingelin Steinsland for organiseringen av årets
+symposium.
+
+Foto: Mette Langaas
+
+Årets foredragsholdere (fra venstre): Mark A. Girolami, Odd O. Aalen, Bettina Kulle Andreassen, Martin Schlater og Adrian Bowman.
+
+Foto: Mette Langaas
+
+15
+
+
+
+Program
+Modelling spatial extremes
+Martin Schlater
+Institut für Mathematische Stochastik & Zentrum für Statistik,
+Georg-August-Universität Göttingen
+
+GWAS, EWAS, NGS – or – Statistical Challenges in the Genetics of
+Complex Diseases
+Bettina Kulle Andreassen
+Department of Biostatistics and Institute for Epi-Gen (Faculty Division
+Ahus), University of Oslo
+
+Surfaces, shapes and anatomy: statistics with a human face
+Adrian Bowman
+School of Mathematics and Statistics, University of Glasgow
+
+Causality and event history analysis
+Odd O. Aalen
+Institute of Basic Medical Sciences, University of Oslo
+
+Markov chain Monte Carlo on Riemannian manifolds
+Mark A. Girolami
+
+Foto: Mette Langaas
+
+Department of Statistical Science, University College London
+
+Tredje nordisk-baltiske biometrikonferanse i Turku
+Geir Egil Eide | President ibs Nordic-Baltic Region
+
+Det var god norsk deltakelse ved 3rd Nordic-Baltic Biometric
+Conference i Turku, Finland 6.–9. juni 2011. Selv om de
+annethvertårlige nordiske biometrikonferansene har en lang
+tradisjon, var det kun tredje gang at det ble arrangert en felles
+biometrikonferanse for de nordiske og baltiske landene. Fra
+1. januar 2011 har imidlertid den nordiske regionen og den
+baltiske gruppen i International Biometric Society (ibs) slått
+seg sammen til en Nordic-Baltic Region, og felleskonferansene
+er kommet for å bli. Konferansen ble denne gang arrangert i
+sjarmerende Turku (Åbo), sydvest i Finland, og var gudbenådet
+med et fantastisk flott vær.
+Av 117 deltakerne var det 10 norske, som gjorde en utmerket
+innsats så vel i det vel balanserte faglige programmet (Odd
+Aalen (keynote lecture om Causality and event history analysis),
+Ørnulf Borgan, Erik Mønnes og Nathalie Støer) og i det mer
+organisasjonsmessige (Ågot Irgens og undertegnede). De
+inviterte sesjonene var Spatial extremes, Models and surveillance of
+infectious diseases, Meta-analysis, Bioinformatics og Study designs in
+epidemiology.
+Konferanseutflukten gikk med dampbåt til Turkus skjærgård
+(jf. bildet under), og middagen ble holdt på middelalderborgen
+fra 1280. I 2013 planlegges konferansen arrangert i Stockholm og i
+2015 på Island, så følg med, og meld deg gjerne inn i ibs.
+
+16
+
+Foto: Geir Egil Eide
+
+Fullt program:
+http://www.nbbc11.utu.fi/
+NBBC11Program.pdf
+http://ibsnr.org/
+
+
+
+meldinger
+Nytt fra Universitetet i Bergen
+Nye mastergrader
+Bikram Maharjan
+A study in the effects of different treatments on the growth of high
+fluorescence virus
+Veileder: Trygve Nilsen
+Faisal Shahzad
+Some demographic methods applied to urban and rural populations in
+Pakistan
+Veileder: Dag Tjøstheim
+
+http://hdl.handle.net/1956/
+5030
+
+Gunhild Forland
+Statistiske modellar for alder-periode-kohort-effektar i epidemiologi
+Veileder: Ivar Heuch
+Leiv Magne Asperheim
+Intervall mellom fødslar studert ved “Phase Type Distributions”
+Veileder: Trygve Nilsen
+Sindre Ones
+Robusthet ved skadereservering: Chain-Ladder og influens funksjoner
+Veileder: Trygve Nilsen
+Solveig Kårstad
+Statistiske modellar for Poissonregresjon med modifiserte null-sannsyn,
+ZIP og ZAP
+Veileder: Ivar Heuch
+
+http://hdl.handle.net/1956/
+5136
+
+Nye doktorgrader
+Andreas S. Stordal
+Sequential Data Assimilation in High Dimensional Nonlinear Systems
+Veiledere: Hans J. Skaug og Hans A. Karlsen
+Øystein A. Haaland
+Statistical close-kin methods for wildlife DNA-registers
+Veiledere: Hans J. Skaug (hovedveileder) og Ivar Heuch
+(medveileder)
+
+Nyansettelser
+Bård Støve er fra 1. august 2011 ansatt som førsteamanuensis i
+statistikk.
+
+http://folk.uib.no/nmabb/
+
+17
+
+
+
+Nytt fra Avdeling for biostatistikk, UiO
+Avhandlinger
+Marion Haugen forsvarte 30. mai 2011 sin avhandling «Using
+frailty models to account for heterogeneity and associations in
+cancer epidemiology and insurance» for graden ph.d. Tittel på
+prøveforelesningen var «Multi-state models in cancer research».
+Bedømmelseskomité: Postdoktor Elisabeth Wreford Andersen,
+Københavns Universitet, Danmark; Forskningsleder Stein Atle Lie,
+Uni Helse, Bergen; Førsteamanuensis Ingrid K. Glad, Matematisk
+institutt, Universitetet i Oslo.
+Veileder har vært Tron Anders Moger, Institutt for helse og
+samfunn og avdeling for biostatistikk, Universitetet i Oslo.
+
+http://sfi.nr.no/sfi/images/
+1/14/Haugen_trial_lecture.
+pdf
+
+Nyansettelser
+Kristoffer Herland Hellton er fra august 2011 ansatt som
+stipendiat.
+
+Nytt fra Avdeling C, Matematisk institutt, UiO
+Nyansettelser
+Ida Scheel er fra 1. august 2011 ansatt som førsteamanuensis.
+
+http://mn.uio.no/math/
+personer/vit/idasch/
+
+Nye stipendiater
+Tonje Gulbransen Lien – veileder: Ingrid Glad.
+David Ruiz Baños – veileder: Frank Prosche.
+Reinaldo A. Gomes Marques – veileder: Geir Storvik.
+
+Ny post.dok.
+Kukatharmini Tharmaratnam – nfr-prosjekt ledet av Ingrid Glad.
+
+http://www.mn.uio.no/?vrtx=
+person-view&uid=kukathat
+
+18
+
+
+
+SCANDINAVIAN JOURNAL OF STATISTICS
+Volume 38 • Number 3 • September 2011
+Contents:
+Image-Based Empirical Importance Sampling:
+An Efficient Way of Estimating Intensities
+Linda V. Hansen, Markus Kiderlen & Eva B. Vedel Jensen
+
+Page
+393
+
+The Additive Risk Model for Estimation of Effect of
+Haplotype Match in BMT Studies
+Thomas H. Scheike, Torben Martinussen & Mei-Jie Zhang
+
+409
+
+Inference on 3D Procrustes Means: Tree Bole Growth,
+Rank Deficient Diffusion Tensors and Perturbation Models
+Stephan Huckemann
+
+424
+
+Quasi-Symmetric Graphical Log-Linear Models
+Anna Gottard, Giovanni Maria Marchetti & Alan Agresti
+
+447
+
+The Loss Rank Criterion for Variable Selection in
+Linear Regression Analysis
+Minh-Ngoc Tran
+
+466
+
+Supervised Classification for a Family of Gaussian
+Functional Models
+Amparo Baíllo, Juan Antonio Cuesta-Albertos & Antonio Cuevas
+
+480
+
+A Method for Bayesian Monotonic Multiple Regression
+Olli Saarela & Elja Arjas
+
+499
+
+Approximate Bayesian Inference for Survival Models
+Sara Martino, Rupali Akerkar & Håvard Rue
+
+514
+
+A Graphical Diagnostic for Identifying Influential
+Model Choices in Bayesian Hierarchical Models
+Ida Scheel, Peter J. Green & Jonathan C. Rougier
+
+529
+
+Controlled Direct and Mediated Effects: Definition,
+Identification and Bounds
+Tyler J. Vanderweele
+
+551
+
+Statistical Analysis of ‘Probabilities of Causation’
+Using Co-variate Information
+Manabu Kuroki & Zhihong Cai
+
+565
+
+Inference for Epidemics with Three Levels of Mixing:
+Methodology and Application to a Measles Outbreak
+Tom Britton, Theodore Kypraios & Philip D. O’neill
+
+579
+
+Bayesian Inference for Contact Networks Given
+Epidemic Data
+Chris Groendyke, David Welch & David R. Hunter
+
+601
+
+Published on behalf of:
+Danish Society for Theoretical Statistics
+Finnish Statistical Society
+Norwegian Statistical Society
+Swedish Statistical Society
+
+
+
+informasjon
+Årskontingent for 2011
+Medlemskontingent i nsf er kr 200,– per år for ordinære
+medlemmer, mens mastergradsstudenter får gratis medlemskap.
+På adresselappen bakpå bladet står det anført siste år vi har
+mottatt kontingent fra deg. Sjekk adresselappen! De som ikke har
+betalt for tidligere år, gjør dette sammen med kontingenten for
+2011. Dersom du mener betalingsinformasjonen ikke stemmer, gi
+beskjed til clara-cecilie.gunther@nr.no. Dersom arbeidsgiveren
+din betaler kontingenten, sørg for at navnet ditt kommer med på
+innbetalingen.
+De største utgiftspostene for nsf er overføringer til lokallagene
+i Oslo, Bergen og Trondheim, nsfs medlemskap i The European
+Mathematical Society (ems) og the International Statistical
+Institute (isi), trykking og utsending av tg og utgifter i forbindelse
+med diverse arrangementer – blant annet støtte til studenter ved
+deltakelse på det norske statistikermøtet.
+For at medlemsregisteret skal være best mulig oppdatert, er
+det viktig at du oppgir eventuell ny post- eller e-postadresse, ved
+å sende meg en e-post. Vi har også opprettet en egen e-postliste
+for nsfs medlemmer, nsf-medlemmer@math.uio.no. Dersom du
+ikke mottar e-post fra denne lista, send meg din oppdaterte
+e-postadresse.
+
+http://www.euro-math-soc.eu/
+http://isi-web.org/
+
+Clara-Cecilie Günther
+Kasserer nsf
+Telefon: 22 85 25 63
+Konto: 0530 27 73299
+
+Betalingsinformasjon
+
+GIRO
+
+Betalingsfrist
+
+24.12.2011
+
+Underskrift ved girering
+
+Kontingent NSF 2011 for . . .
+
+Betalt av
+
+Betalt til
+
+NSF ved Clara-Cecilie Günther
+Norsk Regnesentral
+Postboks 114 Blindern
+0314 Oslo
+Belast
+konto
+Kundeidentifikasjon (KID)
+
+H
+
+Kvittering
+tilbake
+
+Kroner
+
+200
+
+Øre
+
+Til konto
+
+00
+
+0530 27 73299
+
+Blankettnummer
+
+
+
+
+
+Avsender
+Norsk statistisk forening
+v/Clara-Cecilie Günther
+Norsk Regnesentral
+Postboks 114 Blindern
+0314 Oslo
+
+Redaksjon
+Anne Marie Fenstad
+Karl Ove Hufthammer
+Bård Støve
+
+
+

@@ -1,0 +1,1671 @@
+ISSN 0803-8953
+TILFELDIG GANG
+Nr. 3, årgang 9
+September 1992
+
+Utgitt av Norsk Statistisk Forening
+
+INNHOLD
+
+Fra redaktøren
+
+Fra formannen i Norsk Statistisk Forening. Trygve Nilsen
+Utdanning
+
+Dr.polit i statistikk ved Sosialøkonomisk institutt, Univ. i Oslo. Tore Schweder
+Oversikt over dr.gradsprosjekter i statistikk
+Faglige innlegg
+
+Undervisning av uavhengighet. Henrik Dahl
+
+Datamaskin som laboratorium. Thore Egeland
+Konferanser
+
+The Fourth Conference on Teaching Statistics, 1994.
+Preliminary announcement
+Meldinger
+Nytt fra universiteter og høyskoler
+
+Annonse: Amanuensis i statistikk ved Høgskolesenteret 1 Rogaland
+Ånnonse: Førsteamanuensis i statistikk ved AVH, Univ. i Trondheim
+Medlemskap i Norsk Statistisk Forening
+Bidrag til TG
+
+
+
+
+
+Fra redaktøren
+
+Først vil jeg gratulere og takke organisasjonskomiteen og programkomiteen for en vellykket nordisk konferanse på Røros. Professor Arnljot Høyland var spesielt invitert av
+Norsk Statistisk Forening som æresgjest ved konferansen. Arnljot Høyland var, sammen
+
+med Ole Barndorff-Nielsen, den som tok initiativet til den første nordiske konferansen i
+midten av 60-årene.
+
+Konferansen samlet ca. 160 deltagere fra 12 nasjoner, hvorav noe under halvparten var
+fra Norge. Det var spesielt hyggelig at alle de tre baltiske statene var representert. Som
+
+også formannen nevneri sitt innlegg var plasseringen av møtet spesielt vellykket, og det
+faglig varierte programmet var etter min oppfatning meget interessant.
+
+Redaktøren vil prøve å få noen av sesjonsforedragene presentert i TG, og trenger innspill
+fra de som var tilstede eller selv holdt foredrag i de forskjellige sesjonene. Så gi beskjed
+om foredrag dere tror egner seg for TG. Vi starter i dette nummeret med et innlegg fra
+Henrik Dahl om undervisning av uavhengighetsbegrepet i begynnerkurs i statistikk.
+En type innlegg jeg ikke kan huske å ha sett i TG gjelder statistiske problemer angående
+analyse av sportsresultater. Jeg tror slike innlegg kan ha bred interesse, og oppfordrer
+derfor sportsinteresserte til å sende inn artikler om ”sportsstatistikk”.
+
+Jan F. Bjørnstad
+
+
+
+Fra formannen i Norsk Statistisk Forening
+Sommeren er over og vi ér vel alle tilbake på arbeid full av energi og
+virketrang.
+
+Norsk Statistisk Forening stod som arrangør av den 14. Nordiske Kon-
+
+feranse i Matematisk Statistikk. Møtet ble holdt på Røros Hotel i dagene
+15. - 19. juni. Faglig sett er mitt inntrykk at programkomitéen hadde satt
+sammen et program med noe av interesse for enhver smak. Uten forkleinelse for de øvrige foredragsholderne har jeg lyst til å nevne at jeg falt for
+Hermann Thörissons foredrag om koblingsteknikker i sannsynlighetsreging.
+Det var herlig i all denne bladingen av transparenter å få en foredragsholder
+som brukte tavle og lot oss tilhørere få tid til å tenke underveis.
+
+Organisasjonsmessig fungerte det svært fint å ha møtet på Røros selv om
+det medførte skifte av transportmiddel for de fleste. Dette ble kompensert
+
+av den ro en fikk på konferansehotellet. Det skaper også klart bedre kontakt
+mellom deltagerne å * ha all moro på samme sted” for å bruke den forrige
+formanns ord. Det er lettere å bli kjent med nye personer når en møtes i
+baren på det samme hotellet enn når gamle busser går ut på byen sammen
+og lar de andre bli tilbake. Men en *clusteranalyse” ville nok ha funnet ut
+at nasjonalitet var en god forklaringsfaktor for det uformelle samæret.
+Norsk Statistisk Forening har fått en henvendelse fra Statistiska Samfundet i Finland der de lufter tanken om en samorganisering av De Nordiske
+Statistikermøtene og De Nordiske Konferansene i Matematisk Statistikk.
+Selv om styret i vår forening klart ser at der er emner av felles interesse,
+
+føler vi at emneut valget i De Nordiske Konferansene i Matematisk Satistikk
+
+rangeres andre steder enn i de store byene. Konferansesalen på Røros Hotel
+kunne f.eks. ikke tatt flere tilhørere. Vi er derfor ikke udelt positive til
+tanken om samlokalisering i sted og tid.
+
+Det skrives og snakkes en god del om den økende tilstrømningen av
+
+studenter til universiteter og høgskoler. Her i Bergen stemmer det nok at
+antallet nye studenter er stort. Vi ser imidlertid lite til økningen høyere
+oppe i emnene. Tilgangen på hovedfagsstudenter er heller liten. Da jeg i
+vår var sensor i Oslo, fikk jeg det samme inntrykket derfra.
+
+Vi har hatt besøk av professor Per Mykland, Department of Statistics,
+University of Chicago. Det er meget hyggelig at vår gamle student husker
+sitt Alma Mater. For oss betyr hans jevnlige besøk om somrene en verdifull
+kilde til informasjon om det som flyter som uskrevet blant statistikerne i
+
+USA. Jeg tenker ikke da på sladderhistorier, men på på den informasjon
+som befinner seg i systemet og som ikke blir skrevet ned. For oss i utkanten
+er dette nesten like nyttig som å dra på møter.
+Trygve Nilsen
+
+@
+
+er vidt nok og at de samler et passende antall deltagere slik at de kan ar-
+
+
+
+DR.
+
+POLIT.
+
+I
+
+STATISTIKK VED SOSIALØKONOMISK INSTITUTT,
+
+UNIVERSITETET
+
+I
+
+OSLO.
+
+Tore Schweder
+
+Det finnes to veier til doktorgrad i statistikk i Oslo. Den
+brede vei er dr. scient. ordningen ved Matematisk institutt.
+tillegg kan en ta dr.polit ved Sosialøkonomisk institutt.
+
+I
+
+Det er et generelt reglement for dr.polit. Dette regulerer
+
+også dr.polit. i statistikk. I tillegg har Sosialøkonomisk
+institutt gitt utfyllende regler for dr.polit. i statistikk.
+
+Som andre dr. studier består vår forskerutdanning av en
+
+avhandling under veiledning og en studiedel. Avhandlingen skal
+ikke ha dårligere kvalitet enn til dr. scient. Dette kommer
+
+ganske sikkert de sakkyndige til å påse når de første
+avhandlingene skal vurderes. Hver doktorkandidat må delta
+jevnlig på forskningsseminar, fortrinnsvis på Sosialøkonomisk
+institutt. Minst en gang i året skal kandidaten presentere et
+arbeid knyttet til avhandlingen på instituttets
+forskningsseminar. Kursdelen av studiet består av minst 20
+vektall. Et kurs i vitenskapsteori inngår obligatorisk. Dette
+kurset er felles for alle dr. polit. kandidater. Fra tid til
+annen gis det doktorgradskurs i statistikk av de tre fast
+
+ansatte statistikerne på Sosialøkonomisk institutt.
+
+Dette er
+
+langt fra tilstrekkelig til å utgjøre et kursprogram på
+
+doktorgradsnivå, selv om det kan suppleres med noen kurs i
+sosialøkonomi som er velegnet for statistikere. Heldigvis er
+det et godt kurstilbud på Matematisk institutt som våre
+doktorkandidater kan utnytte. Det er også tilbud på Institutt
+for Informatikk og etter hvert også på Seksjon for medisinsk
+statistikk. Uten godt samarbeid - forhåpentligvis to-veis og
+ikke bare snylting, med andre statistikere ved Universitetet
+ville dr.polit i statistikk vært umulig.
+
+For opptak til doktorgradsstudiet i statistikk kreves
+
+embetseksamen,
+
+fortrinnsvis i statistikk. Kandidater med
+
+embetseksamen i andre fag enn statistikk vil også kunne bli
+
+tatt opp, når en etter en vurdering i hvert enkelt tilfelle
+har funnet at utdanningen er velegnet for dr.polit-studium i
+statistikk.
+
+Av våre for tiden tre doktorkandidater er det bare Heldal som
+har hovedfag i statistikk. Aamodt er sivilingeniør i
+petroleumsgeologi og Skrondal er statsviter. Jeg tror de tre
+
+vil skrive under på at vår smale vei til doktorgrad i
+statistikk ikke er en snarvei. Vårt siktemål er å utdanne
+dr.polit’er i anvendt statistikk. Kandidater med embetseksamen
+i andre fag må lære seg det nødvendige i statistikk og
+matematikk. Mange betydelige statistikere har kommet sent til
+faget, for eksempel Fisher. Om våre kandidater ender opp som
+forskere innenfor sitt fagområde istedenfor som frittsvevende
+statistiker, mener vi de vil kunne være til nytte innen sitt
+fag fordi de kan vesentlig mer statistikk enn sine kollegaer.
+De kan også bli nyttige brobyggere mellom de respektive fagene
+og statistikk.
+
+
+
+OVERSIKT OVER PÅGÅENDE
+DR.GRADSPROSJEKTER I STATISTIKK.
+
+DR. POLIT, Sosialøkonomisk institutt, Univ. i Oslo.
+Navn:
+
+Aamodt, Geir
+
+Tema:
+
+Veileder:
+
+Treveis kanonisk regresjon.
+Tore Schweder
+
+Planlagt ferdig:
+
+1995
+
+Prosjektbeskrivelse:
+Målet med doktorgradsprosjektet er å utvikle en modell som kan nyttes til å studere fenomener
+som varier i rom og tid (spatiale og temporale data). Responsmatrisen er gitt som en treveis
+
+array, og kovariat informasjon er gitt for både observasjonssteder og observasjonstidspunkter.
+Ideen er å komme fram til en basis i responsrommet, samt kanoniske regresjonsparametre for
+kovariatene. Til hver retningsvektor i basisen knytter det seg to regresjonsparametre. Disse
+
+karakteriserer forklaringsvariablene for observasjonsstedene og observasjonstidspunktene.
+Navn:
+
+Heldal, Johan
+
+Tema:
+Veileder:
+
+Kanonisk regresjon i generaliserte lineære modeller.
+Tore Schweder
+
+Planlagt ferdig:
+
+I løpet av året
+
+Prosjektbeskrivelse:
+
+Kanonisk regresjon er en metode for å finne latente strukturer i multivariate regresjonsmodeller med multivariat respons. I minste kvadraters k.r. er metoden ekvivalent med en veiet
+singulærverdi dekomposisjon av regresjonsparametermatrisen.
+
+Avhengig av veiingen samt
+
+valg av x og y variable, kan en rekke kjente multivariate metoder fas som spesialtilfeller,
+deriblant prinsipalkomponentanalyse, kanonisk korrelasjon og korrespondanseanalyse.
+
+Me-
+
+toden henger også nøye sammen med lav rang regresjon. Dr.grads arbeidet tar sikte på å
+finne ut hvordan tilsvarende latente variable og lav rang regresjon kan gjennomføres i en
+parametrisk sammenheng med generaliserte lineære modeller med multivariate responser.
+
+Navn:
+Tema:
+
+Skrondal, Anders
+Forventnings og kovairansstrukturerte modeller (LISREL), spesielt for
+kategoriske data.
+
+Veiledere:
+
+Petter Laake og Anders Rygh Swensen
+
+Planlagt ferdig:
+
+August 1994
+
+Prosjektbeskrivelse:
+
+Muthen har generaliserte LISREL-metodikken til dikotome, ordinale og sensurerte data.
+Egenskapene til enkelte av metodene studeres ved analyse og Monte Carlo eksperimentering. Forslag til forbedring av metodene blir også lagt fram og studert.
+
+
+
+DR.SCIENT, Matematikk og statistikk - Univ. i Trondheim AVH
+Navn:
+Tema:
+
+Hammervold, Randi
+Teori for analyse av struktur modeller - økonometri,
+
+Ansvarlig veileder:
+
+Steinar Engen
+
+Faglig veiledere:
+
+Petter Laake
+
+Planlagt ferdig:
+
+1995
+
+Prosjektbeskrivelse.
+
+Dr.scient-studiet vil omfatte teori for struktur modeller, med hovedvekt på mål for tilpasning
+og metoder for å behandle manglende data. Dette er to viktige problemstillinger ved analyse
+av økonometriske modeller.
+
+
+
+UNDERVISNING AV UAVHENGIGHET.
+Amanuensis Henrik Dahl
+Agder Distriktshøgskole
+
+INNLEDNING.
+
+Begrepet uavhengighet har til alle tider hatt en spesiell plass i
+sannsynlighetsregning og statistikk.
+Kolmogoroff [1] hevder at uavhengighet er det som gjør
+sannsynlighetsregning til noe mer enn målteori:
+
+"Historically, the independence of experiments and random
+variables represents the very mathematical concept that has
+given the theory of probability its peculiar stamp."
+
+Selv om Kolmogoroff ikke tar opp problemene med den praktiske bruk
+av uavhengighetsantakelsen, peker han på problemet:
+"In consequence, one of the most important problems in the
+philosophy of the natural sciences is - in addition to the well
+known one regarding the essence of the concept of probability to make precise the premises which would make it possible to
+regard any given real events as independent. This question,
+however, is beyond the scope of this book."
+
+Von Mises [2] prøver å forstå hva stokastisk uavhengighet betyr ved
+hjelp av sine "kollektiver". Han vurderer den vanlige definisjonen av
+uavhengighet av begivenheter som utilfredsstillende, men slår seg til
+tåls med sin "klollektiv"- versjon av uavhengige forsøk.
+Kac [3] kommenterer begrepet statistisk uavhengighet slik:
+"This notion originated in probability theory and for a long time
+was handled with vagueness which bred suspicion as to its being
+a bona fide mathematical notion."
+
+Kac viser at uavhengighet faktisk eksisterer som et matematisk objekt,
+i alle fall i matematikk. Heller ikke Kac tar for seg problemene med å
+bruke uavhengighet som modellantakelse i statistikk.
+Det er derfor ikke til å undres over at nybegynnere i statistikk har
+problemer med å håndtere begrepet uavhengighet.
+
+Å gi god undervisning om uavhengighet er en utfordring til lærere som
+gir kurs i sannsynlighetsregning og statistikk!
+
+
+
+UNDERVISNINGSPROBLEMER KNYTTET TIL
+UAVHENGIGHETSBEGREPET.
+
+I innføringskurs i statistikk støter en på antakelsen om at data kan
+oppfattes som realisasjoner av uavhengige stokastiske variable.
+Jeg skal ta for meg problemet å formidle til studentene
+
+meningsinnholdet i begrepet uavhengighet av stokastiske variable på
+en slik måte at de (forhåpentlig) selv skal kunne skjelne mellom
+situasjoner der antakelsen om uavhengighet er rimelig og der den ikke
+er det.
+
+Den formelle definisjonen av uavhengighet av de stokastiske variable
+Xj, Xp, === Kg:
+P(X=x,0X,=x,0 «=== OX,=x,)= P(X =x,) P(X=x,)- -- P(X,=x,)
+for alle mulige verdier av
+
+sier nybegynnere i sannsynlighetsregning og statistikk lite som kan
+være til nytte når det gjelder å skille mellom situasjoner der
+uavhengighet er rimelig og der dette ikke er tilfelle.
+For å anskueliggjøre selve definisjonen foreslår jeg begrepet
+"skotskrutet simultanfordeling".
+
+Uavhengighet av stokastiske variable betyr at simultanfordelingen er
+gitt som produktet av marginalfordelingene.
+
+Vi kan tenke oss en anskueliggjørelse av dette ved å se for oss hver av
+marginalfordelingene som lyskastere plassert langs aksene i hver av
+marginalfordelingene. Intensiteten av de ulike lyskasterne
+representerer marginalfordelingene.
+
+Simultanfordelingen framkommer som det mønsteret de marginale
+lysbuntene danner når de krysser hverandre.
+
+I tilfellet méd uavhengighet av to stokastiske variable vil
+simultanfordelingen framstå som et "skotskrutet mønster".
+
+Dette "skotskrutede" mønsteret blir mitt forsøk på å anskueliggjøre hva
+den formelle definisjonen av uavhengighet betyr.
+
+På forelesningene pleier det å være studenter med skotskrutede klær,
+som kan illustrere dette.
+
+
+
+Denne anskueliggjøringen har den fordel av vi direkte også kan
+illustrere en type ukorrelerthet, og hvorfor uavhengighet medfører
+ukorrelerthet, men ikke omvendt.
+
+Et plagg med speilsymmetrisk mønster vil gi et eksempel på
+ukorrelerthet, fordi de positive og negative bidrag til kovariansen vil
+være like. At speilsymmetri ikke er det samme som skotskruter, viser
+den nevnte implikasjonen.
+
+Det jeg til nå har nevnt er bare egnet til å utdype forståelsen av den
+formelle definisjonen av uavhengighet av stokastiske variable.
+Det er nok mange studenter i elementærkurs i sannsynlighetsregning
+og statistikk, som aldri har noe utbytte av slike formelle definisjoner.
+Allikevel kan disse personene senere i sin yrkeskarriere komme ut for
+situasjoner, der de må vurdere statistiske undersøkelser, som bygger
+på antakelsen om uavhengighet.
+
+For å gi selv slike personer en viss mulighet til å kunne skjelne mellom
+berettiget og uberettiget bruk av antakelsen om uavhengighet, velger
+jeg å gi en del eksempler.
+
+EKSEMPLER SOM ILLUSTRERER AVHENGIGHET OG
+UAVHENGIGHET.
+
+Når vi skal trekke slutninger på grunnlag av data, trenger vi et begrep
+som svarer til at data er nye "friske" observasjoner uten "smitte" fra de
+observasjonene vi allerede har samlet inn. I motsatt fall trenger ikke
+nye data representer ny informasjon.
+
+Eksempel 1.
+
+Noen skoleelever er blitt bedt om å veie en stein gjentatte ganger med
+en fjærvekt. Lærerens hensikt med å sette elevene til å registrere
+vektene er å finne ut noe om påliteligheten av denne veieprosessen.
+Elevene bryr seg ikke om å veie steinen mer enn en gang.
+
+La oss si at steinen veies til å ha vekten X(gram).
+
+For at læreren ikke skal oppdage at elevene jukser, oppgir de dessuten
+å ha fått vektene X+lg, X+2g, ------- »X+20g, X-1g, X-2g, --------- X-20g.
+For ytterligere å kamuflere svindelen bytter de om på rekkefølgen slik
+at de 41 oppgitte vektene kommer hulter til bulter. -
+
+
+
+Om da læreren lar seg lure og behandler dette som 41 målinger av
+vekten av steinen, har han i realiteten godtatt at bare en observasjon
+er blitt til 41 observasjoner.
+
+Enhver statistisk analyse av de 41 vektene vil være det rene bedrag.
+Det eneste datasettet i realiteten har å si er at steinen veier omtrent X.
+Vi har ikke data som er relevante for å si noe om nøyaktigheten av
+målingene.
+
+Dette eksemplet forklarer hvorfor vi ikke kan klare oss uten en
+antakelse av typen uavhengighet.
+
+Jeg vil forsøke å forklare hvilke begrensninger denne antakelsen
+legger på datagrunnlaget.
+
+En grunnleggende ide‘ i statistisk metodelære er at vi ved å samle inn
+mange observasjoner om det samme fenomenet kan komme fram til
+mer pålitelige konklusjoner enn om vi har få observasjoner.
+
+Kvaliteten av konklusjonen blir gradvis bedre etter hvert som
+
+datamengden øker. Det er typisk slik at bedringen avtar med økende
+antall observasjoner. Dette er nettopp innholdet i kvadratrotregelen:
+For å bedre nøyaktigheten av en statistisk undersøkelse med en
+viss faktor, må vi øke antall observasjoner med omtrent
+kvadratet av faktoren.
+
+Forutsetningen for at dette skal være riktig er at hver ny observasjon
+tilfører oss ny informasjon.
+
+Faktisk trenger vi her bare ukorrelerthet.
+
+Eksempel 2.
+
+Fire avdelinger besvarer hver et spørreskjema som vi bruker til å
+samle inn data med. Hvis de fire avdelingen konfererer med
+hverandre før skjemaene fylles ut, får vi avhengighet. Dette gjør at
+datasettet i realiteten ikke består av fire observasjoner - kanskje bare
+en.
+
+Eksempel 3.
+
+Nedbøren pr. døgn måles i Kristiansand 12., 13., 14., 15., 16., 17., 18., 19.
+og 20.februar 1992. Disse dataene vil rimeligvis måtte oppfattes som
+
+realisasjoner av avhengige stokastiske variable, siden regnvær/opphold
+har en tendens til å holde seg en tid.
+
+
+
+10
+
+Eksempel 4.
+
+Nedbøren pr. døgn måles i Kristiansand 12.2.1992, 12.2 1993, 12.2 1994
+og 12.2 1995. Disse dataene er det ikke urimelig å oppfatte som
+realisasjoner av uavhengige stokastiske variable, siden avhengigheten
+mellom været på tidspunkter med ett års mellomrom neppe er så stor.
+For at det skal være rimelig å oppfatte data som vi har samlet inn som
+uavhengige, må vi nullstille "måleapparaturen" mellom hver
+observasjon. Vi må også sikre oss at det ikke lekker informasjon
+mellom eksperimentene som frembringer de ulike observasjonene.
+
+Eksempel 5.
+
+Det går en historie om en politimester som i en årrekke foretok
+trekninger i et klubblotteri. Det ble hvert år solgt 1000 lodder
+nummerert fra 0 til 999, og hvert år ga bare ett av disse gevinst. En
+statistisk kyndig person fikk se en oversikt over numre på vinnerlodd
+over en årrekker og oppdaget at det var en påfallende jevn fordeling
+av vinnerlodd på intervallene 0-99, 100-199, 200-299, 300-399, 400-499,
+500-599, 600-699, 700-799, 800-899, 900-999. Da dette ble fremholdt for
+politimesteren, forklarte han at han hadde sørget for at de ulike
+intervallene ble likelig begunstiget med vinnerlodd, slik at trekningen
+ble tilfeldig! Den velmenende politimesteren hadde altså lagt inn
+avhengighet i håp om å oppnå tilfeldighet.
+
+Uavhengighet skal altså sørge for at det ikke finner sted
+informasjonssmitte mellom observasjonene.
+
+Dette betyr ikke at observasjonene etter hvert som de samles inn ikke
+etter hvert gir et gradvis klarere bilde av det vi ønsker å finne ut ved
+undersøkelsen!
+|
+
+For studenter med mer matematisk modenhet kan det være en ide‘ å
+knytte uavhengighet av stokastiske variable til begrepet ortogonalitet.
+Hvis vi tenker oss de uavhengige stokastiske variable som ortogonale
+vektorer, og det stokastiske element som bevegelse, vil uavhengigheten
+svare til at de stokastiske vektorene "ikke projiserer bevegelse på
+hverandre".
+
+Dette ortogonalitetsbegrepet passer sammen med begrepet uavhengige
+forsøk.
+
+Det er verd å merke seg at Von Mises [2] er skeptisk til uavhengighet
+bortsett fra i forbindelse med uavhengige forsøk.
+
+
+
+11
+
+Begrepet uavhengige forsøk er også rent begrepsmessig klarere enn
+uavhengighet av begivenheter i og med at vi da vil ha eliminert
+muligheten for informasjonnsmitte uansett hva som skjer og uansett
+sannsynlighetsstrukturen i hvert av forsøkerne.
+
+VIL VI KJENNE IGJEN UAVHENGIGHET I PRAKSIS?
+
+Jeg tror det er vanskeligere å forstå begrepet uavhengighet enn andre
+begreper i sannsynlighetsregning og statistikk.
+For å illustrere hva uavhengighet betyr i praksis har jeg laget
+demonstrasjonsmateriell i form av tre snorer med plastperler i fargene
+blå og gul.
+
+En av snorene er tredd slik at fargene på etterfølgende perler er
+uavhengige.
+
+De to andre snorene er tredd slik at fargene på etterfølgende perler er
+avhengige.
+
+Genereringen av disse perleradene kan f.eks. gjøres ved hjelp av
+
+lommeregner. Den framgangsmåten jeg brukte er behandlet i Dahl [4].
+
+Jeg ber studentene å angi hvilken av perleradene som er uavhengige.
+Studentene oppdager snart at det er en påfallende forskjell mellom de
+tre perleradene når det gjelder hvordan de to fargene er blandet:
+I en av perleradene er fargene svært godt blandet, slik at det blir få
+lange serier med samme farge.
+
+En annen har mange lange serier med samme farge.
+
+Den tredje synes å være en mellomting mellom de to andre.
+Få studenter tror at perleraden med lange serier med samme farge
+svarer til uavhengighet. Dette har de rett i. Faktisk er denne
+perleraden generert med en seriekorrelasjon på +0.7.
+
+Derimot har studentene problemer med å bestemme seg om hvilke av
+de to andre perleradene som svarer til uavhengighet.
+Dette er bemerkelsesverdig, siden perleraden med få lange serier er
+generert med en seriekorrelasjon på -0.7.
+
+Det synes som om folk tror at uavhengighet betyr at det finnes en
+tilbøyelighet til å unngå for lange serier med samme farge.
+
+
+
+12
+
+En mer folkelig måte å tolke dette på i tilknytning til spillsituasjoner
+er at folk tror tilfeldigheten synes synd på den som har tapt lenge.
+Dette poenget kan utdypes ytterligere ved å foreta simuleringer fra
+geometriske fordelinger f.eks. ved lommeregner (Dahl [5]).
+
+MISBRUK AV UAVHENGIGHET ANSKUELIGGJORT VED
+EKSEMPLER.
+
+Brukere av statistikk kommer ofte i skade for å anta uavhengighet i
+situasjoner der dette ikke er rimelig.
+
+Følgende eksempel er hentet fra New Scientist September 1991.
+Eksempel 6.
+
+Flytypen Airbus A-320 er utstyrt med ikke mindre enn 5 datamaskiner
+som arbeider i parallell. Det betyr at hvis en svikter, trer neste inn
+osv. Man mener at hver datamaskin svikter med en sannsynlighet på
+0.00001 pr. flytime. Av dette trekker man så slutningen at
+sannsynligheten for svikt er 0.0000115 pr. flytime.
+
+Her har man stilltiedende antatt at de 5 datamaskinene virker eller
+svikter uavhengig av hverandre.
+
+Det at allerede 2 slike maskiner har falt ned, antakelig på grunn av
+problemer med datamaskinene, gjør i alle fall ikke antakelsen om
+uavhengighet mer troverdig.
+
+Jeg har selv gjennom tidene opplevd mye useriøs bruk av statistiske
+metoder. Et særlig alvorlig eksempel der antakelsen om uavhengighet
+ble misbrukt støtte jeg på i 1971 i en psykologisk anvendelse.
+
+Eksempel 7.
+
+En del personer gjennomgår en psykologisk test der de skulle finne
+rett svar på en del spørsmål. Fosøket ble gjennomført 20 ganger. Data
+som samles inn er:
+
+Xijk=1 hvis person nr.i svarer rett på spørsmål nr.j
+i gjentakelse nr. k av forsøket
+=0 ellers
+
+Det ble antatt at alle observasjonene kunne oppfattes som realisasjoner
+av uavhengige stokastiske variable.
+
+
+
+13
+
+Jeg undret meg på om forsøksspersonene etter hvert som de gang på
+gang svarte på de samme spørsmålene lærte og derved etter hvert
+gjorde det bedre.
+
+Inspeksjon av data viste at for hver person gikk andelen av korrekte
+svar opp etter hvert som de samme spørsmålene ble stilt gang på gang.
+Da jeg fastslo at dette umulig kunne være forenlig med antakelsen om
+at data var "uavhengige gjentakelser av samme forsøk", ble jeg møtt
+med argumentet at i så fall var formuleringen "uavhengige gjentakelser
+av samme forsøk" uten mening i psykologi!
+
+Antakelig gikk dette datasettet fra samme øyeblikk over til å bli |
+"mjukdata".
+
+Begrepet "mjukdata" ble omtalt av Tore Dalenius i en paneldiskusjon
+on statistikkens undervisningsproblemer på IV Nordiske Konferanse i
+Matematisk Statistikk, Jyvaskyla 1971.
+
+Innlegget til Dalenius gjorde et sterkt inntrykk, og har senere vært en
+støtte når jeg har kommet ut for useriøse anvendelser av statistikk.
+
+Jeg vil forsøke å gjengi meninginnholdet i innlegget til Tore Dalenius:
+Mange brukere av statistiske metoder, som blir konfrontert med
+innvendinger mot den måten de bruker statistiske metoder på, svarer
+med å hevde at deres data er "mjukdata". Med dette menes at data er
+samlet inn på en slik måte at det neppe er rimelig å godta vanlige
+statistiske modellforutsetninger. Allikevel mener de at disse data er
+verdifulle og at de analysert på den riktige måten vil gi verdifull
+informasjon.
+
+Det at statistikere vegrer seg for å analysere slike data, tolker de som
+vrangvilje og inkompetanse fra statistikereres side.
+En annen mulig tolkning av begrepet "mjukdata" (som jeg tror Tore
+Dalenius selv delte) er at dette er data, som det vil være svært
+risikabelt å bruke som beslutningsunderlag.
+
+Et typisk trekk ved "mjukdata" er at det er helt urealistisk å anta
+uavhengighet. Om psykologer og andre samfunnsvitere som til daglig
+omgås med "mjukdata", hadde en klar forestilling om hva som faktisk
+ligger i antakelsen om uavhengighet, ville kanskje forholdet mellom
+fagstatistikerne og disse gruppene bli mindre anstrengt.
+
+
+
+14
+
+DISKUSJON AV UAVHENGIGHETSANTAKELSEN I NOEN
+LÆREBØKER.
+Av det jeg til nå har skrevet fremgår det at jeg er bekymret for om
+studenter i elementærkurs i sannsynlighetsregning og statistikk
+virkelig forstår betydningen av begrepet uavhengighet. En mulig
+årsak til manglende forståelse av uavhengighet kan være at det legges
+for liten vekt på dette begrepet i lærebøker i sannsynlighetsregning og
+statistikk.
+
+For å undersøke om dette siste kan være tilfelle har jeg foretatt en
+undersøkelse av hvor mange sider som er brukt på begrepet
+uavhengighet i 27 lærebøker i sannsynlighetsregning og statistikk, som
+jeg fant på biblioteket til Agder Distriktshøgskole.
+
+ADH’s bibliotek har selvsagt ikke alle aktuelle bøker av nevnte slag, så
+undersøkelsen må ikke tas alt for alvorlig.
+
+Det er også mulig at jeg ikke har funnet alt om uavhengighet i de
+undersøkte bøkene.
+
+Allikevel tror jeg at en ikkestatistiker som undersøkte de 27 bøkene for
+å kartlegge hvor stor vekt statistikere legger på begrepet uavhengighet
+vil komme fram til samme konklusjon som meg, nemlig:
+
+UAVHENGIGHET SYNES IKKE Å SPILLE NOEN SENTRAL ROLLE I
+SANNSYNLIGHETSREGNING OG STATISTIKK.
+Resultatet av undersøkelsen var:
+
+Hyppighet
+
+boOORmdOOO RI
+pod
+
+bo
+(er)
+
+(HOR
+
+no Om
+
+AIRARGNEO
+
+Oo
+
+Antall sider brukt på
+uavhengighet
+
+
+
+15
+
+Denne undersøkelsen viser et eksempel på et villskudd (26), som er
+svært interessant. Villskuddet er Hodges & Lehmann [6]. Foruten
+skikkelige definisjoner på uavhengighet av begivenheter og stokastiske
+variable har de et helt kapittel (kapittel 3) som hovedsakelig tar opp
+når det er realistisk å bruke uavhengighetsantakelsen i praksis.
+
+HVOR KAN MAN SÅ FINNE SKIKKELIGE DRØFTINGER AV NÅR DET
+ER AKTUELT Å BRUKE UAVHENGIGHETSANTAKELSEN?
+Som nevnt antyder Kolmogoroff at det er viktig:
+
+"To make precise the premises which would make it possible to
+regard any given real events as independent."
+
+Jeg søkte derfor i ulike bøker om sannsynlighetsregning og statistikk
+etter drøftinger av dette problemet.
+
+Mye av den "klassiske" litteraturen, f.eks. Fisher var en stor skuffelse.
+Derimot ser det ut til at Bayesianere har tatt Kolmogoroffs oppfordring
+mer alvorlig.
+
+Jeg vil avslutte med å gjengi en smakebit av diskusjonen av
+uavhengighet i De Finetti [7] (Tittelen: Theory of Probability er
+misvisende i den forstand at boka i høy grad tar opp statistiske
+problemer).
+
+De Finetti har i alle fall følgende 5 versjoner av begrepene
+uavhengighet/avhengighet:
+
+Logisk, lineær, ikkelineær, stokstisk, betinget stokastisk.
+I tillegg har De Finetti sin egen svakere versjon av antakelsen om
+"uavhengig identisk fordeling" som kalles "exchangeability".
+Jeg nevnt tidligere at antakelsen om at data kan oppfattes som
+uavhengige og identisk fordelte ikke utelukker muligheten at vi etter
+hvert som vi får mer data, kan komme fram til sikrere kunnskap. En
+del studenter synes dette er rart, og det er mitt bestemte inntrykk at
+dette langtfra er de svakeste studentene.
+
+De Finettis svar på dette "paradokset" er at det vi egentlig mener er at
+data kan oppfattes som stokstisk uavhengige gitt verdien av
+parameteren. Her brukes altså begrepet betinget stokastisk
+uavhengighet.
+
+For ikke-Bayesianere må vi nøye oss med å forklare studentene at det
+vi egentlig mener med uavhengighet i dette tilfellet er uavhengighet
+for en person som kjenner verdien av parameteren.
+
+
+
+16
+
+LITTERATUR
+
+[1] Kolmogorov, A.N.: Foundations of the Theory of
+Probability. Chelsea 1950. Russisk utgave 1933.
+
+[2] Von Mises R.: Wahrscheindlichkeit, Statistik und Wahrheit.
+[3] Kac, M.: Statistical independence in probability, analysis and
+number theory. Wiley 1959.
+
+[4] Dahl, H.: Statistikk på lommeregner. ADH-serien 11, 1989.
+[5] Dahl, H.: Ta sjansen med Casio, ADH skrifter 1982:5.
+
+[6] Hodges, Lehmann : Basic Concepts of Probability and Statistics.
+Holden Day 1970.
+
+[7] De Finetti B.: Theory of Probability 2 bind, Wiley 1974-1975.
+
+
+
+17
+
+Datamaskinen som laboratorium
+Thore Egeland
+
+Forsøksplanlegging er utvilsomt et av kjerneomradene i statistikken. Fagfeltet ble
+utviklet i mellomkrigstiden av pionerer som R.A. Fisher og F. Yates i forbindelse med
+landbruksforsøk. Med tiden har en en rekke nye anvendelsesområder kommet til. Medisin
+og kjemometri er eksempler på andre områder som har dratt nytte av forsøksplanlegging.
+Imidlertid er metodene fra dette fagfeltet nyttige og relevante i alle sammenhenger der det
+er viktig å gjøre optimale forsøk som er lette å analysere. Dette innlegget beskriver en
+relativ ny anvendelse: Forsøk på datamaskinen. Anta at et dataprogram med innvariable
+Z1,++.;%n leverer svaret y (responsvariablen). I mange sammenhenger vil vi kjøre programmet en rekke ganger med variende inndata. Dersom antall mulige kjøringer er meget stort
+eller hvis hver kjøring er kostnadskrevende, kan det tenkes at vi må gjøre et kresent utvalg
+
+av de mulige kjøringer. Hvilke forsøk som skal gjøres kan velges ut ved hjelp av metoder
+
+fra forsøksplanlegging.
+
+Når det gjelder analysen av dataene, kan forsøksplanlegging og
+
+statistiske metoder mer alment være til nytte.
+
+Anvendelser i oljeindustrien har motivert vår interesse for fagfeltet. I forbindelse med
+beslutninger om utbygging av olje- og gassfelter gjennomføres et stort antall reservoarsimuleringer. Resulatet av disse simuleringene kan være en produksjonsprofilsom forsøksvis
+beskriver hvor mye olje som vil bli produsert som en funksjon av tid. Disse simuleringene
+er av betydning for om beløp opp mot 20 mrd NOK skal investeres og i tilfelle hvordan.
+Det er derfor viktig at de gjennomføres slik at grunnlaget for beslutninger blir best mulig.
+Ideelt sett kunne reservoaringeniøren tenke seg å gjennomføre et meget stort antall simuleringer. Problemet er at beregningene på datamaskiner er svært kostbare og tidkrevende
+(en kjøring kan ta 16-20 cpu timer) slik at bare et beskjedent antall kan gjennomføres.
+Det kan innvendes at datakraften i fremtiden vil bli så formidabel at problemet med beregningstunge programmer vil bli av underordnet betydning. Vi tror ikke at dette er en
+vesentlig innvending. All erfaring tilsier at brukerne hele tiden vil utvide modellene slik at
+tilgjengelig datakraft vil bli presset til det ytterste. Videre er statistiske metoder relevant
+også dersom man kan gjøre et ubegrenset antall kjøringer. Problemet kan da dreie seg om
+datareduksjon med tanke på å beholde oversikten.
+
+Statoil, Norsk Hydro og etterhvert Conoco og NTNF har finansiert NRs (Norsk Regnesentrals) prosjekter knyttet til forsøksplanlegging og reservoarsimulering. Behovet for
+spesialsydd verktøy for å gjennomføre studier meldte seg ganske snart fra oljeindustrien.
+De vanlige statistikkpakkene dekker ikke behovet til reservoaringeniører; dels fordi de er
+for vanskelig å bruke, dels fordi de ikke inneholder alle metodene som trengs. Ved NR har
+vi utviklet det brukervennlige programmet DECISION. Dette produktet er spesialtilpasset
+oljeindustriens behov. Utviklingen av DECISION vil fortsette ut 1993. Scandpower vil
+
+
+
+18
+
+markedsføre og vedlikeholde programmet. Etterhvert vil Scandpower og NR undersøke om
+det er behov og betalingsdyktige kunder innen andre deler av oljebransjen og samfunnet
+generelt.
+
+Hva er spesielt med data—eksperimenter?
+Et eksempel som skyldes Hotelling illustrerer noen viktige poenger. Anta at vi skal veie to
+objekter på en skålvekt i to veiinger. En rett frem metode er å veie objektene hver for seg.
+P+Q av
+Imidlertid kan vi være smarte. Med en skalvekt kan vi først veie summen S =
+
+objektene og så differansen D = P—Q. Anslag på vektene fremkommer da som (5 + D)/2
+og (5 — D)/2. Dersom presisjonen ved hver av målingene er den samme, har vi ved hjelp
+av den smarte fremgangsmåten halvert estimeringsvariansen. Dette er et resultat som også
+ikke statistikere kan forstå og glede seg over: Poenget er at det er optimalt å veie begge
+objektene to ganger.
+
+Det er vesentlige forskjeller mellom veie-eksemplet over og de anvendelsene vi har i
+tankene. Veie-eksempelet er stokastisk i den forstand at forskjellige veiinger av samme
+objekt typisk gir forskjellige resultater. Vårt dataprogram leverer alltid samme resultat
+med samme inngangsdata; vi får til og med gjentatt de samme numeriske avrundingsfeil.
+Reservoarsimulatoren inneholder ingen tilfeldig tall generatorer. Dataprogrammer: som
+involverer trekking av tilfeldige tall vil kunne ligne mer på klassiske eksempler som veie-
+
+eksemplet over. Imidlertid er vi i en deterministisk situasjon lik den vi har i tankene i
+resten av dette notatet dersom frøet til den tilfeldige tall generatoren inngår som en del av
+inndataene brukeren gir.
+
+I våre anvendelser er visse kombinasjoner av inndataene så usannsynlige at vi ikke kan
+ta oss råd til å prøve dem. Det er med andre ord forbudte punkter.
+I klassisk forsøksplanlegging legges det stor vekt på å estimere de forskjellige effekter.
+
+For å kunne skille mellom ulike effekter er ortogonalitet viktig siden de sikrer at effektene
+estimeres uavhengig av hverandre. Dette er et underordnet poeng for våre oppdragssgivere.
+Vårt hovedmål er å lage en presis prediktor eller interpolator som kan fungere som en
+surrogat simulator. Den opprinnelige simulatoren blir typisk kjørt 10-50 ganger med 5
+til 15 inn variable. Resultatene fra disse kjøringene brukes til å danne prediktoren. Vi
+kan trekke innvariablene fra foreskrevne sannsynlighetsfordelinger og bruke prediktoren
+som et surrogat for den opprinnelig simulatoren. Dette kan vi gjøre 10000 ganger og lage
+histogrammer over responsvariablen. Den kritiske suksessfaktoren blir at prediktoren eller
+surrogat simulatoren oppfører seg rimelig likt reservoarsimulatoren.
+
+Metoden
+I dette avsnittet beskriver vi hovedtrekkene i metoden som brukes for å planlegge og analysere forsøk på datamaskinen. Vi eksemplifiserer prosedyren ved hjelp av en konkret
+studie der fem forskjellige inn-variable ble variert. Vår presentasjon blir nødvendigvis
+skissepreget. Eksemplet og metoden er utførlig diskutert i Damsleth, Hage og Volden [2].
+Hver av variablene er definert på tre nivåer: *optimistisk verdi” (kodet som 1), *mest
+
+
+
+19
+
+sannsynlige verdi” (kodet som 0) og pessimistisk verdi” (kodet som —1). Variablene
+beskriver anslag på tilstedeværende volum olje i tillegg til geologiske forhold knyttet blant
+annet til flyt (permeabilitet). Responsvariablen (resultatet av kjøringen) var ‘Produsert
+
+mengde olje etter 4 ar’ (PROD). De typiske skrittene i analysen er:
+
+Generering av kandidatmengden. Kandidatmengden er en liste over eksperimenter
+som man kan tenke seg å gjøre. Det er i alt 35=243 forskjellige forsøk som kan gjennomføres. Kandidatmengden består av en passende delmengde av disse 243; nemlig dem
+som eksperten ville ha gjennomført dersom tid og penger ikke hadde vært noen begrensning. Umulige kombinasjoner eksluderers fra kandidatmengden. I noen tilfeller kan vi
+bruke metoder fra teorien for fraksjonelle faktorielle planer for å generere kandidatmengden, se Box, Hunter og Hunter [1]. Det kan imidlertid være vanskelig å eksludere de
+forbudte punktene i en automatisk prosedyre.
+
+I vårt eksempel var 7 reservoarsimuleringer foretatt før forsøksplanlegging ble tatt i
+bruk. Det ble generert 32 mulige kandidater til de gjenværende forsøkene.
+Valg av optimale kjøringer. Tid og ressurser tilsa at ytterligere 7 reservoarsimuleringer
+kunne gjennomføres. En statistisk metode kalt D-optimalitet ble brukt for å velge 7
+optimale forsøk blant de 32 kandidatene. D-optimalitet er en rent teknisk kriterium.
+Forsøkspunktene velges slik at koeffisientene i en oppgitt lineær modell estimeres mest
+
+mulig presist. Dette kan formuleres på mange mater. D(eterminant)-optimalitet består i
+å maksimere determinanten til informasjonsmatrisen over kandidatmengden. Dette optimalitets kriteriet bør likhet med beselektede kriterier benyttes med forsiktighet. Hoved-
+
+problemet er at at metoden ikke er robust i forhold til den spesifiserte regresjonsligningen.
+Analysen. Regresjonsanalyse kan benyttes for å estimere sammenhengen
+
+y = f(input-variablene).
+
+(1)
+
+Alternativt kan kriging brukes. Dermed oppnas at residualene i punkter som har blitt kjgrt
+blir 0. Med andre ord vil prediktoren gi det samme som programmet for kombinasjoner
+av innvariablene som har blitt kjørt. Dette kan være rimelig i og med at det ikke er støy
+i kjøringene. Kriging er simpelthen en geostatisk teknikk som kan brukes for å lage en
+interpolator. Figur 1 viser kriging prediktoren for produksjonen som funksjon av tilstedeværende olje. De heltrukne linjene viser standardavviket. Merk hvordan usikkerheten
+avtar mot 0 i observasjonspunktene. En interessant diskusjon om data eksperimenter og
+kriging med mange relevante referanser finnes i [4].
+
+Monte Carlo Simulering. Ligning (1) kan brukes som en surrogat simulator: verdien for
+input-variablene trekkes fra oppgitte sannsynlighetsfordelinger og responsvariablen beregnes. Denne prosedyren kan — i motsetning til reservoarsimulatoren — gjentas et meget stort
+antall ganger, si 10000. Basert på Monte Carlo Simuleringer kan vi lage histogrammer og
+dermed studere usikkerheten i produksjonen. Et eksempel er vist i Figur 2.
+
+
+
+20
+
+PROD
+
+Kriging
+
+-1.0
+
+-0.6
+
+-0.2
+
+0.0
+
+STOOIP
+
+Figure 1: Predikert produksjon etter 4 ar (brutt linje) er plottet som en funksjon av
+STOOIP (Stock Tank Oil Originally in Place); øvrige variable er på referanseverdien. De
+heltrukne linjene angir standardavviket.
+
+
+
+21
+
+PROD. Uavhengige innvariable
+
+0.20
+
+0.8
+
+0.10
+
+0.4
+
+0.0
+
+0.0
+15
+
+20
+
+25
+
+30
+
+mean: 23.09 sd: 2.789 min: 13.86 max: 30.06
+
+PROD. Avhengige innvariable
+0.20
+
+0.8
+
+0.10
+
+0.4
+
+0.0
+
+0.0
+15
+
+20
+
+25
+
+30
+
+mean: 23.06 sd: 3.242 min: 13.7 max: 30.38
+
+Figure 2: Histogram og fordelingsfunksjon for produksjon etter 4 år (PROD) basert på
+
+1000 Monte Carlo simuleringer. Punktene på x-aksen er plassert i 25, 50 og 75 persentilene. Innvariablene er trukket uavhengig øverst. Nederst er variablene trukket fra en
+avhengighetsmodell beskrevet i [3]. I dette tilfellet er avhengigheten av underordnet betydning.
+
+
+
+22
+
+Diskusjon
+Et hovedpoeng med de anvendelser vi har sett på er å skaffe grunnlag for beslutninger.
+Eksemplet over bør fortsettes noe lenger for å kunne gi et skikkelig grunnlag for dem som
+tar beslutinger. Det er ikke nok å se på usikkerheten i en responsvariabel. Man ønsker
+seg snarere estimerte produksjonsprofiler med feilmarginer. Videre kan det være aktuelt
+å trekke inn økonomiske faktorer slik som oljepris for å komme nærmere økonomien 1
+problemet. Imidlertid rører ikke disse og flere andre utvidelser ved kjernen i metoden.
+Hovedideen er at vi kan tenke på datamaskinen som et laboratorium og at vi kan bygge
+videre på den tradisjon som er utviklet for å planlegge og analysere forsøk før dataalderen.
+
+References
+[1] G. Box, W. Hunter, and J. Hunter. Statistics for experimenters. Wiley, New York,
+1978.
+
+[2] E. Damsleth, A. Hage, and R. Volden. Maximum information at minimum cost. In
+Offshore Europe (SPE 23139), 1991.
+
+[3] T. Egeland, E. Hatlebakk, L. Holden, and E. Larsen. Designing better decisons. SPE
+24275. Presented at Computers Europe, Stavanger, 1992.
+
+[4] W. Welch, R. Buck, J. Sacks, H. Wynn, T. Mitchell, and M. Morris. Screening, predicting and computer experiments. Technometrics, 34(1):15-25, 1992.
+«
+
+
+
+25
+
+PRELIMINARY ANNOUNCEMENT
+
+The International Statistical Institute (ISI) and I'Institut
+
+National de Statistique et d'Economie Appliquée (I.N.S.E.A)
+
+prepa
+fel
+amt yal Et
+I Å
+sls
+YI
+
+are pleased to announce that the Fourth International
+Conference
+
+on
+
+Teaching
+
+Statistics will be held in
+
+Marrakeh, Morocco, from 25 to 30 of July 1994.
+
+The main objectives of the Conference are :
+-
+
+promoting the interchange of ideas about teaching
+
+materials, methods and content.
+
+- fostering International Cooperation among teachers of
+
+The Fourth Conference
+onTeaching Statistics
+
+statistics.
+
+Speakers of international repute will address the plenary
+
+(ICOTS 4)
+
+meetings and present invited lectures. There will also be
+many
+
+workshops,tutorials,
+
+panels
+
+and
+
+discussion
+
+groups and contributed paper sessions. Opportunities will
+be provided to see and experiment with the latest in
+
+Computer hardware and software. Teaching from beginning
+
+school to college, polytechnic and university level will be
+included, as well as
+
+sessions on teaching statistics in:
+
+government, business and Industry.
+
+25-30 July 1994
+
+Congress Palace
+Marrakech, MOROCCO
+
+The Conference will be focussed on the following fields :
+- Statistics education for citizen, including statistics at
+schools.
+
+- Research in teaching and learning Statistics and Pro-.
+bability.
+
+- The impact of technology on teaching and learning statistics.
+
+- Teaching Probability and Statistics in Universities and
+Technical Institutes.
+
+- Statistical training outside Teaching Institutions.
+
+For further information, write to:
+Mr. EL GHAZALI Abdelaziz
+
+Chairman of the Local organizing
+Committee
+I.N.S.E.A.
+P.O. Box 6217, Rabat-Instituts,
+Rabat, Morocco.
+or
+
+The opportunity will enable participants to enjoy the
+
+beauty of the
+
+kingdom through the diversity of its
+
+landscape and the multiplicity of historical sites as well as
+
+the generosity of his people. In Marrakech itself, the venue
+of the Conference, Excursion to Dades Valley, the Foothills
+of High Atlas or a Hike
+
+toward Jbel Toubkal, the highest
+
+point in North Africa (4167 m)
+
+would be some good
+
+attractions.
+
+The Congress Palace recently constructed and air-
+
+conditioned is a magnificent addition to the landmarks of
+Marrakech City.
+
+Pr. Y. ESCOUFIER
+
+Chairman of the Programme
+Committee
+Université Montpellier II,
+
+Science et Technique du
+Languedoc,
+Place E Bataillon-34095,
+
+Montpellier Cédex 5,
+FRANCE
+
+
+
+24
+
+NYTT FRA UNIVERSITETER OG HØYSKOLER.
+
+NYTT FRA UNIVERSITETET I OSLO
+Uteksaminerte cand. scient.
+Manjula Arulchelvam : “Some Topics Pertaining to Parametric Survival Data
+Models”
+Veileder : Nils Lid Hjort
+
+Kristian Merckoll :
+
+“On Mazimum Likelihood and M-Estimation in some Parametric
+
+Counting Process Models”
+Veileder : Ørnulf B
+
+André Teigland : “Blandingsprosesser i dynamisk lineære modeller”
+Veileder : Erik Bølviken
+
+Anne Marie Fenstad : *Hvor mye avhengighet tåler uavhengighetsantagelsen?”
+Veileder : Nils Lid Hjort
+|
+Knut Opdal : "Pålitelighet av reparerbare standby-systemer”
+Veileder : Terje Aven
+
+Kjetil Kåresen : “Parametric estimation : Choosing between narrow and wide models”
+Veileder : Nils Lid Hjort
+
+Permisjon
+Knut Håkon Brox har permisjon i tiden 1. september til 31. desember 1992. Han vil
+i den tiden oppholde seg ved Forsikringsmatematis
+
+Ansettelser /fratredelser
+Sven Ove Samuelsen er ansatt som førsteamanuensis fra 1. august i år.
+Rune Winther er stipendiat ved avdelingen fra 1. mai.
+
+Steinar Bjerve har sluttet i sin faste stilling og gått over på uførepensjon. Han beholder
+sin arbeidsplass ved avdelingen.
+
+Nils Lid Hjort har fra 1. februar i år fått opprykk til professor.
+
+
+
+25
+
+Publikasjoner
+Nils Lid Hjort & Henning Omre : “Topics in Spatial Statistics”, Statistical Research
+Report No. 3, 1992
+
+Kjetil Kåresen : “Parametric estimation : Choosing between narrow and wide models”,
+Statistical Research Report No. 4, 1992
+
+Bryan Langholz & Ørnulf Borgan : “Nonparametric estimation of relative mortality
+from nested case-control studies”, Statistic
+
+Bryan Langholz & Ørnulf Borgan : “Stratified Nested Case-Control Sampling in the
+Coz Regression Model’, Statistical Research
+
+NYTT FRA UNIVERSITETET I TRONDHEIM
+Institutt for matematiske fag - NTH
+
+Ferdig sivilingenigr
+Hans Martin Hveding. Tittel på hovedoppgave: "Statistiske metoder til kvalitetsforbedring”. Veileder: Liv Høyland.
+
+Nye stipendiater
+Siv.ing. Georg Elvebakk er tilsatt som stipendiat (NTNF) fra 1.3.92 og starter
+dr.ing. studium høsten 92. Tema for avhandlingen er "Statistisk analyse av reparerbare
+systemer”. Veileder er Bo Lindqvist.
+
+Siv.ing. Håkon Tjelmeland er tilsatt som stipendiat (NAVF) fra 1.9.92 og starter
+dr.ing. studium høsten 92. Tema for avhandlingen er *Stokastiske modeller og simuleringsalgoritmer for romlige mosaikkvariable”. Veileder er Henning Omre.
+
+Ny amanuensisstilling
+En fast amanuensisstilling i statistikk vil bli utlyst med det første. Vi henviser til Norsk
+Lysingsblad for nærmere detaljer. Kontakt gjerne Henning Omre (tlf. 07 59 35 31) eller
+Bo Lindqvist (tlf. 07 59 35 32) for opplysninger om stillingen.
+
+
+
+26
+
+NYTT FRA UNIVERSITETET I BERGEN
+Matematisk institutt
+Uteksaminerte cand.scient.
+
+Aagot Irgens: ”Et kunnskapsbasert system for logistisk regresjon i epidemiologi basert
+på verktøyet Express”.
+Veileder: Ivar Heuch.
+
+Valborg Baste: ” Definisjon av styrke for konfidensintervall anvendt på odds-ratio i en
+2x2-tabell.”
+
+Veileder : Ivar Heuch.
+Dr. philos.
+
+Rolv Terje Lie: ”Detecting changes in perinatal risks. Epidemiological studies based
+on the Medical Birth Registry of Norway, wit implications for the methodoloty of surveillance og birth defects and other conditions in the newborn.”
+
+Opponenter: Knut Westlund, Universitetet i Tromsø; Odd Aalen, Universitetet i Oslo.
+
+Disputasen fant sted 26. juni 1992.
+
+Nytt fra Høgskolesenteret i Rogaland,
+Sivilingeniørutdanningen i Stavanger.
+
+Professor i offshore sikkerhet
+
+Dr. philos Terje Aven er ansatt som professor i sikkerhetsteknikk ved
+Høgskolesenteret i Rogaland (HSR), med et spesielt ansvar for anvendelser av
+fagområdet rettet mot petroleumsvirksomheten. Aven har tidligere vært
+professor II og førsteamanuensis ved HSR. Han har også arbeidet flere år med
+sikkerhetsspørsmål i Statoil.
+
+Terje Aven er utdannet som cand. real. med statistikk/pålitelighetsteori som
+hovedfag ved Universitetet i Oslo i 1980. Han ble dr. philos ved Universitetet
+i Oslo i 1984.
+
+Aven har stått sentralt i utviklingen av det nye sivilingeniørstudiet i
+offshoreteknologi ved HSR, som starter opp høsten 92. Dette studiet har en
+spesialisering innen sikkerhet som Aven har det faglige ansvaret for.
+
+
+
+dd
+
+ANNONSE.
+
+Høgskolesenteret
+i Rogaland
+Postboks 2557 Ullandhaug
+4004 Stavanger
+
+AMANUENSIS I STATISTIKK
+Høgskolesenteret i Rogaland har ledig stilling for
+amanuensis i statistikk.
+
+Søkere må ha innsikt i både sannsynlighetsregning
+
+og statistisk metodelære. Den som tilsettes skal
+sammen med det øvrige vitenskapelige personalet
+ved Institutt for matematikk og naturvitenskap ta
+del i undervisning og forskning ved instituttet.
+Forskningsbakgrunn innen statistiske anvendelser
+på teknisk/naturvitenskapelige problemstillinger vil
+være en fordel.
+
+Det kreves utdanning tilsvarende cand.scient/siv.ing/dr.scient/dr.ing. Foruten faglige kvalifika-
+
+sjoner innen fagområdet, vil det bli lagt vekt på
+
+yrkespraksis, erfaring fra forsknings- og
+utviklingsarbeid og pedagogiske kvalifikasjoner.
+
+Stillingsbetenkning og nærmere opplysninger om
+stillingen kan fås i tlf. (04) 87 41 00.
+
+Høgskolesenteret har få kvinnelige tilsatte i
+
+vitenskapelige stillinger og oppfordrer spesielt
+kvinner til å søke.
+Den som tilsettes må rette seg etter de lover,
+
+forskrifter og avtaler som til enhver tid er fastsatt.
+
+,
+
+Avlønning etter l.pl. 17.510, kode 1010, LR30
+ltr. 15 - 21, kr. 196.710,- - 242.678,- pr. år. Det
+kan, etter særskilt kvalifikasjonsbedømming, gis
+opprykk til førsteamanuensis, kode 1011, ltr. 22.
+ky, 251.775,- pr. år. Fra lønnen trekkes lovfestet
+pensjonsinnskudd.
+
+Søknad med kopi av vitnemål, attester,
+publikasjoner o.l. sendes Høgskolesenteret i
+Rogaland i 3 eks. innen 15.9.1992.
+
+
+
+28
+
+ANNONSE.
+
+NDHEIM
+UNIVERSITETET I TROape
+lige høgskolen
+
+Den allmennvitensk
+
+E 1011)
+FØRSTEAMANUENSIS I STATISTIKK (L.PL. 17.510, KOD
+ikk er det ledig en fast
+tikk og statist
+for matemaensi
+ved Institutt førs
+s i statistikk.
+teamanu
+som
+stilling
+
+For stillingen kreves førstestillingskompeta
+
+nse.
+
+elig kompetanse i statistikk, på
+må ha vitenskapistik
+Den som tilsettes
+k.
+stat
+til dr.grad i
+
+nivå svarende
+
+gaver:
+
+Undervisningen er organisert wundt tre hovedopp
+-
+
+-
+
+til studenter ved instituttet i
+å gi lavere grads undervisning ing,
+hovedsaklig til studenter
+rvisn
+unde
+rt
+iente
+eror
+å gi bruk
+
+samfunnsfag og biolo
+og dr.
+å gi undervisning og veiledning til hovedfagsstudenter
+gi
+
+gradsstudenter.
+
+n på alle disse
+
+delta i undervisninge
+ingen i samsvar
+skal ta del i undervisn
+sen
+nuen
+eama
+Først
+.
+områdene
+og har plikt
+tid,
+er
+enhv
+til
+er
+gjeld
+som
+en
+ning
+med den studieord mensarbeig uten særskilt godtgjørelse
+.
+til å delta i eksa rett og plikt til å drive forskning innenfor
+Førsteamanuensen ogharer også pliktig til å ta på seg administrative
+sitt fagområde,
+Den som ansettes må kunn e
+
+.
+
+oppgaver.
+
+skal fordeles på feltene forskning,
+Den totale arbeidsplikt
+inistrasjon. Fordelingen innen de ulike feltene
+
+undervisning og adm
+re, men over tid beregnes tilnærmet lik
+vil til en hver tid varie
+undervisning.
+tid til forskning og
+
+k
+
+Det vil bli lagt vekt på både vitenskapelig og pedagogis
+kompetanse.
+
+Veiledning om dokumentas jon
+
+og vurdering av pedagogisk kompetanse
+
+rligere
+på tlf. 07 59 66 60. Ytte
+kan en få ved henvendelse
+n,
+Enge
+ar
+Stein
+til
+lse
+ende
+henv
+ved
+få
+en
+kan
+opplysninger
+51.
+17
+59
+07
+tlf.
+,
+stad
+Bjørn
+Jan
+tlf. 07 59 17 55 eller
+
+AVH er interessert i å
+
+øke antall kvinner i sitt vitenskapelige
+
+til å søke.
+personale. Kvinner oppfordres derf or spesielt
+
+er for
+
+de vilkår som til enhver tid gjeld
+Tilsettingen skjer pånn.
+
+offentlige
+
+tjenesteme
+
+kvalifisert
+seg en tilstrekkelig godt
+Dersom det ikke melder midl
+tittel og lønn
+med
+tting
+tilse
+ig
+ertid
+re
+søker, vil AVH vurde
+ring for fast
+ifise
+kval
+på
+sikte
+med
+som amanuensis i inntil 3 år
+i tilfelle skje uten ny
+tilsetting. Fast tilsetting vil
+kunngjøring, men etter en sakkyndig vurdering.
+
+at den som blir tilsatt, bosetter seg slik
+Det er en forutsetning
+tilstede ved og tilgjengelig for
+at han/hun kan være
+institusjonen.
+
+s lønnsregulativ ltr. 22 netto kr.
+Førsteamanuensis lønnes i staten
+2% lovfestet innskudd i Statens
+
+20.547,70 pr. mnd. etter at
+
+Pensjonskasse er trukket fra.
+
+ning, eksamener og
+Søknaden må inneholde opplysninger om avutdan
+vitnemål og attester må
+
+tidligere praksis. Bekreftede kopier
+
+legges ved. Søkere må sende inn:
+
+- 5 eksemplarer av søknaden
+og attester
+- 5 eksemplarer av bekrefte de kopier av vitnemål
+n ønsker det
+søkere
+r
+arbeide
+ykte'
+utr
+- 3 eksemplarer av trykte og
+skal
+
+tas hensyn til.
+
+Dersom det i
+Det vil bli tatt hensyn til fellesarbeider.
+fisere innsatsen til søkeren, må
+fellesarbeid er vanskelig å. identi
+søkeren legge ved en kort redegjørelse om sin del av arbeidet.
+Søkeren må videre legge ved en liste over de publikasjonene som
+sendes
+
+til vurdering.
+
+å
+
+eim, Den
+Søknaden skal sendes til Universitetet i Trondh
+oret, 7055 Dragvoll
+allmennvitenskapelige høgskolen, Personalkont
+ummer 1609.
+innen 15.09.92. Merk søknaden med journaln
+
+
+
+29
+
+Medlemskap i Norsk Statistisk Forening
+Kontingenten i foreningen er på kr. 90 pr. år for regulære medlemmer og kr. 30 for studenter. Korrespondanse om medlemskap og innbetaling av kontingent skal skje til foreningens
+kasserer:
+
+Norsk Statistisk Forening v/Ole Lauvskar
+» Vital Forsikring
+5020 Bergen
+
+Innbetalinger skal gjøres på foreningens postgirokonto 5 15 10 55. Medlemmer som er usikre
+på når de betalte kontingent sist, vil nederst til høyre på adresseseddelen for Tilfeldig Gang
+finne angitt hvilket år siste betaling er registrert for. Vær imidlertid oppmerksom på at
+
+adressesedlene for bladet ligger noe etter ajourføringen av medlemsregisteret, slik at nylig
+
+foretatte innbetalinger ikke vil være tatt med her.
+Nye medlemmer melder seg til kassereren under adressen oppgitt ovenfor. Slike medlemmer får automatisk tilsendt Tilfeldig Gang, med forbehold om at det tar noe tid før tilføyelser
+
+og forandringer i medlemsregisteret gjenspeiler seg i adressesedlene til bladet. Adressefor-
+
+andringer meldes også til kassereren. Ved utsendelsen av Tilfeldig Gang benyttes det kopier
+av det vanlige medlemsregisteret, så adresseforandringer behøver ikke meldes separat til
+
+bladet.
+
+Annen korrespondanse med foreningen skal foregå med formannen under denne adressen:
+Norsk Statistisk Forening v/ Trygve Nilsen
+Matematisk institutt
+Universitetet i Bergen
+
+'
+
+Allégt. 55
+5007 Bergen
+
+Bidrag til Tilfeldig Gang.
+
+Neste nummer av Tilfeldig Gang vil forhåpentligvis komme ut i desember 1992. Alle
+slags bidrag til bladet er velkommen, enten det gjelder nye temaer av interesse for norske
+statistikere, eller man har kommentarer til innlegg som allerede har stått i bladet. Stoff
+til neste nummer må være redaktøren i hende senest 1. desember. Det kan gjerne sendes
+som ASCII-filer, eventuelt tilpasset IATpX, på diskett eller med elektronisk post. Redaktørens adresse er:
+
+Tilfeldig Gang v/Jan Bjørnstad
+Institutt for matematikk og statistikk
+Universitetet i Trondheim
+Den allmenvitenskapelige høgskolen
+7055 Dragvoll
+Telefonnummer (07) 591751.
+
+Elektronisk post: Jan.Bjoernstad@avh.unit.no
+For IATpX-dokumenter: Inger.SeehuusQavh.unit.no
+
+
+
+
+
+
+
+oo
+J
+
+Tilfeldig Gang v/ Ole Lauvskar
+
+Vital Forsikring A.S
+5020 Bergen
+
+
+

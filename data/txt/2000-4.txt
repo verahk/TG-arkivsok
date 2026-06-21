@@ -1,0 +1,6352 @@
+ISSN 0803-8953
+TILFELDIG GANG
+Nr.4, årgang 17
+Desember 2000
+
+Utgitt av Norsk Statistisk Forening
+INNHOLD
+Redaksjon:
+Fra redaktøren. Odd Aalen
+Fra lederen i NSF. Geir Egil Eide
+
+Statistisk arbeidsliv
+Stokastisk modellering og statistikk i populasjonsbiologi. Steinar Engen .
+En forskningssjefs hverdag ved Norsk Regnesentral. André Teigland
+Puslerispalten
+Pusleri nr.5. Løsning av Pusleri nr.4. Jostein Lillestøl
+Helsefakta? Redaktøren
+
+Milepæl
+
+Gaåtte Vik 50
+
+62
+
+tara
+
+ot ee Gee
+
+Undervisningsseminar
+Sammenkomst om statistikk-undervisning i Kristiansand. Henrik Dahl ..
+Videreutdanning i statistikk for lærere. Elinor Ytterstad
+
+Statistikk på økonomisk-administrative studier ved statlige høgskoler.
+Tore Wentzel-Larsen
+Matematikk, statistikk og metode ved Siviløkonomutdanningen i Bodø.
+Rolf Volden
+Bruk av statistisk programvare i elementærundervisningen:
+
+Må vi revidere kursoppleggene? Ivar Heuch
+Nye læreplaner i sannsynlighetsregning og statistikk i videregående skole.
+
+Ørnulf Borgan
+Eksamensoppgaver fra videregående skole, våren 2000.
+
+...............---
+
+Gjennomslag for statistikkurs på nett. Klipp fra Uniforum
+
+Fra fagets historie
+Hva kan vi slutte av statistikk? Tredje foredrag. Erling Sverdrup
+
+Faglig stoff
+Malignant melanoma, lung cancer, and prostate cancer in relation to diet.
+Marit Bragelien Veierød
+Meldinger
+
+Her er sportsnytt! Nils Lid hjort
+Nytt tra Norges Landbrukskøgskle,
+
+SR
+
+
+
+
+
+Redaksjon:
+Odd Aalen (redaktør)
+Grete Usterud Fenstad (redaksjonssekretær)
+
+Ingrid Glad
+
+Nils Lid Hjort
+Trond Anders Moger
+
+Redaksjonens adresse:
+Odd Aalen
+
+Seksjon for medisinsk statistikk
+Universitetet i Oslo
+P.b. 1122 Blindern, 0317 Oslo
+
+Tlf: 22 85 12 36
+Fax: 22 85 13 13
+
+e-mail: odd.aalen@basalmed.uio.no
+
+Trykking og utsending av TG utføres av
+Statistisk sentralbyrå
+
+Bidrag til Tilfeldig Gang:
+Alle slags bidrag til bladet er velkomne, enten det gjelder nye temaer av interesse for norske
+statistikere, eller man har kommentarer til innlegg som allerede har stått i bladet. Stoff til
+neste nummer må være redaksjonen i hende innen 1.2.2001.
+Det greieste er at stoffet sendes inn som Word-fil (Word 97 eller lavere versjon) til
+redaktørens e-mail-adresse, se ovenfor. Alternativt kan vi ta en ren tekst-fil, men vi vil helst
+
+ikke ha TEX-format med mindre dette er nødvendig på grunn av matematikken.
+
+Vi har etablert en nettversjon av TG, se følgende internettadresse:
+www.math.uio.no/nsf/web/index.htm . De som leverer bidrag til TG og som ønsker å reservere
+seg mot at bidraget deres legges ut på nettet, må gi beskjed om dette ved innsendelse av stoff.
+
+
+
+Fra redaktøren:
+Så er det atter jul. Det virker som det var i går at jeg satt og skrev lederen i fjorårets
+siste TG-nummer. Det er kanskje en klisjé at tiden går raskere og raskere, men det er
+også en utvilsom sannhet.
+Flere artikler i dette nummeret er viet undervisning. Bakgrunnen er et
+undervisningsseminar som ble arrangert i Kristiansand i sommer av Henrik Dahl, som
+er tilknyttet Høgskolen i Agder. Henrik har alltid hatt et sterkt engasjement i
+undervisning, og som det fremgår av artiklene er det mange som deler dette
+engasjementet.
+
+En grundig gjennomgåelse av læreplanenei statistikk i videregående skole presenteres
+av Ørnulf Borgan. Ørnulf har forøvrig blitt lærebokforfatter, i det han inngår i
+forfatterteamet Erstad, Heir, Bjørnsgård, Borgan og Pålsgård. Dette læreverket i
+matematikk for videregående skole tok i år rundt 50% av markedet i 1. klasse, en
+meget betydelig oppgang fra året før. Uttalelser til denne redaktør fra lektorer i
+videregående skole indikerer at en årsak til dette var at en profesjonell statistiker var
+
+med som forfatter. Endelig hadde man tillit til at statistikkstoffet holdt faglig kvalitet
+etter alt rotet som det tidligere har vært rundt dette i enkelte lærebøker. Utvilsomt en
+seier for vårt fag.
+
+Et hovedproblem for undervisningen i videregående skole er å utdanne lærerne
+(lektorene)i statistikk slik at de kan gjennomføre undervisningen med et minimum av
+innsikt. Jeg vil her fremheve det spennende initiativet fra Tromsø, som er beskrevet
+av Elinor Ytterstad i dette nummeret. Her satses det på fjernundervisning, men enkelte
+samlinger av deltagerne. Utgangspunktet er kurs som allerede gis i den ordinære
+undervisningen ved universitetet. Dette inititativet er utvilsomt et eksempel til
+etterfølgelse.
+
+I det hele tatt er fjernundervisning i ferd med å bli noe helt nytt med dagens internettteknologi. Det kanskje mest avanserte fjernundervisnings-tilbudet innen statististikk
+her i landet er det som gis av Petter Laake og Harald Fekjær ved Seksjon for
+medisinsk statistikk, Universitetet i Oslo. Dette har et meget profesjonelt internettopplegg. Kurset er rettet mot medisinere, men tilsvarende opplegg skulle være like
+godt egnet til andre grupper, f.eks. lærere. Lærerne og legene har det til felles at de
+sitter spredt over hele landet.
+
+Et annet tema på seminaret var økonomisk-administrative studier ved høgskolene. Det
+er her folkets nye helter får sin utdannelse, og det har blitt et noe omstridt spørsmål
+hvor mye statistikk man egentlig trenger for å følge aksjekursene, kjøpe (eller motta
+gratis!) opsjoner, lede bedrifter etc. Tore Wentzel-Larsen og Rolf Volden har fyldige
+innlegg om saken i dette nummeret.
+Nok et høyst aktuelt tema tas opp av Ivar Heuch i en grundig artikkel, nemlig
+relasjonen mellom vår undervisning og statistisk programvare. Hvordan integrerer vi
+
+
+
+programvaren i vår undervisning? Ivar peker på de store forandringer som skjer på
+
+dette feltet. Hvordan skal vi møte dem?
+Ellers fortsetter vi vår serie om statistiske arbeidsplasser. André Teigland forteller, på
+en meget engasjerende måte, om sin virksomhet som forskningssjef ved Norsk
+Regnesentral. André har virkelig skjønt poenget med denne serien, han nytter sjansen
+til å drive entusiastisk PR for Norsk regnesentral som arbeidsplass. Vi mottar gjerne
+innlegg av denne typen fra andre hold også, litt spirituelle innlegg om arbeid og fag,
+med vekt på hvorfor det man driver med er morsomt!
+
+Steinar Engen forteller om sin spennende virksomhet som populasjonsbiolog. Steinar
+nevner blant annet det veivalg han hadde, skulle han nærme seg fagstatistikerne eller
+biologene. Han valgte det siste, og jeg er personlig ikke i tvil om at han valgte rett. Er
+det noe vårt fag trenger, så er det friskt blod fra andre fag. Det bør i økende grad bli
+
+normen at statistikere har en tilleggs- (eller hoved-) utdannelse i et substansfag, eller
+at man senere søker omfattende samarbeid utenfor statistikkfaget. Er det noe
+populasjonsbiologer vet, så er det at innavl er usunt.
+Steinar nevner R. A. Fisher. Med sine fundamentale idéer (likelihood, randomisering,
+variansanalyse etc etc) er det ikke tvil om at Fisher må oppfattes som grunnleggeren
+av statistikk-faget. Det mange statistikere ikke vet, er imidlertid at Fisher, som Steinar
+sier, også oppfattes som biolog, og faktisk som en meget betydelig person på dette
+fagfeltet. Fishers bok fra 1930: The Genetical Theory Of Natural Selection, regnes for
+et av de helt grunnleggende verker innen moderne evolusjonsbiologi, og bidro
+avgjørende til den moderne syntesen mellom Darwinismen og Mendelsk genetikk.
+Fishers navn ble sterkt fremhevet da den berømte evolusjonsbiolog Bill Hamilton,
+som regnet seg som en student av Fisher, døde tidligerei år.
+Fisher utledet blant annet en diffusjonslikning for hvordan genfrekvensen endrer seg i
+en populasjon. Dette var før Kolmogorovs fundamentale verk om Markov- og
+diffusjonsprosesser, og det har vært hevdet at Fisher også kan ansees som en
+grunnlegger av denne teorien. Man skal forøvrig merke seg at den berømte astronom
+
+Sir Fred Hoyle i år utga en bok der han viderefører statistiske beregninger rundt
+evolusjon, basert nettopp på Fishers diffusjonsteori. Hoyles klare og kontroversielle
+konklusjon er at nydarwinismen ikke henger matematisk på greip. Naturlig seleksjon
+klarer ikke jobben med å skape den utviklingen som har skjedd. Så statistikk og
+sannsynlighetsteori er stadig i sentrum av fundamentale og uavklarte spørsmål.
+
+Beste hilsen Odd Aalen
+
+
+
+Fra lederen i NSF:
+Kjære medlemmer.
+
+På foreningsfronten har det vært relativt stille denne høsten. Styret har ikke hatt noen spesielle
+grunner til å møtes, men tar sikte på et møte på nyåret. Noen medlemmer savnet kanskje
+revidert regnskap for 1999 som var lovet til forrige TG. Dessverre kan vi ikke presentere dette
+denne gangen heller. Vi venter fortsatt på den endelige revisjonsrapporten, men kan forsikre
+at økonomien er god. Grimstad-møtet gikk med overraskende overskudd og jeg forventer at vi
+kan opprettholde ordningen med reisestipend for hovedfagstudenter også til neste års norske
+statistikermøte i Bergen. Annonsering av stipendier vil isåfall finnes i neste TG. Det er fint
+om aktuelle veiledere allerede nå kan informere sine studenter om mulighetene et
+studentmedlemskap i NSF kan gi.
+
+For øvrig blir dette TG årets julenummer så jeg vil avslutte med å ønske dere alle en riktig
+god julehøytid og et faglig fruktbart nytt år!
+Vennlig hilsen
+
+Geir Egil Eide
+
+TG's redaksjon ønsker alle lesere en
+
+God Jul
+oget
+
+Godt Nytt Ar!
+
+
+
+Stokastisk modellering og statistikk i populasjonsbiologi
+Steinar Engen
+
+Institutt for matematiske fag, NTNU
+
+Personlig bakgrunn
+I 1970 var jeg den første studenten ved NTH som tok diplomoppgave i statistikk. Min
+bakgrunn kunne ikke ha vært mer enn mellom 5 og 10 vekttall i statistikk, så Arnljot Høyland
+virket ganske usikker på om dette lot seg gjennomføre. Mitt første møte med biologifaget
+
+skjedde da jeg i 1971 ble sivilarbeider ved Vitenskapsmuseets zoologiske avdeling, hvor jeg
+etter hvert fikk en slags heltestatus fordi jeg kunne utføre en T-test og skrive ALGOLprogrammer. Det hele endte opp med at senere miljøværnminister Olav Gjærevoll fikk dunket
+
+gjennomi forskningsrådet at jeg skulle ha et stipend. Det var behov for statistisk kompetanse i
+norsk biologisk forskning. Med god hjelp fra Høyland havnet jeg i Oxford ved Department of
+Biomathematics, der jeg jobbet under veiledning av M.S.Bartlett og M.G.Bulmer, og tok
+
+i 1975.
+doktorgraden
+
+Da jeg fikk fast jobb som statistiker ved Universitetet i Trondheim, ved det som dengang het
+Norges Lærerhøgskole, sto jeg overfor et veivalg. Jeg kunne enten forsøke rent faglig å
+nærme meg Blindern-statistikerne, eller styrke min biologiske kompetanse via samarbeid med
+biologiske miljøer. Jeg valgte det siste, og er idag kanskje mer biolog enn statistiker og har
+publisert artikler med bortimot 50 forskjellige biologer. I en periode hadde jeg tett samarbeid
+med Nils Chr. Stenseth ved UiO, som lærte meg mye om populasjonsdynamikk, økologi og
+evolusjon. Idag arbeider jeg hovedsaklig med Bernt-Erik Sæther ved NTNU og våre felles
+
+internasjonale
+
+samarbeidsparnere
+
+med
+
+generelle
+
+problemstillinger
+
+innen
+
+populasjonsdynamikk, med spesiell vekt på bevaringsbiologi. Jeg har også bistilling som
+rådgiver ved Norsk Institutt for Naturforskning.
+
+Modellering i populasjonsdynamikken
+Økologi og populasjonsdynamikk er lite eksakte vitenskaper. Enhver naturlig populasjon er
+påvirket av en rekke fysiske og biologiske faktorer via kompliserte vekselvirkninger. Da de
+store datamaskinene gjorde sitt inntog tidlig på 70-tallet, var det mange som trodde at vi
+kunne oppnå den fullstendige forståelse for sammenhengene i naturen bare vi hadde nok data,
+store nok maskiner og programmer, og modeller med mange nok parametre. Men naturen
+oppfører seg stokastisk, uansett hvor detaljert man forsøker å beskrive den, så denne
+
+angrepsvinkelen, som delvis var basert på uforstand m.h.t. håndtering av stokastiske
+fenomener, var dømt til å mislykkes. Resultatene ligger begravet blant andre ikkereproduserbare vitenskapelige oppdagelser.
+
+Den forståelsen man idag har opparbeidet om økologiske sammenhenger og dynamikken i
+naturen kan sies å være basert på den motsatte tilnærmingsmåten. Via et nettverk av
+forenklede modeller, der man teoretisk studerer noen få sammenhenger, og samler alle andre
+faktorer i stokastiske ledd, bygger man opp en generell forståelse for sammenhengene 1
+naturen. Stokastiske simuleringer brukes ofte for å studere modellenes egenskaper, selv om
+man tilstreber a finne generelle analytiske resultater med mer tyngde og anvendbarhet.
+
+
+
+Individet er som regel den grunnleggende byggeklossen i modellene, og modeller kan grovt
+klassifiseres etter hvilke individer, og hvilke egenskaper ved individene man velger å
+beskrive. En stor del av teorien behandler enkle modeller, der alle individer er like slik at
+populasjonsstørrelsen er den eneste variable av interesse. Dette kan likevel gi interessante
+stokastiske modeller for studier av populasjonssvingninger, tetthetsregulerende effekter, og
+muligheten for at populasjonen dør ut.
+Genetiske modeller er en annen stor og viktig klasse av modeller. Genetisk egenskaper er da
+individ-merkelapper som brukes i modelleringen. I motsetning til de enkle modellene nevnt
+ovenfor der endringene i populasjonsstørrelse står sentralt, så er de fleste
+populasjonsgenetiske modeller basert på den grove forenklingen at populasjonsstørrelsene
+faktisk er konstante. Det er genfrekvensene og endringene 1 disse over tid som settes under
+lupen.
+
+For mange arter vil det være urealistisk å basere modeller på at individene er like. Spesielt vil
+individenes egenskaper, som evnen til å produsere avkom og til å overleve, ofte være sterkt
+avhengig av alder. Dette gir opphavet til såkalte aldersstrukturerte modeller, der individenes
+alder brukes i modellen, vanligvis ved å samle individer født i samme sesong 1 diskrete
+aldersklasser. Stokastiske aldersstrukturerte modeller blir fort kompliserte, og det gjenstår
+mye forskning før man kan si at betydningen av aldersstruktur er grundig forstått.
+
+Et forskningsfelt der det idag skjer stor utvikling, er romlige populasjonsdynamiske studier.
+Individene gis da også en merkelapp som sier hvor de befinner seg. For å gjøre slike modeller
+realistiske må støyleddene ved de forskjellige lokalitetene være avhengige, migrasjon mellom
+lokaliteter må modelleres, og det må tas hensyn til forskjellige former for romlig heterogenitet
+mellom leveområdene. Ofte kan man konstruere realistiske romlige modeller der individenes
+posisjoner er en endelig diskret mengde. Dette er ikke bare en teoretisering man gjør for å
+slippe å arbeide med mer kompliserte kontinuerlige modeller. En av de viktigste praktiske
+problemstillingene er å studere effekter av menneskelige aktiviteter, og da kan spesielt
+fragmentering av dyrenes leveområder i diskrete delområder ved bygging av veier og
+bygningsmasse være en vesentlig trussel mot en bestands levedyktighet. Slike modeller kalles
+ofte metapopulasjonsmodeller, eller øymodeller. Dynamiske modeller i kontinuerlig rom er
+også et felt der der skjer nyere forskning.
+
+Samspillet mellom arter studeres oftest ved å modellere to arter samtidig. De to hovedtypene
+av modeller er konkurranse-modeller, der artene konkurrerer om næring eller territorier, eller
+predator-byttedyr-modeller, hvor den ene arten er en del av næringsgrunnlaget til den andre.
+Vanligvis er slike modeller enkle i den forstand at det ikke tas hensyn til aldersstruktur,
+genetikk eller romlige koordinater. Men også her skjer det en del ny forskning på mer
+sammensatte modell-typer.
+
+I studier av dyresamfunn bestående av et stort antall arter forsøker man ofte å finne modeller
+som gir realistisk beskrivelse av hvordan individene er fordelt mellom de forskjellige artene.
+
+Et nærliggende statistisk problem som mange har vist stor interesse for opp gjennom årene er
+å estimere antall arter i et samfunn. Det mest ekstreme eksempelet er å estimere antall arter på
+jorda. Estimatet er pr. idag temmelig usikkert. Antagelig er tallet av størrelsesorden 5-15
+millioner. Et stort antall av disse forsvinner fra jordens overflate hvert år på grunn av
+forskjellige menneskelige aktiviteter.
+
+
+
+I tillegg til fragmentering av leveområder er forurensning men medfølgende klimaendringer
+
+og høsting av populasjoner (f. eks. fiske) menneskelige inngrep man er interessert i å studere.
+Søking etter langsiktige optimale høstingsstrategier gir opphav til mange interessante
+matematiske, sannsynlighetsteoretiske og statistiske problemstillinger.
+
+Statistikk og populasjonsdynamikk
+Historisk sett er statistikkfaget nær knyttet til biologi. Blant biologer regnes for eksempel
+R.A.Fisher for å være biolog, og det er velkjent at begreper som korrelasjon, regresjons- og
+variansanalyse og forsøksplanlegging har sine utspring i biologiske problemstillinger. Fisher
+skrev også en rekke artikler innen genetikk.
+Idag tror jeg det er riktig å si at det ikke finnes noen spesiell statistikk for biologer. Når
+
+modeller skal tilpasses til observasjoner er alle vanlige statistiske problemstillinger som
+estimering, usikkerhetsberegninger, testing og prediksjon aktuelle. Det er modellene man
+tilpasser som er spesielle, ikke statistikken. En nyutdannet statistiker som skal arbeide med
+problemer innen populasjonsbiologi vil være godt skolert når det gjelder statistikk, men må
+regne med å måtte sette seg inn i mye nytt stoff omkring biologisk tenkemåte, biologiske
+teorier og biologisk modellering.
+Blant biologene har det skjedd en rivende utvikling i bruken av statistikk, noe som er en
+kombinasjon av datateknologien og tilgjengeligheten av lett anvendbar statistisk programvare,
+
+forbedring av utdanningsnivået i statistikk blant biologer, og behovet for analyse av stadig
+mer innsamlet datamatertiale. Bruken av statistikk som refereres i biologiske tidsskrifter blir
+stadig mer avansert. For eksempel er Bayesianske metoder og spesielt MCMC på full fart inn
+i biologisk forskning, og man ser stadig oftere at artikler 1 internasjonale tidsskrifter er
+samarbeidsprosjekter der personer med forskjellig bakgrunn deltar. Men, det forekommer
+også overtramp som skyldes at tilgjengeligheten av programvare kan bli for stor , både i
+forhold til statistisk kunnskap og kunnskapsnivået innen biologisk modellering.
+
+Forskningsinstitusjoner og finansieringskilder
+I tillegg til at universitetene, inkludert virksomheten på Svalbard, alle har relativt store
+biologiske miljøer som dekker mange forskjellige biologiske disipliner langt utenfor det som
+er beskrevet ovenfor, skjer det mye biologisk forskning ved forskningsinstitutter. De viktigste
+institusjonene
+
+er
+
+Havforskningsinstituttet,
+
+Norsk
+
+Institutt
+
+for
+
+Naturforskning,
+
+Norsk
+
+Polarforskningsinstituttet, Norsk Institutt for Skogforskning, og Norsk Institutt for
+Vannforskning. Mye av arbeidet som drives her er kontinuerlig datainnsamling som brukes til
+overvåkning av vårt dyre- og planteliv. Men institusjonene bidrar også med forskning og
+publisering på høyt internasjonalt nivå.
+
+Norges Forskningsråd bevilger midler til biologisk forskning gjennom en rekke forskjellige
+forskningsprogrammer under områdene Naturvitenskap og Teknologi, Bioproduksjon og
+Foredling, og Miljø og Utvikling.
+
+
+
+En forskningssjefs hverdag ved Norsk Regnesentral...
+André Teigland
+
+Kjære TG-leser!
+
+"Kan du ikke skrive noen ord om ditt arbeid og din hverdag, gjerne med en personlig
+
+vri", lød mailen fra redaktør Odd. Jo, tenkte jeg, det kan jeg jo gjerne. Og så sitter jeg
+her og finner ut at da må jeg visst først finne ut hva jeg egentlig gjør...
+Først noen ord om min bakgrunn: Jeg tok hovedfag i statistikk ved UiO i 1992, og
+ynder fortsatt å tro at jeg er temmelig ung. Med Erik Bølviken som veileder var
+kalmanfiltrering, dynamisk lineære modeller, metropolis, annealing, fortran, MCMC
+
+og Splus riktig fornøyelig! Etter endt hovedfag begynte jeg ved Norsk Regnesentral
+
+(NR). Jeg jobbet to år som forsker i statistikk før jeg fikk prøve meg som
+forskningssjefsvikar noen måneder. Å lede og styre ga mersmak, og 1 1995 ble jeg
+forskningssjef for NRs bildeanalysemiljø. I 1998 slo vi sammen statistikk- og
+bildeanalysegruppene til en stor avdeling, som jeg har ledet siden. Vi teller i dag 26
+forskere, og lyder det velklingende navnet SAMBA! (Statistisk Analyse,
+Mønstergjenkjenning og BildeAnalyse)
+NR er et oppdragsbasert forskningsinstitutt. Vi får ca 10% av inntektene våre i mer
+eller mindre frie, grunnleggende midler fra Norges forskningsråd. Resten skaffes til
+veie gjennom konkrete oppdrag for kunder som skal ha løst et problem. Total
+
+omsetning er rundt 70 millioner. Uten inntekter, ingen jobb, så det blir mye
+økonomiprat ved siden av fag på et sted som NR. Instituttet står på to ben; statistikk
+og IT. Vi besitter det største oppdragsforskningsmiljø innen anvendt statistikk i
+Norge. Sammen med SAND (avdelingen som jobber med geostatistikk for
+petroleumsbransjen) er vi 40 forskere i og rundt statistikkfaget. I tillegg har NR rundt
+40 rene IT-forskere.
+
+For meg er det to virkelig store gleder ved å jobbe ved NR; 1) det sitter utrolig
+dyktige fagfolk rundt omkring på hvert eneste kontor! (usedvanlig hyggelige er de
+også!) og 2) jeg kommer hele tiden bort i ulike fagfelt, stadig nye oppdragsgivere, og
+spennende, flinke mennesker "der ute i den virkelige verden". Det er ikke rent få av
+TGs lesere og tidligere studievenner jeg har truffet igjen som oppdragsgivere eller
+samarbeidspartnere. Som anvendte statistikere, på oppdrag for kunder som er villige
+til å betale for oss, må vi hele tiden lære oss noe nytt. Vi må forstå (ihvertfall en del
+av) oppdragsgivers fagfelt, vi må skjønne hvor dataene stammer fra, hvordan de er
+samlet inn, vi må oversette kundens språk til matematikk og statistikk og vi må kunne
+implementere løsninger for dem.
+Jeg har overhørt og deltatt i en del diskusjoner angående statistikerens rolle de senere
+årene. Er vi "bare" underdanige tjenere når vi arbeider anvendt? Ærlig talt forstår jeg
+ikke problemstillingen. JA, det er kunden/brukeren/oppdragsgiveren som besitter
+problemet, og ja, jeg opplever oss på NR som oppdragsgivers "tjener", men, nei, vi er
+aldeles ikke underdanige! Kunden er avhengig av vår kompetanse, og i de aller fleste
+prosjekter har vi et veldig godt samarbeid med våre kunder med gjensidig respekt for
+
+hverandres kompetanse og roller. For meg er en statistiker nyttig først når hun er til
+nytte...
+
+
+
+Hva jobber vi så med? Svaret må bli "omtrent alt" der statistikkompetanse kreves. I
+
+SAMBA har vi anvendelser innen bransjer som industri, bank, forsikring, transport,
+logistikk, handel, offshore, internett og medisin. Vi lager prisprognoser, predikerer
+trafikkvolum,
+styrer
+smelteovner,
+beregner
+forsikringspremier,
+estimerer
+risikoavsetninger, deltar på utvalgsundersøkelser, hjelper leger osv. Kunsten (ja - det
+ER en kunst) er å beherske, eller vite hvem på nabokontorene som behersker, den
+metodikk som vil være mest mulig velegnet for å løse det konkrete problemet vi står
+- overfor. I tillegg har vi egne spesielle satsingsområder i SAMBA: Satellittfjernmåling,
+bildeanalyse, mønstergjenkjenning og data mining, miljøstatistikk og marin
+ressursestimering. Rundt 100 store og små bedrifter og institusjoner står på vår
+kundeliste for de siste 3 årene.
+
+Hverdagen på NR er preget av stor frihet under stort ansvar. Ingen kontrollerer når
+den enkelte forsker kommer og går. Ingen sjekker at artikkelen du ønsker å lese er
+relevant. Men, med arbeid for kunder, så er det hele tiden et eksternt press på at ting
+skal være ferdig til avtalt tid og til avtalt pris. Avtalt pris betyr for oss innen gitte
+timerammer. Prosjektene varierer veldig i størrelse og utstrekning. Alt fra noen
+ukesverk opp til flere års arbeid med mange personer involvert. De fleste arbeider
+med 1-2 prosjekter av gangen, og vi har som fast regel at ingen prosjekter skal utføres
+av bare én person. Rollen for en forsker ved NR utvikler seg over tid, fra at man i
+starten er mere en "ren utfører" til at man etterhvert også blir idégenerator,
+prosjektleder, og har mere utadrettet kontakt med oppdragsgivere. Enkelte har også et
+utvidet markeds-, fag- og strategisk ansvar for sine felt, i samarbeid med meg som
+forskningssjef. Heldigvis er NRs økonomi meget solid, noe som gjør at vi også har
+anledning til å drive mere egeninitiert "akademisk forskning". Vi publiserer en god
+del, vi deltar på konferanser både som foredragsholdere og for å lære mer, og vi er
+etterspurt i uformelle sammenhenger i bedrifter og bransjefora.
+Hva gjør så en forskningssjef opp i alt dette? Vel, tidligere var en forskningssjef ved
+NR nettopp det tittelen skulle tilsi, en sjef (med stor S) for forskningen (med stor F). I
+dag har vi organisert oss i større enheter, og det er komplett umulig for én person å
+være en overordnet guru for så mye forskjellig som SAMBA bedriver. En
+
+forskningssjef ved NR er avhengig av å ha en solid fagkompetanse, men må sørge for
+å ansette folk som er dyktigere enn seg selv innen hvert eneste felt vi skal jobbe med!
+Konkret har jeg ansvar for mange biter som:
+
+strategi, planlegging,
+
+økonomi,
+
+markedsføring og profilering, forhandlinger med kundene,
+prosjektbemanning,
+ansettelser, samt personalansvar og overordnet prosjektansvar. Ikke minst har jeg det
+avgjørende ordet når deg gjelder hvilke felt vi skal bygge opp og hvilke vi skal bygge
+ned. Mye å holde styr på, men i praksis går det bra takket være dyktige medarbeidere
+
+det går an å delegere myndighet og ansvar til ©. Som forskningssjef er jeg også en av
+7 personer i NRs ledergruppe. Arbeidet der kan være både utfordrende og spennende.
+Man må kunne samarbeide (og samtidig sloss litt for sine folk..), man må takle
+fagforeninger, takle innspill fra et styre (uten statistikkunnskaper), og ikke minst
+kommer man en gang i året i den merkverdige situasjon at man skal forhandle lønn
+med sine gode kolleger mens man sitter på "den andre siden av bordet".
+Min typiske hverdag? Hektisk. Først lese nattens mail - noe viktig skjedd?, en rask
+
+kopp kaffe, hei - god morgen, stikke hodet innom et par kontorer for å sjekke status på
+noen av våre 54 løpende prosjekter, forberede møte med mulig ny kunde klokken 10,
+
+
+
+avbrutt av adm. dir. som må ha innspill til neste styremøte NA, svar på en haste-mail,
+en forsker kommer innom - ja, ok, han kan ta fri på mandag, telefonen ringer - ja,
+visst, det kan vi sikker bidra med - møte avtalt på tirsdag, skrive ut to foiler,
+kundemøte - lag prosjektforslag - max I million, lunch, ny telefon, maildiskusjon i
+ledelsen om neste års budsjett - nei, så mye vil jeg ikke påta meg at avdelingen skal
+
+tjene inn, diskusjon med en prosjektleder om mulig budsjettsprekk, telefonforhandling
+med kunde som synes vi er for dyre, avbrutt av adm.dir igjen, kaste meg over et av
+mine egne prosjekter (ja - jeg får brukt 10-20% av tiden min til vanlig prosjektarbeid),
+ny forsker innom - hvordan blir det med det store prosjektet? Har jeg glemt at hun
+skal ha en ukes ferie i desember?, gjennomgang av markedsoversikt for neste år,
+skrive et tilbud, attestere to regninger, sjekke innkommende mailer - ikke noe viktig
+denne gangen, jobbe litt på prosjekt igjen, planlegge morgendagens avdelingsmøte.
+Vips, så er enda en arbeidsdag over...
+
+Alle muligheter for å bli stresset, men fryktelig gøy. Kjeder meg gjør jeg aldri! Og et
+par ting har jeg lært; 1) Går det dårlig med noe, så går det sikkert bra med noe annet verden består, og 2) Rydd sakene unna der og da - ta heller en gal avgjørelse fra tid til
+annen enn å tenke så lenge at avgjørelsene bare hoper seg opp!
+Konklusjonen etter å ha vært på NR noen år:
+
+Er du en dyktig statistiker som vil ha en spennende hverdag med flinke mennesker
+rundt deg - søk jobb ved NR! (se annonse annet sted i bladet... ©).
+Vil du forbli fingerspissfagstatistikker, så påta deg aldri en forskningssjefsjobb...
+På den annen side er det få forunt å få en såpass helhetlig oversikt over
+anvendelsesmuligheter for faget vårt, som jeg har fått anledning til å opparbeide meg.
+Og er du opptatt av strategi og ledelse, ønsker du å bidra til at dyktige mennesker
+jobber sammen og trekker i samme retning, ja da tror jeg ikke du kan få en mere
+utfordrende, spennende og lærerik jobb enn min!
+
+Beste hilsner fra
+André
+
+andre.teigland@nr.no
+www.nr.no
+
+10
+
+
+
+Puslerispalten
+Pusleri nr. 5
+Her er tre myntkastproblemer:
+
+1. Hvordan kan du generere 50:50 sjanse med myntkast med en
+skjev mynt?
+
+2. Hva er sannsynligheten for at KK forekommeri n rettferdige
+myntkast?
+
+3. Hva er sannsynligheten for at KMK forekommer i n
+rettferdige myntkast?
+
+Problemstillingen kan sikkert belyses på ulike måter, og også denne
+gangen ønsker vi gode løsninger fra lesere for presentasjon i neste TG,
+fra den enkle og intuitive til den matematisk sofistikerte under ulike
+antakelser. Send løsninger innen 4 uker fra mottatt TG til
+jostein.lillestol@nhh.no.
+
+Jostein Lillestøl
+
+
+
+Løsning Pusleri nr. 4
+Vi minner om oppgaven:
+
+Auksjoner kan foregå på flere måter, bl.a.
+(1)
+Bud høynes inntil ingen flere bud kommer. Siste budgiver betaler budt beløp
+("First prize - open cry", kalt engelsk auksjon).
+(2)
+Alle budgivere byr i lukket konvolutt. Høyeste budgiver vinner og betaler budt
+beløp ("Sealed bid - first prize").
+
+(3)
+
+Auksjonarius setter pris over høyest tenkelige og senker priser inntil første
+budgiver slår til (kalt hollandsk auksjon).
+
+(4)
+
+Som (2), men høyeste budgiver betaler nest høyeste bud. ("Sealed bid - second
+prize").
+
+Det er nokså lett å innse at (2) og (3) er ekvivalente. Vis (under rimelige
+forutsetninger) at (1) og (4) er ekvivalente.
+
+Aha! I valget mellom de to vanlige auksjonstypene (1) og (2), må derfor (2) være
+bedre for selger enn (1), fordi (2) gir det høyeste lukkede bud, mens (1) gir beløp
+ekvivalent med nest høyeste lukkede bud. Sant eller galt?
+
+Hint: Hvis du ikke greier å avgjøre generelt det siste spørsmålet, som ga William
+Vickrey nobelprisen i økonomi, kan du som statistiker få lov til å tenke deg n personer
+som vurderer auksjonsobjektet iht. uavhengige trekninger fra den rektangulære fordeling
+[0,1].
+
+Løsning: La oss tenke oss bud på et hus, der hver budgiver har en bestemt oppfatning
+av hva huset er verdt. Ved hollandsk auksjon (3) lærer budgiverne ingen ting i
+budprosessen og kunne like gjerne ha skrevet ned budet på forhånd. Dette gir samme
+resultat som en lukket budrunde der høyeste bud vinner (2).
+
+De to auksjonsformene (1) og (4) adskiller seg ved at engelsk auksjon (1) gir hver
+budgiver kunnskap om opponentenes bud og mulighet for å reagere på disse, noe som
+(2) ikke gir anledning til. Imidlertid vil det ved (1) for hver budgiver være optimalt å
+høyne budet (med så lite som mulig) så lenge den verdi vedkommende har satt på
+huset ikke er overskredet. Følgelig blir ved engelsk auksjon huset solgt til budgiveren
+med det høyeste bud marginalt over den med det nest høyeste bud.
+Ved auksjonsform (4) vil optimal strategi for hver budgiver være å by den verdi en
+selv setter på huset i forvissning om at en kun trenger å betale det nest høyeste bud.
+Ingen budgiver har fordel av å by mindre, siden dette vil redusere sjansen for å få
+huset uten at prisen en må betale reduseres. Ei heller har en fordel av å by mer, siden
+dette bare øker sjansen for å vinne dersom også det nest høyeste bud er over ens egen
+verdiansettelse, og i så fall ender en opp med å betale mer enn hva huset er verdt (for
+en selv). Dersom alle byr sin private verdi vil altså huset bli solgt til høyeste byder til
+en pris for nest høyeste bud, som bare vil være marginalt forskjellig fra hva som
+oppnås ved (1).
+
+For å belyse auksjonsform (2) tenker vi at det er n budgivere og at budgiver nr. i byr
+b, på auksjonsobjektet som av budgiveren blir vurdert til verdi v,. La p(b) være
+
+12
+
+
+
+sannsynligheten for at et bud lik b vinner budrunden. Resonnementene nedenfor
+innebærer en del betinging uten at dette blir synliggjort i notasjonen.
+Forventet gevinst ved auksjonen for budgiver nr. i er da (alle budgivere er
+risikonøytrale!)
+
+H, = (v, — b;) p(b,)
+Siden alle budgivere står ovenfor det samme maksimeringsproblem, er det rimelig å
+anta at b, = g,(v;), der g har positiv derivert med invers h. Følgelig kan vi skrive
+p(b,) = P(max g(v;) <b;) = P(max v, < h(b;))
+jæi
+
+Antar vi at v'ene er stokastisk uavhengige trekninger fra en kumulativ fordeling F
+blir
+
+p(b,) = (FB) = (FO)
+Dersom budgiver nr. i vil maksimere forventet gevinst må vi ha
+
+p'(v;) (vi -b;) — p(b;) =0
+Sammenholdes de to siste ligningene får vi
+
+(n — 1) f(A},)) H'(b;) (v; — 5) — F(h(b))=0
+For tilfellet at F er rektangulært fordelt [0, 1] blir dette
+
+(n ~ 1) b'(b;) (h(b;) ~ b;) - bb) = 0
+Denne ligningen har løsning
+
+vi = h(b;)=
+b,
+n-1
+Forventet pris blir da
+Barn
+n-1l
+
+sd,
+
+n
+
+n-l
+
+n
+
+n+l
+
+n+1l
+
+Hvis vi så sammenligner dette med (1) som var ekvivalent med (4), der det var
+optimalt å by egen verdsatt verdi, blir forventet pris i tilfellet med uavhengige R [0, 1]
+
+trivielt lik (n — 1)/(n + 1), dvs. samme som ved (2). Altså er alle de fire
+auksjonsformer ekvivalente under de gitte forutsetninger.
+Jostein Lillestøl
+
+13
+
+
+
+Gjennomsnittsalder ved død etter spesialitet, alle godkjente spesialister som døde
+
+1989-99, antall døde og antall nålevende
+Alder
+
+Antall
+
+ved død
+
+dade
+
+nå-
+
+evekirurgi 83,3
+KjLungesykdommer
+
+61
+
+levende
+
+80,5
+
+4
+
+34
+
+Geriatri
+
+80,1
+
+10
+
+103
+
+sykdommer
+
+79,7
+
+23
+
+184
+
+Medisinsk
+
+mikrobiologi
+
+Radiologi
+
+79,1
+
+Øyesykdommer
+Øre-nese-hals-
+
+sykdommer
+
+Generell kirurgi
+fysiologi
+Nevrologi
+Nevrokirurgi
+
+og munnhulesykd.
+
+Hud- og veneriske
+
+78,3
+
+32
+
+371
+
+77,1
+
+77,2
+
+109
+
+34
+
+I 227
+
+76,3
+76,1
+76,0
+
+3
+28
+
+28
+263
+54
+
+kvinnesykdommer 75,8
+Barnesykdommer 75,6
+Indremedisin
+753
+
+42
+38
+102
+
+646
+531
+1461
+
+Psykiatri
+Revmatologi
+
+75,0
+75,0
+
+123
+24
+
+1 054
+150
+
+og rehabilitering
+
+73,3
+
+9
+
+122
+
+domspsykiatn
+Samfunnsmedisin
+
+72,6
+71,0
+
+9
+23
+
+146
+572
+
+Endokrinologi
+Thoraxkirurgi
+
+70,3
+67,6
+
+3
+5
+
+Barne- og ung-
+
+Ortopedisk kirurgi 704
+
+Va
+
+6
+
+115
+
+16
+
+461
+
+148
+
+62
+94
+
+logisk kirurgi
+
+67,0
+
+5
+
+Plastikkirurgi
+
+67,0
+
+8
+
+91
+
+Allmennmedisin
+
+66,7
+
+50
+
+2 696
+
+Fordøyelses-
+
+sykdommer
+
+66,6
+
+5
+
+173
+
+Hjertesykdommer
+
+65,8
+
+9
+
+279
+
+Patologi
+Anestesiologi
+
+62,6
+61,7
+
+13
+
+190
+192
+
+14
+
+;
+
+Kilde: Den norske lægeforenings legeregis-
+
+Loltehy U påx
+
+iå
+
+NA
+
+SS
+
+Ln
+
+t
+
+bo UW Ån VACHSko
+
+337
+
+Gastroentero-
+
+ter per 1.8. 2000.
+
+jr
+
+785 6311 523113
+
+Klinisk kjemi 752
+Fysikalsk medisin
+
+Ale
+
+188
+146
+
+Fødselskjelp og
+
+ap
+
+V
+
+Antall
+
+9
+
+Klinisk nevro-
+
+79,6
+
+ON
+
+Urologi
+
+å Q So
+
+N
+
+L
+,
+
+=e c
+
+TOM “A
+
+.
+
+dhe
+\
+
+rd VA
+_
+
+s
+
+\
+
+AGP Wat,
+
+k
+\
+
+PÅ
+
+An
+
+ie
+
+på
+
+-
+
+
+
+Gjemt, men ikke glemt 50åring: Gaute Vik.
+I sommer stod denne jubileumsomtalen i "Bergens Tidende". Den
+viser en karriere som er noe uvanlig
+for en statistiker, og vi gjengir den
+derfor i TG. Gaute Vik tok sin
+candidatus realium-eksamen med
+hovedfag1 statistikk ved Matematisk
+institutt, Universite-tet 1 Bergen
+høsten 1978. Hans veileder var
+Trygve Nilsen og tittelen på
+oppgaven er: "En tidskontinuerlig
+stokastisk
+i
+forgreiningsprosess
+miljø". Det var den tiden en var
+interessert i finurlige egenskaper for
+forgreiningsprosesser. De har en viss
+likhet med tidsrekker av typen
+—=korrelasjonsder
+AR(1)-modell
+koeffisienten er stokastisk. —Etter
+fullført eksamen ble Gaute ansatt på
+FFI på Kjeller og tok senere Ph.D.
+ved Oklahoma State University,
+Stillwater. Vedlagte utklipp fra
+Bergens Tidende skulle være bevis
+nok for at han også siden har gjort
+
+suksessi livet. Vi gratulerer!
+Gamle fagfeller i Bergen.
+
+1
+
+
+
+SAMMENKOMST OM STATISTIKK-UNDERVISNING
+KRISTIANSAND 16.8.2000
+Henrik Dahl, Høgskolen i Agder
+
+Norsk Statistisk Forening har i det siste engasjert seg stadig sterkere i undervisningsspørsmål.
+På Norsk Statistisk Forenings hovedmøte på Milde i 1987 ble det drøftet om foreningen skulle
+opprette undervisningsutvalg, men det ble da vedtatt å utsette saken. Det ble opprettet
+
+undervisningsutvalg i Norsk Statistisk Forening på hovedmøtet på Inderøy i 1989. I de første
+
+årene arbeidet medlemmene av undervisningsutvalget hovedsakelig individuelt, særlig med å
+forsyne TG med stoff om statistikk-undervisning. På 14. Nordiske konferanse i Matematisk
+Statistikk, Røros 1992 var det en egen sesjon for statistikkundervisning.
+Det store engasjementet kom med Reform 94, der undervisningsutvalget med Jostein
+Lillestøl, Ivar Heuch og Henrik Dahl på oppfordring fra formannen i Norsk Statistisk
+
+Forening hadde en gjennomgang av de nye lærebøkene i VGS. Dette arbeidet er oppsummert i
+en artikkel i TG nr.1 1998. Etter dette har mange statistikere engasjert seg i
+undervisningsspørsmål. Det er gitt etterutdanningskurs og man har engasjert seg i
+statistikkundervisning 1 andre skoleslag. Tiden var derfor moden til å arrangere en
+sammenkomst om statistikkundervisning.
+
+Takket være økonomisk støtte fra Norsk Statistisk Forening kunne vi få samlet folk fra
+Tromsøi nord til Kristiansand i sør. Det ble konsumert store mengder kaffe, spist kaker og
+sammenkomsten ble avrundet med reker. Deltakere var:
+Elinor Ytterstad (Universitetet i Tromsø)
+
+Tore Wentzel-Larsen og Rolf Volden (Høgskolen i Bodø)
+Ivar Heuch (Universitetet i Bergen)
+
+Ørnulf Borgan (Universitetet i Oslo)
+
+Torfinn Torp (Norges Landbrukshøgskole, Ås)
+Henrik Dahl (Høgskolen i Agder)
+Hege Therese Syvertsen (Kristiansand)
+
+Innlegget til Elinor dreide seg om etterutdanning. Slik situasjonen er i Norge i dag er det
+mange som underviser i statistikk med beskjeden bakgrunn i faget. Etterutdanning vil kunne
+bedre situasjonen for disse.
+
+Tore og Rolf tok for seg angrep statistikk-faget utsettes fra og hvordan slike angrep kan
+imøtegås.
+
+Ivar tok for seg hvordan vi skal trekke inn statistisk programvarei statistikkundervisningen. Å
+få slik undervisning til å virke godt i praksis er ikke noen enkel oppgave.
+
+Ørnulf viste hvordan situasjonen er for statistikk-faget i VGS og hvordan man har konsolidert
+stillingen etter Reform 94 og turbulensen som fulgte. Statistikerne bør vise en fleksibel, men
+aktiv rolle.
+
+Det var givende å få samlet statistikere som interesserer seg for undervisningsspørsmål i
+Norge. Jeg vet det er mange flere som deler våre interesser. Kanskje vi blir flere på neste
+møte.
+
+16
+
+
+
+Videreutdanning i statistikk for lærere
+Erfaringer fra Tromsø
+Elinor Ytterstad
+Universitetet i Tromsø
+
+Aktivitetene i Tromsø innen etter- og videreutdanning startet i etterkant av reform '94. Vi
+gjennomførte to femdagerskurs (todelt) i sannsynlighetsregning og statistikk med dekning av
+
+2MX og 3MX pensum. Totalt deltok 51 matematikklærere fra Troms og Finnmark. Nordland
+arrangerte egne kurs i Bodø. Statens Lærerkurs fullfinansierte kursene.
+
+Tre år senere arrangerte fakultetet et etterutdanningskurs i matematikk og statistikk. Også
+denne gang finansiert av Statens lærerkurs. 17 matematikklærere fra landsdelen deltok. Kurset
+gikk over en dag med forelesninger på formiddagen og diskusjoner etter lunsj.
+
+Nå i høst startet S-101 (5 vt) som fjernundervisning. Ved hjelp av finansiering fra Statens
+Lærerkurs er begynnerkurset i statistikk ved Universitetet i Tromsø gjort mere tilgjengelig for
+lærere som ønsker ett fjernstudium. Bevilgningen er på 124 000 og skal hovedsakelig dekke
+reise og opphold i forbindelse med en samling i Tromsø samt eksamensreise. Kurset ble
+annonsert i Statens Lærerkurs sin kurskatalog for snart ett år siden. I tillegg har vi lagt ut
+informasjon på Internet lenket til fakultetets hjemmeside. 13 lærere fra videregående skoler er
+påmeldt, dvs fire fra Finnmark, tre fra Troms, fem fra Nordland og en fra Sogn og Fjordane.
+Fjernstudiet startet med en samling over tre dager i oktober i Tromsø. Ni av de påmeldte
+møtte. De fleste hadde noe kunnskap innen sannsynlighetsregning og kombinatorikk fra
+tidligere, og vi kunne derfor gå forholdsvis raskt og overfladisk gjennom en tredel av pensum.
+Vi stoppet ofte opp for å regne enkle oppgaver. Mye tid ble brukt til å snakke om fagets
+egenart, det stokastiske og inferens.
+
+I tiden fram til eksamen i mai/juni arbeider lærerne selvstendig etter en framdriftsplan med
+utvalgte oppgaver (med løsningsforslag) fra lærebok. De kan til enhver tid ta kontakt med
+kursansvarlig elektronisk eller per telefon, og informasjon fra oss går via e-post.
+Til våren foreleses samme kurs på tradisjonell måte, med eksamen i mai/juni. Det er den
+samme eksamen fjernstudentene melder seg opp til og får reisestøtte til.
+
+I etterkant av første samling ser vi at det burde ha vært søkt midler til to faglige
+sammenkomster i Tromsø. En samling f.eks. i mars måned. En annen modell er å reise ut til
+enkelte utvalgte videregående skoler noen ganger i løpet av perioden. Da vil flere lærere ved
+samme skole og eventuelt fra naboskoler, få anledning til å følge kurset. Dette krever flere
+undervisningstimer, men ikke nødvendigvis større busjetter.
+
+
+
+Statistikk på økonomisk-administrative studier ved statlige høgskoler
+Tore Wentzel-Larsen, Siviløkonomutdanningen i Bodø
+
+Oppdatert og noe omarbeidet versjon av innlegg på møte i Kristiansand i august.
+Det felles innslaget av statistikk på de økonomisk-administrative studiene har vært et
+tovekttallskurs i 2. semester, basert på 2 vekttall matematikk fra 1. semester. I tillegg har noen
+
+institusjoner generelle metodekurs og valgfag med varierende innslag av statistikk, og det er
+en god del bruk av statistikk på studentoppgaver. Gjeldende rammeplan (1995) inneholder
+følgende formuleringer om statistikkens plass i studiet:
+”For å kunne gjennomføre grunnleggende analyser innenfor bedriftsøkonomi og samfunnsøkonomi er det behov for kunnskaper i metodefagene matematikk, statistikk og informasjonsbehandling. I tillegg har disse fagene egenverdi i kraft av å gi studentene trening i
+abstraksjon og stringens” (side 3)
+
+”Metodefagene skal hjelpe studenten til å treffe hensiktsmessige valg av modeller og datasett.
+De skal gi oversikt over alternative framgangsmåter og hvilke konsekvenser disse får.
+Metodefagene skal være redskap for studenten til å øve opp evnen til kritisk vurdering av
+resultatet ved bruk av modeller. ” (side 8)
+”Det er vesentlig å vurdere hvor godt en modell beskriver virkeligheten. For å kunne gjøre
+
+dette,
+
+er det nødvendig å
+
+beherske forskjellige utvalgsteknikker, eller forenklinger i
+
+behandling av data. På denne bakgrunn, skal studenten få grunnleggende innføring i
+statistiske metoder. En skal også kunne vurdere kvaliteten til innsamlede data og måten data
+presenteres på. Det er viktig at studenten kan vurdere validiteten i statistiske framstillinger
+både i faglig sammenheng og i dagliglivet. Studenten bør få innsikt i hvordan en nytter
+
+statistiske metoder i økonomi og samfunnsvitenskap. ” (side 9)
+”Kursene i matematikk og statistikk bygger imidlertid på kunnskaper tilsvarende 2MY i
+studieretning for allmenne, økonomiske og administrative fag i videregående skole. For
+studenter som
+
+ikke
+
+har
+
+tilstrekkelige forkunnskaper kan
+
+høgskolene
+
+tilby forkurs
+
+i
+
+matematikk.”
+
+Nasjonalt råd
+
+for økonomisk-administrativ utdanning ved
+
+statlige
+
+høgskoler
+
+(NRØA,
+
+underlagt Universitets- og høgskolerådet) nedsatte i fjor et utvalg til å utrede tre-årig struktur
+for de økonomisk-administrative studiene. Utvalgets forslag, med endringer vedtatt etter
+
+NRØA-møte i mai, er oversendt Departementet med anbefaling. Utvalgets sammenfatting av
+behovet for ny struktur omfatter (side 4-7, mi sammenfatting av en del punkter)
+e
+
+Toårig økadm. har utspilt sin rolle som selvstendig utdanning
+(endret arbeidsmarked, flere tar påbygningsstudier)
+
+e
+
+Lav studentgjennomstrømning
+
+e
+
+Konkurranse fra private høgskoler
+
+e
+
+Internasjonale utviklingstrekk
+
+Om målgruppe (side 7): Både heltid og deltid, også supplering av tidligere utdanning
+Egenskaper (side 8-9, utvalgets overskrifter):
+e
+
+Hovedmodellen skal fremstå som et treårig selvstendig bachelorprogram på heltid
+
+e
+
+Bachelorprogrammet skal være direkte påbyggbart til mastergrad og doktorgrad
+
+e
+
+Hele utdanningen, eller deler av den, skal lett kunne tilrettelegges for deltidsstudenter
+
+8
+
+
+
+Heltidsmodellen skal kunne modulariseres
+Det skal være lett å ta moduler med seg fra en institusjon til en annen
+Strukturen i utdanningen må være robust og stabil over tid
+
+Modellen må være enkel å administrere
+Modellen må være lett å synliggjøre
+
+Utvalget går inn for en 2+1-modell, med et forholdsvis fast opplegg for de to første
+studieårene, slik at det (vedlegg side 4) ”skal være enkelt å bytte høgskole etter hvert fullført
+studieår”. På tredjeåret har høgskolene (forslag til rammeplan side 4) ”stor frihet til å
+framheve sin egenart og profil gjennom sine profileringsretninger”. Med en slik modell blir
+nivået på de to første årene avgjørende for nivået på studiet, og også for nivået på
+påbygningsstudier.
+
+For matematikk/statistikk var opprinnelig forslag ett felles kurs på 2 vekttall 1. studieår, basert
+på generell studiekompetanse. Det skulle inngå mer matematikk i en del økonomikurs, og noe
+mer statistikk i et kurs i samfunnsvitenskapelig metode 2. studieår. Eksamen var for de fleste
+2-vekttallskurs 1 time nasjonal flervalgseksamen og | time utarbeidet lokalt. En del av disse
+forslagene møtte motstand innen flere fagmiljøer, også blant statistikere. Et resultat var Norsk
+statistisk forenings uttalelse, der samfunnsvitenskapelig metode i 2. studieår ble foreslått
+erstattet av et kurs ”Statistisk analyse i bedriften”.
+På et NRØA-møte i mai gikk en, innenfor en 2+1-modell, inn for at ”evalueringsformer ikke
+skal fastsettes i rammeplanen”, at ”det organiseres egne metodekurs på totalt 6 vt., og at disse
+utformes i samarbeid mellom fagmiljøene i metode- og økonomifagene” og det ble vedtatt at
+”NRØA gir arbeidsutvalget fullmakt til å nedsette fire faggrupper med representanter fra
+utvalgte høgskoler innen a) bedriftsøkonomisk analyse, b) administrasjonsfag og juridiske fag,
+
+c) samfunnsøkonomi og d) metodefag. Faggruppene gis i oppdrag å utarbeide mål og innhold i
+beskrivelsene av de ulike obligatoriske emnene i samsvar med den foreslåtte nye
+rammeplanen. Faggruppene bes også anbefale mulige undervisnings- og evalueringsformer.”
+Arbeidsutvalget i NRØA sluttet seg i et møte seinere i mai til dette og vedtok at faggruppa i
+metodefag, som omfatter matematikk og statistikk, skulle oppnevnes av høgskolene i
+Buskerud, Sør-Trøndelag og Østfold. I arbeidsutvalgets reviderte forslag til rammeplan er
+følgende verd å merke seg: Innføringskursene i elementær matematikk og statistikk skal begge
+bygge på generell studiekompetanse alene. Til sammenlikning er innføringskurset i statistikk i
+nåværende rammeplan fra 1995 basert på grunnkurset i matematikk. Flervalgseksamen er nå
+tenkt som supplement til hjemmeeksamen. Videre kan evaluering i flere emner slås sammen,
+og det sies at enkelteksamener ”bør normalt være på minst 4 vekttall.” Dette kan innebære at
+det ikke anbefales en egen eksameni statistikk på studiet.
+Departementet har i høst blant annet (jfr arbeidsutvalgsmøte NRØA 12/9) meddelt NRØA at
+bruk av rammeplaner i høyere utdanning skal behandles politisk, så den videre framdrifta er
+usikker. Uansett er det viktig at Norsk statistisk forening fortsatt følger opp denne saken.
+Faggruppa i metodefag kan være en mulig kanal.
+Referanser:
+
+Gjeldende rammeplan fra 1995 kan lastes ned fra http://www.nnr.no/ En må leite en del, klikk
+først på Publikasjoner, så på Rammeplaner, Vedtatte og Grunnutdanning, og bla nedover.
+Dokumentene fra NRØA finnes under www.uhr.no/nasjonale-rad/nrokad
+(møtereferater, og forslag til ny struktur med link til foreslått rammeplan)
+
+9
+
+
+
+Matematikk, statistikk og metode
+ved Siviløkonomutdanningen i Bodø
+Momenter til diskusjon i Kristiansand den 16. august ved Rolf Volden.
+Innlegget er noe modifisert etter at forslaget til ny struktur i øk/adm-studiet ble revidert.
+Nedenfor er listet opp ulike kurser og aktiviteter innen matematikk, statistikk og metode i
+ulike studier ved Siviløkonomutdanningen i Bodø (SiB). Vi har valgt å ta inn metodekursene i
+listen da de ofte inneholder en del statistikkrelatert stoff innen kvantitative metoderi tillegg til
+kvalitative metoder og vitenskapsteori. I tillegg inneholder listen en del aktiviteter i form av
+kandidatoppgave, siviløkonomoppgave, ledet selvstudium og hovedfagsoppgaver som kan
+inneholde nokså mye anvendt statistikk, alt avhengig av studentenes valg og interesser.
+
+Beskrivelser av studiene og kursene er delvis lagt ut under Høgskolen i Bodøs hjemmesider.
+1. avdeling:
+
+Øk/adm-studiet (2 år):
+
+11327 Matematikk for økonomer
+
+2 vt. i 1. semester (obligatorisk)
+
+11303 Grunnkursi statistikk
+
+2 vt. i 2. semester (obligatorisk)
+
+10133 Metode
+
+2 vt. i 3. semester (obligatorisk for adm-linje)
+
+19903 Kandidatoppgave
+
+2 vt. 1 4. semester (obligatorisk)
+
+22231 Grunnkurs i matematisk analyse 4 vt. i 3. og 4. semester (valgfag)
+
+2. avdeling:
+Siviløkonomstudiet (2 år):
+50002 Metodelære
+50027 Matematiske metoder
+
+2 vt.i1 1.semester
+
+(obligatorisk)
+
+22231 Grunnkurs i matematisk analyse
+
+2vt.1i 1.semester
+(valgfag)
+2 vt.i 2. semester
+(valgfag)
+4vt.i 1. og 2. semester (valgfag)
+
+5060x Siviløkonomoppgaven
+
+8 vt.1 4.semester
+
+50028 Statistiske metoder
+
+(obligatorisk)
+
+Hovedfag i bedriftsøkonomi med vekt på innovasjon og iverksetting:
+55002 Anvendt metode
+2 vt.1i 3. semester
+(obligatorisk)
+55040 Ledet selvstudium
+
+4vt.i 3.semester
+
+(obligatorisk)
+
+55100 Hovedfagsoppgave
+
+10 vt. i 4. semester
+
+(obligatorisk)
+
+550xx Kurs i kvantitativ metode
+
+(under planlegging)
+
+I matematikk er det bare kurset 11327 på 2 vekttall som er obligatorisk, som basis for de tre
+studiene. Resten av matematikk-kursene er valgfag. Enkelte studenter kan ha mer matematikk
+
+i opptaksgrunnlaget til disse studiene. I statistikk er 2-vekttallskurset 11303 obligatorisk og
+basis for de tre studiene, meni tillegg inneholder de ulike obligatoriske metodekursene på de
+
+tre studiene en del
+
+statistikkrelatert stoff innen kvantitative metoder. Det er få studenter på
+
+øk/adm-studiet som forsøker å ta valgfaget i matematikk, kurs 22231 (MA100-ekvivalent med
+vekttallsreduksjon) da dette kurset betraktes for å være arbeidskrevende og vanskelig.
+Hvordan kunne så utvalget for vurdering av ny struktur for øk/adm-studiet forut for NRØAmøtet i mai foreslå å redusere den allerede begrensede obligatoriske basisdelen i matematikk
+og statistikk fra 4 til bare 2 vekttall i et felles metodekurs? Riktignok foreslo man å overføre
+deler av de innsparte vekttallene i matematikk og statistikk, hovedsaklig til kursene i
+finansiering og investering og til samfunnsvitenskaplig metode på 2. studieår. Det er et nokså
+illevarslende signal at administratorer og fagpersoner ved høgskolene virkelig tør foreslå et
+
+20
+
+
+
+slikt tiltak for å redusere frafallet i øk/adm-studiet. Forslaget ser nå ut til å være stoppet , trolig
+
+på grunn av de sterke innvendingene på mai-møtet fra flere høgskoler som var sterkt negative
+til de foreslåtte endringer på dette punktet. Kanskje har også innvendingene fra NSF spilt en
+viss rolle i denne sammenhengen. Det er i dag ikke klart hvilke endringer i rammeplanen for
+
+matematikk og statistikk-fagene som den nyutnevnte faggruppa i metodefag vil foreslå.
+Matematikk og delvis statistikk har lenge hatt ord på seg for å være vanskelige fag med
+relativt høye strykprosenter og ikke-møtt prosenter. Dette er kurs som kommer på første året
+og som krever en god del systematisk jobbing og delvis endrede studieteknikker fra de
+benyttet i videregående skole. Spesielt matematikk som kommer i det første semestret, er et
+problem for mange studenter som ofte har glemt det lille de engang kunne fra videregående
+
+skole eller som der har valgt bort matematikk i den grad det var mulig Samtidig må
+kandidatene endre sine studievaner fra å være i en nokså kontrollert elevrolle til å være i en
+mer fri studentrolle uten nevneverdig kontroll av fremmøte, tilstedeværelse og innsats. I
+tillegg møter studentene et virvar av nye fritidstilbud og gode tilbud om deltidsjobber i
+høgskolenes nærmiljø, noe som kan være med på å dra interessen bort fra selve studiet. At
+studentene kommer dårlig ut i det første semestret på øk/adm-studiet kan derfor ha helt andre
+årsaker enn at ”matematikk er vanskelig”.
+
+I de senere åra har strykprosentene i samfunnsøkonomi vanligvis vært noe lavere enn i
+matematikk, mens strykprosenten i bedriftsøkonomi og regnskap har vært tilnærmet lik den i
+matematikk. Forskjellene i strykprosenter mellom økonomifagene og matematikk er ikke
+
+større enn at de kan forklares ved at økonomifagene har eksamener noe lengre ut i studiene
+enn matematikk, og de mest umotiverte studentene har kanskje sluttet allerede da. I tillegg er
+det også betydelig høyere strykprosenter i fag som markedsføring og organisasjon enn det har
+vært tidligere. Dette siste kan tyde på at den lave gjennomføringen på øk/adm-studiet har flere
+og mer kompliserte årsaker enn et ”vanskelig” matematikk-kurs. Den foreslåtte
+nedgraderingen av matematikk og statistikkfagene på øk/adm-studiet, som ble foreslått av
+NRØA-utvalget og som na forhåpentligvis er stoppet, synes derfor å mangle en skikkelig
+begrunnelse.
+
+Siviløkonomstudiet:
+
+Som det fremgår av listen ovenfor, finnes det ingen obligatoriske kurs i matematikk, mens der
+er noe statistikk i det obligatoriske metodekurset 50002. De øvrige tilbud som finnes er i form
+av valgfag og en obligatorisk siviløkonomoppgave. Noe under 20% av studentene tar valgfag
+i matematikk eller statistikk. Enkelte studenter kan ha mer matematikk og statistikk i
+opptaksgrunnlaget til studiet. Det er uklart hva som vil skje ved SiBs kursportefølge på
+siviløkonomstudiet om det skulle bli foreslått store endring i de obligatoriske kursene i
+matematikk og statistikk i den nye rammeplanen for øk/adm-studiet.
+Hovedfaget i bedriftsøkonomi med vekt på innovasjon og iverksetting:
+Kursportefølgen på hovedfaget er under stadig vurdering på grunn av endringer i hovedfaget
+ved NHH og konkurrerende mastergradsstudier i økonomi. I dag finnes det ingen obligatoriske
+kurser hverken i matematikk eller i statistikk.
+
+
+
+Bruk av statistisk programvare i elementærundervisningen:
+Må vi revidere kursoppleggene?
+Ivar Heuch
+Matematisk institutt, Universitetet i Bergen
+
+Bruk av programvare har inngått i undervisningeni statistikk på universitets- og høyskolenivå i
+
+mange år. Det er åpenbart stor enighet om at øvelser på datamaskin utgjør en naturlig del av undervisningen i faget, selv om omfang og organisering kan diskuteres. Når vi nå står foran et nytt trinn i
+utviklingen på dette feltet, er det naturlig å peke på at det ikke alltid har hersket slik samstemmighet.
+
+Da jeg i 1981 holdt et innlegg om saken på Norsk statistikermøte på Bø [1], møtte selve tanken om å
+
+legge anvendelser av programvare inn i brukerundervisningen til dels sterk motbør.
+I dagens undervisningssystem inngår det ofte forskjellige typer statistisk programvare på ulike
+nivåer, avhengig av målgruppe og forutsetninger. Dette innlegget tar opp spørsmål i forbindelse med
+grunnleggende statistikkundervisning på høyskolenivå, i alt vesentlig beregnet på studenter uten
+særlig matematisk bakgrunn. Datakurs av denne typen forekommer i mange varianter ved lærestedene
+i Norge. Hensikten er i noen grad å gi studentene et ferdig redskap for analyse av datasett. Dessuten
+har undervisningen vanligvis et videre perspektiv som ikke er knyttet til noen bestemt programvare.
+Det gjelder for det første de generelle prinsippene for praktisk dataanalyse. I mange tilfeller utnyttes
+øvelsene
+
+på
+
+datamaskin
+
+også
+
+til
+
+å
+
+skape
+
+større
+
+forståelse
+
+for
+
+underliggende
+
+ideer
+
+1
+
+sannsynlighetsregning og statistikk. Kurs for brukergrupper på høyere nivå krever derimot ofte andre
+dataopplegg.
+
+En klassifisering av dagens kursopplegg
+
+Mange av kursene på dette nivået har fulgt samme mønster, men det har også forekommet
+vesentlige avvik. En fruktbar diskusjon av mulige fremtidige opplegg bør bygge på en klassifisering
+av kursoppleggene som allerede har vært i bruk. I det følgende skisserer jeg min egen grove inndeling:
+
+1. ‘Standardopplegget’. I mange kurs blir det gitt et par litt større oppgaver som forutsetter bruk
+av statistikkprogram på datamaskin. Oppgavene medfører vanligvis analyse av bestemte datasett, og
+
+det skal leveres besvarelser til godkjennelse innen oppgitte frister. I den grad det gis systematisk
+
+opplæring i bruk av det aktuelle programsystemet, skjer det gjerne uformelt ved siden av den vanlige
+undervisningen. Studentene benytter datamaskiner som er tilgjengelige på bestemte datarom, ofte i
+
+konkurranse med studenter i andre fag. Øvelsene faller omkring midten av undervisningssemesteret.
+Til eksamen blir det ikke gitt oppgaver som dreier seg spesifikt om programsystemet, men det
+
+forekommer ofte spørsmål om fortolkning av typiske utskrifter. Det finnes mange varianter av dette
+
+opplegget. For ti år siden hadde TG en serie som gikk over flere nummer, med beskrivelse av
+dataoppleggene som ble fulgt ved mange norske læresteder (innledet av et innlegg om forholdene ved
+det daværende NTH [2]). Artiklene byr stadig på interessant lesning, og mange av beskrivelsene
+gjenspeiler forskjellige utformninger av ‘standardopplegget’. Selvsagt er det foretatt vesentlige
+forandringer i løpet av de siste ti årene, men det er grunn til å tro at det fortsatt eksisterer versjoner av
+dette opplegget mange steder.
+2. ‘Laboratorieopplegget’. Med studenter som ikke har trening i databehandling, kan *standard-
+
+opplegget” ha en tendens til å flyte ut, slik at tiden blir lite effektivt utnyttet. For å bøte på dette
+problemet innførte vi 1989 en mye strammere ordning i elementærkurs i statistikk for realfagsstudenter ved Universitetet i Bergen. Hver student ble plassert i en gruppe på maksimalt ti personer,
+tilsvarende antallet PC-er i et lokale brukt utelukkende for dette formålet. Hver gruppe fikk tilordnet
+en bestemt periode på 2 timer annenhver uke som ‘laboratorietid’, mer i trad med øvelsespraksis i
+laboratoriefag som fysikk og kjemi. I løpet av denne tiden skulle hver student følge et forholdsvis
+stramt opplegg, med mer detaljert teknisk beskrivelse av hva som skulle utføres [3] enn det som har
+
+22
+
+
+
+vært vanlig i ‘standardopplegget’. Under øvelsen er det hele tiden en gruppeleder til stede som gir
+hjelp når det dukker opp problemer. Gruppelederen bør også gripe inn på eget initiativ dersom en
+
+student tydeligvis faller utenfor øvelsesprogrammet. Oppgavene er formulert som spørsmål knyttet til
+en praktisk problemstilling, men det konsentrerte opplegget er valgt slik at det både skal illustrere
+statistiske metoder og noe mer tekniske sider ved programsystemet. Utskriften som fås gir grunnlag
+for å
+
+svare på spørsmålene
+
+i
+
+oppgaveteksten,
+
+selv om det kan bli
+
+påkrevd med
+
+mindre
+
+tilleggsutregninger. I alt har det inngått seks øvelser i løpet av semesteret i det aktuelle
+trevektallsemnet, mens det bare har vært krevd at fire av de seks besvarelsene skulle være godkjent
+for at en student kunne gå opp til eksamen. De statistiske problemene som tas opp, reflekterer stort
+sett progresjonen i behandlingen av pensum ellers. Det har også vært tilbudt ekstra tid etterpå for
+studenter som ville arbeide mer med de aktuelle oppgavene, men i de siste semestrene har dette ikke
+latt seg gjøre p.g.a. problemer med sikkerheten.
+
+3. Læreboksopplegget”. Dette opplegget er på enkelte måter helt annerledes enn det som hittil har
+vært praktisert i Norge. Derimot ser det ut til å være ganske utbredt i USA, tatt i betraktning lærebøkene av denne typen som stadig kommer tilsendt fra forlagene. Disse bøkene gir forholdsvis enkle
+eksempler på hvordan bestemt programvare kan brukes til å illustrere begrep som nettopp er innført i
+teksten. Forfatterne tenker seg tydeligvis at leseren skal sitte med datamaskin ved siden av boken, slik
+at det straks er mulig å teste ut ideene ved hjelp av statistikkprogrammet. Et typisk eksempel er
+læreboken av N.E. Weiss [4], som til stadighet har avsnitt med referanser til Minitab innimellom den
+ordinære fremstillingen. Avsnittene er markert med et Minitab-symbol i margen, mens selve
+teksttypen er lik hele veien, slik at bruken av programmet blir integrert i den generelle forklaringen.
+Riktignok har boken også tilsvarende symboler for TI-83 og Excel, men disse forklaringene spiller en
+underordnet rolle. Fordelen med akkurat denne boken er at forklaringene til Minitab passer ganske
+godt til de nyeste programversjonene (men ikke helt, siden boken refererer til versjon 12, mens
+versjon 13 kom tidligere i år). Selvsagt finnes det også egne avsnitt om programvare f.eks. i norske
+elementærbøkeri statistikk, men vanligvis er det mer snakk om forklaringer på siden av teksten enn
+illustrasjoner integrert i metodebeskrivelsene.
+4. «Opplegg basert pa statistikkprogram som læremester”. Opplegget i punkt 3 er på mange
+måter ganske tradisjonelt i forklaringen av ideer og metoder, selv om bruk av datamaskin inngår i
+eksemplifiseringen. En annen og mer utfordrende ide er det å la selve utnyttelsen av programvaren
+spille rollen som læremester, i den forstand at alle grunnleggende begrep innføres ved illustrasjoner
+med statistikkprogrammet. Måten studentene nærmer seg stoffet på, blir annerledes, og opplegget kan
+
+tenkes å appellere til studenter som ellers neppe ville funnet seg til rette med en tradisjonell
+lærebokspresentasjon. Det mest utpregede eksempelet av denne typen i Norge er antagelig opplegget
+laget av Lillestøl og Ytrehus [5] for bruk ved kursvirksomheten ved Norges Handelshøyskole.
+Lillestøl har beskrevet positive og negative erfaringer fra dette opplegget [6].
+5. Dataøvelser integrert i opplegg for datastøttet lering’. Det neste naturlige trinn i integrasjonen av datakraft med undervisningsopplegg representerer læreprogrammer utviklet nettopp med
+det formål å innøve begrepi statistikk. Det har lenge eksistert spesielle programmer som skulle gjøre
+det mulig for studenter å oppnå en bedre forståelse ved hjelp av skreddersydde simuleringsopplegg.
+Et system av denne typen, utviklet som en del av en hovedfagsoppgave, ble beskrevet i TG i 1990 [7].
+På dette området har det skjedd en forholdsvis sterk utvikling utenfor vårt fag i de senere år. Det mest
+omfattende systemet for statistikkundervisning som jeg har sett av denne typen, er ActivStats [8],
+som jeg også har fått tilsendt fra forlaget. Straks man setter den vedlagte CD-en inn i en PC, får en
+tilgjengelig et omfattende læresystem med forklarende tekst for mange grunnleggende begrep.
+Systemet utnytter alle slags finesser på datamaskinen, med muligheter for små tester med
+svaralternativer, avspilling av videoer, oppkobling via web, og bruk av forfatterens egen pakke Data
+Desk for statistiske analyser. Det tekniske virker imponerende ved første gangs bruk, men hvor
+effektivt systemet er som læremiddel, er det verre å uttale seg om. Så vidt jeg vet, er ikke noe slikt
+system tatt i bruk i Norge, men forholdene kan raskt endres.
+6. ‘Programmeringsopplegget’. Før PC-enes og arbeidsstasjonenes tid var bruk av generelle
+
+programmeringsspråk mer utbredt innenfor statistiske miljøer. For enklere statistiske metoder kunne
+disse språkene bli brukt som pedagogisk hjelpemiddel, ved at studentene fikk i oppgave å
+
+23
+
+
+
+programmere passende algoritmer. I dag finner en noe av den samme tankegangen blant statistikere
+som anbefaler bruk av regneark i brukerkurs. Studentene får iallfall bedre innsikt i hva metoden går
+
+ut på når de må stille opp aktuelle regneuttrykk selv. Går en over til mer avanserte metoder, blir det
+derimot mindre rasjonelt å utføre slik programmering på egenhånd. Likevel skal en ikke undervurdere
+betydningen av populære system som regneark blant PC-brukerne i situasjoner der det trengs
+
+tallbehandling av moderat omfang.
+De seks oppleggene skiller seg mye fra hverandre i motiveringen studentene får for å arbeide med
+programsystemene. I praktisering av ‘standardopplegget’ og ‘laboratorieopplegget’ henger motiveringen sammen med arbeidet frem mot godkjennelse av obligatoriske oppgaver. I opplegg 4 oppfordres studentene derimot til å arbeide med datamaskinen for i det hele tatt å forstå hva lærestoffet
+går ut på. ‘Lereboksopplegget’ virker delvis på samme måte, men her kan det være enklere for en
+student bare å hoppe over referansene til statistikkprogrammet. I opplegg 5 er det viktig at dataanalyseverktøyet er godt integrert i lærepakken, selv om dette opplegget også kan kombineres med
+oppgaveinnlevering. I ‘programmeringsopplegget’ kan noe av motiveringen ligge i tidligere positive
+
+erfaringer med dataverktøyet. Det er vanskelig å si hva som er mest effektivt!
+Hvorfor er situasjonen blitt annerledes?
+
+Selv om praktiske opplegg for dataøvelser i statistikkurs ikke har forandret seg fundamentalt i løpet
+av de siste ti årene, er det tydelig at studentene etter hvert har fått langt bedre databakgrunn. Tidligere
+var det ganske vanlig å treffe på studenter som var helt hjelpeløse i forhold til datamaskiner. De
+hadde store problemer med 4 komme noen vei med et ferdig programmert opplegg i løpet av et
+
+avmålt tidsrom. Holdningen er nå stort sett annerledes, også blant studenter som slett ikke orienterer
+seg i retning av datafag. I stor grad reflekterer dette forandringer som har foregått overalt i
+samfunnet. I kurssammenheng er det likevel viktig å ta hensyn til at studentmassen fortsatt er ganske
+heterogen, og ferdighetene til ferske studenter må derfor ikke overvurderes.
+Samtidig er datamaskinene er blitt mye lettere tilgjengelige. Det er adskillig enklere å basere
+undervisning på bruk av dataprogrammer nå uten å måtte gå til store investeringer over trange
+universitetsbudsjetter. Mange studenter har også egen PC. I praksis er utbredelsen likevel enda ikke
+så stor at man kan unnvære løsninger basert på felles datarom. Styrende organer ved universitetene
+har til dels overdrevne forestillinger om hvor langt denne utviklingen er kommet. Ved Universitetet i
+Bergen ble f.eks. undervisningskatalogen fra høsten 2000 avskaffet som papirutgave, noe som ledet
+til stor forvirring blant studentene. Med det eksisterende utstyrstilbudet er det ganske enkelt ikke
+realistisk å tro at det store flertallet av nye studenter har noen mulighet til å slå opp og finne
+timeplaner på Internett. Om ganske få år kan situasjonen være en helt annen.
+Generelt kan en merke store endringer i holdningen hos forfatterne av lærebøker til supplerende
+programvare. Som for ti år siden finnes det nærmest alle mulige avskygninger i lærebokstilbudet,
+men likevel må en kunne si at den typiske elementærboken i dag ser helt annerledes ut. Om ikke
+annet forekommer det iallfall hyppige henvisninger til bruk av programmer. Dessuten har det dukket
+opp nyere data-intensive statistiske metoder, men riktignok ikke så ofte på elementærnivået.
+Samtidig har det foregått en utvikling av programvaren selv, så det er blitt lettere å gjennomføre
+kompliserte statistiske analyser med programsystem som tidligere ble ansett som relativt enkle. En
+student som blir vant til å bruke en bestemt statistikkpakke på et tidlig stadium, vil derfor også ha
+gode muligheter for å kunne gjennomføre f.eks. mer komplekse multivariable analyser senere med
+samme system. Det er ikke lenger påkrevd å sette seg inn i andre, mer omfattende programpakker. På
+denne måten blir det enda viktigere å gi en balansert innføring i anvendelser av programvare på
+grunnivå i undervisningen.
+Det er tydelig at de forbedrede praktiske mulighetene for brukerne av statistikkfaget også har
+medført endringer i holdningen til faget generelt. På mer avansert nivå innenfor helt andre disipliner
+hører en langt oftere uttalelser om at fagfolk som har god bakgrunni statistikk, stiller sterkt. I mange
+
+tilfeller forventes det praktiske ferdigheter med aktuell statistisk programvare for å bli en kvalifisert
+fagmann. Statistikerne bør møte denne utfordringeni sin undervisning.
+
+24
+
+
+
+Aktuelle diskusjonstemaer
+
+Dagens situasjon med tanke på datatekniske hjelpemidler i statistikkundervisningen er langt fra
+stasjonær. De tilgjengelige hjelpemidlene blir stadig forbedret, samtidig med at det kommer nye ytre
+
+krav til undervisningen. Det virker ikke usannsynlig at utviklingen vil gå raskere i neste tiår enn det
+vi så i nitti-årene. Hvordan skal vi tilpasse oss? Det er naturlig å formulere en del åpne spørsmål som
+kan fremme diskusjonen. Forsøk på fullstendige svar er det ikke aktuelt å gi her.
+Er ‘standardopplegget’ fortsatt et rimelig kompromiss i enkelte kurs? Dette opplegget forut-
+
+setter at det aktuelle kurset primært skal gi en innføringi statistisk tankegang langs mer tradisjonelle
+retningslinjer. Det kan dreie seg om enkel matematisk fremstilling eller uformell beskrivelse av
+
+begrep og metoder med andre konvensjonelle læringsteknikker. I hvilken grad dette fortsatt vil være
+et akseptabelt alternativ, avhenger av målene en setter for undervisningen. Tar en f.eks. sikte på å
+utdanne lærere som kan påta seg undervisning i matematikk i videregående skole, bør pensum ha et
+
+ikke uvesentlig teoretisk innslag. I slike kurs kan ‘standardopplegget’ fortsatt ha sin berettigelse.
+Kurs basert på mer problemorientert undervisning kan bli bygget opp rundt enda større og mer
+konsentrerte dataoppgaver. Men hvordan skal studentene i så fall trenes opp i bruk av datahjelpemidlene? Det kan bli nødvendig å ty til andre opplegg for å bringe studentene opp på riktig nivå. I
+slike tilfeller kan det også være nyttig med bøker som gir en selvstendig, uformell innføring i
+
+programvaren, som f.eks. [9].
+Ber *laboratorieopplegget” beholdes for svake studenter? I enkelte kurs er kravene til
+studentene blitt adskillig større etter at datamaskinene kom. Ideelt sett forventes det nemlig fortsatt de
+samme teoretiske kunnskapene, parallelt med nye tekniske ferdigheter. Trening i bruk av de tekniske
+hjelpemidlene behøves dersom studentene senere skal være i stand til å behandle praktiske problemer
+innenfor andre fagfelt. Bør en i denne situasjonen beholde en mulighet til et mer intensivt opplegg av
+
+laboratorietypen? Faller en student utenfor det praktiske dataopplegget, kan konsekvensene bli
+alvorligere enn hvis man misforstår perifer teori i et tradisjonelt opplegg. Det kan derfor fortsatt være
+viktig
+
+med
+
+individuell
+
+oppfølgning.
+
+Uansett
+
+er
+
+det
+
+ganske
+
+arbeidskrevende
+
+å
+
+utvikle
+
+nye
+
+‘laboratorieopplegg’ og holde dema jour.
+Er det mulig i dag å tilpasse seg ‘lareboksopplegget’? Slik forholdene er i øyeblikket, er svaret
+
+klart nei, hvis en f.eks. tar for seg realfagsstudenter. I stor grad vil stadige henvisninger til
+mulighetenei statistikkprogrammer virke som en forstyrrende faktor når en student uten datamaskin
+går gjennom en lærebok. Situasjonen kan likevel forandre seg raskt, p.g.a. faktorer som ligger helt
+
+utenfor statistikernes ansvarsområde. Lignende problemstillinger dukker også opp i andre fag, men
+nettopp fordi de grunnleggende spørsmålene i statistikkfaget handler om analyse og fortolkning av
+
+data, står vårt fag i en særstilling.
+Er det berettiget å gi egne kurs etter ‘opplegg basert på statistikkprogram som læremester”?
+
+Slike opplegg kan ha et potensial overfor nye grupper av studenter som ellers ikke ville lært
+statistikk. De kan være spesielt aktuelle for personer som er kommet forbi stadiet der man godtar
+undervisning på tradisjonell skolemaner. Med dagens brukervennlige programvare kan det være mer
+
+realistisk å få utarbeidet nyttige opplegg av denne typen, selv om dette også må bli svært
+arbeidskrevende. En kombinasjon med mer omfattende datastøttet læring kan være aktuell.
+Når kan vi dra virkelig nytte av ‘datastettet leringsopplegg’? Dette er stadig et vanskelig
+generelt spørsmål! Svaret vil avhenge mye av utviklingen utenfor statistikkfaget. Man kan tenke seg
+at dataoppleggene blir et supplement til tradisjonell undervisning, slik at studentene vil veksle
+mellom forskjellige læremetoder. Øvelser med bruk av statistikkprogrammer på datasett kan styres av
+læreprogrammene, eller det kan være mer rasjonelt å holde de to anvendelsestypene av data-
+
+maskinene adskilt. Kommersielle forhold kan lett komme til å spille en stor rolle ved utviklingen av
+slike læretilbud, slik vi har sett det for lærebøker, der det amerikanske markedet ofte dominerer. På et
+senere stadium vil det trolig komme system som på en enkel måte gjør det mulig for lærerne å legge
+
+inn personlige preferanser om aktuelt stoff og oppgaver for kursene som det undervises i.
+Bør studenter som f.eks. kjenner regneark, få egne tilbud i ‘programmeringsopplegget’? Her
+
+spørs det om statistikerne ser seg tjent med å gi kurs innrettet mot grupper som insisterer på bruk av
+sitt eget favorittverktøy. Spørsmålet avhenger også av hvordan forholdet blir i fremtiden mellom
+
+25
+
+
+
+statistisk og annen programvare. Blir skillet mellom kategoriene utvisket, kan ‘programmeringsopplegget” igjen bli mer aktuelt.
+Skjer det reelle forbedringer?
+
+Oppleggene for dataøvelser har hittil forandret seg gradvis i takt med endringenei statistisk praksis
+utenfor undervisningsinstitusjonene. Nye hjelpemidler vil sikkert tas i bruk i årene fremover.
+
+Internett gir nye muligheter også for statistikkundervisningen [10], spesielt i interaktive demonstrasjoner som utnytter potensialet i programmeringsspråket Java. Men hvor viktig dette blir for den
+daglige undervisningen i overskuelig fremtid, er det ikke lett å uttale seg om. At et bestemt
+læreopplegg f.eks. er basert på web-baserte hjelpemidler, er ingen garanti for kvalitet. For den saks
+skyld kan opplegget prinsipielt være riktig bra, men likevel uegnet for norske studenter.
+Likevel ser en ofte satsing på svært generelle planer for bruk av nye tekniske hjelpemidler i
+undervisningen. Ved Universitetet i Bergen er det nylig lagt frem en uttalelse fra ‘Havik-utvalget’ om
+‘IKT-basert læring? [11]. Ideene som blir uttrykt her, viser stor underliggende entusiasme og legger
+opp til omfattende ressursbruk, men gir få anvisninger på konkrete tiltak som skal gjøre undervisningen bedre. Det er til og med vanskelig å oppfatte hvordan temaet som omtales skal avgrenses. På
+side 2 i innstillingen finner en denne presiseringen:
+*Hva er IKT-basert læring (IKTL)? IKT-baserte læringsformer kjennetegnes ved fagdidaktisk bruk av
+informasjons-
+
+og kommunikasjonsteknologi
+til å understøtte
+individuelle
+og
+kollektive
+læringsprosesser, samt å bidra til å gjøre undervisning mer tilgjengelig, brukerorientert og fleksibel,
+dvs. mer uavhengig av tid og sted, og bedre tilpasset den enkeltes læringssituasjon.”
+
+Kan statistikerne melde seg med noen beskjedne dataøvelser i en slik sammenheng? Jeg har ingen
+formening om hva de ansvarlige for innstillingen ville si til det spørsmålet. På mange måter fremstår
+
+likevel den gradvise utviklingen med dataøvelser som vi har sett over en lang tid i statistikkfaget, som
+et motstykke til de sentraldirigerte prosessene som det nå ivres for med IKTL. Den stadig mer
+utstrakte bruken av statistisk programvare har gjenspeilet den generelle bevegelsen i faget selv, og
+den har kommet brukernes ønsker i møte. Videre har undervisningen tilpasset seg det aktuelle
+tekniske nivået på forskjellige tidspunkter, og den har hatt direkte sammenheng med lærestoffet ellers
+i faget. Bevilgninger til datautstyr i statistikkundervisningen har ikke akkurat toppet prioriteringslistene i styrende organer, noe mange studenter også har merket, men iallfall i visse perioder har det
+vært vist en rimelig interesse lenger oppe i systemet. Hvis statistikerne fører videre den kontinuerlige
+reformprosessen som startet omkring 1980 med dataøvelser, vil faget fortsatt kunne bidra effektivt til
+universitets- og høyskoleutdannelser med mange slags siktemål.
+Referanser
+
+[1] Heuch I. Ødelegger programpakkene statistikkundervisningen? Erfaringer fra emnet "Anvendt statistikk”
+ved Universitetet i Bergen. Sammendrag, Norsk statistikermøte 1981.
+[2] Tyssedal JS. Litt om dataøvingari statistikkundervisinga ved NTH, Trondheim. Tilfeldig Gang 7 (2), 30-31
+(1990).
+
+[3] Heuch I. Øvelser i elementær statistikk på PC, med bruk av Minitab under Windows. Matematisk institutt,
+Universitetet i Bergen, Bergen 1998.
+[4] Weiss NA. Introductory statistics. 5. utg. Addison-Wesley, Reading, Mass. 1999.
+
+[5] Lillestøl J, Ytrehus, LJ. Statistisk dataanalyse med PC. Allmenn innføring med Minitab. Rev. utg. Fagbokforlaget, Bergen 1993.
+
+[6] Lillestøl J. Innføring i statistisk metode: Erfaringer med datastøttet læring ved Norges Handelshøyskole.
+Tilfeldig Gang 7 (3), 27-30 (1990).
+
+[7] Lilleeng S. Et simuleringsprogram for illustrasjon av begreperi statistisk metodelære. Tilfeldig Gang 7 (3),
+18-19 (1990).
+[8] Velleman P. ActivStats user 's guide. Addison Wesley Longman, Glenview 2000.
+
+[9] Carver R. Doing data analysis with Minitab 12. Duxbury Press, Pacific Grove 1999.
+[10] West RW, Ogden RT. Interactive demonstrations for statistics education on the world wide web. Journal of
+Statistics Education [online] 6 (3) (1998) (http://www.amstat.org/publications/jse/v6n3/ west.html).
+
+[11] Fleksibel læring på den Virtuelle Campus. Innstilling fra utvalg oppnevnt av Universitetsdirektøren.
+Universitetet i Bergen 2000 .
+
+
+
+Nye læreplaner i sannsynlighetsregning
+og statistikk i videregående skole
+Ørnulf Borgan
+Matematisk institutt, Universitetet i Oslo
+
+16. august ble det avholdt en sammenkomst om statistikkundervisning i Kristiansand. Der snakket
+undertegnede om de nye læreplanenei statistikk og sannsynlighetsregning i videregående skole og om
+bakgrunnen for disse. Dette innlegget er en lett bearbeidet versjon av det jeg la fram i Kristiansand i
+august. Leserne får unnskylde at det er en del overlapp mellom dette innlegget og det jeg skrev i TG
+nr. 1 iår.
+
+Med Reform-94 ble sannsynlighetsregning og statistisk en del av læreplanene i matematikk i
+
+videregående skole. På grunnkurset (dvs. første klasse) kom det med noe beskrivende
+statistikk for alle studieretninger, mens det i videregående kurs I og II (dvs. andre og tredje
+
+klasse) på studieretning for allmenne, økonomiske og administrative fag kom med en del
+sannsynlighetsregning og litt statistisk metodelære.
+Noen år etter reformene i den videregående skolen, ble det foretatt en omfattende reform av
+hele grunnskolen fra barnetrinnet til ungdomstrinnet (Reform-97). Også her ble det endringer
+i læreplanene i matematikk. Blant annet kom det inn et mål om "behandling av data" som
+
+omfatter enkel beskrivende statistikk og litt sannsynlighetsregning.
+Høsten 1998 kom matematikkfaget i videregående skole i fokus for den offentlige debatten.
+
+En rekke avisinnlegg tok opp faget og dets problemer. Årsaken til debatten var blant annet at
+
+de første kullene med Reform-94 elever oppnådde svake resultater i matematikk ved
+universiteter og høgskoler. Selv om det nok var mange grunner til dette, la flere av
+
+debattantene skylden på sannsynlighetsregningen og statistikken. Ved at denne var kommet
+med, ble det mindre tid til "ordentlig" matematikk, mente de.
+I januar 1999 satte KUF i gang et arbeid med å revidere læreplanene i matematikk for
+videregående skole. Hovedgrunnen til at planene måtte revideres så kort etter Reform-94, var
+
+endringene i grunnskolen med Reform-97. Meni tillegg ønsket KUF å endre læreplanene i
+lys av erfaringene med Reform-94 og debatten om matematikkfaget. Til å lede arbeidet med
+læreplanene nedsatte KUF en gruppe på fem personer. For å få en
+
+bredere basis for
+
+diskusjonen, ble deti tillegg til læreplangruppa også oppnevnt en referansegruppe med seks
+medlemmer. Undertegnede var ett av disse.
+Ved revisjonen av læreplanene arbeidet undertegnede - i samråd med NSFs leder og
+
+undervisningsutvalg - etter følgende tanker/momenter:
+
+@
+
+Den beskrivende statistikken som kom med ved Reform-94 har ikke fungert godt. Det
+meste av dette stoffet dekkes videre av de nye planene for grunnskolen. Endringer er
+derfor nødvendig.
+
+e
+
+Hovedvekten bør legges på sannsynlighetsregning. Denne må være spennende og
+
+inspirerende og ikke ha karakter av "julenøtter". Det er viktig å vise mange andre
+anvendelser enn spill.
+e
+
+Litt statistisk metodelære bør med for å gi elevene en forståelse av forholdet mellom
+populasjon og utvalg og av at en fra et utvalg kan få informasjon om populasjonen. Det
+bør imidlertid ikke være med mye statistisk metodelære, delvis på grunn av den
+kompetansen matematikklærerne har.
+
+2/
+
+
+
+@
+
+Mange lærere gjorde en stor innsats i forbindelse med Reform-94 ved å sette seg inn i
+sannsynlighetsregning og statistiske metodelære. Det er viktig å respektere denne
+innsatsen og unngå omfattende endringer i læreplanen der det er mulig.
+
+Den nye læreplanen for grunnkurset ble vedtatt i juli 1999 og trådde i kraft i inneværende
+skoleår. I mitt innlegg i TG nr. 1 i år gjenga jeg hovedmålet om sannsynlighetsregning. For
+fullstendighetens skyld gjentar jeg dette her:
+Mål 5: Elevene skal kjenne grunnbegrepene i sannsynlighetsregningen og kunne bruke dem til å
+utføre enkle beregninger.
+
+Elevene skal
+
+5a
+
+kjenne til begrepet sannsynlighetsmodell og kunne formulere og eksperimentere med enkle
+uniforme og ikke-uniforme sannsynlighetsmodeller
+
+5b
+
+kunne regne ut sannsynligheter ved å telle opp alle gunstige og alle mulige utfall i enkle
+eksempler
+
+5c
+
+kunne regne ut sannsynligheter ved hjelp av valgtrær, Venn-diagrammer og andre systematiske
+oppstillinger
+
+5d* ha en intuitiv forståelse av uavhengighet og betinget sannsynlighet
+5e*
+
+kunne bruke addisjonssetningen og produktsetningen
+
+(De to stjernemerkete punktene er ikke obligatoriske for yrkesfagene.)
+Da jeg skrev mitt innlegg i TG nr. 1 i år, hadde arbeidet med de nye læreplanene for
+videregående kurs I og II for allmenne, økonomiske og administrative fag (dvs. MX, 2MY,
+3MX og 3MY) bare så vidt startet opp. I arbeidet med disse planene møtte jeg stor forståelse
+for synspunktene nevnt over. Spørsmålet om sannsynlighetsregningens og statistikkens plass
+
+i læreplanene ble derfor ikke et stridstema slik jeg hadde fryktet. De nye læreplanene i 2MX,
+2MY, 3MX og 3MY ble vedtatt i juli i år etter en høringsrunde hvor også NSF kom med
+kommentarer. Planene trer i kraft høsten 2001 (for 2MX og 2MY) og høsten 2002 (for 3MX
+og 3MY). De har alle ett hovedmål i sannsynlighetsregning og statistikk. Målene for X- og
+Y-versjonene er forholdsvis like, men målene for X-versjonen er litt mer ambisiøse:
+2MX
+Kombinatorikk og sannsynlighetsregning
+
+Elevene skal kjenne grunnbegrepene i kombinatorikk og sannsynlighetsteori, kunne vurdere
+utsagn om sjanser og sannsynligheter, og kunne løse praktiske problemer ved hjelp av
+sannsynlighetsregning
+Elevene skal
+
+6a
+
+kjenne begrepene uavhengighet og betinget sannsynlighet, og kunne bruke Bayes’ setning på to
+hendelser
+
+6b
+
+kunne behandle ordnede utvalg med og uten tilbakelegning, uordnede utvalg uten tilbakelegning,
+og kunne bruke dette til å beregne sannsynligheter
+
+6c
+
+kunne regne med binomiske og hypergeometriske sannsynligheter
+
+2MY
+Mål 5: Sannsynlighetsregning
+
+Elevene skal kjenne grunnbegrepene i sannsynlighetsteori, kunne vurdere utsagn om sjanser og
+sannsynligheter, og kunne løse praktiske problemer ved hjelp av sannsynlighetsregning
+Elevene skal
+
+5a kjenne begrepene uavhengighet og betinget sannsynlighet og kunne bruke Bayes’ setning på to
+hendelser
+5b
+
+være kjent med ordnede utvalg med og uten tilbakelegning, uordnede utvalg uten tilbakelegning,
+
+og kunne gjøre enkle sannsynlighetsberegninger knyttet til slike utvalg
+Sc kunne regne med binomiske og hypergeometriske sannsynligheter
+
+
+
+3MX
+Mål 7: Sannsynlighetsregning og statistikk
+Elevene skal kunne regne med sannsynlighetsfordelinger, forventning og varians og kjenne til
+
+sammenhengen mellom modellparametere og parameterestimat.
+
+Elevene skal
+Ta
+
+kjenne begrepene fordeling og stokastisk variabel for endelige utfallsrom og kunne finne
+
+7b
+
+kjenne regnereglene for forventningen til en lineær kombinasjon av to stokastiske variable og
+
+forventning, varians og standardavvik
+
+variansen til en lineær kombinasjon av to uavhengige stokastiske variable
+7c
+
+kjenne forventning og varians til en binomisk fordeling
+
+7d
+
+kjenne normalfordelingene og kunne regne ut sannsynligheter knyttet til normalfordelinger
+
+7e
+
+ha kjennskap til den sentrale grensesetningen og kunne beregne sannsynligheter ved å tilnærme
+binomiske fordelinger med normalfordelinger
+
+Tf
+
+.
+
+forstå at utvalg fra en stor populasjon kan betraktes som uavhengige gjentak og kunne beregne
+punktestimat med standardfeil og tilnærmet konfidensintervall for en populasjonsandel og et
+populasjonsgjennomsnitt.
+
+3MY
+Mål 6: Sannsynlighetsregning og statistikk
+
+Elevene skal kjenne begrepene fordeling og stokastisk variabel, kunne tilnærme binomiske
+fordelinger med normalfordelinger og vite litt om sammenhengen mellom modellparametere og
+parameterestimat.
+
+Elevene skal
+
+6a
+
+kjenne begrepene fordeling og stokastisk variabel for endelige utfallsrom og kunne finne
+
+6b
+
+kjenne forventning og varians til en binomisk fordeling
+
+6c
+
+kjenne normalfordelingene og vite litt om deres betydning
+
+6d
+
+kunne tilnærme binomiske fordelinger med normalfordelinger
+
+forventning, varians og standardavvik
+
+6e
+
+forstå at utvalg fra en stor populasjon kan betraktes som uavhengige gjentak og kunne beregne
+punktestimat med standardfeil og tilnærmet konfidensintervall for en populasjonsandel
+
+Personlig er jeg godt fornøyd med de nye læreplanene både for grunnkurset og de
+videregående kursene. Ved at vi nå har fått planer med en bedre indre sammenheng og et
+klarere presisjonsnivå, håper jeg også at lærebokforfatterene får en lettere jobb enn de hadde
+da Reform-94 planene skulle settes ut i livet.
+
+De nye og bedre planene må ikke fungere som en "sovepute" for oss statistikere. For
+læreplaner er en ting, hvordan de fungerer i praksis er ofte en annen. Det er derfor viktig at
+vi fortsatt engasjerer oss i det som skjer i skolen. Dette betyr at etterutdanning av lærere
+fortsatt bør være en prioritert oppgave. Etter de nye planene skal elvene hvert år gjennomføre
+et lite prosjekt i matematikk. Det hadde vært fint om NSF kunne få fram gode ideer til slike
+prosjekt og formidle disse til lærere og elever via web!
+
+PS:
+
+Hvis du er interessert i å se læreplanene i matematikk i sin helhet, kan du finne en "portal" til
+læreplaner i videregående skole på
+http://skolenettet.nls.no/prgdb/owa/lp.lp forside
+Fra denne finner du grunnkurset i matematikk under "Felles: Felles allmenne fag" og de
+videregående kursene i under "Studieretninger: Allmenne, økonomiske og administrative
+fag".
+
+
+
+Matematikk 2MX
+30. mai 2000
+
+OPPGAVE 2
+a)
+
+Regn ut på hvor mange måter vi kan velge ut 5 barn av en gruppe på 12.
+
+Vi antar at gruppen på 12 inneholder like mange gutter som jenter.
+
+b)
+
+Hvor mange utvalg kan vi gjøre hvis utvalget skal inneholde 2 gutter og 3 jenter?
+
+c)
+
+Hvor mange utvalg på 5 kan vi gjøre hvis utvalget skal inneholde minst 3 gutter?
+
+Ved en skole spaserer 4 av elevene til skolen hver dag. Vi velger ut 3 elever tilfeldig.
+d)
+
+Regn ut sannsynligheten for at minst 2 av disse spaserer til skolen hver dag.
+
+
+
+Matematikk 2MY
+30. mai 2000
+
+1
+OPPGÅVE
+d)
+
+Ved ein skule spaserer 2 av elevane
+tilfeldig. Rekn ut sanns ynet
+
+kvar dag.
+
+til skulen kvar dag. Vi vel ut 3 elev
+ar
+for at minst 2 av desse spaserer
+til skulen
+
+OPPGÅVE 4
+I ein moropark får alle barn lov til å trekkje fem lodd ved inngangen. Ein dag blei
+parken besøkt av 4518 barn. Tabellen nedanfor viser kor mange barn som ikkje
+
+tal på barn
+a)
+
+0
+
+1
+
+Z
+
+3
+
+2613
+
+1556
+
+298
+
+50
+
+101
+
+tal på gevinstar
+
+Oo;
+
+vann eller som vann på eitt av lodda, to av lodda osb.
+
+Kor mange gevinstar fekk kvart barn i gjennomsnitt?
+
+Fabrikken som lagar lodda gir opp at 10 % av lodda gir gevinst.
+
+b)
+
+Rekn ut sannsynet for at eit barn som får fem tilfeldige lodd, vinn på
+0, 1,2, 3, 4 eller 5 av dei.
+
+c)
+
+Samanlikn resultatet i b) med tabellen ovanfor. Synest du det er godt samsvar
+mellom dei?
+
+
+
+Matematikk 3MX
+
+Matematikk 3MY
+30. mai 2000
+
+OPPGAVE 1
+
+En stokastisk variabel har sannsynlighetsfordeling som vist i tabellen nedenfor:
+
+0
+
+1
+
+2
+
+P(X = x)
+
+a
+
+2k
+
+—k
+
+Regn ut k og finn
+
+6
+
+å
+
+4
+
+aa
+
+xX
+
+wla
+
+c)
+
+P(O
+X <3).
+<
+
+OPPGAVE 4
+
+| følge produsenten vil en viss type fyrverkeriraketter virke i 98 % av tilfellene. Ved et
+
+jubileum skal det sendes opp 250 slike raketter.
+a)
+
+La X være antall raketter som virker. Finn forventningsverdien og standard-
+
+avviket til X.
+
+.
+
+En annen type fyrverkeri blir brukt ved samme anledning. Av denne typen virket 189
+
+av 200.
+b)
+
+Finn et 95 % - konfidensintervall for det gjennomsnittlige antall raketter som
+
+virker i en stikkprøve på 200.
+
+Fyrverkeriprodusenten overveier å endre litt på konstruksjonen av de rakettene som
+
+hittil har virket i 98 % av tilfellene. Han planlegger å lage en prøveproduksjon på
+3000 av den nye rakettypen, og gir deg ansvaret for å utføre en hypotesetest for å
+undersøke om den nye typen virker i mer enn 98 % av tilfellene.
+
+c)
+
+d)
+
+Forklar hvordan du vil gå fram. Bruk 5 % - signifikansnivå.
+
+Det viser seg at 52 av de 3000 nye rakettene ikke virket. Hvilket resultat gir
+
+testen din? .
+
+2
+
+
+
+uadu|
+
+- yy op
+Nauru
+
+ane
+
+SIPUBIBAX
+
+aystdadepad
+80 ape
+
+195
+
+oppey
+
+PULYDIGJ
+
+apd twouuald
+
+jogfopddo
+
+wouuals
+
+PBS
+
+[SULIS
+Åepsuofsynponur
+
+TUIS
+
+IO YSUISTDILE
+
+UOlsyas
+
+audardddo
+
+BU]
+
+parat
+
+Pat
+
+YYSNE)S
+
+-pyopsmy
+
+ufo
+
+ayn
+
+yyold
+
+Awysioy
+
+do aida
+
+IPUASTH
+
+“sploqie
+
+34
+
+NRF
+
+'oyeep1913d
+
+ÅdO IPJUJSNEY
+aunaeropsany
+Bo bppeduvkord
+
+Jap
+
+JUBIEYJEHDP
+
+BLISS
+
+‘adapwasuesiny
+
+vd
+
+ed
+
+UIO
+
+aursesyeypop
+UNY
+ou
+
+må
+
+IBRAA
+
+LETT
+
+D4
+
+Bo aossajoid
+
+ayeey
+
+euloy
+JOLIOJ
+
+Yd LENIN
+
+PJOADE)
+
+lwp
+
+ASR
+
+1x2bpe
+
+ysouds
+
+app
+
+uur
+AWYSIOP
+
+JAG
+
+ya
+
+yap
+PR
+
+psossed
+
+ed audpis iny
+
+do JR
+dA
+
+pat
+
+poo},
+
+vsvy
+
+40
+
+sa adnpyua
+
+AYO]
+
+YSUIS|
+
+19d
+
+you
+
+NIS
+uæbpog
+
+mod
+
+p DSSDÅ
+
+WOSs
+ALVIY
+
+18 op
+
+ed oyup
+UNSUN
+
+ARINØYIS
+
+IYYUSTDIS
+
+|pyerey
+
+PUVS
+
+MAARPSPIOGIV
+
+140]
+
+‘
+
+ADU
+
+ales
+
+ØY
+NLSV
+
+tua
+
+“op
+OMGIS
+
+1j0s1ny
+
+42 Jap
+
+yep
+
+essdQ
+SAU
+
+pneqin
+
+auemyeyapsiny
+“Bip
+ULPIS
+
+pg
+
+43 1ying
+J6YNIG
+
+LG
+
+HOSLE
+avdep
+ALUN)
+
+purg
+40]
+IvYag
+
+40 12 “BQUAU
+
+duaduod
+
+qqof
+
+Jap
+
+2] uy apdy
+
+es pr Jn UdUUNIÄ
+
+‘ASDY
+
+JISINY
+
+EP aw
+
+odueur
+
+AU
+appry
+
+ures
+
+WOS
+
+usyy
+
+INPUI
+
+paut
+
+soda
+
+-}JoU
+
+-B)S
+
+oppor
+
+19108
+
+I Wwonp2pey
+av
+
+uey
+
+QUBI
+
+py 2U3A
+J9pUDs
+JOS
+
+UIILUI
+
+IYSUISIPAUL
+
+eB
+
+vd das
+
+ula
+
+Jæbya
+
+vuoy
+UOUOJA NIGOU
+
+Jaga
+
+JISINY
+
+du
+
+'DYQ919
+
+jy ‘apos
+ysiosepag
+aULIØ
+
+8d}
+
+pg
+ouriyeyop
+
+JULINLHDP
+«SATØPUNAS EP
+
+ey
+ddo
+
+do
+UN
+
+A[ØÅS
+
+gd Bout
+pd pivas
+aupuopns
+
+-
+
+12
+wos
+
+ta 113 JOS
+ap aysou
+
+B (DOIN
+
+‘uot
+YSUIS
+
+107s
+
+~
+
+Wo9
+
+AU
+
+AIPUBIBAY
+
+UIO
+
+yy
+
+dunapar
+aeap
+wos
+
+valu
+BapBey
+IDG
+
+Byyta
+wohy
+
+12 18 edyys
+wohy
+
+aasdyddo
+
+JOC]
+
+BIDA
+
+DUI
+
+ysod~a
+-udddo
+
+Ryepapsmy
+
+UANIGA
+
+das
+
+49 Of ISBYO
+
+soy
+
+AU
+
+[1 1æbya
+
+IJS10J
+
+AYNSHRIS
+
+dapdeys
+Bo AULUSTA
+
+20 DURIG
+
+BYA
+I Burustaropuyy
+
+FIG
+
+vd oop
+
+ipaoy
+
+'opaspn
+
+DS
+
+rolpyag
+ESBO
+pyaypauols
+odtuto
+UIO
+
+PPUD
+
+uy
+
+I AB]IS
+
+Top ar
+DUIS
+
+| SAND
+
+DYSUISTPAL
+
+18 JOU
+avaydpysyia
+
+JO uray
+
+uaduy
+
+4
+
+sn
+
+apjaw
+
+aut
+
+ve esåny
+volptudey
+
+JOSINY
+
+-Uluatojasary
+
+sm
+
+DHLASBQNAU
+
+do ‘syesuuispraque
+
+tap
+
+wry
+
+jouoperoqep
+
+JH BIRD
+
+dur
+ye
+
+aout
+
+fap Av
+
+yeay
+FUUL
+
+peys
+ppp
+
+oO
+
+13
+
+uasul
+
+ed yw
+pea
+
+JISIA
+
+BuTAsyasuRjpoduloy
+ta tuoysdu ayd g
+
+BRUA
+
+top
+
+YYNsHeIS
+
+IRJØMADUr
+
+pod
+
+I -— saw
+
+OL
+
+pas
+
+unaopur
+
+AB
+
+esdQ
+
+189 any
+
+|OSIM
+
+UBUIRS
+
+“POUL
+
+POUL
+
+190
+
+1aaplaqie
+10]
+
+av
+
+dius
+-«RIDFUL
+
+WA-ofyyt
+
+tof Joaoyeq
+|BULUSLATOPUNSULOLas e
+Uap ILUYUS
+
+YSursipout
+
+duru Pepynarepta
+
+Japun
+AYLL’
+«1pen
+
+B 11 aos
+HONPN[BSHRIS
+
+arppadn
+
+fap efdsay
+12 JADE
+
+apdøu
+
+ope
+
+wos
+
+PYFNSHLIS
+
+vaold
+JA
+PO
+
+ep
+aduru
+
+rep
+
+AURLIOS aJOIdUIsIpalu
+
+paur
+
+ca
+
+
+
+ERLING SVERDRUPS RADIOFOREDRAG
+
+FOR 45 ÅR SIDEN
+
+I serien *Universitetenes radioforedrag” bidro Erling Sverdrup med
+tre foredrag under tittelen “Hva kan vi slutte av statistikk?”.
+Manuskriptene til disse foredragene ble funnet da Knut Håkon Brox
+ryddet i Sverdrups etterlatte papirer for godt og vel ett år siden. De
+to første foredragene ble trykket i henholdsvis mai- og septembernummeret av TG. På de neste sidene i dette nummeret gjengis det
+siste av foredragene i sin originalform.
+
+
+
+Hva kan vi
+
+slutte
+
+Erling
+
+Tredje
+
+statistikk
+
+?
+
+Sverdrup.
+
+foredrag.
+Vi
+
+omtalte
+
+spiller ved
+
+vi på
+
+av
+
+siste
+
+statistiske
+
+denslags
+
+å imnsamle
+
+i
+
+foredrag hvilken
+
+slutninger. Og med
+
+opplysninger
+
+eller studere
+
+som
+
+det
+
+forhåndsviden almengyldige
+på grunnlag av
+
+rolle
+
+tidligere
+
+forutsetningene
+
+forutsetninger
+
+er kjent på forhånd
+
+før vi
+
+statistiske materiale.
+
+Ofte
+
+begynner
+
+er
+
+resultater som man har kommet
+
+erfaringer, erfaringer
+
+tenkte
+
+denslags
+
+frem til
+
+som ikke
+
+alltid
+
+er
+
+systematisk nedtegnet, men som pa være solide nok for det. De
+
+representerer gerne den faglige innsikt på det området som
+statistikken
+
+er
+
+statistikeren
+
+i
+
+å vurdere hva
+
+denne
+
+utsetninger
+
+hentet
+
+gjøres.
+
+til
+
+først
+
+dette
+
+materiale
+
+på denne
+
+til
+
+del
+
+det
+
+ført
+
+skal
+
+frem til
+
+en viktig
+som har
+
+oppgave
+
+en
+
+slik
+
+Statistikeren må
+
+gjot
+
+ny
+
+som brukes
+kan man
+
+innsikt.
+
+Vi
+
+i
+
+skal
+
+faglig
+
+si
+
+noen
+
+ord
+
+de metoder vi har
+
+det
+
+dag.
+
+for=
+
+disse
+
+statistiske
+
+fordrag se
+
+skal m.a2.0.
+
+om den historiske
+
+i
+
+hvilke
+
+sannsynlighetsregningen.
+
+tilveiebringelsen og tolkningen av
+
+først
+
+innsikt,
+
+oversette
+
+i. dette
+
+Vi
+
+for
+
+d.v.s.
+
+så
+
+utnytte
+
+atatistikerens arbeide.
+
+fremgangsmåten ved
+Vi
+
+de
+
+sproget
+
+er
+
+å vinne
+
+av
+
+er
+
+forhåndsviden bør omfatte,
+
+som bør
+
+at
+
+Det
+
+samarbeide med
+
+forutsetninger
+etter
+
+fra.
+
+se
+
+litt
+
+på
+
+statistikk.
+
+utvikling
+
+som har
+
+Vi nevnte sist teoriene
+
+til
+
+Laplace og Gauss fra begynnelsen av det 19. Arhundre om den
+statistiske behandling av fysikalske måleresultater. Mot slutten av
+
+det 19. århundre skjedde det noe viktig når det gjaldt sannsynlig~
+hetsregningens anvendelse
+
+av
+
+fysikerne
+
+fenomener
+
+Boltzmann,
+
+omkring
+
+stadig bevegelse
+
+i
+
+fysikken.
+
+Maxwell
+
+gasser. I
+
+en
+
+Sannsynlighetsregningen ble
+
+og Gibbs
+gass
+
+og kolliderer mot
+
+er
+
+tatt
+
+i
+
+bruk
+
+som bekjent
+
+hverandre
+
+—~
+
+Samt
+
+til
+
+å
+
+forklare
+
+molekylene
+
+mot
+
+i
+
+gassens
+
+
+
+YN
+—2-
+
+begrensning hvis
+
+gassen
+
+er
+
+innelukket
+
+i
+
+en
+
+beholder. På
+
+grunn av
+
+det
+
+store antall molekyler i en gass ville det være ely uoverkommelig
+oppgave å behandle hvert
+I
+
+stedet
+
+enkelt
+
+søker man å beregne
+
+molekyls
+
+bevegelser og kollisjoner.
+
+den gjennomsnittlige veilengde mole-
+
+kylene
+
+tilbakelegger mellom kollisjonene,
+
+antall
+
+kollisjoner
+
+FEnnØ YTE G
+
+o.s.v.Ved disse
+
+det
+
+gjennomsnittlige
+
+beregninger kommer ganske
+
+naturlig
+
+ag ngen til anvendelse og det på en ganske ander-
+
+-
+
+edes petyeninsefert måte enn ved behandling av observasjonsfeil
+
+|
+
+ved fysikalske målinger.
+Det
+
+dette.
+
+ligger utenfor
+
+Det
+
+|
+rammen
+
+av
+
+disse
+
+foredrag å komme
+
+på
+
+såm er viktig å peke
+
+på i denne
+
+slutten av
+
+det 19.
+
+sannsynlighetsregningen i det
+
+vesentlige
+
+anvendt
+på tre områder:
+
+statistikk
+
+og livsforsikring,
+
+og for
+
+tredje
+
+det
+
+århundre ble
+
+de
+
+for
+
+fysikalske
+
+forbindelse
+
+inn
+
+For det
+det
+
+første
+
+annet
+
+er at
+
+inntil
+
+befolknings-
+
+fysikalske måleresultater
+
+teorier for gasser»,
+
+På alle disse områder opererte man med store tall, Store
+befolkningsgrupper
+
+og
+
+store
+
+forsikringsbestander,
+
+fysikalske målinger, mange molekyler
+
+i
+
+så rart at
+
+seg at
+
+hensikt
+
+eller mening å bruke
+
+vendigvis
+
+store
+
+tall.
+
+Endringen av
+
+denne
+
+vikling
+
+som i
+
+den overbevisning festnet
+
+ha
+
+som
+
+begynte
+
+sannhet
+
+kan
+
+i
+
+England
+
+sannsynlighetsregning ble
+
+materialer
+gang
+
+fra andre
+
+gjaldt
+
+dette
+
+Der
+
+oppsto
+
+var
+
+professor Karl
+
+fram en
+kjent
+
+en
+
+rekke
+
+under
+
+Gyinnes
+
+såkalt
+
+pseudonymet
+
+gjorde
+
+at
+
+driften ved
+
+bryggeriets
+
+som
+
+1900.
+
+bruk ved
+
+enn
+
+de
+
+Innen
+
+navn.
+
+En
+
+Student.
+
+han
+
+materialer
+
+tjent
+
+i
+
+mønster
+
+ble
+
+fra
+
+av
+
+skulle ha noen
+
+Hans
+
+av
+
+slike
+
+I
+
+første
+
+om»
+
+biologi.
+
+det
+
+ved
+
+interesser
+
+og
+
+etterhvert
+
+kanskje mest
+de
+
+store
+
+anlegg
+
+bearbeidelse
+
+Hans
+
+fordi
+
+personlighet
+
+Gosset,
+
+laboratorier
+
+utvikling
+
+observasjons-
+
+og
+
+ølbrygger
+
+i
+
+en ut-
+
+minst
+
+nevnte.
+
+vokste
+
+var
+
+en
+
+ikke
+
+ledende
+
+skole
+
+interessert
+
+hvorledes
+
+var
+
+fra landbruk
+
+Han var
+
+bryggeriets
+
+gjennom
+
+behandling
+
+disse
+
+landeiendommer.
+
+på
+
+det
+
+Det
+
+jeg nettopp
+
+denne
+
+Storbrittania.
+
+statistiske
+
+har
+
+år
+
+bMiometrisk retning hvis
+
+betydelige
+
+i
+
+forat
+
+oppsiktsvekkende,
+
+tatt
+
+Pearson»
+
+antall
+
+Det var derfor ikke
+
+etterhvert
+
+observasjonsmaterialer
+
+bryggerier
+
+matematikk
+
+kam
+
+omkring
+
+som
+
+områder
+
+stort
+
+sannsynlighetsregning måtte man nød-
+
+innstilling
+
+betraktes
+
+en gass.
+
+et
+
+samt
+
+statistiske
+
+undersøkelser
+
+av
+
+for
+
+de
+
+fra
+
+forsøks-
+
+undersøkelser
+
+skal
+
+legges
+
+an og de har betydd meget for ettertiden. Med-sitt kjennskap til de
+
+_,
+
+underliggende
+
+realiteter,
+
+mulig
+
+etter
+
+for ham
+
+d.v.s.
+
+grundige
+
+til
+
+produksjonsprossessen var
+
+overveielser
+
+og vurderinger
+
+å
+
+det
+
+stille
+
+brakke selene komme til uttrykk i en matematisk modell basert på
+Opp
+
+virkelighetstro
+
+matematiske
+
+sannsynlighetsregning, kunne
+
+han
+
+modeller. Når
+
+avlede
+
+han
+
+statistiske
+
+hadde
+
+latt
+
+metoder
+
+sin
+
+til
+
+å
+
+
+
+We
+
+{a4
+
+er
+
+stort.
+
+til
+
+Som
+
+jeg
+
+en unødig
+
+regning.
+samlet
+
+Det
+
+ved
+
+anvendes
+
+Sremkevet-i første
+
+når
+
+nemlig klart
+
+omhyggelig
+
+at
+
+et
+
+planlegging
+
+lite
+ofte
+
+sannsynlighetsteoretiske
+
+og for moderne
+avhandling
+
+planlegging
+
+kan
+
+fra 1908
+
+som
+
+av
+
+statistiske
+
+a (920 09
+
+hvis
+
+arbeide
+
+omfattende
+
+og
+
+av
+
+tradisjon
+
+sannsynlighets=-
+
+si
+
+adskillig mer
+
+innenn
+
+et
+
+små
+
+statistiske
+
+forsøk.
+
+Det
+
+er
+
+materialer
+
+særlig
+
+en
+
+er viktig.
+
+ee.
+PE
+i
+petde—med—matematisk
+stati
+Gossets
+
+bruk
+
+erial:
+
+Gosset grunnla teorien for
+
+behandling
+
+av
+
+for
+
+denne
+
+ma
+
+statistisk materiale
+
+stort materiale mer vilkårlig innsamlet.
+den
+
+statistiske
+
+foredrag førte
+
+innskrenkning i mulighetene
+er
+
+det
+
+2
+
+synnlighetsregningen bare kunne
+
+ct
+
+vinne ny innsikt. Gosset brøt radikalt med den tradisjon at gann=
+
+n—fabrikker og-fiirk—da—Lisen
+1
+
+1930 aroug
+
+bleyvidereført
+
+epokegjørende
+
+av
+
+professor R.A.
+
+arbeider
+
+spenner
+
+Fisher
+
+over vidt
+
+for-
+
+skjellige områder av statistikken. Fisher var opprinnelig sjefsvatistiker ved
+
+derfor
+
+den kjente
+
+inspirert
+
+av
+
+landbruksforskning.
+
+de
+
+Rothamsted
+
+statistiske
+
+Men
+
+for
+
+Fisher
+
+landbruksstasjon
+
+og han
+
+er
+
+problemer som ovvstår innen
+var
+
+det
+
+klart
+
+at
+
+dé
+
+problemer
+
+som han behandlet ikke var enestående for landbruk. De oppstår i
+medisin,
+
+biologi,
+
+industriell
+hans
+
+pedagogikk,
+
+forskning
+
+teorier blitt
+
+nemlig
+
+at
+
+det
+
+og
+
+$på mange
+
+anvendt
+
+er visse
+
+psykologi,
+
+på
+
+alle
+
+typiske
+
+meteorologi,
+
+nesten være
+
+og
+
+andre
+
+felter. Etterhvett
+
+er
+
+disse
+
+områder. Det
+
+seg
+
+statistiske
+
+problemer
+
+i mange forskjellige vitenskaper.
+Man kunne
+
+teknisk
+
+viser
+
+som går
+
+derfor
+
+igjen
+
+|
+
+fristet
+
+til
+
+å
+
+si
+
+at
+
+Laplace’s
+
+over 100
+
+år gamle drøm om gannsynlighetsregningen som et fundamentalredskap
+ved
+
+forskning
+
+i
+
+natur
+
+og
+
+samfunnsliv
+
+var
+
+blitt
+
+virkeliggjort
+
+og det
+
+av en mann som sto midt opp i det praktiske arbeide. Nå vel, det
+ville være
+
+Nr
+
+ALA ban
+
+å
+
+overdrive litt,
+
+NO
+
+men
+
+at
+
+Fisher sprengte
+
+Muh ka Å POO stssteur Ai nts chobnt. am
+
+alle
+
+jr Les Eos. Jy
+
+tidligere
+
+
+
+Vi
+
+skal ved noen
+
+eksempler
+
+antyde
+
+statistikerens
+
+arbeidsmåte når
+
+han utfra gitte
+
+forutsetninger
+
+til
+
+statistiske materialer. Vi henter det
+
+å analysere
+
+fra kontroll
+Vi
+
+av
+
+vil
+
+industrielle
+
+søker
+
+å
+
+finne
+
+frem til
+
+oss
+
+en maskin
+
+som masseproduserer
+
+Den produserer, la
+
+oss
+
+si,
+
+mange
+
+tusen
+
+skruer, nagler
+
+eller
+
+lignende.
+
+være
+
+kommelig
+
+eller ulønnsomt
+
+av råstoffene
+
+til
+
+eller maskin.
+
+trollere hvert
+
+enkelt
+
+første
+
+eksempe!
+
+produksjonsprosesser.
+
+tenke
+
+f.eks.
+
+gode metoder
+
+artikler
+
+stadighet
+
+Og det
+
+produkt.
+
+I
+
+å
+
+om dagen.
+viser
+
+foreta
+
+lønner
+
+stedet
+
+Det
+
+en artikkel,
+
+Det
+
+kan
+
+seg uover=
+
+omhyggelig
+
+kontroll
+
+seg heller ikke å kon~
+
+vil
+
+fabrikken
+
+ved
+
+slutten
+
+av hver arbeidsdag velge tilfeldig noen av de produserte artikler
+
+og kontrollere dem. Formålet er å bringe på det rene om produksjonsprosessen
+
+bør
+
+avbrytes
+
+og maskiner
+
+og
+
+råstoffer kontrolleres.
+
+Nå
+
+viser det seg at når produksjonen løper helt mormalt vil likevel
+en viss
+
+prosent
+
+av
+
+artiklene
+
+være
+
+ubrukbare.
+
+Det
+
+kan
+
+f.eks,
+
+tenkes
+
+at 1 0/0 vil være ubrukbere.| Vette er altså hva produsenten må
+finne
+
+seg
+
+stytret.
+
+i
+
+og
+
+han
+
+ønsker
+
+i
+
+så
+
+fall
+
+se problem
+
+er
+
+at
+å
+
+maskinen
+
+anbefale
+
+skal
+
+en
+
+løpe
+
+slik
+
+ufor-
+
+fremgangsmåte
+
+at fabrikken i minst mn dar abe treming griper inn når proessen
+forløper
+er
+
+galt
+
+normalt
+med
+
+og
+
+i
+
+størst
+
+prosessen.
+
+som kan komme
+
+på
+
+produksjon
+
+sjangsen
+
+og
+
+tale
+
+utstrekning
+
+Statistikeren må
+
+beregne
+for
+
+ønsker å holde
+
+begge
+
+vis
+
+testingen
+
+innskrenke
+
+mulig
+
+disse
+
+sjangsen
+
+ikke
+
+det
+
+for
+
+å gripe
+
+sjangser
+
+til
+
+altså
+
+for
+
+de
+
+å gripe
+
+inn når
+
+små.
+
+minst
+
+griper
+
+inn
+
+noe
+
+noe
+
+fremgangsmåter
+
+er
+
+Samtidig vil
+
+mulige,
+
+inn når
+
+d.v. s.
+
+i
+
+normal
+
+galt.
+
+Han
+
+han naturlig=
+han
+
+ønsker
+
+å gre seg med så få proveartikler som mulig! Det blir en vurderings
+sak å veie de forskjellige hensyn mot hverandre.
+Slike
+
+overveielser
+
+prosesskontroll.
+
+statistiske
+
+Vi
+
+må
+
+er
+
+ikke
+
+resonnere
+
+enestående
+på
+
+samme
+
+ved
+
+måte
+
+HX
+
+|
+
+industriell
+ved
+
+andre
+
+slags
+
+undersøkelser.
+
+Ta f.eks.
+
+et medisinsk materiale
+
+til
+
+å belyse
+
+virkningen av
+
+en
+
+
+
+bestemt
+
+slags
+
+vaksine
+
+mio
+
+tyfus.
+
+Det
+
+viser
+
+f.eks.
+
+at
+
+av
+
+de
+
+ikke-
+
+vaksinerte ble 2.3 0/0 angrepet, mens av de vaksinerte ble 0.8 o/o
+angrepet.
+
+Svørsmålet
+
+vaksinen mot
+
+fastlagt
+skal
+
+vi
+
+tyfus
+
+er
+
+en bestemt
+vurdere
+
+er om forskjellen
+virkningsfull
+
+metode
+
+til
+
+om metoden
+
+er
+
+å
+
+er
+
+så
+
+eiler
+
+avgjøre
+
+fornuftig
+
+stor at
+
+ikke,
+
+den beviser at
+
+Anta
+
+rå
+
+at
+
+dette
+
+spørsmål.
+
+All
+
+den stund vi
+
+?
+
+vi
+
+har
+
+Hvorledes
+ikke
+
+på
+
+forhånd vet om vaksinen er virkningsfull eller ikke, det er jo det
+som
+er
+
+skal
+
+avgjøres,
+
+sjangsen
+
+er
+
+det
+
+naturlig
+
+forat metoden
+
+skal
+
+føre
+
+å
+
+stille
+til
+
+at
+
+virker når den faktisk
+er virkningsløs ?
+sjangsen for
+
+at
+
+vi
+
+skah
+
+si
+
+at vaksinen
+
+følgende
+vi
+
+spørsmål:
+
+påstår
+
+at
+
+Hva
+
+vaksinen
+
+Hva er på den annen side
+
+ikke har virket,
+
+når
+
+den
+
+faktisk er effektiv ? Begge disse sjangser for feiltolkning av
+materialet
+
+bør saturlievie helst
+
+være
+
+mange metoder å velge mellom når vi
+må velge ut
+
+den som er gunstigst
+
+små.
+
+skal
+
+Nå har
+
+vi
+
+naturligvis
+
+analysere materialet.
+
+bedømt utfra sjangsene
+
+Vi
+
+for feil»
+
+volkning.
+Som
+
+som har
+
+et
+
+tredje
+
+opptatt
+
+eksempel
+
+la
+
+oss
+
+meteorologer meget.
+
+se
+
+på
+
+Det
+
+et
+
+statistisk
+
+problem
+
+gjelder bestemmelsen av
+
+mulige perioder i nedbørmengde eller temperatur. La oss sem eksempel
+tenke
+
+på variasjonene
+
+år. Er det
+
+somre
+
+at
+
+periode
+
+kan ha
+
+på
+
+somre
+
+etterfulgt
+
+i regelmessig weksling ? Det
+
+at
+
+30
+
+års
+
+mellomrom.
+
+Da
+
+sier
+
+sommertemperaturens variasjon.
+kan vi
+
+ha
+
+andre
+
+variasjoner
+
+kortere
+
+vi
+
+eller lengre
+
+som forstyrrer
+
+det
+
+av
+
+kan f.eks.
+
+at varme
+
+at
+
+Men i
+
+til
+
+det
+
+er
+
+en
+
+tillegg
+
+til
+
+perioder
+
+og
+
+enkle
+
+billede.
+
+er nå om statistikken over sommertemperaturens veksling
+det er
+
+å avgjøre dette
+avsløre
+
+i
+
+tilfeldige
+
+Spørsmålet
+tyder
+
+somre
+
+igjen med
+
+en slik periode
+vi
+
+sommertemperatur fra år
+
+det er reglemessig veksling på en slik måte
+
+kommer
+
+30-års
+
+gjennomsnittlig
+
+slik at vi har årrekker med kalde
+
+årrekker med varme
+
+påståes
+
+i
+
+slike
+
+spørsmål
+
+en periode
+
+hvis
+
+perioder. Det
+
+som er slik at
+en
+
+slik
+
+har vært
+
+brukt
+
+metoder
+
+til
+
+de høyst sannsynlig vil
+
+eksisterer
+
+og
+
+det
+
+er
+
+jo
+
+vel
+
+og bra.
+
+
+
+Men
+
+en nørmere undersøkelse
+
+av metoden har vist
+
+er noen periode
+og variasjonene
+
+også anvise
+
+en periode,
+
+ligvis
+
+så bra.
+
+ikke
+
+ikke
+
+om den
+
+man ble
+
+er
+
+klar
+
+eller
+
+dette
+
+en metode
+
+når man har
+
+og vi
+
+og det
+
+metoden
+
+er natur-
+
+en periode vet vi altså
+
+er
+
+naturligvis
+
+vil
+
+det ikke
+
+kommet
+
+like
+
+metoden
+
+langt.
+
+forkastet.
+
+Straks
+
+I
+
+stedet
+
+slik:
+
+som
+
+er
+
+påstå falske perioder og
+liten,
+
+tilfeldige,
+
+en falsk periode,
+
+ekte
+
+ble
+
+blir nå oppgaven stillet
+Finn
+
+er
+
+Når metoden anviser
+
+falsk
+
+over
+
+altså
+
+bare
+
+at hvis
+
+slik
+
+at
+
+den
+
+sjangsen for
+
+gjør
+
+ikke
+
+, saris søre dlle )
+
+lengde.
+
+sjangsen
+
+å avsløre
+
+temperaturrekker over et
+
+Dette ay oval sr Premcteler ul
+
+både
+
+for
+
+å
+
+reelle perioder
+
+tidsrum av rimelig
+
+Undex/Visse mer spesielle forutsetninger har man kunnet
+alike
+
+Vel,
+
+dette
+
+var
+
+tre
+
+eksempler
+
+til
+
+belysning
+
+av
+
+proglemstilling-
+
+en i statistikken. Statistikerne opererer altså med sjangser for
+feiltolkning.
+
+vil
+
+kanskje
+
+påstå
+
+trekke noen
+
+affære.
+
+De
+
+ånnrømmer
+
+at
+
+det
+
+slutninger
+
+altså mulighetme
+
+viser
+
+av
+
+de
+
+har
+
+rett
+
+statistikk
+
+det
+
+er
+
+forbunnet
+
+med
+
+forbigår
+
+dette
+
+grunnlag
+
+risiko.
+
+av
+
+Det
+
+faktum i
+
+et
+
+er
+
+feiltolkninger, gjør
+har
+
+hittil
+
+begrenset
+
+de
+
+som
+
+sier
+
+en ytterst
+
+og
+
+at
+
+noen
+
+å
+
+tvilsom
+
+eller
+
+ikke.
+
+for
+
+Det
+
+metodene
+
+statistikerens
+
+er
+
+feil enten vi
+
+faktum at vi
+
+og uttrykkelig undersøker
+
+naturligvis
+
+omtalt
+
+erfaringsmateriale
+
+alltid muligheter
+
+taushet
+
+å si griper tyren ved hornene
+
+Vi
+
+feiltolkning
+
+Til dette kan det svares at athres! forat på å si noe
+
+almengyldig på
+
+for
+
+at
+
+av
+
+så
+
+sjangsene
+
+péliteligere,
+
+arbeidsmate
+
+når
+
+det
+
+gjelder å tolke et gitt statistisk dsjenlsle. Mon ptetiaticke overs
+veielser kommer naturligvis også inn når det gjelder planleggingen
+av hvorledes det målte eller talte skal bringes tilveie. Vi skal se
+
+på et eksempeå for å illugtrere hva slags betraktninger en statis—
+
+tiker må foreta under planleggingen.
+Anta
+
+at
+
+man
+
+ønsker
+
+å vite
+
+hvilket
+
+av
+
+to
+
+gjødningsstoffer
+
+er
+
+det
+
+
+
+beste.
+
+Vi vil
+
+en stripe
+
+Denne
+
+utføre
+
+land
+
+som
+
+et
+
+er, la
+
+strigen inndeles
+
+linjer. Hver rute
+
+dyrkingseksperiment
+oss
+
+i 10
+
+i
+
+disse
+
+gjødning og
+
+i
+
+de
+
+ruter, i
+
+store
+
+5
+
+av
+
+5
+
+rutene
+
+skal
+
+gjødning»
+
+så måles
+
+ruter skal vi
+
+ruter ved
+
+lang.
+
+tvergående skille-
+
+ganger 10 meter. Nå skal vi
+
+5 andre den andre
+
+havre og høstutbytte skal
+
+ruter
+
+like
+
+disponerer over
+
+10 meter bred og 100 meter
+
+blir altså på 10
+
+gjødningene
+
+er nå i hvilke
+
+si,
+
+og vi
+
+vi
+
+bruke
+
+den
+
+spre den
+
+ene
+
+ene
+
+Deretter skal vi
+
+for hver enkel rute,
+gjødning og
+
+spre
+
+så
+
+Svørsmålet
+i hvilke
+
+5
+
+den annen.
+
+Den mest nærliggende tanke er vel å spre den ene sort gjødning
+i
+
+de
+
+5
+
+første
+
+ruter. Dette
+
+ruter
+
+og
+
+de
+
+anden
+
+sort
+
+gjadning
+
+betyr i realiteten at vi da
+
+i
+
+de
+
+5
+
+etterføigende
+
+inndeler stripen på 100
+
+meter i to striper, hver på 50 meter og lar de to striper få hver sin
+jødning. Men nå er det klart
+strife var
+det
+
+større
+
+skyldes
+
+at hvis høstutbytte i den første
+
+enn i den andre,
+
+gjødningen.
+
+Det
+
+kunne
+
+kunne vi
+like
+
+ikke
+
+gjerne
+
+derav slutte at
+
+skyldes
+
+egenskaper
+
+ved jorden som ikke har noe med gjødningen å gjøre. [Nesten like
+store vanskeligheter ville vi
+
+være
+
+i hvis vi
+
+i
+
+annenhver rute
+
+i
+
+stripen brukte den ene gjødning og i annenhver den andre gjødning.
+Så lenge vi ikke har noe målt uttrykk for jordens kvalitet må
+vekslingen
+
+venkes
+
+at
+
+i
+
+jordens kvalitet
+
+jordens kvalitet
+
+Men anta nå at vi
+ene
+
+gjødning
+
+påstå at man
+
+og
+
+hvilke
+
+betraktes
+
+vekslet
+
+i
+
+som ukjent.
+
+perioder
+
+trakk lodd om hvilke
+5
+
+ruter
+
+den
+
+anden
+
+i
+
+5
+
+kunne
+
+jo
+
+takt
+
+med rutene.
+
+ruter
+
+skulle ha
+
+gjødning.
+
+ikke har oppnådd noe mer ved det.
+
+Det
+
+Kanksje
+
+Det kunne
+
+jo
+
+den
+
+man vil
+
+tenkes
+
+at loddtrekning falt så une åigdfr vi kom til å dyrke den ene
+gjødning
+annen
+
+i
+
+det
+
+5
+
+ruter
+
+gjødning
+
+i
+
+de
+
+5
+
+hvor
+ruter
+
+jordens
+hvor
+
+kvalitet
+
+jordens
+
+var høyest
+
+kvalitet
+
+var
+
+og
+
+den
+
+lavest.
+
+Da
+
+ville man tilsynelatende være i samme vanskelighet som ved de andre
+fremgangsmåter som jeg nevnte. Likevel
+
+er det
+
+Hvis
+
+bruke
+
+man
+
+trekker lodd
+
+om hvor man skal
+
+en viktig forskjell.
+den
+
+ene
+
+og hvor man
+
+
+
+skal
+
+bruke
+
+den andre gjødning vil
+
+det være
+
+tilfeldig
+
+om den ene
+
+gjødning ble spredt på gode eller dårlige akerlapper. Da ville
+
+altså innflytelsen av jordens kvalitet på resultatet være eter ay*
+de
+
+tilfeldige variasjoner. Men
+
+behersker med det verktøy som
+
+de
+
+tilfeldige
+
+variasjoner
+
+er noe
+
+vi
+
+oss.
+
+For
+
+sannsynlighetsregningen gir
+
+å si det på en annen mate Vi behøver ikke lenger regne med noen
+systematisk virkning
+
+av
+
+jordens
+
+kvalitet ved
+
+de
+
+tallene
+
+vi
+
+kommer
+
+frem til.:
+Nå kan altså sannsynlighetsregningen brukes
+tallene på
+
+samme måte
+
+som f.eks.
+
+ved kontroll
+
+til å bearbeide
+
+av produksjons»
+
+prosesser.
+
+Denne idé med loddtrekning synes enxel, men dendbryter i
+virkeligheten ganske
+
+radikalt med de
+
+forestillinger somwert mange
+
+nomerirer har om skuparimentetl Vrorskuinge Hvor ofte hører man
+ikke
+
+følgende
+
+uttalelser:
+
+I
+
+den
+
+og
+
+den vitenskap
+
+er
+
+det
+
+umulig
+
+å
+
+slutte noe pålitelig om virkningen av de forskjellige Folcpersi.
+Vi
+
+kan nemlig
+
+ikke
+
+faktorer unntagen
+
+gjøre som i
+én
+
+fast.
+
+målinger i laboratoriet
+
+Til
+
+fysikerens laboratorium.
+
+Holde
+
+dette
+
+fysikerens
+
+er
+
+å
+
+svare
+
+at
+
+er beheftet med såkalte
+
+også
+
+tilfeldige
+
+alle
+
+feil.
+
+Ved loddtrekningen er det i virkeligheten lykkes å komme på linje
+med
+
+Faydkeren.
+
+bare påvirket
+
+Høstutbytte
+
+i
+
+eksperimentet
+
+med
+
+av en faktor, nemlig gjødningen.
+
+jorddyrkningen er
+
+I
+
+tillegg hertil
+
+kommer bare de tilfeldige varias joner/
+Uten 4 komme
+
+nermere
+
+planleggingen må man
+
+vi
+
+gjorde
+
+det
+
+ved
+
+se
+
+på
+
+analysen
+
+inn
+
+p&
+
+det
+
+sjangwene
+
+av
+
+et
+
+kan jeg nevnte
+for
+
+XERAX
+
+at
+
+også ved
+
+feiltolkninger,
+
+foreliggende
+
+slik
+
+som
+
+statistisk
+
+materiale.
+
+Som en avslutning på
+det
+
+egentlig ligger
+
+tolkning
+
+At
+
+i
+
+dette
+
+disse
+at
+
+vi
+
+foredrag skal
+ønsker
+
+jeg
+
+sjangsene
+
+si
+for
+
+Mer
+
+noéyom hva
+feil=
+
+små.
+
+sjangsene
+for feiltolkniner
+g små betyr at hvis vi rent
+
+
+
+hypotetisk
+
+tenkte
+
+ganger under
+
+konklusjon
+
+oss
+
+samme
+
+som
+
+er
+
+undersøkelsen
+
+omstendigher,
+
+i
+
+samsvar med
+
+gjenta
+et meget
+tt
+
+vil
+
+vi
+
+som regel
+
+realitetene.
+
+stort
+
+komme
+
+antall
+
+frem til
+
+en
+
+Deterdetsesom+enlic.
+
+seig kdpids "sgampjingæsynspunktet", Det kommer av det engelske ord
+ri
+
+"sample"
+
+som betyr
+
+prøve
+
+eller utvalg.
+
+Det
+
+statistiske
+
+materiale
+
+er
+
+en prøve blandt de tenkte materialer ved de tenkte gjentagelser.
+Det
+
+ful
+
+er
+
+mm
+7
+atal verdifullt
+
+klart
+
+ramphuigs
+
+ne ee
+
+at
+
+statistiker.
+
+Det ofres i dag mange arbeidstimer på
+
+praktisk-tekniske undersøkelser hvor
+
+statistiske
+
+metoder
+
+anvendes.
+
+Usikkerhetsmomenter ved slike undersøkelser kan aldri helt eliminere:
+Oppgaven må derfor være å sikre at man som regel får et fornuftig
+
+resultat uten for store omkostninger. Nå vil det naturligvis som
+regel
+
+ikke
+
+være
+
+slik
+
+som vi
+
+tenkte
+
+oss
+
+at
+
+en statistisk
+
+undersøkelse
+
+blir gjentatt under samme omstendigheter. Men ved å oppfatte hver
+enkelt
+
+undersøkelse
+
+sikrer vi
+
+oss
+
+i
+
+av forskjellige
+
+som en av
+
+en rekke
+
+virkeligheten at
+
+statistiske
+
+vi
+
+hypotetiske
+
+blandt
+
+undersøkelser
+
+gjentakelser,
+
+den brogede
+
+som regel
+
+vil
+
+mangfoldighet
+
+trekke
+
+fornuftige slutninger uten for store utgifter for samfunnet.
+Det
+
+er
+
+analogt
+
+med
+
+et
+
+livsforsikringsselskap.
+
+Når
+
+aktuaren
+
+skal regne ut premien for en fors-kringskontrakt, tenker han seg
+hypotetisk et selskap som Åegner et stort antall identiske
+kontrakter
+noenlunde
+
+og han
+
+ansetter
+
+sikret mot
+
+premien
+
+underskudd.
+
+I
+
+slik
+
+at
+
+dette
+
+virkeligheten
+
+tenkte
+
+selskap
+
+er
+
+i
+
+det
+
+et
+
+er
+
+selskap
+
+san broget mangfoldighet av kontrakter og meget få som er identiske.
+Men ved
+
+for hver
+
+har bean
+
+i
+
+for mot
+
+underskudd.
+
+enkel
+
+kontrakt
+
+virkeligheten
+
+Statistikeren
+finne
+
+den metode
+
+som med
+
+sikret
+
+å resonere
+det
+
+slik
+
+konkrete
+
+som
+
+selskap
+
+jeg nevnte,
+som han
+
+arbeider
+
+9
+
+hver enkelt statistisk undersøkelse
+små
+
+omkostninger
+
+gjør slutningene
+
+så
+
+sikre
+
+som mulig. Små omkostninger betyr lite statistikk. Han må også
+i.
+hvert
+
+enkelt tilfelle vurdere hvorvidt statistikk kan si ham noe.
+
+
+
+At
+
+det
+
+flere
+
+ofte
+
+er
+
+en
+
+tall,
+
+slik
+
+man bare
+
+at
+vil
+
+statistiker
+
+skjønt
+
+som
+
+i
+
+farvannet
+
+oftest
+
+det man ønsker
+bruke
+
+litt
+
+tall
+
+vil
+
+å vite
+og
+
+det
+
+betyr
+
+vel
+
+derforYnødvendisvis
+
+det.
+
+ligger like
+
+statistikk,
+
+Det
+
+er nemlig
+
+rundt
+
+hjørnet,
+
+utrolig
+
+hvis
+
+
+
+Malignant melanoma, lung cancer, and prostate cancer in relation
+
+to diet. A Norwegian prospective study emphasizing fat intake
+and methodological issues of measurement errors
+Marit Bragelien Veierød
+
+Sted: Seksjon for medisinsk statistikk, Det medisinske fakultet, UiO. Disputas: 01.09.2000
+Grad: Dr. philos Finansiering: Den Norske Kreftforening, Den norske lægeforening
+Veiledere: Petter Laake, Dag S. Thelle, Christian A. Drevon
+Avhandlingen
+
+faller
+
+innenfor
+
+fagområdene
+
+kreft-
+
+og
+
+ernæringsepidemiologi
+
+og
+
+medisinsk
+
+statistikk. Sammenhengen mellom kosthold og malignt melanom (ondartet føflekkreft) og mellom
+fettinntak og kreft i lunger og prostata er studert i en norsk kohort bestående av
+
+50 000 personer rekruttert i
+
+16-56 års alder. Kostholdsdata vil alltid være beheftet med
+
+målefeil/feilklassifisering. Konsekvensen av dette for estimert sammenheng med kreftsykdom er
+
+studert ved hjelp av både stokastisk simulering og matematisk statistisk tilnærming til problemet.
+Dataene er hentet fra Statens Helseundersøkelser sin hjertekar-undersøkelse i Finnmark,
+
+Sogn og Fjordane og Oppland i 1977-83. Alle deltagerne fikk utdelt et spørre-skjema om kosthold
+utviklet ved Institutt for ernæringsforskning, UiO. Skjemaet inne-holder spørsmål om konsum av
+vanlige mat- og drikkevarer med særlig vekt på de viktigste fettkildene. Kobling mot
+Kreftregisteret ga forekomst av kreft, mens opplysninger om død og emigrasjon ble hentet fra
+Statistisk Sentralbyrå. Kohorten er fulgt frem til 31/12-1992. Det ble registrert h.h.v. 108, 156 og
+72 nye tilfeller av malignt melanom, lunge- og prostatakreft. Poisson regresjonsanalyse ble anvendt
+for å estimere sammen-hengen mellom kostholdsfaktorer og risikoen for kreft.
+Noen få kostholdsfaktorer var assosiert med malignt melanom, men bare for kvinner. Vi
+
+tror dette kan forklares via sammenheng med andre ikke-registrerte faktorer som f.eks. solvaner. Vi
+fant ingen sammenheng mellom lungekreft og inntak av kolesterol og mettet fett, men redusert
+risiko ved bruk av skummet melk sammenlignet med helmelk og ved bruk tran. En beskyttende
+
+effekt av tran kan skyldes innholdet av omega-3 fettsyrer, men bør etterprøves i senere studier. For
+prostatakreft støtter denne studien ikke enkelte tidligere studier som har funnet positiv
+sammenheng med fettinntak, spesielt animalsk fett. Kohorten er fortsatt ung og andre studier har
+foreslått at kosthold i eldre år kan være av større betydning for risikoen for prostatakreft.
+Ved analyse av sammenhengen mellom fettinntak og kreftsykdom deles vanligvis
+observert fettinntak inn i kvartiler. Ved hjelp av stokastisk simulering illustreres det hvordan de tre
+kvartil-koeffisientene estimert ved Poisson regresjon kan bli betydelig svekket på grunn av målefeil
+i fettinntaket. Svekning av sammenhengene er vanligst, men det illustreres også hvordan observerte
+
+sammenhenger kan bli styrket p.g.a. målefeil.
+Det utledes en metode for å vurdere skjevhet i Poisson regresjonskoeffisienter for
+sammenhengen mellom sykdom og eksponering når sistnevnte er kategorisk og utsatt for
+feilklassifisering. Hver person i studien har en sann eksponeringskategori (typisk ukjent) og en
+observert eksponeringskategori. Kjennskap til førstnevnte ville gitt sanne regresjonskoeffisienter,
+mens analysen av observert eksponering gir såkalte naive regresjonskoeffisienter. Det utledes
+eksplisitte uttrykk for de naive koeffisientene som funksjon av de sanne koeffisientene og
+feilklassifiseringssannsynlighetene. Dersom vi antar uavhengighet mellom feilklassifiseringssannsynlighetene og eventuelle justeringsvariable, er uttrykkene for de ujusterte og de justerte
+naive koeffisientene identiske. Tilsvarende utledes også for lineær regresjon. Utvalgte eksempler
+med både symmetrisk og asymmetrisk feilklassifissering samt forskjellige does-responsmønstre,
+illustrerer hvor vanskelig det er å forutsi konsekvensen av feilklassifisering. Både størrelsen og
+retningen på skjevheten i estimatene kan variere mellom eksponeringskategoriene.
+
+
+
+Her er sportsnytt!
+
+Hva er forskjellen på Edel Therese Høiseth og Jørund Gåsemyr? Vel: I tillegg
+til at frk. Høiseth aldri har fått en artikkel publisert i prestisjetidsskriftet Annals of Statistics, har Jørund deltatt i flere olympiske leker enn Edel Therese.
+Høiseth er med rette kjent for sine multiple olympiadiske sprintløp, med deltagelse i de siste fem vinter-OL (som kjent med plasseringene 24, 14, 20, 8,
+20 på 500 m og 20, 15, 13, 26, 14 på 1000 m).
+I dette lys er Jørunds prestasjoner enda mer multiple og enda mer imponerende — og hans plasseringer enda mer lysende. Han er nettopp tilbake
+fra Sydney Paralympics, der det ble en 4. plass i favorittøvelsen maraton med
+
+tiden 2:50:31. Gåsemyr er formodentlig (det internasjonale) statistikkfagets
+eneste olympiske mester.
+
+Han vant maraton i Barcelona 1988 med tiden
+
+2:45:48. Ellers har Jørund som Grete Waitz en bakgrunn også i kortere løp,
+med sølv- og bronsemedaljer på 1500 og 5000 fra 1980 og 1984.
+Jostein Lillestøls «puslerispalte» kan for denne anledning suppleres med
+følgende. Det norske statistikkmiljøet har såvidt redaksjonen vet fostret én
+idrettsverdensmester: hvem er dette? Og tilleggsspørsmålet, i tilknytning til
+
+Edel Therese Høiseth, må bli: Hvem er den ene skøyteløper i verden som har
+flere olympiske deltagelser enn hennes fem? Vedkommende har like mange
+OL bak seg som Jørund — men Jørund har fortsatt ikke lagt opp!
+Nils Lid Hjort
+
+Nytt fra Norges Landbrukshøgskole:
+Nye Cand.scient. -er:
+
+Guri Feten: ’’ Prediksjon i situasjoner med få observasjoner i forhold til tal på
+forklaringsvariable.”’
+
+Veiledere: Trygve Almay og Are Aastveit.
+
+erte
+Monica Kristiansen: ‘’Blanda modeller (mixed models) med anvendelse pa repet
+målinger.”
+
+Veiledere: Are Aastveit og Trygve Almøy
+
+
+
+FORELØPIG ANNONSERING!
+
+Norsk
+
+Statistisk
+
+KONFERANSE
+I
+
+20.-22.
+
+OG
+
+Forening
+
+årsmøte
+
+Bergen
+
+juni,
+
+2001
+
+Det er planlagt et prekonferansekurs 18.-19. juni
+
+(eksakte metoder), med forelesning
+og PC-øvelser.
+
+Hold av datoene -
+
+og følg medi TG for videre informasjon og påmelding
+
+Vel møtti Bergen neste år!
+
+Hilsen
+Bergen Statistisk Forening
+
+
+
+Norsk Regnesentral (NR) er et ledende forskningsinstitutt innen statistisk-matematisk modellering og
+analyse, mønstergjenkjenning, bildeanalyse og sentrale IKT-områder. Instituttets 100 ansatte arbeider
+med anvendt forskning på oppdrag for næringsliv og offentlig sektor i Norge og internasjonalt. Vår
+oppgave er å skape forskningsresultater som brukes og synes.
+MOE Bry,
+
+:
+
+Ser ANVENDT DATAFORSKNING
+Landets ledende anvendte statistikkmiljø trenger flere
+
+Forskere
+NR utfører anvendt oppdragsforskning innen statistikk og matematisk modellering. Vi er over
+40 forskere innen dette feltet. Med en stadig økende oppdragsmengde trenger vi å styrke
+kapasiteten ytterligere. NR jobber med bruk av avanserte modeller bl.a innen petroleum,
+finans, industri, medisin, miljø og ressursforvaltning for krevende oppdragsgivere!
+Vi søker personer med universitets- eller høgskoleutdanning og som har:
+
+e
+
+solide teoretiske og praktiske kunnskaper innen matematisk statistikk, matematisk
+modellering og numerisk analyse, gjerne med doktorgrad
+
+e
+
+interesse for oppdragsforskning, markedskontakt og kundeoppfølging
+
+©
+
+evne og lyst til å bli en ressursperson innen et av våre satsingsområder
+
+e
+
+erfaring fra softwareutvikling (ingen betingelse)
+
+Vi tilbyr spennende og varierte prosjekter og hyggelige kolleger i et unikt fagmiljø i sterk
+vekst. NR kan videre tilby kollektiv forsikrings- og pensjonsordning, egen
+bedriftshelsetjeneste og mulighet for barnehageplass.
+For nærmere informasjon kontakt forskningssjef André Teigland, e-post
+
+Andre.Teigland@nr.noeller forskningssjef Lars Holden, e-post Lars. Holden@nr.no.
+
+Kvinner og nyutdannede med stå-på-vilje oppfordres spesielt til å søke.
+Skriftlig søknad med vitnemål og attester sendes personalkontoret.
+Norsk Regnesentral, P.b. 114 Blindern, 0314 Oslo. Tlf: 22 85 25 00. Fax: 22 69 76 60.
+
+For mer informasjon om NR, se vår URL: http://www.nr.no
+
+
+
+Medlemsskap i Norsk statistisk Forening
+Kontingent:
+
+200 kr/år
+
+50 kr/år for studenter (til og med hovedfag).
+Kontonummer: 0530 2773299
+
+Nummeret som er angitt på adresselappen på TG angir siste år kontingenten ble betalt.
+Ved innbetaling må man opplyse om endret adresse (f.eks endret postnummer).
+
+Korrespondanse om medlemsskap og innbetaling av kontingent skal skje til foreningens
+kasserer:
+
+Norsk Statistisk forening v/Ågot Irgens
+Kalfarlien 6A
+5018 Bergen
+
+Emailadresse: agot.irgens@haukeland.no
+
+Nye medlemmer melder seg til kasserer og får så automatisk tilsendt Tilfeldig Gang fra første
+påfølgende nummer av.
+
+Mailadresser:
+
+Vi ønsker mailadresser til alle medlemmer i NSF:
+
+Oppgi e-mailadressen din på merknadsfeltet på postgiroen, eller send en e-mail til
+agot.irgens@haukeland.no om mailadresse og evt adresseendring.
+Annen korrespondanse med foreningen skal foregå med formannen:
+Geir Egil Eide
+Kompetansesenter for klinisk forskning
+- Haukeland sykehus
+Armauer Hansens hus
+5021 Bergen
+
+Emailadresse: geir.egil.eide@haukeland.no
+
+
+
+
+
+
+
+Retur:
+
+Norsk Statistisk Forening
+
+v/Ågot Irgens
+Kalfarlien 6A
+5018 BERGEN
+
+Email: agot.irgens@haukeland.no
+
+
+

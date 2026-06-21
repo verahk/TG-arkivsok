@@ -1,0 +1,4932 @@
+TILFELDIG GANG
+Nr. 1, årgang 8
+Januar 1991 —
+
+Utgitt av Norsk Statistisk Forening
+
+Innhold
+
+Side
+
+Sillingsamome AG Ses ce 5 eh cse ck ao acic stele ho ee se wana te Pa tieaie ns oes cee Seis 2
+Er den norske Bayes-debatten pa riktig spor? Redaktgrens sma
+bekymringer. lur Heueh ss 3
+Fra formannen i Norsk Statistisk Forening. Bent Natutg...........0ceeceeeeeeeeees 8
+
+Bayes-metodikkens plass i statistiske beslutningsproblemer. — Hva er
+subjektivt, og hvem er subjektivister? Ragnar Norberg .....+»+»vvnvvnvnnenenr 9
+Ad Bayes-debatten: Anmeldelse av doktoravhandling. K. Pörn: On empirical
+Bayesian inference applied to Poisson probability models. Bent Natvig ....... 17
+
+Det er rom for flere matematisk-statistikere i Byrået! Intervju med Ib Thomsen,
+
+leder av Metodegruppen i Statistisk Sentralbyrå. Ivar Heuch................- 19
+Normaldødelighet, overlevelsesmodeller og relativ risiko — et forsøk på
+en elementær framstillng: KnulMeen 2.0.05 coheed ce ieee cree te wigs <n 23
+Referat fra ICOTS - International Conference on Teaching Statistics.
+Undervisningsutvalget/ Il. 30
+Sammendrag av doktoravhandling: Autoregressive models with changing
+structure. John Tyssedal..:...:......1.->- SNE 31
+Sammendrag av doktoravhandling: A study of image improvement techniques
+applied to NMR images. Fred Godtliebsen...........0.0.sccesececcsecsecseces 33
+
+Bokomtale: C. W. Anderson og R.M. Loynes: The teaching of practical
+ne se eee 36
+Statistics. Henrik Dahl SEN
+Anmeldelse av programpakke: StatXact. Stein E. Vollset......»»»»=uanvannvnvvrrr 38
+y
+
+Statistikere i de baltiske land bgr inviteres til den nordiske konferansen
+i matematisk statistikk. tenor Bjerve 2 40
+ences 41
+....
+sees seen
+Invitasjon til foredrag ved Norsk Statistikermøte 1991 .........
+Ny redaksjon i Scandinavian Journal of Statistics ...............cceceseceseceeees 42
+Nytt fra universiteter og høyskoler . 22. .....25 6.0. ccecccec ec ccccssseceecerscwewers 43
+Statistisk Forening 1: Bergen: SSN 44
+6 oti fore Siem cia piss vin ei stele eine ste este 44
+Statistisk Porening 1 Trondheim 9.45
+Svenska Statistikersamfundets Sommarskola 1991: Nonparametric and
+semiparametric curve estimation .............cccescecccensnenccessecccseccss 45
+Norsk forening for epidemiologi — Invitasjon til medlemskap og konferanse......... 46
+Medlemskap i Norsk Statistisk Forening .............0cccecscccccccscseceecccoecs 47
+
+
+
+
+
+Stillingsannonse
+
+STATISTIKER - CAND. REAL./CAND. SCIENT. /AKTUAR
+En av våre statistikere skal gå over i annen jobb. Vi søker derfor en person som kan ta over hans
+ansvarsområde. Stillingen er et vikariat for ett år, men med stor sannsynlighet for varig ansettelse.
+
+Markeds- og Mediainstituttet A/S (MMI) er landets ledende private institutt for meningsmålinger,
+markedsundersøkelser og andre statistiske undersøkelser, og har en faglig allsidig stab med høy
+kompetanse. Instituttet har for tiden ca. 50 fast ansatte - hvorav to statistikere. Stillingen krever
+selvstendighet og resultatorientering, og gir rom for faglig egenutvikling, deltakelse i eksterne kurs,
+
+konferanser m.v.
+
+Arbeidsområdet for stillingen er bl.a.:
+
+¢ — Hovedansvar for metodisk opplegg av våre undersøkelser.
+« — Foreta delanalyser som krever høy kompetanse i statistikk.
+
+«
+
+Ha ansvar for kunde-orienterte prosjekter som krever matematisk statistisk kompetanse.
+
+* — Intern fagstatistisk rådgiver for den øvrige stab.
+
+De fagområder som er mest relevante, er sampling, korrespondanseanalyse,
+
+regresjons-/variansanalyse og andre multivariate teknikker. MMI bruker bl.a. SAS som
+programmeringsverktøy ved siden av egenutviklede programmer for ulike spesialoppgaver.
+
+Kjennskap eller erfaring fra noen av disse områdene er en fordel, men ingen forutsetning. Nødvendig
+opplæring og veiledning vil bli gitt. Hovedvekten av arbeidsoppgavene er konkrete kundeoppdrag
+
+der teoretiske kunnskaper i matematisk statistikk anvendes i praksis.
+
+MMI har kontorer på Vaterland i Oslo, og ligger svært gunstig til kommunikasjonsmessig.
+
+Lønn etter avtale.
+
+Spørsmål vedrørende stillingen kan rettes til Steinar Tamsfoss (tlf. 02 - 95 47 00).
+
+Søknad med nødvendig dokumentasjon sendes snarest til MMI v/Steinar Tamsfoss - senest innen 15.
+februar 1991.
+
+Markeds- og Mediainstituttet a.s
+
+Post: Boks 9143 — Vaterland, N — 0134 OSLO 1
+Kontor: Christian Krohgs g. 2A. Tlf. (02) 95 47 00
+
+
+
+Er den norske Bayes-debatten på riktig spor?
+Redaktørens små bekymringer
+
+Bayes-debatten fortsetter i dette nummeret av Tilfeldig Gang med innlegg av
+Bent Natvig og Ragnar Norberg. Debatten startet her i tidsskriftet i septembernummeret 1989 med en artikkel skrevet av Bent Natvig, under den provokatoriske
+tittelen *På tide med Bayes-analyse i Norge nå?”. Opprinnelig var dette likevel
+en avlegger av det som foregikk på statistikermøtet i Inderøy i juni 1989, der
+Bent Natvig og Emil Spjøtvoll innledet til debatt. Senere har Tilfeldig Gang også
+hatt innlegg av Odd Aalen og Erling Sverdrup om dette temaet, i henholdsvis
+desembernummeret 1989 og aprilnummeret 1990.
+
+Norbergs artikkel i det foreliggende nummeret tar utgangspunkt i Sverdrups
+innlegg. Inspirasjonen for Natvigs bidrag kommer derimot utenfra, idet det utgjør
+en anmeldelse av en svensk doktoravhandling som Natvig har vært med på å
+bedømme. Aalen skrev i desember 1989 at han gjerne kunne gå med på *at
+Bayes-tankegangen har sin berettigelse på visse felter”. Han oppfordret derfor
+Natvig til *å overbevise oss klassiske statistikere om dette med eksempler fra den
+virkelige verden”. Det er nå ganske lenge siden denne oppfordringen ble gitt, og
+
+Bent Natvig har overfor redaktøren gitt uttrykk for at Aalens anmodning best kan
+følges opp ved å peke ut et bestemt anvendelsesområde, f. eks. pålitelighetsteori,
+som er temaet i Kurt Pörns doktoravhandling. Natvigs anmeldelse er opprinnelig
+skrevet for et annet forum, men den bør samtidig kunne bidra til debatten i
+Tilfeldig Gang.
+
+Kan statistikerne forklare sitt dilemma til andre?
+
+Naturligvis kan man ikke se isolert på diskusjonen i Tilfeldig Gang omkring
+dette emnet. At statistikerne i noen grad er uenige om selve idégrunnlaget for sitt
+eget fag, kan av og til vekke oppsikt hos brukere av faget. Redaktøren ble selv for
+et par måneder siden bedt om å holde et foredrag om dette grunnleggende skismaet
+i “Vitenskapsteoretisk seminar for realister” ved Universitetet i Bergen. Det ble
+samtidig gitt klar beskjed at man ville sette pris på at foredraget fremhevet de
+angivelige sterke motsetningene mellom Bayesianere og frekventister. Foredraget
+skulle ta sikte på alminnelig interesserte realister, som imidlertid ikke kunne forutsettes å ha noen tidligere kjennskap til statistikk.
+
+Om foredraget under slike omstendigheter kunne sies å være vellykket, er ikke så
+enkelt å avgjøre for foredragsholderen. Det ble påpekt fra salen at den Bayesianske
+tankegangen i bunn og grunn måtte være i strid med *det hypotetisk-deduktive
+prinsipp”. Dette førte nærmest til almen avsky, til tross for en relativt nøytral
+innstilling i utgangspunktet hos foredragsholderen. Et viktig spørsmål ble likevel
+rettet til oss statistikere som driver med generell folkeopplysning blant realfagstudenter av alle avskygninger: Hvis det virkelig er slik at dere er fundamentalt
+uenige om hovedprinsippene, burde dere ikke i større grad også gi en innføring
+i alternativ Bayesiansk tankegang i vanlige grunnkurs i matematisk statistikk?
+
+
+
+Uansett hva slags balansert standpunkt man prøver å innta ellers, kan man lett
+erklære seg enig i dette klagemålet.
+
+Kan vi bli frelst ved empirisk Bayes?
+
+Under utarbeidelsen av foredraget dukket det opp en ny artikkel om temaet i
+internasjonal statistisk litteratur. Oversiktstidsskriftet Statistical Science brakte i
+augustnummeret 1990 et innlegg av Norman Breslow om *Biostatistics and Bayes”
+[1], med kommentarer fra en lang rekke andre statistikere. Breslow inntar prinsipielt en imøtekommende innstilling overfor Bayes-metodene, selv om han finner
+svært få spor etter dem i ordinær biostatistisk litteratur. Også norske statistikere
+kan gjerne oppfordres til å lese Breslows artikkel, men personlig satt redaktøren
+av Tilfeldig Gang igjen med en viss skuffelse etter et forsøk på å forstå noe av det
+Breslow mener er fruktbare anvendelser av Bayes-metodikk.
+
+Det er interessant at Breslow fremhever metoder basert på empirisk Bayestankegang i flere sammenhenger, f. eks. ved simultan estimering av insidensrater
+for kreft i mange mindre områder gitt ved en bestemt geografisk struktur. Parametre som beskriver den stokastiske område-effekten, antas her å følge en bestemt
+
+sannsynlighetsmodell, med andre underliggende parametre som igjen blir estimert
+på grunnlag av observasjoner. Disse teknikkene basert på empirisk Bayes synes
+imidlertid å ha lite idémessig til felles med Bayes-metoder basert på subjektive
+a priori-fordelinger, som f. eks. Natvig argumenterer for. (I Natvigs innlegg denne
+gangen omtaler han riktignok spesielle *Bayes empirisk Bayes”-metoder, men det
+ser ut til å være en vri fra Bayesianerne for å erobre tilbake det som måtte være
+gått tapt til empirisk Bayes!)
+
+For øvrig er det verdt å merke seg at idéen med empirisk Bayes ved estimering i mange små områder også dukker opp i intervjuet med Ib Thomsen i dette
+nummeret av Tilfeldig Gang.
+
+Skal vi se på beslutningsteorien som det store idealet?
+
+Redaktøren husker godt den første innføringen han fikk i Bayesmetoder, gjen-
+
+nom et kurs i beslutningsteori arrangert ved NTH for tyve år siden, med Kjell
+
+Doksum som tilkalt foreleser. Kurset lå på et relativt enkelt nivå, og det var
+basert på den velkjente boken Elementary Decision Theory av Chernoff og Moses
+
+'2]. På mange måter gav boken et nesten altfor elementært inntrykk. Likevel
+
+bidrog tankegangen til en generell oppklaring av de problemene man står overfor i
+
+situasjoner der man presses til å fatte en avgjørelse under usikkerhet. Man hadde
+virkelig medfølelse med en viss Mr. Nelson i North Phiggins, som i et konkret
+eksempel skulle bestemme seg for passende utebekledning (og eventuell paraply
+osv.), avhengig av spådommer fra en upålitelig *regnvarsler”. Mr. Nelson klarte
+faktisk å angi hvor store tap han ville lide ved bestemte kombinasjoner av bekledningsvalg og naturlig tilstand (dvs. sol eller høljregn). Fikk han dessuten hjelp til
+å si hvor stor sannsynlighet det var for sol og høljregn i North Phiggins, kunne
+han til og med sette opp en Bayes-strategi, som skulle fortelle ham hvordan han
+burde kle seg straks han hadde tittet på regnvarsleren.
+
+
+
+Eksempelet kunne virke småpussig. Likevel er det underlig hvordan en slik enkel
+illustrasjon kan åpne for nye perspektiver og klargjøre hvordan man ideelt sett
+skal gå frem ved kvantitativ analyse av vanskelige beslutningssituasjoner. I denne
+sammenhengen har det liten betydning at Mr. Nelsons tapsfunksjon nødvendigvis
+måtte bli svært vilkårlig, og at han som besøkende til North Phiggins neppe fikk
+mange andre med på sine a priori-sannsynligheter for sol eller høljregn. Det er den
+prinsipielle tankegangen som har de viktigste konsekvensene, nemlig at man under
+visse forutsetninger i det hele tatt kan regne seg frem til en *optimal strategi”.
+Det blir nærmest banalt å registrere at en bestemt bruk av en optimal strategi
+ikke behøver å lede til den handlingen som mani ettertid ser ville gitt minst mulig
+tap, når man virkelig får åpenbart naturens sanne tilstand. Dette kan virke helt
+selvsagt, men ofte skulle man ønske at denne lærdommen kunne innprentes hos
+etterpåkloke journalister som går ut og kritiserer andre som har fattet viktige
+beslutninger under usikkerhet.
+
+Det oppstår imidlertid mange alvorlige problemer dersom slike metoder skal
+utnyttes i konkrete situasjoner der man må ta avgjørelser av stor samfunnsmessig
+betydning. Hva bør man f. eks. gjøre i praksis med CO,-innholdet i atmosfæren?
+Hvilke konsekvenser får våre avgjørelser i dag for naturens virkelige tilstand om
+hundre år? Selv om det foreligger usikre data som belyser problemene, er det
+uhyre vanskelig å sette alt materialet inn i en kvantitativ beslutningsteoretisk
+modell som virkelig viser vei i form av en optimal strategi. Noe må vi likevel
+foreta oss — om ikke annet, bare la alt skure og gå. Det er derfor mulig at en
+slik tankegang kan være fruktbar, til tross for at avgjørelsene ikke nødvendigvis
+bygger på vanlige "statistiske bevis”.
+
+Statistikk — et bagatellmessig spesialtilfelle av beslutningsteorien?
+Som det ble påpekt f. eks. i Sverdrups innlegg, kan også tradisjonelle statistiske problemstillinger som hypoteseprøving og punktestimering bringes inn under
+den generelle beslutningsteoretiske overbygningen. Skal man benytte en Bayestankegang her, vil forskjellige statistikere kunne gi svært ulik tolkning av a priorifordelingene som inngår. Som Sverdrup antyder, kan man naturligvis se på
+a priori-fordelingen som en slags veiing av de aktuelle parameterverdiene, og
+deretter bedømme valget av a priori-fordeling ut fra ytelsesfunksjonen for Bayesmetodene. Denne tankegangen stemmer likevel dårlig med holdningene til de
+tradisjonelle subjektive Bayesianere.
+
+Leser man f.eks. Dennis V. Lindleys artikkel om Bayesiansk statistikk i Encyclopedia of statistical sciences [3], blir man slått av hans argumentasjon om at
+absolutt alle problemer skal kunne løses på denne måten. Dette er nettopp den
+ene av *two fundamental reasons for adopting the Bayesian position”. Det er
+rimelig å betrakte dette som en ekstrem innstilling, slik at man i praksis heller gir
+rom for mange forskjellige prinsipielle angrepsmåter i bestemte problemstillinger
+som måtte dukke opp. Dette er mer i tråd med den generelle argumentasjon i
+Norbergs artikkel i dette nummeret av Tilfeldig Gang.
+
+Så spørs det i hvilken utstrekning “subjektivisten” Bent Natvig vil godta slike
+kompromisser. I sitt første innlegg understreket Natvig i utgangspunktet sam-
+
+
+
+menhengen med beslutningsteoretiske problemstillinger, der det kanskje ikke er
+så stor uenighet i noe fall. Her tenker man straks på problemer i slekt med
+dem som bekymret Mr. Nelson. I Tilfeldig Gang har vi ikke desto mindre sett at
+Natvig argumenterer ut fra klassiske p-verdier i et kontroversielt Treholt-problem.
+Grunnen er sikkert at kravet om objektivitet blir helt annerledes når man kritiserer de norske domstoler enn når man kjemper med været i North Phiggins.
+At det *objektive element” bør kunne spille en stor rolle ved valg av metode,
+har ofte vært brukt i generell argumentasjon for klassiske teknikker. Det kommer f.eks. frem i debatten i American Statistician i 1986, som ble satt i gang av
+Bradley Efron [4]. Dette er for øvrig også en diskusjon som gir interessante synspunkter på utviklingen videre fremover i statistikk, med bruk av ulike metoder
+på nye områder. Forholdet mellom objektivister og subjektivister blir ellers godt
+beskrevet av Norberg.
+
+Redaktøren ble i en annen sammenheng gjort oppmerksom på et *special issue”
+
+om “practical Bayesian statistics” utgitt i tidsskriftet The Statistician i 1987 [5].
+
+Det var naturlig straks å tenke på Aalens utfordring til Natvig, og lure på om
+man her fant slike overbevisende konkretiseringer som Aalen etterlyste. Heftet
+inneholder f. eks. noe så slående som “Bayesian alternatives to t-tests”, men ellers
+blir man ikke overbevist ved raskt gjennomsyn om at dette er det helt store svaret.
+Anvendelsene som er beskrevet, er sikkert interessante, men det klassikerne na
+trenger for eventuelt å kunne revidere sitt syn, er eksempler som kan få dem
+til å endre metodevalget i tilfeller der de hittil ikke ville tenkt på Bayesianske
+prinsipper i det hele tatt.
+
+Kan det virkelig dukke opp nye momenter i denne debatten i Tilfeldig Gang,
+når emnet allerede har vært behandlet så mange ganger i internasjonale fora?
+Det er påfallende i hvor stor grad de kjente debattantene ser ut til å snakke forbi
+hverandre i internasjonale diskusjoner. Ofte virker det som de fortaper seg i mer
+spesielle situasjoner der det er vanskelig å følge resonnementene. Hvis forholdene er mer oversiktlige innenfor vårt beskjedne norske statistikersamfunn, bør vi
+lettere kunne nå frem til gjensidig forståelse av delvis divergerende synspunkter.
+For redaktøren av Tilfeldig Gang ser det allerede ut som om samtlige involverte
+i praksis er villige til å innta et både/og-standpunkt og forkaster de ekstreme
+enten /eller-innstillingene. Klarer vi å få de gjensidige bade/og-standpunktene til
+å nærme seg enda mer? Redaktøren er i hvert fall takknemlig for at Bent Natvig
+satte i gang denne debatten.
+
+De objektive a priori-sannsynlighetene for subjektive Bayesianere
+At det kan være vanskelig å enes om passende a priori-fordelinger for ukjente
+størrelser kan kanskje illustreres ved følgende uhøviske eksempel. Man får bare
+håpe at ingen blir støtt. La oss tenke oss at man 1. november 1990 gav forskjellige
+medlemmer av Norsk Statistisk Forening dette spørsmålet: *Hva er en passende
+a priori sannsynlighet for begivenheten som går ut på at noen kvinne har oppnådd
+doktorgrad i Norge i statistikk?”. Mange forhold kunne tenkes å innvirke på
+svarene som man ville få. F.eks. kunne man tro at kvinner selv ville angi høyere
+sannsynligheter enn menn, eller muligens kunne akkurat det motsatte være rime-
+
+
+
+lig? I alle fall fremgår det av formannens spalte i dette nummeret at hans personlige sannsynlighet praktisk talt måtte være lik 0. (Rett skal være rett; andre
+tolkninger er også mulige.) Blant menige medlemmer ville svaret trolig avhenge
+litt av hvor nøye man vanligvis leste Tilfeldig Gang. Redaktørens sannsynlighet
+ville derimot være lik 1. For slår man tilbake i julinummeret i 1990, finner man
+nemlig på side 25 et sammendrag av Gyrid Johnsens doktoravhandling som ble
+forsvart ved Universitetet i Bergen 21. juni 1990. Kanskje andre kvinner var enda
+tidligere ute, men det ville ikke endret denne a priori-sannsynligheten.
+På side 36 av dette nummeret av Tilfeldig Gang gir Henrik Dahl en omtale
+av en bok om undervisning i praktisk statistikk. Forfatterne av boken har på
+listeform angitt hvilke ferdigheter som generelt kreves av en statistiker. Det spørs
+om alle vi praktiserende statistikere med hånden på hjertet kan vedstå oss disse
+ferdighetene. Da dette nummeret av Tilfeldig Gang endelig var ferdig utarbeidet,
+
+slo det iallfall redaktgren-at det var svært tvilsomt om han fremdeles tilfredsstilte
+kravene til *generelle ikke-tekniske ferdigheter” i den første kategorien!
+
+Ivar Heuch
+
+Referanser
+
+1. Breslow, N.: Biostatistics and Bayes. Statistical Science, 5 (1990), 269-298.
+2. Chernoff, H. og Moses, L.E.: Elementary decision theory. John Wiley, New
+York, 1959.
+
+3. Lindley, D. V.: Bayesian inference. I: Encyclopedia of statistical sctences, Vol.
+1, John Wiley, New York, 1982, 197-204.
+
+4. Efron, B.: Why isn’t everyone a Bayesian? American Statistician 40 (1986),
+1-5.
+
+5. Kanji, G.K. (red.): Special issue: practical Bayesian statistics. The Statistician, 36 (1987), 75-293.
+
+
+
+FRA FORMANNEN I NORSK STATISTISK FORENING
+
+I siste nummer av TG hadde redaktøren valgt å utelate sin egen og formannens spalte
+til fordel for en nekrolog over Else Sandved skrevet av Erik Torgersen. Det var et godt valg.
+Selv startet jeg min løpebane som statistiker i 1969 som hjelpelærer for Else i statistikkundervisningen for biologer. Det var en hyggelig oppgave under en særdeles hyggelig
+arbeidsgiver. Else lurte aldri på om vi hjelpelærere dugde til noe; det tok hun som en
+å priori informasjon. Opp gjennom årene hadde jeg mange interessante diskusjoner med
+henne om alt fra kvinnesak, via Bayesiansk statistikk og ancillæritet til kristendom. Hun
+låste seg aldri fast i standpunktene sine, men kom stadig tilbake med utdypninger og
+utbedringer. Tross sykdom og et liv som aldri gikk lett, vil hun bli husket som den gode
+fe blant oss som spredde varme og humør.
+
+Sist lørdag fikk jeg gleden av å lede dr.philos disputasen til Eva Skovlund som er den
+
+første kvinne som tar en doktorgrad i statistikkfaget. Else Sandved ville ha gledet seg stort
+over dette. Emnet for avhandlingen er analyse av sekvensielle to utvalgs testeri kontrollerte
+kliniske undersøkelser. Bruk av simuleringsverktøy er sentralt. Spesielt imponerende er
+det at Eva er utdannet farmasøyt og at alle avhandlingens ti arbeider enten er, eller er i
+ferd medå bli, publisert. Det er også all grunn til å gratulere og takke støttegruppen rundt
+
+henne der Lars Walløe har vært helt sentral, men der også Grete Fenstad og Knut Liestøl
+har bidratt helt vesentlig. Når Ørnulf Borgan og Knut Laake i tillegg ydet eksemplarisk
+opposisjon og festmiddagen var helt topp, var dette rett og slett en festdag for faget vårt.
+
+Om ikke dette var nok, kom jeg mandag morgen på jobben og fant siste nummer av
+Forskningspolitikk utgitt av NAVF’s utredningsinstitutt i posthylla. Her er en artikkel av
+Gunnar Sivertsen "Hvordan står det til med norsk forskning?” svært hyggelig lesning for
+statistikere. Artikkelen er basert på internasjonal statistikk fra Science Citation Index.
+La meg straks slå fast at dette kan være en tvilsom evalueringsmetode, hvilket drøftes i
+den påfølgende artikkel av Per O. Seglen “Kan siteringsanalyse brukes til evaluering av
+
+forskningskvalitet?” La oss likevel i denne førjulstid glemme denne siste artikkelen. Den
+første er basert på antall publikasjoner (1981-86) per capita og antall siteringer pr. publikasjon utgitt i 1981-83 og sitert i 1981-86. Vårt øye fanger deloverskriften "Matematikk
+- her har norsk forskning gjennomslagskraft”. Her står det “Norge har ikke spesielt høyt
+aktivitetsnivå i matematikk, men artiklene som publiseres blir ofte sitert: Sammen med
+Danmark rangerer Norge fremst blant de 19 land i gjennomsnittlig siteringshyppighet”.
+Det som gjør vårt øye skikkelig vått er at det er kategorien "statistikk & sannsynlighet”
+som bidrar mest til det gode resultatet med en siteringshyppighet som er 35% bedre enn
+verdensgjennomsnittet (anvendt matematikk ligger 33% under, mens generell matematikk
+ligger 27% over). Antall registrerte norske publikasjoner i "statistikk og sannsynlighet” i
+perioden 1981-86 er 60 og utgjør 0.7% av de 19 lands publikasjoner, mot 0.4% i generell
+matematikk.
+um
+=
+For å summere og gjenta noe jeg har tatt opp i denne spalte tidligere. Forskningsmessig
+har norske statistikere ingen grunn til å skamme seg - vi kan gå med løftet blikk også på
+den internasjonale arena. La oss fortsatt gjøre det i 1991!
+*
+
+11. desember 1990
+
+Bent Natvig
+
+
+
+BAYES-METODIKKENS PLASS I STATISTISKE BESLUTNINGSPROBLEMER
+- HVA ER SUBJEKTIVT, OG HVEM ER SUBJEKTIVISTER?
+Ragnar Norberg
+
+Universitetet i Oslo/Københavns Universitet
+
+På tide med Bayes-analyse i Norge nå
+
+Det sier Natvig (TG 6,3) og konfronterer oss med presserende saker hjerteoperasjoner
+og kjernekraftverk,
+samt
+100 metallstrenger,
+som
+krever handling, og det skal være nå. Han begynner med metallstrengene.
+Aalen
+
+(TG
+
+6,4)
+
+er
+
+skeptisk,
+
+etterlyser
+
+mer
+
+konkretisering
+
+og
+
+gir
+
+et
+
+eksempel fra sitt eget problemområde hvor han mener Bayes-analyse ikke
+har noen plass hverken nå eller i tiden fremover. Sverdrup (TG 7,1)
+henter frem sin lærebok, hvor det står at det er på tide med Bayes-analyse nå og da, men han tilføyer at det ikke skal være akkurat nå - vi
+
+bør avventende betrakte ytelsesfunksjoner, og det kommer til å ta tid da
+det er mange av dem.
+
+Demarkasjonslinjene er de vanlige, men Sverdrup har foreslått en
+god dagsorden: Det er på tide med en analyse av paradigmene Bayes og
+Klassisk for i alle fall å bli enige om hvor forskjellene ligger og hva
+uenighetene beror på.
+
+Jeg finner at det enda kan sies noe om dette.
+
+Desisjonsproblemet
+
+Jeg følger Natvig og Sverdrup og ser på et rent desisjonsproblem hvor vi
+skal treffe en eller annen beslutning (aksjon) a € Å i en situasjon hvor
+tilstanden 9 € I er
+
+ukjent.
+
+Det
+
+sannsynlighetsfordeling F(*;9),
+
+foreligger observasjoner X € X,
+
+som avhenger av 3.
+
+Av grunner som han ikke gjør rede for
+
+på
+
+randomiserte
+
+med en
+
+i
+
+sitt
+
+innlegg,
+
+ser Sverdrup
+
+desisjonsregler. Disse kan generelt konstrueres
+
+ved
+
+å
+
+utvide modellen med et stokastisk element Y som ikke har noen sammenheng
+med desisjonsproblemet;
+
+Y er
+
+synlighetsfordeling U,
+
+som
+
+stokastisk uavhengig av X og har
+
+ikke avhenger av 9.
+
+Denne
+
+Y antar
+
+en
+
+sann-
+
+sine ver-
+
+dier i et rom Y (som typisk vil være sf). En randomisert desisjonsregel
+spesifiserer en funksjon D: %x¥ > A og lar desisjonen være D(X,Y).
+Problemet består i å velge D i klassen av alle mulige desisjonsregler,
+%. En kan spørre seg om det ikke er like godt å la desisjonen være en
+funksjon kun av X. Vel, vi kan ikke tape noe ved å se på den større
+klasse av randomiserte regler (slik lyder den vanlige første begrunnelse
+
+- se f.eks.
+
+Lehmann (1986),
+
+kapitel
+
+1),
+
+og det har en viss interesse å
+
+finne ut hva Sverdrup vil oppnå med å la beslutninger om metallstrenger,
+eller hva det nå kan være, avhenge av terningkast o.1. (Sverdrup formulerer seg litt annerledes og sier at det er den betingede fordeling til
+
+D for gitt X = x som er desisjonsregelen,
+A)),
+
+A
+
+C 4
+
+(A målbar).
+
+Jeg
+
+dvs Sp (Aix)
+
+= U({u:
+
+foretrekker å synliggjøre alle
+
+D(x.y)
+
+€
+
+stokastiske
+
+
+
+10
+
+variable som representerer informasjon eller
+lar desisjonen avhenge av.)
+
+ikke-informasjon og som vi
+
+Ytelsesfunksjonen
+
+Desisjonen ved regelen D har sannsynlighetsfordeling By(+3 9) gitt ved
+P,{D(X.Y) € A}
+
+B,(A;
+9)
+
+SSp lea) F(dx;9)U(dy).
+
+OE]
+
+Denne såkalte ytelsesfunksjonen forteller hvilke desisjoner regelen D
+typisk vil levere i forskjellige tilstander. Den inkorporerer imidlertid
+ingen vurdering av hva som er ønskelig og danner ikke alene et fullsten-
+
+dig grunnlag
+
+for
+
+å sammenligne
+
+desisjonsregler. For å kunne
+
+si
+
+noe
+
+om
+
+hvordan D bør utformes, må vi tilføre et eller annet kriterium som sier
+hva som er godt og dårlig - vi må formulere et matematisk optimeringsproblem.
+
+Tapsfunks jonen
+
+Den sedvanlige fremgangsmåte er å innføre en tapsfunksjon L: «x7
+> [0,0%)
+slik at L(a;%) er vår vurdering av tapet ved å treffe desisjonen a hvis
+tilstanden er 3.
+
+På grunnlag av ytelsesfunksjonen finner vi sannsynligtapet, som jeg vil kalle tapsfordelingen,
+
+hetsfordelingen til
+Alis]
+
+= PFLPKNR)
+
+<
+
+Uy
+
+B((ai L{asd) € Li 9).
+La
+
+oss vedta at
+
+regelen D’
+
+(2)
+
+er bedre enn
+
+stokastisk mindre enn tapet ved D i
+
+Ap: (1:98)
+(Les
+
+2 An (ti 9)
+
+"bedre"
+
+fleste
+
+=
+
+regelen D hvis
+
+enhver
+
+tilstand,
+
+tapet ved D’
+
+for alle l og alle 3.
+
+"ikke
+
+dårligere"
+
+og
+
+(3)
+
+"mindre"
+
+interessante situasjoner finner vi
+
+er
+
+dvs
+
+=
+
+"ikke
+
+større").
+
+I
+
+de
+
+ingen uniformt beste regel med
+
+stokastisk
+
+minst tap for alle %. Tapsfordelingsfunksjonene er flater,
+som skjærer hverandre og ikke kan ordnes på en entydig måte. Det eneste
+
+vi
+
+vel
+
+kan
+
+bli
+
+enige
+
+om
+
+så
+
+langt,
+
+er
+
+at
+
+vi
+
+kan
+
+begrense
+
+oss
+
+til
+
+å
+
+betrakte de taps-tillatte regler D som er slik at (3) kun kan gjelde med
+=. Det finnes mange tapstillatte regler, og vi må erkjenne at kriteriet
+(2) ikke fører til noen optimal løsning. Det må derfor tilføres ytterligere holdepunkter for sammenligning av desisjonsregler.
+
+
+
+11
+
+Risikofunksjonen
+
+Et mer summarisk mål
+
+enn tapsfordelingen er det forventede
+
+pp(9) = Sto.) I Apl(dli9) (= sg {1-Ag
+
+den
+
+tap,
+
+(1:8) }al)
+
+(4)
+
+= Sig L(a:8 (da
+)Bp
+8)
+
+(4°)
+
+= Sly L(D(x (dx;
+.u):9
+9)U(dy).
+)F
+
+(4")
+
+såkalte
+
+risiko,
+
+funksjon av 9.
+
+Pp:(9)
+
+< Pn(9)
+
+Uttrykket
+
+i
+
+eller
+
+risikofunksjonen
+
+Med dette kriteriet vil D’
+
+for alle
+
+parentes
+
+i
+
+når
+
+vi
+
+oppfatter
+
+den
+
+3 € T.-
+
+(4),
+
+som
+
+være bedre enn D hvis
+
+(5)
+
+som oppnås ved delvis
+
+integrasjon,
+
+viser at
+
+(3) medfører (5). Vi vil derfor være i stand til å ordne flere par av
+regler ved kriteriet (4) enn ved kriteriet (2). Men selv om dimensjonen
+er
+som
+
+redusert
+før
+
+-
+
+ved
+
+integrasjonen
+
+risikofunksjonene
+
+skjærer hverandre,
+
+over
+
+skal
+
+l,
+
+er
+
+vi
+
+i
+
+de
+
+sammenlignes
+
+i
+
+samme
+hele
+
+og ingen regel er best overalt.
+
+vanskeligheter
+
+sitt
+
+forløp,
+
+Vi kan bare bli
+
+om å begrense oss
+
+til de risiko-tillatte regler D som er slik at
+
+kan gjelde med =.
+
+Det
+
+sammenfatte
+regel
+
+reglenes
+
+skal bli
+
+risikotillate
+
+egenskaper ytterligere
+
+regler, og vi
+
+for at
+
+(5) kun
+
+må altså
+
+valget av desisjons-
+
+et veldefinert optimeringsproblem.
+
+Vi blir nødt
+partielt,
+
+finnes mange
+
+de
+
+enige
+
+slik
+
+at
+
+til å innføre et kriterium som ordner desisjonsreglene
+to
+
+gitte
+
+regler
+
+kan
+
+sammenlignes
+
+entydig.
+
+Det
+
+kan
+
+lages mange prinsipper av denne typen.
+
+Minimaksprinsippet
+En mulighet er å se på
+SUP geg Pp (9):
+
+(6)
+
+det vil
+
+si
+
+at
+
+risiko.
+
+Vi
+
+kan
+
+enhver
+
+optimale
+
+regel
+
+da
+
+regel
+
+ordne
+
+vurderes alene på grunnlag av dens maksimale
+
+alle
+
+regler
+
+finnes ved å minimere
+
+etter
+(6)
+
+deres
+
+verdi
+
+av
+
+(6),
+
+og
+
+med hensyn på D.
+
+Bayesprinsippet
+En annen mulighet er å se på den veiede risiko,
+
+pyc = åg Pp(9)G(d8).
+
+(7)
+
+den
+
+
+
+12
+
+hvor vektfunksjonen G gir uttrykk for den betydning vi vil tillegge
+risikoen i forskjellige tilstander. Etter dette kriteriet er regelen D’
+bedre enn regelen D hvis
+
+ri
+
+Do
+
+< en
+
+(8)
+
+Vi ser at (5) medfører (8), slik at kriteriet (7) er konsistent med
+kriteriet (4). I likhet med minimakskriteriet introduserer kriteriet (7)
+en ordning av alle regler, og vi står da overfor det veldefinerte optimeringsproblem å finne den regel De som løser
+
+"D.C = inf neg en
+
+Den
+
+optimale
+
+De kalles
+
+(9)
+
+Bayes-Iøsningen mot
+
+følgende måte. Ved å sette uttrykket
+sjonsrekkefølgen, fås
+ry
+
+D,
+
+(4")
+
+G,
+
+inn
+
+og
+i
+
+(7)
+
+den konstrueres
+og bytte
+
+på
+
+integra-
+
+g = Sylafg
+L(D(x.y)
++9) F
+(dx: 9)U(dy)G(as)
+
+= Splasg LID.
+u):9)G(dG
+x)
+Fo (dx)U (dy).
+
+(10)
+
+hvor FC) og G(*;x) er definert ved
+
+Fo(dx) = Sy F(dx:9)G(a9),
+
+(11)
+
+G(d8:x) = Ta) G(dg).
+
+(12)
+
+Ved inspeksjon av (10) innser vi at Bayes-løsningen finnes ved å minimere det innerste integral, det vil si å minimere
+
+TEC osx) (9) = Sg L(a,$)G(d$;x),
+med hensyn på a for hver x.
+
+Løsningen Dg (*)
+
+(13)
+trenger kun 4 avhenge av G
+
+og x, ikke av y, dvs den kan velges ikke-randomisert. Vi kunne altsa i
+utgangspunktet ha holdt oss til ikke-randomiserte beslutninger på formen
+D(X), hvorved (1),
+
+(4") og (7) reduseres til
+
+By(A:8) = F(DT(A):9).
+PD) = Sa L( De): dF (dese).
+
+"7G = Sy ee
+
+2) Fo(dx),
+
+
+
+13
+
+det siste uttrykket ved innsetting fra (13).
+Når Sverdrup
+likevel
+betrakter randomiserte regler, må det være fordi han vil støtte seg til
+kriterier som ikke er av typen (7). Jeg kommer tilbake til dette.
+
+Det essensielle felles trekk ved prinsippene omtalt i de to foregående
+avsnitt, er at hver desisjonsregel tilordnes et enkelt tall som måler
+hvor god den er, slik at vi kan finne en beste regel.
+En annen type av prinsipper går ut på å restriktere klassen av
+desisjonsregler til
+
+en delklasse *
+
+som er
+
+tilstrekkelig liten til at vi
+
+kan finne en regel med uniformt minst
+
+risikofunksjon i den restrikterte
+En kan for eksempel begrense seg til å se på forventningsrette
+
+klassen.
+
+estimatorer
+
+eller
+
+invariante
+
+eller
+
+styrkerette
+
+tester. Den
+
+teori
+
+som
+
+er
+
+bygget opp om slike prinsipper er rik på resultater om uniform optimalitet i restrikterte klasser - UMPU, UMPI, UMVU, BLUE, og så videre, og
+det
+
+er
+
+mye
+
+raffinert matematikk
+
+involvert,
+
+slik
+
+som
+
+suffisiens
+
+pletthet,
+
+konveksitet og projeksjoner. Dens
+
+sentrale plass
+
+bøker
+
+pensa
+
+dermed
+
+har
+
+og
+
+i
+
+imidlertid
+
+statistisk metodelære
+
+inntrykk
+
+av
+
+ringen over de matematiske
+
+at
+
+har
+
+helheten
+
+ofte
+
+tapes
+
+og kom-
+
+i mange
+
+lære-
+
+sin gode
+
+grunn.
+
+av
+
+i
+
+syne
+
+Jeg
+
+begeist-
+
+triumfer som kan feires i passende delklasser
+
+av desisjonsregler.
+
+For å ta kravet om forventningsretthet,
+sjoner ha en selvstendig begrunnelse,
+benyttes
+
+om og
+
+om
+
+igjen
+
+i
+
+kjøp
+
+skal ha en gevinst eller et
+
+målefeil.
+
+Hvis
+
+og
+
+salg,
+
+tap i
+
+så kan dette
+
+i noen situa-
+
+for eksempel hvis estimatoren skal
+
+det
+
+og det
+
+lange
+
+kreves at
+
+selgeren
+
+ikke
+
+løp på grunn av systematisk
+
+ingen slike betraktninger kan gjøres gjeldende,
+
+og
+
+taps-
+
+funksjonen alene uttrykker hvor godt et estimat er, bør det gjøres klart
+
+at
+
+forventningsretthet
+
+er
+
+et
+
+grep
+
+som
+
+innføres
+
+for
+
+å
+
+løsning på grunnlag av det meget krevende kriteriet
+sies at
+
+optimale
+
+oppnå
+
+(4).
+
+forventningsrette estimatorer kan vise
+
+risiko-tillatte og at
+
+skjeve estimatorer
+
+en
+
+i
+
+visse
+
+(se
+
+f.eks.
+
+optimal
+
+Det bør videre
+seg
+
+tilfeller kan konstruere
+
+som er bedre overalt
+
+en
+
+ikke å være
+
+forventnings-
+
+Berger
+
+(1985),
+
+kapi-
+
+tel 8).
+
+Det finnes også eksempler på restrikterte optimale regler som er
+
+direkte
+
+dårlige
+s. 305).
+
+(1986),
+I
+
+(se
+
+f.eks.
+
+Steins
+
+eksempel
+
+teorien for styrkeoptimale tester
+
+ning)
+
+er
+
+kravet
+
+ende
+
+at
+
+en
+
+mindre
+
+om
+
+UMPU
+
+styrkeretthet
+test
+
+problematisk
+
+kan bringe oss
+Det
+
+er
+
+er
+
+enn
+
+ett
+
+alvorlig
+
+restriksjonsprinsipper,
+
+og
+
+det
+
+løsning
+
+i
+
+mange
+
+ikke
+
+eksisterer
+
+enn
+
+i
+
+Lehmann
+
+restriksjon.
+
+Det
+
+Styrkeretthet
+
+er
+
+derfor
+
+idet
+
+den
+
+forventningsretthet
+
+er
+
+innlysen
+
+ikke
+
+i konflikt med det mer fundamentale kriterium (4).
+
+imidlertid
+
+komplekse
+
+invarians
+
+(tap 0/1 ved riktig/gal beslut-
+
+en vanlig
+
+risiko-tillatt.
+
+restriksjon
+
+om
+
+de
+
+vanlige
+
+er
+
+problem
+
+at
+
+en
+
+med
+
+interessante
+
+lærebokseksempler.
+
+jakten på restrikterte optimumsregler
+
+styrkeretthet
+
+uniformt
+
+fører
+
+optimal
+
+modeller
+
+som
+
+er
+
+Jeg
+
+en
+
+fare
+
+til
+
+ser
+
+en for
+
+og
+
+andre
+
+restriktert
+litt
+
+mer
+
+for
+
+at
+
+sterk sentrering
+
+om enkle modeller.
+Det kan passe her å komme
+er
+
+innenfor
+
+dig.
+
+teorier
+
+for
+
+tilbake
+
+restriktert
+
+til
+
+randomiseringens rolle da det
+
+optimale
+
+metoder
+
+at
+
+den
+
+er
+
+nødven-
+
+Randomisering er det knep som gjør det mulig å gi ett og samme nivå
+
+w
+
+Andre prinsipper basert på restriksjoner på beslutningsreglene
+
+
+
+14
+
+til tester basert på forskjellige testobservatorer, også i det diskrete
+tilfellet, og dermed sammenligne dem på et felles nivå og finne en
+overalt sterkeste (eventuelt styrkerett, invariant, e.1.).
+Egenskaper ved Bayesregler
+
+Hvordan vil så Bayesregler stå seg i forhold til de betraktninger som er
+gjort i avsnittet ovenfor? Omkring dette eksisterer det mye teori, som
+jeg ikke kan gi noen oversikt over her - Berger (1985) er en god henvisning.
+
+For det første er Bayesregler tillatte i mange viktige, generelle
+situasjoner. Hvorfor det er slik, får man en ide om ved å se på definisjonen (7). For D = De (Bayesregelen mot G) minimeres gjennomsnittet
+(7), og dermed kan (5) kun gjelde med = (hvis alle risikofunksjoner er
+kontinuerlige og G har masse overalt i 7, løst sagt). I noen situasjoner
+er kun Bayesregler tillatte.
+
+For det andre finnes Bayesregelen alltid, eller i alle fall kan
+infimumsverdien på høyre side i (9) approksimeres vilkårlig godt så sant
+den er endelig. (Det kan selvfølgelig være en krevende numerisk oppgave
+å finne Bayesregelen hvis F, G og l er kompliserte, men det gjelder også
+for restrikterte optimumsregler - når de overhodet finnes.)
+
+Hvem er Bayesianere?
+
+Diskusjonen ovenfor har vært ført helt og holdent på den frekvensbaserte
+
+statistikks premisser. Vektfunksjonen G er innført som et middel til å
+sammenfatte de forskjellige beslutningsreglers egenskaper slik at de kan
+
+sammenlignes og en beste regel kan bestemmes. De regler man kommer frem
+til
+
+er
+
+vanligvis
+
+her
+
+og nå,
+
+tillatte.
+
+Statistikere
+
+som
+
+i
+
+en
+
+desisjonssituasjon
+
+bruker en vektfordeling i denne hensikt, er Bayesianere i en rent teknisk forstand. Det er desisjonssituasjonens harde vilkår som bringer dem
+til denne posisjon: Konfrontert med et desisjonsproblem som må tackles
+
+med en
+
+(1)
+
+metode,
+
+er det
+
+statistikerens oppgave å velge
+
+denne ene metode.
+
+Også Sverdrup sier at frekvensteoretisk orienterte statistikere i
+visse tilfeller kan benytte en vektfunksjon til å konstruere en Bayes
+
+desisjonsregel og at de i denne forstand er en slags Bayesianere. Så
+langt synes jeg han legger opp til samme konklusjon som ovenfor. Men han
+følger ikke opp idet han understreker at Bayesregelen deretter må sammenlignes med andre regler på grunnlag av ytelsesfunksjonen. Til dette
+må jeg spørre: Hvordan skal disse sammenligninger utføres? Ytelsesfunksjonen (1) har to argumenter, Å og %, og er generelt enda mer kompliserte enn risikofunksjonen. Oppgaven kan være overkommelig i enkle
+testingsproblemer (bare to desisjoner) hvor modellen er så stram at det
+eksisterer en restriktert optimal test med ytelsesfunksjon (styrkefunksjon) som kun avhenger av en endimensjonal parameterfunksjon, dvs den
+kan tegnes som en kurve. Men hvis det nå dreier seg om punktestimering
+av en tredimensjonal parameterfunksjon, skal statistikeren da sette seg
+ned og granske de mange mulige estimatorers tredimensjonale fordelings-
+
+
+
+15
+
+funksjoner
+
+for
+
+forskjellige
+
+verdier av
+
+interesse- og plageparametre?
+
+I
+
+en desisjonssituasjon kan ikke statistikeren bli sittende på gjerdet og
+utrede ytelsesfunksjoner, og si at på den ene side er regel D god her,
+på den annen side er regel D’ god der, osv, osv. Dette er det sikkert
+ingen uenighet om. Sverdrup sier da også selv til slutt at statistikeren
+i disse studier av ytelsesfunksjoner må (subjektivt) veie betydningen av
+de forskjellige kombinasjoner (A,9). Men det skal ikke skje ved bruk av
+en vektfunksjon. Hvorfor skal det ikke det? Den veiede risiko er ett
+operativt kriterium for å treffe dette valget (minimaksprinsippet er et
+annet), og det er rasjonelt i den forstand at det er formulert innenfor
+modellens ramme - de subjektive overlegninger er lagt på bordet så alle
+kan
+
+se
+
+går
+
+inn for kredibilitetestimatorer, er gåtefull på bakgrunn av at han
+
+like
+
+dem
+
+i
+
+og
+
+forholde
+
+seg
+
+til
+
+dem.
+
+Sverdrups
+
+siste
+
+setning,
+
+forveien har avvist bruken av Bayeskonstruksjonen.
+
+torer er
+
+nettopp Bayesløsninger
+
+relt er de
+
+i
+
+hvor
+
+han
+
+Disse estima-
+
+visse parametriske modeller, og gene-
+
+lineære Bayesløsninger.
+
+Hvem ellers er Bayesianere?
+Natvig er
+
+Bayesianer
+
+ovenfornevnte
+
+da også han benytter
+
+funksjonen på et
+
+tidligere punkt
+
+opererer
+
+nøyaktig
+
+annerledes
+derfor
+
+idet han
+
+begge
+
+ikke
+
+bare deres
+
+skal
+
+i
+
+fremstår
+
+den
+
+få hverken mer
+fortolkninger
+
+i
+
+analysen,
+
+Han
+
+i
+
+likhet
+
+samme
+
+eller
+
+og hans motivasjon er noe
+
+matematiske
+
+mindre ut
+
+med
+
+introduserer vekt-
+
+som subjektiv Bayesianer, SB.
+
+Imidlertid
+
+struktur,
+
+og
+
+SB
+
+av analysen enn FB.
+
+kan
+
+Det
+
+og bruk av vektfunksjonen som skiller dem.
+
+er
+Jeg
+
+forsøke å sirkle inn noen av SB’s typiske standpunkter.
+Vektfunksjonen G uttrykker hvor stor
+
+de
+
+en vektfunksjon
+
+frekvensorienterte Bayesianer, FB.
+
+forskjellige mulige verdier av 9,
+
+-fordeling.
+
+Han
+
+analyse
+
+etter
+
+gjøre).
+
+Når
+
+trenger
+
+skjemaet
+
+ingen
+
+observasjoner
+
+ovenfor
+
+han
+
+har
+
+noen
+
+en
+
+ny,
+
+oppdatert
+
+tro SB i utgangspunktet har på
+
+og han kaller
+
+(bare
+
+sløyf
+
+observasjoner,
+
+den derfor apriori-
+
+for
+
+å utføre en
+
+statistisk
+
+alt
+
+som
+
+F og x å
+frekvensen
+
+har
+
+multipliserer
+
+med
+
+han
+
+F(dx|9) med troen G(d$), normerer produktet til en sannsynlighetsfordeling,
+
+som
+
+blanding
+
+er
+
+av
+
+epler
+
+representerer en
+synlighet
+den
+
+er
+
+idealisert
+
+i det hele
+
+å studere F
+at
+
+og pærer,
+
+Hvis
+
+det
+
+noen
+
+hende
+
+frekvens,
+
+tatt er nonsens,
+
+at
+
+undrer
+
+han vil
+
+seg
+
+over
+
+at
+
+F
+
+en
+
+slik
+
+slett
+
+ikke
+
+frekvensfortolkningen av
+
+sann-
+
+at det
+
+si
+
+følgelig ikke har
+
+interesse
+
+i andre punkter enn den realiserte verdi av observasjonene,
+motivert
+
+ut
+
+fra
+
+lignende og at den er
+
+like
+
+delingen.
+
+undrer
+
+dette
+
+tro.
+
+kan
+
+Hvis
+
+dunkle
+
+ingen
+
+punkt,
+
+men
+
+symmetribetraktninger
+
+subjektiv
+seg,
+
+sammen
+
+i
+
+vil
+
+med
+
+sin natur
+han
+
+Bent
+
+ikke
+
+haste
+
+(ombyttbarhet)
+
+eller
+
+som selve apriori-forselv
+
+gå
+
+videre
+
+nærmere
+
+med
+
+Bayes
+
+inn
+
+på
+
+formel
+
+(12), som altså er skreddersydd. Han vil ikke være interessert i marginalfordelingen (11) til observasjonene, det er bare aposteriori-fordelingen (12) som teller. Følgelig, hvis han opererer med en tapsfunksjon,
+vil han ikke
+
+interessere seg for ytelsesfunksjonen (1),
+
+risikofunksjonen
+
+(4) og den veiede risiko (7), det er bare aposteriori-risikoen (13) som
+er relevant. Aposteriori vil han finne estimater (ikke estimatorer),
+testutsagn, troverdighetsintervaller, osv. (Det kan nevnes at det beste
+
+troverdighetsintervall, såkalt Highest Probability Credibility Interval,
+ikke er invariante overfor en-entydige transformasjoner av parameteren de kan bli hva som helst.)
+
+
+
+16
+
+Objektivister og subjektivister - hva er subjektivt?
+
+I et tidligere arbeid (Norberg, 1988) har jeg forsøkt å bestemme hvor
+skillet mellom Bayes og Klassisk går. Jeg vil runde av her med noen få
+tilleggsbetraktninger
+
+Statistikeres holdninger til Bayes-metodikken henger mye sammen med
+hva slags anvendelser de har i tankene. Noen arbeider med rene desisjonsproblemer, ofte med sparsomme data, og kan i Bayes-metodikkens
+apriori-fordeling finne en kjærkommen mulighet til å formalisere det
+
+subjektive skjønn som de under enhver omstendighet er nødt til å innar-
+
+beide i desisjonen. Andre arbeider med rent vitenskapelige problemstillinger og finner at apriori-fordelinger er uforenlige med forskningens
+ideale fordring om objektivitet. Aalen har pekt på desisjonsproblemer
+hvor det er viktig å sjalte subjektive elementer ut fordi det er interessemotsetninger tilstede, og en upartisk desisjon ønskes. Jeg finner
+alle disse synspunktene rimelige og
+utmerket at
+sannsynlighetsregningen
+formulering av de forskjellige
+
+forståelige, og jeg synes
+har gitt muligheter
+for
+
+det er
+presis
+
+ideer.
+
+Som sagt, er det plass for Bayes-konstruksjoner også innenfor den
+frekventistiske skole i statistikken, så det store skisma finnes ikke
+langs skillelinjen Bayes/Ikke Bayes. Slik jeg ser det, er det fortolkningene av modellene som setter det vesentlige skille,
+og dette skillet
+har
+
+sin
+
+forlengelse
+
+langt
+
+utenfor
+
+statistikkens
+
+grenser,
+
+inn
+
+i
+
+viten-
+
+skapsteorien og, mer generelt, filosofien og verdensanskuelsene. Litt
+skjematisk sagt, dreier det seg om skillet mellom de to kulturer objektivisme og subjektivisme.
+
+Objektivister
+faste
+
+forestiller
+
+lover, og at
+
+duserbare
+
+eksperimenter.
+
+til
+
+forestillingen;
+
+denne
+
+seg at
+
+(den
+
+sikker viten om disse
+
+Frekvensfortolkningen
+uavhengige
+
+og
+
+lov sier at
+
+Subjektivister
+
+til
+
+avviser
+
+av
+
+identisk
+
+en dekkende beskrivelse av den permanente
+de store talls
+
+fysiske)
+
+verden er
+
+styrt
+
+av
+
+lover kan vinnes gjennom repro-
+
+og
+
+sannsynlighet
+
+svarer
+
+fordelte variable gir
+
+lovstyrte virkelighet,
+
+og
+
+slutt vil alt være visst.
+
+dette
+
+verdensbildet.
+
+Noen
+
+av
+
+dem
+
+vil
+
+ikke
+
+akseptere eksistensen av en ytre verden uavhengig av deres
+
+tanker
+
+i
+
+det
+
+hele
+
+knyttet
+
+til
+
+tatt.
+
+Andre
+
+vil
+
+fremheve
+
+at
+
+erkjennelse
+
+er
+
+uløselig
+
+intensjoner og interesser, og at objektivitetskravet er
+For
+
+eres med
+
+de
+
+fleste
+
+vidsyn,
+
+er
+
+negative assosiasjoner
+
+understrekes
+
+at
+
+ordet
+
+balanse
+
+"objektiv"
+
+og
+
+til
+
+fordommer
+
+forskjellen
+
+positivt
+
+rettskaffenhet,
+
+mellom
+
+og
+
+mens
+
+ladet
+
+illusorisk.
+idet
+
+ordet
+
+selvsuffisanse.
+
+objektivisme
+
+og
+
+det
+
+assosi-
+
+"subjektiv"
+Det
+
+bør
+
+har
+
+derfor
+
+subjektivisme
+
+ikke
+
+kan uttrykkes ved å si at objektivister er objektive og subjektivister
+er subjektive. Det som karakteriserer en objektivist er hans (subjektive) oppfatning av verden, nemlig troen på eksistensen av noen faste,
+
+objektive forhold. I sine forsøk på å finne ut av disse forhold er han
+nødt til å bruke sitt subjektive skjønn. Strømmer av rene empiriske inntrykk forblir kaotiske inntil de struktureres av aprioriske over legninger, antagelser, innsikt - eller hva vi vil kalle det, som utgår fra
+subjektet. Slik er det med all teori, også i de såkalte eksakte viten-
+
+skaper.
+
+Og slik er det
+i alle anvendelser av statistikk, også den klassiske
+Modellvalget er
+subjektivt.
+En kan muligens
+si at
+
+frekvensbaserte.
+
+
+
+17
+
+valget av likelihood har en viss karakter av objektivitet
+
+i den forstand
+at det vanligvis vil herske konsensus blant statistikere på dette punkt.
+
+For å sette saken på spissen, vil jeg si at en klassisk statistiker som
+en stram parametrisk modell og så avviser bruken av en apriori-
+
+velger
+
+fordeling
+
+fordi
+
+figur. Han
+
+legger
+
+denne
+
+er
+
+av
+
+først all
+
+subjektiv
+
+apriori
+
+natur,
+
+er
+
+en
+
+tro på et hyperplan
+
+motsetningsfylt
+i
+
+modellrommet,
+
+men vegrer seg for å spesifisere nærmere hvordan fasongen på apriorifordelingen skal være på dette hyperplanet. Videre er selvsagt tapsfunksjonen subjektiv, og det er også mange andre elementer i analysen, så
+som restriksjon til en delklasse av desisjonsregler, og valg av signifi-
+
+kansnivå i en test.
+sjonen vil
+
+de
+
+to
+
+Som et apropos vil
+
+subjektive
+
+inngå bare via deres produkt,
+i
+
+tapsfunksjonen.
+
+og parametre,
+
+Det
+
+er
+
+jeg nevne at ved Bayes-konstruk-
+
+elementer
+
+tapsfunksjonen og vektfunksjonen
+
+så vi kunne like godt innarbeide vektingen
+
+Det er integrasjonen over alle variable,
+
+observasjoner
+
+som er det essensielle.
+
+ingen
+
+grunn
+
+til
+
+å
+
+vente
+
+konflikten mellom verdensbildene i
+
+seg
+
+sine
+
+at
+
+statistikerne
+
+må regne med at Bayes og Klassisk vil
+
+fortsette å eksistere,
+
+praksis og utvikles
+
+de
+
+som
+
+teorier fordi
+
+elser, og simpelthen fordi de er
+
+levende
+
+skal
+
+løse
+
+interne diskusjoner om Bayes.
+svarer
+
+til
+
+anvendes
+
+En
+
+i
+
+forskjellige ansku-
+
+teoriområder.
+
+Tilleggsreferanser
+Berger, J.O.
+
+(1985).
+
+Statistical
+
+Decision Theory and Bayesian Analysis.
+
+Wiley.
+Norberg,
+
+R.
+
+(1988).
+
+Comments on Berger’s criticism of
+
+some classical
+
+statistical procedures and on Sandved’s criticism of Berger’s
+criticism.
+
+Univ.
+
+Statistical Research Report Nr. 5,
+
+1988.
+
+Mat.
+
+Inst.,
+
+i Oslo.
+
+Ad Bayes-debatten: Anmeldelse av doktoravhandling
+Kurt Porn: On empirical Bayesian inference applied to Poisson probability
+models. Ph. D. thesis, defended September 21, 1990, Linköping Studies in Science
+and Technology, dissertation no. 234, Division of Quality Technology, Department
+of Mechanical Engineering, Linköping University, S-58183 Linköping.
+
+The theme of this thesis has its origin in the work on a Reliability Data Handbook (1985)
+for nuclear power plants of Swedish design. The handbook, providing uncertainty distributions for constant failure rates or failure probabilities per demand of important safety
+related groups of components, has been developed in order to facilitate the performance of
+probabilistic safety studies for nuclear power plants. In these studies the failure rates of the
+Handbook are normally converted to average unavailabilities according to the operating
+
+mode and testing scheme of the component in question. In spite of the wide scope of the
+probabilistic safety studies and the large number of different component groups considered
+in these studies, the use of the Poisson or binomial probability model has been strongly
+favoured.
+
+
+
+18
+
+Although the components are grouped on the basis of their type, operating mode, size and
+capacity, there are certainly factors such as various environmental, operating and maintenance conditions that make it unrealistic to assume complete homogeneity within the
+groups with regard to the reliability. The similarities, however, are considered so significant that the groupwise treatment is deemed beneficial from the statistical or informational
+point of view.
+
+To use a more or less deeply established terminology, the statistical approach in the earlier
+versions of the Handbook can be characterized as “parametric empirical Bayes” (PEB).
+
+This terminology derives from the fact that the prior distribution of the primary parameter
+is specified to its form, the (secondary) parameters of which are estimated on the basis of
+empirical evidence and sampling theory models.
+
+Thus the PEB-approach is not logically consistent here because sampling theory methods
+are used to estimate the prior distribution, but otherwise the densities are interpreted as
+measures of knowledge rather than in a frequency sense. Among the more apparent conse-
+
+quences of this inconsistency one may mention the difficulty to find reasonable estimates
+of the secondary parameters. Therefore, it was quite natural to extend the Bayesian view
+to include also the treatment of the secondary parameters. The resulting approach, called
+“Bayesian empirical Bayes” (BEB) is presented in:
+
+Deely, J.J. & Lindley, D.V. (1981) Bayes Empirical Bayes.
+
+J. Amer. Statist. Ass., 76,
+
+833-841.
+
+This approach will be used in the third version of the Reliability Data Handbook (1990),
+and this is nothing less than a great achievement.
+
+After an introduction in Chapter 1, the conceptual framework for description and handling
+of uncertainty is discussed in Chapter 2 along with the multistage, BEB-approach for the
+solution of a common inferential problem of the empirical Bayesian type. To express the
+inherent “tail-uncertainty” of prior distributions a class of contaminated distributions is
+proposed and a prior distribution on a three-dimensional hyperparameter space is derived.
+The derivation is presented in Appendix A.
+The BEB-methodology is illustrated by two applications described in Chapter 3.
+
+The
+
+applications are based on calculations performed with a computer code, the main features
+
+of which are described in Appendix B. Appendix C deals with systematic applications in
+the much wider context of a Reliability Handbook.
+
+In Chapter 4 and Appendix D aspects of robustness as well as some robustness measures
+proposed in the literature are discussed. In this chapter the issue of robustness is extended
+
+to a decision related framework, where the concept “value of information” is used to
+highlight robustness properties. Much of the discussion in Chapter 4 is both original and
+mature.
+
+In Chapter 5 the main conclusions are summarized whereas some further comments and
+suggested areas for future research are presented in Chapter 6.
+As a conclusion I will congratulate Kurt Porn with a nice piece of work getting both
+mathematics and philosophy right. It doesn’t contain a lot of pages, but each page contains
+
+a lot. The main contribution is, however, to promote in a practical way the Bayes empirical
+Bayes approach to safety studies in the nuclear power industry. With these sort of studies
+there may be some hope for this industry.
+
+Finally, a word to my Norwegian colleagues
+
+working on safety studies in the offshore industry.
+
+“Look to Sweden (before they take
+
+over)”.
+
+Bent Natvig
+
+
+
+19
+
+Det er rom for flere matematisk-statistikere i Byrået!
+Intervju med Ib Thomsen,
+
+leder av Metodegruppen i Statistisk Sentralbyrå
+
+- Man skulle tro at nettopp statistikerne som yrkesgruppe var vel orientert
+om arbeidsoppgavene for Statistisk Sentralbyrå. Setter man saken litt på spissen,
+har jeg likevel inntrykk av at mange matematisk-statistikere går ut fra at Byrået
+bare publiserer data i mer eller mindre ubearbeidet og ufordøyet form. Hvordan
+reagerer du når du møter en slik holdning?
+
+— Dessverre er det nok mange som har slike forestillinger, og antagelig er denne
+oppfatningen mer utbredt i dag enn tidligere. Faktum er likevel at vi har flere
+publikasjonsserier som går dypt inn i samfunnsøkonomiske spørsmål. Både ved
+innsamling og analyse av data er det oppgaver som burde friste matematiskstatistikere. Når oppfatningene er slik de er, må jeg dessverre selv ta mye av
+ansvaret. Byrået har blant andre oppgaver gitt meg ansvaret for å sikre bedre
+kontakt med de akademiske miljøer i statistikk. Dette er en oppgave som jeg ikke
+har tatt alvorlig nok, spesielt i de senere årene. I stedet for å prøve å unnskylde
+meg selv vil jeg bare si at jeg skal forsøke å rette på dette i fremtiden. Dette
+intervjuet kan sees på som et skritt i riktig retning.
+
+— Hvor hører den matematiske statistikk hjemme i Byrået?
+
+— Matematisk-statistikerne er forsåvidt spredt utover. I Forskningsavdelingen
+er det to som arbeider med mikroøkonomi, og en som er beskjeftiget med simultane
+tidsrekker. I Metodegruppen er vi i alt ni personer, deriblant en økonom og
+to personer som er utdannet i utlandet. De resterende seks har bakgrunn fra
+Blindern, en som ren matematiker og de andre som statistikere.
+- Hvilke hovedoppgaver har disse personene?
+
+— Oppgavene ligger vesentlig i planlegging og analyse av de utvalgsundersøkelsene som vi gjennomfører. Dette omfatter person- og husholdningsundersøkelser,
+og dessuten undersøkelser blant bedrifter for å følge den økonomiske utviklingen
+i landet.
+
+— Utvikler dere også nye metoder?
+
+— Bare i begrenset omfang. Vi konstruerer ikke så mange nye metoder fra
+bunnen av. Det viktigste for oss er ofte at vi må modifisere metoder som allerede
+foreligger. Slike modifikasjoner krever likevel mye fantasi i mange situasjoner.
+— Kan du nevne noen spesifikke anvendelser?
+
+- La meg starte med et felt av grunnleggende betydning for mye av det arbeid
+vi har gjort og kommer til å gjøre.
+
+Det gjelder inferensproblemer knyttet til
+utvalgsundersøkelser. Mange har det inntrykk at utvalgsteori alltid dreier seg
+om hypergeometriske forsøk. Dette skyldes i stor grad tradisjonen med å lese
+Cochrans lærebok. Dette verktøyet viste seg ganske fort å være for begrenset til å
+løse mange av de problemene som en møter i Byrået. Spesielt var det samarbeidet
+med økonometrikerne som gjorde dette klart for meg. De estimerte parametre
+
+
+
+20
+
+i hypotetiske modeller, som det ikke var plass til i den tradisjonelle teori for
+utvalgsundersøkelser. Jeg var meget plaget av disse problemene og fant meg selv
+helt isolert, både blant økonometrikere og utvalgseksperter. Jeg skrev et par artikler om problemene, og uten at jeg vil påstå at de var spesielt gode, satte de meg
+i forbindelse med noen få statistiske miljøer som var opptatt av samme sak.
+Løsningen består i å formulere en modell for hele populasjonen, og se på popu-
+
+lasjonen som et stort utvalg, og selve utvalget som et utvalg av et utvalg. I ettertid
+
+kan det virke trivielt, men dette har ført til at teorien for utvalgsundersøkelser
+ikke kan sees på som et isolert felt. På denne måten kan andre kjente statistiske
+metoder brukes i forbindelse med innsamling og analyse av utvalgsdata. Det er
+fortsatt en del uløste problemer, men i dag har modellbasert inferens i forbindelse
+med utvalgsdata fått mange tilhengere.
+
+'
+
+Etter at teorien for utvalg først var sett i sammenheng med vanlige statistiske
+prinsipper, var det ingen ende på hvilke metoder som kunne anvendes. Problemet
+er å velge de mest nyttige til enhver tid. Opp gjennom årene har vi vært innom
+mange statistiske metoder, men i dag er vi spesielt opptatt av tre hovedtyper. Det
+dreier seg for det første om empirisk-Bayes-tankegang for estimering innenfor små
+områder, for det andre om Kalmanfiltre i forbindelse med gjentatte undersøkelser,
+og for det tredje om latente Markov-modeller for å estimere målefeil i intervjuundersøkelser. Endelig arbeider vi med å estimere tall for diverse økonomiske
+undersøkelser. Her er det enda et stykke frem til målet.
+
+- Skal alle praktiske problemer bygges inn i selve modellen?
+- I utgangspunktet ja! Etter min mening må modellen ta hensyn til alle tenkelige faktorer som kan påvirke dataene. I befolkningsundersøkelser må vi f. eks. ta
+hensyn til frafall underveis. Vi begynte å inkorporere slike faktorer i våre modeller
+allerede i 1970, og nå først bekymrer teoretikerne seg. Men generelt er folk i mye
+sterkere grad blitt engasjert i modeller som tar hensyn til data med manglende
+verdier. Den nylig utkomne læreboken til Little og Rubin er typisk i så måte.
+— Ja, den har vi til og med hatt anmeldelse av i Tilfeldig Gang. Men din konklusjon er altså generelt at matematisk-statistisk teori har mye å bidra medi slike
+situasjoner med analyse av *grumsete” befolkningsdata?
+- Ja, utvilsomt.
+
+— Får du også gehør for et slikt syn her i Byrået?
+
+- Ja, i sin alminnelighet er det stor forståelse for dette. Likevel er det viktig
+at forståelsen er betinget av at vi oppnår gode resultater. Vi er kanskje litt svake
+her. Vi er ganske enkelt litt for glade i teorien!
+- Hva mener du med *gode resultater”?
+
+— Se f.eks. på Kalmanfilteret. Det skal gi oss bedre tall fra arbeidsmarkedsundersøkelsene. Metodene basert på empirisk Bayes skal gi oss flere og sikrere tall
+for små områder. Eller betrakt folketellingen som pågår nå. Den knytter det seg
+på forhånd stor metodologisk usikkerhet til. Den ble gjennomført med redusert
+datainnsamling sammenlignet med tidligere folketellinger, men metodene som vi
+anvender må sikre at den likevel gir brukbare resultater. Den er faktisk et skoleeksempel på rasjonell bruk av statistiske metoder som gjør det mulig å si noe om
+
+
+
+21
+
+hele populasjonen uten å spørre samtlige personer. Metodene utnytter a priori
+informasjon som vi har i registrene. Tar vi litt godt i, kan man si at bruk av
+statistisk metodelære på denne måten vil spare landet for utgifter på 30 millioner
+kroner.
+
+— Klarer folk å forstå det?
+
+— Her i huset blir det absolutt verdsatt. Men utenfor Byrået frykter en kanskje
+heller at en mister for mye informasjon i forhold til de 30 millionene som innvinnes.
+- Blir det ikke tross alt for store feil som sniker seg inn når man betrakter små
+områder?
+
+- Naturligvis må vi vente med det endelige svar på dette spørsmålet inntil de
+ferdige resultatene foreligger.
+
+— Så man vet ikke på forhånd hvor nøyaktige resultatene blir med det forsøksopplegget som anvendes?
+
+— Noe av problemet er at en ikke kjenner alle de fremtidige anvendelser av
+dataene. Resultatene vil bli vurdert på en annen måte enn ved andre vitenskapelige undersøkelser. Hos oss er sluttresultatene det viktigste. Forsøksopplegget bør derfor være robust overfor de mulige aktuelle brukerne.
+- Er ikke mange av de problemene som du hittil har nevnt, felles for mange
+land?
+
+- Jo, heldigvis kan vi utnytte det kontaktnettet vi har med andre statistiske
+sentralbyråer, og også med en del miljøer ved utenlandske universiteter. Vårt
+internasjonale engasjement har vært betydelig. Det har vært meget inspirerende,
+men det har også kostet mye arbeid. Vi har deltatt i flere internasjonale prosjekter,
+som skriving av bøker og organisering av internasjonale møter. I de senere årene
+har jeg dessuten vært involvert i prosjekter i utviklingsland. Her har det vist seg å være spesielt nyttig å bruke modell-basert teori for utvalgsundersøkelser,
+mest fordi datakvaliteten er dårligere enn hos oss. Noe av denne virksomheten
+må begrenses i fremtiden for å gi mer tid til å styrke kontakten med akademiske
+miljøer her i landet.
+
+— Hvor ser du de største utfordringene i fremtiden?
+
+- De ligger på flere felter. For det første er Byrået midt inne i en omorganisering
+som også berører Metodegruppen. Vi har fått ansvar for standarder og samordning
+
+i tillegg til statistiske metoder. Dessuten må vi se i øynene at ressursrammene
+
+vil bli noe strammere enn tidligere. Vi må derfor blir mer ressursbevisste. For et
+miljø som Metodegruppen er det to *grøfter” man må passe seg for: Den ene er
+å bli et verksted for småreparasjoner, mens den andre er å bli et hobbyverksted
+for matematisk-statistikere. Vår fremtid avhenger av at vi greier å holde oss midt
+mellom disse grøftene, noe jeg tror vi skal klare.
+
+På det faglige området har jeg lyst til å nevne problemene innen økonomisk
+statistikk. Her utføres det hver måned eller hvert kvartal mange utvalgsundersøkelser for å følge den økonomiske utvikling. Samtidig utføres det totaltellinger ved
+slutten av året. Vi har store problemer med å få konsistens mellom de to typer
+undersøkelser.
+
+Et annet viktig felt er å få tatt i bruk flere administrative registre for å regulere
+
+
+
+22
+
+omfanget av datainnsamling. Endelig håper jeg vi skal gjenoppta det fruktbare
+
+samarbeid med sosiologene om analyse av data.
+
+— Er det plass for nyutdannede statistikere i Byrået?
+
+- Det er mange passende jobber her, og det er stor interesse for å få flere
+matematisk-statistikere. Men det har ikke alltid vært helt enkelt å rekruttere nye
+folk, og vi har kanskje heller ikke ført så god rekrutteringspolitikk.
+- Har ikke dere hatt god kontakt med universitetsmiljøene?
+— De siste årene har ikke kontakten med de akademiske miljøene vært hva den
+tidligere var. Før var f. eks. Erling Sverdrup, Herdis Amundsen, Emil Spjøtvoll og
+delvis også Tore Schweder innom her. Det var en jubileumsgave fra Norges Bank
+som gjorde det mulig å la statistikere utenfra arbeide her i kortere eller lengre
+tid. Det står imidlertid fortsatt noen midler til rådighet, og i øyeblikket har jeg
+inntrykk av at interessen for samarbeid med Byrået er økende blant statistikerne
+i akademiske miljøer. Erik Bølviken hjelper oss med Kalmanfilter-prosjektet, og
+Jan Bjørnstad har lovet å hjelpe oss fra høsten av.
+— Du representerer den matematiske statistikk i Byrået. Det skulle være vel-
+
+kjent at Norsk Statistisk Forening opprinnelig ble startet av den andre typen tradisjonelle statistikere, bl.a. knyttet til Statistisk Sentralbyrå, og at det for noen år
+siden foregikk en debatt om hvem foreningen egentlig var organisert for. Mange
+vil mene at foreningen i stor grad har unnlatt å ivareta de gamle byråstatistikernes
+interesser. Du kjenner mer til de interne forhold ved Byrået og har kanskje spesielle
+synspunkter på dette problemet?
+
+- Det er en historisk kjensgjerning at det har foregått en oppsplitting av interessene i den gamle Norsk Statistisk Forening. Tar man en titt på emnelistene for
+møtene i foreningen, har de utvilsomt beveget seg i matematisk-statistisk retning.
+En del personer som tidligere sognet til foreningen, har gått over i faget demografi.
+Blant økonomene har det dannet seg to kategorier. Den ene har rett og slett forlatt vår forening, mens den andre ser en viss sammenheng med interesseområdet
+for den matematiske statistikk. En annen gruppering som egentlig kunne utgjort
+naturlige samarbeidspartnere for oss statistikere på samfunnssiden, er sosiologene,
+men dessverre har vi ikke greid å få dem til å interessere seg for foreningen vår.
+
+— Så du mener ikke at det er noe spesielt å gjøre med forholdet til de tradisjonelle
+byråstatistikerne?
+
+- Jo, man må f.eks. huske at foreningen fortsatt står som arrangør av de
+nordiske statistikermøtene, som nettopp tar sikte på denne kategorien statistikere.
+Jeg er ikke sikker på om foreningen er seg sitt ansvar bevisst her. Hvorfor hadde
+ikke Tilfeldig Gang noe referat fra det siste møtet i Finland f. eks.?
+— Nei, som redaktør må jeg bare beklage det. Jeg gjorde faktisk et forsøk på
+å få et innlegg nettopp om dette arrangementet, men som så mange andre idéer
+førte det ikke frem. Jeg vil imidlertid absolutt oppfordre også de mer tradisjonelle
+til å bidra til bladet.
+byråstatistikerne
+
+Ivar Heuch
+
+
+
+23
+
+Normaldødelighet, overlevelsesmodeller og relativ
+risiko — et forsøk på en elementær framstilling
+Knut Meen
+
+1. Innledning
+
+Som statistikere kommer vi ofte i kontakt med andre fagfolk som trenger råd
+om bruk av relativt kompliserte statistiske metoder. I mange tilfeller må vi selv
+bistå ved anvendelsen av disse metodene, men likevel oppstår det lett et ønske om
+en noenlunde enkel forklaring som vi kan presentere for våre samarbeidspartnere.
+Spesielt gjelder det begrepene som ligger bak den praktiske analysen.
+
+Denne artikkelen tar sitt utgangspunkt i et praktisk arbeid [1], som dreide seg
+
+om overlevelse etter akutt hjerteinfarkt. Forfatteren deltok aktivt som statistiker i dette prosjektet. I denne sammenhengen oppstod nettopp ønsket om en
+enkel redegjørelse for grunnleggende idéer i forbindelse med overlevelsesmodeller.
+Artikkelen tar sikte på lesere som ikke lar seg skremme av matematiske uttrykk
+generelt, men de matematiske sidene ved framstillingen er likevel holdt på et
+elementært nivå. Riktignok refereres det til begrep som “regresjon” og “sannsynlighetsmaksimering”, men strengt tatt trenger en ikke vite mer enn at dette er
+to anerkjente metoder for å framskaffe anslagsverdier på ukjente størrelser. En
+finner verdier for de ukjente parametrene som etter bestemte kriterier gir best
+
+tilpasning mellom modell og observasjoner.
+
+2. Enkel sannsynlighetsregning med dødelighetstabeller
+
+Tabell 1 viser et utdrag av dødelighetstabellene som er publisert i Statistisk
+Årbok [2]. Vi skal ta utgangspunkt i tabellene for 1980-81.
+Dødelighetsraten pr. 1000 er for 20-årige menn oppgitt til å være 1.32. Dette
+betyr at for beregningsperioden 1980-81 har 1.32 promille av alle som fylte 20
+år i 1980 dødd før de fylte 21. Vi skal operere med sannsynligheter som tall
+mellom 0 og 1, dvs. som relative andeler, og vi skal derfor si at sannsynligheten
+for at en 20-åring skal dø i løpet av ett år er lik 0.00132. Dette er nå bare en
+tilnærmelse til virkeligheten, først og fremst ved at vi antar at dødsratene ikke
+har forandret seg over den tiden som har gått siden 1981, og dernest ved at vi
+
+antar at anslagsverdien 1.32 promille er presis. I realistiske overlevelsesmodeller
+
+som spenner over en lengre tidsperiode (20-30 år eller enda lenger), vil en benytte
+tidsavhengige rater, men det vil ikke være nødvendig å trekke inn her.
+
+Som vi ser av tabell 1, er dødsratene klart alders- og kjønnsavhengige. Vi skal
+
+benytte symbolet qi”? for dgdsraten ved alder a og kjgnn k. Indeksen k skal vere
+lik O for kvinner og 1 for menn.
+
+La S(t|a, k). være sannsynligheten for at et tilfeldig valgt individ av alder a og
+
+
+
+24
+
+TABELL
+
+1
+Dødelighetstabeller
+
+alder
+
+menn
+
+0)
+
+8.74
+
+1
+2
+3
+4
+5
+
+0.76
+0.60
+0.48
+0.44
+0.39
+
+0.37
+
+7
+
+Ona
+
+6
+
+1980 -
+
+1981
+
+kvinner
+
+alder
+
+menn
+
+kvinner
+
+6.79
+
+37
+
+1.49
+
+0.77.
+
+2.74
+
+oa
+
+0.46
+0239
+0.32
+0.28
+0:22
+
+(OJERLE)
+
+38
+39
+40
+41
+42
+
+43
+
+1.60
+1.68
+1.82
+2.08
+2:39
+
+0.15
+
+44
+
+3.02
+
+0.83
+0.93
+1403
+1.16
+1.24
+1:52
+
+8
+
+0:29
+
+0.14
+
+45
+
+bes hs)
+
+1.69
+
+9
+10
+11
+
+0.26
+0.22
+0:22
+
+0.13
+On15
+0.14
+
+46
+47
+48
+
+3.73
+4.10
+4.72
+
+1.88
+2209
+2.40
+
+12
+13
+
+0.26
+0:31
+
+0.16
+0.20
+
+49
+50
+
+5:33
+5:83
+
+2.64
+2.82
+
+14
+15
+
+0:39
+9.54
+
+0.25
+0529
+
+0.34
+
+51
+52
+
+53
+
+6.40
+7201
+
+7.64
+
+2.98
+81.35
+
+17
+
+0.98
+
+0.36
+
+54
+
+8.38
+
+3:72
+
+18
+
+1.09
+
+0.38
+
+55
+
+56
+
+983
+
+10.47
+
+4.00
+
+20
+21
+22
+23
+24
+25
+26
+a1
+28
+
+29
+
+1:32
+res
+1.26
+1.20
+1:15
+1:07
+0.98
+0.98
+1:04
+
+* 11.03
+
+0:37
+0.34
+0.34
+0°33
+0.33
+0.32
+0.34
+0.34
+0.38
+
+57
+58
+59
+60
+61
+62
+63
+64
+65
+
+11355
+12:58
+13.86
+15.47
+16.67
+18.74
+21.12
+23222
+25.66
+
+4.96
+5455
+6.17
+6.85
+7.45
+8.07
+9:01
+10.05
+10.98
+
+30
+31
+32
+33
+34
+35
+36
+
+1.06
+= 11205
+ttt
+118
+1:26
+1.40
+1.49
+
+0.42
+0.43
+0.45
+0.54
+0.62
+0.67
+OK 73
+
+67
+68
+69
+70
+71
+72
+7
+
+29.92
+32.46
+35.14
+38.80
+42.44
+46.47
+51:25
+
+13.41
+14.92
+16.73
+18.81
+21.44
+24.10
+SUT
+
+16
+
+19
+
+ais)
+
+ibe a
+
+0.36
+
+0.36
+
+Dødsfallsraten er pr. 1000
+
+56
+
+.
+
+3-51
+
+4.56
+
+27.67
+
+12053
+
+Tabellen er fra [2]
+
+kjønn k overlever minst t år til. Da er
+_
+
+(k)
+
+(&)
+
+S(tla, k) = [1 —g, El
+
+(*)
+
+a+t-1
+
+(k)
+= [J a-¢)
+
+(1)
+
+=
+
+j=a
+
+for a = 0,1,2,...,
+med å
+
+t = 1,2,... og å = 0,1. (Vi skal selvfølgelig være forsiktige
+
+la ¢ bli for stor på grunn av at ratene ikke er tilnærmet konstante over
+
+lange perioder.)
+
+For å gi en begrunnelse for (1) kan vi tenke som følger:
+
+Skal personen leve
+
+minst ¢ år til, så må han/hun først leve ett år, og det skjer med sannsynlighet
+
+1 — q\*). Så må personen leve enda ett år (hvis t > 2), og siden han /hun er blitt
+ett år eldre (fra a til a + 1), skjer dette med sannsynlighet 1 — EE På denne
+måten er sannsynligheten for å overleve minst to år lik
+
+S(2|a,k) = [1 — (ML
+
+gl)
+
+a+
+
+11"
+
+Det skulle nå være lett å fortsette til vilkårlig t. Sannsynligheten for at en 55 år
+gammel mann overlever 5 år er etter dette
+
+
+
+25
+
+(1 — 0.01047) ... (1 — 0.01386) = 0.9435.
+S(5|55, 1) = (1 — 0.00933)
+Sannsynligheten for at en 40-årig kvinne lever minst 5 år til er
+S(5|40,0) = (1 — 0.00103)(1 — 0.00116) ... (1 — 0.00152) = 0.9938.
+
+Modellen (1) er en diskret modell i den forstand at alderen a og tiden t (som
+
+begge kan betraktes som kontinuerlige variable) bare tillates diskrete verdier.
+I neste avsnitt skal vi se hvordan vi kan bøte på dette.
+
+3. En kontinuerlig overlevelsesmodell
+
+I forrige avsnitt formulerte vi modellen
+
+S(t\a, k) «Ti
+
+(2)
+
+Vi skal her benytte følgende tilnærmelse til ekponensialfunksjonen:
+
+(3)
+
+eg” =1—,
+
+som gjelder når |z| er liten. Hvis vi bestemmer oss for å holde oss til alder under
+73 år, er dødssannsynlighetene mindre enn 0.05, og tilnærmelsen i (3) er rimelig
+god for z-verdier av denne størrelsesorden. I ligning (2) setter vi altså
+(ke)
+
+1-90 GET
+slik at
+
+S(t|a,k) = me ar
+
+(4)
+
+Tilnærmelsen i (4) gir verdiene 0.9438 og 0.9938 for henholdvis 5(5|55,1) og
+5(5/40,0), og disse tallene må sies å være svært gode når vi sammenligner med
+de verdiene som (1) produserte.
+
+Det er med utgangspunkti (4) at vi skal bringe inn den kontinuerlige modellen.
+
+La nemlig q,(s) være trappefunksjonen som er lik ar forj7
+a+t
+
+a+t-1
+
+=f awlsjas
+
+j=a
+
+2
+
+<s<j+1. Da er
+
+(5)
+
+(se figur 1). Ligningene (4) og (5) gjør at vi kan skrive
+
+S(tla, k) = exe(- |
+
+a+t
+
+ar (s)ds),
+
+(6)
+
+a
+
+og her er det ingenting i veien for å la a og t ha andre verdier enn heltall, for
+integralet vil alltid være definert.
+
+
+
+26
+
+1
+
+FIGUR
+
+Rate
+
+trappefunksjon
+
+lagt
+
+ratene
+
+AMI
+
+over
+
+G
+
+OJ
+fo
+
+=
+
+sum
+
+av
+
+rater
+
+=
+
++
+
+av
+
+-
+
+”
+
+areal
+
+o
+
+MAY
+AA
+My
+ROMA
+pamIN
+
+OG
+
+t
+
+alder
+
+rektangler
+
+ae
+
+a
+
+3
+
+if
+
+q,(5)
+
+ds
+
+a
+
+Siden trappefunksjoner ikke er spesielt hensiktsmessige å arbeide med, vil vi
+forsøke å glatte ut de to funksjonene q(s) og q1 (5) med to relativt enkle funksjoner
+ho(s) og hi (s). For å få en idé om hvordan disse funksjonene bør velges, kunne
+vi forsøke å plotte dødsratene. Men på grunn av de relativt store variasjonene i
+ratene er det bedre å plotte logaritmene. Det er gjort i figur 2, og det som slår oss
+
+med én gang er at for alder over 35 år ligger log q°? og log gu på hver sin rette
+
+linje, med samme stigningskoeffisient, men med forskjellige konstantledd. Vi har
+allerede begrenset oss til alder under 73 år, og nå innskrenker vi ytterligere ved å
+
+betrakte alder over 34 år. Da virker det rimelig å sette
+
+Hvis vi skriver Å = e"*, har vi at
+
+hol) = ATR.
+
+som gjelder for k = 0,1 og 35 < s < 72. Siden h,(s) er en tilnærmelse til g, (3),
+og vi dessuten har tilnærmelseni (6), setter vi
+
+S(tla, k) = exp(- en h, (s)ds)
+= exp(- [ hy(s + a)ds).
+
+
+
+27
+
+FIGUR
+
+2
+
+svinner
+
+==
+
+T
+
+r
+
+T
+
+T
+
+r
+
+T
+
+T
+
+T
+
+T
+
+T
+
+T
+
+T
+
+alder
+
+ilden,
+
+Vi skriver så
+
+h(sla, k) = h, (s+),
+og far den endelige modell
+
+S(t\a,k) = exp(- [ h(s|a, k)ds),
+
+(7)
+
+Risia,k) = Dev eset Pee,
+
+(8)
+
+hvor
+
+Hensikten med denne skrivemåten vil bli klar senere. Men for å kunne bruke
+modellen (7)-(8) må vi bestemme parametrene Å, Å, og f,. Dette gjøres ved en
+regresjonsteknikk, og anslagsverdiene for disse størrelsene blir
+A=2.3-10"%,
+
+6, =0.095,
+
+8, =0.767.
+
+(9)
+
+Når h(s|a, k) er gitt ved (8), blir
+
+i! hlsja, kjds = AePt8 4” (at = 1) / 6, ,
+t
+
+0
+
+og overlevelsesfunksjonen er tilnærmet gitt ved
+
+S(tla,k) = exp(—Ae®**4*
+(e#* — 1) /,)
+
+(10)
+
+
+
+28
+
+fora > 35,
+
+a+t<720gk=0,1.
+
+Når A, 8, og $2 er kjent (eller som her gitt ved anslagsverdiene i (9)), er
+(10) enkel å legge inn på en programmerbar lommeregner, og en kan beregne
+overlevelsessannsynligheter raskt og smertefritt. Høyresiden i (10) med (9) innsatt
+gir verdiene 0.9428 og 0.9934 for henholdsvis 5(5|55,1) og S(5|40,0). Mine egne
+sjanser for å bli minst 70 år er etter formelen (10) lik 67.7%.
+4. Overlevelsesmodeller generelt og Cox-modeller spesielt
+
+Vi har utviklet en modell for normaldødelighet som spesifiserer en overlevelsesfunksjon av formen
+
+sjø pi / Beha
+0
+
+(11)
+
+Dette kan virke som en spesiell form, men i virkeligheten er den meget generell.
+
+En kan faktisk vise at enhver kontinuerlig og deriverbar overlevelsesfunksjon S(t)
+
+kan representeres slik. Funksjonen h(s) kalles hasardraten eller hasardfunksjonen,
+og integralet
+
+er den kumulative hasardfunksjonen.
+
+Når en skal spesifisere overlevelsesfunksjonen for ett bestemt individ - eller
+kanskje mer riktig — et individ av en spesiell type, vil det være rimelig å gjøre
+denne funksjonen avhengig av betsemte karakteristika som alder og kjønn. Det
+var jo også slik vi startet ut da det var snakk om et individ tilfeldig utvalgt fra
+normalpopulasjonen.
+
+Hvis vi skal studere overlevelse etter akutt hjerteinfarkt, kan det være riktig
+å trekke inn opplysninger fra pasientens sykejournal og andre opplysninger om
+forhold forut for hjerteinfarktet. La nå z = (z,,22,...,2m) være en vektor som
+inneholder opplysninger om forhold som en mener er relevante for overlevelsesfunksjonen. Hver 2; er en numerisk størrelse som karakteriserer ett bestemt forhold,
+og vi kaller 2; for en kovariat. Hvis vi betrakter et individ 7, skal vi la 2;; være
+dette individets verdi av kovariat nr. 1, og vektoren av kovariater som er knyttet til
+dette individet er z;. Fra (11) ser vi at overlevelsesfunksjonen er entydig bestemt
+av hasardfunksjonen, og hvis h,(s) er hasardfunksjonen til individ 7, vil det være
+tilstrekkelig å spesifisere hvordan denne funksjonen avhenger av kovariatvektoren Z;.
+
+Vi sier at vi har en Cox-modell dersom
+
+h;(s) = (A(s)) exp(A1 21; +---+ Bm Zn s)s
+
+(12)
+
+hvor 8 = (81,---,Bm) er en vektor med tall som beskriver hvordan hasardfunksjonen (og dermed også overlevelsesfunksjonen) avhenger av de ulike kovariatene.
+Hvis vi ser tilbake på modellen for normaloverlevelse, ser vi at hasardfunksjonen
+(8) i dette tilfellet nettopp er en slik Cox-rate i kovariatene alder og kjønn. Coxmodeller er spesielt interessante av to grunner. For det første har de funnet en lang
+
+
+
+29
+
+TABELL 2 - HJERTEINFARKTDATA.
+
+Gruppe 1
+40-55 år
+
+Gruppe 2
+56-60 år
+
+Gruppe 3
+61-66 år
+
+186
+
+134
+
+199
+
+døde
+
+25
+
+32
+
+69
+
+% døde
+
+13.4
+
+23:09
+
+34.7
+
+antall
+
+rekke anvendelsesområder, men vel så viktig er det at Cox-modellene er behagelige
+matematisk sett, og at det er utviklet avanserte teknikker og programvare for å
+tilpasse Cox-modeller til overlevelsesdata.
+
+5. Normaldødelighet og relativ risiko
+
+I tabell 2 er 519 hjerteinfarktpasienter som overlevde sykehusoppholdet fordelt
+på tre aldersgrupper. Pasientene er fulgt i fem år, antall døde er talt opp, og det
+er regnet ut en dødelighetsprosent. Vi ser at det er en klar økning i dødsrisikoen
+ved økt alder, men skyldes dette at det er farligere å få hjerteinfarkt i høy alder
+enn som ung, eller er det bare den naturlig økte risiko ved alder som her kommer
+til uttrykk?
+
+Vi må sammenligne de observerte antall døde med noe som kan kalles et normalt
+antall døde, eller forventet antall døde. For hver pasient j har vi opplysninger om
+alder a,;, kjønn k; og en tid t;, hvor
+
+t; = min(levetid,5 år).
+
+La Zz; = (a,,t;) være kovariatvektoren knyttet til person j. Vi antar at hasardfunksjonen for en hjerteinfarktpasient i aldersgruppe : (: = 1,2 eller 3) kan skrives
+som
+
+h;(s) = 6; h(sjz;),
+
+(13)
+
+hvor h(s|z;) er hasardfunksjonen som hører til normaldgdeligheten, gitt ved (8)
+og (9).
+Størrelsen 0; representerer den relative risiko ved hjerteinfarktet for en pasient
+
+i aldersgruppe 1. Hvis 0, < 02 < 63, er det relativt sett farligere å få hjerteinfarkt
+i høy alder enn som ung, men hvis 6, > 03 > 03, er det de unge som kommer
+dårligst ut, sett i forhold til normalpopulasjonen.
+
+Nå er det ingenting i modellen (13) som knytter den spesielt til hjerteinfarkt, og
+gruppeinndelingen ved indeksen : trenger ikke gå på aldersgrupper, men kan være
+hva som helst som en måtte ønske å gruppere pasientene etter. Det er altså en
+
+svært generell modell som er beskrevet her, selv om den er en forkledd Cox-modell.
+En kan benytte det såkalte sannsynlighetsmaksimeringsprinsippet for å estimere størrelsene 0;. Hvis vi lar n; stå for det observerte antallet døde i gruppe i
+
+
+
+30
+
+og setter
+
+m; = > i: h(s|z;)ds,
+tj
+
+jaa
+
+“9
+
+er estimatene gitt ved
+
+Hjerteinfarktdataene gir følgende verdier
+0: =39,
+
+07 =3.9,
+
+6 =3.8,
+
+og det er vel ingen grunn til å slutte at det er noen spesiell alderseffekt ved
+hjerteinfarktet, utover den naturlig økte risikoen som følger med alderen.
+Sammenhengen med normaldødeligheten kommer inn ved m;, som beregnes
+som total akkumulert normalhasard (eller risiko) som pasientene i gruppe 7 blir
+utsatt for i observasjonsperioden. Størrelsen m; er en stokastisk variabel, og en kan
+vise at den har forventning lik det forventede antall døde i en normalpopulasjon
+
+(med samme alders- og kjønnssammensetning som den observerte populasjonen)
+
+over den gitte observasjonsperioden. Se [3] i denne forbindelsen.
+
+Forfatteren vil gjerne få takke redaktøren for bearbeidelse av artikkelen.
+Referanser
+
+[1] Mæland, J.G. & Meen, K. Predicting long-term mortality after myocardial
+infarction from routine hospital data. Acta Med. Scand. 224 (1988), 539-547.
+
+[2] Statistisk Årbok 1983. Statistisk Sentralbyrå, Oslo 1983.
+[3] Berry, G. The analysis of mortality by the subject-years method. Biometrics
+39 (1983), 173-184.
+
+ICOTS
+International Conference on Teaching Statistics
+Denne konferansen ble holdt pa New Zealand i august uten at Norge var
+
+representert, trass i iherdige forsøk på å skaffe reisepenger.
+
+Undervisningsutvalget kan imidlertid bidra med et referat, mottatt etter
+anmodning fra gode kilder på New Zealand:
+"To mention ICOTS.... It was middling.
+None of the invited speakers really made you sit up.
+
+The one on statistical graphics was particularly disappointing"
+Undervisningsutvalg
+/JL
+et
+
+
+
+31
+
+AUTOREGRESSIVE MODELS WITH CHANGING STRUCTURE
+Samandrag av dr. scient.-avhandling forsvart i april 1990
+ved Universitetet i Bergen
+av
+
+John Tyssedal
+
+Autoregressive modellar har fått ein brei plass i modellering av korrelerte datasett.
+
+Dette skuldast ikkje minst at dei er lette å tolke, at ein kan nytte enkle metodar i estimeringsfasen og at dei er eit godt verktøy for korttidsprognoser.
+I autoregressive prosessar av orden p (AR(p)) er samanhengen oftast gitt som
+
+Xt — O1Xt-1 — G2Xt-2 — +++ — OpXt-p = Ce
+
++
+
+og vanlege standardantakelsar er:
+
+1. Følgja {e:} består av ukorrelerte eller uavhengige identisk fordelte variable med forventing 0 og varians 02.
+2. Koeffisientane: $1, $2,:--,¢, er konstantar som tilfredstiller at det karakteristiske likning:
+
+1 — 612 — 22? — +++ — 692? = 0
+har nullpunkt utanfor einingssirkelen i det komplekse z-plan.
+
+Elles er autoregressive prosessar alt godt presenterte i dei 2 føregåande nummer av TG.
+Under antakelsane ovanfor er prosessen 2.
+
+ordens stasjonær, og ein har veletablerte
+
+teknikkar både for modellering og for å lage prognoser. Problem får ein når 1 eller 2 ikkje
+er oppfylt og særleg når variansen og autokovariansen endrar seg over tid.
+
+I denne oppgåva studerer vi modellar der variansen til følgja {e:} får lov til å variere
+
+over tid, og der koeffisientvektoren ®7 = [41,%2,:-*,%p] får lov til å vere tidsavhengig.
+Naturleg nok blir kompleksiteten i modelleringsfasen større, og iterasjonsteknikkar tvingar
+seg fram.
+
+For å illustrere, la ® vere stykkevis konstant. Utfrå ei realisering skal ein avgjere kor
+mange sett av verdiar ® kan ha, når ® skiftar verdi for deretter å estimere dei ulike verdisetta. Tar ein vegen om dobbelt stokastiske modellar og lar ® følgje ei ikkje reduserbar,
+aperiodisk Markov kjede, kan spørsmålet om overgangssannsyn og stasjonærfordeling og
+bli av interesse.
+
+Hovudvekt er lagt på estimeringsteknikkar. Vi byrjar med å la tidsavhengig varians for
+
+følgja {e,} vere einaste avvik fra standardantakelsane. To estimatorar for dei autoregressive
+parameterane er føreslått, veia og ikkje veia minste kvadratsums metode.
+
+Begge viser
+
+
+
+32
+
+seg å vere konsistente, men for ”korte” tidsrekkjer (ca. 100 observasjonar) vil dei veia
+estimatorane vere klart best.
+Situasjonar der variansen til {e;} er ukjend er prøvd ut. Simuleringar indikerer at også
+her er det noko å hente ved å la vere å bruke dei uveia estimatorane.
+Forandringar i parameterane 41,..., Øp vil normalt føre til forandringar i kovariansstrukturen til prosessen. Med Markov antakelsen på parameterane og konstant varians for følgja
+{ez} vil {X;} framleis kunne vere ein Z ordens stasjonær prosess under visse vilkår. I nokre
+situasjonar vil det vere mogeleg å bruke momentestimatorar til å estimere dei forskjellige
+verdisetta som parametervektoren kan anta. Desse estimatorane vil vere konsistente, men
+
+konvergensen er svært sakte.
+
+Mykje betre resultat kan ein oppnå ved å bruke ei to stegs minste kvadratsums algoritme, iallfall når overgangssannsyna. frå ein tilstand til ein annan er av størrelsesorden
+0.05. I tillegg kan ein då estimere overgangssannsyn, stasjonær sannsyn og skiftepunkt.
+Algoritma byggjer ikkje på Markov antakelsen. Estimering av skiftepunkt er eit steg i algoritma. Ulike metodar for å gjere dette er prøvd ut og evaluert, vesentleg ved simuleringar.
+
+Har ein strukturforandringar som er styrt av sannsynslover, treng ein nye måtar å
+generere prognoser pa.
+
+For modellen der parametervektoren ® følgjer ei Markov kjede,
+
+har vi utvikla prognoseteori og vist korleis resultat frå estimeringsfasen kan nyttast til å
+generere prognoser.
+
+Vanleg ARIMA modellering vil ofte gje inntrykk av å ha modellert korrelasjonsstrukturen i eit datasett og kunne difor tenkjast å vere eit eigna prognoseverktøy også i slike
+situasjonar. Eit simuleringseksperiment er utført der vi samanliknar desse to metodane
+
+å generere prognoser på.
+
+Dette indikerer at ein i mange situasjonar har mykje å vinne
+
+ved å bruke den meir komplekse modellen og at ein risikerar lite ved å gjere det dersom
+alternativet er vanleg ARIMA modellering.
+
+Oppgåvå består av 4 arbeid:
+
+[1] Tyssedal, J. S. and Tjøstheim, D. Autoregressive processes with a time dependent
+variance. J. Time Ser. Anal., 3, 1982,209-217.
+
+[2] Tyssedal, J. S. and Tjøstheim, D. An autoregressive model with suddenly changing
+parameters and an application to stock market prices. J. Roy. Stat. Soc. Ser. C: Applied
+
+Statistics, 37, 1988, 353-369.
+
+[3] Tyssedal, J. S. Forecasting with an autoregressive model with suddenly changing parameters.
+
+[4] Tyssedal, J. S. Comparison of some techniques for detecting and estimating change
+points in autoregressive processes.
+
+
+
+33
+
+A study of image improvement techniques
+
+applied to NMR images
+Sammendrag av dr. ing.avhandling forsvart 6. desember 1989
+
+ved Norges Tekniske Høgskole
+Fred Godtliebsen
+
+1. Bakgrunn og hensikt
+I stadig flere anvendelser (f.eks. satelittfjernmåling, ultralydbilder osv.) blir informasjonen presentert i form av digitale bilder. Jeg har utelukkende betraktet todimensjonale
+
+bilder, og derfor defineres intensitetsfunksjonen f(:,j) som verdien for bildet f i punktet (pikslet) (1,7). Denne funksjonen beskriver bildets intensitet (gråtone) i piksel (i, ;).
+Ofte vil det være hensiktsmessig å operere bare med en indeks. Dette gjøres ved å sette
+b= (1,5)
+
+Selv om metodene som blir betraktet i dette arbeidet er relativt generelle, så er de spesielt
+rettet mot magnetisk resonans (MR) bilder. MR bilder kan brukes til å illustrere vevsammensetningen i et vilkårlig snitt av menneskekroppen. Av denne grunn er slike bilder et
+
+viktig hjelpemiddel i medisinske diagnoser. I dagens MR utstyr forbedres bildekvaliteten
+
+ved å midle over flere målinger av samme snitt. Et problem ved denne framgangsmåten er
+at den er svært tidkrevende. Dette betyr at relativt få pasienter blir behandlet per dag.
+Dessuten vil sannsynligheten for at pasienten beveger seg i løpet av opptakstiden øke, og
+slike bevegelser vil gi dårligere kvalitet på bildene.
+Hovedtanken i dette arbeidet var å oppnå dagens bildekvalitet fra færre målinger ved å
+
+anvende nye versjoner av statistiske metoder. Dette er viktig både av hensyn til pasientene
+
+og for mer effektiv utnyttelse av kostbart medisinsk utsyr.
+
+2. Observasjonsmaterialet og støyprosessen
+I undersøkelsen har vi brukt 8 (T1-vektede transversale) bilder av samme snitt i forfatVed å midle disse 8 enkeltmålingene, får vi en temmelig bra fasit for det
+sanne bildet f.
+terens hjerne.
+
+Det faktum at midling forbedrer bildekvaliteten indikerer at feilen i hvert piksel
+er fordelt
+omkring null. Av denne grunn synes det rimelig å tro at det vi observerer i
+piksel b, gp,
+betraktes som en sum av den sanne verdien, f;, og tilfeldig
+
+vi at
+
+støy «,. Mer presist så antar
+
+9 = fy + 6
+
+(1)
+
+Ved å sammenligne korresponderende piksler i et enkeltbilde og
+
+jeg informasjon om støyen i MR bilder som kan oppsummeres
+
+gjennomsnittsbildet fikk
+
+slik:
+
+e Stoyen i hvert piksel følger en normalfordeling med forventn
+
+ing null.
+
+e Stoyen i forskjellige piksler ser ut til å være ukorrelert.
+e Det virker ikke som det er korrelasjon mellom støyen og
+signalet
+
+s størrelse.
+
+e Støyvariansen kan estimeres fra bakgrunnen av bildet.
+
+3. Metoder
+
+3.1. Tradisjonelle metoder
+Jeg startet ut med å forsøke enkle, velkjente
+
+teknikker som medianfilter og gjennom-
+
+snittsfilter. Ingen av disse teknikkene ga gode resulta
+
+ter i MR bilder.
+
+
+
+34
+
+3.2. Markovfeltmetoder
+Ifølge Bayes formel har vi
+
+P(F = f|G =9) « P(G=9g\F = f)P(F = f)
+
+(2)
+
+I (2) beskriver P(G = g|F = f) en modell for støyen mens P(F = f) er et uttrykk for
+apriorifordelingen til det sanne bildet. Med uavhengig og normalfordelt stoy blir
+
+PIG = g|F = f) x Hye Donal
+
+(3)
+
+der V betegner antall piksler i bildet.
+
+Naboene til piksel b kalles G, og er de pikslene som ligger nærmest piksel b i geografisk
+avstand. F.eks kan G, representere de åtte nærmeste naboene til piksel b. Som regel er det
+
+rimelig å si at Markovegenskapen
+
+P(Fi, = fylresten av bildet)
+
+= P(F; = f,|naboene til piksel 6)
+
+(4)
+
+gjelder. Dette er ekvivalent med at P(F = f) har en såkalt Gibbsfordeling, dvs.
+
+PEST = se
+
+(5)
+
+der U(f) betegnes energifunksjonen og Z er en normaliseringskonstant.
+Av beregningsmessige årsaker lar det seg ikke gjøre å bestemme aposteriorifordelingen
+fullstendig. Det er derfor vanlig å estimere det sanne bildet ved den f som maksimerer
+
+høyresideni (2). En teknikk som kalles simulert avkjøling (Geman (1984)) vil under visse
+forutsetninger gi det globale maksimum for aposteriorifordelingen. Nå er imidlertid denne
+teknikken nokså tidkrevende. Derfor har jeg brukt en enklere teknikk utviklet av Besag i
+1986. Denne kalles ICM og gir et lokalt maksimum av P(F = f|G = g). Hvis imidlertid
+det observerte bildet ikke er altfor dårlig, har det erfaringsmessig vist seg at ICM fungerer
+bra. Derfor var det rimelig å bruke ICM istedetfor simulert avkjøling i MR bildene.
+
+Idéen i ICM er å maksimere verdien i hvert piksel i henhold til all informasjonen man
+
+har tilgjengelig. Hvis vi betegner fxs for estimatet i alle piksler bortsett fra piksel 6, så
+ønsker vi m.a.o. å estimere gråtonen i piksel b ved den f, som maksimerer
+
+P(A, = folF'sys = fa G = 9).
+
+(6)
+
+Ut fra antagelsene ovenfor finner vi at
+
+P(Fy = fylFsu = fn = g)
+
+e (gh (90- fo)? +BV (forfa)]
+
+(7)
+
+der VI fo, fg,) er en funksjon som bare avhenger av gråtonenei piksel b og dets nabogråtoner.
+Parameteren 2 avgjør hvor glatt det estimerte bildet blir. En viktig del i modellformu-
+
+leringen er valget av V-funksjonen.
+
+Det er viktig å velge denne funksjonen slik at både
+
+flate områder og kanter gis stor apriorisannsynlighet. Erfaringsmessig har valget
+=il
+
+V( fo: fo) = IT Ev
+vist seg å fungere bra.
+
+(8)
+
+
+
+35.
+3.3. Alternative teknikker
+
+Flere teknikker blir beskrevet i avhandlingen.
+
+Her skal jeg nøye meg med å nevne
+
+Gaussfilteret.
+
+La D, betegne et vindu (oftest 3 x 3) sentrert i piksel b. Gaussfilteret estimerer gråtonen
+i piksel b ved
+
+;
+a
+
+J
+
+fir bo er
+
+—=m12
+
+JED»
+
+der
+
+a,
+
+(9)
+
+;
+,
+ne >, e7 377 (95-98)
+
+(10)
+
+JED»
+
+Parameteren 7? må estimeres i den anvendelsen vi betrakter.
+
+4. Resultater og evaluering
+
+Innen bildeforbedring er det ofte vanskelig å evaluere hvor gode resultatene er. Dette
+skyldes at man ikke kjenner det sanne bildet. I MR anvendelsen er imidlertid situasjonen
+litt spesiell siden vi kan framskaffe en god tilnærmelse til fasiten.
+
+De metodene vi har
+brukt er evaluert ved å sammenligne de prosesserte bildene med gjennomsnittsbildet. På
+denne måten kan vi gi objektive kriterier på hvor mye bedre de prosesserte bildene er enn
+det observerte. Et opplagt kriterium er midlere kvadratisk feil (MSE). I tillegg har vi sammenlignet differansene mellom nabopiksler i prosesserte bilder med de korresponderende
+differansene i gjennomsnittsbildet. Det siste kriteriet blir kalt
+
+FDMSE i avhandlingen og
+
+gir uttrykk for hvor godt de enkelte metodene ”gjenskaper” kantene i det sanne bildet. Ut
+fra MSE og
+
+FDMSE oppnår vi betydelige forbedringer både ved bruk av Markovfeltmeto-
+
+dene og Gaussfilteret. Disse metodene gir essensielt samme midlere kvadratisk feil, men
+
+det virker som Gaussfilteret gjengir kantene noe bedre (ca. 17%) enn Markovfeltmetodene.
+
+Ved å se på forskjellen mellom observerte og prosesserte bilder får vi informasjon om
+hva metoden gjør mens differansen mellom prosesserte bilder og gjennomsnittsbildet viser
+
+hvilke feil metoden gjør. Bildet som framkommer fra differansen mellom det observerte og
+gjennomsnittsbildet rettferdiggjør også veldig godt de slutninger vi tidligere har gjort om
+støyen i MR bilder.
+Dessuten har radiologer ved MR-senteret i Trondheim og ved Philips Medical Systems i
+Eindhoven evaluert metodene subjektivt. Disse evalueringene tyder på at bildekvaliteten
+er forbedret uten at detaljer er blitt fjernet (eller nye detaljer introdusert).
+
+5. Diskusjon og konklusjon
+
+Det blir pekt på en del svakheter ved både Markovfeltmetodene og Gaussfilteret. Spesielt
+
+virker det viktig å gjøre bruk av den simultane konfigurasjonen av piksler i vinduet Di. I
+dagens implementasjoner blir dette ikke gjort.
+
+Et hovedresultat for dette arbeidet er at man kan oppnå omtrent samme bildekvalitet
+ved å anvende Gaussfilteret på et enkeltbilde som vi oppnår ved å midle tre enkeltbilder.
+Referanser
+
+Besag J. (1986) : On the statistical analysis of dirty pictures. JRSS B, 48, 259-302.
+Geman S., Geman D. (1984) :
+Stochastic relaration, Gibbs distribution, and the
+Bayesian restoration of images. TPAMI, 6, 721-741.
+
+
+
+36
+
+Bokomtale
+C. W. Anderson og R.M. Loynes: The teaching of practical statistics. John
+Wiley, 1987. ISBN 0-471-91572-6. 199 sider. GBP 26.50.
+
+Den første rene undervisningsstilling i statistikk kom så sent som i 1911 (Karl
+Pearson, University College). Det er derfor ikke så underlig at undervisningspraksis i dette faget fortsatt er under debatt. Det er hovedtesen til forfatterne av
+denne boka at statistikkfaget ikke kan sees løsrevet fra anvendelser, at statistikkundervisning må ta hensyn til dette, og at fordelene ved å undervise statistisk
+praksis kan være betydelige.
+
+Det er et problem for statistikkfaget at det er så vanskelig å definere på en
+måte som er rimelig presis, samtidig som den har mening for annet enn fagfolk.
+Efron(1982) har følgende forslag til fagets grunnleggende idé:
+
+That useful information can be accrued from individual small bits of data.
+
+For å klargjøre hva som kreves av en statistiker setter forfatterne opp en liste
+over ønskelige ferdigheter:
+
+1. Generelle ikke-tekniske ferdigheter
+
+a) Å kunne samarbeide.
+b) Å kunne overholde tidsfrister.
+
+c) Å kunne kommunisere klart og effektivt, muntlig og skriftlig.
+d) Å forstå at i praksis må det finnes et svar, selv om dette ikke alltid er
+tilfredsstillende.
+
+2. Generelle delvis tekniske ferdigheter
+
+a) Å forstå statistikerens etiske stilling.
+b) Å fastsette målsettingen med undersøkelsen og rammen, dvs. hvordan data
+defineres og samles inn.
+
+c) Å oversette generelle mål til rimelig presise og realistiske oppgaver, dvs. at
+visse faktorer er relevante og andre ikke.
+
+d) Å gjenkjenne situasjoner som krever undersøkelse av datakvaliteten og å lage
+hensiktsmessige kontrollrutiner.
+
+e) Å organisere arbeidet effektivt, dvs. datainnsamling og bearbeiding.
+f) Å forstå grensene for hva vi vet.
+g) Å finne fram til og lese annet stoff både i statistikk og det aktuelle fagområdet.
+
+h) Å tolke og/eller anvende resultatene av analysen.
+i) Å forstå hva statistikk kan og ikke kan gjøre.
+3. Ferdigheter som avhenger av tekniske ferdigheter
+
+a) Å innse hvilke teknikker som er gyldige og/eller brukbare.
+b) Å anvende teknikker, tolke resultater og trekke riktige slutninger, dvs. forståelse.
+
+c) Å anvende teknikker, beregning og tilsvarende ferdigheter.
+
+
+
+37
+
+d) A finne og bruke hovedkilder av publiserte data.
+e) A lere og bruke en tidligere kjent teknikk.
+4, Ferdigheter som avhenger av teknisk vurdering
+
+a) A forsta at virkelige data har svakheter og reagere fornuftig pa vansker.
+b) Å ha oversikt over de ulike nivåer av teknisk raffinement i analysemetode og
+tilpasse disse til data med ulik relevans og pålitelighet.
+
+)
+)
+)
+)
+
+Å velge eller utvikle en passende plan for undersøkelsen.
+Å sette sammen tilsynelatende ubeslektede fakta til et mønster.
+Å oversette et problem til statistisk form.
+Å bygge opp modeller.
+
+)
+Ferdighetene er ordnet slik at punkt 1 svarer til ferdigheter en må kunne kreve
+uansett utdanning. Punkt 2 svarer til en viss faglig modenhet i statistikk, mens
+
+punkt 3 svarer til en noe mer teknisk faglig modenhet i faget. Punkt 4 representerer ferdigheter en fullt utdannet statistiker bør mestre.
+Det er neppe mulig å lage et undervisningsopplegg som sikrer de ferdige kandi-
+
+datene alle de ønskede ferdigheter, som f.eks. 2a). Andre som 2d) og 4d) egner
+seg dårlig for et tradisjonelt undervisningsopplegg.
+
+Det at framtidige statistikere forstår betydningen av slike ferdigheter, gjør at de lettere vil lykkes i en
+
+jobbsituasjon.
+
+Forfatterne går så gjennom ulike undervisningsformer og diskuterer hvilke av
+punktene ovenfor som blir tilgodesett. Til slutt ender de opp med sitt eget forslag
+til undervisningsopplegg basert på mange små prosjekter.
+
+Resten av boka består av en presentasjon av slike prosjekter. Varigheten varierer fra } uke til 4 uker. Prosjektene handler om mange slags ulike problemstillinger, fra sammenhengen mellom familiestørrelse og kriminalitet til franske
+presidentvalg og edderkoppens adferd. Alle prosjektene er beskrevet i detalj og
+burde uten videre kunne gjennomføres også her i landet, men enkelte av referansene og datasettene bør nok erstattes med tilsvarende norske.
+Denne boka bør finnes på alle universiteter og høgskoler der det undervises i
+statistikk.
+
+Henrik Dahl
+
+
+
+38
+
+Anmeldelse av programpakke
+Stat Xact (ver. 1.0), Cytel Software Corp., 137 Erie Street, Cambridge, MA
+02139, USA. Pris (direkte fra produsent): ca. 1800 kr. for universiteter og ca.
+3000 kr. for andre.
+
+Uten å gjøre det til fulltidsbeskjeftigelse er det umulig å holde seg orientert på
+dagens programvaremarkedi statistikk. Man bør møte nye programpakker med
+skepsis og stille seg disse spørsmålene:
+
+1) Inneholder den nye programpakken rutiner som etablerte pakker (som for
+bv
+
+Nm
+
+w
+
+Er pakken brukervennlig og godt dokumentert?
+
+Nm
+
+Ha
+
+Er de eventuelle nyskapningene nyttige?
+
+Net
+
+eksempel BMDP, SAS, SPSS) mangler?
+
+Inneholder pakken mange feil eller unøyaktigheter?
+
+See
+
+[o>)
+
+ou
+
+Hvem har skrevet pakken? Støttes den av en levedyktig organisasjon?
+Står pris i forhold til ytelse?
+
+For StatXacts vedkommende faller svarene på disse spørsmålene ut til pakkens
+fordel. StatXact er skrevet av Cyrus Mehta og medarbeidere. Den representerer
+programvarefruktene av et decenniums forskningsvirksomhet ved Harvards biostatistikkavdeling. Mehta driver nå sitt eget firma og markedsfører pakken sterkt.
+Det er god respons fra Cytel ved forespørsler angående pakken.
+Pakken beregner P-verdier for tester hvor det er beregningsmessig mulig å
+
+finne den eksakte fordelingen til testobservatoren. P-verdier basert på slike eksakte fordelinger benevnes gjerne eksakte P-verdier. Gjennomgående gis også
+P-verdier basert på asymptotiske approksimasjoner. I tilfeller der det er svært
+tidkrevende å finne den eksakte P-verdien, finnes det opsjoner for å approksimere
+den eksakte fordelingen ved spesielle utvalgsteknikker (importance sampling); det
+siste benevnes Monte Carlo-inferens.
+
+StatXact kan benyttes på IBM-kompatible PC-er med DOS versjon 2.0 eller
+høyere. Den krever minst 640 kb RAM og hard disk. Det blir anbefalt at pakken
+kjøres på maskiner med matematisk koprosessor, men strengt tatt er ikke koprosessoren nødvendig.
+
+Pakken har 3 hovedkomponenter: (a) To-populasjons lineære rang-tester, (b)
+
+tester for Rx C-krysstabeller, (c) tester og intervallestimering i en serie 2 x 2tabeller.
+
+De lineære rang-testene omfatter Wilcoxons to-utvalgstest, normal-score-tester
+(Van der Waerden), log-rang-testen, trend-tester og generelle permutasjonstester.
+Programmet gir P-verdier basert på den eksakte fordelingen av testobservatoren,
+samt P-verdier beregnet ved bruk av asymptotiske approksimasjoner.
+I en RxC-krysstabell beregner StatXact eksakte og asymptotiske P-verdier for
+
+Fishers eksakte test for en r x c-tabell (Freeman-Halton), en test basert på Pearsons kji-kvadrat-testobservator, en test basert på en likelihood-ratio-testobservator, Kruskal- Wallis-testen og Jonckheere-Terpstra-testen.
+
+
+
+39
+
+Programpakkens tredje hoveddel gjør eksakte beregninger i en serie 2x2-tabeller. Programmet produserer eksakte og asymptotiske P-verdier for tester for oddsratio-homogenitet og test for at en felles odds-ratio er forskjellig fra 1. StatXact
+gir stort sett P-verdier alene. Det er ofte verdifullt å kunne gi et effekt-estimat
+(for eksempel odds-ratio) med tilhørende konfidensintervall. StatXact gjør dette
+for en felles odds-ratio i en serie 2 x 2-tabeller.
+Med StatXact følger en velordnet og grundig manual. Den er lesverdig som
+en introduksjon til eksakte metoder for kontingenstabeller, selv om man er uin-
+
+teressert i selve programpakken. Å påvise eventuelle feil og unøyaktigheter er en
+
+meget stor og tidkrevende oppgave. Anmelderen har i så måte kun arbeidet med
+pakkens tredje del. De eksakte resultatene synes å ha tilstrekkelig nøyaktighet.
+Ved en av de asymptotiske metodene, konfidensintervall for odds-ratio basert på
+Robins-Breslow-Greenland-estimatoren, er det for noen datasett unøyaktigheter
+allerede i 3.—4. siffer (f.eks. i datasettene i Table 4 i artikkelen av T. Sato i Brometrics 46 (1990), 71-80).
+
+Trenger vi eksakt inferens? Svaret må bli: prøv selv! Man bør også merke
+seg at de eksakte metodene til syvende og sist baserer seg på en én-dimensjonal
+betinget fordeling. Inferensen er derfor ikke nødvendigvis analog til asymptotiske
+metoder som er i bruk for samme problemstilling.
+
+I fremtidige utgaver av pakken ønsker man seg at det i større grad blir mulig
+å beregne effektestimater med tilhørende konfidensintervaller. F.eks. finnes det
+algoritmer for eksakt logistisk regresjon. Disse er pr. i dag ikke tilgjengelige i
+kommersiell programvare.
+
+Prisen på pakken synes rimelig. Den fyller et tomrom i metodemenyen basert
+på allerede etablerte programpakker. StatXact anbefales og bør være tilgjengelig
+ved enhver statistikk-avdeling.
+
+Stein E. Vollset
+
+
+
+40
+
+Statistikere i de baltiske land bør inviteres til den nordiske
+konferansen i matematisk statistikk
+
+Jeg sendte et brev med teksten nedenfor til arrangementskomiteen for
+det nordiske statistiker-møtet i 1992, med kopi til de Nordiske
+statistiske foreningene. Jeg foreslår at brevet med noen tilføyelser jeg
+har gjort etter at brevet ble sendt. tas inn i TG.
+Brevets tekst:
+
+Jeg vil foreslå at statistikere i de Baltiske land blir invitert til å delta på
+møtet i Norge i 1992. Det er åpenbart argumenter både for og imot.
+Jeg vil nevne momenter som jeg mener taler for:
+1)
+
+Det er et sterkt ønske i Nordisk Råd for å styrke kontakten mellom
+
+landene rundt Øtersjøen på alle områder. Det har også vært ymtet
+frampå om å invitere dem til medlemskap i Nordisk Råd. Interessen er
+sjølsagt stor blant randstatene. Årsakene til dette kjenner vi alle. Nordisk
+Råd åpner nå informasjonkontor i Vilnius, Riga og Tallin.
+
+2) Det har jo vært et ønske om å holde de Nordiske møtene på et
+Skandinavisk språk, men det er jo mer eller mindre gitt opp.
+Kommunikasjonen fungerer godt på Engelsk.
+
+3) De andre fora hvor det måtte være naturlig for Balterne å delta er vel
+Bernoulli-konferansene. Der vil kanskje valuta-spørsmålet være mere
+hindrende enn den vil være i Norden som er nærmere geografisk.
+4) I Norge søkes den akademiske kontakten med Balterne styrket.
+NAVF’s Cultural exchange pogramme har nedfelt prioritering av Balterne.
+
+5) Det er tatt initiativ ved det Akademiske kollegium i Oslo for å styrke
+kontakten. Bevilgninger er avsett gjennom Utenriksdepartementet. Her
+er det kanskje kilder for reisestøtteordninger.
+6)
+Finland er vei det landet blant oss som har best kontakt med
+Østersjøstatene lenger mot sør. Dette gjelder sjølsagt først og fremst
+Estland. Sjøl Island ser ut til å føle en spesiell solidaritet med Balterne.
+Dette viste seg med CSE konferanseni Paris nylig. De arbeidet sammen
+med Danskene her. (Norges rolle var lite å skryte av. Svenskene ga
+Balterne sterk støtte, sjøl om de er de eneste i Norden som har
+anerkjent Balternes innlemmelse i Sovjetunionen).
+
+Dette er også et forsøk på å sette i gang en debatt. Konkret håper jeg
+mitt forslag til den Norske organisasjonskommite blir tatt til følge.
+
+Vennlig hilsen
+Steinar Bferve
+Jeg vil bare foye til en kommentar:
+
+Et tilsvarende initiativ som det jeg foreslår i brevet. er tatt av
+
+arrangørene av “Third Finnish-Soviet Symposium on Probability Theory
+and Mathematical Statistics”. som i 1991 skal foregå i Turku/Abo 20.-23.
+
+August. De har sendt invitasjon til Statistikere i Skandinavia med
+opplysning om at det er på tale for framtida å gjøre denne serien med
+symposia om til et "Scandinavian-Soviet joint venture”. Mitt inntrykk er
+
+at denne serien har mer vekt på Probability Theory enn det vi er vant til
+
+på de Nordiske møtene.
+
+Steinar Bjerve
+
+
+
+41
+
+Invitasjon til foredrag ved Norsk Statistikermøte 1991.
+Norsk Statistikermøte 1991 skal avholdes på Jeløya utenfor Moss i tidsrommet 10.—12.
+
+juni. I Pogues er det satt opp en egen sesjon med bidrag fra doktor— og hovedfagsstudenter på mandag, og en sesjon med øvrige påmeldte fordrag på onsdag.
+Programkomitéen inviterer herved aktuelle kandidater til å komme med bidrag. Det er
+beregnet 20—25 minutter til hvert foredrag i første kategori, og 30 minutter i den andre.
+
+Påmelding til
+Morten Folkeson
+
+Aktuar Skade H10—7H
+Storebrand Forsikring
+
+Postboks 1380 Vika
+0114 OSLO 1
+
+innen utgangen av februar 1991.
+
+Program for møtet
+
+Mandag
+
+10.06.91
+
+10.00 — 11.15
+
+11.15 — 11.30
+
+Registrering
+
+Åpning av møtet
+
+Hovedtema: Hvordan er statistikernes rolle forandret p.g.a. datamaskinen?
+11.30 — 12.15
+
+Rolf Volden: Om programpakker
+
+12.15 — 12.35
+
+Trond Haider:
+
+14.05 — 14.30
+
+Pause
+
+12.35 — 13.00
+13.00 — 13.45
+13.45 — 14.05
+14.30 —
+
+Diskusjonsinniegg med utgangspunkt i SAS
+
+Pause
+Erik Bølviken: Statistikere i EDB-alderen: Utnytter vi mulighetene?
+Ivar Heuch: Diskusjonsinnlegg
+Sesjon for doktor- og hovedfagsstudenter
+
+Kveldsprogram:
+
+18.00 — 20.00
+20.00 — 22.00
+
+Ti
+
+Hovedmøte i Norsk Statistisk Forening
+Video med Sverdrup
+
+11.06.91
+
+Forsikringsmatematikk
+09.00 — 09.45
+09.45 — 10.30
+10.30 — 10.50
+
+Arild Kristiansen: Om solvens i skadeforsikring
+Knut Aase: Syndikater og prising under usikkerhet
+Pause
+
+
+
+42
+
+Medisinsk statistikk
+10.50 — 11.35
+
+Rolv Skjærven: Medisinsk fødselsregister - en unik kilde for
+epidemiologisk forskning
+
+11.35 — 12.20
+12.20 — 16.00
+
+Leiv Sandvik: Vekselvirkning epidemidlogisk prospektive undersøkel-
+
+ser og kliniske forsøk
+Utflukt på Jeløya
+
+Rom- og tidsvarierende fenomen
+16.00 — 16.45
+16.45 — 17.25
+17.25 — 17.45
+17.45 — 18.25
+
+Knut Solna: : Estimering av loddebestand
+
+Fred Godtliebsen:
+
+bildebehandling.
+
+Bruk av
+
+statistiske
+
+metoder i
+
+medisinsk
+
+Pause
+
+Gudmund Høst: Overvåkning av luftforurensning
+
+Kveldsprogram
+20.00 —
+
+Festmiddag på Refsnes Gods (Andebryst og rødvin?)
+
+Onsdag 12.06.91
+Industristatistikk
+09.00 — 09.45
+
+Jostein Lillestøl: Kvalitet og statistikk
+
+09.45 — 12.00
+12.00 — 12.05
+
+Påmeldte foredrag
+Avslutning
+
+12.05 —
+
+Lunsj
+
+Ny redaksjon i Scandinavian Journal of Statistics
+Formanneni styret for Scandinavian Journal of Statistics (SJS), Niels Keiding,
+har gjort kjent at det er utpekt nye medlemmer i redaksjonen og styret. I brev til
+moderforeningene datert 22. november 1990 beskriver han forholdene slik:
+Den komplicerede valgprocedure for SJS Styrelse og Redaktion 1991-92 er
+
+omsider afsluttet. Resultatet blev, at de svenske og finske medlemmer af såvel
+
+Styrelse som Redaktion blev genvalgt, mens Danmark og Norge har valgt ny national redaktør (Mats Rudemo og Bo Lindqvist afløser Søren Johansen og Tore
+Schweder, som trækker sig tilbage, begge efter mangeårigt virke). Desuden har
+Dag Tjøstheim ønsket at udtræde af Redaktionen ved afslutning af 6 års indsats.
+Styrelsen har for den følgende periode valgt Elja Arjas som redaktør og som nye
+bestyrelsesmedlemmer valgt Per Kragh Andersen (København) og Kjell Doksum
+(Harvard).
+
+
+
+43
+
+Nytt fra universiteter og høyskoler
+NYTT FRA AVD. C
+
+Matematisk institutt, Universitetet i Oslo
+Uteksaminerte cand. scient.
+
+Anders Engeland: 'Sammenligning av metoder for analyse av dyreforsøk.” Veileder: Ørnulf
+Borgan.
+
+Frode Georgsen: ‘A posterior: simulering av segmenterte tidsrekker.’ Veileder: Erik Bølviken.
+Dr. scient.
+
+Gutorm Høgåsen: ‘Multistate fault tree analysis’. Veileder: Bent Natvig. Bedømmelseskomité: Terje Aven, Høgskolesenteret i Rogaland, Petter Bjørstad, Institutt for informatikk,
+Universitetet i Bergen, Bent Natvig, Matematisk institutt, Universitetet i Oslo.
+
+Nyvalg
+
+Erik Torgersen overtar som avdelingsbestyrer og Erik Bølviken som undervisningsleder fra
+1. januar 1991.
+
+NYTT FRA UNIVERSITETET I BERGEN
+Uteksaminert cand. scient.
+
+Håkon K. Gjessing: ‘Some convergence results for Ito diffustons and optimal stopping’.
+Veileder: Jostein Paulsen.
+
+Birgitte Espehaug: ‘En studie av metoder for relativ overlevelsesanalyse”. Veiledere: Geir E.
+Eide og Trygve Nilsen.
+
+Ansettelse
+
+Håkon K. Gjessing er ansatt som NAVF-stipendiat ved Matematisk institutt fra 27. november
+1990.
+
+NYTT FRA UNIVERSITETET I TRONDHEIM
+Uteksaminerte cand. scient.
+
+Solfrid E. Lilleeng: 'Bruk av EDBi statistikkundervisningen’. Veileder: Emil Spjøtvoll.
+Svenn Fjell Olsen: ‘Estimering under ordningsantakelser i Markov-modellen’. Veileder: Bo
+Lindqvist.
+
+Birgit Abelsen: Optimale stopperegler; forslag til stopperegler for delvis spesifiserte og helt
+uspesifiserte fordelinger og en undersøkelse av deres egenskaper ved simuleringer”. Veiledere:
+Steinar Engen og Eva Seim.
+
+Ansettelser
+
+Steinar Engen, Ph.D., er ansatt som professor ved Universitetet i Trondheim fra 1. april
+1990.
+
+Professor
+
+Jan F. Bjørnstad, Ph.D., er ansatt som professor ved Universitetet i Trondheim
+
+fra 1. juli 1990.
+
+Cand. scient. Svenn Fjell Olsen er ansatt som stipendiat fra 15. oktober 1990.
+
+Cand. scient. Birgit Abelsen er ansatt som vitenskapelig assistemt fra 15. oktober 1990.
+Permisjon
+
+Førsteamanuensis Eva Seim har permisjon i studieåret 1990-91. Amanuensis Harald Horten
+
+er ansatt som vikar.
+
+
+
+44
+
+Statistisk forening i Bergen
+
+Årsberetning for 1990
+Årsmøtet for 1989 ble holdt 5/12 og møtet godkjente regnskapet og beretningen for 1989.
+Det har ikke vært krevet særskilt kontingent til Statistisk Forening i Bergen, men det
+
+forutsettes at medlemmene betaler årskontingent til Norsk Statistisk Forening.
+Styret for 1990 har hatt følgende sammensetning og funksjon:
+Trygve Nilsen har vært formann og har først og fremst hatt ansvaret for møtenes faglige
+innhold. Rolv Terje Lie har vært sekretær og sørget for å sende ut innkalling til møtene.
+
+Valborg Baste har vært kasserer og Bjørn H. Auestad har som styremedlem blant annet
+sørget for mat og drikke på møtene.
+
+Foreningens arbeid har således hovedsakelig bestått i å avholde de fire årlige møtene. Alle
+møtene har vært holdt på tirsdager og alle i Jahnebakken 6 (Grans hus). De inviterte
+
+forleserne var:
+
+13/3
+
+Stein Emil Vollset: Binomiske konfidensintervall.
+
+24/4
+
+‘Jiri Andel: Statistical analysis of non-negative time series.
+
+30/10
+
+S. Rao Jammalamadaka: Some aspects of directional data.
+
+4/12
+
+Jostein Lillestøl: Splines for statistikere.
+
+Styret vil med dette få takke for en hyggelig periode.
+
+For styret: ANT
+Rolv Terje Lie
+Sekretær
+
+Nytt styre valgt for 1991
+
+Trygve Nilsen, formann
+Valborg Baste, kasserer
+Grethe Albrektsen, sekretær
+
+Jan-Harald Aarseth, styremedlem
+
+Statistisk forening i Trondheim
+Nytt styre valgt for 1991.
+Per Hokstad, SINTEF, formann
+Steinar Engen, AVH
+Fred Godtliebsen, NTH
+
+Randi Hammervold, TØH
+
+
+
+Tilfeldig Gang er blitt bedt om å ta inn
+en annonsering av “Svenska Statistikersamfundets Sommarskola 1991”. Sekretæren
+i foreningen, Lena Zetterquist, skriver:
+*I mån av plats kan vi åven ta emot deltagare från övriga nordiska lånder.”
+
+Anpassning av funktioner år ett problem som uppkommer inom de
+
+flesta områden. Under de senaste åren har en snabb utveckling skett
+vad det gåller ickeparametriska och semiparametriska tekniker för bl.a.
+utjåmningar, tåthets- och regressionskattningar. Sommarskolan kommer att spegla något av denna spånnande utveckling.
+
+Den som år intresserad av en låttlåst introduktion till området rekommenderas att låsa ”Density Estimation for Statistics and Data Analy-
+
+sis” av B.W. Silverman (Chapman and Hall, 1986)
+
+E;
+AISTIK
+
+gr
+
+ay
+
+b>,
+Å
+“Ay,
+
+4,6
+
+g
+a
+
+8
+
+3
+Preliminårt program:
+
+%
+
+4
+
+$
+
+Statinticn\ we Svenska Statistikersainfundets
+SOMMARSKOLA 1991
+behandlar
+
+” Nonparametric and semiparametric
+
+Steve Marron (Chapel Hill, University of North Carolina): ”Nonparametric Curve Estimation”.
+
+Steve kommer att behandla bl.a. skattningar av tåthets- och regressionsfunktioner, kårnskattningar, val av bandbredd och kårna, korsvalidering och censurering, (8-10 timmar).
+
+curve estimation”
+
+Kjell Doksum (Harvard and Berkeley): ”Graphical Statistical Inference”, dvs ickeparametriska och semiparametriska tekniker för estima-
+
+den 10 - 14 juni 1991 i
+
+tion av funktioner, (8-10 timmar).
+
+Breanås
+
+vid sjön Immeln i nordöstra Skåne
+
+Mats Rudemo (Den Kgl Veterinær- og Landbohøjskole, Köpenhamn):
+”Nonparametric and Semiparametric Methods in Image Analysis”, (ca
+4 timmar).
+
+Doktorander och andra deltagare år givetvis mycket vålkomna med
+egna bidrag.
+
+”Sunda ickeparametriska idéer i en sund kropp”
+
+I Breanås finns rika möjligheter till friluftsliv för den som vill; bad och
+fiske i Immeln och vandringar på den nårbelågna Skåneleden. Framför
+
+allt ar det kanotpaddling som lockar - sjösystemet Halen - Raslången
+- Immeln år ett av södra Sveriges båsta kanotvatten.
+
+Sommarskolan startar på morgonen måndagen den 10 juni, avslutas
+på eftermiddagen fredagen den 14 juni. Antalet förelåsningstimmar
+blir ca 25-30. Ett antal persondatorer kommer att finnas tillgångliga
+för demonstration och egna experiment.
+
+Onsdag kvåll njuter vi av en båttur och en god middag på kryssningsfartyget M/S ”Immeln”. Då besöker vi också Harry Martinsons
+födelsehemm i Nyteboda vid Immelns norra spets.
+
+Inkvartering sker i dubbelrum på konferenshotellet Breanås i nåra
+anslutning till förelåsningssalarna.
+
+Antalet konferensdeltagare år begrånsat till ca 60 st.
+
+Konferensavgiften år ånnu inte beståmd. Vi hoppas att kostnader
+för förelåsarna kan tåckas av externa medel. Eventuellt kommer priset
+att bli differentierat med en lågre kostnad för doktorander. Kostnaden
+för helpension på Breanås (inklusive båtutflykt) år ca 4 kkr.
+
+Vidare upplysningar ges av Ulla Holst och Lena Zetterqvist.
+
+Adress: Institutionen för matematisk statistik, Box 118, 221 00 Lund.
+
+Tel: 046 - 10 85 49 (Ulla) och 046 - 10 48 03 (Lena)
+
+e-mail; Ulla.HolstÉmatstat.lu.se och Lena. Zetterqvist Ématstat.lu.se
+Telefax: 046 - 10 46 23
+
+Sista anmålningsdag år 1 april 1991 men gör gårna en tidig intresseanmålan.
+
+Anmålan görs till Lena Zetterqvist; Svenska Statistikersamfundet; c/o
+Inst. f. matematisk statistik; Box 118; 221 00 Lund
+
+
+
+46
+
+NORSK FORENING FOR EPIDEMIOLOGI
+
+vil arrangere den første norske epidemiologikonferansen 23 og 24 mai 1991 i Bergen.
+Medlemsskap i foreningen kan tegnes ved å betale 200 kr til
+Norsk forening for epidemiologi
+Institutt for samfunnsmedisinske fag
+Eirik Jarlsgate 10
+7030 Trondheim
+
+postgirokonto 0824 0554985
+
+FORELØPIG PROGRAM FOR
+
+INVITASJON
+
+DEN FØRSTE NORSKE EPIDEMIOLOGI-KONFERANSEN
+
+Vi har gleden av å invitere til Den første norske epidemiologi-
+
+ARRANGERT AV NORSK FORENING FOR EPIDEMIOLOGI
+
+konferansen i Bergen, 23. og 24. mai 1991.
+
+Norsk forening for epidemiologi ble stifteti Bergen i mai 1990. Styret som
+ble valgt på stiftelsesmøtet, ser det som sin viktigste oppgave å etablere en
+
+Torsdag 23. mai 1991
+
+faglig møteplass for epidemiologeri Norge.
+
+For å få i gang en faglig diskusjon, inviterer vi i år alle interesserte til å
+
+1000 . 4400
+
+Registrering og kaffe
+
+Vi håper derfor at så
+
+1100. 4405
+
+Åpning
+
+mange som mulig vil benytte denne muligheten til å utveksle erfaringer og dele
+
+1105. 4450
+
+Prof. Jussi Huttunen, The National Public Health Institute,
+
+presentere egne prosjekt og resultater. Konferansen er dermed avhengig av
+mengden og kvaliteten på deltakernes innsendte bidrag.
+
+sine resultater med kolleger. De innsendte arbeidene, som vi ikke legger noen
+
+Finland: Possible explanations for the rise and fall of the
+
+tematiske restriksjoner på, vil bli trykket i et eget hefte og foreligge ved
+konferansens begynnelse.
+nøye.
+
+På slutten av 2. dag vil det bli avholdt årsmøte i Norsk forening for
+epidemiologi.
+
+Professor Jussi Huttunen, direktør ved Folkehelseinstituttet i Helsinki
+holder åpningsforedraget hvor han vil diskutere utviklingen av hjerte-kar
+epidemien i Finland.
+
+cardiovascular disease epidemic in Finland.
+
+Vennligst følg veiledningen for SAMMENDRAG
+
+1200 . 1300
+
+Sesjoner basert på innsendte foredrag
+
+1300 . 1400
+
+Lunsj
+
+1400 . 1545
+
+Sesjoner basert pa innsendte foredrag
+
+1600 - 1800
+
+Paneldebatt: Skal vi i fellesskap satse på en omfattende
+
+Professor Elizabeth Barrett-Connor, University of
+
+prospektiv studie av årsakene til kroniske sykdommer?
+
+California at San Diego vil holde det andre hovedforedraget på konferansen.
+
+Innledere: Prof. Leiv S. Bakketeig og førsteamanuensis
+
+Tema for hennes innlegg er nyere viten om kolesterol og hjerte- karsykdom.
+
+Gunnar Kvåle
+
+For deltakere med interesse for infeksjonsepidemiologi har vi gleden av
+
+å meddele at Avdeling for forebyggende infeksjonsmedisin, Bergen kommune,
+arrangerer et en-dags seminar onsdag 22. mai. Tema for møtet er salmonella-
+
+2000
+
+Festmiddag
+
+og streptokokk-infeksjoner. Detaljert program blir sendt ut seinere.
+
+Fredag 24. mai 1991
+Velkommen til Bergen!
+
+0900 . 0945
+
+Prof. Elizabeth Barrett-Connor, University of California, San
+Diego, U.S.A.: Recent results on cholesterol and
+cardiovascular disease.
+
+Styret i Norsk forening for epidemiologi
+
+FRIST FOR SAMMENDRAG (ABSTRACT):
+
+15. FEBRUAR 1991
+
+FØRSTE FRIST FOR PÅMELDING: 15. FEBRUAR 1991
+
+1000 . 1230
+
+Sesjoner basert på innsendte foredrag
+
+1230 . 1330
+
+Lunsj
+
+1330 - 1500
+
+Sesjoner basert på innsendte foredrag
+
+1515 . 1700
+
+Årsmøte i Norsk forening for epidemiologi
+
+
+
+47
+
+Medlemskap i Norsk Statistisk Forening
+Kontingenten i foreningen er på kr. 90 pr. år for regulære medlemmer og kr. 30 for studenter. Korrespondanse om medlemskap og innbetaling av kontingent skal skje til foreningens
+kasserer:
+
+Norsk Statistisk Forening v/John Sølve Tyssedal
+Institutt for matematiske fag
+
+Norges Tekniske Høgskole
+7034 Trondheim-NTH
+
+Innbetalinger skal gjøres på foreningens postgirokonto 5 15 10 55. Medlemmer som er usikre
+på når de betalte kontingent sist, vil nederst til høyre på adresseseddelen for Tilfeldig Gang
+finne angitt hvilket år siste betaling er registrert for. Vær imidlertid oppmerksom på at
+adressesedlene for bladet ligger noe etter ajourføringen av medlemsregisteret, slik at nylig
+
+foretatte innbetalinger ikke vil være tatt med her.
+
+Nye medlemmer melder seg til kassereren under adressen oppgitt ovenfor. Slike medlemmer får automatisk tilsendt Tilfeldig Gang, med forbehold om at det tar noe tid før tilføyelser
+og forandringer i medlemsregisteret gjenspeiler seg i adressesedlene til bladet. Adresseforandringer meldes også til kassereren. Ved utsendelsen av Tilfeldig Gang benyttes det kopier
+av det vanlige medlemsregisteret, så adresseforandringer behøver ikke meldes separat til
+bladet.
+
+Annen korrespondanse med foreningen skal foregå med formannen under denne adressen:
+Norsk Statistisk Forening v / Bent Natvig
+Matematisk institutt
+
+Universitetet i Oslo
+Postboks 1053, Blindern
+
+0316 Oslo 3
+
+Bidrag til Tilfeldig Gang
+
+Neste nummer av Tilfeldig Gang vil forhåpentligvis komme ut i april 1991. Alle slags bidrag
+til bladet er velkommen, enten det gjelder nye temaer av interesse for norske statistikere,
+eller man har kommentarer til innlegg som allerede har stått i i bladet. Stoff til neste
+nummer må være redaktøren i hende senest 3. april. Det kan gjerne sendes som ASCII-filer,
+eventuelt tilpasset TpX, på diskett eller med elektronisk post. Redaktørens adresse er:
+Tilfeldig Gang v/Ivar Heuch
+Matematisk institutt
+Universitetet i Bergen
+
+Allégt. 55
+5007 Bergen
+
+Elektronisk post:
+
+heuch@mi.uib.no (internet)
+nmaih@nobergen (bitnet)
+
+Telefonnummer:
+
+(05) 21 28 35 (direkte)
+(05) 21 28 38 (instituttkontoret)
+
+
+
+
+
+PA
+
+a
+
+i
+
+Returadresse:
+
+Å _ ., Tilfeldig Gang v/Ivar Heuch
+
+Sr —
+\
+
+Matematisk institutt
+
+/
+
+SV 3 Universitetet i Bergen
+.
+
+på
+
+LJ { { lallégt. 55
+
+\ Å \ \ 5007 Bergen
+
+
+

@@ -1,0 +1,1178 @@
+ISSN 0803-8953
+
+TILFELDIG GANG
+Nr. 1, årgang 20
+Februar 2003
+
+Utgitt av Norsk Statistisk Forening
+
+Frå redaktøren John Tyssedal. NE
+
+Frå leiara
+
+NSF Andrée Teigland SSS:
+
+Arnljot Høyland til minne
+
+Fagleg stoff
+Om bruk av prosjektarbeid i undervisningi statistikk. John Tyssedal
+Milepælar
+
+Tore Schweder 60 år
+Per Christian Hagen-50 år
+Nils Lid Hjort 50 år
+Puslerispalten
+Pusterinr. 12. Josten Eillestøk
+
+0 gre
+
+Løysmgav puslerinr. 11: Jostemn:Eillestøl su
+
+Konferansar, meldingar og anna
+Det 12. Norske Statistikermøte ved Hurdalsjøen, 16-18. juni 2003. Påmelding.
+International Biometric Society, Uppsala 12-14. Juni 2003. ....................4.
+
+Nyttfrå Universitetet Oslo: SSN
+NNN NNN
+Medlemskap
+
+Norsk statistisk forening. SSS:
+
+
+
+
+
+Redaksjon:
+
+John Tyssedal (redaktør)
+Bo Lindqvist
+
+Stian Lydersen
+Henning Omre
+
+Inge Olsen
+
+Adresse til redaksjonen:
+
+John Tyssedal
+Institutt for matematiske fag, NTNU
+Alfred Getz vei 1
+7491 Trondheim
+
+Tlf: 73 59 35 34
+Fax: 73 59 35 24
+e-post :
+tyssedal
+O
+stat.ntnu.no
+
+Trykking og utsending av TG blir utført av
+
+Statistisk Sentralbyrå.
+Bidrag til Tilfeldig Gang:
+Alle slags bidrag til bladet er velkomne, anten det gjeld nye tema av interesse for norske
+
+statistikarar eller ein har kommentarar til innlegg som alt står i bladet. Stoff til neste
+nummer må vere redaksjonen i hende innan 01.05.2003.
+
+Det greiaste er at stoffet blir sendt inn som Word-fil (Word 97 eller lågare versjon) til epost adressa til redaktøren, sjå ovanfor. Andre typar format vil og normalt bli akseptert.
+Nettversjon av TG, er å finne på følgjande internettadresse:
+www.math.uio.no/nsf/web/index.htm . Dei som leverer bidrag til TG og som ynskjer å
+
+reservere seg mot at bidraget blir lagt ut på nettet, må gje beskjed om dette ved
+
+innsending av stoff.
+
+NSF har og si eiga mailingliste, nsf- forum OGmath.uio.no. Informasjon finst pa
+
+Nsf-forum Info Page, internettadresse: www.math.uio.no/nsf/ . Der får du og vite korleis
+du kan melde deg på.
+
+
+
+Frå redaktøren
+
+Med bortgangen til Arnljot Høyland har norsk statistikk mista to store profilar i året som
+gjekk. Emil Spjøtvoll vil bli hugsa som høgt respektert fagmann og samfunnsbyggjar. Arnljot
+
+på si side må reknast som
+statistikar har vore
+
+far til statistikk miljøet i Trondheim. Heile virket hans som
+
+prega av framsynt satsing og målbevisst profilering av statistikkfaget.
+
+Som gruppeleiar i statistikk ved NTNU er det ikkje vanskeleg å sjå kor stor betydning denne
+
+innsatsen har hatt. Ikkje berre når det gjeld utdanning av statistikarar og forskning i faget, men
+
+og når det gjeld å få fram nytteverdien av faget til ikkje akademiske miljø. Vi som skal bere
+arven vidare, har eit stort ansvar.
+
+16.-18. juni er det tid for norsk statistikarmøte i Hurdal. Lenger bak i bladet finn de adressa til
+nettsida for konferansen. Via den har ein og høve til å melde seg på. Programkomiteen har
+lagt opp til eit godt og variert program. Sjølv meiner eg at desse møta er noko av dei
+hyggelegaste og mest sosiale faglege stormønstringar ein kan delta på. Med tanke på framtida
+
+til faget er det viktig å få med seg unge potensielle statistikarar dit. I år som tidlegare er det
+
+rom for å søke Norsk statistisk forening om reisestøtte til studentar.
+
+Redaktøren innrømmer at han slit med med å få tak i nok stoff til TG. Detté kan skuldast at
+det skjer lite i norsk statistikk for tida, men det kan og skuldast at det skjer så mykje at tida
+blir for knapp til å skrive det saman til eit TG innlegg. Eg vonar det siste og tek imot med
+
+åpne armar det som ikkje rakk frami tide til dette nummeret.
+
+John Tyssedal
+
+
+
+Kjære medlemmer!
+
+Har dere tenkt over hvor ofte statistikk berører folk flest i vår hverdag?
+
+Meningsmålinger er vel det vi oftest hører om. At det er usikkerhetsmarginer i slike
+målinger hører vi mindre om, med unntak av når en stakkars partileder forklarer
+
+hvorfor deres partis oppslutning har blitt lavere... "Ring-inn-og-stem" har også blitt
+veldig populært. 85% synes Carl I. Hagen er kul. 71% synes Solskjær var best. 97%
+synes politikerne er dumme når de kutter i et eller annet tilbud (uansett hvilket...).
+
+Riktignok tas det forbehold om at disse målingene ikke er "vitenskapelig korrekte",
+men at folkemeningen godt kan være 90/10 selv om innringningen gir resultatet
+
+10/90, det er det nok få som erkjenner.
+Risiko er et annet begrep det kan være vanskelig å forstå. I min hjemkommune fant
+politikerne for et par år siden ut at det ville være lurt å få høyere forventet avkastning
+på kommunens penger. Ved å plassere pengenei aksjer ville de få forventet
+avkastning på 12% istedenfori banken 6%. Riktignok var risikoen høyere på
+aksjemarkedet, men likevel. Hva høyere risiko faktisk betyr tror jeg neppe hverken de
+eller mange andre var klar over. Når du i utgangspunktet har nok penger til å dekke
+goder vi er avhengig av kan en forventet avkastning på 6% med la oss si min. 4% og
+
+max. 8%, kanskje være smartere enn en forventning på 12% med min. -25% og max
++30%? Hos oss endte det med nedleggelse av barneskoler.
+
+Lørdag så jeg på "Hodejegerne" på TV sammen med mine barn. Det oppgis 6 yrker
+og i studio kommer 6 personer. Ved hjelp av spørsmål og praktiske oppgaver skal to
+lag finne ut hvilken person som har hvilket yrke. Bayesiansk statistikk i praksis! Hver
+av de 6 har apriori-sannsynlighet 1/6 for å ha hvert av yrkene (nå må det sies at mine
+
+fordommer basert på utseende og klær forbløffende ofte stemmer, så apriorisannsynlighetene skal muligens skrus på med en gang personene kommer inn i
+studio...). Så kommer det morsomme; én deltager testes i et yrke. Og publikum skal
+trykke på en knapp om de tror vedkommende faktisk har dette yrket. Gjør
+vedkommende det halvbra tror 50% at vedkommende har yrket. Og omtrent uansett
+hvor lite peiling vedkommende har så er det svært sjelden at færre enn 1/6 tror
+
+vedkommende har yrket han/hun testes i. Har apriori-sannsynligheten blitt borte?
+
+Eller går publikum et skritt kortere slik at lagene bør multiplisere med apriorisannsyligheten? Eller er det kollektiv psykologi inne i bildet - folk bare elsker å
+
+trykke på knappen!? Mine barn tror det siste...
+Dette kan vi jo diskutere videre på Hurdalsjøen hotell 16.-18 juni. Da går det 12.
+norske Statistikermøtet av stabelen. Jeg kan love et utmerket arrangement med et
+
+spennende program. Håper å se flest mulig av dere da!
+
+André Teigland
+
+
+
+Arnljot Høyland til minne
+
+Arnljot Høyland, professor emeritus ved Institutt for matematiske fag, NTNU, gikk bort lørdag
+
+den 21. desember, i en alder av 78 år. Med ham har vi mistet en kjær kollega og en god venn.
+Selv om han offisielt ble pensjonist i 1994, var han aktiv deltager i vårt fagmiljø inntil han i
+senere tid ble svekket av sykdom.
+Fagfeltet til Arnljot Høyland var matematisk statistikk. Han var en meget anerkjent fagperson,
+nasjonalt så vel som internasjonalt.
+
+I Norge var han sentral i oppbyggingen av statistikk som
+
+universitetsfag, blant annet som forfatter av flere lærebøker. Utenfor fagmiljøet er han nok best
+kjent for å ha komponert melodien til Alf Prøysens "Julekveldsvise".
+Høyland tok artium i 1943. Etter krigen begynte han å studere matematikk ved Universitetet i
+Oslo. I forbindelse med verneplikten i 1946-47 kom han i kontakt med Etterretningsavdelingen
+
+ved Forsvarets Overkommando. Her ble han i 1948 utnevnt til kaptein, med oppgave å bygge opp
+en analyseavdeling bestående av matematikere og språkfolk. I analyseavdelingen oppsto behovet
+for å lære statistikk. Høylands matematikkstudier ved universitetet, som han til dels gjennomførte
+ved siden av stillingen i forsvaret, kom derfor til å ha et sterkt innslag av matematisk statistikk.
+
+Han fullførte cand.real. graden i 1952.
+Høyland sluttet i Forsvaret i
+
+1954, med majors grad. Han gikk da inn i en stilling som
+
+vitenskapelig assistent ved Universitetet i Oslo. Her fikk han en viktig rolle i etableringen av det
+nye
+
+statistikkfaget.
+
+I
+
+1957
+
+dro han
+
+til
+
+University
+
+of California,
+
+Berkeley,
+
+for
+
+å
+
+starte
+
+doktorgradsstudier. Han tok Ph.D. graden i 1963. Siden ble han en viktig kontaktperson for andre
+
+unge nordmenn som ønsket å starte doktorgradsstudium i USA.
+Høyland var universitetslektor ved Universitetet i Oslo fra 1959 til 1965. I 1965 ble han ansatt
+som dosent og senere professor i matematisk statistikk ved NTH i Trondheim. Her var han
+
+professor til 1990 og deretter seniorforsker til han fylte 70 år i 1994. Høyland var den første som
+
+ble ansatt i statistikk ved NTH. Etter iherdig innsats fikk han gjennomslag for et eget statistikkfag
+på alle NTHs ingeniøravdelinger. I denne tiden hadde han stor hjelp av sin kone Liv, som ble
+ansatt som universitetslektor i matematisk statistikk ved NTH i 1968. Sammen bidro de til at
+statistikk
+
+ble
+
+ansett
+
+som
+
+et
+
+viktig
+
+fag
+
+i
+
+sivilingeniørutdanningen.
+
+Høylands
+
+bøker
+
+om
+
+"Sannsynlighetsregning og Statistisk Metodelære" var i over 20 år pensumlitteratur for studentene
+ved NTH.
+
+
+
+Høyland var opptatt av å formidle nytten av statistikkfaget til andre miljø. Gjennom sin kontakt
+med statistikkmiljøet i Berkeley ble han midt på 70-tallet kjent med fagfeltet pålitelighetsanalyse.
+Han tok initiativ til å sette i gang undervisning i faget på NTH og spilte siden en sentral rolle i
+
+utviklingen av pålitelighets- og sikkerhetsfaget ved NTH og SINTEF. Han er medforfatter av en
+
+internasjonal lærebok i pålitelighetsanalyse. Etter et utenlandsoppholdi Madison sent på 80-tallet
+
+var han sammen med Liv en aktiv formidler av de nye tanker om statistikkfagets bruk innenfor
+kvalitetsutvikling og -forbedring, gjennom foredrag og etterutdanningskurs.
+
+Som et resultat av sine mange initiativ kunne Høyland glede seg over at statistikkgruppen ved
+NTH/NTNU vokste frem til en anselig størrelse i nasjonal sammenheng og at statistikk ble et
+populært fag for studenter som skulle velge område for hovedoppgaver. For sitt arbeid med
+
+utbredelse av statistikkfaget, både i undervisning og i industri, ble Høyland utnevnt til ridder av
+
+St. Olavs Orden i 1996. Han var innvalgt medlem av Norges Tekniske Vitenskapsakademi, Det
+
+Kgl.
+
+Norske
+
+Videnskabers
+
+Selskab og International Statistical Institute.
+
+Han
+
+var dessuten
+
+æresmedlem i Norsk Statistisk Forening, hvor han også var formann fra 1995 til 1997.
+
+*
+
+Høyland var kjent for sitt gode humør og sin musikalitet. På instituttet ved NTH framsto han fra
+
+første stund som en miljøskaper. Sammen med Liv arrangerte han ofte hyggelige sammenkomster
+
+for kolleger hjemme på Jakobsli, eller de to inviterte til hytteturer på sin koselige hytte ved
+Meråker. Mange statistikere fra inn- og utland fikk her oppleve flott norsk fjellnatur sammen med
+Liv og Arnljot. De to anså slike sosiale aktiviteter som en meget viktig del av et institutts
+virksomhet.
+
+For oss som har kjent Amljot gjennom en årrekke, knyttes det et sterkt savn og sorg til hans
+bortgang. Men for alltid vil det være de mange gode minner vi vil bringe med oss videre. Vi er
+alle takknemlige for at vi fikk anledning til å bli kjent med et så fint menneske.
+
+Kolleger ved gruppe for statistikk, NTNU.
+
+
+
+Om bruk av prosjektarbeid i undervisningi statistikk
+I desse tider er det kanskje nokon rundt om kring på universitet og høgskolar som funderer på
+korleis ein skal omsetje kvalitetsreforma i praksis. Midtsemesterevaluering skal inn. Den kan
+
+føregå på fleire vis og prosjektarbeid er berre eit alternativ. Ved Institutt for matematiske fag,
+gruppe for statistikk, NTNU, har vi relativ lang erfaring i bruk av prosjektarbeid, eller teljande
+øvingar som det heiter omsett til studieplanbok terminologi. I fjerde klasse på studieretningen
+for Industriell matematikk har 4 av 7 statistikkfag teljande øvingar som tel frå 20% til 30 % av
+eksamenskarakteren. Desse øvingane er organiserte på forskjellig vis og er blitt til uavhengig
+av kvalitetsreforma og vil venteleg fortsetje uavhengig av denne. Så den eigenlege grunnen til
+
+at eg skriv, er at under skrivepulten ligg det ein liten skatt, to kartongar med interessann og til
+tider svært fornøyeleg statistisk litteratur. Det er obligatorisk teljande øvingar i faget
+Forsøksplanlegging, som seinare har blitt utvida med regresjonsanalyse, prosesskontroll, og
+kontingenstabellar med meir og fått namnet Industriell statistikk. Faget utgjer 2.5 vekt-tal og
+
+er obligatorisk i 3. klasse på studieretningen for Industriell matematikk. Vi tilbyr to variantar
+av faget. Ein haustvariant for våre eigne studentar og ein vårvariant for studentar på andre
+
+fakultet. Vårvarianten er meint å vere mindre teoretisk. Totalt samlar desse kursa nære innpå
+
+100 studentar årleg.
+
+Oppgåva som studentane får å utføre er formulert slik:
+Utfør eit fleirfaktorforsøk der målet er å bestemme kva innverknad dei forskjellige faktörane
+har på ein respons. Du vel sjølv kva slags forsøk du vil gjennomføre. Det kan være eit
+laboratorieforsøk eller henta frå eit problem i det daglege liv.
+
+Oppgåva blir delt ut om lag midt i kurset.
+
+variansanalyse
+
+og
+
+2*
+
+forsøk
+
+og
+
+Då har studentane
+
+er konfrontert med
+
+tankar
+
+hatt noko regresjon,
+
+vedrørande
+
+industriell
+
+forsøksplanlegging. Ynskjer studentane å gjere ei anna oppgåve, får dei lov til det etter
+godkjenning frå faglærar. Typisk har nokre studentar utført spørjeundersøkingar i
+prosjektarbeid i andre fag og vil gjerne gjere ei betre analyse av desse. Andre, gjerne
+doktorgradsstudentar, arbeider med problemstillingar som krev statistisk analyse i
+avhandlinga si. Innleveringsfrist er normalt sett til ei veke før siste førelesingsdag. Samarbeid
+er tillate, men helst skal ikkje meir enn to studentar arbeide saman, og vi forventar meir av
+
+oppgåva dess fleire som samarbeider.
+
+Så kva skjer? Endar alle opp med å måle koketid for vatn med og utan lokk, med og utan salt i
+
+to typar kjelar? Nei, langt ifrå. Kreativiteten er stor, men så kan og 2* forsøk brukast på dei
+fleste problemstillingar som måtte interessere ein student.
+
+For dei som ikkje er heilt fortrulege med kva slike forsøk inneberer skal vi ta eit enkelt
+eksempel.
+Ein skiskyttar er interessert i å teste ut korleis følgjande faktorar påverkar skyteresultatet i
+
+ståande skiskyting.
+
+Faktor 1: Bruk av bæresele (strikk) som armreim
+Faktor 2: Høg puls
+
+
+
+Faktor 3: Skyting mot ein blink eller mot 5 forskjellige blinkar.
+
+Det skulle vere unødvendig å motivere for faktor 2. Når det gjeld faktor 1, hadde skiskyttaren
+ei hypotese om at det var best å bruke armreim med normal puls, men at det var best å la det
+vere med høg puls. I så fall skulle det kome til syne som eit samspel mellom faktor 1 og
+faktor 2. Sjølv brukte han alltid armreim.
+
+Den tredje faktoren var med fordi mykje av
+
+skytetreninga om sommaren føregjekk som 5 skot mot ein blink, og det kunne vere at det
+
+burde vektleggjast meir å trene på forflytting av siktet.
+Det var naturleg å legge opp forsøket med to nivå for kvar faktor. Merka med (-1) og (1) var
+desse:
+
+Strikk: (-1) Utan strikk
+(1) Med strikk
+
+Puls:
+
+(-1) Normal puls
+(1) Med pulsbelastning
+
+Blink: (-1) Skyting mot 5 blinkar
+(1) Skyting mot 1 blink
+
+Dette gjev i alt 8 mogelege nivåkombinasjonar 4 teste ut som synt nedanfor:
+
+Strikk
+
+Puls
+
+Blink
+
+-1
+
+-1
+
+-1
+
+1
+
+-1
+
+-1
+
+-1
+
+1
+
+-1
+
+1
+
+1
+
+-1
+
+-1
+
+-1
+
+1
+
+1
+
+-1
+
+1
+
+-1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Av desse 3 kolonnene kan ein lage 3 nye kolonner ved 4 ta alle rekkjevise produkt av 2
+kolonner. Desse kallast tofaktorsamspelskolonner. Det kan lagast ei kolonne til som er det
+rekkjevise produktet av alle 3, trefaktorsamspelskolonna. Saman med ei kolonne der alle tal er
+
+
+
+1, gjev dette ei 8x8 designmatrise og estimering og hypotesetesting kan gjerast innanfor
+rammeverket av lineære modellar med ortogonal designmatrise.
+Som venta hadde høg puls innverknad på skyteresultatet, og utover det kom det fram
+
+indikasjonar på at fleire av hypotesene som skiskyttaren hadde burde undersøkjast nærare. Alt
+dette i tråd med den iterative læringsprosessen som det er lagt opp til innanfor klassisk
+forsøksplanlegging. Utover det, vil eg ikkje røpe meir enn at vedkomande skiskyttar seinare
+
+har blitt olympisk mester 2 gonger.
+
+Frå sportsfronten kan eg lese vidare om korleis treffsikkerheit i basketball avheng av avstand,
+skotretning, balltype, hoppskot, hoppskot med rørsle og baneside. Eit slikt forsøk krev mange
+gjentak og eksperimentatoren må vurdere om han kun skal gjere ein fraksjon av det
+fullstendige forsøket med alle 64 nivåkombinasjonar og om blokkdeling er naudsynt. Korleis
+forsøket skal analyserast vil avhenge av korleis det er randomisert.
+Drillo og Semb kunne ha lese om faktorar som påverkar longpasninga og treffsikkerheit mot
+
+forballmålet. Der fann eg ei øving som handlar om glid på ski. Skal tru om dei mange
+gliprosjekt som er utført på langrennssida kunne hatt noko å lære av denne oppgåva, iallfall av
+metodikken?
+
+Vi flyttar oss til kjøkkenet. Pannekaker er normalt enkelt å lage og godt, men nokre
+pannekaker er betre andre. Eg les at egg er bra for smak av pannekakene og at det er eit
+samspel mellom mengda av sukker og mjøltype. Dette smakspanelet som bestod av 4 jenter,
+
+meinte iallfall det. Oppgåva hadde og tittelen: ”Kunsten å sjarmere ei jente med pannekaker”.
+Leitar eg vidare, finn eg utprøving av oppskrifter på pai, bollar, vaflar, muffins samt diverse
+utprøving av smak på te og kakao.
+
+Av andre problemstillingar frå heimen nemnar eg henne som skulle freiste å få barnet sitt til å
+sove natta over. Forsøket tok rimeleg nok lang tid, og ei viss utsetjing av innleveringsfristen
+
+blei innvilga.
+
+Nei, vi utdannar ikkje berre idrettsfolk og huslege gutar og jenter her i Trondheim. Her er
+
+nokre titlar:
+
+e
+
+Ei undersøking av koleis hastigheitskonstanten til reaksjonen mellom 2-kloretanol og
+
+hydroksidioner til eit epoksid er avhengig av reaksjonsbetingelsar.
+
+e
+
+Effekt av substrat og fragmenteringsmetode på regenering av nye skot frå ulike artar
+
+av populasjonar av torvmosar.
+
+¢ Undersøking av reaksjonshastighet i en Sy2-reaksjon mellom 1-brompropan og
+
+* Ei undersøking om innkoding av spatiale lokalisasjonar skjer automatisk.
+
+e Utvikling av fiskefor for bruk til kondisjonering av fisk
+e Behandling av sveis for å unngå utmatting
+
+e Utprøving av styrke på betong
+
+NaOH
+
+
+
+e Optimere bruk av varmepumpe i propan-propen destillasjon
+
+Då vonar eg at eg har synt ei viss spennvidde i bruk av 2* forsøk. Ei slik oppgåve har og eit
+klart læringsmessig mål. For å få gjennomført eit slikt forsøk må ein ta stilling til mange
+problemstillingar som t. d.:
+
+Kva er naturleg å bruke som responsvariabel og korleis skal eg få målt denne?
+Kva faktorar kan ha innverknad på denne responsen?
+
+Kva skal eg velge som —1 nivå og kva skal eg velge som 1 nivå?
+Skal eg gjere alle nivåkombinasjonar, eller kan det vere nok med ein fraksjon
+
+av eit full-faktorielt forsøk og evt. heller gjere gjentak?
+
+Er det naudsynt å blokkdele?
+Kva randomisering er det mogeleg å få til?
+
+Alt dette er spørsmål som ein normalt ikkje støyter på i vanlege øvingsoppgåver basert på
+ferdige innsamla data. Såleis har denne øvinga ein klar læringsverdi som vi vanskeleg kunne
+
+gitt studentane på anna vis.
+
+Eg bør legge til at ideen ikkje er vår, men skriv seg frå eit opplegg i forsøksplanlegging ved
+
+Universitetet i Wisconsin, Madison. Liv Høyland var den første som tok den i bruk i
+øvingsundervisninga i faget Forsøksplanlegging. Over tid har vi funne det føremålstenleg å
+
+gje studentane ein rimeleg stram disposisjon for sjølve rapporten, og lengda av den skal helst
+
+ikkje overstige 10 sider, figurar og utskrifter inkludert. Dette for hindre at nokon legg altfor
+
+mykje arbeid i øvinga og for å lette retting og karaktersetjing. Ein rapport på 40 ustrukturerte
+sider er rimeleg ressurskrevjande å arbeide seg igjennom.
+
+Kva seier så studentane? Dei har obligatoriske øvingar i mange fag, og mange nattetimar kan
+gå med for å rekkje innleveringsfristar. 15 år med nesten same opplegg ser ikkje ut til å ha
+brukt
+
+opp idéen. Evalueringane er positive, og mange
+obligatoriske øvinga som noko av det mest positive ved faget.
+
+John Tyssedal
+
+studentar
+
+trekkjer
+
+fram
+
+den
+
+
+
+Tore Schweder 60 år!
+Det er utrolig at Tore alt er 60 år. Man skal lete lenge etter en like vital og engasjert representant for
+det norske statistikermiljøet. Tore er medlem av Det Norske Videnskapsakademi, og han er sekretær
+
+for Den matematisk-naturvitenskapelige klasse i Akademiet. Men det er ikke den slags formell status
+som faller en i øynene når man ser Tore. Mannen er så mye mer.
+Tore har levd sitt yrkesaktive liv ved universitetene, i Oslo, Berkeley, Tromsø og Oslo på nytt. I
+tillegg har han hatt forskningsoppholdi Bath, i Cambridge og på Stanford, og han har i mange år hatt
+en bistilling ved Norsk Regnesentral. I sin yrkeskarriere har han forfulgt sine mange interesser:
+kausalitet, arkeologi, hvalers bevegelser, legers liv og levnet, likelihoodfunksjoner og mye annet. Tore
+
+har ikke sittet stille på sin tue, men vært borti så mangt og beriket sitt eget liv og andres liv og ikke
+minst de fagfeltene han kommer borti. Han har gjort en stor innsats for Scandinavian Journal of
+Statistics. Tidligere som medredaktør i en årrekke, og i de senere år som leder av tidsskriftets styre.
+Hvalene er en av Tores gamle faglige kjærligheter. I Evans Hall i Berkeley tidlig på 70-tallet strevde
+Tore med sine hvaler. Den gang var de bare punkter i en punktprosess, han hadde knapt sett en hval i
+
+virkeligheten.
+
+Mange år senere ble de langt mer virkelige der Tore stirret utover havet fra
+
+hvalfangstskuta. Vi går litt mer i detaljer om dette store tema i Tores yrkesliv:
+I Berkeley hadde Tore, med David Brillinger som veileder, skrevet avhandlingen "Transformation of
+point processes: Application to Animal Sighting and Catch Problems, with Special Emphasis on
+Whales". Tilbake i Norge ønsket han å anvende metoden på praktisk hvaltelling, men punktprosessteorien ble ingen umiddelbar "hit" blant biologene i forvaltningsmiljøet. Det var ikke før på slutten av
+
+80-tallet,
+
+etter
+
+at
+
+vågehvalbestanden
+
+i
+
+våre
+
+farvann
+
+på
+
+tynt
+
+grunnlag
+
+hadde
+
+blitt
+
+erklært
+
+utrydningstruet, at Tore ble involvert i arbeidet i IWC (den internasjonale hvalfangskomisjonen). Han
+pusset støvet av Berkeley-avhandlingen (som for øvrig var signert av daværende guvernør i California,
+Ronald Reagan) og kastet seg inn i kampen for å framskaffe et realistisk estimat på antall vågehval.
+
+Siden da har Tore fra sin faste plass i IWC’s vitenskapskomité tordnet mot all urett som der måtte
+
+utspille seg.
+I arbeidet med hvaltelling fikk Tore også anvendelse for en annen av sine store faglige interesser,
+nemlig simulert likelihood. Prinsippet her er at det som regel er langt enklere å simulere data (på en
+datamaskin) fra en statistisk modell enn det er å skrive ned et uttrykk for likelihoodfunksjonen. I
+
+kompliserte modeller må man derfor ty til en forenklet/approksimativ likelihood. Den skjevhet
+approksimasjonen innfører, korrigerer man for ved å simulere data fra den kompliserte modellen. Fra
+simulert likelihood gikk Tore videre til konfidensfordelingen, som er en frekventistisk versjon av
+
+Bayesianerenes aposteriori-fordeling.
+Tore lever med sine prosjekter. Samarbeider han med arkeologer så er han ute og graver med skje på
+feltet.
+
+Jobber han med hvaler, så er han ute på havet og tar dem i øyesyn. Samtidig er han teoretikeren
+
+som tenker, og tenker nytt. Hans kausalitetsbegrep, lokal uavhengighet, presenterte han i 1970. Året
+før hadde Granger innført en nyvinning som senere er kalt "Granger causality" og som er et viktig
+begrep i økonometrien og på andre felter. Tores begrep, funnet uavhengig av Granger, er langt på vei
+den samme ideen. Han fant altså opp noe fundamentalt nytt, var litt uheldig med timingen, men Tores
+formulering har vakt en økende interesse i de senere årene. Det er blant annet potensiale i medisinen
+der kausalitet for alvor begynner å komme på moten i så mange slags varianter.
+
+Tore er en engasjert person, og han er ikke redd for å si klart fra mot maktmisbruk både globalt og
+
+lokalt. Han er aktivt med i lokalpolitikken for SV i Sogn bydel i Oslo, og han trives på skiturer i
+Nordmarka og på hytta på Jomfruland med familien. Vi gratulerer med 60-årsdagen som var den 16.
+
+januar, og ønsker jubilanten ennå mange gode yrkesaktive år!
+
+Ørnulf Borgan
+
+Hans Julius Skaug
+
+/0
+
+Odd Aalen
+
+
+
+Per Christian Hagen — 50 år
+Han kan mistenkes for å ha beregnet tidspunktet nøye, tenk å fylle 50 år
+01.02.03! For oss som kjenner ham, er vel dette Per Christian i et
+nøtteskall. Strukturert og nøyaktig — på grensen til det petimeterske -
+
+om det gjelder faget sitt, i undervisningen, i utøvelsen av administrative
+verv i høgskolen eller organisatoriske verv i O-idretten, og ikke minst i
+
+forholdet til bruk og videreutvikling av sine kjære orienteringskart, i
+
+valg og legging av skismurning, samt i oversikten over tilbakelagt antall
+mil i løypene så langt i vinter — somi alle foregående vintre.
+Per Christian er født og oppvokst i Skien. Han tok sin cand.real. eksamen ved Universitetet i
+
+Oslo i 1977 med hovedfag i matematisk statistikk. Veileder var professor Erling Sverdrup, og
+tittelen på hovedoppgaven var ”Estimering av tidsrekke på grunnlag av løpende
+utvalgstellinger”. Deretter sto verneplikt for tur, i hovedsak avtjent ved FFI på Kjeller. Etter
+
+endt tjeneste bar det til Trondheim og undervisningsjobb ved Institutt for matematisk
+
+statistikk, NTH i 1979. Trondheim og NTHI var vel den gang å betrakte som O-sportens
+”Mekka”, så for Per Christian var det meget gode grunner til å takke ja til jobben og dra
+
+nordover. Og mange er de milene han har tilbakelagt i joggesko på kalde trønderske myrer
+sommerstid og på ski i skiftende trøndersk vintervær. Per Christian ble i Trondheim til
+
+utgangen av 1983 og la ned en stor og samvittighetsfull innsats ved instituttet. Men så meldte
+
+nok hjemlengselen seg, for i januar 1984 ble han tilsatt som amanuensis i kvantitative
+metoder/EDB ved det som den gang het Telemark Distriktshøgskole i Bø (en liten times
+
+kjøring fra Skien). Nå er dette en del av Høgskolen i Telemark, og Per Christian er etter hvert
+blitt førsteamanuensis i den eneste rene statistikkstillingen ved hele høgskolen. I 1996 kom
+han med læreboka ”Innføring i sannsynlighetsregning og statistikk”, som han nå driver og
+pusser på 4.utgaven av allerede.
+
+Per Christian har alltid fått de aller beste skussmål fra studentene for sin undervisning. Han
+
+har hatt en rekke verv i høgskolen, som han har skjøttet vel. Han ble raskt etter tilsettingen i
+Bø seksjonsleder for økonomisk-/ administrative fag, og satt som rektor for Telemark
+
+Distriktshøgskole i perioden 1989-91. Han har vært, og er, medlem av styret for Høgskolen i
+Telemark i periodene 1997-2000 og 2000-2003.
+Per Christian er avhengig av sine daglige doser med fysisk fostring — utendørs. Han er fortsatt
+en pasjonert orienteringsløper, og har blant annet lagt sjela si i å bidra til at Bø har stått for
+
+utmerkede gjennomføringer av både Natt-NM i 1996 og NM-uka sammen med Skien i 2002.
+Per Christian er kjent blant mange både innen faget sitt, innen utdanningssektoren og innen O-
+
+idretten. Vi vil alle gratulere ham med jubileet, og har bare en liten detalj å bemerke: Hva
+med de helt konkrete bidragene til rekrutteringen av nye studenter og nye orienteringsløpere?
+Men, han er jo fortsatt bare en ung mann. Faktisk i sin beste alder!
+
+Roy M. Istad og Bo Lindqvist.
+
+/|
+
+
+
+Nils Lid Hjort 50 år
+Den 12. januar fylte Nils Lid Hjort femti år. Nils har vært professor i statistikk ved Matematisk
+institutt, Universitetet i Oslo, siden 1992. Før det jobbet han som vitenskapelig assistent og
+
+førsteamanuensis samme sted, og i seks år som forsker ved Norsk Regnesentral. Jubilanten har en
+allsidig forskerkarriere bak seg, og er ved femtiårsmerket i full aktivitet som internasjonalt
+anerkjent forsker. Hans ekspertise og interesser dekker en rekke felt innen matematisk statistikk, så
+
+som ikkeparametrisk tetthetsestimering og regresjon, generell estimeringsteori, goodness-of-fit,
+ikkeparametrisk Bayesiansk statistikk, overlevelsesanalyse og romlig statistikk.
+Nils har et verdensomspennende nettverk av medforfattere og fag-venner, og beriker stadig miljøet
+ved Avdeling C ved Matematisk institutt med sine besøkende. Nils alene er vert for de fleste av
+
+gjestene våre og gjør en stor innsats for å internasjonalisere avdelingen. Han reiser mye selv også.
+Han har hatt forskningsopphold i Stanford, Oxford og Canberra, og er stadig invitert som
+
+foredragsholder eller foreleser på konferanser og kurs verden over. Nils har vært eller er
+medredaktør i flere tidsskrifter (bl.a. SJS og JRSSB), han har sittet i programkomiteen for en rekke
+internasjonale konferanser og i styret for European Science Foundation-programmet Highly
+Structured Stochastic Systems. I 1999 ble han valgt inn i Vitenskapsakademiet og fikk endelig kjøpt
+seg dress.
+
+Som foreleser har Nils evnen til å hoppe inn i enhver materie, utføre lange regnestykker på tavlen
+uten manus og lage verdens mest originale eksamensoppgaver med mye underfundig tekst. Han
+briljerer i TeX og har stor sans for layout, rettskriving og tegnsetting.
+Jubilanten er et ekte renessansemenneske og besitter en rekke ulike talenter og interesser. Han vet
+
+nesten alt om mye, spesielt om musikk, litteratur og sport. Han er en allsidig musisist, spiller
+blokkfløyte og piano i kammergrupper med venner og synger aktivt i det anerkjente koret Grex
+Vocalis. Nils er dypt og varmt engasjert i skøytesporten, og minst like stolt av å ha bidratt til å
+
+endre reglene for olympiske 500 meter skøyteløp som av alle sine artikler i Annals of Statistics til
+
+sammen. Nevnes må også et lidenskapelig og tidvis profesjonelt forhold til Donald Duck. Aldri har
+
+avdelingens bidrag til instituttets utadvendte virksomhet trukket så mange tilhørere som da Nils
+holdt foredrag om "Matematikk i Andeby". Nils har også rukket å lære seg russisk, går fryktelig
+
+fort og langt på ski og sykler til jobben uansett vær. Og er endatil en ytterst rolig, snill og lyttende
+person, alltid ydmyk og interessert i andres meninger.
+En annen mann med mange talenter, Johann Wolfgang Goethe, sa en gang: "Dette liv, mine herrer,
+
+er for kort for vår sjel". Nils kan nok tidvis plages av motsetningen mellom sitt rike indre og tidens
+
+ytre begrensninger. Noen bunker vokser stadig, noen kolleger gir opp å mase. Men slik er Nils, og
+slik må det være. Vi er stolte og takknemlige over at det var statistikken han valgte som levevei.
+Gratulerer med dagen!
+
+Hilsen kolleger ved Avdeling C
+
+/2
+
+
+
+Pusleri nr. 12
+Et laboratorium skal analysere vannprøver fra n ulike kilder for forurensning. For
+
+å redusere antall analyser som må foretas, tilrettelegges samleprøver (”batcher”)
+bestående av et uttak av vann fra k ulike prøver som blandes. Anta at k er divisor
+i n, eksempelvis dersom det er n=12 kilder, kan en lage 3 samleprøver med
+”blandevann” fra 4 kilder. Først analyseres hver samleprøve, og bare hvis en slik
+er forurenset analyseres vann fra hver av kildene til denne samleprøven.
+
+Hva er den optimale batch-størrelsen k, og hvordan avhenger den av n? Hvor mye
+analysearbeid kan spares? Når er k=1 optimalt, dvs. at man analysere hver av de n
+
+vannprøvene for seg.
+
+Jostein Lillestøl
+Ps. Problemstillingen kan spores tilbake til 1943, og selv om den er brukt
+i Skuamensopppaver
+
+bådei Trondheim og Bergen, fortjener den
+å bli trukket frem her.
+
+/3
+
+
+
+Pusleri nr. 11
+En komite med 2n+1 personer skal treffe en viktig beslutning ved flertallsvedtak.
+
+Anta at de 2n første stemmer uavhengig av hverandre og hver har sannsynlighet p
+for å treffe den (for deg) ”riktige” beslutning. Den siste (som sovnet under møtet)
+kan enten være som de andre eller velge å stemme identisk med sidemannen. Vil
+
+da sjansen for ”riktig” beslutning være uendret, økt eller redusert?
+
+Pusleri nr. 11 (løsning)
+Siden det er majoriteten som bestemmer utfallet, er det bare i situasjonene der de
+2n splitter stemmene likt at stemmegivningen til den sovende personen får
+betydning. Dersom denne stemmer uavhengig av de andre, vil sannsynligheten for
+
+”riktig” beslutning da være p, mens dersom denne stemmer som sidemannen, for
+eksempel til høyre for seg, vil denne sannsynligheten vere 12. Dersom den sovende
+person oppgir sin uavhengighet og stemmer som sidemannen vil derfor sjansen for
+riktig beslutning være uendret når p= %2 , øke nar p<!4 og avta nar p> %.
+Jostein Lillestøl
+
+/7
+
+
+
+Det 12. Norske Statistikermøte
+
+Hurdalsjøen
+16.-18. juni 2003
+Norsk Statistisk Forening avdeling Oslo ønsker velkommen til:
+
+Det 12. Norske Statistikermøte, 16.-18. juni 2003
+
+på Hurdalsjøen Hotell (ca. 25 km nord for Gardermoen).
+
+Påmelding
+Påmeldingsfristen er satt til 1. mai, konferanseavgiften er 750 kr
+Det er allikevel mulig å melde seg på frem til 1.juni, men da øker
+konferanseavgiften til 1000 kr.
+
+Påmeldingen skjer via konferansehjemmesiden
+http: //www.nr.no/sfo/hurdal03
+/
+
+Overnatting pa enkeltrom i hotellet i to døgn, inklusive måltider, koster
+2550 kr. Ytterligere detaljer om prisene (for de som vil dele rom, ikke bo
+
+pa hotell, vil ha ekstra lunsj på onsdag, o.1.) er beskrevet på hjemmesiden.
+
+For studenter (fortrinnsvis hovedfagsstudent) gjelder spesielt gunstige
+
+vilkår:
+=
+
+Konferanseavgiften er pa 300 kr. Søknadsfristen er 20. april.
+
+«
+
+Studenter kan søke om å få dekket støtte til i hovedsak opphold (pa
+
+hotell, inklusive måltider), men også reisekostnader for møtet er det
+
+mulig å få dekket.
+Transport
+
+Det blir gratis fellestransport (buss) fra Oslo via Gardermoen.
+
+
+
+International Biometric Society
+NORDIC REGIONAL CONFERENCE 2003
+Swedish University of Agricultural Sciences,
+Uppsala, Sweden
+June 12- 14
+Pre-conference course June 11
+
+Meir informasjon finn de på heimesida:
+http://www.bi.slu.se/ibs2003.htm
+
+/6
+
+
+
+Nytt fra Universitetet i Oslo
+Matematisk institutt, Avd. C.
+
+Nye Cand.scient.-er
+
+Christian Akselsen: Risk Adjusted Pricing of Corporate Bonus Usin g CAPM
+
+Veileder: Erik Bglviken
+
+Hilde Halvorsen: Application of Survival Time Modelled as First Passage Time in a
+Wiener Process.
+
+Veiledere: Odd Aalen og Sven Ove Samuelsen
+
+Statistical Research Report
+(http://www.math.uio.no/eprint/stat_report/2002/)
+B. Natvig: Reliability Analysis. Encyclopedia of Actuarial Science.
+B. Natvig, H.W.H. Mørch: An application of multistate reliability theory on an
+offshore gas pipeline network.
+
+
+
+.
+
+Nytt fra NTNU
+Institutt for matematiske fag
+
+Gruppe for statistikk
+
+Dr.ing.:
+Helge Langseth forsvarte 18. november 2002 sin avhandling:
+
+”Bayesian Networks with
+
+Applications in Reliability Analysis”.
+Tittel på prøveforelesning: ”The Hammersley-Clifford Theorem and its Impact on Modern
+Statistics”.
+Veiledere: Professor Bo Lindqvist, Institutt for matematiske fag, NTNU og Professor Agnar
+
+Aamodt, Institutt for datateknikk og informasjonsvitenskap, NTNU.
+Komité: Professor Roger M. Cooke, Delft University of Technology, Department of
+
+Mathematics, Delft, Nederland, Associate Professor Kristian G. Olesen, Department of Computer
+
+Science, Aalborg University, Danmark, Professor Håvard Rue, Institutt for matematiske fag,
+NTNU.
+
+Ansettelser:
+Jarle Tufto er ansatt som førsteamanuensis i statistikk fra 01.01.2003.
+Mette Langaas er ansatt som førsteamanuensis i statistikk. Hun tiltrer stillingen 01.01.2004.
+
+Helge Langseth er ansatt som postdoktorstipendiat for perioden 01.02.2003-31.01.2005, i en
+stilling i matematiske fag rettet mot IKT.
+
+Nye doktorgradsstudenter:
+Eirik Mo er ansatt som stipendiat fra 16.09.2002. Prosjekt: "Kaos og stokastisk ikkelineær
+
+dynamikk". Veileder: Arvid Næss.
+
+Solomon Gebrechristos Tedla er ny doktorgradsstudent fra vårsemesteret 2003. Prosjekt:
+”Statistical Linguistics ”. Veileder: Bo Lindqvist.
+
+/8
+
+
+
+Medlemsskap i Norsk Statistisk Forening
+Heimeside for Norsk Statistisk Forening: http://www.math.uio.no/nsf/
+Kontingent:
+
+200 kr/år
+
+50 kr/år for studentar (til og med hovedfag).
+Kontonummer: 0530 2773299
+
+Nummeret som er oppgitt på adresselappen på TG fortel siste år
+kontingenten blei betalt. Ved innbetaling må ein opplyse om endra adresse
+
+(f. eks. endra postnummer).
+Korrespondanse om medlemskap og innbetaling av kontingent skal skje til
+kasserar i foreininga:
+Norsk statistisk forening v/Sigrunn Holbek Sørbye
+Institutt for matematikk og statistikk
+
+Universitetet i Tromsø
+
+9037 Tromsø
+e-post: sigrunn @stat.uit.no
+Nye medlemer melder seg til kasserar og får så automatisk tilsendt Tilfeldig
+
+Gang frå første påfølgjande nummer av.
+E-post adressar:
+Vi ynskjer e-post adressar til alle medlemer i NSF:
+Oppgje e-post adressen på merknadsfeltet på postgiroen, eller send ein epost til
+sigrunn
+O
+stat.uit.no om e-post adresse og evt. adresseforandring.
+Anna korrespondanse med foreininga skal føregå med leiar i foreininga:
+
+André Teigland
+Norsk Regnesentral
+
+Gaustadalleen 23
+P.O. Box 114 Blindern
+
+N-0314 Oslo
+
+ry
+
+
+
+
+
+Norsk Statistisk Forening
+Tlf: 77645504
+
+Fax:77644765
+
+£E-mail:sigrunn@stat.uitno
+
+—Postgirokonto: 0530 2773299
+
+Årskontingent 2003
+’
+
+NAR BETALTE JEG SIST? På adresselappen på TG står det anført siste år vi har mottatt kontingent fra deg. De som ikke
+har betalt for tidligere år kan gjøre dette sammen med kontingenten for år 2003. Dersom du mener betalingsinformasjonen
+ikke stemmer, gi beskjed til sigrunn@stat.uit.no.
+
+Årskontingenten er kr. 200,- for ordinære medlemmer, kr. 50,- for studenter (til og med hovedfag).
+
+Betalingsfrist: 15.april 2003.
+
+NB: Dersom din arbeidsgiver betaler kontingenten, sørg for at navnet ditt kommer med på innbetalingen.
+
+Vi ønsker at vårt medlemsregister skal være oppdatert. Vennligst oppgi evt. ny post/e-post adresse på innbetalingsgiroen
+eller send meg en e-post.
+
+PÅ FORHÅND TAKK!
+
+Vennlig hilsen
+
+Sigrunn Sørbye
+Kasserer NSF
+
+;
+
+Betali
+etalingsinformasjon
+inf:
+j
+
+3E
+
+GIRO
+
+.
+
+Underskrift ved girering
+
+Kontingent NSF 2003
+
+i
+å
+
+L
+
+Betalt av
+
+iv
+
+7
+
+FP
+
+|
+
+15.04.2003
+
+7
+
+=
+“|
+
+NSF v/ Sigrunn Sørbye
+
+‘
+
+Inst. for matematikk og statistikk
+
+i,
+
+Universitetet i Tromsø
+
+L
+
+Kundeidentifikasjon (KID)
+
+1
+
+i
+
+Betalt til
+
+i
+
+2
+5
+
+porns
+i
+fa
+
+9037 Tromse
+
+L
+
+Kroner
+
+Øre
+
+Til konto
+
+<
+
+>
+
+0530 2773299
+
+al
+
+Blankettnummer
+
+<6080840896>
+
+
+
+
+
+
+
+Retur:
+
+Norsk Statistisk
+
+Forening
+
+v/Sigrunn Holbek Sørbye
+
+Institutt for matematikk og statistikk
+Universiteteti Tromsø
+9037 Tromsø
+
+
+

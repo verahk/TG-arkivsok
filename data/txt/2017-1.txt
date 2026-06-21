@@ -1,0 +1,1821 @@
+ISSN 0803-8953
+Tilfeldig gang
+Nr. 1, årgang 34
+Juni 2017
+
+Utgitt av Norsk statistisk forening
+Redaksjonelt
+
+Fra lederen . . . . . . . . . . . . . . . . . . . . . . . . . .
+Frå redaksjonen . . . . . . . . . . . . . . . . . . . . . . .
+
+1
+2
+
+Tankenøtter
+
+Løsning på pusleri nummer 45 . . . . . . . . . . . . . .
+Pusleri nummer 46 . . . . . . . . . . . . . . . . . . . . .
+
+3
+5
+
+En stipendiat forteller
+
+Et hviterussisk møte med Norge . . . . . . . . . . . . .
+
+6
+
+Ny bok
+
+Confidence, Likelihood, Probability; Statistical inference with confidence distributions . . . . . . . . . .
+Bayesianer alltid og overalt? . . . . . . . . . . . . . . . .
+
+9
+13
+
+Metodefag ved NHH de første 50 år
+
+Metodefag ved NHH de første 50 år . . . . . . . . . . .
+
+17
+
+Gratulerer
+
+Sven Ove Samuelsen 60 år . . . . . . . . . . . . . . . . .
+Odd Aalen 70 år . . . . . . . . . . . . . . . . . . . . . . .
+
+25
+26
+
+Nekrologer
+
+Jan Michael Hoem (1939-2017) . . . . . . . . . . . . . .
+Hans Rosling (1948-2017) . . . . . . . . . . . . . . . . .
+
+28
+29
+
+Meldinger
+
+Nytt fra Universitetet i Oslo . . . . . . . . . . . . . . . .
+Nytt fra NTNU . . . . . . . . . . . . . . . . . . . . . . .
+Nytt fra Universitetet i Bergen . . . . . . . . . . . . . .
+Nytt fra Universitetet i Stavanger . . . . . . . . . . . . .
+
+31
+31
+32
+32
+
+Scandinavian Journal of Statistics
+
+Innholdsliste mars 2017 . . . . . . . . . . . . . . . . . .
+
+32
+
+Informasjon
+
+Har du husket å betale kontingenten i år? . . . . . . . .
+
+34
+
+
+
+
+
+redaksjonelt
+Fra lederen
+Jan Terje Kvaløy | Stavanger
+
+o år går fort, og dette blir den siste leder fra mitt tastatur. Det
+har vært en kjekk erfaring å være leder for NSF, og jeg vil takke
+resten av styret (Turid Follestad, Alf Harbitz, Bård Støve og
+Ragnar Bang Huseby) for veldig godt samarbeid. Jeg vil også
+takke TG-redaksjonen (Ingrid Hobæk Haff og Ragnar Hauge)
+for god innsats, og takke alle andre som har hatt verv på vegne
+av NSF denne perioden.
+Et særdeles vellykket statistikermøte er nettopp avholdt i
+Fredrikstad. Møtet bød både på et variert og interessant faglig
+program og hyggelig sosialt samvær. Jeg vil rette en stor takk til
+alle i arrangementskomiteen og programkomiteen for innsatsen
+som ble lagt ned i planlegging og gjennomføring av møtet. En
+nærmere omtale av møtet kommer i neste nummer av TG, men
+jeg vil benytte anledning til å nevne et høydepunkt fra møtet –
+utdelingen av to nye Sverdrup-priser. Prisene gikk til Ørnulf
+Borgan (prisen for fremragende representant for faget) og
+Geir-Arne Fuglstad (prisen for unge forsker med beste artikkel)
+– en stor gratulasjon til begge to!
+Rundt juletider hadde vi en gjennomgang av NSFs arkiv.
+For den historieinteresserte er det mye interessant lesning der,
+og i samarbeid med NR har nå sentrale deler av arkivet blitt
+digitalisert slik at det både er sikret for ettertiden og lettere kan
+gjøres tilgjengelig for interesserte.
+Ett av inntrykkene jeg satt igjen med etter gjennomgangen
+av arkivet er at medlemsutviklingen i foreningen ikke helt
+holder tritt med den jevne økningen i antall aktive statistikere
+her i landet. Det kan selvfølgelig være mange grunner til
+dette, men jeg tror en viktig grunn er at mange, og da spesielt
+nyutdannede statistikere, rett og slett ikke vet om oss. Så dette
+kan være en oppfordring til det nye styret om å jobbe videre
+med rekruttering, meg jeg vil også oppfordre alle andre, og
+spesielt de som er i kontakt med master- og PhD-studenter,
+til å drive litt rekrutteringsarbeid for foreningen. Se mer
+informasjon på medlemskapssiden på foreningen sine nettsider.
+Å drive NSF er en dugnad, og heldigvis har vi mange
+ildsjeler som stiller opp. Jeg vil avslutte med å ønske de som
+tar stafettpinnen videre lykke til. Spesielt vil jeg ønske Marie
+Lilleborge som overtar som leder lykke til! Det nye styret
+består av en blanding av nye og gamle navn, og her vil jeg
+spesielt takke Turid Follestad for at hun tar en periode til som
+kasserer. TG vil de neste to årene bli drevet av en redaksjon fra
+Bergen med Karl Ove Hufthammer som redaktør. Lykke til alle
+1
+
+
+
+sammen!
+Helt til slutt vil jeg ønske alle NSFs medlemmer en riktig
+god sommer!
+
+Frå redaksjonen
+Ragnar Hauge | Oslo
+
+Det er vel berre å innrømma at vi ikkje har lukkast så godt
+med å framskaffa eige stoff til Tilfeldig gang som vi hadde
+ambisjonar om då vi overtok redaksjonen av TG. Då kjem det
+godt med at bladet i stor grad skriv seg sjølv, ved at aktive
+medlemmar sender inn stoff til redaksjonen heilt uoppfordra,
+men veldig kjærkome.
+Det som kanskje ikkje er fullt så bra er at innsendargruppa
+er veldig demografisk fokusert, både når det gjeld kjønn og
+alder. Ein statistikar burde ut frå nokre få sample av TG raskt
+kunne sjå kva verdiar av desse variablane som dominerer. Så
+medan vi absolutt vil oppmoda desse til å halda fram med sine
+viktige bidrag hadde det vore gildt om innsendargruppa kunne
+auka i omfang, og betre representera det som rører seg i norsk
+statistikk.
+For som vi vil få sjå på det komande statistikarmøtet foregår
+det mykje spanande innan norsk statistikk. Og det er flott å
+kunne møtast og fortelja om dette på statistikarmøtet, men
+ein del av dette kunne også bidratt til å gjera TG betre, og
+gi lesarane eit betre perspektiv på kva som rører seg i norsk
+statistikk. Dette gjeld både for dei akademiske og anvendte
+miljøa.
+Så om eg ikkje har fått så mykje anna ut av denne
+redaksjonsperioden vil eg i alle fall prøva å ta med meg
+dette: Når eg har gjort eit stykke statistisk arbeid eg er nøgd
+med, eller snublar over noko interessant, skal eg prøva å
+skriva noko om det til TG. Og av og til skal eg også lukkast.
+Dersom fleire gjer det kan sikkert neste redaksjon klara å auka
+publiseringsfrekvensen.
+
+2
+
+Redaksjon
+Ragnar Hauge (Ragnar.Hauge@nr.no)
+Ingrid Hobæk Haff (ingrihaf@math.uio.no)
+
+
+
+tankenøtter
+Løsning på pusleri nummer 45
+Jostein Lillestøl | Bergen
+
+Oppgaven
+Oppgaven var: I en avstemning mellom to kandidater har A
+fått a stemmer og B fått b stemmer, der a > b. Opptellingen
+foregår ved at en etter en stemme trekkes fra stemmeurnen.
+Hva er sannsynligheten for at kandidat A vil lede opptellingen
+fra begynnelse til slutt?
+
+Løsning
+Svaret er enkelt: ( a − b)/( a + b). Begrunnelsen kan gå slik:
+Den komplementære begivenhet er, når a>b, det samme
+som C=Stemmelikhet før eller senere. Denne kan skrives som
+en disjunkt union C = C A ∪ CB , der C A og CB betyr henholdsvis
+start med A og B, og deretter stemmelikhet før eller senere.
+Vi har derfor P(C ) = P(C A ) + P(CB ). Sannsynligheten for
+start med B er b/( a + b), og da er vi garantert stemmelikhet
+før eller senere, slik at P(CB ) = b/( a + b). Vi skal så vise at
+P(C A ) = P(CB ). Betrakt en vilkårlig C A -rekkefølge. Bytter vi
+om A-stemmer og B-stemmer opp til det punkt stemmelikhet
+opptrer for første gang, får vi en tillatt CB -rekkefølge, siden den
+starter med B og fortsatt vil bestå av a A’er og b B’er. Det samme
+resonnementet kan vi bruke på en vilkårlig CB -rekkefølge,
+slik at til enhver C A -rekkefølge finnes en CB -rekkefølge og
+omvendt. Antall gunstige rekkefølger for C A og CB må derfor
+være det samme, slik at P(C A ) = P(CB ). Vi får derfor den søkte
+sannsynlighet 1 − 2b/( a + b) = ( a − b)/( a + b).
+Problemstillingen fins i Sverdrup: Lov og tilfeldighet
+(bind I), Universitetsforlaget 1964, som den gang var pensum
+i kurset S1 i realfagstudiet og aktuarstudiet. Innføringen
+i sannsynlighet starter på side 7, og problemet kommer
+allerede som Eksempel 4 fem sider senere. Slik regning med
+begivenheter og kombinatorikk, med innlagt bruk av Bertrands
+refleksjonsprinsipp (fra 1887), kan synes krevende som første
+innføring i sannsynlighetsregning. Men slik var det den gang.
+Her er en alternativ løsning: Betrakt et eksempel der
+a + b = 8 med a = 5 og b = 3, og stemmesedlene kom i
+rekkefølgen ABAAABAB. Dette utfallet er her representert
+i en sirkel med start øverst (med urviserne). Sirkelen kan
+samtidig representere a + b = 8 utfall, alt etter hvor en starter
+på sirkelen. Her er startstedet markert med ansikter, smilefjes
+dersom opptellingen er gunstig for at A skal lede hele tiden,
+surfjes dersom den er ugunstig, dvs. B leder eller har oppnådd
+stemmelikhet underveis. Her leder A hele veien i to tilfeller
+3
+
+
+
+av de 8 mulige, slik at sannsynligheten for at A skal lede hele
+tiden, betinget gitt denne sirkelen er 2/8 = 0.25. Det viser seg
+imidlertid at vi får 2/8 uansett hvilken sirkel som kan oppstå.
+Resonnement: Vi vil prøve å telle opp antall gunstige ved å
+fjerne ugunstige. Blant de ugunstige opptellinger er selvsagt
+de som starter med B, og de som starter med AB. Velg en slik
+AB, for eksempel den stiplede i figuren, og se hva som skjer
+dersom de to stemmesedlene fjernes fra opptellingen. Vi vil
+alltid fjerne to surfjes, og får en ny sirkel med 6 ansikter, 4
+surfjes og 2 smilefjes, med korrekt angivelse også i forhold
+til den nye situasjon (sjekk det!). Dette gjentas for den nye
+sirkel, og gjentas helt til det ikke er flere B’er igjen, i alt
+tre ganger. Vi har da fjernet 3 A’er og 3 B’er, og sitter igjen
+med 2 A’er med merkelappen smilefjes. Antall gunstige er
+dermed 5 + 3 − 2x3 = 2. Generelt: Antall gunstige i sirkel S:
+( a + b − 2xb) = a − b uavhengig av S.
+
+4
+
+
+
+Pusleri nummer 46
+Jostein Lillestøl | Bergen
+
+Ved innspillinen av et reality-show for TV er det tre deltakere
+A, B og C som står i fare for å måtte reise hjem. Av disse har C
+oppnådd en bonus, som skal gi en viss fordel i den avsluttende
+konkurransen om hvem av dem som må reise. Konkurransen
+går som etterfølgende dueller slik: I første duell møtes A og B,
+mens C sitter “på vent”. Taperen av duellen er nå i faresonen
+som markeres med et “gult kort”. I andre duell må taperen av
+første duell konkurrere mot C, mens vinneren av første duell
+settes “på vent”, ute av faresonen, dvs. eventuelt gult kort
+inndras. Slik fortsetter vi, duell etter duell, gir taper gult kort
+og setter vinner på vent med eventuelt gult kort inndratt, inntil
+en av de tre har to gule kort, dvs. har to etterfølgende tapte
+dueller. Denne deltaker må så reise hjem. Hvor stor er den
+bonusfordelen som C har fått ved først å sitte på vent, gitt at de
+tre er like gode?
+
+Send svar til Jostein.Lillestol@nhh.no.
+
+5
+
+
+
+en stipendiat forteller
+Et hviterussisk møte med Norge
+Aliaksandr Hubin | Oslo
+
+Hi, my name is Aliaksandr Hubin and I am taking a PhD in
+Statistics at the department of mathematics of the University of
+Oslo. In this article I will try sharing my experience of being a
+foreign postgraduate student in Norway with TG readers.
+Let me first say a few words about my background. I am 26
+years old and I come from Minsk, Belarus. Apparently it was
+the Belarusian State University, where I took my specialist’s
+degree (a 5 years university degree similar to the norwegian
+master’s) in applied mathematics and computer science.
+There I have gotten a solid and rather broad mathematical
+knowledge with courses ranging from calculus, combinatorics
+and mathematical logic and linear algebra to partial differential
+equations, functional analysis and probability theory, from
+algorithms and data structures to operational systems,
+computational mathematics and high performance computing.
+It has to be admitted that in Belarus there are no selective
+courses and everyone must take 5-9 subjects every semester
+(according to the study program). The courses are evaluated
+either by an exam with grades from 1 to 10 or a test with
+grades fail or pass. Combinations of written and oral exams
+are extremely popular in my country. One would usually be
+given a problem or a proof and gets some limited time to
+prepare. One then orally answers in front of the blackboard
+and makes necessary notes on it. The professor then asks
+additional questions to understand at which level the student is.
+Interestingly the questions are distributed randomly and it is
+quite unlikely that two students from the class are getting the
+same question. It is also worth mentioning that one usually gets
+one problem and one proof from a randomly chosen part of
+the curriculum. Whilst some students claim that the scores are
+dependent on luck, those who really want to get good grades
+in all of the subjects consistently must be fluent in the whole
+curriculum in all of the subjects. The courses taught at my alma
+mater cover all of the fields of modern mathematics but at the
+same time they are not going extremely specific into any of
+them (a rare graduate will for example even hear something
+about Bayesian statistics as such), which seems to be quite
+different from Norway, where already at the undergraduate
+level students tend to specify deeply in one specific field like
+statistics, mechanics or computer science. I wrote the diploma
+entitled “Methods and tools of in investments in conditions of
+international diversification”, which mainly combined statistics
+6
+
+Aliaksandr Hubin
+
+
+
+and convex optimization. The thesis was defended with 10 and
+received the first award at the student’s’ research competition
+in the field of statistics and probability that year. Moreover
+based on all of the courses I got the university diploma with
+excellence.
+In 2012 I moved to Norway to take a master’s in Industrial
+Logistics, which should perhaps be understood as Operations
+Research, at Molde University College - Specialized University
+in Logistics. Studies were great and an especially outstanding
+part of them was the 3rd semester consisting of series of
+seminars lasting for a week or two each. These seminars
+were intensive courses taught and evaluated by outstanding
+professors in OR from all over the world. The courses I
+was taking were normally combining a lot of statistics,
+combinatorial and continuous optimization, scheduling
+mathematical modelling and discrete event simulation, often
+applied to specific problems in transportation and logistics.
+Combination of all of these to an applied case also formed my
+master thesis entitled “Evaluation of supply vessel schedules
+robustness with a posteriori improvements”, where I was
+modeling stochastic processes of significant wave height and
+wind directions via autoregressive models and simulating
+schedules of the fleet of vehicles based on these stochastic
+processes to evaluate schedules’ robustness to bad weather
+conditions and suggesting online rescheduling strategies. The
+town of Molde was also absolutely spectacular: nowhere in
+the world had I experienced such wonderful views from the
+window and nowhere in the world had I met such opportunities
+of combining getting proper education with great fishing,
+hiking and travelling activities. I finished the master’s with A
+in all of the subjects and A for the diploma and have gotten
+a beautiful NIMA award for the best graduate student at the
+university.
+Finally in 2014 I began my PhD in statistics at the
+department of mathematics of the University of Oslo. There
+wasn’t a single day when I would doubt that the choice
+back then was right. Here we have an inspiring statistical
+environment with a great deal of seminars and interesting talks
+given every week. I have a great supervision team, headed
+by professor Geir Storvik wisely directing me through my
+PhD. All of the courses taken here were of particularly high
+standards. The exam system wasn’t new to me as in general
+it is extremely similar to what I experienced in Molde before.
+The exams consist of a set of practical problems covering the
+whole curriculum and requiring deep understanding of the
+theory in order to pass. Project parts are even more interesting
+and assure that the candidate is able to apply his knowledge
+to sufficiently complex problems. Teaching is also a part of
+my duties as a PhD candidate. It wasn’t easy first, since the
+courses I taught are slightly different in terms of the curriculum
+7
+
+
+
+from those taken in Minsk or Molde and hence initially require
+substantial preparations. But this is an enjoyable experience
+and I learned a lot. Gradually I have become much more
+confident as a teacher. This experience allowed to overcome the
+fear of a large audience in front of you, which is also helpful for
+the talks and presentations. Now I tend to give a talk at every
+conference I go to, whilst this opportunity to travel to new
+places to the conferences itself is a great thing to both explore
+the world and enrich your own scientific knowledge. It also
+allows to expand your professional network that eventually
+ends up in collaboration and new publications. Currently my
+research interest are in Bayesian model selection and averaging
+combined with automatic feature engineering. It has to be
+admitted that I really enjoy what I am doing and often come
+to the office on weekends because I miss my research. I have
+been quite positive about everything in this essay, but it doesn’t
+mean that there are no difficulties around. One of the greatest
+challenge was the language barrier, since I didn’t know any
+Norwegian, when I began my PhD. After a while however this
+barrier almost got removed.
+Apart from the work and studies my life in Oslo is
+quite enjoyable. Belarusians are often referred to as slavic
+scandinavians for their mentality and character hence I didn’t
+have to adopt much to the norwegian way the intrapersonal
+relations are in this country. At the same time the Belarusian
+minority in Oslo is extremely small - I can literally count with
+fingers of one hand belarusians living in the city, I met. There
+is neither embassy nor local official or unofficial minority of
+belarusians present in the city, making it impossible to speak
+my mother tongue on a daily basis. Hence I miss home a
+great deal and try travelling to Minsk several times per year.
+Otherwise my life in Oslo is indeed bright and saturated. I train
+several times per week at SiO training facilities, play football
+with colleagues on Fridays, try attending opera or ballets on
+a regularly basis. Now as my Norwegian has significantly
+improved I’d like to see some plays at the National Theatre.
+Additionally I enjoy hiking and fishing activities in summers
+and skiing in winters. Last summer was also amazing in terms
+of weather and I managed to swim in the fjord for the very first
+time.
+To sum up I am happy to take my PhD in Oslo, where
+everything from the academic environment to the people
+around motivates and inspires for achieving the stated goal
+efficiently!
+
+8
+
+
+
+ny bok
+Confidence, Likelihood, Probability; Statistical inference
+with confidence distributions
+Gudmund Hermansen, Céline Cunen, Emil Aas Stoltenberg | Oslo
+
+Siden vi har eller har hatt Nils Lid Hjort som veileder (Céline og
+Gudmund) eller bi-veileder (Emil) er vi selvfølgelig fullstendig
+inhabile når vi nå har tatt på oss jobben med å gi en omtale av
+boken Confidence, Likelihood, Probability (CLP) av Tore Schweder
+og Nils Lid Hjort. Men sånn må det vel være i et lite miljø, og
+heldigvis er man ikke alltid enig med sin veileder.
+Sjokk leder noen ganger til nye idéer, skriver Schweder
+og Hjort i CLP-bokens første setning. Denne idéen –
+som forfatterne medgir ikke er så ny, men som lenge
+har befunnet seg på historiens skraphaug – er å tillate
+sannsynlighetsfordelinger over parameterrommet, og det helt
+uten en priorfordeling. Posteriors uten priors, altså. Slike
+fordelinger kaller Schweder og Hjort for konfidensfordelingen,
+eller CDer.
+En konfidensfordeling er en utvalgsavhengig fordelingfunksjon over parameterrommet. Overfladisk kan den forstås
+som en slags frekventistisk posteriorfordeling. Fordelingen
+uttrykker graden av konfidens man knytter til ulike deler av
+parameterrommet, gitt modell og data, uten at man behøver å
+spesifisere en priorfordeling. I likhet med posteriorfordelinger
+i bayesiansk statistikk gir også konfidensrammeverket en
+attraktiv grafisk fremstilling av inferens om en parameter av
+spesiell interesse θ – for eksempel en lokasjonsparameter, en
+regresjonskoeffisient eller sannsynligheten for å overskride en
+kritisk terskelverdi. Slutninger om θ kan presenteres ved konfidensfordelingsfunksjonen C (θ ) eller ved konfidenstettheten
+(slik vi er vant til å se posteriorfordelingen), men Schweder
+og Hjorts foretrukne grafiske fremstilling er konfidenskurven,
+definert som cc(θ ) = |1 − 2C (θ )|. Figuren nedenfor er et
+eksempel på en slik konfidenskurve. Konfidenskurven
+peker på et naturlig punktestimat for θ og man kan lese av
+konfidensintervaller på alle nivåer. Kurven gjør det enkelt
+å legge merke til eventuell asymmetri, punktmasser i null,
+avgjøre tosidige tester og så videre.
+En kummulativ fordelingsfunksjon C (θ ) som alltid
+gir konfidensintervaller med korrekt dekningsgrad er
+per definisjon en CD. Denne definisjonen innebærer at
+konfidenskurver kan konstrueres med utgangspunkt i
+fundamentalt ulike metoder og paradigmer, også bayesianske.
+Boken fokuserer likevel på såkalte frekventistiske metoder, og
+9
+
+
+
+utvikler blant annet en generell oppskrift for konstruksjon av
+konfidenskurver basert på klassisk likelihoodteori.
+I en bok hvis prosjekt er å blåse nytt liv i en idé som lenge
+kun har blitt viet en setningen eller to i statistiske lærebøker,
+er det ikke overraskende at det i CLP er gitt en del plass
+til noen svært grunnleggende ting i vårt fag, slik som hva
+en sannsynlighet er (kapittel 2, 6 og 15). Schweder og Hjort
+vil at vi skal tenke på konfidensfordelinger som uttrykk for
+såkalte epistemiske sannsynligheter. Dersom jeg hevder å være
+95 prosent sikker på at den ukjente men faste størrelsen θ
+ligger et sted mellom 1.7 og 2.3, er det et eksempel på en
+epistemisk sannsynlighetsytring. I motsetning til det vi har lært
+på skolen vil altså Schweder og Hjort ha oss til å akseptere
+at Pr(1.7 ≤ θ ≤ 2.3) = 0.95 er meningsfullt, selv når vi ikke
+betrakter θ som en tilfeldig variabel (CLP s. 418).
+De epistemiske sannsynlighetene skiller seg fra det
+som i CLP-boken kalles aleatoriske sannsynligheter. Dette
+er sannsynligheter som skyldes faktiske tilfeldigheter
+i verden, og ikke bare vår usikkerhet knyttet til ting i
+verden. Konfidensfordelingene er uttrykk for epistemiske
+sannsynligheter, eller som Schweder og Hjort skriver, så
+uttrykker de det “et rasjonelt vesen tror om verden i lys
+av modellen og data” (CLP s. xiv, vår oversettelse). Men
+i motsetning til en bayesiansk posteriorfordeling hevder
+Schweder og Hjort at konfidensfordelingene er objektive, fordi
+de ikke krever en subjektiv priorfordeling, men kun baserer seg
+på den aleatoriske datagenererende prosessen.
+For mange bayesianere vil dette skillet mellom to forskjellige
+tolkninger av sannsynlighet være velkjent. Eksempelvis skriver
+Gelman og Robert (2013) at “priorfordelinger ikke prøver
+å fange en bortgjemt sannhet, men må forstås som uttrykk
+for statistikerens usikkerhet knyttet til parametere”. For
+bayesianere av denne skolen er altså parameteren θ en fast men
+ukjent størrelse, priorfordelingen π (θ ) er epistemisk, mens
+f (y | θ ) er aleatorisk. For å fortsette med exphil-begrepene, kan
+man si at man som bayesianer ikke er tvunget til å betrakte
+θ som en tilfeldig variabel ontologisk sett, kun matematisk.
+Schweder og Hjort sin påstand om at bayesianeren “kun har
+én form for sannsynlighet, og derfor ikke noe annet valg
+enn å betrakte parameteren som en tilfeldig variabel” (CLP
+s. 17, vår oversettelse), er derfor en forenkling. Det stemmer
+at bayesianeren kun har én form for sannsynlighetslære, den
+som bygger på Kolmogorovs aksiomer, men det betyr ikke at
+bayesianeren er tvunget til én tolkning av hva sannsynlighet er.
+Mens bayesianere à la Gelman og Robert har én
+sannsynlighetslære og to tolkninger av sannsynlighet, er
+konfidensialisten tvunget til å ha to sannsynlighetslærer, den vi
+kjenner for det aleatoriske og noe annet for det epistemiske.
+Dette fordi konfidensfordelingene bryter med Kolmogorovs
+aksiomer. “En aksiomatisk teori for epistemisk sannsynlighet
+10
+
+
+
+ville virkelig vært fint å ha!”, som Schweder og Hjort skriver (s.
+xvii, vår oversettelse). En slik aksiomatisk teori for epistemisk
+sannsynlighet ville mest sannsynlig ta utgangspunkt i noe
+kriterier for hvordan et rasjonelt vesen bør handle, deretter
+utvikle en sannsynlighetslære som ikke bryter med disse
+kriteriene. Spørsmålet vil da være om konfidensfordelingene
+er i tråd med denne sannsynlighetlæren. Prosjekter der man
+starter med noen prinsipper for rasjonalitet og utleder en
+sannsynlighetslære fra disse har blitt gjennomført av blant
+annet Savage (1972) og Bernardo og Smith (1994). De har endt
+opp med Kolmogorovs aksiomer minus tellbar additivitet.
+Uansett om man kjøper konfidensfordelingene eller ikke
+er CLP-boken proppfull av materiale som vil interessere
+enhver statistikkstudent. Kapittel 2 en utmerket innføring
+likelihoodteori, første ordens large sample-teori, suffisiens
+og likelihoodprinsippet, pivoter og profilerte likelihooder
+med mer. Kapittel 7 og tar blant annet for seg andreordenstilnærminger og Bartlett-korreksjoner, mens kapittel 5
+inneholder flere klassiske optimalitetsresultater generalisert til
+konfidensfordelinger. Disse kapitlene sammen med et meget
+oversiktlig og godt appendiks om large sample-teori utgjør et
+inferens og asymptotikk-kurs i seg selv. Særlig er appendikset
+kjærkomment for studenter som er for unge til å ha hatt Nils’
+lille grønne på pensum.
+Naturlig nok blir en tilstrekkelig stor del av CLPboken (da kanskje spesielt kapitlene 3, 4 og 8, og til en
+viss forstand kapittel 7 og 12 også) brukt til å utvikle
+konfidensfordelingsmetodikk for mange kjente parametriske
+modeller. I det første kapittelet som utelukkende handler
+om konfidensfordelinger (kapittel 3) motiveres og utledes
+konfidensinferens for flere lav-dimensjonale parametrisk
+modeller, lineære regresjonsmodeller og andre likelihoodbaserte
+modeller for uavhengige og identisk fordelte observasjoner.
+Kapittel 4 tar for seg mer komplekse modeller, slik som
+modeller i overlevelsesanalyse, modeller med tilfeldige effekter,
+konfidensinferens i Markovkjeder og modeller for tidsrekker
+og avhengige observasjoner. Generell konfidensinferens for
+den eksponensielle familien og generaliserte lineære modeller
+er tema for kapittel 8, og konfidensfordelingsmetodikk i
+sammenheng med prediksjon blir introdusert i kapittel 12.
+CLP-boken fremstår generelt som overskuddspreget, og er
+tettpakket med gode, motiverende, interessante eksempler
+og illustrasjoner. I tillegg til aktiv bruk av ekte data (i
+motsetning til simulerte data) som fint motiverer ideer,
+konsepter og teknikker underveis, har CLP-boken et eget
+kapittel (kapittel 14) som presenterer og analyserer syv
+historier om blant annet olympisk urettferdighet på 1000
+meter skøyter, hvalbestand, økonomi (Schweder og Hjort
+utfordrer Christopher A. Sims, mottager av Sveriges riksbanks
+pris i ekonomisk vetenskap till Alfred Nobels minne) og en
+11
+
+
+
+Referanser
+Bernardo, J. og Smith, A (1994) Bayesian Theory. Wiley
+Series in Probability and Statistics.
+Efron, B. (1998) R.A. Fisher in the 21st century [with
+discussion and a rejoinder]. Statistical Science, 13:95-122.
+Fisher, R. A. (1930) Inverse probability. Proceedings of the
+Cambridge Philosophical Society, 26:528-535.
+Gelman, A. og Robert, C. P. (2013). “Not Only Defended
+But Also Applied”: The Perceived Absurdity of Bayesian
+Inference. The American Statistician, 67:1-5.
+12
+
+1.0
+0.8
+0.6
+0.4
+
+confidence curve
+
+0.2
+0.0
+
+optimal konfidensløsning av Rosiglitazone-saken, en kjent og
+omdiskutert meta-analyse av 2 × 2 tabeller der spørsmålet er
+hvorvidt en viss diabetesmedisin gav økt risiko for hjerteinfarkt.
+I CLP-boken beveger Schweder og Hjort seg også
+utenfor den parametriske komfortsonen og over i ikke- og
+semiparametriske modeller (kapittel 11). Interessant i denne
+sammenheng er at konfidensfordelingsrammeverket åpner
+for enhetlige metoder for å kombinere statistisk inferens fra
+svært ulike kilder. Meta-analyse basert på konfidensfordelinger,
+som blir diskutert i kapittel 13, men også i 10 og 14, viser
+blant annet at noen kjente meta-analyse metoder faller ut av
+CD-rammeverket, samtidig som at CD-rammeverket også gir
+nye muligheter. For eksempel tillater den vide definisjonen
+av en CD å kombinere informasjon fra studier der helt
+ulike statistiske metoder og paradigmer er anvendt, som for
+eksempel parametriske og ikke-parametriske, så vel som
+bayesianske og frekventistiske.
+Konfidensfordelinger og relaterte fidusiale rammeverk
+opplever en økende internasjonal interesse, noe CLP-boken
+også vitner om. Efron (1998) spådde at Fishers arbeider
+innenfor fidusiale metoder kan bli umåtelig innflytelsesrike
+i det 21. århundret. Konfidensmetoder er relatert til Fishers
+(1930) fidusiale argumenter. Disse argumentene – som har vært
+tilnærmet glemt i lang tid og blitt omtalt som hans største
+feilgrep, opplever nå en renessanse. En kortfattet introduksjon
+til CDer er å finne i oppsummeringsartikkelen til Xie og Singh
+(2013), og i den tilhørende diskusjonen. Innen CD-feltet samles
+forskere på en årlig BFF-konferanse, Bayesian, Frequentist,
+Fiducial, eller Best Friends Forever. Årets BFF-konferanse
+fant sted på Harvard med mange prominente statistikere
+blant foredragsholderne, blant annet Sir David Cox, Andrew
+Gelman og Jim Berger, sammen med lokale helter som Gunnar
+Taraldsen og Nils Lid Hjort. Fundamentale filosofiske spørsmål
+i statistikk sto sentralt på årets møte, men også praktiske
+anvendelser. Ikke nok med det, konfidensfordelingene ser ut
+til å ha sneket seg inn i maskinlæringsverdenen. Nylig twitret
+John Myles White (Facebook) «I wish I had seen a confidence
+curve earlier...».
+
+−120
+
+−100
+
+−80
+
+−60
+
+β
+
+−40
+
+−20
+
+0
+
+En konﬁdensfordelingen for en regresjonskoeﬃsient β. Punkt-estimatet er ca
+-80. Man leser av 95% konﬁdensintervallet der kurven krysser den horisontale
+0.95-linjen (i rødt). Det er enkelt å avgjøre
+at en tosidig test med nullhypotese β = 0
+vil bli forkastet på alle relevante nivåer.
+
+
+
+Savage, L. J. (1972) The Foundations of Statistics. Dover
+Publications.
+Xie, M. and Singh, K. (2013). Confidence distribution,
+the frequentist distribution estimator of a parameter: A
+review [with discussion and a rejoinder]. International
+Statistical Review, 81:3-39.
+
+Bayesianer alltid og overalt?
+Tore Schweder | Oslo
+
+Med tro på en apriorifordeling er det ingen bedre måte
+å lære fra observerte data, i lys av en modell, enn ved
+den Bayesianske aposteriorifordelingen. Men ofte fins
+det ikke noen overbevisende apriorifordeling. Kan en da
+finne en “aposteriorifordeling” som ikke er basert på noen
+apriorifordeling?
+En konfidensfordeling er en “aposteriorifordeling” uten
+noen apriorifordeling. Fisher (1930) foreslo sin fidusfordeling
+som et alternativ til Bayesiansk analyse for å ungå
+apriorifordelinger. Apriorifordelingen vil nemlig alltid influerer
+analysen uansett hvor vag den er. Konfidensfordelinger
+er fidusfordelinger, men ikke alle fidusfordelinger er
+konfidensfordelinger. En kumulativ fordelingsfunksjon
+C av parameteren θ, basert på data og model, er en
+konfidensfordeling for θ dersom C (θ ) ∼ U (0,1). Dermed er
+θ ≤ C −1 (α) et halvåpent konfidensintervall med konfidensgrad
+α for alle mulige α.
+Denne epistelen er skrevet for å lokke noen til å komme
+igang med å bruke konfidensfordelinger. Vi skal se på
+et eksempel i Schweder og Hjort (2016) der vi finner en
+konfidensfordeling for en parameter som Sims fant en
+aposteriorifordeling for i sitt Nobelforedrag. Christopher A.
+Sims fikk Sveriges Riksbanks pris i økonomisk vitenskap til
+minne om Alfred Nobel (“Nobelprisen i økonomi”) for 2011
+sammen med TJ Sargent. I Nobelforedraget (Sims 2012) fulgte
+han opp sitt tidligere program om at økonometrikere alltid og
+overalt skulle være Bayesianere (Sims 2007). Han mener nok
+det samme om alle statistikere.
+Sims ser på makroøkonomiske data for USA for konsum, C,
+investering, I, offentlige utgifter, G og nasjonalinntekt, Y, for
+årene 1929 til 1940, se tabellen. Modellen stammer fra Trygve
+Haavelmo, som fikk nobelprisen i økonomi i 1989, og er som
+følger.
+Ct = β + αYt + σC Z1 t
+It = θ0 + θ1 (Ct − Ct−1 ) + σI Z2t
+Yt = Ct + It + Gt
+13
+
+
+
+Figur 0.1: Christopher Albert Sims.
+Year
+
+I
+
+G
+
+C
+
+1929
+1930
+1931
+1932
+1933
+1934
+1935
+1936
+1937
+1938
+1939
+1940
+
+101,4
+67,6
+42,5
+12,8
+18,9
+34,1
+63,1
+80,9
+101,1
+66,8
+85,9
+119,7
+
+146,5
+161,4
+168,2
+162,6
+157,2
+177,3
+182,2
+212,6
+203,6
+219,3
+238,6
+245,3
+
+736,3
+696,8
+674,9
+614,4
+600,8
+643,7
+683,0
+752,5
+780,4
+767,8
+810,7
+852,7
+
+Tabell 0.1: Makroøkonomiske data for USA, kilde of CA Sims.
+
+Gt = γ0 + γ1 Gt−1 + σG Z3t ,
+Zene er uavhengige og normalfordelte.
+Likelihooden Sims og jeg bruker er den betingete gitt data
+for 1929.
+Sims er spesielt interessert i effecten av av endring i konsum
+på investering, θ1 . Han antar at denne parameteren må være
+positiv, og finner dens aposteriorifordeling ved å integrere den
+simultane aposteriorifordeling når aprioritettheten er flat for
+koeffisientene i likningssystemet og også flat i 1/σ2 for de tre
+variansene. Den resulterende aposterioritettheten er praktisk
+talt en trunkert og skalert t-fordeling med 3 frihetsgarder, se
+figur 0.2.
+Det eneste jeg har endret i modellen til Sims er å anta at
+θ1 ≥ 0 og ikke bare positiv. Det er etter min mening en mer
+naturlige antakelsen. For å finne en konfidensfordeling tar
+jeg utgangspunkt i profillikelihooden L og den tilhørende
+profildeviansen
+D = 2 log( Lmax /L). Etter teoremet til Wilks er
+√
+S = s D, evaluert i den sanne verdien θ1 , asymptotisk standard
+normalfordelt. Her er s fortegnet til θ1 − θ̂1 . Asymptotisk er
+dermed C (t) = Φ(S(t)) t ≥ 0 og C (t) = 0 t < 0 en kumulativ
+14
+
+
+
+1.0
+0.8
+0.6
+0.4
+
+cumulative distribution
+
+0.2
+0.0
+0.0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+theta_1
+
+Figur 0.2: Den kumulative konfidensfordelingen for θ (heltrukket) og en tilnærming til den kumulative aposteriorifordelingen
+til Sims (2012) (stiplet).
+
+konfidensfordeling for interesseparameteren. Dette fordi alle
+intervallene [0, t] t ≥ 0 er konfidensintervaller for θ1 og har
+asymptotisk konfidensgrad C (t). Heldigvis er S(θ1 ) tilnærmet
+standard normalfordelt også for data av vårt omfang. C (t) er
+derfor en approksimativ konfidensfordeling. Den er vist i figur
+0.2.
+Konfidensfordelingen har en punktmasse på omlag 0.9
+for θ1 = 0, og er ganske ulik apoeteriorifordelingen til Sims.
+Den er faktisk stokastisk mindre. Antakelig har den flate
+apriorifordelingen til parameteren på den positive halvaksen
+trukket aposteriorifordelingen mot høyre. Sims skriver at
+verdier fra 0 til 0,25 er ganske mulige, Jeg finner C (0,25) = 0,993.
+Han skriver videre at dynamikken i førkrigsøkomien i USA
+ville ha vært helt annerledes om θ1 = 0,2 enn om θ1 hadde
+vært nær null. Jeg finner altså med konfidens 0,9 at det i det
+hele tatt ikke er noen akselleratoreffekt av konsumendring på
+investering. Vi har med andre ord en epstemisk sannsynlighet
+(Schweder 2017) på 0,9 for fravær av slik akselleratoreffekt.
+Hensikten med dette eksempelet er å vise at inferens
+med konfidensfordelinger er nokså rett fram når en har
+fått konfidensintervaller godt innabords, og at slik inferens
+kan være mer naturlig enn tilsvarende Bayesiansk inferens.
+Bayesianerne har naturligvis den fordelen at de får inferens for
+alle parameterene i modellen i en sveip. Konfidensfordelinger
+må imidlertid utarbeides for parameterene én og én, eller for
+delvektorer. Schweder og Hjort (2016) drøfter forholdet mellom
+Bayes og konfidens videre, og presenterer teori og eksempler
+på konfidensfordelinger.
+Fisher så på fidusfordelinegen som “juvelen i kronen” av
+sine bidrag til statistikk. Hans mer utarbeidete fidusmetode
+viste seg imidlertid å ha alvorlige problemer. Dermed gikk
+metoden ut av bruk og ble nesten ikke nevnt i undervisningen
+de siste femti årene. Men nå har fidusmetoden og dens avarter
+fått nytt liv. Om målet er å finne en fordeling for en parameter
+trenger en altså ikke alltid å ty til Bayes.
+15
+
+
+
+Fisher, R.A. (1930) Inverse probability. Proceedings of the Cambridge
+Philosophical Society, 26:528-535.
+Schweder, T. and Hjort, N.L. Confidence, Likelihood, Probability;
+Statistical inference with confidence distributions. Cambridge University
+Press. 500 pp.
+Schweder, T. (2017) Confidence is epistemic probability for empirical
+science. To appear in Journal of statistical Planning and Inference
+Sims, C.A. (2007) Bayesian Methods in Applied Econometrics, or,
+Why Econometrics Should Always and Everywhere Be Bayesian.
+Hotelling lecture, June, 2007.
+Sims, C. A. (2012). Statistical modeling of monetary policy and its
+effects [Nobel Prize Lecture in Economics]. American Economic Review,
+102:1187-1205.
+
+16
+
+
+
+Metodefag ved NHH de første 50 år
+Jostein Lillestøl | Bergen
+Norges Handelshøyskole (NHH) startet opp i Bergen 1936 med
+et to-årig handelsdiplomstudium. Dette besto av de obligatoriske
+fagene bedriftsøkonomi, samfunnsøkonomi og et språkfag (engelsk,
+tysk eller fransk), samt ett valgfag, valgt blant fagene rettslære,
+handelsgeografi og handelshistorie. Både bedriftsøkonomi og
+samfunnsøkonomi hadde definerte fagkomponenter/kurs. Litt enkel
+beskrivende statistikk var integrert i kurstilbudet i samfunnsøkonomi.
+Av årsberetningene går det fram at det i vårsemestrene var
+avsatt en time pr. uke til forelesninger i “statistikkens teori: det
+statistiske materialet, dets tilveiebringelse, behandling, betydning
+og karakteristikk, de store talls lov og dens sammenheng med
+det statistiske massefenomen”. Studentene tok eksamen ved
+enden av studiet etter fire semestre. Det var to eksamensdager
+i bedriftsøkonomi og to eksamensdager i samfunnsøkonomi, en
+teoretisk samfunnsøkonomi og en praktisk samfunnsøkonomi med
+statistikk. Pensum var trolig basert direkte på forelesningene uten
+noen lærebok.
+Det var Ingvar Wedervang, professor i næringsøkonomi og
+statistikk , som underviste i statistikk fra 1938 og de etterfølgende
+vårsemestre. Det er fortalt at Wedervang sine økonomiforelesninger
+var inspirerende, men at han også var fryktet, når han i forelesningene
+i statistikk kunne kalle studenter opp til ganske hardhendt
+eksaminasjon. Ingvar Wedervang (1891-1961) hadde fra 1927 vært
+professor i nasjonaløkonomi og statistikk ved Universitetet i Oslo,
+og ble i 1937 konstituert som NHH sin første rektor. Han fratrådte
+midlertidig i 1942 etter å ha kommet på kant med Nazi-regimet.
+Dette medførte at studentene ikke fikk undervisning i statistikk
+et par år, og at faget heller ikke var nedfelt i eksamensoppgaver.
+Wedervang var med å stifte Norsk Statistisk Forening (NSF) i 1936, og
+ble foreningens første formann. Den gang var NSF begrenset til Oslo,
+slik at Wedervang måtte overlate vervet til Anton Skøien allerede året
+etter.
+Ved starten var det ikke tatt sikte på undervisning i matematikk,
+men bedriftsøkonomene så nytten av litt handelsregning og
+finansmatematikk, og egne forelesninger kom raskt på plass. Det var
+ikke fordi det den gang trengtes i økonomifagene, men fordi det var
+nyttig i seg selv å kunne litt renteregning osv. Finansmatematikken
+var ikke del av den avsluttende eksamen, men en ikke- tellende prøve
+ble holdt etter kurset.
+I 1942 var Høyskolen i sitt sjette år, og tiden var moden for
+revidering av studieplanen og en mulig utvidelse av studiet fra 2 til 3
+år. Et utvalg ble nedsatt, der det lå i kortene at metodegrunnlaget i
+studiet skulle styrkes vesentlig, dvs. at matematikk skulle gis en egen
+plass i studiet. Etter innspill fra staben ellers var det enighet om at
+faget måtte omfatte grunnleggende differensial- og integralregning
+og at statistikk burde styrkes. Den nye studieplanen ble iverksatt
+først i 1946. I de økonomiske fagene var det ikke store endringer
+av det faglige innhold, bortsett fra at fagene ble fordelt over tre år
+istedenfor to. Metodefagene fikk imidlertid en betydelig utvidelse,
+ved at matematikk gikk fra 2 uketimer til 3+2=5 uketimer, statistikk
+fra en uketime til to uketimer, som etter et par år ble utvidet til
+tre uketimer. Denne utvidelsen fikk i første rekke betydning for
+undervisningen i samfunnsøkonomi, som i stigende grad så seg tjent
+
+17
+
+
+
+med enkle matematiske modeller.
+Ansvaret for metodefagene matematikk og statistikk er nå under
+bedriftsøkonomi, der Frøystein Wedervang (f. 1918), sønn av Ingvar
+Wedervang, i en årrekke sto for forelesningene i både matematikk og
+statistikk. Han var cand. oecon., og ansatt som høyskolestipendiat
+og senere dosent i bedriftsøkonomi, inntil han langt senere fikk et
+professorat i samfunnsøkonomi, og overlot matematikk og statistikk
+til andre. Som pensum i matematikk forelå etter hvert “Notater til
+differensialregningen” fra 1950 og “Funksjoner av flere uavhengige
+variable” fra 1954.
+Som pensum i statistikk ble benyttet en innbundet versjon
+et kursopplegg Ingvar Wedervang hadde utviklet for Norsk
+Korrespondanseskole (NKS) i 1944 (132 sider). Dette var en god
+fremstilling av mange relevante tema på få sider, uten å være for
+kompakt. Fremstillingen er i hovedsak verbal, med gode eksempler
+og grafikk.
+Frøystein Wedervang beholdt hovedansvaret for undervisningen
+i matematikk og statistikk til 1960. På denne tiden ble flere
+økonomer med interesse for kvantitative metoder tilsatt ved NHH.
+Nye områder som operasjonsanalyse, økonometri og statistisk
+beslutningsteori var i ferd med å utkrystallisere seg som spesialiteter
+med anvendelsespotensiale. Tidsskiftet gjenspeiler seg bl.a. i
+fagartikler, studenters seminararbeider, bl.a. anvendelser av lineær
+programmering i stålindustri, fiskemelindustri og transport. Videre
+var det gjesteforelesninger av utenlandske kapasiteter, bl.a. William
+Baumol fra London School of Economics.
+Ovenstående gir en klar indikasjon på nyorientering blant
+deler av staben på Høyskolen ved inngangen til 1960-årene, både
+faglig og kulturelt, der man i større grad vendte blikket mot
+institusjoner i England og USA fremfor det kontinentale Europa.
+Her sto man overfor en ny type matematikk og modellering basert
+på sannsynlighetsteori og stokastiske prosesser, temaer utenfor det
+den tids økonomer var komfortable med. Dette ryddet etter hvert
+plass for tanken om et mer regelmessig kurstilbud i mer avanserte
+kvantitative metoder, f.eks. gjennom et valgfag i matematikk, samt
+å etablere stillinger i matematikk og matematisk statistikk for
+dette formål, som samtidig kunne ta hånd om den obligatoriske
+elementærundervisningen i matematikk og statistikk.
+I 1959 fikk NHH et gaveprofessorat i forsikring fra
+Varekrigsfondet. Karl Borch fikk stipendium for å kvalifisere seg
+gjennom å ta doktorgraden. Karl Borch var født i 1919 og utdannet
+i forsikringsmatematikk (aktuarfag) fra Universitetet i Oslo i 1947.
+Krigen hadde forsinket hans studier. Han var aktiv motstandsmann,
+og ble i 1941 etterlyst, og måtte rømme til England. Her var han
+først knyttet til eksilregjeringen og deretter til de de frie norske
+styrker. Etter krigen arbeidet Borch frem til 1958 i internasjonale
+organisasjoner, UNESCO, UNICEF og OECD, men hadde også et
+opphold ved Cowles Commission i Chicago i 1953, der han møtte
+mange av tidens fremtredende økonomer. Han var over 40 år da
+han begynte som stipendiat. Det var noe sent å starte en akademisk
+karriere, og det var et risikabelt prosjekt både for NHH og han selv.
+Han fullførte imidlertid doktorgraden ved Universitetet i Oslo i 1962,
+og ble utnevnt til professor i forsikring ved NHH året etter. Med
+Karl Borch var grunnlaget lagt for mer permanent undervisning
+og forskning innen risiko og forsikring. I sin stipendperiode hadde
+han ervervet kunnskap og internasjonale kontakter, noe som skulle
+
+18
+
+Frøystein Wedervang (foto fra 1954)
+
+Karl Borch (1919-1986)
+
+
+
+vise seg nyttig. Med autoritet og jernhard vilje satte han i gang med
+å påvirke utviklingen med det samme, noe som skulle vise seg å
+bli avgjørende for den videre utvikling av Høyskolen, langt ut over
+hans eget fagfelt. Hans målsetning var ikke mindre enn å utvikle “an
+economic theory of uncertainty”.
+Professor Ernst Selmer fra matematisk institutt ved Universitetet i
+Bergen var hentet inn som foreleser i matematikk på tidlig 1960-tall,
+og hadde utvilsomt en viss betydning for utviklingen. Blant annet
+foreleste han lineær algebra og lineær programmering for interesserte
+våren 1963, som en opptakt til det som skulle komme. Han og Borch
+ble personlige venner, og deres synspunkter kunne ikke lett avvises.
+På denne tiden laget Selmer en lærebok i matematikk som var spesielt
+beregnet på økonomer (ifølge han selv). Den ble pensumbok sammen
+med Brodthagens finansmatematikk.
+Ved slutten av 1950-tallet var diskusjonen i gang om en ny
+revisjon av studieordningen ved NHH, og et nedsatt utvalg la
+fram sitt forslag for lærerrådet høsten 1962. Der ble utvalget også
+bedt om å utrede etablering av et nytt valgfag i matematiske og
+statistiske metoder, og ga sin uttalelse om dette i mai 1963. Den
+nye studieplanen for det som nå ble kalt Siviløkonomstudiet ble
+gjort gjeldende for studentene som begynte høsten 1963. Den
+nye studieplanen representerte en viss forskyvning vekk fra
+funksjonsorienterte områder til metode og teoriorienterte områder.
+Det ble nå en mer markert oppdeling av de økonomiske fagene i
+mindre grunnkurs med egne eksamener tidlig i studiet. Som egne
+kurs med eksamen kom nå i 1. semester Forberedende i matematikk,
+og i 2. semester Grunnkurs i statistikk. Senere i studiet kom kurs av
+mer integrerende karakter og valgfrie seminarkurs til fordypning.
+Studentene skulle nå også få muligheten til å ha matematikk som
+valgfag, og kunne nå velge sine to valgfag fritt blant tilbudet, dvs. at
+et språkfag ikke lenger var obligatorisk.
+Med matematikk valgfag og det nye lic. studiet var det behov for
+å utvide staben. Professor Borch hevdet med styrke at Høyskolen
+i større grad enn før måtte ha ambisjoner om å leve opp til
+internasjonale krav for forskning og publisering, noe som ville kreve
+en metodeopprustning. Han fikk gjennomslag for at dette bare
+kunne skje ved ansettelse av matematiker og matematisk statistiker.
+En økonom som bruker av kvantitative metoder eller dette som
+biinteresse var utilstrekkelig. Han fikk gjennomslag for dette, og den
+første som ble ansatt (i 1964) som høyskolelektor i matematikk var
+Ole Martinussen (1937-1988), nyutdannet cand. real fra Universitetet i
+Oslo.
+Det hadde vært enighet om at valgfaget også måtte legge et
+grunnlag for stokastisk modellering, og en burde søke etter en person
+med matematisk statistikk som hovedfag. Den eneste institusjon som
+utdannet slike på den tiden var Matematisk institutt ved Universitet i
+Oslo, og i juni 1966 var Karl Borch utsendt fra Høyskolen for å verve
+en kandidat som allerede samme høst kunne gi Sannsynlighetsteori
+som valgfritt kurs innen valgfaget ved Høyskolen. Det ble Jostein
+Lillestøl (f.1943), som enda ikke var ferdig med sin hovedoppgave,
+men var den første i løypen. Han ble fast ansatt som høyskolelektor i
+matematisk statistikk på nyåret etter at han hadde fullført sin cand.
+real grad ved juletider.
+Med det omfang som valgfaget og øvrig metodeundervisning
+var forventet å gi, var det rom for enda en stilling i matematikk. En
+stilling som høyskolelektor ble utlyst, og blant flere velkvalifiserte
+
+Ole Martinussen fotografert av
+studentbladet K7 i 1970
+
+19
+
+
+
+søkere falt valget på cand. real Eivind Stensholt, som tiltrådte våren
+1967.
+Seminarordningen i siviløkonomstudiet ga også mulighet
+for å tilby spesielle mer anvendte emner for studenter med god
+bakgrunn og interesse for kvantitative metoder. Allerede høsten
+1967 tilbød Lillestøl et seminar med tittel Dynamisk Programmering
+og Markovprosesser, et helt ferskt område, med innhold som
+kunne tilpasses studenter med matematikk valgfag og valgemnet
+Sannsynlighetsteori. Året etter tilbød han Desisjonsteori, der
+også Bayesiansk tankegang fikk sin plass. Lillestøl hadde ett års
+rekrutteringspermisjon studieåret 1968-69, da han oppholdt seg
+ved University of California, Berkeley. Stensholt vikarierte da i
+Metodekurset i statistikk. Tilbake fra Berkeley fortsatte Lillestøl, i
+tillegg til grunnkurs- og valgfagsundervisningen, med seminarer
+for siviløkonomstudentene. Han organiserte også seminarer for
+lisensiatstudentene.
+I 1969 utga Martinussen boken “Innføring i matematisk analyse
+og lineær algebra”, som var hans forelesninger til Forkurs i
+matematikk. Denne erstattet Selmer sin bok, og ble pensum de
+nærmeste årene, men senere erstattet av en bok av Knut Sydsæter.
+Karl Borch var fra han kom til Høyskolen en drivende kraft,
+som i stor grad utfordret det etablerte. Hans målestokk var evne til
+internasjonal publisering, og det var det hittil lite av ved Høyskolen.
+Selv oppnådde han raskt å få inn sine arbeider i prestisjetunge
+internasjonale tidsskrifter, og ved sin omfattende reisevirksomhet
+oppnådde han verdifulle internasjonale kontakter ved mange
+prestisjetunge universiteter verden over. Dette kunne de unge
+forskerspirene ved Høyskolen dra nytte av, og han holdt en vernende
+hånd over unge studenter med ambisjoner, selv om han tidvis ikke
+la fingrene mellom verbalt. Han holdt også en vernende hånd om
+matematikk valgfag, og de som hadde fått oppgaven å drive dette.
+På midten av 1960-tallet hadde den såkalte Ottosen-komiteen
+foreslått opprettet regionale høyskoler som avlasting for universitetene
+og de vitenskapelige høyskolene. Allerede før lokaliseringen av de
+såkalte distriktshøyskolene ble fastlagt, var diskusjonen i gang om
+opprettelse av to-årige studier i økonomisk-administrative fag. NHH
+sto sentralt i planleggingsarbeidet gjennom Norges Handelshøyskoles
+Kursvirksomhet (NHHK), som allerede hadde kurstilbud på mange
+steder rundt om i landet, i kontakt med ressurspersoner der. Opplegg
+for de økonomiske fag ved NHH ble langt på vei kopiert, og det
+ble naglet fast at både matematikk og statistikk skulle inngå som
+obligatorisk første studieår. En uttalelse 17.10. 1967 fra Stensholt og
+Lillestøl sier at det både er ønskelig og mulig å etablere et matematisk
+analyse som valgfagsemne i studiet. Hvorom all ting er, stillinger ble
+etablert både i matematikk og statistikk på et tidlig stadium ved
+distriktshøyskolene.
+Universitetet i Bergen begynte også å bygge opp faget matematisk
+statistikk ved Matematisk institutt på siste del av 1960-tallet. Henrik
+Dahl med cand. real eksamen fra Oslo ble ansatt i 1967, og raskt
+etter kom Trygve Nilsen med bakgrunn fra NTH, begge ansatt som
+universitetslektorer. Som professor ble ansatt Sven Nissen Meyer.
+Han var lege, men kommet via biostatistikk til matematisk statistikk.
+Det var god kontakt mellom matematikk/statistikk på NHH og
+Matematisk ved UiB, i første rekke i forbindelse med gjensidige
+eksamenstjenester, men også ved seminarer og vikarierende
+undervisning. På denne tiden var samfunnsfagene som sosiologi godt
+
+20
+
+Jostein Lillestøl (foto 1980)
+
+
+
+etablert ved Universitetet i Bergen. De hadde sin egen minimalistiske
+og elementære statistikkundervisning. Det var lite grunnlag for faglig
+kontakt, og begge miljøer lot hverandre være i fred.
+Staben i matematikk/statistikk besto ved slutten av 1960-tallet
+av de tre høyskolelektorene Martinussen, Stensholt og Lillestøl,
+alle med cand.real. eksamen fra Universitetet i Oslo. For disse
+var det neste trinn på karrierestigen et dosentur. To ting var
+nødvendig, men ikke tilstrekkelig: Doktorgrad og opprettelse
+av en slik stilling, som den gang var embetsstilling, opprettet
+med departementets godkjennelse og med utnevnelse i statsråd.
+Høyskolen ga forholdsvis gode muligheter for kvalifisering gjennom
+deltakelse på internasjonale konferanser og rekrutteringspermisjoner
+med økonomisk støtte. Karl Borch foreslo allerede høsten 1968 at
+et dosentur i statistikk, eventuelt matematisk statistikk skulle gis
+rimelig prioritet i budsjettforslaget for 1970. Borch påpeker at det er
+alminnelig enighet om at faget matematisk statistikk må utbygges
+ved samtlige universiteter og høyskoler i Norge, og at når stillinger
+hittil ikke er opprettet, så skyldes det mangel på kvalifiserte søkere.
+Det var ikke rom for å prioritere både matematikk og statistikk,
+og det ble fremholdt at stillingsbetegnelsen måtte være ble slik at
+også matematikerne kunne søke. Kompromisset ble opprettelse
+av et dosentur i Anvendt matematikk/statistikk. Våren 1972 ble
+det så utlyst et dosentur, subsidiært utdanningsstipend, i Anvendt
+matematikk/statistikk. Til dette meldte det seg to søkere, men ingen
+ble funnet kvalifisert til stillingen. Den interne søker (Lillestøl) fikk
+imidlertid utdanningsstipend, som ledet til en PhD fra University of
+California, Berkeley i 1975. Eivind Stensholt fullførte sin doktorgrad
+ved Universitetet i Oslo i 1977.
+NHH var i ekspansjon etter utflytting fra Nygårdshøyden til
+Sandviken 1964, med økende antall studenter og lærere. Opptaket
+til I siviløkonomstudiet var 180 i 1966, 200 i 1967 og omtrent 225 i
+1968 og de nærmeste årene etter. For de som sto ansvarlig for et
+grunnkurs var byrdene betydelige, og for grunnkurset i statistikk sto
+man den gang alene om forelesninger, organisering av eventuelle
+øvelser, eksamensoppgaver og rettingen av alle besvarelsene. I tillegg
+kommer at matematikk valgfag tiltrakk seg mange studenter, med
+et fast kurstilbud. Et hjertesukk fra Lillestøl kommer frem i brev
+til Avdelingsstyret 8.4.1970, der han påpeker at byrdene er store,
+voksende og svært ulikt fordelt innen staben.
+Da Lillestøl var tilbake fra sine doktorgradsstudier gikk han i
+gang med å skrive en lærebok med tittelen Sannsynlighetsregning og
+Statistikk med anvendelser, som kom i sin første utgave i 1978. Den
+kom ut i fem utgaver i alt, den siste i 1997.
+På begynnelsen av 1970-tallet ble initiativet tatt for etablering av
+en ny studiestruktur, med mulig utvidelse av siviløkonomstudiet
+fra tre til fire år, samt videregående studier. Høyere avdelings
+siviløkonomstudium (HA) og Høyere Revisorstudium (HRS) kom
+raskt på plass med sitt første opptak i 1972. Nytt siviløkonomstudium
+tok lenger tid å få på plass, og medførte årelange diskusjoner
+og møtevirksomhet, og ny studieordning ble først iverksatt for
+studentene som begynte høsten 1975 og som gikk ut i 1979.
+Siviløkonomstudiet var nå organisert som et fireårig studium i to
+avdelinger (3+1). Første avdeling skulle bestå av metodefagene, de
+økonomiske fag og fortsatt to valgfag, mens annen avdeling skulle
+gi fordypning i økonomiske fag i form av to valgte særområder fra
+et knippe definerte særområder med eget kursprogram. Det var
+
+Eivind Stensholt
+
+21
+
+
+
+imidlertid rom for innlåning av kurs fra andre særområder etter visse
+prinsipper.
+Fra og med nyordningen 1975 skjedde det en del endringer i
+rammebetingelsene for matematikk ved Høyskolen. Vi fikk bl.a.
+direkte opptak av studenter fra distriktshøyskolene. Disse fikk delvis
+fritak for metodekurset i matematikk, med en redusert prøve i lineær
+algebra. På denne tiden var det tilbakevendende pensumdiskusjoner,
+der økonomene i stigende grad ville mene noe om fagets innhold
+og omfang. Det var også da vi fikk ordningen med første og annet
+valgfag. Matematikk valgfag i siviløkonomstudiet møtte også
+utfordringer i forhold til de videregående studier. Høyere avdeling
+forutsatte et visst metodegrunnlag, som valgfaget kunne gi. Mange
+studenter i Høyere avdeling hadde matematikk som valgfag, og de
+fleste studentene som ble opptatt utenfra (bl.a. fra NTH) hadde
+god bakgrunn i matematikk. Det var ikke noe absolutt krav til
+forhåndskunnskaper på dette nivå, og noe metodeundervisning
+eller kurser var nødvendig som innledning av Høyere avdeling eller
+underveis. Spørsmålene var: Hvor mye? Hvordan? Dette skapte
+utfordringer for valgfaget mht. deltakelse, integrering og eventuell
+overlapping.
+Med den nye studieplanen var det skapt en viss utrygghet
+for metodefagenes forhold til økonomifagene. Spesielt en uheldig
+konsekvens av nyordningen skal beskrives her:
+I den studieplanen man forlot hadde ganske ambisiøse
+obligatoriske kurs i både makroøkonomisk teori og mikroøkonomisk
+teori, som var en god mental forberedelse til avanserte matematiske
+kurser i matematikk valgfag, herunder spesielt valgemnet i generell
+likevektteori. Dette kurset var utviklet av Martinussen. I den nye
+studieplanen hadde ikke lenger valgfagsstudentene tilstrekkelig
+økonomibakgrunn for å kunne tilpasses dette nivået.
+Etter at Lillestøl kom tilbake våren 1975 med sin Ph.D ble
+dosenturet utlyst på nytt. Blant søkerne var Dag Tjøstheim som
+hadde Ph.D fra Princeton University. Han ble rangert først, og fikk
+dermed tilbud om stillingen, som han tiltrådte i 1977. Lillestøl
+fortsatte da i stilling som førstelektor. Dag Tjøstheim hadde en solid
+matematisk bakgrunn for å kunne etablere grunnleggende teori for
+tidsrekkerekker, og kunne kombinere det med relevante anvendelser
+på ulike områder, herunder også økonomiske tidsrekker. Dessverre
+forlot Tjøstheim NHH etter bare tre år i 1980 for å tiltre professoratet
+etter Nissen Meyer på Matematisk institutt ved Universitetet i Bergen.
+Høyskolen har imidlertid hatt god nytte av han i alle år siden i mange
+sammenhenger. Dosenturet i Anvendt matematikk/Statistikk ble da
+utlyst på nytt, med tre søkere. Lillestøl ble nå funnet kvalifisert og
+ble dosent i 1980. Da ble stillingen som førsteamanuensis i statistikk
+ledig, og blant søkerne var Knut Aase, som også hadde Ph.D fra
+Berkeley, og nå var førsteamanuensis ved distriktshøyskolen i Bø i
+Telemark. Han var best kvalifisert og kom til NHH høsten 1982.
+Med to statistikere ved Høyskolen var faggruppen i
+matematikk/statistikk i en ny situasjon. Nye tilbud ble aktualisert.
+Det var naturlig at de oppgaver Lillestøl tidligere hadde hatt, nå ble
+delt dem imellom over tid. Tjøstheim kunne for øvrig konsentrere seg
+om de videregående studier. Hans kapasitet kunne også utnyttes til
+veiledning av de mest krevende og ambisiøse studentene. Knut Aase
+orienterte seg i retning av risikoteori og forsikring, først i valgemnet
+Forsikringsmatematikk i valgfaget, der han også skrev en lærebok, og
+senere i undervisning i Høyere avdeling og for doktorander. Han
+
+22
+
+Knut Kristian Aase
+
+
+
+opparbeidet raskt kompetanse på dette felt, slik at han sto klar til
+å følge etter Borch når den tid kom. På sin side kunne Lillestøl nå
+etablere nye tilbud. I tillegg til før nevnte kurs i siviløkonomstudiets
+2. avdeling, engasjerte han seg i Høyere revisorstudium med kurset
+Statistiske metoder i revisjon, der han senere skrev en lærebok.
+Dette var tiden da datateknologien var i rivende utvikling, med
+dataskjermer, nettverk og statistisk programvare, og Brukerkurs i
+statistisk dataanalyse (SD1) som ble holdt i egne dataterminalrom ble
+svært populært. Dette var før PC’ens tid og før hver ansatt hadde
+terminal på eget kontor. Skulle man gjøre noe måtte man gå til et
+terminalrom, der det ikke alltid var ledig plass. I 1981 søkte Lillestøl
+om egen terminal og fikk det.
+Studentenes grunnlag i matematikk fra gymnaset la premissene
+for den obligatoriske metodeundervisningen. Fra det gamle treårige
+gymnaset var kravet for opptak til NHH minst to år med matematikk,
+minst tilsvarende pensum på språklinjene. Ved skolereformen på
+slutten av 1970- tallet ble gymnas og yrkesskoler slått sammen under
+begrepet Videregående skole. Begrepet gymnas og examen artium,
+som i utgangspunktet var studieforberedende, falt bort. Nå var det
+Studieretning for allmenne fag i den videregående skole som skulle
+være studieforberedende. Der var det tre linjer: Naturfaglinje (N),
+Samfunnsfaglinje (S) og Språklinje. Grunnlaget for alle var 1MA,
+som kunne følges opp med 2MN eller 2MS. Dette ble også kravet
+for opptak ved NHH. Norsk Matematikkråd etablerte i 1984 en
+forkunnskapstest, som hver institusjon kunne bruke for å følge egne
+studenters forkunnskaper i matematikk fra år til år, og eventuelt
+sammenligne seg med andre institusjoner. NHH gjorde bruk av
+denne fra starten av, noe som ga verdifull innsikt i både nivå og
+endringer over tid.
+Matematikk/Statistikk fungerte som en egen faggruppe
+innen Foretaksøkonomisk institutt til utpå 1980-tallet. Fra 1984
+fikk vi Institutt for matematikk og statistikk og Institutt for
+informasjonsbehandling. Vårt nye institutt hadde ved starten fire
+vitenskapelige medarbeidere (Martinussen, Stensholt, Lillestøl og
+Aase). Institutt for matematikk og statistikk eksisterte som eget
+institutt ut året 1997. Vinden hadde snudd. Nå ønsket man store
+institutter, hvert med utvidet administrativ stab. Dette medførte flere
+sammenslåinger, der de ansatte i matematikk og statistikk fikk et
+valg, slå seg sammen med Samfunn eller Foretak. Det siste ble valgt,
+og fra 1.1.1998 var staben igjen del av Institutt for foretaksøkonomi.
+Matematikk valgfag i siviløkonomstudiet og metodekurser
+i den senere Høyere avdeling la et godt grunnlag for studier i
+økonomiske fag. På 1960-tallet fant matematiske modeller veien
+inn i stadig flere områder, innen samfunnsøkonomi og ikke minst
+innen bedriftsøkonomi. Svært mange av de studenter som så for
+seg en akademisk karriere i årene som fulgte hadde matematikk
+valgfag. Før Høyskolen hadde sitt eget doktorgradsprogram dro
+mange til USA for å ta en PhD der. Det viste seg at den ballast i
+metodefag som de brakte med seg fra NHH ga en “myk” inntreden,
+og mulighet til å kaste seg over de mest krevende områder i tiden. Et
+eksempel er Finn Kydland. Han ble ferdig siviløkonom i 1968 med
+matematikk valgfag, og ble så ansatt som vitenskapelig assistent.
+Under et opphold ved Carnegie Mellon University i Pittsburgh i 1969
+fikk han anledning til å følge forelesninger. Han oppdaget da at hans
+bakgrunn i matematikk og operasjonsanalyse fra NHH gjorde det
+mulig å følge med uten særlige problemer, selv i avanserte kurs. Han
+
+23
+
+
+
+valgte derfor å søke om opptak som ordinær PhD-student, og vi vet
+hvordan det endte, med nobelpris i økonomi.
+
+24
+
+
+
+gratulerer
+Sven Ove Samuelsen 60 år
+Ørnulf Borgan og Anders Skrondal | Oslo
+10. april fylte Sven Ove Samuelsen 60 år.
+Sven Ove ble Cand.Scient i statistikk ved Universitetet i Oslo i
+1984. Fem år etter ble han Dr.Scient med en avhandling om “Two
+incomplete data problems in life-history analysis: Double censoring
+and the case-cohort design”.
+Etter avsluttet doktorgrad arbeidet Sven Ove noen år som forsker
+ved Seksjon for Epidemiologi ved Nasjonalt Folkehelseinstitutt
+(“Folkehelsa”). I 1992 ble han ansatt som førsteamanuensis i statistikk
+ved Matematisk institutt, Universitetet i Oslo og i 2007 fikk han
+opprykk til professor. Ved siden av arbeidet på universitetet, har Sven
+Ove hele tiden hatt en bistilling som forsker ved epidemiologimiljøet
+på Folkehelsa. Sven Ove har hatt flere forskningsopphold ved
+ledende utenlandske universiteter og forskningsinstitutter: University
+of Washington, Harvard University, London School of Economics,
+University of Southern California, Københavns Universitet og
+Karolinska Institutet.
+Sven Ove har publisert omtrent 85 vitenskapelige arbeider,
+og med en h-indeks på 26 i ISI Web of Science er han blant de
+mest siterte statistikerne på Matematisk institutt ved Universitetet
+i Oslo. Hans sentrale statistiske metodearbeider er alle innen
+levetidsanalysen. Spesielt er han internasjonalt kjent for sine arbeider
+om kasus-kohort og nøstede kasus-kontroll studier, og han har
+i en årrekke vært medredaktør for det internasjonale tidsskriftet
+“Lifetime Data Analysis”. Sven Ove er gjennom sine bidrag til korrekt
+metodebruk i norsk epidemiologi utvilsomt en statistiker med høy
+“impact”. I tillegg til utstrakt anvendelse av generell levetidsanalyse
+og biostatistikk er mange bidrag direkte inspirert av hans egne
+metodearbeider. Sven Ove var nylig sentral i arbeidet med en artikkel
+som ble publisert i “New England Journal of Medicine”, det mest
+prestisjefylte tidsskriftet i medisin.
+Sven Ove er en av mange statistikere her i landet som har
+bidratt til arbeidet i Norsk Statistisk Forening (NSF). Han har vært
+styremedlem (1995-97), sekretær (1997-99) og leder (2005-07) i NSF og
+leder av programkomitéen for det 12. norske statistikermøtet.
+Sven Ove er en omgjengelig og positiv person og en god kollega,
+og han har mange gode venner blant statistikere og epidemiologer i
+Oslo og rundt om i landet. På vegne av kollegaer ved Matematisk
+institutt og Folkehelsa, vil vi gratulere Sven Ove med dagen og ønske
+alt godt i årene som kommer.
+
+25
+
+
+
+Odd Aalen 70 år
+Jon Michael Gran, Kjetil Røysland og Morten Valberg | Oslo
+Den 6. mai blir en av våre aller største statistikere, Odd Aalen,
+70 år! Odd er internasjonalt anerkjent for sine mange bidrag i
+levetidsanalyse og i Norge har han vært en av foregangsfigurene for
+etableringen av et sterkt miljø i biostatistikk.
+Etter å ha tatt hovedfag i statistikk ved Universitetet i Oslo i
+1972, reiste Odd til Berkley i 1973. Da hadde han allerede utviklet
+det som skulle bli kjent som Nelson-Aalen-estimatoren for den
+kumulative hasardraten. Under oppholdet kom Odd på sporet av
+martingal og telleprosess-teori som et verktøy både for å utlede
+den nevnte estimator, men også som en ny matematisk basis for
+levetidsanalyse generelt. PhD-avhandlingen “Statistical inference for
+a familiy of counting prosesses” fra Berkley i 1975 markerer også
+starten på bruken av slik teori som en sentral del av feltet. I tiden
+som fulgte utviklet Odd den velkjente Aalen-Johansen-estimatoren
+i et samarbeid under et opphold i København, samt at han la
+grunnarbeidet for regresjonsmodellen kjent som Aalens additive
+hasard-modell.
+Fra 1977 var Odd ansatt som førsteamanuensis ved Universitetet
+i Tromsø, før han begynte ved Universitetet i Oslo i 1982 og ble
+professor i medisinsk statistikk ved Medisinsk Fakultet. Mye
+arbeid ble lagt ned i å etablere biostatistikk som en integrert del av
+profesjons- og PhD-studiene i medisin, og som et forskningsfelt ved
+universitetet. Avdeling for Biostatistikk ved Universitetet i Oslo teller
+i dag over 30 faste og midlertidige ansatte og utgjør sammen med
+statistikerne på Oslo Universitetssykehus et Senter for Biostatistikk og
+Epidemiologi (OCBE), med mer enn 50 ansatte. Senteret er dermed et
+av de største biostatistikk-miljøene i Europa. Det er vanskelig å se for
+seg at dette hadde vært mulig uten Odd.
+Utover 90-tallet ble Odds arbeid med Markov-modeller for
+HIV-progresjon starten på en interesse for modellering av smittsomme
+sykdommer og for et initiativ til å etablere et miljø for dette i Norge.
+De siste 15 årene har Odds aller største innsats vært innen kausal
+inferens - et felt som i den samme perioden har sett, og fortsatt
+ser, en enorm utvikling og aktivitet internasjonalt. Et viktig poeng
+for Odd har vært at prosessaspektet ikke har vært tilstrekkelig
+vektlagt i denne utviklingen, og han har bidratt med en rekke
+resultater for kausal inferens innen forløpsanalyse. Den additive
+hasard-modellen som Odd utviklet på slutten av 70-tallet, har vært
+sentral i denne sammenhengen og blir et stadig mer populært
+alternativ til Cox-modellen. Flere nye resultater av både Odd og
+andre, bygger på nettopp den additive modellen. Et eksempel er
+dynamisk stianalyse, en metode utviklet av Odd for dekomponering
+av totaleffekter i indirekte og direkte effekter.
+Odds arbeid med kausal inferens har også kastet nytt lys over
+mer klassiske metoder og problemstillinger i levetidsanalyse. Dette
+inkluderer bruken av kausale diagrammer for å vise hvordan
+såkalt frailty, eller uobservert heterogenitet, over tid kan gi opphav
+til seleksjonseffekter i oppfølgingsstudier – selv i randomiserte
+forsøk. Odds arbeid med frailty har i stor grad vært anvendt på
+problemstillinger innen kreft og han har i en lengre periode også vært
+tilknyttet Kreftregisteret i en bi-stilling.
+Odd har hatt en suksessrik karriere, men er selv mer opptatt av
+å fremme sine yngre kollegaer og samarbeidspartnere enn seg selv.
+
+26
+
+
+
+Han har alltid vært veldig opptatt av å bidra til et godt arbeidsmiljø
+ved avdeling for biostatistikk. Odd er en meget sprek 70-åring som
+stadig er like aktiv i sin forskning og vi ser frem til å følge den videre!
+Den 11. og 12. oktober i år feirer vi Odd med et todagers
+symposium i Oslo. Det blir foredrag med en rekke foredragsholdere
+innen levetidsanalyse, kausal inferens og modellering av
+infeksjonssykdommer. Alle interesserte er hjertelig velkommen
+(detaljer finnes på avdelingens nettsider).
+På vegne av venner og kollegaer ønsker vi Odd til lykke med
+70-årsdagen!
+
+27
+
+
+
+nekrologer
+Jan Michael Hoem (1939-2017)
+Tore Schweder | Oslo
+Jan M. Hoem døde 25. februar nesten 78 år gammel. Jan var en meget
+synlig og inspirerende person for matematisk orienterte studenter
+ved Universitetet i Oslo på 1960- og 1970-tallet. Særlig for de som
+også var interessert i samfunnsfag. Etter å ha blitt aktuar i 1964 ble
+han cand.real. med hovedfag i statistikk i 1968 og dr. philos. i 1969, 30
+år gammel. Det var spesielt statistisk modellering av livsløp og andre
+samfunnsmessige prosesser som interesserte Jan. Modellene måtte
+gi rom for individuell variasjon og tilfeldigheter i dynamikken. At
+en kunne bruke stokastiske prosesser til bedre å forstå dynamiske
+prosesser i samfunnet var forfriskende og åpnet opp for mange
+studier.
+Dette perspektivet var trukket opp av Erling Sverdrup her
+hjemme, med en artikkel i 1965 der han studerte “Estimates and
+test procedures in connection with stochastic models for deaths,
+recoveries and transfers between different states of health” i en
+Markovkjedemodell. Påvirkningen fra Sverdrup skinner igjennom
+i Jans mer siterte tidlige arbeider: “Markov chain models in life
+insurance” og “Purged and partial Markov chains”, begge fra
+1969. I motsetning til Sverdrup var Jan nøye med å sitere relevant
+faglitteratur, og han skrev ut sine matematiske argumenter i stor
+detalj.
+Mitt første samarbeid med Jan var å lage en simuleringsmodell
+for hvordan signaler ble overført i nerver i ett kattebein, i 1964. Jan
+kjente mange unge forskere, blant annet fra sin tid som konservativ
+studentpolitiker. En av disse var nevrologen Jan K. Jansen, som
+studerte nerver i katter.
+Mens Jan var universitetslektor i statistikk ved Sosialøkonomisk
+institutt fra 1965 til1969 ble han engasjert av Statistisk Sentralbyrå
+til å forberede statistiske befolkningsstudier basert på registerdata.
+Sosio-demografisk forskningsgruppe ble opprettet i 1970 og med
+Jan som leder på heltid fram til 1974. Gruppen ble også kalt
+Personmodellgruppen, fordi det var modeller for individuelle livsløp
+studert ved registerdata som sto i sentrum. Registerdata var blitt
+mulig I Norge etter at systemet med personnummer var innført i
+Norge i 1964. Svenskene hadde hatt personnummer helt fra 1947.
+Yngre forskerspirer ble tiltrukket av Jans ideer og hans energi.
+Han oppmuntret dem og hjalp på mange måter. God språkføring
+satte han høyt. Det hadde vi ikke lært mye om på universitetet. Våre
+håpefulle artikkelutkast kom tilbake fra Jan fulle av rettelser, i rødt.
+Jan var også ivrig på at vi måtte ut i den store verden, og flere av oss
+dro til Berkeley for å ta doktorgraden, godt hjulpet av Jan. Selv ble
+Jeg rekruttert til Personmodellgruppen i 1968, en dag i uka. Det var
+inspirerende å få være med i denne flerfaglige gruppen. Jan regjerte
+med nokså hard, men omsorgsfull hånd. Ikke minst var det moro
+før Jan kom om morgenen. En i gruppen leste da opp det siste han
+hadde skrevet i det som skulle bli boka Herr M. Det var en Kafkask
+fortelling der hovedpersonen liknet mistenkelig på Jan M. Hoem. Om
+det er blitt noe av denne boka vet jeg ikke.
+
+28
+
+
+
+Til forskjell fra det litt søvnige Avdeling C (for statistikk og
+aktuarfag) ved Matematisk institutt ansporte Jan oss til å skrive
+for publisering. Selv var jeg så heldig å komme på begrepet lokal
+uavhengighet, og fikk ut min første artikkel i 1970, med Jans hjelp.
+Jeg står også i gjeld til Jan på en annen måte. Etter hovedfaget hadde
+jeg ingen tanker om en akademisk løpebane, selv etter at jeg ble
+universitetslektor ved Sosialøkonomisk institutt i 1969. Det var aldri
+snakk om PhD eller dr. philos der eller ved Matematisk institutt. Men
+i 1971 var Eric Lehmann på besøk i Oslo. Jeg ble invitert med på
+lunsj og Lehmann spurte om jeg kunne være interessert i å ta PhD i
+Berkeley. Han forsikret meg om at jeg trolig ville bli tatt opp om jeg
+søkte. Det var nok Jan som sto bak dette. Det kom helt overraskende,
+men ble naturligvis viktig for meg.
+Jan ledet også Odd Aalen inn på forløpsanalyse, først og
+fremst i medisinsk sammenheng. Dette førte til stor framgang i
+forløpsanalysens teori og metode. Ørnulf Borgan er også preget av
+Jans ideer, energi og omsorg. Jan ble Ørnulfs veileder på en oppgave
+om kurveglatting. Etter hovedfag var Ørnulf i to og et halvt år
+adjunkt ved København Universitet etter at Hoem var blitt professor i
+aktuarfag der. Ragnar Nordberg står også i faglig gjeld til Jan, og han
+tok over Jans professorat i København.
+Jan hadde tidlig et stort internasjonalt nettverk. Han var
+gjesteforsker ved Berkeley-universitetet i California i 1969-70. Da de
+trengte ny professor i demografi der ble Jan invitert dit sommeren
+1973 som en mulig kandidat. Da var han visiting professor i statistikk
+ved Stanford. Blant hans mange opphold i USA var han i 1997-1998
+Fellow ved Center for Advanced Study in the Behavioral Sciences i
+Stanford. Tilfeldigvis var både Ørnulf og jeg på forskningsopphold
+ved Stanford det året, og gammelt vennskap ble styrket.
+Jan var skuffet over at Norge sa nei til EF i 1972. Han tok
+imidlertid personlig medlemskap ved å bli professor ved Københavns
+universitet i 1974. Fra 1981 til 1999 var han professor i demografi
+ved Stockholms universitet, der han særlig studerte samboerskap
+og familiedemografi. Hans siste jobb var som leder i Max Planck
+Instituttet for Demografisk Forskning i Rostock i Tyskland.
+Jan Hoem har publisert uhorvelig mye, og er godt sitert, først og
+fremst innen demografi. Han er sitert 6252 ganger (Google Scholar)
+og hans h-indeks er 45. Han har altså så mange arbeider som er sitert
+mist 45 ganger. Jans statistiske arbeider har i mindre grad preget
+statistikkfaget. Det er som forbilde og inspirator i unge år at han har
+satt spor i vårt fag.
+Jan Hoem var en høvding for demografi i Norden, også mens
+han var i Rostock. Han holdt god kontakt, særlig med demografer
+her hjemme. Til tross for å ha bodd og arbeidet i utlandet siden
+1974 kjente Jan seg som nordmann. Når vi var sammen utbrøt han
+ofte at det skulle ha vært flere nordmenn. Dette var ikke ment som
+et demografisk utsagn. Det var heller det at han mente nordmenn
+gjorde godt arbeid i demografi og statistikk, kanskje særlig de han
+selv hadde vært med å rekruttere og inspirere.
+
+Hans Rosling (1948-2017)
+Kjell Stordahl
+Den svenske statistikeren, legen og pedagogen Hans Rosling døde
+7. februar i år, 68 år gammel. Han var professor i internasjonal
+
+29
+
+
+
+helse ved Karolinska universitetet og ble utnevnt til æresdoktor ved
+Universitetet i Oslo i 2014.
+I 1991 var Rosling en av stifterne av den svenske grenen av
+organisasjon /textitLeger uten grenser. Han ble i 2009 av Foreign
+Policy Magazine presentert som en av verdens 100 viktigste globale
+tenkere og 2012 av Time Magazine som en av verdens 100 mest
+innflytelsesrike mennesker.
+Han var kjent som en eminent formidler av statistikk og mange av
+hans foredrag ligger på nettet. Han arbeidet mye med visualisering
+av multivariabel statistikk og han endte opp med utvikling av
+Gapminder som så ble til stiftelsen Gapminder Foundation der han
+var styreformann.
+Presentasjonen av multivariabel statistikk ved Gapminder er
+fascinerende. Det er utviklet en spesiell programvare for visualisering
+i fire dimensjoner der tiden er en av dimensjonene.
+BBC lagde i 2010 en dokumentar, The Joy of Stats om Hans
+Roslings og statistikken som også tidligere er vist på NRK. Her en
+annen link: /hrefhttp://www.gapminder.org/videos/the-joy-ofstats/
+Hans Rosling arbeidet mye med befolkningsprognoser og med
+fattigdomsprognoser og viser i to flotte programmer forbausende
+hvorledes verdens befolkning når et maksimum for så å avta
+og hvorledes antall fattige også etter hvert på sikt reduseres.
+Forutsetningene i modellene han bruker ligger i økt opplysning og
+kunnskap på familieplan. Her er link til et program om fattigdom
+og til hva Hans Rosling uttrykker om befolkningsøkningen//
+/hrefhttps://www.gapminder.org/videos/dont-panic-endpoverty/// /hrefhttp://www.fn.no/Tema/Befolkning/Verdensbefolkning//
+Rektor Ole Petter Ottersen ved Oslo Universitet skrev 9. februar i
+år en omtale av Hans Rosling i Aftenposten. Denne omtale, se under,
+er nå lagt ut på nettet med linker til diverse foredrag – det ene holdt
+han på Oslo universitet. Og som Ottersen sier «køen av studenter som
+ville inn på hans forelesninger strakte seg over halve Blindern».//
+/hrefhttp://www.msn.com/nb-no/nyheter/other/hans-rosling1948-2017-
+
+30
+
+
+
+meldinger
+Nytt fra Universitetet i Oslo
+Nye PhD-grader
+Olav Nikolai Breivik (16. desember 2016)
+Bayesian spatio-temporal hierarchical modeling: Bycatch in the Barents Sea
+shrimp fishery and North Atlantic windiness (prøveforelesning: Models and
+methods for compositional data)
+Bedømmelseskomité: Anders Nielsen, DTU Aqua, National Institute
+of Aquatic Resources; Ingelin Steinsland, Norwegian University of
+Science and Technology; Nils Lid Hjort, Universitetet i Oslo. Veiledere:
+Ida Scheel, Universitetet i Oslo; Bent Natvig, Universitetet i Oslo;
+Arne Huseby, Universitetet i Oslo; Geir Storvik, Universitetet i Oslo.
+Marie Lilleborge (13. januar 2016)
+Efficient Information Gathering in Bayesian Networks (prøveforelesning:
+Optimal insider utility portfolio in Kyle-Back models)
+Bedømmelseskomité: Thomas Dyhre Nielsen, Aalborg University;
+Daniela Cocchi, Università di Bologna; Ørnulf Borgan, Universitetet
+i Oslo. Veiledere: Ragnar Hauge, Norsk regnentral; Jo Eidsvik,
+Norwegian University of Science and Technology; Arne Huseby,
+Universitetet i Oslo.
+
+Nye mastergrader
+Lisa Li
+Cointegrated forward prices and spread options in energy markets
+Veileder: Fred Espen Benth
+Kristina Hauger
+Selection of claim size distribution in property insurance
+Veileder: Ingrid Hobæk Haff
+Lotti Meijer
+Local risk minimizing strategy in a market driven by time-changed Lévy
+noises
+Veileder: Giulia Di Nunno
+
+Nytt fra NTNU
+Nye PhD-grader
+Jingyi Guo (06.12.2016)
+Bayesian Meta-Analysis. (prøveforelesning: Prior distributions for variances
+in normal random effects)
+Bedømmelseskomité: Ulrike Held, University of Zurich, Switzerland;
+Gonzalo Garcia-Donato, Universidad de Castilla-La Mancha, Spain;
+Jo Eidsvik, NTNU. Veiledere: Andrea Riebler og Håvard Rue.
+Kari Krizak Halle (23.03.2017)
+Statistical methods for control of the familywise error rate when testing
+for genotype-phenotype associations. (prøveforelesning: Estimating the
+
+31
+
+
+
+science-wise false discovery rate – are most published research findings
+false?)
+Bedømmelseskomité: Mark Darrell Robinson, University of Zürich,
+Switzerland; Karola Manuela Zucknick, University of Oslo; Bo H.
+Lindqvist, NTNU. Veiledere: Mette Langaas, Øyvind Bakke og Pål
+Sætrom, NTNU.
+Haakon Christopher Bakka (31.03.2017)
+Modeling Spatial Dependencies using Barriers and Different Terrains.
+(prøveforelesning: Spatial smoothing.)
+Bedømmelseskomité: Simon Wood, University of Bristol, UK; Rosa
+Maria Crujeiras Casais, Universidade de Santiago de Compostela,
+Spain; Jarle Tufto, NTNU. Veiledere: Håvard Rue, NTNU, Janine
+Illian, University of St. Andrews og Daniel Simpson, University of
+Bath, UK.
+
+Nye mastergrader
+Yingzi Jin
+Factor Screening in a 12 Run Plackett-Burman design assuming four active
+factors.
+Veileder: John Tyssedal
+
+Nytilsatte
+Jingyi Guo
+PostDoc
+
+Nytt fra Universitetet i Bergen
+Nye mastergrader
+Kristine Sivertsen
+Interest rate models in Solvency II
+Veileder: Kjersti Aas
+
+Nytilsatte:
+Ingelin Steinsland
+Professor II
+
+Nytt fra Universitetet i Stavanger
+Nye mastergrader
+Gøran Jansson Berg
+Manglende data i analyser av longitudinelle data
+Veileder: Bjørn Auestad
+
+32
+
+
+
+SCANDINAVIAN JOURNAL OF STATISTICS
+Volume 44 • Number 1 • March 2017
+Contents:
+
+Analysis of Double Single Index Models
+Kun Chen & Yanyuan Ma
+
+1
+
+Models for Extremal Dependence Derived from
+Skew-Symmetric Families
+Boris Beranger, Simone A. Padoan & Scott A. Sisson
+
+21
+
+Spatio-Temporal Ornstein – Uhlenbeck Processes: Theory, Simulation and
+Statistical Inference
+Michele Nguyen & Almut E. D. Veraart
+
+46
+
+Collapsing of Non-Centred Parameterized MCMC Algorithms with
+Applications to Epidemic Models
+Peter Neal & Fei Xiang
+
+81
+
+Empirical Processes in Survey Sampling with (Conditional)
+Poisson Designs
+Patrice Bertail, Emilie Chautru & Stephan Clémençon
+
+97
+
+A Semi-Parametric Transformation Frailty Model for Semi-Competing
+Risks Survival Data
+Fei Jiang & Sebastien Haneuse
+
+112
+
+Likelihood Inference for Multivariate Extreme Value Distributions
+Whose Spectral Vectors Have Known Conditional Distributions
+Alexis Bienvenüe & Christian Y. Robert
+
+130
+
+Bayesian Estimators for Small Area Models Shrinking Both Means
+and Variances
+Shonosuke Sugasawa, Hiromasa Tamae & Tatsuya Kubokawa
+
+150
+
+Semi-Parametric Estimation in a Single-Index Model with
+Endogenous Variables
+Melanie Birke, Sebastien Van Bellegem & Ingrid Van Keilegom
+
+168
+
+Palm Distributions for Log Gaussian Cox Processes
+Jean-François Coeurjolly, Jesper Møller & Rasmus Waagepetersen
+
+192
+
+Contrast Estimation for Parametric Stationary Determinantal
+Point Processes
+Christophe Ange Napoléon Biscio & Frédéric Lavancier
+
+204
+
+Impact of Model Choice on LR Assessment in Case of Rare
+Haplotype Match (Frequentist Approach)
+Giulia Cereda
+
+230
+
+
+
+Årskontingent i Norsk Statistisk Forening for 2017
+Kontonummer: 0530 27 73299, Vipps-nummer: 97112
+Kasserer: E-mail: turid.follestad@ntnu.no , Tlf: 72 82 08 28
+
+_____________________________________________
+Medlemskontingenten i NSF er kr. 200,- pr. år for ordinære medlemmer. Mastergradsstudenter får gratis medlemskap i to
+år fra innmelding. Dersom du er usikker på når du betalte sist kan du kontakte kassereren per epost.
+Hvordan betale kontingenten?
+Kontingenten kan betales på en av følgende måter:
+ Ved overføring til kontonummer 0530.27.73299
+ Ved bruk av Vipps, til Vipps-nummer 97112
+Hva gjør vi med pengene?
+De største utgiftspostene for NSF er overføringer til lokallagene i Oslo, Bergen og Trondheim, utdeling av Sverdrupprisen,
+NSFs medlemskap i The European Mathematical Society (EMS) og The International Statistical Institute (ISI), og utgifter i
+forbindelse med diverse arrangementer (bl.a. støtte til studenter ved deltakelse på det norske statistikermøtet).
+Medlemsregister
+For at medlemsregisteret skal være best mulig oppdatert er det viktig at du oppgir evt. ny post-/e-postadresse ved å sende
+en epost til kassereren, turid.follestad@ntnu.no . Det er opprettet en egen epostliste for NSFs medlemmer, nsfmedlemmer@math.uio.no. Dersom du ikke mottar e-post fra denne listen, send den oppdaterte e-postadressen din til
+kassereren.
+Betalingsfrist for innbetaling av kontingent er 30. april 2017. Vennligst oppgi hvem kontingenten gjelder for ved
+innbetaling, dette er spesielt viktig dersom din arbeidsgiver betaler kontingenten.
+
+PÅ FORHÅND TAKK!
+Vennlig hilsen
+Turid Follestad
+Kasserer NSF
+
+Vipps-nummer: 97112
+
+Kontingent NSF 2017: kr. 200
+
+30.04.2017
+
+NSF v/ Turid Follestad
+AKF, Det medisinske fakultet
+Postboks 8905
+7491 Trondheim
+
+0530 27 73299
+
+
+

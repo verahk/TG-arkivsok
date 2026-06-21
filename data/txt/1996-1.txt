@@ -1,0 +1,3030 @@
+ISSN 0803-8953
+TILFELDIG GANG
+
+Nr. 1, årgang 13
+
+Mai 1996
+
+http://www.nr.no/TilfeldigGang/
+
+Utgitt av Norsk Statistisk Forening
+
+INNHOLD
+
+Fra redaktøren. Thore Egeland.
+Fra formannen. Arnjot Høyland.
+Faglig stoff
+
+Statistikk i skolen - hva nå? Ørnulf Borgan.
+Litt fra statistikkfagets historie i Norge. Arnljot Høyland, NTNU.
+Innholdsfortegnelse fra "Statistisk sett”.
+Problemer og paradokser.
+Medstat Research.
+Konferanser og kurs
+16th Nordic Conference on Mathematical Statistics.
+
+Symposium on Frailty Models and Their Use in Epidemiology
+Metodfrågor i den officiella statistiken.
+Konferanseoversikt.
+Nytt fra universiteter og høyskoler
+
+|
+
+Nytt fra Gruppe for statistikk, NTNU.
+
+Nytt fra Universitetet i Oslo.
+Nytt fra Universitetet i Tromsø.
+Meldinger
+Forskningskoordinator - ny stilling ved DNR.
+
+Kronikk fra Dagbladet: Siste indre og olympisk rettferdighet.
+Competition for young statisticians from developing countries.
+
+Svar pa rekreasjoner.
+Medlemskap i Norsk Statistisk Forening.
+Bidrag til Tilfeldig Gang.
+
+
+
+
+
+Statistisk sett
+Dag Solstad har sagt noe i nærheten av ”alle som har vært i et bibliotek vet
+at det er skrevet nok bøker”. Det er et utsagn det er vanskelig å bestride.
+Imidlertid er det noen skrifter som fortjener mer oppmerksomhet enn de blir
+til del. Et slikt er 'Statistisk sett”, jubileumsskrift, Norsk Statistisk Forening
+1936-1986. Hvilket minner oss om at vi fyller år!
+Vi gjengir innholdsfortegnelsen fra jubileumsheftet i dette nummer. En av
+bidragsyterne - Arnljot Høyland - følger opp historiske linjer fra 100 år tilbake
+i dette og neste nummer. Den ikke ukjente amerikanske statistiker Peter
+Bickel inkluderer kjennskap til statistikkfagets historie i en relativt kort liste
+over emner nyutdannede statistikere bør ha kjennskap til. 'Statistisk sett” og
+Høylands artikler er bidrag i så måte. I den forbindelse lanserer undertegnede ‘Statistikkfagets historie” som forslag til tema for etterutdanningseminar
+våren 1997 (se oppfordring fra formannen i dette heftet) vel vitende om at
+han nok er suspekt ung for denslags interesser. I formidlende retning skal
+det sies at jeg naturligvis vil være tilhører og ikke bidragsyter dersom et slikt
+seminar går av stabelen.
+
+I spalten ‘Nytt fra Universitet og høyskoler” står blant annet
+Professor Arnljot Høyland er av H M Kongen utnevnt til Ridder
+I klasse av St Olavs Orden.
+Emil Spjøvoll er valgt til den første rektor ved Norges teknisknaturvitenskapelige universitet - NTNU.
+
+Det skjer betydningsfulle ting i jubileumsåret!
+
+Det er definitivt mindre betydningsfullt at undertegnede slutter ved Norsk
+Regnesentral (NR) etter seks gode år. Nøyaktig hvor jeg havner er faktisk ikke helt avklart ennå — men min kopling mot universitetsverdenen blir
+sterkere. Tilfeldig Gangs (TG) adresse forblir uendret- jeg vil arbeide uforandret med TG med NR som base. Det er imidlertid en fordel om dere lar
+bidragene strømme inn adressert til Turid Follestad.
+
+Thore Egeland, 1. mai 1996.
+
+
+
+15.april 1996
+
+Fra formannen
+
+Som nevnt i forrige utgave av TG, håper Norsk Statistisk Forening å kunne
+
+arrangere et etterutdanningsseminar våren 1997. For at Styret skal kunne
+finne frem til et emne som er av interesse for tilstrekkelig mange av medlemmene,
+
+har vi bedt om forslag til valg av emne for dette seminaret. Vi har hittil fått
+bare ett slikt innspill og må derfor på nytt etterlyse slike forslag.
+Vil dere sende forslaget til meg, er adressen
+Arnljot Høyland
+
+Inst. for matematiske fag, NTNU, 7034 Trondheim
+fax: 73 - 593524
+
+e-mail: Arnljot Qimf.unit.no
+
+
+
+Statistikk i skolen — hva nå?
+
+Med Reform-94 er statistikk og sannsynlighetsregning på full fart inn i
+den videregående skolen.
+
+Fra skoleåret 1995/96 får elever som tar mate-
+
+matikk i 2.klasse en innføring i kombinatorikk og sannsynlighetsregning, og
+
+fra neste skoleår vil noe mer sannsynlighetsregning og litt statistikk inngå i
+matematikkundervisningen i 3.klasse.
+
+Det er gledelig at faget vårt endelig har blitt så “voksent” at det har fått
+gjennomslag i den videregående skolen. Dette vil i årene som kommer føre
+
+til at store elevgrupper får et visst kjennskap til statistikk og sannsynlighetsregning. Den allmenndannende effekten av dette er nok den viktigste da en
+
+betydelig del av befolkningen vil få en forståelse av sannsynlighetsbegrepet
+og betydningen av tilfeldig variasjon. Dette vil, som Arnljot Høyland påpeker
+
+i TG 4/95, gjøre det vesentlig lettere for oss å markedsføre og profilere faget
+vårt ovenfor et bredere publikum.
+
+Men reformen er også viktig for under-
+
+visningen og rekrutteringen til statistikkfaget ved høyskoler og universiteter.
+
+Det er grunn til å håpe på større rekruttering til fagstudiene i statistikk, og
+brukerkursene våre kan komme lenger i presentasjon og diskusjon av viktige
+statistiske metoder enn det som er tilfellet i dag.
+Det er sikkert delte meninger, også blant statistikere, om hvilke deler av
+
+faget vårt som burde vært tatt med i den videregående skolen og om hvordan dette bør presenteres.
+
+Arnljot Høyland kommer i TG 4/95 med noen
+
+synspunkter i denne forbindelse. Jeg syns det er fornuftig at elevene hovedsakelig skal lære sannsynlighetsregning, men med innslag av enkle statistiske problemstillinger som gir perspektiver på hva statistikkfaget er og kan
+
+brukes til.
+
+Spillsituasjoner (terning, kort, lotto, m.m.)
+
+har sin naturlige
+
+plass i sannsynlighetsregningen. Det er imidlertid viktig at disse ikke får en
+dominerende plass i undervisningen og i eksamensoppgavene, men at en viser
+
+fram et vidt spektrum av enkle, men reelle, anvendelser (også statistiske) av
+sannsynlighetsregningen, for eksempel innen demografi, forsikring, genetikk,
+kvalitetskontroll og medisin. Det er også av stor betydning at modellbegrepet
+
+blir diskutert grundig slik at elevene får en forståelse av forholdet mellom en
+sannsynlighetsmodell og den virkelighet den beskriver.
+
+Selv om jeg er 100% positiv til at faget vårt nå kommer inn i den videregående skolen, og i det alt vesentlig er enig i de emneområdene fagplanen
+nevner, innrømmer jeg gjerne at situasjonen ikke er uten problemer. Jeg vil
+
+nedenfor ta for meg noen av disse og antyde hvordan jeg syns vi bør møte de
+
+
+
+utfordringene disse problemene stiller oss ovenfor.
+Det er flere uklare punkter i fagplanene, og det går ikke klart fram
+nøyaktig hva pensum skal være. Jostein Lillestøl diskuterer dette nærmere
+
+i TG 3/95. Dette har gjort jobben vanskelig for de som skriver lærebøker.
+Fagstatistikere har blitt trukket inn ved utarbeidelsen av enkelte av lærebøkene. Dette er svært positivt og jeg gir full honnør til de statistikerne som
+
+har engasjert seg. Men uten at jeg sitter med full oversikt over situasjonen, er
+mitt inntrykk at dette burde skjedd i langt større grad. Her bør vi imidlertid
+
+ikke bare skylde på forlagene og skolens folk — de har gjort så godt de kan i
+en vanskelig situasjon. Mye av grunnen til at statistikere ikke er trukket mer
+
+med er nok å finne i at de fleste av oss (inklusive undertegnede) i liten grad
+har brydd oss om hva som skjer i skolen.
+Lærebøkene for 2.klasse har vært på markedet et års tid nå, og de for
+
+3.klasse kommer ut i disse dager. Jeg har ikke gått systematisk gjennom
+de bøkene som foreligger. Mitt lille inntrykk er at de holder et anstendig
+nivå, men at unøyaktigheter og misforståelser forekommer. Videre blir nok
+kombinatoriske problemer og spillsituasjoner viet større oppmerksomhet på
+bekostning av andre anvendelser enn hva jeg kunne ønsket.
+
+Jeg håper at
+
+flere fagstatistikere vil ta en titt på lærebøkene og skaffe seg en oversikt over
+hvordan faget vårt blir presentert i den videregående skolen. Da lærebøkene
+vil komme ut i nye og reviderte opplag om ikke alt for mange år, vil det være
+
+av stor betydning om erfarne statistikere går inn i en positiv dialog med
+
+lærebokforfatterne med tanke på å rette opp feil og forbedre framstillingen
+i senere utgaver. Men i denne prosessen må vi vokte oss vel for “a sette oss
+på vår høye hest” og bare kritisere. Det vil kun skape avstand mellom oss
+og skolens folk og umuliggjøre en dialog i tiden som kommer.
+
+I tillegg til lærebøkene (og eksamensoppgavene) vil kompetansen til de
+enkelte matematikklærere avgjøre hvordan faget vårt blir presentert i skolen.
+
+Yngre matematikklærere har ofte minst 5 vekttall statistikk i fagkretsen sin.
+Disse utgjør imidlertid et mindretall av de lærerne som underviser matematikk i 2. og 3.klasse. Dette betyr at de fleste lærerne som vil undervise
+
+statistikk og sannsynlighetsregning ikke har noen formell kompetansei faget.
+Det er et alvorlig problem og gjør etterutdanning av lærere til en viktig oppgave.
+
+Jeg vet at etterutdanningskurs i statistikk og sannsynlighetsregning
+
+har vært holdt/planlegges holdt ved flere av våre universiteter. I Oslo har
+vi gitt etterutdanning av lærere stor prioritet det siste året og vil fortsette
+
+å gjøre det i året som kommer. Denne etterutdanningen har foregått på
+to måter. Sist høst ble deler av vårt fjernundervisningsopplegg (utarbeidet
+
+av Eva Skovlund) i STO01 sendt over TV Norges frekvens hver lørdag med
+lærerne som spesiell målgruppe. Videoforelesningene ble supplert med tre
+spørsmål- og kommentarrunder spesielt utarbeidet for anledningen. Videre
+
+har undertegnede (i stedet for vanlig studentundervisning) i samarbeid med
+Torgeir Onstad ved Institutt for lærerutdanning og skoleutvikling ved UiO
+utarbeidet et tre dager kursopplegg som dekker pensumet i 2.klasse og et
+
+
+
+fem dagers opplegg for 3.klasses pensum.
+
+Det første av disse kursene har
+
+vært avholdt i alt åtte ganger og omtrent 400 lærere, hovedsaklig fra Øst-
+
+landsområdet, har gjennomgått kurset. Kurset for 3.klasse ble avholdt første
+
+gang rett før påske, og det vil bli gjentatt flere ganger (særlig) kommende
+høst. Vår erfaring fra disse kursene er meget god: etterspørselen etter kursene
+er stor og lærerne er positive og svært motiverte for å sette seg inn i stoffet.
+Det er helt klart behov for et variert og omfattende etterutdanningstilbud i
+statistikk og sannsynlighetsregning i flere år framover.
+Avslutningsvis vil jeg gjenta at det er veldig positivt at faget vårt har
+
+fått innpass i den videregående skolen.
+
+Selv om fagplanene er vedtatt og
+
+lærebøkene (snart) er skrevet, har faget enda ikke “satt seg” i en skolesammenheng. Dette vil skje i løpet av de nærmeste årene blant annet ved de
+eksamensoppgavene som blir gitt og ved de kommende lærebokrevisjonene.
+Det er derfor viktig at vi statistikere i tiden framover i langt større grad enn
+
+før interesserer oss for det som skjer i skolen, at vi bidrar til kompetanse-
+
+heving blant lærerne ved et omfattende etterutdanningstilbud og at vi går
+inn i en positiv dialog med skolens folk for å gjøre opplegget best mulig innen de gitte rammer. I tillegg til dette bør vi selvfølgelig holde en løpende
+
+diskusjon (for eksempel i TGs spalter) om skolerelatert stoff, blant annet
+om hvordan fagplanene ideelt burde ha sett ut og om hvordan statistikk og
+
+sannsynlighetsregning bør undervises i skolen. Men da det antagelig vil gå
+mange år til fagplanene blir revidert, må vi unngå å fortape oss i prinsipielle
+diskusjoner og forsømme den viktige innsatsen som må gjøres de nærmeste
+2-3 årene.
+
+Ørnulf Borgan
+
+
+
+Litt fra
+STATISTIKKFAGETS HISTORIE I NORGE
+
+Kåseri
+holdt på årsmøtet 21/11 1995
+
+i Norsk Statistisk Forening, Trondheimsavdelingen
+av
+
+Arnljot Høyland
+
+(Del I. Del II kommer i neste nummer.)
+
+Jeg er blitt bedt om å fortelle litt om statistikkfagets historie i Norge, og det skal jeg
+gjøre, men jeg vil med en gang si at jeg må nøye meg med å gi noen glimt fra denne
+historien.
+
+Som dere vet har vi nettopp fått en ny læreplan for matematikk i den videregående
+skole. Studieretningsfaget matematikk har nå fått to retninger, X og Y, som har mange
+
+felles elementer. I 2. klasse er ”kombinatorikk og sannsynlighetsregning” tema i begge
+retninger (2MX og 2MY) , mens Y- retningen også har ”statistikk” som tema. I 3.klasse
+er ”statistikk og sannsynlighetsregning” emne i X-retningen, mens ”statistikk” er tema
+
+i Y-retningen (3MX og 3MY).
+
+Når en samtidig vet at matematisk statistikk først ble innført som eget fag ved Det
+Matematisk-Naturvitenskapelige Fakultet ved Universitetet i Oslo i 1955, og ved NTH i
+
+1965 , kunne en ledes til å tro at statistikk må være et ”ungt” fag og at det er noe tidlig
+å begynne å snakke om fagets historie.
+Men begrepet statistikk betegnet opprinnelig læren om hvordan en stat kan samle inn
+
+opplysninger om sine innbyggere, f.eks om folketall, fødsler, dødsfall, emigrasjon , immigrasjon og andre data av interesse for styre og stell.
+
+Denne aktiviteten kan da umulig
+
+være av så ny dato ?
+Undersøker en saken litt nærmere, finner en at denne form for statistikk er mye eldre. I tillegg til selve innsamlingen av slik informasjon, omfattet denne statistikken også metoder
+
+for presentasjon av slik informasjon i oversiktlige tabeller og grafiske fremstillinger av
+forskjellig slag, m.a.o. det vi idag kaller Beskrivende (Deskriptiv) statistikk.
+Denne form for statistikk er vesensforskjellig fra det statistikkfaget som for ca. 40 år siden
+ble innført ved Det Matematisk-Naturvitenskapelige fakultet ved Universitetet i Oslo, og
+
+som altså nå er på vei inn i den videregående skolen. Dette ”nye” statistikkfaget er først
+og fremst et metodefag som henter sitt verktøy fra matematikk og sannsynlighetsregning, (det går da også ofte under navn av matematisk statistikk), mens det ”gamle”
+
+
+
+statistikkfaget i hovedsak var et samfunnsfag.
+
+Når en skal ta for seg statistikkfagets historie i Norge, er det derfor naturlig først å se
+på det ”gamle” .
+Det første spørsmål som melder seg, er da :
+Hvor gammelt er det ”gamle” ?
+
+Allerede på 1700 - tallet hadde enkeltstater i Sentral-Europa nyttet denne samfunnsbeskrivende statistikken i styre og stell.
+
+Nær kulturell forbindelse mellom Sentral- og
+
+Nord-Europa via København, førte til at Norge relativt raskt kom etter.
+
+Det første professorat i statistikk (egentlig i lovkyndighet, statsøkonomi og statistikk)
+ved Universitetet i Oslo ble opprettet ved Det Juridiske Fakultet i 1840, og den første
+
+innehaver av dette professoratet var den historisk velkjente Anton Martinius Schweigaard
+
+(1808-1870), som virket i professoratet til sin død.
+Hans vitenskapelige produksjon innskrenket seg i det alt vesentlige til utarbeidelse av
+
+lærebøker , bøker som kom til å prege norsk rettsvitenskapelig tenkning og rettspraksis
+i mange år etter hans død.
+
+Han var samtidig en av datidens samfunnsstøtter, satt på
+
+Stortinget fra 1840 - 1860 og ble ”far” til en rekke lover av stor betydning for Norge.
+La oss se hvem som innehadde slike professorater i statistikk ved Det Juridiske Fakultet
+i Oslo.
+Listen ser slik ut:
+
+Schweigaard, A.M. (1840-1870)
+Aschehoug, T.H. (1880 - 1909)
+Hertzberg, Ebbe (1877 - 1886)
+Morgenstierne, Bredo (1889 - 1919)
+
+Jæger, Oskar (1902 - 1930)
+Rygg, Nikolai (1910 -1913)
+
+Aarum,Thorvald (1917 - 1926)
+Keilhau, Wilhelm (1921 - 1954)
+Wedervang, Ingvar (1925-1946)
+
+Frisch, Ragnar (1931 - 1965)
+
+Sinding, Thomas (1947 - 1951)
+Einarsen, Johan (1947 - 1971)
+
+Haavelmo, Trygve (1948 - 1979)
+Petersen, Erling (1953 - 1976)
+Vogt, Johan (1958 - 1970)
+Flere av disse var samtidig ledende politikere, noen konservative, andre radikale. Vi må
+
+nøye oss med å omtale de tre som fikk størst innflytelse på statistikkfagets utvikling:
+Nikolai Rygg, som senere ble direktør i Statistisk Sentralbyrå og deretter sjefsdirektør i
+Norges Bank,
+Ragnar Frisch, som organiserte det nye Sosialøkonomiske Institutt og ble den første som
+
+fikk Nobels minnepris i økonomi (1969), og
+
+
+
+Trygve Haavelmo, som også fikk Nobels minnepris i økonomi (1989).
+I Jubileumsskrift til Norsk Statistisk Forening (1936 - 1986) har Tore Schweder skrevet
+en artikkel om statistikkfagets historie, der han har tatt for seg Ryggs forelesninger fra
+
+1912/1913. Jeg tillater meg å stjele litt fra hans artikkel.
+Rygg beskriver der statistikken som et hjelpemiddel til å beskrive samfunnslivet. I denne
+
+sammenheng er det viktig å heve blikket fra enkeltindividet til ”massen” av individer
+som så karakteriseres kvantitativt.
+Rygg sier videre at ” Som vitenskap beskjeftiger statistikken seg utelukkende med sosiale
+forhold, men den statistiske metode kan også komme til anvendelse utenfor det sosiale felt
+i meteorologi, medisin ...”. Det har vært foreslått å kalle disse anvendelser for numeriske
+metoder, sier Rygg, men han ser ingen grunn til det.
+
+”Statistikerens oppgave er den
+
+kvantitative fiksering av en sosial masse.”
+
+Ifølge Schweder tok Rygg avstand fra at statistikeren skulle nøye seg med å samle og
+beskrive, og ikke trekke slutninger om årsak og virkning . Han hevder at det nettopp er
+
+den statistiske vitenskaps sak å trenge inn i resultatene, underkaste dem den analytiske
+bearbeidelse, påvise lovmessigheter, påvise det typiske og gjøre rede for årsak og virkning.
+
+Rygg ser altså på statistikken, både som et samfunnsfag og et metodefag.
+
+Han gjør
+
+imidlertid ikke bruk av sannsynlighetsregning og skal heller ikke hatt mye til overs for
+
+utvalgsundersøkelser. Fullstendig telling måtte til.
+Av ovennevnte professorer var det først Frisch og senere Haavelmo som gjorde bruk av
+sannsynlighetsregning og som nyttet den til å etablere stokastiske modeller av situasjoner
+de studerte. De har begge i sin forskning levert vesentlige og originale bidrag til det vi
+
+idag kaller statistisk metodelære. Tittelen på Haavelmos doktoravhandling, som forelå
+
+ferdig i 1944, men som på grunn av krigen først ble forsvart for doktorgraden i 1946, var
+”The probabilistic approach in econometrics”.
+Idag sies det om denne avhandlingen at den har vært helt epokegjørende for utviklingen
+av økonometrien.
+
+Nå er vi altså kommet over fra den ”gamle” til den ”nye” versjon av statistikkfaget, men
+
+før vi tar skrittet helt over, skal vi gå litt tilbake i historien igjen. Det var nemlig også
+noen andre enn de nevnte professorenei statistikk som, hver på sin måte, bidro vesentlig
+
+til utviklingen av statistikkfaget i Norge.
+To av disse var
+
+Anders Nikolai Kiær (1838 - 1919), og
+Eilert Sundt (1817 - 1875).
+Kiær ble den første direktør i det nystiftede Statistisk Sentralbyrå (1876 - 1913), og han
+hadde gode kontakter i de statistiske sentralbyråene verden over. Det Internasjonale
+
+Statistiske Institutt, I.S.I., der sentralbyrå direktørene automatisk er medlemmer i kraft
+av sin stilling, var etablert i 1885, og Kiær skal ha vært et meget aktivt medlem. Han
+
+oppnådde således å få lagt det 5. møte i I.S.I. (1899) til Kristiania , der han var vert.
+Hans mest betydningsfulle vitenskapelige bidrag var en avhandling om det vi idag kaller
+
+
+
+utvalgsundersøkelser,
+
+”Den Repræsentative Undersøgelsesmetode”
+
+For å illustrere hvordan han tenkte og hvordan han skaffet seg sine utvalg, skal vi se på
+de første sidene av hans avhandling.
+
+*Den repreæsentative Undersøgelsesmethode.
+
+Af
+A.N. Kiær.
+Foredrag i den hist.-filos. Klasse 9de April 1897.
+
+Den Undersøgelsesmethode, som jeg ved nærværende Anledning skal tillade meg at
+omhandle, har hidindtil kun i ringe Grad været anvendt i Statistiken efter nogen systematisk anlagt Plan, men er, efter min Opfatning, egnet til at anvendes i stor Udstrækning
+og synes at love praktisk brugbare, saavelsom i videnskabelig Henseende viktige Resultater paa adskillige Undersøgelsesfelter, hvor den statistiske Forskning endnu ikke har
+trængt inn. Denne Methode, som man kan kalde den repræsentative, karakteriserer seg
+
+selv derved, at man i Tilknytning til de almengyldige Holdepunkter, som Statistiken
+giver for Undersøgelsesfeltet i dets Helhed, anstiller dybere gaaende, mere specielle, Undersøgelser paa enkelte spredte Punkter eller mindre Omraader, der er saaledes fordelte
+over det hele Undersøgelsesfelt og saaledes beskafne, at de tilsammen kunne antages at
+
+danne et korrekt Miniaturbillede af det hele.
+Forinden jeg gaar over til en nærmere Beskrivelse af denne Methode for Statis-
+
+tikens Vedkommende og en Paavisning af, hvorledes nogle i denne Retning foretagne
+Undersøgelser er faldt ud for vort Lands Vedkommende, bør det bemærkes, at Methoden efter sit Princip ikke er begrænset til Statistikens Omraade alene, men at den,
+saavidt skjønnes, dels har været anvendt, dels vil kunne med Fordel bringes i Anvendelse paa adskillige andre videnskabelige Omraader. Som Exempel kan bl. a. nævnes de
+geologiske Undersøkelser. Det er her klart, at der, paa Grund af Undersøgelsesobjektets
+umaadelige Udstrækning saaveli Overfladen som i Dybden, ikke kan være Tale om nogen
+fuldstændig Undersøgelse af de Fjeldmasser og Jordlag, der findes i et helt Land. Hvad
+man gjør, er at anstille nøiaktige Undersøgelser her og der af Stenarter og Jordsmon paa
+en Mangfoldighet af spredte Steder, eftersom Leilighed gives. Af de Resultater, hvortil
+
+man saaledes kommer ved disse spredte Undersøgelser slutter man sig analogisk til de
+
+ikke undersøgte og danner sig paa dette Grundlag en Oversikt over det hele. Men det
+er en Selvfølge, at Værdien af saadanne Undersøgelser i høi Grad beror paa, hvorvidt
+
+de specielt iagttagne Punkter i sin Helhed kunne antages at være repræsentative, eller
+hvorvidt man ved Siden af disse specielle Punkter har en repræsentativ Undersøgelse, der
+kan forbinde de partielle Undersøgelsesfelter til et Hele. Paa lignende Maade forholder det
+sig med Dybvandssonderingene, samt med Undersøgelserne angaaende et Lands Flora og
+
+Fauna, de meteorologiske Iakttagelser m. m. Exemplerne kunde visselig forfleres; men jeg
+skal ikke opholde mig videre derved, da det, jeg allerede har anført, vil være tilstrækkeligt
+til at paavise de Analogier, som gjør sig gjældende mellem de nævnte naturvidenskabelige
+
+Undersøgelsesobjekter og de Foreteelser paa Samfundslivets Omraade, som Statistiken
+
+
+
+beskjæftiger sig med. Ogsaa de sociale Phænomener er nemlig i sin Art saa mangfoldige,
+saa forgrenede og indviklede, at de fuldt vel taaler Sammenligning f. Ex. med et Lands
+Flora.
+
+For at trænge ind til Forstaaelsen af de sociale Phænomener, er det i mange
+
+Tilfælde nødvendigt at gaa i en stor Detail og opstille en saa lang Række af specielle
+
+Spørgsmaal, at de vilde blive aldeles uoverkommeligt at foretage Undersøgelsen for et
+helt Lands Befolkning, ja ikke engang for samtlige Indbyggere i en stor By. Derfor er
+man, ligesaavel paa det sociale Felt, som paa Naturvidenskabernes, saavidt skjønnes,
+absolut henvist til at foretage partielle Undersøgelser, og da synes det klart, at disse
+vil give det bedste Udbytte, naar de er anlagte saaledes, at de forskjellige spredte Un-
+
+dersøgelsesfelter tilsammen danner et repræsentativt Billede af det hele.
+
+Jeg skal nu gaa over til at gjøre Rede for, hvorledes dette System er bleven begi
+
+Anvendelse ved et Par i seneste Tid foretagne statistiske Undersøgelser i Norge. Om jeg
+end herved begiver mig ind paa et specielt statistisk Terræn, vil jeg dog haabe, at dette
+ikke kommer til at føles altfor stærkt af mine Tilhørere, dels fordi det her gjælder Un-
+
+dersøgelser angaaende betydningsfulde sociale Forhold, dels fordi de statistiske Methoder,
+som jeg skal omtale, vil frembyde adskillige Analogier med de Undersøgelsesmethoder,
+der anvendes paa andre videnskabelige Omraader.
+
+Ved den første af disse Undersøgelser, hvis Resultater foreligger i en nylig offentliggjort Statistik over Indtægts- og Formuesforhold i Norge, blev det repræsentative System
+anvendt direktei Forbindelse med den almindelige Folketælling for 1891, idet man, under
+
+den Sortering af Personsedler, der foretoges for Udarbeidelsen at Folketællingstabellerne
+for nævnte Aar, benyttede den under Arbeidets Gang givne bekvemme Anledning til at
+tage Afskrifter af de originale Folketællingsschemaer for et Antal af 128 Herreder og 23
+Byer, forsaavidt angik Mandspersoner, der i Aaret 1890 havde fylt det 17, 22, 27, 32,
+37 og saa fremdeles hvert femte Aldersaar, og hvis Navne derhos begyndte med visse
+
+Forbogstaver.
+Man vil her let forstaa, at man paa denne Maade i tredobbelt Grad reducerede det
+
+originale Folketællingsmateriale, der i sit hele Omfang vilde have været aldeles uoverkommeligt ved en Undersøgelse som denne. For det første, reduceredes nemlig Materialet ved
+Utvalget av Herreder og Byer, dernæst ved Udplukning alene af hvert femte Aldersaar,
+og endelig derved, at man indenfor de saaledes begrænsede Undersøgelsesfelter alene tog
+de Personer, hvis Navn begynte paa en vis Maade.
+
+Hvorvidt en Repræsentation kan anses at give et tilnærmelsesvis rigtigt Miniaturbillede af det hele Undersøgelsesfelt, beror selvfølgelig dels paa, hvorvidt man har lagt
+rigtige Principer til Grund for Udvalget, dels paa hvorvidt Udvalget er af tilstrækkelig
+stort Omfang. I førstnævnte Henseende, der er af ulige større Betydning end Udvalgets
+
+Størrelse, bemærkes, at de omhandlede Herreder og Byer er væsentlig de samme, som de,
+der findes anførtei Sth. Prp. No. 48 for 1890, hvor der var meddelt endel Oplysninger,
+hvormed man ansaa det ønskeligt, at de nye sattes i Forbindelse.
+
+Da disse Herreder
+
+og Byer findes spredt over det hele Land, jfr. 1. c. S. 32, skulde de kunne antages at
+
+udgjøre en ialfald tilnærmelsesvis korrekt Repræsentation af det hele Rige.
+
+Imidlertid
+
+maa bemærkes, at Udvalget, som jeg paa et andet Sted har paavist, kunde have været
+bedre i repræsentativ Henseende, jfr. min Afhandling om Indtægts- og Formueforhold
+
+i Norge S. 93 o. fig. Den Fordel, som man tilsigtede ved at vælge væsentlig de samme
+Herreder og Byer som i nævnte Storthingsdokument, er saaledes for nogen Del kjøbt
+paa Bekostning af Repræsentationens Korrekthed; men nogen væsentlig Indflytelse paa
+Resultaterne antages den heromhandlede Omstændighed ikke at have udøvet.
+Den begrænsning af Materialet, som dernæst er bleven foretaget ved Udvalget af
+
+10
+
+
+
+visse, nemlig hvert femte, Alderstrin, kunde synes fuldt ut stemmende med repræsentative
+
+Hensyn. I en Afhandling, der med det første vil udkomme i Statsøkonomisk Tidsskrift,
+har jeg derom udtalt, at der neppe kan paavises nogen Omstændighed, som skulde kunne
+bevirke, at et paa denne Maade gjort Udvalg ikke skulde give et fuldstændig korrekt
+Miniaturbillede svarende til en Femtedel af Originalens Maalestok. Imidlertid har det
+ved nye Undersøgelser vist sig, at dette ikke ganske holder Stik, et Punkt, hvortil jeg
+
+senere skal komme tilbage.
+Den tredie Begrænsning, der her blev foretaget, nemlig ved at indskrænke Udvalget til de Personer, hvis Navne begynte med visse Forbogstaver, synes at maatte være
+
+uangribelig. Disse Forbokstaver, der for Herredene og de mindre Byer var A, B, C, L,
+M, N og for de ni største Byer de tre sistnævnte Bogstaver, synes nemlig i forhold til de
+Personer, blandt hvilke der skulde gjøres et Udvalg, at være noget saa rent ligegyldigt og
+tilfældigt, at et paa denne Maade gjort Udvalg maa antages at have virket paa samme
+Maade som en Lodtrækning, hvorved man paa det omhyggeligste søgte at unngaa alle
+Momenter, der kunde tænkes at begunstige Udstrækningen af Mænd i visse specielle
+Livsstillinger ellet tilhørende en enkelt Samfundsklasse. Naar der for de ni største Byer
+kun er bleven anvendt det halve Antal Bogstaver, da er dette bleven gjort for paa denne
+Maade at rette noget paa den Indflytelse, som Tallene for de større Byer ellers vilde have
+udøvet i Retning af at forhøie Indtægtsbeløpene, dersom man efter det samme Procentforhold havde medtaget samtlige større Byer, men kun endel af de mindre. Indtægterne
+
+er nemlig gjennemgaaende høiere i de større byer enn i de mindre.
+Det samlede Antal af Repræsentative Opgaver, der tilveiebragtes ved den heromhandlede Undersøgelse af Indtægts- og Formuesforholdene, udgjorde 11427, hvoraf 7162 i 128
+forskjellige Herreder og 4265 i 23 forskjellige Byer. Udvalget modsvarer i Bygderne 7.85
+Pct. og i Byerne 15.7 Pct. af det samlede Antal Mænd i de specielt udtagne Aldersklasser
+og henholdsvis 1.54 og 3.1 Pct. af den samlede voxne mandlige Befolkning i Bygderne
+
+og Byerne. I Sammenstillingerne for Riget er derfor de Landdistrikterne gjældedne Tal
+blevne multipliceret med to.”
+
+Dette arbeidet la han fram på I.S.I. møtet i 1895, dvs. temmelig nøyaktig for 100 år siden,
+men historien forteller at han ikke greide å overbevise de av verdens ledende statistikere
+som var tilstede på møtet om nytten og hensiktsmessigheten av slike undersøkelser. Kiær
+
+skal for øvrig også hatt vansker med å overbevise samtidige norske statistikere om det
+samme.
+
+Hans etterfølger som direktør i Statistisk Sentralbyrå Nikolai Rygg, skal således ha vært
+skeptisk innstilt til Kiærs metode, og holdt på at fullstendig opptelling av samtlige en-
+
+heter i en populasjon var nødvendig for å sikre pålitelige konklusjoner. Utviklingen i
+ettertid har vist at Kiær virkelig var en pionér på dette området.
+
+Eilert Sundt var i utgangspunktet teolog, tok teologisk embetseksamen i 1846, og var
+
+universitetsstipendiat i kirkehistorie (1849 -50).
+I 1845 ble han imidlertid ansatt som lærer ved Christiania Tugthus. Blant de innsatte var
+
+det også noen sigøynere, som egentlig ikke hadde gjort noe kriminelt, men som ble holdt
+
+it
+
+
+
+i midlertidig ”forvaring” for å bli undervist i religion og ”forberedt” til konfirmasjon.
+Sundt ble interessert i denne gruppen og ville prøve å ”vinne dem for samfunnet”. Blant
+annet prøvde han å lære seg deres språk for å kunne kommunisere med dem. Til dette
+arbeidet fikk han i 1848 et stipend fra Stortinget.
+
+Dette førte til at han begynte å
+
+interessere seg for forholdene i den fattigere del av befolkningen. Som følge av dette ble
+stipendiet fornyet helt fram til 1868, da Stortinget avslo å fornye det siden ”ingen andre
+
+land såvidt vites, driver med denne slags undersøkelser” (Søren Jaabæk 7).
+
+For å kunne gjennomføre sine undersøkelser , måtte Sundt samle informasjon der det var
+å finne. Noe fant han i offentlige statistikker, men mye samlet han også selv inn gjennom
+
+rapporter han fikk fra geistlige og fra lærere og gjennom intervjuer.
+På grunnlag av den informasjon han på denne måte samlet, gjennomførte han analyser
+av mange av livets forhold i Norge, og resultatene ble publisert i en rekke skrifter og
+bøker.
+
+Følgende utvalg av titler indikerer den type av undersøkelser han gjennomførte :
+Beretning om Fante-eller Landstrygerfolket i Norge (1850),
+
+Dødeligheten i Norge (1855),
+
+Giftermaali Norge (1855),
+Sædelighedstilstand i Norge (1857),
+Undersøgelse av Arbeidsklassen Kaar og Sæder i Christiania (Pipervigen og Ruseløkbakken ),
+
+(1858). (Gjennomført som en intervjuundersøkelse)
+Ved sin bruk av statistiske analyser ble Sundt en banebryter for den sosiologiske kartlegging av bonde-og arbeiderklassen i Norge.
+Nevnes bør også at Sundt var sterkt engasjert i folkeopplysning. Han var således redaktør
+
+av bladet Folkevennen (1857 - 1866), et blad som ble utgitt av Selskabet til Folkeoplysningens Fremme.
+
+I løpet av årene fra 1857 til 1898 var dette tidsskriftet vedlagt til dels
+
+verdifulle tilleggshefter av historisk, geografisk , økonomisk og statistisk innhold .
+
+Blant forfatterne til slike hefter finner en foruten Sundt, bl.a. Hanna Winsnes og Axel
+
+S. Guldberg som vi skal komme tilbake til.
+
+(Kåseriet fortsetteri neste nummer.)
+
+12
+
+
+
+Innholdsfortegnelse fra "Statistisk sett’.
+Jubileumsskrift, Norsk Statistisk Forening 1936-1986.
+Tilbakeblikk .:sssennn» sce
+
+I
+
+ARKEN DEY omme ome
+
+BØRD
+
+ees
+.0
+e eee eee
+eee
+......
+Norsk Statistisk Forening 1936-1986 ......
+
+7
+
+9
+
+(Jostein Lillestøl)
+
+Statistikkfaget i Norge, det gamle og det nye faget...... ETT
+
+25
+
+Statistisk Sentralbyrå 1976-1986 ... 6.22. o eee eee eee ees
+
+45
+
+raneren ean arven
+
+65
+
+Eilert Sundt sosialstatistiker og sosialpolitiker .............---005-
+
+67
+
+(Tore Schweder)
+
+(Arne Øien og Mikael Selsjord)
+
+Pionerer .......... 0c ce cece cece
+
+II
+
+ce
+
+(Petter Laake)
+
+Anders Nicolai Kiær — statistiker og samfunnsforsker...........--.
+
+83
+
+(Ib Thomsen)
+
+Sannsynlighetsregning — i 1873 et egnet emne for folkeopplysning ...
+
+93
+
+Ragnar Frisch og statistikkens fremvekst ............--.-.-02055(Herdis Thorén Amundsen)
+
+107
+
+(Arnljot Høyland)
+
+EE 121
+en»
+mss ome
+semm
+PEERY Ow
+nese
+Status ..ecisievaa ceed
+Statistikkfagets plass i skole og høyere utdanning ..............--- 123
+DL
+
+(Henrik Dahl)
+
+Utdannelsen av fagstatistikere i Norge ....-».»»avrarvrvarearenn 133
+(Ivar Heuch)
+
+Virkefelter for statistikere i dag ogifremtiden...............--+5-
+
+151
+
+DEN
+
+OG
+
+161
+
+Statistikk — mer enn bearbeiding av data.......0...00.0
+0.00. ce ue
+
+163
+
+(Steinar Engen og Eva Seim)
+
+(Henrik Dahl)
+Hvorfor løper ikke finalistene fortere i semifinalen enn i finalen? ....
+(Trond Haider)
+
+173
+
+Køteori anvendt på helsetjene
+sten..........
+0.
+0cc cece eeceeee
+....
+
+179
+
+(Berit Tveit)
+
+Etter Tsjernobyl — kjernefysisk krig ved uhellinytt lys?............
+(Bent Natvig)
+
+13
+
+183
+
+
+
+Problemer og paradokser
+Dette er en ny, forhåpentligvis fast, spalte i TG, der leserne inviteres til å
+bidra med ulike småting, som kan brukes i undervisning, eller fungere som
+motivasjon og utfordring. Først ute er Jostein Lillestøl i Bergen, som kom
+med idéen, og nedenfor følger hans bidrag.
+
+REKREASJONER
+1. To punkter velges tilfeldig på en linje AB; hvert punkt velges iht. den
+uniforme fordeling over AB, uavhengig av hverandre. Linjen er nå delt
+i tre deler. Hva er sannsynligheten for at du kan lage en trekant av
+delene?
+
+2. Planeten X er en kule med senter i O. Tre romskip A, B, C, lander
+
+på tilfeldig sted på overflaten, i posisjoner som er uniformt fordelt på
+kulen, uavhengig av hverandre. To av romskipene, f.eks Å og B, kan
+kommunisere direkte med hverandre dersom vinkelen ZAOB er mindre
+enn 90 grader. Hva er sannsynligheten for at alle tre kan kommunisere
+med hverandre, direkte eller via det tredje romskipet?
+
+3. En produsent av frokostgryn plasserer tilfeldig ett samleobjekt i hver
+pakke, utvalgt tilfeldig blant ti mulige. Hva er forventet antall ulike
+objekter i 10 pakker? Hva er forventet antall pakker som må kjøpes for
+å få tak i alle 10 objektene?
+
+4. Siktede har samme blodtype som sporene på åstedet. Hvis siktede er
+
+uskyldig er det 10% sjanse for at han har denne blodtypen. Altså er
+det 90% sjanse for at han er skyldig, eller hva?
+5. Gåte:”Hva har mobiltelefon og hemoroider med hverandre å gjøre?”
+-og hva har gåten her å gjøre?
+Tenk på det før du leser svaret på side 30.
+
+14
+
+
+
+MEDSTAT RESEARCH
+Medstat Research er et privat selskap som driver med oppdragsforskning innen medisin og medisinsk
+
+relaterte områder.
+Selskapet ble startet i 1982 som et rent statistisk firma. Det har etter hvert utviklet seg mer i retning av
+
+et såkalt CRO (Clinical Research Organization), og har idag ansatte innen statistikk, informatikk og
+medisin. Vi har pr. 1 mai i år 16 ansatte, hvorav 8 er statistikere.
+
+Som statistikere tilbyr vi våre tjenester til farmasøytisk industri, sykehus og andre institusjoner som
+driver medisinsk forskning. Blant disse 'andre institusjoner utgjør veterinærmedisin en relativt stor andel.
+Hva gjør man som statistiker i Medstat Research? Vi kan dele inn virksomheten vår i følgende områder:
+- Forsøksplanlegging
+
+- Statistisk analyse, rapportskriving
+- Veiledning
+
+- Kursvirksomhet
+
+* Forsøksplanlegging går i stor grad ut på å designe et optimalt forsøkopplegg for (først og fremst)
+
+farmasøytisk industri. Når man vet hvor mye det koster å gjennomføre en studie på et gitt legemiddel,
+
+er det klart at man er ikke interessert i å kaste bort penger på å kjøre noe som ikke er optimalt.
+* Statistisk analyse går veldig mye på analyse av klinisk kontrollerte studier. Man er interessert i å
+undersøke effekten av en behandling/et legemiddel i forhold til en annen behandling (gjerne placebo).
+
+Studiene skal videre rapporteres i en bestemt form. Myndighetene stiller meget strenge krav til
+
+rapportering/dokumentasjon av legemiddelutprøvninger.
+
+* Vi driver en del veiledning i statistikk i forhold til leger i forbindelse med artikkelskriving. Dette krever
+
+at du er i stand til å forklare statistikk og statistiske resultater på en "folkelig" måte, slik at det er fullt
+forståelig for ikke-statistikere.
+* I tillegg til dette blir vi stadig spurt om å holde kurs/forelesningeri statistikk og forsøksplanlegging.
+Hvordan er det så å arbeide i et lite firma i det private næringsliv? Det er klart at det er enkelte forhold
+
+som gjør seg mer gjeldende her enn i offentlige institusjoner. Det viktigste er at vi hele tiden lever av de
+
+oppdragene vi klarer å skaffe. Dette betyr at det hele tiden vil måtte være en voldsom fokusering på
+prosjektinngang og effektivitet/lønnsomhet. Dette fører igjen til en relativt hektisk arbeidssituasjon. Vi
+
+har sjelden tid til (kunden er sjelden interessert i å betale for) å gå dypt inn i en problemstilling. Dette
+fører selvfølgelig til mye bruk av standard metoder, og man kan hevde at jobben ikke er veldig utviklende
+
+statistisk faglig. Det kan nok være noe i det, men på den annen side lærer man mye annet som kan være
+nyttig å ta med seg. Hver enkelt statistiker hos oss er personlig ansvarlig for sine egne prosjekter. Det
+
+vil si at det er statistikerens ansvar å få prosjektene til å bli lønnsomme, og å tilfredsstille kundene. Dette
+
+krever at vi arbeider effektivt, at vi disponerer tiden riktig og at vi er i stand til å kalkulere prosjekter og
+
+styre økonomien. I dette ligger selvfølgelig også at det er en relativt selvstendig jobb. Du er fri til å gjøre
+stort sett som du vil, bare du tar inn nok penger og kundene er fornøyde. I tillegg til dette er det
+
+spennende å jobbe såvidt tett sammen med medisinske fagfolk, og du plukker faktisk også opp litt
+
+medisin underveis.
+
+Arbeidssituasjonen stiller selvfølgelig visse krav til de som skal arbeide her. Man bør være i stand til å
+sette seg raskt inn i nye problemstillinger, ha evne til periodevis å arbeide hardt og intenst, være ryddig,
+
+effektiv og økonomisk, ogi tillegg er det viktig at man er relativt utadvendt for å kunne hente inn nye
+prosjekter og å kommunisere godt med kundene.
+
+I det hele tatt er det en veldig varierende og tildels spennede jobb hvis man kan se utfordringer i annet
+enn akkurat det statistisk faglige. Det er selvfølgelig også tilfredstillende å jobbe på et område hvor vi
+ser at vi er til nytte, og blir satt pris på.
+
+15
+
+
+
+16TH NORDIC
+
+CONFERENCE ON MATHEMATICAL STATISTICS
+
+August
+
+18-21,
+
+Lahti,
+
+Finland
+
+1996
+
+FIRST ANNOUNCEMENT AND CALL
+
+FOR
+
+PAPERS
+
+CONTACT ADDRESS:
+
+Department of Statistics
+P.0.Box 54
+
+FIN-00014 University of Helsinki
+FINLAND
+
+Telephone:
+
++358-0-191
+
+Telefax:
+
++358-0-191
+
+8871
+
+8872
+nems16@noppa.helsinki.fi
+
+E-mail:
+
+16th Nordic Conference on Mathematical
+August
+
+18-21,
+
+Lahti,
+
+Finland
+
+Statistics
+
+1996
+
+LAHTI
+
+The city of Lahti is a regional economic centre 100 kilometers from
+Helsinki. Lahti is easily accessible from Helsinki by train or by car.
+
+CONFERENCE VENUE
+
+The conference venue is
+ADDRESS:
+
+in the very heart of Lahti.
+
+Helsinki University Lahti Research and Training Centre
+Kirkkokatu 16, FIN-15140 Lahti, Finland
+
+PARTICIPATION
+
+Participation is
+
+WORKING
+
+open to
+
+statisticians
+
+from all
+
+countries.
+
+LANGUAGE
+
+English
+
+INVITED
+
+TALKS:
+
+Julian Besag
+
+(University of Washington, USA)
+Markov Chain Monte Carlo and Statistical
+
+Harvey Goldstein
+
+(University of London,
+
+Inference.
+
+United Kingdom)
+
+Topics in Multilevel Analysis.
+
+Nils
+
+Keiding
+
+David S.
+
+(University of Copenhagen,
+Causality Analysis.
+
+Moore
+
+Denmark)
+
+(Purdue University, USA)
+Modern Technology in Teaching of
+
+Statistics.
+(University of Oulu, Finland)
+Multivariate Sign and Rank Tests and Related Estimates.
+Mats Rudemo (Royal Veterinary and Agricultural University, Denmark)
+
+Hannu Oja
+
+Point
+
+Rolf
+
+Sundberg
+
+Process Analysis
+
+(University of
+
+of
+
+Stockholm,
+
+Randomly Shaped Objects.
+
+Sweden)
+
+Multivariate Calibration.
+CONTRIBUTED
+
+PAPER SESSIONS
+
+Preliminary list
+
+of
+
+SELECTED
+
+BY
+
+THE
+
+ORGANIZERS:
+
+topics:
+
+biostatistics, epidemiology, growth-curve models,
+generalized linear models, linear models, multitarget
+
+
+
+decisions,
+sampling,
+
+nonlinear
+spatial
+
+survey methodology,
+Those wishing to
+included in the
+
+submit
+list
+
+time
+
+series,
+
+statistics,
+
+teaching of
+
+a paper
+
+quality control,
+
+statistics
+
+or poster on a
+
+above can make a
+
+in
+
+insurance,
+
+statistics
+topic which
+
+submission as well.
+
+is
+
+not
+
+For
+
+further
+
+information on contributed papers and posters: see below. For
+information on session organizers: see the Second Announcement.
+
+CONTRIBUTED
+
+PAPERS AND
+
+POSTERS
+
+Those wishing to present papers
+to
+
+submit
+
+an abstract
+
+or posters
+
+in English
+
+at
+
+(limited to
+
+the Conference are asked
+two pages)
+
+not
+
+May 31, 1996 to the organizers.
+Since the abstracts will be reproduced in the proceedings
+conference
+
+from the
+
+original material,
+
+the
+
+speakers
+
+are
+
+later
+
+of
+
+than
+
+the
+
+cordially asked
+
+to reproduce the abstract with an ink-jet or a laser printer. For each
+contributed paper will be reserved 20 minutes (with discussion). Special
+poster
+
+sessions will
+
+the abstracts will be
+
+CONFERENCE
+
+be
+
+also
+
+sent
+
+arranged.
+
+to
+
+Notification of
+
+the
+
+acceptance
+
+of
+
+the contributors.
+
+FEE
+
+The conference fee will be 800 FIM including the proceedings and other
+conference material, scientific sessions, exhibitions, lunches and
+coffee breaks.
+A special
+
+fee
+
+Social program,
+
+accommodation and tours
+
+for undergraduate students will be
+
+ORGANIZERS
+
+Department of Statistics, University of Helsinki
+Finnish Statistical Society
+
+CONTACT ADDRESS:
+
+Department
+
+of
+
+Statistics
+
+P.0.Box 54
+
+FIN-00014 University of Helsinki
+FINLAND
+
+Telephone:
+
++358-0-1918871
+
+Telefax:
+
++358-0-1918872
+
+E-mail:
+
+nems16@noppa.helsinki.fi
+
+if
+
+300
+
+are not
+
+FIM.
+
+included.
+
+
+
+SYMPOSIUM ON
+
+FRAILTY MODELS
+
+AND
+
+The symposium will be held at
+31 May - 1 June 1996.
+
+THEIR USE
+
+IN EPIDEMIOLOGY
+
+"Kommunehospitalet",
+
+Copenhagen,
+
+PROGRAMME
+
+Friday,
+
+31 May 1996
+
+13-14:
+
+Frailty models
+by James
+
+14-15
+
+W.
+
+in epidemiology:
+
+some promising opportunities
+
+Vaupel
+
+Multivariate
+
+survival
+
+data -
+
+an additive
+
+frailty structure
+
+by Jorgen Holm Petersen
+15-15.30
+
+Coffee
+
+15.30-16.30
+
+Genetic models for censored age-of-onset data
+by Andrew Pickles
+
+16.30-17.30
+
+MCMC methods
+
+for
+
+by Duncan C.
+
+Thomas
+
+Saturday,
+
+1
+
+9-10
+
+June
+
+frailty models
+
+and genetic
+
+epidemiology
+
+1996
+
+A frailty model
+
+for
+
+patterned dependence
+
+by Michael
+10-10.30
+
+Coffee
+
+10.30-11.30
+
+Analysis
+
+of
+
+clustered failure time data with
+structure
+
+P. Jones
+
+overdispersed count
+
+Poisson variables
+
+data by mixtures
+
+of
+
+and Poisson processes
+
+by Phillip Hougaard
+11.30-12.30
+
+Strength and frailty of
+by Anatoli I. Yashin
+
+frailty modelling
+
+The symposium is
+
+organised jointly by Dept. of Biostatistics,
+Copenhagen and Danish Epidemiology Science Centre.
+Further
+
+information:
+
+Per K.
+
+Andersen,
+
+Jørgen H.
+
+email:
+
+Petersen,
+
+18
+
+Univ.
+
+pka@biostat.ku.dk
+
+email:
+
+jhp@biostat.ku.dk
+
+of
+
+
+
+Statistiska Centralbyrån inbjuder till
+
+1996 års konferens om
+
+Metodfrågor i den officiella statistiken
+23-24 september 1996 i Garnisonen, Karlavågen 100, Stockholm
+Förra året, i juni, arrangerade SCB en konferens om metodfrågor i den officiella
+statistiken med följande teman: Europaharmonisering, nationell decentralisering och
+
+kvalitet. En liknande konferens med nya teman inom ramen för åmnet Metodfrågor i
+den officiella statistiken, kommer att hållas den 23-24 september 1996 i Garnisonen,
+Karlavågen 100 i Stockholm.
+
+KK
+
+orfrensen vånder sig till flera olika
+
+och
+
+intressenter — de statistikansvariga
+
+idéer och
+
+anvåndare ges tillfålle att
+
+utbyta
+
+diskutera metodfrågor som
+
+myndigheterna, inklusive SCB, har hår
+
+gåller de olika statistikgrenarnas inne-
+
+ett forum för att diskutera metod- och
+
+hall, tillförlitlighet och tillgånglighet.
+
+kvalitetsfrågor. Dårigenom bidrar kon-
+
+ferensen till
+
+den nödvåndiga dialogen
+
+K orfrensen år tvåspråkig (engelska
+
+mellan vetenskaplig forskning, statistik-
+
+och svenska) och består av tema-
+
+myndigheter, statistikproducenter, upp-
+
+sessioner och sessioner för fria bidrag.
+
+giftslåmnare och övriga intressenter.
+
+Bidragen presenteras muntligt vid kon-
+
+ferensen och skriftligt i en volym som
+
+E: viktigt syfte år också att erbjuda
+en
+
+måötesplats
+
+kontakter
+
+mellan
+
+dår
+
+olika
+
+kommer ut efteråt. Med denna inbjudan
+
+professionella
+
+vill vi uppmuntra dig att medverka med
+
+kategorier
+
+ett bidrag inom något av de teman, som
+
+av
+
+statistiska yrkesutövare kan skapas och
+odlas.
+
+Statistikproducenter,
+
+Du finner på nåsta sida.
+
+bestållare
+
+Organisationskommittén
+
+Jan R. Gustafsson, SIKA
+
+Anders Christianson, SCB, ordf
+
+Anders Hultkvist,
+Pontus Roos, IHE
+
+Leopold Granquist, SCB
+Thomas Polfeldt, SCB
+
+Daniel Thorburn, Sthims universitet
+
+Ingvar Andersson, SCB
+
+FUD
+
+19
+
+
+
+Konferensteman:
+
+e
+
+Quality Evaluation of Survey Processes
+
+e
+
+Measurement of Productivity and Quality Changes
+
+e
+
+Statistikbehoven och företagens uppgiftslåmnarkostnad
+
+e
+
+Registerfragor:- produktion - kvalitet - anvåndning
+
+e
+
+Epidemiologiska metoder och offentliga register
+
+e
+
+Metodfragor i miljöstatistiken
+
+Alla som har metoderfarenheter eller -utveckling att redovisa inom något av dessa, eller
+
+nåraliggande, områden inbjuds att medverka i konferensen. En presentation beråknas ta
+30 minuter. Anmålan görs genom att ett sammandrag (abstract) om 1-2 A4-sidor skickas
+
+in till:
+
+Ingvar Andersson
+
+SCB U/LEDN
+
+Fax
+
+08 783 45 99
+
+115 81 Stockholm
+
+e-mail
+
+ingvar.andersson@scb.se
+
+senast 16 april 1996. Temarubrikerna år preliminåra, och kommer att modifieras med
+hånsyn till de bidrag, som låmnas in och våljs ut för dessa sessioner. Bidrag som inte far
+
+plats i temasessionerna överförs till fria bidrag
+
+En sårskild inbjudan till fria bidrag kommer att såndas ut i början av maj 1996. Dessa
+presenteras i egna sessioner. De behöver inte ligga inom något av åmnesområdena ovan.
+Man
+
+kan sjålvfallet också vara med på konferensen utan att göra någon egen
+presentation. En inbjudan för deltagande med preliminårt program, deltagaravgifter,
+
+övriga praktiska upplysningar m m skickas ut i juni.
+
+RESERVERA TIDEN 23-24 SEPTEMBER REDAN NU!!!
+
+20
+
+
+
+Konferanseoversikt 1996
+| TID
+
+| STAD
+
+| TITTEL
+
+19-24.mai | Rebild,
+
+Danmark
+
+| KONTAKT
+
+First European Conference on
+
+Aalborg Tourist and Convention
+
+Highly Structured
+
+Bureau
+
+Stochastic Systems
+
+Østerågade 8, P.O.Box 1862
+DK-9100 Aalborg, DANMARK
+Fax: +45 98 16 69 22
+
+2-8 juni
+
+Tartu,
+
+Tartu conference on computational
+
+Estland
+
+statistics and statistical education
+
+Ene-Margit Tiit, Institute of
+Mathematical Statistics,
+
+University of Tartu,
+J.Liivi 2, Tartu EE2400, Estonia
+
+fax: (37) 27 433 509,
+tel: (37) 27 4 65 448
+e-mail: etiit@madli.ut.ee
+
+3-5.juni
+
+Texas,
+Dallas
+
+Fourth International Applied
+Statistics Industry Conference
+
+Tracy Caldwell, 2183 S.Cooper Ct.,
+Wichita, KS 67207-5834, USA
+tel: +316 777 4425
+
+e-mail: tracy@acginc.com
+13-15.juni | Uppsala
+
+Tenth Annual Meeting of the European | Anders Klevmarken,
+European Society for
+Population Economics
+
+Nationalekonomiska institutionen i
+Uppsala, fax: +46 18 18 14 78, e-mail:
+Anders.KlevmarkenQnek.uu.se
+
+18-20.juni | Stockholm | Eight Int. Conference on Science and
+Statistical Data Base Management
+1-3.juli
+
+Per Svensson, FOA, 172 90 Stockholm
+e-mail: persQsto.fa.es
+
+Edinburgh, | Third International Conference on
+
+C.G.G.Aitken, Dept of Mathematics
+
+Skottland
+
+and Statistics, The King’s Bulidings
+
+Forensic Statistics
+
+The University of Edinburgh, Mayfield
+Road, Edinburgh, EH9 3JZ, U.K.
+
+tel: 0131-650 4877, fax: 0131-650 6553
+e-mail: icfs96@maths.ed.ac.uk
+1-5.juli
+
+Amsterdam | 8th Int. Biometric Conference
+
+Bureau PAOG, Amsterdam
+
+Tlf: 31 20 566 4801
+Fax: 31 20 696 3228
+e-mail: IBC96@med.vu.nl
+
+8-12 juli
+
+Sydney
+
+Sydney International Statistical
+
+|
+
+Congress (SISC-96)
+WWW: http://www.dms.csiro.au/sisc
+
+Director, SISC-96, CSIRO Division of
+
+Mathematics & Statistics, Locked Bag
+| 17, North Ryde, MSW 2113, Australia
+e-mail: sydney96@syd.dms.csiro.au
+
+25-31.juli
+
+| Moskva
+
+Int. Conf. on Applied Statistics
+
+Prof. V.Shvyrkov
+
+in Business and Economics
+
+Sonoma State University
+Rhonert Park
+CA 94928, USA
+
+Tlf: (707) 575-3529
+Fax: (707) 664-4009
+
+21
+
+
+
+| TID
+4-8.aug.
+
+| STAD
+Chicago,
+
+| TITTEL
+
+| KONTAKT
+
+Joint Statistical Meetings
+
+Illinois
+
+ASA, 1429 Duke St., Alexandria,
+VA22314-3402, USA
+tel: +1 703 684 1221
+fax: +1 703 684 2037, e-mail:
+meetingsQasa.mhs.compuserve.com
+
+18-21.aug. | Lahti,
+Finland
+
+16th Nordic Conference on Statistics
+
+Department of Statistics
+
+Mathematical Statistics
+
+P. O. Box 54
+FIN-00014 University of Helsinki
+FINLAND
+
+tel: +358-0191 8871
+fax: +358-0-191 8872
+
+e-mail: ncms16@noppa.helsinki.fi
+
+26-30.aug. | Barcelona
+
+COMPSTAT’96
+
+Prof. Albert Prat
+
+XII Symposium on
+
+Dept. of Statistics
+
+Computational Statistics
+
+Avda. Diagonal 647
+08028 Barcelona, SPANIA
+Tlf: +34-3-4016569
+Fax: +34-3-4016575
+
+e-mail: Prat@eio.upc.es
+26-31.aug. | Wien
+
+11-13.sept | London
+
+4th World Congress of the
+
+Georg Pflug, University of Vienna,
+
+Bernoulli Society
+
+Austria. tel: +43 1 407 63 55 210
+
+Elektronisk informasjon:
+
+fax: +43 1 407 63 55 88
+
+http://smc.univie.ac.at /~bernoulli
+
+e-mail: wc96@smc.univie.ac.at
+
+Second Int. Conference on Survey
+
+Randy Banks Association for Survey
+
+and Statistical Computing
+
+Computing. tel: +44 1206 873067
+fax: +44 1206 873151
+
+e-mail: randy@essex.ac.uk
+15-18.okt
+
+| Nantucket
+
+Modelling longitudinal and spatially
+
+Timothy G. Gregorie,
+
+Massachusets | correlated data: Methods, applications | Department of Forestry,
+and future directions.
+
+Virginia Polytechnic Institute
+
+WWW:
+
+and State University,
+
+http://tgg.fw.vt.edu/Nantucket /
+
+Blacksburg, VA 24061-0324, USA
+tel: (703) 231 7683
+fax: (703) 231 3698
+e-mail: tgg@vt.edu
+
+22
+
+
+
+NYTT FRA GRUPPE FOR STATISTIKK
+NTNU Gløshaugen
+Ridder av St. Olavs Orden
+Professor Arnljot Høyland er av H M Kongen utnevnt til Ridder I klasse
+av St Olavs Orden.
+
+Rektor
+Emil Spjøtvoll er valgt til den første rektor ved Norges teknisk-naturvitenskapelige
+universitet - NTNU.
+
+Ferdige sivilingeniører
+Hilde Grude Borgos: ”Baddeleys delta metrikk som tapsfunksjon for kant-
+
+og linjemodeller”. Veileder: Håvard Rue.
+Per Andreas Brodtkorb: ”Forsøksplaner for Simulering basert på Ortogonale Matriser’. Veileder: John Tyssedal.
+
+Kristin Fretheim: ’On the Efficiency of Design Algorithms for Uncertainty
+Analysis’. Arbeidet er utfgrt ved Statoil’s Forskningssenter, Trondheim, under veiledning av seniorforskar Ole Jakob Arntzen.
+
+(Faglærer ved NTNU:
+
+John Tyssedal).
+Anne Grini: ‘Stokastisk simulering av grunnvannsspeilet på Gardermoen”.
+Veileder: Henning Omre.
+
+Hanne Marit Heggen: ”Polar Seasonal Variations and Optical Satellites’.
+Arbeidet er utført ved FFI, Kjeller, under veiledning av forsker Tore Tollef-
+
+sen. (Faglærer ved NTH: John Tyssedal).
+Hilde Horgen:
+
+*Use of expert judgements in analysis of common cause
+
+failures’. Veileder: Per Hokstad.
+Bodil Hvesser: ”Konturestimering av enkeltsammenhengende objekt”. Arbeidet er utført ved Norsk Regnesentral under veiledning av Geir Storvik.
+
+(Faglærer ved NTNU: Håvard Rue).
+Odd Kolbjørnsen:
+
+‘Ikke-linezre prediktorer i stokastiske felt”. Veileder:
+
+Henning Omre.
+Anne Gunnhild Kraggerud: 'Parametric variogram estimation in a Bayesian
+framework”. Arbeidet er utført ved Norsk Regnesentral under veiledning av
+forsker Petter Mostad. (Faglærer ved NTNU: Bo Lindqvist.)
+Audun Kvamme: ”Optimalisering av Multiple Responser’ Prosess- og Papirvariable, PF NT Skogn. Veileder: John Tyssedal.
+
+23
+
+
+
+Karin Isabell Myklebust: 'Systempålitelighet ved periodisk vedlikehold”.
+Veileder: Stian Lydersen.
+
+Marte Anett Olstad: ”Forsøksplaner for Datamaskinsimuleringer’. Arbeidet er utført ved Norsk Regnesentral, Oslo under veiledning av dr. scient.
+Thore Egeland. (Faglærer ved NTNU: John Tyssedal).
+Ingvei Helen Seliussen: 'Reliability in the early lifetime burn-in period”.
+Veileder: Stian Lydersen.
+
+Tilsettinger.
+Hilde Grude Borgos er tilsatt som stipendiat innen området *Stokastiske
+modeller for forkastningsmønstre”.
+
+24
+
+
+
+Nytt fra universitetet i Oslo. Mai 1996
+Uteksaminerte Dr.Scient:
+Harald Haukås: *Contribution to availability analysis of montone systems”
+Veileder: Bent Natvig
+
+Magne Aldrin:
+
+“Regression with few and noisy data”
+
+Veileder: Erik Bølviken
+
+Rune Winther:
+
+*Treshold systems and their applicability with regard to
+
+general binary systems”
+Veileder: Arne Bang Huseby
+
+Uteksaminerte Cand.Scient:
+Knut Carsten Nielsen: *The interpolatedly empirical density function”
+Veileder: Nils Lid Hjort
+
+Lise Ekrheim: "Bruk av simuleringsteknikker for sammensatte fordelinger”
+Veileder: Geir Storvik
+Monica Berg Swendson:
+
+“Beregning av totalskadesannsynligheter ved
+
+Fouriermetoder”
+Veileder: Erik Bølviken
+Svein Børre Solvang: *Nøstede kasus-kontroll og kasus-kohort analyse”
+
+Veieder: Ørnulf Borgan /Sven Ove Samuelsen
+Ola Hestnes: “Ngstede kasus-kontroll og kasus-kohort analyse”
+
+Veileder: Ørnulf Borgan/Sven Ove Samuelsen
+Frode Viste: “Monte Carlo testing ved prinsipale komponenter”
+Veileder: Geir Storvik
+
+Nyansettelser:
+Inge S. Helland er ansatt som Professor fra 1. januar 1996.
+
+Statistcal Research Reports:
+Ørnulf Borgan og Bryan Langholz:
+
+“Estimation of excess risk from
+
+case-control data using Aalen’s linear regression model” No. 5, 1995.
+
+25
+
+
+
+Bent Natvig og Jørund Gåsemyr:
+
+“On Probabilistic Risk Analysis of
+
+Technological Systems” No. 6, 1995.
+
+Nils Lid Hjort:
+
+“Performance of Efron and Tibshirani’s semiparametric
+
+density estimator” No. 1, 1996.
+
+Sven Ove Samuelsen:
+
+*A Pseudo-Likelihood Approach to Analysis of
+
+Nested Case-Control Studies” No. 2, 1996.
+
+Bryan Langholz og Ørnulf Borgan:
+nested case-control data” No. 3, 1996.
+Kjetil F. Kaaresen:
+
+*Estimation of absolute risk from
+;
+
+“Mazimum A Posteriori Deconvolution of Sparse
+
+Spike Trains” No. 4, 1996.
+
+Inge S. Helland: “Relevance, prediction and interpretation for linear models with many predictions” No. 5, 1996.
+
+Tore Schweder og Nils Lid Hjort:
+
+“Bayesian Synthesis or Likelihood
+Synthesis - What does Borel’s Parador say?” No. 6, 1996.
+
+Nytt fra Universitetet i Tromsø:
+Eksterne kurs: Etterutdanning for matematikklærere i videregående skole
+i sannsynlighetsregning og statistikk. Kurset går over fem dager fordelt på
+to samlinger med hjemmeoppgave. Kurset ble første gang gitt i desember95/febr-96 med ca 40 deltagere, og nå i april-96/juni-96 med 11 deltagere.
+Deltagerne kommer fra Troms og Finnmark.
+
+Forskningtermin: Elinor Ytterstad har forskningtermin høsten -96/våren
+-97. Hun vil da oppholde seg ved University og St Andrews, Skottland.
+
+26
+
+
+
+Forskningskoordinator
+- ny stilling ved DNR
+Eva Skovlund er ansatt som
+forskningskoordinator fra 1. februar i
+
+år. Stillingen lønnes av Kreftforeningen
+og kombineres med en professor II stil-
+
+ling i medisinsk statistikk ved
+
+Universitetet i Oslo.
+
+- Som forskningskoordinator er
+
+men etterhvert skal
+
+min fremste oppgave 4 bidra til
+
+arbeidet også gå ut
+
+bedre kvalitet pa kreftforskningen.
+
+på f.eks. å samkjøre
+
+sier Eva Skovlund, som var den for-
+
+forskningsprosjek-
+
+ste kvinne i Norge som ble dr. phi-
+
+ter og hjelpe konto-
+
+los 1 statistikk.
+
+rene til å samarbeide.
+
+Seks forskningssentre
+Den Norske Kreftforening har
+
+I løpet av året har
+Eva Skovlund
+
+Dr. philos. Eva Skovlund.
+
+bevilget midler til 4 opprette og dri-
+
+arrangert et kurs I
+
+ve seks kontorer for klinisk forsk-
+
+bruk av statistikkpakken SPSS, et
+
+ning. Det ene er lagt til DNR. de
+fem øvrige er Ullevål. Haukeland.
+Regionsykehuset i Trondheim og
+
+Regionsykehuset i Tromsø. -De var
+ferdig opprettet i 1994. For å knytte
+
+ferdig utviklet statistikkprogram
+som skal hjelpe forskerne med sta-
+
+tistikk-biten av forskningen. 20
+
+meldte seg på kurset, men bare
+rundt halvparten tullførte.
+
+de seks kontorene nærmere sammen. ble det opprettet en kombinert
+
+stilling finansiert av
+
+Kreftforeningen - forskningskoordinator og professor II i medisinsk
+
+statistikk ved Universitetet i Oslo.
+Stillingen er landsdekkende. men
+har kontor i niende etasje på DNR.
+
+— Den viktigste oppgaven er å
+
+bidra til å bedre kvaliteten på krettforskningen. Det innebærer å hjelpe
+til med planleggingen av forskningsprosjekter og hjelpe til med å
+
+foreta statistiske analyser av forskningsmaterialet. Foreløpig har en
+stor del av jobben gått ut på å svare
+
+på konkrete statistiske spørsmål.
+
+DNR-nytt nr 6 — Desember 1995
+
+Evaluerer kliniske studier
+
+pasienter er inkludert, eller om man
+
+ser «retrospektivt» på pasientmaterialer og forsøker å beskrive effekten av den behandling som ble gitt
+
+til pasientene. Målet er å finne ut
+hvor skoen trykker. for å si det
+
+sånn. Etter å ha gått igjennom dette
+materialet, håper jeg å danne meg
+
+For tiden holder Eva Skovlund på å
+evaluere de kliniske studiene som
+
+et bilde av hva som blir gjort og hva
+
+har vært utført bl.a ved DNR.
+
+måten kan vi heve kvaliteten på
+
+— Jeg går igjennom all forskning-
+
+en fra 1993 for å danne meg et bilde av hva slags type forskning det
+dreier seg om. hvor godt planlagt
+
+forskningen er. om man har brukt
+riktige statistiske metoder og hvilken type studier det dreier seg om.
+dvs. om de er prospektive. randomiserte studier. der det avgjøres ved
+
+tilfeldighet hvilken behandling en
+pasient skal få, og der effekten av
+forskjellige behandlinger sammenlignes etter at et tilstrekkelig antall
+
+som kunne vært gjort bedre. På den
+
+kreftforskningen.
+
+Åpen dør
+Doren til Eva Skovlund er alltid
+
+åpen for henvendelser. Men den
+som har noe på hjertet bør skynde
+seg. for allerede |. februar går hun
+ut i svangerskapspermisjon. Hun
+venter sitt tredje barn.
+—Men jeg er tilbake til høsten.
+
+
+
+Lørdag 16. mars 1996 35
+
+Dagbladet
+
+Foran dagens 500 meter sprint i skøyte-VM, enkeltdistanser: Statistisk
+
+metodikk har medvirket til at lapeme Se GåAstensen,fo ganger
+i stedet for én.
+
+|
+
+Sisteinc e fo)
+
+olympiskk rettferdighet
+Nils Lid Hjort
+
+professori statistikk, UiO
+
+«Grisjin
+
+trakk
+
+bane
+
+med
+
+spent oppmerksomhet — og
+kunne ikke holde skuffelsen
+tilbake! Første : ytre! Han
+
+kastet den blå luen I isen
+
+med en oppgitt bevegelse,
+
+men besinnet seg og pluk-
+
+ket den rolig opp igjen. Fra
+start i indre bane kunne han
+satt verdensrekord, kanskje
+komme under 40.0 som det
+første menneske i verden.
+Nå hang rekorden i en tynn
+tråd
+— kanskje gullmedaljen
+også. Han tålte ihvertfall ike
+
+Ay ida
+eR
+eres
+PYROS
+
+ke flere uhell.
+
+Dette er fra boken 13 år med Ku pern& |
+
+Co., skrevet i: 1963 av Knut Bjørnsen, ,
+
+: Norgesmesterpåskøyter for junior 1951:
+og senere kjent som selger på TV. Boke:
+
+ble solgt
+i et storslagent antall eksem- ”
+
+plarer over flere år, hvilket minner oss —
+
+om at skøytesporten for en liten genera-
+
+sjon siden var en «nasjonal kulturarv»,
+som alle opplyste mennesker hadde et
+
+GRUNDE an å Nå skal bei lengerengen aåv bane være avgjørendeoa de
+
+forhold til. Det norske folk satt klistret.
+til radioapparatene, og «ho mor grip
+fastare um staven», som Olav H. Hauge
+Valley.
+
+se på ‘500 m-‘iden lør: re:
+
+kingskipeti aukar
+
+skrev i diktet Kuppern skrid i Squaw
+
+_ Urettfendighetedision: :
+
+-
+
+Og selve sitatet handler. om et klas-
+
+sjonen sr
+
+ørst og
+
+ge matpakker: vanskeligheten med å -
+
+Ep vere
+
+era
+
+mestre siste indre. Farten for en topp; |.
+
+-* sprinter er omtrent 55 km/t, og da er
+:
+i* sentrifugalkreftene hardere å drages
+”:
+med for manneni indre bane (svingra-
+
+Hvor viktig er dette, og hva skjedde
+2 forsonda--: siden? ,På Den Olympiske Vekt er de
+
+'er Var, og å, seks. Hundredelene viktige nok; man
+
+an Uttrykke;for. ‘den 7 kan lett sjekke et par resultatlister og se
+
+statistiske 7"; variasjon, at medaljer.kan bytte plass med en slik
+"rundt?* denne”. hoved-* " differanse. Grunde Njøs' 7. plassi 1994
+* strukturen, altså indivi- ~ ville vært en 6. plass, Frode Rønnings
+
+p går løperne 500
+
+av
+
+:
+
+man tatt
+
+he for problemet ved -; Srensmes
+
+dius 25 m) enn for manneni ytre bane:
+&| regelsette’: at "løperne ¥ :
+bytter bane fra lørdag til
+(svingradius 29 m). Sprinteren klarer of-'
+Resultatlistene
+søndag.
+fra disse sprint-VM kan
+
+te ikke å holde kurven, og kan lett hav-*
+ne flere meter lenger ut.
+Og hvordan gikk det med Grisjin?
+
+Arkivfoto: PAUL PAIEWONSKY
+
+~oe Åene for *
+
+fremstOL» I'de; årlige
+
+sisk problem, ivrig diskutert over man-
+
+nd i sprintdistansene.
+
+.. den!
+
+dige- dans
+: 10. plassi 1988 ville vært en 13. plass, og
+
+som av4 rundt *é SyStore gjen-- så videre, hvis den kron-mynt
+hadde falt om-
+
+nomsnittsoppførsel, et * gør banefordelingen
+
+p
+
+vendt ned.*
+
+ter en viss sanns
+
+Resultatet av undersøkelsen ble komhetsmodell. At (a,,0,) ik-:'
+ke er det samme som
+- munisert til Norges Skøyteforbund i
+1992. Dette medførte via Tron Espeli et--~
+(a;,b,) er fordi forholdeVel, han hadde sitt berømte feilskjær
+i
+fra norsk side til LS.U. om at reg=ne aldri
+er helt like de to stevnedagene:%'
+siste indre, «de russiske lederne knyttet- met. Oppgaven er å estimere den statlige
+lene skulle bli forandret allerede fra LilNavel: en slik modell kan tilpasses og
+never så knokene hvitnet», men han tiske parameteren.
+
+Diskuteres
+
+|
+
+dermed også brukes til å belyse siste indre-proble-
+
+vant likevel miraku-* > d== gjennomsnittlig tidstap Ived. siste. | verifiseres av data, parametrene kan es- >:Jehammer-OL 1994, med to løp, hvor lø-
+
+løst den olympiske : indre *
+
++ timeres, og man har ikke minst ogs&@¥)‘peren bytter banei annet løp. Delegate-
+
+! (der djennomsnittig»" handler om
+
+metoder for å avgjøre hvor presisedisse~* ” ne fra de 34 medlemslandene hadde en
+verdens aller beste løpere, i normale løp: ‘estimatene blir. Man må altså gjennom
+'* punktvis oppsummering av min under-. en «full operasjon» her; hele modeller; søkelse som grunnlag. Her kom man ikmange
+- aoe — erhan’; uten klar uhell), med så god presisjon
+som
+mulig,
+samt
+å
+avgjøre
+om
+d
+virkelig
+må
+estimeres,
+det
+vil
+si
+alle
+parametre;
+? ke frem til en entydig konklusjon, og
+p
+med
+siste*
+er positiv
+— det kanjo i utgangspunktet : ne, selv om interessen (i: denne sam=> bestemte seg for å ta opp temaet to år sed = 0, altså at forskjellene.+ menheng) er fokusert p4 dén ene d- a-7/“nere; 500-metereri* : Vikingskipet gikk
+EEE herostratiske. siste” godt tenkes at
+for, som vi:husker,
+etter gammel
+indre. Så
+problem-: i resultatlistene bare skyldes alminne-. rameteren: Detv iser seg også fort at
+over
+
+matpakker
+
+500
+meter
+sprint
+1960 på 40.2. Noen
+
+©
+
+ytre i stedet for den:
+
+stillingen om hvorvidt sisteindre
+
+tatberen 182 mals I 1994 forelå:forslaget påny,
+
+virke- N lig statistisk variasjon, uansett hva Gri-. ;; gliten og godtgiemts, og sta!
+
+lig er en urettferdig belastning, og om
+derfor halvparten av deltagerne har
+flaks og den andre halvparten uflaks,
+har en lang historie. Er det virkelig-en
+forskjell, og hvor stor er i så fall denne
+urettferdigheten?
+
+*sjin måtte ha følt i februar 1960. (Jenter må ta fremsitt beste detektiwmikroskon - denne, gang ikke fremlagt fra en enkelt
+er ikke nødvendigvis flinkerei matema-*
+=P nasjon, men av The Technical Commit-
+
+om det, men ingen gjør noe med det!
+
+kan rydde opp I. Han/hun kan sette opp: ’ fra ett enkeltstevne. Innledende over-:Ee
+ulike statistiske modeller for hva som in-:: _ legninger viste atje
+eg.
+matte (a) pores
+
+Det er som med været: alle snakker
+
+Her skal jeg imidlertid antyde for Dag- -
+
+bladets lesere hvordan robust statistisk *
+analyse av en blandet bi-G
+varianskomponentmodell med lineært virkende kovariateffekter og sesongavhengige intrakorrelasjonsparametre ledet til at the International Skating
+Union og the International Olympic
+Committee forandret reglene for denne
+vintersportens Formula One-konkurranse. Arbeidet har også fått konsekvenser for hvordan 500-meteren blir
+arrangert i de årlige verdensmesterskap
+på enkeltdistanser, som går av stabelen
+for aller første gang 15.-17. mars i Vi-
+
+* for å identifisere den.for Å få god no!
+tikk enn gutter selv om gjennomsnittlig presisjon til virkelig å kunne påstå atjo- tee for Speed Skating, der Tron Espeli
+“* Og denne gang bleGMenstem-
+
+jente-karakter var bedre enn gjennom--
+
+da, den olympiske 500-meter er (og har/£
+er norsk medlem.:-"-
+
+men.)
+
+for å ta feilidenne påstanden er mindre
+
+snittlig gutte-karakter ved siste 'eksa-
+
+lenge vært) urettferdig!, og at sjansen
+
+mig vedtatt, etter en del diskusjon: fra
+
+Det er slike spørsmål en statistiker: enn 1 %, trengtejeg også mere data enn *=*:="> :~
+
+og med Nagano 1998
+
+det gås
+to 500i Metal i : skal
+metre, og vinner er
+
+fluerer en løpers 500 m-resultat. Den* "frem resultatprotokoller, (b) skrive inn
+modellen jeg anvendte her ser omtrent” på fili datamaskinen, og (c) utføre mine.
+slik ut, å resp og dren statistiske modelltilpasninger og bereg-~
+Vu08
+Vis for løper nr. å:
+
+“3
+
+2°
+
+Ye, =a,+ byr + 6, +/- 12d + Varg
+
+‘=
+
+Vig = a, + BZ, +c, +/- 1/2d + var,
+
+hvor +/- er et pluss hvis det er siste in-
+
+dre og et minus hvis det er siste ytre
+
+(differansen blir altså d). Videre ér x, og
+
+Ta passeringstidene etter 100 m, c, er
+arameter som forteller om løperens
+
+, den rette linjen y, = a,
+
++
+
+er
+
+den regresjonslinje som forteller or
+omsje
+
+vedstrukturen i 100 m-tidens innflytel-
+
+ninger for sprint-VM-data for omtrent ti.
+. konkurranser. Mitt sluttmateriale be-.
+
+.den som har best
+
+‘plass |
+
+° peepee le
+
+gjennomsnittsos tia).‘+ Dette
+skal som
+
+3
+
+nevnt: også gjelde i
+
+Fama de nye verdensmes-
+
+stod av alle sprint-VM fra og med 1984 (Trondheim) til og med 1994 (Calgary).”, “terskap på enkeltdistanser, som nå blir
+
+Den store konklusjon var estimatet d = - arrangert forste gang, i Vikingskipet i
+Hamar 16. mars. Man skal også gjøre
+0.06 sekunder, med 95% konfidensintervall (0.03, 0.09). Ser man kun på in-.. som i hopp og alpint, med «snudd resulnendørsstevner, der forholdene er nær tatliste» i annet løp, med de beste til
+optimale og svingradius så liten som reslutt. Dermed får stevnet en naturlig
+dramaturgi. og blir en mer pedagogisk
+gelverket tillater, er estimatet på urettferdighetsparameteren rundt 0.08 seog stigende opplevelse for publikum!
+
+
+
+International
+Statistical
+
+Institute
+
+JAN TINBERGEN AWARDS
+
+COMPETITION FOR YOUNG STATISTICIANS
+FROM DEVELOPING COUNTRIES
+1997
+
+The International Statistical Institute (ISI) announces the Eighth Competition among young statisticians from
+developing countries who are invited to submit a paper on any topic within the broad fled of statistics, for
+possible presentation at the 51st Session of the ISI to be held In Istanbul, Turkey, In 1997.
+Participation in the competition is open to nationals of developing countries who are living In a developing
+country, who were bom In 1965 or later.
+
+Papers submitted must be unpubilshed, original works which may include material from participants’ university
+theses.
+
+The papers submitted will be examined by an international Jury of distinguished statisticians who will select the
+three best papers presented in the competition. Their decision will be final.
+Each author of a winning paper will receive the Jan Tinbergen Award in the amount of 5,000 Dutch Guilders
+
+and be invited to present their papers at the Turkey Session of ISI, with all expenses paid (i.e. round trip airline
+ticket from his/her place of residence to Istanbul plus a lump sum to cover living expenses).
+Manuscripts for the Competition should be submitted in time to reach the ISI not later than January 1, 1997.
+The rules governing the preparation of papers, application forms and full details are available on request from
+the ISI Permanent Office. The address is as follows:
+
+The Director
+Permanent Office
+
+International Statistical Institute
+428 Prinses Beatrixlaan
+2270 AZ Voorburg
+The Netherlands
+
+
+
+Svar pa REKREASJONER på side 14
+1. Svar: 3/4.
+
+2. Svar: 1/4+1/(2*7)
+
+5. Svar: *Annethvert rævhol har det!”
+
+Scenario: En student bruker sin mobiltelefon bak i salen, foreleser drar gåten,
+og studenten blir fornærmet. Det er det ingen grunn til: Betinget gitt at man
+
+er et rævhol (må sies på bergensk!), er det 50% sjanse for å ha mobiltelefon,
+og det kan godt være den samme som i befolkningen forøvrig. Altså ingen
+injurierende kraft!
+
+I praksis forveksles ofte P(A|B) med P(B|A), slik det også var fare for i
+Oppgave 4.
+
+30
+
+
+
+Medlemskap i Norsk Statistisk Forening
+Kontingenten i foreningen er på kr. 150 pr.år for regulære medlemmer og kr.
+50 for studenter. Korrespondanse om medlemskap og innbetaling av kontingent
+skal skje til foreningens kasserer:
+Norsk Statistisk Forening v/Harald Johnsen
+Avd. for klinisk kjemi
+Regionssykehuset i Trondheim
+
+7006 TRONDHEIM
+
+Innbetalinger skal gjøres på foreningens postgirokonto 0802 5 15 10 55. Medlemmer som er usikre på når de betalte kontingent sist, vil nederst til høyre på
+adressedelen for Tilfeldig Gang finne angitt hvilket år siste betaling er registrert
+for. Vær imidlertid oppmerksom på at adressesedlene for bladet ligger noe etter
+ajourføringen av medlemsregisteret, slik at nylig foretatte innbetalinger ikke vil
+vere tatt med her.
+
+Nye medlemmer melder seg til kassereren.
+
+Slike medlemmer får automatisk
+
+tilsendt Tilfeldig Gang, med forbehold om at det tar noe tid før tilføyelser
+og forandringer i medlemsregisteret gjenspeiler seg i adresselistene til bladet.
+
+Adresseforandringer meldes også til kassereren.
+
+Ved utsendelsen av Tilfeldig
+
+Gang benyttes det kopier av det vanlige medlemsregisteret, så adresseforandringer behøver ikke meldes separat til bladet.
+Annen korrespondanse med foreningen skal foregå med formannen under denne
+adressen:
+
+Norsk Statistisk Forening v/Arnljot Høyland
+Institutt for matematiske fag
+NTNU
+
+7034 Trondheim
+
+Bidrag til Tilfeldig Gang
+Neste nummer av Tilfeldig Gang vil komme ut i oktober 1996. Alle slags bidrag
+til bladet er velkomne, enten det gjelder nye temaer av interesse for norske statistikere, eller man har kommentarer til innlegg som allerede har stått i bladet.
+
+Stoff til neste nummer må vere redaktøren i hende senest 15/9-96.
+Adressen til redaksjonen er
+Thore Egeland/Turid Follestad
+Norsk Regnesentral
+Boks 114, Blindern
+
+N-0314 OSLO, Norway
+Telefon: 22852500
+Fax: +47 22697660
+
+e-mail: thore.egelandQnr.no/turid.follestadQnr.no
+
+31
+
+
+
+cs
+
+oom
+
+A
+
+i
+
+i
+
+i
+
+$5
+
+E
+
+=
+
+7
+
+i
+
+i
+
+= oe:
+
+-=
+
+ko
+
+i
+:
+
+Å
+
+=
+
+å
+
+.
+
+ni ny A
+
+i i
+
+i 1 at a i fy =,
+
+- or
+
+ia
+
+3
+
+=>
+t
+
+i
+
+ke
+
+i
+
+©
+
+fo
+
+EE
+
+7
+
+a
+
+7
+
+"da
+
+«
+
+7
+
+=
+
+.
+
+i
+a
+i
+
+1
+
+É
+
+7
+
+-
+
+= j=
+
+ur
+
+7
+
+=
+
+=
+
++.
+
+7
+
+:
+
+a
+
+PR:
+
+=
+
+hå i]
+
+pa
+
+Fa
+
+Di
+
+x
+
+so
+
+i
+
+=4
+
+1
+
+.
+
+i ei
+
+7
+
+a
+on
+a
+sg
+
+sk
+
+i
+
+fhe Pi
+
+7;
+
+se
+
+=
+
+I
+
+a
+
+=
+
+; a : en
+
+oe
+
+7
+
+7
+
+mr
+
+Pr
+
+7
+
+»
+
+te
+
+yer,
+
+uk
+
+7
+
+1
+
+7
+
+<= rt; Ur «A
+
+s
+
+=
+
+of
+
+0
+
+== a
+
+å
+
+Å
+
+i
+
+7
+
+å
+
+i
+
+6
+
+7
+
+—
+
+ae
+
+:
+
+På
+
+al
+
+i
+
+>
+=
+
+i
+
+5
+
+aL
+
+i
+
+-
+
+;
+
+Lyre
+
+7 avpet
+
+i
+
+ne
+
+¥
+
+»
+
+i
+
+aeee
+
+Le
+
+=|
+
+:
+
+»
+
+he
+
+I
+
+sail
+a 7a
+; 7
+
+7
+
+7
+
+En
+
+7
+
+;
+i
+
+y
+
+=
+
+v
+
+>
+
+DE
+
+|
+i
+
+;
+
+rts
+=
+
+i
+
+i
+F
+
+4
+
+— min
+4
+
+7
+i
+
+7
+
+os
+
+å
+
+: å
+
+:
+
+its
+
+—
+
+—— eee
+:
+
+— ae
+I
+
+$
+
+Bn
+1
+
+=e
+
+en
+
+a
+
+i
+rp
+
+it
+
+a
+
+oe,
+
+ris
+
+on
+
+
+
+
+
+Returadresse:
+
+TILFELDIG GANG v/Harald Johnsen? —
+
+Avd. for klinisk kjemi
+Regionssykehuset i Trondheim
+7006 TRONDHEIM
+
+
+

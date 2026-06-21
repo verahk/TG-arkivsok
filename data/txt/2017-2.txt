@@ -1,0 +1,1029 @@
+Tilfeldig gang nr. 2/2017
+
+Karl Ove Hufthammer ⋅ Anne Marie Fenstad ⋅ Geir Drage Berentsen
+
+Innhald
+
+Redaksjonelt
+Frå leiaren
+Frå redaksjonen
+Medlemskontingent for 2017
+Folk
+Minneord: Liv Høyland
+Æresdoktorat ved Universitetet i Oslo til statistiker
+Fagstoff
+Er du bevisst at GCI er bevist?
+Møte og konferansar
+Symposium i anledning Odd Aalens 70-årsdag
+Rapport fra det 19. norske statistikermøtet
+Referat fra hovedmøte i Norsk statistisk forening
+Sverdrup-prisen
+Sverdrupprisen 2017 for «unge forskere» til Geir-Arne Fuglstad
+Sverdrupprisen 2017 for «fremragende representant» til Ørnulf Borgan
+Meldingar
+Nytt frå Noregs teknisk-naturvitskaplege universitet
+Nytt frå Universitetet i Bergen
+Nytt frå Universitetet i Oslo
+Nytt frå Universitetet i Stavanger
+Nytt frå Universitetet i Tromsø
+Pusleri
+Løsning på pusleri nummer 46
+Pusleri nummer 47
+Scandinavian Journal Of Statistics
+Volume 44, Number 3, September 2017
+
+Redaksjonelt
+Frå leiaren
+Marie Lilleborge
+
+
+
+Det var overraskende og veldig hyggelig å få forespørselen om
+jeg ville stille som leder av NSF, og jeg takker for tilliten ved å
+bli valgt på Hovedmøtet i sommer. Jeg har trivdes veldig godt i
+styret av Osloavdelingen i to perioder, og synes det er veldig
+fint å kunne fortsette å bidra til foreningen. 2017 er og blir et
+spesielt år for meg, med disputas i januar, bryllup i april,
+medarrangør av Statistikermøtet i juni, og så venter vi en liten
+gutt i desember. Med andre ord, dette vervet er toppen på
+kransekaka.
+
+Marie Lilleborge.
+
+Det viktigste for meg da jeg gikk inn i dette vervet, var å holde foreningen og det gode
+miljøet vi har ved like. I tillegg dukker det jo opp nye og spennende saker i styret, og jeg
+oppfordrer videre medlemmer som har innspill eller forslag til initiativ de ønsker å ta
+opp til å ta kontakt med meg, resten av styret eller lokalavdelingene. Jeg minner også om
+at referat fra styremøtene våre blir lagt på nettsidene våre, dersom man ønsker å sjekke
+ut disse.
+Det var fint å være medarrangør på Statistikermøtet i sommer, og jeg vil gjerne takke alle
+som deltok for at dere var med å gjøre det til et lærerikt og hyggelig arrangement. Jeg
+håper dere hadde en fin uke på konferanse og/eller forkurs i Plankebyen. Sammen med
+mannen min, Torgeir, har jeg fått skrive en liten rapport fra møtet.
+Jeg setter selv veldig stor pris på NSF akkurat slik foreningen er: Lokale møter og
+temakvelder der vi kan få et innblikk i hva kollegaer jobber med, og Statistikermøtet
+annenhver sommer der statistikere fra hele landet samles til en god dose av ulike typer
+statistikkforedrag og trivelig samvær. Jeg synes også at det er fint at vi er en plattform for
+statistikk på norsk, både gjennom muligheten for å holde foredrag på norsk på
+Statistikermøtet og skriftlig her i TG. Jeg oppfordrer alle til å tenke etter om du har
+statistikerkolleger eller -venner som ikke er medlemmer i NSF, men som kunne trives
+godt blant oss. Fra styrets side vil vi fokusere mest på rekruttering av masterstudenter,
+men oppfordrer medlemmer og lokalforeningene til å invitere med bekjente som kunne
+hatt glede av det.
+
+Frå redaksjonen
+Karl Ove Hufthammer
+
+Ny redaksjon
+
+Med dette overtar bergensmiljøet som redaksjon for Tilfeldig gang. Og den første
+forskjellen ein legg merke til er nok formatet: Bladet har no blitt «heildigitalt». Tilfeldig
+gang har frå første nummer i 1984 og til siste nummer i 2013 komme ut på papir. I 2011
+innførte den førre bergensredaksjonen ein ny bladbunad, som har blitt verande, meir
+
+
+
+eller mindre uendra, sjølv etter overgangen til berre elektronisk distribusjon i PDF-format
+frå 2014.
+Men bladbunaden var laga for papir; PDF-formatet er rett og slett «papir på skjerm». Og
+papir fungerer dårleg på skjerm! På små skjemar må ein forstørra opp teksten og heile
+tida panorera fram og tilbake på kvar tekstlinje for å få lese innhaldet. Då er det kanskje i
+praksis betre å skriva ut bladet og lesa det på papir.
+
+Frå papir til skjerm
+
+Med dette nummeret prøver me derfor noko nytt: Me går over til eit format eigna for
+lesing på skjerm. Bladbunaden tilpassar seg skjermflata ein har, enten det er ein stor PCskjerm, eit hendig nettbrett eller ein liten mobiltelefon. Og viss ein saknar eit fysisk
+eksemplar, treng ein ikkje fortvila; bladbunaden tilpassar seg òg utskrift på papir.
+I dette første nummeret med nytt format er gjerne ikkje enno alt optimalt, og me set pris
+på tilbakemeldingar og forslag til forbetringar. For dei som er interesserte i dei tekniske
+detaljane: Me redigerer no TG i Asciidoctor-formatet, formaterer det med ein lettare
+redigert versjon av Asciidoctors standard SASS-stilsett, handsamar bilde med GIMP og
+ImageMagick, og syr til slutt det heile saman ved hjelp av GNU Make.
+
+Innhaldet i bladet
+
+Me er einige med den førre redaksjonen i at det vil vera ein styrke å satsa på folk framfor
+fag i TG. Me ønskjer sjølvsagt å vera ein fagleg kanal òg, men me er ikkje eit
+fagfellevurdert vitskapleg tidsskrift; me er eit medlemsblad av og for medlemmane i
+Norsk statistisk forening (og andre med interesse for statistikk!).
+Derfor er me spesielt interesserte i å høyra om livet som statistikar. Kva arbeider dei ulike
+medlemmane i Norsk statistisk forening med? Korleis fortonar arbeidskvardagen seg? Og
+korleis var reisa frå nyutdanna til jobben ein no har? Eller kva med eit tilbakeblikk på eit
+liv i statistikken for ein som no er pensjonert? Og i motsett ende av karrieren: Korleis er
+det å studera statistikk no i 2017? Skriv kort eller langt, alt etter eige ønske, og send til
+redaktøren på <karl@huftis.org>. Legg gjerne ved bilde.
+Me tar imot stoff på dei fleste tekst- og bildeformat (og reformaterer og korrekturles
+innhaldet for deg). Her nokre eksempel på stoff me er interesserte i:
+– «Jobben min som statistikar»/«Studiet mitt som statistikkstudent».
+– Reisebrev (frå statistikarar på utanlandsopphald).
+– Gratulasjonshelsingar for norske statistikarar som fyller runde dagar eller har vunne
+prisar.
+– Minneord om norske statistikarar som har gått bort.
+– Nytt frå det statistiske fagmiljøet ditt.
+
+
+
+– Omtale av ei statistikkbok – eller ei anna bok som bør vera av særskild interesse for
+statistikarar – som du har lese.
+– «Lesarinnlegg» om noko (statistisk) som du er opptatt av.
+– Rapportar frå møte, konferansar, kurs eller liknande statistikkarrangement.
+– Statistikkvitsar (eller -gåter/-oppgåver).
+– Kommentarar til tidlegare TG-stoff.
+I dette første nummer har me fleire lesarbidrag, om både folk og fagstoff. Ein kan òg lesa
+rapport frå statistikarmøtet i Fredrikstad i sommar, med omtale av vinnarane av
+Sverdrup-prisen, og sjølvsagt har me dei faste spaltane – der me mistenker at Jostein
+Lillestøls pusleri er eit høgdepunktet for mange.
+God lesnad!
+Karl Ove Hufthammer (redaktør)
+Anne Marie Fenstad
+Geir Drage Berentsen
+
+Medlemskontingent for 2017
+Turid Follestad
+
+Har du husket å betale kontingent i Norsk Statistisk Forening for 2017?
+
+Medlemskontingenten i NSF for 2017 er kr. 200,– per år for ordinære medlemmer. Fra og
+med 2018 blir kontingenten hevet til kr. 250, etter vedtak på årsmøtet i juni.
+Mastergradsstudenter får gratis medlemskap i to år fra innmelding.
+
+Hvordan betale kontingenten?
+
+Kontingenten kan betales på en av følgende to måter:
+– Ved overføring til kontonummer 0530.27.73299
+– Ved bruk av Vipps, til Vipps-nummer 97112
+
+Hva gjør vi med pengene?
+
+De største utgiftspostene for NSF er overføringer til
+lokallagene i Oslo, Bergen og Trondheim, utdeling av
+Sverdrup-prisen, NSFs medlemskap i the European
+Mathematical Society (EMS) og The International Statistical
+Institute (ISI), og utgifter i forbindelse med diverse
+arrangementer (blant annet støtte til studenter ved deltakelse
+på det norske statistikermøtet).
+
+Hvordan sjekke om kontingenten er betalt?
+
+97112
+
+
+
+Dersom du er usikker på når du betalte sist, kan du kontakte kassereren per e-post. Styret
+jobber med å etablere en løsning for å sende e-post til alle medlemmer med individuell
+informasjon om når det sist er betalt.
+
+Medlemsregister
+
+For at medlemsregisteret skal være best mulig oppdatert er det viktig at du oppgir
+eventuell ny post-/e-postadresse ved å sende en e-post til kassereren på
+<turid.follestad@ntnu.no>. Det er opprettet en egen e-postliste for NSFs medlemmer, nsfmedlemmer@math.uio.no. Dersom du ikke mottar e-post fra denne listen, send den
+oppdaterte e-postadressen din til kassereren.
+Vennligst oppgi hvem og hvilket år kontingenten gjelder for ved innbetaling. Det første er
+spesielt viktig dersom arbeidsgiveren din betaler kontingenten.
+På forhånd takk!
+Vennlig hilsen
+Turid Follestad,
+kasserer i NSF
+
+Folk
+Minneord: Liv Høyland
+Mette Langaas
+
+Liv Høyland døde 27. august i Trondheim, 91 år gammel.
+Med det er en kunnskapsrik og avholdt kollega borte.
+Liv ble ansatt som høgskolelektor i statistikk ved Matematisk
+institutt på NTH i 1968 og var ansatt ved NTH til 1994, de siste
+årene som førsteamanuensis. Liv vokste opp i Oslo og tok
+artium på reallinjen i 1944. Deretter startet hun
+realfagsstudier på Blindern i 1947 og ble cand.mag. i 1950 med
+fagene matematikk, botanikk og kjemi. Planen var å ta
+hovedfag i kjemi, men etter at hun giftet seg og fikk barn, ble
+
+Foto: privat.
+
+hun hjemmeværende og la studiene på hylla. Ektemannen,
+Arnljot Høyland, var statistiker, og etter at Liv hadde vært med på hans studiereiser til
+USA, bestemte hun seg for å studere statistikk på Blindern. Med professor Erling Sverdrup
+som veileder, ble hun cand.real. i 1965. Dette året ble Arnljot ansatt som dosent ved NTH,
+og familien flyttet til Trondheim. I takt med et økende behov for forelesninger i statistikk,
+
+
+
+både ved NTH og ved Norges Lærerhøgskole, ble Liv ansatt noen år senere, og grunnlaget
+for et statistikkmiljø ved NTH i Trondheim var lagt.
+Liv valgte å gjøre undervisning til sitt hovedinnsatsområde. Mange er de som husker
+hennes forelesninger og utrettelige innsats for å gjøre faget forståelig. Blant studentene
+på NTH var Liv kjent som en god foreleser, som forklarte vanskelige begreper ved å bruke
+praktiske eksempler. I et mannsdominert miljø var hun en viktig rollemodell for
+kvinnelige studenter, og hennes smil og lune latter åpnet for dialog med studentene og
+dannet et godt grunnlag for læring.
+Sammen med ektemannen Arnljot tilbrakte hun sabbatsår ved University of California,
+Berkeley, i 1979–1980, og ved University of Wisconsin, Madison, i 1987–1988. Det siste året
+kom de i kontakt med Center for Quality and Productivity Improvement, som ga
+inspirasjon til å formidle kunnskapene og metodene videre også til norsk industri
+gjennom etterutdanningskurs for ingeniører fra store bedrifter som Elkem og Hydro.
+Aktiviteten fortsatte etter at de ble pensjonister.
+Liv hadde mange venner i de norske statistikkmiljøene og var en flittig deltaker på norske
+og nordiske statistikkmøter, også som pensjonist. Hun satte gode og viktige spor etter seg i
+norsk statistikk, både som foreleser, formidler og kollega.
+Vår medfølelse går til familien og alle som var Liv nær.
+Bo Lindqvist
+John Tyssedal
+Mette Langaas
+øvrige kolleger ved NTNU
+
+Æresdoktorat ved Universitetet i Oslo til statistiker
+Ingrid Glad
+
+Cambridge-professor Sylvia
+Richardson kreert til doctor honoris
+causa ved UiO under universitetets
+årsfest 1. september 2017.
+Under en meget høytidelig
+seremoni i Aulaen fikk Sylvia
+Richardson og 15 andre
+æresdoktorer fra alle universitetets
+fakulteter tildelt diplom og ring av
+nyvalgt rektor Svein Stølen.
+
+
+
+Tidligere på dagen hadde
+æresdoktoren holdt sin åpne
+
+Professor Sylvia Richardson, nå æresdoktor ved
+Universitetet i Oslo.
+
+forelesning med tittelen «A
+personal view of statistics as a tool for discovery in the health sciences».
+Om kvelden var det gallamiddag på
+Grand Hotel. Opptil flere statistikere
+ble observert i elegant kjole og hvitt,
+noe som vel kvalifiserer som en
+«rare event». I anledning tildelingen
+ble det også avholdt en endags
+workshop til doktorandens ære:
+«Honorary Doctorate Sylvia
+Richardson workshop on statistics
+for the life sciences 2017».
+Sylvia Richardson (født 1953) er
+professor i biostatistikk ved
+Herrer på gallamiddag: Sven Ove Samuelsen, Arnoldo Cambridge University og direktør
+Frigessi og Nils Lid Hjort.
+for Medical Research Council
+Biostatistics Unit, Cambridge. Hun
+har en PhD fra University of Nottingham og et Doctorat d’Etat des Sciences Mathematiques
+fra Université de Paris Sud. Hun har tidligere vært forskningsdirektør ved det franske
+folkehelseinstituttet og professor ved Imperial College.
+Hennes arbeider innenfor romlig statistikk har forbedret geografiske studier av miljø og
+helse, og sammen med sine mange studenter har hun utviklet nye teorier for bayesiansk
+statistikk, som har ført til viktige resultater innenfor epidemiologi, systembiologi og
+genomikk. Hun har tidligere mottatt Royal Statistical Society Guy Medal in Silver, og Royal
+Society Wolfson Research Merit Award til fremragende forskere. Hun er Elected Fellow of
+the UK Academy of Medical Sciences for sine viktige bidrag til medisinsk forskning.
+Sylvia Richardson samarbeider med Matematisk institutt og Institutt for Biostatistikk ved
+Universitetet i Oslo. Hun har vært medlem av faglig råd for det Oslo-baserte SFF-senteret
+Statistics for Innovation, og er for tiden tilknyttet SFF-senteret BigInsight.
+
+Fagstoff
+Er du bevisst at GCI er bevist?
+Jostein Kåre Lillestøl
+
+
+
+Den såkalte gaussiske korrelasjonsulikheten (GCI) har siden 1950-tallet vært en ubevist
+formodning i grenseområdet geometri, sannsynlighetsteori og statistikk. Ulikheten sier:
+
+For to sentrerte symmetriske konvekse mengder K og L i Rn , med sentrert
+Gaussisk mål m, gjelder at m(K ∩ L) ≥ m(K ) ⋅ m(L) (som kan generaliseres til
+mer enn to slike mengder).
+
+På tross av iherdige forsøk fra skarpskodde matematikere verden over gjennom 50 år, ble
+ikke ulikheten bevist i full generalitet før i 2014 av Thomas Royen, en tysk statistiker i
+pensjonsalder, med lang fartstid fra forsøksplanlegging i farmasøytisk industri.
+Praktiske eksempler på ulikheten er mange, ofte i kontekster der bevis allerede foreligger.
+Eksempel 1
+Kast pil mot blink, der denne er sirkel og rektangel som
+overlapper med felles senterpunkt, og med symmetri som vist
+i figuren. Med Gaussisk antakelse, for eksempel som følge av
+isotropi, er sannsynligheten for å treffe innenfor sirkel og
+rektangel samtidig minst lik produktet av sannsynlighetene
+for å falle innenfor hver av de to områdene. Legger en til flere
+konvekse symmetriske områder, gjelder tilsvarende.
+Eksempel 2
+Anta at for en aldersgruppe er høyde og vekt binormalt fordelt og at det er definert et
+«normalområde» omkring forventningen for hver av høyde og vekt. Sannsynligheten for
+at en tilfeldig person fra aldergruppen er innen normalområdet for både høyde og vekt er
+minst lik produktet av sannsynlighetene for å tilhøre hvert av de to normalområdene.
+Dette gjelder uansett om korrelasjonen er positiv eller negativ, og kan generaliseres til
+flere karakteristika.
+Eksempel 3
+Betrakt problemet med å etablere simultane konfidensområder basert på multinormal
+asymptotisk teori. Dette var forøvrig statistikernes inngang til problemstillingen (Dunn,
+1959). Tilsvarende muligheter gjelder for den bayesianske variant, med
+kredibilitetsområder basert på (tilnærmet) multinormal aposteriori-fordeling.
+Royen publiserte sitt resultat i et obskurt indisk tidsskrift i 2014, og det hadde fortjent å
+komme i et statistisk topptidsskrift, i likhet med forløpere som Khatri (AMS, 1967) og
+Šidák (JASA, 1967). Få visste om gjennombruddet før et par år senere, og nå har den hittil
+ukjente Royen fått fortjent stor oppmerksomhet. De mange tidligere forsøk på bevis var
+
+
+
+basert på stadig mer avansert matematikk, mens Royen greide seg med klassiske
+analytiske metoder og resultater fra fordelingsteori. Han demonstrerte også at resultatet
+ikke var utelukkende knyttet til gaussisk fordeling. Det sies at han «så lyset» en morgen
+foran speilet, da han barberte seg.
+For oss statistikere er det en oppmuntring å se at alder og «vår matematikk» ikke er noen
+hindring for å oppnå resultater som selv de mest skarpskodde matematikere har stridd
+med.
+
+Referanser
+
+Royen, T. (2014): «A simple proof of the Gaussian correlation conjecture extended to
+multivariate gamma distributions».
+Far East Journal of Theoretical Statistics, volum 48, nummer 2, side 139–145.
+Latala R. og Matlak D. (2015): «Royen’s proof of the Gaussian correlation inequality».
+arXiv.org, 29. desember 2015.
+Wolchover N. (2017): «A Long-Sought Proof, Found and Almost Lost».
+Quanta Magazine, 28. mars 2017.
+
+Møte og konferansar
+Symposium i anledning Odd Aalens 70-årsdag
+Jon Michael Gran
+
+Den 11.–12. oktober holdes det på Universitetet i Oslo et
+symposium i anledning Odd O. Aalens 70-årsdag.
+Arrangementet, som organiseres med støtte fra Norsk
+statistisk forening, har blitt møtt med stor interesse og har
+allerede godt over 150 påmeldte. Det er fortsatt mulig å melde
+seg på via symposiets nettsider. Registreringen er gratis.
+Odd O. Aalens bidrag i grunnleggende konsepter, teori og
+metoder innen moderne statistikk gjennom en lang karriere
+er høyt verdsatt. Han har vært en nøkkelperson i etableringen
+av biostatistikk som et sterkt forskningsfelt i Norge. I
+Foto: Universitetet i Oslo /
+anledning hans 70-årsdag tidligere i år, ønsker venner og
+G.F. Lothe
+kollegaer å feire Odd med et symposium til hans ære.
+Foredragenes vil spenne over temaer som har vært sentrale for Odd, fra
+overlevelsesanalyse og kausal inferens til modellering av smittsomme sykdommer:
+
+
+
+– Per Kragh Andersen, Universitetet i København
+Modeling marginal features in studies of recurrent events in the presence of a terminal
+event
+– Ørnulf Borgan, Universitetet i Oslo
+– Birgitte Freiesleben de Blasio, Folkehelseinstituttet og Universitet i Oslo
+Varicella infection in Norway: Insights on exogenous boosting and progressive immunity
+to herpes zoster
+– Daniela De Angelis, University of Cambridge
+– Vanessa Didelez, Leibniz Institute for Prevention Research and Epidemiology – BIPS
+On the Identification of Time-Varying Treatment Effects and Ignorability
+– Vern Farewell, University of Cambridge
+– Håkon Gjessing, Folkehelseinstituttet
+– Jon Michael Gran, Oslo Universitetssykehus og Universitetet i Oslo
+Multi-state modeling of sickness absence and work participation using population-wide
+registries
+– Robin Henderson, Newcastle University
+Statistical topology and the random interstellar medium
+– Niels Keiding, Universitetet i København
+Prevalent cohort studies and unexplained heterogeneity
+– Torben Martinussen, Universitetet i København
+On modeling and estimation for the relative risk
+– Kjetil Røysand, Universitetet i Oslo
+Transforming additive hazards
+– Steinar Tretli, Kreftregisteret
+Can everybody get cancer?
+I tillegg vil også hedersgjesten selv, Odd O. Aalen, Universitetet i Oslo, holde et foredrag.
+Arrangementet organiseres av Oslo senter for biostatistikk og epidemiologi, Avdeling for
+biostatistikk, Universitetet i Oslo. Organisasjonskomitéen har bestått av Ørnulf Borgan,
+Jon Michael Gran, Arnoldo Frigessi og Marit B. Veierød.
+
+Rapport fra det 19. norske statistikermøtet
+Marie Lilleborge og Torgeir Børresen (nygift 💘)
+
+Fredrikstad by feirer i år 450-årsjubileum,og i det var derfor ekstra hyggelig at godt over
+70 deltakere ble med på det 19. norske statistikermøtet 12.–15. juni i Plankebyen. Men
+
+
+
+dette var ikke det eneste jubiléet av året: For oss statistikere må det ha minst like stor
+betydning at det var 100 år siden Erling Sverdrup ble født.
+Deltakerne fra blant annet UiO, UiB, NTNU og industri hadde dager med sol, statistikk og
+samvær langs bryggepromenaden i Fredrikstad (pluss/minus to standardavvik).
+Statistikermøtet ble åpnet med
+rekorddeltagelse – så vidt vi vet – på
+forkurset «Introductory course to
+Deep Learning». Det var 45
+deltagere som aktivt tilegnet seg
+erfaring med nye verktøy og
+modeller gjennom et instruerende
+oppgavesett forberedt av
+forkursholderne Aleksander
+Rognhaugen og Igor Barros
+Barbosa.
+
+Forkurset «Introductory course to Deep Learning».
+
+Oppgavene ble presentert sammen med innledende teori og illustrasjoner i Jupyter
+Notebooks som nå er å finne på https://github.com/vicolab/neural-network-intro. På
+kurset fikk hver deltager en individuell lenke som ledet til en kobling mot en virtuell
+maskin. Slik kunne deltageren selv kun forholde seg til oppgaveløsningen gjennom
+editering av sin Notebook i nettleseren, alt i sitt eget tempo mens forkursholderne gikk
+rundt og veiledet. Det blir ikke magi uten nettverksmagi, i hvert fall ikke når det er snakk
+om virtuelle maskiner. Av referentene i denne rapporten var det altså Torgeir som tryllet
+slik at forkursholdernes opplegg faktisk fungerte teknisk slik de hadde designet det, og
+Marie som (akkurat som de fleste andre deltagerne) nøt godt av at nettverksmagien gikk
+av seg selv, slik at hun kunne fokusere på matematikken, statistikken, programmeringen
+og ny teori. Da oppgavene er allment tilgjengelige via lenken over, kan både deltagerne og
+andre utforske oppgavesettet på egen hånd, men de må da installere nødvendig
+programvare på egen pc for å kjøre sin løsning av oppgavene.
+Etter forkurset fulgte selve konferansen, der programkomitéen hadde komponert et
+variert program med sesjonstitler som «Statistikk i samfunnet», «Estimering og
+prediksjon», «Marin- og landbruksanvendelser», «Romlig statistik», «Tidsrekker» og
+«Modellvalg». Programkomitéen var ledet av Ingrid Hobæk Haff, og bestod ellers av
+Steffen Grønneberg, Manuela Zucknick og Ida Scheel. De hadde invitert Jukka Corander,
+Per Mykland og Erlend Aune som foredragsholdere.
+Jukka Corander satte startskuddet for konferansen med det inviterte foredraget
+«Likelihood-free inference for computational evolutionary epidemiology», der han
+
+
+
+fortalte om simuleringer og utviklet programvare for biologiske og biomedisinske
+anvendelser. Per Mykland fortalte om både publisert og pågående arbeid med Lan Zhang
+i foredraget «Assessment of Uncertainty in High Frequency data: The Observed
+Asymptotic Variance, and the Question of Soft and Hard Edges». Han klarte også på en
+glimrende måte å skissere noen idéer for arbeidet videre også der stien ikke allerede var
+trådd. Som tredjemann ut, gikk også Erlend Aune nye veier der han med illustrerende
+eksempler fortalte om å arbeide med journalister og journalistikk-statistikk i foredraget
+«Towards Computer Aided Journalism».
+NSF-leder Jan Terje Kvaløy delte ut Sverdrup-prisene. Ørnulf Borgan fikk prisen for
+«fremragende representant for statistikkfaget». Han ga et overblikk over den historiske
+utviklingen av overlevelsesanalyse med bakgrunn i telleprosesser i foredraget «Casecontrol studies: An overview from a methodological perspective». Med utgangspunkt i de
+historiske linjene introduserte han egne forskningsbidrag og refererte til den anerkjente
+boka «Statistical Models Based on Counting Processes», som han er andreforfatter av.
+Geir-Arne Fuglstad mottok
+Sverdrupprisen for «unge forskere
+med beste artikkel». I foredraget
+«Spatial Non-stationarity with
+Varying Anisotropy» fortalte han
+med gode illustrasjoner om Statstica
+Sinica-artikkelen «Exploring a New
+Class of Non-stationary Spatial
+Gaussian Random Fields with
+Prisvinner Geir-Arne Fuglstad med sitt foredrag.
+
+Varying Local Anisotropy» fra 2015.
+Vi fikk en introduksjon til ikkestasjonære Gaussiske felt hvor den
+
+lokale anisotropien kom inn som koeffisienter som varierte med posisjon i en stokastisk
+partiell differensialligning.
+Med inviterte foredrag, Sverdrup-foredrag og innsendte bidrag fra deltagerne på
+konferansen, talte vi 36 foredrag fordelt på to hele og to halve dager. For de fleste
+foredrag som ble holdt på konferansen, ligger lysarkene tilgjengelig. Årsmøtet til NSF ble
+også gjennomført med engasjerte medlemmer, flere avstemninger og valg av nytt styre.
+Referat fra årsmøtet finnes også i denne utgaven av TG.
+For å holde hodet passelig kaldt, var det et ypperlig supplement at pauseserveringen på
+konferansehotellet inkluderte softismaskin. Til Kathrine Frey Frøslies underholdende og
+inspirerende Statistrikk-foredrag var på tilsvarende vis popcornmaskina toppen av
+kransekaka. Og ble det for mye kake, så kom fotballkampen i strålende sol onsdag
+
+
+
+ettermiddag som seg hør og bør før konferansemiddagen. Når
+voksne leker seg på gressmatta forventes alltids en og annen
+skade, men stemningen var likevel på topp både på
+omvisningen i Gamlebyen og på den etterfølgende
+konferansemiddagen i erverdige Grunnmurede provianthus.
+Med fint sommervær, flotte omgivelser, inspirerende
+statistiske foredrag og NSFs egne fantastiske medlemmer
+skapte vi sammen fire gode og opplevelsesrike junidager i
+sommerbyen Fredrikstad.
+Nå er det ikke annet å gjøre enn å glede seg til det tjuende
+Norske statistikermøtet i 2019 på Sola Strand ved Stavanger.
+Vi ses der.
+[Redaksjonen takkar Kathrine Frey Frøslie for hjelp med foto
+
+Kathrine Frey Frøslie.
+
+frå statistikarmøtet.]
+
+Referat fra hovedmøte i Norsk statistisk forening
+Her følgjer referat frå hovudmøtet i Norsk statistisk forening i 2017. Innhaldet
+er lettare reformatert for presentasjon i TG. Originalversjonen med
+underskrifter er òg tilgjengeleg.
+Tid
+
+tirsdag 13. juni, kl 17:45–18:45
+
+Sted
+
+Quality Hotel Fredrikstad
+
+Oppmøte
+
+23 personer
+
+Hovedmøtet ble gjennomført i tilknytning til det 19. norske statistikermøte.
+1. Godkjenning av innkallingen og saksliste
+Innkallingen og sakslisten ble godkjent.
+2. Valg av møteleder og referent
+Jan Terje Kvaløy ble valgt til møteleder.
+Ragnar Bang Huseby ble valgt til referent.
+Anne Marie Fenstad og Kathrine Frey Frøslie ble valgt til å underskrive protokollen.
+3. Årsberetning 2015–2017
+Årsberetningen ble godkjent.
+4. Regnskap for 2015 og 2016
+Regnskapet ble godkjent.
+
+
+
+5. Medlemskontingent
+Styret foreslo å øke kontingenten fra kr 200 til kr 250, og at studenter fortsatt har
+gratis medlemskap.
+Styrets forslag ble vedtatt med 14 mot 5 stemmer.
+Kommentar: Det ble ytret ønske om at foreningens medlemmer bør ha muligheten til
+å sjekke online hvor mye de skylder i kontingent.
+6. Øvrige saker fremlagt av styret
+a. Forslag til vedtektsendringer
+i. I paragraf 2 fjernes setningen «Medlemskontingent forstudenter er ⅓ av ordinær
+kontingent.»
+Styrets forslag ble vedtatt.
+ii. I paragraf 3 presiseres «Lokalforeningene har egne vedtekter og egen økonomi.
+Vedtektene godkjennes av styret.» til «Lokalforeningene har egne vedtekter og
+egen økonomi. Vedtektene skal godkjennes av styret i NSF.»
+Styrets forslag ble vedtatt.
+iii. I paragraf 4 under temaer som hovedmøtet skal behandle endres «Valg av styre
+for de neste to år, med særskilt valg av leder og redaktør.» til «Valg av styre for
+de neste to år, med særskilt valg av leder. Valg av redaktør.»
+Styrets forslag ble vedtatt.
+iv. I paragraf 5 erstattes «Styret består av leder, redaktør av medlemsbladet og fire
+styremedlemmer. Styret velger selv sekretær og kasserer.» med «Styret består av
+leder, kasserer, sekretær og to styremedlemmer. Styret velger selv sekretær og
+kasserer.»
+Styrets forslag ble vedtatt med 17 mot 4 stemmer.
+b. Styret forslår at NSF søker medlemskap i FENStatS (The Federation of European
+National Statistical Societies).
+Styrets forslag ble vedtatt.
+c. Styret foreslår at NSF melder seg ut av EMS (European Mathematical Society).
+Styrets forslag ble avvist med 11 mot 2 stemmer.
+Kommentar: Viktigheten av at statistikere er representert i EMS ble fremhevet. Det
+er nemlig EMS og IMU (International Mathematical Union) som nominerer
+kandidater til Abel-komitéen, som vurderer kandidater til Abel-prisen.
+d. Språk på norske statistikermøter
+i. Et forslag fra styret er at det i programmet for statistikermøtene angis hvilket
+språk de enkelte foredragene vil bli holdt på.
+
+
+
+Ingen hadde innvendinger mot en slik praksis, men møtet fant det ikke
+nødvendig å fatte et vedtak om dette.
+ii. Et innkommet forslag fra Arnoldo Frigessi er at alle presentasjoner på
+statistikermøtene holdes på engelsk.
+Forslaget ble avvist. Ingen stemte for forslaget.
+7. Sak fremmet av Arnoldo Frigessi om NSF-initiativ i forhold til NFR
+Årsmøtet oppfordrer det nye styret til å undersøke nærmere hva som kan gjøres.
+8. Valg av styre for de neste to år, med særskilt valg av leder. Valg av redaktør for TG. Valg
+av to varamedlemmer og to revisorer.
+Følgende ble valgt ved akklamasjon.
+Styret
+Leder
+
+Marie Lilleborge, Kreftregisteret
+
+Styremedlemmer
+
+Turid Follestad, NTNU
+Yushi Li, Universitetet i Bergen
+Ragnar Bang Huseby, Norsk Regnesentral
+Jan Terje Kvaløy, Universitetet i Stavanger
+
+Varamedlemmer
+
+Tore Wentzel-Larsen, RBUP
+Alf Harbitz, Havforskningsinstituttet i Tromsø
+
+Revisorer
+Hanne Rognebakke, Norsk Regnesentral
+Tor Cato Gjerdingen, Oslo Pensjonsforsikring
+Valgkomité
+Jo Eidsvik, NTNU
+Kathrine Frey Frøslie, Universitetet i Oslo
+Tilfeldig gang
+Redaktør
+
+Karl Ove Hufthammer, Haukeland universitetssjukehus
+
+Redaksjon
+
+Anne Marie Fenstad, Haukeland universitetssjukehus
+Geir Drage Berentsen, Universitetet i Bergen
+
+Referent: Ragnar Bang Huseby
+Signert av: Anne Marie Fenstad og Kathrine Frey Frøslie
+
+Sverdrup-prisen
+
+
+
+Sverdrup-prisen er Norsk statistisk forenings forskningspris til minne om Erling
+Sverdrup. Prisen kan deles ut hvert år, men har hittil blitt delt ut under det norske
+statistikermøtet (som finner sted i oddetallsår). Det deles ut to priser:
+– Til en fremragende representant for statistikkfaget.
+– Til en ung forsker (under 40 år) med beste artikkel.
+Hver av prisene består av et diplom og et stipend på kr 10 000.
+
+Sverdrupprisen 2017 for «unge forskere» til Geir-Arne Fuglstad
+Jo Eidsvik; Arnoldo Frigessi; Jan Terje Kvaløy
+
+Geir-Arne Fuglstad er født i 1987 og
+tok sin mastergrad i matematiske
+fag ved NTNU i 2011 og sin
+doktorgrad i statistikk samme sted i
+2015. Han er nå ansatt som postdok
+ved Institutt for matematiske fag,
+NTNU. Han har vist seg som en
+meget dyktig forsker og behersker
+både teori og praktisk
+Prisvinner Geir-Arne Fuglstad under det 19. norske
+statistikermøtet.
+
+implementering på høyt nivå.
+Fuglstad får prisen for sin artikkel
+«Exploring a new class of nonstationary spatial Gaussian random
+
+fields with varying local anisotropy», som ble publisert i Statistica Sinica i 2015. Finn
+Lindgren, Daniel Simpson og Håvard Rue er medforfattere på dette arbeidet.
+Gaussiske felt er den mest sentrale modellen innen romlig statistikk. Vanligvis antar man
+en stasjonær modell hvor avhengigheten mellom variabler kun avhenger av deres
+innbyrdes avstand. Utvidelsen til ikke-stasjonære modeller for avhengighet er ikketriviell, både i modellkonstruksjon og på grunn av beregningsmessige utfordringer. I
+arbeidet som Sverdrup-prisen tildeles for utvider Fuglstad og medforfatterne idéene fra
+en artikkel i JRSSB (Lindgren, Rue og Lindstrøm, 2011) og diskuterer hvordan man kan
+lage modeller med lokal anisotropi, noe som ikke var tilgjengelig tidligere. Videre
+anvendelser av dette arbeidet er demonstrert i artikkelen «Does non-stationary spatial
+data always require non-stationary random fields?», publisert i Spatial Statistics i 2015.
+Sverdrupkomitéen
+
+Sverdrupprisen 2017 for «fremragende representant» til Ørnulf
+Borgan
+
+
+
+Jo Eidsvik; Arnoldo Frigessi; Jan Terje Kvaløy
+
+Ørnulf Borgan mottar Sverdrupprisen for sine bidrag innen
+statistisk forløpsanalyse og
+medisinsk statistikk. Hans innsats
+er svært betydningsfull for
+statistikkfaget både i Norge og
+internasjonalt.
+Ørnulf Borgan ble født i 1950. Han
+ble cand.real. i statistikk ved
+Universitetet i Oslo i 1976, og tok
+dr.philos.-graden i statistikk samme
+sted i 1984. I perioden 1977–1979
+var han adjunkt i
+forsikringsmatematikk ved
+Universitetet i København, og i 1983
+var han førsteamanuensis i
+
+Prisvinner Ørnulf Borgan til venstre og daværende
+
+statistikk ved Norges
+
+leder i NSF, Jan Terje Kvaløy, til høyre. Bildet er tatt
+under prisutdelingen ved det 19. norske
+statistikermøtet.
+
+Landbrukshøgskole. I 1984 ble han
+ansatt som førsteamanuensis i
+statistikk ved Matematisk institutt
+
+ved Universitet i Oslo, og fra 1993 har han vært professor i statistikk samme sted.
+Borgan har en omfattende forskningsproduksjon med mange viktige og mye siterte
+arbeider i områder som statistisk forløpsanalyse, telleprosessteori, case–control-design og
+analyse av genomiske data.
+Under oppholdet i København fikk Borgan interessen for forløpsanalyse og
+telleprosessteori. Et fruktbart samarbeid med Per Kragh Andersen, Richard Gill og Niels
+Keiding over mange år ledet til en rekke viktige publikasjoner i dette fagfeltet. Arbeidet
+kulminerte i boka Statistical Models Based on Counting Processes som ble utgitt på
+Springer i 1993. Boka har per i dag over 4 000 siteringer og omtales ofte bare som
+«bibelen» på fagområdet.
+Borgan har også skrevet en bok til i det samme feltet. Sammen med Odd Aalen og Håkon
+Gjessing gav han i 2008 ut boka Survival and Event History Analysis – A Process Point of
+View, og dette er også en mye lest og sitert bok.
+Et annet område Borgan har gitt omfattende bidrag til er kasus–kontroll-studier. Her har
+han spesielt hatt et fruktbart samarbeide med Bryan Langholz over mange år, og også
+
+
+
+samarbeidet med en rekke andre. Han har også gjort en stor innsats som en av
+redaktørene for boka Handbook of Statistical Methods for Case-Control Studies, som snart
+er klar for utgivelse.
+I de senere årene har Borgan også jobbet mye med statistisk genomikk, blant annet med
+metoder for dimensjonsreduksjon for levetidsdata.
+Borgan har hatt ulike redaksjonelle verv for flere anerkjente journaler, spesielt var han
+sammen med Bo Lindqvist redaktør for Scandinavian Journal of Statistics i 2007–2009.
+Borgan har et bredt internasjonalt kontaktnett, og han har hatt forskningsopphold ved en
+rekke ledende universiteter som Stanford, Cambridge, København, Karolinska instituttet,
+Columbia, Southern California, Newcastle og London School of Hygiene and Tropical
+Medicine. Det brede kontaktnett var også viktig når han sammen med Odd Aalen i 2005–
+2006 var gruppeleder for prosjektet «Statistical Analysis of Complex Event History Data»
+ved Senter for grunnforskning i Oslo.
+Borgan har også gjort en betydelig innsats for Norsk statistisk forening på mange
+områder. I jubileumsåret hvor det er 100 år siden Sverdrup ble født merker vi oss også at
+Borgan er en av de som har bidratt til å holde minnet om Sverdrup levende. Blant annet
+har han ved flere anledninger holdt foredrag om Sverdrups liv og arbeider.
+En annen og veldig viktig arena hvor Borgan har gjort en stor innsats for statistikkfaget er
+i skoleverket. Han er medforfatter på et lærebokverk for matematikk i videregående
+skole, og han har også holdt en rekke kurs og foredrag for lærere i videregående skole.
+Borgan er innvalgt medlem av Det Norske Videnskaps-Akademi, American Statistical
+Association og International Statistical Institute.
+Sverdrupkomitéen
+
+Meldingar
+Nytt frå Noregs teknisk-naturvitskaplege universitet
+Nye mastergradar
+
+Gunhild Elisabeth Berget
+Using Hidden Markov Models for Musical Chord Prediction
+Veileder: Jo Eidsvik
+
+
+
+Truls Brubak
+Evaluating the predictive properties of the Markov-switching jump diffusion LIBOR Market
+Model
+Veileder: Jacob Laading
+Julia Barbara Debik
+Using Ensemble Methods to Improve the Performance of Prediction
+Veileder: Mette Langaas
+Haris Fawad
+Modelling Neuronal Activity using Lasso Regularized Logistic Regression
+Veileder: Mette Langaas
+Ole Bernhard Forberg
+Bayesian Gaussian Inversion of Time-Lapse Seismic AVO Data
+Veileder: Karl Henning Omre
+Solveig Fosdal
+The use of logistic regression and quantile regression in medical statistics
+Veileder: Ingelin Steinsland og Håkon Gjessing (Folkehelseinstituttet)
+Eivind Berg Fosse
+Evaluating the predictive properties of the Markov-switching jump diffusion LIBOR Market
+Model
+Veileder: Jacob Laading
+Martina Hall
+Statistical Methods for early Prediction of Cerebral Palsy based on Data from Computerbased Video Analysis
+Veileder: Turid Follestad og Mette Langaas
+Per Erik Haugedal
+Nonparametric estimation in trend-renewal processes
+Veileder: Bo Henry Lindqvist
+Ingeborg Gullikstad Hem
+A Statistical Approach to Spatial Mapping of Temperature Change
+Veileder: Ingelin Steinsland og Geir-Arne Fuglstad
+Silje Hindenes
+Mixture models for flood frequency analysis
+Veileder: Ingelin Steinsland, Thordis Thorarinnsdottir (NR) og Kolbjørn Engeland (NVE)
+
+
+
+Andreas Kleiven
+Bayesian Model Averaging Using Varying Coefficient Regression and Climatology
+Cumulative Probability Regression
+Veileder: Ingelin Steinsland
+Marie Klevjer
+Statistical modelling and analysis of energy expenditure among severely overweight
+Veileder: Mette Langaas
+Torunn Kval Bakken
+A theoretical and empirical assessment of probabilistic multiple choice tests
+Veileder: Jarle Tufto
+Fredrik Elis Lundquist
+Estimation of Thermal Properties of an Ice Pad using the Parameter Particle Filter
+Veileder: Karl Henning Omre
+Abdul Ghaffar Rehman Malik
+Estimation and Comparison of "Value atRisk" of crude oil prices using HistoricalSimulation,
+GARCH and GPD methods
+Veileder: Arvid Næss
+Andreas Malmgård
+Prediction of Wind Power Production Using Beta Transformed Linear Pool
+Veileder: Ingelin Steinsland
+Didrik Nielsen
+Tree Boosting with XGBoost
+Veileder: Håvard Rue
+Audun Sektnan
+Exact Statistical Inference in Parametric Models. Methods for Constructing Confidence
+Intervals and Confidence Regions Based on Conditional Parametric Bootstrap and Data
+Depth
+Veileder: Bo Henry Lindqvist
+Himanshu Srivastav
+Development of Penalized Complexity Priors for Stationary and Invertible Time Series
+Processes
+Veileder: Jo Eidsvik
+
+
+
+Andreas Strand
+Statistical Analysis of Metal Processes
+Veileder: John Sølve Tyssedal
+Jorid Ødegård
+Spatial Non-Stationary Models for Precipitation with Elevation in the Dependency Structure
+Veileder: Ingelin Steinsland
+
+Nye ph.d.-gradar
+Jingyi Guo
+
+Bayesian Meta-analysis
+Tittel for prøveforelesning: Prior distributions for variances in normal random effects
+Hovedveileder: Andrea Riebler og biveileder: Håvard Rue, NTNU
+Komité: Senior Research Fellow, PD Dr.rer.nat. Ulrike Held, University of Zürich,
+Switzerland;
+Associate Professor Gonzalo García-Donato, Universidad de Castilla-La Mancha, Spain;
+Professor Jo Eidsvik, Department of Mathematical Sciences, NTNU
+Disputas: 6. desember 2016
+Shahrukh Hussain
+Analysis and Exploration of Two-Level Nonregular Designs by Using Projection
+Tittel for prøveforelesning: Experiments with mixtures
+Veileder: John Tyssedal
+Komité: Professor Sonja Kuhnt, University of Dortmund;
+Visiting Lecturer Kalliopi Mylona, Marie Curie Fellow, Universidad Carlos III de Madrid;
+Professor Jarle Tufto, NTNU
+Disputas: 5. mai 2017
+
+Nytilsette
+
+Gunnar Taraldsen er fra 1. januar 2017 ansatt i en treårig stilling ved Institutt for
+matematiske fag, med hovedarbeidsområde etterutdanningskurs for lærere (Delta).
+Thiago Guerra Martins er ansatt som førsteamanuensis II, med spesielt ansvar for data
+science, fra 1. august 2017. Thiago har sin hovedstilling ved AIAScience i Trondheim.
+Høsten 2017 starter tre nye ph.d.-studenter i statistikk:
+Ole Bernhard Forberg veiledes av Henning Omre.
+Ingeborg G. Hem veiledes av Andrea Riebler.
+Rasmus Erlemann veiledes av Gunnar Taraldsen og Bo Lindqvist.
+
+Nytt frå Universitetet i Bergen
+
+
+
+Nye mastergradar
+Ida Sævrøy Mulvik
+
+Empirical analysis of Pay-as-you-drive car insurance
+Veileder: Bård Støve
+Ingvild Margrethe Helgøy
+Mathematical demography applied to close-kin probabilities
+Veileder: Hans J. Skaug
+
+Nytilsette
+
+Ingvild Margrethe Helgøy har startet som ph.d.-student med Yushu Li som veileder.
+
+Nytt frå Universitetet i Oslo
+Nye mastergradar
+Lars Peter Aiken
+
+Pricing of Freight Derivatives.
+Veiledere: Giulia De Nunno og Sven Haadem
+Shatthik Barua
+Inverse covariance matrix estimation for the global minimum variance
+Veiledere: Ingrid Glad, Nils L Hjort og Fred E. Benth
+Martin Gjesdal Bjørndal
+Distance Metrics in Variant Graphs
+Veileder: Geir Storvik
+Karoline Eskeland
+Environmental contours
+Veileder: Arne B. Huseby
+Simen Holter
+Selection of Claim Size Distribution in General Insurance
+Veileder: Ingrid Hobæk Haff
+Peder Tørresdal Haagensli
+Log-normal approximations in the Solvency II Standard Formula
+Veileder: Erik Bølviken
+Yunsung Lee
+Simulation Study for Non-Bayesian Multiple Imputation
+Veileder: Jan F. Bjørnstad
+
+
+
+Simon Lergenmuller
+Two-stage predictor substitution for time-to-event data
+Veileder: Sven Ove Samuelsen
+Ejike Obinna Okoye
+Analysing global temperature series in state space form
+Veileder: Anders R. Swensen
+Daniel Piacek
+Detecting fraud using information from social networks
+Veileder: Ingrid Hobæk Haff
+Jonas Fredrik Schenkel
+Collaborative Filtering for Implicit Feedback
+Veiledere: Ida Scheel, Ørnulf Borgan, Arnoldo Frigessi og Linn Cecilie Solbergersen
+Martin Tveten
+Multi-Stream Sequential Change Detection
+Veiledere: Ingrid Glad og Erik Vanem
+
+Nytilsette
+
+Jonas Moss, Daniel Piacek og Martin Tveten er ansatt som stipendiater på Seksjon 2
+(Statistikk og biostatistikk).
+Olfa Draouil og Silvia Lavagnini er ansatt som stipendiater på Seksjon 3 (Stokastisk
+analyse, finans, forsikring og risiko).
+Odd Kolbjørnsen er ansatt som førsteamanuensis II fra 1. august og Gudmund Hermansen
+blir ansatt som førsteamanuensis II fra 1. oktober. Begge er knyttet til initiativ i data
+science ved Seksjon 2.
+
+Nytt frå Universitetet i Stavanger
+Nytilsette
+
+Berent Ånund Strømnes Lunde har begynt som ph.d.-student med Tore Selland Kleppe
+som hovedveileder.
+
+Nytt frå Universitetet i Tromsø
+Nye mastergradar
+
+Lars Bakke Hindenes
+Modelling and analysis of health care services using regression and Markov models
+Veiledere: Sigrunn Holbek Sørbye og Gro Berntsen
+
+
+
+Tobias Olsen Foslid
+Dirichlet process cluster kernel
+Veiledere: Robert Jenssen
+
+Pusleri
+Løsning på pusleri nummer 46
+Jostein Kåre Lillestøl
+
+Oppgaven var:
+Ved innspillingen av et reality-show for TV er det tre deltakere, A, B og C, som står i fare
+for å måtte reise hjem. Av disse har C oppnådd en bonus, som skal gi en viss fordel i den
+avsluttende konkurransen om hvem av dem som må reise hjem. Konkurransen går som
+etterfølgende dueller slik: I første duell møtes A og B, mens C sitter «på vent». Taperen er
+nå i faresonen som markeres med et «gult kort». I andre duell må taperen av første duell
+konkurrere mot C, mens vinneren av første duell settes «på vent», ute av faresonen. Slik
+fortsetter man, duell etter duell, gir taper gult kort og vinner på vent med gult kort
+inndratt, inntil en av de tre har to gule kort, dvs. har to etterfølgende tapte dueller. Denne
+deltaker må så reise hjem. Hvor stor er den bonusfordelen som C har fått ved først å sitte
+på vent, gitt at de tre er like gode?
+Løsning:
+Vi vil finne sannsynligheten for at henholdsvis A, B og C sendes hjem. La
+q₀ = Sannsynligheten for å bli sendt hjem, gitt gult kort (tapt siste duell)
+q₁ = Sannsynligheten for å bli sendt hjem, gitt på vent (vunnet siste duell)
+Her er det klart at q₀ = ½ + ½ · q₁. Betinging mhp. resultatet av første duell: P(A) = P(B) =
+½ · q₀ + ½ · q₁. Betinging mhp. resultatet av de to første dueller: P(C) = ¼ · 0 + ¼ · 0 + ¼ · q₀ +
+¼ · q₀ = ½ · q₀. Innsettes dette i P(A) + P(B) + P(C) = 1, får vi q₀ = 4/7 og q₁ = 1/7, som gir P(A) =
+P(B) = 5/14, P(C) = 4/14, dvs. fordelen for C er 1/14 mindre sannsynlighet for å måtte reise
+hjem.
+
+Pusleri nummer 47
+Jostein Kåre Lillestøl
+
+Per har tre kuler, og tar for seg en etter en, og maler den hvit eller svart med
+sannsynlighet p = ½ uavhengig av hverandre. Per legger så de tre kulene i en urne som
+han leverer til Pål. Pål kjenner med hånden at det er tre kuler, og griper tilfeldig med
+neven to av dem.
+
+
+
+Hva er sannsynligheten for at den gjenværende kulen i urnen
+er hvit, gitt at begge uttrukne er hvite? Generaliser resultatet
+så langt du kan, og få fram gode læringspunkter.
+Send forslag til løsning til <Jostein.Lillestol@nhh.no>.
+
+Scandinavian Journal Of Statistics
+Volume 44, Number 3, September 2017
+When and Why Are Principal Component Scores a Good Tool for Visualizing HighDimensional Data?
+Kristoffer H. Hellton & Magne Thoresen
+Asymptotic Optimality of Sparse Linear Discriminant Analysis with Arbitrary Number of
+Classes
+Ruiyan Luo & Xin Qi
+Asymptotic Properties of Qml Estimators for Varma Models with Time-Dependent
+Coefficients
+Abdelkamel Alj, Rajae Azrak, Christophe Ley & Guy Mélard
+Exact and Approximate Statistical Inference for Nonlinear Regression and the Estimating
+Equation Approach
+Eugene Demidenko
+Fast Inference for Network Models of Infectious Disease Spread
+Razvan G. Romanescu & Rob Deardon
+Empirical Uncertain Bayes Methods in Area-Level Models
+Shonosuke Sugasawa, Tatsuya Kubokawa & Kota Ogasawara
+Adaptive Deconvolution on the Non-Negative Real Line
+Gwennaëlle Mabon
+Objective Bayes Covariate-Adjusted Sparse Graphical Model Selection
+Guido Consonni, Luca La Rocca & Stefano Peluso
+Bayesian Single Changepoint Estimation in a Parameter-Driven Model
+Chigozie E. Utazi
+
+
+
+Estimation and Prediction in the Presence of Spatial Confounding for Spatial Linear Models
+Garritt L. Page, Yajun Liu, Zhuoqiong He & Donchu Sun
+Non-Parametric Bayesian Intensity Model: Exploring Time-To-Event Data on Two Time
+Scales
+Tommi Härkänen, Anna But & Jari Haukka
+Correction Note to ‘Analysis of Double Single Index Models’
+Kun Chen & Yanyuan Ma
+
+
+

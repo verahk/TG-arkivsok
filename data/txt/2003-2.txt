@@ -1,0 +1,2418 @@
+ISSN 0803-8953
+
+TILFELDIG GANG
+Nr. 2, årgang 20
+Mai 2003
+
+Utgitt av Norsk Statistisk Forening
+
+INNHALD
+
+FrafedaktørenJobn Tyssedal NN
+Fråderar NSF André Teigland) NN
+Fagleg stoff
+
+Abelprisen- en pris også for statistikk. Tore Schweder. .............0.0..0.0005
+Abelprasen faksimile:Tore Schweder NS
+
+Samandrag av doktoravhandling. Stochastic modelling and simulation based
+
+Inference of fish population dynamics and spatial variation in disease risk.
+Turid Follestad
+
+Milepælar
+
+Jostein Lillestøl 60 år
+John Tyssedal 50 år
+Puslerispalten
+Puslerine 13. JosembillesølL
+
+se
+
+GNR
+
+køysmg avpusler nr 12. 10stembklesøøk 70s cencrs census
+a eae
+Bokmelding
+T. Næs, T. Isaksson, T. Fearn & T. Davies: A User-friendly Guide to
+Multivariate Calibration and Classification. Inge Helland.
+
+Konferansar, meldingar og anna
+Det 12. Norske Statistikermøte ved Hurdalsjøen, 16-18. juni 2003. Program...
+
+Årsberetning for Norsk statistisk forening 2001-2003)
+
+3 ee aes
+ee
+
+Kurs i ”Applications of Generalized mixed Models”. Ås, NLH
+Kurs i ”Multivariabel analyse og designede eksperimenter”. Matforsk .........
+
+Nytefra Universitet
+
+OS
+
+NNN NNN
+NN
+6 SIGMA-KONSULENTEN
+Medlemskap1 Norsk statisiskforenme LE
+
+
+
+
+
+Redaksjon:
+
+John Tyssedal (redaktør)
+
+Bo Lindqvist
+Stian Lydersen
+Henning Omre
+Inge Olsen
+
+Adresse til redaksjonen:
+John Tyssedal
+Institutt for matematiske fag, NTNU
+Alfred Getz vei 1
+
+7491 Trondheim
+Tlf: 73 59 35 34
+Fax: 73 59 35 24
+e-post :
+tyssedal
+@
+stat.ntnu.no
+Trykking og utsending av TG blir utført av
+
+Statistisk Sentralbyrå.
+Bidrag til Tilfeldig Gang:
+Alle slags bidrag til bladet er velkomne, anten det gjeld nye tema av interesse for norske
+
+statistikarar eller ein har kommentarar til innlegg som alt står i bladet. Det er enno ikkje
+
+klart kven som blir ny redaktør av TG. Ein bør ta sikte på at stoff til neste nummer må
+vere redaksjonen i hende innan 01.09.2003. Avtroppande redaktør vil hjelpe til med å få
+innsendt stoff til rett adresse.
+Det greiaste er at stoffet blir sendt inn som Word-fil (Word 97 eller lågare versjon) til e-
+
+post adressa til redaktøren, sjå ovanfor. Andre typar format vil og normalt bli akseptert.
+
+Nettversjon av TG, er å finne på følgjande internettadresse:
+www.math.uio.no/nsf/web/index.htm . Dei som leverer bidrag til TG og som ynskjer å
+reservere seg mot at bidraget blir lagt ut på nettet, må gje beskjed om dette ved
+
+innsending av stoff.
+NSF har og si eiga mailingliste, nsf-forum Omath.uio.no. Informasjon finst på
+Nsf-forum Info Page, internettadresse: www.math.uio.no/nsf/ . Der får du og vite korleis
+
+du kan melde deg på.
+
+
+
+Frå redaktøren
+
+Med 3 gutar i alderen 7-13 år har redaktøren deltatt og deltar framleis på mange foreldremøter
+og konferansetimar. Det synest å vere ei utstrakt haldning i skulen i dag at ting ikkje må vere
+kjedelege. Det hemmar lærelysta. Eg aksepterer argumentet, men når ordet kjedeleg blir brukt
+tilstrekkeleg mange gonger for å sleppe å gjere noko, kan det vere at eg sler til med følgjande
+kraftsalve noko omskrive: ”Den viktigaste haldninga skulen kan gje elevane er å lære dei
+
+gleda ved å ha fullført eit arbeid som ikkje er lystbetont”.
+Redaktørjobben i TG har nok sider som ikkje er lystbetonte. Kven skal eg mase på no? Får eg
+det innlegget eg bad om? Kor mange sider har eg? På den andre sida får ein eit svært nært
+
+forhold til sjølve bladet, og eg trur at eg kvar gong har kjent ei glede ved å få ferdig eit nytt
+nummer.
+
+Dette blei ei long innleiing til ei av problemstillingane som kjem opp i Hurdal. I kva form skal
+TG førast vidare? Som nemnt i eit tidlegare nummer har NSF motteke initiativ for å gjere TG
+om til eit blad som har interesse utover eigne kretsar. Dette vil ha klare fordelar med omsyn til
+
+synleggjering av statistikkfaget og rekruttering til dette. Men det krev og ein meir spennande
+layout og truleg og ei viss tilpasning av innhaldet. Økonomisk må vi iallfall rekne med auka
+kostnader på om lag 10000 kr pr. nummer. Greier vi å dekkje dette med annonseinntekter eller
+
+må medlemskontingenten aukast? Har vi eit tilstrekkeleg tal potensielle redaktørar innanfor
+eigne rekkjer som vil gjere jobben som skal til? Alternativet er å halde fram med TGi
+novernade form. Begge alternativa er heldigvis reelle val for framtida til TG.
+
+si
+
+Det som er sikkert er at Trondheimsredaksjonen takkar for seg i denne omgang. Vi takkar for
+
+gode bidrag til TG frå mange hald og ynskjer den nye redaksjonen lukke til uansett kva
+alternativet blir.
+
+John Tyssedal
+
+
+
+Kjære medlemmer!
+
+Om få uker er det tid for det 12. Norske Statistikermøte i regi av Norsk Statistisk
+Forening. Denne gangen er det Oslo-foreningen som har tatt på seg arbeidet med
+arrangementet. Som alltid er det nedlagt et flott forarbeid, og alle ønskes velkommen
+til Hurdalsjøen hotell 16.-18. juni. Se http://www.nr.no/sfo/hurdal03/
+
+En av postene på programmet er Årsmøtet NSF, eller Hovedmøtet som det formelt
+heter i våre vedtekter. Dette avholdes hvert annet år, og et av punktene på dagsorden
+er valg av foreningens styre for de neste to år.
+
+Det sittende styret har påtatt seg jobben med å rekruttere kandidater som kunne tenke
+seg å påta seg et verv for de neste to årene. I skrivende stund ser det lovende ut med
+hensyn på å få valgt et godt styre for foreningen videre. Jeg vil imidlertid presisere at
+vi svært gjerne ser at flere kandidater melder seg. Om du ønsker å bidra i styret for
+
+foreningen så si i fra! Ta gjerne kontakt med det sittende styret før årsmøtet.
+Selv stiller jeg ikke til gjenvalg. Etter to år som leder av foreningen titter man seg litt
+
+tilbake når en ny leder skal overta. Jeg hadde ambisjoner om at foreningens styre
+skulle bidra til å synliggjøre statistikkfaget bedre i løpet av denne perioden, men må
+vel bare konstatere at vi har fått til mindre enn ønsket. Problemet for oss alle er at det
+
+skorter litt på tid. Det er vanskelig å få avsatt tilstrekkelig av den til å gjøre et løft i et
+frivillig vervi tillegg til en travel hverdag i sin faste jobb. Og det er løpende en god
+del større og mindre saker NSFs styre er nødt til å behandle, på bekostning av et mere
+strategisk engasjement. Jeg tror vi bare må innse at det vil være slik, og heller senke
+
+ambisjonene noe.
+
+Det sittende styret takker for seg og jeg vil benytte anledningen til å ønske nytt styre
+og ny leder lykke til med arbeidet videre!
+
+André Teigland
+
+
+
+ABELPRISEN - EN PRIS OGSÅ FOR STATISTIKK
+I det følgende oppslaget fra Økonomisk Forum redegjør jeg for Abelprisen. For oss
+statistikere er det verdt å merke seg at Abelprisen skal dekke matematikk i vid
+forstand. Videnskaps-Akademiet har avgrenset prisens område så vidt at statistikk og
+sannsynlighetsregning hører med. Dette må vi, med stolthet, gjøre kjent i vårt
+
+statistiske fagmiljø internasjonalt. I år var det rundt 30 nominasjoner. De fleste kom i
+stand ved at Abelkomiteen tok kontakt med sentrale folk og oppfordret dem til å
+nominere. Jeg vet ikke om de tok kontakt med noen statistikere. Erling Størmer,
+
+Abelkomiteens formann, forteller at Abelkomiteen ønsker seg flere nominasjoner fra
+matematiske fag utenfor fagets kjerne. Enkelte medlemmer av komiteen mente det var
+
+beklagelig få nominasjoner fra matematikkens utkanter (statistikk, matematisk fysikk,
+numerisk analyse, matematiske aspekter av informatikk, samt anvendelser) i år.
+
+Min oppfordring
+
+er derfor at vi snakker eller skriver om Abelprisen når anledningen
+
+byr seg. At statistikk og sannsynlighetsteori er matematikk i Abelprisens forstand er
+for lite kjent, og det bør vi rette opp. Alle kan nominere til Abelprisen, og vi må
+
+oppfordre våre fagfeller til å peke på verdige kandidater.
+
+t
+
+
+
+Aktuell kommentar nr 4 - 03
+
+TORE SCHWEDER:
+
+Abelprisen
+Mavic deles ut hvert år, første gang 3. juni 2003. Prisen er på
+
+Abels fødsel i vor nation; ved at frem-
+
+Serre for hans bidrag til topologien, den algebraiske geometrien og tall-
+
+stat; men desværre har vi bare en Abel;
+
+teorien. Verdens matematikere har tatt godt imot Abelprisen. Det er å håpe
+
+leiligheden kommer ikke igjen på 100
+
+at prisen bidrar til å styrke interessen for matematikk, ikke minst her i
+
+år.» Det ble ingen pris i 1902. Nå er det
+
+Norge. Det trengs!
+
+derimot penger i kassen, og Abelprisen
+
+ed Abelprisen har matematikken endelig fått sin «nobelpris».
+
+seks millioner kroner. Årets pris gikk til franskmannen Jean-Pierre
+
+hæve dette for al verden fremhever vi
+
+vår ret til at eksistere som egen kultur-
+
+er en realitet.
+
+Alfred Nobel opprettet ingen
+
+pris
+
+matematikk.
+
+heller.
+
+Ikke
+
+i
+
+økonomi
+
+i
+
+Serre (f.
+
+1926) fikk prisen for «å
+
+spille en viktig rolle i å gi mange deler
+
+Statuttene for Abelprisen i hovedsak
+
+Økonomene fikk sin «nobelpris» ved at
+
+av
+
+Sveriges Riksbank opprettet en pris til
+
+blant annet topologi, algebraisk geo-
+
+Abels minnefond den 1. januar 2002.
+
+matematikken en
+
+moderne form,
+
+Regjeringen
+
+opprettet
+
+Niels
+
+Henrik
+
+Alfred Nobels minne. Den første pri-
+
+metri og tallteori». Topologi handler
+
+Statuttene
+
+sen gikk, som alle norske økonomer
+
+om geometriske egenskaper som ikke
+
+http://www.abelprisen.no.
+
+vet, til Ragnar Frisch og Jan Tinbergen.
+
+påvirkes av at objektene tøyes og strek-
+
+også finne den offisielle omtalen av
+
+Nå er det også blitt en «nobelpris» i
+
+kes.
+
+den første Abelprisvinneren, og noe
+
+matematikk, nemlig Abelprisen. Den
+
+geometriske
+
+deles ut for første gang i 2003. Årets
+
+Algebraisk
+
+geometri
+
+omhandler
+
+egenskaper til
+
+løsnings-
+
+mengden for polynomlikninger. Serres
+
+for
+
+fondet
+
+finner
+Der
+
+en
+
+på
+
+vil
+
+en
+
+stoff om prisutdelingen og om Abel.
+Hovedformålet med å opprette Niels
+
+pris er på 6 millioner norske kroner.
+
+forskning
+
+Vinneren, Jean-Pierre Serre, ble ropt ut
+
+mange
+
+i Det Norske Videnskabs-Akademi den
+
+annet
+
+3. april. Prisen skal deles ut av Kongen
+
+teorem innen tallteori — at likningen
+
+i Universitetets Aula den 3. juni. Etter-
+
+x"+y"=z" ikke kan ha heltallige posi-
+
+fagets status i samfunnet, og stimulere
+
+på blir det bankett på Akershus slott.
+
+tive røtter når eksponenten er 3 eller
+
+barn og unge til å bli interessert i mate-
+
+har
+
+store
+
+for
+
+lagt
+
+grunnlaget
+
+bevis
+
+for
+
+blant
+
+internasjonal
+
+pris
+
+vitenskapelig
+
+arbeid
+
+for
+
+fremragende
+
+i
+
+matematikk.
+
+Prisen skal bidra til å heve matematikk-
+
+mer. Serre er knyttet til College de
+
+matikk. Niels Henrik Abels Minnefond
+
+France. Han er æresdoktor mange ste-
+
+forvaltes
+
+der, også ved Universitetet i Oslo.
+
+ningsdepartementet. Fondet hadde ved
+
+Det
+
+tok
+
+100
+
+år
+
+å
+
+få
+
+opprettet
+
+av
+
+opprettelsen
+
+Utdanningsen
+
+og
+
+fondskapital
+
+forskpå
+
+200
+
+Abelprisen. Ved hundreårsjubiléet for
+
+mill. kroner. Den årlige avkastningen
+
+Niels Henrik Abels fødsel i 1902 var
+
+tildeles
+
+Det
+
+det mange som la seg i selen for å få
+
+Akademi
+
+som står ansvarlig
+
+for til-
+
+opprettet en internasjonal Abelpris for
+
+deling
+
+prisvinner
+
+øvrige
+
+matematisk
+
+disponering av midlene. Det Norske
+
+forskning.
+
+Det
+
+offisielle
+
+til
+
+Norske
+
+Videnskaps-
+
+og
+
+den
+
+Norge stilte opp i feiringen av Abel.
+
+Videnskaps-Akademi oppretter et styre
+
+Kong Oscar inviterte til fest på Slottet,
+
+og en faglig komité for Abelprisen.
+
+og Gustav Vigeland fikk i oppdrag å
+
+Abelstyret skal ha ansvaret for å for-
+
+lage
+
+dele
+
+et
+
+monument.
+
+Det
+
+står
+
+på
+
+Abelhaugen i Slottsparken. Studentene
+arrangerte
+Tore Schweder er
+professor ved Økonomisk institutt,
+Universitetet i Oslo, og sekretær for
+Den matematisk-naturvitenskalelige
+klasse I Det Norske VidenskabsAkademi
+
+Henrik Abels minnefond er å tildele en
+
+Fermats
+
+gjennombrudd,
+
+Wiles
+
+for
+
+et
+
+rekordstort
+
+avkastningen
+
+og
+
+for
+
+arrange-
+
+menter i tilknytning til prisutdelingen.
+
+fakkeltog.
+
+Abelkomitéen har ansvaret for å foreslå
+
+Feiringen av Abel var ledd i den store
+
+og innstille kandidater til prisen. Av-
+
+norske selvhevdelsen. Fridtjof Nansen
+
+kastningen skal benyttes til:
+
+skrev til Bjørnstjerne Bjørnson
+
+«For
+
+mig står det som vor pligt at gjøre mest
+mulig
+
+ud
+
+av
+
+begivenheder
+
+—
+
+,
+
+som
+
+en
+
+* Tildeling til prisvinneren
+* Arrangementer i tilknytning til pris-
+
+utdelingen
+
+
+
+Aktuell kommentar nr 4 - 03
+* Arrangementer overfor barn og unge.
+
+emner
+
+som
+
+har
+
+grodd
+
+ut
+
+av Abels
+
+og statistikere gjennomgående hederlig
+
+arbeid. Universitetet i Oslo slo også på
+
+omtale da de matematiske instituttene
+
+Abelkomitéen består av fem personer
+
+stortromma, og utnevnte hele ti æres-
+
+ble evaluert av en internasjonal gruppe
+
+som er fremragende forskere innenfor
+det matematiske fagfeltet. Både norske
+
+doktorer. Ni av disse var matematikere
+
+på oppdrag av Forskningsrådet i 2002,
+
+i vid forstand. Den tiende var forfat-
+
+http://www.forskningsradet.no/fag/nt/
+
+og utenlandske statsborgere kan være
+medlemmer
+av
+komitéen.
+Abelkomitéens medlemmer oppnevnes for
+en periode på to år og kan gjenoppnevnes én gang. Det Norske VidenskapsAkademi utnevner prisvinner på bakgrunn
+av
+innstillingen
+fra Abelkomitéen. Niels Henrik Abels minne-
+
+teren Arild Stubhaug, som har skrevet
+
+matematikkeval/matteeval
+
+de monumentale biografiene om Abel
+
+utdrag. pdf:
+
+og Sophus Lie.
+
+In important areas, like algebraic geo-
+
+rapport-
+
+Arild Stubhaug hadde også en finger
+
+metry, operator algebras or statistics,
+
+med i å få opprettet Abelprisen. Den
+
+Norwegian teams are at the foreground
+
+4. august 2000 signerte han bøker i
+
+of world research. There are of course
+
+Risør bokhandel. Der kom han i snakk
+
+some weak points: optimization theory
+
+med Tormod Hermansen. Det mislyk-
+
+and operations research are not part of
+
+fond er ingen selvstendig institusjon og
+
+kete forsøket på å opprette en Abelpris
+
+the regular mathematical curriculum
+
+ikke
+
+Fonds-
+
+i 1902 ble nevnt, og Hermansen mente
+
+in
+
+kapitalen er plassert som kontolån til
+staten med rente tilsvarende renten på
+statsobligasjoner med ti års bindings-
+
+det matte la seg gjøre å få til en pris ved
+
+though
+
+200-årsjubiléet
+
+gjerne
+
+strong in the oil industry), and there
+
+Departe-
+
+are surprisingly few probabilists. But
+
+tid. Forrige års avkastning fra fonds-
+
+mentet ble kontaktet og Trond Giske,
+
+at the present time... the overall situa-
+
+kapitalen føres hvert år inn på statsbud-
+
+som da var minister, ble interessert i
+
+tion is good. It may, however, deterio-
+
+sjettets inntektsside. Beløpet overføres
+
+saken.
+
+rate very fast. Key researchers will reti-
+
+til
+
+et
+
+eget
+
+rettssubjekt.
+
+medvirke.
+
+—
+
+han
+
+skulle
+
+Det gjorde han.
+
+Norwegian
+
+Universities
+
+they were
+
+(even
+
+traditionally
+
+very
+
+statsbudsjettets utgiftsside og til-
+
+I mars 2001 ble det klart at Departe-
+
+re in the coming years... This comes at
+
+deles som et tilskudd til Det Norske
+
+mentet ville gå inn for å opprette en
+
+the time when good students in mathe-
+
+Videnskaps-Akademi.
+
+Abelpris. Matematikerne ble bedt om å
+
+matics
+
+Statuttene legger føringer for Abelprisen,
+men mye er overlatt til
+Videnkapsakademiet og Abelkomitéen
+
+sende inn en søknad om å få opprettet
+
+Attracting mathematicians from abro-
+
+et fond: De tok ordentlig i, og ba om
+
+ad will be difficult for Norway. On the
+
+å bestemme. Det viktigste er at
+Abelprisen skal dekke hele det matematiske feltet, også matematikkens ytterkanter. Den skal så å si fylle hullet
+mellom nobelprisene i fysikk og kjemi
+på den ene siden og økonomi på den
+andre. Det er også bestemt at hvem
+som helst kan nominere til prisen, og
+
+150
+
+millioner
+
+kroner
+
+til
+
+fondet.
+
+is
+
+so
+
+hard
+
+to
+
+come
+
+by...
+
+one hand, the post-tax salaries are not
+
+Departementet svarte med å opprette et
+
+attractive,
+
+fond på 200 millioner.
+
+European neighbours, and there is the
+
+Norsk matematikk og Videnskapsakademiet
+
+er ikke
+
+vant
+
+til
+
+slikt.
+
+Et
+
+compared to
+
+those
+
+of its
+
+language barrier. On the other hand,
+countries
+
+like France and Germany,
+
+vesentlig moment for Giske, og også
+
+and even the United States, will proba-
+
+for Kristin Clemet, er at matematikk er
+
+bly face a similar situation at the same
+
+under press i Norge. Det har tydeligvis
+
+time, so that the world market for mat-
+
+gått opp for myndighetene at det trengs
+
+hematicians will probably be a tight
+
+det er ingen aldersgrense — annet enn at
+
+krafttak for at de matematiske fagene
+
+one.
+
+prisvinneren(e) må være i livet. Prisen
+
+ikke skal skrante alvorlig. Vi har hørt
+
+Denne
+
+kan deles, men helst ikke. Helst skal en
+også kunne peke på ett eller flere sammenhengende arbeider som grunnlag
+
+mye om matematikkens svake stilling i
+
+ikke da
+
+skolen.
+
+prisen. Men at noe måtte gjøres for å
+
+for prisen.
+
+åringer at matematikk har liten appell.
+
+var forstått. I Departementets presse-
+
+I aviser og offentlighet snakkes det om
+
+melding heter det «Niels Henrik Abel
+
+at matematikk er viktig, men matema-
+
+må regnes som Norges største viten-
+
+tikk
+
+skapsmann
+
+Forarbeidet
+
+Det er dessverre ikke bare hos ten-
+
+og
+
+stoff
+
+om
+
+matematikk
+
+blir
+
+evalueringsrapporten
+Regjeringen
+
+forelå
+
+opprettet Abel-
+
+styrke matematikkens stilling i Norge
+
+noensinne.
+
+Han
+
+har
+
+hatt
+
+2000 var Verdens Matematikkår, og i
+2002 var det 200 år siden Abel ble født.
+
+tydeligvis ikke regnet som noe særlig —
+
+stor betydning for norske akademiske
+
+så lite en ser av det. I Abelåret hadde
+
+idealer og satt dype spor i det interna-
+
+Norsk Matematisk Forening og Norsk
+
+Dagbladet
+
+sjonale
+
+Matematikkråd satte Jens Erik Fenstad
+(UiO), Helge Holden (NTNU) og andre driftige folk i gang med å forberede
+diverse begivenheter i anledning disse
+merkeårene. I tillegg til at Abelprisen
+ble opprettet, toppet det seg med The
+
+gaver. De var bra, og for alt jeg vet ble
+
+Abel Bicentenial Conference i Oslo.
+Rundt 300 matematikere fra hele verden samlet seg her om matematikkens
+historie, algebraisk geometri, kompleks analyse, differensialllikninger,
+ikke-kommutativ geometri og andre
+
+et
+
+hjørne
+
+med
+
+små opp-
+
+fagmiljøet.
+
+Abelprisen
+
+skal
+
+være en inspirasjon for matematikere
+
+de lest og arbeidet med. Dagbladets lil-
+
+verden over og bidra til
+
+le oppslag om at Serre fikk Abelprisen
+
+matematikkfagets status i samfunnet,
+
+tyder dessverre på at avisens interesse
+
+sier utdannings- og forskningsminister -
+
+for matematikk var forbigående. Opp-
+
+Kristin Clemet.»
+
+å gjenreise
+
+slaget sto nederst på side 43. På samme
+
+Matematisk institutt ved Universi-
+
+side fikk oppslaget om at «Idol»-Guro
+kan få platekontrakt 32 ganger så mye
+
+tetet i Oslo sier på sin nettside om
+
+spalteplass.
+
+ning på flere områder:
+
+I høyere utdanning og forskning står
+det heller ikke godt til med norsk matematikk. Riktignok fikk matematikere
+
+E
+
+Abelprisen at den kan gi positiv virk* rekruttering av unge mennesker til
+matematikk og realfag
+* styrking av norske forskningsmiljøer
+
+
+
+Aktuell kommentar nr 4 - 03
+innen matematikk
+* fremheve Norge som en kunnskaps-
+
+Complex Geometry; Lie Groups and
+
+place at the Institute for Advanced
+
+Representation
+
+Study,
+
+Theory;
+
+nasjon og gi landet positiv interna-
+
+Complex
+
+Analysis;
+
+sjonal oppmerksomhet
+
+Statistics;
+
+Partial
+
+Real
+
+and
+
+Probability
+
+and
+Equa-
+
+Differential
+
+in
+
+Princeton,
+
+tions and Dynamic Systems; Mathe-
+
+development
+
+driver kanskje fremdeles med den store
+
+matical
+
+wide,
+
+nasjonsbyggingen.
+
+Mathematical
+
+Faktisk
+
+ble
+
+det
+
+foreslått å bare ha nordmenn i Abelkomitéen,
+Slik
+
+er
+
+som
+
+det
+
+i
+
+Science;
+
+| Combinatorics;
+
+Aspects
+
+Numerical
+
+of
+
+Computer
+
+Analysis
+
+and
+
+the
+
+important project in many years for the
+
+Det siste kunne vært sagt i 1902. Vi
+
+Physics;
+
+considered
+
+creation of the Abel Prize as the most
+
+of mathematics
+
+in fact as capable
+
+world-
+
+of greatly
+
+changing the scenario within a few
+years of its establishment. Of course,
+
+utpeker prisvinneren.
+
+Scientific Computing; Applications of
+
+the
+
+Sverige,
+
+Mathematics in the Sciences.» Hva en
+
+similar to the Nobel Prize for Mathe-
+
+der Svenska
+
+question
+
+of having
+
+an
+
+award
+
+Akademien har det fulle ansvar for alle
+
+skal regne som matematikkens kjerne-
+
+matics is a century old, and its lack is a
+
+nobelprisene (bortsett fra Fredsprisen),
+
+omrade og hva som er dens utkanter
+
+perpetually discussed feature
+
+og der ingen utlendinger er med i de
+
+kan diskuteres. De åtte første område-
+
+scientific work of our community.
+
+faglige komitéene. Slik er det ikke blitt.
+
+ne som Akademiet listet opp må nok
+
+For at prisen skal
+
+få et best mulig
+
+sies å tilhøre kjernen, mens matematisk
+
+omdømme internasjonalt og lettere bli
+
+fysikk, statistikk, numerisk analyse og
+
+Andre priser i matematikk
+
+matematikkens «nobelpris» har Abel-
+
+vitenskapelige
+
+beregninger, informa-
+
+Den mest prestisjefylte matematiker-
+
+komitéen fått en bred internasjonal og
+
+tikkens matematiske sider, samt mate-
+
+prisen har hittil vært Fieldsmedaljen,
+
+faglig sterk sammensetning.
+
+matiske anvendelser innen vitenskap,
+
+se http://www.mathunion.org/medals/.
+
+hører til ytterkantene. Akademiet har
+
+Det er en gullmedalje til en ung mate-
+
+Abelkomitéen
+Videnskapsakademiet
+Internasjonale
+
+inviterte
+
+matematiske
+
+den
+union
+
+(IMU) og det Europeiske matematiske
+
+samfunn
+
+(EMS)
+
+til
+
+å
+
+nominere
+
+of the
+
+altså lagt et vidt matematikkbegrep til
+
+matiker (under 40 år). IMU deler ut fire
+
+grunn for Abelprisen. Det samme gjor-
+
+Fieldsmedaljer
+
+de Universitetet i Oslo da det valgte ut
+
+Abelkomitéens medlemmer er det bare
+
+sine æresdoktorer i Abelåret.
+
+Mumford som har fått Fieldsmedaljen.
+
+hvert
+
+fjerde
+
+år.
+
+Av
+
+Ball, Hirtzebruch, Palis og Størmer
+
+IMU deler også ut en tilsvarende Rolf
+
+kommer fra matematikkens kjerneom-
+
+Nevalinna-pris for matematiske bidrag
+
+råder. Riktignok har Ball arbeidet med
+
+til
+
+informatikken.
+
+Svenskene
+
+deler
+
+fordringen ble godt mottatt, og fram-
+
+emner
+
+ut
+
+Crawford-prisen
+
+(medalje
+
+samt
+
+tredende
+
+Mumford er professor i anvendt mate-
+
+$500.000)
+
+Akademiet endte opp med følgende
+
+matikk.
+
+Schock-prisen (400.000 svenske kroner)
+
+medlemmer
+
+til
+
+Abelkomitéen.
+
+matematikere
+
+ble
+
+Opp-
+
+pekt
+
+ut.
+
+innen
+
+Han
+
+matematisk
+
+er
+
+interessert
+
+fysikk.
+
+i
+
+billed-
+
+hvert
+
+femte
+
+år, og
+
+Rolf
+
+komite: John Ball, Oxford; Friedrich
+
+behandling,
+
+statistikk
+
+annethvert år. Israelerne deler ut Wolf-
+
+Ernst Peter Hirtzebruch, Bonn; David
+
+og andre emner i matematikkens ytter-
+
+prisen ($100.000) hvert år. Det finnes
+
+Mumford, Providence; Jacob Palis, Rio
+
+kanter.
+
+også andre priser. Men
+
+de
+
+Janeiro;
+
+Erling
+
+Størmer
+
+(leder),
+
+Oslo.
+
+maskinlæring,
+
+Abelprisen ble godt mottatt i
+internasjonale
+
+Akademiet ønsker at Abelprisen skal
+
+2003 er Abelprisen den største og den
+
+matematikkmiljøet.
+
+mest prestisjefylte pris innen de mate-
+
+Abelkomitéen teller en
+
+tidligere,
+
+en
+
+dekke matematiske fag i vid betydning
+
+nåværende og en kommende president
+
+og har bestemt: «Avgrensningen av de
+
+i IMU, og Hirtzebruch, som også ble
+
+matematiske fag som kan danne grunn-
+
+æresdoktor i Oslo, er en nestor i euro-
+
+lag
+
+peisk matematikk. IMU uttaler ogsa:
+
+prisutdelingen
+
+er
+
+følgende:
+
+Logic; Algebra; Number; Differential
+Geometry;
+
+Topology; Algebraic
+
+and
+
+The Executive Committee of IMU
+its recent annual meeting,
+
+“2
+
+for
+
+fra og med
+
+det
+
+in
+
+that took
+
+matiske fagene.
+
+
+
+"Stochastic modelling and simulation based
+inference of fish population dynamics and spatial variation in
+disease risk"
+Doktoravhandling forsvart 4. april 2003 ved NTNU
+
+Turid Follestad
+Avhandlinga er sett saman av to delar. I den første delen er det utvikla ein Bayesiansk hierarkisk
+modell for populasjonsdynamikken for torsk langs den norske Skagerrakkysten. Studien er basert
+
+på fangsdata frå årlege strandnottrekk i eit sett fjordar langs kysten, der talet på individ for to
+aldersgrupper av ungtorsk er observert,
+
+og det er spesifisert ein
+
+aldersstrukturert modell for
+
+populasjonsdynamikken for torsken.
+
+Data for talet på vaksen torsk er ikkje tilgjengelege, men ein
+latent variabel som representerer gytebestanden er inkludert i modellen og relatert til bestanden av
+
+ungtorsk
+
+gjennom ein modell for rekrutteringa. Observasjonane er relaterte til dei totale
+underliggande fjordpopulasjonane gjennom ein likelihoodmodell for fangstprosessen. Parametrane
+i modellen, inkludert storleiken på fjordpopulasjonane, er estimerte ved hjelp av Markovkjedesimulering (MCMC). Det er illustrert korleis reparameterisering betrar konvergenseigenskapane til
+MCMC-algoritmen. Det er også foreslått ein metode for å estimere parametrane i modellen basert
+
+på den marginale aposteriorfordelinga for desse, integrert over dei ukjente populasjonane.
+
+Den andre delen av avhandlinga omhandlar eit problem innan romleg epidemiologi. Ein nyttig
+reiskap innan epidemiologien er kart som illustrerer geografiske variasjonar i sjukdomsrisiko, til
+dømes for ulike kreftformer. Av konfidensialitetsgrunnar eller som følgje av administrative rutiner
+
+er dataene som dannar grunnlaget for slike kart typisk tilgjengelege kun som aggregerte data på
+regionalt nivå, slik at den eksakte lokaliseringa av enkelttilfella ikkje er kjent. Samtidig er det ofte
+ikkje naturleg at den geografiske strukturen i risikoen varierer stegvis etter grenser mellom
+regionar. I avhandlinga er det presentert ein ny metode for å estimere ei glatt risikoflate basert på
+aggregerte data. Logaritmen til risikoflata blir representert ved eit Gaussisk Markovfelt (GMRF)
+
+definert på eit grid, og dette utgjer apriorifordelinga for risikoflata i ein Bayesiansk hierarkisk
+modell. Samanhengen mellom Markovfeltet og dei aggregerte dataene er modellert ved ein Poisson
+likelihood. Ved å utnytte den berekningsmessig gunstige strukturen til Gaussiske Markovfelt, er det
+utvikla effektive simuleringsbaserte algoritmer for å estimere risikoflata og hyper-parametrane i
+modellen. Modellen er testa ut på simulerte data og brukt på eit sett tyske kreftdata.
+Dei to delane er presenterte i form av rapportane
+DEL I: A Bayesian hierarchical model for the population dynamics of coastal cod.
+
+DEL II: Modelling spatial variation in disease risk using Gaussian Markov random field
+proxies for Gaussian random Fields. Med Håvard Rue.
+Arbeidet er utført ved Institutt for matematiske fag, NTNU, med professor Håvard Rue som
+hovudrettleiar og professor Arnoldo Frigessi, Norsk Regnesentral, som medrettleiar. Arbeidet er
+
+finansiert av Fakultet for informasjonsteknologi, matematikk og elektroteknikk, NTNU.
+
+
+
+Jostein Lillestøl 60 år
+
+Jostein Lillestøl fyller 60 år 17. mars. Han vokste opp i Oslo, men har slektsrøtter
+
+i Nordfjord.
+
+Han har følt seg hjemme på Vestlandet, der han også har tilbrakt det
+
+meste av sitt voksne liv.
+
+Helt siden 1966 har han hatt sitt virke ved Norges Handelshøyskole, hvor han har bygget opp statistikkfaget fra grunnen av og integrert det
+
+i siviløkonomstudiet og høyere-avdelingsstudiet.
+
+Han har gitt kurser på alle nivåer i
+NHH-systemet. Flere tusen NHH-studenter har stiftet bekjentskap med hans lærebøker
+
+og kompendier, spesielt innføringsbokeni statistikk.
+
+Denne har kommet i stadig nye
+
+opplag og har vært i bruk ved flere andre institusjoner.
+
+Jostein kom til NHH som fersk hovedfagskandidat fra Oslo. Han skrev en hovedfagsoppgave i statistisk genetikk med Olav Reiersøl som sin veileder.
+
+Etter noen år ved
+
+NHH fikk han permisjon fra sin stilling for å ta doktorgradeni statistikk ved University
+
+of California, Berkeley. Han var blant de første av den såkalte Berkeley-generasjonen
+av norske statistikere. På 70-tallet var det ingen organisert doktorgradsutdannelse i
+Norge. Kombinasjonen av et fantastisk godt fagmiljø og det faktum at Kjell Doksum
+
+hadde stiling ved Berkeley, gjorde at mange unge lovende norske statistikere dro dit.
+
+Jostein fikk David Brillinger som rådgiver og skrev en avhandling om Stein-estimering
+
+i tidsrekker i 1975. Han hadde dermed skaffet seg bakgrunn i en fagdisiplin av atskil-
+
+lig interesse for økonomer. I motsetning til mange andre som blir hengende ved det
+spesialområdet de har doktorgraden i, har Jostein utvidet sin horisont flere ganger.
+
+Han har skrevet vitenskapelige artikler innen revisjon, og etter et friårsopphold ved
+Wisconsin har han arbeidet mye med problemer i kvalitetskontroll. Han har vært en
+
+foregangsmann innen dette feltet i Norge. I det siste har hans interesse gått i retning
+av stokastisk finansteori, spesielt fordelinger med tunge haler.
+
+Josteins faglige nysgjerrighet og hans vitalitet.
+
+Dette illustrerer godt
+
+Jostein har deltatt i mange internasjonale faglige konferanser og hatt forskningsopp-
+
+hold ved flere utenlandske universiteter. Han har et utstrakt kontaktnett, og spesielt
+har han god kontakt med Humboldt-universitetet i Berlin.
+Når han er ute og reiser, benytter han ikke sjelden anledningen til også å komplettere
+sin samling av jazz cd-er. Han besitter en enestående sakkunnskap om jazz, jazzmusikere
+og klassiske innspillinger. Han vant i sin tid utrolig mange cd-er i lokalradioens ring-inn
+
+konkurranse om jazz. Det går rykter om han dominerte så totalt at redaksjonen så seg
+
+nødt til å ta konkurransen av luften.
+
+Jostein har aldri vært redd for å ta på seg verv. Han har sittet i et utall av komiteer,
+også internasjonale. Han var en av initiativtakerne til å gjøre Norsk Statistisk Forening
+
+landsdekkende med datterforeninger i Oslo, Bergen og Trondheim. Jostein var den
+nyorganiserte forenings første formann. Han er en fast bidragsyter til medlemsbladet
+
+og er i det hele meget engasjert i sitt fag. Det er alltid kjekt å diskutere med ham. Som
+fagmann og som menneske er han åpen, omgjengelig og ikke minst hjelpsom. Vi som
+
+er hans venner og kolleger, vil gjerne uttrykke en stor takk for hans innsats for norsk
+
+statistikk så langt og ønske ham lykke til i hans videre virke.
+
+Venner og kolleger i Bergen
+
+9
+
+
+
+JOHN SØLVE TYSSEDAL - 50 ÅR !
+
+Den 28.april 1953 kom en liten, lyslugget krabat til verden i Sunnfjord i Sogn og Fjordane —
+han fikk navnet John Sølve. Gutten vokste opp, og for 31 år siden var han russ på Florø
+
+Gymnas. Han var ikke mer skremt av skoleverket enn at han året etter prøvde seg som lærer i
+ungdomsskolen. I 1974 reiste gutten til vestlandets hovedstad og startet sin akademiske
+
+løpebane på realfag ved UiB. På Matematisk institutt leverte han i 1980 hovedfagsoppgaven:
+Autoregressive prosessar med tidsavhengig varians. Den var utført under kyndig veiledning
+av Dag Tjøstheim, og den var skrevet på nynorsk — sjølvsagt.
+
+De påfølgende år var faglig sett relativt turbulente. Arbeid innen operasjonsanalyse ved UiB
+og estimering av fiskebestand på Chr. Michelsens institutt inngår på CV’en. Ikke upåvirket av
+sentraliseringstendensene i datidens jappe-Norge tilbrakte han noe tid i hovedstadens oppland.
+
+Det ble med et halvår ved NLH på Ås.
+
+Så — i 1985 — fattet John en beslutning som skulle prege han livet ut. Ungkaren aksepterte fast
+stilling på NTH og reiste med sin beskjedne samling jordisk gods til Trondheim. Arbeid med
+tidsrekker krevde fremdeles det meste av hans tid, - men ikke all tid. Han møtte også Inger —
+som tilfeldigvis er fra norsk statistikks arne - Skien.
+
+Giftemål ble det i 1987 og deretter kom
+
+tre guttunger på rekke og rad. Alle er i skrivende stund primtallsår og aldersforskjellen på de
+
+to yngste er fire år. Midt oppe i dette forsvarte John sin doktorgrad i 1990. Tro mot sin
+tidsrekkebakgrunn var tittelen: ”Autoregressive models with changing structure”.
+
+Statistikkmiljøet i Trondheim og John har gjensidig innflytelse på hverandre, så vel faglig
+som sosialt. Pålitelighetsanalyse og forsøksplanlegging var satsinger på NTH på den tid og
+John tok preg av det. Under en forskertermin i 1992-1993 i Madison i Wisconsin lot han seg
+inspirere an Box og Bisgård og flyttet sitt ene faglige ben inn i forsøksplanlegging. Årene
+etter skrev mang en sivilingeniørstudent
+
+diplomen innen dette felt med John som veileder.
+
+Han rettet også sitt forsøksplanleggingskorstog mot kjemikerene og vant noen slag — dog
+ingen full erobring. I samarbeid med sin doktorgradskandidat Oddgeir Samset har John bidratt
+
+til at forsøksplanlegging blir hyppig brukt i norsk metallurgisk industri. Rundt årtusenskiftet
+tilbrakte han atter en forskningstermin i Madison og kom tilbake med fornyet inspirasjon og
+energi.
+
+John har båret sin del av den administrative byrden på NTNU-instituttet, som leder og
+medlem av utallige råd og utvalg — for tiden gruppelederi statistikk og del av daglige ledelse.
+I eksamenstiden er han fast nynorskkonsulent for NTNU-statistikerene. Redaktør av Tilfeldig
+
+Gang er han også. Ellers er han alltid åpen for en prat om alle livets viderverdigheter.
+Statistikk er viktig, det vet vi alle, men det er tross alt ikke alt. Jubilanten tilbringer mye av sin
+tid i Bymarka med familien — både høst, vinter og vår. Om sommeren derimot — da rømmer
+
+vestlendingen til hytta ved Risør! Klimatisk flyktning ?
+Alle venner og kolleger i Trondheim samstemmer i en hyldest til John Sølve på hans eget
+
+målføre:
+
+
+
+Pusleri nr. 13
+
+Ta for deg en vanlig godt stokket kortstokk med 52 kort, 26 røde og 26 sorte.
+Kortene blas opp ett etter ett, fra første kort til siste kort. Før hvert nytt kort vises,
+skal du gjette fargen på dette. Hva er forventet antall korrekte gjetninger?
+Jostein Lillestøl
+
+Forslag til løsning mottas gjerne: jostein.lillestol @nhh.no
+
+//
+
+
+
+Løsning Pusleri nr. 12:
+La p være sannsynligheten for at den enkelte vannkilde er ren. Ved n vannkilder og
+
+sammenblandinger fra k kilder, blir forventet antall tester som må gjøres lik
+Pi
+
+å
+
+m, = 2 (pt +(~ pt y+) =m +0- pt)
+
+Begrunnelse: Først utføres n/k analyser. For hver av disse er det sannsynlighet p* for at ingen
+
+flere trengs og sannsynlighet 1— p* for at ytterligere k analyser trengs. Forventet besparelse
+er derfor
+
+f(k)=
+
+is
+
+er
+
+som selvfglgelig vokser med p, men ikke avhenger av n !
+
+Vi skal for gitt p finne den p som
+
+gjør f(k) størst mulig under forutsetning av at f(k)>0. Dette er lett å implementere i Excel,
+med tilhørende aktiv link til figur av funksjonen der optimal k kan avleses:
+
+Besparelse i % ved p=0.75
+0,15000 +-
+
+>
+
+-
+
+:
+
+0,10000 +
+f- - Ne
+
+0,05000 +.
+
+0,00000
+
+=
+
+5 TM
+
+-0,25000
+1- - - ---4
+-0,30000
+
+-
+
+=
+
+——
+
+i
+
+——
+
+Anand
+
+—
+
+15 17 19 21 23
+25.22 20—81—8
+
+-------------
+
+=
+
+=
+
+Beregninger i Excel ga fglgende tabell
+
+Pp
+
+0.60
+
+0.70
+
+0.75
+
+0.80
+
+0.85
+
+0.90
+
+0.93
+
+0.99 | 0.999
+
+k
+
+1
+
+3
+
+3
+
+3
+
+3
+
+4
+
+5
+
+10
+
+a2
+
+f(k)
+
+0%
+
+0. 1%
+
+9%
+
+14%
+
+28%
+
+40%
+
+57%
+
+80%
+
+94%
+
+En tabell som gir grensesannsynlighetene for ulike optimale batch-størrelser er.
+k
+
+p<
+
+1
+
+| 0.69335}
+
+3
+
+4
+
+5
+
+6
+
+0.875 | 0.934 | 0.959 | 0.972 |
+
+7
+
+0.979 |
+
+8
+
+0.984 |
+
+9
+
+0.987
+
+Merk at k=2 aldri er optimalt!
+Ser vi bort fra at k er heltall, kan vi gjøre følgende betraktning: For den kritiske verdi av p når
+
+det lønner seg å blande må vi ha f(k)=0 og f ’(k)=0. Dette gir de to ligningene p* =1/k og
+
+p* log(p) =—1/k?som etter eliminasjon av p* gir log(p)
+dermed p=e" U"* =0.6922
+
+=—1/k . Innsatt gir dette k=e og
+
+, dvs. noe lavere enn den eksakte (med fem desimaler) i tabellen.
+
+(3
+
+
+
+Bokanmeldelse.
+Tormod Næs, Tomas Isaksson, Tom Fearn & Tony Davies:
+
+A User-friendly Guide to Multivariate Calibration and Classification. NIR Publications 2002.
+
+For dem som ikke skulle være klar over det: Det gjøres mye statistikk i kjemometrimiljøet, og det
+gjøres mye god statistikk i dette miljøet. Denne boken har sitt utspring i spalten Chemometric Space
+
+i bladet NIR news, der de tre første forfatterne har vært redaktører til ulike tider, mens den siste
+forfatteren har vært redaktør i andre, tilsvarende spalter.
+
+Med et slikt utgangspunkt skulle en kanskje tro at en bok ville bli nokså fragmentarisk, men det er
+langt fra tilfellet. Dette er en systematisk og grundig gjennomarbeidet bok. Det sies i forordet at den
+
+først og fremst er beregnet på lesere som arbeider med nær-infrarøde data. For slike lesere er den
+sikkert utmerket, spesielt siden mye av eksempelmaterialet er hentet fra dette feltet. Men boken har
+også interesse for alle som arbeider med problemstillinger innen kalibrering og klassifikasjon, og for
+alle som ønsker å få en lettfattelig, men samtidig relativt grundig, innføring i disse områdene.
+Bokens definisjon av kalibrering kan kanskje ha interesse: Det er et felt med fokus på å finne
+
+relasjoner mellom ett sett av målinger som er enkelt og billig å skaffe til veie, og andre målinger som
+enten er kostbare eller vanskelige å skaffe. Målet er å finne gode sammenhenger slik at de kostbare
+målingene kan bli predikert hurtig og nøyaktig fra de rimelige.
+Med dette utgangspunktet har boken først et kapittel om univariat kalibrering, som en motivasjon og
+innføring. Deretter blir multikollinearitets- problemet diskutert, med konsekvenser for modellvalg.
+Kjemometrikernes generelle kvalitative analyse på dette området kan fremdeles ikke matches med en
+like enkel presis oppfølging fra statistikernes side.
+Deretter blir de kjente kalibreringsmetodene prinsipalkomponentregresjon (PCR) og partial least
+square’s regresjon (PLS) presentert over 2 kapitler. Fra et brukersynspunkt savnes en diskusjon av
+
+metoder til å bestemme antall komponenter her; dette kommer først, sammen med annet stoff, i
+kapittel 13. En rekke andre kalibreringsmetoder blir også diskutert: Variabelseleksjon, inkludert bruk
+
+av genetiske algoritmer, Fourier analyse og wavelets, forskjellige ikke-lineære metoder,
+korreksjonsmetoder og nevrale nett. En grei innføring blir gitt til hvert tema, og det blir gitt relevante
+
+referanser til litteraturen, både den statistiske, den som er mer spesifikk for NIR problematikken, og
+den hvor impulsene kommer fra andre skoleretninger.
+
+En interessant diskusjon blir også ført over temaer som validering, outlier-deteksjon, valg av
+kalibrerings-sampler og standardisering av instumenter.
+
+Klassifikasjonsdelen i boken er ikke så omfattende som kalibreringsdelen, men den omfatter lineær
+og kvadratisk diskriminantanalyse, metoder (SIMCA, DASCO) som tar hensyn til kollinearitets-
+
+problemer, endel alternative metoder samt noe klusteranalyse. Igjen er dette en fin innføring med
+
+adekvate litteraturhenvisninger for dem som er interessert i å gå dypere.
+Denne boken kan nok til en viss grad komme til å erstatte Martens & Næs (1989), som har vært mye
+brukt i kjemometri-miljøet. Den nye boken er mer omfattende, bedre oppdataert på flere områder, og
+
+TM
+
+GAS
+
+ikke minst: Den ser mer gjennomarbeidet ut, både fremstillingsmessig og layout-messig.
+
+
+
+UNIVERSITETET I OSLO
+Institutt
+
+En politikk med marg-kommentarer er forsøkt innført i boken, men er dessverre litt
+
+. gjennomført, spesielt mot slutten. Dette er imidlertid en god idé.
+
+ujevnt
+
+Alt i alt, dette er virkelig, som antydet i tittelen, en brukervennlig innføring til et interessant
+
+Det er en bok å ha i hyllen — også for statistikere.
+
+område.
+
+Referanse.
+Martens, Harald & Tormod Næs (1989) Multivariate Calibration. John Wiley
+
+& Sons, Chichester.
+
+Inge Helland
+
+få
+
+
+
+Norsk Statistisk Forening avdeling Oslo ønsker velkommen
+
+til det 12. Norske Statistikermøte 16. - 18. juni 2003 på
+Hurdalsjøen Hotell.
+Program — Utkast per 12. mai
+
+“
+
+Mandag 16. juni
+12:00-13:00 Lunsj
+
+13:00-13:10 Apning
+13:10-15:00 Bioinformatikk:
+
+13:10-13:40 Ole Christian Lingjærde ”Mikroarrayer: hva er de og hva kan de
+brukes til?”
+13:50-14:25 Ingrid Glad ”Bayesiansk analyse av CDNA mikromatrise-data.”
+
+14:25-14:50 Egil Ferkingstad ”Estimation of the proportion of true null
+
+hypotheses with application to DNA microarrays”
+15:00-15:30 Kaffe
+15:30-16:45 Diskusjon om statistikkfaget i lys av kvalitetsreformen
+
+17:00-18:00 Årsmøte NSF
+18:00-20:00 Sosialt arrangement
+
+20:00-
+
+Middag
+
+Tirsdag 17. juni
+09:00-10:00 Kjell Doksum ” Lorenz Gini og Bonferroni regresjonsmodeller”
+10:30-11:10 Narinder Singh ”Measuring, Monitoring, and Optimizing Food
+processes”
+
+11:15-12:00 Xeni Dimakos og Anders Løland ”Risikoanalyser i finans og elkraft”
+12:00-13:00 Lunsj
+
+13.00-16.30 Stipendiater og hovedfagstudenter
+
+13:00-13:20 Solve Sæbø ”Modellering av tidsavhengige årsaker til utrangering
+
+av ku ved bruk av tidsakselerert Wiener-prosesses”
+
+13:20-13:40 Johan Fosen ”Dynamiske forklaringsvariable i forløpsanalyse”
+
+13:40-14:00 Tron Moger ”Bruk av frailty-modeller i analyse av levetidsdata:
+
+Korrelerte levetider i søskenflokker”
+
+
+
+14:10-14:30 Ragnar Hauge ”Independent adaptive Metropolis-Hastings”
+14:30-14:50 Hugo Hammer ” Noen nye estimatorer for binære Markov felt”
+
+14:50-15:10 Sveinung Erland ” 1/0"-støy og reversible Markovkjeder på
+endelige utfallsrom”
+15:10-15:40 Kaffe
+15:20-15:40 Ingunn Tvete ”Bayesiansk hierarkisk modellering av romlige og
+
+tidsrelaterte avhengigheter mellom jordskjelv”
+15:40-16:00 Ingelin Steinsland ” Blokkoppdatering i romlege felt”
+16:00-16:20 Lena Ringstad Olsen ”Deteksjon av endringeri tidsserier ved
+
+hjelp av frekvensplanet.”
+
+16:30-18:30 Frøydis Bjerke ” Ølforsøket - en øvelse i statistisk forsøksplanlegging —
+
+til nytte og hygge.”
+20:00-
+
+Festmiddag
+
+Onsdag 18. juni
+09:00-09:30 Frøydis Bjerke ”Ølforsøket
+
+- Oppsummering”
+09:30-10:00 Bjørn Helge Mevik ”Estimering av MSEP for Principal Component- og
+Partial Least Squares-regresjoner”
+10:00-10:30 Kaffe
+10:30-11.15 Nikolai Ushakov ” Statistical inference based on prebinned data”
+
+11:15-11:55 Arvid Næss ” Topp-over-terskel metoder og ekstremverdistatistikk”
+11:55-12:00 Avslutning
+
+12:00-13:00 Lunsj
+
+/6
+
+
+
+Årsberetning for Norsk statistisk forening for
+perioden juni 2001 til juni 2003.
+
+Tillitsverv.
+
+Styret har bestått av:
+
+Leder:
+
+Forskningssjef André Teigland, Norsk Regnesentral, Oslo.
+
+Kasserer:
+
+Førsteamanuensis Sigrunn Holbek Sørbye, Institutt for matematikk og
+
+Sekretær:
+
+Professorstipendiat Stian Lydersen, Enhet for anvendt klinisk forskning,
+NTNU, Trondheim.
+
+statistikk, Universitetet i Tromsø.
+
+Redaktør av TG: Førsteamanuensis John Tyssedal, Instistutt for matematiske fag, NTNU,
+Trondheim.
+Styremedlemmer: Postdoktor Mette Langaas, Institutt for matematiske fag, NTNU,
+Trondheim.
+
+Førsteamanuensis Ulf Indahl, Norges landbrukshøgskole, Ås.
+Varamedlemmer: Tore Wentzel-Larsen, Haukeland Sykehus, Bergen.
+Anne Marie Fenstad, Fysiologisk institutt, Universitetet i Bergen.
+Undervisningsutvalg:
+
+Ørnulf Borgan
+Henrik Dahl
+
+Ivar Heuch
+
+Jostein Lillestøl
+Elinor Ytterstad
+revisorer:
+
+Per Lea
+Jan Aarseth
+
+Redaksjonen av TG hari tillegg til redaktør John Tyssedal bestått av Bo Lindqvist, Stian
+Lydersen, Inge Christoffer Olsen og Henning Omre. Spalten ”puslerier” forfattes av Jostein
+Lillestøl.
+Anne Marie Fenstad har vært redaktør for internettsidene www.math.uio.no/nsf
+
+Medlemsskap og økonomi
+Foreningen har pr 14 mai 2003 i alt 278 medlemmer. Regnskapet pr 30 april 2003 var kr.
+
+57347.69 på postkonto og kr. 264349.42 på fondskonto.
+
+Styremøter
+Det har vært avholdt 3 styremøter i perioden, hvorav 1 møte i Oslo og 2 telefonmeter. I
+tillegg har styret hatt hyppig kontakt pr e-post for behandling av løpende saker.
+
+
+
+2
+
+Tilfeldig Gang
+
+TG har kommet ut med 6 nummer i løpet av perioden. Statistisk sentralbyrå v/ Leiv Solheim
+har sørget for trykking av TG. I tillegg til papirutgaven, ligger TG på nett under foreningens
+
+hjemmesider.
+
+Scandinavian Journal of Statistics (SJS)
+Ivar Huech er utnevnt til norsk redaktør fra 01.01.2003. Han etterfølger Ørnulf Borgan.
+Medredaktører er Håkon Gjessing og Arnoldo Frigessi.
+
+Det 12. norske Statistikermøte, Hurdalsjøen 16 — 18 juni 2003.
+Arrangementskomite (styret i Statistisk forening Oslo):
+
+Xeni Kristine Dimakos (NR), Leder
+Petter Prøsch (Software Innovation), kasserer
+
+Gunn Albertsen (Storebrand), sekretær
+Sven Ove Samuelsen (UiO)
+Anders Løland (NR)
+
+Ulf Indahl (NLH)
+Studentstipend:
+
+Det ble bevilget 8 studentstipend for deltakelse på møtet.
+
+/8
+
+
+
+Å course in the applications of generalized mixed models.
+Teacher: Professor Walter W. Stroup, University of Nebraska, USA
+Professor Stroup is currently head of the Department of Biometry at the University of
+
+Nebraska, where he also holds a teaching, research and consulting appointment at the
+Institute of Agricultural and Natural resources. He has widely published in statistical and
+
+applied journals and is an excellent teacher. Dr. Stroup is a co-author of the books "SAS
+System for Linear Models” and "SAS System for Mixed Models”
+
+Background and goals:
+During the past decade there has been a dramatic increase in the use of mixed models. This
+increase has been stimulated by advances in computers and computer software, and partly by
+
+an increased appreciation of the importance of modelling variation in complex designs (of
+both surveys and experiments). Interest has cantered on three main types of models:
+
+1. Mixed linear models (e.g. those handled by SAS PROC MIXED)
+2. Generalized linear models (e.g. SAS PROC GENMOD and SAS 's GLIMMIX macro)
+3. Non-linear mixed models (e.g. SAS PROC NLMIXED)
+
+The purpose of this course is to introduce students to these three types of models. The course
+will consider the background theory for these models, presenting both a common framework
+as well as unique features of each type of model. The focus will be on given a general
+overview of the methods, with an emphasis on analysis if repeated measures.
+
+The course will primarily focus on practical issues: the methodology used to implement each
+model, when each model is appropriate (and inappropriate), examples and case studies,
+model diagnostics, what can go wrong (how to recognize when something has gone wrong &
+
+things one might to "fix" in the analysis). SAS will be used extensively in the course.
+
+Contents of the course:
+1. General overview of mixed models
+2. Unifying background theory
+3. Specific characteristics
+- of linear mixed models
+- of generalized linear mixed models
+- of nonlinear mixed models
+
+4. Mixed linear models
+- balanced designs
+- unbalanced data
+- analysis of covariance
+- repeated measures
+
+/9
+
+
+
+- advanced examples
+
+5. Generalized linear models
+- categorical data
+
+- count data
+- repeated measures
+
+6. Nonlinear mixed models
+There will be an extensive use of examples. There will also be exercise work, with use of
+SAS, in relation to all the topics on the above list.
+
+Suggested text books:
+McCulloch, C.E. & Searle, S.R (2001): Generalized, linear, and mixed models. Wiley.
+Littell, R.C, Stroup, W.W. & Freund, R.J. (2002): "SAS System for Linear Models. SAS
+
+Institute
+Littell, R.C., Milliken, G.A., Stroup, W.W. & Wolfinger, R.D. (1996) "SAS System for
+Mixed Models” SAS Institute
+Required background:
+
+The participants are expected to have some knowledge about ANOVA with fixed and
+random effects. SAS will be used extensively in the course.
+
+Location for the course: The course will take place at the Agricultural University of
+Norway, Aas
+
+Time: June 2 — 5, 2003
+
+Course credit: The number of credits proposed is 5 ECTS
+
+Evaluation: Examination will be based on a written project report handed in two weeks after
+the course.
+
+Course fee and registration: The course fee will be NOK 3.000 for PhD students
+and NOK 4.000 for other participants. Meals and textbooks are not included in the
+course fee. Registration for the course should be sent by e-mail to Are Aastveit within
+
+May 1, 2003.
+
+Course committee:
+Trygve Almøy, Agricultural University of Norway
+Petter Laake, University of Oslo
+
+Marit B. Veierød, University of Oslo
+Are Halvor Aastveit, Agricultural University of Norway
+
+Course homepage.
+http://www.nIh.no/index.php?type=2&avd=3&viewID=cd3665949ccdScf1b1883b76f
+f49aee8
+
+
+
+Vekttallsgivende kurs for produkt- og prosessutviklere, høsten 2003:
+Multivariabel analyse av designede eksperimenter.
+Moderne analyseinstrumenter gir ofte svært mange korrelerte målevariable, noe som stiller
+spesielle krav til databehandlingen. Kjemometriske regresjonsmetoder har vist seg å være
+effektive for analyse av slike data. Klassisk forsøksdesign er et svært nyttig verktøy for
+eksperimentelt arbeid. Med basis i det statistiske ANOVA-rammeverket skaffes til veie
+
+pålitelig informasjon om de. ulike forsøksvariablenes påvirkning. Forsøksdesign kombinert
+med moderne analyseinstrumenter gir opphav til flere metodiske utfordringer. Samtidig er
+denne problemstillingen svært vanlig i praktisk produktutvikling. Matforsk har solid erfaring
+
+med dataanalyse i denne sammenhengen.
+Målgruppe
+Alle som ønsker å analysere data fra designede eksperimenter på egenhånd, for eksempel
+produktutviklere i industrien, forskere og konsulenter i forskningsinstitutter, og
+doktorgradsstudenter. Man bør kjenne til metoder for forsøksdesign, variansanalyse, regresjon
+
+og prinsipal komponentanalyse.
+Kurset gis av Norges landbrukshøgskole ved Institutt for matematiske fag i samarbeid med
+Matforsk. Kursledere er forskerne Øyvind Langsrud og Frøydis Bjerke, begge fra
+Matforsk. For mer utfyllende informasjon, se:
+http://www.matforsk.no/ola/kurs.htm.
+
+Tid og sted
+Modul 1: Første samling 1.-3. september 2003, andre samling 6.-8 oktober 2003.
+Modul 2: Samling 20.-22. oktober 2003.
+
+Alle samlinger gjennomføres hos Matforsk, Osloveien 1, 1430
+
+
+
+Nytt fra Universitetet i Oslo
+Matematisk institutt, Avd. C.
+
+Ny Dr.scient.
+Ragnar Hauge forsvarte 24. januar sin avhandling *Some contributions to stochastic
+reservoir modelling and stochastic simulation”
+
+Tittel for prøveforelesning: “A critical discussion on model selection and model
+
+criticism in Bayesian analysis”
+Komite: Peter Craig, Håvard Rue og Geir Storvik
+Veiledere: Lars Holden og Erik Bølviken,
+
+Statistical Research Report
+(http://www.math.uio.no/eprint/stat report/2002/)
+
+S. Johansen, A.R. Swensen: More on testing exact rational expectations in
+cointegrated vector autoregressive models: Resticted drift terms.
+
+
+
+Nytt fra NTNU
+Institutt for matematiske fag
+Gruppe for statistikk
+
+Dr.ing.:
+Turid Follestad forsvarte 4. april 2003 sin avhandling: "Stochastic Modelling and Simulation
+Based Inference of Fish Population Dynamics and Spatial Variation in Disease Risk”.
+
+Tittel på prøveforelesning: "MCMC and sequential Monte Carlo for state-space models - a
+comparison and critical review”.
+
+Hovedveileder: Håvard Rue, Institutt for matematiske fag, NTNU, Medveileder: Arnoldo
+Frigessi, Norsk Regnesentral, Oslo.
+Komité:
+
+Carmen Fernandez, Department of Mathematics and Statistics, Fylde College Lancaster
+
+University, United Kingdom, Merrilee Hurn, Mathematical Sciences, University of Bath, United
+Kingdom, Håkon Tjelmeland, Institutt for matematiske fag, NTNU.
+
+Siv.ing.:
+Hugo Lewi Hammer: ”Noen nye estimatorer for binære markovfelt”. Veileder: Håkon
+Tjelmeland.
+
+Preprint:
+Nedlastbare filer er tilgjengelige på http://www.math.ntnu.no/preprint/statistics/
+
+No. 1/2003: Håvard Rue, Ingelin Steinsland & Sveinung Erland: Approximating Hidden
+Gaussian Markov Random Fields.
+No. 2/2003: Turid Follestad: A Bayesian hierarchical model for the population dynamics of
+coastal cod.
+
+No. 3/2003: Turid Follestad & Håvard Rue: Modelling spatial variation in disease risk using
+
+Gy
+
+Ry
+
+Gaussian Markov random field proxies for Gaussian random fields.
+
+
+
+EN
+-LINNTATT
+
+DE
+
+NEDADGÅENDE
+
+el
+
+MITT
+
+BRUKT
+
+. INNTEKTENE.
+PROGRAM
+
+HAR SØM
+
+EØKT
+
+| FIRMAER AL E
+|
+
+ELLER
+STIL ESTÅENDE
+
+TENDENS..
+
+EN APATISK
+
+EN
+
+ELLER
+
+TENDENS. .
+
+5 SIGMA-KONULENTEN
+E
+
+vedk fer e 2001 United Famure Byndleute, løe.
+
+I
+
+
+
+Medlemsskap i Norsk Statistisk Forening
+
+Heimeside for Norsk Statistisk Forening: http://www.math.uio.no/nsf/
+Kontingent:
+
+200 kr/år
+
+50 kr/ar for studentar (til og med hovedfag).
+Kontonummer: 0530 2773299
+Nummeret som er oppgitt på adresselappen på TG fortel siste år
+
+kontingenten blei betalt. Ved innbetaling må ein opplyse om endra adresse
+(f. eks. endra postnummer).
+Korrespondanse om medlemskap og innbetaling av kontingent skal skje til
+kasserar i foreininga:
+
+Norsk statistisk forening v/Sigrunn Holbek Sørbye
+Institutt for matematikk og statistikk
+
+Universitetet i Tromsø
+
+9037 Tromsø
+e-post: sigrunn @stat.uit.no
+
+Nye medlemer melder seg til kasserar og får så automatisk tilsendt Tilfeldig
+
+Gang frå første påfølgjande nummer av.
+E-post adressar:
+
+Vi ynskjer e-post adressar til alle medlemer i NSF:
+Oppgje e-post adressen på merknadsfeltet på postgiroen, eller send ein epost til sigrunn @stat.uit.no om e-post adresse og evt. adresseforandring.
+Anna korrespondanse med foreininga skal føregå med leiar i foreininga:
+
+André Teigland
+Norsk Regnesentral
+
+Gaustadalleen 23
+
+P.O. Box 114 Blindern
+N-0314 Oslo
+
+25
+
+
+
+
+
+
+
+Retur:
+Norsk Statistisk Forening
+v/Sigrunn Holbek Sørbye
+Institutt for matematikk og statistikk
+
+Universitetet i Tromsø
+9037 Tromsø
+
+
+

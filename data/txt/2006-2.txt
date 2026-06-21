@@ -1,0 +1,1147 @@
+ISSN 0803-8953
+TILFELDIG
+GANG
+Nr. 2, årgang 23
+August 2006
+
+Utgitt av Norsk Statistisk Forening
+INNHOLD
+Side
+
+Lederen har ordet Sven Ove Samuelsen …………………........................................
+Leder til forrige nummer Sven Ove Samuelsen ......................................................
+
+1
+2
+
+Jubileer
+Terje Aven 50 år Jan Terje Kvaløy, Harald Haukås, Bent Natvig .......................
+Bent Natvig 60 år, Inge Helland ……………………………….............................
+
+4
+5
+
+Faglige møter – referater
+Nordstat 2006 Sven Ove Samuelsen …………………………………………….
+Valencia 8 Inge Helland ………………………………………………………...
+
+6
+7
+
+Puslerispalten
+Pusleri nr. 19. Jostein Lillestøl …………………………………………………..
+
+8
+
+Intervju med Arnljot Høyland på nett Ivar Heuch ……………………………
+
+9
+
+Tema: Statistisk programvare for ikke statistikere Tore Wentzel Larsen
+Bruken av statistikkprogrammer ved Høgskolen i Bodø Rolf Volden …………...
+Fra BMDP til SPSS og så til STATA ved Med.fak. ved UiB Rolv T. Lie………..
+Statistisk programvare for ikke-statistikere ved / utenfor UMSA Kjetil Halvorsen
+
+10
+10
+11
+12
+
+Sentre for forskningsdrevet innovasjon
+Tromsø Telemedicine Laboratory SFI 1 Fred Gottliebsen og Vedad Hadziavdic..
+Statistics for innovation SFI 2 Arnoldo Frigessi………………………………….
+
+14
+15
+
+Meldinger og annonser
+The future of NordStat: Welcome to Vilnius, Summer 2008 Per B. Brockhoff ….
+Nytt fra Avd. C, UiO ……………………………………………………………...
+Nytt fra NTNU, Institutt for matematiske fag, Seksjon for statistikk …………….
+Det 14. norske statistikermøte, Sommarøya (Tromsø) 19.-21. juni 2007 ..……….
+Forkurs 14. norske statistikermøte: Generalized Linear Latent and Mixed Models
+Medlemskap i Norsk Statistisk Forening........…........…........…..............................
+Årskontingent Norsk Statistisk Forening ………………………………………….
+
+17
+18
+21
+22
+23
+24
+25
+
+
+
+Leder
+Dette nummeret Tilfeldig Gang er laget på dugnad av styret i Norsk statistisk
+forening, redigert av Arnoldo Frigressi. Vi har gjort dette for å holde en viss
+kontinuitet i utgivelsen av medlems-bladet og for å vise at styret mener at TG er
+særdeles viktig for foreningen. Det å få tilsendt et slikt newsletter tror vi betyr mye for
+foreningens identitet. Vi synes altså at det er vel verdt å bruke ressurser, enten det er
+vår egen tid eller foreningens midler, på Tilfeldig Gang.
+Bare dette navnet med alle sine referanser er jo en liten genistrek og grunn nok til å
+holde liv i bladet. Det ble funnet på av første redaktør Johan Heldal, mens initiativet til
+å ha et medlemsblad kommer, så vidt jeg har forstått, fra Tore Schweder.
+Med dagens kommunikasjonsmuligheter vil nok innholdet i bladet være noe
+annerledes enn tidligere. F.eks. sendes nok annonser for stillinger og møter sendes
+gjerne over epost eller legges ut på hjemmesiden http://www.math.uio.no/nsf/ . Vi har
+opprettet en email-adresse nsf-medlemmer@math.uio.no som kan brukes til nå fram
+raskt til foreningens medlemmer. Meldinger som ønskes lagt ut på hjemmesiden kan
+sendes til Ståle Nygård (stale.nygard@medisin.uio.no).
+Det er selvfølgelig ønskelig å ha med denne type stoff i TG også, men antagelig vil
+innholdet antagelig i hovedsak være av typen som i dette nummeret. Altså hyldninger
+av jubilanter, referater fra møter, puslerispalte og nytt fra ulike institusjoner.
+Angående det siste er det jo stort sett universitetene som har bidratt, men det ville
+også være av interesse å høre om nyheter fra andre miljøer som rapporter /
+publikasjoner, ansettelser og doktorgrader som ikke ligger inn under de statistiske
+avdelingene.
+I dette nummeret har dessuten Tore Wentzel Larsen tatt initiativet til en diskusjon om
+”statistisk programvare for ikke-statistikere” og har samlet sammen bidrag fra Rolv
+Volden i Bodø, Rolv-Terje Lie i Bergen og Kjetil Halvorsen i La Paz. Vi håper på
+ytterligere innspill. Dessuten opplyser Ivar Heuch om stoff fra hans redaktørtid i TG
+tidlig på 90-tallet som er lagt ut på nett og vi får høre om to ”Senter for
+forskningsdrevet innovasjon” (SFI) hvor statistikere er sterkt involvert.
+
+Sven Ove Samuelsen
+
+1
+
+
+
+Leder til forrige nummer
+(Dette er lederen som Sven Ove skrev til januarnummeret og som
+ikke kom med.)
+Det har vært betydelig internasjonal statistisk møtevirksomhet i Norge (og Oslo)
+sommeren 2005. I juni ble Nordic Regional Meeting of International Biometric Society
+arrangert på Rikshospitalet med ca. 100 deltagere. I August hadde vi 60 deltagere på
+en kickoff-workshop for forskningsgruppen Statistical Analysis of Complex Event
+History Data på Senter for høyere studier (ved Det norske vitenskapsakademi) ledet
+av Odd Aalen og Ørnulf Borgan. Toppen av det hele var selvfølgelig
+kjempesuksessen European Meeting of Statistics (EMS) i Oslo med hele 650
+deltagere. Vi er altså absolutt med i det gode selskap.
+Oppi alt det forsvant så godt som det Norske statistikermøtet, dvs. lørdag kveld 23.
+juli 2005, kvelden før EMS startet, hadde vi et først utmerket foredrag av Chris
+Glaseby og deretter et årsmøte for NSF med valg av nytt styre. Referatet fra møtet
+med det nye styret finnes i dette TG. Vi takker for tilliten (selv om selve oppmøtet på
+årsmøtet av forståelige grunner var noe begrenset). Det nye styret har vel ikke
+revolusjonerende planer for foreningen, men det er flere saker vi vil ta tak i.
+Hjemmesiden for NSF vil komme i en modernisert utgave med menysystem og etter
+hvert med mer innhold. Forhåpentligvis er første versjon av denne klar når TG er
+kommet ut. Selve web-adressen blir den samme: http://www.math.uio.no/nsf/
+(Dersom bare den gamle siden ligger der kan dere sjekke det nye oppsettet på
+http://www.math.uio.no/nsf/ny). Steffen Grønneberg lager selve oppsettet og Ståle
+Nygård har fått jobben med å legge inn mer stoff. De er henholdsvis masterstudent
+og stipendiat ved AvdC.
+Statistisk forening har ikke hatt en egen logo. Vi har derfor bestemt oss for og fått
+tillatelse til å bruke logoen til EMS med endring kun av underteksten. Denne logoen
+er utarbeidet av grafisk designer Annette Helland, datter av Inge Helland, på
+bakgrunn av skisser fra Anders Løland og Bård Storvik. Vi synes logoen passer
+utmerket med referanse både til Norge og til statistikk.
+I forbindelse med revisjon av matematikkpensumet i videregående skole vil det bli en
+reduksjon av stoffet om sannsynlighetsregning. Tidligere var dette stoffet obligatorisk
+i begge matematikkretninger på alle trinn. I henhold til det nye forslaget skal dette
+reduseres til 1. og 2. klasse for samfunnsfaglig matematikkretning, og helt ned til
+bare 1.klasse for realfaglig matematikkretning. I tredje klasse skal
+sannsynlighetsregning være valgfritt. I denne sammenheng har NSF gitt vårt inntil da
+sovende undervisningsutvalg i oppgave å skrive en høringsuttalelse til departementet
+om denne reduksjonen. Dette utvalget består i øyeblikket av Jostein Lillestøl og Ivar
+Heuch og er i forbindelse med høringen utvidet med Stian Lydersen. Uttalelsen er
+gjengitt i dette nummer av TG. Det er antagelig lite å gjøre med at 3. klassepensumet
+blir valgfritt, så fokus er rettet mot at 2. klasse for realfaglig retning beholder en
+rimelig mengde sannsynlighetsregning. Det er en viss grunn til optimisme i så måte.
+Høringsuttalelser fra matematiske institutter ved flere av universitetene og fra Norsk
+matematikkråd går i samme retning.
+
+2
+
+
+
+50 års statistikkundervisning ved norske universiteter: Som Jon Stene skrev om i
+forrige nummer av TG er det i år 50 år siden statistikk bifag ble innført på
+Universitetet i Oslo. Dette har ikke blitt behørig bemerket av foreningen og vi rekker
+heller ikke å gjøre dette før årets utløp. Heldigvis har vi et annet jubileum i 2006. Da
+er det nemlig 50 år siden statistikk hovedfag ble innført på UiO. Sammen med AvdC
+planlegger NSF en markering av dette, men tid og sted og ytterligere detaljer er ikke
+fastlagt, så følg med på http://www.math.uio.no/nsf/
+Sven Ove Samuelsen
+
+SOS smiler: ”TG var ikke død!”
+
+-------------------------------“Statistics play an important role in genetics. For instance, statistics prove that numbers of
+offspring is an inherited trait. If your parent didn't have any kids, odds are you won't either.“
+--------------------------------------------------------------"It has now been proven beyond a doubt that smoking is the major cause of statistics."
+--------------------------------
+
+Dette nummeret av TG er redigert av Arnoldo Frigessi.
+
+3
+
+
+
+Terje Aven 50 år
+Terje Aven fylte 50 år den 6. juni 2006. Terje startet sin akademiske løpebane med å studere
+matematikk i Bergen, og fortsatte studiene i Oslo hvor han ble cand. real i matematisk
+statistikk i 1980 og dr.philos i 1984. Avhandlingen hans hadde tittelen ”Contributions to
+failure time data analysis and optimal maintenance planning”.
+Etter fullført doktorgradsarbeid hadde han et forskningsopphold ved University of California,
+Berkeley før han vendte hjem til Stavanger-regionen og jobb ved det som da var Rogaland
+Distriktshøgskole. Han har siden også jobbet fem år i Statoil, vært en periode i DNV, hatt
+professor-II stillinger ved UiO og NTH etc. I 1992 ble han professor ved det som da het
+Høgskolen i Stavanger og har siden hatt det som sin hovedstilling.
+Terje har en energi, arbeidskapasitet og glød for fagfeltet sitt som overgår de fleste.
+Forskningsproduksjonen hans er svært omfattende, og han har skrevet en rekke bøker bl. a.
+”Stochastic models in reliability”, utgitt på Springer, sammen med Uwe Jensen; og
+”Foundations of risk analysis” som er den foreløpig siste boka han har gitt ut. Videre har han
+vært veileder for 16 doktorgradsstudenter og et utall mastergrad-/sivilingeniørstudenter. Med
+iherdig innsats som fagperson, miljøbygger og entreprenør har han bygget opp
+sikkerhetsmiljøet i Stavanger til et stort og sterkt miljø. Sikkerhetsstudiene ble bygget opp
+gradvis fra enkeltkurs og årsstudium til etterhvert å bli etablert som sivilingeniørstudium. En
+viktig milepæl var doktorgradsretten som ble gitt i 1999 etter en lang og intens kamp. Videre
+var Terjes bidrag på mange fronter av avgjørende betydning for at Stavanger ble det første
+nye universitet i Norge da utdanningsinstitusjonene fikk anledning til å søke
+universitetsstatus basert på faglige kriterier. Doktorgradsområdet i det som nå kalles
+risikostyring og samfunnssikkerhet var en av de faglige hovedpilarene i forbindelse med
+etableringen av universitetet.
+Terje har ellers ledet en lang rekke forskningsprosjekter, han var dekanus i en periode, han
+har vært medlem av en rekke fagkomiteer, bedømmelseskomiteer etc, han er associate
+editor i to tidsskrifter og han har fast tilknytning til IRIS (tidligere Rogalandsforskning).
+Medlem av Norges Tekniske Vitenskapsakademi har han vært siden 1995. Terje er også
+flink til å formidle til allmennheten ved leserinnlegg, intervjuer og lignende. Terje har vunnet
+flere priser for sin innsats i forskning og formidling.
+Et av inntrykkene gamle studenter kan huske fra Terjes tidligere år, er at han spiste
+matpakken samtidig med at han trykket på tastaturet. Etter hvert har også Terje innsett at livet
+ikke bare er fag. Han er blitt en ivrig golfspiller og mange av hans doktorgradsstudenter er blitt
+dratt med i samme lidenskap. Han er en meget habil spiller som stadig forbedrer seg, og han
+tar gjerne en runde golf med stipendiatene sine som avbrekk i løpet av en lang arbeidsdag.
+Han spiller også fotball en gang i uka - og som et lite apropos til dette kan det nevnes at han
+også er medforfatter på en bok om tipping, lotto & andre spill. En kanskje mindre kjent side
+ved Terje er at han også er flink til å male. Terje er gift og har to voksne barn.
+På en feiring av dagen med kollegaer uttrykte Terje at han hadde vanskelig for å akseptere
+at han allerede var blitt 50 år. Rektor ved UiS repliserte til dette at han syntes det var rart at
+Terje ikke var eldre – med henvising til hvor mye han hadde betydd for institusjonen over
+lang tid. Selv om Terje nå runder 50, går motoren bedre enn noensinne,
+forskningsproduksjonen er høyere enn noen gang, han jobber med to nye bokprosjekter og
+sikkerhetsmiljøet ved UiS utvikles videre. Vi gleder oss til å se hva Terje klarer å utrette de
+neste 50 årene og gratulerer med jubileet!
+Jan Terje Kvaløy, Harald Haukås, Bent Natvig
+
+4
+
+
+
+Bent Natvig 60 år
+Avdelingsbestyrer Bent Natvig ved Matematisk institutt, UiO; Avdeling for statistikk og
+forsikringsmatematikk fylte 60 år 1. August. Han har en lang fartstid ved avdeling C. Først ble han
+cand. real. her i 1970. Deretter, etter opphold i Trondheim, Sheffield, Oslo og Trondheim igjen; startet
+han i lærerstilling ved avdeling C i 1977. Han ble professor i matematisk statistikk
+(pålitelighetsanalyse) i 1986. Han har hatt utenlandsopphold i Berkeley, Warwick og Duke.
+Bent har mer enn 50 publiserte artikler, hovedsaklig innenfor pålitelighetsanalyse, køteori,
+Bayesianske metoder og biostatistikk. Han er og har vært veileder for flere stipendiater. I det siste har
+han arbeidet med en rekke konkrete anvendelser av Bayesiansk teori.
+Bent har også interessert seg for Universitetets styre og stell. Fra 1990 til 1993 var han dekanus for
+Det Matematisk-naturvitenskaplige fakultet, og han har vært med i en rekke komiteer. Han har også
+engasjert seg sterkt i etiske spørsmål. I mange år har han vært deltaker i de internasjonale Pugwashmøtene. I en periode var han formann for Den nasjonale forskningsetiske komiteen for vitenskap og
+teknologi.
+De som kjenner Bent vet også at han er en habil langdistanseløper. Fremdeles kan han observeres i
+fullt trav langs gater og strender under internasjonale konferanser. Mer konkret om fortiden: Han var
+norsk mester i maraton i 1970 og i 25 kilometer landeveisløp i 1974.
+Internt på avdelingen er Bent kjent for sitt gode humør, og han utmerker seg som en ryddig møteleder
+og med sin utmerkete evne til å analysere seg frem til gode løsninger på administrative spørsmål,
+løsninger som alle stort sett kan enes om.
+Avdelingen gratulerer i etterkant!
+
+Dekan Bent Natvig(1990)
+
+I syklotronlaboratoriet, Fysisk institutt: Bent Natvig (t.v.) er imot kjernekraftforskningen i
+Norge, mens John Rekstad og Finn Ingebretsen mener at vi må forske videre, blant annet for
+å bidra til sikrere kjernekraftverk. (Foto: Kirsten Faustino, Apollon 01.06.1996)
+
+5
+
+
+
+NordStat 2006: 21. nordiske konferanse i matematisk statistikk
+Rebild, Danmark 11-15. juni 2006
+Sven Ove Samuelsen
+Konferasen ble avholdt på konferansesenteret Comwell i Rebild ca. 3 mil sør for Aalborg i
+Danmarks angivelig største skog. Når dessuten utflukten var til en av Danmarks største
+innsjøer ved Silkeborg og med båttur til foten av Himmelbjerget kan den godt beskrives som
+en dansk villmarksopplevelse. Som Henning Omre antydet i sin tale under konferansemiddagen ble kanskje ikke deltagere fra de øvrige nordiske land overveldet, men sjarmerende
+var det. Siden det kun få og dyre direktefly til Aalborg var det dessuten vanskeligere enn man
+skulle tro å reise til konferansen. Det er altså hyggelig å registrere at danskene prøver å leve
+opp til den norske tradisjonen med å legge konferansene så uttilgjengelig som mulig.
+Hovedtemaene denne gang var ”Statistical issues in determining cis-regulatory modules of
+transcription factors” (for uinvidde Bioinformatikk, jeg har nå forgjeves brukt 10 minutter på
+å prøve å google opp hva cis er forkortelse for) med Terry Speed fra Berkley / Melbourne og
+”Modern statistics for spatial point point processes” med Jesper Møller og Rasmus
+Waagepetersen fra Aalborg.
+Utover dette var det en rekke plenumsforedrag og paralellsesjoner. Blant annet benyttet Olle
+Häggström prinsippet ”For den som har en hammer ser alt ut som en spiker”. Hammeren var
+her grensestasjonæritet av Markov kjeder, ofte brukt til å banke sammen MCMC-algoritmer,
+men nå brukt til å vise sannsynlighetsteoretiske resultater. Videre hadde Fred Espen Benth,
+UiO, et utmerket foredrag om prising i energimarked ved hjelp av stokastiske
+differentialligninger (SDE for uinvidde). Dessuten hadde Anders Skrondal (London School of
+Economics) et foredrag om modellering ved latente variable med utgangspunkt blant annet i
+et arbeid av den danske statistikeren Erling B. Andersen som døde for et par år siden.
+De parallelle sesjoner var over temaene Statistical Modelling of Time Series Data in Finance
+and Economics, Infectious Epidemiology, E-learning and Statistics, Modelling using SDEs,
+Graphical Models, Statistics and scientific responsibility, Spatial and Spatio-temporal
+Modelling (ledet av Henning Omre), Biostatistics, Statistics in Information Engineering,
+Chemometrics, Simulation-based Inference and Computational Statistics, Statistical Analysis
+of Complex Event History Data (ledet av Ørnulf Borgan), Bioinformatics and Statistical
+Genetics. Totalt regner jeg meg til 9 norske bidrag i disse sesjonene hovedsaklig fra
+stipendiater og andre yngre forskere.
+Det var ca. 140 personer som hadde klart finne fram til konferansen. Av disse var 21 fra
+Norge og vi var dermed største kontingent utenom danskene. Med tanke på den elendige
+norske deltagelsen på forrige nordiske konferanse i Jyväskylä (3 personer ifølge TG August
+2004) var jo dette positivt. Det er å håpe at denne framgangen skal fortsette (om enn litt
+optimistisk å forutsette en multiplikativ modell) spesielt siden neste konferanse vil bli avholdt
+i Vilnius i Litauen.
+Det er nemlig bestemt at de baltiske statene skal være med å arrangere NordStatkonferansene. De vil inngå i samarbeidet som en ”5. node” og konferansen skal legges til et
+baltisk land hvert 5 gang. Det vil dermed også gå 10 år mellom hver gang konferansen legges
+til et av de øvrige nordiske landene. Referat fra møtet hvor dette ble besluttet finnes annet sted
+i dette TG. Norge hadde egentlig stått for tur, men dette blir altså utsatt til 2010.
+
+6
+
+
+
+Noen inntrykk fra Valencia 8,
+Verdensmøte om Bayesiansk statistikk, Benidorm 1.6-6.6.2006
+Som navnet sier, er dette det 8. møtet i Valencia-serien, og det største i rekken, med rundt 500
+deltakere. Lokal organisator og primus motor for hele serien er José Bernardo, som også har
+stått for mye av litteraturen i Bayesiansk teori. Han hevder sterkt at den Bayesianske måten å
+tenke på, er den eneste fruktbare og den eneste konsistente tankegangen i statistikk.
+Når det gjelder fruktbarhet, hadde han uten tvil et argument i denne konferansen. Det var en
+overveldende aktivitet, både på det teoretiske og på det anvendte området. Ord som gikk mye
+igjen i teorien, var Dirichlet prosesser og MCMC; de anvendte foredragene gikk fra fiskeegg
+og DNA til økonomi og damanlegg. En ekstra spennende aktivitet var alle posterne. De ble
+stilt ut fra 10 om kvelden til 1 om natten, men likevel var det fullt av deltakere rundt dem. Av
+11 norske deltakere var det 3 som hadde postere (4 når vi tar med en norsk-italiener.)
+Av foredragene likte jeg godt Bernardo’s eget om å se på sammenligninger av forventninger i
+normalfordelingen på en ny måte, samt Christopher Bishop’s om å ta for seg det beste av to
+verdener når det gjaldt klassifikasjon og prediksjon.
+Hva skal vi så si til tesen om at Bayesianisme er det eneste saliggjørende? Et nyttig middel til
+å ta stilling her var oversiktsforedragene over teorien den første dagen. Her skisserte Phil
+Dawid grunnlaget som en fullkommen rasjonell beslutningsprosess formulert som et
+veddemål. Den klassiske boken til Bernardo og Smith tar også utgangspunkt i beslutninger
+med et sett av alternativer definert på forhånd. Jeg vil hevde at mange beslutninger tatt i
+praksis er mer kompliserte. For eksempel er en beslutningsprosess ofte en del av en kontekst,
+og et aspekt av hele prosessen kan også være å bidra til å påvirke konteksten. Et eksempel kan
+være å velge nytt fokus. Går man ut fra slike kjetterske tanker, er det kanskje også plass i
+statistisk praksis til P-verdier og annet som Bayesianerne ser på som uhumskheter.
+Mot denne bakgrunnen er det kanskje forståelig at undertegnede trakk seg tilbake tidlig under
+kabareten siste kveld. Denne kveldsforestillingen utviklet seg mer og mer til et
+menighetsmøte. Og rasjonalitet er vel delvis å prøve å tenke på tvers av menigheter, er det
+ikke?
+Inge Helland
+
+7
+
+
+
+Pusleri nr. 19
+Etter mange puslerier om sannsynligheter kommer et statistisk, som sikkert kan belyses ut fra
+ulike synsvinkler:
+La X1, X2 …, Xn være uavhengige variable med samme forventning og samme endelige varians.
+Variansen til summen Sn vokser da lineært med n mot uendelig.
+Spørsmål: Er det slik at variansen til kvadratroten av summen vokser med kvadratroten av n
+mot uendelig? Hvis ikke, hva skjer? Hva med variansen til kubikkroten av summen?
+
+jostein.lillestol@nhh.no savner forslag til løsninger på sine puslerier, og ser gjerne
+at han slipper å løse dem selv.
+
+Pusleri nr. 18 (løsning)
+Problemstilling: Vi skal lage tre terninger A, B, C med vanlig seks-sidig form, der tallene på
+sidene er valgt blant tallene fra 1 til 9. Lag terninger med samme forventet utfall, slik at en
+ved kast med to av dem har at de tre begivenhetene
+”A slår B”, ”B slår C” ”C slår A” alle har sannsynlighet større enn ½.
+
+Løsning: Med samme forventet utfall, må summen av øynene på hver terning være den
+samme. Betrakter vi de tre tallene som ikke skal være med på hver terning, må disse derfor
+også ha en felles sum. Det er da bare to muligheter, nemlig at de tre utvalgene av utelatte er:
+Mulighet 1:
+Mulighet 2:
+
+Ac = {3, 5, 7} Bc = {2, 4, 9}
+Ac = {3, 4, 8} Bc = {2, 6, 7}
+
+Cc = {1, 6, 8}
+Cc = {1, 5, 9}
+
+dvs. mengdene med ingen felles tall og felles sum 15. Med ett felles tall ville hvert par av
+komplementer av seks tall ha fire tall felles, og de øvrige to i hvert par har
+en felles sum. Dette medfører at slike terninger er likeverdige (av de 36 utfall er 16 vinst, 16
+tap og 4 uavgjort). For de ovennevnte muligheter er terningene derfor:
+A = {1,2,4,6,8,9}
+A = {1,2,5,6,7,9}
+
+B = {1,3,5,6,7,8}
+B = {1,3,4,5,8,9}
+
+C = {2,3,4,5,7,9}
+C = {2,3,4,6,7,8}
+
+Her er det tre felles tall i hver parvise sammenstilling, og opptelling gir
+P(XA > XB) = 17/36 > 1/2
+P(XB > XC) = 17/36 > 1/2
+P(XC > XA) = 17/36 > ½
+
+8
+
+
+
+Intervjuet med Arnljot Høyland fra TG i 1991
+er lagt ut på web
+Ivar Heuch
+Matematisk institutt, Universitetet i Bergen
+
+Arrangementet på Voksenåsen i forbindelse med femtiårsjubileet for statistikk som eget
+hovedfag gav en verdig markering av en stor milepæl. Spesielt interessant var det å høre
+Jon Stenes beskrivelse av det som foregikk da grunnlaget for faget ble lagt i femtiårene.
+Hans artikkel i Tilfeldig Gang i fjor gav også et grundig inntrykk av forholdene den gangen,
+sett under en students synsvinkel.
+Som Jon ganske riktig understreker, finnes det lite publisert materiale som tar for seg
+opprettelsen av statistikk som selvstendig realfag. Det eksisterer imidlertid en annen uformell
+beskrivelse av prosessen, nemlig det intervjuet som jeg hadde med Arnljot Høyland i 1991,
+og som ble publisert i TG samme år, mens jeg var redaktør. Intervjuet ble temmelig langt, så
+jeg måtte dele det opp over to nummer. I løpet av intervjuet kom vi inn på mange forskjellige
+temaer, men forholdene ved Universitetet i Oslo i årene rundt 1955 ble behandlet ganske
+inngående, naturligvis med et litt annet utgangspunkt.
+
+Heldigvis har jeg hatt liggende alle filene som ble brukt som grunnlag
+for intervjuene som jeg skrev i TG i 1990-91. Jeg har nå lagt ut
+intervjuet med Arnljot Høyland på web som to pdf-filer tilsvarende de
+to delene som ble publisert separat. Jeg har også samlet de andre
+intervjuene fra TG i samme periode. Følgende adresse fører til en
+web-side med oversikt over intervjuene og passende lenker:
+http://www.mi.uib.no/~heuch/tg
+Hvis jeg selv skal trekke ut en spesiell godbit fra intervjuet med Arnljot, må det bli denne
+uttalelsen (på side 8 i del 1) om en kjent fysiker ved Universitetet i Oslo da det ble foreslått å
+opprette statistikk som eget fag:
+Det ble sagt at han mente at statistikk var noe man lærte seg på en ettermiddag hvis man hadde bruk
+for det. Man skulle ikke plage andre med dette faget.
+Kanskje dette synspunktet stadig finner gjenklang hos dagens studenter? Når jeg ellers leser
+de andre intervjuene nå, slår det meg at mye kan ha forandret seg innenfor statistikerprofesjonen bare i løpet av de siste 15 årene, selv om de grunnleggende utfordringene stort
+sett er de samme.
+
+9
+
+
+
+Statistisk programvare for ikke-statistikere
+Det er et bredt emne som tas opp her, blant annet er ikke-statistikere ei uensartet gruppe innen
+både fagbakgrunn og hvor mye statistikk som beherskes. Jeg skal i denne innledninga
+begrense meg til generell statistisk programvare. SPSS er mye brukt, har det andre fordeler
+sammenliknet med nyere versjoner av andre generelle statistikkprogrammer? Hvor stort er
+problemet med å skifte fra et program en er godt inne i? Hvor viktig er et menybasert
+grensesnitt for ulike grupper brukere? Hvor viktig er det å beherske programvare som er
+koplet til et aktivt globalt miljø innen forskning og programvareutvikling, noe som er tilfelle
+med SAS, Stata og S-plus/R, men i langt mindre grad med SPSS. Hvor gode er de
+menybaserte grensesnittene i disse og andre programmer (herunder nyere versjoner av Stata
+og S-plus, og de ulike R-GUI-prosjektene) sammenliknet med SPSS? Svarene vil antakelig
+avhenge av om en bruker statistisk programvare regelmessig og til krevende formål, eller
+sporadisk og hovedsakelig til enkle, i stor grad deskriptive analyser.
+Jeg håper at dette kan være begynnelsen på en diskusjon om emnet ” Statistisk programvare
+for ikke-statistikere” i TG, med utveksling av synspunkter og erfaringer. Som en begynnelse
+er det i dette nummeret et innlegg av Rolf Volden om situasjonen ved Høgskolen i Bodø, ett
+av Rolv Terje Lie ved Universitetet i Bergen om bytte av programvare ved medisinsk fakultet,
+og ett av Kjetil Halvorsen med vekt på situasjonen i Bolivia, herunder ved Universidad Mayor
+de San Andres i La Paz.
+Tore Wentzel-Larsen
+Kompetensesenter for klinisk forskning
+Haukeland universitetssykehus
+
+Bruken av statistikkprogrammer ved Høgskolen i Bodø
+ved Rolf Volden (Bodø 6/7 2006)
+Fra tidlig på 90-tallet har følgende statistikkprogrammer vært i bruk ved Høgskolen i Bodø
+(HBO): Spss, Minitab, Systat, Unscrambler og Lisrel (med Prelis). Av disse systemene har
+Systat og Unscrambler hovedsakelig vært benyttet ved avdeling for fiskeri og naturfag, mens
+de øvrige programmer har vært i bruk ved flere av våre avdelinger. Programmene har vært
+brukt i undervisningen og i statistiske analyser presentert i studentoppgaver på ulike nivåer,
+men også til grunnleggende statistiske analyser i forskningsarbeider.
+Etter sammenslåingsprosessen for høgskoler rundt 1994 kom det for HBO noen magre år med
+lave investeringsbudsjetter i EDB-sektoren og med lave driftsbudsjetter til oppdatering av
+blant annet programvare. Først i slutten av 1996 hadde vi fått PC-er som var så kraftige at det
+var mulig å kjøre S-plus på disse maskinene. I de påfølgende årene fikk vi også installert
+økonometripakkene Limdep og Shazam, samt Amos (et Lisrel-liknende program laget for
+Spss) for analyse av ulike modeller for kovariansstrukturer. Etter 2002 har R stort sett erstattet
+S-plus her ved HBO, mens flere økonomer har gått over til Stata i stedet for Spss eller som
+alternativt benytter tidsrekkeprogrammet JMulTi i tillegg til Spss. I tillegg har vi fått nyere
+versjoner av Lisrel som kjører under Windows XP.
+Dette var en grov skisse av utviklingstrekkene i bruk av statistikkprogrammer ved HBO. Vi er
+da klar over at flere personer periodevis kan ha benyttet alternative programpakker som blant
+annet Statistica, Gauss, Eviews, Rats etc. Men Minitab og Spss har hele tiden vært våre
+viktigste programmer som de fleste av våre studenter har benyttet. Dette gjelder så langt
+10
+
+
+
+programmene har ferdige prosedyrer for de analysene som skal utføres. Men Spss mangler
+blant annet prosedyrer for robust regresjon og svært lite er skjedd i Spss innenfor tidsrekker
+de senere årene. Og tidsrekker er viktige innenfor finansiell økonomi og dette er vel en av
+grunnene til at økonomer som arbeider med finans heller benytter Stata enn Spss. De trenger
+metoder som er robuste mot ulike former for avvik fra modellforutsetninger eller hvor de kan
+velge alternative estimeringsmetoder som gir forventningsrette og konsistente estimater under
+de avvikende forutsetningene. Her kan et program som JMulTi være et interessant alternativ.
+(Programmet, som er beskrevet i Lütkepohl & Krätzig (2004) Applied Time Series
+Econometrics, Cambr. Univ. Press, kan lastes ned fra http://www.jmulti.com.)
+Det ser ut til å være vanskelig å få innpass for programmer som R i vårt miljø. Det kan
+skyldes at de fleste studenter foretrekker et menyorientert system framfor et kommandoorientert system. Og R krever nok også en bedre matematikkforståelse enn det de fleste av
+våre studenter har og føler seg trygge på. I tillegg krever nok også R en viss form for
+strukturerings og programmeringsforståelse for at programmet skal kunne brukes med suksess
+og slike egenskaper er vel ikke de mest utbredte blant dagens økonomistudenter. Derfor er det
+nok bare de færreste studenter som har bra nok grunnlag til å kunne bruke R.
+
+Fra BMDP til SPSS og så til STATA ved Medisinsk fakultet ved
+Universitetet i Bergen
+På åttitallet, da de fleste forskere fortsatt arbeidet på store sentrale datamaskiner, var
+programsystemet BMDP godt innarbeidet som analyseverktøy i det medisinske fagmiljøet i
+Bergen. En rekke kurs ved Seksjon for medisinsk statistikk (den gang fakultetets EDBseksjon) bidro sterkt at medisinske forskere i Bergen valgte dette verktøyet. Men ved
+overgangen til PC-systemer på 90-tallet fikk BMDP problemer med å følge med.
+Da systemet ble kjøpt opp av konkurrenten SPSS stanset utviklingen av BMDP, og det ble
+nødvendig å se seg om etter et alternativ. Av ulike grunner ble SPSS valgt som alternativ.
+Fagmiljøene i Bergen, særlig de knyttet til registermiljøet, hadde behov for et verktøy som
+kunne håndtere store datamengder, og her var det egentlig bare SAS og SPSS som var
+alternativene. SAS hadde ikke hatt noen posisjon i det medisinske miljøet i Bergen, mens
+enkelte forskere hadde erfaring med SPSS.
+I ettertid kan det kanskje sies at SAS ville ha vært et bedre valg. En av grunnene til at SPSS i
+sin tid ble valgt av et flertall av forskere i miljøet og etter hvert inngikk som verktøy i
+forskerkursene i statistikk ved fakultetet var at SPSS ganske raskt skaffet seg et moderne
+menybasert grensesnitt. Det må imidlertid også sies at våre kurs oftest har anbefalt å bruke
+syntaks i forskningsarbeid også for SPSS.
+Det går fortsatt an å si at SPSS er et godt verktøy for statistisk databehandling (Data
+management). Systemet behandler store datamengder på en relativt oversiktlig og god måte.
+Som statistikkverktøy i et medisinskfaglig miljø har imidlertid SPSS sine svakheter i forhold
+til nye alternativer. Vi har derfor etter hvert funnet det nødvendig å revurdere satsingen på
+SPSS særlig i kurssammenheng.
+Etter noe vurdering valgte vi for et par år siden å basere våre kurs på programsystemet
+STATA. De faglige fordelene med dette er mange. STATA er et meget godt dokumentert
+system som har et meget aktivt og godt statistisk brukerforum, særlig innenfor biomedisin.
+Her er et viktig eksempel håndtering av avhengigheter i data. Et bredt spekter av
+regresjonsmodeller, også for kategoriske data, håndterer visse typer avhengighet i data på en
+11
+
+
+
+meget enkel måte. Robust variansestimering kan enkelt benyttes til å ta hensyn til korrelasjon
+for eksempel innenfor familier ved analyse av norske befolkningsdata for alle vanlige typer
+regresjon. Avhengighet kan også inkorporeres i ”random intercept”-modeller for alle
+regresjonsalternativene på en enkel måte. Som statistiker må jeg si at det er overraskende hvor
+enkelt og effektivt disse viktige alternativene er implementert i STATA. Det betyr også at
+man kan komme langt på kort tid i kurssammenheng og at kursdeltagere ofte kan få tilgang til
+det de trenger. Gjennom et søkbart internettbasert delingssystem får man i tillegg til det som
+er basismoduler i STATA også tilgang til en rekke spesialapplikasjoner, ofte godt
+dokumentert i The STATA Journal. Selv en dreven anvendt statistiker skal nok jobbe en stund
+før han møter veggen i STATA.
+I vår bruk av STATA i kurssammenheng har vi frigjort oss fullstendig fra det manybaserte
+grensesnittet som også finnes i STATA. Syntaksen i STATA er så kompakt, oversiktlig og
+enkel å bruke (i motsetning til SPSS sin syntaks) at vi baserer oss på den både i oppgaver og i
+eksempler. Dette gir en litt tøffere lærlingskurve for kursdeltagere som kun har benyttet
+menysystemer. Fordelene ligger i at alt undervisningsmateriell blir enklere og kortere (uten
+menyer) og at de unge forskerne som går på kurs innser at de må basere seg på å skrive og
+lagre syntaks for analysene de gjennomfører.
+Det skal også sies av vi, slik det er nå, ikke holder noe egentlig STATA-kurs. Vi har foreløpig
+valgt å inkorporere STATA i statistikkursene vi holder ved at kursdeltagerne kastes raskt ut i
+øvelser og eksempler på bruk av STATA. Vi mener at en slik nokså selektiv bruk av en
+moderne statistikkpakke kan forsvares. Vi har heller ikke sett det som noe mål å gi en
+utfyllende presentasjon av alle mulighetene i STATA i våre kurs.
+Overgangen til STATA i kurssammenheng applauderes av noen, men ikke av alle. Vi har selv
+bidratt til å innarbeide SPSS i deler av miljøet i Bergen, og SPSS vil helt sikkert ha en plass
+også fremover, ikke minst som databehandlingsverktøy. Men vårt råd til unge forskere
+innenfor biomedisin er klart: sjekk ut STATA.
+Rolv T. Lie
+Seksjon for medisinsk statistikk
+Universitetet i Bergen
+
+Statistisk programvare for ikke-statistikere ved og utenfor UMSA
+Kjetil Halvorsen juli 2006
+Statistisk programvare for ikke-statistikere er et stort tema, og behovene er svært forskjellige.
+Fra e-post listene ser man at mange ikke-statistikere bruker R og WinBUGS, sannsynligvis er
+det heller informatikk-kunnskapene som er begrensende her. Enkel bruk av R er ikke
+vanskeligere enn å bruke Minitab.
+Jeg husker fra Universitetet i Tromsø, de vanskeligste studentene i brukerkursene var
+fiskerifagstudentene, nesten ingen av dem hadde tatt i en datamaskin før. I de første
+laboratorietimene var det fullt kaos og mange spørsmål, og alle hjelpelærerne måtte tre til.
+Men etter tre sesjoner gikk alt greit, de behersket datamaskinen og bruk av kommandoer i
+Minitab. De hadde ikke hatt større problemer med å lære enkel R. Forskjellen til idag er
+sannsynligvis forventningen om at alt skal kunne gjøres med "pek og klikk", noe som er et
+stort problem.
+
+12
+
+
+
+Det som brukes i undervisningen ved UMSA (Universidad Mayor de San Andres, La Paz,
+Bolivia) er stort sett Excel og SPSS, litt R og lite annet. At Excel brukes i undervisningen ser
+jeg på som litt skandaløst, siden det slett ikke er et statistikk-system, og det finnes publiserte
+artikler som påpeker numeriske og andre problemer i Excel (Se f.eks.
+http://www.burns-stat.com/pages/Tutor/spreadsheet_addiction.html for diskusjon og
+referenser).
+Utenfor universitetet er Stata blitt svært populært, noe jeg ser som et stort fremskritt! Ellers
+bruker økonomene e-views og tsp, og agronomene SAS. Mange ingeniører bruker Matlab, og
+det er sikkert greit for den gruppen siden det kan brukes til mange andre tekniske beregninger.
+Endel medisinere bruker EpiINFO. WinBUGS er brukt i noen eksamensarbeider på UMSA,
+men neppe ellers.
+Det bør nevnes at programvare stort sett piratkopieres, slik at pris ikke er en faktor i valg av
+programvare. Universitetet har ikke budsjett for programvare, og alt er piratkopiert. Dette er
+nok en hindring for utbredelsen av systemer som R.
+R med et grafisk brukergrensesnitt (gui) kan være et alternativ for mange, men standarddistribusjonen av R kommer uten gui. Men det er skrevet flere forskjellige gui's, det mest
+aktuelle for ikke-statistikere er kanskje John Fox's Rcmdr, som finnes på CRAN
+(Comprehensive R Archival Network). På useR! 2006 konferansen hadde han ett innlegg om
+R og undervisning, se
+http://www.r-project.org/useR-2006/Abstracts/Fox+Weisberg.pdf
+på samme sted finnes det også slides. Et annet relevant innlegg er
+http://www.r-project.org/useR-2006/Abstracts/Eddelbuettel.pdf.
+En fordel med Rcmdr er at det viser R-koden som genereres, så det er en fin hjelp for å lære
+selve språket. Dette er egentlig noe av poenget med Rcmdr, at brukeren etterhvert skal kunne
+frigjøre seg fra gui'en og kunne bruke kommandospråket direkte.
+Det eneste jeg egentlig har testet selv er Rcmdr og xemacs-ess (http://ess.r-project.org/), som
+er en nødvendighet på unix/linux.
+Andre prosjekter som JGR (http://rosuda.org/JGR/) skuffet meg under windows, men under
+linux kan det kanskje være nyttig (Det er svært frustrende å jobbe med et rent R-prompt under
+linux).
+En interessant nettside er http://www.sciviews.org/SciViews-R/ men jeg har ikke
+eksperimentert mye med det systemet. Dette systemet er ikke bare en gui, men bekymrer seg
+om hjelpemidler for å forenkle rapport-produksjon fra R. Windows-only.
+En nettside med informasjon om andre gui-prosjekter er
+http://www.sciviews.org/_rgui/ .
+
+13
+
+
+
+Tromsø Telemedicine Laboratory –
+Senter for Forskningsdrevet Innovasjon 1!
+Den 16. juni kunngjorde kunnskapsminister Øystein Djupedal de 14 fagmiljøer som skal få
+status som Senter for Forskningsdrevet Innovasjon (SFI) de neste åtte årene. “SFI-ordningen
+har til hensikt å bygge opp eller styrke norske forskningsmiljøer som arbeider i tett samspill
+med innovativt næringsliv.” Årlig budsjett for hvert av disse sentrene ligger på ca. 20 mill.
+kroner, og satsningen anses å være en betydelig styrking av norsk forskning. Et av de utvalgte
+sentrene er Tromsø Telemedicine Laboratory (TTL) med Nasjonalt Senter for Telemedisin
+(NST) som vertsinstitusjon.
+TTLs mål er å bli et verdensledende senter for forskning og innovasjon innenfor telemedisinog eHelse-systemer for kroniske, livsstils og aldersrelaterte sykdommer. Senteret skal
+frembringe ny teknologi for å samle inn, overføre og prosessere helserelatert informasjon, og
+på den måten fremskaffe nye tjenester som vil avlaste helsesektoren i fremtiden. Prosjektet
+hviler på tre faglige søyler – sensorbaserte systemer, datamaskinstøttet organisasjonsarbeid og
+datamaskinstyrt beslutningsstøtte (Computer Aided Diagnostics and Early Warning Systems).
+Ideen går ut på å samle informasjon om pasienters tilstand vha sensorer (blodsukker,
+blodtrykk, puls, oksygenopptak, bilder av føflekker, eksem, osv), overføre den til et sykehus
+hvor et datamaskinstyrt beslutningsstøttesystem analyserer data.
+Deretter integreres
+resultatene i pasientjournalene og sykehusets rutiner for diagnostisering og behandling.
+Beslutningsstøttesystemene vil baseres på statistisk analyse av en- og flerdimensjonale
+datasett, statistisk modellering av medisinske diagnostiseringsprosesser, samt modellering av
+beslutningsprosesser basert på hypotesetesting. I forbindelse med dette vil en tredjedel av
+TTLs forskning rettes mot utvikling av metoder for statistisk deteksjon og
+mønstergjenkjenning i en- og flerdimensjonale data. Eksempler på slike oppgaver :
+(a)
+Å skille mellom blodsukkeravvik som skyldes infeksjon og brusdrikking.
+(b)
+Skille mellom god- og ondartede føflekker ut fra digitale dermatoskopbilder.
+(c)
+Oppdage helsetruende hjerteflimmer ut fra pulsmålerdata.
+De innsamlede dataene åpner også muligheter for deteksjon av populasjonsbasert
+sykdomsutbrudd hvor romlig statistikk spiller en nøkkelrolle, f.eks. ved deteksjon av
+influensautbrudd på grunnlag av forhøyede blodsukkerverdier hos A-diabetikere. Det er
+mange store utfordringer knyttet til statistisk metodologi som skal utvikles og implementeres:
+(i)
+Dataene er ofte ujevnt samplet.
+(ii)
+Patologiske (sykdomsrelaterte) mønster i data er vanskelig å oppdage på grunn av
+støy som skyldes andre fysiologiske prosesser.
+(iii) Medisinsk teknologi stiller svært høye krav til både metodisk sensitivitet og
+spesifisitet.
+(iv)
+Store datamengder krever datamaskineffektive algoritmer.
+TTL kommer til å ansette flere stipendiater og forskere i 2007. De skal inngå i en gruppe som
+består av forskere fra NST, Universitetet i Tromsø samt gjesteforskere fra Universitetet i
+Bergen og flere andre partnerinstitusjoner som Telenor R&D og IBM Research.
+Potensielle søkere til stipendiat- og forskerstillingene innen datamaskinstyrt beslutningsstøtte
+kan kontakte professor Fred Godtliebsen på email fred@math.uit.no eller telefon 776 44019.
+
+Fred Godtliebsen og Vedad Hadziavdic
+
+14
+
+
+
+Statistics for Innovation –
+Senter for Forskningsdrevet Innovasjon 2!
+The Statistician in Oslo have won major strategic funding in the form of a Centre for
+Research-based Innovation (CRI) from the Research Council of Norway. The multi-million
+kroner grant — one of the largest ever awarded to a statistics department in Europe — will
+fund the new centre Statistics for innovation, led by Arnoldo Frigessi. It will support an
+ambitious programme to conduct and disseminate internationally-leading long-term research
+in statistics, strategically necessary to achieve trong innovation goals faster and more
+efficiently, for the economical benefit of the centre’s corporate partners, and for Norway. We
+will focus on innovation in four key sectors:
+Petroleum
+
+Finance
+
+Marine
+
+Health
+
+The centre will generate research results that induce innovation in these sectors
+simultaneously. Statistics for innovation will take an internationally leading position and be a
+resource for the growth and competitiveness in these secttors of Norwegian economy.
+Statistics for Innovation is a partnership between:
+Applied research
+Academic
+research
+
+Petroleum
+Finance
+Marine
+Health
+
+Norsk Regnesentral (NR)
+University of Oslo (UoO) – Departments of: Mathematics (MI),
+Biostatistics (IMB), Informatics (IfI) and Economics (IE)
+Norwegian University of Science and Technology (NTNU) – Department of
+Mathematical Sciences
+Statoil
+DnBNOR, Gjensidige, Hydro Oil & Energy
+BioMar, Institute of Marine Research (IMR)
+Biomolex, PubGene, Rikshospitalet-Radiumhospitalet (RR), Sencel, Smerud
+Medical Research, Spermatech
+
+Method-based innovation. Statistics for Innovation is built on the fact that discovery and
+innovation in the four sectors pose common challenges to modern statistics. As part of
+mathematics, statistics is a universal language, necessary for interdisciplinary research on
+complex problems. We will identify and exploit affinities between problems from areas that
+may appear to have little or nothing in common.
+In the last few years we have been witnessing dramatic structural changes in the available
+resources for innovation, which reveal major new potentials:
+ Science, industry and business possess the technology to collect, store and distribute huge
+
+amounts of data efficiently, at very low cost. Sensors and instrumentation, data logging
+capacity, communication and shared processing power have increased the breadth and
+depth of the data to deal with. Data may carry precious information that can boost
+innovation dramatically. However, it is challenging and resource consuming to turn high
+dimensional data sets into useful information.
+ Today, systems are measured more in depth, giving a more complete and detailed picture
+of processes and phenomena. Also, it is necessary to treat many sources of data of
+different type, scale and quality simultaneously, which is a great challenge to statistics.
+Public archives and registries such as biobanks, web-resources and financial databases,
+create exciting opportunities that should be exploited with statistical tools.
+ Competitiveness is crucial to economic growth. The time and margins to reach innovative
+15
+
+
+
+products and services are small. Statisticians need to solve incremental problems,
+requiring more sophisticated tools and continual cooperation with problem owners.
+Similarly, in science, the focus is the next generation goals, leading to the investigation of
+“second order effects”. These can explain important phenomena and behaviours, but are
+more difficult to identify.
+ There is an increasing requirement for evidence-based decision-making, performance
+measurement and uncertainty assessment. Compared to deterministic and point estimates
+of risk, statistical measures of uncertainty provide additional freedom for decision makers.
+ The theoretical side of statistics has developed extensively. The rehabilitation of Bayesian
+statistics as a fundamental tool for applied problems has restored the role of probability
+theory. Among the most powerful developments in statistics over the last 30 years, is the
+recognition of conditional independence as a key principle in model building. Stochastic
+calculus, point processes and non-parametrics have matured. Modern tools are now ready
+for practical use in the innovation process.
+ Highly computer-intensive statistics is now available, due to machine power and
+innovative algorithms. Statistical models are no longer limited by implementation
+restrictions, and can be tailored to their purpose, without compromises.
+Methodological cross-fertilisation will be central for the centre. A new blend of statistical
+methodologies originating from different application areas, will lead to important original
+results to progress innovation.
+The centre will start 1.1.2007. NR is (the splending) hosting institute.The next months will be
+used to set-up the practical aspects and start hiring PhD students, Postdocs and Researchers.
+If you are looking for an exciting job and might consider joining the centre, please email
+frigessi@medisin.uio.no.
+Arnoldo Frigessi.
+
+Kunnskapsminister Øystein Djupedal presenterte fredag
+16. juni de fjorten nye forskningssentrene. Foto: Arne Langleite.
+
+16
+
+
+
+THE FUTURE OF NORDSTAT:
+WELCOME TO VILNIUS, SUMMER 2008!
+Dear fellow members of the Nordic societies,
+This email is to summarize the decisions recently made in Rebild, Denmark. We had a
+meeting in Rebild 12/6 2006 between the four Nordic societies represented by:
+Per Bruun Brockhoff, Denmmark
+Sven Ove Samuelson, Norway
+Rolf Sundberg, Sweden
+Antti Penntinen, Finland
+and subsequently common discussions with Vilijandas Bagdonavicius from Lithuania.
+Following the email correspondence over the last two years it was decided that Lithuania will
+arrange the 2008 Nordstat conference and Prof. Bagdonavicius made an announcement about
+this in Rebild at our NORDSTAT conference dinner. A few issues related to the practical side
+of the arrangement were discussed also:
+1) Finances: As there is no Nordic mother organisation formally arranging the Nordstat
+conferences, it is 100% up to the individual organizing country/society to try to make things
+work out. There might be options for raising support related to the existing Nordic/Baltic
+initiatives.
+2) Time: The mid-late June slot seems to be the preferred one. (Avoiding the Swedish
+Midsummer holiday!)
+3) Committees for Nordstat 2008: It is recommended that one person from each of the four
+Nordic countries join the programme committee. It could be a good idea also to involve at
+least one person from one of the organizing committees from recent Nordstat conferences in
+the organising committee.
+Finally, the future perspectives of this new Baltic involvement was discussed. Clearly, it is
+difficult to predict what will happen in the future, BUT the current plan, given no dramatic
+changes of any kind, is to continue the nordic round after 2008:
+2010: Norway
+2012: Sweden
+2014: Finland
+2016: Denmark
+And then in 2018 the Estonians could be the next Baltic organizers. Obviously this is
+something that continuously will be re-considered. We had no response from Latvia on these
+issues.
+All the best,
+Per Bruun Brockhoff.
+
+17
+
+
+
+Nytt (og ikke fullt så nytt) fra AvdC
+Grete Usterud Fenstad gikk av med pensjon 31. januar 2006 etter å ha vært ansatt på
+avdelingen siden 1962. Pensjonering ble behørig markert med en bedre middag for 45 gjester
+på Skytterkollen i Bærum 2. mars.
+Ansettelser:
+Hege Marie Bøvelstad ble ansatt som prosjektstipendiat januar 2006
+Frank Proske, ansatt som førsteamanuensis i matematisk statistikk (forsikring) fra 8. 2006
+
+Uteksaminerte Cand.Scient-studenter: 2005
+Lars Christian Aasebø: En rom-tid studie av temperaturvariasjoner.
+Veileder: Geir Storvik
+Corina Mihaela Moldovan: Long term financial risk and exponential stochastic volatility
+models.
+Veileder: Erik Bølviken
+Aika Msuya: Modelling Norwegian Equities with Copulas.
+Veileder: Erik Bølviken
+Hege Marie Bøvelstad: Survival prediction using microarray gene expression data – A study
+of a subset selection methods and principal component regression.
+Veileder: Ørnulf Borgan
+Uteksaminerte Masterstudenter i Modellering og dataanalyse Januar 2005 – juni 2006
+Emil Framnes: Optimal dividend and reassurance for an insurance company in a market
+driven by Levy-processes.
+Studieretning finans, forsikring og risiko
+Veileder: Bernt Øksendal
+Carl Petter Kirkebø: ALM i livbransjen
+Studieretning finans, forsikring og risiko
+Veileder: Erik Bølviken
+Trym Vegard Haavardsholm: Physics-based target classification in hyperspectral images.
+Studieretning billedanalyse, mønstergjenkjenning og signalbehandling
+Veiledere: Torbjørn Skauli / Anne Solberg
+Milada Småstuen: Cutting edge – an edge based GVF-snake applied on tumor segmentation
+of ultrasound liver images.
+Studieretning billedanalyse, mønstergjenkjenning og signalbehandling
+Veileder: Fritz Albregtsen
+Thomas Leirvik: Combined singular and impuls control for diffusion with application to
+finance.
+
+18
+
+
+
+Studieretning finans, forsikring og risiko
+Veileder: Bernt Øksendal
+Jens Arne Sukkestad: Optimal investment for insurers in a market driven by Levy processes.
+Studieretning finans, forsikring og risiko
+Veileder: Tom Lindstrøm
+Asgeir Vilming: Malliavin calculus for additive processes
+Studieretning finans, forsikring og risiko
+Veileder: Giulia di Nunno
+Anne Kirstine Burum Eskeland: Minimum distance estimator and robust inference in
+regression models.
+Studieretning statistikk
+Veiledere: Nils Lid Hjort / Ingrid Glad
+Stefan Bernt Isaksen: Simulations of Natvig type measures of component importance for
+repairable systems.
+Studieretning finans, forsikring og risiko
+Veileder: Bent Natvig
+Lars Tellef Kvifte: Kvasi Monte Carlo i skadeforsikring
+Studieretning finans, forsikring og risiko
+Veileder: Erik Bølviken
+Dag Raabe: Tilskuerforsikring i norsk fotball: Tariffering og metode.
+Studieretning finans, forsikring og risiko
+Veileder: Erik Bølviken
+
+Statistical Research Report 2005/6
+(http://www.math.uio.no/eprint/stat_report/2005/rept_2005.html)
+no 1
+January
+
+D. Berg
+
+Bankruptcy Prediction by Generalized Additive
+Models.
+
+no 2
+January
+
+T. Reitan, A. PetersenØverleir
+
+Estimating the discharge rating curve by nonlinear
+regression - The frequentist approach.
+
+no 3
+February
+
+F. A. Dahl
+
+How Online Learning Approaches Ornstein
+Uhlenbeck Processes.
+
+no 4
+February
+
+F. A. Dahl
+
+On the Conservativeness of Posterior Predictive
+P-values.
+
+no 5
+May
+
+F. E. Benth, J. Saltyte-Benth, A spatial-temporal model for temperature with
+P. Jalinskas
+seasonal variance.
+
+no 6
+June
+
+J. Fosen, E. Ferkingstad,
+Ø. Borgan, and O. O. Aalen
+
+Dynamic path analysis - a new approach to
+analyzing time-dependent covariates.
+
+no 7
+August
+
+A. B. Huseby
+
+Trends and Local Effects in Aviation Accident
+Rates Related to Deregulation.
+
+no 8
+Ø. Borgan, B. Langholz
+September
+
+Using martingale residuals to assess goodness-offit for sampled risk set data.
+
+19
+
+
+
+Ø. Borgan, R. L. Fiaccone,
+no 9
+R. Henderson and M. L.
+November
+Barreto
+
+Dynamic analysis of recurrent event data with
+missing observations, with application to infant
+diarrhoea in Brazil.
+
+no 10
+D. Berg, H. Bakken
+December
+
+A Goodness-of-fit Test for Copulae Based on the
+Probability Integral Transform.
+
+F. A. Dahl. J. Gåsemyr, B.
+no 11
+December Natvig
+
+A robust conflict measure of internal
+inconsistencies in Bayesian hierarchical models.
+
+Statistical research Report 2006 (sålangt)
+(http://www.math.uio.no/eprint/stat_report/2006/rept_2006.html)
+no 1
+February
+
+S. O. Samuelsen, H. Ånestad, Stratified case-cohort analysis of general cohort
+A. Skrondal
+sampling designs.
+
+no 2
+May
+
+G. Storvik, T. Egeland
+
+The DNA database search controversy revisited:
+Bridging the Bayesian - Frequentistic gap.
+
+no 3
+June
+
+B. Natvig, J. Gåsemyr
+
+New results on Barlow-Proschan type measures of
+component importance in nonrepairable and
+repairable systems.
+
+no 4
+June
+
+I. F. Tvete, G. Storvik, B.
+Natvig
+
+Modelling Pollock egg counts from the western
+Gulf of Alaska by a zero-inflated Bayesian
+hierarchical space-time model.
+
+-------------------------------------------------------------------------“A statistician is someone who loves to work with numbers but doesn't have the personality to
+be an accountant.”
+“Why don't statisticians like to model new clothes? Lack of fit.”
+“Statisticians must stay away from children's toys because they regress so easily. “
+“How do you tell one bathroom full of statisticians from another? Check the p-value.”
+
+--------------------------------------------------------------------------
+
+20
+
+
+
+21
+
+
+
+Det 14. norske statistikarmøtet
+SOMMARØYA (Tromsø)
+19.-21 juni 2007
+Norsk statistisk forening avdeling Trondheim ønskjer velkommen til:
+Det 14. norske statistikarmøtet, 19.-21. juni 2007
+på Sommarøya kurs og konferansesenter
+(50km vest for Tromsø, på yttersida av Kvaløya).
+
+Det er òg planlagt eit kurs med Anders Skrondal og Sophia Rabe-Hesketh som
+vil gå frå 18. til 19. juni.
+Det er sett ned ein programkomite som tar seg av det faglige programmet.
+Interesserte kan kontakte Mette Langaas (mette.langaas@math.ntnu.no).
+For
+meir
+informasjon
+om
+årsmøtet,
+sjå
+heimesida
+på
+http://uit.no/matstat/statistikermote. Her vil programmet og anna informasjon
+om møtet bli lagt ut etter kvart som det blir klart. Påmelding vil òg skje via
+desse sidene.
+
+Her er en kursbeskrivelse til kurset:
+
+22
+
+
+
+Generalized Linear Latent and Mixed Models
+Instructors:
+Anders Skrondal London School of Economics & Norwegian Institute of Public
+Health
+Sophia Rabe-Hesketh, University of California, Berkeley & Institute of
+Education, University of London
+Generalized linear mixed (or multilevel) models (GLMMs) are useful for
+longitudinal data, cluster-randomized trials, surveys with cluster-sampling,
+genetic studies, metaanalysis, etc. The random effects in GLMMs are latent
+variables representing between-cluster variability and inducing within-cluster
+dependence. Latent variables also are used often to represent true values of
+variables measured with error. Measurement models specifying the relationship
+between measured and latent variables can form part of regression models,
+giving structural equation models (SEMs). SEMs also can be used to model
+dependence between processes. Taking a unified view of these models is
+beneficial because developments for one model-type are applicable to other
+model-types and the same software can be used for seemingly different models.
+The course will be structured in three parts: GLMMs, measurement models, and
+SEMs. Ideas will be developed by starting from simple versions of the models
+and motivating extensions through examples. Methods of estimation and
+prediction will be surveyed. Real applications will be considered from different
+disciplines.
+RECOMMENDED TEXTBOOK: Skrondal, A. and Rabe-Hasketh, S. (2004):
+Generalized Latent Variable Modeling: Multilevel, Longitudinal and
+Structural Equation Models. Chapman and Hall/CRC Press. ISBN:
+1-58488-000-7.
+
+23
+
+
+
+Medlemskap i Norsk Statistisk Forening
+Kontingenten er kr. 200 per år for regulære medlemmer og kr. 50 for studenter (til og med
+hovedfag). Korrespondanse om medlemskap og innbetaling av kontingent skal skje til
+foreningens kasserer:
+Norsk Statistisk Forening v/ Hilde Grude Borgos
+Schlumberger Stavanger Research
+P.O.Box 8013, N-4068 Stavanger, Norway
+Tel: (+47) 51946466, Fax: (+47) 51946001
+Email: HBorgos@stavanger.oilfield.slb.com
+Innbetalinger gjøres på foreningens konto 0530 2773299. Medlemmer som er usikre på når de
+betalte kontingent sist, kan nederst på adresselappen for Tilfeldig Gang se hvilket år siste
+betaling er registrert for. Vær oppmerksom på at adresselappene for bladet kan ligge noe etter
+ajourføringen av medlemsregistret, slik at nylig foretatte innbetalinger ikke vil være med her.
+Nye medlemmer melder seg til kassereren og får så automatisk tilsendt Tilfeldig Gang fra
+første påfølgende nummer. Ved innmelding skal både epost- og vanlig adresse oppgis.
+Annen korrespondanse med foreningen skal foregå med formannen:
+Sven Ove Samuelsen
+Matematisk institutt, UiO
+Postboks 1053 Blindern
+0316 Oslo
+Emailadresse: nsf-styret@math.uio.no
+
+24
+
+
+
+Årskontingent Norsk Statistisk Forening 2006
+Medlemskontingent i NSF er kr. 200,- pr. år for ordinære medlemmer og kr. 50,- for studenter (til og med
+hovedfag), og betales inn på kontonummer 0530.27.73299. Mange har allerede betalt medlemskontingent for
+2006, men fortsatt er det en stor andel som mangler. Vennligst sjekk adresselappen på baksiden av bladet hvilket
+år vi sist har registrert innbetaling fra deg. De som ikke har betalt for tidligere år gjør dette sammen med
+kontingenten for 2006. Dersom du mener betalingsinformasjonen ikke stemmer, gi beskjed til
+hborgos@slb.com.
+NB: Dersom din arbeidsgiver betaler kontingenten, sørg for at navnet ditt kommer med på innbetalingen.
+
+Hva gjør vi med pengene?
+De største utgiftspostene for NSF er overføringer til lokallagene i Oslo, Bergen og Trondheim, NSFs
+medlemskap i the European Mathematical Society (EMS) og the International Statistical Institute (ISI), utgivelse
+av TG, og økonomiske bidrag i forbindelse med diverse arrangementer. For i fjor gjelder dette det norske
+statistikermøte og the European Meeting of Statisticians i juli, hvor vi blant annet sponset deltakelse for
+studenter. I år har vi bidratt økonomisk til jubileumsseminaret for 50 år med hovedfag i matematisk statistikk,
+som ble arrangert av UiO og NSF på Voksenåsen 22. mai. Det siste året har vi også brukt penger på å fornye
+hjemmesiden vår, se http://www.math.uio.no/nsf/.
+
+Medlemsregister
+For at medlemsregisteret skal være best mulig oppdatert er det viktig at du oppgir evt. ny post/epost-adresse
+enten ved å sende meg en epost eller oppgi dette på innbetalingsgiroen. Vi har opprettet en egen mailingliste for
+NSFs medlemmer, nsf-medlemmer@math.uio.no. Dersom du ikke mottar epost på denne lista, send meg din
+oppdaterte epostadresse.
+PÅ FORHÅND TAKK!
+
+Vennlig hilsen
+Hilde Grude Borgos
+Kasserer NSF
+Epost: hborgos@slb.com. Tlf: 51 94 64 66
+
+Kontingent NSF 2006: kr. 200 (kr. 50 for stud.)
+
+NSF v/ Hilde Grude Borgos
+Schlumberger Stavanger Research
+Postboks 8013
+4068 Stavanger
+
+0530 27 73299
+
+25
+
+
+

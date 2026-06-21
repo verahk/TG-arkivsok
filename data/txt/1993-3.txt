@@ -1,0 +1,3567 @@
+ISSN 0803-8953
+TILFELDIG GANG
+Nr. 3, årgang 10
+
+September 1993
+
+Utgitt av Norsk Statistisk Forening
+INNHOLD
+
+Fra redaktøren. Inge Helland
+Fra formannen. Eivind Damsleth
+Faglige innlegg
+
+Den passionerade statistikern. Lennard Råde
+(2m) + 1 = 2m- 1. Jostein Lillestøl
+
+On sonnets, riffles and the Wall's Cornetto.
+Kultur
+
+Refleksjoner under en statistikk eksamen
+Klipp fra pressen
+
+Sikkerheten ved Barsebåck er for dårlig analysert. Anders Gjesvik
+
+Om brannstiftersaken i Ås. Inge Helland
+Konferanser
+Konferanseoversikt (Fra Amstat News).
+XVIIth Intenational Biometric Conference.
+
+Conference on EnvironMetrics.
+Symposium for anvendt statistikk, 1994.
+Meldinger
+Nytt fra universiteter og høgskoler.
+
+Medlemskap i Norsk Statistisk Forening.
+Bidrag til Tilfeldig Gang.
+
+
+
+
+
+Fra redaktøren
+
+Jeg må innrømme at både Are Aastveit og jeg trengte noen dagers tenkepause da Jan
+Bjørnstad for en tid siden ringte og ba oss om å overta redaktørjobben i TG. Selvfølgelig
+
+tenkte vi endel på hvor mye tid det ville ta. (Som en kollega her på Ås ganske riktig pleier å
+
+si: "Døgnet har tross alt ikke mer enn 25 timer!") Likevel: Et vel så viktig aspekt var at vi
+faktisk har ganske stor respekt for den jobben de tidligere redaktørene har gjort med dette
+bladet. Hvordan skal det bli å prøve å følge opp dette?
+
+Jeg mener oppriktig at TG har vært et meget bra blad. For å gi en lokal illustrasjon igjen:
+Matematikerne her låner av og til bunken min med TG, og leverer den tilbake lettere
+misunnet: " Dere har mye mer å diskutere i statistikk enn i matematikk."
+
+Hvordan skal vi følge opp TG's linje videre? Noen tanker har vi nok også selv om dette, men
+la oss vente litt med å være mer konkrete. (En liten nyhet for dette nummeret er konferanseoversikten vi tar med; vi regner med at enkelte kan ha nytte av noe slikt i høstnummeret.) Jan
+Bjørnstad har også sendt over endel forslag, og vi håper å ta opp disse etter hvert. En av disse
+ballene har jeg likevel lyst å kaste videre med det samme: Vi har mange forskjellige
+statistikkmiljøer her i landet, med forskjellige arbeidsoppgaver og forskjellige problemer og
+muligheter de står overfor. Noen av disse er blitt omtalt i TG tidligere (Norsk Regnesentral,
+MMI, Norsk institutt for sykehusforskning). La et første ønske fra oss være flere innlegg fra
+flere miljøer.
+
+En annen generell idé er anmeldelse av statistisk programvare. Hvem har sett på siste versjon
+av Minitab, nye muligheter i SAS, i S-PLUS osv.? Hva skjer av programutvikling i Norge?
+I alt, selv om det på én måte er unødvendig å si det: Det er en betingelse for TG's videre liv at
+vi har aktive lesere som sender oss innlegg om det de finner interessant og som de tror har
+interesse for andre lesere. Adressen vår står på siste side.
+
+Som bemerket av Grete Fenstad da hun nylig sendte oss sine nyheter fra UiO: Det er lite nytt
+denne gangen, det har jo bare vært sommer siden forrige nummer! I disse agurktider er det
+godt å ha noen egne opplevelse å fortelle om. Sammen med Erik Bølviken deltok jeg som
+
+statistisk sakkyndig i en straffesak i sommer: Brannstiftersaken i Ås, visstnok første gang
+
+statistikere er brukt på denne måten i Norge. En fyldig dekning står lengre bak. For meg var
+dette en interessant opplevelse, og jeg er fornøyd med det utfallet saken fikk til slutt. En ting
+sjokkerte meg likevel: Pressedekningen av saken. Jeg hadde aldri trodd at det var mulig å
+oppleve en så stor avstand mellom den virkeligheten jeg registrerte selv og det bildet av
+virkeligheten som pressen gav.
+
+La meg avslutte med et ønske om at den herværende publikasjonen skal klare å holde et
+høyere saklighetsnivå. Selvfølgelig trenger den ikke bli kjedelig av den grunn.
+
+hen ll
+Inge Helland
+
+
+
+Fra formannen:
+
+Sommeren er over, en sommer som hvertfall værmessig har gjort at jeg
+tidvis overveiet å søke jobb ved Universitetet i Tromsø.
+
+For noen dager siden ble det arrangert et internt kveldsmøte på Norsk
+Regnesentral, hvor en rekke tidligere NR-forskere var invitert sammen med de ansatte for å
+
+diskutere temaet "forskermobilitet". Det ble tatt opp fordeler og ulemper ved mobilitet
+både for (fag-)samfunnet, avsender- og motakerbedriften, og for den enkelte.
+Konklusjonene var slett ikke entydige, men det var hvertfall bred enighet blandt oss eksNRere om at det er sundt å røre på seg av og til. Hvor ofte, og hvor lenge man bør forbli i
+samme jobben var det delte meninger om. Særlig for oss statistikere, som hvertfall i
+næringslivsammenheng representerer en støttekompetanse til bedriftens hovedaktivitet, kan
+det våre meget fruktbart å komme inn i et miljø hvor nye og spennende problemstillinger
+oppstår og kan løses når statistikeren og ingeniøren/geologen/legen/økonomen/etc. møtes. I
+den anledning passer det med et ordtak jeg nylig fikk presentert: "Sparks of ingenuity arise
+when you take two brains and rub them together". Og selvsagt bør den ene hjernen tilhøre
+en statistiker.
+
+Aktiviteten i NSF foregår for det meste i de enkelte lokalforeningene, og det er sikkert ikke
+bare meg som venter spent på høstprogrammene. Imidlertid er det et beklagelig faktum at
+deltakelsen på lokalforeningenes aktiviteter ofte ikke er så god som man skulle ønske, selv
+med både gode og interessante foredrag på programmet. Selv har jeg slett ikke vårt noen
+hyppig gjest ved Oslo-avdelingens arrangementer - men jeg håper at formannsvalget kan
+inspirere meg til noe sterkere deltakelse utover høsten. Og det vil våre veldig hyggelig å se
+flest mulig av dere på måtene.
+
+Jeg ønsker alle lokalforeningene lykke til med arbeidet i høstsemesteret.
+9. september 1993
+Eivind Damsleth
+
+Eivind Damsleth, Norsk Hydro A/S
+P.O.Box 200, 1341 Stabekk, NORWAY
+Tel. (+47)22738160, Fax. (+47)22739991
+Email: damsleth@nho.hydro.com
+
+
+
+Statistik år vål knappast
+det första man tånker på
+
+då man hör namnet Florence Nightingale. Lennart
+Råde
+
+tikel
+
+ar-
+
+tar
+
+i
+
+denna
+
+upp
+
+en
+
+för många
+
+månniskor okånd statistisk
+pionjår — Florence Nightingale.
+
+Den passionerade statistikern
+Låt mig först citera vad en av våra encyklopedier, Bonniers lexikon, har att
+beråtta om henne.
+
+Nightingale, Florence, f. 1820, d. 1910, brittisk sjuksköterska.
+Florence Nightingale genomgick 1851 Th. Fliedners diakonissanstalt i Kaiserswerth i Diisseldorf, varefter hon förestod ett
+kvinnosjukhus i London. Efter Krimkrigets utbrott begav hon
+
+sig 1854 tillsammans med 38 sjuksköterskor till Skutari i Istanbul
+för att leda de allierades sjukvård, vars underhaltighet upprört
+den brittiska opinionen. Tack vare energi och stor organisationstalang lyckades hon trots de militåra myndigheternas motstånd
+genomföra så radikala forbattringar att dödligheten på sjukhuset
+sjönk från 42% till 2%. Sedan tog hon initiativ till Londons första
+sjuksköterskeskola. Florence Nightingales insatser var banbrytande för militår sjukvård liksom för kvinnligt sjukvårdsarbete.
+Den information, som ges hår, år i stort sett korrekt. Men mårkligt nog
+nåmns inget om Florence Nightingales viktiga statistiska insatser. I detta
+
+avseende år inte artikeln ovan unik. Hennes statistiska insatser har förbigåtts
+i de flesta levnadsteckningar av henne. Som bekant har kvinnor med intelektuella ambitioner under tidigare århundraden haft stora svårigheter
+och de har fortfarande svårt att få sina insatser råttvist vårderade. Ofta
+förbises de helt. I förbigående kan nåmnas att i uppslagsverket Å Biographical Dictionary of Scientists (5) upptas ensdast två kvinnor, Marie Curie
+och Iréne Joliot-Curie. T ex omnåmns inte de kvinnliga matematikerna
+Sophie Germain, Sonja Kovalevskij och Emmy Noether. Möjligen kan det
+
+
+
+vara denna instållning, som gjort att man tidigare helt negligerat Florence
+
+Nightingales statistiska insatser. De har emellertid under senare år blivit
+uppmårksammade t ex genom B Cohens uppsats i Scientific American (3)
+och J. Bibbys bok, Notes towards a history of teaching statistics (2).
+
+En pionjår
+Florence Nightingale var pionjår med avseende på att anvånda statistiska
+
+metoder för att analysera och förklara sociala samhållsförhållanden. Redan
+under sitt arbete under Krimkriget insåg hon nyttan av att som argument
+kunna hånvisa till tillforlitliga statistiska data om dödligheten vid de militara
+sjukhusen.
+
+Statistik i mening insamling och sammanstållning av data, som belyser en
+sats förhållanden, har gamla traditioner. Men statistik i meningen analys av
+data för att forklara sociala och ekonomiska förhållanden år av betydligt yn- .
+gre datum. Grundlåggande insatser inom detta område gjordes av den belgiske astronomen A. Quételet (1796-1874), som visade att åven om individu-
+
+ellt månskligt beteende ej kan förutsågas, så kan det göras med avseende på
+vad Quételet kallade ”genomsnittsmånniskan”, lhomme moyen. Quételet år
+
+kand bl a för sin kriminalstatistik från Frankrike för att forklara hur sadana
+faktorer som kön, ålder, utbildning, klimat m m påverkar brottsfrekvensen.
+Fysiken var vid denna tid idealet för en på matematiska metoder och empiriska observationer baserad exakt vetenskap. Dårför kallade Quételet sin
+
+nya vetenskap för ”social fysik”. Florence Nightingale arbetade intensivt
+under några år att få Quételets sociala fysik eller statistik accepterad som
+ett akademiskt åmnesområde vid universiteten i Oxford och Cambridge. J.
+Bibby har beråttat om detta (2). Följande år ett utdrag ur ett brev, som
+Florence Nightingale skriver till Quételet den 8 novmber 1872.
+
+... givetvis år det inte nödvåndigt att informera Er, forfattare,
+skapare och måstare av den statistiska vetenskapen, hur utomordentligt viktigt det år för den engelska lagstiftaren, statsman-
+
+nen eller parlamentsledamoten att redan på ett tidigt stadium
+vid universitetet få bekanta sig med Eder forskning och Edra
+upptåckter. All vetenskap och all praktisk administration bör
+vila på den grund, som Ni skapat, vilket i sin tur kommer att
+leda till nya upptåckter och ny kunskap. Framför allt kan poli-
+
+tiska beslut i ekonomiska frågor endast fattas efter studium av
+”den sociala fysiken”, som Ni har skapat. Otåligt ser jag fram
+
+
+
+emot att denna vetenskap införs vid våra universitet i Oxford och
+Cambridge, framför allt i Oxford, dår de flesta av våra blivande
+statsmån bedriver sina studier ...
+
+Tyvårr var inte Florence Nightingale sårskilt framgångsrik i sin stråvan att
+
+få statistik accepterat som ett låroåmne vid universiteten. Detta gåller
+speciellt med avseende på Oxford, som faktiskt inte fick en professur i statis-
+
+tik förrån år 1948. Cohen framhåller i detta sammanhang i sin uppsats (3),
+att statistik fortfarande inte år allmånt accepterat som ett låroåmne i skol-
+
+undervisningen. Hår år dock Sverige ett undantag.
+
+Florence Nightingale bidrog till statistikens utveckling bl a genom att definiera
+och praktiskt tillåmpa olika dödlighetsmått. Hon var också pionjår med
+avseende på grafiska metoder i statistiken, ett för nårvarande ytterst aktuellt område av denna vetenskap. Hon införde en typ av cirkeldiagram,
+
+som hon kallade ”coxcombs”.
+
+ÆN
+
+Figuren visar ett exempel på
+ett sadant diagram hamtat fran
+
+pe
+
+publikation Notes on Matters Af-
+
+ce
+;
+
+i
+
+Efficiency
+
+and Hospital Administration of
+
+ra
+
+the British Army (1858).
+
+%
+
+\
+
+Den passionerade statistikern
+på
+
+Sith
+
+å:
+
+Florence Nightingales 800-sidiga
+fecting the Health.
+
+ay
+
+.
+
+.
+
+‘e4 Tay |
+
+ONS:
+
+rere
+
+Florence Nightingale har kallats ”den passionerade statistikern” på grund
+av sitt brinnande intresse för statistiska data och anvåndning av statistiska
+metoder. I ett brev till Quételet den 18 november 1872 skriver hon foljande.
+jag måste erkånna att mitt passionerade studium inte år
+baserat på vetenskapliga ambitioner. Det hårrör sig helt och
+
+hållet från mina erfarenheter av månskligt lidande och elånde,
+mina erfarenheter av den stupiditet (jag tvekar inte att såga
+
+så), som utmårker vårt politiska system... ofta ser jag som en
+
+ljusstrimma i mörkret att det enda studium vårt namnet år det,
+vars principer Ni fastlagt.
+
+I USA och Kanada finns ett datornåtverk, till vilket gymnasielårare med intresse för statistikundervisning kan ansluta sina datorer. Nåtverket anvånds
+
+
+
+för utbyte av erfarenheter, lektionsidéer och statistiska data. Nåtverket
+har av dess initiativtagare J. Swift döpts till The Nightingale Network, se
+The Nightingale Data Library and Protocol (4). Vem tar initiativet till ett
+Nightingale Network i Sverige?
+
+Litteratur
+(1)
+(2)
+
+Bonniers lexikon, Artikel om Florence Nightingale.
+J. Bibby, Notes towards a history of teaching statistics,
+John Bibby Books, Edinburgh 1986.
+
+(3)
+
+IB. Cohen, Florence Nightingale, Scientific American.
+
+(4)
+
+J. Swift, The Nightingale Data Library and Protocol. In
+L.Råde-T. Speed (red), Teaching Statistics in the Com-
+
+Mars 1984.
+
+puter Age, Studentliytteratur 1985.
+
+(5)
+
+T.I. Williams, A Biographical Dictionary od Scientists,
+John Wiley, New York 1969.
+
+Lennart Rade
+
+Denna artikel av var tidigare publicerad i tidningen Namnaren 4 (86/87) s
+4-5 och ar har publicerad med tillstand fran Namnarens redaktion.
+
+Sakset fra vårt svenske søsterblad Qvartilen
+med forfatterens tillatelse.
+
+
+
+(2m) +1 = 2m - 1
+
+To kolleger har nylig gjort meg oppmerksom på et interessant “paradox” i sannsynlighetsregning,
+som bl.a. er beskrevet i en bok av Harvard statistikeren Mosteller fra 1965.
+Kort fortalt, lærerlaget i Redwood City har et pensjonsfond. Investeringene gjøres av en
+finansanalytiker som hittil har gjort en rimelig bra jobb. På siste generalforsamling i lærerlaget ble
+det imidlertid foreslått å bruke to analytikere. Dersom disse var uenige om et kjøp eller salg, kunne
+lagets sekretær være oppmann.
+
+Hvis vi antar at det i en gitt situasjon er en korrekt handling, og at hver og en av analytikerne
+anbefaler denne med sannsynlighet p, vil sannsynligheten for korrekt handling med to analytikere
+(som velger uavhengig av hverandre) + oppmann (som randomiserer) være
+
+p2+ 1/2-2p(l-p)=p
+dvs. samme sannsynlighet som med en enkelt analytiker. Lønn til en ekstra analytiker + oppmann
+er derfor bortkastet, dvs. 2+1=1.
+
+Situasjonen kan generaliseres til komite med like antall medlemmer, som uten tap kan reduseres
+
+med en person.
+
+Bevis:
+
+La X, =% korrekte stemmer i komite av størreise? Anta n = 2m. Da er sannsynligheten for korrekt
+flertallsbeslutning
+
+P(X2m
+2 m+1) + 1/2 P(X2m =m) som vi skal vise er lik
+
+P(X2m-1 2 m)
+Hvis vi betinger mhp. resultatet i en fast underkomite av stgrrelse n = 2m-1 blir dette
+
+= P(X2m-1 2m
++ 1) + P(Xom-1 =m) -p
+
++ 1/2 P(X2m-1 = m) - (1-p) + P(X2m-1 = m-1) - p)
+
+= P(X2m-1 2 m) + 1/2 (p - P(X2m-1 = m-1) - (1-p) - P(X2m-1 = m))
+
+Den siste parentes er null ved innsetting i den binomiske formel.
+
+Betraktninger omkring antakelsene uavhengighet og samme sannsynlighet (uavhengig av
+
+komitestørrelse), er interessante, men tas ikke opp her.
+
+Jostein Lillestøl
+
+
+
+Klipp fra RSS News Vol. 20, no. 6, June 1993.
+(Innsendt av Jostein Lillestøl)
+
+On sonnets, riffles and the Wall's Cornetto
+is infinite, both in space and time, then everything that could
+If the universe really
+possibly happen will happen in the fullness of time. Itis well known that if six
+monkeys were to tap at random on the keys of six typewriters for a definite length of
+time they would sooner or later, more probably later, type out a complete Shakespeare
+sonnet, correct in every detail.
+
+One can, perhaps, separate coincidences into three categories. Category 1 is when the
+observed incidence is not unexpected based on randomness but only so in the public
+perception; the birthday problem is the best known example. Category 2 is when the
+probability is very low based on randomness but there is reason to believe nonrandomness in which case the incident would not be unexpected; a remarkable bridge
+hand may fall into this category. Category 3 is where the probability is very low, one
+
+cannot think of any reason for non-randomness and it is necessary to invoke either
+amazing fortune or the existence of an unsuspected, perhaps supernatural, influence
+
+factor.
+
+The most definitive work on the subject to date [is] the excellent article by Persi
+Diaconis and Frederick Mosteller, Methods for studying coincidences, in
+Journal of the American Statistical Association,84, 853-861 (1989).
+Here's one from Olaf Chedzoy of Holford, Somerset:
+
+In May 1991 I purchased a Wall's Cornetto at Porscathro in Cornwall to refresh
+myself after a long walk. I was absolutely astonished to find that when I got outside
+and began to unwrap the paper whichis normally around the cone, there was in fact no
+biscuit content whatsoever: the cone was simply ice-cream. We told the girl in the shop
+who took the line "What do you want me to do about it?". There's not much of an
+answera statistician can give to that, but I marked it down as a quality control outcome
+which I had thought impossible to happen.
+
+'Several weeks later I was in Trondheim, Norway, on a long mid-summer day, and I
+purchased a similar product by Diplom-Is. That did have a biscuit, but it was in fact
+only half a cone's worth of biscuit. I cannot remember having, or knowing anyone
+else who had, a prepacked ice-cream with faults of this nature. The probability of this
+
+must be extremely low; and for them to be sold to a statistician must be even more
+remarkable. Or does it? Perhaps non-statisticians might say "Well, what do you want
+me to do about it?"
+
+
+
+10
+
+Refleksjoner under en statistikk eksamen
+
+Hui, Hei, hvor lett det går
+Lekende fingre, men rotete hår
+Kyllinger på gården?
+Hah! Han "ække" forloren
+Jeg tørker svette på mitt lår
+Jeg tørker svette av min panne
+
+Hvor i verden vil jeg lande?
+Det trykkes no’ på min kalkulator
+
+Men, hmm, hva er en testobservator?
+Jeg får kanskje gå og vanne
+Foran meg, til venstre
+Sitter hun, O orkestre!
+Blikket vandrer
+
+Jeg meg selv klandrer
+Er hun en av Venus’ søstre?
+Wilcoxon's metode
+
+Hva hadde han i hodet?
+Og hva er et konfidensintervall?
+
+Er løsning i bokstaver eller tall?
+Sukk. Hvordan kan jeg dette dekode?
+-
+
+Fort kan variansen
+
+få meg fra balansen
+For meg er det helt i det blå
+hva som er signifikansnivå
+Jeg skjønner ikke dansen.
+Ut fra dette jeg bør skride
+om jeg så må selv få si det
+Selv om jeg er ganske klar
+
+er nok, jeg min uvitenhets far
+Til høsten må det leses i tide!
+Hui, Hei, hvor lett det er
+
+Innsendt av Grete U. Fenstad.
+Del av eksamensbesvarelse
+i ST 001 ved UiO,
+knyttet til en oppgave
+der kyllingför skulle
+
+Lekende fingre, men sure tær
+
+sammenlignes ved en
+
+Kyllinger på gården?
+
+Wilcoxontest.
+
+Hah! Han "ække” forloren
+Jeg tar på mine klær og går
+
+
+
+NATUR OG MILJØ BULLETIN $ NORGES NATURVERNFORBUND
+=P
+
+ETTE
+
+EEE TENT VE
+
+nell
+
+nr —
+
+184-44
+
+Takk for støtten!
+
+Ekspertvurdering:
+
+tev vesta
+
+— Sikkerheten ved Barsebåck
+er for dårlig analysert
+|
+
+forsikring
+
+Professor i pålitelighetsanalyse Bent Natvig
+mener at det svenske atomtilsynet (SKI) har gitt
+tillatelse til oppstart av Barsebåck-verket på et
+
+HORDALAND
+
+tynt grunnlag. -- SKIs vurdering er basert på en
+ren ingeniørkulur, som er helt utilstrekkelig for
+noe så komplisert som et atomkraftverk, sier
+
+FYLKESKOMMUNE
+
+Natvig.
+
+ANDERS GJESVIK
+
+DYNO
+
+før uhellet inntraff.
+— Jeg føler meg ikke beroliget
+av de analyser som SKI baserer
+seg på. Den samlede usikkerheten er alt for stor ved den midlertidige tekniske løsningen ved
+Barsebåck, sier professor Natvig ved Universitetet i Oslo,
+som har vurdert SKIs analyse.
+Direktgr Ole Harbitz ved Statens strålevern vil følge opp
+Natvigs vurdering av SKIs ana-
+
+THORN EMI UTLEIE A/S
+
+lyser.
+— Vi vil ta kontakt med
+Natvig for å sette oss inn i hans
+
+V=
+
+vurderinger. Hvis vi etter en
+gjennomgang av materialet fø-
+
+|TINE
+Vestlandsmeieriet
+
+;
+
+ler behov for det, vil vi ta kontakt med våre svenske og danske kollegaer for å drøfte saken,
+sier Harbitz.
+
+Uhell i fjor
+Ved et uhell ved Barsebåck
+atomkraftverk i juli i fjor ble *
+
+Norsk Romsenter
+CENTRE
+NORWEGIAN SPACE
+
+Råholt Nikkel
+2070 Råholt
+
+Ose grafiske as
+Fra idé til ferdig trykk
+
+Tif. 22 17 34 24
+Fax. 22 17 25 19
+
+hetsnivået skulle tilsvare det
+nivået man trodde man hadde
+
+inntaket av kjølevann tettet av
+isolasjonsmateriale som løsnet.
+
+Bare teknisk vurdering
+Professor Natvig har gått gjennom SKIs analyser av den tekniske modifiseringen. Natvig er
+professor i pålitelighetsanalyse,
+og har spesielt vurdert den
+delen av analysen som kalles
+
+probabilistiske sannsynlighetsbasert sikkerhetsanalyser, PSA.
+Et atomkraftverk er et komplisert system med mange, komponenter, både tekniske og menneskelige. PSA sier. noe om
+sannsynligheten for at hele systemet skal virke på basis av
+sannsynlighetene for at hver
+enkelt komponent virker i systemet. I PSA vurderes også
+hvordan skade på en komponent vil påvirke andre komponenter og hele systemet. Hvis
+en
+menneskelig
+komponent
+ikke fungerer, er det lett å forstå
+at dette kan få følger for bruken
+av teknologien.
+
+— SKIs analyser er i hovedSjef for reaktorsikkerhetsavdelingen i SKI, Lennart Hammer,
+sak basert på en ren ingeniørkarakteriserte uhellet som det
+kultur der man har gjort rene
+alvorligste i svensk atomkrafts
+tekniske vurderinger. Dette er
+historie, og sa at det i verste fall
+tilstrekkelig for et enkelt teknokunne ført til nedsmelting av
+logisk system, men helt uholdbrenselet med påfølgende radibart for et komplisert system
+oaktive utslipp.
+som et atomkraftverk. UsikkerSKI fastslo at faren for en
+heten ved de tekniske vurkjernenedsmelting ved Barsederingene er alt for dårlig analysert og dokumentert ved oppbåck var ti ganger større enn
+man tidligere hadde antatt.
+start av Barsebåck, sier Natvig.
+Den 4.januar i år ga SKI tilla- —
+Natvig mener at SKIs analytelse til at Barsebåck ble startet
+ser er mangefulle på flere områopp igjen etter uhellet i fjor,
+der. Det er ikké gjort tilfredsmed en midlertidig teknisk løsstillende vurderinger av usikning på de alvorlige problemekerhetene knyttet til hvordan
+ne i nødkjølesystemet. Et av
+den tekniske modifikasjonen
+vilkårene for den midlertidige
+innvirker på hele systemet, bare
+driftstillatelsen, var at sikkerhvordan den virker på kjølessy-
+
+. stemet isolert. For de andre sikkerhetssystemene har SKI basert seg på vurderinger som ble
+
+gjort før uhellet inntraff.
+
+— Lite beroligende
+SKIs
+
+analyser
+
+bygger
+
+blant
+
+annet på Swains metode i sin
+vurdering av de menneskelige
+komponenter. Natvig er meget
+skeptisk til denne metoden.
+— Swains metode ser grovt
+sett på mennesker som om de
+var teknologiske komponenter,
+og den overser følelser og
+stressfaktorer. Men mennesker
+oppfører seg helt annerledes
+enn teknologi. Ved Barsebåckuhellet fikk vi demonstrert
+hvordan personalet ikke fulgte
+
+rapporterteringsrutinene.
+Det
+viste hvordan mennesker dekker til hendelelser, og ikke fungerer som de skal i systemet,
+sier Natvig.
+Natvig har nylig vært i kontakt med SKI, og analysen er
+ikke forbedret i løpet av vårhalvåret.
+— Jeg hadde forventet bedre
+dokumentasjon ved oppstart av
+Barsebick i januar. Da var ikke
+grunnlaget for oppstart tilfredsstillende. Et halvt år senere har
+
+ikke SKI lagt fram bedre dokumentasjon, og det er ingen
+grunn til å være mer beroliget
+over driften av Barsebick nå,
+sier Natvig.
+
+
+
+12
+
+Brannstiftersaken i Ås (1).
+
+Et subjektivt forsøk på en objektiv beskrivelse.
+
+Sommeren 1992 hadde brannvesenet det travelt i Ås. Hele 37 lyng- og
+
+skogbranner hadde vi, riktignok bare én av noe særlig størrelse. Etter hvert fikk politiet
+det travelt medå finne en mulig forklaring. Mistanken falt på en spesiell person, selv
+medlem av brannkorpset, som ellers jobbet med veiskraping, klipping av gress i
+veikanter osv langs fylkesveiene, altså en som fartet en god del omkring i kommunen.
+Gjennom vitneutsagn og flere avhør vistet det seg at vedkommende hadde vært i
+nærheten av brannstedene i timene før brann i minst 24 av de 37 tilfellene. Ellers fantes
+det indisier av forskjellig art, men ingen beviser.
+
+Politiet valgte å tenke nytt og dristig. De henvendte seg til Norsk Regnesentral for
+om mulig å få beregnet sannsynligheten for at en person skulle være så hyppig nær
+brannstedene dersom bare tilfeldigheter lå bak. Gjennom dette ble Erik Bølviken koblet
+inn, og avisene begynte å få snusen i det hele som en god historie (se del 2). To uker
+før saken skulle opp i herredsretten fikk så jeg en telefon fra forsvareri saken som
+ønsket at også denne parten skulle bli representert ved en statistiker. Jeg lurte lenge før
+jeg sa ja, men etter å ha sett Erik Bølvikens notat, og skjønte at muligheten burde være
+tilstede for en ryddig og saklig diskusjon, tok jeg oppdraget. Det viktigste motivet mitt
+var prinsippielt: Dette var en så uvanlig form for sakkyndighet i en norsk rettssak at det
+riktigste burde være at begge parter var representert. Da jeg snakket med Erik Bølviken
+like etterpå, så han det på samme måte, og han var glad for at vi ble to om dette.
+Hovedpunktene i Erik Bølvikens notat var som følger: Uansett brann eller ikke
+
+brann er det rimelig at den tiltalte har stoppet og gått ut av bilen enkelte ganger i løpet av
+arbeidsdagen, så også i timene før en brann. Dersom L er den veilengden der en kan
+vente at slike stopp finner sted, og v er samlet veilengde nær et aktuelt brannsted, blir ut
+fra ren symmetri sannsynligheten for at et gitt stopp skal finne sted nær brannstedet
+v/L. Om mannen foretar k stopp i timene før en brann, blir etter Bonferroni
+sannsynligheten for at minst ett av disse skal være nær brannstedet begrenset oppad av
+p=kv/L. Ved konstant p blir da for 37 uavhengige branner sannsynligheten for at
+tiltalte skulle befinne seg nær brann minst 24 ganger begrenset oppad av P=Pr(X224),
+der X er binomial (37,p). En elegant utvidelse som ga mye mer realisme til modellen,
+var å gjøre bruk av Hoeffding's ulikhet (Hoeffding, W.(1956) Ann.Math.Statist. 27,
+713; Boland, P.J. & Proschan, F. (1983) Ann.Probab. 11, 760). Det viser da at en
+får den samme øvre grense for denne sannsynligheten om en tillater p å varierer fra
+brann til brann og erstatter den med en gjennomsnittsverdi i beregningen av den
+binomiske sannsynligheten.
+
+Ut fra dette kan hele problemstillingen formuleres som: et hypotesetestingsproblem
+der nullhypotesen er tiltaltes påstand om ren tilfeldighet, og (en litt konservativ) P-verdi
+for testen er P som definert over. En noe mindre konservativ test fås om vi antar
+
+uavhengighet mellom de k stoppene hver gang. Å bruke Bonferroni i den endelige
+
+versjonen her. var mitt forslag. Bølviken og jeg var enige om at det var bedre å være
+
+
+
+13
+
+konservative enn å gjøre antakelser vi ikke var helt sikre på. I retten kalte vi dette "å
+
+regnei tiltaltes favør". Jeg har inntrykk av at juristene var med på denne tankegangen.
+
+De notatene vi begge utformet for retten var selvfølgelig mest kvalitative og nesten
+uten formler; de nødvendige formlene stod i et appendiks i Bølvikens notat. På samme
+bar den fremstillingen vi hadde muntlig i retten preg av populærforelesninger. Jeg
+mener likevel vi fikk frem de essensielle punktene. Erik Bølviken la frem hovedidéene
+i det som er beskrevet over, og diskuterte så valg av k, v (nå gjennomsnitt/ forventning)
+og L. For v valgte han en relativt sikker øvre grense, og ut fra dette presenterte han en
+tabell over P-verdien, som er gjengitt nedenfor. Et hovedinntrykk er at P er meget
+følsom for hvilke verdier parametrene settes til, noe han også understreket.
+I mitt eget innlegg snakket jeg litt generelt om retrospektive beregninger av
+sannsynligheter, og antydet to former for seleksjon som muligens kunne være tilstede:
+Tiltalte er valgt ut som den som er observert oftest nær brannene, og saken er valgt ut
+for statistikere fordi det som har skjedd ser usannsynlig ut. Jeg gikk så over til å
+snakke om parametrene, og nevnte at det var kommet fram visse ting i saken som
+
+kunne gjøre det rimelig å redusere L fra alle fylkesveiene i Ås (ca. 50 km) til bare
+
+skogsstrekningene (kanskje ned mot 10 km). Som det fremgikk av Bølvikens tabell,
+ville dette få stor betydning for de P-vediene som ble beregnet. Ut fra disse
+betraktningene valgte jeg da å konkludere eksplisitt: "Det ser ut til at det ikke foreligger
+nok opplysninger til at en kan se bort fra en hypotese om at tiltaltes nærvær foran
+branner skyldes ren tilfeldighet."
+
+Vi var altså begge meget forsiktige i innleggene våre, og retten valgte til slutt å følge
+
+opp på samme måte: Tiltalte ble frifunnet fordi indisiene var for svake. Jeg ser på det
+hele på selve denne rettsaken som en positiv opplevelse, og spesielt ser jeg positivt på
+kontakten med juristene her. Både aktor og forsvarer stilte spørsmål som tydet på god
+innsikt. Selv om vi har helt forskjellig bakgrunn, er det på mange måter noe felles
+mellom statistikernes og juristenes måte å tenke på: Ingen av oss vil gå ut med en
+påstand før vi er helt sikre. I neste del kommer kontakten med en tredje, og helt
+forskjellig yrkesgruppe.
+Inge Helland
+
+Anslatt P. Proporsjonalitetsfaktor 2.
+|
+
+L (km) |
+50
+5
+
+1
+
+Gjennomsnittlig antall stopp (4)
+4
+3
+2
+
+|11:10060 mia | i : 10000 mia i 1: 10000 mia!
+
+5
+[på
+
+1:3 mia | 1 : 26 mio
+1:500
+1:24 tus!|
+
+1: 10000 mia |
+
+1:30 mia
+
+1:6 mio
+
+12.5
+
+1:30 mia
+
+1:24 tus
+
+1:34
+
+stor
+
+stor
+
+10
+
+1 : 200; mio
+
+1 1812
+
+stor
+
+stor
+
+stor
+
+Table 2: Sannsynligheter for (minst) 24 av 37. Revidert som angitt
+i brev av 21 juni, 1993 i forhold til presentasjonen 1 retten 17 juni.
+1993. Forkortelser: “mia” for milliard, "mio" for million og “tus”
+for tusen.
+
+|
+
+
+
+14
+
+Brannstiftersaken i Ås (2).
+Pressedekningen.
+
+Om selve saken har vært en grei og positiv opplevelse, har pressedekningen på
+mange måter vært den mest interessante siden, og her er det svært langt mellom det
+positive. For meg har det vært et aldri så lite sjokk å oppleve den enorme forskjellen
+mellom min egen opplevelse av virkeligheten og den virkeligheten som ble presentert i
+pressen. Det er naturlig å tenke på alle de andre tilfellene, der jeg ikke kjenner en annen
+virkelighet enn den som presenteres gjennom pressen. La oss håpe i det lengste at det
+var helt spesielle forhold som gjorde at det meste ble forvridd denne gangen.
+Den største sensasjonsavisen har vært lokalavisen Østlandets Blad, som i god tid
+før rettsaken skrudde opp forventningen om at nå skulle et "mattegeni" ta knekken på ~
+tilltalte. Jeg må innrømme at irritasjonen over disse overskriftene - som bortsett fra
+spørsmålet om hva slike betegnelser betyr, også kunne tolkes som en kraftig
+forhåndsprosedyre mot tiltalte - nok spilte en viss rolle da jeg sa ja til å representere
+forsvarersiden.
+
+Så kom dagen vår i retten. Som sagt konkluderte vi begge forsiktig, Erik Bølviken
+ved å legge frem en tabell som vist på forrige side, slik at retten på egen hånd kunne ta
+stilling til parameterverdiene. Dette tror jeg også at retten gjorde. Men hva gjorde
+pressen? Østlandets Blad plukket opp et interessant tall fra øvre venstre hjørne av
+tabellen, slo det opp på første side og fant en fengende tittel. Slikt selger. Forøvrig
+forteller forsvareren meg at denne journalisten var ute under mitt innlegg, for han måtte
+rekke deadline.
+
+Den andre lokalavisen, Akershus Amtstidende, er mer moderat i omtalen, men kan
+heller ikke dy seg for en slående overskrift. Jeg tar med notisen i Aftenposten nærmest
+som en kuriositet. De har fått sannsynligheten snudd opp ned, og forteller at "tiltalte
+stilte med egen matematiker." Jeg har aldri truffet tiltalte utenom den ene dageni retten.
+
+Etter tonen i hele denne omtalen må selvfølgelig frifinnelsesdommen oppfattes som
+et knusende nederlag for statistikerne. Det skulle være klart at jeg oppfatter det ikke
+slik, og jeg er ganske sikker på at Erik Bølviken heller ikke gjør det. Likevel kunne
+enkelte meldinger meget lett oppfattes på denne måten, blant annet nyheten i
+Østlandsendingen dagen etter dommen.
+
+Hva gjør man etter noe slikt? Skriver sinte leserinnlegg i avisene? Etter å ha tenkt en
+del på dette, har jeg kommet til at jeg vil begrense mitt innlegg til det eneste organet som
+
+etter mitt syn er mulig å få en seriøs debatt i denne typen saker, nemlig TG.
+Til slutt enda en kuriositet: Før dommen falt fikk jeg telefon fra radio Oslo, som
+ville ha et intervju, samt en telefon fra VG, som ville ha regnet på en sannsynlighet for
+
+å observere biler med fortløpende bilnummer etter hverandre. Etter at dommen falt, har
+jeg ikke hørt noe mer fra noen av disse. Personlig er jeg lykkelig for dette, men kan
+ikke fri mer for tanken om at det faller inn i mønsteret, et mønster som vel er velkjent
+også fra andre sammenhenger: En statistiker er interessant bare i den utstrekning han
+eller hun produserer små P-verdier.
+
+Inge Helland
+
+
+
+15
+
+TORSDAG
+17. JUN!
+
+1993
+—
+NR. 113
+
+86. ÅRGANG
+LØSSALG: KR 8,-
+
+As-mann Si
+
+Kies
+Orr brannser
+ie ot
+
+: Det kan ikke være tilfeldig
+- at
+
+brannmannen var på
+
+“te varmetenalknidiessor
+
+brannstedene forut for: |
+brannene. Sjansen for
+
+Erik Bølvikens konklusjon da
+
+rettssaken om Ås-brannene
+
+|- fortsatte i dag. Bevisene for
+
+\ å ha vært der-og da- | øvrig er magre. ip nel om
+.er i verste fall en til ti. | tall avgjør i retten. ae
+tusen milliarder. Det|)
+- SIDE 4-5.
+
+
+
+siste
+
+på vekt
+
+gått
+
+som
+
+£den
+brannutbrud
+
+mel om
+
+angivelig
+
+skjed:
+
+hbranner,
+Iskul e
+
+ki Kristiansen
+
+fire
+
+sine
+tiltalte
+
+Forsvarer
+
+tal ene
+
+som
+
+punktene
+
+ler
+
+med
+
+vil De
+
+under
+
+på tent
+mens
+
+ningene
+
+rester
+
+for
+
+skjønn,
+
+blir som
+Og tallgrunnlaget.
+fra spørsmål
+
+er stearinlys
+tent
+har
+
+etter
+
+tids-
+
+avgjør
+
+var
+
+legge
+også
+og stedeværelse
+
+spaningen,
+
+David
+
+innlagte
+
+for
+
+en
+
+model
+
+teknisk
+
+Hz forutsetninger.
+
+slik
+
+bruke
+
+Bølviken.
+
+disksjonen
+
+tiltalte
+
+alibi
+
+Brannmannen
+
+rekke
+
+må
+
+som
+har
+
+har
+
+noe
+Ingen
+
+man
+
+på
+
+alt
+
+understreket
+
+Men
+
+denne
+er det
+om
+forsvarer
+en fikk
+Han
+
+retten
+
+To helst.
+at sett
+
+av funnet
+
+har
+
+>
+
+—
+
+viktig.
+
+han
+
+BTwon
+
+ee
+E E tev
+EEL 2 kotaEFE
+&
+
+ESS
+
+:
+
+BQ
+
+duell
+
+skogs-
+
+fordel.
+
+at han
+
+gjorde
+
+Sr
+nagSss
+=
+
+for
+
+da; det
+i
+
+OSes
+
+o£
+
+Cn
+BES
+
+5
+
+aSten oO
+
+inn til tiltaltes
+på 50 kilometer
+
+muligheten
+
+(8s i PEELE: od EE
+3 LESTE
+, efsgeee EH SE 3
+
+Peers
+AWE DEVED
+
+oO = =o
+
+PETS EEE
+
+yg om
+
+tons ©
+
+EPEE
+
+ESOS
+3a 2.22[=
+
+GERwMVO
+
+Sve tr
+åS Taygages72nY7 m=O SS 25°83
+Xx oe
+wo
+EGO
+
+95QD
+
+welteS
+
+5=
+
+2 Sz
+
+virker
+
+aS
+
+<
+
+fz]oma
+
+ps ses szse Q
+SEb
+se
+SHPRASTS
+DA
+segcl
+v
+ot
+y
+Ser
+OM
+oo
+Qu
+gum
+esr Eon SSeS
+
+OG
+
+ER =
+
+kon-
+
+skal
+
+HHS
+
+mindre
+
+at det
+
+og beregninger
+
+være
+skul e
+på forhånd.
+
+sine
+
+frem
+
+sor
+
+være
+
+for
+
+øker
+
+On
+
+tilfeldig
+
+må
+
+veilengde
+
+stopp
+
+Da
+
+Qo
+
+til 100.000
+
+Helland.
+
+først
+
+CSHeCUVSCESZ
+
+en
+
+at sjansen
+
+Inge
+
+redegjorde
+
+om-
+
+la
+
+for at tiltalte
+bran stedene
+nær
+
+om
+
+enn
+
+sier
+
+Bølviken
+
+as
+
+andre
+
+til san synsynlighet
+
+nok
+
+Eirik
+
+pai
+
+fikk
+
+Hel and
+
+Bølviken
+
+PEL
+Frosh= dbugd
+eoeseyESees
+
+på Mangel
+Erik
+
+brannsaken
+
+Inge
+
+Erik
+
+a ESLne
+
+Her edsret
+
+iunder
+
+vitne
+
+PTR GT
+
+for
+
+Ås. ibran saken
+professorene
+
+Fol o
+
+med
+
+Indre
+
+åfølge
+
+Sakkyndig
+
+og sakkyndig
+
+idag.
+
+SaaS
+
+Kristi ansen. Saken ven-
+
+tes å vare til førstk
+|
+
+tall
+
+gjør
+
+mel om
+
+tall.
+
+og ma-
+
+SGRLS S ELE SEAS ERS
+
+mende torsdag.
+|
+
+eviser
+
+ijore
+
+Profes
+
+mange
+-
+
+‘
+
+Jiskusjon
+
+brøker
+
+el.
+HANSEN(foto)
+
+kurver,
+
+Å
+EIR
+
+ibel er,
+
+<i: To profes orer
+
+187
+
+pa)å
+
+16
+
+
+
+appH
+
+JØIG
+
+suapajsu esq
+
+pow
+UD!DYTI]
+
+uayesyar
+
+PIA
+
+ENN
+
+owwes
+
+ALIS
+
+19 198949
+
+J9J0HSJ0AU
+
+|
+
+OL
+
+-ny
+
+ddo
+
+auauurIq
+
+jn -uAsuues
+-UBWUURIQ
+
+ypuns
+
+Poa
+oGup
+
+Bo 919 19e]
+
+OGINNIT
+
+“JOPADY
+
+Sep
+
+IYYUSHEIS
+
+INI]
+
+|pWOj
+B ud
+10J JE UDP 9)]2)[1)
+
+'91 0]S1YSNI1
+
+VIDN|
+
+JOSSIJOIG
+*djoysøysynsqpur]
+
+IN — ALS
+
+Jap
+
+23 aus
+soadoN
+
+HYNSHEIS
+
+”PUEJIH
+
+YSYEW
+
+UN IN IYssOU
+
+AY
+
+114
+
+I
+
+BSBO
+
+FO 313OY
+
+ddojs
+uouuew
+
+19
+ud
+
+20U
+
+oFurw
+
+BUIUYI JSIDA
+
+JO
+
+UBL
+J94319d0
+
+paw
+je -uueiq
+ae ua Giuea
+-1e
+
+asuew
+
+HOYYISN
+JOAY
+
+-s80ys
+
+19j2wop
+JO ISY “OUNUIWOY
+
+uey 2U821
+JØP Ijody}
+
+Bury
+JOAY
+19A JIP YSIYEJ
+
+31
+
+:UDdJI]
+
+ING
+
+UD
+
+Ae JO|[EJIN
+
+[Jf
+
+12 12q
+
+DUIBuUIUFaL
+BO UI JYØU
+
+SPUDUUIAS
+
+dey I— UIYUIQ
+
+“JOISIPUL
+
+9YSJDA
+
+NUYS
+g
+
+-[1 10J JayyAjsoudas
+
+gd asjaræArap
+
+JOY
+
+UBY DYY!
+Ip JOUDW
+
+Jd UDLIODJ-SJOYGIP[DJ
+Bo dypapuajswo
+
+HBAS
+
+BJ BWO
+
+19 Jp
+
+aYYN[DIN
+dwoy
+
+IYSISNEIS
+
+IJ1[
+
+34198
+
+18
+
+Host
+
+-[941N
+-9Q.
+
+-UURS
+
+-UI YOU
+
+AQUI
+
+ye wey
+
+S9YEINN
+
+-gd ps 13 ouapajsu esq
+
+-9)SJ1
+
+spussnuy
+"Biuks
+auapajsu esq
+abu
+
+Old
+
+pueljay
+
+JOSSAY
+
+yz
+
+PAA US
+Bo JOPe
+
+UaXIAJØG
+
+J8J9JEISUOX
+JAH
+“© 'XIAAG
+
+JU) 0] (‘YJ
+19YÖIPJEJ N
+puos
+
+'gj[e)
+
+IJPUILI
+
+Udy
+
+POW
+
+128391
+
+JB JAS
+
+UUDd
+
+U9
+
+ut
+
+uaji]
+
+103
+
+asuels
+
+STAY
+
+Sipjay[y
+
+'uapaL
+
+gu DIVA
+
+WO
+
+PIABG
+
+je
+
+gd UF |1) ua
+19 op EJJE
+ua -3a]
+
+JAJEASIOJ
+
+Ja 291u3
+
+gd Jopa]s
+19 QO0'00]
+
+das
+
+JOJ JE UDUULUIUULIG
+
+281pu£yyes
+
+BO ueYy apua
+‘asuels
+JOJIIG
+dY[IAY
+19Fuujasyno)
+
+JE JOP
+UaWWeS
+
+49 “SIPfoy]N
+
+sey Ipjoyddo
+
+Uasuels
+
+ag
+
+Ja] YSHEWILIP
+sjapuasny
+LJaWO
+
+a5J21
+
+19 UeY
+
+[HIO
+UIFULIE
+AB SJAJEJONYE
+UD Jey NIS
+BO JUDSJAJENN
+11Q J EJUIS
+
+JIJEWSIØdSP[ÅYS
+
+UBSUBNSIY
+
+10 JE aj|el N
+
+194915
+
+ed
+USWWOP
+
+‘soip[dae
+
+JOSSajold
+
+|EYS
+
+ed
+
+[EJ DJ
+
+Bas
+
+L1J ap adipuAyyes
+19 12
+19JS 31524 WOY "p)1Y
+-Buy
+dj eNN
+3uWI)
+gd “quueig
+E1J DUIIYNEWIJELU
+UEY
+JEU
+
+)pjoyddo
+
+jeys
+
+'(‘A‘})
+
+sey
+
+3404
+
+IWOp-3}jVUl
+
+apuajeg
+
+Ud}Jal
+
+UaLIHAN
+
+17
+
+
+
+18
+
+Ip av blant annet sannsynlighetsberegning ville politiet gi den branntiltalte brann- - ,
+
+mannen ti måneder bak fengselsmurene. Retten ville det annerledes, og i går ble han fri
+
+Ås.
+i er
+kjent for 32 brann
+|
+
+—
+
+Reg.
+
+ARNE INGMAR EGGEN
+SKI: Den enstemmige dommen |
+i Indre Follo herredsrett er uten '
+tvil et knusende nederlag for politiet. — Jeg tar dommen til etterretning, sier aktor i saken, politiadjutant Trond Dyvik til ØB. Ut- |
+over dette vil han ikke kom-!|
+mentere dommen, men opplyser |
+at det er statsadvokaten som må
+ta stilling til om saken skal ankes
+inn for lagmannsretten.
+
+Skeptisk
+Etter det ØB har grunn til å tro |
+
+er det en viss mulighet for at sa- |
+
+ken vil bli anket inn for lag- |
+mannsretten. I denne konkrete |
+saken var sannsynlighetsbereg- |
+ning et av politiets viktigste «beviser», og det kan derfor være interesse for å prøve den helt frem
+til høyesterett. — Kan statistisk
+sannsynlighetsberegning bidra
+til avgjørende visshet? spør herredsrettsjustituarius i den oppsiktsvekkende dommen i Indre
+Follo herredsrett. Selv om dom-
+
+meren ikke svarer et konkret
+
+«nei» på dette spørsmålet, går det likevel klart frem av dommen
+at retten var svært skeptisk til
+
+dette indisiet.
+
+Ingen bevis
+
+Indre Follo herredsrett har bitt
+
+seg merke i at 43-åringen oppholdt seg i en slik nærhet av de aller fleste brannene at han kun- ne ha rukket å anstifte dem. Under rettssaken kom det også
+frem en rekke andre forhold som
+kunne knyttet 43-åringen til bran-
+
+nene. — Retten mener blant annet
+
+på grunnlgg av vitneforklaringer
+
+at tiltalte bevisst har forklart seg
+
+uriktig om hvor han har befun-
+
+net seg og hva han har foretatt
+seg i tiden forut for flere av brannene. Det kan se ut som om han
+har følt behov for å «skape avstand» mellom seg og brannene.
+Ved sine «glidende» forklaringer
+har tiltalte i vesentlig grad styrket grunnlaget for mistanken
+mot ham, skriver retten.
+
+rikjent -—
+
+7 UTGA
+
+Gi
+
+lat
+
+-
+
+.
+
+Men retten har også merket segl |
+
+at politiet ved flere pee
+
+‘spanet pa 43-åringenU,
+
+al |
+|
+
+man klarte 4 styrke mistanken |
+mot ham. — Det er påfallende at
+‘de fåtallige vitner som er ført for
+
+|
+
+|
+
+obå fortelle hvor og når de herham
+satt
+har
+e
+bar
+lte
+tilta
+t
+server
+kom-
+
+i og ved kjøretøyet sitt,
+menterer retten. Ettersom de
+fleste brannene skal ha oppstått
+et godt stykke fra det stedet som
+
+- det var naturlig å parkere, har
+ingen sett et tomt kjøretøy.
+
+~ Retten finner — etter en sam- |
+
+let vurdering av bevisene i saken |
+— at det ikke med nødvendig sikkerhet kan konstateres at tiltalte
+har anstiftet samtlige branner et
+ler noen enkelt av dem, konklu- |
+derer Indre Follo herredsrett. |
+partane
+
+STATEN,
+
+BEL
+
+
+
+19
+
+Konferanse-oversikt, Fra Amstat News August-September 1993.
+Michael R. Stoline, Department of Mathematics and Statistics, Western Michigan University, Kalamazoo, MI 49008-5152; telephone
+
+SEPTEMBER 1993
+
+21-24—14th Meeting of International Society for Clinical Biostatistics, Cambridge,
+United Kingdom.
+The International Society for Clinical Biostatistics
+
+was founded in 1978 to stimulate research on
+the principles and methodology used in the
+design and analysis of clinical research; to increase
+the relevance of statistical theory to the real world
+of clinical medicine, and to provide a common
+forum for the exchange of knowledge, experience, and ideas among clinicians, statisticians,
+epidemiologists, clinical pharmacologists, and
+members of related disciplines. A preliminary
+program and call for abstracts will be available
+
+shortly. Information from Meeting Secretariat,
+ISCB14, 42 Devonshire Rd., Cambridge, CB1
+2BL, United Kingdom; phone: +223 323437;
+
+fax: +233 460396.
+
+27-October 1—STATISTICS ‘93, Wollongong, NSW, Australia.
+Incorporating STATCOMP ‘93 and sponsored
+
+by the Statistical Society of Australia and the
+International Association for Statistical Computing. For information, contact: Statistics
+‘93 Conference, Secretary, Mathematics Dept.,
+University of Wollongong, Northfields
+Avenue, Wollongong NSW 2522, Australia;
+
+e-mail: statconf@uow.edu.au; fax: (61 42) 214845.
+
+MM 1—45th Annual Conference on Quality
+
+set, NJ.
+Sponsored by the Metropolitan Section of
+
+the American Society for Quality Control.
+For more information, please contact Ed
+Warner at (908) 820-6988 or fax your
+request to (908) 820-6410.
+
+WH 1-2—Some Medical Uses of Statis-
+
+tics, College Station, TX.
+A short course sponsored by ASA and the
+Southeast Texas Chapter of ASA. John C. Bailar
+Ill and Frederick Mosteller will focus on using
+
+Statistics as a tool to aid scientific inference and
+medical decision making. The course, based on
+the presenters’ book Medical Uses of Statistics, is
+
+designed for persons who have some background in the medical and health sciences and
+
+find a need to be knowledgeable about the concepts and terminology of statistics. For infor-
+
+mation, contact: Office of Continuing Education, ASA, 1429 Duke St., Alexandria, VA
+
+22314-3402; phone: (703) 684-1221; fax:
+(703) 684-2037, e-mail: traceyQasa.mhs.compuserve.com.
+
+v 6-8—Second Great Lakes Symposium,
+Kalamazoo, MI.
+The topic will be “medical statistics.” Jointly
+sponsored by Western Michigan University
+and The Upjohn Company. Co-sponsored by
+the Biopharmaceutical Section of ASA. A partial list of conference speakers includes Tom
+Robert
+
+MM 8—Third Merck-Temple Conference
+on Research Topics in Pharmaceutical
+Statistics, Philadelphia, PA.
+
+Speakers are: Mitchell Gail, Barbara McKnight,
+Dirk Moore, Louise Ryan, Keith Soper. Discussant: Shein-Chung Chow. For information, contact Boris Iglewicz, Conference Coordinator, at
+(215) 204-8637.
+
+9-11—Second Workshop on Case Studies
+of Bayesian Statistics in Science and Tech-
+
+nology, Pittsburgh, PA.
+
+Participants will present and discuss in depth
+a select set of substantial applications of
+Bayesian Statistics to problems in science and
+technology. Additional information may be
+obtained by contacting Rob Kass, Bayes Workshop, Dept. of Statistics, Carnegie Mellon University, Pittsburgh, PA 15213-3890; e-mail:
+kass@stat.cmu.edu; phone: (412) 268-2718;
+fax: (412) 268-7828.
+
+10-11—Second Annual Meeting of the International Genetic Epidemiology Society, New
+Orleans, LA.
+
+Begins with a joint symposium with the American Society of Human Genetics on "Genetic &
+
+Louisiana State University Medical Center Foun-
+
+Control and Statistics in Industry, Somer-
+
+Hettmansperger,
+
+the related story in the April issue.
+
+Environmental Aspects of Disease.” For further
+information and abstract forms, please contact:
+
+OCTOBER 1993
+
+/
+
+(616) 387-4540, (616) 387-4511; Fax: (616)
+387-4530; e-mail: morrison@wmich.edu. See
+
+Hogg,
+
+Stanley
+
+Lemeshow, Ingram Olkin, David Salsburg,
+
+Charles Sampson, and Randy Spoeri. Contributed papers are invited. For information
+
+on attending or submitting a paper, contact
+
+dation, Division of Professional Education, 433
+Bolivar St., New Orleans, LA 70112; (504) 568-
+
+28-29—International Seminar on Skilled
+and Highly Skilled Migration, Latina (near
+Rome), Italy.
+For more information on the program and
+topics, contact: Prof. Enrico Todisco, Universita di Roma “La Sapienza,” Facolta di Economia e Commercio, Dip. Studi Geoeconomici,
+Statistici, Storici, Via del Castro Laurenziano
+9, 00161 Roma, Italy; telephone: 0039-6-.
+49766252; fax: 0039-6-4957606.
+28-30—Clinical Trials in Oncology:
+Improving Their Design and Analysis,
+Toronto, Ontario, Canada.
+Sponsored by the Dept. of Continuing Education, University of Toronto Faculty of Medicine.
+Study credits: AMA Category I, MOCOMP Type
+II. For further information, contact: Continuing
+Education, Faculty of Medicine, University of
+Toronto, Medical Sciences Building, Toronto,
+Ontario, Canada M5S 1A8; telephone: (416)
+
+978-2719, fax: (416) 971-2200.
+29-Taguchi Methods Executive Briefings,
+Raleigh, NC.
+Sponsored by the North Carolina Quality Leadership Foundation and North Carolina State
+University. Genichi Taguchi and Jim Wilkins
+review how to use small scale experiments to
+teduce variability and find cost-effective, robust
+designs to develop flexible technology, and to
+reduce research, development, and delivery
+time. For information, contact Johanna Rose,
+Seminar Works, Inc., at (800) 545-7874.
+29-30—1993 Mathematical Sciences Department Chairs Colloquium, Arlington, VA.
+
+Sponsored by the Board on Mathematical Sci-
+
+3712; fax: (504) 568-3460.
+
+ences of the National Academy of Sciences. This
+
+/ 14-15—37th Annual Fall Technical Conference, Rochester, NY.
+
+Sciences in the University and Society.” The goal
+
+Cosponsored by ASAs Section on Physical and
+Engineering Sciences (SPES) and the Chemical
+and Process Industries Division and Statistics
+Division of the American Society for Quality Control. The theme for the 1993 conference is
+
+“Developing Continuous Improvement Through
+Statistics.” For more information, contact any of
+the program chairs: Christopher Nachtsheim of
+SPES, (612) 624-1077; StevenJ.Czamiak of the
+Chemical and Process Industries Division, (716)
+
+years theme is “The Role of the Mathematical
+
+of the Colloquium is to provide department
+chairs and candidates for appointment as chairs
+with current information on the topics that they
+encounter in their research and education management activities. Brochures with a preliminary
+
+program were sent to department chairs in May.
+
+For further information, contact: Board on Mathematical Sciences, National Research Council,
+Room NAS 315, 2101 Constitution Avenue,
+N.W, Washington, DC 20418; phone: (202)
+
+334-2421; fax: (202) 334-1597; e-mail: (internet)
+
+722-1959; or Ralph St. John of the Statistics Divi-
+
+sion, (419) 372-8098.
+
+bms@nas.edu, (bitnet) bms@nas. Please see the
+related story in this issue.
+'
+
+MM 15—Census Alumni Reunion, Suitland,
+
+NOVEMBER 1993
+
+MD.
+
+Open to former Census Bureau employees.
+
+Sponsored by the Census Alumni Association.
+CAA President Jack Keane will serve as master
+
+of ceremonies; longtime employee Milton Kauf-
+
+man will speak. For information, call Bob
+Voight, (703) 524-8446. See the related article
+in this issue.
+
+19-Taguchi Methods Executive Briefings,
+
+Blountville, TN.
+
+Sponsored by Quality First and the National Center for Quality. Genichi Taguchi and Jim Wilkins
+
+1-4—HERL Symposium on Biological Mechanisms and Quantitative Risk Assessment,
+
+Research Triangle Park, NC.
+Sponsored by the Health Effects Research Laboratory of the U.S. Environmental Protection Agency. The symposium will focus on the role of biological mechanisms research in future risk
+assessment strategies. The role of mathematical
+
+models of biological systems in integrating
+research activities and reducing uncertainties in
+the risk assessment process will be discussed. An
+
+review how to use small scale experiments to
+
+opportunity will be provided for presenting
+
+reduce research, development, and delivery time.
+For information, contact Johanna Rose, Seminar
+
+of abstracts, contact: HERL Symposium, Research
+
+reduce variability and find cost-effective, robust
+designs to develop flexible technology, and to
+Works, Inc., at (800) 545-7874.
+
+posters on topics related to the theme of the symposium. For more information or for submission
+
+and Evaluation Associates, Inc., Suite 590, 100
+Europa Dr., Chapel Hill, NC 27514; telephone:
+
+(919) 968-4961; fax: (919) 967-4098.
+
+.
+
+
+
+20
+MM 6—Conference on Statistics Education
+in Management and Technology, Troy, NY.
+
+To mark the 65th birthday of Professor John W.
+
+Human Beings; Epidemiological Studies: Relevance, Reliability, and Utility; Environmental
+Studies: Ecological Perspectives, Genetics and
+Biotechnology: Ethical and Scientific Issues,
+Population Studies: Socio-Economic and Public
+Health Aspects. There will be several sessions
+for contributed papers. To be included on the
+list to receive further announcements, please
+
+industrial and academic sources. Abstracts of
+
+NOTE NEW DATES & ABSTRACT SUBMISSION DEADLINE. Abstract submission dead-
+
+by September 1, 1993. It is our intention to
+publish selected papers in a conference pro-
+
+pants will be limited. Contacts: David Giles,
+Economics, University of Canterbury,
+
+(518) 276-8227; Phone: (518) 276-6622:
+E-mail: willet@rpi.edu. See the related article
+
+364-2308; fax: +64-3-364-2635; e-mail:
+d.giles@csc.canterbury.ac.nz; or Kenneth
+White, Economics, University of British
+Columbia, Vancouver, B.C. V6T 1Z1 Canada;
+phone: (604) 822-5062; fax: (604) 822-9299;
+e-mail: shazam@unixg.ubc.ca.
+
+HM 6—Frank Proschan Festivities, Tallahassee, FL.
+
+13-17—Statistics in Ecology and Environmental Monitoring, Dunedin, New Zealand.
+
+NC 27707, USA.
+
+To be held at the University of Otago. As well
+as invited and contributed papers, there will be
+
+Delhi, India
+
+Wilkinson. Submissions welcomed from both
+
+no more than 200 words should be submitted
+
+line is June 1, 1993. The number of partici-
+
+ceedings. Send abstracts and inquiries to Prof.
+Thomas R. Willemain, DSES, Rensselaer Polytechnic Institute, Troy, NY 12180-3590; Fax:
+
+Christchurch, New Zealand; phone: +64-3-
+
+in this issue.
+
+Designed to honor Frank Proschan of Florida
+
+State University. The Festivities will consist
+
+reminiscences by invited friends and colleagu
+
+of
+es
+
+of Professor Proschan, beginning at 1:30 p.m.
+
+In the evening, there will be a reception and
+banquet. The organizers are also preparing a
+book of letters of appreciation. If you would
+
+like to contribute a letter, please send it unfolded
+by October 15 to Prof. Xufeng Niu, Department
+
+of Statistics, Florida State University, Tallahassee, Florida, 32306-3033. For more informa-
+
+tion about the Festivities, please contact Dr.
+
+Niu via e-mail at niu@stat.fsu.edu. See the relat-
+
+ed article in this issue.
+
+2-+—Taguchi Symposium, Costa Mesa, CA.
+
+Sponsored by the University of Toledo, Ameri-
+
+can Supplier Institute, and Eastman Kodak.
+Symposium will include one-on-one discussi
+ons
+
+with Genichi Taguchi and keynote address by
+Charles Dygert; international case studies; intro-
+
+ductory and advanced tutorials; and presenta-
+
+tion of the Taguchi Award. For information, call
+
+Johanna Rose, Seminar Works, (800) 545-7874.
+17-19—tighth
+
+National Conference on
+Disease Prevention and Control,
+
+Chronic
+
+Kansas City. MO.
+per
+
+fer
+
+ord by
+
+nere
+
+the
+
+Centers for Disease Control.
+
+intormation,
+
+contact: Jack
+
+Friel,
+
+“CCOPHP Centers for Disease Control
+, 4770
+
+batord Highway
+
+NE, Mailstop K-43, Atlanta,
+
+tk
+
+WS EL
+
+0404) 488-5390; fax: (404)
+
+INK.
+
+9015)
+
+3:24
+
+DECEMBER 1993
+\pplicd Siatistics, Atlantic City, NJ.
+
+ters Biopharmaceutical Section of ASA
+Nhe Mi troapolran Section and Statistics Divi-
+
+fe
+Hie
+
+American Society for Quality Con-
+
+cnicrence will present new techniques
+
+satistical applications in the biological,
+
+pharmaceutical
+©
+
+and quality control fields. Two
+
+iraneceustwo-day short courses will
+
+'
+
+rv
+
+be pre-
+
+becember 16 and 17, immediately
+'
+
+“erence The W Edwards Dem-
+
+: - «Hence in the Application of
+«
+soe
+
+pivsented. Please see the pro01 Amstat News. More infor-
+
+Vitser Young, Medical Research
+
+ran Cyanamid, Building 60,
+Been
+
+a
+
+Peary River. NY 10965; (914) 732-
+
+13-15 --Second International Confere
+nce on
+
+Finance Econometrics, Queenstown, New
+Zealand.
+
+invited participants who have agreed to speak.
+For further information, contact: Centre for
+Applications of Statistics and Mathematics, University of Otago, PO. Box 56, Dunedin, New
+Zealand; telephone: (03) 479 7774; fax: (03)
+479 8427; e-mail: CASM@math.otago.ac.nz.
+See the related article in the April issue.
+
+17-19—Second ICSA Conference in Statistical Research & Applications and the 1993
+Taipei International Statistical Symposium,
+Taipei, Taiwan.
+
+,
+
+Held jointly. Sponsored by the International
+Chinese Statistical Association. In addition to
+the conferences, there will be three tutorial sessions on December 16; these will be on Survey
+Methodology; Industrial Statistics: TQM & SPC;
+and Biostatistics. For more information, contact
+Smiley W. Cheng, Conference Coordinator,
+Dept. of Statistics, University of Manitoba, Winnipeg, Manitoba, Canada R3T 2N2; phone:
+(204) 474-6274; fax: (204) 275-5011; e-mail:
+SWCHENG@CCM.UMANITOBA.CA.
+
+1994
+JANUARY 1994
+
+/ MB! 3-1 5—+49th Annual Conference on
+
+haat the
+
+a number of workshop-style sessions, during
+which emphasis will be placed on two themes:
+Modeling Ecological Populations; and Environmental Monitoring. Richard Cormack (Scotland) and Roger Green (Canada) are among the
+
+/ 7-9—1994 ASA Winter Conference,
+Atlanta, GA.
+This year's theme is “Total Quality Management” and the Program Chair is Robert V.
+Hogg, University of lowa. There will be both
+invited and contributed paper sessions. For
+
+more information, contact: ASA Meetings
+Dept., 1429 Duke St., Alexandria, VA 22314-
+
+3402; telephone: (703) 684-1221, fax: (703)
+684-2037; e-mail: MEETINGS@ASA.MHS.
+COMPUSERVE.COM. Please see the April and
+May 1993 issues of Amstat News for the
+abstract form.
+
+9-12—International Conference on Statis-
+
+tics and the Quality of Life: A Third World
+
+Perspective, Luxor, Egypt.
+
+The following topics will be addressed: Medical
+Studies and Clinical Trials: Experiments with
+Amstat News i August-September 1993
+
+contact: PK. Sen, Dept. of Biostatistics, University of North Carolina, Chapel Hill, NC 27599
+USA, or Ibrahim A. Salama, School of Business,
+North Carolina Central University, Durham,
+
+10-12—Conference on Stochastic Modeling,
+
+Topics include: Problems in Stochastic Modeling such as Queues; Inventories, Population;
+
+Communication; Environment; Statistical Inference; and Numerical approximation. For information, contact one of the the conference chairs:
+J.L. Jain, Head of the Department of Operational
+
+Research, University of Delhi, Delhi-110007,
+India; or S.G. Mohanty, Department of Mathematics and Statistics, McMaster University,
+Hamilton, Ontario, Canada, L8S 4K1 Fax: (416)
+522-0935, e-mail: mohanty@.mcmail.cis.
+
+mcmaster.ca. Immediately followed by Third
+International Conference on Lattice Path Com-
+
+binatorics and Applications.
+12-15—Joint
+
+Mathematics
+
+Meetings,
+
+Cincinnati, OH.
+
+Including the annual meetings of the American
+
+Mathematical Society and the Mathematical
+
+Association of America. For information, contact
+H.Daly, AMS, PO. Box 6887, Providence Ri
+02940.
+
+12-14—Third International Conference on
+Lattice Path Combinatorics and Applica
+
+tions, Delhi, India.
+
+.
+
+Topics include related topics such as Plane
+Partitions; q-Calculus; Orthogonal Polynomi:
+als; Random Walk; Nonparametric Inference
+Discrete Distributions; Trees; Analysis of Algo:
+rithms; and Applications. For informatior
+contact either of the conference chairs: Kanwa:
+
+Sen, Head of the Department of Statistics, Uni
+versity of Delhi, Delhi-110007, India; or S.G
+Mohanty, Department of Mathematics anc
+Statistics, McMaster University, Hamilton
+Ontario, Canada, L8S 4K1 Fax: (416
+522-0935, e-mail: mohanty@.mcmail.cis
+mcmaster.ca. This conference is immediatel:
+preceded by the Conference on Stochasti:
+Modeling, also held in Delhi.
+
+FEBRUARY 1994
+18-23—AAAS Annual Meeting, San Francis
+co, CA.
+
+Sponsored by the American Association for th
+Advancement of Science. Preliminary (invited
+program ready in fall 1993. For informatio!
+on registration or submitting a poster paper c
+
+oral presentation, contact the AAAS Meeting
+Office, 1333 H St., NW, Washington, Di
+20005; phone: (202) 326-6450; fax: (202
+289-4021.
+
+
+
+21
+
+MARCH 1994
+Mid-March—Census Bureau's 1994 Annual
+Research Conference, Washington, DC, area.
+This years theme will be “Preparing for the
+21st Century.” The conference will consist of
+a mixture of invited and contributed papers,
+most of which receive formal discussion at
+the conference. The focus of ARC 1994 will
+be the development of methodology and technology to improve demographic and economic censuses and to automate survey processes.
+To have a paper considered for presentation,
+send a 500-word abstract by August 15, 1993,
+to: Lynn Weidman, Conference Chair, Statistical Research Division, Bureau of the Census,
+Washington, DC 20233; phone: (301) 7637315. To obtain registration information or to
+be included on the mailing list, contact: Max-
+
+ine Anderson-Brown, Conference Coordinator, Office of the Director, Bureau of the Census, Washington, DC 20233; phone: (301)
+
+763-1150; fax: (301) 763-4887.
+
+information, contact either James R. Schwenke
+or George A. Milliken, Kansas State University,
+Department of Statistics, Dickens Hall, Manhattan, Kansas 66506-0802; (913) 532-6883, fax:
+
+(913) 532-7736.
+
+MAY 1994
+MW 9-1 1—Annual Meeting of the Statistical
+Society of Canada, Banff, Alberta, Canada.
+The conference, to be held at The Banff Centre
+in the heart of the scenic Canadian Rockies,
+will contain invited sessions on a wide variety
+
+of topics in statistics and probability. The Local
+Arrangements Chair is E. G. Enns, Department
+of Mathematics and Statistics, The University
+
+of Calgary, Calgary, Alberta, T2N 1N4, Canada;
+e-mail: egenns@acs.ucalgary.ca. The Program
+Chair is R. J. Tibshirani, Preventive Medicine
+and Biostatistics, The University of Toronto,
+McMurrich Bldg., Toronto, Ontario, M5S 1A8,
+Canada; e-mail: tibs@utstat.toronto.edu.
+16-20—Spatial Accuracy of Natural Resource
+Data Bases, Williamsburg, VA.
+
+be “Infinite Dimensional Randomly Perturbed
+
+Sponsored by IUFRO 54.02 and others. Topics:
+Spatial accuracy needs; accuracy models and
+assessment techniques; error propagation; effect
+of spatial errors on decisions; and others. Contact: Dr. Timothy G. Gregoire, Dept. of Forestry,
+319 Cheatham Hall, Virginia Tech, Blacksburg,
+VA 24061-0324; phone: (703) 231-7683, fax:
+
+Dynamical Systems.” A tentative list of invited
+
+(703) 231-3330.
+
+24-26—The Fourth Eugene Lukacs Sympo-
+
+sium, Bowling Green, OH.
+To be held at Bowling Green State University.
+
+The organizer of the Symposium is Distinguished
+Professor Anatoli Skorokhod and the topic will
+
+speakers includes R. Dalang, F Flandoli,
+J. Jacod,
+R. Khasminskii, N. Krylov, R. Mikulevicius, V.
+
+Mandrekar,
+
+D.
+
+Nualhart,
+
+E.Pardoux,
+
+B.
+
+Rozovskii, H. Salehi, A. Wentzell, M. Csorgo,
+and D. Dawson. The symposium is funded by a
+
+grant from the Ohio Board of Regents to the
+Statistics Group. A limited budget is available to
+
+support local expenses of the participants. Contact: Vijay Rohatgi, Department of Mathematics
+and Statistics, Bowling Green State University,
+
+Bowling Green OH 43403; telephone: (419)
+372-7470; e-mail:vrohatg@andy.bgsu.edu.
+
+APRIL 1994
+v 9-13—Biometric Society (ENAR) Spring
+Meeting, Cleveland, OH.
+Sponsored by the Eastern North American
+Region of the Biometric Society. Local Arrange-
+
+24-26—48th Annual’ Quality Congress
+
+(AQC), Las Vegas, NV.
+
+Sponsored by the American Society for Quality Control (ASQC). Theme is “Quality in a
+World Without Boundaries.” Papers are published in a proceedings volume; they must
+make a significant contribution to the quality
+field and must not have been previously published. For more information, contact ASQC
+Conferences and Exhibits Department, P.O.
+Box 3005, Milwaukee, WI 53201-3005; (800)
+248-1946 or (414) 272-8575.
+
+JUNE 1994
+5-10—Fifth Valencia International Meeting
+on Bayesian Statistics, Alicante, Spain.
+
+ence and Statistics, University of Rhode Island.
+
+Sponsored by the Government of the State of
+Valencia, held every four years. The conference
+is designed as a world forum for recent advances
+on the methodology and applications of Bayesian
+analysis. The program will include about 30 invited lectures and several plenary sessions of contributed papers. The conference will be residential, and will take place in a four-star beach hotel
+by the Mediterranean sea. For further information, contact: Prof. Jose M. Bernardo, Centro de
+Documentacion y Analisis, Presidencia de la Gen-
+
+Further details will be announced later but for
+
+eralidad, Caballeros 9, 46001—Valencia, Spain.
+
+ments: Jennifer Gassman, Cleveland Clinic
+Foundation, Dept. of Biostatistics & Epidemiology, 9500 Euclid Ave., Cleveland, OH 44195-
+
+5195; (216) 444-2980; fax: (216) 444-8023; email: MDRDGASSMAN@CCISD1.CCEORG.
+23—8th New England Statistics Symposium,
+Kingston, RI
+
+To be held at the Department of Computer Sci-
+
+bringing together researchers and practitioners
+from different countries, disciplines, and orga-
+
+nizations. The theme of ISF 94 is Industrial
+Forecasting. For information about organizing
+a session, presenting a paper, or to get further
+information, contact Sune Karlsson, Dept. of
+Economic Statistics, Stockholm School of Economics, PO. Box 6501, S-113 83 Stockholm,
+Sweden; fax: Intl.+46 8 30 21 15; e-mail:
+ISFO4QHHS.SE.
+15-18—Interface ‘94: 26th Symposium on
+the Interface of Computing Science and
+Statistics, Research Triangle Park, NC.
+IMPORTANT! NOTE DATE CHANGE! Hosted
+by SAS Institute, Inc. For information, contact
+the Program Chair, John Sall, SAS Campus
+Drive; Cary NC 27513; phone: (919) 677-8000;
+fax: (919) 677-8123; e-mail: sall@sas.com.
+
+20-25—55th Annual IMS Meeting and 3rd
+World Congress of the Bernoulli Society,
+Chapel Hill, NC.
+For more information, contact
+M.R.
+Leadbetter, Statistics Dept., University of
+North Carolina, Chapel Hill, NC 27599.
+
+JULY 1994
+mm 4-8—World Scientific Congress of
+Golf, St. Andrews, Scotland.
+To contain a section for papers on statistics as
+can be applied to the game of golf. Submission
+of papers is now requested; formal abstracts are
+not required, but authors intending to present
+must indicate their intention to submit a paper
+by September 1, 1993, giving a provisional title
+and outline of the content. Please send statement
+of intent to submit a paper to the Congress Secretariat, at the address below. A formal invitation
+to present will be sent out to authors by October
+1, 1993, at which time detailed instructions for
+authors will be provided. A maximum of 60
+papers will be accepted. The deadlinefor receipt
+of final papers is January 1, 1994. Full details
+of the Congress, including such matters as
+finance, accommodation, social program, and
+travel will be given in a brochure to be available
+in January 1994 by writing the Congress Secretariat, World Scientific Congress of Golf, Dept.
+of Physical Education, University of St.
+Andrews, Fife KY169DY, Scotland UK; phone:
+0334 75560 or 0334 76161; fax: 0334 74322.
+MM 13-15—1994 Australian Meetings of the
+Econometric Society, Armidale, NSW, Aus-
+
+tralia.
+
+Contributed papers are sought in the areas of
+economic theory, econometric theory, and
+applied econometrics. Deadlines for abstracts
+and papers are February 25 and April 29, 1994,
+respectively. Further information from: Dr. Chris
+
+information contact R. Choudary Hanumara,
+
+Telephone: 34.6.3866138; fax: 34.6.3863626.
+
+Symposium Chair, Dept.of Computer Science
+and Statistics, Univ.of Rhode Island, Kingston,
+
+O'Donnell, Department of Econometrics, University of New England, Armidale NSW 2351,
+
+Mum 1 2-15—14th International Symposium
+
+Australia, phone: +61 67 73 2815, fax: +61 67
+
+on Forecasting, Stockholm, Sweden.
+
+73 3205; e-mail: codonnel@metz.une.edu.au.
+
+RI 02881; phone: (401)792-2701; fax: (401)792-
+
++617; e-mail: hanumara@cs.uri.edu
+/ 24-26—Conference on Applied Statistics
+.n Agriculture, Manhattan, KS.
+
+sponsored by Kansas State University. For more
+
+-Sponsored by the International Institute of Forecasters in collaboration with the Department of
+Economic Statistics at the Stockholm School of
+Economics. The purpose of the symposium is
+to unify the art and science of forecasting by
+
+25-30—The Fourth International Conference
+Statistics (ICOTS 4), Mar-
+
+on Teaching
+
+rakesh, Morocco.
+Sponsored by the International Statistical Insti-
+
+
+
+22
+
+tute (ISI) and l'Institut National de Statistique
+
+teaching environmetrics, trend assessment, cen-
+
+et d'Economie Appliquée (INSEA). Designed to
+
+sored data analysis and uncertainty in environ-
+
+promote the interchange of ideas about teaching
+materials, methods, and content; and to foster
+international cooperation among teachers of
+statistics. Information from: Mr. El Ghazali
+Abdelaziz, Chair of the Local Organizing Committee, INSEA, PO. Box 6217, Rabat-Instituts,
+
+Rabat, Morocco, or Prof. Y. Escoufier, Chair of
+the Program Committee, Université Montpellier
+
+II, Science et Technique du Lanquedoc, Place E
+Bataillon-34095, Montpellier Cédex 5, France.
+
+AUGUST 1994
+MM 3-11—1994 International Congress of
+Mathematicians, Zurich, Switzerland.
+Held under the auspices of the International
+Mathematical Union (IMU) and under the spon-
+
+sorship of the Swiss Mathematical Society, the
+Swiss Academy of Sciences, and the Swiss
+National Science Foundation. To cover 19 areas
+of mathematics, including statistics and probability, teaching and popularization of mathematics, and applications of mathematics in the
+sciences. All correspondence related to the
+congress (inquiries, requests, application and
+reservation forms, abstracts, etc.) should be sent
+to the official congress address: ICM 94, International Congress of Mathematicians, ETH Zentrum, CH-8092 Zurich, Switzerland. The first
+brochure is available now from the previous
+address and a second announcement will be
+mailed in late 1993. Please see the article in
+this issue of Amstat News for more information..
+
+mental models. The conference is chaired by
+A.H. El-Shaarawi and S.R. Esterby and the scientific and organizing committees include statis-
+
+ticians, mathematicians and other scientists from
+North America, Europe, Asia and Australia.
+Abstracts are invited. The registration fee is Cdn
+$300.00 ($350.00 after June 1, 1994). Information: Dr. A.H. El-Shaarawi, National Water
+Research Institute, RO. Box 5050, Burlington,
+Ontario L7R 4A6 Canada. Telephone (416)*
+336-4584, Fax (416)* 336-4989 *(905) as of
+Oct. 4,1993, Email u101@cs.cciw.ca
+
+Organizing Committee, Department of Mathematics and Statistics, McMaster University,
+
+Hamilton, Ontario, Canada L8S 4K1; e-mail:
+ibc94@mcmail.cis.mcmaster.ca; fax: (416)
+
+522-0935; telephone: (416) 529-7070, ext.
+3423. See related article in the April 1993 issue.
+Mu 12-15—Fifth International Conference
+
+International Biometric Conference in Hamilton
+or Joint Statistical Meetings in Toronto. The
+
+fourth General Meeting of The International
++ Environmetrics Society will also be held at this
+
+time. The conference will promote development
+and application of statistical methods in envi-
+
+ronmental assessment and provide a mechanism
+
+‘to maintain regular contact between statisticians
+and environmental scientists. The scope of the
+
+conference will encompass topics such as climatic change, population growth, resource
+
+depletion and over consumption, biodiversity
+and ecosystem sustainability, water and air quality, regulation and control, waste management,
+
+transboundary pollution, health aspects of pollution, nsk analysis, monitoring, field and laboratory quality control, stochastic hydrology,
+
+or George A. Milliken, Kansas State University,
+Department of Statistics, Dickens Hall, Manhattan, Kansas 66506-0802; (913) 532-6883; fax:
+
+(913) 532-7736.
+
+AUGUST 1995
+
+(703) 684-1221.
+
+(703) 684-1221.
+
+Planned as a Silver Jubilee of Statistical Ecology
+celebration on the occasion of the Sixth International Congress of Ecology with J.N.R. Jeffers
+(U.K.) as the National Organizing Committee
+Chair and G.P Patil as the International Program
+Committee Chair. Two hundred and fifty
+keynote speakers and invited papers are expected. Distinguished Statistical Ecologist Awards,
+Best Paper Awards, Best Doctoral Student Paper
+
+Awards will be given. In addition, 10 carefully
+
+SEPTEMBER 1994
+
+ther information please contact: IBC94 Local
+
+Sponsored by Kansas State University. For more
+information, contact either James R. Schwenke ~
+
+20-26—Frontiers of Statistical Ecology
+and Ecological Statistics, Manchester, United Kingdom.
+
+Society. The time and location make it convenient to attend in conjunction with either the
+
+Sponsored by the International Biometric Society. To be held at McMaster University. For fur-
+
+23-25—Conference on Applied Statistics
+in Agriculture, Manhattan, KS.
+
+/ 13-17—1995 Joint Statistical Meetings,
+Orlando, FL.
+
+on Statistical Methods for the Environmental Sciences, Burlington, Ontario, Canada.
+Sponsored by The International Environmetrics
+
+ence (IBC94), Hamilton, Ontario, Canada.
+
+APRIL 1995
+
+/ 14-18—1994 Joint Statistical Meetings,
+Toronto, Canada
+To be held at Sheraton Centre. Sponsored by
+ASA, ENAR, and WNAR. Information from ASA,
+1429 Duke St., Alexandria, VA 22314-3402;
+
+edited volumes are planned. Sponsors and cosponsors so far include: International Statistical
+Ecology Program of the International Association for Ecology; International Statistical Institute; the Biometric Society; International Society
+for Ecological Modeling; Resource Modeling
+Association; Ecological Society of America/Statistical Ecology Section; International Environmetrics Society; Section on Statistics and the
+Environment of ASA; and the International
+Union of Forest Research Organizations. For
+information, contact G.P. Patil, Center for Statistical Ecology and Environmental Statistics,
+Dept. of Statistics, Pennsylvania State University,
+University Park, PA 16802 USA; phone: (814)
+865-9442; fax: (814) 863-7114; e-mail:
+GPP@PSUVM. bitnet.
+
+8-12—17th International Biometric Confer-
+
+1995
+
+18-20—Teaching of Mathematics for Industry, Prague, Czech Republic.
+Sponsored by the Czech Technical University
+(Prague) and the SEFI Mathematics Working
+Group. Special emphasis on the teaching of
+probability and statistics and the related sub-
+
+jects of quality control, reliability, simulation,
+and industrial experimental design; and the
+teaching of the mathematical background of
+artificial intelligence and robotics. Information
+from: Lennart Ride, Mathematics Department,
+Chalmers University of Technology, S 41296
+Gothenburg, Sweden; fax: +46-31-161973; or
+Marie Demlova, Department of Mathematics,
+Faculty of Electrical Engineering, Czech Technical University, Prague, Czech Republic; fax:
++42-2-3119238; e-mail: deml@csearn.bitnet.
+
+To be held at Walt Disney World Dolphin and
+Walt Disney World Swan. Sponsored by ASA,
+ENAR, and WNAR. Information from ASA,
+1429 Duke St., Alexandria, VA 22314-3402;
+
+1996
+APRIL 1996
+v 28-30—Conference on Applied Statistics
+in Agriculture, Manhattan, KS.
+Sponsored by Kansas State University. For more
+information, contact either James R. Schwenke
+or George A. Milliken, Kansas State University,
+Department of Statistics, Dickens Hall, Manhattan, Kansas 66506-0802; (913) 532-6883;
+fax: (913) 532-7736.
+
+JULY 1996
+1-5—18th International Biometric Conference (IBC-96), Amsterdam, The Netherlands.
+Sponsored by the International Biometric Society. Information from: Paul Koopman, Secretary,
+Netherlands Region of the Biometric Society;
+telephone: 02940-79360; fax: 02940-13906.
+7-12—Sydney Statistical Meetings, Sydney,
+Australia
+
+Three conferences will be held in Sydney during this period. The 13th Australian Statistical
+Conference will run over the entire week. In
+parallel with this, there will be two shorter
+conferences, an IMS Special Topics Meeting
+on “Computer-Intensive Statistical Methods”
+followed by the 28th Symposium on the Interface: Computing Science and Statistics. For
+more information, contact by e-mail: sydney96@syd.dms.csiro.au.
+
+AUGUST 1996
+/ 4-8—1996 Joint Statistical Meetings,
+Chicago, IL.
+To be held at the Hyatt Regency Chicago. Spon-
+
+sored by ASA, IMS, ENAR, and WNAR. Information from ASA, 1429 Duke St., Alexandria,
+VA 22314-3402; (703) 684-1221.
+>
+
+wv
+
+eee
+
+
+
+23
+
+XVIIth International Biometric Conference
+Hamilton, Ontario, 8-12 August 1994
+Invited Paper Program
+Session Organiser
+
+Topic
+
+J. Golles
+
+Total quality management systems in biometry
+100 years of mixtures
+Neural networks and genetic algorithms
+
+GJ. McLachlan (AR)
+J.N.R. Jeffers (BR)
+E.E. Lesaffre
+SJ. Smith (ENAR)
+E. Jolivet (RF)
+TJ, Hastie
+
+Issues in repeated measurements/longitudinal data analysis
+Issues in fisheries research : resource management/spatial models/climatic change
+Recent advances in calibration, as applied to bioassay
+GLMs and GAMS in biostatistics
+
+Estimation of HIV infected incidence, and projections of AIDS incidence
+DNA and protein sequence analysis
+
+Computer intensive techniques : Gibbs sampling/Resampling
+Spatial/temporal models in environmental statistics
+Multivariate survival data : use of frailty models/direct modelling of marginal distributions
+' Stochastic and deterministic modelling in development, cancer, immunology and ageing
+‘Impact analysis for ecological and environmental time series, with applications to tropical rain forests
+
+P. Solomon (AR)
+DJ. Balding (BR)
+A. Racine-Poon (ROeS)
+A. Stein (ANed)
+S.G. Self (WNAR)
+T.B.L. Kirkwood (BR)
+S. Nokoe (GKe)
+
+Scientific Program Committee
+Buckland (BR), L. K. Cordani (RBras), J.-Q. Fang (GCh), J. Hoekstra (ANed), N. Jewell (WNAR), T. Kirkwood (BR), S. Nokoe (GKe), C.
+Santisteban-R. (GSp), W. Urfer (DR), L. J. Young (ENAR), D. Commenges (RF), G. Dinse (ENAR), H. Fluehler (ROeS), R. G. Jarrett
+(AR), M. G. Kenward (BR), B. J.T. Morgan (BR; Chair), M. Rudemo (NR), T. Shohoji (JR), S. D. Walter (ENAR; Vice-Chair),
+For more information regarding the scientific program, please contact Byron Morgan, Institute of Mathematics and Statistics, University
+of Kent at Canterbury, Canterbury, Kent CT2 7NF, England. Internet : bjtm@ukc.ac.uk
+
+XVIIth IBC Program Committee Call for Contributed Papers and Roundtable Participation.
+The 1994 Program Committee of the
+mm slide projector will be available. Please
+poster session.
+International Biometric Society invites
+submission of contributed papers for the
+
+Oral Sessions will include up to six oral
+
+indicate on the submission form if you
+
+presentations of 15 minutes each (including discussion) on related topics. There
+will be four or five simultaneous oral
+
+require any video or computer equipment
+
+1994 conference to be held 8-12 August in
+Hamilton, Ontario, Canada. Contributed
+papers may be offered on any topic of
+
+- contributed paper sessions at any point in
+
+biometric interest in an oral session or in å
+
+the program. Overhead projectors and a 35
+
+for your presentation.
+Poster Sessions will be held in a room that
+is centrally located and near to the oral
+presentation rooms and exhibition hall.
+
+XVIIth IBC — Contributed Paper SUBMISSION FORM
+Hamilton, Ontario, Canada - 8-12 August 1994
+
+XVIIth International Biometric Conference — REGISTRATION FORM
+Hamilton, Ontario, Canada + 8-12 August 1994
+
+finnes i Biometric Bulletin vol. 10, no. 3,
+
+1993
+
+
+
+and Compliance
+
+for Proces
+
+Effects
+
+e Regulations
+
+Designs
+
+e Radiation
+
+e Experimental
+
+ad res es,
+
+and
+
+El-Sha rawi
+
+Ontario,
+
+ses ions
+
+4A6 L7R Canada
+*(416)3 6-4584
+
+Optimization
+
+for Environmental
+
+Quality
+
+keynote
+
+and their Relations
+
+Statistics
+
+Methods
+
+e Total
+Protection
+
+Environmetrics
+
+Protection
+
+include
+
+*(416)3 6-4989
+
+Burlington,
+Telephone:
+
+A.H.
+Fax:
+
+international
+and
+in
+Teaching
+
+Email:
+
+of this
+regular
+and
+Chemometrics
+
+Problems
+
+will
+
+paper
+
+U101@CS.C IW.CA
+
+purposes
+the development
+methods
+
+and to provide
+
+_ statisticians
+
+*
+
+BACKGROUND
+
+main
+
+SCOPE
+
+are to promote
+of _ statistical
+
+The
+conference
+ap lication
+
+as es ment,
+among
+
+environmental
+
+com unication
+scientists.
+
+Change
+
+Area
+
+Fractals
+
+and Chaos
+
+e
+
+on
+environmental
+
+Climatic
+Environmental
+
+lectures,
+
+invited
+sessions.
+
+AND*
+(2
+
+PROCEDINGS
+an abstract
+
+at
+
+submit
+
+wil be available
+
+please
+
+of all papers
+
+ENQUIRIES
+a paper
+
+paper
+
+Official
+
+program
+
+to Environmental
+
+* Population
+
+The
+
+Abstracts
+
+tn code
+
+Institute
+
+BY:
+
+Research
+
+SPONSORED
+
+Conference
+
+for the
+
+of
+and
+
+to
+
+special
+contributed
+
+ABSTRACTS,
+FURTHER
+
+To present
+
+1994.
+
+hernme
+
+Methods
+Sciences
+
+Me ting
+
+Control
+
+Data Analysis
+
+on Proportions
+
+Models
+
+Data
+
+statistical
+includes
+The scope of the me ting
+methods,
+of statistical
+ap lications
+methods,
+for statistical
+is ues with potential
+environmental
+but not limited
+encompas ing
+interpretation,
+
+Air Pollution
+
+Censored
+
+Based
+
+and Ap lications
+
+Regulations
+
+Methods
+of Polution
+
+Data Analysis
+
+e Robust
+Aspects
+
+of Environmental
+
+and Interpretation
+
+of Chemicals
+
+e Health
+
+Spatial
+
+As es ment
+
+in Environmental
+
+e Risk
+
+e Uncertainty
+
+- Designs
+
+Fate
+
+As urance
+
+Environmental
+
+Bioas ays
+Quality
+
+Events
+
+905
+
+Water
+
+General
+International
+
+Society
+
+Canada
+Extreme
+
+after
+
+National
+
+Environmental
+
+The
+
+Ontario,
+
+e Predicting
+
+4 Octoher
+
+International
+
+Statistical
+
+Fourth
+Environmetrics
+
+Burlington,
+
+Fifth
+and
+
+
+
+215
+
+UNI»C
+DANMARKS EDB-CENTER FOR
+FORSKNING OG UDDANNELSE
+
+Symposium i anvendt statistik, 1994
+CALL FOR
+
+PAPERS
+
+Så er det atter ved at være tid for det årlige:
+SYMPOSIUM I ANVENDT STATISTIK
+Symposiet arrangeres af UNI-C, Danmarks edb-center for forskning og uddannelse, og som noget nyt afholdes det denne gang på Aalborg Universitets
+
+Center. Det foregår den 24.-26. januar 1994.
+
+Formålet med symposiet er at skabe et forum for udveksling af information
+mellem forskellige statistiske fagområder, idet der lægges vægt på metodik og
+
+præsentation af resultater.
+
+Personer, der ønsker at bidrage med indlæg på symposiet, bedes fremsende en
+beskrivelse heraf på maximum 10 linier til undertegnede
+
+senest fredag den 15. oktober 1993
+
+De færdige symposieindlæg vil blive udgivet i en bog, som udkommer inden
+symposiets start.
+
+Søren Boelskifte
+
+UNI°C Århus
+Olof Palmes Allé 38
+
+8200 Århus N
+
+(
+
+KOBENHAVN - Yermundsaade 5 - 2100 Konenhavn O - 7eli-fon 35 82 83 55 + Telefax 31 83 79 49
+—-
+
+:
+
+dd
+
+LYNGBY - OTH bygn. 305 - 2800 Lunaby - feleton 45 93 23 55 - feterax 15 93 02 23
+samene
+
+Aae ate
+
+Ma
+
+OD
+
+INNA
+
+Veh
+
+OG
+
+Farben
+
+OG
+
+70
+
+44
+
+14.
+
+Teines OE
+
+(2
+
+19
+
+ES
+
+
+
+26
+
+NYTT FRA UNIVERSITETET I OSLO
+Uteksaminert cand. scient.
+Siri Hordnes Grimelund:
+
+“Reservebegrep og overskuddsdannelse i livs- og pensjons-
+
+forsikring”
+Veiledere: Ørnulf Borgan og Walther Neuhaus
+
+-
+
+Nyansettelser
+Geir Storvik er ansatt som fgrsteamanuensis fra 1. august 1993.
+Tormod Nes og Knut Aase er begge ansatt som professorer II fra i høst.
+Jørund Gåsemyr er ansatt i en stipendiatstilling som vi disponerer så lenge Bent Natvig
+er dekanus.
+
+NYTT FRA UNIVERSITETET I BERGEN
+Cand. scient. Vidar Hjellvik er tilsatt som universitetsstipendiat.
+Professor Ivar Heuch har i høstsemestret permisjon for å vikariere
+i professorat ved Universitetet i Tromsø.
+
+Cand. scient. Haakon Gjessing vikarierer som amanuensis under Heuchs permisjon.
+
+Førsteamanuensis Stein Emil Vollseth, ved Senter for Medisinsk Informatikk og Statistikk,
+har forskningstermin og oppholder seg ved Department of Biostatistics, UCLA høsten 1993
+og våren 1994.
+
+Cand. scient. Aagot Irgens ved Yrkesmedisinsk Avdeling, oppholder seg ved Department of
+
+Biostatistics, University of Washington, Seattle.
+
+Professor Dag Tjøstheim er valgt som "the Bernoulli Society Council"
+for perioden 1993-1997.
+
+NYTT FRA NORGES LANDBRUKSHØGSKOLE
+Førsteamanuensis Are Aastveit har fått opprykk til professor fra 1. januar 1993.
+
+
+
+27
+
+Medlemskap i Norsk Statistisk Forening
+
+Kontigenten i foreningen er på kr. 150 pr. år (kr. 90 for 1993) for regulære medlemmer og kr.
+50 for studenter (kr. 30 for 1993). Korrespondanse om medlemskap og innbetaling av
+
+kontigent skal skje til foreningens kasserer:
+
+Norsk Statistisk Forening v/Eva Seim
+Statistisk avd. Nycomed A.S.
+
+p.b. 4220 Torshov
+0401 OSLO
+
+Innbetalinger skal gjøres på foreningens postgirokonto 0802 5 15 10 55. Medlemmer som er
+
+usikre på når de betalte kontigent sist, vil nederst til høyre på adressseddelen for Tilfeldig Gang
+finne angitt hvilket år siste betaling er registrert for. Vær imidlertid oppmerksom på at
+adressesedlene for bladet ligger noe etter ajourføringen av medlemsregisteret, slik at nylig
+foretatte innbetalinger ikke vil være tatt med her.
+
+Nye medlemmer melder seg til kassereren under adressen oppgitt ovenfor. Slike medlemmer
+får automatisk tilsendt Tilfeldig Gang, med forbehold om at det tar noe tid før tilføyelser og
+forandringer i medlemsregisteret gjenspeiler seg i adressesedlene til bladet.
+
+Adresseforandringer meldes også til kassereren. Ved utsendelsen av Tilfeldig Gang benyttes
+det kopier av det vanlige medlemsregisteret, så adresseforandringer behøver ikke meldes
+separat til bladet.
+
+Annen korrespondanse med foreningen skal foregå med formannen under denne adressen:
+Norsk Statistisk Forening v/Eivind Damsleth
+
+Norsk Hydro
+p.b. 200
+1341 STABEKK
+
+Bidrag til Tilfeldig Gang
+
+Neste nummer av Tilfeldig Gang vil forhåpentligvis komme ut i desember 1993. Alle slags
+bidrag til bladet er velkommen, enten det gjelder nye temaer av interesse for norske statistikere,
+eller man har kommentarer til innlegg som allerede har stått i bladet. Stoff til neste nummer må
+
+være redaktørene i hende senest 1. desember.
+Adressen til redaktørene er:
+
+Inge Helland
+Institutt for matematiske fag
+Norges Landbrukshøgskole
+Boks 5035
+
+Åre Aastveit
+Institutt for matematiske fag
+Norges Landbrukshøgskole
+Boks 5035
+
+Telefon 64 94 88 75
+
+Telefon 64 94 88 72
+
+1432 Ås
+
+1432 Ås
+
+Fax: 64 94 88 79
+Mail: are.aastveit@imf.nlh.no
+
+
+
+
+
+Returadresse:
+
+Tilfeldig Gang v/Eva Seim
+NYCOMED Imaging
+
+Postboks 4220 TORSHOV
+
+0401 OSLO
+
+
+

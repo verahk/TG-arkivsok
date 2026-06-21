@@ -1,0 +1,1044 @@
+ISSN 0803-8953
+Tilfeldig gang
+Nr. 1, årgang 31
+Mars 2014
+
+Utgitt av Norsk statistisk forening
+Redaksjonelt
+
+Fra lederen . . . . . . . . . . . . . . . . . . . . . . . . . .
+Fra redaksjonen . . . . . . . . . . . . . . . . . . . . . . .
+
+1
+2
+
+Leserbidrag
+
+Statistisk inferens: Paradigmer og kontroverser i historisk perspektiv . . . . . . . . . . . . . . . . . . . . .
+Bokbad: Tall forteller . . . . . . . . . . . . . . . . . . . .
+
+3
+4
+
+Tankenøtter
+
+Løsning på pusleri nummer 38 . . . . . . . . . . . . . .
+Pusleri nummer 39 . . . . . . . . . . . . . . . . . . . . .
+
+6
+8
+
+Møter og konferanser
+
+The 2014 eVITA Winter School on Big Data Challenges
+to Modern Statistics . . . . . . . . . . . . . . . . . .
+
+9
+
+TG for 25 år siden
+
+Et apropos til den stadig aktuelle Treholtsaken... . . . .
+
+11
+
+Meldinger
+
+Nytt fra Universitetet i Tromsø . . . . . . . . . . . . . . 14
+Nytt fra seksjonene 2 og 3 ved Matematisk institutt,
+Universitetet i Oslo . . . . . . . . . . . . . . . . . . 14
+Nytt fra Norges teknisk-naturvitenskapelige universitet 15
+Annonseringer
+
+PhD og post-doc stillinger ved UiO . . . . . . . . . . . .
+Førsteamanuensis i statistikk i Bergen . . . . . . . . . .
+Ettårig vikariat som statistiker ved Stavanger Universitetssjukehus . . . . . . . . . . . . . . . . . . . . . .
+4 PhD positions in statistics for big data and genomics
+in Oslo, Norway . . . . . . . . . . . . . . . . . . . .
+Internasjonalt kollokvium i Oslo 2015 . . . . . . . . . .
+Nordstat 2014 . . . . . . . . . . . . . . . . . . . . . . . .
+Det 18. norske statistikarmøte . . . . . . . . . . . . . . .
+
+16
+17
+17
+17
+18
+20
+21
+
+Scandinavian Journal of Statistics
+
+Innholdsliste mars 2014 . . . . . . . . . . . . . . . . . .
+
+22
+
+Informasjon
+
+Har du husket å betale kontigenten i år? . . . . . . . .
+
+24
+
+
+
+
+
+redaksjonelt
+Fra lederen
+Ragnar Bang Huseby | Oslo
+
+Det er første gang vi ikke trykker TG på papir, så dette
+nummeret blir historisk. Vi er spente på hva våre medlemmer
+synes om endringen, og vi er naturligvis åpne for både positive
+og negative tilbakemeldinger. Det er vårt håp at TG blir lest like
+mye som før. Selv har jeg mye glede av den digitale versjonen.
+Den er tilgjengelig både hjemme, på jobben og på reise. Jeg
+setter også pris på at jeg lett kan forstørre teksten, noe som for
+mitt vedkommende reduserer bruken av briller.
+2013 var det internasjonale statistikkåret. Hensikten med
+denne kampanjen var blant annet å promotere faget statistikk.
+Det er vel enighet om at vi fortsatt trenger tiltak for å skape
+blest om faget vårt. En oppfølger til «International Year of
+Statistics» er «The World of Statistics». I tillegg til å utbre
+kunnskap om statistikk trenger vi også markedsføre statistikere.
+Skal folks oppfatning være at statistikk er et fag for amatører,
+eller klarer vi å skape forståelse for behovet for profesjonelle
+statistikere? Vi bør også være opptatt av omdømmet vårt. Blir
+vi lyttet til? Kan folk stole på oss, eller blir vi mest assosiert
+med noen som jukser med tall? Er vi nerder?
+Det har vært vanlig å bruke denne spalten til å reklamere
+for konferanser. Jeg ser allerede frem til det neste norske
+statistikermøtet som skal arrangeres av Bergensavdelingen
+i 2015. Jeg hadde gleden av å delta på den nordiske
+statistikerkonferansen (Nordstat 2010) som denne avdelingen
+var vertskap for. Den konferansen ble holdt på Voss, og da
+fikk Vestlandet vist seg fra sin beste side. For at slike nordiske
+konferanser skal bli vellykkede, trengs det bidrag fra statistikere
+fra flere land. Derfor håper jeg at mange av våre medlemmer
+vil delta på Nordstat 2014 som holdes i Finland i begynnelsen
+av juni.
+
+www.worldofstatistics.org
+
+1
+
+
+
+Fra redaksjonen
+Turid Follestad | Trondheim
+
+“Det snør, det snør, tiddelibom”, denne strofa passar for tida
+like godt i Trøndelag som i Hundremeterskogen hos Ole
+Brumm og venene hans. I det redaksjonen er i ferd med å
+ferdigstille vårnummeret av TG kan trønderane glede seg eller
+ergre seg, alt ettersom, over det første ordentlige snøfallet i
+år. Det er mykje som har vore «mot normalt» på vérfronten
+i Norge denne vintersesongen. Vi får sende ein varm tanke
+til framtidige statistikarkollegaer som om nokre tiår kan få
+ein trøblete outlier i fanget når dei skal analysere historiske
+meteorologiske data. Eller kanskje det er dette som er normalen
+om 50 år? Den som lever får sjå.
+Dei av oss som har levd ei stund hugsar siste fase av
+den kalde krigen på 1980-talet, og med den Treholt-saka,
+som på nytt har kome i mediabiletet. I det høvet har vi
+i spalta «TG for 25 år siden» leita fram eit bidrag der
+Ørnulf Borgan og Bent Natvig presenterer ei berekning dei
+gjorde for Nordisk Treholtkomite. Dette er eit eksempel
+på korleis statistikken møter jussen, og kan kanskje også
+brukast i grunnundervisninga i statistikk som illustrasjon på
+multiplikasjonssetninga?
+Blant leserbidraga denne gongen er ein introduksjon til
+eit notat av Jostein Lillestøl, der han gir eit historisk innblikk
+i sentrale paradigme i statistikken, og den til tider friske
+debatten rundt desse. Heile notatet er tilgjengelig på på Norsk
+statistisk forening sine nettsider. Redaksjonen stiller seg bak
+oppfordringa frå forfattaren om å kome med kommentarar til
+notatet, gjerne i form av innlegg i TG!
+Vi har ambisjonar om å få ut tre nummer av TG per år, to
+på vårsemesteret og eitt på hausten. Då er vi avhengige av
+bidrag om stort og smått. Det vil kome ei påminning på epost
+når det nærmar seg eit nytt nummer, men vi tar imot bidrag
+fortløpande. Desse kan sendast til turid.follestad@ntnu.no.
+
+2
+
+Redaksjon
+Turid Follestad
+Bo Lindqvist
+Petter Arnesen
+
+
+
+leserbidrag
+Statistisk inferens: Paradigmer og kontroverser i
+historisk perspektiv
+Jostein Lillestøl | Bergen
+
+Vi som studerte statistikk som hovedfag på Blindern i
+1960-årene ble strengt oppdratt innen Neyman-Pearson
+paradigmet. Striden mellom Fisher og Neyman var over,
+og Neyman hadde tilsynelatende gått seirende ut av den.
+Bayesianere fantes her og der, men ble nærmest sett på som
+villblomster i en ellers velstelt hage. At Savage hadde lagt et
+nytt grunnlag for Bayesiansk statistikk basert på koherens pirret
+nysgjerrigheten, men ønsker om å trekke det inn i hovedfaget
+ble ikke godt mottatt. Sett i ettertid tror jeg ikke det var
+dogmatikk som lå til grunn, men heller at en i et lite miljø måtte
+rendyrke de områder der man fant det mulig å gi veiledning
+på forskningsfronten. Det innebar at professor Sverdrup ga en
+grundig innføring i Neyman-Pearson teorien, der han forutsatte
+at vi hadde det målteoretiske grunnlaget i orden. Dette skulle
+vise seg å være svært nyttig, spesielt for de av oss som senere
+dro til Berkeley, Neyman-Pearson teoriens høyborg. Her fikk
+vi velvillig mottagelse fordi de visste at våre hovedfagskurs
+langt på vei dekket deres grunnleggende doktorgradskurs.
+Særlig spørsmål om paradigmer ble det selvfølgelig ikke der, i
+Neymans nærhet og med Blackwell som eneste Bayesianer. På
+den tids konferanser var det kun sporadiske paradigmedebatter.
+Fisher var død og Neyman gammel. Det meste var sagt, og
+ingen var i stand til å bringe ny ild til bålet. Bayesianerne hadde
+sin Lindley, som greide å skape litt temperatur, men ofte var
+det han mot alle andre. Det skal bli interessant å følge hvordan
+Neyman-Pearson teorien vil stå seg utover i dette århundret.
+Bayesianisme er på fremmarsj, og Fishers såkalte store feilgrep
+«fiducial inference» ser ut til å gjenoppstå, ikke minst takket
+være norske statistikere, Schweder og Hjort.
+Vi som tok eksamen på 1960-tallet fikk altså ane restene
+av en grunnleggende paradigmedebatt. De fleste av oss tok
+arbeid ved universiteter og høyskoler, der vi har undervist i
+en, etter vår oppfatning enhetlig teori, uten å problematisere
+fundamentet. Det betyr at nye genererasjoner studenter i stor
+utstrekning ikke er bevisst paradigmene og kontroversene
+innen faget. Ulike bilder av statistikkfaget kan sitte igjen, alt
+fra hvilke kurs som er tatt, fra matematisk eksersis uten data
+på den ene side til en samling oppskrifter for dataanalyse på
+den annen. Jeg har ofte følt behovet å gi mine studenter et
+innblikk i fundamentet for faget, uten å finne plass til det på
+
+Jerzy Neyman
+
+Egon Pearson
+
+3
+
+
+
+timeplanen. Omsider fant jeg tiden inne for å skrive et notat om
+temaet, som av hensyn til utenlandske utvekslingsstudenter er
+på engelsk. Link til hele notatet finnes i margen, men er også
+tilgjengelig sammen med dette nummeret av Tilfeldig Gang
+på www.norskstatistiskforening.no. Det var tenkt brukt som
+introduksjon i kurs på Master eller Dr. grads nivå. Våren 2014
+ble det til brukt ved NHH i kurset «Statistical modelling», der
+studentene ble anmodet å lese det før første forelesning. Det
+er uttrykt ønske om å gjøre det tilgjengelig for andre, noe jeg
+gladelig gjør. Kanskje er det statistikk-kolleger som har nytte
+av å lese det også. Noen fordi jeg bringer ny kunnskap til
+dem, andre fordi de kan finne noe å være uenig i. Diskusjon
+og bidrag til TG er velkomne, også forslag til forbedringer av
+notatet.
+
+Les hele notatet her!
+
+Sir Ronald Fisher
+
+Bokbad: Tall forteller
+Marianne Riksheim | Oslo
+
+Tirsdag 25. februar var det duket for bokbad i Realfagsbiblioteket på Blindern, og boken som sto på menyen var
+innføringsboken i statistikk med navnet: «Tall forteller».
+Realfagsbiblioteket ble rask fylt til randen av studenter,
+ansatte og andre interesserte, og de sist ankomne måtte ta til
+takke med ståplasser helt bakerst. Noen ble fristet av kake,
+de fleste av den etterhvert så kjente statistikeren Jo Røislien.
+Bokens redaktør Kjell Aakerøe åpnet med å fortelle om
+prosessen rundt skrivingen av boken. Han hadde selv lenge
+problemer med å forstå konseptet som for forfatterne lenge
+hadde vært klart; dette skulle bli en statistikkbok helt uten
+formler.
+Røislien var først ut av forfatterne og startet med en god
+analogi; hver dag kjører han bil, og synes til og med han er
+ganske ok sjåfør, men han åpner aldri panseret og har ingen
+anelse om hvordan bilen fungerer. Hvorfor skal det være slik at
+vi forventer å kunne kjøre bil uten noen kunnskaper om bilens
+funksjon, men frarøver Ole og Kari Nordmann muligheten til å
+forstå statistikken som daglig blir presentert rundt oss?
+I boken kan leseren selv gjennomføre 19 statistiske
+undersøkelser, blant annet av popsanger og hva som skal til
+for å løpe fort. På denne måten håper forfatterne å vekke unge
+forskerspirer, i tillegg til å inspirere lærere, studenter og andre
+interesserte voksne.
+4
+
+Foto: Marianne Riksheim
+
+
+
+Som et tillegg til boken «Tall forteller», kan leseren laste
+ned en tilhørende app. Denne app’en ble presentert av bokens
+andre forfatter Kathrine Frey Frøslie. For å demonstrere app’en,
+ble de fremmøtte oppfordret til å delta i en undersøkelse.
+Samtlige fikk forsøke deg på fotballtriksing, og antallet triks
+før ballen gikk i bakken ble formidlet til scenen hvor Frøslie
+registrerte. Det ble fort klart at god ballfølelse ikke var svært
+utbredt blant publikum!
+I tillegg til fotballtriksingen, viste forfatterne hvordan
+app’en kan bidra til å svare på to viktige spørsmål: I snitt, har
+Norge eller Sverige oppnådd høyest plassering i Melodi Grand
+Prix (MGP), og er det sammenheng mellom artistens alder
+og plasseringen i MGP? Vil du vite svaret, er det bare å teste
+app’en selv!
+
+Foto: Marianne Riksheim
+
+Foto: Marianne Riksheim
+
+5
+
+
+
+tankenøtter
+Løsning på pusleri nummer 38
+Jostein Lillestøl | Bergen
+
+Oppgaven
+Knoll og Tott er på besøk hos Tuppen som er flyttet til byen for
+å studere. Hun bor i øverst i en blokk med 10 boligetasjer over
+grunnplanet (0’te etasje). Knoll og Tott har med seg hvert sitt
+svært robust strutseegg, og lurer på hvor høyt i etasjene de kan
+gå, slippe et egg ut vinduet, uten at det knuses når det treffer
+bakken. De har funnet ut at det er et vindu i hver etasje som lar
+seg åpne, og vil derfor gjøre et eksperiment med å slippe egg
+fra utvalgte høyder. Tuppen går motvillig med på dette, men
+tillater kun fire slipp i alt. Hva er det høyeste etasjeslipp det er
+mulig å fastslå med full sikkerhet at et slikt egg tåler/ikke tåler,
+og hvilken forsøksplan sikrer dette?
+
+Løsning
+Svaret er: Helt til topps!
+Begrunnelse: Dersom man hadde bare ett egg, er det
+opplagt at man må starte i 1’te etasje, og gå oppover en etasje
+av gangen, så lenge egget ikke er knust, og med fire tillatte
+slipp kan vi avklare helt opp til 4de etasje. Med to egg vil det
+være optimalt å la første slipp gå fra 4de etasje. Dersom det
+knuser, har man et egg igjen som kan brukes til å avklare de
+tre etasjene under etter samme prinsipp som ovenfor. Dersom
+det første egget ikke knuses fra 4de etasje, brukes det på nytt
+fra 7de etasje. Dersom det knuses, har man to slipp igjen, og
+kan avklare hvilken av etasjene 5 og 6 det knuses med det
+andre egget. Dersom det første egget heller ikke knuses fra 7de
+etasje, hentes det opp og slippes fra 9de etasje, og dersom det
+knuses har vi ett slipp igjen, og kan bruke det andre egget til å
+slippe fra 8de etasje. Dersom det første egget ikke knuses fra
+9de etasje, kan vi gjøre et siste slipp i 10de etasje. De mulige
+hendelsesforløp er her illustrert i et tre der sifrene ved hver
+splittnode er (eggnummer.etasjenummer).
+Dersom det var en skyskraper og en spør om hvor langt
+opp en kan avklare med to egg og n tillatte slipp, er det klart at
+det er optimalt å slippe første egg fra n’te etasje, og så følge
+samme prinsipp som ovenfor. En vil da kunne nå opp til etasje
+1 + 2 + 3 + . . . + n = n(n + 1)/2, slik at n = 20 gir etasje nr.
+210.
+Problemstillingen kan generaliseres til m egg og n slipp,
+og blir da straks noe mer komplisert. En løsning er gitt av
+Boardman, som gir en rekursjonsformel med n og m og en
+løsning ved hjelp av genererende funksjoner. Vi har imidertid
+6
+
+Boardman, Mathematics Magazine, vol.
+70, no.5, 368-372
+
+
+
+fått en mer instruktiv løsning fra Jarle Tufto (NTNU) som
+bygger på at treet ovenfor er et såkalt binært søketre, som er
+en velkjent byggestein for diverse kompliserte datastrukturer.
+Dette innebærer at splittnodene i treet kan entydig nummereres
+på en slik måte at ved enhver slik node har nodene i venstre
+undertre (her opp) høyere numre og nodene i høyre undertre
+lavere numre, og denne egenskapen skal gjelde rekursivt for
+alle nye undertrær. I treet ovenfor svarer denne nummeringen
+til etasjen egget slippes fra, dvs annet siffer. Jarles generelle
+argumentasjon går slik:
+Den maksimale dybden til forgreninger i dette treet blir lik
+maksimalt antall tillatte kast n. Men treet blir skjevt fordi vi
+kun kan ha m negative utfall i hver forgrening av treet, idet
+vi har kun m egg til rådighet og knuste egg kan ikke slippes
+på nytt. Når vi kommer til enden av en bestemt forgrening (et
+«blad») gjør vi vår beslutning. Totalt antall etasjer som kan
+bestemmes (inkludert 0. etasje) blir derfor lik antall blad på
+treet. Den generelle løsningen for antall etasjer som funksjon av
+n og m (om vi altså teller med 0. etasje) blir
+m  
+n
+f (n, m) = ∑
+(1)
+i
+i =0
+Dette kan vises ved følgende kombinatoriske argument. Hver
+forgrening i treet vil inneholde opptil m negative utfall (knuste
+egg). Ser vi på antall forgreninger som inneholder et gitt antall
+i negative utfall i ≤ m, i = 0,1, ..., m, kan disse forgreningene
+dannes på tilsammen (ni) måter avhengig av når i løpet av de
+potensielt totalt n slippene de negative utfallene inntreffer. At
+vi for eksempel kun gjennomfører to slipp dersom de negative
+utfallene inntreffer i de to første slippene endrer ikke på dette
+argumentet. Summerer vi antall forgreninger gitt i = 0, 1, ..., m
+negative utfall kommer vi fram til (1).
+Alternativt kan løsningen bevises ved induksjon. Etthvert
+tre består av to undertrær på en slik måte at
+f (n, m) = f (n − 1, m) + f (n − 1, m − 1)
+
+(2)
+
+Videre ser vi at antall blad når vi har ingen slipp eller ingen
+egg igjen blir 1, slik at vi får randbetingelsene f (0, m) = 1
+for m = 1, 2, ... og f (n,0) = 1 for n = 1, 2, ... . Bruker vi
+konvensjonen at (ni) = 0 for i < 0 og i > n, ser vi at (1) også
+gjelder på randen for m = 0 eller n = 0. Anta at (1) gjelder for
+(n − 1, m) og (n − 1, m − 1). Fra (2) følger da
+f (n, m)
+
+= f (n − 1, m) + f (n − 1, m − 1)
+= ∑im=0 (n−i 1) + ∑im=−01 (n−i 1)
+= ∑im=0 (n−i 1) + (ni−−11) = ∑im=0 (ni)
+
+Tredje overgang framkommer ved å forskyve summasjonsvariabelen i den andre summen og ved å utvide denne med leddet
+−1
+(n0−
+1 ) = 0. Siste overgang følger da av addisjonsformelen for
+7
+
+
+
+binomialkoeffsienten kjent fra Pascals trekant. Dermed må (1)
+gjelde for alle n og m.
+For n = 4 og m = 2 som i oppgaven får vi
+f (4,2) = (n0 ) + (n1 ) + (n2 ) = 11 blad, som svarer til at vi kan
+sortere ut sikker konklusjon for etasje 0 til og med 10.
+
+Pusleri nummer 39
+Jostein Lillestøl | Bergen
+
+To byer A og B ligger svært langt fra hverandre er forbundet
+med en smal vei som umuliggjør forbikjøring. Vi sender
+avgårde n biler fra A, der hver er pålagt å kjøre med konstant
+fart. Farten til de enkelte bilene velges tilfeldig og uavhengig
+av hverandre fra en gitt sannsynlighetsfordeling f (v). Hver
+gang en bil innhenter saktekjørende bil(er) må den regulere
+farten ned til de innhentede bilers fart. Hva er forventet antall
+”grupper” av en eller flere biler som ankommer B?
+
+Hint: Spiller sannsynlighetsfordelingen noen rolle?
+
+Send svar til Jostein.Lillestol@nhh.no.
+
+8
+
+
+
+møter og konferanser
+The 2014 eVITA Winter School on Big Data Challenges
+to Modern Statistics
+André Brodtkorb og Petter Arnesen | Geilo
+Fra 19. til 24. januar ble den årlige vinterskolen i e-vitenskap
+på Geilo arrangert. Dette var den fjortende i rekken og
+ble tradisjonen tro lagt til Dr. Holms Hotell. Denne skolen
+retter seg mot Ph.D. studenter og de mest brilliante
+mastergradsstudentene, men er også et møtested for mer
+erfarne forskere. I årets utgave fant man i tillegg til Ph.D.
+studenter i statistikk alt fra mastergradsstudenter i Kjemi til
+ansatte i bedrifter som Schlumberger og DNV-GL. Skolen
+arrangeres av SINTEF, og i årets vitenskapelige komite satt
+Arnoldo Frigessi (UiO) og André R. Brodtkorb (SINTEF). En
+uke var satt av til forelesninger, ski, god mat og sosialt samvær.
+
+Steve Marron
+
+Foto: Kari Krizak Halle
+
+Ut på tur, aldri sur.
+
+Foto: Kari Krizak Halle
+
+Årets forelesere var Elja Arjas (University of Helsinki,
+Finland), Jukka Corander (University of Helsinki, Finland),
+Steve Marron (University of North Carolina at Chapel Hill,
+United States), Laura Sangalli (Politecnico di Milano, Italy), Aila
+Särkkä (Chalmers University of Technology, Sweden), Ernst Wit
+(University of Groningen, Netherlands), og Laurent Younes
+(Johns Hopkins University, United States). Disse snakket
+engasjert og grundig om alt fra «Diffeomorphometry and Shape
+9
+
+
+
+Spaces Under Diffeomorphic Action» (Laurent Younes) til «A
+fib, a lie, and statistics» (Ernst Wit). I tillegg inneholdt skolen
+en «poster session», der mange interessante postere med et vidt
+spekter av temaer ble presentert.
+Årets utgave av vinterskolen ble et meget lærerikt og sosialt
+arrangement. Mange mil på ski ble tilbakelagt av de mest
+ivrigste i langrennsløypa, og slalombakken ble hyppig brukt
+til tross for lave temperaturer. Mange benyttet også sjansen til
+å arrangere spennende bowlingturneringer på hotellets 50’s
+diner.
+I tillegg kan det rapporteres at de lokale quizheltene
+på Geilo ble grundig slått av en ivrig statistikergjeng fra
+vinterskolen.
+
+Bowling i 50’s diner.
+
+10
+
+http://www.sintef.no/Projectweb/
+eVITA/
+
+Foto: Christoph Moder
+
+
+
+tg for 25 år siden
+Et apropos til den stadig aktuelle Treholtsaken...
+I desember-nummeret i 1989 finner vi den følgende artikkelen,
+som kanskje har ny interesse i disse dager.
+
+http://no.wikipedia.org/wiki/
+Treholt-saken
+
+11
+
+
+
+A =(Uttrekningen av 4 meddommere gir minst 2 aktive medlemmer av Høyre
+enten fra en typisk Høyre bydel i Oslo eller en typisk Høyre kommune
+i Oslo lagsogn )
+
+Med en typisk Høyre bydel i Oslo vil vi her forstå en bydel hvor Høyre hadde minst 50% av
+
+stemmene i 1979. I tillegg har vi tatt med de typiske Høyre kommunene Asker og Bærum.
+Dette gir følgende 11 bydeler og 2 kommuner (med prosentandel for Høyre i parentes)
+Frogner-Vika (65.18)
+
+Homansbyen-Uranienborg-Majorstuen (58.83)
+Marienlyst-Blindern-Ullevål (54.97)
+Ekeberg-Holtet-Bekkelaget (50.95)
+Nordstrand (62.07)
+
+Sogn (54.71)
+Vindern-Slemdal-Holmenkollen (70.05)
+Røa-Hovseter- Voksen (62.69)
+Ullern (65.46)
+Smestad-Skøyen (70.73)
+Bygdøy (72.55)
+Asker (49.25)
+
+Bærum (56.8)
+
+Innfør nå begivenheten
+
+B ={ En enkelt uttrekning gir et aktivt medlem av Høyre enten fra en typisk
+
+Høyre bydel i Oslo eller en typisk Høyre kommune i Oslo lagsogn )
+Betegn sannsynligheten for B, P(B), med p. Innfør videre følgende begivenheter
+
+C =( En enkelt uttrekning gir en meddommer enten fra en typisk Høyre bydel i
+Oslo eller en typisk Høyre kommune i Oslo lagsogn }
+D ={ En enkelt uttrekning gir en meddommer som stemte Høyre ved valget
+i1979)
+
+E ={ En enkelt uttrekning gir en meddommer som er et aktivt medlem av et
+politisk parti )
+
+Begivenheten B svarer da til at alle begivenhetene C, D og E inntreffer. Utfra den generelle
+multiplikasjonssetning for sannsynligheter har vi da:
+
+p= P(B) = P(C,D,
+E)
+
+= P(C)- P(D|C) - P(E|D,C)
+
+
+
+Her betyr f.eks. P(D|C') sannsynligheten for begivenheten D gitt at begivenheten C har
+inntruffet.
+
+Antall av de 3100 som enten er fra en typisk Høyre bydel i Oslo eller de typiske Høyre
+kommuner Asker og Bærum er 11 - 50 + 280 + 122 = 952. Dermed har vi:
+P(C) = 952/3100.
+
+Siden også de typiske Høyre bydelene hadde bydelsutvalg sammensatt utfra Høyres prosentandel på 43.31 ved Oslovalget i 1979, velger vi å sette
+P(D|C) = 1/2.
+
+Vi har her tatt hensyn til den høyere prosentandel for Høyre i Asker og Bærum samt at
+det er lettere å finne frem til en domsmann som stemmer Høyre i en typisk Høyre bydel.
+Endelig velger vi å sette
+P(E|D,
+C) = P(E)=1/2,
+
+idet vi antar utfra diskusjoner med bydelsutvalgsrepresentanter at alle kommunestyrer
+
+og bydelsutvalg plukker ut halvparten av sine domsmenn blant aktive medlemmer av de
+politiske partier. Dermed har vi:
+952
+
+1
+
+1
+
+P= 3500 3 3
+
+238
+
+3100 07
+
+Den søkte sannsynlighet blir da ved å bruke en binomisk fordeling
+
+P(A) = 1— (1 —p)* — 4(1 —p)?p = 0,032.
+
+Konklusjon:
+
+En liten sannsynlighet for begivenheten A, beregnet under forutsetningen om rent lotterisk
+utvalg, gir grunn til å tvile på at uttrekningen var rent lotterisk. Hvis en derfor fremsatte
+følgende hypotese:
+
+*Uttrekningen av domsmenni forbindelse med Treholtsaken foregikk rent lotterisk”,
+ville denne utfra våre beregninger forkastes med en signifikanssannsynlighet på 3,2%. Sagt
+med andre ord—hvis en påstår at uttrekningen av domsmenni forbindelse med Treholtsaken ikke foregikk rent lotterisk, er vår beregnete sannsynlighet for å ta feil så lav som
+3,2%. Det er følgelig rimelig grunn til mistanke om at uttrekningen ikke var rent lotterisk.
+
+
+
+meldinger
+Nytt fra Universitetet i Tromsø
+Nye Ph.d-grader
+Marc Geilhufe
+Statistical Analysis of Lattice Data with Wavelet Variance Methods
+and Spatiotemporal Modeling of Infectious Disease Spread
+Komite: Lasse Holmström, University of Oulo, Yngvar Larsen,
+Norut Tromsø og Tor Flå, UiT. Veileder: Fred Godtliebsen.
+Biveiledere: Donald Percival, Stein Olav Skrøvseth og Håvard
+Rue
+Kevin Thon
+Multiscale Methods for Statistical Inference on Regular Lattice Data
+Komite: Giovanni Sebastiani, The Sapienza University of
+Rome, Alf Harbitz, Havforskningsinstituttet, Tromsø og Georg
+Elvebakk, UiT. Veileder: Fred Godtliebsen. Biveiledere: Stein
+Olav Skrøvseth og Donald Percival
+Jörn Schulz
+Statistical Analysis of Medical Shapes and Directional Data
+Komite: Mads Nielsen, University of Copenhagen, Arnt Børre
+Salberg, Norsk Regnesentral, Robert Jenssen, UiT. Veileder: Fred
+Godtliebsen. Biveiledere: Håvard Rue, Stein Olav Skrøvseth,
+Steve Marron, Stephen M. Pizer
+
+Ny mastergrad
+Are Murberg Henriksen
+Discrimination of cod otolith shapes by two different Fourier methods
+Veileder: Sigrunn Holbek Sørbye, Ekstern veileder: Alf Harbitz,
+Havforskningsinstituttet
+
+Nytt fra seksjonene 2 og 3 ved Matematisk institutt,
+Universitetet i Oslo
+Ny ph.d-grad
+Torstein Nilssen (20. desember 2013)
+Construction and regularity of solutions to stochastic partial
+differential equations with irregular drift coefficients (prøveforelesning:
+The theory of risk measures and applications to mathematical finance)
+Bedømmelseskomité: Takeyuhi Hida, Meijo University;
+Hui-Hsiuing Kuo, Lousiana State University; Tom Lindstrøm,
+Universitetet i Oslo. Veiledere: Frank Proske, Universitetet i
+Oslo; Bernt Øksendal, Universitetet i Oslo.
+14
+
+
+
+Nye mastergrader
+Anders Engan
+Numerical option pricing in CARMA models
+Veileder: Fred Espen Benth
+Kine Veronica Lund
+The instability of cross-validated Lasso
+Veiledere: Knut Liestøl og Ole Christian Lindgjærde
+Didier Darwin Niteka
+Loss modelling when merging different branches
+Veileder: Erik Bølviken
+
+Nytt fra Norges teknisk-naturvitenskapelige universitet
+Nye mastergrader
+Tarjei Bratteland
+Data Analysis of Magnetotelluric Survey Data
+Veileder: Håkon Tjelmeland
+Nirosan Manoharan
+K-nearest neighbour methods for value of information in petroleum
+decision making
+Veileder: Jo Eidsvik
+Jeanett Gunneklev Støtvig
+Censored Weibull Distributed Data in Experimental Design
+Veileder: John Tyssedal
+
+15
+
+
+
+annonseringer
+PhD og post-doc stillinger ved UiO
+Ved Matematisk Institutt, UiO, er det i disse dager utlyst en
+rekke PhD-stillinger i statistikk, samt en post-doc-stilling.
+En PhD-stilling er en institutt-stipendiat-stilling:
+Position: PhD Research Fellowship in Stochastic Analysis or
+Statistics
+Deadline: 20th of April - 2014
+Contact: Ingrid Glad, email: glad@math.uio.no
+Web-info: http://uio.easycruit.com/vacancy/1149365/
+64285?iso=no
+
+I tillegg utlyser vi to PhD-stillinger og en Post-doc-stilling
+knyttet til Nils Lid Hjorts FocuStat-prosjekt:
+Position: Two PhD Research Fellowship in statistics
+Deadline: 20th of April - 2014
+Contact: Nils Lid Hjort e-mail: nils@math.uio.no
+Web-info: http://uio.easycruit.com/vacancy/1149391/
+64285?iso=no
+
+Position: Postdoctoral Research Fellowship in Statistics
+Deadline: 20th of April - 2014
+Contact: Nils Lid Hjort e-mail: nils@math.uio.no
+Web-info: http://uio.easycruit.com/vacancy/1149305/
+64285?iso=no
+
+Og til slutt en stilling knyttet til CELS (Computational Inference
+in Evolutionary Life Sciences):
+Position: PhD Research Fellowship in statistics Deadline: 20th
+of April - 2014 Contact: Geir Storvik e-mail: geirs@math.uio.no
+Web-info: http://uio.easycruit.com/vacancy/1149331/
+64285?iso=no
+
+Alle stillinger har søknadsfrist 20. april. Velkommen til oss!
+
+16
+
+
+
+Førsteamanuensis i statistikk i Bergen
+Ved Matematisk institutt er det ledig ei stilling som
+førsteamanuensis i statistikk. Det vert søkt etter personar
+med forskingsaktivitet helst innan tidsrekkjer/økonometri,
+biostatistikk/medisinsk statistikk, utrekningsstatistikk eller
+matematisk statistikk, knytt til gruppa sine forskingsaktivitetar.
+
+http://www.jobbnorge.no/
+ledige-stillinger/stilling/99853/
+foersteamanuensis-i-statistikk
+
+Ettårig vikariat som statistiker ved Stavanger
+Universitetssjukehus
+Stavanger Universitetssjukehus (SUS) lyser nå ut et ettårig
+vikariat som statistiker. Jobben involverer statistisk veiledning,
+deltakelse i forskningsprosjekter og litt undervisning. Det
+arbeides med å opprette en ny fast statistikerstilling ved SUS.
+NB! Kort frist: 6. april. Oppstart for stillingen er 1. mai.
+
+https://www.webcruiter.no/wcmain/
+advertviewpublic.aspx?oppdragsnr=
+2117618793&culture_id=
+NB-NO&company_id=5151
+
+4 PhD positions in statistics for big data and genomics
+in Oslo, Norway
+Centre for Computational Inference in Evolutionary Life
+Sciences (CELS) is a new multidisciplinary centre within the
+Department of Mathematics, University of Oslo comprising
+strong research environments in biology and statistical and
+computational methods for data analysis.
+4 PhD positions are available at the University of Oslo,
+Faculty of Mathematics and Natural Sciences. All positions
+are within analysis of genomics data and will contain
+methodological challenges related to big data issues but
+focused on different biological problems.
+For full announcements, see
+http://uio.easycruit.com/vacancy/1149331/64285?iso=no
+http://uio.easycruit.com/vacancy/1149267/96323?iso=no
+http://uio.easycruit.com/vacancy/1149261/96323?iso=no
+http://uio.easycruit.com/vacancy/1149307/64290?iso=no
+
+Applicants must hold a Master’s degree (or equivalent)
+in statistics, informatics or evolutionary genomics. A strong
+background in statistics or quantitative methods is required.
+CLOSING DATE FOR APPLICATIONS: 20. April 2014
+
+17
+
+
+
+Internasjonalt kollokvium i Oslo 2015
+Gunn Albertsen | Oslo
+
+Den 7.-10. juni 2015 er Den Norske Aktuarforeningen vertskap
+for et internasjonalt kollokvium i Oslo. Kollokviet arrangeres
+på vegne av den internasjonale aktuarforeningen, International
+Actuarial Association (IAA). Dette er et kollokvium for
+seksjonene IAALS (Life Insurance) og PBSS (Pensions, Benefits
+and Social Security). Konferansen er avhengig av at det blir
+innsendt artikler (på mellom ca 5 og 30 sider). Noen av temaene
+konferansen ønsker å dekke er: utviklingen i forventet levealder,
+uførehyppigheter, prising av rentegarantier, risikoklassifisering
+og prising, solvens II for liv/pensjon, nye produkter innen
+liv/pensjon, risikostyring, endringer i lovverk etc. Se forøvrig
+det offisielle «Call for Papers» under.
+Vi i organisasjonskomiteen håper på flere norske bidrag,
+både fra praktikere og akademikere. Vi oppfordrer spesielt
+nyutdannede til å presentere funn fra egen masterutdredning,
+og statistikere og aktuarer som i praksis har arbeidet med et
+tema som kan interessere aktuarer fra andre land, f.eks. hva
+med endringer i norsk pensjonslovgivning?
+Innsendelse av bidrag vil skje gjennom hjemmesiden til
+konferansen og det vil åpnes for innsendelse i løpet av 2014.
+I første omgang, senest fire måneder før konferansen, vil
+det kun være behov for å innsende et kort abstract (ca. en side),
+mens endelig artikkel skal innsendes noe senere, omlag en
+måned før konferansen. Utvelgelse av innsendte bidrag vil
+avgjøres av en vitenskapelig komite, med Ragnar Norberg
+som leder. Vi håper å motta flere bidrag til OSLO2015 fra
+medlemmene i NSF!
+
+18
+
+www.actuaries.org/oslo2015/
+
+
+
+19
+
+
+
+the6vzth6Nordic6conference6in6Mathematical6Statistics
+
+Nordstat:2014
+Nordstat6v/@I6|6Turku
+
+June6vndCRth|6v/@I|6Turku|6Finland
+
+Keynote:speakers:
+Søren6Johansen|6v/@I6SJS6lecturer
+Bing6Li
+Confirmed:invited:speakers:
+
+Invited:theme:sessions:
+
+Peter6Bank
+John6Aston
+Henrik6Hult
+Marc6Hallin
+Pentti6Saikkonen
+
+Time6series6analysis
+Brain6imaging
+Survey6sampling6and6official6statistics
+Dimension6reduction6and6ICA
+Mathematical6finance6and6insurance
+Stochastic6modeling6and6optimization
+Probability6theory6and6stochastic6processes
+Robust6and6nonparametric6methods
+Bayesian6analysis
+
+Several6contributed6sessions6and6a6poster6session6for6students
+
+Important:dates:
+February:3rd:6Start6of6registration6and6abstract6submission
+April:1st:6Abstract6submission6deadline
+April:15th:6Notification6of6abstract6acceptance
+May:1st:6Early6bird6registration6deadline
+May:26th:6Final6deadline6for6registrations
+
+Additional:information
+Conference6homepage:6wwwwutustatswfi.nordstatCv/@I.
+eCmail:6nordstatv/@I@utuwfi
+
+
+
+SOMMAR
+STATISTIKK
+SOLSTRAND
+Det 18. norske
+statistikarmøtet
+skjer 15.–18. juni 2015
+på Solstrand Hotel og Bad
+
+Hugs å setja av datoane allereie no!
+
+☺
+
+
+
+SCANDINAVIAN JOURNAL OF STATISTICS
+Volume 41 • Number 1 • March 2014
+Contents:
+
+Page
+
+Note
+Discussion of the article ‘Geodesic Monte Carlo on Embedded Manifolds’ by
+Simon Byrne and Mark Girolami
+
+1
+
+Papers
+Connections and Extensions: A Discussion of the Paper by Girolami and Byrne
+Persi Diaconis, Christof Seiler & Susan Holmes
+
+3
+
+Comment on Geodesic Monte Carlo on Embedded Manifolds by Byrne and Girolami
+Ian L. Dryden
+Contribution to the Discussion of the Paper Geodesic Monte Carlo on
+Embedded Manifolds
+John T. Kent
+Discussion on the Paper by Byrne and Girolami
+Marcelo Pereyra
+
+8
+
+10
+
+12
+
+Contribution to the Discussion of the Paper ‘Geodesic Monte Carlo on
+Embedded Manifolds’
+Babak Shahbaba, Shiwei Lan & Jeffrey Streets
+
+14
+
+Contribution to the Discussion of the Paper “Geodesic Monte Carlo on
+Embedded Manifolds”
+Daniel Simpson
+
+16
+
+Rejoinder: Geodesic Monte Carlo on Embedded Manifolds
+Simon Byrne & Mark Girolami
+
+19
+
+Editorial
+Six Papers on Dynamic Statistical Models
+Susanne Ditlevsen, Thomas Scheike & Michael Sørensen
+
+22
+
+Papers
+Spectral Estimation of Covolatility from Noisy Observations Using Local Weights
+Markus Bibinger & Markus Reiß
+
+23
+
+One-Way ANOVA for Functional Data via Globalizing the Pointwise F-test
+Jin-Ting Zhang & Xuehua Liang
+
+51
+
+Weakly Decomposable Regularization Penalties and Structured Sparsity
+Sara van De Geer
+
+72
+
+Integrative Analysis of Cancer Diagnosis Studies with Composite Penalization
+Jin Liu, Shuangge Ma & Jian Huang
+
+87
+
+Inference in Targeted Group-Sequential Covariate-Adjusted Randomized
+Clinical Trials
+Antoine Chambaz & Mark J. Van Der Laan
+Estimation of Causal Odds of Concordance using the Aalen Additive Model
+Torben Martinussen & Christian Bressen Pipper
+
+104
+
+141
+
+
+
+Combining Multivariate Bioassays: Accurate Inference Using Small
+Sample Asymptotics
+Gaurav Sharma, Thomas Mathew & Ionut Bebu
+
+152
+
+Multistate Survival Models as Transient Electrical Networks
+Ronald W. Butler & Douglas A. Bronson
+
+167
+
+Bayesian Transformation Models for Multivariate Survival Data
+Mário De Castro, Ming-Hui Chen, Joseph G. Ibrahim & John P. Klein
+
+187
+
+Wavelet Thresholding Estimation in a Poissonian Interactions Model with
+Application to Genomic Data
+Laure Sansonnet
+
+200
+
+Semiparametric Mixtures of Symmetric Distributions
+Cristina Butucea & Pierre Vandekerkhove
+
+227
+
+Block-threshold-adapted Estimators via a Maxiset Approach
+Florent Autin, Jean-Marc Freyermuth & Rainer Von Sachs
+
+240
+
+Goodness-of-fi t Test for Directional Data
+Graciela Boente, Daniela Rodriguez & Wenceslao González Manteiga
+
+259
+
+Published on behalf of:
+Danish Society for Theoretical Statistics
+Finnish Statistical Society
+Norwegian Statistical Society
+Swedish Statistical Society
+
+
+
+Årskontingent Norsk Statistisk Forening 2014
+Kontonummer: 0530 27 73299
+
+Kasserer: E-mail: clara-cecilie.gunther@nr.no
+
+Tlf: 22 85 25 63
+
+_____________________________________________
+Medlemskontingenten i NSF er kr. 200,- pr. år for ordinære medlemmer (mastergradsstudenter får gratis medlemskap).
+Dersom du er usikker på når du betalte sist kan du kontakte kassereren per epost.
+Hva gjør vi med pengene?
+De største utgiftspostene for NSF er overføringer til lokallagene i Oslo, Bergen og Trondheim, utdeling av Sverdrupprisen,
+NSFs medlemskap i the European Mathematical Society (EMS) og the International Statistical Institute (ISI), og utgifter i
+forbindelse med diverse arrangementer (bla. støtte til studenter ved deltakelse på det norske statistikermøtet).
+Medlemsregister
+For at medlemsregisteret skal være best mulig oppdatert er det viktig at du oppgir evt. ny post/e-postadresse ved å sende
+meg en e-post. Vi har opprettet en egen epostliste for NSFs medlemmer, nsf-medlemmer@math.uio.no. Dersom du ikke
+mottar e-post fra denne listen, send meg din oppdaterte e-postadresse.
+Betalingsfrist for innbetaling av kontingent er 15. april 2014. Vennligst oppgi hvem kontingenten gjelder for ved
+innbetaling, dette er spesielt viktig dersom din arbeidsgiver betaler kontingenten.
+
+PÅ FORHÅND TAKK!
+Vennlig hilsen
+Clara-Cecilie Günther
+Kasserer NSF
+
+Kontingent NSF 2014: kr. 200
+
+15.04.2014
+
+NSF v/ Clara-Cecilie Günther
+Norsk Regnesentral
+Postboks 114, Blindern
+0314 Oslo
+
+0530 27 73299
+
+
+

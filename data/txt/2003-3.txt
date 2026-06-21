@@ -1,0 +1,1034 @@
+ISSN 0803-8953
+
+TILFELDIG GANG
+
+Nr. 3, årgang 20
+November 2003
+
+Utgitt av Norsk Statistisk Forening
+INNHOLD
+Fra redaktøren. Gunnhildur Steinbakk
+
+Lederen har ordet. Håvard Rue
+Faglig stoff
+
+Puslerispalten
+
+Pusleri nr. 14. Jostein Lillestøl
+Løsning av pusleri nr. 13. Jostein Lillestøl
+Milepæler
+
+Steinar Bjerve fyller 60 år 22. november
+Heder til Dag Tjøstheim
+
+Konferranser, meldinger og annet
+Nytt fra UiO
+
+Nytt fra NTNU
+Nytt fra UiB
+Nytt fra NLH
+
+25. European meeting of Statisticians 24.-28. juli på Blindern i Oslo
+Det 13. Norske Statistikermøte 2005
+
+Referat fra hovedmøtet i norsk statistisk forening, Hurdal 2003
+Nye redaktører i TG
+
+
+
+
+
+Fra redaktøren:
+Det har vært mye fokus på få studenter og synkende rekruttering til statistikkfaget
+i de siste årene. Dette er en generell tendens for matematiskefag i samfunnet.
+
+Nye
+
+programmer ved NTNU og UiO blir presentert i dette nummer. Vi håper på at de nye
+studieprogrammene ved universitetene vil høste gevinster i form av et høyere studentall.
+I arbeidet med å rekruttere nye studenter er det viktig at vi statistikere føler et fellesskap og samhold. Det er nettopp her TG kommer inn som et viktig bidrag til å
+knytte det statistiske miljøet i Norge sammen. På årsmøtet i Hurdal kom det opp som
+et alternativ at TG skulle skifte layout og komme ut i en proffere utgave noe som ville
+bety en betydelig økning produksjonskostnadene. Jeg er enig med at layouten på TG
+er uproffesjonell og ikke er særlig pen. Men som en formidlingskanal fra statistikere til
+likesinnede statistikere fungerer TG som den skal. Det er dessuten en viss fare for at
+TG ikke kommer ut dersom arbeidet med å produsere et nummer blir alt for stort.
+Nå som jeg båret fram min visjon om at TG er viktig, trekker jeg meg som redaktør
+da dette var vanskelig å kominere med min nye stilling som 3-årig stipendiat ved Universitetet i Oslo. Jeg beklager bryderiet jeg har laget for NSF-styret med å finne ny
+redaktør og ønsker den nye redaktørduoen Hans Julius Skaug og Jostein Paulsen fra
+Bergen lykke til.
+
+Gunnhildur Högnadöttir Steinbakk
+
+
+
+Lederen har ordet
+
+I en tid hvor både rekruttering til realfagene er nærmest konstant i krise og nivået i den videregående
+skole synes å være stadig synkende, var det meget oppløftende å være deltaker på det 12. Norske
+Statistikermøteti Hurdal, 16-18 juni 2003. Andelen av yngre deltakere var meget stor og ga en god
+aldersfordeling til deltakerne på møtet. Det var ingen tegn på at rekrutteringen til statistikkfaget på
+dr.gradsnivå er synkende. For å illustrere dette vil jeg gjengi en liten del av programmet på møtet
+hvor stipendiater og hovedfagsstudenter hadde sine presentasjoner.
+
+Solve Sæbø
+
+Å genetic and district based Bayesian analysis of
+mastitis resistance in Norway
+
+Johan Fosen
+Tron Moger
+
+Dynamiske forklaringsvariable i forløpsanalyse
+Bruk av frailty-modeller i analyse av levetidsdata:
+Korrelerte levetideri søskenflokker
+
+Ragnar Hauge
+Hugo Hammer
+
+Independent adaptive Metropolis-Hastings
+
+Noen nye estimatorer for binære Markov felt
+
+Sveinung Erland
+Ingunn Fride Tvete
+
+1/w*-støy og reversible Markovkjeder på endelige utfallsrom
+Bayesiansk hierarkisk modellering av romlige og tidsrelaterte
+
+Ingelin Steinsland
+
+Blokkoppdatering i romlege felt
+
+avhengigheter mellom jordskjelv
+
+Lena Ringstad Olsen
+
+Deteksjon av endringeri tidsserier ved hjelp av frekvensplanet
+
+I tillegg til at det faglige nivået på innholdet i presentasjonene var høyt, ble flere enn meg meget
+imponert over de presentasjonstekniske ferdigheter. De var rett og slett imponerende!
+
+Høsten har for oss i universitetssektoren vært preget av innføringen av den nye kvalitetsreformen.
+Særlig gjelder dette de som er involvert i undervisning av nye studenter, men endringer har også
+skjedd for høyere årskurs. For min egen del har ikke endringene vært så store ennå, selv om
+semesteret startet uforskammet tidlig for å dekke inn en 2 ukers undervisningspause i høst. Av
+andre praktiske detaljer kan nevnes at regler for eksamensavviklingen er endret. Jeg trenger ikke
+lenger å involvere en sensor i eksamensavviklingen av mitt fag. Videre er sivilingeriør»-tittelen historie. Reformen vil nok gjøre seg mer gjeldende etterhvert som de nye studentene kommer høyere
+opp i systemet. Vi får vel mer diskusjon om kvalitetsreformen i TG etterhvert.
+
+Styret i NSF har hatt et styremøte i høst. Av almen interesse er vår beslutning angående det 13.
+Norske Statistikermøtet som vil finne sted i 2005. Dette er diskutert et annet sted i dette nummer av
+TG.
+
+Til slutt vil jeg benytte anledningen til å ønske alle en riktig god advents- og julehøytid!
+
+Håvard Rue
+
+
+
+Nye studier ved Universitetet i Oslo
+Høsten 2002 startet studiet i Matematikk og Data (MoD) ved Universitet i Oslo. Et eget
+program som studentene skulle søke direkte inn på var en forholdsvis ny idé. Behovet
+for flere studenter innen matematiske fag gjorde dette til et viktig satsingsområde for det
+matematisk-naturvitenskapelige fakultet. Et arbeid over flere år for et bedre samarbeid
+både på undervisnings- og forskningssiden mellom statistikk, mekanikk og numerisk analyse
+ble en realitet.
+
+Rett etter opprettelsen av MoD kom studiereformen. I den forbindelse besluttet Universitet i Oslo å gjøre en større endring i studietilbudet ved at alle studier nå skulle inn i
+studieprogrammer tilsvarende MoD-studiet. På det Matematisk-Naturvitenskapelig faktultet ble det opprettet hele 13 nye studier. Et av disse studiene var en videreføring av
+MoD-studiet, men nå med flere aktører. Både ren matematikk, signal- og billedbehandling
+og bioinformatikk ble inkludert og resulterte i det tre-årige bachelor-studiet i Matematikk,
+Informatikk og Teknologi (MIT). Dette var en vesentlig forbedring for statistikk-faget da
+flere av de nye fagområdene er nært beslektet med oss og at det allerede eksisterte et
+samarbeid på forskningsnivå.
+MIT er et studieprogram som omfatter mange ulike studier innen *ren” og anvendt matematikk. Programmet er delt i to hovedveier, en del som går i metodisk retning og en i mer
+fysisk/naturfaglig retning. Hvilken vei studentene vil ta, må de velge allerede etter første
+
+semester, men matematikk vil uansett være et sentralt basisfag. Større bruk av datamaskin
+både gjennom egne informatikk-kurs men også integrert i alle andre kurs vil også være sentral. For den metodiske retningen vil også statistikk inngå som en viktig del. Det vil være
+større fokus p motivering av teoretiske resultater gjennom anvendelser enn tidligere.
+Totalt er det 6 studieretninger i MIT:
+Metodisk retning
+
+Naturvitenskapelig retning
+
+Dataanalyse
+
+Computational Science
+
+Finans, forsikring og risiko
+
+Mekanikk og teknologi
+
+Informatikk
+
+Matematikk
+
+Statistikk er involvert i to av disse, dataanalyse og finans, forsikring og risiko.
+
+Dataanalyse omfatter fordypningene generell statistikk, bioinformatikk og biostatistikk
+og signal- og billedbehandling. Fellesnevneren her er statistikk-kunnskap, men de ulike
+fordypninger har forskjellig spesialisering. Finans, forsikring og risiko inneholder forsikringsmatematikk, finansmatematikk og pålitelighet. Også her er statistikk-kunnskap
+viktig men med et noe annet fokus.
+
+MIT-studiet kvalifiserer for flere ulike masterprogrammer. “Vart” fag som her omhandler
+generell statistikk, biostatistikk og bioinformatikk samt aktuarstudiet inngå i det to-årige
+
+
+
+masterstudiet i "Modellering og dataanalyse”. Som for det tidligere hovedfag skal studentene både følge kurs og skrive en oppgave. Oppgaven kan være lang (ett års arbeid) eller
+kort (halvt års arbeid).
+
+130 studenter startet på MIT studiet i høst. Noen har blitt borte i startfasen, men vi, som
+andre, håper at mer strukturerte studier og tettere oppfølging av studentene vil gjøre at
+
+vi holder på en større andel av de som har kommet gjennom det første nåløyet.
+Hva slags studenter vil vi få i det nye studiet? En solid porsjon av matematikk-kurs bør
+gi studentene en like god teoretisk balast som tidligere. Samtidig bør ferdighetene i bruk
+av datamaskin bli vesentlig forbedret. Studiet legger opp til en mindre spesialisering på
+bachelornivå enn tidligere, men bruk og nytte av statistikk-faget vil komme tydligere frem.
+Dette burde gi mer motiverte studenter for dybdekurs på høyere nivå.
+
+Hvor mange av disse studentene vil så velge statistikk-relaterte retninger innen MIT? En
+god pekepinne på dette vil vi få allerede i neste semester når de må velge mellom en
+metodisk og en naturvitenskapelig retning. Uansett har vi stor tro på at en profilering av
+vårt fag i samarbeid med andre matematiske fag er den riktige veien å gå. Statistikk blir
+for snevert og tørt for ferdige gymnasiaster, men når vi har fått dem innenfor MIT har vi
+større muligheter for å vise frem hvor spennende og utfordrende vårt fag faktisk kan være.
+
+Et større antall studenter innen matematiske fag vil helt sikkert også gi vårt fag en bedre
+utvikling. Hvile på laurbærene kan vi imidlertid ikke. Profilering av matematikk-faget
+generelt og statistikk spesielt må vi gjøre kontinuerlig gjennom de kanaler vi har, det være
+seg web-sider, massemedia, besøk på skoler eller andre steder!
+
+
+
+Nytt studieprogram i biomatematikk ved
+NTNU
+Jarle Tufto
+
+I forbindelse med kvalitetsreformen har vi i høst startet opp et nytt bachelorstudium i biomatematikk ved NTNU. Studiet består av emner både i ma-
+
+tematikk /statistikk og emner i biologi/medisin hentet inn fra andre fakultet.
+Ved valg av studieretningene biomodellering eller medisinsk statistikk i 2. studieår vil studentene kunne gå videre med masterstudium i statistikk mens
+studieretningen for teoretisk biologi vil kunne påbygges med en mastergrad
+i biologi. Selv om studiet har et sterkt innslag av statistiske emner har vi
+valgt å gi programmet navnet biomatematikk fordi dette favner videre enn
+biostatistikk som av mange statistikere oppfattes som statistisk modellering
+kun innenfor medisin.
+
+Ved første opptak nå i høst har vi fått omkring 30 studenter, et tall
+vi er meget godt fornøyd med. Her vil jeg skrive litt om bakgrunnen for
+opprettelsen av dette studieprogrammet. Mer detaljert informasjon om selve
+studiet er tilgjengelig på http://www.math.ntnu.no/biomat
+
+Først vil jeg si litt om situasjonen innenfor de delene av biologien jeg kjen-
+
+ner best. Jeg vil tro at beskrivelsen også vil kunne passe for fagfelt innenfor
+medisin. Mitt inntrykk er at en typisk biolog, innenfor felter som økologi
+og evolusjonsbiologi, er dyktig når det gjelder praktiske metoder brukt ute
+i felt eller i lab, mens gode kunnskaper innenfor de mer teoretiske sidene
+
+av fagfeltet og innenfor statistisk analyse av data er mangelvare. Selv om
+de fleste som har sin utdanning innenfor biologi typisk tar grunnkurs innen-
+
+for matematikk og statistikk er situasjonen ofte at studentene ikke ser disse
+kunnskapene komme til anvendelse i andre fag gjennom resten av studiet
+fordi den generelle kompetansen i matematikk og statistikk blant de som
+
+foreleser biologiske emner generelt er lav. Dette kan ha historiske årsaker.
+Men det tradisjonelle bildet av biologien som et mykt ikke-matematisert
+fag har i dag helt klart endret seg. Ser en på det som publiseres i ledende
+journaler gjøres det mer og mer bruk av matematisk og statistisk modellering.
+Skal en produsere god forskning innenfor en del områder av biologien i dag
+
+GI
+
+er det derfor ingen vei utenom å knytte til seg personer med kompetanse
+
+
+
+innenfor matematisk og statistisk modellering.
+
+Spørsmålet er om det er en god ide å utdanne tverrfaglige personer med
+kompetanse i både biologi og matematikk/statistikk eller om en kan oppnå
+like gode resultater ved at det i stedet stimuleres til forskningssamarbeid
+mellom “rene” matematikere/statistikere og “rene” biologer. Problemet med
+forskningssamarbeidsløsningen er i mange tilfeller at biologer og matematikere/statistikere snakker så forskjellige språk og har så forskjellige interesser
+rent faglig at dette vanskeliggjør samarbeid. Det er her vi håper at mer
+tverrfaglige kandidater som forhåpentligvis om noen år kommer ut med mastergrad i statistikk eller biologi vil kunne bygge bro i tillegg til selv å skape
+interessant forskning.
+
+Vi tror også at vi ved å utdanne statistikere med solide kunnskaper også
+
+i et substansfag som biologi eller medisin også får bedre statistikere. Framfor
+å anvende mer generiske statistiske modeller er min erfaring er at en kan
+hente langt mer interessant informasjon ut av innsamlede data ved å tilpasse
+mer skreddersydde parametriske statistiske modeller som har i seg interessante biologiske parametere og som bygger mer direkte på hva en vet om
+underliggende biologiske prosessene som har generert dataene. Denne typen
+modellering kan nesten bare gjøres av personer som har både den statistiske
+
+og biologiske/medisinske kompetansen.
+
+
+
+Jostein Lillestøl
+
+Nobelprisen i økonomi 2003 til statistisk teori!
+Sveriges Riksbanks pris i økonomisk vitenskap til Alfred Nobels minne deles i
+mellom år mellom to sentrale personer i utviklingen av statistiske metoder for
+økonomiske
+
+tidsserier:
+
+Robert F. Engle(60), New York University, USA ”för metoder att analysera
+ekonomiska tidsserier med tidsvarierande volatilitet (ARCH)” och
+Clive W. J. Granger (69), University of California at San Diego, USA "för
+metoder att analysera ekonomiska tidsserier med samvarierande trender
+(kointegration)”.
+
+Forskere innen økonomiske vitenskaper anvender data i form av tidsserier for å
+finne sammenhenger og testa hypoteser innen økonomisk teori. Tidsseriene viser
+
+utviklingen av BNP, priser, renter, aksjekurser, etc. Årets pristagere utviklet på
+
+1980-tallet nya statistiske metoder som håndterer to sentrale egenskaper ved mange
+tidsserier: tidsvarierende volatilitet og samvarierende ikke-stationæritet.
+
+I finansielle markeder har tilfeldige svingninger over tid - volatilitet - stor
+betydning, ettersom verdien på aksjer, opsjoner og andre verdipapirer beror på
+deres risk. Svingningene kan variere kraftig over tid - rolige perioder med små
+svingninger avløser mer turbulente perioder med større svingninger. Til tross
+for dette arbeidet forskere lenge, i mangel på noe bedre, med statistiske
+metoder som forutsatte konstant volatilitet. Robert Engle fant at begrepet
+autoregressiv betinget heteroskedastisitet (ARCH) fanger opp egenskaper hos
+mange tidsserier og utviklet (i samarbeid med Bollerslev) metoder som gjør det
+mulig å modellere tidsvarierende volatilitet. Dette var et gjennombrudd som
+ledet til en omfattende teoriutvikling og senere til praktiske anvendelser,
+bl.a. for analyser av finansmarkeder, ved risikostyring og prissetting av
+finansielle
+
+instrumenter.
+
+De fleste makroekonomiske variabler for eksempel BNP er ikke-stationære,
+bl.a. betyr at de ikke varierer rundt et fast nivå, men typisk har
+
+som
+
+tilsynelatende trender av mer eller mindre tilfeldig natur. En tilfeldig
+påvirkning vil kunne gjøre seg gjeldende ikke bare på kort sikt, men også på
+lengre sikt. Denne form for ikke-stasjonæritet kalles ofte stokastisk trend.
+Imidlertid kan det hende at flere tidsserier har en felles stokastisk trend,
+slik at en lineær kombinasjon av disse er stasjonær, og at man likevel kan
+trekke kan trekke viktige statistiske konklusjoner. Granger innførte begrepet
+kointegrasjon og ga de første sentrale bidrag til teorien på området. I praksis
+
+var dette viktig i studier av system der den kortsiktige dynamikken påvirkes av
+store tilfeldige forstyrrelser, samtidig som de langsiktige variasjonene
+begrenses av økonomiske likevektsrelasjoner, for eksempel sammenhengen mellom
+formue og konsum,
+
+valutakurser, prisnivåer eller korte vs.
+
+lange renter.
+
+Det er grunn til å nevne to nordiske bidragsytere til temaområdet for årets
+økonomipris. Det er dansken Søren Johansen, som har levert de mest dyptplyende
+bidrag til teorien for kointegrasjon etter Grangers introduksjon av begrepet.
+
+Videre vår egen Dag Tjøstheim ved Universitetet i Bergen, som samarbeider med
+Granger, og har gitt tunge bidrag til teorien for ikke-parametrisk estimering av
+volatilitet. For øvrig kan det nevnes at han (sammen med Stefan Sperlich og
+Lijian Yang) nylig har fått Tjalling C. Koopmans pris for et arbeid innen
+økonometrisk teori.
+
+
+
+Pusleri nr. 14
+
+En Canadagås og n brunsniler er plassert rundt en sirkel, i figuren illustrert med
+n=6 og gåsen i posisjon 0 og en snile i hver av posisjonene 1 til n. Gåsen gjør en
+”random walk” langs sirkelen, hvert steg til en av de to nærmeste posisjonene og
+spiser snilen som er der, hvis der er noen.
+
+Hva er sannsynligheten for å bli lengstlevende snile i hver av posisjonene?
+Hva er forventet levetid for hver av snilene?
+
+En alternativ kontekst for problemet er:
+
+Det sitter n personer ved et sirkelrundt bord og en ølmugge (0) som rommer en
+
+slurk til hver passerer iht. en ”random walk”. Har du allerede fått din slurk, skåler
+du bare og sender kruset fra deg. Hvor bør du unngå å sitte hvis du er veldig tørst?
+
+Varianter av denne kontekst er også interessante, for eksempel at ølmuggen
+rommer m slurker eller er en Sareptas-ølmugge. Spørsmålene er mange!
+
+Jostein Lillestøl
+
+Forslag til løsning og aktuelle problemstillinger mottas gjerne:
+
+jostein.lillestol @nhh.no
+
+
+
+Pusleri nr. 13 (løsning)
+Problem:
+
+Ta for deg en vanlig godt stokket kortstokk med 52 kort, 26 røde og 26 sorte.
+Kortene blas opp ett etter ett, fra første kort til siste kort. Før hvert nytt kort
+
+vises, skal du gjette fargen på dette. Hva er forventet antall korrekte gjetninger?
+Løsning: Optimal strategi er (1) i tilfellet med forskjellig antall kort igjen av
+hver farge å gjette den som det er flest igjen av, og (11) er det like mange igjen av
+
+hver farge røde, spiller det ingen rolle hva en gjetter. Følger en slavisk denne
+strategi er en faktisk sikret 26 riktige fra de skjevfordelte situasjonene uansett.
+Det gjenstår da bare å finne forventet antall korrekte gjetninger fra de
+likefordelte situasjonene, der vi har fifty-fifty sjanse for å gjette riktig.
+La P,,,bety sannsynligheten for sitasjonen med n kort av hver farge oppstår.
+Forventet antall ganger en likefordelt situasjon oppstår er da
+26
+
+26
+
+n=1
+
+n=1
+
+EX = E(Y 1,)=>'P.,
+Anta rettferdig stokking, dvs. at alle m=52! ordninger av kortene er like
+
+sannsynlige. Vi har etter regelen om ”gunstige pa mulige”:
+
+52
+
+52!
+
+mn
+
+2n
+
+Argumentet for telleren er: Velg ut de n røde kort som skal være igjen, og de n
+sorte kort som skal være igjen. De 2n kortene kan ordnes på 2n! måter og de (522n) kortene som allerede er borte kan ordnes på (52-2n)! måter.
+Svaret kan nok innses direkte, men resonnementet bør gå via nevnte antagelse.
+26
+
+Svaret pa oppgaven blir derfor:
+
+2644 LP. = 30.040665
+2 tI
+
+En annen tilnærming til oppgaven er ved rekursjon:
+
+La E(n,k) være forventet antall riktige gjetninger med r røde og s sorte kort igjen.
+Da har vi
+
+E(r,s)=
+
+GO
+
+max(r,S
+
+I+5
+
+EG 1.8) +E r,s 1)
+r
+
+Programmering i Maple med randkravene E(r,0)=r og E(0,s)=s
+
+E(26,26)= 3 724 430 600 965 475
+123 979 633 237 026
+
+gir
+
+
+
+Steinar Bjerve fyller 60 år 22. november
+Steinar er født inn i norsk statistikk — og i Det norske arbeiderparti. Faren til Steinar,
+sosialøkonomen Petter Jakob Bjerve, var direktør i Statistisk Sentralbyrå 1949-80, og han
+var finansminister i en arbeiderpartiregjering 1960-63. Steinar ble født på Levanger, men
+hadde mest av sin barndom på Tøyen, i samme borettslag som Gerhardsen og andre
+arbeiderpartiledere. Erik Bølviken vokste for øvrig opp samme sted. Familien Bjerve
+flyttet etter hvert til Solveien på Nordstrand. Bortsett fra en kort periode som nygift, og
+bortsett fra korte og lange opphold i Berkeley, har Steinar bodd på Nordstrand.
+Steinar bodde første gang på stipendiemidler i California som 5-åring. Petter Jakob var en
+av de mest lovende studentene til Ragnar Frisch, og dro med familien til
+forskningsopphold i Stanford. Siden har Steinar vært i California mange ganger, først og
+fremst i Berkeley, der han tok sin doktorgrad i 1974. Berkeley er Steinars annet hjemsted.
+En treffer knapt en statistiker derfra som ikke kjenner Steinar, og som spør hvordan han
+har det og sender hilsen.
+
+Steinar er også en 68-er. Han begynte på Blindern i 1962, og ble cand. real. i 1968 med
+statistikk hovedfag. Det var i 1962 den første store bølgen med studenter slo inn over Det
+Kongelige Fredriks. Interessen for matematiske fag var stor, og det var mange glupinger
+som hørte Tambs Lyche forelese i auditoriet på Marienlyst skole. Steinar var en av disse
+glupingene, som organiserte egne kollokvier og leste matematikk utover pensum. Dette
+var før informatikkfagets tid, men Ole Johan Dahl holdt kurs i nummeriske metoder. Til
+eksamen fikk vi hver vår mekaniske regnemaskin av merket Facit. De surret og klang,
+særlig når de ble brukt til divisjon. Steinar fortapte seg i lyden og rytmen, og bidro etter
+
+beste evne. Han klarte seg sikkert igjennom.
+
+I 1971 dro Steinar sammen med kona Ragnhild og datteren Kristine til UC Berkeley som
+doktorgradsstudent i statistikk. Tidligere hadde Arnljot Høyland, Kjell Doksum og Erik
+Torgersen tatt sine doktorgrader der, og andre nordmenn hadde vært på besøk i kortere
+eller lengre tid. Steinar fikk Peter Bickel som veileder, og han fullførte sitt studium på
+knappe tre år. I avhandlingen utviklet han asymptotisk teori for observatorer som er
+lineære i ordningsobservatoren. Steinar og familien stortrivdes i Berkeley. Jeg kom året
+etter, med min lille familie. På vår første dag i Berkeley, ti dager før folkeavstemningen
+om EFi 1972, viste Ragnhild og Steinar oss campus og Telegraph Avenue. Flower power
+var på hell, men det blomstret i denne gata. Ragnhild bød også på avocado, som var nytt
+for oss. Steinar og jeg rigget til antenne for å høre på kortbølgeradio hvordan
+folkeavstemningen gikk. Gjennom sprakingen fikk vi inntrykk av at det ble nei-flertall,
+
+slik vi håpet. Steinar ringte straks etter til den norske konsulen i San Fransisco for å få
+bekreftelse, da endelig konsulen hadde fått buksene på om morgenen. Konsulen bekreftet,
+
+og la til "Å Herre Gud. Disse folkene skal jeg nå representere."
+
+Fra 1974 var Steinar fast ansatt på Blindern. Det var ikke ofte Sverdrup ga uttrykk for
+tilfredshet, men da han hadde fått Steinars ansettelse i orden ytret han seg i sterke ord. I
+perioden mellom hovedfaget og Berkeley var Steinar vit.ass. på Matematisk institutt. Fra
+1994 har han vært uføretrygdet. Fra 1975 til 1979 var han leder for Norsk statistisk
+
+{0
+
+
+
+forening. Det var mens foreningen fortsatt mest var en klubb for statistikere og økonomer
+i byrået.
+
+Det er ikke mange av oss som slår Steinar i antall artikleri Annals of Statistics. Steinar
+har to. Det første skrev han alene i 1977, og det andre sammen med Kjell Doksum i 1993.
+Steinar har vært kresen i valg av tidsskrifter, og han har ikke publisert så mange arbeider.
+I tillegg til de to i Annals, har han ett i JASA og to i SJS. Publiseringslista og annen
+informasjon finnes på Steinars hjemmeside: http://www.math.uio.no/-steinar/
+
+Det første Annalsarbeidet oppsummerte doktorgradsavhandlingen. Her viser han et
+Berry-Essen type resultat for lineærkombinasjoner av ordningsobservatorer. De som har
+studert det klassiske resultatet til svensken Essen (amerikaneren Berry hengte seg på
+Essen, og burde nok få navnet sitt strøket fra dette teoremet), vet at det ikke er direkte lett
+å vise uniform sentralgrensekonvergens og å beregne konvergenshastigheten. Steinar
+håndterte de betydelige tekniske vanskene ved først å vise resultatet når observasjonene
+er eksponentielt fordelt og ordningsobservatoren dermed er en vektor av uavhengige
+eksponentielt fordelte variable med kjente parametere. Dette trengte omtenksom Taylorutvikling og restleddsbetraktning, man kunne nesten si av Cramér-type. Det generelle
+resultatet fikk han så fram ved å transformere de opprinnelige observasjonene til
+eksponentiell fordeling, og samtidig transformere koeffisientene i den lineære
+observatoren, slik at den forble uendret.
+
+I det andre Annalsarbeidet tar Steinar og Kjell opp Galtons gamle spørsmål om hvordan
+en skal måle hvor sterkt to variable samvarierer lokalt. Når fordelingen er binormal, vil
+den vanlige korrelasjonskoeffisienten beskrive hvordan variablene samvarier både globalt
+
+lokalt. I andre simultanfordelinger vil som regel den lokale grad av samvariasjon målt
+ved forholdet mellom variasjonen i den betingete fordelingen til responsen gitt xvariabelen og totalvariasjonen i responsvariabelen over det lokale variasjonsintervallet til
+x, avhenge av hvor dette intervallet ligger. Steinar og Kjell definerte den lokale
+korrelasjonen i et punktet via styrken i den lokale regresjonen, og kunne dermed tegne
+korrelasjonskurver for grad av lokal samvariasjon. De utviklet faktisk en pen liten teori
+for korrelasjonskurver, med aksiomer og det hele. Om det er Steinar eller Kjell som står
+bak de håndtegnete figurenei artikkelen skal være usagt. Man kan kanskje mistenke
+Steinar, særlig på grunnlag av den første figuren. Den viser et konturplott av en vridd
+pære (twisted pear) som illustrerer hvordan samvariasjonen mellom graden av patologisk
+adferd og grad av hjerneskade styrker seg når hjerneskaden blir mer alvorlig.
+
+Steinar var en ivrig friluftsmann før han ble syk, og er fremdeles glad i å komme ut. Det
+var alltid et visst innslag av stokastikk i våre turer og våre avtaler, men moro var det. Noe
+stokastikk var det også på fotballbanen. I Berkeley ledet Kjell an, og Steinar fulgte
+kampropet. Han forsto da ikke selv hvorfor beina ikke alltid lystret. Rundt 1975 ble det
+klart at Steinar hadde ms. Prognosen var ikke god. Men Steinar hadde da, og har
+fremdeles, en livsvilje og en livsglede som går utenpå de flestes. Han lot seg ikke knekke
+eller deprimere. Til tross for at fysikken stadig blir dårligere er det lite å si på humøret
+eller tiltakslysten. Steinar klarer fremdeles å bo i sitt gode hus på Nordstrand. Der er det
+stadig gjester. Kommunen stiller opp med hjelp, og Steinar får ytterligere hjelp fra
+
+
+
+familien og fra andre når det trengs. At Steinar i sin rullestol også makter å komme seg til
+Berkeley nesten hvert eneste år imponerer alle. Han er selvsagt en mesteri å komme seg
+fram, og i å få folk til å hjelpe seg. Men det tror jeg mange gjør med stor glede.
+På vegne av en samlet flokk norske statistikere, og sikkert en betydelig rekke statistikere
+fra Berkeley, Litauen og andre steder, gratulerer jeg med sekstiårsdagen. Vi ønsker deg
+lykke til videre, og regner med å treffe deg i godt humør på Blindern, på konserter i Oslo
+— og i Berkeley.
+
+Tore Schweder
+
+Steinar sammen med det han syns er det viktigste i denne verden, hans to dgtre.
+
+19.
+
+
+
+Heder til Dag Tjøstheim
+På forsommeren fikk Dag Tjøstheim følgende heder:
+
+Professor Dag Tjøstheim ved Matematisk institutt er sammen med to medforfattere tildelt
+prisen ”Tjalling C. Koopmans Econometric Theory Prize 2003”. Prisen deles ut hvert
+tredje år. Se
+
+<http://korora.econ.yale.edu/et/award/tck.htm> og
+<http://korora.econ.yale.edu/et/award/tck-past
+.htm#2000>
+
+Vi gratulerer med prisen:
+
+Stefan Sperlich, Dag Tjøstheim and Lijian Yang, ” Nonparametric Estimation and Testing
+of Interaction in Additive Models,” Econometric Theory, Vol. 18, No. 2, April 2002, pp
+197-251.
+
+The article was selected by the journal’s Advisory Board from papers published in Econometric Theory over the period 2000-2002 inclusive. The citation accompanying the award
+is as follows:
+
+A large and useful class of nonlinear models, obtained by generalizing additive models
+through adding second order interaction terms, is analyzed using nonparametric techniques.
+This is a wide-open area for research and it is very useful to have available a firm foundation
+for empirical research in the area. The authors develop asymptotics for marginal integration
+and backfitting estimation techniques. They propose procedures for testing interaction
+effects and suggest bootstrap methods. Finally, they provide simulation evidence and give
+an empirical implementation to a livestock production function.
+
+13
+
+
+
+Nytt fra UiO
+Nyansettelser
+
+Fredrik Dahl er ansatt som Post Doc i prosjektet Evaluation of Bayesian Hierarchical
+Models.
+
+Gunnhildur Hognadottir Steinbakk er ansatt som stipendiat i prosjektet Evaluation of
+Bayesian Hierarchical Models.
+
+Cand.Scient i 2002
+Morten Naustedal: Forbedrede betingede Monte Carlo-metoder i påligetlighetsberegninger
+Veileder: Arne Bang Huseby
+
+Cecilie Sjuls Nygård:
+
+Application on a model taken from Arjas & Gasparra with several parameters
+Veileder: Bent Natvig og Jørund Gåsemyr
+Christian Stancliffe Akselsen:
+
+Risk adjusted pricing of corporate bands using CAPM
+Veileder: Erik Bølviken
+
+Hilde Halvorsen Application of Survival Time modelled as First Passage Time in a Wiener
+Process
+
+Veileder: Odd Aalen og Sven Ove Samuelsen
+
+Cand.Scient i 2003
+
+Hallvard Anestad:
+
+Application of Case-Cohort Studies on the Competing Risks Model
+Veileder: Ørnulf Borgan
+
+Paul Andre Wennesland:
+
+Estimering av overlevelse ved proposjonale og additive hasardmodeller
+Veileder: Ørnulf Borgan
+
+\4
+
+
+
+Statistical Research Report
+J . Saltyte-Benth, K. Ducinskas:
+
+Linear discriminant analysis of multivariate spatial-temporal regressions. no 2 March ISBN
+82-553-1395-8
+
+Nytt fra NTNU
+Dr.ing.
+
+Jo Eidsvik forsvarte 26. september 2003 sin avhandling Markov Chain Monte Carlo Algo-
+
+rithms and their Applications to Petroleum Reservoir Characterization.
+Tittel på prøveforelesning: Shrinkage Estimators.
+Veileder: Henning Omre, NTNU.
+
+Komite: Arnoldo Frigessi, Universitetet i Oslo; Robert W. Zimmerman, Imperial College,
+
+London; John Tyssedal, NTNU.
+
+Ayele Taye Goshu forsvarte 7. oktober 2003 sin avhandling Bayesian Inversion and Geostatistical Methods applied to some Groundwater Problems.
+Tittel på prøveforelesning: Bayesian Experimental Design.
+
+Veileder: Henning Omre, NTNU.
+
+Komite: Ivar Heuch, Universitetet i Bergen; Dan Rosbjerg, DTU, Danmark; Steinar En-
+
+gen, NTNU
+
+Ingelin Steinsland forsvarte 14. november 2003 sin avhandling Markov chain Monte Carlo
+updating schemes for hidden Gaussian Markov random field models.
+Tittel på prøveforelesning: Multiple hypothesis testing - recent developments and future
+challenges.
+
+Veileder: Håvard Rue, NTNU.
+
+Komite: Simon Wilson, Trinity College, Dublin, Irland; Geir Storvik, Universitetet i Oslo;
+
+Mette Langaas, NTNU.
+
+Siv.ing.
+Daniel Karl Andreas Berg:
+
+Bankruptcy Risk Prediction by Generalized Additive Models.
+Veileder: Håvard Rue.
+
+15
+
+
+
+Hilde-Gunn Bruu:
+
+Statistical Designs for cDNA Microarray Experiments.
+Veiledere: John Tyssedal og Mette Langaas.
+Ole Fridtjov Dolven:
+
+Statistical Modelling of Failure and Inspection Data for the Railway Line Dovrebanen.
+
+Veiledere: Per Hokstad, SINTEF og Bo Lindqvist.
+Egil Ferkingstad:
+
+Estimating the Proportion of True Null Hypotheses, with Application to DNA Microarray
+
+Data.
+
+Veiledere: Mette Langaas og Bo Lindqvist.
+
+Arild Gamme: Nytta av økologisk og statistisk informasjon i høstingsmodeller
+Veileder: Steinar Engen.
+Nina Gunnes:
+
+Levetidsanalyse, maligne hjernesvulster.
+Veileder: Stian Lydersen.
+Ida Scheel:
+
+Analysis of Variance of cDNA Microarray Data, with an Application to Radiotherapy in
+Cervix Cancer.
+
+Veiledere: Havard Rue og Arnoldo Frigessi, Norsk Regnesentral.
+
+Nytt fra UiB
+Statistisk forening i Bergen feirer sitt 20 ars jubileum torsdag 20. november 2003.
+Professor Odd Aalen vil holde foredrag med tittelen:
+Hva skjuler seg bak tallene?
+
+Etterpå har vi fellesmiddag på en av byens restauranter. Formanni jubileumsåret er Grethe
+Albrektsen.
+
+Hovedfagskandidater
+Else Margrethe Sletten:
+
+En vurdering av numeriske approksimasjonsmetoder ved hjelp av sannsynlighetsteori.
+Veileder: Trygve Nilsen
+
+\o
+
+
+
+Nytt fra NLH
+Dr.Scient i anvendt statistikk 2002.
+Ingunn Berget
+
+Avhandlingens tittel: Measuring, Monitoring and Optimizing Food Processes
+Veiledere: Are Halvor Aastveit / Tormod Næs
+Narinder Singh Sahni
+
+Avhandlingens tittel: Measuring, Monitoring and Optimizing Food Processes
+Veileder: Are Halvor Aastveit / Tormod Næs
+Trond Rafoss:
+
+Avhandlingens tittel: Methods for quantitative plant pest risk analysis.
+Veiledere: Are Halvor Aastveit, Arne Bang Huseby, Leif Sundheim.
+
+Cand.Scient i 2003
+Gorm Gunleiksrud:
+
+Hovedoppgavens tittel: Prediksjon av cellulosekvalitet ved hjelp av nær-infarod spektroskopi av kokesyre.
+Veileder: Are Halvor Aastveit
+Rune Sørensen.
+
+Classification of text based information objects, retrieved from internet, using multivariate
+
+techniques.
+
+Veiledere: Trygve Almøy og Knut Kvål.
+
+It
+
+
+
+EMS 2005
+
+25. European Meeting of Statisticians
+
+24.-28. juli 2005 på Blindern i Oslo
+Midt i fellesferien i 2005 skal Avdeling for
+http://www.ems2005.no/
+
+statistikk (Matematisk Institutt, UiO) og Norsk
+Regnesentral (NR) arrangere European Mee-
+
+ting of Statisticians (Europeisk statistikermøte) på Blindern i Oslo.
+
+Hva er EMS og hvorfor er konferansen midt i fellesferien?
+Dette er det første Europeiske statistikermøte
+
+(EMS) som følger ideene til Europa-avdelingen
+av Bernoulli Society. Det fornyede EMS tar
+
+sikte på å bli en sentral begivenhet innen alle
+grener av statistikken, inkludert metodisk statistikk, anvendt og beregningstung statistikk,
+sannsynlighetsteori og stokastiske prosesser.
+Det vitenskapelige programmet vil være bre-
+
+dere enn for tidligere EMS-er; med mer vekt
+
+25* EMS OSLO 2005
+
+på viktige anvendelser. Inviterte foredragshol-
+
+dere og spesielle sesjoner vil bidra til å minke
+
+gapet mellom teori og praksis, inferens og stokastiske modeller. Vi håper å se en økning i antall
+deltakere og antall foredrag.
+
+Møtet er lagt til slutten av juli for å
+Kunne nyte den (forhåpentligvis) flotte norske sommeren.
+
+Andre og sørligere land i Europa avslutter studieåret et stykke ut i juli.
+
+Få tilgang på auditorier og lokaler på Blindern, konsentrert rundt det nye Universitetsbiblioteket.
+
+Få kostnadseffektiv overnatting, både på hoteller og rimeligere alternativer.
+
+Rimelig overnatting
+Vi oppmuntrer spesielt studenter og unge statistikere til å komme til konferansen i Oslo. For
+å gjøre dette mulig vil vi tilby rimelig overnatting i nærheten av Blindern for de som ønsker
+
+18
+
+
+
+det. Dette vil foregå på studentbyene, og der vil man kunne bo i opptil 2 uker. Derfor prøver vi
+
+å arrangere kurs eller lignende i uken før konferansen. Vi vil selvfølgelig tilby overnatting på
+hotell også. Vi prøver med andre ord å gi et tilbud som passer med din lommebok.
+
+Jubileum
+Dette er det 25. EMS. Vi planlegger å markere dette runde tallet ved å se bakover i EMS’ historie.
+Vi ønsker derfor å samle og utgi historisk materiale fra hele rekken med EMS. Har du interessant
+materiale, spesielt fra de første 15 EMS? Tai såfall kontakt.
+
+Foreløpig tidsskjema
+Lørdag 23. juli:
+
+Ankomst.
+
+Søndag 24. juli: Konferansen starter.
+Mandag, tirsdag (med utflukt) og onsdag: Konferanse.
+Torsdag 28. juli: Ferdig kl 17:00.
+Fredag 29. juli: Avreise.
+
+Programkomiteen ledes av Aad van der Vaart (Amsterdam, aad@cs.vu.nl) og inkluderer Ørnulf
+Borgan (Oslo), Jeffrey Steif (Gøteborg), Gareth Roberts (Lancaster), Sylvia Richardson (London), Ursula Gather (Dortmund) og Tomasz Rolski (Wroclaw). Den lokale arrangementskomiteen ledes av Arnoldo Frigessi (Norsk Regnesentral og UiO, arnoldo.frigessi@nr.no).
+
+Norsk manifestasjon!
+Avdeling for statistikk (Matematisk Institutt, UiO) og Norsk Regnesentral (NR) har tatt på seg
+et stort ansvar ved å arrangere denne konferansen. Vi ønsker å vise Europa hvor fint det er i Norge
+og,
+
+enda
+
+viktigere,
+
+hvor
+
+levende
+
+og
+
+unikt
+
+statistikk-miljøet
+
+i
+
+Norge
+
+er.
+
+derfor allerede nå av siste ukei juli i 2005. Se
+
+på hjemmesiden for flere detaljer og oppdatert
+
+http://www.ems2005.no/
+
+informasjon.
+
+Anders Løland
+Norsk Regnesentral, anders.loland@nr.no
+
+19
+
+Hold
+
+
+
+Det 13. Norske Statistikermøte, 2005
+NSF arrangerer hvert andre år et Norsk Statistikermøte, og i 2005 skal vi arrangere det 13.
+Norske Statistikermøte. Samme år blir det 25. European Meeting of Statisticians (EMS2005)
+arrangert i Oslo (se info andre steder i bladet). EMS2005 er en stor og viktig begivenhet for det
+norske statistiskermiljøet, og NSF vil oppfordre alle sine medlemmer til å delta på EMS2005.
+
+Styret i NSF har diskutert saken og erkjenner at to slike viktige konferanser (EMS2005 og
+det 13. Norske Statistikermøte) ikke bør arrangeres separat, men heller slik at begge to kan
+dra nytte av hverandre til fordel for både arrangører og deltakere. Vi har derfor besluttet at
+det 13. Norske Statistikermøte arrangeres 23. juli, 2005, i Oslo. Dette er en lørdag og dagen før
+
+EMS2005 starter. Møtet vil dog ha en noe annen form enn det som har vært vanlig, men det vil
+både bli plass til foredrag og årsmøte i NSF. Vi har planlagt å starte møtet på ettermiddagen
+
+med forventet lengde på 3 timer. Styret i NSF har påtatt seg å arrangere møtet.
+Detaljert informasjon om det 13. Norske Statistikermøte vil bli kungjort i TG senere. Det
+14. Norske Statistikermøte vil bli arrangert av lokalforeningen i Trondheim i 2007.
+
+Håvard Rue
+
+20
+
+
+
+REFERAT FRA HOVEDMØTE I NORSK STATISTISK FORENING
+mandag 16. juni 2003 kl. 17.00-18.30,
+
+Hurdalsjøen hotell, i tilknytning til Det 12. norske statistikermøtet.
+1.
+
+Godkjenning av innkalling og saksliste
+
+Disse ble godkjent uten merknader
+2.
+
+Valg av møteleder og referent
+
+Møteleder: André Teigland
+Referent: Stian Lydersen
+
+3. Årberetning 2001-2003.
+Årsberetningen (styreperioden juni 2001-juni 2003) var sendt ut sammen med
+innkallingen. En oppdatert årsberetning (oppdatert mht SJS) ble delt ut på møtet.
+
+Årberetningen ble gjennomgått og godkjent.
+4.
+
+Regnskap 2001-2002.
+
+Regnskapet ble gjennomgått og godkjent.
+5.
+
+Forslag til endring av TG.
+
+Forslag fra Knut Oppdal av 1 juni 2003 om endring av TG ble delt ut på møtet. Oppdal
+vil være kandidat til redaktørvervet dersom hovedmøtet vil implementere forslaget.
+Generelt ble forslaget sett som et prisverdig initiativ. Videre kom bl.a. disse
+synspunktene kom frem under diskusjonen:
+
+- — Budsjetterte annonseinntekter synes optimistisk. Møtet på Hurdal fikk totalt kr 20000
+i sponsorintekter fra utstillerne.
+-
+
+Enkelte ønsker ikke ”reklame” i TG
+
+-
+
+Vi bør beholde vår nåværende avtale med SSB om trykking
+
+-
+
+Vi bør gjøre endringene som Oppdal foreslår.
+
+Avstemning om vi skulle implementere det fremlagte forslaget resulterte i 2 stemmer for,
+26 stemmer mot, og 3 avholdende.
+6.
+
+Medlemskontingent.
+
+Medlemskontingenten ble vedtatt uendret.
+7.
+
+Valg
+
+NSF har ikke valgkomite. Det sittende styret hadde funnet frem til kandidater, som ble
+supplert med forslag fra salen. Disse ble foreslått og valgt:
+Leder: Håvard Rue, Trondheim
+Redaktør: Gunnhildur Steinbakk, Oslo
+
+Styremedlemmer: Mette Langaas, Trondheim; Arnoldo Frigressi, Oslo; Sigrunn Sørbye,
+Tromsø; Tore Wentzel Larsen, Bergen.
+
+Varamedlemmer: Anne Marie Fenstad, Bergen/Canada; Bent Natvig; Oslo.
+Revisorer: Jan Aarseth, Bergen; Inge Helland, Oslo.
+
+Utkast 23/6-2003.
+
+al
+
+
+
+Nye redaktører i Tilfeldig Gang fra 1/1/2004
+Styret i NSF har etter søknad løst Gunnhildur Steinbakk fra sitt verv som redaktør av Tilfeldig
+Gang fra og med 1/1/2004.
+Vi er derfor meget glad for at
+
+Hans Skaug
+
+Jostein Paulsen
+
+hans. julius.skaug@imr .no
+
+jostein@mi.uib.no
+
+Havforskningsinstituttet
+Postboks 1870 Nordnes
+5817 Bergen.
+Telefon: 55 23 86 04
+
+Matematisk institutt
+University of Bergen
+Johannes Bruns gate 12
+N-5008 Bergen
+Telefon: 55 58 28 86
+
+har sagt seg villige til å være nye redaktører for Tilfeldig Gang fra 1/1/2004.
+Styret vil også rette en takk til Geir Storvik for velvillig hjelp i forbindelse med høstens
+nummer av Tilfeldig Gang. Vi benytter også anledningen til å takke Leiv Solheim og Statistisk
+Sentralbyrå for årelang tjeneste i forbindelse med trykking og utsendelse av Tilfeldig Gang.
+
+Håvard Rue
+
+
+
+
+
+
+
+
+
+Retur:
+Norsk Statistisk Forening
+v/Sigrunn Holbek Sørbye
+
+Institutt for matamatikk og statistikk
+Universitet i Tromsø
+9037 Tromsø
+
+
+

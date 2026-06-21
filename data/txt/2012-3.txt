@@ -1,0 +1,1891 @@
+ISSN 0803-8953
+Tilfeldig gang
+Nr. 3, årgang 29
+Desember 2012
+
+Utgitt av Norsk statistisk forening
+
+Redaksjonelt
+
+Fra lederen . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Fra redaksjonen . . . . . . . . . . . . . . . . . . . . . . . .
+Fra tidenes tg-morgen . . . . . . . . . . . . . . . . . . . .
+
+1
+1
+2
+
+Leserbidrag
+
+Problemløsningsdag ved stor-i . . . . . . . . . . . . . . .
+
+3
+
+Gratulerer
+
+Geir Storvik 50 år . . . . . . . . . . . . . . . . . . . . . . .
+
+7
+
+Tankenøtter
+
+Pusleri nummer 36 . . . . . . . . . . . . . . . . . . . . . .
+Løsning på pusleri nummer 35 . . . . . . . . . . . . . . .
+
+9
+9
+
+Møter og konferanser
+
+Rapport fra det femte Trondheim-symposiet i statistikk .
+Rapport fra det 24. nordiske statistikermøtet, Umeå 2012
+Det 17. norske statistikermøtet, Halden 2013 . . . . . . .
+Nordisk statistikermøte, Bergen 2013 . . . . . . . . . . . .
+29th European Meeting of Statisticians, Budapest 2013 .
+International Year of Statistics . . . . . . . . . . . . . . . .
+
+11
+12
+13
+15
+16
+17
+
+Bokomtaler
+
+The Art of R Programming . . . . . . . . . . . . . . . . .
+Medical statistics in clinical and epidemiological research
+(annonse) . . . . . . . . . . . . . . . . . . . . . . . . .
+
+18
+21
+
+Meldinger
+
+Nytt fra Avdeling C ved Matematisk institutt, UiO . . . .
+Nytt fra Universitetet i Bergen . . . . . . . . . . . . . . .
+Nytt fra Norges teknisk-naturvitenskapelige universitet
+
+23
+23
+24
+
+Scandinavian Journal of Statistics
+
+Innholdsliste september 2012 . . . . . . . . . . . . . . . .
+Innholdsliste desember 2012 . . . . . . . . . . . . . . . . .
+
+26
+27
+
+Informasjon
+
+Har du husket å betale kontingenten i år? . . . . . . . . .
+
+28
+
+
+
+
+
+redaksjonelt
+Fra lederen
+Jo Eidsvik | Trondheim
+
+Et aktivt statistikkår er på hell, med mange lokale arrangementer
+og ivrige medlemmer. Neste år blir ikke mindre statistisk, siden
+det er internasjonalt statistikkår1 . Dette er et initiativ for å hedre
+verdien av statistikk i samfunnet. I tillegg skaper det blest om
+faget vårt.
+Foreningen har fått restopplag av Erling Sverdrups festskrift
+tilsendt fra Ragnar Nordberg. Boka fra 1989 starter med en
+portrettbeskrivelse av Erling Sverdrup, og inneholder cirka
+ti artikler skrevet av viktige norske statistikere. Noen av
+eksemplarene er levert til biblioteker og spredd på institutter. Si
+fra om du ønsker et eksemplar.
+I juni 2013 avholdes statistikermøtet i regi av osloforeningen. I
+august 2013 arrangeres Nordisk statistikerkonferanse i Bergen.
+Sist gang denne konferansen ble holdt i Norge var 1998. Mer
+informasjon blir spredd via linker på hjemmesiden2 .
+God jul og godt 2013!
+
+1 http://www.statistics2013.org/
+2 http://www.
+
+norskstatistiskforening.no/
+
+Fra redaksjonen
+Bård Støve | Bergen
+
+Endelig er siste tg for 2012 på plass! Vi håper dere får dette
+nummeret i posten før jul.
+Deler av redaksjonen har i høst vært travelt opptatt med å
+bytte kontor; statistikk-gruppen ved Universitetet i Bergen har nå
+etter over 30 år i Kroepeliens hus flyttet til Realfagbygget. Målet
+er å samlokalisere hele Matematisk institutt på Realfagbygget,
+og til nå har omtrent halvparten av instituttets stab flyttet.
+Den andre halvparten skal flytte inn i løpet av neste år
+(forhåpentligvis!).
+Vi i redaksjonen setter stor pris på alle bidrag som blir
+sendt oss, og vi ønsker enda flere bidrag for å gjøre tg mer
+interessant. Har du vært på en spennende gjesteforelesning eller
+en konferanse, vil du presentere doktorgradsarbeidet ditt eller har
+du hatt et forskningsopphold? Brenner du inne med meninger
+om en sak? Skriv et debattinnlegg. Eller kanskje du har et bidrag
+av en mer faglig art? Vi håper flere kan ta seg tid til dette. Vi har
+ambisjoner om å få ut tre numre i 2013, og til det trenger vi deres
+hjelp!
+Redaksjonen ønsker alle lesere en god jul og et godt nytt år!
+1
+
+
+
+Fra tidenes TG-morgen
+Anders Løland | Oslo, Norsk Regnesentral
+
+Har du lenge drømt om å lese de første utgavene av Tilfeldig
+gang? Nå er du drømhørt!
+Første utgave av TG så dagens lys i april 1984, med
+gledesbudskapet «bladet er kommet!!!». Videre kan vi lese at
+«[s]elv om vi har kalt bladet Tilfeldig Gang, skal ikke utgivelsen av
+bladet bli helt tilfeldig». Denne forutsigelsen har stemt temmelig
+bra.
+
+Takket være Ørnulf Borgans komplette arkiv har nsf nå
+skannet inn de utgavene vi manglet. 15 år gamle Anette Sandvig
+har stått for det nitide arbeidet ved Norsk Regnesentrals kopiog skannemonster. Dette arkivet kan beskues ved å gå inn på
+http://norskstatistiskforening.no/ og klikke seg videre til
+«Tilfeldig gang».
+
+2
+
+
+
+leserbidrag
+Problemløsningsdag ved STOR-i: statistisk modellering
+av stormdissipasjon
+Erik Vanem, Reinaldo Marques og Olav Nikolai Breivik | Oslo
+
+Som en del av ph.d-studiet og et samarbeid mellom stor-i ved
+http://www.stor-i.lancs.ac.uk/
+http://sfi.nr.no/sfi/
+Lancaster University og (sfi)² i Oslo fikk vi anledning til å besøke
+stor-i fra 5. til 8. november 2012.
+Dette gjorde vi sammen med noen av våre veiledere –
+Arnoldo Frigessi, Ida Scheel og Geir Storvik. Hensikten med
+turen var å se hvordan Lancaster University utdanner sine
+studenter, hvordan de bedriver sin forskning og for å knytte
+kontakter. De er for tiden en entusiastisk gruppe på omtrent 20
+ph.d-studenter innenfor statistikk og operational research, men med
+kapasitet til å veilede enda flere. stor-i utmerker seg ved et tett
+samarbeid med forskjellige industrielle partnere, og mange av
+doktorgradsprosjektene utføres i tett samarbeid med industrien.
+Et av høydepunktene ved besøket var å få
+STOR-i
+delta på problem solving day, der en hel dag var
+STOR-i er et senter for doktorgradsutdannelse tilknyttet
+satt av til å løse et praktisk problem presentert
+avdelingene matematikk og statistikk og ledelse ved
+av en av industripartnerne. Dette er en øvelse for Lancaster University. De tilbyr et ﬁreårig program
+master- og doktorgradsstudenter som avholdes i statistikk og operational research i samarbeid
+omtrent fire ganger per år i Lancaster. Det er
+med ﬂere industrielle partnere. Det første året er et
+forberedelsesår for doktorgradsstudier, og leder til en
+en obligatorisk del av masterutdanningen ved
+mastergrad. Viktige forskningsområder ved STOR-i er:
+stor-i, og masterstudentene blir vurdert og får
+karakter for hvor godt de samarbeider innad i
+– Change point analysis
+– Extreme value theory
+gruppen. Mastergradsstudentene blir delt inn i
+– Heuristic methods
+egne grupper og har en doktorgradsstudent som
+– Mathematical programming
+hovedsakelig skal hjelpe til med å igangsette
+– Time series analysis
+arbeidet. Videre skal doktorgradsstudenten
+– Spatial statistics
+være med på å komme med kommentarer
+– Stochastic dynamic programming
+når mastergradsstudentene blir bedømt.
+– Stochastic programming
+Doktorgradsstudenter får ikke karakterer for
+Anvendelser er for eksempel innenfor temaer som
+arbeidet, men det forventes at de deltar på minst
+energi, miljøforandringer, og helsevesen. For mer
+tre slike dager det første året, to det andre året
+informasjon om STOR-i, se deres hjemmeside på
+og én det siste året.
+http://www.stor-i.lancs.ac.uk/.
+Denne gangen var det Shell som bidro med
+problemstilling, og dagen startet med en times introduksjon av
+oppgaven. Tema for dagen var understanding storm dissipation,
+dvs. hvordan intensiteten i en storm avtar i forhold til avvik fra
+hovedretning. Mer spesifikt var spørsmålet hvordan bølgehøyde
+avtok som en funksjon av vinkelforskjell mellom stormens
+hovedretning og bølgeretning. Dette er av interesse for Shell
+når de skal designe og plassere ut offshore-installasjoner i for
+eksempel Nordsjøen eller Mexicogolfen. Vi fant oppgaven veldig
+3
+
+
+
+intuitiv og spennende. Dette var en ny type oppgaveløsning vi
+aldri hadde stått overfor på Universitetet i Oslo. I løpet av kort tid
+skulle vi gjennom samarbeid komme frem til en løsningsstrategi
+på et praktisk industrielt problem.
+
+Gruppearbeid under problemløsningsdagen.
+
+Etter introduksjonen ble studentene delt inn i sju grupper på
+omtrent fire studenter hver. Inndelingen i grupper var gjort med
+omtanke, og ideen var at gruppene skulle bestå av studenter
+med forskjellige bakgrunner og forskningsinteresser. Vi fra Oslo
+ble spredt i tre forskjellige grupper. Alle gruppene fikk deretter
+utdelt to sett med data som inneholdt signifikant bølgehøyde
+og gjennomsnittlig bølgeretning under hver måling for to
+lokasjoner i Nordsjøen og i Mexicogolfen. Alle gruppene fikk
+samme hovedproblemstilling: hvordan modellere dissipasjon av
+bølgehøyde? Det ble imidlertid gitt flere underproblemer som de
+enkelte gruppene kunne velge å fokusere på, for eksempel:
+– Kan dissipasjonen antas å være uavhengig av stormens
+intensitet?
+– Kan dissipasjonen antas å være uavhengig av stormretning?
+Etter å ha blitt forklart problemstillingen og fått utdelt dataene,
+fikk vi fem timer til å lage et forslag til løsning på problemet.
+De neste fem timene var veldig lærerike. Plutselig måtte vi
+4
+
+
+
+samarbeide med andre doktorgradsstudenter om hvordan
+problemet skulle løses. Fra Universitet i Oslo er vi vant til god tid,
+teoretiske problemer og individuelt arbeid. Nå ble vi tvunget til
+å jobbe på en måte som ligner mer på hvordan problemløsning
+foregår i industrien.
+Under gruppearbeidet var det enkelte ganger
+Data for problem solving day
+problematisk for alle å forstå kommentarer og
+Signiﬁkant bølgehøyde er en integrert parameter
+forklaringer til andre i gruppen, men det var lav som sier noe om en sjøtilstand. Implisitt antas det at
+terskel for å spørre om grundigere forklaringer. sjøtilstanden er stasjonær over en måleperiode, og
+Vi diskuterte også lenge hvordan stormretningen signiﬁkant bølgehøyde er deﬁnert som gjennomsnittet
+skulle defineres, og endte opp med å definere
+av de 1/3 høyeste bølgene i denne perioden. En
+alternativ deﬁnisjon er 4 ganger standardavviket av
+den som retningen til den største signifikante
+bølgehøyden. Vi var alle enige om at samarbeidet havoverﬂatenivået over måleperioden. I dataene vi
+ﬁkk var periodene tre timer for Nordsjø-dataene
+var meget lærerikt og gikk bra. Hvordan
+og 15 minutter for Mexicogolfen. Bølgeretning
+arbeidet ble fordelt innad i gruppen skjedde
+er gjennomsnittlig retning for bølgebevegelsene i
+naturlig, og vi hadde stor progresjon da vi planla tidsrommet for målingen.
+og implementerte mulige løsninger til oppgaven.
+
+Fremføring av løsningsforslag for de andre doktorgradsstudentene og Shell.
+
+Da tiden var, ute ble alle gruppene samlet for å presentere
+løsningene for de andre gruppene og for Shell. Det ble presisert
+at man skulle legge frem arbeidet på en måte som skulle
+være meningsfull for både statistikere og ikke-statistikere. På
+universitetet lærer vi lite om hvordan teori skal presenteres
+for personer uten statistisk bakgrunn. Dermed var fokuset
+på hvordan vi skal presentere løsningen veldig interessant.
+Ett av tipsene vi fikk var at vi skulle bruke begreper som
+oppdragsgiver forstår, og aldri være slurvete og bruke dem
+feil.
+5
+
+
+
+Det var spennende å se at de forskjellige gruppene hadde
+brukt forskjellige metoder og angrepsvinkler. Til slutt fikk vi
+presentert en metode Shell hadde brukt til å analysere problemet,
+uten at dette ble lagt frem som noen fasit. Det var interessant å se
+at kun én av gruppene hadde vurdert samme ikke-parametriske
+strategi som Shell. Det viser at problemer kan bli angrepet fra
+forskjellige vinkler, og kanskje eksisterer det fornuftige modeller
+som Shell ikke har vurdert. Dette var en veldig motiverende og
+lærerik dag, som vi absolutt oppfordrer universiteter i Norge til å
+gjennomføre.
+Problem solving day viste seg å bli en
+Hensikt med samarbeid mellom STOR-i og (sﬁ)²
+interessant og artig dag, og vi er takknemlige
+– Gjøre det mulig for felles prosjekter mellom
+for å ha fått mulighet til å delta på dette. Det
+forskere i STOR-i og (sﬁ)².
+var både spennende og lærerikt, og samtidig en
+–
+Gjøre det mulig for studenter å få erfaring på
+fin øvelse i faglig samarbeid. Resten av besøket
+kryss av ulike sentre.
+hos stor-i var også utbytterikt, og vi knyttet
+– Samarbeide om design og levering av felles
+kontakter med både studenter og fast ansatte
+workshops og kurs.
+ved stor-i og noen av deres industripartnere
+– Samarbeid om veiledning av nye ph.d.-studenter.
+(Shell og Met Office uk). Vi fikk anledning til
+å presentere våre prosjekter for de britiske studentene, og fikk
+av dem presentert prosjekter innenfor flere forskjellige områder,
+og med bruk av ulike statistiske metoder. Alle kunne vi relatere
+våre prosjekter og problemstillinger til det noen av prosjektene
+gruppen på stor-i jobber med. Forhåpentligvis var det også
+interessant for dem, og vi håper flere studenter fra Oslo får
+anledning til å besøke Lancaster ved en senere anledning.
+
+Veilederne og ansatte fra Shell gikk ﬂere ganger innom de ulike gruppene for å se hvordan progresjonen gikk. De hadde ofte
+kommentarer, og svarte gjerne på faglige spørsmål. Det er planer om at nye ph.d-studenter kan ha veiledere fra både Universitetet
+i Oslo og Lancaster.
+
+6
+
+
+
+gratulerer
+Geir Storvik 50 år
+Thore Egeland og Sven Ove Samuelsen
+
+Geir Olve Storvik, professor i statistikk på Avdeling C,
+Universitetet i Oslo, fylte 50 år 19. juli i år. Geir vokste opp
+i Grimstad, og begynte sine studier ved Høgskolen i Agder.
+Han forsatte sitt statistikkstudium på Avdeling C, og tok
+hovedfagseksamen der i 1986. Med Erik Mohn som veileder
+skrev han oppgaven Estimering av parametre i en lineært strukturert
+kovariansmatrise, anvendt i fjernanalyse. Gjennom sommerjobb
+og hovedfag ble kontakten med Norsk Regnesentral (nr)
+etablert, og Geir har fortsatt kontakt med nr gjennom en
+bistilling.
+Geir var helttidstilknyttet nr inntil 1994. I deler av
+denne perioden var han doktorgradsstipendiat. Han tok
+dr.scient.-eksamen i 1992 på en avhandling om medisinsk
+billedbehandling. Tittel på oppgaven var A Bayesian Approach
+to Dynamic Contours and Data reduction by separation of signal and
+noise components for multivariate spatial images, og Erik Bølviken
+var veileder.
+I 1993 ble Geir ansatt som førsteamanuensis på Avdeling C,
+og han er i dag professor samme sted. Han har pleiet sine
+internasjonale kontakter blant annet gjennom forskningsopphold
+i Stanford, Bristol og Odense. Han er også knyttet til Centre for
+Ecological and Evolutionary Synthesis (cees), som er et senter for
+fremragende forskning, ledet av Nils Christian Stenseth. Geir er
+også involvert i sfi-en Statistics for innovation ved nr.
+Som det framgår av temaene for avhandlingene nevnt over
+har Geir vært opptatt av klassifikasjon og billedbehandling.
+Han har i denne og andre sammenhenger arbeidet mye med
+simuleringsteknikker, som adaptive importance sampling. Videre har
+han skrevet om numerisk implementering i situasjoner der det
+beregningsmessige byr på utfordringer.
+Geir har et omfattende faglig nettverk, og han har arbeidet
+med anvendt statistikk innenfor mange områder. Hans solide
+matematiske bakgrunn kombinert med en evne og vilje til
+praktisk og effektiv implementering har gjort ham til en verdifull
+samarbeidspartner. Eksempelvis har han gjennom tilknytning
+til nr og etter hvert cees forsket på bestandsestimering
+og populasjonsdynamikk spesielt for fiskeri. Sammen med
+en av undertegnede (Egeland) har Geir også arbeidet med
+rettsmedisinske problemstillinger rundt dna-basert identifisering.
+Geir har også bidratt mye til arbeidet i Norsk statistisk
+forening. Han var leder for Oslo-avdelingen gjennom mange
+år. Nordstat-møtet i 2000 ble lagt til Geirs idylliske hjemby
+7
+
+
+
+Grimstad, og det kan ha en viss sammenheng med at Geir ledet
+arrangementskomitéen.
+Av fritidssysler er det særlig badminton som har opptatt Geir.
+Han har hevdet seg godt på elitenivå i Norge i veldig mange
+år. Under årets veteran-nm gjorde Geir med familie rent bord
+(single, med bror Bård i double og med kone Ulla i mixed double).
+I skrivende stund deltar Geir i veteran-em i badminton i Sofia
+(resultat: bronse). Det er derfor en glede å gratulere Geir med
+50-årsdagen, samt med innflytting i nytt hus på Blommenholm.
+
+8
+
+
+
+tankenøtter
+Pusleri nummer 36
+Jostein Lillestøl | Bergen
+
+Ved et revyteater er alle billettene til kveldens forestilling utsolgt,
+og hver publikummer har billett som motsvarer en nummerert
+plass. På galleriet er det bare én inngangsdør, og publikum der
+står i kø og venter på at den skal åpnes.
+Når døren åpnes, er imidlertid den første i køen beruset,
+og setter seg på en tilfeldig plass, som bare samsvarer med
+billetten hvis han har flaks. Så kommer de andre inn, én
+etter én, og setter seg på tildelt plass dersom denne er ledig.
+Hvis den ikke er ledig, ønsker den enkelte publikummer
+ikke å lage noe oppstyr, og velger en plass tilfeldig blant
+de som fortsatt er ledige. Dette fortsetter inntil alle har satt
+seg.
+Hva er sannsynligheten for at den siste i køen får plass i
+henhold til sin billett? Hint: Det er ikke nødvendig med papir og
+blyant!
+Send svar til Jostein.Lillestol@nhh.no.
+
+Foto: Benjamin Thompson c b a
+
+Løsning på pusleri nummer 35
+Jostein Lillestøl | Bergen
+
+Oppgaven
+La X1 og X2 være uavhengige N (0,1), og la
+Y1 = q
+
+X1
+X12 + X22
+
+og Y2 = q
+
+X2
+
+.
+
+X12 + X22
+
+Da er opplagt (Y1 , Y2 ) uniformt fordelt på sirkelen Y12 + Y22 = 1.
+La isteden
+Y1 = q
+
+X1
+X12 + X22 + Z
+
+og Y2 = q
+
+X2
+
+,
+
+X12 + X22 + Z
+
+der Z er en ikke-negativ stokastisk variabel, slik at
+(Y1 , Y2 ) er punkt på sirkelskiven Y12 + Y22 ≤ 1. Hvilken
+sannsynlighetsfordeling må Z ha for at (Y1 , Y2 ) blir uniformt
+fordelt på sirkelskiven?
+Hint: Med Arkimedes på laget trenger du ikke papir og
+blyant.
+
+Løsning
+Variabelen Z må her være eksponentielt fordelt med forventning 2.
+Argumentasjon: Ved å utvide den første situasjonen til
+fire dimensjoner får vi opplagt en uniform fordeling på den
+9
+
+
+
+firedimensjonale kuleflaten. Den andre situasjonen er da
+representert som en projeksjon ned i to dimensjoner, der
+vi fjerner koordinat 3 og 4, som gir en uniform fordeling
+på kuleskiven. Z er altså en sum av to kjikvadratfordelte
+variable med én frihetsgrad, og er derfor eksponentiell med
+forventning 2.
+Argumentet henger altså på at projeksjonen av en uniform
+kuleflate i n dimensjoner er uniform i «det indre» av det projiserte
+området til dimensjon n − 2. Dette er et generelt resultat som
+var kjent for Arkimedes i tilfellet n = 3, i forbindelse med
+hans arbeid med å bestemme arealet av kuleflaten. Med han
+på laget finner dere sikkert ut at det også gjelder for n = 4.
+Merk at uniformitet ikke oppnås med å gå kun én dimensjon
+ned.
+Referanse: Letac, «From Archimedes to statistics: the area of
+the sphere», tilgjengelig på http://www.math.univ-toulouse.fr/
+~letac/Archimede.pdf. Se også Malliavin et al. (1995), Integration
+and Probability, Springer, side 92–93.
+
+Tankefull Arkimedes
+
+10
+
+Domenico Fetti (1620)
+
+
+
+møter og konferanser
+Rapport fra det femte Trondheim-symposiet i statistikk
+Jo Eidsvik | Trondheim
+
+Det femte Trondheim-symposiet i statistikk fant sted den
+19.–20. oktober, også i år på Selbusjøen Hotell & Gjestegård. Til
+sammen 34 deltakere fant veien til Selbu fra inn og utland. I år
+var de inviterte foredragene delvis vinklet mot romlig statistisk
+modellering innen økologi/biologi og klimatologi.
+Første foredragsholder, Bård Støve fra UiB, snakket om
+rekonstruksjon av historisk utvikling i global gjennomsnittstemperatur fra ulike proxy-variabler – som årringer i trær, boreprøver
+fra isbreer og Munch-malerier(!) – og hvordan lineære og
+ikke-lineære regresjonsmodeller, deriblant generaliserte additive
+modeller, kan brukes til prediksjon tilbake i tid av historisk klima.
+Peter Jan van Leeuwen (University of Reading) fortsatte
+samme kveld med et foredrag om bruk av partikkelfilter
+i forbindelse med approksimering av høydimensjonale
+posteriorifordeling anvendt på atmosfærisk modellering ved hjelp
+av en stokastisk versjon av den barotropiske virvlingsligningen.
+Etter tre-retters middag dels basert på lokale råvarer
+fra Selbusjøen fredag kveld var alle klare for flere foredrag
+lørdag formiddag. Bob O’Hara (Biodiversity and Climate
+Research Centre, Frankfurt) holdt et interessant foredrag om
+variabelseleksjon ved bruk av såkalt «slab and spike priors» for å
+representere regresjonskoeffisienter vi a priori tror enten er nesten
+eksakt lik null eller som alternativt kommer fra en vagere prior.
+Dette kan være hva man typisk tror i leting etter enkeltgener
+assosiert med gitte fenotypiske egenskaper – mange av genene
+har liten påvirkning eller er helt nøytrale.
+Otso Ovaskainen (Mathematical Biology Group, Universitetet
+i Helsinki) presenterte mekanistiske statistiske modeller for estimering av blant annet habitatsspesifikke diffusjonskoeffisienter til
+sommerfugler fra fangst–gjenfangst-data, metoder for estimering
+av tetthet av ulv basert på spor- og gps-data til dels ved bruk av
+inla, og til sist matematisk teori for modellering av dynamiske
+punktprosesser i tid og rom, eksempelvis biologiske populasjoner.
+Siste foredrag, holdt av Thordis Thorarinsdottir (Norsk
+Regnesentral), handlet også om punktprosesser, og spesielt om
+modellseleksjon basert på Bayes-faktor mellom konkurrerende
+modeller av punktprosessen: en såkalt Thomas-prosess (en
+prosess hvor en latent punktprosess gir opphav til klynger av
+punkter i den observerte prosessen) og en alternativ modell
+konstruert som en blanding av to Thomas-prosesser.
+Fullstendig program og presentasjonsfiler for foredragene er
+tilgjengelig på https://wiki.math.ntnu.no/selbu2012.
+
+http://www.math.ntnu.no/~jarlet/
+selbu2012/baard.pdf
+
+http://www.math.ntnu.no/~jarlet/
+selbu2012/Peter.pdf
+
+http://www.slideshare.net/oharar/
+iwsmbvs
+
+http://www.math.ntnu.no/~jarlet/
+selbu2012/otso.pdf
+
+http://www.math.ntnu.no/~jarlet/
+selbu2012/thordis.pdf
+
+11
+
+
+
+Rapport fra det 24. nordiske statistikermøtet, Umeå 2012
+Anders Løland | Oslo, Norsk Regnesentral
+
+Det 24. nordiske statistikermøtet fant sted i Umeå. Umeå er på
+papiret en ganske stor by (med cirka 80 000 innbyggere), selv om
+det virket temmelig folketomt da vi var der.
+Svenskene hadde satt sammen et godt og bredt program,
+og arrangementet gikk knirkefritt. Av de nøkkel-inviterte fra
+ikke-Nordstat-land kan jeg nevne Richard Gill (Nederland,
+«Lessons from Lucia: the future of forensic statistics»), Mark
+Girolami (England, med sjs-foredraget «Exploring the Role of
+Geometry in Monte Carlo Methods») og Jeff Rosenthal (Canada),
+som klarte å gjøre «Adaptive Markov Chain Monte Carlo
+Algorithms» underholdende.
+
+http://arthur.math.umu.se/
+Nordstat2012/Presentations/
+KeyNote/RGill.pdf
+http://arthur.math.umu.se/
+Nordstat2012/Presentations/
+KeyNote/MGirolami.pdf
+http://arthur.math.umu.se/
+Nordstat2012/Presentations/
+KeyNote/JRosenthal.pdf
+
+Mette Langaas (NTNU) under presentasjonen av «Maximizing power by using unconditional enumeration tests in categorical
+distributions when nuisance parameters are present. Application to discrete genotype-phenotype data».
+Foto: Arrangøren
+
+Spesielt populært var nok innlegget «Siffer: When statistics
+becomes prime time television» til Jo Røislien, som fant sted
+i sesjonen Teaching and communicating statistics, organisert av
+Eva Skovlund (Universitetet i Oslo). Sesjonen inneholdt også
+André Teigland (Norsk Regnesentral, «How to sell statistical
+competence?») og Bjarne Kjær Ersbøll (Danmarks Tekniske
+Universitet) som kunne love at «The answer may – or may not –
+be given in this talk».
+12
+
+http://arthur.math.umu.se/
+Nordstat2012/Presentations/I13/
+ATeigland.pdf
+
+
+
+Ellers ble spesielt maten lovprist, både i kvalitet og kvantitet.
+I hver eneste pause var drikke og fôr tilgjengelig. Jeg vil derfor
+ikke nøle med å la de svenske statistikerne arrangere alle
+framtidige statistikermøter, så sant de møter opp i de respektive
+arrangørland. Det 25. Nordstat finner sted i Åbo/Turku i Finland.
+
+Hvor var de alle sammen?
+Noen nordmenn hadde også funnet veien til Umeå. Undertegnede
+kunne takket være avbrutt flystreik mellomlande i Stockholm
+på veien. Trondheimerne var så heldige at de fikk fly
+Trondheim–Oslo–Stockholm–Umeå, men den fineste turen hadde
+nok Universitetet i Oslos representant (den av de tre UiO-erne
+som deltok på hele konferansen). Han valgte å kjøre fra Oslo i
+sin Pontiac, og kunne røpe at turen gikk unna på beskjedne tolv
+timer.
+Litt stusselig var det at nordmennene (færre enn ti?) svikta
+konferansen. Det parallelle Geostats 2012 trakk til seg mange
+nr-ere og en god del fra ntnu, men hvor var spesielt Universitetet
+i Bergen (null) og Universitetet i Oslo (maksimalt tre)?
+
+Ut på tur
+Konferansens hovedutflukt gikk til Norrbyskär, et gammelt
+sagbrukssamfunn som lå på en øykonstellasjon utafor Umeå.
+Det ble mer enn nok tid til å studere sagbrukshistorien. Det
+var forresten alkohol- og tobakksforbud på Norrbyskär i
+gullårene, og det fungerte visstnok bra. Arrangøren av det neste
+statistikermøtet er herved informert.
+
+Tre på utﬂukt. Fra venstre: Øyvind Bakke (NTNU), Mette Langaas (NTNU), André Teigland (NR).
+
+Foto: Anders Løland
+
+13
+
+
+
+Norsk statistisk forening, avdeling Oslo, inviterer til
+
+Det 17. norske statistikermøtet
+Halden 2013
+Det 17. norske statistikermøtet finner sted i Halden, mandag 10. - torsdag 13. juni.
+Møtet innlede
+Visualisering i R , holdt av Elisabeth Orskhaug og Thordis
+Thorarinsdottir.
+Timeplan
+Forkurs: Mandag etter lunsj - tirsdag før lunsj
+Konferanse: Tirsdag etter lunsj - torsdag før lunsj
+Mer informasjon om møtet og påmelding vil bli lagt ut på NSF sine hjemmesider over
+nyttår: http://www.norskstatistiskforening.no/
+
+H
+
+
+
+Kvalitet i statistikken
+Statistisk sentralbyrå og Norsk statistisk forening
+inviterer til det 26. nordiske statistikermøtet
+i Bergen 14. – 17. august 2013.
+
+Nordisk statistikermøte avholdes hvert tredje år, og ansvaret for arrangementet roterer
+blant de nordiske landene. Møtet avholdes over to dager, og i tillegg tilbys det et kurs i
+“How to Design Effective Business Web Surveys” onsdag 14. august.
+Temaet for årets statistikermøte er Kvalitet i statistikken med undertemaene:
+• Rammeverk
+• Oppgavegivere
+• Produksjonsprosesser
+• Kommunikasjon og kvalitet til brukere
+Konferansehotell: Radisson Blu Hotell Royal Bryggen.
+Utover det faglige programmet, som består av fire
+parallellsesjoner torsdag ettermiddag og fredag formiddag,
+inviterer vi til felles åpnings- og avslutningssesjoner.
+Mer informasjon om programmet legger vi ut på siden
+etterhvert som dette er klart.
+Frist for påmelding til statistikermøtet og kurs er 1. mai 2013.
+
+
+
+Dear Colleagues,
+The abstract submission for the 29th European Meeting of Statisticians (20 -25 July 2013,
+Budapest) is now open.
+Prospective authors are invited to submit their abstracts by midnight, 15 March, 2013.
+It is also possible to suggest complete organised contributed sessions (streams) of 4 authors
+until 28th February the latest, see the end of the ABSTRACT SUBMISSION page for
+guidance.
+In order to submit the abstract of your proposed contribution you need to make your
+ABSTRACT REGISTRATION first than go to the ABSTRACT Login page and upload your
+abstract files.
+Please, note that abstacts are accepted only in LaTeX format, according to the given
+template. In addition to the source LaTeX file, please, upload a compiled version in PDF
+format as well.
+Invited speakers and organised contributed paper session (stream) participants, should fill in
+the \sessiontitle{} command in their abstract, while general contributed paper authors should
+type the invited session topic code, they think to be the closest to their contribution, into the
+box on the upload page.
+You will find the guidelines and detailed instructions on the ABSTRACT SUBMISSION
+page.
+http://ems2013.eu/site/index.php?page=en/Abstract_submission
+The updated preliminary programme of the Meeting is available here.
+http://ems2013.eu/site/index.php?page=en/Program
+For updated news, please visit the conference website:
+www.ems2013.eu
+In case of any questions, please do not hesitate to contact us.
+We are looking forward to meeting you in Budapest,
+With kind regards,
+László Márkus
+Chair
+Local Organising Committee
+and
+Eszter Zsigmond
+Head
+EMS 2013 Conference Secretariat
+Congress Ltd.
+1026 Budapest
+Szilágyi E. fs. 79.
+Tel: +36 1 212 00 56
+Fax: +36 1 356 65 81
+e-mail: ems2013@congress.hu
+www.ems2013.eu
+
+
+
+We invite your organization to join in a partnership among societies and organizations around the globe to
+celebrate 2013 as the International Year of Statistics (http://www.statistics2013.org).
+The purpose of this International Year of Statistics (Statistics2013) is to promote the importance of Statistics,
+through the combined energies of societies and organizations worldwide, to the broader scientific community,
+business and government data users, the media, policy makers, employers, students, and the general public.
+The goals of Statistics2013 include:
+ increasing public awareness of the power and impact of Statistics on all aspects of society;
+ nurturing Statistics as a profession, especially among young people; and
+ promoting creativity and development in the sciences of Probability and Statistics
+
+Registering as a participant in the International Year of Statistics creates no obligation of any kind. It
+simply indicates that your organization supports these goals.
+To register your interest in participating, please go to http://www.statistics2013.org/join.cfm. When you
+register, you will provide the name of a contact person who will serve as a liaison for you. The liaison will help the
+International Year of Statistics Steering Committee know what kinds of activities you might be considering that
+relate to the goals of Statistics2013, and the Steering Committee will keep your liaison informed of activities being
+planned elsewhere across the globe.
+There are numerous ways your organization might choose to recognize an international year of statistics through
+W
+viously
+that would be fine should that make sense for you. In the main, however, we envision a slight recasting of existing
+activities to acknowledge this international celebration of the importance of Statistics.
+Thank you for your participation and support.
+The International Year of Statistics Steering Committee
+ Richard Emsley, University of Manchester, International Biometric Society representative
+ Adam Jakubowski, Nicolaus Copernicus University, ISI/Bernoulli Society representative
+ Denise Lievesley, Kings College London, Royal Statistical Society representative
+ David Madigan, Columbia University, Institute of Mathematical Statistics representative
+ Vijay Nair, University of Michigan, International Statistical Institute representative
+ Sastry Pantula, North Carolina State University, American Statistical Association representative
+ Ada van Krimpen, International Statistical Institute
+ Ron Wasserstein, American Statistical Association
+
+
+
+bokomtaler
+The Art of R Programming
+Karl Ove Hufthammer | Bergen
+
+R er eit gratis og fritt datasystem for statistikk, og The Art
+of R Programming er ei bok for den som ønskjer å læra seg å
+programmera i R på eit rimeleg avansert nivå.
+
+Det grunnleggjande
+Likevel begynner boka med det grunnleggjande, og dei første
+kapitla gjev ei skikkeleg innføring i dei vanlege datastrukturane
+i R – vektorar, matriser, lister, datarammer osv., samt bruk
+og skriving av funksjonar. Her lærer me òg om dei viktige
+detaljane ein vanleg brukar kanskje ikkje tenkjer så mykje over,
+som samanhengen mellom vektorar og matriser3 , korleis bruka
+resirkulering av vektorelement og kva faktorar eigentleg er (noko
+som er svært nyttig å kjenna til, då det er mange fullgruver
+å gå i ved handtering av faktorar). Er du usikker på kva som
+er forskjellen (og likskapen) mellom ei liste og ei dataramme,
+mellom d[i] og d[[i]] eller mellom NA og NULL, får du det godt
+forklart her.
+Etter innføringa i dei grunnleggjande datastrukturane følgjer
+eit kapittel om kontrollstrukturar, som lykkjer, if-setningar – med
+tilhøyrande boolske operatorar – og meir detaljert om funksjonar.
+Her lærer me òg om omgjevnadar og verkeområde til funksjonar
+og andre objekt. Dette er svært viktig å forstå for meir avansert
+R-programmering, og boka forklarar det på ein svært klår måte.
+Her er ein liten kunnskapstest: Kan du svara på kva resultatet av
+følgjande kodesnutt vert, utan å køyra han, og forklara korfor?
+Etter å ha studert dette kapittelet bør iallfall svaret vera ja!
+w = 50
+f = function(y) {
+d = 10
+h = function() {
+w = d*(w+y)
+w
+}
+h
+}
+d
+d = 5
+g = f(8)
+y = 100
+w = 3
+g()
+w
+
+18
+
+Matloff N. (2011). The Art of R
+Programming – A Tour of Statistical
+Software Design. isbn 978-1-59327-384-2
+3 Her kan ein merka seg at matriser i R
+er spesialtilfelle av vektorar, i
+motsetning til i matematikken, der det
+er omvendt!
+
+
+
+Neste kapittel tar for seg ein del fine eksempel på korleis ein
+kan gjera matematiske utrekningar og statistiske simuleringar.
+Absolutt nyttig stoff, men kapittelet kunne med fordel vore lengre,
+då simuleringar er noko som R eignar seg svært godt til, og det
+finst fleire nyttige teknikkar det er kjekt å kjenna til, og som ikkje
+er nemnt i boka.
+
+Objektorientering og avansert programmering
+R er ein noko underleg hybrid mellom eit funksjonelt og eit
+objektorientert programmeringsspråk4 , og begge delar er ein styrke.
+I boka finn me ei innføring i korleis objektorientering fungerer i R
+gjennom S3- og S4-systema. S3 er godt forklart, men innføringa i
+S4 er svært kort og mangelfull – meir som ein svært liten smakebit
+av forretten til ein 10 rettars middag. Dette er overraskande, då
+resten av boka er temmeleg grundig, og S4-systemet er noko ein
+avansert R-brukar bør kjenna til, om enn berre for å forstå pakkar
+bygd på dette. Heldigvis finn det gode nettresursar om emnet5 .
+Det nye systemet med referanseklassar er for øvrig heller ikkje
+dekt (men så vidt nemnt, i eit anna kapittel6 ).
+Så følgjer eit kapittel om korleis me får data inn og ut av R –
+frå tastatur, til skjerm, til og frå (tekst)filer, og over Internett og lokalnett. Lesing og skriving av vanlege filer er aktuelt for dei fleste
+R-brukarar, så det er godt det er dekt. Men det står ingenting om
+importering av datafiler frå reknearkprogram eller andre statistikkprogram. Heldigvis har R ein omfattande import- og eksportmanual7 for dette (som ikkje er nemnt i boka). Til gjengjeld har boka eit
+fint eksempel på korleis ein kan skriva ein funksjon for å henta ut
+data frå eit ikkje-standard tekstformat. Ein annan ting ein lett kjem
+borti i denne samanhengen er manipulering av tekststrengar. Dette
+har fått sitt eige (korte) kapittel, med små eksempel på dei vanlege
+teksthandteringsfunksjonane (men sjå heller stringr-pakken, for
+ei samling strengfunksjonar med eit meir konsekvent grensesnitt).
+Neste kapittel gjeld grafikk. Her får me ein kjapp smakebit på
+korleis det gamle grafikksystemet i R fungerer, men det verkar
+meir som kapittelet er tatt med for å kunna føra opp nok eit
+punkt på vaskesetelen. Ein lærer meir om R-grafikk i omtrent kva
+som helst R-innføring på nettet8 .
+
+4 Sjå artikkelen «Facets of R» for meir
+om dette: http://journal.r-project.
+
+org/archive/2009-1/RJournal_
+2009-1_Chambers.pdf
+
+5 http://stackoverflow.com/
+
+questions/4143611
+6 Dei meir marginale objekt-
+
+orienteringssystema i R, som R.oo og
+proto er heller ikkje nemnde, men det
+synest eg er eit mindre problem.
+
+7 http://cran.r-project.org/doc/
+
+manuals/r-release/R-data.html
+
+8 Eller ved å køyra example(plot) eller
+
+demo(graphics).
+
+Feilsøking og optimering
+Det har også blitt plass til eit kapittel om feilsøking. Dette er noko
+som alle R-programmerarar får bruk for, og det er spesielt viktig
+for større R-program. Forfattaren går gjennom fleire teknikkar,
+med gode eksempel (han har for øvrig òg skrive ei eiga bok om
+feilsøking generelt). Han nemner også at det finst eigne R-pakkar
+for feilsøking, men viser ikkje korleis ein brukar dei. For dette kan
+eg anbefala artikkelen «Debugging Without (Too Many) Tears»9 .
+Neste kapittel gjeld tips og teknikkar for få programma
+til å køyra raskare, eller bruka mindre minne. Det er mange
+
+Matloff N. og Salzman P.J. (2008). The
+Art of Debugging – with GDB, DDD, and
+Eclipse. isbn 978-1-59327-174-9
+9 http://www.r-project.org/doc/
+
+Rnews/Rnews_2003-3.pdf
+
+19
+
+
+
+fine eksempel, og me lærer korleis me kan finna ut kva
+delar av programkoden som gjer at programmet går tregt.
+Forfattaren forklarer også korfor det går tregt, med informasjon
+om kva som skjer bak i kulissane i R. Nye funksjonar i R, som
+bytecode-kompilering, er òg dekte. Det einaste litt skuffande er at
+forfattaren brukar system.time()-funksjonen for å samanlikna
+tidsbruken til funksjonar, i staden for dei mykje betre rbenchmarkog microbenchmark-pakkane.
+
+Kopling til andre språk og fleire prosessorar
+Neste kapittel gjeld korleis ein kopla R med andre språk – c/c++
+og Python. Eksempel viser fint kor mykje det er å spara her,
+men dessverre er dette kapittelet også svært mangelfullt. Det
+nemner for eksempel berre .C()-grensesnittet, ikkje det nyare
+(og anbefalte) .Call()-grensesnittet, og heller ikkje Rcpp- og
+inline-pakkane10 , som gjer det heile mykje enklare.
+Siste kapittel gjeld parallellprosessering. Dette er relativt
+nytt i R. Forfattaren har fleire eksempel på korleis få dette til,
+og det er ei grei (om enn noko avgrensa) innføring i emnet.
+Spesielt nyttig er diskusjonane om når det lønner seg å ta i bruk
+parallellprosessering, og når det ikkje gjer det. Sjå for øvrig
+oversikta «High-Performance and Parallel Computing with R»11
+for informasjon om ulike løysingar og pakkar.
+
+10 Sjå https://github.com/hadley/
+
+devtools/wiki/Rcpp for ei lettlesen
+
+innføring i Rcpp-pakken.
+
+11 http://cran.r-project.org/web/
+
+views/HighPerformanceComputing.
+html
+
+Generelt om boka
+Boka er lagt opp som forklarande tekst, med svært mange gode
+og klårgjerande kodeeksempel. Fleire av eksempla er interessante
+i seg sjølv, og ein del av dei er direkte nyttige. Eg likar òg at
+forfattaren gjerne har fleire løysingsforslag på same problem, og
+peikar på fordelar og ulemper ved kvar løysing. Det finst òg nokre
+utvida kodeeksempel, som går over fleire sider, og som byggjer
+komplekse system. Desse er meir krevjande å forstå, men ein får
+tilsvarande igjen ved å studera dei nøye. Og dei viser korleis ein
+kan (om enn ikkje nødvendigvis bør) bruka R til det meste12 .
+Boka passar svært bra for nokon som verkeleg ønskjer å
+læra seg å programmera i R, på R-måten. Spesielt for folk med
+bakgrunn frå andre programmerings- og skriptspråk vil ho vera
+nyttig, då forfattaren samanliknar og kontrasterer R-måten med
+korleis ein gjer det i andre språk, som c/c++ og Python. Ein
+får òg mange gode tips og triks på vegen. Ein lærer rett og slett
+det ein treng å for å byggja større og komplekse R-program frå
+grunnen. Men merk at boka ikkje har informasjon om utvikling av
+R-pakkar. Gode resursar her er den offisielle dokumentasjonen13
+og Hadley Wickham sin wiki om emnet14 .
+Elles er boka svært godt og klårt skriven, med ei pedagogisk
+oppbygging. Det største ankepunktet mitt er at forfattaren brukar
+omtrent halve boka på dei grunnleggjande R-strukturane15 , mens
+nokre av dei seinare kapitla er noko korte og ufullstendige i kva
+dei dekkjer. Balansen kunne med fordel vore omvend, då boka
+20
+
+12 I kapittelet om datarammer utviklar
+
+for eksempel forfattaren eit knippe
+R-funksjonar til å hjelpa ein å læra
+kinesiske dialekter!
+
+13 http://cran.r-project.org/doc/
+
+manuals/R-exts.html#
+Creating-R-packages
+14 https://github.com/hadley/
+
+devtools/wiki
+15 Rett nok detaljert forklart, så sjølv
+
+den erfarne R-programmerer vil
+plukka opp nyttig informasjon her.
+
+
+
+rettar seg mest mot den (kommande) avanserte R-brukaren16 . Til
+slutt: Passar boka for deg? La oss sjå på nokre potensielle lesarar:
+– Du er interessert i å læra R for å gjera enkle statistiske
+analysar. Boka passar ikkje for deg, då ho faktisk ikkje
+dekkjer dei vanlege statistiske analysane, som t-testar,
+variansanalyse eller regresjon. Kjøp heller ei innføringsbok
+i R, eller i statistikk med R, eventuelt med fokus på ditt
+fagfelt (det finst R-bøker i alt frå økonometri til rettsvitskap
+og skogbruk). Det finst òg nesten tallause innføringar på
+nettet, med forskjellig fokus. Du finn òg ei fin oversikt over
+(for tida nesten 100!) innføringar lagt ut av universitet eller
+høgskular17 . Det dukkar òg ofte opp både nettbaserte og
+vanlege kurs, hos for eksempel statistics.com, Revolution
+Analytics eller Coursera. Ein kan også søkja etter R-videoar
+på vanlege søkjemotorar.
+
+16 Likevel fungerer boka veldig bra for
+
+nokon som aldri har brukt R, men som
+har erfaring med programmering frå
+før, nettopp fordi går detaljert til verks
+i omtalen av det grunnleggjande.
+
+17 http://pairach.com/2012/02/26/
+
+– Du har ein bakgrunn frå eit anna statistikkprogram, og
+ønskjer no å sjå nærare på R. Her er det betre å velja ei bok
+spesialskriven for folk med din bakgrunn. Det finst R-bøker
+for både Stata-, sas- og spss-brukarar.
+– Du ønskjer å bruka ein spesiell, litt avanserte statistisk
+modell i R. Her finst det gjerne ei R-bok om nettopp dette
+emnet. For meir generelle emne, som (generaliserte) lineære
+modellar finst det mange R-bøker! Oftast finst det òg ein
+tilhøyrande R-pakke med datasett og R-funksjonar. The Art
+of R Programming vil vera heilt unyttig her, med mindre du
+ønskjer å implementera ein ny modell i R sjølv.
+– Du ønskjer å henta ut statistikk, eller aggregera eller
+restruktura data, og framstilla resultatet på ein oversiktleg
+måte. Dette er typisk ein stor del av jobben med dataanalyse.
+I utgangspunktet er boka til Spector (2008) bra på dette,
+og denne gjev òg ei svært klår innføring i dei vanlege
+datastrukturane i R, men eg vil heller anbefala å sjå
+nærare på plyr- og reshape2-pakkane, og tilhøyrande
+innføringsartiklar18 . Boka til Spector dekkjer ikkje desse
+pakkane, og det er ein stor mangel, då mykje i boka ville
+vore mykje enklare ved bruk av dei.
+– Du ønskjer å laga grafiske framstillingar av statistiske data.
+Det eine kapittelet i The Art of R Programming er heilt unyttig
+her. Kjøp heller boka om ggplot2- eller lattice-pakkane,
+som er dei to moderne (og kraftige og brukarvenlege)
+måtane å laga grafar på i R. Og er du interessert å laga
+grafiske framstillingar heilt frå grunnen av, sjå nærare på
+boka til Murrell (2011). Sjå òg heimesidene til bøkene.
+Då gjenstår oss som ønskjer å læra R i seg sjølv – grundig –
+utan alt det statistiske. For oss er denne boka svært god, og eg
+anbefaler ho varmt!
+
+Spector P. (2008). Data Manipulation
+with R. Springer. isbn 978-0-387-74730-9
+
+18 http://www.jstatsoft.org/v40/i01
+
+og
+http://www.jstatsoft.org/v21/i12.
+
+Merk at sistnemnte er for den eldre
+reshape-pakken, men endringane i
+reshape2 er små, og lette å læra seg.
+Wickham H. (2009). ggplot2: Elegant
+Graphics for Data Analysis. Use R.
+Springer. isbn 978-0-98140-6
+Sarkar D. (2008). Lattice: Multivariate
+Data Visualization with R. Springer.
+isbn 978-0-387-75968-5
+Murrell P. (2011). R Graphics. Chapman
+& Hall/CRC, andre utgåve.
+isbn 1-584-88486-X
+
+21
+
+
+
+ANNONSE
+
+New book:
+Marit B. Veierød, Stian Lydersen and
+Petter Laake (eds.).
+Medical statistics in clinical and
+epidemiological research.
+Gyldendal Akademisk, 11 December 2012.
+http://www.gyldendal.no/Faglitteratur/Medisin/
+Laereboeker/Medical-statistics
+During the recent years, there has been a huge
+increase in the use of advanced statistical methods
+in clinical and epidemiological research. Many
+researchers need an understanding of statistics beyond
+what is covered in introductory courses.
+This book is intended as a course textbook in clinical and epidemiological research, as well as a
+reference book for students or working professionals in health sciences. It gives an in-depth and up-todate coverage of the areas of statistics which are relevant at the PhD level in clinical and
+epidemiological research.
+The book consists of twenty chapters written by twenty-nine authors. Each chapter is self-contained
+and may be read independently according to the needs of the reader. The tables and figures in the book
+are available for downloading for educational use from the book's website, www.medicalstatistics.no
+Contents (720 pages):
+1. Design and analysis (Marit B. Veierød, Stian Lydersen, and Petter Laake)
+2. Categorical data and contingency tables (Stian Lydersen, Morten W. Fagerland, and Petter
+Laake)
+3. Logistic regression (David W. Hosmer and Stanley Lemeshow)
+4. Linear regression (Morten W. Fagerland, Geir Egil Eide, and Petter Laake)
+5. Survival analysis (Odd O. Aalen and Marianne Riksheim)
+6. Poisson regression (Sven Ove Samuelsen and Marit B. Veierød)
+7. Mixed models (Magne Thoresen and Håkon K. Gjessing)
+8. Longitudinal analysis (Magne Thoresen)
+9. Generalized linear latent and mixed models (Anders Skrondal and Sophia Rabe-Hesketh)
+10. Measurement error (John P. Buonaccorsi)
+11. Power and sample size (Michael Væth, Morten Frydenberg, and Geir Egil Eide)
+12. Bootstrapping (Geir Storvik)
+13. Missing data (Jan F. Bjørnstad and Stian Lydersen)
+14. Diagnostic tests, ROC curves, and measurements of agreement (Stian Lydersen)
+15. Causual inference (Jon Michael Gran, Hein Stigum, Siri Eldevik Håberg, and Odd O. Aalen)
+16. Attributable fractions (Geir Egil Eide and Olaf Gefeller)
+17. Bayesian methods (Geir Storvik)
+18. Statistical methods in genetics (Magnus Dehli Vigeland, Kaja Kristine Selmer, and Thore
+Egeland)
+19. Analysis of microarray data (Einar Andreas Rødland and Ole Christian Lingjærde)
+20. Meta-analysis (Karim F. Hirji, Morten W. Fagerland, and Marit B. Veierød)
+
+
+
+meldinger
+Nytt fra Avdeling C ved Matematisk institutt, UiO
+Nye ph.d.-grader
+Ingrid Hobæk Haff (10. september 2012)
+Pair-copula constructions – an inferential perspective (prøveforelesning:
+The use of multivariate control charts for quality control)
+Bedømmelseskomité: Christian Genest, Department of
+Mathematics and Statistics, McGill University; Paul Embrechts,
+Department of Mathematics, ETH Zürich; Ida Scheel, Matematisk
+institutt, Universitetet i Oslo. Veildere: Arnoldo Frigessi, Institutt
+for medisinske basalfag, Universitet i Oslo; Kjersti Aas, Norsk
+Regnesentral; Ørnulf Borgan, Matematisk institutt, Universitetet i
+Oslo.
+
+Nyansettelser
+Nils Frithjov Haavardsson er ansatt som førsteamanuensis ii.
+
+Nye stipendiater
+Olav Breivik, med veiledere Ida Scheel, Bent Natvig og Arne
+Bang Huseby.
+Martin Jullum, med veiledere Nils Lid Hjort og Odd Kolbjørnsen.
+
+Nye mastergrader
+Martin Lerudjordet
+Statistical analysis of track and field data
+Veileder: Nils Lid Hjort
+Martin Jullum
+Focused information criteria among parametric and nonparametric
+models
+Veileder: Nils Lid Hjort
+Karen Marie Sødal
+Optimering av olje- og gassproduksjon fra flere reservoarer under
+usikkerhet
+Veileder: Arne Bang Huseby
+
+Nytt fra Universitetet i Bergen
+Nye mastergrader
+Sigurd Ariansen Haaland
+Pairs trading: Examining arbitrage opportunities on Oslo Stock
+Exchange in different volatility regimes
+Veileder: Bård Støve
+23
+
+
+
+Miriam Gjerdevik
+Testmetoder for identifisering av publikasjonsbias i metaanalyser
+Veileder: Ivar Heuch
+Lydia Silvana Larsen
+En copula-GLM modell for skadefrekvens og skadestørrelse i bilforsikring
+Veileder: Kjersti Aas
+
+Ny ph.d.-grad
+Martin Henrik Hunting
+Optimal dividend policy and ruin probability for models with investment
+Veileder: Jostein Paulsen
+
+Ny ph.d.-student
+Håkon Otneim, med veiledere Dag Tjøstheim, Hans A. Karlsen
+og Bård Støve.
+
+Nyansettelser
+Tore Selland Kleppe er tilsatt som førsteamanuensis i statistikk.
+
+Nytt fra Norges teknisk-naturvitenskapelige universitet
+Nye ph.d.-grader
+Erlend Aune (2. november)
+Computation and modeling for high dimensional Gaussian distributions
+Hovedveileder: førsteamanuensis Jo Eidsvik, imf, ntnu.
+Medveileder: professor Bjørn Ursin, ivt-fakultetet, ntnu
+Komité: Associate Professor Colin Fox, University of Otago;
+Professor Antonella Zanna Munthe-Kaas, Universitetet i Bergen;
+Professor Elena Celledoni, Institutt for matematiske fag, ntnu.
+Kjartan Rimstad (8. november)
+Spatial mixture modeling based on latent random fields applied to
+seismic inversion
+Hovedveileder: professor Karl Henning Omre, imf, ntnu.
+Medveileder: professor Rune Martin Holt, ivt-fakultetet, ntnu.
+Komité: Professor Marc G. Genton, Texas A&M University,
+College Station, usa; Dr. Mickaele Le Ravalec, ifp Energies
+Nouvelles, Frankrike; Professor Nikolai Ushakov, Institutt for
+matematiske fag, ntnu.
+Gabriele Martinelli (13. november)
+Petroleum prospect exploration using Bayesian Networks
+Hovedveileder: førsteamanuensis Jo Eidsvik, imf, ntnu.
+Medveileder forskningssjef Ragnar Hauge, Norsk Regnesentral;
+professor Håkon Tjelmeland, imf, ntnu.
+Komité: Associate Professor Paola Vicard, University Roma
+Tre, Italia; Professor Reidar Bratvold, Universitetet i Stavanger;
+Professor Jarle Tufto, Institutt for matematiske fag, ntnu.
+24
+
+
+
+Ny ph.d.-student
+Linghua Chen, med veileder Arvid Næss.
+
+Ny mastergrad
+Christian Magnus Page (juli 2012)
+Estimating Time-Continuous Gene Expression Profiles Using the Linear
+Mixed Effects Framework
+Veiledere: Mette Langaas (imf) og Torunn Bruland (dmf)
+
+25
+
+
+
+ABC
+
+D AE F F F
+
+A
+BC
+
+DE AF
+
+F
+AB C
+
+!E
+A
+
+D
+E F
+DE F D B
+
+BF
+
+F" DF
+
+D
+
+FC E AF F
+D
+
+E
+ED
+
+D#F
+
+(F B
+F "F) D* BE+ F,
+*F
+* BE AF
+*
+# $ D%% F C! &
+A E
+
+D
+
+CD
+
+DE DF
+
+F E$$ F
+
+F-E F
+
+D
++E
+
+D * DE F
+E AF E. DE
+,
+D ED" F
+
+E AF" DF E. DE
+A
+D .
+8D
+(
+/
+
+F
+
+F)
+
+C F
+D E
+FE F;
+8 D D 3 "
+
+F D
+
+F "F
+CB
+-
+
+A
+
+$EBE #F" DF
+
+E AF F
+D
+CD.E. BF
+C ( - ( F -D"
+
+E
+
+"D
+
+E E.
+
+E
+
+%'&
+
+D * 0 BC F
+
+F1 "
+
+EB
+%23
+
+D * F
+
+"E
+D. B
+,D
+
+CD
+
+%&'
+D"
+
+F4 E AF5
+
+BB6 F D
+
+BB#F
+
+% 7
+
+E"E
+9&9
+
+D * DE F0 DE
+F E* E F" DF # * E F
+D A "D " A 5
+# F 6D 7D D
+
+B 4%
+E*CB
+
+ED F D
+
+%%%
+
+A
+BE+ F, E C B F" DF E* E F "F DAE
+E E F D * D FE F CB E. DE F E D#F
+! AB . 0D
+D"
+B 1D 2 F
+CB 3 D
+B
+
+; " D
+)CE
+C (
+
+F
+
+DA
+
+E F D
+D !FA
+
+F
+
+E* E AF(D E*
+F
+CB FE F/EA F E*
+D !D ' D ( F ) D" C! ! *
+(F)
+
+BE
+
+F
+
+F" DF1E
+
+FC
+
+1
+
+DF, AD
+
+E
+
+F-E F
+
+* BE A
+
+9:2
+
+. DE
+9%
+
+D*F
+
+F1
+
+A
+
+D*F/ + D F, E F
+
+BF" D
+99%
+
+1
+
+F" DF
+F D
+F D * D
+F$ 9 2
+
+" D*
+
+3 :D
+:
+& &;
+E F
+E #F" DF
+D E BF
+!E E F
+E E BF
+E #
+) D- AE F
+E E BF
+E #
+- E F
+E E BF
+E #
+
+F
+
+D
+
+B F (, /F
+
+B F-E
+9'2
+
+E E
+
+
+
+ABC
+
+D AE F F F
+
+A
+B C DEF
+E
+EF E
+
+DD F
+
+F
+F A
+AB C DCAA E F
+
+D D
+DECE
+CEC
+
+$%
+D
+B
+
+E
+E
+D F
+&
+E
+E
+D D%F %D
+EE B
+C
+EAAC E C
+
+EE
+D
+
+DE
+
+F D
+
+E E
+# $ B
+
+D F
+&
+! "C
+
+1 E 2
+
+2
+
+E
+
+'
+
+D
+
+E
+
++
+
+C
+
+2
+
+7ED F (
+B$ DC&&
+* &
+
+,$
+
+C
+
+, DE F
+$ CE B
+
+'
+
+E
+
+.E DE-% E
+
+5 6E-
+
+CB&
+
+EE
+)"!
+
+C
+
+C
+
+8#3
+
+E
+
+/ F D E
+
+- %
+89"
+
+.ED F
+
+F F EF BD
+
+E
+
+D 2EC
+
+DE
+
+% E D
+4C
+C CEE
+
+D
+
+A E .
+# $$ B DB5 A6
+
+)3!
+
+C
+/0 E EC A
+
+F E
+
+% E D E
+
+D
+
+D
+
+)*#
+CB+ C
+
+D C DEF ( D
+3C 1
+, C
+
+C E A E
+CB$ D A
+
+/
+
+))0
+
+CEC D E A
+
+*
+
+E
+
+$
+
+E % %
+
+&% E
+(C
+CB
+B
+$
+
+% .
+
+% .
+
+D
+
+E
+
+E
+
+D %DD
+
+E
+
+C
+
+D
+
+%DD
+
+6
+DCBC
+
+5 F D
+DB % E
+* &C *C
+&&C
+
+EC E
+DD
+C$ C 2 $$ B
+
+F
+
+-E E4 E
+B$ ) ,$C A$
+
+C DE A
+DC 1
+DE D
+/EEE
+& EC /) *
+1 BA
+-: F E
+A
+
+D
+
+)0!
+
+EC
+D EF E
+D C1
+,) " EEC A , E' ,".
+
+B
+
+(
+
+DD D +E +, DE -
+
+%
+
+A
+
+D
+
+)#*
+
+D E4
+E
+D
+, DE - &
+, DE %B C %B &
+'C ('C C $
+CB& )
+
+E
+
+D
+
+!"#
+
+E
+
+B
+
+E EF
+* &C #BC$ EE
+
+E
+
+A
+CB
+
+E A
+
+E
+
+F 2 -
+
+E
+
+$
+
+FDE-
+
+D( F% E
+
+F E
+C
+
+F
+
+C E A
+C
+
++ D
+
+&
+
+830
+
+8!8
+
+&
+
+D F
+C E A
+C
+& E CB
+
+EF
+
+.
+
+DD D
+
+889
+
+A -D EF
+
+E EF
+
+8*3
+
+B $ C #)
+
+B$
+
+8"*
+$$C
+
+BC
+
+D - -E E E
+
+*#0
+
+*0;
+
+
+
+informasjon
+Har du husket å betale kontingenten i år?
+Medlemskontingenten i nsf er kr 200,– per år for ordinære
+medlemmer, mens mastergradsstudenter får gratis medlemskap.
+På adresselappen bakpå bladet står det anført siste år vi har
+mottatt kontingent fra deg. Sjekk adresselappen! De som ikke har
+betalt for tidligere år gjør dette sammen med kontingenten for
+2012. Dersom du mener betalingsinformasjonen ikke stemmer, gi
+beskjed til clara-cecilie.gunther@nr.no. Dersom arbeidsgiveren
+din betaler kontingenten, sørg for at navnet ditt kommer med på
+innbetalingen.
+De største utgiftspostene for nsf er overføringer til lokallagene
+i Oslo, Bergen og Trondheim, utdeling av Sverdrup-prisen, nsfs
+medlemskap i The European Mathematical Society (ems) og the
+International Statistical Institute (isi), trykking og utsending av tg
+og utgifter i forbindelse med diverse arrangementer – blant annet
+støtte til studenter ved deltakelse på det norske statistikermøtet.
+For at medlemsregisteret skal være best mulig oppdatert, er
+det viktig at du oppgir eventuell ny post- eller e-postadresse, ved
+å sende meg en e-post. Vi har også opprettet en egen e-postliste
+for nsfs medlemmer, nsf-medlemmer@math.uio.no. Dersom du
+ikke mottar e-post fra denne lista, send meg din oppdaterte
+e-postadresse.
+Betalingsfrist for innbetaling av kontingent er snarest.
+Vennligst oppgi hvem kontingenten gjelder for ved innbetaling.
+
+http://www.euro-math-soc.eu/
+http://isi-web.org/
+
+Clara-Cecilie Günther
+Kasserer nsf
+Telefon: 22 85 25 63
+Konto: 0530 27 73299
+Betalingsinformasjon
+
+GIRO
+
+Betalingsfrist
+
+snarest
+
+Underskrift ved girering
+
+Kontingent NSF 2012 for [Navnet ditt]
+
+Betalt av
+
+Betalt til
+
+NSF ved Clara-Cecilie Günther
+Norsk Regnesentral
+Postboks 114 Blindern
+0314 Oslo
+Belast
+konto
+Kundeidentifikasjon (KID)
+
+H
+
+Kvittering
+tilbake
+
+Kroner
+
+200
+
+Øre
+
+Til konto
+
+00
+
+0530 27 73299
+
+Blankettnummer
+
+
+
+
+
+Avsender
+Norsk statistisk forening
+v/Clara-Cecilie Günther
+Norsk Regnesentral
+Postboks 114 Blindern
+0314 Oslo
+
+Redaksjon
+Anne Marie Fenstad
+Karl Ove Hufthammer
+Bård Støve
+
+
+

@@ -1,0 +1,1150 @@
+ISSN 0803-8953
+Tilfeldig gang
+Nr. 3, årgang 31
+November 2014
+
+Utgitt av Norsk statistisk forening
+Redaksjonelt
+
+Fra lederen . . . . . . . . . . . . . . . . . . . . . . . . . .
+Fra redaksjonen . . . . . . . . . . . . . . . . . . . . . . .
+
+1
+2
+
+Leserbidrag
+
+Statistiske sider ved Torgersensaka . . . . . . . . . . . .
+Tall=kultur . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+3
+8
+
+Tankenøtter
+
+Løsning på pusleri nummer 40 . . . . . . . . . . . . . .
+Pusleri nummer 41 . . . . . . . . . . . . . . . . . . . . .
+
+10
+11
+
+Møter og konferanser
+
+The 7th Trondheim Symposium in Statistics, Selbu 2014 12
+TG for 25 år siden
+
+Bør matematikere undervise statistikk? - En gammel
+debatt? . . . . . . . . . . . . . . . . . . . . . . . . .
+
+14
+
+Meldinger
+
+Nytt fra Universitetet i Tromsø . . . . . . . . . . . . . .
+Nytt fra seksjonene 2 og 3 ved Matematisk institutt,
+Universitetet i Oslo . . . . . . . . . . . . . . . . . .
+Nytt fra Norges teknisk-naturvitenskapelige universitet
+Nytt fra Avdeling for biostatistikk, Det medisinske fakultet, Universitetet i Oslo . . . . . . . . . . . . . .
+
+16
+16
+16
+18
+
+Annonseringer
+
+Sverdrup-prisen – Styret ønsker forslag til kandidater
+innen 31. desember . . . . . . . . . . . . . . . . . .
+Det 18. norske statistikarmøte . . . . . . . . . . . . . . .
+Oslo 2015 . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+19
+20
+22
+
+Scandinavian Journal of Statistics
+
+Innholdsliste september 2014 . . . . . . . . . . . . . . .
+
+24
+
+Informasjon
+
+Har du husket å betale kontingenten i år? . . . . . . . .
+
+25
+
+
+
+
+
+redaksjonelt
+Fra lederen
+Ragnar Bang Huseby | Oslo
+
+De fleste i norske fagmiljøer er sikkert kjent med at to
+nordmenn vil motta Nobelprisen i medisin i år. Vi ønsker
+også å gjøre det kjent, i hvert fall for medlemmene i Norsk
+statistisk forening, at vi har noe som heter Sverdrupprisen. Det
+er naturligvis forskjell på de to prisene, men de har også noe til
+felles.
+I begge tilfeller er det en stor ære å vinne. Man mottar
+dessuten et diplom og en del penger. Vinnerne av Nobelprisen
+får riktignok et større beløp og dessuten en medalje.
+Nobelprisen er mer kjent og har eksistert i mer enn 100 år,
+mens Sverdrupprisen første gang ble utdelt i 2009.
+Prosedyren for å dele ut Nobelprisen er nok også mer
+strømlinjeformet. Kandidater til å vinne Nobelprisen et gitt
+år må nomineres innen en gitt frist. Forslag på kandidater til
+Sverdrup-prisen kan derimot sendes NSFs styre når som helst.
+Slik er statuttene, i hvert fall inntil NSFs landsmøte bestemmer
+noe annet. Vi mener likevel at vi kan anmode våre medlemmer
+til å nominere kandidater innen årets utløp. Hensikten med
+å sette denne fristen er at det skal være tilstrekkelig tid til
+å vurdere kandidater før eventuell utdeling på det Norske
+statistikermøtet i 2015. Det vil naturligvis være mulig å foreslå
+kandidater etter årets utløp for vurdering til å motta prisen
+på et senere tidspunkt. Dette nummeret av TG inneholder
+informasjon om hvordan kandidater skal nomineres.
+Det er også en annen viktig forskjell mellom Nobelprisen og
+Sverdrupprisen. Det var Alfred Nobel selv som testamenterte
+sin formue til finansiering av Nobelprisene (i hvert fall hvis vi
+ser bort fra Sveriges Riksbanks pris i økonomi til minne om
+Alfred Nobel). Sverdrupprisen er derimot opprettet av NSF
+som også finansierer prisen. Siden foreningen får en del av sine
+inntekter fra medlemskontingenten, bør det være av interesse
+for medlemmene hvordan midlene til Sverdrupprisen forvaltes.
+
+1
+
+
+
+Fra redaksjonen
+Turid Follestad | Trondheim
+
+Utgjevinga av Tilfeldig Gang held fram med sin tilfeldige gang
+gjennom 2014. Det du sit med i handa eller på skjermen no er
+faktisk noko så sjeldant som eit novembernummer av TG - den
+til no einaste gongen TG kom ut i november var i 2003, ifølge ei
+rask scanning av lista over tidlegare utgåver.
+Om vi ser bort ifrå novembermørkret så er det elles lite som
+minner om at vinteren er like om hjørnet på kalenderen - i
+Trøndelag i alle fall. Her er det fortsatt trygt sykkelføre også for
+dei som meiner sykling ikkje er ein vintersport, og skia som det
+ikkje vart bruk for sist vinter får kvile ei stund til ser det ut til.
+Nokre ser kanskje allereie forbi vintersesongen og fram mot ein
+ny rekordsommar? Dei kan i dette nummeret bli inspirert av
+«Sommar, statistikk og Solstrand» - eller kva med å utforske
+«The Blue the Green and the Capital in between» når siste rest
+av det som skulle kome av snø (forhåpentlegvis) har smelta når
+vi skriv juni 2015?
+Redaksjonen vil, som leiaren, oppfordre til å foreslå
+kandidatar til Sverdrup-prisen. Ein av dei forrige vinnarane,
+Kjetil Røysland, var blant fleire dyktige foredragshaldarar på
+årets versjon av Trondheim Symposium i Statistikk i Selbu,
+omtalt i dette nummeret.
+I spalta «TG for 25 år siden» for mars 2014 tok vi fram
+eit innlegg om bruk av sannsynsrekning i tilknyting til
+Treholt-saka. Bruk (og misbruk) av statistikk i tilknyting til jus
+er oppe til diskusjon også i dette nummeret. Jon Ingulf Medbø
+har arbeidd med Torgersen-saka i 15 år, og gir ein gjennomgang
+av bevisa i saka, med vekt på statistiske vurderingar. Du
+kan elles bli med på statistikkturné i Akershus i regi av Den
+kulturelle skolesekken, og så kan du fram til neste nummer
+kjem ut i mars 2015 gruble på korleis du kan simulere eit
+rettferdig terningkast med ein skeiv terning (sjå Pusleri-spalta).
+Til slutt vil redaksjonen oppfordre til å fortsette å sende inn
+bidrag til bladet om stort og smått, og gjerne kommentarar til
+innlegg i dette eller tidlegare nummer. Vi ønskjer alle ein god
+haustinnspurt og ei god juleferie når den tid kjem!
+
+2
+
+Redaksjon
+Turid Follestad
+Bo Lindqvist
+Petter Arnesen
+
+
+
+leserbidrag
+Statistiske sider ved Torgersensaka
+Jon Ingulf Medbø | Oslo
+
+Jeg har jobba med Torgersensaka i 15 år, og jeg har utarbeida et
+bokmanus om saka med ei kritisk gjennomgåing av bevisene.
+Arbeidet har vist at helt enkle statistiske vurderinger er viktige
+for å tolke flere av bevisene i saka. Viktigst: En enkel statistisk
+analyse gir Torgersen tidsalibi for drapet. Gjennomgåinga
+har også avdekt en skremmende mangel på forståelse for
+helt enkle statistiske prinsipper i rettssystemet, også hos Den
+rettsmedisinske kommisjon (DRK). Det er emnet for denne
+artikkelen.
+
+Grannålbeviset
+Det blei i 1958 hevda at alle grannålene i saka ikke bare var
+uvanlig korte (<10 mm lange). De blei i tillegg påstått at det
+hadde en sjelden, avvikende mutert form. Det er nå klart at
+”den muterte formen” er vanlig for korte nåler i dårlig vekst.
+Nåler fra åstedet er målt opp igjen og funnet å være 6,2 ± 1,1
+mm lange (x̄ ± s, n = 51). Det er systematisk kortere enn
+det som blei oppgitt i 1958 (P < 0,001). Enda viktigere, de
+nye oppmålingene av åstedsnålene viser at de er kortere enn
+dressnålene (P = 0,005). Den mest nærliggende forklaringa på
+forskjellen i oppmålte lengder fra 1958 til etter 2000 er at i 1958
+har de sakkyndige valgt ut blant de lengste nålene, kanskje
+fordi de var lettest å gripe tak i.
+Under rettssaka i 1958 hevda en sakkyndig at minst 95 %
+av nålene i skogen var av det lengre slaget (>10 mm); det var
+derfor påfallende at ikke minst éi av de fem dressnålene var
+av det lengre slaget. Forutsetninga er at grannåler av ulike
+lengder fordeler seg tilfeldig, og sannsynligheten for å få på
+seg nåler av ulik lengde er proporsjonal med hyppigheten av
+nålelengden. Det blei påstått at det var bare en sannsynlighet
+på en av en milliard for at dressnålene ikke kom fra åstedet.
+Det er flere feil i dette resonnementet. Tallet minst 95 %
+lange grannåler i skogen mangler dekning. Det er forutsatt
+uavhengighet mellom hva slags nåler en får på seg. Korte nåler
+er vanlige i busksjiktet; det er en følge av dårlige vekstforhold
+som lite lys. Dårlig vekst svekker korte nåler; de faller derfor
+lettere av kvisten. Enkle stikkprøver tyder på at i om lag 40
+% av alle tilfeller får en på seg bare korte nåler etter en tur
+gjennom busksjiktet i en granskog.
+Grannålbeviset var i 1958 et fellende bevis, og det blei
+omtalt som et ”naturvitenskapelig bevis av første klasse”. Den
+statistiske analysen gjengitt over gir god grunn til å hevde
+
+joningulf.medbo@getmail.no
+Fredrik Torgersen blei i 1958 dømt for
+overlagt drap og for ildspåsetting.
+Torgersen har hele tida hevda at han er
+uskyldig dømt. Tre
+teknisk-vitenskapelige bevis sto
+sentralt under rettssaka i 1958:
+i) Det blei funnet mulig avføring på
+Torgersens sko og klær og på åstedet.
+Det blei hevda at det var likhet mellom
+de ulike prøvene. Det knytta ham til
+åstedet, et sted han sa at han aldri
+hadde vært.
+ii) Det blei funnet fem korte grannåler
+(6, 7, 7, 71⁄2 og 8 mm lange;
+x̄ ± s = 7,1 ± 0,7 mm). På åstedet var
+det rikelig med grannåler. Det blei
+under rettssaka hevda at dressnålene
+ikke lot seg skille fra de på åstedet, og
+at formen på alle nålene var en følge av
+en sjelden mutasjon. Ti nåler fra hver
+av fire ulike deler av åstedet blei målt
+opp. x̄ i de fire utvalga var 6,8; 7,4; 7,5
+og 8,0 mm; variasjonsbredden for hvert
+av utvalga er oppgitt til å være 5–8 mm
+for de første tre og 6–9 mm for det
+fjerde.
+iii) Det var et bittmerke i brystet på
+den drepte. Det blei under rettssaka i
+1958 påstått at det var identitet mellom
+bittmerket og Torgersens tenner.
+Andre bevis i saka blei tolka i lys av
+det de tre teknisk-vitenskapelige
+bevisene angivelig viste. Det gjelder
+også flere observasjoner som er egna til
+å si noe om drapstidspunktet.
+En mer omfattende omtale ligger på
+http://torgersensaken.no/statistiskesider- ved-torgersensaka/. Du finner
+mer stoff om saka på
+http://torgersensaken.no/.
+
+3
+
+
+
+at dressnålene ikke kom fra åstedet. Grannålbeviset er uten
+beviskraft mot Torgersen.
+
+Avføringsbeviset
+Det blei funnet avføring på åstedet. Det blei videre på
+Torgersens venstre turnsko funnet litt mørkt stoff som
+kunne være avføring. Avføringa fra åstedet inneholdt mye
+planterester fra erter og sammalt hvete. I den antatte avføringa
+fra Torgersens sko var det lite planterester. I tillegg blei det
+funnet korte hår i prøven fra skoen. Hår i avføringa er typisk å
+finne fra dyr som slikker pelsen sin. De to settene med (mulig)
+avføring hadde ikke noe vesentlig felles.
+I nye undersøkinger blei det funnet mer avføring på
+Torgersens sko, og det dukka opp avføring på nye steder.
+Innholdet i det nye materialet var likt det fra åstedet og ulikt
+det opprinnelige materialet fra skoen. Det har gitt grunnlag for
+påstanden om manipulering, et ikke-statistisk spørsmål.
+Ola Heide, professor i botanikk (planteanatomi) ved Norges
+landbrukshøgskole (nå UMB, Ås), blei i 2000 bedt om å vurdere
+statistiske sider ved avføringsbeviset: sannsynligheten for å
+tråkke i avføring, og for at avføringa skulle inneholde bestemte
+mengder av erter og sammalt hvete. Heide mente det var
+høyst 10 % sannsynlighet for å tråkke i avføring. Han hevda
+videre at det var høyst 10 % sjanse for at denne avføringa
+skulle inneholde rester av erter, og videre at det var bare 10 %
+sjanse for at den også skulle inneholde rester av sammalt hvete.
+Ved å forutsette at de tre hendingene var uavhengige, mente
+Heide at det var høyst 0,1 % sannsynlighet for at avføringa på
+Torgersens sko ikke kom fra åstedet, en rå og ukritisk bruk
+av produktregelen for sannsynligheter. Også professor Svein
+Magnussen, medlem av Gjenopptakskommisjonen, har gjort
+tilsvarende utlegninger.
+Heides gjentatte valg av 10 % sakner saklig grunnlag, og
+utlegningene har preg av ”tenk på et tall”. Sammalt hvete utgjør
+en daglig del av kosten for flertallet i Norge, så et rimelig tall
+må ligge godt over 50 %, kanskje opp mot 90 %. Forutsetninga
+om uavhengighet er et uttrykk for bekvemmelighet. Erter
+og hvete inngår i et vanlig sunt norsk kosthold; det er
+derfor positiv avhengighet mellom rester av dem i avføring.
+Den ukritiske bruken av produktregelen avslører en helt
+grunnleggende mangel på forståelse for statistiske prinsipper.
+Ikke noen domstol har reagert på misbruken.
+
+Bittmerkebeviset
+De sakkyndige i 1958 påsto at detaljer i skjærekanten til
+Torgersens fortenner var gjengitt i de enkelte tannmerkene. De
+underslo at det var flere uforklarlige avvik mellom Torgersens
+tanngard og bittmerket. Det har gjort at bittmerkebeviset har
+blitt et sterkt bevis.
+4
+
+Foto: Wikipedia
+
+Grannåler sto sentralt i Torgersensaka
+
+
+
+Professor Tore Solheim ved Odontologisk fakultet ved UiO
+har samla inn et datamateriale med avtrykk av tanngarden til
+222 personer. Han har sett etter hyppigheten av trekk i dette
+referansematerialet som han mener å kunne gjenfinne både
+i bittmerket i brystet og i Torgersens tanngard. Han har på
+grunnlag av det prøvd å regne ut sannsynligheten for at en
+tilfeldig valgt person skal ha den opphopinga av samsvar han
+hevder det er mellom bittmerket og Torgersens tanngard. Ved å
+regne hvert særtrekk som tilfeldig og uavhengig av andre trekk
+og deretter å bruke produktregelen har han kommet fram til et
+forsvinnende lite tall.
+Solheim har ukritisk brukt produktregelen på hyppigheten
+av trekk han har sett i de enkelte tannmerkene uten å
+undersøke om det er avhengigheter i materialet som en bør
+vente: Tenner slites mot hverandre. Når ei tann i underkjeven
+påvirker den i overkjeven, vil også tanna i overkjeven slite på
+den i underkjeven. Arvelige faktorer, tennenes utvikling og
+sjukdommer, slitasje ved bruk, tannstatus etter (manglende)
+oppfølging hos tannlege, tannhygiene (bruk av tannbørste,
+tanntråd og fluor) vil opplagt påvirke tennene i en tanngard i
+samme retning og derfor skape avhengighet.
+To andre alvorlige feil ved Solheims arbeid er for det
+første at han bare har tatt med særtrekk der han mener det
+er samsvar mellom Torgersens tanngard og bittmerket. Det
+er flere uforklarlige avvik og minst ett umulig avvik. De er
+utelatt fra Solheims analyse. For det andre har Solheim skåra
+for likhet mellom Torgersens tanngard og bittmerket der det er
+lett påviselig forskjell. Mens fagstatistikere lett kan reagere på
+en ukritisk bruk av produktregelen og spørre om avhengighet,
+kan de vanskelig slå ned på fordreiing av bakgrunnsmaterialet
+og tilbakeholding av opplysninger.
+
+Drapstidpunktet
+Ifølge dommen fra 1958 utførte Torgersen drapet litt før kl.
+23.30 fredag 1957-12- 06, dvs. (minst) en halv time før midnatt.
+Det er ei rekke holdepunkter for at den døde var i live til etter
+midnatt. Om det er tilfelle, har Torgersen tidsalibi og kan derfor
+ikke være morderen: Den drepte hadde drukket nesten en liter
+juleøl tidligere på kvelden. Den målte alkoholkonsentrasjonen
+i blodet, 0,2 promille eller litt mer, er påfallende lav og langt
+mer forenlig med et dødstidspunkt etter kl. 01 om natta.
+Liket, funnet i en kald kjeller, var fortsatt varmt kl. 02.30, er
+lite forenlig med å ha vært død i minst tre timer. Det samme
+gjelder utviklinga av dødsflekker og dødsstivhet som ikke blei
+observert kl. 02.30. Funn på åstedet av ferskt blod etter kl. 01.30
+er lite forenlig med blødning og dødsfall før midnatt. Avføringa
+på åstedet blei ikke observert ved midnatt. To sakkyndige som
+har vurdert de tilgjengelige opplysningene om brannen på
+åstedet, har begge uttalt at det er langt rimeligere at brannen
+5
+
+
+
+blei påsatt etter at Torgersen var arrestert. Det foreligger ti ulike
+og uavhengige observasjoner som kan vurderes med en enkel,
+standard (binomisk) fortegnstest. Alle de ti opplysningene er
+langt mer forenlige med at drapet fant sted etter midnatt og
+mens Torgersen hadde alibi. Sannsynligheten for det motsatte,
+vurdert med resultatet av fortegnstesten, er bare 0,001.
+
+DRKs manglende statistiske fortåelse
+Alle rettsmedisinske utredninger skal vurderes av Den
+rettsmedisinske kommisjon (DRK). DRKs uttalelser har avdekt
+en mangel på forståelse for helt enkle statistiske prinsipper. Det
+gjelder ikke minst deler av det materialet jeg har brukt til å
+vurdere drapstidspunktet.
+Utviklinga av dødsflekker blir brukt som eksempel. Den
+drepte blei undersøkt på åstedet av en rettsmedisiner kl.
+02.30, og han så ingen tegn til dødsflekker som vil vise seg
+som mørke flekker av blod i huden. De utvikles etter at
+blodsirkulasjonen stopper opp, og tidsforløpet for den typiske
+utviklinga er rimelig godt kjent. Figur 1 viser en skisse av
+rimelige dødstidspunkt ut fra fraværet av dødsflekker kl.
+02.30. En kan gjøre tilsvarende vurderinger ut fra den målte
+Figur 1: Estimering av sannsynlig
+dødstidspunkt vurdert ut fra fraværet av
+observerte dødsflekker ved den første
+undersøkinga litt etter kl. 02.30 drapsnatta.
+Den skisserte sannsynligheten er relativ, og
+det illustrerte forholdet er skjematisk. De to
+loddrette stipla linjene ved kl. 23.30 og kl.
+01.00 viser (den relative) sannsynligheten
+for at dødsfallet skjedde ved disse to
+tidspunktene, vurdert ut fra fraværet av
+tydelige dødsflekker litt etter kl. 02.30. Den
+høyre delen av tidskurven, fra kl. 01.30, er
+stipla for å illustrere at offeret da alt var
+fastslått å være død.
+
+alkoholkonsentrasjonen i blodet, fraværet av dødsstivhet,
+registreringer av hudtemperaturen og observasjoner av blod
+på åstedet som blei omtalt som ferskt, det vil si uten tydelig
+koagulering.
+Den drepte hadde fått servert nesten 1 L juleøl i to omganger
+tidligere på kvelden. Skal den målte alkoholkonsentrasjonen i
+blodet være forenlig med død før midnatt, må en forutsette
+både at denne personen forbrant alkohol nesten dobbelt så fort
+som en gjennomsnittsperson og i tillegg lot være å drikke opp
+alt ølet. Det har ikke DRK greid å innse men i stedet avgitt et
+vagt utsagn. Den nåværende aktor i saka har omskrevet DRKs
+utsagn slik: ”På grunn av de store individuelle variasjonene i de
+fysiologiske parametre, samt usikkerhet rundt tid og mengde
+6
+
+
+
+for alkoholinntaket, kan man ikke legge ’mest sannsynlige’
+verdier til grunn for videre slutninger om når det er mest
+sannsynlig at Rigmor Johnsen senest eller tidligst ble drept.”
+Figuren over viser hvor misvisende denne fortolkinga er.
+Statsadvokatens formulering gjenspeiler en grunnleggende
+mangel på forståelse for statistisk tenking og forståelse ikke
+bare hos statsadvokaten men også hos DRK.
+
+Statistisk testing. Bruk, misbruk og bevisbyrde
+I vanlig statistisk testing setter en gjerne opp en nullhypotese
+som H0 : ”Ingen vesentlig forskjell”, mot H A : ”Klart påviselig
+skilnad”. Bare om sannsynligheten for å få en minst så stor
+forskjell ved rein tilfeldighet er tilstrekkelig liten, forkastes
+nullhypotesen til fordel for alternativet. All rimelig usikkerhet,
+ofte tatt som et 95 % konfidensintervall, kommer nullhypotesen
+til gode. Denne tankegangen har en klar parallell i bærende
+prinsipp i strafferetten: All mulig rimelig tvil skal komme den
+tiltalte til gode.
+Nullhypotesen for grannålbeviset må være at dressnålene
+kom fra et tilfeldig tre og altså hadde et naturlig opphav,
+annet enn åstedet. Den alternative hypotesen er at de kom fra
+åstedet. En mangler godt referansemateriale for å si noe om
+sannsynligheten for å få på seg bare korte nåler i klærne etter
+opphold i skogen selv om enkle undersøkinger nevnt foran gir
+noen holdepunkter.
+Jeg har foran gitt resultatet av enkle statistiske tester
+der jeg har sammenlikna resultater av lengdemålinger av
+åstedsnåler med dressnålene. Disse testene viste forskjell.
+Nullhypotesen her har vært at nålene ikke lot seg skille, det
+vil si at alle nålene stamma fra den samme populasjonen på
+åstedet. En slik nullhypotese er formelt feil ut fra prinsippet
+om all mulig rimelig tvil skal være til fordel for Torgersen.
+Selv med snudd bevisbyrde kan en altså vise at det er lite
+sannsynlig at dressnålene kom fra åstedet. Det motsatte utfallet,
+at dressnålene ikke lot seg skille fra åstedsnålene, ville ikke ha
+vært noe bevis for at nålene hadde felles opphav, og med det at
+Torgersen faktisk hadde vært på åstedet.
+Ti ulike observasjoner av den avdøde og på åstedet taler for
+at drapet fant sted etter midnatt, mens Torgersen beviselig var
+et annet sted, og at brannen var påsatt etter at han var arrestert.
+Jeg har ved hjelp av en enkel, robust statistisk test uttrykt den
+alternative fortolkinga som en sannsynlighet. Denne statistiske
+analysen utelukker i praksis Torgersen som gjerningsmannen.
+Med andre observasjoner kunne utfallet av testen ha blitt et
+annet: at drapet fant sted før midnatt, og at brannen blei påsatt
+før Torgersen blei arrestert. Det hadde ikke vært noe bevis for at
+Torgersen faktisk er skyldig. Rett tolking av dette alternativet er
+bare at Torgersen ikke har et frifinnende bevis i dette datasettet.
+7
+
+
+
+Tall=kultur
+Kathrine Frey Frøslie | Oslo
+
+“It’s a one-time thing. It just. Happens. A lot.” synger Suzanne
+Vega for syttende gang i det jeg svinger bilen inn foran
+en ny barneskole i Nittedal. Den kulturelle skolesekken i
+Akershus har sendt Jo Røislien og undertegnede sitt alternative
+statistikklæringsprosjekt Tall forteller ut på turné: Én uke, én
+statistiker, 7 skoler, 9 forestillinger, og 300 syvendeklassinger får
+en 45 minutters forestilling med faget vi elsker.
+Jeg starter med årelating. En livsfarlig praksis som ville
+vært avslørt hvis man hadde tatt seg bryet med å telle. Ungene
+grøsser når jeg retter en spiss fruktkniv mot min egen blodåre.
+Neste tema er krybbedød. I alle klassene finnes det en trist
+historie om krybbedød. Jeg forteller at da forskerne fant ut at
+babyer bør sove på ryggen, reddet vi 130 babyer hvert år, og at
+det gjør meg stolt av å være statistiker. For hvis vi kan redde
+130 babyer hvert år bare ved å telle, så er det mye annet vi også
+kan få til med tall! Vi diskuterer skremmende ebola-tall fra
+nyhetene, skjærer ut i diskusjoner om vaksine, og hva det betyr
+at en norsk kvinne i gjennomsnitt får 1,88 barn (litt rart, synes
+ungene).
+Fjortisforskning overtar: En lærer jeg kjenner har fått
+alle niendeklassingene sine til å telle hvor mange klesplagg
+de har i klesskapet. Ikke ytterklær, truser og sokker eller
+spesialtreningstøy, men klær man kan bruke til hverdags.
+«Hundre», gjetter en av elevene. «Tretti», sier en annen. Jeg
+avslører at antall klesplagg varierte fra 7 (som er omtrent det
+jeg selv hadde da jeg var 11) til 241. To hundre og førtien. I
+skapet til én fjortenåring.
+Neste lysbilde: ”En fjortis har gjennomsnittlig 75 klesplagg”,
+står det. Ungene gaper forskrekket (selv han som gjettet
+hundre). De er hekta. På tall. Men ingen synes det er så lett å
+se for seg hvor mange klær det faktisk er, så jeg drar fram to
+store kofferter med klær, og kaster ett og ett plagg i en haug
+på gulvet mens jeg teller høyt. Haugen med klær blir latterlig
+stor. Er dette virkelig vanlig for en fjortenåring? Ja. Og Nei.
+For dette er skjeve data. Det skjønner ungene også når de ser
+histogrammet over de innsamlede tallene, og vi diskuterer
+oss gjennom median (53), kvartiler (36 og 106), boksplott, og
+hvilke tall som forteller best om antall klær, før vi vantro og litt
+fnisende undersøker forskjellen på gutter og jenter. (Ja, den er
+signifikant.)
+Elevene oppsummerer engasjert det tallene forteller:
+«Ungdommer har mye mer klær enn de trenger!» «De er
+bortskjemte!» «Jålete!» Men tallene forteller også noe om den
+kulturen vi lever i. «Vi er rike!», sier ungene og ler litt, ganske
+fornøyde. Jeg viser et bilde av den sammenraste tekstilfabrikken
+i Bangladesh fra et år tilbake, der over tusen mennesker omkom.
+8
+
+https://www.facebook.com/
+dksakershus
+
+
+
+Det blir stille. Ungene er enige i at 75 klesplagg var vanskelig
+å se for seg, og enda vanskeligere er det å tenke seg 1000
+mennesker. Vi ser på bildet av den fortvilte lille jenta som er på
+deres egen alder, hun som mistet begge bena i ulykken. Fordi
+hun jobbet med å sy en haug av klær til oss, klær vi ikke en
+gang trenger.
+
+Tall får oss til å tenke. Tall kan brukes til å påvirke både oss
+selv og andre. Tall beskriver hvordan verden egentlig er. Tall
+setter dagsorden for media, og tall brukes av politikere. Tall
+forteller. Avslutningsvis forteller jeg om boka og om appen i
+Tall forteller-prosjektet som Norsk Statistisk Forening har vært
+med å støtte, og lar siste ord være en oppfordring: «Gå ut og
+forsk!»
+
+9
+
+
+
+tankenøtter
+Løsning på pusleri nummer 40
+Jostein Lillestøl | Bergen
+
+Oppgaven
+To dobbeltsporede toglinjer, linje 1 (Syd/Nord) og linje 2
+(Øst/Vest), krysser hverandre. Anta at alle tog ”braser”
+gjennom krysset uten å ta omsyn til eventuelle varsler om
+kryssende tog. Vi ønsker å belyse kollisjonsrisikoen under
+følgende forutsetninger: Togsett på de to linjene har ulik lengde
+ai (i = 1,2), og ankommer krysset iht. en Poissonprosess med
+ulik rate λi (i = 1,2), dvs. at ventetiden mellom hvert tog
+på hver av linjene er eksponensielt fordelt. Farten forut for
+krysningen antar vi er den samme lik v på begge linjene.
+
+(a) Du har tatt et tilfeldig tog på linje 1. Hva er sannsynligheten
+for kollisjon med kryssende tog?
+(b) Hva er totalt forventet antall kollisjoner pr. tidsenhet?
+
+Klargjør den rolle eventuell ulik fart på de to linjene forut for
+krysningen har.
+
+Løsning
+Figur 1 viser et tog på linje 1 fra vest som er ankommet krysset.
+Det kolliderer med et tog på linje 2 fra nord dersom dette
+ankommer krysset med fronten i angitt område av lengde
+a1 + a2 , der enten tog 1 kolliderer med tog 2 (a2 ) eller tog 2
+kolliderer med tog 1 (a1 ). Betinget gitt antall krysninger (n1
+,n2 ) i tidsintervallet [0, t], er tidspunktene for krysningene
+(ved uavhengighet) uniformt fordelt i kvadratet [0, t] × [0, t].
+Andelen krysninger med kollisjon blir da i Figur 2 gitt ved
+arealet av båndet langs diagonalen i [0, t] × [0, t], som for alle
+praktiske formål er ( a1 + a2 )t, dividert med det totale arealet t2 .
+Vi får da, når vi tar omsyn til at tog også kan komme motsatt
+vei:
+
+(a) P( A|n2 i [0, t]) = ( a1 + a2 ) nt2
+P( A) = ( a1 + a2 ) 2λt2 t = 2λ2 ( a1 + a2 )
+(b) E( N |n1 & n2 i [0, t]) = ( a1 + a2 ) n1tn2
+E ( N ) = ( a1 + a2 )
+10
+
+(2λ1 t)(2λ2 t)
+= 4λ1 λ2 ( a1 + a2 )t
+t
+
+
+
+som ikke uventet gir forventet antall kollisjoner pr tidsenhet lik
+4λ1 λ2 ( a1 + a2 ). Ved ulik fart erstatt a1 + a2 med a1 (v2 /v1 ) + a2
+i (a) og max { a1 (v2 /v1 ) + a2 , a1 + (v1 /v2 ) a2 } i (b).
+
+Pusleri nummer 41
+Jostein Lillestøl | Bergen
+
+Du skal simulere utfallet av et rettferdig terningkast, men til
+hjelp har du bare en sekssidet terning som ser skjev og rar
+ut. Greier du det likevel når du får lov til å trille den skjeve
+terningen flere ganger? Hint: 6 = 3!
+
+Send svar til Jostein.Lillestol@nhh.no.
+
+11
+
+
+
+møter og konferanser
+The 7th Trondheim Symposium in Statistics, Selbu 2014
+Bo Lindqvist | Trondheim
+
+Det sjuende årlige «Trondheim Symposium in Statistics» ble
+arrangert i weekenden 17. -18. oktober, og som ved de seks
+tidligere symposiene ble det holdt ved Selbusjøen Hotell &
+Gjestegård. De ansvarlige for arrangementet var denne gangen
+Andrea Riebler og undertegnede.
+Hovedideen bak arrangementet er å kunne samle
+statistikerne i Trondheim til et weekend-møte utenfor bykjernen
+(Selbu er 1 times kjøring fra Trondheim), der det inviteres både
+norske og utenlandske eksperter til å presentere aktuelle temaer
+fra forskningsfronten i statistikk. Arrangementet støttes av så
+vel institutt som fakultet ved NTNU.
+
+https://wiki.math.ntnu.no/
+selbusymposium/selbu2014/start
+
+Årets Selbu-foredragsholdere (fra venstre): Simon Wilson. Kjersti Aas, Cajo ter Braak, Kjetil Røysland, Chris Jones. Foto: Andrea
+Riebler
+
+12
+
+
+
+I år hadde symposiet 35 deltakere, medregnet fem
+foredragsholdere. For første gang var også masterstudentene i
+statistikk ved NTNU invitert, og hele 11 av dem var med. Vi
+hadde også to gjester fra Tromsø som deltakere.
+Den faglige delen besto av to foredrag før middag på
+fredag ettermiddag, og tre foredrag mellom frokost og lunsj på
+lørdagen. Dette utgjorde fem foredrag med meget interessante
+og svært ulike tema, og med meget inspirerende framføringer:
+– Chris Jones (Open University, UK): “Some parametric
+families of distributions; connections, comparisons and
+extensions”.
+– Cajo ter Braak (Wageningen UR, Netherlands): “Dance
+with statistics – quick, quick, slow with simple and
+complex figures”.
+– Simon Wilson (Trinity College, Dublin): “Using Storm for
+scaleable sequential statistical inference”.
+– Kjetil Røysland (Biostatistics, Univ of Oslo): “Causal
+reasoning in survival analysis: Re-weighting and local
+independence graphs”.
+– Kjersti Aas (Norwegian Computing Centre): “Structure
+learning in BBNs using regular vines”.
+Etter en utmerket middag og tilhørende hyggelig passiar
+på fredag kveld var det annonsert mulighet for å observere
+nordlys. Selv om nordlyset ikke var av det klareste slaget, ble
+det en interessant opplevelse for de som våget seg ut i det
+kalde, klare været!
+
+13
+
+
+
+tg for 25 år siden
+Bør matematikere undervise statistikk? - En gammel
+debatt?
+
+14
+
+
+
+15
+
+
+
+meldinger
+Nytt fra Universitetet i Tromsø
+Ny Ph.d-grad
+Ola Løvsletten (3. oktober 2014)
+Statistical methods for scale-invariant and multifractal stochastic
+processes.
+Bedømmelseskomite: Christian Franzke, University of
+Hamburg; Ingve Simonsen, NTNU; Sigrunn Holbek Sørbye,
+UiT. Veiledere: Martin Rypdal og Kristoffer Rypdal, UiT
+
+Nytt fra seksjonene 2 og 3 ved Matematisk institutt,
+Universitetet i Oslo
+Ny ph.d-grad
+Gudmund Horn Hermansen (26. september 2014)
+Model selection and Bayesian nonparametrics for time series and
+non-standard regression models (prøveforelesning: Dimensionality
+reduction in big data sets)
+Bedømmelseskomité: Sonia Petrone, University of Bocconi; Dag
+Tjøstheim, Universitetet i Bergen; Ørnulf Borgan, Universitetet i
+Oslo. Veiledere: Nils Lid Hjort, Universitetet i Oslo; Arnoldo
+Frigessi, Universitetet i Oslo.
+
+Ny mastergrad
+Warda Hadaoui
+On factors influencing the failure rate of pumps in the oil & gas
+industry
+Veiledere: Bent Natvig, Stefan Isaksen, Bo Lindqvist
+
+Nytt fra Norges teknisk-naturvitenskapelige universitet
+Nye Ph.D. grader:
+Zeytu Gashaw Asfaw (21. august 2014)
+Inference and Prediction in Non-stationary Stochastic Models –
+Survival Analysis and Kriging Interpolation. (Prøveforelesning:
+Spatial modelling in medical statistics)
+Bedømmelseskomite: Jun Yu, Umeå Universitet, Sverige; Georg
+Elvebakk, Universitetet i Tromsø; John S. Tyssedal, NTNU.
+Hovedveileder: Henning Omre, NTNU.
+16
+
+
+
+Thiago Guerrera Martins (23. september 2014)
+Bayesian analysis of latent Gaussian models. (Prøveforelesning: On
+the impact of priors on model selection)
+Bedømmelseskomite: Aki Vehtari, Aalto University School of
+Science, Finland; Judith Rousseau, Université Paris Dauphine;
+Bo Lindqvist, NTNU. Hovedveileder: Håvard Rue, NTNU.
+
+Nye PhD-studenter:
+Thea Bjørnland
+Hovedveileder: Mette Langaas
+Morten Holm Falk
+Veiledere: Håvard Rue og Andrea Riebler
+Xin Luo
+Hovedveileder: Håkon Tjelmeland
+Jacob Skauvold
+Hovedveileder: Jo Eidsvik
+Ioannis Vardaxis
+Hovedveileder: Bo Lindqvist
+
+Nye mastergrader:
+Thea Bjørnland
+Statistical Methods for Genetic Association Studies under the Extreme
+Phenotype Sampling Design - Modelling the Effects of both Common
+and Rare Genetic Variants.
+Veileder: Mette Langaas
+Johanne Borhaug
+Climatology Cumulative Probability Regression. A Postprocessing
+Methodology Based on Climatology and Deterministic Forecasts,
+With a Case Study of Streamflow Forecasts at Osali.
+Veileder: Ingelin Steinsland
+Eirik Dybvik Bøhn
+Modelling and Inference for Bayesian Bivariate Animal Models using
+Integrated Nested Laplace Approximations.
+Veileder: Ingelin Steinsland
+Cecilie Drabløs Frøysa
+A Bayesian model for the dependence structure in binary Markov
+random fields.
+Veileder: Håkon Tjelmeland
+Christoffer Haug Laache
+Phase-type inference on competing risks models with covariates, using
+MCMC methods.
+Veileder: Bo Lindqvist
+Trine-Lise P. Lorentsen
+Quantification of an approximate forward-backward algorithm applied
+to a convolutional model.
+Veileder: Håkon Tjelmeland
+17
+
+
+
+Gunnhild Hardersen Presthus
+Condition monitoring and failure prediction in complex systems.
+Veileder: Bo Lindqvist
+Jacob Skauvold
+Parametric wavelet estimation.
+Veileder: Jo Eidsvik
+Helene Eide Wiik
+Methods for Analyzing the 12 Run Plackett-Burman Design.
+Veileder: John Tyssedal
+
+Nytt fra Avdeling for biostatistikk, Det medisinske
+fakultet, Universitetet i Oslo
+Nye ph.d-grader
+Kathrine Frey Frøslie (10. juli 2014)
+Applications of path analysis and functional data analysis in a
+longitudinal, clinical cohort study of pregnant women and their
+neonates
+Bedømmelseskomité: 1. opponent: Professor Anne Eskild,
+Universitetet i Oslo; Professor Helle Sørensen, Københavns
+Universitet; Professor Per Grøttum, Universitetet i Oslo.
+Hovedveileder: Marit B. Veierød. Biveiledere: Tore Henriksen,
+Petter Laake, Jo Røislien
+Morten Valberg (18. juli 2014)
+The impact of individual heterogeneity (frailty) in cancer
+Bedømmelseskomité: Professor Andreas Wienke, Martin
+Luther University of Halle-Wittenberg; Professor John L.
+Hopper, University of Melbourne; Førsteamanuensis Hans Olav
+Melberg, Universitetet i Oslo. Hovedveilder: Odd O. Aalen.
+Biveileder: Marit B. Veierød
+
+Nyansettelser
+Kjetil Røysland
+Ansatt som førsteamanuensis fra 1. november 2014
+Manuela Zucknick
+Ansatt som førsteamanuensis fra 1. januar 2015
+
+Oslo Centre for Biostatistics and Epidemiology
+(OCBE)
+Fra 1. april er Avdeling for biostatistikk, Universitetet i
+Oslo, og Avdeling for biostatistikk og epidemiologi, Oslo
+universitetssykehus, slått sammen til et tverrinstitusjonelt senter
+kalt Oslo Centre for Biostatistics and Epidemiology (OCBE).
+Professor Arnoldo Frigessi er ansatt som leder for senteret.
+Teamet på i underkant av 50 personer utfører metodologisk
+forskning, underviser studenter og doktorgradsstipendiater
+og veileder stipendiater og forskere underveis i deres
+forskingsprosjekter.
+18
+
+http://www.med.uio.no/imb/english/
+research/centres/ocbe/
+
+
+
+annonseringer
+Sverdrup-prisen – Styret ønsker forslag til kandidater
+innen 31. desember
+Ragnar Bang Huseby | Oslo
+
+Sverdrup-prisen er Norsk statistisk forenings forskningspris til
+minne om Erling Sverdrup. Prisen kan deles ut hvert år, men
+har hittil blitt delt ut under det Norske statistikermøtet (som
+finner sted i oddetallsår). Det deles ut to priser:
+1. Til en fremragende representant for statistikkfaget.
+2. Til unge forskere (under 40 år) med beste artikkel.
+Hver av prisene består av et diplom og et stipend på kr 10 000.
+Forslag til kandidater som skal motta prisen på det Norske
+statistikermøtet i 2015, bes sendt til styret i NSF v/Ragnar Bang
+Huseby, e-post: ragnar.huseby@nr.no, innen 31. desember 2014.
+Forslag må være signert av forslagstilleren, og en begrunnelse
+på ca. en side må vedlegges.
+Forslag kan fremsettes av medlemmer av NSF.
+Forslagene vil bli vurdert av en komité bestående av Arnoldo
+Frigessi, Jo Eidsvik og Ragnar B. Huseby. Komitéen gir sin
+anbefaling til NSFs styre. Så vel NSFs styre som komiteen vil
+behandle forslagene konfidensielt. For å kunne tildeles denne
+prisen kreves et enstemmig styre.
+Prisen til en fremragende representant kan tildeles medlemmer
+av NSF som har utmerket seg innen fagområdet statistikk.
+Prisen til unge forskere kan tildeles medlemmer av NSF
+yngre enn 40 år som har utmerket seg innen forskning innen
+fagområdet statistikk.
+
+19
+
+
+
+SOMMAR
+STATISTIKK
+SOLSTRAND
+Me håpar du også har tenkt deg på
+Solstrand Hotel og Bad den 15.–18. juni 2015!
+Då møtest me på det 18. norske statikarmøtet,
+for fagleg og sosialt fellesskap.
+
+Meir informasjon kjem på
+http://norskstatistiskforening.no/
+moeter/solstrand-2015
+
+
+
+Her er det me kan sjå fram til:
+
+Måndag og første del av tysdag held Hein Stigum forkurs
+i eit svært spennande og aktuelt emne:
+Introduksjon til kausale grafer (DAGs)
+Kausale grafer (Directed Acyclic Graphs) er
+nyttige verktøy for å forstå grunnleggende
+begreper som konfundering, mediering og
+seleksjonsfeil. Grafene kan finne variabler
+som må justeres for, og variabler som ikke bør
+justeres for. Og grafene er en presis beskrivelse
+av antagelsene i analysen. Kurset vil gi en
+introduksjon til kausale grafer med mye vekt
+på eksempler og lite vekt på formalisme.
+Velkommen under mottoet «Draw your
+assumptions before your conclusions»!
+
+Resten av møtet vert det føredrag, utdeling av Sverdrupprisen og sosialt samvær (med mykje god mat).
+Ein stor og viktig del av programmet vil vera føredrag frå
+deltakarane. Viss du ønskjer å bidra med eit føredrag, er
+det supert! Send ein e-post som inneheld
+– namn
+– institusjon
+– tittel på føredrag
+– samandrag/abstrakt av føredrag
+
+til programkomitéen på nsf.solstrand15@gmail.com
+innan fredag 27. mars 2015.
+
+
+
+IACA, LIFE AND PBSS COLLOQUIUM
+
+Grand Hotel Oslo, Norway
+Den norsk Aktuarforening invites you to attend the Colloquium of the International Actuarial Association
+to be held in Oslo, Norway, from the 7th to the 10th of June 2015. The colloquium is a joint collaboration
+of three IAA sections: Consulting Actuaries (IACA), Life Insurance (LIFE) and Pension Benefits and
+Social Security (PBSS)
+Our call for papers describes the present state of pensions and life insurance as rather turbulent and lists
+a number of issues that serve to shape the prospectus of the colloquium. Hopefully it will inspire many of
+you to write a contributed paper and many more of you to attend and participate in the discussions in Oslo
+June 7-10, 2015. Enjoy the bright summer nights in the little city with the big heart!
+
+Call for Papers
+
+‘Issues in our time’
+
+A relatively short period in the history of insurance, the past some three decades have seen life insurance
+and pensions undergo major changes driven by multiple and interacting forces. The following list of
+keywords is probably noncontroversial, but emphasis and pros and cons may be debatable. Deregulation
+in the eighties. Financial innovation and emergence of huge derivatives markets. Growth in volume of
+trades, increasingly research- and technology-driven. Financial instability culminating in the on-going crisis.
+In life insurance and pensions: Demutualization, dissolution of portfolios, increasing mobility of insurance
+contracts (buy-outs, individual and bulk), surrenders and free policies. The traditional with profit scheme
+gave way to a plethora of products equipped with various forms of guarantees. Hence risk management
+increasingly based on market operations: reinsurance, swaps, securitization. Pension crisis triggered by
+faltering markets and improved longevity. Occupational schemes moving from defined benefits to defined
+contributions. Renewed interest in with profit? Or seek new ways of adapting premiums and benefits to
+indices for interest and mortality? Risk classification driven by technology (gene tests) or legislation (gender
+neutrality). Disability and long term care in an ageing population. Reintroduction of regulation. Solvency
+II, IFRS, external models vs internal models/ORSA. Valuation of assets and liabilities (what is MCEV?).
+Furthemore: consolidation, globalization, emergence of insurance markets in developing countries. And,
+not least, the impact of advances in the mathematical theories of finance and insurance and their interface.
+
+
+
+IACA, LIFE AND PBSS
+COLLOQUIUM
+
+About Oslo
+
+Important Information
+
+“The Blue the Green and the Capital in between”
+
+Best Paper Awards
+
+Oslo is situated at the head of Oslo Fjord surrounded by forested
+ridges, and this very location gives the city unexpected qualities for a
+national capital. The surrounding countryside provides recreational
+opportunities for the city’s inhabitants and visitors, in summer as
+well as in winter. Not many world capitals offer subway service to
+the forest, with lakes and hiking trails within city limits.
+
+The LIFE and PBSS Sections are granting
+two prizes of CAD 1000 each, one to the
+author(s) of the best LIFE paper and one to
+the author(s) of the best PBSS paper. The
+winners will be selected by the Scientific
+Committee and be announced and awarded
+their prizes during the Colloquium.
+
+Oslo has a population of only 600 000, which is relatively low
+compared to most European capitals. However, it is paradoxically
+one of the largest in terms of area. Oslo covers more than 450
+square kilometers, most of which comprises forests and arable land.
+
+Call for Papers
+
+Oslo is a city full of contrasts. Its natural beauty, in combination
+with all the facilities of a modern metropolis, adds to the charm of
+a city often called “the world’s biggest village”.
+
+Draft Program Released: 28 February, 2015
+
+More modern districts include the bustling Aker Brygge area,
+a rehabilitated old shipyard, with its Mediterranean style shops,
+restaurants and cafés. Oslo’s beautiful natural surroundings, its
+varied architecture, and its multinational inhabitants contribute to
+the city’s unique atmosphere.
+And Oslo’s climate is actually better than our northern latitude
+might indicate. This is due to the Gulf Stream bringing warmth
+from the Gulf of Mexico across the Atlantic Ocean and along the
+coast of Norway. And in the summer, the sun is up 19 hours per
+day.
+
+Keynote Speakers
+•
+•
+•
+•
+
+Professor An Chen, University of Ulm, Germany
+Managing director Idar Kreutzer, Finance Norway, Norway
+Professor Antoon Pelsser, University of Maastricht, The Netherlands
+Professor Mogens Steffensen, University of Copenhagen, Denmark
+
+Synopsis Deadline: 31 January, 2015
+
+Paper Submission Deadline: 31 March, 2015
+
+Acceptance Deadline: 15 April 2015
+
+Presentation File Deadline: 31 May 2015
+
+Registration to Open: Autumn 2014
+
+Contact Information
+For more information about submissions
+or papers please contact
+oslo2015@ccnorway.no or visit
+www.actuaries.org/oslo2015
+
+
+
+SCANDINAVIAN JOURNAL OF STATISTICS
+Volume 41 • Number 3 • September 2014
+Contents:
+
+Page
+
+Spatial Matérn Fields Driven by Non-Gaussian Noise
+David Bolin
+
+557
+
+A Predictive Study of Dirichlet Process Mixture Models for Curve Fitting
+Sara Wade, Stephen G. Walker & Sonia Petrone
+
+580
+
+A Latent Process Model for Temporal Extremes
+Paola Bortot & Carlo Gaetan
+
+606
+
+Semiparametric Inference for the Two-way Layout Under Order Restrictions
+Ori Davidov, Konstantinos Fokianos & George Iliopoulos
+
+622
+
+Sparse Markov Chains for Sequence Data
+Väinö Jääskinen, Jie Xiong, Jukka Corander & Timo Koski
+
+639
+
+A New Regression Model: Modal Linear Regression
+Weixin Yao & Longhai Li
+
+656
+
+Generalized Mann–Whitney Type Tests for Microarray Experiments
+Daniel Fischer, Hannu Oja, Johanna Schleutker, Pranab K. Sen & Tiina Wahlfors
+
+672
+
+Integer-valued Trawl Processes: A Class of Stationary Infinitely Divisible Processes
+Ole E. Barndorff-Nielsen, Asger Lunde, Neil Shephard & Almut E. D. Veraart
+
+693
+
+New Robust Variable Selection Methods for Linear Regression Models
+Ziqi Chen, Man-Lai Tang, Wei Gao & Ning-Zhong Shi
+
+725
+
+Weighted Logrank Permutation Tests for Randomly Right Censored Life Science Data
+Michael Brendel, Arnold Janssen, Claus-Dieter Mayer & Markus Pauly
+
+742
+
+Some Statistical Properties of Efficiency Robust Tests with Applications to
+Genetic Association Studies
+Gang Zheng, Qizhai Li & Ao Yuan
+
+762
+
+Prediction Error of Small Area Predictors Shrinking Both Means and Variances
+Tapabrata Maiti, Hao Ren & Samiran Sinha
+
+775
+
+Generalized Scan Statistics for Disease Surveillance
+Pei-Sheng Lin
+
+791
+
+Estimation of the Intensity Parameter of the Germ-Grain QuermassInteraction Model when the Number of Germs is not Observed
+David Dereudre, Frédéric Lavancier & Katerˇina Stanˇ ková Helisová
+Statistical Inference for Single-index Panel Data Models
+Liping Zhu, Jinhong You & Qunfang Xu
+Published on behalf of:
+Danish Society for Theoretical Statistics
+Finnish Statistical Society
+Norwegian Statistical Society
+Swedish Statistical Society
+
+809
+
+830
+
+
+
+Har du husket å betale kontingent i år?
+Kontonummer: 0530 27 73299
+
+Kasserer: E-mail: clara-cecilie.gunther@nr.no
+
+Tlf: 22 85 25 63
+
+_____________________________________________
+Medlemskontingenten i NSF er kr. 200,- pr. år for ordinære medlemmer (mastergradsstudenter får gratis medlemskap).
+Dersom du er usikker på når du betalte sist kan du kontakte kassereren per epost.
+Hva gjør vi med pengene?
+De største utgiftspostene for NSF er overføringer til lokallagene i Oslo, Bergen og Trondheim, utdeling av Sverdrupprisen,
+NSFs medlemskap i the European Mathematical Society (EMS) og the International Statistical Institute (ISI), og utgifter i
+forbindelse med diverse arrangementer (bla. støtte til studenter ved deltakelse på det norske statistikermøtet).
+Medlemsregister
+For at medlemsregisteret skal være best mulig oppdatert er det viktig at du oppgir evt. ny post/e-postadresse ved å sende
+meg en e-post. Vi har opprettet en egen epostliste for NSFs medlemmer, nsf-medlemmer@math.uio.no. Dersom du ikke
+mottar e-post fra denne listen, send meg din oppdaterte e-postadresse.
+Betalingsfrist for innbetaling av kontingent er snarest. Vennligst oppgi hvem kontingenten gjelder for ved innbetaling,
+dette er spesielt viktig dersom din arbeidsgiver betaler kontingenten.
+
+PÅ FORHÅND TAKK!
+Vennlig hilsen
+Clara-Cecilie Günther
+Kasserer NSF
+
+Kontingent NSF 2014: kr. 200
+
+snarest
+
+NSF v/ Clara-Cecilie Günther
+Norsk Regnesentral
+Postboks 114, Blindern
+0314 Oslo
+
+0530 27 73299
+
+
+

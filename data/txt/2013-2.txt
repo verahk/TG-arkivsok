@@ -1,0 +1,1277 @@
+ISSN 0803-8953
+Tilfeldig gang
+Nr. 2, årgang 30
+Desember 2013
+
+Utgitt av Norsk statistisk forening
+Redaksjonelt
+
+Fra lederen . . . . . . . . . . . . . . . . . . . . . . . . . .
+Fra redaksjonen . . . . . . . . . . . . . . . . . . . . . . .
+
+1
+2
+
+Det internasjonale statistikkåret
+
+Feiring av Statistikkens år, Tromsø . . . . . . . . . . . .
+Statistikkaften: Fra tall til innsikt . . . . . . . . . . . . .
+
+3
+3
+
+Leserbidrag
+
+Reisebrev fra Kenya . . . . . . . . . . . . . . . . . . . . .
+Forskningstokt med reketråler i Lyngen . . . . . . . . .
+
+6
+8
+
+Tankenøtter
+
+Løsning på pusleri nummer 37 . . . . . . . . . . . . . .
+Pusleri nummer 38 . . . . . . . . . . . . . . . . . . . . .
+
+12
+14
+
+Julegavetips – bokanmeldelse
+
+Tall forteller . . . . . . . . . . . . . . . . . . . . . . . . .
+
+15
+
+Møter og konferanser
+
+Rapport fra 59th ISI World Statistics Congress, Hong
+Kong, 25-30 august 2013 . . . . . . . . . . . . . . . 16
+The 6th Trondheim Symposium in Statistics, Selbu 2013 19
+Årsmøte NSF Trondheim . . . . . . . . . . . . . . . . . . 20
+TG for 25 år siden
+
+Kurs i stokastisk simulering . . . . . . . . . . . . . . . .
+
+21
+
+Meldinger
+
+Nytt fra seksjonene 2 og 3 ved Matematisk institutt,
+Universitetet i Oslo . . . . . . . . . . . . . . . . . . 22
+Nytt fra Universitetet i Bergen . . . . . . . . . . . . . . 24
+Nytt fra Norges teknisk-naturvitenskapelige universitet 24
+Annonseringer
+
+Ledig stilling ved HiST . . . . . . . . . . . . . . . . . . .
+32nd International seminar on stability problems for
+stochastic models . . . . . . . . . . . . . . . . . . .
+
+26
+27
+
+Scandinavian Journal of Statistics
+
+Innholdsliste september 2013 . . . . . . . . . . . . . . .
+Innholdsliste desember 2013 . . . . . . . . . . . . . . . .
+
+28
+30
+
+Informasjon
+
+Har du husket å betale kontingenten i år? . . . . . . . .
+
+32
+
+
+
+
+
+redaksjonelt
+Fra lederen
+Ragnar Bang Huseby | Oslo
+
+Jeg vil takke for tilliten årsmøtet viste meg ved å velge
+meg til leder av Norsk statistisk forening. Som leder håper
+jeg på godt samarbeid med de andre i styret (Alf, Bård,
+Clara-Cecilie og Turid), TG-redaksjonen, Sverdrup-komitéen,
+de tre lokalforeningene og våre tre søsterforeninger i Norden.
+2013 er det internasjonale statistikkåret, og det er blitt
+markert på ulike måter. Jeg var så heldig å få være med på en
+av disse markeringene, en statistikkaften i Litteraturhuset i Oslo.
+Interessen for dette arrangementet viste seg å være mye større
+enn arrangørene (Universitetet i Oslo og Norsk Regnesentral)
+hadde trodd på forhånd. Det var 150-160 personer til stede, og
+det var ikke plass til alle interesserte. Jeg regner derfor med at
+noen lar seg inspirere til å arrangere noe tilsvarende igjen.
+Foreløpig er det ikke blitt noen merkbare endringer etter at
+jeg tok over ledervervet. I 2014 blir det imidlertid forandring,
+for styret har vedtatt at vi fra og med neste nummer ikke skal
+trykke TG på papir. Det hadde betydning for beslutningen at
+Statistisk sentralbyrå (SSB) ikke lenger kan trykke TG uten
+kostnader for oss. Vi er naturligvis åpne for å gjeninnføre
+papirutgaven dersom det kommer store protester fra våre
+medlemmer. Jeg vil benytte anledningen til å takke SSB for
+innsatsen med å trykke 30 årganger av TG fra første gang
+bladet kom ut i 1984 og helt frem til dette nummeret.
+
+1
+
+
+
+Fra redaksjonen
+Turid Follestad | Trondheim
+
+Med dette nummeret tar Trondheimsmiljøet over stafettpinnen
+frå bergensarane som vertar for redaksjonen i TG. Den nye
+redaksjonen, som består av Petter Arnesen, Bo Lindqvist
+og Turid Follestad, har fått god starthjelp gjennom arbeidet
+redaksjonen i Bergen har gjort med å bygge opp ein layoutmal
+for bladet, takk til dykk!
+Det nummeret du no sit med i handa - kanskje indirekte via
+eit nettbrett eller ein annan digitalt medium? - kan vise seg å bli
+historisk. Som det går fram i leiaren si spalte så tar TG steget
+for fullt inn i digitalalderen frå årsskiftet, noko som betyr at
+dette nummeret blir det siste som vil kome i postkassa i trykt
+variant. Bladet vil bli tilgjengelig i same format som i dag på
+nettsida til foreninga - og ei annonsering av nye nummer vil
+kome via den elektroniske postkassa så snart dei er lagt ut på
+nettsida. Vi i redaksjonen håper at gode, gamle TG likevel vil
+kunne kjennast igjen og vere lesbart både på den eine og andre
+måten i tida som kjem.
+I tillegg til dei faste spaltene kan du i dette nummeret blant
+anna lese om korleis «Statistikkens år» har vorte markert i Oslo
+og Tromsø, og bli med statistikarar på datainnsamling i havet
+utanfor Lyngen, og på kursreise til Kilifi i Kenya. Vi startar
+også med ei ny spalte i dette nummeret, «TG for 25 år sidan»,
+som ein kuriositet for nokon eller til mimring for andre, alt
+etter som. Vi dristar oss også til eit aldri så lite julegavetips til
+dei som treng noko i bakhand til kjente som lurer på kva ein
+statistikar eigentleg styrer med.
+Redaksjonen ønskjer alle ei god jul og eit godt nytt
+statistikkår i 2014!
+
+2
+
+
+
+det internasjonale
+statistikkåret
+Feiring av Statistikkens år, Tromsø
+Elinor Ytterstad | Tromsø
+
+Statistikkens år 2013 ble markert med to foredrag i Tromsø
+3.november. Dr. James Grime var invitert fra Cambridge
+University, der han jobber for The Millennium Mathematics
+Project. Hans foredrag var rettet mot kryptografi og Enigma.
+Dr. Grime er en populær foreleser med egen YouTube - kanal
+singingbanana hvor han legger ut sine videoer.
+Det andre foredraget, Tilfeldighetens spill av Martin Rypdal
+og Elinor Ytterstad (begge UiT), inneholdt eksempler fra finans,
+klima, sosiologi og medisin, med fokus på ulike anvendelser av
+statistiske metoder.
+Det var ca 60 deltaker på markeringen av statistikkens år i
+Tromsø denne novembersøndagen.
+
+http://uit.no/tavla/artikkel/
+354469/feiring_av_statistikkens_ar
+
+Statistikkaften: Fra tall til innsikt
+Marie Lilleborge og Martin Jullum | Oslo
+
+Vi er inne i det internasjonale statistikkåret 2013, som markeres
+med mer enn 400 arrangementer over hele verden. På
+statistics2013.org kan du finne en liste over slike arrangementer.
+Der finnes også «Statistikkaften: Fra tall til innsikt», arrangert
+av Matematisk Institutt og Avdeling for biostatistikk ved
+Universitetet i Oslo sammen med Norsk Regnesentral.
+Datoen var 14. november, dagen for Statistikkaften,
+statistikernes festaften, festdagen av festdagene i feståret –
+Statistikkåret 2013. Enkelte hadde gledet seg siden tanken
+ble luftet på en sfi-lunsj ni måneder tidligere; en ventetid
+evolusjonen kanskje(?) har vist at kan være optimal nå og da.
+Siden den gang hadde vi fått påminnelser på Facebook og
+epost, på Litteraturhusets og UiO sine nettsider, og kimen var
+sådd; vi gledet oss til å høre populærvitenskapelige foredrag av
+Jo Røislien, Giske Ursin, Rønnaug Mysterud, Helge Brunborg
+og Nils Lid Hjort. Kanskje hadde vi (særlig VI) også tatt
+oppfordringen om å møte andre medlemmer av fanklubben til
+hyggelig samvær før foredragsrekka.
+Klokka nærmet seg slaget 19 og folk strømmet på – men
+så ble det fullt. Vaktene på Litteraturhuset ville ikke slippe
+inn mer enn 160 personer. Vi kan bekrefte at oppmøtet var
+stort, samt videreformidle ryktet om at rundt 180 personer var
+tilstede i salen, og mer enn 20 måtte snu i døra. Og da har vi
+
+Foto: http://www.statistics2013.org/
+
+Foto: Reinaldo Marques
+
+Hvor mange er det som ikke er
+«statistikere»?
+
+3
+
+
+
+ikke talt med de som gikk da de så oppslaget i kaféen om at
+det ikke var flere plasser igjen.De ivrigste statistikkvennene var
+til slutt samlet: Først fint på rekke og rad; rader og kolonner av
+stoler, før det ble klemt inn en mer uregelmessig bakerste rad
+sittende på bordene langs vinduene, og til sist ispedd en gjeng
+av stående og sittende – her og der – på det som var igjen av
+ledig gulvplass. Stemningen var god, interessen var høy og alle
+var samlet (stort sett).
+Ingrid Glad – flott og sprudlende som alltid – åpnet med
+et gammelt filmklipp av en søt sketsj om statistikk og tall
+presentert som «x mot normalt y». Før festlighetenes første
+foredragsholder kom på scenen rakk hun også så vidt å
+uttrykke en unødvendig bekymring om at
+
+Statistikk: Helt vesentlig for videre fremskritt innen kreft.
+
+markeringen ikke skulle bli festlig nok; ja, for det skulle vise
+seg og i alle høyeste grad være unødvendig.
+Jo Røislien (Norsk Luftambulanse) ER festlig – samtidig
+som han forteller noe. Denne kvelden fikk vi høre om musikk,
+babyspark i mors liv, bevegelsesmønstre for «normal» gange,
+og Fourieranalysen som knytter dem alle sammen og lar oss
+behandle dataene på samme måte.
+Giske Ursin fra Kreftregisteret viste frem forskjellige
+sammenligninger av kreftdata på tvers av nordiske land, og
+vi lærte at trenden på forekomst er at Danmark er dårlige,
+4
+
+Foto: Reinaldo Marques
+
+Jo Røislien i full sving.
+
+Foto: Reinaldo Marques
+
+Foto: Reinaldo Marques
+
+Lysarket [...] Typisk Hydro
+
+
+
+Finland er gode, og Norge stort sett finnes et sted i midten.
+Sammenligningene er basert på forekomst av kreft, justert for
+forskjellen i aldersfordeling innen hver nasjon. De som satt
+nærmest scenen fikk også så vidt se tall på
+hvilke sykehus som hadde høy/lav tilbakefallshyppighet på
+5-års nivå; her var navnene gjort små med vilje for at ikke Ola
+og Kari Nordmann skulle bli helt febrilske.
+Norsk Hydro stilte med Rønnaug Mysterud, som illustrerte
+kompleksiteten i optimering for det nordiske kraftmarkedet:
+Det handles med ulike priser her og der (gasspriser påvirker
+strømpriser, i samspill med tilbud, etterspørsel og mange
+andre variabler). Vi fikk også litt innsikt i hvordan disse
+markedene fungerer, med avtalte priser på dagsnivå, men med
+justeringsmulighet, spotmarked og kvoter og salg av elektrisitet
+til andre land. At det hele var ganske komplisert ble klart for
+de fleste – og så hjalp Norsk Regnesentral til med statistikk og
+matematikk som de selv ikke hadde helt kontroll på.
+Visste du at tidligere prognoser for befolkningsvekst viste
+at vi skal være nesten 50 milliarder mennesker på jorda
+i 2050, mens prognosene nå ligger på rundt 9 milliarder?
+Helge Brunborg fra Statistisk sentralbyrå kunne fortelle og
+illustrere at veksten har gått ned, men er fortsatt høy. Det er
+fortsatt ulike prognoser, og ikke alle land har gode data på
+befolkningsstørrelse og befolkningssammensetning.
+Til sist fikk Nils Lid Hjort fra UiO fortelle om det han liker
+best(?); skøyter. Hvorfor skal man gå 500 meter på skøyter to
+ganger i OL? Faktisk er det Hjorts egen statistiske analyse som
+har ført til at den olympiske komité endret OL-reglene fra og
+med Nagano-OL slik at utøverne gikk distansen to ganger; en
+fra indre bane og en fra ytre. En yngre Hjort hadde brukt data
+fra kortbane-VM fra 1984-1994 og «vist» statistisk at det var en
+klar og signifikant fordel (på ca. 0.06 sekund) av å avslutte i
+ytre bane. I Calgary i 1984 ville dette medført at bronsemedaljør
+Akira Kuroiwa fra Japan som avsluttet i ytre bane hadde tatt
+sølvet til fordel for nederlenderen Jan Ykema. Klappskøytene
+har imidlertid gjort at forskjellen ikke lenger er like stor den
+dag i dag.
+
+Foto: Reinaldo Marques
+
+Har vi plass til alle? Hvor raskt vokser
+verdens befolkning?
+
+Foto: Reinaldo Marques
+
+Ja, man MÅ gå to ganger, for selv
+OL-komiteen støtter seg på statistikk.
+
+Alt i alt var det en strålende statistikkaften, og en god
+feiring av oss selv og alle statistikkvenner. Tusen hjertelig takk
+til programkomiteen bestående av Ingrid Glad, Jo Røislien, Nils
+Lid Hjort, Magne Thoresen og André Teigland for en flott kveld
+og et spennende program. Og til slutt et stort HURRA(!) for
+statistikk og statistikkåret (DET er enda ikke over. . . )!
+
+Foto: Reinaldo Marques
+
+Blomster og klem til alle foredragsholdere.
+
+5
+
+
+
+leserbidrag
+Reisebrev fra Kenya
+Geir-Arne Fuglstad | Trondheim
+
+Den 1. oktober gikk reisen fra Trondheim til en liten by Kilifi på
+østkysten av Kenya. Formålet med turen var å holde et kurs
+fordelt over tre dager om R-INLA sammen med Janine Illian fra
+University of St Andrews. Det hadde vist seg å være betydelig
+interesse fra Kenya og hovedstaden Nairobi ligger på topp 10
+på listen over antall besøkende til R-INLA hjemmesiden!
+
+Flybyttet i Nairobi foregikk noe utradisjonelt i en stor
+flyhangar som fungerte som midlertidig innenlandsterminal
+etter brannen på Nairobi flyplass tidligere i høst. Men det hele
+foregikk uten store problemer og etter mange timer reise og lite
+søvn kom jeg endelig frem til Mombasa. Derfra var det bare en
+times taxitur til hotellet i Kilifi. Temperaturen var litt over 25
+grader og en behagelig avveksling fra Trondheim, men det var
+lite tid å nyte det gode været. Det var fortsatt ting som måtte
+forberedes til morgendagens kurs.
+6
+
+http://www.r-inla.org
+
+Foto: Janine Illian
+
+
+
+Kurset fant sted på Kenya Medical Research Institute
+(KEMRI) og deltakerene var en blanding av studenter fra
+Universitet i Nairobi, ansatte fra KEMRI og deltakere på
+TDModNet Modelling Workshop. Innholdet i kurset varierte
+fra enkel regresjon til komplekse romlige modeller og Janine
+Illian hadde de fleste forelesningene.
+
+Min oppgave var å snakke om Gaussiske Markovfelter
+og SPDE-modeller i R-INLA og å hjelpe til på de praktiske
+
+Foto: Janine Illian
+
+Foto: Janine Illian
+
+7
+
+
+
+øvingstimene. Deltakerene var svært hyggelige og viste stor
+interesse for stoffet som ble presentert, og var like fokuserte
+selv på den tredje dagen. Det var en flott opplevelse å møte og
+snakke med personer som driver med statistikk i en helt annet
+verdensdel enn jeg vanligvis kommer i kontakt med.
+Etter vel utført kurs gikk turen videre på tre-dagers safari i
+Tsavo East nasjonalpark og Amboseli nasjonalpark. Den første
+morgenen så jeg en flokk med fem løver fra safarilodgen og
+den andre morgenen ble jeg møtt av klar sikt til Kilimanjaro.
+Det var i alt en fantastisk opplevelse hvor jeg så alt fra sebraer
+og elefanter til løver og geparder. Reisen ble avsluttet med et
+par dager avkopling på strendene utenfor Mombasa før turen
+gikk tilbake til Trondheim den 12. oktober.
+
+Forskningstokt med reketråler i Lyngen
+Olav Nikolai Breivik | Oslo
+
+I min PhD ved Universitet i Oslo jobber jeg med en romlig
+modell for å predikere bifangst av torskeyngel i rekefisket.
+Rekefiske er en stor industri i Norge, og foregår med bunntrål
+på over 200 meters dyp. Torskefiske er en klart mye større
+industri enn rekefiske, og ved økonomiske og økologiske
+argumenter er det kommet fremt til regler for hvor mange
+torskeyngler som er lov til å bli drept per kilo fanget reke. Mitt
+hovedmål med prosjektet er å gjøre åpning av stenging av
+felt mer forutsigbart. Det er flere andre interessante oppgaver
+arbeidet mitt skal brukes til, slik som å estimere totalt antall
+torskeyngel drept gjennom tidene av rekefiske. Etter å ha jobbet
+med prosjektet snart et år, fikk jeg muligheten til å være med
+på en reketråler ved Lyngsalpene i Nord-Troms. Dette takket
+jeg gladelig ja til, og det viste seg å bli den fineste jobbturen jeg
+har vært på.
+8
+
+Foto: Olav Nikolai Breivik
+
+Rekemåltid etter at vi hadde lagt til havn
+den andre kvelden. Fra venstre: Andrej,
+Olav Nikolai Breivik (meg) og Frank
+Kristoffersen.
+
+
+
+Det snødde mye under turen, men det gråe været kunne veldig fort bli til sol. Her ser vi fremsiden av båten og deler av
+Lyngsalpene i bakgrunn.
+Foto: Olav Nikolai Breivik
+
+Rekefiske foregår ved at en båt trekker en bunntrål i typisk
+4-5 timer. Trålerutstyret varierer fra båt til båt, jo større og
+kraftigere båten er, jo større trål kan bli brukt. Båten jeg var
+med på brukte enkeltrål med 1800 masker rundt åpningen.
+Maskevidden kan variere, men er vanligvis 35 millimeter.
+Arealet av åpningen vil avhenge av hvor høyt kapteinen klare å
+manøvrere redskapet. Åpningen ser ut som en liggende ellipse
+når den blir trukket langs bunnen, og det er optimalt å la
+åpningen bli så høy som mulig. De store skipene i Barentshavet
+kan trekke opp til tre trål med hver 3600 masker. Når vi spiser
+ferske reker, er det alltid reker fra fjordene vi spiser. Reker fra
+Barentshavet blir ikke store, og blir dermed for eksempel lagt i
+lake.
+Tidlig mandag morgen den 14. oktober gikk flyet til Tromsø.
+Da jeg kom frem fikk jeg låne en ubrukt varm dress og støvler
+fra Fiskeridirektoratet. De var veldig gjestfrie og hadde planlagt
+ruten slik at jeg skulle rekke tilbake til flyet mitt fire dager etter.
+Etter det korte oppholdet på kontorene til fiskeridirektoratet
+kjørte seksjonssjefen meg til havnen hvor Svebåen skulle ta
+oss med på et 4 dagers tråleeventyr i Lyngen. Vi var fem
+personer om bord: Kaptein Erik-Andre, fisker og kokk Sara,
+fisker Andrej, observatør Frank og meg.
+9
+
+
+
+Fangsten ble alltid tatt inn fra styrbord side. Her ser vi omtrent 120 kg reke.
+
+Det ligger mye arbeid bak observasjonene Havforskningsinstituttet har gitt meg. Møysommelig sorterte vi ut torskeynglene
+som alle hadde omkommet av den store trykkforskjellen. I
+oktober er det høysesong for bifangst. Etter at torsken har
+gyta rundt februar, driver torskeyngelen nordover fra Lofoten
+mot Barentshavet i de øverste vannlagene. Rundt september
+bunnsetter torskeyngelen seg, dette førte til høysesongen vi nå
+skulle være vitner til. Områdene blir stengt når det observeres
+mer enn åtte torsk per ti kilo reke. Alle områdene jeg var med
+å observere, overskred klart denne grensen. Dette førte til at
+områdene ble stengt og dagen etter kunne vi høre en stemme
+på radioen informere om at fiskeridirektoratet hadde stengt
+visse felt med øyeblikkelig virkning.
+Tidligere i mitt arbeid har jeg kun sett på observasjoner fra
+kontoret mitt. Der har jeg funnet klare sammenhenger, slik som
+at det er en sesongeffekt for bifangst og klare romlige strukturer
+i både bifangst og rekefangst. Erfaringen jeg har fått av å være
+med på et fire dager langt forskningstokt har gjort at jeg er blitt
+mye mer kritisk til noen av resultatene mine, samtidig som at
+jeg ble mer fornøyd med andre resultater. Etter å ha snakket
+med fiskerne og hørt på råd fra observatøren, har jeg kommet
+med flere ideer jeg skal følge opp. Det er fiskerne som virkelig
+har kunnskapen om trålerfiske. Min modell for rekefangst vil
+nok aldri slå intuisjonen til en kaptein på en reketråler, men jeg
+håper den skal ha mulighet til å fange opp gode estimater av
+de underliggende strukturene for hvor rekene og torskeyngelen
+10
+
+Foto: Olav Nikolai Breivik
+
+
+
+befinner seg. Ved med egne øyne å ha observert hvordan
+prøvetakningene er gjort, har jeg opparbeidet meg en klar
+større tyngde bak resultatene jeg presenterer. Jeg anbefaler slike
+tokt til andre som driver med relaterte prosjekter.
+
+Kaptein Erik-Andre Brose Krag passer på at det ikke skjer noe galt under inntauingen av fangsten.
+
+Foto: Olav Nikolai Breivik
+
+Ved siden av fantastisk natur, var en av de store
+opplevelsene den gode maten. Flere av dagene overspiste jeg
+meg med reker. Ferske reker kjøpt i butikk kan være noen
+dager gamle, så for å få like ferske reker må man som regel
+kjøpe dem på kaia. Det er enkelt å kjenne på skallet om de
+er virkelig ferske. Hvis de er helt ferske er de veldig glatte,
+til motsetning av hvis de har ligget noen dager. Jeg er veldig
+takknemlig for at fiskeridirektoratet gjorde det mulig for meg å
+dra på denne turen og til Havforskningsinstituttet og SFI for at
+de bidro med midler.
+
+11
+
+
+
+tankenøtter
+Løsning på pusleri nummer 37
+Jostein Lillestøl | Bergen
+
+Oppgaven
+Ole, Dole og Doffen har sommerjobb i en sportsbutikk, der de
+selger sykkelhjelmer av to farger – blå og grønn. Butikksjefen
+Guffen sier at alle skal få hver sin hjelm dersom de greier
+følgende fellesoppgave:
+Vi går inn i pauserommet med mange hjelmer av hver
+farge i en kasse. Jeg slukker lyset og plukker tilfeldig tre
+hjelmer fra kassen, setter én på hodet til hver av dere og
+lukker kassen. Jeg slår på lyset og dere ser hvilken farge
+det er på hjelmen til de to andre, men ikke egen farge.
+Dere skal så gjette hvilken farge det er på egen hjelm, og
+resultatet avgjør om alle skal få hjelm eller ingen av dere
+skal få hjelm.
+Dere får alle den hjelmen dere har på hodet dersom minst
+én av dere gjetter riktig, mens dersom minst én av dere
+gjetter feil, får ingen av dere hjelm. Dere kan imidlertid
+melde pass for å unngå å være den som spolerer det hele.
+Dere skriver hver deres gjetning (blå eller grønn), eventuelt
+pass, på hver deres lapp, uten ytterligere kommunikasjon
+med hverandre. Før vi går i gang har dere lov til å
+diskutere en felles strategi som kan øke sjansen for at dere
+lykkes.
+Ole: «Sjansen for å lykkes er mindre enn 50 % og det er feigt
+å si pass!» Dole: «Nei, med pass har vi i hvert fall en strategi
+som gir oss akkurat 50 % sjanse, men mer er det ikke mulig å
+oppnå!» Doffen: «Jeg tror vi kan oppnå langt større sjanse; hør
+nå her . . . »
+Kan du hjelpe Doffen med å finne en slik strategi? Ekstra
+utfordring: Hva tror du skjer dersom det er flere enn tre med?
+
+Løsning
+Hver av dem står overfor åtte mulige arrangementer av de
+to fargene, men har bare delvis informasjon. Nummererer vi
+arrangementene for Ole, Dole og Doffen i denne rekkefølge
+er disse BBB, BBG, BGB, GBB, GGB, GBG, BGG, GGG. Doffen
+innser at for hvert arrangement der han gjetter rett, finnes et
+arrangement der han gjetter feil med den samme tilgjengelige
+informasjon. Når han eksempelvis ser GGx, er det to muligheter
+GGG og GGB, hvorav det ene er rett og det andre feil. Det
+dermed er umulig å oppnå full sikkerhet for å lykkes. Doffen
+12
+
+Foto: Dana Beveridge c b
+
+
+
+får det for seg at det må være mulig å finne en strategi der alle
+tar feil på det samme arrangementet, noe som kan åpne for at
+det blir gjettet riktig på de andre arrangementene. For å ha
+størst mulig sjanse for at det skjer, er det kanskje lurt å sikre at
+det kun er en som gjetter på disse arrangementene. Følgende
+strategi oppnår dette:
+Dersom du ser to hjelmer med lik farge, gjett at du selv har
+motsatt farge av hva du ser. Dersom du ser to hjelmer med ulik
+farge si Pass.
+
+Arrang. BBB BBG BGB GBB BGG GBG GGB GGG
+Gjetninger GGG PPG PGP GPP BPP PBP PPB BBB
+Utfall TaperVinnerTaperVinnerVinnerVinnerVinnerTaper
+
+Vi vinner altså i seks av de åtte utfallene. Dette gir sjansen 6/8
+dvs 75% sjanse for å vinne. Bedre er det ikke mulig å gjøre
+det! Det er interessant å se hva som skjer når flere personer
+enn tre deltar. Intuitivt bør sjansen for å lykkes øke, idet mer
+informasjon utveksles, i hvert fall så lenge en finner optimale
+strategier der arrangementene innebærer at bare en person
+gjetter. Allerede for n=4 blir problemstillingen ugrei (forsøk
+selv!), og det ser det ut til at det ikke er mulig å oppnå mer enn
+75% sjanse, og at en like gjerne kan bestemme seg for ignorere
+fjerdemann. Problemstillingen kan imidlertid formuleres innen
+rammen av kodeteori, og det viser seg at tilfeller der n= 2k -1 er
+greie, i den forstand at det fins «perfekte» koder som beskriver
+den optimale strategien med sannsynlighet (2k -1) /2k for å
+lykkes. Eksempelvis er den optimale strategien for tilfellet
+n=7 ekvivalent med den såkalte Hamming(7,4)-koden, som
+er velkjent innen teorien for feilkorrigerende koder. Den gir
+sjansen 112/128=7/8=87.5% for å lykkes, og kan beskrives slik:
+Betrakt alle mønstre som passer med følgende to BBBBBBB,
+BBGBGGG, med tillegg av alle mønstre som fås ved rotasjon
+og komplement, som gir 16 mønstre i alt, Dvs. at man ikke
+gjør forskjell på fargen, og startpunkt for nummereringen hvis
+man står i sirkel. Dersom det du ser samsvarer med et av disse
+16 mønstre, gjett det motsatte av det som står på din plass i
+mønstret. Dersom det du ser ikke samsvarer med et av disse 16
+mønstre, si Pass.
+Optimale strategier for tilfellene n=5 og n=6 er mer
+kompliserte, men for n=6 kan oppnås 25/32=78% sjanse og
+for n=6 kan oppnås 52/64=81% . Hva som er mulig å få til er
+beskrevet innen området «covering codes», som er beslektet
+med feltet «sphere packings». Lignende problemer har også
+vi i forbindelse med fotball-tipping, nemlig ved konstruksjon
+av skjemaer som gir minimumsgarantier for gevinst, gitt at et
+antall såkalte «sikre» kamper er valgt rett. Hatte-problemer fins
+i mange varianter, både kompetitive og kooperative, se Brown
+
+(Taussky & Todd, 1948)
+(Staunton & Kalbfleisch , 1968)
+
+13
+
+
+
+& Tanton: A Dozen Hat problems, Math Horizons, April 2009.
+Versjonen ovenfor tilskrives Todd Ebert i Ph.D thesis University
+of California, Santa Barbara, 1998. En takk til Per Manne som
+har bidratt til klargjøring av løsningen.
+
+Pusleri nummer 38
+Jostein Lillestøl | Bergen
+
+Knoll og Tott er på besøk hos Tuppen som er flyttet til byen for
+å studere. Hun bor øverst i en blokk med 10 boligetasjer over
+grunnplanet (0’te etasje). Knoll og Tott har med seg hvert sitt
+svært robust strutseegg, og lurer på hvor høyt i etasjene de kan
+gå, slippe et egg ut vinduet, uten at det knuses når det treffer
+bakken. De har funnet ut at det er et vindu i hver etasje som lar
+seg åpne, og vil derfor gjøre et eksperiment med å slippe egg
+fra utvalgte høyder. Tuppen går motvillig med på dette, men
+tillater kun fire slipp i alt. Hva er den høyeste etasjeslipp det er
+mulig å fastslå med full sikkerhet at et slikt egg tåler/ikke tåler,
+og hvilken forsøksplan sikrer dette?
+
+Send svar til Jostein.Lillestol@nhh.no.
+
+14
+
+
+
+julegavetips – bokanmeldelse
+Tall forteller
+Jo Røislien, Kathrine Frey Frøslie. Gyldendal 2013
+Bo Lindqvist | Trondheim
+
+Hvis du som statistiker har problemer med å forklare dine
+venner og familie hva du egentlig driver med på jobben, er
+dette den perfekte julegave!
+Undertittelen på boka er «Hvordan bruke tall til å finne
+ut om verden er slik du tror den er». Som forfatterne skriver
+i forordet: «Gode argumenter og rørende historier kan gripe
+oss og virke overbevisende, men de er fortsatt bare det. . . Tall
+hjelper til med å fortelle hvordan verden er, ikke hvordan vi
+tror den er.»
+Dette er ikke en vanlig lærebok i statistikk. Her skal
+man gjennom egne forsøk lære metodene, ikke formlene og
+matematikken. Utregningene og den grafiske presentasjonen
+overlates til den tilhørende gratis appen. Leseren presenteres
+for 19 eksempler på enkle undersøkelser der det oppfordres til
+å samle inn egne data og deretter analysere dem. Eksempler
+på temaer er: Hvor lang er en sang? Hvem er den beste
+scrabbleren? Lønner det seg å være høy for å løpe fort? Hvor
+miljøvennlige er vi egentlig? Som en ekstra motivasjon gis det
+til hvert tema en fornøyelig innledning der forsøket settes inn i
+en større sammenheng.
+Gjennom eksemplene belyses bruk av beskrivende statistikk
+og statistisk analyse for en og to variabler, både kategoriske
+og kontinuerlige. Resultatene ved bruk av appen presenteres
+gjennom histogrammer, boksplott, spredningsplott, p-verdier
+og konfidensintervaller. For den mer avanserte leser er det
+i del 2 av boka gitt en innføring i disse statistiske temaene,
+samt en beskrivelse av de ulike datatypene som brukes. Dette
+stoffet er illustrert med forklarende eksempler, uten bruk av
+«forstyrrende» formler.
+Som sagt, boka egner seg ypperlig som årets julegave – den
+er på en måte statistikernes svar på megasuksessen «Hel ved»
+som kom ut i 2011.
+
+https://itunes.apple.com/us/app/
+tall-forteller/id696241464?mt=8
+
+15
+
+
+
+møter og konferanser
+Rapport fra 59th ISI World Statistics Congress, Hong
+Kong, 25-30 august 2013
+Bo Lindqvist | Trondheim
+
+The International Statistical Institute (ISI) arrangerer som
+kjent sine såkalte «verdenskongresser» annenhvert år, i nært
+samarbeid med vertslandenes statistiske sentralbyråer. I løpet
+av en hektisk uke holder et antall underavdelinger og komiteer
+sine møter, i tillegg til de ordinære parallelle sesjoner med
+foredrag, debatter og «posters».
+
+Hong Kong Convention and Exhibition Centre i forgrunnen, sett fra undertegnedes hotellvindu.
+
+I august i år var møtestedet Hong Kong, nærmere bestemt
+Hong Kong Convention and Exhibition Centre, i hjertet av
+Hong Kong og med utsikt over den berømte Victoria Harbour.
+Deltakerlisten viste i alt 2556 deltakere fra hele verden, men
+dessverre kun 6 fra Norge; to fra Statistisk Sentralbyrå (Olav
+Ljones og Elisabetta Vassenden), to fra Universitetet i Oslo (Nils
+Lid Hjort og Tore Schweder), og en fra hver av Universitetet i
+Stavanger (Jan Terje Kvaløy) og NTNU (undertegnede).
+16
+
+Foto: Bo Lindqvist
+
+
+
+Jan Terje Kvaløy fotograferer Hong Kong fra “The Peak”.
+
+Foto: Bo Lindqvist
+
+Tore Schweder, med Nils Lid Hjort som medforfatter,
+holdt på konferansens første dag det inviterte foredraget
+«Integrating confidence intervals, likelihoods and confidence
+distributions», i en sesjon med tittel «Distributional inferences
+in statistics». Første foredragsholder i denne sesjonen var
+forøvrig en av statistikkens «grand old men», D.A.S. Fraser.
+Nils var så, på konferansens siste dag, invitert foredragsholder,
+med Tore som medforfatter, i en sesjon med tittel “Some
+perspectives on comparative statistical inference». Her var Nils,
+sammen med Nancy Reid og Francisco J. Samaniego, med på å
+belyse forholdet mellom “Bayesians” og “frequentists”, med
+ovennevnte Fraser som chairman. Sesjonen var for øvrig blant
+de utvalgte som ble filmet, og den er i sin helhet tilgjengelig på
+nettet – dessverre bare for kongressdeltagere (passord trengs).
+Olav Ljones deltok i en paneldebatt med tittelen “The UN
+Fundamental Principles of Official Statistics – Applicability
+and implementation”. Bakgrunnen er et sett av prinsipper for
+offisiell statistikk som ble utviklet tidlig på 90-tallet, og der
+man ser for seg en mulig utvidelse til aktiviteter også utenfor
+offisiell statistikk.
+
+17
+
+
+
+Nils Lid Hjort og en streng chairman, D.A.S. Fraser.
+
+På ISIs verdenskongresser legges det stor vekt på det
+sosiale programmet. Meningen er at deltakerne skal få en
+smak av vertslandets kultur. I Hong Kong var det blant
+annet en gedigen åpningsseremoni med tradisjonell kinesisk
+dragedans, trommespill og kung fu flaggparade i tillegg til de
+obligatoriske talene. En kveld var det “Hong Kong Night” med
+underholdning og smaksprøver fra Hong Kongs kantonesiske
+kjøkken. Kongressen ble avsluttet med gallamiddag, igjen med
+servering av utallige typiske kantonesiske retter, og i tillegg
+med strålende underholdning, blant annet en fascinerende
+smakebit av kinesisk opera.
+På avslutningsseremonien ble arrangøren av ISIs
+verdenskongress i 2015 behørig presentert, nemlig Rio de
+Janeiro, Brasil. Det var også tale av den nye presidenten i ISI,
+Vijay Nair fra University of Michigan, Ann Arbor. For norske
+statistikere er det interessant å vite at han har sin PhD fra UC
+Berkeley med Kjell Doksum som veileder.
+
+18
+
+Foto: Kongressens webside
+
+
+
+The 6th Trondheim Symposium in Statistics, Selbu 2013
+Mette Langaas | Trondheim
+
+«The 6th Trondheim Symposium in Statistics» ble arrangert 18.
+-19. oktober 2013 ved Selbusjøen Hotell & Gjestegård. Som
+navnet tilsier, så er dette nå sjette gang symposiet blir arrangert.
+I år var det Andrea Riebler, Håvard Rue og undertegnede
+som var arrangementskomité. Midler til arrangementet kom i
+år fra NTNU, ved Institutt for matematiske fag (IMF) og ved
+Fakultetet for informatikk, matematikk og elektroteknikk. De
+inviterte til symposiet var statistikere knyttet til IMF, i tillegg til
+gjester, foredragsholdere og andre som ønsket å delta. Totalt
+deltok det 43 statistikere på seminaret.
+
+De fem inviterte fordragsholderne poserer.
+
+Foto: Mette Langaas
+
+Vi fulgte også i år tradisjonen fra de fem foregående årene
+og på programmet stod fem inspirerende foredrag med dyktige
+forskere fra inn- og utland. Det faglige programmet (se neste
+side) startet fredag ettermiddag med to foredrag, og så ble det
+servert middag med forrett og dessert, mens den statistiske
+praten gikk livlig. Kvelden fortsatte med passiar i baren,
+med mulighet for å knytte nye samarbeidsrelasjoner. Lørdag
+formiddag fortsatte det faglige programmet med tre foredrag,
+og symposiet ble avsluttet med lunsjservering.
+19
+
+
+
+Det er nå laget en www-side for våre «Trondheim
+Symposium in Statistics», der du kan finne program fra 2013 og
+tidligere år. Flere bilder fra arrangementet er også tilgjengelig.
+
+https://wiki.math.ntnu.no/
+selbusymposium/
+http://www.flickr.com/photos/
+mettelangaas/sets/
+
+Program:
+
+72157627774002607/
+
+– Leonhard Held, Universität Zürich: «Approximate
+Bayesian model selection with the deviance statistic»
+– Sylvia Frühwirth-Schnatter, Wirtshaftsuniversität Wien:
+«Time-Varying Parameter Models - Achieving Shrinkage
+and Variable Selection»
+– Chris Holmes, University of Oxford: «Approximate
+Models and Optimal Decisions»
+– Bernt Wennberg, Chalmers University of Technology:
+«Stochastics for big data and big systems: bridging local
+and global. »
+– Nils Lid Hjort, Universitetet i Oslo: «Distributions of
+Confidence»
+
+Årsmøte NSF Trondheim
+Turid Follestad | Trondeim
+
+Tidspunkt
+Sted
+Oppmøte
+
+3. desember 2013 kl 1415
+Institutt for matematiske fag, NTNU
+15 personar
+
+Under årsmøtet, som i Trondheimsavdelinga vert halde
+annankvart år, vart det valgt følgjande styre for perioden
+2014-2015:
+Styreleiar
+Sekretær
+Kasserar
+Revisorar
+
+Bo Lindqvist
+Mette Langaas
+Geir-Arne Fuglstad
+John Tyssedal
+Turid Follestad
+
+IMF, NTNU
+IMF, NTNU
+IMF, NTNU
+IMF, NTNU
+DMF, NTNU
+
+Årsmøtet vart innleia med servering av pizza og brus.
+Etter behandlinga av dei faste årsmøtesakene, heldt Alois
+Pichler, post doc ved Institutt for industriell økonomi og
+teknologiledelse ved NTNU, foredrag med tema «A Distance
+for Stochastic Processes».
+
+20
+
+
+
+tg for 25 år siden
+Kurs i stokastisk simulering
+I juni-nummeret i 1988 finner vi en reportasje som viser at
+NSF var tidlig ute med å kurse sine medlemmer i stokastisk
+simulering. Hele 47 deltagere var samlet i Trondheim i tre
+dager for å lære om simulering av Brian Ripley, som da
+nettopp hadde utgitt sin bok om temaet. Her fikk de fleste for
+første gang høre om Metropolis’ metode for å simulere fra
+kompliserte fordelinger...
+
+21
+
+
+
+meldinger
+Nytt fra seksjonene 2 og 3 ved Matematisk institutt,
+Universitetet i Oslo
+Pris
+Nils Lid Hjort har vunnet Sverdrup prisen for 2013.
+
+Ny Dr.Philos grad
+Anders Løland (20. september 2013)
+Statistical Models in Electricity and related Markets (prøveforelesning
+over selvalgt emne: Statistical models for electricity price forecasting:
+a review and glimpse into the future og over oppgitt emne: Forecasting
+with sparse data)
+Bedømmelseskomité: Rüdiger Kiesel, University DuisburgEssen; Dag Tjøstheim , Universitetet i Bergen; Sven Ove
+Samuelsen, Universitetet i Oslo.
+
+Nye ph.d-grader
+Linn Cecilie Bergersen (14. juni 2013)
+Guiding the lasso: Regression in High Dimensions (prøveforelesning:
+Meta analysis for genomics data)
+Bedømmelseskomité: Christophe Ambroise, University of Evry;
+Mette Langaas, NTNU; Ørnulf Borgan , Universitetet i Oslo.
+Veiledere: Ingrid Glad, Universitetet i Oslo; Nils Lid Hjort,
+Universitetet i Oslo.
+Che Mohd Imran Che Taib (21. juni 2013)
+Stochastic Modelling and Pricing of Energy Related Markets with
+the Analysis of the Weather and Shipping Markets (prøveforelesning:
+Catastrophe derivatives (CAT bonds, futures, options) and methods of
+their modelling, valuation and risk assessment)
+Bedømmelseskomité: Svetlana Borovkova, University of
+Amsterdam; Sven Arne Persson, Norwegian School of
+Economics; Giulia Di Nunno, Universitetet i Oslo. Veiledere:
+Fred Espen Benth, Universitetet i Oslo; Steen Koekebakker,
+Universitetet i Agder.
+Heidar Eyjolfsson (21. oktober 2013)
+Approximation Methods for Ambit Fields Applied to Power Markets
+(prøveforelesning: Series expansions of Brownian motion and other
+stochastic processes)
+Bedømmelseskomité: Andreas Neuenkirch, University
+of Mannerheim; Arvid Næss, NTNU; Giulia Di Nunno,
+Universitetet i Oslo. Veiledere: Fred Espen Benth, Universitetet
+i Oslo; Almut Veraart, Imperial College, London; Ole
+Barndorff-Nielsen, Aarhus University.
+22
+
+
+
+Nye mastergrader
+Rebecca Wiborg
+The extended Pareto distribution as default loss model
+Veileder: Erik Bølviken
+Ying (Terry) Zhang
+Model check and goodness-of-fit for nested case-control studies
+Veileder: Ørnulf Borgan
+Lars Christian Østhassel
+Bidrag til overlevelsesmodellene i livsforsikring
+Veileder: Erik Bølviken
+Way C. D. Cheng
+Non-stationary mixed frequency variables in time series models: A
+new design approach
+Veileder: Anders Rygh Swensen
+Emil Kverneland Mogstad
+Mode hunting and density estimation with the Focused Information
+Criterion
+Veileder: Nils Lid Hjort
+Finn Harald Opsjøn
+Optimaliserte R-beregninger i skadeforsikring med vekt på
+feilreservering
+Veileder: Erik Bølviken
+Nawroz Khalaf
+En empirisk studie av kumulative insidensfunksjoner estimert ved
+Cox regresjon og Fine-Gray metoden
+Veileder: Ørnulf Borgan
+Narin Khalaf
+Sammenhengen mellom lengden av utdannelse og dødelighet i Norge
+med focus på søskenavhengighet
+Veileder: Sven Ove Samuelsen
+Kjersti Rekdal Skåre
+A zero-coupon bond based spread option-an application to the
+Heath-Jarrow-Morton model
+Veileder: Fred Epen Benth
+Ali Masoudi El
+Greeks of interest rate derivatives using Malliavin calculus
+Veileder: Frank Proske
+Marius Nilsen
+Calculating the greeks for option contracts on regime switching
+instruments
+Veileder: Frank Proske
+Jens Christian Jore Christensen
+Dynamics of exchange rates and pricing of currency derivatives
+Veileder: Frank Proske
+23
+
+
+
+Nytt fra Universitetet i Bergen
+Ny ph.d-grad
+Geir Drage Berentsen
+Recognizing and visualizing dependence using local Gaussian
+correlation
+Veileder: Dag Tjøstheim
+
+Nyansatte Postdoc
+Biqing Cai og Heidar Eyjolfsson
+
+Ny mastergrad
+Ingrid Sandvig Thorsen
+Modellering av romlig variasjon i frekvenser av vannskader på boliger
+Veileder: Kjersti Aas
+
+Nytt fra Norges teknisk-naturvitenskapelige universitet
+Nyansatte Postdoc
+Anna M Holand som nettopp disputerte fra Inst for biologi,
+NTNU, med avhandling: Statistical methods for estimating
+intra- and inter-population variation in genetic diversity.
+
+Nyansatte PhD
+Haakon Bakka - Veileder: Håvard Rue.
+Jingyi Guo - Veileder: Andrea Riebler.
+Elias Krainski - Veileder: Håvard Rue.
+Kari Krizak Halle - Veileder: Mette Langaas.
+
+Nye ph.d-grader
+Xianping Hu
+Multivariate Gaussian Random Fields: The Stochastic Partial
+Differential Equation Approach
+Komite: Reinhard Furrer, Universitetet i Zurich, Sveits, Thordis
+L Thorarinsdottir, Norsk Regnesentral, Oslo og Elena Celledoni,
+NTNU. Veileder Håvard Rue og biveileder Ingelin Steinsland
+Håkon Toftaker
+Modelling and parameter estimation for discrete random fields and
+spatial point processes
+Komite: Nial Friel, University College Dublin, Irland, Aila
+Särkkä, Chalmers, Sweden, og Ingelin Steinsland, NTNU.
+Veileder Håkon Tjelmeland
+24
+
+
+
+Javad Rezaie
+A Bayesian inversion approach to filtering and decision making with
+applications to reservoir characterization
+Komite: Peter Jan van Leeuwen, University of Reading, UK, Yan
+Chen, IRIS, Stavanger and Andrea Riebler, NTNU. Veileder Jo
+Eidsvik og biveileder Henning Omre
+
+Ny mastergrad
+Arja Margrethe Sue-Chen
+Methods for dealing with Censored Data using Experimental Design.
+Veileder: John Tyssedal
+Abraham Almaw Jigar
+Quantification of Reliability performance: Analysis Methods for safety
+Instrumented Systems.
+Veileder: John Tyssedal og Marvin Rausand
+Ida Hakavik Braarud
+Analysis of life regression models for censored data.
+Veileder: Bo Lindqvist
+Zhiqi Feng
+Markov process applied to degradation modelling. Different modelling
+alternatives and their properties.
+Veileder: Bo Lindqvist, Ekstern veileder: Thomas Welte, Sintef
+Energi
+Kevin Gaze
+Exact optimization methods for the mixed capacitated general routing
+problem.
+Veileder: Jo Eidsvik, Ekstern veileder: Geir Hasle, Sintef IKT
+Kjersti M Hatlelid
+Kalman filters applied to target tracking with multiple sensors.
+Veileder: Jo Eidsvik
+Ewa Nybakk
+Modeling and Calibration of Electricity Price Dynamics for
+Derivatives Valuation.
+Veileder: Arvid Næss
+Ampem Darko Owusu
+The use of extreme value statistics in risk management of the
+electricity market.
+Veileder: Arvid Næss
+Jorinde Prokosch
+Bivariate Bayesian Model Averaging and Ensemble Model Output
+Statistics With a Case Study of Ensemble Temperature Forecasts in
+Trondheim.
+Veileder: Ingelin Steinsland
+Marit Runde
+Statistical methods for detecting genotype-phenotype association in
+the presence of environmental covariates.
+Veileder: Mette Langaas
+25
+
+
+
+annonseringer
+Ledig stilling ved HiST
+
+26
+
+
+
+32nd International seminar on stability problems for
+stochastic models
+
+27
+
+
+
+SCANDINAVIAN JOURNAL OF STATISTICS
+Volume 40 • Number 3 • September 2013
+Contents:
+Weak Convergence of the Wild Bootstrap for the Aalen–Johansen
+Estimator of the Cumulative Incidence Function of a Competing
+Risk
+Jan Beyersmann, Susanna Di Termini and Markos Pauly
+Outcome Prediction for Heart Failure Telemonitoring Via
+Generalized Linear Models with Functional Covariates
+Stefano Baraldo, Francesca Ieva, Anna Maria Paganoni and Valeria
+Vitelli
+Testing Semiparametric Hypotheses in Locally Stationary
+Processes
+Philip Preuss, Mathias Vetter and Holger Dette
+Testing Monotonicity of Regression Functions – An Empirical
+Process Approach
+Melanie Birke and Natalie Neumeyer
+Measuring the Discrepancy of a Parametric Model via Local
+Polynomial Smoothing
+Anouar El Ghouch, Marc G. Genton and Taoufik Bouezmarni
+Characteristic Function-based Semiparametric Inference for
+Skew-symmetric Models
+Cornelis J. Potgieter and Marc G. Genton
+Component Selection in the Additive Regression Model
+Xia Cui, Heng Peng, Songqiao Wen and Lixing Zhu
+Lévy-based Modelling in Brain Imaging
+Kristjana Ýr Jómsdóttir, Anders Rønn-Nielsen, Kim Mouridsen and
+Eva B. Vendel Jensen
+Maximum Likelihood Estimation for Multinomial-Poisson
+Models: A Generalization of Birch’s Numerical Invariance
+Results
+Joseph B. Lang
+Bayesian Optimal Adaptive Estimation Using a Sieve Prior
+Julyan Arbel, Ghislaine Gayraud and Judith Rousseau
+M-estimation for general ARMA Processes with Infinite
+Variance
+Rongning Wu
+
+28
+
+
+
+How Many Iterations are Sufficient for Efficient Semiparametric
+Estimation?
+Guang Cheng
+Shape Constrained Non-parametric Estimators of the Baseline
+Distribution in Cox Proportional Hazards Model
+Hendrik P. Lopuhaä and Gabriela F. Nane
+Publised on behalf of:
+Danish Society for Theoretical Statistics
+Finnish Statistical Society
+Norwegian Statistical Society
+Swedish Statistical Society
+
+29
+
+
+
+SCANDINAVIAN JOURNAL OF STATISTICS
+Volume 40 • Number 4 • December 2013
+Contents:
+Guaranteed Conditional Performance of Control Charts via
+Bootstrap Methods
+Axel Gandy and Jan Terje Kvaløy
+Fast Covariance Estimation for Innovations Computed from a
+Spatial Gibbs Point Process
+Jean-François Coeurjolly and Ege Rubak
+Flexible Copula Density Estimation with Penalized Hierarchical
+B-splines
+Göran Kauermann, Christian Schellhase and David Ruppert
+Efficient Bayesian Multivariate Surface Regression
+Feng Li and Mattias Villani
+On Sampling Designs with Ordered Conditional Inclusion
+Probabilities
+Lennart Bondesson and Imbi Traat
+Discrete Multicolour Random Mosaics with an Application to
+Network Extraction
+M.N.M. van Lieshout
+Optimal detection of a jump in the intensity of a Poisson
+process or in a density with likelihood ratio statistics
+Camilo Rivera and Guenther Walther
+Testing for a Change of the Innovation Distribution in
+Nonparametric Autoregression: The Sequential Empirical
+Process Approach
+Leonie Selk and Natalie Neumeyer
+Fast Censored Linear Regression
+Yijian Huang
+Statistical Corrections of Invalid Correlation Matrices
+Anders Løland, Ragnar Bang Huseby, Nils Lid Hjort and Arnoldo
+Frigessi
+Geodesic Monte Carlo on Embedded Manifolds
+Simon Byrne and Mark Girolami
+
+30
+
+
+
+Continuous Invertibility and Stable QML Estimation of the
+EGARCH(1,1) Model
+Olivier Wintenberger
+Uncertainty Quantification in the Ensemble Kalman Filter
+Jon Sætrom and Henning Omre
+Powerful Parametric Tests Based on Sum-Functions of Spacings
+Magnus Ekström
+Publised on behalf of:
+Danish Society for Theoretical Statistics
+Finnish Statistical Society
+Norwegian Statistical Society
+Swedish Statistical Society
+
+31
+
+
+
+informasjon
+Har du husket å betale kontingenten i år?
+Medlemskontingenten i nsf er kr 200,– per år for ordinære
+medlemmer, mens mastergradsstudenter får gratis medlemskap.
+På adresselappen bakpå bladet står det anført siste år vi har
+mottatt kontingent fra deg. Sjekk adresselappen! De som ikke
+har betalt for tidligere år gjør dette sammen med kontingenten
+for 2013. Dersom du mener betalingsinformasjonen ikke
+stemmer, gi beskjed til clara-cecilie.gunther@nr.no. Dersom
+arbeidsgiveren din betaler kontingenten, sørg for at navnet ditt
+kommer med på innbetalingen.
+De største utgiftspostene for nsf er overføringer til
+lokallagene i Oslo, Bergen og Trondheim, utdeling av Sverdrupprisen, nsfs medlemskap i The European Mathematical Society
+(ems) og the International Statistical Institute (isi), trykking
+og utsending av tg og utgifter i forbindelse med diverse
+arrangementer – blant annet støtte til studenter ved deltakelse
+på det norske statistikermøtet.
+For at medlemsregisteret skal være best mulig oppdatert, er
+det viktig at du oppgir eventuell ny post- eller e-postadresse,
+ved å sende meg en e-post. Vi har også opprettet en egen
+e-postliste for nsfs medlemmer, nsf-medlemmer@math.uio.no.
+Dersom du ikke mottar e-post fra denne lista, send meg din
+oppdaterte e-postadresse.
+Betalingsfrist for innbetaling av kontingent er snarest.
+Vennligst oppgi hvem kontingenten gjelder for ved innbetaling.
+
+http://www.euro-math-soc.eu/
+http://isi-web.org/
+
+Clara-Cecilie Günther
+Kasserer nsf
+Telefon: 22 85 25 63
+Betalingsinformasjon
+
+GIRO
+
+Betalingsfrist
+
+snarest
+
+Underskrift ved girering
+
+Kontingent NSF 2013 for [Navnet ditt]
+
+Betalt av
+
+Betalt til
+
+NSF ved Clara-Cecilie Günther
+Norsk Regnesentral
+Postboks 114 Blindern
+0314 Oslo
+Belast
+konto
+Kundeidentifikasjon (KID)
+
+H
+
+Kvittering
+tilbake
+
+Kroner
+
+200
+
+Øre
+
+Til konto
+
+00
+
+0530 27 73299
+
+Blankettnummer
+
+
+
+
+
+Avsender
+Norsk statistisk forening
+v/Clara-Cecilie Günther
+Norsk Regnesentral
+Postboks 114 Blindern
+0314 Oslo
+
+Redaksjon
+Turid Follestad
+Bo Lindqvist
+Petter Arnesen
+
+
+

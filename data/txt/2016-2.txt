@@ -1,0 +1,1052 @@
+ISSN 0803-8953
+Tilfeldig gang
+Nr. 2, årgang 33
+Desember 2016
+
+Utgitt av Norsk statistisk forening
+Redaksjonelt
+
+Fra lederen . . . . . . . . . . . . . . . . . . . . . . . . . .
+Fra redaksjonen . . . . . . . . . . . . . . . . . . . . . . .
+
+1
+2
+
+Tankenøtter
+
+Løsning på pusleri nummer 44 . . . . . . . . . . . . . .
+Pusleri nummer 45 . . . . . . . . . . . . . . . . . . . . .
+
+3
+4
+
+En stipendiat forteller
+
+Et kinesisk møte med Norge . . . . . . . . . . . . . . . .
+
+5
+
+Møter og konferanser
+
+Nordstat 2016 . . . . . . . . . . . . . . . . . . . . . . . .
+Det 8. årlige Trondheim Symposium i statistikk . . . .
+
+7
+8
+
+Ny bok
+
+Den innerste sirkel . . . . . . . . . . . . . . . . . . . . .
+
+10
+
+Gratulerer
+
+NRs masterpris . . . . . . . . . . . . . . . . . . . . . . .
+Bent Natvig 70 år . . . . . . . . . . . . . . . . . . . . . .
+
+12
+12
+
+Meldinger
+
+Nytt fra Universitetet i Oslo . . . . . . . . . . . . . . . .
+Nytt fra NTNU . . . . . . . . . . . . . . . . . . . . . . .
+Nytt fra Universitetet i Bergen . . . . . . . . . . . . . .
+Nytt fra NMBU . . . . . . . . . . . . . . . . . . . . . . .
+Nytt fra Universitetet i Stavanger . . . . . . . . . . . . .
+
+13
+14
+17
+18
+18
+
+Scandinavian Journal of Statistics
+
+Innholdsliste september 2016 . . . . . . . . . . . . . . .
+Innholdsliste desember 2016 . . . . . . . . . . . . . . . .
+
+18
+20
+
+Annonseringer
+
+Sverdup-prisene . . . . . . . . . . . . . . . . . . . . . . .
+
+21
+
+
+
+
+
+redaksjonelt
+Fra lederen
+Jan Terje Kvaløy | Stavanger
+
+Norsk statistisk forening er sammen med søsterforeningene
+i Danmark, Sverige og Finland ansvarlig for utgivelsen
+av Scandinavian Journal of Statistics (SJS). Spesielt går
+redaktørvervet i SJS på omgang mellom landene, og neste
+gang det er Norge sin tur til å ha dette ansvaret for perioden
+2018-2021. Det er en glede å meddele at Håkon Gjessing og
+Hans Julius Skaug har sagt ja til å være redaktører i denne
+perioden. Med det er redaktørvervet i de best hender, og jeg
+ønsker dem lykke til med jobben.
+Et annet ansvar som går på omgang mellom de nordiske
+foreningene er å arrangere den nordiske konferansen i
+matematisk statistikk (NORDSTAT). Neste gang det er Norge
+sin tur til å arrangere NORDSTAT er i 2020, og for å passe dette
+inn med en grei arbeidsfordeling mellom lokalforeningene
+legger vi i styret opp til en justeringen av rotasjonen for de
+norske møtene slik at det norske møtet i 2019 holdes på
+Vestlandet mens miljøet i Trondheim/Tromsø tar ansvaret for
+NORDSTAT i 2020. De interesserte kan finne flere detaljer i
+styrereferatene på foreningen sine hjemmesider.
+På det norske statistikermøtet til sommeren, som skal
+holdes i Fredrikstad 12.-15. juni, vil på nytt et høydepunkt
+bli utdelingene av Sverdrup-prisene. Jeg vil oppfordre dere
+til å komme med nominasjoner på kandidater til begge
+prisene innen utgangen av året. Mer detaljer om prisene og
+nominasjonsprosessen finnes i et eget skriv lenger bak i denne
+utgaven av TG. Til neste år er det også 100 år siden Sverdrup
+ble født, dette må vi markere i løpet av møtet i Fredrikstad.
+Apropos priser så har, som mange sikkert allerede kjenner
+til, flere av de store internasjonale statistikkforeningene gått
+sammen om å etablere en pris som man har ambisjoner om
+at skal få en lignende status som priser som Abelprisen
+og Nobelprisen. Denne prisen er rett og slett kalt «The
+International Prize in Statistics» (se: statprize.org), og det
+er nylig annonsert at den første vinneren er Sir David
+Cox. Mange av oss skulle nok også ha likt å se Cox som
+vinner av Abelprisen, men med dette har i alle fall den nye
+prisen fått en svært verdig første vinner. Jeg hadde for øvrig
+gleden av å oppleve Cox som galant chairman og engasjert
+diskusjonsdeltager på en konferanse i sommer – de fleste av oss
+kan nok bare drømme om å være like spreke i en alder av 92 år.
+1
+
+
+
+Fra redaksjonen
+Ingrid Hobæk Haff | Oslo
+
+Denne høsten har både statistikerstanden og eliten gått på
+en skikkelig smell. Og Ragnar og jeg må vel bare innse
+at vi tilhører begge, som mangeårige utøvere av det edle
+statistikkfaget og representanter for den fjerde statsmakt.
+For “folk flest” er statistiker synonymt med meningsmåler,
+og sistnevnte står vel ikke akkurat høyt i kurs i folkedypet for
+tida. Som statistikere deler vi selvsagt ikke denne mistroen,
+men tenker at både meningsmåling og ikke minst statistikk blir
+minst like viktige i framtida som de er nå. Snarere enn å utdype
+dette, henviser vi til Emil Aas Stoltenbergs utmerkede forsvar
+av faget (se her).
+Som eliter flest, har også Ragnar og jeg begått
+løftebrudd. Det blir ikke noe innslag om hvor det blir
+av alle statistikerne som ikke jobber i akademia (eller hos
+meningsmålingsinstitutter) i dette nummeret. Dette er fortsatt et
+tema vi kunne tenke oss å ta opp i TG, men vi er helt avhengige
+av hjelp fra våre lesere. Kjenner du noen medstatistikere som
+jobber der ingen skulle tro at statistikere kunne jobbe? Ta da
+kontakt med oss på epost.
+Det vi har forsøkt i dette nummeret, er å legge mer vekt
+på folk enn fag, slik vi også lovte. Du kan gjerne si at vårt
+nye motto er “mennesker, ikke statistikk”. Vi vil også gjerne
+understreke at vi generelt er svært interessert i hva som rører
+seg i statistikergrasrota. Selv om vi tar vårt redaktøransvar på
+høyeste alvor, er det ytterst sjelden vi refuserer tilsendte innslag.
+Har du vært på en spennende konferanse i det siste? Har du
+lest en god statistikkbok du kunne tenke deg å anmelde? Har
+du noe å fortelle som er av interesse for andre statistikere? Send
+det til oss, og vi kan nesten garantere publikasjon (legg merke
+til at det også er lov å sende bidrag til Ragnar selv om han er
+listet opp som sistemann på nettsidene til NSF).
+Som medlemmer av eliten, tør vi selvsagt ikke å ønske dere
+god jul, av frykt for å støte noen, men ønsker dere i stedet en
+riktig god og fredelig verdinøytral ferie!
+
+2
+
+Redaksjon
+Ragnar Hauge (Ragnar.Hauge@nr.no)
+Ingrid Hobæk Haff (ingrihaf@math.uio.no)
+
+
+
+tankenøtter
+Løsning på pusleri nummer 44
+Jostein Lillestøl | Bergen
+
+Oppgaven
+Oppgaven var: En bygning har omriss som en likesidet femkant,
+lik Pentagon i Washington, der sidelengden er 314m. Anta
+at den er plassert på en uendelig slette og kan sees derfra,
+uhindret av andre bygninger. Per vandrer tilfeldig rundt på
+sletten, og du får telefon fra han: “Akkurat nå ser jeg minst to
+sider av bygningen, men om det er to eller tre er vanskelig å
+si”. Hva er tilnærmet sannsynlighete for at han ser tre sider av
+bygningen? Bonusspørsmål: Kort etter ringer Per opp igjen og
+sier: “Washington her! Jeg var blendet av morgensolen, men ser
+nå tre sider av bygningen. Oops!, der forsvant to av dem!”. Kan
+du ut fra dette si presist hvor han befinner seg?
+
+Løsning (Svein Olav Glesaaen Nyberg)
+P(3 sider) ≤ 0.5, med likhet når du har uendelig avstand til
+bygningen. Jeg antar da at vinkelfordelingen rundt bygningen
+er uniform, så vi ikke støter borti noen morsomme paradokser.
+Argumentet er særs enkelt for uendelig avstand: En person på
+motsatt side av bygningen ser 2 sider når Per ser 3, og motsatt,
+så halvparten av synsvinklene ser 3 sider. Går du nærmere, ser
+du færre uten at personen på motsatt side ser flere. Bonus: La
+A, B, C være 3 på hverandre følgende vegger. Per står da foran
+B, akkurat innafor der fortsettelsen av linjene til vegg A og C
+krysser. For øvrig er det i denne avstanden vi finner nedre
+grense for P(3 sider), nemlig 0. På denne avstanden vil han kun
+kunne se 1 eller 2 sider om gangen.
+Lillestøl føyer til: I figuren nedenfor er det trukket linjer i
+forlengelsen av sidene i femkanten, og fra de gule områdene
+sees to sider av bygningen og fra de grønne områdene tre
+sider. Vi ser at planet er dekket av 10 vinkelsektorer, hver på
+36◦ , fem grønne utenfor stjernen og fem gule, som overlapper
+innen stjernen. Det er gitt at Per er i det grønne eller i det gule
+området, som vi kan betrakte som tilnærmet like store, slik at
+sannsynligheten for at Per ser akkurat tre sider er tilnærmet
+1/2.
+3
+
+
+
+Bonusspørsmålet: Av Per sitt utsagn kan vi slutte at han
+befant seg i grønt område med kurs mot bygningen til han har
+nådd en av stjernespissene. Ut fra bemerkningen om blendet av
+morgensol kan vi slutte at han må ha kommet inn fra vest, og
+ut fra oppgitt sidelengde 314 meter på bygningen regnes det
+lett ut at avstanden fra bygningen er 483 meter. Av et kart over
+Washington ser vi at figuren må dreies ørlite med urviserne, og
+at Per trolig må befinne seg inne på Arlington-kirkegården.
+Kommentar (av Per Manne). Matematisk sett er
+sammenligninger av uendelige områder i planet ikke
+uproblematisk. I en norsk geometribok av Bernt Michael
+Holmboe fra 1827 fins et “bevis” for Euklids parallelpostulat,
+basert på en ikke tillatt arealsammenligning av vinkelsektorer
+med ensidig uendelige parallelstriper. “Beviset” er trolig hentet
+fra en bok som Abel hadde fått fra Crelle, som hans lærer
+Holmboe tok vare på og leste mens Abel var på reise i Europa.
+
+Pusleri nummer 45
+Jostein Lillestøl | Bergen
+
+I en avstemning mellom to kandidater har A fått a stemmer og
+B fått b stemmer, der a > b. Opptellingen foregår ved at en etter
+en stemme trekkes fra stemmeurnen. Hva er sannsynligheten
+for at kandidat A vil lede opptellingen fra begynnelse til slutt?
+
+Send svar til Jostein.Lillestol@nhh.no.
+4
+
+
+
+en stipendiat forteller
+Et kinesisk møte med Norge
+Xin Luo | Trondheim
+
+Det blir etterhvert stadig flere kinesiske studenter som setter
+kursen mot Norge. TG har bedt en av dem skrive litt om
+møtet med norsk utdanning og samfunn.
+Mitt navn er Xin Luo. Jeg kommer fra Kina og har bodd i
+Norge i cirka fire år. Jeg holder nå på med en phd i statistikk
+ved Norges teknisk-naturvitenskapelige universitet (NTNU),
+og har holdt på med dette i vel to år. I mine to første år i
+Norge tok jeg en master ved NTNU, og begynte da å bli kjent
+med utdanningssystemet og kulturen i dette flotte landet. Når
+det gjelder Norge tror jeg nok førsteinntrykket, for de fleste
+som ikke vært her tidligere, først og fremst er det arktiske
+klimaet, de lave temperaturene og den isdekte bakken. Jeg skal
+ikke nekte for disse sidene av Norge, men alt dette opptrer
+bare om vinteren. Landskapet og omgivelsene er fantastisk
+flotte om sommeren, så jeg kan ikke unngå å bli besatt av
+dette flotte landet. Jeg har forøvrig spurt mine kinesiske
+venner om hvordan de først ble kjent med Norge og til min
+store overraskelse sa de fleste at det var fra en berømt roman
+«Norwegian Wood» skrevet av Haruki Murakami.
+Forbruksnivået i Norge er veldig høyt, og jeg greidde ikke
+å venne meg til dette selv lenge etter at jeg kom hit. Jevnt
+over er prisene på varer omtrent fem ganger høyere her enn
+i Kina, men inntektsnivået i Norge er også høyere enn i de
+fleste andre land så det er ikke problematisk å bo her hvis du
+har en jobb. Når det gjelder utdanningssystemene i Norge og
+Kina, er det både likheter og forskjeller. Måten forelesningene
+blir gitt på er ganske lik i Norge og Kina. Derimot er for
+eksempel type spørsmål på eksamen, slik jeg kjenner det fra
+statistikkeksamener ved NTNU, veldig forskjellig her i Norge
+fra hva de er i Kina. Alle spørsmålene på alle eksamenene jeg
+har hatt på NTNU krever at du skal begrunne og utlede ting i
+detalj, mens på eksamener i Kina er det alltid flervalgsoppgaver
+og oppgaver hvor du skal fylle inn blanke felt i tillegg til
+oppgaver mer lik hva jeg har fått på NTNU. På eksamener jeg
+har tatt på NTNU måtte man dermed virkelig forstå teorien,
+mens man kan bruke andre strategier som ikke krever like stor
+forståelse for å bestå en eksamen i Kina. For å bestå en eksamen
+i Norge kreves det minst 40 poeng av 100, mens i Kina kreves
+det at man oppnår minst 60 poeng av 100.
+Etter min erfaring er nordmenn vennlige og usofistikerte,
+men dette varierer litt avhengig av hvor i landet man kommer
+fra. Dersom man spør om hjelp når man er ute å går i gatene
+
+Xin Luo
+
+En japansk bok med en Beatles-tittel
+lokker kinesere til Norge
+
+5
+
+
+
+eller er ute og handler, får man typisk akseptable svar. Men
+det virker som om de ikke liker å komme for nær hverandre.
+For eksempel, på kino setter man seg gjerne på annethvert
+sete og lar det være et tomt sete imellom. Kanskje fordi folk er
+litt sky og introverte. Derimot blir folk veldig snakkesalige og
+utadvente når de har drukket alkohol. Dette er i stor kontrast
+til situasjonen når de ikke har drukket alkohol. Forresten, man
+kan ofte høre en merkelig lyd når man snakker med nordmenn.
+Det kan høres ut som om de har litt astma, men ikke vær
+bekymret, dette er bare en måte å uttrykke at de er interessert i
+å snakke med deg.
+Dessuten, jeg kan nesten ikke tro hvor mye nordmenn
+liker friluftsliv. De bruker glatt tusenvis av kroner for å kjøpe
+profesjonelt utstyr, men kjører samtidig et par timer til grensen
+mellom Norge og Sverige for å kjøpe en flaske akohol femti
+kroner billigere enn i Norge. I Asia foretrekker folk å bruke
+paraply uansett hvor mye det regner, mens nordmenn bruker
+ikke paraply selv i kraftig regnvær og selv om de ikke har
+vanntette klær. Snus er ganske populært i Norge. Jeg har
+prøvd snus tidligere og det var som ikke-røykende tobakk eller
+sigarett. Du må legge det inn mellom leppene og gommene
+dine for å få en god mengde nikotin. Mine norske venner
+fortalte meg at det ikke medfører lungekreft, men jeg liker det
+ikke noe særlig.
+Plassen er begrenset, mens ordene er endeløse. I et
+nøtteskall, jeg liker dette landet og jeg håper du også vil like
+det.
+
+6
+
+En norsk tradisjon artikkelforfatteren har
+sunn skepsis til.
+
+
+
+møter og konferanser
+NordStat 2016, København 27.-30. juni
+Nils Lid Hjort | Oslo
+
+De nordiske konferansene i matematisk statistikk har en lang
+og rik tradisjon, fra det første møte i 1965 til den nå 26. gang, i
+København, juni 2016. Frem til omtrent 1990 var konferansene
+faktisk mest nordiske, i intensjon og i ånd, der språket var
+mest skandinavisk, både for foredrag og middagstaler og for
+de mange fagpratene underveis. Konferansene tjente også
+som gode førstereiserfaringer, for de gryende og de ferske,
+de nesten ferdige hovedfagsstudenter, osv. Den nordiske
+forbrødningsånd er vel fortsatt tilstede, men har noe fattigere
+kår, ved at konferansene mer og mer ligner alle de andre, med
+engelsk som arbeidsspråk og meget internasjonal deltagelse.
+De har også vært arrangert i Litauen og Estland. Endelig bør
+det nevnes at konferansene avspeiler de større trender i vårt
+fag, langs teori og anvendelser, at dette er ikke noe som bare
+elfenbenstårnfolket bedriver, men store lag av forskere i stadig
+flere anvendte disipliner med kvantitative data.
+Mitt inntrykk er at ambisjonsgraden var moderat denne
+gang i flate, innbydende Universitetsparken, der man også
+kunne ane det sparebluss universitetet må holde seg med
+en stund. Lokalene var ikke spesielt gode, og lite arbeid var
+lagt i det som heter pomp eller prakt eller ekstrainnslag eller
+festtaler. Men oppmøtet var relativt godt, og alt fungerte
+som det skulle. Ingrid Glad holdt åpningsforedraget, med
+aha-temaet Hunting High and Low. Hovedforedragsholder,
+med det som fortsatt heter SJS-foredraget, var Jonathan Taylor
+fra Stanford University, om post-selection-problemer. Et mildt
+tradisjonsbrudd her var at arrangørene ikke hadde pekt på
+noen diskutanter på forhånd (et par av oss ble istedet bedt
+om å bidra senere, straks et manuskript foreligger). Andre
+hovedforedragsholdere var Marloes Maathuis, om kausalitet,
+Richard Samworth, om random projections og klassifikasjon, og
+Holger Rootzén, om ekstremverdistatistikk.
+Inviterte sesjoner organisert av norske forskere var Causal
+Inference, med Kjetil Røysland, samt Theoretical Statistics,
+med meg. Andre foredragsholdere fra Norge var Guro Dørum,
+Egil Ferkingstad, Geir-Arne Fuglstad, Jon Michael Gran,
+Tore Selland Kleppe, Bo Lindqvist, Mats Julius Stensrud og
+Håkon Tjelmeland. Dessuten var det så mange som 56 postere,
+med tilhørende tre-minutters power-talk-presentasjoner, med
+mange norske. Magne Aldrin kom for sent til å presentere sin
+EM-poster, siden han var nede i Frankrike et sted og heiet på
+Island – av grunner jeg ikke helt forstår legges EM og VM i
+
+De tre vinnerne av Best Poster
+Presentation Awards: Kristoffer Hellton,
+Céline Cunen og hjemmefavoritt Frederik
+Riis Mikkelsen.
+
+7
+
+
+
+fotball alltid til samme tid som NordStat.
+Min egen forskningsgruppe, FocuStat (femårsprosjektet
+Focus Driven Statistical Inference With Complex Data), har
+knesatt den enkle regel at vi hvert år skal finne én konferanse
+der vi alle deltar. I 2015 dro vi til ISI-møtet i Rio de Janeiro, og i
+2017 drar vi til JSM i Baltimore – men i 2016 ble det København!
+Vi hadde det utmerket, faglig og sosialt. Vår begeistring fant
+vi ingen grunn til å dempe, da det ble klart at PhD-student
+Céline Cunen (om verdens første roman, fra 1460) og PostDoc
+Kristoffer Hellton (om clusterproblematikk i høy dimensjon)
+vant to av de tre Best Poster Presentation Awards. Og om to år
+sees vi igjen, antagelig i Estland.
+
+FocuStat på tur: Gudmund Hermansen,
+Nils Lid Hjort, Kristoffer Hellton, Sam-Erik
+Walker, Céline Cunen.
+
+Det 8. Trondheim Symposium i statistikk, Selbu 2016
+John Tyssedal og Bo Lindqvist | Trondheim
+
+Deltakere
+
+Det åttende årlige “Trondheim Symposium in Statistics” ble
+arrangert i weekenden 7.-8. oktober, og som ved de tidligere
+symposiene ble det holdt ved Selbusjøen Hotell & Gjestegård.
+Den ansvarlige for arrangementet var denne gangen John
+Tyssedal.
+Hovedideen bak arrangementet er å samle statistikerne i
+Trondheim til et weekend-møte utenfor bykjernen (Selbu er
+1 times kjøring fra Trondheim, og en halvtimes kjøring fra
+Trondheim lufthavn, Værnes). Til symposiet inviteres både
+norske og utenlandske eksperter til å presentere aktuelle temaer
+fra forskningsfronten i statistikk. I år hadde symposiet 33
+deltakere, medregnet de fem foredragsholderne. Hovedtemaet
+for årets symposium var industriell statistikk, herunder finans,
+noe som ga fem meget interessante og inspirerende foredrag:
+Sonja Kuhnt (Department of Computer Science, Dortmund
+University of Applied Sciences and Arts): Modelling and
+sensitivity analysis in computer experiments with quantitative
+and qualitative inputs.
+Tormod Næs (NOFIMA): Multi-block analysis, background,
+methodology and applications.
+
+Foto: Mette Langaas
+
+Foto: Mette Langaas
+
+Foredragsholdere
+
+8
+
+
+
+Henry Wynn (London School of Economics and Political
+Science): Advances in algebraic statistics.
+John Quigley (Department of Management Science,
+University of Strathclyde, Glasgow): Managing supplier
+risk with epistemic uncertainty: League tables and value of
+information.
+Ingrid Hobæk Haff (Department of Mathematics,
+Universitetet i Oslo): Nonparametric estimation of pair-copula
+constructions with the empirical pair-copula.
+
+9
+
+
+
+ny bok
+Militært påtrykk da matematisk statistikk ble
+universitetsfag
+Hans Morten Synstnes
+
+Etter militært påtrykk ble matematisk statistikk
+universitetsfag i Norge i 1954. Professorene Erling Sverdrup
+og Arnljot Høyland, som tidligere var offiserer, spilte her
+nøkkelroller. Dette kommer frem i boken Den innerste sirkel.
+Den militære sikkerhetstjenesten 1945-2002.
+Da matematisk statistikk ble universitetsfag i 1954 gikk
+mange spor til den militære sikkerhetstjenesten, som var en
+del av Forsvarets overkommando/Etterretningsstaben (FO
+II). Sentral i etableringen var Erling Sverdrup, praktiker og
+organisator av chiffertjenesten under og like etter krigen.
+Han kan regnes som norsk chifferanalyses far. Sverdrup ble
+også, ved siden av FO II-sjefen Ragnvald Roscher Lund, en
+sentral ideolog for den norske militære chiffersatsingen etter
+frigjøringen.
+Primært måtte det satses på en avansert chiffertjeneste for å
+verne norske interesser mot fiender og allierte. Et tidlig skritt
+var da Sverdrup modifiserte beslaglagte tyske Enigma-maskiner
+før de ble tatt i bruk. Et annet og langsiktig skritt var da
+sikkerhetstjenesten, sammen med industrien og sentrale
+akademikere, begynte å lage chiffermaskiner til eget og alliert
+bruk. Tilsvarende produksjon var gjerne forbeholdt stormakter.
+FO II regnet amerikanske og britiske maskiner som sikre nok
+vis-à-vis en motpart, men ikke sikre nok til å beskytte sensitive
+norske opplysninger mot allierte.
+Parallelt ble sikkerhetstjenesten satt i stand til å knekke
+andre lands chiffer, også alliertes. Det gjaldt å skaffe Norge
+en fordel i økonomiske og militære spørsmål i fred, og legge
+grunnlaget for et norsk ”Bletchley Park” i krig. Sverdrup
+begynte i 1946 oppbyggingen av en forseringstjeneste, men
+overlot senere samme år ansvaret til den nær nyankomne
+Arnljot Høyland.
+Under ledelse av den nye etterretnings- og sikkerhetssjefen
+Vilhelm Evang og avdelingssjef Nils Stordahl ansatte Høyland
+matematikere, språkvitere og sekretærer til forseringsmiljøet
+på Akershus festning. Akademisk dyktighet var vesentlig,
+det samme var ifølge Sverdrup at kandidatene hadde en
+matematikers analytiske innstilling og en detektivs skarpe
+iakttakelsesevne.
+Forseringsarbeidet fikk et løft etter Høylands opphold ved
+Försvarets radioanstalt i Sverige i 1948. Materialet som skulle
+10
+
+”Den innerste sirkel. Den militære
+sikkerhetstjenesten 1945-2002.” Boka er
+basert på en ph.d.-avhandling i historie
+fra UiO.
+
+Forfatter av boken ”Den innerste sirkel”,
+Hans Morten Synstnes.
+
+
+
+håndteres begynte å strømme inn i form av en rekke lands åpne
+og chiffrerte diplomatpost og telegrammer avfotografert via
+Telegrafverket. Radiolinjene til diplomatiske representasjoner i
+Oslo og sovjetisk korrespondanse i nord ble tappet. Høyland
+sørget for en gjensidig utveksling av tappet diplomatpost med
+Sverige og Danmark.
+Et metodisk grunnlag måtte til for å kunne knekke så
+vel fiendtlige som vennligsinnede lands chiffer. Høyland og
+Stordahl så her nødvendigheten av statistiske resonnementer og
+oversikter. Høyland sa senere at “i denne sammenheng arbeidet
+jeg jo som statistiker”. Behovet for statistikkfaglig innsikt
+grunnet seg mye i at kjennskap til det enkelte språks strenge
+statistiske regelmessigheter var en forutsetning for å kunne
+forsere ulike lands chiffer. Språk er underkastet spesifikke
+semantiske, lingvistiske, grammatikalske og ortografiske lover.
+Statistiske oppsett over russisk, spansk, japansk og flere andre
+språk ble utarbeidet som et hjelpemiddel.
+I mangelen på støtte fra akademia tok sikkerhetstjenesten
+affære. Høyland og hans kollega Alf Gudbrandsen fullførte som
+de første ved et norsk lærested hovedfag i matematisk statistikk
+i 1952. Hovedoppgavene ble registrert under matematikkens
+flagg, men omhandlet ifølge Høydal egentlig matematisk
+statistikk. (Se Tilfeldig Gang 2/1991).
+Sverdrup, med fersk doktorgrad i matematikk fra 1952,
+ledet innføringen av matematisk statistikk ved universitetet i
+1954. Han pekte i forkant på “en pinlig mangel på matematiske
+statistikere i Norge.” Sverdrup var samtidig også kraften
+bak forsikringsstatistikk som studieretning ved universitetet.
+Allerede året etter ble han professor for de to nevnte fagene.
+Høyland ledet forseringsarbeidet frem til 1954 da Sverdrup
+rekrutterte ham til universitetet. Forseringsseksjonens nye
+sjef ble Gudbrandsen. Sverdrup og Høyland forble en del
+av tjenestens krigsoppsett. Forseringsaktiviteten i regi av
+sikkerhetstjenesten ble lagt ned i 1965 uten å ha oppnådd
+noen nevneverdig suksess. Likevel kastet innsatsen av seg
+verdier for samfunnet i form av starthjelp til universitetsfag
+som matematisk statistikk, informatikk og sikkerhetstjenestens
+innkjøp av den første store datamaskinen i Norge (Frederic)
+til bruk i matematiske beregninger. Tette bånd mellom
+sikkerhetstjenesten og akademia ble holdt ved like i mange tiår
+etter krigen, noe som behandles grundig i Den innerste sirkel.
+Boken er basert på hittil hemmeligholdte arkiver.
+
+Professor i matematisk statistikk og tidligere major Arnljot Høyland. Kartotekkort
+tilhørende sikkerhetstjenesten.
+
+Oberst Nils Stordahl ledet den militære
+chiffertjenesten fra 1946 til 1983.
+
+Det sentrale chiffermiljøet i Forsvaret
+holdt lenge til i bygning 3 på Akershus
+festning.
+
+11
+
+
+
+gratulerer
+NRs masterpris
+Solveig Engebretsen har blitt tildelt Norsk Regnesentrals pris
+for beste masteroppgave i matematikk og IKT ved Universitet i
+Oslo for høsten 2015 og våren 2016. Hun deler prisen med Aslak
+Wigdahl Bergersen ved Simula Research Laboratory. Solveig
+får prisen for en masteroppgave med tittelen “Monotone
+Regression - in high (and lower) dimensions” med Ingrid Glad
+som veileder. Prisen ble delt ut under arrangementet dagen@ifi
+13. oktober 2016.
+
+Bent Natvig 70 år
+Bent Natvig fylte 70 år 1. august. Dette ble markert med et
+heldagsseminaret “Bent Natvig: Reliable research through
+four decades” 1. juni inklusiv avsluttende middag på
+Frognersæteren Restaurant.
+
+Solveig Engebretsen
+
+Bent Natvig
+
+12
+
+
+
+meldinger
+Nytt fra Universitetet i Oslo
+Nye PhD-grader
+Kristina Rognlien Dahl (27. mai 2016)
+Information and Memory in Stochastic Optimal Control
+(prøveforelesning: Optimal insider utility portfolio in Kyle-Back
+models)
+Bedømmelseskomité: Albina Danilova, London School
+of Economics; Peter Imkeller, Humboldt University; Tom
+Lindstrøm, Universitetet i Oslo. Veiledere: Bernt Øksendal,
+Universitetet i Oslo; Fred Espen Benth, Universitetet i Oslo.
+
+Nye mastergrader
+Tobias Hæstad
+Modellering av norske kortrenter med Levy stasjonære prosesser
+Veileder: Fred Espen Benth
+Espen Stokkereit
+Optimal stopping problems and the weak variations
+Veileder: Fred Espen Benth
+Solveig Engebretsen
+Monotone Regression in high (and lower) dimensions
+Veileder: Ingrid Glad
+Jon Arne Heskje
+En ambit modell for swaper
+Veileder: Fred Espen Benth
+Cecilia P. Tran
+Customer Duration and Profitability In General Insurance
+Veiledere: Ingrid Hobæk Haff og Erik Bølviken
+Ekaterina A. Jacobsen
+Time to the first medical treatment of farmed salmon to control salmon
+lice, a survival analysis approach
+Veiledere: Ingrid Glad og Anja Kristoffersen
+Yue Xu
+A Study of the Loss Distribution of Natural Disasters in Norway
+Veiledere: Ingrid Hobæk Haff og Erik Bølviken
+Vaamanam Murugendran
+Contributions to RBNS Modelling
+Veiledere: Erik Bølviken, Ingrid Hobæk Haff og Nils
+Haavardson
+13
+
+
+
+Maunya Doroudi Moghadam
+Estimating animal movements from light-logger data using Bayesian
+state-space modeling
+Veiledere: Geir Storvik, Torbjørn Ergon og Morten Helberg
+
+Nytilsatte
+Riccardo De Bin
+Førsteamanuensis
+
+Kristina Rognlien Dahl
+Postdoktor, innstegsstilling
+
+David Ruiz Banos
+Postdoktor
+
+Vinnie Ko
+PhD
+
+Andreas Nakkerud
+PhD
+
+Sylvia Liu
+PhD
+
+Oussama Amine
+PhD
+
+Yinzhi Wang
+PhD
+
+Nytt fra NTNU
+Nye PhD-grader
+Linghua Chen (29.08.2016)
+The Numerical Path Integration Method for Stochastic Differential
+Equations. (prøveforelesning: Calculating Greeks with the Malliavin
+Method)
+Bedømmelseskomité: Arturo Kohatsu-Higa, Ritsumeikan
+University; Fred Espen Benth, Universitetet i Oslo; Anne
+Kværnø, NTNU. Veiledere: Arvid Næss og Espen R. Jakobsen.
+14
+
+
+
+Wei Chai (26.08.2016)
+Stochastic Dynamic Analysis and Reliability Evaluation of the Roll
+Motion for Ships in Random Seas. (prøveforelesning: On the Physical
+Modelling of Ship Rolling.)
+Bedømmelseskomité: Jeffrey Falzarano, Texas A&M
+University; Jørgen Juncher Jensen, DTU; Sverre Haver, NTNU.
+Hovedveileder: Arvid Næss og Bernt J. Leira.
+
+Nye mastergrader
+Ebenezer Afrifa-Yam
+A comparison of Factor Based Methods for Analysing Some
+Non-regular Designs.
+Veileder: John Tyssedal
+Tobias Liland Bjormyr
+Deep Learning with emphasis on extracting information from text
+data.
+Veiledere: Håvard Rue og Thiago Martins (Yahoo!)
+Benedicte Meløy Christensen
+Statistical models for the beads task problem in psychiatry.
+Veileder: Håkon Tjelmeland
+Siri Sofie Eide
+Statistical Postprocessing of Ensemble Forecasts of Wind.
+Veiledere: Ingelin Steinsland og John Bjørnar Bremnes
+(Meteorologisk institutt)
+Marius Fagerland
+Conditional Sampling from a Gamma Distribution given Sufficient
+Statistics.
+Veileder: Bo Lindqvist
+Marius Rise Gallala
+Surrogatbasert optimering ved bruk av kunstige nevrale nettverk.
+Veileder: Jo Eidsvik og Iver B. Sperstad (Sintef Energi)
+Ask S. Krogstad
+Soil classification from geotechnical data by Bayesian inversion using
+hidden Markov models.
+Veiledere: Henning Omre og Ivan Depina
+Marthe Larsen
+Statistical analysis of factors influencing early neurological
+deterioration after acute ischemic stroke using sparse logistic
+regression.
+Hovedveileder: Mette Langaas, biveileder: Turid Follestad
+(DMF)
+Chenxing Li
+Introduction to System Signatures and Their Applications in
+Reliability Engineering.
+Veileder: Bo Lindqvist
+15
+
+
+
+Eirik Myrvoll-Nilsen
+Computationally efficient Bayesian approximation of fractional
+Gaussian noise using AR1 processes.
+Veileder: Håvard Rue
+Thea Roksvåg
+A Bayesian Model for Area and Point Predictions. - A case study of
+predictions of annual precipitation and runoff in the Voss area.
+Veileder: Ingelin Steinsland
+Kristoffer Kofoed Rødvei
+Comparing the ACER and POT MCMC Extreme Value Statistics
+Methods Through Analysis of Commodities Data.
+Veileder: Arvid Næss
+Maria Lie Selle
+Modelling of Semi-Competing Risks Using the Illness-Death Model
+with Shared Frailty.
+Veileder: Bo Lindqvist
+Lene Maria Sundbakk
+Statistical methods to detect genotype-phenotype association using
+genetic similarity matrices.
+Veileder: Mette Langaas
+Trygve Bertelsen Wiig
+Approximate marginal inference in binary Markov random fields
+using a mean square error energy approximation and the junction tree
+algorithm.
+Veileder: Håkon Tjelmeland
+Heidi Liljeblad Ødegård
+The value of snow measurements in scheduling of hydropower plants.
+Veiledere: Jo Eidsvik og Stein-Erik Fleten (Ind.Øk., NTNU
+Tormod Østhus
+Stochastic modelling and prediction of call data from Trønder Taxi.
+Veileder: Håkon Tjelmeland
+Fredrik Lohne Aanes
+Testing equality of the success probabilities in two independent
+binomial distributions.
+Veiledere: Mette Langaas og Øyvind Bakke
+
+Nytilsatte
+Maxime Conjar
+PhD
+(Hovedveileder: Henning Omre)
+Jacopo Paglia
+PhD
+(Hovedveileder: Jo Eidsvik)
+Thea Roksvåg
+PhD
+(Hovedveileder: Ingelin Steinsland)
+16
+
+
+
+Maria Lie Selle
+PhD
+(Hovedveileder: Ingelin Steinsland)
+
+Nytt fra Universitetet i Bergen
+Nye PhD-grader
+Håkon Otneim
+Multivariate and conditional density estimation using local Gaussian
+approximations
+Bedømmelseskomité: Jeffrey S. Racine, McMaster University,
+Canada; Nils Lid Hjort, UiO; Hans J. Skaug, UiB. Veiledere:
+Dag Tjøstheim, Bård Støve og Hans A. Karlsen.
+Virginia Lacal Graziani
+Local Gaussian correlation for time series and regular vine estimation
+for bayesian networks
+Bedømmelseskomité: Oliver Linton, University of Cambridge,
+UK; Alex Lenkoski, NR; Yushu Li, UiB). Veiledere: Dag
+Tjøstheim og Bård Støve.
+
+Nye mastergrader
+Ampem Darko Owusu
+Claims reserving in non-life insurance with focus on reserve risk
+outlined by the Solvency II directive
+Veileder: Bård Støve
+Sondre Hølleland
+Spatio-temporal generalized autoregressive conditional
+heteroskedasticity models - a circular approach to spatio-temporal
+estimation
+Veiledere: Hans A. Karlsen og Bård Støve
+Sigve Brix Dyrhovden
+Stochastic unit-root processes
+Veileder: Hans A. Karlsen
+Berent Å.S. Lunde
+Likelihood estimation of jump-diffusions
+Veileder: Hans J. Skaug
+
+Nytilsatte:
+Sondre Hølleland
+PhD
+(fra 1. august 2016)
+
+17
+
+
+
+Nytt fra NMBU
+Nye PhD-grader
+Lars Erik Gangsei
+Linear Multiresponse Models - Theoretical Developments and
+Applications in Porcine (prøveforelesning: Multivariate regression
+and shrinkage estimators)
+Bedømmelseskomité: Rasmus Larsen, Technical University of
+Denmark - DTU Compute; Nils Lid Hjort, UiO; Torgeir Rhoden
+Hvidsten, NMBU. Veiledere: Solve Sæbø, NMBU, Trygve
+Almøy, NMBU, Jørgen Kongsro, Norsvin, og Olav Alvseike,
+Animalia.
+
+Nytt fra Universitetet i Stavanger
+Nye mastergrader
+Caroline Johnson
+Estimation error in statistical process control
+Veilder: Jan Terje Kvaløy
+Eze Sunday
+Computational Statistics and Data Analysis: Robustness of the Linear
+Mixed Effects Model to Non-normality of Longitudinal Data
+Veileder: Bjørn Auestad
+
+Nytilsatte:
+Kjartan Osmundsen
+PhD
+Hovedveileder: Tore Selland Kleppe
+Birthe Aarek
+PhD
+Hovedveileder: Bjørn Auestad
+
+18
+
+
+
+SCANDINAVIAN JOURNAL OF STATISTICS
+Volume 43 • Number 3 • September 2016
+Contents:
+
+Graphs for Margins of Bayesian Networks
+Robin J. Evans
+
+625
+
+A Semiparametrically Efficient Estimator of the Time-Varying
+Effects for Survival Data with Time-Dependent Treatment
+Huazhen Lin, Zhe Fei & Yi Li
+
+649
+
+On Local Power Properties of Frequency Domain-Based Tests
+For Stationarity
+Efstathios Paparoditis & Philip Preuß
+
+664
+
+Doubly Robust Inference for the Distribution Function In The
+Presence of Missing Survey Data
+Helene Boistard, Guillaume Chauvet & David Haziza
+
+683
+
+Quantile Regression for Location-Scale Time Series Models With
+Conditional Heteroscedasticity
+Jungsik Noh & Sangyeol Lee
+
+700
+
+Empirical Likelihood Inference for the Rao-Hartley-Cochran
+Sampling Design
+Yves G. Berger
+
+721
+
+Penalized Weighted Least Squares To Small Area Estimation
+Rong Zhu, Guohua Zou, Hua Liang & Lixing Zhu
+
+736
+
+Asymptotic Properties of the Empirical Spatial Extremogram
+Yong Bum Cho, Richard A. Davis & Souvik Ghosh
+
+757
+
+Exponential Family Techniques for the Lognormal Left Tail
+Søren Asmussen, Jens Ledet Jensen & Leonardo Rojas-Nandayapa
+
+774
+
+Adaptive Step Size Selection for Hessian-Based Manifold
+Langevin Samplers
+Tore Selland Kleppe
+
+788
+
+Outlier Robust Small-Area Estimation Under Spatial Correlation
+Timo Schmid, Nikos Tzavidis, Ralf Münnich & Ray Chambers
+
+806
+
+An Empirical Process View of Inverse Regression
+François Portier
+
+827
+
+A Note on the Large Sample Properties of Estimators Based On
+Generalized Linear Models for Correlated Pseudo-Observations
+Martin Jacobsen & Torben Martinussen
+
+845
+
+
+
+SCANDINAVIAN JOURNAL OF STATISTICS
+Volume 43 • Number 4 • December 2016
+Contents:
+
+Semiparametric Quantile Regression Analysis of Right-Censored
+and Length-Biased Failure Time Data with Partially Linear Varying Effects
+Xuerong Chen, Yeqian Liu, Jianguo Sun & Yong Zhou
+
+921
+
+Parameter Estimation for Inhomogeneous Space-Time Shot-Noise
+Cox Point Processes
+Jiří Dvořák & Michaela Prokešová
+
+939
+
+Compositional Tables Analysis in Coordinates
+Kamila Fačevicová, Karel Hron, Valentin Todorov & Matthias Templ
+
+962
+
+Approaches to the Estimation of the Local Average Treatment Effect
+in a Regression Discontinuity Design
+Aidan G. O'Keeffe & Gianluca Baio
+
+978
+
+Linear Increments with Non-Monotone Missing Data
+and Measurement Error
+Shaun R. Seaman, Daniel Farewell & Ian R. White
+
+996
+
+Robust Inference in Two-Phase Sampling Designs with Application
+to Unit Nonresponse
+Cyril Favre-Martinoz, David Haziza & Jean-François Beaumont
+
+1019
+
+Generic Identifiability of Linear Structural Equation Models
+by Ancestor Decomposition
+Mathias Drton & Luca Weihs
+
+1035
+
+A Framework for Monte Carlo Based Multiple Testing
+Axel Gandy & Georg Hahn
+
+1046
+
+Bayesian Conditional Mean Estimation in Log-Normal Linear
+Regression Models with Finite Quadratic Expected Loss
+Enrico Fabrizi & Carlo Trivisano
+
+1064
+
+Inference for Multi-Dimensional High-Frequency Data with an
+Application to Conditional Independence Testing
+Markus Bibinger & Per A. Mykland
+
+1078
+
+An Automatic Test for the Umbrella Alternatives
+Grzegorz Wyłupek
+Generalized Method of Moments for Additive Hazards Model
+with Clustered Dental Survival Data
+Hui Li, Xiaogang Duan & Guosheng Yin
+
+1103
+
+1124
+
+
+
+annonseringer
+Sverdrup-prisene – Styret ønsker forslag til kandidater
+innen 31. desember
+Sverdrup-prisene er Norsk statistisk forenings forskningspriser
+til minne om Erling Sverdrup. Prisene kan deles ut hvert år,
+men har hittil blitt delt ut under det Norske statistikermøtet
+(som holdes i oddetallsår). Det deles ut to priser:
+1. Til en fremragende representant for statistikkfaget. 2. Til
+unge forskere (under 40 år) med beste artikkel.
+Hver av prisene består av et diplom og et stipend på
+kr 10 000. Forslag til kandidater som skal motta prisen på
+det Norske statistikermøtet i 2017 bes sendt til styret i NSF
+v/Jan Terje Kvaløy, e-post: jan.t.kvaloy@uis.no, innen 31.
+desember 2016. Forslag må være signert av forslagstilleren,
+og en begrunnelse på ca. en side må vedlegges. Forslag kan
+fremsettes av medlemmer av NSF. Forslagene vil bli vurdert
+av en komité bestående av Arnoldo Frigessi, Jo Eidsvik og Jan
+Terje Kvaløy. Komitéen gir sin anbefaling til NSFs styre. Så vel
+NSFs styre som komiteen vil behandle forslagene konfidensielt.
+For å kunne tildeles denne prisen kreves et enstemmig styre.
+Prisen til en fremragende representant kan tildeles medlemmer
+av NSF som har utmerket seg innen fagområdet statistikk.
+Prisen til unge forskere kan tildeles medlemmer av NSF yngre
+enn 40 år som har utmerket seg med en statistikkartikkel de
+siste årene.
+
+21
+
+
+
+22
+
+
+

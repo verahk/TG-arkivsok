@@ -1,0 +1,1730 @@
+ISSN 0803-8953
+
+TILFELDIG GANG
+Nr. 1, årgang 21
+April 2004
+
+Utgitt av Norsk Statistisk Forening
+INNHOLD
+
+Fra redaksjonen. Jostein Paulsen og Hans Julius Skaug
+Lederen har ordet. Håvard Rue
+Faglig stoff
+
+Spesialtema i Norsk Epidemiologi: Statistiske metoder i epidemiologi.
+Randi Selmer og Tormod Brenn K+missedtnndetesstrsrveserseete
+
+vesener
+
+Puslerispalten
+
+Pusleri nr. 15. Jostein Lillestøl
+
+Løsning av pusleri nr. 14. Jostein Lillestøl
+Bokanmeldelser
+
+Lande, Engen and Sæther: Stochastic population dynamics inEE and
+conservation. Nigel Yoccoz..
+
+Løvås: Statistikk for universitet og fate: Pr PenFata te
+
+esevee
+
+Konferranser, meldinger og annet
+Nytt fra Avd. C, UiO
+
+Nytt fra IMBA, Seksjon for medisinsk statistikk, UiO
+Nytt fra UiB
+
+Statistical Analysis of Complex Event History Data, CAS 2005/2006
+
+Abel-symposiene
+
+Workshop: Design of Experiments — Benefits to Industry, Matforsk, 2005.....
+På skrivebordet
+
+Medlemskap i Norsk Statistisk Forening
+
+
+
+Redaksjon:
+
+Jostein Paulsen (redaktør)
+Matematisk institutt, Johannes Brunsgate 12, 5008 Bergen.
+Tlf: 55 58 28 86, e-post: jostein(Qmi.uib.no
+
+Hans Julius Skaug (redaktør)
+Havforskningsinstituttet, Postboks 1870 Nordnes, 5817 Bergen
+Tlf: 55 23 86 04, e-post: skaug@imr.no
+
+Trykking og utsending av TG blir utført av
+Statistisk Sentralbyrå.
+Bidrag til Tilfeldig Gang:
+Alle slags bidrag til bladet er velkomne, enten det gjelder nye tema av interesse for
+
+norske statistikerer eller om en har kommentarer til innlegg som alt står i bladet. Stoff til
+neste nummer må være redaksjonen i hende innen 01.06.2004.
+Det er ønskelig at bidrag til TG sendes som e-post til en av redaktørene. Alle elektroniske
+format aksepteres.
+Nettversjon av TG, er å finne på følgende internettadresse:
+www.math.uio.no/nsf/web/index.htm . De som leverer bidrag til TG og som ønsker å
+reservere seg mot at bidraget blir lagt ut på nettet, må gi beskjed om dette ved innsending
+av stoff.
+
+
+
+Fra redaktørene
+
+Fra og med 2004 er Jostein Paulsen og Hans Julius Skaug i fellesskap blitt nye redaktører i TG. Paulsen er
+
+professor i statistikk ved Universitetet i Bergen, og Skaug er seniorforsker ved Havforskningsinstituttet i
+Bergen.
+
+TG er etter hvert blitt ganske omfattende med både faste- og enkeltbidrag, og utvirker til å orientere norske
+
+statistikere om aktualiteter både ute og hjemme, mest hjemme kanskje. I den anledning kunne det vært
+interessant å gi løpende informasjon om nye medlemmer i foreningen, og gjerne også om medlemmer som
+går bort. I tillegg er vi sikre på at det ville være av interesse for leserne å bli holdt orientert om skifte av
+stillinger blant medlemmene. Medlemsbladet til Den Norske Aktuarforening, Aktuarielt, har en egen spalte
+for dette. Til nå har TG begrenset seg til å informere om nyutdannede kandidater, men hva dere etablerte
+statistikere foretar dere er minst like interessant. For å få til noe slikt trenger vi hjelp, så hvis dere skifter
+
+jobb eller blir nyansatt ville det vært fint om dere selv eller noen andre kan informere oss om dette.
+Vi har stått i mot fristelsen til å la denne utgaven av TG bli et stort og prangende premierenummer, det er
+faktisk veldig likt tidligere numre. Jostein Lillestøl har forsynt oss med nye puslerier, og vi er ham veldig
+
+takknemlige for det, de er jo blitt en del av TG nå. Det er alltid fristende å forsøke seg på nøttene hans, og de
+fleste vil vel være enige i at de ikke alltid er like lette. Vi trykker også forordet til et spesialnummer av
+Norsk Epidemiologi (nr 2., 2003) om ”Statistiske metoder i epidemiologi”, der mange fra det norske
+
+statistikermiljøet har bidratt. Vi kan presentere to bokanmeldelser. Henrik Dahl bidrar med en relativt
+krass anmeldelse av en ikke ukjent bok i elementær statistikk. Den nye redaksjonen er tilhengere av en
+liberal linje og lar den gå uavkortet og usensurert.
+
+Bokens forfatter og eventuelt andre vil selvsagt få
+
+anledning til å svare, og det er lovlig å teste hvor langt vår liberalisme strekker seg. I det hele tatt kunne det
+
+vært hyggelig å få dradd i gang noen skikkelige diskusjoner i TG.
+I dag er det vel ikke så mange stridsemner i norsk statistikk, hele miljøet synes å helle mer mot det anvendte
+og pragmatiske, og nye EDB baserte metoder har som kjent
+
+gjort det mulig å benytte langt mer omfattende
+
+og realistiske modeller enn tidligere. Men det er med en viss vemod vi konstaterer at hanekampen mellom
+Bayesianere og Frekventister er mer eller mindre avsluttet.
+
+Vi skal ikke utrope noen vinnere her, men
+
+formoder at framveksten av MCMC metoder har hatt en positiv virkning på Bayesianernes selvbilde (ikke at
+det var spesielt lavt før heller). Synet på statistikken i dag er gjennomgående pragmatisk og utilitaristisk,
+virker metoden så er den OK.
+Det
+
+er
+
+et
+
+(uunngåelig)
+
+statistikkopplæringen.
+
+faktum
+
+Skal
+
+at
+
+sannsynlighetsteorien blir
+
+skjøvet
+
+lengre
+
+og
+
+lengre
+
+tilbake
+
+i
+
+studentene lære om de nye og relevante statistiske metodene, må det
+
+nødvendigvis gå ut over noe. Det er svært populært i dag å si at studentene skal lære om nye ting, men det
+
+skal ikke gå utover basisutdanningen. Dette er selvfølgelig det reneste vås, det nye som læres i statistikken
+har nettopp gått utover basisutdanningen. Hvor mange nyutdannede statistikere i dag vet hva en betinget
+sannsynlighet m.h.p. en sigma-algebra er? Ikke at det er umulig å leve et lykkelig liv som statistiker om man
+
+ikke vet det, men det må definitivt kalles basisutdanning. Utviklingen i dag er at sannsynlighetsteori og
+statistikk glir mer og mer fra hverandre, og at sannsynlighetsteorien i stadig større grad overtas av
+renmatematikere.
+
+Hvor mange statistikere kan, eller har noen interesse av, å lese Annals of Probability?
+
+Ikke at alle kunne det før heller, men en forskjell er at før sa man med en viss beskjemmethet at man ikke
+
+forstod noe særlig av det, mens nå sier man det med stolthet! Men her er det en del fram og tilbake. Tenk på
+hvordan moderne overlevelsesteori, likelihoodteori og matematisk finansteori avhenger av martingale teori
+
+og stochastic calculus.
+
+Eller hvordan MCMC og tidsrekketeori har aktualisert teorien for tidsdiskrete
+
+Markovkjeder med kontinuerlig tilstandsrom. Det er mange slike eksempler, så det er ingen grunn til å tro at
+statistikerne i framtiden kan ignorere videregående sannsynlighetsteori helt, heller ikke i Norge.
+
+Jostein Paulsen og Hans Julius Skaug
+
+
+
+Lederen har ordet
+På NSF-møtet i Hurdal 2003 nevnte jeg at jeg ønsket å få *etterutdanningsseminar” i regi
+
+av NSF til en årlig hendelse. Hva vi nå mener med "etterutdanning” bør vel også opp til
+diskusjon. Styret har i den senere tid arbeidet med dette og med NSFs seminar for 2004.
+
+Temaet ble valgt til *Grunnkurs i statistikk” der vi ønsket å få belyst og diskutert hva
+skal vi undervise og hvordan. Et klipp fra The American Statistician, 55, p. 140-144,
+i artikkelen Sequencing Topics in Introductory Statistics:
+
+A Debate on What to Teach
+
+When av Beth L. Chance og Allan J. Rossman, kan belyse noe av dette:
+The past decade has seen the emergence of a reform movement in statistics
+
+education that has advocated teaching statistical thinking by engaging students in the active exploration of genuine data with the help of technology.
+
+Grunnet et møte i The International Association for Statistical Education (IASE) i Lund
+i slutten av juni 2004 og Tenth International Congress on Mathematical Education i
+
+Køpenhavn like etterpå, hadde vi (etter tips fra Henrik Dahl) klart å få tak i 3 topp
+personer i dette tema, for å dele sin kunnskap og diskutere våre “problemer” med oss
+over to halve dager. En sondering ved de større lærestedene viste derimot at styrets
+
+entuiasme anngående temaet ikke var representativt***, slik at vi ikke så noen annen
+
+mulighet enn å avlyse seminaret. Om noe annet initiativ blir tatt i år er pr. i dag uklart.
+Det er heldigvis gledelige nyheter også. Odd Aalen og Ørnulf Borgan vil lede projectet
+Statistical Analysis of Complex Event History Data i 2005/06 ved Senter for høyere
+
+studier". Dette er en stor begivenhet som vil gi store ringvirkninger i fagmiljøet, gratulerer! Ellers er det på sin plass å gratulerer N. L. Hjorts (og Gerda Claaeskens) doble
+diskusjonsartikkel om “modellmidling og modellvalg” i siste nummer av JASA. Artik-
+
+lene og diskusjonsbidragene oppsumerer diskusjonen på AMSTAT-03 der Hjorts bidrag
+ble presentert og diskutert. En av diskutantene sier som følger,
+Hjort and Claeskens have made a truly masterful contribution to mathematical statistics. This article is simply packed with interesting and useful
+
+tools for sorting out the long-standing problem of...
+Lesing anbefales.
+
+Havard Rue
+
+‘http://www.cas.uio.no/Groups/coming.html
+
+
+
+217
+
+Norsk Epidemiologi 2003; 13 (2): 217-218
+
+Statistiske metoder 1 epidemiologi
+
+Hva er epidemiologi uten statistikk? Man kommer ik-
+
+sjoner med eksempler fra sammenhengen mellom mul-
+
+ke langt i epidemiologiske studier før behovet melder
+
+tippel sklerose og to miljøfaktorer, innendørs fore-
+
+seg for statistiske metoder, enten av beskrivende eller
+
+komst av radon og nedfall av atmosfærisk magnesium.
+
+analytisk art. Et enkelt eksempel er den klassiske 2 x 2
+
+I epidemiologiske studier følges ofte grupper av
+
+tabellen som kan settes opp når eksponerte (ja, nei)
+
+individer over tid, og ulike hendelser, slik som første
+
+følges opp i forhold til utviklet sykdom (ja, nei). Er de
+
+hjerteinfarkt, komplikasjoner og død, registreres. Den
+
+observerte antallene fordelt på en slik måte at det
+
+statistiske metodikken for analyse av individer som
+
+faktisk er flere syke blant de eksponerte eller kan det
+
+følges over tid der flere hendelser kan inntreffe for
+
+ekstra antallet syke tilskrives en ren tilfeldighet?
+
+hver person, kalles forløpsanalyse. Et spesialtilfelle er
+
+Moderne epidemiologi beskjeftiger seg med risiko-
+
+overlevelsesanalyse der fokus er på tiden frem til en
+
+faktorer for sykdom og død, og i studier av dette spil-
+
+bestemt hendelse for hver person. En av de mest kjente
+
+ler statistiske metoder en betydelig rolle. Utviklingen
+
+modellene er Cox-modellen. Odd O. Aalen og medar-
+
+av datamaskiner de siste tretti år har gjort det mulig å
+
+beidere gir en kort innføring, oversikt over den histo-
+
+analysere data uansett hvor store de er i form av perso-
+
+riske bakgrunn og utvikling av feltet i Norge. Noen
+
+ner og variable. Til dette benyttes vesentlig statistiske
+
+pågående prosjekter omtales. Ørnulf Borgan og Sven
+
+programpakker, egne epidemiologiske programpakker
+
+Ove Samuelsen har bidratt til utvikingen av ulike
+
+er knapt nok eksisterende. Statistikk har fått en stadig
+
+design for trekking av utvalg i Cox-modellen. I dette
+
+større rolle, og Douglas Altman opplyste nylig på den
+
+nummeret presenterer de en oversikt over ulike
+
+internasjonale biostatistikerkonferansen at andelen ar-
+
+utvalgsmetoder: ”nested case-control” og ”case-cohort
+
+tikler i New England Journal of Medicine hvor enten
+
+sampling”. Disse metodene er nyttige når det er for
+
+logistisk regresjon eller Cox-analyse ble benyttet, nå er
+
+kostbart å innhente informasjon om kovariable for alle
+
+hele 65 prosent.
+
+individer som deltar i studien.
+
+Et betydelig antall statistikere arbeider medå til-
+
+Grethe Albrektsen og Ivar Heuch beskriver et ko-
+
+passe og å videreutvikle statistiske metoder til anven-
+
+linearitetsproblem i studier av sammenhengen mellom
+
+delser innen medisinsk forskning og epidemiologi.
+
+kvinners reproduksjonshistorie og kreftrisiko. Proble-
+
+Dette er tilfelle også her til lands, og i dette tema-
+
+met er å skille effekten av alder ved fødsel fra effekten
+
+nummeret presenterer statistikere og epidemiologer
+
+av kvinnens oppnådde alder og tid siden barnefødsel.
+
+noe av aktiviteten.
+
+Løsningsforslaget deres er basert på estimering av
+
+Jan F. Bjørnstad presenterer Statistisk sentralbyrås
+
+alderseffekten på grunnlag av kvinner uten barn.
+
+generelle utvalgsplan som bygger på teori for stikk-
+
+Magne Thoresen ser på effekter av målefeil i ulike
+
+prøver. Planen brukes i ulike studier i SSB, men vil
+
+regresjonsmodeller aktuelle i epidemiologien. Han vi-
+
+også være nyttig på andre områder innen epidemiolo-
+
+ser at effektene av målefeil generelt er vanskelig forut-
+
+gisk overvåkning.
+
+sigbare og kommer inn på metoder for å korrigere for
+
+To artikler tar for seg nye metoder innen deskriptiv
+
+målefeil.
+
+epidemiologi. Romlig epidemiologi tar hensyn til
+
+Plenumsforedragene ved den siste norske epide-
+
+hvordan sykdommer og ytre miljøfaktorer varierer
+
+miologikonferansen viser at moderne epidemiologi har
+
+med sted (rom) og tid. Faget er også rettet mot å finne
+
+et mer helhetlig perspektiv enn tidligere. Man ønsker
+
+og definere klynger eller opphopninger. Geir Aamodt
+
+svar på spørsmål av typen: hva betyr individuelle
+
+presenterer noen statistiske modeller innen feltet. Me-
+
+risikofaktorer, miljøfaktorer og gener sammen for
+
+todene omfatter visualisering ved tematiske kart, sta-
+
+utvikling og forekomst av sykdom og død? Epidemio-
+
+tistiske tester for å vurdere økt forekomst i avgrensede
+
+logien befatter seg videre med hele livsløpet fra unn-
+
+områder eller om det er romlige trender i sykdoms-
+
+fangelse til grav. Dette betyr at det vil være nødvendig
+
+forekomst. Resultater fra slike analyser brukes både av
+
+å trekke inn informasjon på flere nivåer i en analyse.
+
+epidemiologer og politikere. I geomedisin studeres
+
+De statistiske analysene må videre ta hensyn til at
+
+hvordan naturlige ytre miljøfaktorer påvirker helse.
+
+observasjoner innen de ulike nivåene er korrelerte.
+
+Korrelasjonsanalyser blir ofte brukt for å kaste lys
+
+Anders Skrondal og Sophia Rabe-Hesketh presenterer
+
+over mulige årsaker til sykdommer med uforklart etio-
+
+de nye metodene i et generelt rammeverk, ”generalized
+
+logi. For studier som omfatter store geografiske områ-
+
+linear
+
+der, kan slike korrelasjoner variere fra sted til sted.
+
+Eksempler på anvendelse innen epidemiologi omfatter
+
+Bjørn Bølviken beskriver geografisk løpende korrela-
+
+bl.a. repeterte målinger, modeller for målefeil og fler-
+
+5
+
+latent
+
+and
+
+mixed
+
+models”
+
+(GLLAMM).
+
+
+
+218
+
+R. SELMER OG T. BRENN
+
+nivåanalyser. GLLAMM har imidlertid et stort poten-
+
+Trygdemedisin og samfunnsmedisin har nære til-
+
+sial ut over dette innen epidemiologien. Alle modelle-
+
+knytningspunkter til epidemiologi. Harald Reiso og
+
+ne kan implementeres i programmet gllamm som er
+
+medarbeidere foreslår en ny metode for å estimere når
+
+skrevet i STATA. Artikkelen vil være en viktig refe-
+
+i forløpet av en sykmeldingsperiode en pasients selv-
+
+ranseartikkel for metodisk orienterte forskere innen
+
+rapporterte arbeidsevne er mest prediktiv for varig-
+
+epidemiologi.
+
+heten av gjenværende sykmeldingsperiode.
+
+Det er utviklet mange spørreskjemaer og instru-
+
+Er det interessant informasjon gjemt i ”støy”? En
+
+menter for måling av mentale lidelser i befolkningen.
+
+ny ide i epidemiologi er å benytte fraktalanalyser av
+
+Anne Johanne Søgaard og medarbeidere sammenligner
+
+tidsserier. Dette er tema hos Jan F. Nygård og Eystein
+
+et sett av spørsmål brukt i de store befolkningsunder-
+
+Glattre.
+
+søkelsene innen CONOR (COhort NORway), med
+
+Ulike epidemiologiske studier gir oss ikke bare
+
+tidligere validerte instrumenter (HSCL-10 og HADS).
+
+større innsikt i sykdommers utbredelse og årsaker,
+
+De konkluderer med at den nye indeksen, CONOR
+
+men danner også grunnlag for de beslutninger som tas
+
+Mental Health Index, viser god overensstemmelse med
+
+av f.eks. helsepolitikere. Oppgaven til Senter for medi-
+
+de validerte instrumentene og at indeksen er et viktig
+
+sinsk metodevurdering (SMM) ved Sintef Unimed, er
+
+og valid verktøy i epidemiologisk forskning. Artikke-
+
+å bidra til et godt beslutningsgrunnlag ved å foreta
+
+len er videre et interessant eksempel på metoder for
+
+vurderinger basert på systematisk litteraturgjennom-
+
+sammenligning av ulike spørreskjemainstrumenter.
+
+gang. Lise Lund Håheim og Berit Mørland beskriver
+
+Økt risiko for sykdom innen visse familier er et
+
+den systematiske metoden. Metoden har gjerne vært
+
+viktig tema innen årsaksforskning. Når det gjelder
+
+anvendt på nye medisinske metoder eller tiltak, men er
+
+familieoverført risiko for hjerte-karsykdom, påpeker
+
+nyttig på flere felt, f.eks. ved innføring av ”Grønn
+
+Tormod Brenn at sofistikerte scores for familiehistorie
+
+resept” eller ved vurdering av effekt av ulike risiko-
+
+ikke har vist seg mer prediktive i befolkningsstudier
+
+faktorer på sykelighet og dødelighet, slik som passiv
+
+enn det enkle spørsmålet ”Har en eller flere av foreldre
+
+røyking (red. anm.).
+
+eller søsken hatt hjerteinfarkt eller angina pectoris?”
+
+I dette nummeret er det gitt noen eksempler på sta-
+
+Det enkle spørsmålet fremstår også som en uavhengig
+
+tistiske metoder innen epidemiologi. Området er stort
+
+risikofaktor når man har justert for kardiovaskulære
+
+og mange viktige temaer er ikke berørt. Statistikere har
+
+risikofaktorer. Brenn presenterer andre metoder for å
+
+bidratt og bidrar fortsatt vesentlig til utviklingen av
+
+studere familieoverført sykdom når man har informa-
+
+epidemiologisk forskning. Vi trenger både teoretisk
+
+sjon fra flere typer slektninger, fra familiemedlemmer
+
+orienterte statistikere og statistikere som arbeider med
+
+som bor sammen og adskilt og informasjon om felles
+
+konkrete anvendelser i epidemiologi. Ny programvare
+
+miljø. Fra varianskomponentmodeller og stianalyser
+
+har bidratt til at avanserte analyser er lettere å gjen-
+
+oppnås estimater for betydningen av arv og miljø.
+
+nomføre i dag enn enklere analyser var for ti år siden.
+
+For å finne årsaker til sykdom og utvikle behand-
+
+Men det er en utfordring å forstå hvilke analyser man
+
+lingsmetoder, er man på jakt etter gener og hvordan
+
+gjør, hvilke forutsetninger og modeller som ligger til
+
+disse uttrykker seg. Marit Holden og Anders Løland
+
+grunn, hvilke skjevheter som kan oppstå og tolke
+
+gir en introduksjon til analyse av cDNA mikromatrise-
+
+resultatene. Vi trenger derfor fortsatt å rekruttere godt
+
+data. Ved slike analyser kan man studere rollen til
+
+utdannede statistikere og andre med god kompetanse i
+
+tusenvis av gener samtidig og f.eks. få svar på hvilke
+
+statistisk metodikk til epidemiologisk forskning.
+
+gener eller grupper av gener som er aktive i ulike typer
+
+Til slutt vil vi takke forfatterne for mange flotte
+
+frisk og sykt vev. Det ligger store statistiske utford-
+
+bidrag. Vår takk går også til referee-ene for meget
+
+ringer i å trekke ut informasjon fra de enorme mengder
+
+grundige tilbakemeldinger. Uten deres positive innstil-
+
+data som kommer fra mikromatriser. Dette er bare et
+
+ling og gode kommentarer ville det neppe vært mulig å
+
+eksempel på de mange utfordringene man står overfor
+
+utgi dette temanummeret. Endelig vil vi takke for ut-
+
+innen feltet bioinformatikk og genetisk statistikk.
+
+merket samarbeid med redaktør Trond Peder Flaten.
+
+Gjesteredaktører
+
+Randi Selmer
+
+Tormod Brenn
+
+Divisjon for epidemiologi
+
+Institutt for samfunnsmedisin
+
+Nasjonalt folkehelseinstitutt
+
+Universitetet i Tromsø
+
+randi.selmer@fhi.no
+
+tormod.brenn(Qism.uit.no
+
+
+
+215
+
+Norsk
+Epidemiologi
+Tidsskrift for
+Norsk forening for
+epidemiologi
+Desember 2003, årgang 13,
+nummer 2
+
+INNHOLD
+Redaktørens spalte ......-».-onnnnrnnvrnnornonnnnenernrnnnnnnevernnernnennennennenee 216
+
+Tema: Statistiske metoder i epidemiologi
+Randi Selmer og Tormod Brenn: Forord ...........0c0cceccecceceeeceececeeeees 217
+Jan F. Bjørnstad: Statistisk sentralbyrås generelle utvalgsplan ............. 219
+Geir Aamodt: Noen statistiske modeller innen romlig epidemiologi ....... 223
+
+Bjorn Bølviken: A method for spatially moving correlation analysis ......
+Redaktør:
+Trond Peder Flaten
+Institutt for kjemi,
+Norges teknisk-naturvitenskapelige
+universitet, 7491 Trondheim
+Telefon:
+Telefax:
+
+73 59 18 06
+73 55 08 77
+
+e-post: trond.flaten@chem.ntnu.no
+
+Abonnement: Tidsskriftet sendes
+medlemmer av Norsk forening for
+epidemiologi (NOFE) og abonnerende bibliotek, se side 316.
+Internettadresse for NOFE:
+
+229
+
+Odd O. Aalen, Tron Anders Moger, Ellen J. Amundsen, Solve Seba
+og Harald Weedon-Fekjer: Overlevelses- og forløpsanalyse:
+Det tematiske området Norevent ...............cccececcececeeceeceeseseeeceeeeees 233
+ØrnulfBorgan and Sven Ove Samuelsen: A review of cohort sampling
+
+designs for Cox’s regression model: Potentials in epidemiology ...........
+
+239
+
+Grethe Albrektsen og Ivar Heuch: Statistikk innen kreftepidemiologisk
+forskning: En løsning på et kolinearitetsproblem ved analyse av
+graviditeters betydning......»-»»ronrnnrrnornrnrnrnerenernenernernernnrnernsnenner 249
+Magne Thoresen: Målefeil i regresjonsanalyse ................cceeeeeeeeeeeeee 257
+Anders Skrondal and Sophia Rabe-Hesketh: Some applications of
+generalized linear latent and mixed models in epidemiology:
+
+http://www.medisin.ntnu.no/ism/nofe/
+
+Repeated measures, measurement error and multilevel modeling .......... 265
+
+e-post: nofe@medisin.ntnu.no
+
+Anne Johanne Søgaard, Ingvar Bjelland, Grethe S. Tell and Espen
+Røysamb: A comparison of the CONOR Mental Health Index to the HSCL-
+
+Enkeltnummer kan bestilles
+hos redaktøren.
+Adresseendringer sendes forenin-
+
+10 and HADS: Measuring mental health status in The Oslo
+
+Health Study and the Nord-Trøndelag Health Study .......---rorornernernerr 279
+Tormod Brenn: Familieoverført risiko for hjerte- og karsykdom —
+
+gen (side 316), ikke redaktøren.
+
+noen metodebetraktninger ................ccccecececeececececeececceeceecececoees 285
+
+Faglige bidrag og all øvrig korre-
+
+Marit Holden og Anders Løland: Introduksjon til analyse av CDNA
+mikromåtrisédåta ssvcsvawssws seas caveessaeseeessesenewncssewsasecesveevenmenaneenese 291
+
+spondanse sendes redaktøren.
+Doktorgrader med epidemio-
+
+logisk tilsnitt kan publiseres
+som supplement.
+
+Harald Reiso, Jan F. Nygard, Pål Gulbrandsen, Sören Brage and
+Gunnar Tellnes: To ask the right question at the right time: When is
+the patient’s self-assessed work ability most accurate as a predictor
+of the remaining duration of certified sickness absence? ..............0..008 297
+
+ISSN 0803-2491
+
+Opplag: 470
+Trykk: NTNU-trykk
+Design omslag: Elisabeth de Lunde
+Trykk omslag: Grytting as
+Layout og typografi: Redaktøren
+Indekseres i databasen SweMed+
+(http://micr.kib.ki.se/), katalogise-
+
+Jan F. Nygard and Eystein Glattre: Fractal analysis of time series in
+
+epidemiology: Is there information hidden in the noise? ..................08 303
+Lise Lund Haheim og Berit Morland: Medisinsk metodevurdering —
+en systematisk tilnærming for vurdering av den vitenskapelige
+dokumentasjonen av medisinske metoder ......-»orererorononarnrrnnnnenennnen 309
+
+res nummervis i Bibsys.
+
+Utgis vanligvis med to regulære
+nummer pr. år. I tillegg kommer
+supplement med sammendrag fra
+Norsk forening for epidemiologis
+årlige konferanse, og doktorgrader.
+
+Forfatterveiledning......-.-»-»orrnornnnnrrnvnnnrnarnarnrnnennernnernnnennenneensen 315
+Hvordan bli medlem eller abonnent? ....................cccececceceeeeneeeeeeees 316
+Neste nummer.....nesmesenenseesemeeneåsiå
+858588 26 5 SITS SSIS FETTNNNENNT ERE RON ERS 316
+
+Liste over tidligere utgitte nummer........-»rorenerererernrnererrnrnnrnvnrnnnenr 317
+Glimt fra den ellevte norske epidemiologikonferansen.........-+»sonvorrnvrn 318
+
+Zz
+
+
+
+Pusleri nr. 15
+En trepinne med lengde 1 meter skal deles i tre med to øksehugg. Anta
+uavhengige hugg, som hver treffer iht. en uniform fordeling over intervallet
+[0,1]. Hva er sannsynligheten for at
+
+a) ingen bit har lengde over 0.5m?
+b) den midterste biten er størst?
+
+Kommentar: Mer realistiske varianter av pinnedeling fins, noe vi evt. kommer
+tilbake til i et senere pusleri.
+
+Jostein.IlillestolØnhh.no
+
+
+
+Pusleri nr. 14 (løsning)
+Oppgaven var:
+
+En Canadagås og n brunsniler er plassert rundt en sirkel, i figuren illustrert med n=6 og gåsen i
+
+posisjon 0 og en snile i hver av posisjonene 1 til n. Gåsen gjør en ”random walk” langs sirkelen,
+hvert steg til en av de to nærmeste (snile)posisjonene og spiser snilen som er der, hvis der
+fremdeles er noen. Hva er sannsynligheten for å bli lengst levende snile i hver av posisjonene?
+Hva er forventet levetid for hver av snilene?
+
+Løsning: La px være sannsynligheten for at snilen i posisjon nr.k blir spist sist. Etter første skritt
+er en i en identisk situasjon der ”vår” snile i posisjon nr.k har enten posisjon nr. k-1 eller k+1 i
+forhold til den situasjon som nå foreligger. Ved å betinge mhp første skritt har vi derfor
+differensligningen
+
+P= Vapk-1 +% peti for k=2,...,n-1
+
+med tilleggskravene px= Pn+1k for k=1,2,...,n (pga. symmetri) og sum lik 1. Den karakteristiske
+
+ligning 1” -2r+1=0 har dobbeltroten r=1, som betyr at den generelle løsning av ligningen er
+Pr=At+B-k
+
+Tilleggskravet medfører at B=0, slik at px=A, og dermed p,=1/n. Det spiller altså ingen rolle
+hvor en plasserer seg for å maksimere sannsynligheten for å leve lengst.
+Lar vi Ex være forventet levetid for snilen i posisjon nr.k har vi
+Ex= 2(1+Ek-1)t%2 (1+Ep41)= 1+%Ek-1+%E+1
+
+for k=2,...,n-1
+
+Med Ep =0 gjelder denne også for k=1. Tilleggskrav: Ex= En+1x for k=1,2,...,n. Den generelle
+løsning er nå
+
+Ei= Ex +A+B-k
+
+der E, er en partikulær løsning av differensligningen. Ex =k(n+1 -k) er en slik. De to
+randkravene medfører imidlertid at A=B=0, slik at dette også er løsningen på vårt problem.
+
+Maksimering av denne gir som ventet at forventet levetid er størst i posisjonen(e) lengst vekk fra
+gåsen.
+
+Jostein Lillestøl
+
+
+
+Ny bok:
+Tittel: Stochastic population dynamics in ecology and conservation
+Forfattere: Russell Lande, Steinar Engen, Bernt-Erik Sæther
+
+Forlag: Oxford University Press
+
+”Stochastic population dynamics in ecology and conservation” er en viktig bok. De tre
+forfattere — en teoretisk biolog, Russ Lande, en statistiker, Steinar Engen, og en
+populasjonsbiolog, Bernt-Erik Sæther (heretter LES) — har de siste 10 årene forsket sammen
+
+på nye måter å studere populasjons og samfunnsdynamikk. LES’s arbeider er blitt publisert i
+mange artikler, og denne boken oppsummerer og samler opp disse på en veldig fin måte.
+Boka har 8 kapitler som dekker nesten alt fra enkle stokastiske populasjonsmodeller til
+samfunnsdynamikk. LES viser hvordan man kan studere konsekvenser av alderstruktur (som
+sammen med miljøstokastisitet kan generere komplekse mønstre av temporal
+
+autokorrelasjon), romlig struktur (effekt av både spredning og romlig-korrelert støy),
+Population Viability Analysis (hvordan man kan estimere konfidensintervaller for fremtidig
+populasjonstørrelse), høsting (LES forsvarer en terskelbasert høstingsstrategi), arts-diversitet
+og samfunnsdynamikk (stokastiske modeller for flere arter). Hvert kapittel gir teoretiske
+konsepter, statistiske problemer og eksampler med reelle data.
+
+Boka er relativt kort (212 sider) og derfor er de fleste emner ikke dekket i noen særlig dybde.
+Dette er både en styrke og en svakhet: man går seg ikke vill i detaljene men ofte mangler
+nødvendig kunnskap for å gå videre. Det er klart at de fleste kapitlene i seg selv er emner for
+egen bok. LES prøver ikke å oppsummere all litteratur på feltet, men fokuserer på hva de selv
+har gjort, og det er nokså mye. Det
+
+gjelder spesielt diskusjonen av høstingsstrategier — det er
+
+lite diskusjon av andre modeller som har vært foreslått, spesielt innen fiskeri — i mindre grad
+
+når de skriver om livshistorietrekk i et stokastisk miljø hvor hovedresultatene er godt
+beskrevet.
+Det er vanskelig å vite hvilken hensikt forfattere hadde med denne boka: som en bok man kan
+bruke i et avansert kurs om populasjonsdynamikk eller som en bok for forskere. Med andre
+
+ord, hvem kommer til å lese boka? Selv om det står noe annet i innlendingen, må leseren vite
+ganske mye om statistikk og stokastiske modeller (hvis man er biolog), eller man bør kjenne
+
+til måter økologer og evolusjonsbiologer arbeider på (hvis man er statistiker). En del
+fremstillinger kommer uten særlig begrunnelse, og kan være tvilsomme (for eksempel at det
+
+er ikke noe målefeil i de tidsseriene som er brukt). Jeg tror de fleste biologer kommer til å ha
+vanskeligheter med de biologiske antagelsene som ligger under modellene og med hvordan
+man kan bruke disse metodene (det finnes ingen numeriske prosedyrer i boka).
+For statistikere, er boka et flott eksempel på de mange interessante problemstillingene som
+
+kommer fra økologi og evolusjonsbiologi. Forfattere bruker teori om diffusjonsprosesser for å
+analysere stokastiske populasjons og samfunnsdynamiske modeller. Dette har vært lite brukt i
+økologi opp til nå, og er klart lovende. Hva mangler på en måte — og som kan være
+problemstillinger — er for eksempel metoder for å se på ”goodness of fit”, eller hvordan man
+kan integrere usikkerhet om demografiske parametere (de fleste økologer jobber med dette
+
+fordi mekanismene er på dette nivået, ikke på ”tetthetsnivå”).
+
+LO
+
+
+
+En annen bok ble publisert nylig med en relativt lik tittel (Turchin 2003). Turchin fokuserer
+
+på trofiske interaksjoner (dvs. predator-byttedyr eller parasitt-vert), et emne som LES ikke
+refererer til i det hele tatt, selv om det er en viktig komponent av økologiske systemer. Men
+Turchin sørger ikke for en streng ramme som man kan bruke til å analysere
+
+populasjonsdynamikk — problemer som målefeil, tilstrekkelig modellering av stokastisitet og
+analytiske innsikter er ikke tatt hensyn til. Det er klart mulig å utvikle LES slik at trofiske
+interaksjoner studeres, mens jeg tviler på at veien Turchin tar kan resultere i interessante
+utviklinger. Denne boka viser hvor viktig det er å ha sterke interaksjoner mellom biologer,
+statistikere og teoretikere.
+
+Jeg håper denne boka vil være en inspirasjonskilde for mange studenter og forskere, og vil
+vise at økologi og bevaringsbiologi kan studeres på en streng og kvantitativ måte. Vi trenger
+
+(Bialek and Botstein 2004) flere biologer som behersker disse metodene sammen statistikere
+som har lyst å samarbeide med biologer — dette er helt nødvendig om man vil lykkes i
+
+forvaltningen av våre resurser. Boka, sammen med en del andre bøker som nylig er publisert,
+kommer til å bidra til dette.
+Bialek, W., and D. Botstein. 2004. Introductory science and mathematics education for 21stcentury biologists. Science 303:788-790.
+Turchin, P. 2003. Complex population dynamics. Princeton University Press, Princeton.
+
+Anmeldt av:
+Nigel G. Yoccoz
+
+Institutt for biologi, Universitetet i Tromsø.
+
+LÅ
+
+
+
+Bokmelding.
+
+GUNNAR G. LØVÅS: Statistikk for universitet og høgskoler,
+Universitetsforlaget 1999 eller senere.
+Boka er omtalt av professor Tore Schweder i TG nr.2 1999. Der fikk boka stort
+sett en positiv omtale selv om det var kritiske merknader til oppgavene og
+eksemplene. Det ble også antydet at det fantes trykkfeil og dumheter, men bare
+en slik feil ble eksplisitt nevnt.
+
+Nå er boka kommet i minst 5 opplag uten særlig mye endringer. Dette er
+
+selvsagt en fordel fordi ulike utgaver kan brukes om hverandre, men det tyder på
+en nokså passiv holdning fra lærebokforfatter og forlag. Det tyder også på at
+svært få har levert innspill til forfatteren slik han oppfordrer til i forordet.
+Kanskje forfatterens ønske om bare korte meldinger er årsaken til dette. Vi har
+brukt boka ved Høgskolen I Agder siden 2001 og har hele tiden måttet slåss med
+en del misforståelser som studentene tydeligvis mente de hadde støtte for i boka.
+På s.10 er Figur 1.2 om arkeologi svært misvisende, om den er ment å vise et
+statistisk utvalg. Hvis meningsmålinger skulle legges opp som vist her, kunne en
+i stedet for å trekke et skikkelig tilfeldig utvalg, bare ta noen personer i
+
+nabolaget. Den typen utvalg som er vist i figur 1.2 kalles på fagspråket
+”bekvemmelighetsutvalg”. Mange feil kunne vært unngått om man
+hadde unngått slike utvalg.
+På s.11 og mange steder senere i boka bruker Løvås uttrykk som
+
+”tilfeldig enhet” og ”tilfeldig tidspunkt”. Det er viktig å forstå at det
+ikke er slik at visse medlemmer av populasjonen er tilfeldige og andre ikke.
+På 1800-tallet lanserte den belgiske statistikeren Quetelet ideen om
+
+”gjennomsnittsmennesket”, som var gjennomsnittlig høy, tung, gammel osv.
+Denne ideen er forlengst forlatt av seriøse statistikere. Quetelet ville fått
+problemer med hva som var et passende kjønn til ”gjennomsnitts- mennesket”.
+Er vedkommende kanskje
+
+transvestitt? På slutten av 1800-tallet var man inne på
+
+at det var mulig å lage utvalg som på en gyldig måte representerte hele
+populasjonen. Nordmannen Anders Kjær, som ledet Statistisk Sentralbyrå på
+
+denne tiden, var en ledende ekspert på å sette sammen slike utvalg. Disse
+utvalgene var ”håndplukket” av Kjær og hans medarbeidere og det var lite
+tilfeldighet involvert i denne prosessen. Etter hvert kom denne teknikken i
+miskreditt, særlig etter at folk med mindre innsikt enn Kjær tok metoden i bruk.
+Riktig galt gikk det i Italia i 1927 da man forsøkte seg på valgprognoser ved å
+
+undersøke steder som ved forrige valg stemte som landsgjennomsnittet. I 1934
+holdt Jerzy Neyman et foredrag der han foreslo å trekke utvalg ved hjelp av
+tilfeldighet. Noen av ideene til Neyman ble fulgt opp av Gallup&Roper da de til
+presidentvalget i USA i 1936 spådde riktig presidentkandidat, F.D.Roosevelt,
+mens en betydelig større og mer kostbar undersøkelse bommet. Denne og andre
+
+12
+
+
+
+etterfølgende undersøkelser som brukte tilfeldige utvalg har senere gitt tilfeldige
+utvalg den status de har i dag. Ikke sjelden mener egentlig Løvås med uttrykket
+”tilfeldig” å antyde at visse modellforutsetninger er oppfylt. Det må være en
+bedre praksis å presisere disse modellforutsetningene. Når vi skal lære opp folk i
+statistikk-faget, må vi selv være nøye med å bruke fagspråket med omhu.
+Personlig unngår jeg å karakterisere noen som tilfeldig (Hva ville min kone si
+om jeg sa jeg hadde hatt kontakt med en ”tilfeldig kvinne”?). Brukt korrekt skal
+
+det hete ”tilfeldig valgt” og det må være klart fra hvilken populasjon trekningen
+er gjort.
+
+Det er ikke bare data som er skjødesløst presentert. Ulike input i sannsynlighetsregning kastes inn uten videre. Eksempel 50 på s.74 om risiko ved frakt av
+hydrogengass gir inntrykk av å være reelt, men det tviler jeg sterkt på. Uansett
+ville en referanse vært på sin plass. Eksempel 54 på s.76 om doping er sikkert i
+samme kategori.
+Det eneste noenlunde fullstendige datasettet blant oppgavene til Kap 2 er
+Oppgave 10 om pizzadiametre. Jeg valgte å bruke dette datasettet høsten 2001.
+
+Etter hvert som kurset gikk fikk jeg mer og mer vansker med å forklare hvorfor
+en skulle gjøre statistikk på pizzadiametre. Det er jo ikke diameteren som
+bestemmer hvor mye pizza en får for pengene. Dessuten er vel få pizzaer så
+runde at diameteren er konstant. Når vi så litt nærmere på dette datasettet, ble
+det svært tydelig at datasettet var konstruert. Dermed forsvant all interesse fra
+studentenes side for å finne ut noe om disse ”pizzaene”.
+På prekonferansen til ISI 54 Berlin 2003 om fjernundervisning tok jeg opp
+problemet med konstruerte datasett i statistikk-undervisning. Det var allmen
+enighet om at dette var svært uheldig. Derimot var det mange som mente at
+
+simulerte datasett var velegnet, i sær fordi man da har en kjent datagenerator.
+Det beste er selvsagt genuine datasett helst med kildehenvisning. En kan si at
+
+hvert konstruert datasett i en læreboki statistikk er en misbrukt mulighet til å
+knytte statistikkfaget til virkeligheten.
+På s s.55 hevdes det at P(A) = 0 betyr at A = Ø. Dette ville i så fall gjøre
+kontinuerlig teori umulig. Min kollega Olav Nygaard gjorde Løvås oppmerksom
+på dette, men responsen var negativ og det er ikke rettet opp.
+På s.57 er utfallsrommet øverst på siden med 8 ulike værkarakteristikker fra
+Sol til Regn er verken fullstendig eller skillende og kan lett gi studentene det
+inntrykk at dette ikke er så farlig. Dette eksemplet er brukt som gjennomgangseksempel, så skadevirkningene er betydelige.
+På s.61 gir Figur 3.3 inntrykk av at konvergensen av relativ hyppighet skjer
+raskere enn den virkelig gjør. Faktisk trengs 20-30 tusen kast før vi har
+konvergens. Dette oppdaget alt Jaques Bernoulli, men det har gått hus forbi for
+mange lærebokfofattere.
+
+På s.62 er begrepet ”estimat” ikke forklart. Det er for øvrig ikke begrepet
+
+Vs
+
+
+
+”parameter” på side 13 heller. Regel 36 (Store tall lov) er presentert svært
+
+upresist. Så blir det nevnt at denne blir misforstått av mange. Det er ikke så rart
+når den presenteres så upresist. Den bygger på visse modellforutsetinger, som
+burde vært nevnt. Også beskrivelsen av Store talls lov på side 63 er mindre
+heldig.
+
+På s.83 er det begivenheter som er uavhengige ikke sannsynligheter.
+På s.84 bygger regnestykket øverst på side 84 om tipping på uavhengighet,
+som ikke er opplagt. Det er reist kritikk mot Eksempel 65 om et tyveri i Los
+Angeles, noe lærebokforfatteren ikke ser ut til å kjenne til. Se Steinar Engens
+artikkel i TG nr.1 1993.
+
+5.85: Hvordan kan en vite at det er uavhengighet i Eksempel 67 om
+feilfunksjon av komponenter i PC? Det samme gjelder Eksempel 68, som viser
+forfatterens dårlige smak både når det gjelder emnevalg og rimelighet av
+modellforutsetninger. Problemet som tas opp er Hi V-smitte når skandnaviske
+kvinner har ubeskyttet sex med den HiV-positive strandløven Alexos.
+
+Dette siste eksempelet viser noe som kalles ”Adhoceries”: Kast inn noen
+sannsynligheter og se hva som kommer ut. Hvor lenge tror dere strandløven
+
+måtte holde på for at vi kunne anslå sannsynligheten for å bli smittet med to
+desimalers nøyaktighet. (Svar: I alle fall mer enn 10000 ”forsøk”). Selv om en
+
+godtar Løvås” inngangsnøyaktighet, ser det grotesk ut med tre desimaler i
+sluttsvaret.
+
+På s.86 er Figur 3.18 om fargevalg på lekebiler ikke i full generalitet. Eksempel
+70 om valg av hester til travløp er bedre.
+På s.97 er Oppgave 18 om apekatter som skriver på maskin søkt. Det er
+
+forståelig at journalister liker dette bildet, men jeg synes statistikere skal holde
+seg for gode til slikt. Hvor har en det fra at apekatter velger taster tilfeldig?
+Dette illustrerer en gammel misforståelse, som en del matematikere (jeg håper
+ingen statistikere) fortsatt tror på, og som kalles ”Principle of insufficient
+reason”. Se artikkelen: Hvorfor er sannsynlighet så vanskelig?
+(Tangenten nr.1 2003). Hvor har en det fra at apekatter velger uavhengig? Jeg
+har nylig foreslått betegnelsen: ”Principle of insufficient dependence” på denne
+
+siste misforståelsen. I stedet for å pådytte studentene slike misforståelser synes
+
+jeg det er lærerens oppgave å bekjempe dem, for eksempel slik de fremstår i
+dagspressen.
+Prosess-aspektet er viet liten oppmerksomhet på bekostning av populasjons-
+
+aspeket. Derved kommer forståelsen for betydningen av at data må være
+uavhengige for mange anvendelser til å bli skadelidende.
+
+På s.110 er det en underlig omtale av St.Petersburg-paradokset, som gir inntrykk
+av at nytte-teori har vært ukjent inntil nylig. Faktisk diskuterte Daniel Bernoulli
+nytt-teori da han som en av de første tok opp dette (mens han bodde i
+St.Petersburg — derav navnet).
+
+På s.125 er illustrasjonen av samvariasjon med tidsrekker mindre heldig.
+
+14
+
+
+
+På s.134 er en fisketur brukt som en innledning til sannsynlighetsmodeller. Det
+er mulig en del av studentene er glad for mer friluftsliv i lærebøker, men akkurat
+her synes det malplassert.
+
+På s.135 er 4 potteplanter som står ved siden av hverandre brukt som eksempel
+
+på binomisk forsøk. En skal ikke ha mye kunnskapi biologi for å forstå at det
+her lett blir avhengighet. Det er vel et eksempel på ”principle of insufficient
+dependence”.
+
+På s.138 er nevnt grantrær som er plantet samlet. Også her er ”priciple of
+insufficient dependence” ute og går.
+
+På s.149 er omtalen av ”Badekarkurven” og Weibullfordelingen alt for knapp til
+at den kan tas på alvor.
+
+På s.151 er en mystisk utledning av normalfordelingen. Det hevdes
+
+normalfordelingen er alene om å ha vendepunkter i u+0. Dette er usant. Derimot
+har normalfordelingen mange andre interessante egenskaper, som heller burde
+vært trukket fram.
+
+På s.156 hevdes det: ”Når datamengden øker, blir formen på histogrammet mer
+og mer lik normalkurven”. Mange studenter tror at dette gjelder generelt. Det
+Løvås forhåpentlig mener er at for små datasett kan histogrammet se ”unormalt”
+ut, selv om data kommer fra en normalfordeling. I så fall vil dette bedres med
+mer data.
+
+På s.157 er fremstillingen av normalplott for enkel, noe studentene vil oppdage
+hvis de plotter små datasett. I et plutselig anfall av dårlig samvittiget for at
+prosess-aspeket ikke er presentert ordentlig tidligere kommer:
+”Hver gang vi skriver ”populasjon”, kan vi godt tenke oss en prosess eller
+måleserie dersom det er mer dekkende for den situasjonen vi studerer. Et
+tilfeldig utvalg fra en populasjon svarer da til ”observasjoner av prosessen på
+uavhengige tidspunkt”, eller til ”gjentatte uavhengige målinger av samme
+fenomen”.
+
+På s.157 gir også Løvås seg i kast med Sentralgrenseteoremet. Det er greitt nok
+at det er vanskelig å gi en god elementær fremstilling av Sentralgrenseteoremet,
+men om det hjelper å trekke inn de 11 medlemmene av familien Hansen er vel
+heller tvilsomt.
+
+Da jeg første gangen leste gjennom boka, ble jeg sjarmert av Figur 6.1 på s.178.
+Jeg synes fortsatt denne figuren er meget god. Det samme gjelder Figur 6.4 på
+s.182 om de to typer feil. Figur 6.6 om estimering er hentet fra en av bøkene til
+David S. Moore, men jeg synes en bør nevne at vi bare behandler
+endimensjonale parametre, selv om figuren viser en todimensjonal situasjon.
+Opprinnelig likte jeg Figur 6.10 om intervallestimering, men det ser ikke ut til at
+denne figuren er til hjelp for studentene.
+
+På s.194 hevdes det at det er god grunn til å tro at gjentatte temperaturmålinger
+på et menneske er normalfordelt. Det er mulig det fins empirisk holdepunkt for
+
+IS
+
+
+
+dette, men jeg hari alle fall problemer med at Sentralgrenseteoremet kan brukes
+i denne situasjonen.
+Jeg tror neppe studentene har noe glede av likelihood-teori så tidlig.
+På tross av påstander om det motsatte, synes jeg mye av statistikken er
+
+oppsriftspreget.
+Jeg velger å nøye meg med en omtale av Del 1 av boka dvs tom t-testen.
+Jeg har selv brukt toutvalgs-teori fra Del 2 som ble opplevd som knapp av
+studentene og supplert med eget stoff.
+
+Totalt sett må en kunne karakterisere boka som hastverksarbeid, noe forfatteren
+faktisk antyder i forordet. Hvis nevnte forlagsredaktør hadde gjort jobben sin,
+kunne nok boka blitt bedre, men da ville den ikke kommet ut som planlagt. I
+utlandet utvikles lærebøker over en årrekke før de slippes ut på markedet, mens
+
+her i Norge er det greitt nok med et førsteutkast. Nå kan forfatteren dekke seg
+bak invitasjonen om innspill i forordet, men etter den kalde avvisningen min
+kollega Olav Nygaard fikk, fant jeg det ikke bryet verd å komme med noen
+
+innspill. Som en forstår, ville de ikke bli så korte som forfatteren ønsker.
+Henrik Dahl
+
+lo
+
+
+
+Nytt fra avdC, Uio (Avdeling for statistikk og forsikringsmatematikk)
+Nye stipendiater:
+
+Ida Scheel er ansatt som institut-stipendiat fra 1.januar 2004
+Ståle Nygaard er ansatt som prosjektstipendiat fra 1.mars 2004
+
+Statistical Research Report 2003:
+
+(http://www.math.uio.no/eprint/stat_report/2003/rept_2003.html)
+S.
+
+Johansen, A.R. Swensen: More on testing exact rational expectations in
+
+cointegrated vector autoregressive models: Resticted drift terms.
+
+J. Saltyte-Benth, K. Ducinskas: Linear discriminant analysis of multivariate spatialtemporal regressions.
+
+G. Claeskens and N. L. Hjort: Goodness of Fit via Nonparametric Likelihood
+Ratios.
+N. L. Hjort and G. Claeskens: Frequentist Model Average Estimators.
+
+G. Claeskens and N. L. Hjort: The Focussed Information Criterion.
+
+N. L. Hjort and G. Claeskens: Rejoinder to the Discusion of the two Hjort and
+Claeskens Articles.
+
+N. L. Hjort and A. Ongaro: On the Distribution of Random Dirichlet Jumps.
+N. L. Hjort and A. Ongaro: Characterisations of Random Dirichlet Means.
+N. L. Hjort: Topics in Nonparametric Bayesian Statistics.
+
+I. Helland: Extended Statistical Modelling under Symmetry; the Link towards
+Quantum Mechanics.
+
+N. L. Hjort and A. Ongaro: Bayesian Inference Using an Extension of the Dirichlet
+Process.
+
+J. Gasemyr, B. Natvig: Probabilistic Modelling of Monitoring and Maintenance of
+Multistate Monotone Systems with Dependent Components.
+
+J. Gasemyr: The spectrum, eigenvalues and eigenvectors of the kernel operator for
+the transition kernel of the independent Metropolis-Hastings algorithm.
+REVISED TITLE: The spectrum of the independent Metropolis-Hastings algorithm.
+I. Helland: Statistical inference under symmetry.
+H. Gjessing, O. Aalen and N. L. Hjort: Frailty models based on Lévy processes.
+
+Statistical Research Report 2004:
+
+(http://www.math.uio.no/eprint/stat_report/2004/rept_2004.html)
+F. E. Benth, J. Saltyte-Benth: Stochastic modelling of temperature variations with a
+view towards weather derivatives.
+A. B. Huseby, M. Naustdal, I. D. Varli: System reliability evaluation using
+conditional Monte Carlo methods.
+
+S. O. Samuelsen, T. F. Wisløff, A. Skrondal: A simple correction for ties when
+censoring times depend on covariates.
+
+9
+
+
+
+Nytt fra IMBA, Seksjon for medisinsk statistikk, UiO
+
+Dr. Philos. i 2003:
+
+Ellen Johanna Amundsen forsvarte 7. mars 2003 sin avhandling med tittel
+Aspects of HIV disease development in Denmark, Norway and Sweden.
+Veiledere: Hein Stigum og Odd O. Aalen.
+
+Nytt fra Matematisk institutt, UiB
+
+Ny Masteri statistikk - den første:
+
+Stig Nilsen: Simulation and Estimation of the Normal Inverse Gaussian Distrubution .
+Veileder: Trygve Nilsen
+
+18
+
+
+
+Professor Odd O. Aalen and Professor Ørnulf Borgan, University of Oslo
+
+Statistical Analysis of Complex Event History Data
+
+Survival and Event history analysis denote a set of statistical methods used to analyse
+and describe life times, durations and more complex event histories. It is the
+traditional tool for analysing incidence and prognosis of cancer and other chronic
+diseases, but is also of importance in fields like demography, social science,
+
+economics, and technical reliability. Although a large body of theory and methods
+exists, the methodology for analysing complex event histories, with many events and
+concomitant information (covariates) measured at the entry to the study and during
+the follow up, is still not well developed. One example would be a clinical study
+
+where success of a treatment cannot only be measured by survival, but also by how
+the course of the disease develops, e.g., with respect to periods of remission and
+
+quality of life. The purpose of the project at the Norwegian Centre for Advanced
+studies is to contribute to the development of statistical methodology for complex
+event history data. In particular we aim to
+
+e
+
+study connections with modern methods of causality
+
+e
+
+study methods that account in a realistic way for unobserved heterogeneity
+
+e
+
+study methods for proper inclusion of high dimensional gene expression data
+in the analysis of survival and event history data
+
+e
+
+develop alternatives to the commonly used Cox regression that are better
+suited to handle dynamic covariates and time-varying covariate effects
+
+e
+
+develop useful summary measures of complex event histories
+
+Se “Lederen har ordet” pa side 4 for bakgrunnen for denne meddelelsen.
+Red.
+
+
+
+Abel-symposiene
+Melding fra leder i Norsk Matematisk Forening, Kristian Seip
+
+(Uthevninger av red.)
+Abel-styret vedtok i desember 2003 å etablere et årlig Abel-symposium, som
+vil bli administrert av Norsk matematisk forening. Det første symposiet vil
+bli avholdt i 2004. Foreningen har opprettet en webside med invitasjon til
+norske matematikere om å søke å få organisere Abel-symposiet 2004:
+http://www.matematikkforeningen.no/abelsymposiene/
+Merk at søknadsfrist er satt til 25. februar 2004.
+Et Abel-symposium skal være et eksklusivt møte på høyt vitenskapelig nivå
+innen en utvalgt del av de matematiske fag. Det skal normalt vare 2-4 dager og
+ha 20-40 deltagere. Reise og opphold skal fullfinansieres foralle inviterte deltagere. Møtene kan omfatte ren og anvendt matematikk, statistikk, matematikkhistorie og matematikkdidaktikk. Møtene kan også være tverrfaglige og
+
+dermed reflektere samspillet mellom matematikk og andre vitenskapelige disipliner. De kan dessuten omhandle nye felter der det forventes at matematiske
+
+fag kan gi sentrale bidrag i utviklingen.
+
+20
+
+
+
+Workshop at Matforsk, Ås, Norway:
+Design of Experiments — Benefits to Industry
+Coorganised by Pro-ENBIS WP1 and
+IBION Industrial Biostatistics
+
+Network (Norway)
+
+To existing and new users of applied statistics in industry: The aim of this workshop is to let experienced
+and enthusiastic people inspire you to conduct more efficient experiments and overcome common
+challenges of statistics in practice. Day 1 is targeted at industrial practitioners, while day 2 is a research
+oriented seminar. Register for one of the days or both.
+
+Proposed Schedule of Events:
+Thursday May 13th
+
+Workshop - Benefits to Industry
+Industrial representatives are invited to share their experiences in DoE
+
+Dinner arrangement
+
+Friday May 14th
+
+Statistics Seminar: Recent Research Developments in DoE for process and
+product improvement.
+
+More information is posted on the Pro-Enbis website http://www.enbis.org/pro-enbis/
+The Pro-ENBIS project is supported by funding under the European Commission's Fifth
+Framework 'Growth' Programme via the Thematic Network "Pro-ENBIS" contract reference:
+G6RT-CT-2001-05059.
+
+Industrial Biostatistics Network (IBION)
+
+Efficient use of raw materials in industry
+The main objective is to develop and implement methodology for handling unwanted raw material
+variation in order to improve end product stability and to reduce waste. Main topics, statistical and
+
+chemometric methodology, are strongly related to spectroscopy, food science and cybernetics.
+The project is financed by the five industrial partners and by The Research Council of Norway (NFR).
+Total budget about 5 mill Euro. Period: July 1, 2001 - July 1, 2005.
+LLL
+
+ee
+
+eee
+
+SST
+
+=
+
+ET
+
+sara
+
+dA
+
+TE
+
+OT
+
+RRP
+
+TO
+
+aa
+
+ease
+
+ea
+
+secre
+ee
+
+aad
+
+
+
+På skrivebordet
+
+Inspirert av Dagens Neeringsliv’s spalte ”På nattbordet” finner vi i dette nummer av TG plass
+
+til en ny spalte ”På skrivebordet”. Hensikten er å gi et bilde av hva norske statistikere synes er
+viktig faglitteratur. Til forskjell fra Dagens Næringsliv som gjør telefonintervjuer, bruker TG
+epost, men håper ikke at dette skal minske graden av spontanitet. Første forespørsel gikk til
+
+seniorforsker Xeni Kristine Dimakos ved Norsk Regnesentral. Xeni tok utfordringen, og det
+gikk ikke lang tid før det lå et svar i min elektroniske postkasse.
+
+>
+
+Hei
+
+Xeni,
+
+hvordan
+
+står
+
+det
+
+til?
+
+Jo
+
+takk
+
+>
+
+Hvilken bok har du liggende på skrivebordet nå?
+
+Ofte
+
+,bra
+
+ingen,
+
+statistikk:
+Aalen,
+
+men
+
+i
+
+dag
+
+Innføring
+
+høyskoler. Jeg
+
+i
+
+>
+
+Scenario:
+
+>
+
+statistikkbok.
+
+når
+
+kunder,
+
+skal
+
+finnes
+
+jeg ville
+
+og da er disse
+
+endags
+
+for universiteter og
+
+kurs
+
+grunnleggende
+
+og kan bare ta med en eneste
+
+tatt med skjønnlitteratur. Jeg tror vel
+
+heller
+
+få så mye bruk for statistikk på en øde øy eller at det
+
+Jeg kunne valgt
+
+at
+
+en tjukk bok,
+
+jeg kunne glemme min triste
+f.eks.
+
+Andersen,
+
+fl., Statistical models based on counting processes,
+til
+
+i
+
+"biblene".
+
+sies ville jeg vel helst ha sluppet å ta med en
+
+en statistikkbok god nok til
+
+skjebne.
+
+i
+
+Hvilken?
+
+statistikkbok og heller
+
+ikke at
+
+Statistikk
+
+sette sammen et
+
+du strander på en øde øy,
+
+sant
+
+i grunnkursbøker
+
+Statistical consepts and methods,
+
+statistikk og Løvås,
+
+forsøker å
+
+statstikk for NRs
+
+Ehh,
+
+faktisk tre stykker, alle
+
+Bhattacharyya & Johnson,
+
+West & Harrison
+
+Borgan,
+
+Gill m.
+
+eller tidsrekke boka
+
+(Bayesian Forecasting and Dynamic Models).
+
+I neste nummer av TG håper vi å kunne gi stafettpinnen videre til en annen statistiker, så sørg
+
+for å ikke ha det altfor ryddig på pulten!
+Hans Skaug
+
+o om
+
+
+
+Medlemskap i Norsk Statistisk Forening
+
+Kontingenten er kr. 200 per år for regulære medlemmer og kr. 50 for studenter (til og med
+hovedfag). Korrespondanse om medlemskap og innbetaling av kontingent skal skje til
+foreningens kasserer:
+Norsk Statistisk Forening v/ Sigrunn H. Søbye
+Inst. for matematikk og
+
+statistikk
+
+Universitetet i Tromsø
+9037 Tromsø
+
+Emailadresse: sigrunn@mat-stat.uit.no
+
+Innbetalinger gjøres på foreningens konto 0530 2773299. Medlemmer som er usikre på når de
+betalte kontingent sist, kan nederst på adresselappen for Tilfeldig Gang se hvilket år siste
+betaling er registrert for. Vær oppmerksom på at adresselappene for bladet kan ligge noe etter
+ajourføringen av medlemsregistret, slik at nylig foretatte innbetalinger ikke vil være med her.
+Nye medlemmer melder seg til kassereren og får så automatisk tilsendt Tilfeldig Gang fra
+
+første påfølgende nummer.
+Annen korrespondanse med foreningen skal foregå med formannen:
+Haavard Rue
+Insttutt for matematiske fag
+NTNU
+7491 Trondheim
+
+Emailadresse:havard.rue@math.ntnu.no
+
+25
+
+
+
+
+
+Norsk Statistisk Forening
+Tlf: 77645504
+
+Fax:77644765
+
+E-mail:sigrunn(Qstat.uit.no
+
+—Postgirokonto: 0530 2773299
+
+Årskontingent 2004
+NÅR BETALTE JEG SIST? På adresselappen på TG står det anført siste år vi har mottatt kontingent fra deg. De som ikke
+har betalt for tidligere år kan gjøre dette sammen med kontingenten for år 2004. Dersom du mener betalingsinformasjonen
+ikke stemmer, gi beskjed til sigrunn@stat.uit.no.
+
+'
+
+Årskontingenten er kr. 200,- for ordinære medlemmer, kr. 50,- for studenter (til og med hovedfag).
+
+Betalingsfrist: 20. mai 2004.
+
+NB: Dersom din arbeidsgiver betaler kontingenten, sørg for at navnet ditt kommer med på innbetalingen.
+
+Vi ønsker at vårt medlemsregister skal være oppdatert. Vennligst oppgi evt. ny post/e-post adresse på innbetalingsgiroen
+eller send meg en e-post.
+
+PÅ FORHÅND TAKK!
+
+Vennlig hilsen
+Sigrunn Sørbye
+Kasserer NSF
+
+Betalingsinformasjon
+
+GIRO
+
+Kentiavent NSF 2004
+
+Paalngs
+
+[20.05.2004
+
+i
+
+— Prderskrilt ved girering
+
+ag
+
+L
+
+1
+
+3
+
+i
+
+Betalt av
+
+i
+i
+
+P
+
+å
+
+Betalt til
+
+NSF v/ Sigrunn Sørbye
+
+Inst. for matematikk og statistikk
+
+Universitetet i Tromsø
+
+3
+
+}
+
+i
+
+L
+
+Kundeidentifikasjon (KID)
+
+4
+
+Kroner
+
+9037 Tromsø
+
+L
+
+Øre
+
+Til konto
+
+g
+
+=
+
+BANE
+
+=]
+
+Blankettnummer
+
+<6063959217>
+
+
+
+
+
+
+
+Retur:
+Norsk Statistisk Forening
+v/Sigrunn Holbek Sørbye
+
+Institutt for matematikk og statistikk
+
+Universiteteti Tromsø
+9037 Tromsø
+
+
+

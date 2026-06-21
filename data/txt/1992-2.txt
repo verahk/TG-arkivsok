@@ -1,0 +1,2275 @@
+TILFELDIG GANG
+Nr. 2, årgang 9
+Juni 1992
+
+Utgitt av Norsk Statistisk Forening
+
+INNHOLD
+
+Fra redaktøren
+
+Fra formannen i Norsk Statistisk Forening. Trygve Nilsen
+Utdanning
+
+Oversikt over dr.gradsprosjekter i statistikk
+Faglige innlegg
+
+Kvalitet, kundebehov og statistikk. Jostein Lillestøl
+Avisklipp: Spis fisk - få renere tenner?
+Gudbrandsdølen Lillehammer Tilskuer.
+
+Rapport fra et epidemiologi miljø i San Diego, California.
+Trond Ruse.
+
+Bokanmeldelser:
+
+Terje Aven: Pålitelighets- og Risikoanalyse. Thore Egeland
+Per Lea, Tormod Næs, Marit Rødbotten. Variansanalyse for
+sensoriske data. Liv Høyland
+Konferanser
+
+The 8th Scandinavian Conference on Image Analysis May 25-28, 1993.
+Announcement and first call for papers
+Meldinger
+
+Nytt fra universiteter og høyskoler
+
+Competition for young statisticians from developing countries 1993
+International Statistical Institute
+
+Paminnelse om medlemskontingent
+Medlemskap i Norsk Statistisk Forening
+Bidrag til TG
+
+
+
+
+
+Fra redaktøren
+
+I dette nummer av TG presenteres en oversikt over ialt 24 pågående dr.gradsprosjekter
+i statistikk. Eventuelle mangler vil da bli rettet opp i neste nummer av TG hvis redaktøren blir gjort oppmerksom på dem. Det bør være av interesse å vite omfang og
+innhold på dr.scient.studiet i Norge, bl.a. med tanke på felles dr.gradskurs i et Norgesnett. Emil Spjøtvoll har overfor redaktøren foreslått at 2-3 ukers nasjonale dr.gradskurs
+muligens kan arrangeres i regi av Norsk Statistisk Forening, vårt naturlige organ for faglig samarbeid. Forhåpentlig vil også oversikten gi prospektive arbeidsgivere som f.eks.
+universiteter og høyskoler en basis for å vurdere rekrutteringen i faget i de nærmeste
+årene. Flere av universitetene i Norge har problemer med å få kvalifiserte søkere, og
+nå som kravet til fast tilsetting er dr.grad eller tilsvarende er det viktig at vi utdanner
+nok kandidater på dette nivået. Hvis alle dr.prosjektene i oversikten faktisk blir fullført
+tilnærmet som planlagt vil formodentlig situasjonen kunne bli noe bedre, selv om mange
+vil havne utenfor universitets- og høyskolesektoren.
+
+Det er allikevel klart at vi utdanner for få statistikere i forhold til behovet totalt. Årsakene
+
+kan være flere, men vi har åpenbart et problem med markedsføringen og synliggjøringen
+av faget og profesjonen overfor studentene. Dette er særlig viktig for statistikk siden faget
+ikke er et skolefag. Her er det nok av arbeidsoppgaver for de som ønsker å engasjere seg
+i fagets framtid, og innlegg til TG angående disse problemstillingene vil være spesielt
+velkomne.
+
+Jan F. Bjørnstad
+
+
+
+Fra formannen i Norsk Statistisk Forening
+Ved universitetene betegnes gjerne de juridiske, odontologiske, medisinske
+og psykologiske fakultetene profesjonsfakultetene. Hva de andre er i motsetning til dette, er det ikke godt å si. Vel er det så at studier ved disse
+fakultetene leder frem til en lovbeskyttet tittel og en rett til å praktisere
+vedkommende fag. Vi som underviser i statistikk mener vel at vi utdanner
+våre hovedfagskandidater til et yrke - eller gjør vi kanskje ikke det?
+Er den utdannelsen vi gir for mye lagt opp for dem som skal fortsette
+med en akademisk karriere og mindre for dem som skal ut og praktisere som
+konsulenter for andre? Jeg tenker da ikke på at teoretiske emner som integrasjonsteori og grensesetninger osv. kreves av alle, også av dem som skal ut
+og praktisere og er ”helt sikker” på å ikke ha behov for slikt snurrepiperi i sin
+fremtidige karriere. For disse kandidatene er hovedfagsstudiet høydepunktet
+i den teoretiske utdannelsen. Disse kursene gir dem en innføring i det sproget som er nødvendig å beherske for å være i stand til å lese artikler i
+fagtidsskriftene og mer avanserte lærebøker. Uten denne ballasten vil det
+bli avanserte brukere vi sender ut på markedet.
+
+Jeg tenker på den forberedelse vi gir dem i form av holdningsskapende
+bakgrunn for å være statistiker. Får de en følese av å representere et realt
+fag/håndverk med en viss yrkesstolthet, eller er de bare en slags teknikere
+som er med på oppdragsgiverens premisser? Jeg føler at vi kaster kandidatene nokså uforberedt ut på arbeidsmarkedet og håper at de har fått en så
+god matematisk/datateknisk/statistisk grunnutdannelse at de vil finne seg
+til rette etter en viss omrømmingstid.
+
+NSF har år om annet arrangert etterutdanningskurs. Det sittende styret
+tar sikte på å arrangere et slikt kurs våren 1993. Vi har ikke fastlagt temaet
+ennå. To forslag er:
+
+1) *Missing Data”, dvs. problem med frafall i undersøkelser.
+2) Forløps/levetidsanalyse.
+
+Det siste står jo svært sterkt enkelte steder i Skandinavia, og det kunne være
+av interesse for oss andre å få et innblikk i dagens status ut over det vi finner i
+BMDP-manualene. Men som nevnt, intet er fastlagt, og vi er interesserte i å
+
+få forslag fra medlemmene både om emnevalg og mulig(e) foredragsholder(e).
+Med ønske om en god sommer til alle lesere av TG.
+Trygve Nilsen
+
+
+
+5
+
+OVERSIKT OVER PÅGÅENDE
+DR.GRADSPROSJEKTER I STATISTIKK.
+(Oversikten gjelder dr.scient. I tillegg er det inkludert et dr.philos.- og et Ph.D.-prosjekt.
+Ved Sosialøkonomisk institutt, Universitetet i Oslo, er det opprettet et dr.polit.studium i
+statistikk. Neste nummer av TG vil presentere dr.gradsprosjektene i dette studiet.)
+
+Universitetet i Oslo, Mat.inst., avd. C.
+Navn:
+Tema:
+
+Aarset, Magne
+Statistisk risikoanalyse i industribrannforsikring.
+
+Veileder:
+
+Ragnar Norberg
+
+Planlagt ferdig:
+
+V-87
+
+Prosjektbeskrivelse: De industribrann-tariffer som idag brukes i forsikringsselskapene, bygger
+på statistiske analyser av skadeopplysninger for forholdsvis aggregerte grupper av brannrisikoer. Formålet med den foreslåtte vitenskapelige avhandling er å foreta en grundigere statistisk analyse av risikoforholdene i industribrannforsikring på grunnlag av en kombinasjon av
+polise- og erstatningsopplysninger for hver enkelt risiko. Når de enkelte risikofaktorers betydning er bestemt, kan man beregne den totale risiko for en hel bestand med en gitt størrelse
+og sammensetning og en gitt reassuranseplan. Et slikt analyseverktøy vil kunne forbedre selskapenes tariffering og valg av reassuranseplan og tilsynsmyndighetenes kontroll. De metoder
+som tenkes brukt, vil hentes dels fra pålitelighetsteori og dels fra tradisjonell risikoteori.
+Navn:
+Tema:
+
+Abrahamsen, Petter
+Inversjon av seismisk gangtider ved bruk av stokastiske felt.
+
+Intern veileder:
+
+Erik Bølviken
+
+Ekstern veileder:
+
+Ursin/Gjøstdal
+
+Planlagt ferdig:
+
+V-95
+
+Prosjektbeskrivelse: Forskningsproblemet tar utgangspunkt i nåværende prosedyrer for seismisk ganginversjon. De fleste metodene ser bort fra tid- og rom korrelasjoner i feilleddene,
+forutsetter at usikkerheten er like stor overalt og også at feilleddene er gaussisk fordelte.
+
+Dessuten er usikkerheten i flere av prosedyrene ikke kjent. Planen er å komme frem til
+realistiske usikkerhetsanslag ved å studere data, og undersøke betydningen av de tekniske
+forenklingene ovenfor. Endelig vil modifiserte metoder bli utviklet som vil kunne være forbedringer av de nåværende.
+
+Statistisk arbeid langs disse linjer basert på realistiske fysiske modeller synes ikke å ha vært
+utført tidligere. Arbeidet vil foregåi samarbeid med geofysiske miljøer ved NTH og NORSAR.
+Navn:
+
+Almøy, Trygve Erik
+
+Tema:
+
+Prediksjonsmetoder i situasjoner med mange mulige forklaringsvariable.
+
+Intern veileder:
+
+Erik Bølviken
+
+Ekstern veileder:
+
+Inge Helland
+
+Planlagt ferdig:
+
+H-93
+
+Prosjektbeskrivelse: Hensikten med prosjektet er å prøve systematisk å evaluere regresjonsmetoder i situasjoner med mange mulige forklaringsvariable. Den grunnleggende modellen
+går ut fra at alle data består av prøver fra samme multinormale fordeling. Sammenligningen
+
+
+
+skal utføres både analytisk gjennom tilnærmelser og ved simuleringer. Det målet som skal
+sammenlignes, er forventet prediksjonsfeil. Prinsipal komponent regresjon studeres spesielt,
+og en skal også se mer i detalj på situasjonen der alle variable kan genereres ut fra en faktormodell. Endelig skal virkningen av avvik fra modell-forutsetningene studeres, og metodene
+skal prøves ut på reelle data.
+Navn:
+
+Aldrin, Magne Tommy
+
+Tema:
+
+Ikke-lineær kanonisk regresjon: Metodeutvikling, sammenligning med
+
+Veileder:
+
+Erik Bølviken
+
+Planlagt ferdig:
+
+V-92
+
+konkurerende metoder og anvendelser.
+
+Prosjektbeskrivelse: Det har de siste årene vært betydelig aktivitet internasjonalt mot utvikling av såkalte ”semi-parametriske” metoder for regresjon og andre fler-variable teknikker. Po-
+
+enget er at visse avgrensede former for ikke-parametriserte og ikke-lineære prediktor /responssammenhenger tillates i ellers lineære modeller. Prosjektet dreier seg om å tillempe denne
+hovedidé for en nyutviklet, meget generell klasse lineære metoder som bærer navnet ”kanoniskregresjon”. Ut av dette kommer nye metoder som man håper vil være mer stabile for støyforurensede, vektorielle data enn konkurerende semi-parametriske metoder.
+
+Arbeidet foregår i samarbeid med det tidligere Institutt for Statistikk og Data ved SVfakultetet.
+
+Navn:
+Tema:
+
+Fugleberg, Ole Albert
+Betinget logit analyse av kvalitativt valgatferd, belyst med empirisk
+Bayes i det ubalanserte tilfellet: Estimering av betalingsvillighet for reduksjon i sannsynligheten for tap av liv og helse.
+
+Veileder:
+
+Walter Neuhaus/Bjørn Sundt
+
+Planlagt ferdig:
+
+V-94
+
+Prosjektbeskrivelse: Avhandlingen vil omhandle bygging og analysering av modeller for individuelt valgatferd, når individets preferansestruktur bestemmes både av observerte karakteristika og av latente variable. Det finnes mange anvendelsesområder hvor individuelt valgatferd
+spiller en rolle, og Fugleberg planlegger å studere to slike områder nærmere.
+Navn:
+Tema:
+
+Haukås, Harald
+Stokastisk analyse flytnettverkssystemer.
+
+Veileder:
+
+Terje Aven/Bent Natvig
+
+Planlagt ferdig:
+
+H-94
+
+Prosjektbeskrivelse: Formålet med dr.scient-avhandlingen er å analysere påliteligheten av
+flytnettverksystemer. Slike nettverk brukes til å modellere produksjons- og transportsystemer for gass og olje. Avhandlingen er motivert ut fra behovet for å forbedre styringen av
+leveringssikkerheten for gass og olje. Avhandlingens bidrag vil være stokastisk modellering
+av flytnettverk-systemer. Spesiell vekt vil bli lagt på å finne frem til mer effektive metoder
+og algoritmer for å kunne evaluere påliteligheten av systemene.
+
+
+
+Navn:
+
+Tema:
+
+Helgeland, Jon
+
+Contributions to the statistical analysis of segmented time series.
+
+Veileder:
+
+Erik Bglviken
+
+Planlagt ferdig:
+
+H-90
+
+Navn:
+
+Homleid, Mariken
+
+Tema:
+Veileder:
+
+Statistiske metoder ved bruk av satelittdata i atmosfæremodeller.
+Nils Lid Hjort
+
+Planlagt ferdig:
+
+H-92
+
+Prosjektbeskrivelse: Hovedvekten vil bli lagt på anvendelse av statistisk metodikk for evaluering av datakvalitet og optimal utbyttelse av satelittdata i atmosfæremodeller. En del av
+arbeidet vil bestå i å utrede hva som er gjort og hva som synes mest egnet til statistiskmetodisk innsats.
+
+Navn:
+
+Høst, Gudmund
+
+Tema:
+
+Statistical model for long-range transport of air pollution in Europe.
+
+Intern veileder:
+
+Nils Lid Hjort
+
+Ekstern veileder:
+
+T. Iversen
+
+Planlagt ferdig:
+
+H-95
+
+Prosjektbeskrivelse: Gjennom ”European Monitoring Evaluation Programme” (EMEP) måles
+konsentrasjon av luftforurensning døgnlig, ved ca. 80 målestasjoner over hele Europa. Blant
+
+annet registreres ozon og sure svovel- og nitratforbindelser. EMEP gjør det dermed mulig å
+kartlegge og overvåke luftforurensning i Europa. EMEP- arbeidet er av spesiell betydning for
+Norge siden en vesentlig del av vår luftforurensning er transportert fra andre land. Formålet
+med prosjektet er å arbeide med noen av de viktige problemstillingene som er knyttet til
+statistisk videre-behandling av EMEP-data. Stikkord her er spatial og temporal interpolasjon,
+
+prognoseformler, estimering som garderer mot målinger med dårlig presisjon, og påvisning av
+tids- trender. Den kontinuerlige strøm av data gjør det naturlig å modellere lang- transport av
+stoffer ved statistiske prinsipper. Slike modeller må ta hensyn til fenomenenes underliggende
+spatiale og temporale natur, og til meteorologiske og fysiske prinsipper. Data-mengden gjør
+det mulig å konstruere og etterprøve mer ambisiøse modeller enn ved mange andre rom-
+
+og tid-problemer, blant annet ved modellering av ikke-stasjonære kovariansfunksjoner. Slike
+modeller og metoder har kun i beskjeden grad vært prøvet.
+
+Navn:
+Tema:
+
+Løvås, Gunnar Gundersby
+Matematisk Modellering av menneskelig adferd i evakueringssituasjoner
+under ulykker.
+
+Intern veileder:
+
+Bent Natvig
+
+Ekstern veileder:
+
+Odd Aalen
+
+Planlagt ferdig:
+
+H-94
+
+Prosjektbeskrivelse: Utgangspunktet for dr.scient.studiet er et fransk-norsk samarbeidsprosjekt EVACSIM som skal utvikle et dataverktøy for simulering av evakueringssituasjoner
+under ulykker. Et stikkord her er ”Scandinavian Star” ulykken. Dr.scient.-studiet vil bli utført i samarbeid med firmaet QUASAR. Dr.scient.-avhandlingens bidrag til dette prosjektet
+vil være matematisk modellering av den menneskelige adferd.
+
+
+
+Navn:
+
+Tema:
+
+Sandberg, Ellen
+
+Ikkeparametriske metoder for estimering og testing i forløpsanalyse studert ved
+teorien for telleprosesser og ved stokastisk simulering.
+
+Veileder:
+
+Ørnulf Borgan
+
+Planlagt ferdig:
+
+V-94
+
+Prosjektbeskrivelse: Avhandlingen tenkes satt sammen av flere delarbeider, bl.a. om valg av
+vektfunksjoner for ikke-parametriske en- og flerutvalgstester og ulike problemer knyttet til
+ikke-parametrisk estimering av intensiteter.
+
+Navn:
+Tema:
+Veileder:
+
+Storvik, Geir
+Statistisk inferens i romlige tidsrekker.
+Erik Bølviken
+
+Planlagt ferdig:
+
+H-91
+
+Prosjektbeskrivelse: Ultralydbilder av indre organer er svært støyforurenset. Formålet er å
+utvikle metoder til å forbedre slike bilder ved hjelp av stokastisk modellering. Modellene
+har to romlige koordinater og en tidskoordinat (det tas f.eks. 20-30 bilder hvert sekund,
+og det er av sentral betydning å tillate at forskjellige støtter hverandre). Dette er meget
+krevende modellering innenfor et område av stokastisk prosessteori der mye arbeid gjenstår.
+
+Det vil bli konstruert modeller som (i) på en røff måte fanger opp hjertets bevegelser, (ii)
+tillater nøkkelparametre å bli estimert statistisk (et vanskelig problem i seg selv) og (iii) er
+beregnbart på overkommelig computertid (parallellimplementering kan bli aktuelt).
+Navn:
+Tema:
+
+Winther, Rune
+Pålitelighetsberegning av terskelsystemer samt tilnærming av andre
+
+Veileder:
+
+Arne-Bang Huseby
+
+Planlagt ferdig:
+
+V-95
+
+systemer med terskelsystemer.
+
+Prosjektbeskrivelse:
+
+1. Sluttføre beviset for hva som er det optimale valg av komponent å pivotere med hensyn
+på i den modifiserte faktoriseringsalgoritmen.
+
+2. Videreutvikle metodene fra hovedoppgaven for beregning av øvre og nedre grenser for
+påliteligheten til terskelsystemer.
+
+3. Beregning av tilnærmet pålitelighet.
+
+4. Generalisere metodene som er utviklet for terskelsystemer til større klasser av systemer.
+Spesielt gjelder dette klassen av 2-monotone systemer samt klassen av flytnettverk.
+
+5. Utvide definisjonen av terskelsystemer samt tilpasse de utviklede metoder til den utvidede definisjonen.
+
+6. Tilnærme generelle systemer med terskelsystemer for dermed å kunne anvende de utviklede metoder også for disse systemene.
+
+7. Evaluere nøyaktigheten og anvendbarheten av de utviklede metoder.
+
+
+
+Universitetet i Bergen.
+Aarseth, Jan
+
+Navn:
+
+Tema:
+Veileder:
+
+Kunnskapsbaserte systemer innen statistikk.
+Ivar Heuch.
+
+Planlagt ferdig:
+
+sept. -94
+
+Prosjektbeskrivelse: Formålet med prosjektet er å studere generell bruk av kunskapsbaserte
+systemer (ekspertsystemer) i statistikk, men samtidig ta utgangspunkt i den eksisterende versjon av programsystemet Express og søke å tilpasse forskjellige ideer til praktiske situasjoner
+ved implementering via dette systemet. Prosjektet vil på denne måten både omfatte mer
+teknisk betont utviklings- og forskningsarbeid, parallelt med arbeidet med teoretiske sider
+ved bruk av kunnskapsbaserte systemeri statistikk. En annen side av dette arbeidet vil bestå i å ta for seg problemer med oppstilling av passende sett med slutningsregler innenfor
+avgrensede områder der en gjør mye bruk av statistikk.
+Navn:
+
+Gjessing, Håkon K.
+
+Tema:
+Veileder:
+
+Stokastiske likninger i reservoaranalyse.
+Trygve Nilsen
+
+Planlagt ferdig:
+
+Desember -93
+
+Prosjektbeskrivelse: I de klassiske partielle differensiallikningene som brukes i modeller for
+strømning av væske i porøse media inngår materialavhengige koeffisienter, f.eks. for permeabilitet. Prosjektets hensikt er bl.a. å modellere disse som (romlige) hvit støy-prosesser og se
+på egenskaper ved de resulterende stokastiske partielle differensiallikningene.
+Riise, Trond
+Clustering and prognosis in multiple sclerosis;
+
+Navn:
+Tema:
+Veileder:
+Planlagt ferdig:
+
+epidemiological studies of MS in Hordaland, Norway. (dr.philos.) ProsjektIngen formell veileder.
+sept./okt. -92
+
+beskrivelse: Forekomsten av sykdommen multippel sklerose i Hordaland kartlegges v.hj.a.
+såkalt space-time cluster analyser. Resultatene tolkes som sterk indikasjon på at et infeksiøst
+agens aktivt i 15-20 års alderen er en viktig årsaksfaktor for sykdommen. Flere metoder for
+utregning av konfidensintervall for graden av ”clustering” blir evaluert. Videre blir en regresjonsmodell foreslått for evaluering av sammenheng mellom av graden av ”clustering” og evt.
+kovariater. Prognostiske faktorer for sykdommen blir evaluert v.hj.a. lineære og ikke- lineære
+regresjonsmodeller.
+
+Skaug, Hans Julius
+
+Navn:
+
+EDB-intensiv analyse av tidsrekker og høyere ordens
+
+Tema:
+Veiledere:
+
+asymptotisk teori.
+Hans Karlsen og Dag Tjøstheim.
+
+Planlagt ferdig:
+
+sept. -94
+
+_
+
+Prosjektbeskrivelse: Prosjektet har hittil dreid seg om ikke-parametrisk testing av uavhengighet mellom observasjoner fra en tidsrekke. Anta generelt at man ønsker å teste om to
+stokastiske variable X og Y er uavhengige. Som test observator kan man f.eks. bruke
+
+
+
+stokastiske variable X og Y er uavhengige.
+
+Som test observator kan man f.eks.
+
+bruke
+
+I Håxylay)- fx(2)fy(y)
+Pde dy, der fxy(z,y), fx(2) og fy(y) er estimatorer for si-
+
+multantettheten til (X,Y) og marginaltetthetene til X og Y respektivt. Store observerte
+verdier av test observatoren gir grunn til å tvile på at X og Y er uavhengige.
+
+Universitetet i Trondheim - NTH.
+Navn:
+
+Blaker, Helge
+
+Institutt:
+Tema:
+Veileder:
+
+Dept. of Statistics, Univ. of California, Berkeley
+Ukjent på dette tidspunkt.
+Ukjent på dette tidspunkt.
+
+Planlagt ferdig:
+
+juli -95
+
+Prosjektbeskrivelse: Prosjektet er Ph.D. studium i matematisk statistikk med vekt på inferensteori.
+
+Navn:
+Tema:
+Veileder:
+
+Bodsberg, Lars
+Sårbarhetsmodell for datastyrte sikringssystemer.
+Bo Lindqvist
+
+Planlagt ferdig:
+
+April -93
+
+Prosjektbeskrivelse: I avhandlingen vil det bli utviklet metoder for vurdering av sårbarhet av
+datastyrte sikringssystemer slik at en bedre skal kunne tallfeste virkningen av ytre påkjenninger og menneskelige feilhandlinger under konstruksjon og drift.
+Navn:
+Tema:
+Veileder:
+
+Glad, Ingrid K.
+Statistiske metoder for billedforbedring.
+Emil Spjøtvoll
+
+Planlagt ferdig:
+
+juni -95
+
+Prosjektbeskrivelse: Bruk av statistiske metoder til billedforbedring, spesielt anvendt på
+multispektrale MR-bilder.
+
+Navn:
+
+Langaas, Mette
+
+Tema:
+Veileder:
+
+Bruk av neurale nettverk i statistiske modelleringsproblem.
+Emil Spjøtvoll
+
+Planlagt ferdig:
+
+1995
+
+Prosjektbeskrivelse: Teoretisk og empirisk sammenligning av klassiske statistiske metoder og
+neurale nettverk i klassifisering /tidsrekkeprediksjon.
+
+Tema:
+Veileder:
+
+Rue, Håvard
+Image Restoration.
+Emil Spjøtvoll
+
+Planlagt ferdig:
+
+1993
+
+Navn:
+
+Prosjektbeskrivelse: Restaurering av bilder ved hjelp av statistiske metoder.
+
+
+
+Navn:
+Tema:
+Veileder:
+
+Ødegaard, Lars Alf
+Statistisk analyse av ultralydbilder.
+John Sølve Tyssedal
+
+Planlagt ferdig:
+
+H-94
+
+Prosjektbeskrivelse: Hvorfor blir ultralydbilder av fete personer dårligere enn bilder av slanke
+personer? Kan dette eventuelt korrigeres?
+
+Universitetet i Trondheim - AVH.
+Navn:
+Tema:
+
+Olsen, Svenn Fjeld
+Avhengighetsmodeller i pålitelighetsanalyse estimering og testing.
+
+Ansvarlig veileder:
+
+Steinar Engen
+
+Faglig veileder:
+
+Bo Lindqvist
+
+Planlagt ferdig:
+
+H-94
+
+Prosjektbeskrivelse: Finne egnede modeller til å beskrive ulike typer avhengighet mellom
+komponentene i et system. Mulige modeller er bl.a. assosierthet, ”TP-2” i hvert par av
+argumenter, Beta-fraksjonsmodeller. Analysere disse og finne estimerings- og testregler basert
+på sannsynlighetsmaksimeringsprinsippet.
+
+
+
+10
+
+Kvalitet, kundebehov og statistikk
+Jostein Lillestøl
+2. juni 1992
+
+Vi finner filosofiske betraktninger knyttet til kvalitet allerede i antikken
+hos bl.a. Aristoteles, og langt senere hos erfaringsfilosofen
+
+John Locke m.fl.
+
+I vårt århundre har kvalitet vært studieobjekt også i andre fag, og noen
+har gjort kvalitet til sitt hovedfag. Blant disse finner vi Shewhart, Deming,
+Juran, Feigenbaum, Ishikawa, og en rekke andre japanere, som alle har gitt
+vesentlige bidrag til dagens forståelse av kvalitet. Flere av disse har god
+forankring i statistisk teori og anvendelse. Nedenfor presenteres et relativt
+
+nytt bidrag av japaneren Kano (1984), som nylig har besøkt Norge. Data
+basert på Kano’s modell kan med fordel analyseres med korrespondanseanal-
+
+yse, og avslutningsvis presenteres et plot som vi tror er en nyhet (Lillestøl
+(1991)).
+Typisk hos mange tenkere omkring begrepet kvalitet, er forestillingen
+om to aspekter, her stikkordsmessig illustrert i en tabell:
+Egenskaper ved objektet | Egenskaper i objektet
+Godt eller dårlig
+
+Fysisk forskjell
+
+Produktopplevelse
+Bruksverdi
+
+Produktspesifikasjoner
+Bruksegenskaper
+
+Kvalitetselementer
+
+Erstattende kvalitetselementer
+(Designfaktorer)
+
+Et typisk trekk ved østlig tenkning er evnen til å integrere de to aspekter,
+noe som har bidratt til den japanske fremgang på dette felt. I Vesten har
+man nok også vært opptatt av begge aspekter, men har i mindre grad vært
+opptatt av å utforme enkle praktiske systemer for integrasjon av de to as-
+
+pektene, for bruk til analyse av kundebehov og tilbakeføring i organisasjonen
+til hjelp i produktplanleggingen.
+
+En mulig måte å forstå sammenhengen mellom de to sidene ved kvalitet
+for ulike kvalitetselementer er Kano’s modell. Han skiller mellom 6 ulike
+kvalitetselementer:
+
+
+
+11
+
+O En-dimensjonal kvalitet
+A Attraktiv kvalitet
+
+M ”Må være” kvalitet
+I Indifferent kvalitet
+
+R Reversert kvalitet
+Et kvalitetselement er en-dimensjonalt for en kunde dersom det medfører
+økt tilfredshet når det er tilstede og utilfredshet når det ikke er tilstede.
+
+Et kvalitetselement kalles attraktivt for en kunde dersom kunden ikke
+
+venter at elementet er tilstede i produktet /tjenesten, men setter pris på at
+det er til stede.
+Et kvalitetselement kalles ”må være” for en kunde dersom kunden ikke
+
+aksepterer fravær av dette, og du heller ikke blir opprømt når det er tilstede.
+Et kvalitetselement kalles indifferent for en kunde dersom det medfører
+hverken tilfredshet eller utilfredshet om det er tilstede eller ikke.
+Et kvalitetselement kalles reversert for en kunde dersom det medfører
+
+økt utilfredshet når det er tilstede og tilfredshet når det er fraværende.
+Blant disse fem typene kvalitetselementer er de tre første mest sentrale,
+og illustreres i figuen nedenfor, der en setter fysisk tilstedværelse av kvalitetselementet opp mot kundetilfredstillelse.
+
+Eksempler på slike kvalitetselementer når det gjelder tjenester er:
+- Flyet krasjer ikke (M)
+
+Bagasjen spretter opp foran deg straks du forlater flyet (A)
+- Rutefrekvens mellom studiested og hjemsted (0)
+- Det er toilettpapir på flytoilettet (M)
+I det siste eksemplet blir en neppe opprømt om papiret er der, og kvantumet
+er likegyldig utover det nødtørftige minstekvantum.
+
+I produksjon har man vært mest opptatt av ”Må være” kvalitet, med
+tro på at kundetilfredshet i hovedsak er knyttet til de fysiske elementene ved
+produktet, og aktivitetene blir derfor alene rettet mot å redusere defekter og
+klager. I markedsføring har man vært mest opptatt av Attraktiv kvalitet,
+med tro på at kundetilfredshet i hovedsak er knyttet nye bruksområder og
+
+
+
+12
+
+Grad av
+
+i fee
+
+a
+
+tilfredstille!
+
+tm
+likegyldig
+
+4
+
+A
+
+liker
+
+HF
+
+-O
+
+Grad av fysisk
+
+tilstedeværelse
+
+Ikke tilstede
+
+må være
+
+liker
+
+ms
+
+utilfreds
+
+ny design. Mange produkter som i utgangspunktet er attraktive, men som
+etterhvert blir del av vår hverdag, har en ”livssyklus” A + O — M.
+Ved hjelp av dette begrepsapparatet kan få frem områder der forbedring
+kan gjøres ved
+
+e å redusere utilfredshet (defensiv kvalitet)
+e å skape tilfredshet (offensiv kvalitet)
+
+Ifølge begrepsapparatet ovenfor skal dette ikke oppfattes som motsatser, med
+
+mindre det er avklart at kvalitetselementet det er tale om er en-dimensjonalt.
+En kan avdekke hvordan et kvalitetselement K oppfattes ved å stille
+følgende spørsmål:
+
+1. Hva føler du dersom K er oppfylt?
+2. Hva føler du dersom K ikke er oppfylt?
+Begge spørsmål gis med 5 svaralternativer:
+l.Liker
+
+2.Må være
+
+3.Ingen følelse
+
+4.Ikke noe å gjøre ved det
+
+5.Liker ikke
+
+
+
+13
+
+Kvalitetselementet kan på grunnlag av kundens svar klassifiseres i henhold
+til følgende tabell:
+
+Spørsmål 2
+Spørsmål1
+
+1
+
+2
+
+3
+
+4
+
+5
+
+0
+
+1/S
+
+A
+
+A
+
+A
+
+2;R
+
+I
+
+I
+
+IM
+
+3|IR
+
+I
+
+I
+
+I
+
+M
+
+4|R
+
+I
+
+I
+
+I
+
+M
+
+5S|R
+
+R
+
+RR
+
+S
+
+Her markerer S en situasjon der vi er skeptisk til om respondenten har
+forstått spørsmålene.
+
+Når svar på de to spørsmålene er innsamlet for de en rekke aktuelle
+kvalitetselementer for et utvalg fra den aktuelle kundegruppe, kan resultatene studeres ved en hyppighetstabell, der interessante strukturer kan tre
+(mer eller mindre klart) frem. Slike tabeller kan med fordel analyseres med
+korrespondanseanalyse.
+
+Eksempel: (Kano et.al.,1984) 877 respondenter er spurt om sitt syn på en
+rekke kvalitetselementer knyttet til fjernsynsmottaker, og hvert element er
+så klassifisert mht. hvordan det oppfattes iht. Kano’ modell. Resultat er
+gitt tabellen nedenfor.
+
+Det etterfølgende plott er basert på korrespondanseanalyse av denne
+tabellen. De to første dimensjonene er plottet, og punkter for både kvalitetselementene (rader) og evaluering (kolonner) er gitt.
+Nytt i plottet er bruken av ”sukkerbiter” med prikker som representerer
+
+kvalitetselementene. Hver prikk står for ca. 10% forekomst av det representerende kvalitetselement, hvert har sitt eget plottesymbol. Senterprikken
+representer det hyppigste kvalitetselementet i hver rad. Merk hvordan kolonnesymbolene gjennfinnes i hver sukkerbit. Arrangementet her tillater høyst
+9 prikker, dvs. sum høyst 90%. Manglende prikker til 100% vil typisk være
+”no response” og avrunding. Denne grafikk får frem strukturen i tabellen
+langt bedre enn å bare angi typetallet i hver rad (som Kano). Vi skal ikke
+her gå inn i tolkningen av figuren, men viser til Lillestøl (1991).
+
+
+
+14
+
+Quality element | Attractive
+Image resolution
+
+Classification of quality element
+Onedim
+Must-be
+Indifferent
+Reverse
+
+12
+
+277
+
+Operability
+
+44
+
+307
+
+Design
+
+221
+
+350
+
+Remote control
+
+477
+
+Failure
+Life
+Safety
+
+å
+62
+8
+
+Switch-picture
+
+301
+
+Location
+
+124
+
+Feather touch
+Electronic cons.
+After service
+User's manual
+
+363
+
+412
+461
+231
+
+196
+
+Multiple voice
+
+499
+
+413
+267
+561
+
+85
+
+22
+
+44
+
+21
+45
+14
+
+10
+12
+6
+
+10
+13
+46
+
+101
+
+129
+
+182
+
+11
+
+54
+
+12
+
+270
+
+26
+
+28
+
+359
+
+33
+
+7
+
+14
+
+86
+541
+
+32
+166
+
+340
+81
+
+36
+
+472
+
+299
+
+35
+
+280
+
+339
+
+143
+
+400
+
+160
+
+37
+
+13
+
+194
+
+342
+63
+
+44
+
+19
+
+273
+
+66
+
+Skeptical
+
+10
+
+65
+
+10
+
+24
+
+80
+
+36
+12
+
+40
+13
+
+8
+
+10
+
+15
+
+12
+
+47
+
+Tabell 1: Hyppighet av kvalitetselemener (data fra Kano et.al).
+
+~ Safety
+
+0
+
+FR
+GP Image Resolution
+
+@) Must B Or
+
+'
+Skeptical
+
+0 02020 User's Manual
+
+Reverse @
+
+J Operability
++
+
+Indiffer:ent
+
+(2
+
+[ono
+Hp
+Failure
+
+Multiple voice
+
+Q) Æ Ge
+
+Switch-picture
+
+oe
+
+v
+
+After Service
+
+Po.
+
+it
+
+ve
+
+.
+
+Location
+
+kb
+
+Be
+
+Design
+
+— One-dimensional
+
+Cs Electronic Consumption
+
+Feathør
+
+touch
+
+moteå Contra
+
+DB Attractive
+
++ Dimension 2
+Dimension 1
+
+Referanser
+KANO, N., SERAKO, N. & TSUJI, S. (1984) Attractive quality and Mustbe quality. Summary of paper presented at 1982 Nippon QC Gakka.
+LILLESTØL, J. (1991) Multivariate statistical methods for quality creation:
+a review. Total Quality Management, vol.2, 291-304.
+
+
+
+sier tran, og fisk
+fått har
+
+Eggen.
+
+tan lege
+Rap orten
+
+Svein
+
+Tilskuer
+
+og
+
+Lilehammer
+
+iLofoten
+individer
+hos vel 2.0 0
+
+navnet
+til Gud-
+
+nå som
+
+Gudbrandsdølen
+
+ten er?
+
+tannkjøt for-
+
+«Periodontal
+
+OG REPORTASJER
+
+iforholt
+
+con-
+
+NYHETER
+
+i
+
+iLofoten
+
+forelig er,
+
+som
+
+forkla-
+
+sik er
+
+noen
+
+Saltvan sfisk
+
+gi å Uten
+
+forholdet
+kon- med noe ha kun e
+å dra
+
+av en
+
+relativt
+
+hold
+
+i
+
+plaque, age, sex, to depth pocket
+probing
+of relation
+the of ysis
+ana- statistical
+Å groups.
+atient
+Norwegian
+two among
+ditions
+
+uheldig
+
+til iGud-
+
+med
+
+hjertekarsykdom-
+
+til-
+
+finnes
+
+residence
+
+observasjonebetegnet
+befolkningen
+
+var meget
+
+å gjøre:
+
+forklaring
+
+I
+
+av saltvan sfisk
+
+slutninger
+
+varsom
+
+av medisinske
+
+Dis e
+
+and
+
+fordi
+imotsetning
+
+Dis e
+brandsdalen.
+ne blir irap orten
+
+gåteful e,
+Lofoten,
+
+brandsdalen,
+
+var mer omhygenn iGudbrands-
+
+Det er også
+av få tan leger.
+åtro at det daglige ren-
+
+stilt på det tidspunkt til regelmes i når det
+gjaldt muligheter
+blant an et på
+tanbehandling,
+
+grun
+vanskelig
+hold av ten ene
+gelig iLofoten
+
+sum
+
+så mye fisk som kjøt til midagsspiste
+mat.” I Gudbrandsdalen
+så mye kjøtt som
+‘man tre ganger
+
+må være
+
+Sykdomsår-
+
+som
+
+stander
+
+spekter
+
+å gjøre.
+
+torus
+
+renere
+
+enn tan kjøt
+
+Gudbrandsdalen.
+
+iFolk LILLEHAM ER:
+
+ten er
+
+konklusjo-
+
+undersøkelse
+
+har Lofoten
+
+bedre
+
+Kristian
+
+og
+
+Av
+
+ifolk
+
+en inene
+
+av en er Det e
+
+Hosar
+
+fisk? spise åav tan kjøt
+iLofoten
+
+utgitt
+Jørund
+
+underGud-
+
+være
+
+av minoritet
+
+Institut .
+
+Lofoten
+
+de at imidlertid
+
+i enn
+
+å seg tenner.viste
+
+Bent
+
+Gåsemyr.
+
+sorene
+ved port
+i «bedre»
+
+søkte
+
+er lysen
+
+viss en hos løsner
+
+Matematisk
+
+er Rap orten
+og Natvig
+
+I vårt disfra Lil e:.
+
+som kan gien rimelig
+
+NE om han har gjort seg noen tanker
+
+man
+
+bastante
+
+Eggen svarer:
+på mysteriet.
+— Såvidt jeg vet, er det første
+mellom
+gang en slik sam enheng
+og og fisk er beskrevet,
+tan kjøt
+for
+
+undersøkelse.
+
+bredt
+
+3 fet syrer
+
+mandibula-
+
+25. april 19 2
+
+individer
+
+tan kjøtforholdene
+
+forskningsrap-
+
+enkelt
+
+forskning
+Omega
+
+bedre
+
+uåri
+
+|8 Lørdag
+
+en statistisk-
+
+som iverste
+
+3
+
+SL
+
+Spis fisk - få renere
+an e t
+
+Svein Eggen iLilehamTan lege
+mer gjorde for noen ti-år siden en
+
+blant
+
+hos ialt 2.010
+
+og Gudbrandsdalen.
+tnkt kom personene
+og nabokom unene.
+hammer
+
+Sam enheng
+
+som
+
+og tan kjøtlidelser;
+
+nemlig
+
+set
+
+rar
+
+«multifaksaker er kompliserte,
+forholdene
+som beskriver
+om undersøkelsen
+Svein Eggen med rap orten
+Tan lege
+både
+i betydningen
+torielle»
+Hosar).
+(Foto: Kristian
+Gudbrandsdalen.
+så fleog miljømes ige,
+genetiske
+kan ha spilt
+faktorer
+re ukjente
+ihavets mikrorene syntetiseres
+riasis; tilog med kreft, men foreå
+inn. Men det synes nærlig ende
+og løpig bare ved dyreforsøk.
+n
+o
+t
+k
+n
+a
+l
+p
+e
+t
+n
+a
+l
+p
+,
+r
+e
+m
+s
+i
+n
+a
+g
+r
+o
+tenke på en faktor som har vært
+havets næringsalger. Gjen om
+via
+kjede når de da til men esker
+synes
+,
+e
+t
+e
+gj
+e
+l
+u
+k
+s
+n
+ma
+s
+Hvi
+på fisk og andre havdyr.
+medisinsk
+fis- det et er min op fatning
+Diverse
+ikke uri3 flemelig åtenke seg at gåten med de
+
+gjelder
+sykdom er,
+
+Qmega
+
+Tis».
+
+xx
+
+
+
+16
+
+En kort rapport fra en statistikers opphold i et epidemiologi miljø i California.
+
+Med støtte fra NAVF under HEMIL (HElse, MIljø og Levekår) — pakken dro
+undertegnede + familie til syd—California for å arbeide ett år ved Division of ~
+Epidemiology, Department of Community and Family Medicine, School of Medicine,
+University of California at San Diego (UCSD). Etter å ha arbeidet som "oppofrende"
+statistisk konsulent ved det medisinske miljø i Bergeni flere år var dette oppholdet et
+ledd i et alvorlig forsøk på å øke egen kompetanse ved meritterende arbeid innenfor et
+mindre fagfelt. Metoden var "space-time cluster" analyse og anvendelsen var
+multippel sklerose. I samarbeid med professor Mel Klauber analyserte jeg et materiale
+av MS-pasienter i Hordland, og så videre på muligheter for estimering av grad av
+clustering ved hjelp av simuleringer og bruk av bl.a. bootstrap.
+Som antydet er ikke arbeid som statistiker i det medisinske forskningsmiljø i
+Norge ensbetydende med gode muligheter for en snarlig akademisk karriere.
+Riktignok får man fort erfaring i bruk av de forskjelligste statistiske metoder.
+Anvendelsene er nemlig mange og interessante. Men behovet for den kompetanse
+som statistikeren forvalter, nemlig den kvantitative forskningsmetode, er så stor i det
+nevnte miljø at arbeidspresset fort blir meget stort, og forståelsen for tid til eget
+meritterende arbeid under veileding dessverre tilsvarende liten. Bruk av mer enn én
+statistiker på ett og samme prosjekt vil fort kunne fortone seg som ekstravagant luksus,
+selv om statistikeren kan være relativ fersk og nyutdannet. Nå bør kanskje ikke en
+akademisk karriere være den eneste muligheten for en statistiker i dette miljøet, men
+gode og faste stillinger for statistikere i dette miljøet finnes først og fremst i form av
+vitenskapelige stillinger. Med andre ord: På tross av liten tid til meritterende arbeid,
+egen vitenskapelig produksjon forlanges, og en doktorgrad er minstemålet.
+
+Epidemiologi er et fagfelt hvor de medisinske fakultetene og forskningsrådene til
+en viss grad har lagt mulighetene til rette for en akademisk karriere for statistikere. I
+hvertfall har flere av stipendene innen dette fagfeltet blitt tildelt statistikere, og et slikt
+stipend var altså bakgrunnen for undertegnedes opphold i USA.
+
+Dette fagfeltet er relativt ungt i Norge og det finnes ingen mulighet for en formell
+utdannelse idag. I USA har de lengre tradisjoner, og utdannelse kan fåes både via
+tilnærming fra det ordinære medisin studiet, et eget studie innen for public health
+systemet og via tilnærming fra en statistikk utdannelse. Ved instituttet ved UCSD var
+av 4 faste professorat to besatt at medisinere, en av en public health udannet og en av
+en statistiker. I resten av staben (i alt ca 25 personer) var det flere statistikere ansatt på
+forskjellige nivå (bl.a som "senior statisticians").
+
+Instituttet var preget av et høyt faglig nivå og hadde en "drive" som resulterte i en
+meget høy produksjonsrate. Forholdene var godt lagt til rette for effektivt arbeid.
+
+
+
+17
+
+Spesielt bør nevnes et meget godt biblioteksystem. All verdens tidsskrift fantes, man
+kunne til og med gå rett i hyllene å dra ut Tidsskrift for den norske lægeforening.
+Imidlertid hadde de ikke ennå klart å etablere et abonnement på TG, men sentrale
+personer fikk en klar utfordring på dette punkt.
+Instituttet hadde god kontakt med andre epidemiologi miljø i USA. Det er klare
+fordeler med et stort miljø, der det blir bedre muligheter for diskusjoner mellom
+forskere som arbeider innenfor samme felt. Epidemiologi miljøet i USA arrangerer en
+rekke konferanser hvorav kanskje SER (Society for Epidemiological Research) er den
+største. Denne konferansen hadde egne sesjoner beregnet for statistikere.
+Instituttet hadde ikke så mye kontakt med Department of Statistics ved UCSD,
+men jeg hadde personlig en del kontakt med John Rice, som på den tiden var ansatt
+der (han har nå flyttet til Berkely). Ellers bør Dag Tjøstheim kunne fortelle mer om
+dette instituttet.
+
+Forholdene for resten av familien var gode. UCSD hadde et profesjonelt
+
+International Center som var til stor hjelp i så måte. Været var jo heller ikke til å klage
+på. Det regnet én dag i løpet av høsten og fem dager i løpet av våren. Resten av tiden
+skinte solen med temperaturer mellom 20 og 30 grader. Som utflyttet østlending etter
+15 år i regnfylte Bergen, var det kanskje fortjent å kunne tørke opp skinnet i San
+Diego.
+
+Faget epidemiologi anbefales hermed for statistikere. Et opphold ved et større
+
+miljø i utlandet anbefales generelt, og UCSD i San Diego anbefales spesielt.
+
+Trond Riise
+
+Institutt for arbeidsmedisin, Universitetet i Bergen
+
+
+
+18
+
+“Palitelighets— og Risikoanalyse” av Terje Aven.
+
+Anmeldt av Thore Egeland
+
+|
+
+Begrepene *pålitelighet” og “risiko” brukes i ulike betydninger i forskjellige sammenhenger. I Terje Avens bok *Pålitelighets- og Risikoanalyse” (Universitetsforlaget, 272
+s, ikke innbundet, 292 kr) defineres pålitelighet som en “karakteristikk av evnen (en) komponent eller et system har til å utføre en tiltenkt funksjon” mens risiko brukes om “den
+fare som uønskede hendelser representerer for mennesker, miljø og økonomiske verdier”.
+Avens bok favner bredere enn den litteraturen som har blitt brukt i undervisning i
+pålitelighetsanalyse ved Universitetet i Oslo (blant annet *Pålitelighetsanalyse med teknologiske anvendelser” av B. Natvig og *Statistical Theory of Reliability and Life Testing”
+av Barlow og Proschan) og NTH (blant annet *Pålitelighetsanalyse” av Holen, Høyland
+og Raussand). Boken er også preget av mer omfattende erfaringer fra det praktiske liv enn
+litteraturen som er nevnt over. Ytterligere sammenligning er vanskelig ettersom siktepunktene for bøkene er forskjellige. Avens bok fyller et tomromi forhold til den eksisterende
+litteraturen ikke minst fordi den setter sikkerhetsanalysene inn i en større sammenheng.
+Kapitteloverskriftene under gir en pekepinn på innholdet i boken:
+1 Generelt om pålitelighets— og risikoanalyser.
+2 Bruk av statistikk.
+3 Feilmodi- og feileffektsanalyse.
+
+On
+
+4 Feiltreanalyse.
+
+Grafisk feilutviklingsanalyse/ hendelsestreanalyse.
+
+6 Andre pålitelighets— og risikoanalysemetoder.
+7 Binære modeller for beregning av systempålitelighet.
+
+8 Multinære modeller for beregning av systempålitelighet.
+9 Identifikasjon av kritiske komponenter /hendelser.
+10 Sikkerhetsstyring.
+
+11 Eksempler på anvendelser.
+A Sannsynlighetsregning.
+
+B Stokastiske sviktmodeller.
+C Analyse av pålitelighetsdata.
+D Markovmodller.
+
+
+
+18
+
+Det første kapitlet gir en oversikt over innholdet i boken. I tillegg til en første gjennomgang av sentrale begreper og metoder diskuteres planlegging og gjennomføring av
+pålitelighets — og risikoanalyser. Konstruksjonspålitelighet er et sentral felt, ikke minst
+innenfor petroleum (Avens sentrale anvendelsesområde). En kort avgrensning i forhold til
+
+dette feltet, med noen referanser, kunne ha vært på sin plass.
+Kapittel 2-9 omhandler stoff som for en stor del finnes andre steder. Avens fortjeneste er kanskje i første rekke at han har samlet dette materialet og satt det inn i en større
+sammenheng. Denne større sammenhengen blir ytterligere utdypet i kaptittel 10 om sikkerhetstyring. Temaer som organisasjon, ledelse, mål, akseptkriterier og kontraktsforhold blir
+grundig diskutert.
+
+I kapittel 11 *Eksempler på anvendelser” legges det også betydelig vekt på diskusjon.
+Beregninger og metodiske sider har en relativt beskjeden plass i forhold resonnementer
+knyttet til problemet som skal løses og de forutsetninger som ligger til grunn for anbefalinger.
+
+Mine få innvendinger mot boken er på detaljnivået. Enkelte ganger er det luft mellom
+søylene i histogrammer (side 34, for eksempel) uten at jeg kan se noen grunn til det,
+snarere tvert i mot. Stilen i boken kan til tider virke noe oppramsende. Det er tidvis litt
+mye opplisting. En liste over forkortelser (det er ganske mange i denne bransjen) kunne
+vært på sin plass.
+
+Jeg har med min matematisk-statistiske bakrunn lært mye av boken. Jeg er overbevist
+om at ingeniører og andre med mer praktisk erfaring også vil ha utbytte av et selvstudium
+eller et kursopplegg. Boken kan brukes (og har vært brukt) på nær sagt alle nivåer med
+litt spesialtilpassing.
+
+
+
+20
+
+VARIANSANALYSE FOR SENSORISKE DATA.
+av Per Lea,Tormod Næs,Marit Rødbotten.
+Anmeldt av Liv Høyland.
+Forfatterne vil i denne boka prøve å gjøre variansanalyse forståelig for folk som ikke på
+forhånd har kjennskap til statistikk. Dette er ikke lett. Selv studenter som har opplæring i
+de statistiske grunnbegreper har vanskeligheter med å forstå hvordan variansanalysetabellene er bygget opp og hvordan de skal brukes i de forskjellige situasjoner.
+Det foreligger nå en rekke programpakker som foretar variansanalysene automatisk. Vi må
+bare fortelle programmet hvilke faktorer som er tilfeldige (random), hvilke som er faste
+(fixed) og hvilke som er nøstet inn i andre. Det er derfor ingen tvil om at det viktig å få
+
+de som foretar analysene til å forstå hva regnemaskinene beregner. På meg virker det
+imidlertid forvirrende og ulogisk at forfatterne ikke tar utgangspunkt i modellene de bruker
+og prøver å forklare dem, istedenfor å ta utgangspunkt i estimatorene og ut fra disse
+innføre parametre og modeller. Jeg tror også det ville være lettere å forstå det hele hvis en
+startet med enveis-gruppering og deretter utvidet til flerveisgruppering, selv om
+enveisgruppering etter forfatternes mening sjelden vil være aktuelt ved sensoriske analyser.
+
+Boka består av 8 kapitler.
+
+I kapittel 2 tar forfatterne for seg faktorielle forsøk. Definisjonen på flerfaktorforsøkene
+
+kommer imidlertid først tilslutt i kapitlet. At en i 2* forsøk definerer effektene som det
+dobbelte av de effekter vi bruker i vanlige variansanalyse-modeller, synes jeg burde vært
+forklart klarere.
+
+I kapittel 3 er det gitt en praktisk og teoretisk forklaring på variansanalyse. Forskjellen
+mellom analyser hvor alle faktorene har faste effekter, og analyser hvor noen er faste og
+andre tilfeldige, er beskrevet. Eksempel med dommere som kan betraktes enten som faste
+eller som tilfeldig utvalgte og dermed gir forskjellige konklusjoner på tester som angår
+
+produktenes kvalitet, er illustrerende, men jeg synes en nærmere beskrivelse av samspillets
+betydning i denne modellen burde vært med.
+Kapittel 4 tar for seg F-tester. Her er det gitt et eksempel på 4-veis variansanalyse hvor
+etter min mening noen faktorer burde vært nøstet inn i andre. Modellene som blir brukt er
+
+avhengig av bibetingelsene som er knyttet til parametrene. Det er derfor betenkelig at
+bibetingelsene hele tiden er sløyfet.
+
+
+
+21
+
+I kapittel 5 tar forfatterne for seg faste og tilfeldige effekter i variansanalyse.I mange av
+de programpakker som nå finnes(f.eks. MINITAB) beregnes p-verdier i testene etterat en
+har definert hvilke faktorer som skal være tilfeldige. Det har derfor stor betydning at en
+gir en forklaring på forskjellene i analyser basert på bare faste effekter og modeller hvor
+noen er faste og andre tilfeldige. Jeg tror forståelsen for de forskjellige konklusjoner ville
+blitt bedre hvis en hadde kommet litt mere inn på samspillets betydning i eksemplene.
+I kapittel 6 forklares hva det ligger i ”gjentak” i sensorisk analyse. Randomiseringens
+betydning når en gjør forsøk, synes jeg har fått liten oppmerksomhet i boka.
+Kapittel 7 tar for seg multiple sammenligninger og ser på forskjellige metoder, noe som
+har stor praktisk betydning hvis en v.h.a. variansanalysen er kommet frem til at en faktor
+har effekt.
+
+I kapittel 8 er det tatt to konkrete eksempler på analyser. Det jeg savner her er at rådataene ikke er tatt med, hverken i dette kapitlet eller i et appendix. Når en skal se på en
+analysemetode, er det, selv om analysen er basert på konstruerte data, lite tilfredsstillende
+bare å få presentert de ferdige kvadratsummer som fremkommer i variansanalysetabellen.
+Bakerst i boka er det en ordliste med definisjoner av uttrykk som er brukt.Det er en
+oversiktlig og grei ordliste selv om noen av definisjonene er vanskelig å godta.
+La meg nøye meg med noen eksempler:
+
+Studentisert variasjonsbredde: Differansen mellom gjennomsnitt dividert med anslag for
+variasjonen
+
+Forventningsverdi: Gjennomsnitt av statistiske variable over et stort (går mot uendelig)
+antall forsøk med samme struktur.
+
+Klassevariable: Variable som angir aktuella nivå av en faktor.
+
+Boka er oversiktlig og godt strukturert. Det er gode illustrasjoner og anvisninger på hvor
+en finner de forskjellige temaer. Jeg er redd for at en ikke får den fulle forståelse av hva
+variansanalyse er ut fra denne boka, men den er jo ment å være et hjelpemiddel for de
+som utfører variansanalyse av sensoriske data, og ikke som lærebok for statistikere.
+
+
+
+22
+
+NOBIN
+Announcement
+
+and First Call for Papers
+
+The 8th
+
+Scandinavian
+Conference on
+
+Image Analysis
+
+EN
+
+Submission of Papers
+
+Invitation to the 8th SCIA
+The 8th Scandinavian Conference on Image
+Analysis will be arranged by the Norwegian Society for Image Processing and Pattern Recog-
+
+Papers must be in English and only full papers
+will be accepted. Authors are invited to submit
+three (3) copies of each full paper.
+
+nition (NOBIM) and sponsored by the Inter-
+
+The cover paper should contain:
+
+national Association for Pattern Recognition
+
+Title of the paper
+
+(LAPR). The conference will be held in Tromsø
+
+-Name(s) and affiliations of the author(s)
+—Brief abstract (200 words)
+
+from 25th-28th May 1993. Tromsø, located at
+latitude 69°40’ N, is Northern Norway’s centre
+
+-Name and address for correspondence
+
+for administration and education.
+
+Scientific Programme
+The scientific programme will include several
+invited speakers and parallell sessions with pa-
+
+pers for oral and poster presentation. The conference language will be English.
+
+The con-
+
+All pages should show the name of the first
+author and be consecutively numbered. In the
+final version all pictures must be rasterized. If
+the length of the paper exceeds 8 pages or con-
+
+tains colour illustrations an additional fee will
+be added to the registration fee.
+
+tributed papers will cover original unpublished
+research results, either theoretical or applied.
+
+Parallel Algorithms and Architectures
+
+The deadline for submission of papers is 15th
+October 1992. All papers will be assessed by
+two reviewers. Authors will be notified as to
+acceptance by 20th December 1992. For accepted papers, a final camera-ready copy will
+be required by Ist March 1993. Instructions
+for writing the final paper will be sent to the
+
+Neural Nets
+
+authors.
+
+Conference Topics
+Image Processing and Analysis
+Pattern Recognition
+
+Computer Vision
+
+Remote Sensing
+Medical and Biological Applications
+
+Forut Information Technology Lid.
+
+light the wholc night through as the sun never
+
+goes to rest. The indoor activities will consist
+of a get-together party on the first night of the
+conference and the Conference Banquet both of
+which are included in the conference fee, while
+there is an extra fee for accompanying persons.
+
+Zip
+scia@conan.uit.no
+
+Country,
+
++47 83 82420
+
+e-mail :
+
+State,
+
++47 83 58 622
+
+Address
+
+this e-mail address. By simply mailing the text
+
+Affiliation
+
+Requests of any kind concerning the conference or the social programme can te sent to
+send info to scia@conan.uit.no you will auto-
+
+matically be included in our conference mail
+list. You will continuously be supplied with up
+to date information on the programmes. If you
+
+3
+
+do not have the opportunity to do the above, fill
+
+3
+
+in and mail the form on the right.
+
+3
+
+=
+
+å
+
+Conference Committee
+
+=
+
+Torbjørn Hallgren, Conference Chair
+Richard Blake, Programme Chair
+Kjell Arild Høgda, Local Chair
+Fritz Albregtsen
+
+Bjørn Braathen
+
+S
+
+EN
+
+:2
+
+å
+
+E
+
+=
+
+so}
+
+£
+te
+
+—
+‘Ss
+
+—
+
+"=
+
+=
+len
+&
+ma
+
+a
+6
+Q
+
+oe
+a
+
+5
+
+E
+
+§
+
+på
+
+FI
+
+sår
+Bos t«<
+
+ass
+TsESE
+
+sass
+
+FTxS885
+
+<5I%58
+=AINS?
+s8t8s93s
+SoS
+ASS
+
+City,
+
+Phone :
+Fax:
+
+Name
+
+to Spitzbergen and North Cape. Participants
+and accompanying persons are invited to bring
+cross-country or mountain skiing equipment as
+the skiing conditions in the mountains are nor-mally superb in late May. Sea-fishing will also
+be arranged and we-will have a good chance
+of enjoying all these activities in the midnight
+sun. We emphasize that in Tromsø, also called
+the gateway to the arctic, the midnight sun lasts
+from approximately the 20th of May until the
+20th of July. The scenery at the time of the
+conference will be snowy mountains and day-
+
+N-9001 Tromsø
+
+Norway
+Please
+
+Social Programme
+The social programme planned includes visits
+
+include
+
+P.B. 2806 Elverhøy
+
+SCIA
+
+Kjell Arild Høgda
+
+will be arranged.
+
+write to:
+
+me
+
+involved in the field (mostly remote sensing)
+
+and/or for inclusion on the mailing list, please
+
+list of the 8th
+
+For all inquiries regarding the conference
+in the
+
+Further Information
+
+An exhibition of relevant literature is planned.
+Publishers will be invited to exhibit their products. A visit to local companies and institutions
+
+mailing
+
+Exhibition
+
+
+
+23
+
+NYTT FRA UNIVERSITETER OG HØYSKOLER.
+NYTT FRA UNIVERSITETET I OSLO
+Uteksaminerte cand.scient.
+Kirsten Bjørkestøl: ”Behrens-Fisher problem i to og flere dimensjoner”.
+Veileder: Grete U. Fenstad.
+
+Arild Kristiansen: ”Modeller og metoder for beregning av det forsikringstekniske ansvaret og dets komponenter”.
+Veiler: Ragnar Norberg.
+
+Oppsigelse
+Walther Neuhaus slutter 31. mai 1992 ved vår avdeling og emigrerer til Australia.
+
+Permisjon
+Nils Lid Hjort har forskningstermin i det akademiske år 1992/1993.
+
+Publikasjoner
+Bent Natvig Jørund Gåsemyr: ”Expert opinions in Bayesian estimation of system
+reliability in a shock model - the MTP, connection”, Statistical Research Report No. 2,
+1992.
+
+NYTT FRA UNIVERSITETET I TRONDHEIM
+
+Institutt for matematikk og statistikk - AVH
+Uteksaminerte cand.scient.
+Marita Melhus: ”Frafalli valgundersøkelser”
+Veileder: Jan F. Bjørnstad.
+
+Frode Skjold: ”Utvalgsundersøkelser med frafall bestemt av latente variable”.
+Veileder: Jan F. Bjørnstad.
+
+Oppsigelser.
+
+Eva Seim har sagt opp sin stilling som førsteamanuensis og begynner i ny stilling i
+Nycomed.
+
+Harald Horten slutter i vikariat som universitetslærer 1. august for å tiltre i stilling
+som høgskolelektor ved Trondheim ingeniørhøgskole.
+
+
+
+24
+
+Gruppe for Statistikk, NTH
+
+Ferdige sivilingeniører.
+Alfhild Lien Eide: ”Tetthetsestimering for spatiale data.
+Veileder: Fred Godtliebsen.
+
+Runa Reitan: ”Auswirkung der Normalverteilungseigenschaft auf die Genauigheit des
+SPC-Verfahrens mit und ohne Wertetransformation.
+Ansvarlig veileder: Emil Spjørvoll. Utført i Aachen, Tyskland.
+
+Permisjon:
+Førsteamanuensis John Sølve Tyssedal har permisjon i studieåret 92/93 og vil oppholde
+seg ved Department of Statistics, University of Wisconsin - Madison.
+
+
+
+25
+
+International
+Statistical
+
+Institute
+
+COMPETITION FOR YOUNG STATISTICIANS
+FROM DEVELOPING COUNTRIES
+1993
+
+The International Statistical Institute (ISI) announces the Sixth
+Competition among young statisticians from developing countries
+who are invited to submit a paper on any topic within the broad
+field of statistics, for possible presentation at the 49th
+Session of the ISI to be held in Florence, Italy, in 1993.
+
+Participation in the competition is open to nationals of
+developing countries who are living in a developing country, who
+
+were born in 1961 or later.
+
+Papers submitted must be unpublished, original works which may
+include material from participants' university theses.
+
+The papers submitted will be examined by an international Jury
+of distinguished statisticians who will select the three best
+papers presented in the competition. Their decision will be
+final.
+
+The authors of the winning papers will be invited to present
+their papers at the Florence Session of ISI, with all expenses
+paid (i.e. round trip airline ticket from his/her place of
+residence to Florence plus a lump sum to cover living expenses).
+
+Manuscripts for the Competition should be submitted in time to
+reach the ISI not later than January 1,
+
+1993.
+
+The rules governing the preparation of papers, application forms
+
+and full details are available on request from the ISI Permanent
+
+Office. The address is as follows:
+
+The Director
+Permanent Office
+
+International Statistical Institute
+428
+
+Prinses Beatrixlaan
+
+2270 AZ Voorburg
+The Netherlands
+
+
+
+26
+
+PÅMINNELSE OM MEDLEMSKONTINGENT.
+
+Pr. 4. juni d.å. er det berre kome inn 130 årskontingentar hittil i år. No var det om lag
+5 som betalte for 1992 i 1991, men til gjengjeld er det fleire som har betalt for 1991 eller
+før i 1992. Viss kasseraren har telt rett, er det berre 107 av om lag 300 medlemmer som
+er ajour med betalingen. Talet nede til høgre på adresseslippen fortel deg kva år du har
+betalt for sist. Betaler du 90 kr. (eller 30 kr. viss du er student), vil dette talet auka
+med 1. Viss det t.d. står 90 (for 1990), må du altså betala 180 kr. (evt. 60 eller 120 kr)
+for å verta ajour.
+
+Beste helsing
+Kasseraren
+
+Ole Lauvskar
+
+
+
+Ze
+
+Medlemskap i Norsk Statistisk Forening
+Kontingenten i foreningen er på kr. 90 pr. år for regulære medlemmer og kr. 30 for studenter. Korrespondanse om medlemskap og innbetaling av kontingent skal skje til foreningens
+kasserer:
+
+Norsk Statistisk Forening v/Ole Lauvskar
+Vital Forsikring
+5020 Bergen
+
+Innbetalinger skal gjøres på foreningens postgirokonto 5 15 10 55. Medlemmer som er usikre
+på når de betalte kontingent sist, vil nederst til høyre på adresseseddelen for Tilfeldig Gang
+finne angitt hvilket år siste betaling er registrert for. Vær imidlertid oppmerksom på at
+
+adressesedlene for bladet ligger noe etter ajourføringen av medlemsregisteret, slik at nylig
+
+foretatte innbetalinger ikke vil være tatt med her.
+
+Nye medlemmer melder seg til kassereren under adressen oppgitt ovenfor. Slike medlem-
+
+mer får automatisk tilsendt Tilfeldig Gang, med forbehold om at det tar noe tid før tilføyelser
+
+og forandringer i medlemsregisteret gjenspeiler seg i adressesedlene til bladet. Adresseforandringer meldes også til kassereren. Ved utsendelsen av Tilfeldig Gang benyttes det kopier
+av det vanlige medlemsregisteret, så adresseforandringer behøver ikke meldes separat til
+bladet.
+
+Annen korrespondanse med foreningen skal foregå med formannen under denne adressen:
+Norsk Statistisk Forening v / Trygve Nilsen Matematisk institutt
+Universitetet i Bergen
+Allégt. 55
+5007 Bergen
+
+Bidrag til Tilfeldig Gang.
+
+Neste nummer av Tilfeldig Gang vil forhåpentligvis komme ut i september 1992. Alle
+slags bidrag til bladet er velkommen, enten det gjelder nye temaer av interesse for norske
+statistikere, eller man har kommentarer til innlegg som allerede har stått i bladet. Stoff
+til neste nummer må være redaktøren i hende senest 1. september. Det kan gjerne
+sendes som ASCII-filer, eventuelt tilpasset IATpX, på diskett eller med elektronisk post.
+Redaktørens adresse er:
+
+Tilfeldig Gang v/Jan Bjørnstad
+Institutt for matematikk og statistikk
+Universitetet i Trondheim
+Den allmenvitenskapelige høgskolen
+7055 Dragvoll
+
+Telefonnummer (07) 591751.
+
+Elektronisk post: Jan.BjoernstadQavh.unit.no
+For IATpX-dokumenter: Inger.Seehuus@avh.unit.no
+
+
+
+Returadresse:
+
+Tilfeldig Gang v/ Ole Lauvskar
+
+Vital Forsikring A.S
+5020 Bergen
+
+
+
+
+
+
+

@@ -1,0 +1,1976 @@
+ISSN 0803-8953
+Tilfeldig gang
+Nr. 2, årgang 36
+November 2019
+
+Utgitt av Norsk statistisk forening
+Redaksjonelt
+
+Fra avtroppende styreleder i NSF . . . . . . . . . . . . .
+Fra NSFstyret . . . . . . . . . . . . . . . . . . . . . . . .
+Fra redaksjonen . . . . . . . . . . . . . . . . . . . . . . .
+
+1
+2
+3
+
+Sverdrupprisene 2019
+
+Fremragende representant: Bo Henry Lindqvist . . . .
+Fremragende representant: Karl Henning Omre . . . .
+Ung forsker: Steffen Grønneberg . . . . . . . . . . . . .
+
+4
+7
+9
+
+Gratulerer
+
+Arnoldo Frigessi 60 år . . . . . . . . . . . . . . . . . . .
+
+10
+
+Tankenøtter
+
+Pusleri nr. 52 . . . . . . . . . . . . . . . . . . . . . . . . .
+Pusleri nr. 51 (løsning) . . . . . . . . . . . . . . . . . . .
+Kodeoppgave . . . . . . . . . . . . . . . . . . . . . . . .
+
+12
+12
+13
+
+Møter og konferanser
+
+Det 20. Norske Statistikermøtet på Sola Standhotell . .
+Referat fra hovedmøte i NSF . . . . . . . . . . . . . . . .
+Trondheim Statistikksymposium 2019 . . . . . . . . . .
+
+14
+17
+19
+
+Artikler
+
+Blindmaking av Chablis-vin: Hvor enige er smakerne?
+Identifiserer de riktig vin? . . . . . . . . . . . . . .
+Alle disse tallene, alle disse tabellene . . . . . . . . . . .
+Anmeldelse: Stochastics in Science: Some autobiographical notes av Ole Eiler Barndorff-Nielsen . . . . .
+
+22
+28
+31
+
+Kunngjøringer
+
+NSF Stavanger . . . . . . . . . . . . . . . . . . . . . . . .
+Welcome to Tromsø and NORDSTAT 2020 . . . . . . .
+
+34
+35
+
+Meldinger
+
+Nytt fra UiT . . . . . . . . . . . . . . . . . . . . . . . . .
+Nytt fra NTNU . . . . . . . . . . . . . . . . . . . . . . .
+Nytt fra Matematisk institutt ved Universitetet i Oslo .
+Nytt fra Oslo senter for biostatistikk og epidemiologi .
+Nytt fra Universitetet i Bergen . . . . . . . . . . . . . .
+Nytt fra Universitetet i Stavanger . . . . . . . . . . . . .
+
+36
+36
+40
+42
+43
+45
+
+
+
+
+
+redaksjonelt
+Fra avtroppende styreleder i NSF
+Marie Lilleborge | Oslo
+
+Kjære alle medlemmer av NSF,
+Norsk Statistisk Forening har fått nytt styre, og jeg vil takke
+for tilliten som leder av foreningen juni 2017 – juni 2019. Jeg
+er stolt over å ha representert dere. Jeg opplever at NSF er en
+forening som betyr veldig mye for mange. Det er en forening
+som gir et sosialt faglig nettverk ved siden av arbeidsplassen,
+og som bringer statistikere fra hele landet sammen på en unik
+måte.
+Turid Follestad, Jan Terje Kvaløy, Ragnar Huseby og
+Yushu Li, tusen takk for samarbeidet, og for at dere utgjorde
+NSF-styret sammen med meg i perioden som har vært. Jeg er
+takknemlig for alt jeg har lært av dere, og alt vi har funnet ut
+av sammen. Tusen takk til Jo Eidsvik og Dag Tjøstheim for våre
+diskusjoner i Sverdrupkomiteen.
+Tusen takk til den avtroppende TG-redaksjonen, Karl Ove
+Hufthammer, Anne Marie Fenstad og Geir Drage Berentsen for
+fem flotte utgaver av Tilfeldig Gang. Lykke til ny TG-redaksjon
+ved redaktør Tore Selland Kleppe i perioden fremover.
+Tusen takk til arrangementskomiteen for Det 20. norske
+Statistikermøtet for de fine dagene på Sola; -Anastasia
+Ushakova, Bjørn Henrik Auestad, Bård Støve, Geir Drage
+Berentsen, Ingvild Dalen, Jan Terje Kvaløy, Jörn Schultz,
+Karl Ove Hufthammer og Tore Selland Kleppe-, og til
+programkomiteen for det innholdsrike og velkomponerte
+programmet; -Anne Marie Fenstad, Celine Cunen, Jan Terje
+Kvaløy, Stein Atle Lie, Torstein Mæland Fjeldstad, Yushu Li-.
+Du kan lese rapport fra Det 20. norske Statistikermøtet i dette
+nummeret av TG (side 14).
+Gratulerer til årets tre Sverdrupvinnere! Karl Henning
+Omre mottok Sverdrupprisen til en fremragende representant
+for statistikkfaget for sine forskningsbidrag innen geostatistikk
+samt sin innsats for bygge opp utdanningsmiljøet i statistikk
+ved NTNU. Bo Henry Lindqvist mottok Sverdrupprisen
+til en fremragende representant for statistikkfaget for sine
+forskningsbidrag innen sannsynlighetsteori, inferens og
+biostatistikk samt sin innsats for å bygge opp utdanningsmiljøet
+i statistikk ved NTNU. Steffen Grønneberg mottok
+Sverdrupprisen for beste artikkel skrevet av en ung forsker for
+sin artikkel med tittel ’On Partial-Sum Processes of ARMAX
+Residuals’ akseptert i Annals of Statistics. Det var en sann glede
+for meg å dele ut hver av disse prisene. Du kan lese mer om
+Sverdrupprisene 2019 i dette nummeret av TG (side 4).
+1
+
+
+
+Tusen takk til lokalforeningene i Oslo, Bergen, Trondheim
+og Stavanger, for foredrag og temamøter, og for at dere har
+vært lokale samlingspunkter for våre medlemmer gjennom året.
+Det er her det skjer!
+Jeg har satt stor pris på all kontakt jeg har hatt med
+medlemmene av NSF i stort og smått. Til sist vil jeg ønske lykke
+til til vårt nye NSF-styre ved Henning Omre (leder), Sondre
+Hølleland, Yushu Li, Ragnar Huseby og Alf Harbitz!
+Tusen takk for meg! Smil fra Marie
+
+Fra NSFstyret
+Henning Omre | Trondheim
+
+Et svært vellykket Norsk Statistikermøte på Sola ved Stavanger
+i Juni er tilbakelagt. Programmet omfattet et stort mangfold
+av foredrag, fra formell sannsynlighets teori til maskin-læring,
+samt en rekke foredrag med fargerike anvendelser. Kvaliteten
+på presentasjonene var imponerende. Overvekten av unge
+statistikere vitner om god ettervekst i faget. Like viktig var
+selvsagt det sosiale – Møtet skal være stedet hvor norske
+statistikere samles. Hovedmøte for NSF ble avholdt og nytt
+Styre for perioden 2019-21 ble valgt med undertegnede
+som leder, videre ble TG-redaksjon og revisorer valgt. En
+velfortjent takk til avtroppende Styre, TG-redaksjon og
+revisorer ble fremmet. Det nye NSF Styret har valgt Styrking
+av Lokallagene samt Strategi for å kartlegge og bedre
+inkludere statistikk-mangfoldet i arbeidslivet som to viktige
+satsingsområder å arbeide med. Vi ønsker å få etablert flere
+aktive Lokallag - utover lokal-foreninger i Oslo, Bergen og
+Trondheim. Disse foreningene er Brønnøysund registrert og
+derfor byråkratiske. Vi åpner nå for etablering av lokal-grupper
+som ubyråkratisk legges direkte under NSF sentralt. Stavanger
+har allerede meldt sin interesse – vi håper Tromsø og Ås
+- og kanskje flere vil gjøre det samme. Retningslinjer for
+Lokallagenes aktivitet er også utarbeidet. Videre har vi etablert
+en liste av NSF foredrag som lokallagene kan trekke på når
+de arrangerer møter. Sist men ikke minst, har vi utarbeidet
+rekrutteringsmateriell til bruk på møtene. Mer om dette kan
+dere finne på NSFs hjemmesider. Styret ønsker å kartlegge
+mangfoldet av statistikk miljøer samt utarbeide en strategi
+for å gjøre NSF attraktive for flere av disse. U&H sektoren er
+for tiden godt representert i NSF – delvis også biostatistikk men det er mange statistikere som arbeider i andre miljøer.
+Byrå statistikerne glimrer med sitt fravær – bank, forsikring
+og finans miljøene er svakt representert – tilsvarende kan sies
+om statistikere i naturressurs og miljø sektoren. Kanskje vi bør
+etablere NSF faggrupper som NSFs Vedtekter gir rom for ?
+NSF Styret ønsker medlemmene en fredfylt mørketid, og er
+2
+
+
+
+selvsagt åpne for forslag og innspill – kontakt info finnes på
+NSFs hjemmeside – ikke nøl med å ta kontakt.
+
+Fra redaksjonen
+Stein Andreas Bethuelsen, Tore Selland Kleppe, Jan Terje Kvaløy |
+Stavanger
+
+Først av alt, takk for tilliten som ble oss vist med å la oss overta
+TG. Vi skal gjøre det vi kan for å opprettholde det tradisjonelle
+bladet. Vi vil også rette stor takk til alle som har bidratt med
+innhold!
+I tiden fremover har vi ambisjoner om å gi ut bladet
+ihvertfall to ganger i året (høst/vår). Vi håper også å gjenoppta
+formatet der nydisputerte PhDer beskriver sin forskning
+(veiledere oppfordres til å minne sine studenter på dette). Ellers
+er som vanlig alt mulig relevant materiale av interesse, og kan
+sendes til tore.kleppe@uis.no
+
+3
+
+
+
+sverdrupprisene 2019
+Fremragende representant: Bo Henry Lindqvist
+Sverdrupkomitéen: Jo Eidsvik, Marie Lilleborge og Dag Tjøstheim |
+Trondheim/Oslo/Bergen
+
+Bo Henry Lindqvist mottar prisen for sine forskningsbidrag
+innen sannsynlighetsteori, inferens og biostatistikk samt sin
+innsats for å bygge opp utdanningsmiljøet i statistikk ved
+NTNU.
+Bo Henry Lindqvist ble født i 1951. Han tok hovedfag i
+statistikk ved Universitet i Oslo i 1975, og var amanuensis
+1976-78 og forsker 1978-79 ved samme institusjon. Lindqvist
+ble Dr. philos ved Universitetet i Oslo i 1982, for avhandlingen
+med tittelen «On the memory of a Markov chain. A decision
+theoretical approach». Bo Henry Lindqvist er i dag professor i
+statistikk ved Institutt for matematiske fag ved NTNU, hvor
+han har vært ansatt siden 1979. Han har også hatt bistilling ved
+SINTEF 1985-90 og har siden 2007 en bistilling ved Universitetet
+i Oslo.
+Lindqvist har en omfattende vitenskapelig produksjon hvor
+han har gitt viktige bidrag i blant annet generell inferensteori,
+stokastisk prosessteori, pålitelighetsteori og statistisk
+forløpsanalyse. Forskningen til Lindqvist viser både stor dybde
+og bredde, og stort omfang. Han har mye siterte arbeider i
+mange av de mest anerkjente statistikkjournalene (for eksempel
+Journal of the Royal Statistical Society: Series B, Annals of
+Statistics, Biometrika, Statistical Science, Technometrics, SJS),
+samt i tillegg en rekke vel anerkjente arbeider i journaler for
+pålitelighetsanalyse, medisin og andre anvendelsesområder.
+Han er også en av forfatterne av boken Applied Nonparametric
+Statistics in Reliability utgitt av Springer Series in Engineering i
+2011.
+Bo Lindqvist har gitt viktige bidrag innen pålitelighetsanalyse. Artikkelen «TTT-based tests for trend in repairable
+systems data» [1] publisert i Reliability Engineering & System
+Safety i 1998 presenterer og sammenligner populære grafiske
+tester og metoder for å analysere tidsintervaller mellom
+systemsvikt, med trendtester blant annet basert på Total
+Time on Test (TTT). Artikkelen «The trend-renewal process
+for statistical analysis of repairable systems” [2] analyserer
+en tidstransformert fornyelsesprosess kalt Trend-Renewal
+Process (TRP) som har både ordinær fornyelsesprosess
+og ikke-homogen Poisson-prosess som spesialtilfeller. Vi
+velger også å trekke frem artikkelen «On the statistical
+modeling and analysis of repairable systems» [6] publisert
+i Statistical science i 2006 med Lindqvist som aleneforfatter.
+4
+
+Bo Lindqvist holder sitt foredrag på
+det 20. norske statistikermøtet på Sola.
+Foto: Kathrine Frey Frøslie
+
+
+
+Her gjennomgås grunnleggende fremgangsmåter for svikt- og
+vedlikeholdsmodeller for reparerbare systemer, blant annet
+modeller for uperfekt reparasjon. Ulike trendtester blir også
+vurdert, og denne artikkelen har modellering som hovedfokus
+fremfor statistisk inferens.
+Et tilliggende område av forskningsarbeidet til Lindqvist
+er innen risikoanalyse. Her velger vi blant annet å trekke
+frem artikkelen «The identifiability problem for repairable
+systems subject to competing risks» [3] publisert i Advances in
+Applied Probability i 2004. Her belyses et system med ulike
+komponenter som kan svikte i et konkurrerende risiko-regime.
+I dette tilfellet er estimering av sviktfordelingene for de ulike
+komponentene umulig uten for eksempel å anta uavhengig
+svikt mellom komponentene, og uten mulighet til å teste
+denne antagelsen. I praksis er det ofte også slik at etter
+reparasjon er ikke nødvendigvis en komponent i tilsvarende
+tilstand som ny. Artikkelen gir viktig innsikt i å identifisere
+en sannsynlighetsmodell for systemet innenfor en klasse av
+modeller. I artikkelen «Competing risks for repairable systems:
+A data study» [7] publisert i Journal of Statistical Planning
+and Inference i 2006 tas det utgangspunkt i reelle data fra
+Offshore Reliability Data (OREDA-databasen) med tanke på å
+modellere vedlikehold og reparasjon for videre å undersøke
+underliggende kvaliteter ved vedlikeholdsregimet som er
+gjennomført.
+Blant Lindqvists betydelige bidrag innen inferens, finner vi
+artikkelen «Monte Carlo conditioning on a sufficient statistic»
+[4] publisert i Biometrika i 2005. Her presenteres en generell
+fremgangsmåte for Monte Carlo-beregning av betingede
+forventningsverdier gitt en tilstrekkelig observator, med flere
+eksempler. Vi velger også å trekke frem artikkelen «Fiducial
+theory and optimal inference» [8] publisert i The Annals of
+Statistics i 2013, der det vises at den fiduciale fordelingen i
+en gruppemodell (også mer generelt i en kvasigruppemodell)
+avgjør optimal equivariant frekventistisk inferensprosedyre.
+Innenfor multippel testing, velger vi å trekke frem Bo
+Lindqvists artikkel «Estimating the proportion of true null
+hypotheses, with application to DNA microarray data” [5]
+publisert i Journal of the Royal Statistical Society: Series B i 2005.
+Denne artikkelen er sitert hele 259 ganger. Med utgangspunkt i
+ikke-parametrisk maximum likelihood estimat av fordelingen
+til tettheten av p-verdier (begrenset til familiene av synkende og
+konvekst synkende sannsynlighetstettheter), estimeres andelen
+sanne nullhypoteser i en multippel hypotese-situasjon med et
+sett observerte p-verdier.
+Lindqvist har veiledet 16 PhD-studenter og 86
+masterstudenter, og han har vært helt sentral i å bygge opp
+statistikkutdanningene og statistikkgruppa ved NTNU. Blant
+studenter er Lindqvist kjent som en svært dyktig og respektert
+foreleser.
+5
+
+
+
+Lindqvist har gjort en stor innsats for faget i form av
+en lang rekke redaksjonelle verv for anerkjente journaler,
+spesielt var han sammen med Ørnulf Borgan redaktør for
+Scandinavian Journal of Statistics i 2007-2009. For tiden er
+han bl.a. redaktør for Wiley forlag sin bokserie Series on
+Mathematics and Statistics. Lindqvist har også hatt en rekke
+andre fagadministrative verv.
+Lindqvist har gjort en stor innsats for Norsk Statistisk
+Forening. Han var formann i perioden 1987-1989 og
+styremedlem 1985-87, han har vært med i redaksjonen for
+Tilfeldig Gang, og han var redaktør for Jubileumstidsskriftet
+«Statistisk Sett» som ble utgitt ved foreningen sitt 50-årsjubileum
+i 1986.
+1 Kvaløy, J.T. and Lindqvist, B.H., 1998. TTT-based tests for
+trend in repairable systems data. Reliability Engineering
+& System Safety, 60(1), pp.13-28.
+2 Lindqvist, B.H., Elvebakk, G. and Heggland, K., 2003. The
+trend-renewal process for statistical analysis of repairable
+systems. Technometrics, 45(1), pp.31-44.
+3 Bedford, T. and Lindqvist, B.H., 2004. The identifiability
+problem for repairable systems subject to competing risks.
+Advances in Applied Probability, 36(3), pp.774-790.
+4 Lindqvist, B.H. and Taraldsen, G., 2005. Monte Carlo
+conditioning on a sufficient statistic. Biometrika, 92(2),
+pp.451-464.
+5 Langaas, M., Lindqvist, B.H. and Ferkingstad, E., 2005.
+Estimating the proportion of true null hypotheses, with
+application to DNA microarray data. Journal of the Royal
+Statistical Society: Series B (Statistical Methodology),
+67(4), pp.555-572.
+6 Lindqvist, B.H., 2006. On the statistical modeling and analysis
+of repairable systems. Statistical science, 21(4), pp.532-551.
+7 Langseth, H. and Lindqvist, B.H., 2006. Competing risks for
+repairable systems: A data study. Journal of Statistical
+Planning and Inference, 136(5), pp.1687-1700.
+8 Taraldsen, G. and Lindqvist, B.H., 2013. Fiducial theory
+and optimal inference. The Annals of Statistics, 41(1),
+pp.323-341.
+
+6
+
+
+
+Fremragende representant: Karl Henning Omre
+Sverdrupkomitéen: Jo Eidsvik, Marie Lilleborge og Dag Tjøstheim |
+Trondheim/Oslo/Bergen
+
+Karl Henning Omre mottar prisen for sine forskningsbidrag
+innen geostatistikk samt sin innsats for å bygge opp
+utdanningsmiljøet i statistikk ved NTNU.
+Karl Henning Omre ble født i 1951. Han ble uteksaminert
+sivilingeniør ved Norges Tekniske Høyskole (NTH) i 1975. Han
+var forsker ved Norsk Regnesentral (NR) fra 1976 til 2000, og
+var sentral i oppbygningen av SAND-gruppen ved NR. Omre
+tok PhD-grad ved Stanford University i 1985, og siden 1992 har
+han vært professor i statistikk ved NTNU (de første åtte årene
+med bistilling på NR).
+Omre har bemerket seg innen romlig sannsynlighet
+og statistikk, anvendelser innen naturressurser og spesielt
+evaluering av usikkerhet i oljereservoar. Omre har videre
+bemerket seg ved å være med å bygge opp et studieprogram i
+matematikk og statistikk ved Hawassa University, Etiopia, med
+støtte fra NORAD.
+Henning Omre er en nestor i geostatistikk, og har blant
+annet initiert tradisjonen med Bayesiansk kriging. Tradisjonell
+kriging er en generell metode for statistisk interpolering
+som kan benyttes for å lære fra stikkprøvedata om felt som
+tilfredsstiller hensiktsmessige matematiske forutsetninger, og
+dermed kunne interpolere kunnskap til områder som ikke er
+direkte observert. Tidligere var det vanlig å inkludere kunstige
+observasjoner i tilfellene der man ønsket å kombinere data med
+erfaringskunnskap i de statistiske analysene. Omre introduserte
+som aleneforfatter Bayesiansk kriging i Mathematical Geology
+i 1987 i artikkelen med tittel «Bayesian kriging—Merging
+observations and qualified guesses in kriging» [1]. Omre har
+også bidratt med flere andre sentrale arbeid i romlig statistikk
+(blant annet [2] og [3]).
+I årene på NR bidro Henning Omre aktivt i arbeidet med
+å få inn usikkerhetskvantifisering i oljebransjen. Vi velger å
+fremheve det sentrale arbeidet med tittel «Uncertainties in
+reservoir production forecasts» som ble publisert i AAPG
+bulletin i 1997 [4]. I dette arbeidet presenteres Bayesiansk
+metodologi for simulering og usikkerhetsmodellering med
+utgangspunkt i at initielle reservoarkarakteristikker er ukjente.
+Videre demonstrerer resultatene fra anvendelsen i artikkelen at
+usikkerheten i modellparametrene gir et signifikant bidrag til
+det totale usikkerhetsnivået, og det illustreres at kvantifisering
+av usikkerhet er essensielt når nye oljefelter skal vurderes.
+Omre har også flere viktige arbeider innen Bayesiansk
+seismisk inversjon. Refleksjonsstyrken fra en flate mellom to
+ulike materialer avhenger av refleksjonsvinkelen og enkelte
+materialegenskaper. Dette utnyttes i seismiske undersøkelser,
+
+Karl Henning Omre holder sitt
+foredrag på det 20. norske
+statistikermøtet på Sola. Foto: Kathrine
+Frey Frøslie
+
+7
+
+
+
+og mer spesifikt i «Amplitude Versus Offset” inversjonsmetoder.
+I dag er AVO-analyse en veletablert teknikk for å resonnere
+rundt et reservoars porøsitet, tetthet, litologi og fluidinnhold.
+Geophysics-artikkelen «Bayesian linearized AVO inversion»
+fra 2003 [5], som er sitert hele 608 ganger, presenterer en
+Bayesiansk linearisert type AVO inversjonsmetode som leder til
+beregningseffektive posterior Gaussiske fordelingsfunksjoner
+for parametrene P-bølgehastighet, S-bølgehastighet og
+tetthet, og dermed også eksplisitte uttrykk for posterior
+forventningsverdi og kovarians. Vi velger også å trekke frem
+Geophysics-artikkelen «Bayesian lithology/fluid prediction
+and simulation on the basis of a Markov-chain prior model”
+[6] fra 2006. Her benyttes en stasjonær Markov kjede som
+prior modell, og en tilnærming i likelihood-modellen gjør at
+posterior kan beregnes med en eksakt og effektiv rekursiv
+sampling-algoritme.
+Omre har veiledet 19 PhD-studenter og en lang rekke
+masterstudenter, og han har vært helt sentral i å bygge opp
+statistikkutdanningene og statistikkgruppa ved NTNU. Blant
+studenter er Omre kjent som en svært engasjert og faglig sterk
+foreleser.
+Karl Henning Omre har gjort karriere både innenfor og
+utenfor akademia, og har gjort en formidabel innsats for
+utdanning både nasjonalt ved NTNU og internasjonalt ved
+Hawassa University i Etiopia.
+1 Omre, H. (1987). Bayesian kriging—Merging observations
+and qualified guesses in kriging. Mathematical Geology,
+19(1), s.25-39.
+2 Hjort, N. L. & Omre, H. (1994). Topics in spatial statistics
+[with discussion, comments and rejoinder]. Scandinavian
+Journal of Statistics, s.289-357.
+3 Høst, G., Omre, H., & Switzer, P. (1995). Spatial interpolation
+errors for monitoring data. Journal of the American
+Statistical Association, 90(431), s.853-861.
+4 Lia, O., Omre, H., Tjelmeland, H., Holden, L. and Egeland,
+T., 1997. Uncertainties in reservoir production forecasts.
+AAPG bulletin, 81(5), s.775-802.
+5 Buland, A. and Omre, H., 2003. Bayesian linearized AVO
+inversion. Geophysics, 68(1), s.185-198.
+6 Larsen, A.L., Ulvmoen, M., Omre, H. and Buland, A., 2006.
+Bayesian lithology/fluid prediction and simulation on the
+basis of a Markov-chain prior model. Geophysics, 71(5),
+s.R69-R78.
+
+8
+
+
+
+Ung forsker: Steffen Grønneberg
+Sverdrupkomitéen: Jo Eidsvik, Marie Lilleborge og Dag Tjøstheim |
+Trondheim/Oslo/Bergen
+
+Steffen Grønneberg er født i 1983 og tok sin doktorgrad i
+statistikk med tittel «Some applications of stochastic process
+techniques to statistics» ved Matematisk Institutt ved UiO i
+2011. Han er nå ansatt som førsteamanuensis i statistikk ved
+Institutt for samfunnsøkonomi ved Handelshøyskolen BI.
+Grønneberg får prisen for sin artikkel «On partial-sum
+processes of ARMAX residuals» fordi arbeidet er svært solid
+forskningsmessig gjennomført, på en forbilledlig måte, og i en
+tradisjonell og veldig god statistikkjournal. Den unge franske
+forskeren Benjamin Holcblat er medforfatter på dette arbeidet;
+dette er et felles arbeid av to sterke unge forskere på omtrent
+samme alder. Den innstilte unge forskeren har fått akseptert
+dette imponerende arbeidet i Annals of Statistics, og har også
+en del gode publikasjoner fra tidligere. Videre, der det er
+samarbeid i hans publikasjoner, er han slik komiteen forstår det
+minst likeverdig partner.
+AutoRegressive Moving Average-modeller med kovariater
+(ARMAX) er en sentral klasse modeller innen tidsrekkeanalyse.
+I arbeidet som Sverdrupprisen tildeles for, etableres generelle
+resultater for grenseoppførselen til delsum-prosessen av
+ARMAX-residualer, som er estimater av ARMAX-feilledd.
+Resultatene er gyldige for avhengige ARMAX-feilledd og
+omfatter blant annet feilspesifiserte ARMAX modeller med
+autokorrelerte feilledd, ARMAX modeller med strukturelle
+brudd og ikke-lineære ARMAX modeller.
+
+Steffen Gønneberg etter å ha mottatt
+prisen på det 20. norske
+statistikermøtet på Sola. Foto: Kathrine
+Frey Frøslie
+
+9
+
+
+
+gratulerer
+Arnoldo Frigessi 60 år
+Odd O. Aalen/Magne Thoresen/Marit B Veierød | Oslo
+
+Arnoldo Frigessi fylte 60 år 13. april. Han er et av de store
+navn i norsk statistikk, og har hatt en enorm innflytelse på
+statistikkfagets posisjon, innflytelse og popularitet.
+Det var kjærligheten som brakte Arnoldo til Norge. Hans
+kone Ingrid Glad, som for øvrig er statistiker ved Matematisk
+institutt ved UiO, har æren for at Arnoldo i 1997 flyttet fra sitt
+hjemland Italia til fordel for Norge.
+Arnoldo var de første årene i Norge ansatt ved Norsk
+Regnesentral. Fra 2003 har han vært ansatt som professor i
+biostatistikk ved Det medisinske fakultet ved UiO og siden
+2014 ved både UiO og Oslo universitetssykehus (OUS) som
+leder av Oslo senter for biostatistikk og epidemiologi (OCBE).
+Arnoldo markerte seg tidlig ved å foreslå at statistikk-miljøet
+i Oslo skulle søke om et Senter for fremragende forskning
+(SFF) ved den første SFF-utlysningen rundt år 2000. Dette ble
+betraktet som oppsiktsvekkende, nærmest et brudd på god
+tone. Statistikkfagets selvbilde var som en beskjeden disiplin
+som skulle tjene andre fag. Men med sin overbevisende kraft
+klarte Arnoldo å samle ressursene til en søknad. Denne gikk
+riktignok ikke igjennom, men representerte likevel et brudd
+med fagets beskjedenhet. Det var skapt en ny selvtillit, en tro
+på at man kunne søke ressurser på alle nivåer. En øket innsats
+for å søke prosjektmidler og markere seg som et uavhengig fag
+kunne snart merkes.
+Ved Forskningsrådets neste søknadsrunde rundt år 2005 ble
+det søkt både SFF og Senter for Forskningsdrevet Innovasjon
+(SFI), og det siste ble innvilget med Arnoldo som leder.
+Primær vertsinstitusjon var Norsk Regnesentral. SFI-en ble et
+middel til å markere faget med et omfattende samarbeid med
+næringslivet. De populære SFI-lunsjene er et middel til å skape
+et miljø og markere faglige viktige temaer.
+I dag er det ingen som løfter et øyebryn om statistikere
+søker prosjekter på de høyeste nivåer. Det andre Senter for
+forskningsdrevet innovasjon, med navnet BigInsight, har
+allerede vært i gang i flere år med Arnoldo som hoveddrivkraft.
+Som nevnt over er også Arnoldo leder for OCBE. Dette
+senteret består av rundt 50 statistikere som dels er ansatt ved
+UiO, og dels på OUS. Arnoldo har gjort en meget god jobb som
+organisator for dette miljøet i samarbeid med ledergruppen.
+Han har vært sentral i arbeidet med å bygge opp og organisere
+senterets veiledningstjeneste som har blitt et meget populært
+tilbud til forskere i medisin og helsefag ved UiO og i hele
+10
+
+
+
+Helse Sør-Øst. Han har også lagt mye arbeid i å ta opp nye
+forskningsmessige temaer, som Big Data og maskinlæring.
+Således fremstår biostatistikk-miljøet som fremtidsrettet og et
+sentralt miljø i medisinsk forskning i Oslo.
+Arnoldos egen forskning spenner vidt, fra teoretiske
+arbeider relatert til MCMC-metoder via copula teori til
+persontilpasset medisin og anbefalingssystemer. Han går inn i
+alle prosjekter med en voldsom driv og entusiasme.
+Arnoldo har som det fremgår ovenfor pågangsmot og stor
+kapasitet til å gjennomføre sine gode ideer. Dette gjelder også
+utenfor det som er direkte knyttet til forskning. Eksempelvis
+har han arrangert «Internasjonal Gourmet Evening» for hele
+OCBE der han leide et skolekjøkken og vi tilberedte og koste
+oss med mat fra et tosifret antall land som alle er representert
+blant OCBEs ansatte. Arnoldo er alltid positiv og til tross for
+stor aktivitet har han alltid tid til sine kolleger og han skaper et
+positivt arbeidsmiljø rundt seg.
+Arnoldo er også sterkt engasjert utenfor Norge. Han har
+gjort en stor jobb i å bygge statistikk i Etiopia med kurs og
+forskning og hatt mange etiopiske forskere på opphold her.
+Dette er imponerende og viser et ansvar for den videre verden.
+Vi gratulerer Arnoldo med dagen!
+
+11
+
+
+
+tankenøtter
+Pusleri nr. 52
+Jostein Lillestøl | Bergen
+
+En kinoforestilling skal snart begynne, og åtte personer er igjen
+i billettkøen. Billettprisen er 100 kroner per person. Billettøren
+tar kun kontanter, og har akkurat sluppet opp for vekslepenger.
+Anta at fire av de åtte har 100 kroner, mens de andre fire bare
+har en 200 kroner seddel hver, og at kundene står i tilfeldig
+rekkefølge.
+– Hva er sannsynligheten for at det oppstår veksleproblem?
+– Hva er den generelle løsning når det er m = 2n kunder i
+køen?
+– Hva om det er to flere med 200 kronesedler enn med
+100 kroner sedler i køen, og billettøren hadde to 100
+kronesedler i kassen forut for de m kundene?
+Løsning til jostein.lillestol@nhh.no
+
+Pusleri nr. 51 (løsning)
+Jostein Lillestøl | Bergen
+
+Oppgaven var: Brødrene Per og Pål er på hyttetur i påsken med
+hver sin venninne. Det er bitende kaldt og guttene har lovet å
+stå opp tidlig om morgenen og fyre i ovnen. De har bestemt seg
+for å trekke lodd hver kveld om hvem av de to som må til pers
+neste morgen. Loddtrekningen skjer ved trekning av en kule fra
+en skilue med kuler, hentet fra Kinasjakken. Per har rød kule
+og Pål blå kule, og den med fargen på uttrukken kule må fyre
+opp neste morgen. Den første kveld er det bare en kule av hvert
+slag i luen. Kvelden etter må den som slapp unna legge en kule
+til av sin farge i luen, slik at risikoen øker for å bli trukket ut til
+fyring neste morgen. På dette viset fortsetter de inntil begge
+guttene har tatt sin tørn. Da startes det på nytt med en kule
+hver, og slik går dagene. Per har store forventninger til påsken,
+og ønsker (og ser for seg) at den skal vare uendelig lenge. Men
+han gruer seg til å stå tidlig opp. Hva er forventet antall netter
+til han må stå tidlig opp og fyre? Nå varer påskeferien bare syv
+døgn, og de er enige om at dersom en av dem slipper unna
+fyringen alle seks første morgenene, så skal denne fyre den
+siste. Hva er nå forventet antall netter til Per må stå tidlig opp?
+Kommenter!
+Løsning
+12
+
+
+
+Sannsynlighetene for ventetidene 1, 2, 3, ..., n:
+1
+2
+3
+4
+···
+n
+1
+1 2
+1 1 3
+1 1 1 4
+n
+·
+·
+·
+·
+·
+·
+·
+·
+·
+2
+2 3
+2 3 4
+2 3 4 5
+( n +1) !
+Med uendelig horisont blir forventet ventetid
+n
+E( X ) = ∑∞
+n=1 n · (n+1)! = e − 1 = 1.71828.
+Uten kjennskap til summeformelen, kan du som
+statistiker vri deg unna med følgende omskriving:
+2 e −1
+E( X ) = e ∑∞
+n=0 ( n − 1) n! − 1 = e − 1, der summen er
+variansen til en Poisson-fordelt variabel med forventning (og
+varians) lik 1.
+Forøvrig er det lett å vise at P( X ≥ x ) = 1/(n + 1)!. Her blir
+P( X ≥ 7) = 0.0002, og forventningen til min( X,7) blir 1.71825,
+som adskiller seg fra uendelig horisont først i femte desimal.
+Kommentarer: Problemstillingen er komplementær til den
+såkalte Polya urnemodell (Polya, 1931). Forskjellen er at i
+Polya-modellen får den som blir trukket ut en ny kule tillagt
+urnen, mens i vårt problem får den som ikke blir trukket ut
+en ny kule, og dermed økt sannsynlighet ved neste trekning.
+Polya-modellen i mer generell form er grundig studert teoretisk,
+se for eksempel den klassiske boken til Feller (1957), som var
+pensum i kurset S3 ved Universitetet i Oslo på 1960-tallet.
+Spesialtilfeller er blitt anvendt på flere områder, blant annet
+for å studere spredning av smittsomme sykdommer. Bernard
+Friedman (1949) har gitt navn til den kombinerte modell, der
+det suppleres med a kuler av uttrukken farge og b kuler av
+motsatt farge. Asymptotiske resultater for andelen kuler av
+hver farge i urnen er helt ulike for b = 0 (Polya) og for b > 0, se
+f.eks David Freednan AMS, 1965.
+
+Kodeoppgave
+Tore Selland Kleppe | Stavanger
+
+Ikke så rent lite inspirert av Christian Roberts blog
+(https://xianblog.wordpress.com) hvor han løser matematikkoppgaver fra Le Monde med R: her kommer en
+kodeoppgave:
+På Vitenfabrikken på Sandnes, og VilVite i Bergen (og
+sikkert flere steder også) er det en installasjon som ber deg
+finne kombinasjoner av A, . . . , I slik at
+ABC · DE = EFG · H I.
+Her representerer hver av A, . . . , I et av sifferene
+0,1,2,3,4,5,6,7,8,9, og hvert av sifferene kan kun brukes en gang.
+Eksempelvis er 476 · 09 = 153 · 28(= 4284) en slik løsning.
+Spørsmål: Hvor mange distinkte1 løsninger finnes det?
+
+1 Dvs ABC · DE = EFG · H I og
+
+EFG · H I = ABC · DE teller som en
+løsning.
+
+13
+
+
+
+møter og konferanser
+Det 20. Norske Statistikermøtet på Sola Standhotell
+Jan Terje Kvaløy | Stavanger
+
+Det 20. norske statistikermøtet ble avholdt på Sola
+Strandhotell, utenfor Stavanger, den 18.-20. juni 2019, med
+forkurs 17.-18. juni. Arrangering av møtet var et godt samarbeid
+mellom NSF Bergen og statistikere i Stavanger. Totalt 80
+deltagere fra hele landet deltok på møtet, og 36 på forkurset.
+Forkurset ble arrangert av Kathrine Frey Frøslie, og temaet
+var «Visualisation and communication of statistics». Kathrine
+formidlet engasjert blant annet gode tips for design av postere
+og presentasjoner, og snakket også om formidling av statistikk i
+undervisningssituasjoner og i allmennformidling. Videre hadde
+hun fått med seg fire spennende gjesteforelesere: Jo Røislien
+som snakket om «From stat fact to stat communication»; Tom
+Gabriel Johansen som snakket om grafisk design og bl.a.
+erfaringer fra design av grafiske fremstillinger i den siste
+rapporten fra FNs klimapanel; Hege Ulstein som snakket om
+tall og statistikk i politikk og journalistikk og Hege Tapio som
+ga en kunstners blikk på formidling.
+14
+
+
+
+Kathrine Frey Frøslie under forkurset
+
+Foto: Hilde Vinje
+
+Etter forkurset var ferdig tok Kathrine på sparken jobben
+som møtefotograf for resten av møtet, og en samling av bilder
+fra møtet finnes her.
+Et fast høydepunkt på statistikermøtene er utdeling av
+Sverdrup-prisene og tilhørende Sverdrup-foredrag. I år ble
+prisen for fremragende representant utdelt til Bo Lindqvist og
+Henning Omre ved NTNU, og prisen for ung forsker til Steffen
+Grønneberg ved BI. Nærmere omtale av alle prisvinnerne
+finnes annet sted i bladet.
+Inviterte foredragsholdere på møtet var Hans Julius Skaug,
+UiB som holdt foredrag om «Close-kin mark-recapture»;
+Sigrunn Holbek Sørbye, UiT, som holdt foredrag om «Bayesian
+analysis of temperature series accounting for long-range
+dependence and climate forcing» og Manuela Zucknick med
+foredrag om «Integration of multi-omics data sources in cancer
+prediction via structured penalties and informative selection.»
+Den gode interessen for møtet gjenspeilet seg også
+i en betydelig mengde påmeldte foredrag, noe som ga
+programkomiteen en hyggelig utfordring med å prøve å sette
+opp et program innen tidsrammene for møtet. Med litt lange
+dager, kun 15 minutt til påmeldte foredrag og ikke for lange
+pauser gikk puslespillet opp – og resultatet ble en rikholdig og
+variert meny som reflekterte det vide spennet av interessant
+ting som statistikere jobber med. John Tukey sitt sitat «The
+best thing about being a statistician is that you get to play in
+everyone’s backyard», ble godt demonstrert i løpet av møtet samt at vi selvfølgelig også får “leke” med våre egne problemer.
+
+15
+
+
+
+Det vil føre for langt å nevne alle tema, men noen stikkord
+for å illustrer bredden er: Sykdomsspredning i fiskeoppdrett,
+estimering av kovarians i avl, deteksjon av økonomisk
+bedrageri, modellering av voldsintensitet i væpnede konflikter,
+spredning av influensa i Bangladesh, analyse av subtyper og
+stadier av brystkreft, kuratering av generete alfabeter og PCA
+for deteksjon av endringer i multi-strømdata. Hele programmet
+for møtet finnes på nettsidene for møtet.
+Under hovedmøtet for foreningen, som ble avholdt tirsdag
+18.juni, ble Henning Omre valgt til ny leder av NSF for
+de to neste årene og Tore Selland Kleppe ble valgt til ny
+redaktør for TG. Andre saker som ble diskuterte på møtet
+var statistikkfagets plass i skolen i den nye rammeplanen for
+grunnskole og videregående skole og betaling av kontingent til
+FenStats. Referat fra møtet er gjengitt annet sted i bladet.
+Den tradisjonelle fotballkampen på statistikermøtet var
+denne gang erstattet med s(tr)andvolleyball og boccia da lokale
+forhold lå bedre til rette for dette. Innsatsen var upåklagelig!
+Under konferansemiddagen holdt Per Amund Amundsen,
+professor i fysikk ved Universitetet i Stavanger, en tale hvor han
+fortalte om sin mor Herdis Thoren Amundsen, en av pionerne i
+det norsk statistikkfag og bl.a. den første kvinnelige leder av
+NSF. Andre innslag under middagen var at Marie Lilleborge,
+den andre kvinnelige leder av NSF, takket av som leder – og
+nyvalgt leder Henning Omre snakket om sine vyer for veien
+videre for NSF.
+Det er alltid hyggelig når den norske statistikerfamilien
+møtes, så også denne gang. Vi som skriver denne rapporten var
+selv med å arrangere møtet så vi skal være forsiktige med å
+skryte, men sett i fra vårt perspektiv gikk avviklingen av møtet
+fint – og vi opplevde møtet som innholdsrike dager, med et
+høyt faglig nivå, og hvor vi fikk et bredt og interessant innblikk
+i alt det spennende norske statistikere jobber med!
+
+16
+
+Hans Julius Skaug holder sitt inviterte
+foredrag. Foto: Kathrine Frey Frøslie
+
+Sigrunn Holbek Sørbye holder sitt
+inviterte foredrag. Foto: Kathrine Frey
+Frøslie
+
+Manuela Zucknick holder sitt inviterte
+foredrag. Foto: Kathrine Frey Frøslie
+
+
+
+REFERAT FRA HOVEDMØTE I NORSK STATISTISK FORENING
+Tid: tirsdag 18. juni, kl 18:15-19:15
+Sted: Solastrand
+Hovedmøtet ble gjennomført i tilknytning til det 20. norske statistikermøte.
+1. Godkjenning av innkallingen og saksliste
+Innkallingen og sakslisten ble godkjent.
+2. Valg av møteleder og referent
+Møteleder: Marie Lilleborge
+Referent: Ragnar Bang Huseby
+Kristoffer Herland Hellton og Kathrine Frey Frøslie ble valgt til underskrive
+protokollen.
+3. Årsberetning for 2017-2019
+Årsberetningen ble godkjent.
+4. Regnskap for 2017 og 2018
+Regnskapet ble godkjent
+5. Medlemskontingent
+Kontingenten holdes uendret.
+6. FenStatS (The Federation of European National Statistical Societies)
+NSF betaler et tillegg på EUR 400 slik at NSF totalt betaler EUR 500.
+7. Ny lokalforening startes i Stavanger
+8. Valg
+Følgende ble valgt ved akklamasjon.
+Leder:
+Karl Henning Omre, NTNU
+Kasserer:
+Sondre Hølleland, Universitetet i Bergen
+Styremedlemmer:
+Yushi Li, Universitetet i Bergen
+Ragnar Bang Huseby, Norsk Regnesentral
+Alf Harbitz, Havforskningsinstituttet
+Varamedlemmer:
+Clara-Cecilie Gunther, Norsk Regnesentral
+Tore Wentzel-Larsen, RBUP
+Revisorer:
+Hanne Rognebakke, Norsk Regnesentral
+Tor Cato Gjerdingen, Oslo Pensjonsforsikring
+Tilfeldig gang
+
+1
+
+
+
+Redaktør:
+Redaksjon:
+
+Tore Selland Kleppe, Universitetet i Stavanger
+Lokalforeningen i Stavanger
+
+Styret får fullmakt til å utpeke ny valgkomité og ny Sverdrup-komité.
+
+Kristoffer Herland Hellton
+
+Kathrine Frey Frøslie
+
+2
+
+
+
+Trondheim Statistikksymposium 2019
+Skrevet av Silius Mortensønn Vandeskog, Fredrik Nevjen og Haris Fawad
+Det ellevte symposiet i statistikk ved Institutt for matematiske fag ved NTNU ble høsten 2019
+holdt på Ørland kysthotell på Brekstad. 38 deltakere var samlet for å holde eller høre på
+spennende seminarer og/eller nyte godt samvær med kollegaer i vakre omgivelser.
+Etter en times tur med hurtigbåt, hvor både havet og magene rumlet, ble vi tatt hjertelig imot
+med kaffe og nydelige vafler. Fredagens foredrag ble holdt av Virgilio Gomez Rubio og Sigrunn
+Holbek Sørbye, og etterfulgt av en utsøkt treretters middag.
+
+Lørdagens tre foredrag ble holdt av Luca Porta Mana, Gaute Einevoll og Gregor Gorjanc.
+Hotellet stilte med lunsjpakker som ble nytt på tilbakeveien. Vi druknet kanskje i ny kunnskap,
+men alle kom tørrskodde i land tilbake i Trondheim.
+
+
+
+Program
+Fredag
+Virgilio Gomez Rubio (University of Castilla-La Mancha)
+Bayesian inference with INLA and MCMC
+Sigrunn Holbek Sørbye (UiT)
+Bayesian analysis of long-range dependent processes with applications in climatology
+Lørdag
+Luca Porta Mana (NTNU)
+Cross-validation and early stopping from a Bayesian point of view
+Gaute Einevoll (NMBU)
+The (too large) role of statistics in brain science
+
+
+
+Gregor Gorjanc (University of Edinburgh)
+Modelling Genomic and Spatial effects in breeding
+Arrangementkomiteen besto av Sara Martino og Benjamin Dunn. For informasjon om tidligere
+symposier se​ ​https://wiki.math.ntnu.no/selbusymposium​.
+
+
+
+artikler
+
+22
+
+
+
+Blindmaking av Chablis-vin: Hvor enige er
+smakerne? Identifiserer de riktig vin?
+Av Lars Wichstrøm og Stian Lydersen
+Lars Wichstrøm er professor i psykologi, Institutt for psykologi, Norges teknisk-naturvitenskapelige
+universitet.
+Stian Lydersen er professor i medisinsk statistikk, Regionalt kunnskapssenter for barn og unge
+– Psykisk helse og barnevern, Institutt for psykisk helse, Norges teknisk-naturvitenskapelige
+universitet.
+
+Innledning
+Når to eller flere vinsmakere vurderer samme vin, behøver de ikke komme til samme konklusjon.
+Metoder for analyse av data fra vinsmaking (Olkin, Luu, Stokes, & Cao, 2015) er i stor grad de samme
+som brukes for samsvar mellom observatører, samt egenskaper ved diagnostiske tester, innen
+medisin. I denne artikkelen presenterer vi resultater fra en blindsmaking av Chablis-viner, og ser
+spesielt på følgende:
+•
+•
+•
+•
+
+Hva er samsvar mellom smakerne for skåre?
+Hva er samsvar mellom smakerne for Grand cru versus Premier cru?
+Kan smakerne skille mellom Grand cru og Premier cru?
+Hva predikerer skåre: Produsent, Grand Cru versus Premier Cru, eller årgang?
+
+Metode
+Deltakere
+I alt 14 menn med vin som en seriøs hobby deltok på en vinsmaking i Oslo i april 2018.
+
+Viner
+Vindistriktet Chablis har fire appellasjoner: Petit Chablis, Chablis AOP (Appellation d'Origine
+Protégée), Chablis Premier cru, og Chablis Grand cru. Smakingen inkluderte 33 viner, herav 13
+Chablis Premier cru, 17 Chablis Grand cru, samt 3 viner som likner på Chablis men er fra andre
+distrikt. Pris per flaske Premier cru og Grand cru er hhv ca NOK 300 og ca NOK 600. Hver deltaker
+leverte to eller tre flasker til LW som arrangerte smakingen.
+
+Prosedyre
+Vinene ble dekantert i like karafler to til fem timer før smakingen. Rekkefølgen av karaflene ble
+randomisert i tilfeldig rekkefølge før smakingen. Alle deltakerne fikk vinene i samme rekkefølge.
+Vinene ble servert i grupper («flights») på fire av gangen. Etter hver flight gav deltakerne en skåre for
+hver vin. Her brukte man Robert Parker-skalaen (https://www.robertparker.com/ratings), som går
+fra 50 (fullstendig udrikkelig) til 100 (perfekt). I tillegg noterte de antatt produsent blant 10
+
+
+
+alternativer, hvorav et var «annet», dvs ikke Chablis. Videre noterte de antatt appellasjon (Chablis
+Premier cru versus Chablis Grand cru) og antatt årgang. Alle notatene ble gjort uten å diskutere med
+hverandre. Så ble de fire vinene tilkjennegjort, og deltakerne fikk diskutere seg imellom. Ideelt burde
+smakingene vært gjort i separate avlukker med monokromatisk lys, og uten samtaler før alle vinene
+var smakt. Men, dette skulle også være en sosial kveld. Likevel var de fleste enige om at dette var
+den mest «nerdete» og vanskelige vinsmakingen som de hadde deltatt på.
+
+Statistikk
+Samsvar mellom observatører («inter-rater reliability») for skårene ble analysert med en lineær
+blandet effekt-modell med deltaker og vin som kryssede tilfeldige effekter, som beskrevet i (RabeHesketh & Skrondal, 2012) side 436 - 441. Samsvar mellom observatører for Grand cru versus
+Premiere cru ble analysert med en logistisk blandet-effekt modell med Grand cru (versus Premier
+cru) som avhengig variabel, og deltaker og vin som kryssede tilfeldige effekter. Kan deltakerne
+identifisere Grand cru? Dette ble analysert med en logistisk blandet-effekt modell med Grand cru
+(versus Premier cru) som avhengig variabel, deltaker og vin som kryssede tilfeldige effekter, og
+Grand cru som fast effekt. Hva predikerer skåre: Produsent, Grand cru versus Premiere cru, eller
+årgang? Her brukte vi en lineær blandet-effekt modell. Vi rapporterer 95% konfidensintervall (KI) der
+det er relevant, og regner en p-verdi under 0,05 som indikasjon på statistisk signifikans. Analysene
+ble gjort i SPSS25 og Stata15.
+
+Resultater
+Bare 4 deltakere rapporterte skåre for alle de 33 vinene. Antall manglende skårer per deltaker
+varierte fra 0 til 22. Skåre manglet i 78 (17%) av et potensielt antall på 14x33=462 skårer.
+Gjennomsnitt og standardavvik for de 384 tilgjengelig skårene var 90,76 og 2,00. Fordelingen er vist i
+histogrammet i Figur 1.
+
+Figur 1: Histogram som viser fordeling av skårer.
+
+
+
+Med en lineær blandet effekt-modell med skåre som avhengig variabel, og deltaker og vin som
+kryssede tilfeldige effekter, estimerte vi tre varianskomponenter: Mellom deltakere (innen vin)
+0,086, mellom viner (innen deltaker) 1,150, og residualvarians 2.785. Totalvariansen er summen av
+disse tre komponentene, 4,021. Variansen mellom deltakerne var ikke statistisk signifikant
+(p=0.087). Altså var det ingen evidens for at noen deltakere gav systematisk høyere skåre enn andre.
+Variansen mellom vinene var imidlertid høysignifikant (p<0.001). Intraklasse
+korrelasjonskoeffisienten (intraclass correlation coefficient) for deltakerne er lik mellom vinvariansen delt på totalvariansen, ICC=1,150/4,021=0,286 ((Rabe-Hesketh & Skrondal, 2012) side 436
+– 441).
+Det var 343 registrere svar på antatt Grand cru (versus Premier cru). I en logistisk blandet-effekt
+modell med antatt Grand cru som avhengig variabel, og deltaker og vin som kryssede tilfeldige
+effekter, fant vi følgende: Variansen (på en log-odds skala) mellom deltakerne var 0.165 (p=1.0), og
+mellom vinene (p=0.008). Altså varierte tendensen til å anta Grand cru systematisk mellom vinene,
+men ikke mellom deltakerne.
+Resultatene av å identifisere Grand cru versus faktisk Grand cru er oppsummert i Tabell 1. Denne
+analysen er begrenset til de 30 vinene fra Chablis. Dette har en viss analogi til nøyaktighet av
+diagnostiske tester i medisin: Hvis Grand cru er den «tilstanden» vi ønsker å identifisere, så ser vi i
+Tabell 1 at deltakerne hadde en sensitivitet på 50,9% og en spesifisitet på 63.6%. Innen medisinsk
+diagnostikk ville dette regnes som dårlig nøyaktighet. I en logistisk blandet effekt modell får vi et
+oddsforhold på 1,92, KI (1,02 til 3,63), p=0,042. Noen vil anse dette som et høyt oddsforhold. Men
+oddsforholdet kan lett mistolkes fordi det blir «kunstig høyt» når hendelsene er vanlige (Altman,
+Deeks, & Sackett, 1998).
+Tabell 1: Grand Cru versus Premier Cru: Antall og prosent riktig gjettet.
+
+Faktisk
+appellasjon
+
+Premier Cru
+Grand Cru
+Total
+
+Antatt appellasjon
+Premier Cru
+Grand Cru
+91 (63,6%)
+52 (36,4%)
+86 (49,1%)
+89 (50,9%)
+177
+141
+
+Total
+143 (100%)
+175 (100%)
+318
+
+Greide deltakerne å identifisere produsent? Det var oppgitt 10 svaralternativer inklusive «annet enn
+Chablis». I virkeligheten var det viner fra 6 produsenter pluss «annet» i smakingen. Resultatene er
+vist i Tabell 2. Antatt produsent var korrekt i de tilfellene som ligger på diagonalen i tabellen, altså
+for (0+10+0+13+9+30+3+8+0+9) = 82 av de 392 tilfellene. Deltakerne identifiserte altså korrekt
+produsent i 21% av tilfellene. En person som gjettet helt tilfeldig blant 10 alternativer ville forvente
+omtrent 10% riktig. Så deltakerne gjorde det i gjennomsnitt litt bedre enn ved tilfeldig gjetting.
+
+
+
+Tabell 2: Faktisk produsent og antatt produsent.
+Antatt produsent
+Totalt
+Billaud-SimMichel
+Moreau Dauvissat Droin
+Fevre
+Raveneau Deplessis Pattes LouAnnet
+Faktisk
+Billaud-Simon
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+produsent Michel
+8
+10
+9
+0
+12
+4
+0
+6
+4
+5
+58
+Moreau
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Dauvissat
+3
+5
+3
+13
+2
+7
+1
+9
+4
+3
+50
+Droin
+6
+10
+7
+3
+9
+6
+2
+7
+5
+2
+57
+Fevre
+7
+12
+6
+3
+10
+30
+5
+6
+5
+2
+86
+Raveneau
+5
+5
+5
+9
+3
+2
+3
+2
+2
+0
+36
+Deplessis
+7
+10
+4
+4
+3
+9
+3
+8
+2
+7
+57
+Pattes Loup
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Annet
+3
+1
+8
+1
+6
+3
+14
+0
+3
+9
+48
+Totalt
+39
+53
+42
+33
+45
+61
+28
+38
+25
+28
+392
+
+Med en lineær blandet-effekt modell med skåre som avhengig variabel, Grand cru som fast effekt,
+og deltaker og vin som kryssede tilfeldige effekter, fant vi at estimert effekt av grand cru var -0,25, KI
+(-1,10 til 0,61), p=0,57. Altså skåret Grand cru 0,25 lavere enn Premier cru. Denne forskjellen er ikke
+statistisk signifikant. Tilsvarende fant vi at verken produsent eller årgang var signifikante prediktorer
+av skåre.
+
+Diskusjon
+Vi fant en ICC for deltakerne på 0,286. Dette er korrelasjonen mellom skårene for forskjellige
+smakere på samme vin. Dette kan synes å være en lav korrelasjon. Men korrelasjonen er et mål som
+er relativt til variabiliteten i utvalget, noe som er godt beskrevet av (Bland & Altman, 2011). Den
+relativt lave korrelasjonen må sees i lys av det faktum at alle vinene skåret høyt: Alle skårene var i
+det smale intervallet fra 83 til 96, som indikerer at alle vinene var vurdert til meget høy kvalitet, og
+varianskomponenten mellom vinene var bare 1,15=1,072. Dersom smakingen hadde vært med viner
+av mer varierende kvalitet, for eksempel med varians mellom vinene lik 16=42 isteden for
+1,15=1,072, ville ICC blitt 16/(0,085+16+2,78)=16/18,87=0,848.
+Det manglet data på 17% av skårene. En deltaker som manglet mye data, var kommet sent til
+smakingen og gikk glipp av de vinene som ble servert først. En annen deltager måtte være på et
+annet arrangement deler av tiden. I slike smakinger spytter i regelen deltagerne ut vinen etter at de
+har smakt på den, blant annet for å holde på konsentrasjonen. Vi kan imidlertid ikke se bort fra at
+noen manglende observasjoner på slutten av smakingen skyldes manglende spytting hos noen
+deltagere. For disse personene kan vi regne at data mangler helt tilfeldig (missing completely at
+random, MCAR). Forøvrig kan det tenkes at noen viner var vanskeligere å vurdere enn andre, noe
+som medfører at noen at de manglende data manglet betinget tilfeldig (missing at random, MAR)
+eller ikke-tilfeldig (missing not at random, MNAR). Imidlertid vil en lineær blandet-effekt modell gi
+forventningsrette resultater såfremt data mangler betinget tilfeldig. Og hvis data mangler ikketilfeldig, vil en slik metode gi mindre forventningsskjevhet enn om man bruker en metode som
+krever at data mangler helt tilfeldig. Og i en logistisk blandet-effekt modell vil resultatene bli
+tilnærmet forventningsrette hvis data mangler betinget tilfeldig (MAR) (O'Kelly & Ratitch, 2014), side
+130 – 131.
+Tendensen til å klassifisere en vin som Grand cru varierte systematisk mellom vinene, men ikke
+mellom deltakerne. Men det var en stor andel misklassifisering i forhold til faktisk Grand cru, med en
+sensitivitet på bare 50,9% og en spesifisitet på bare 63,6%. Betyr dette at deltakerne gjorde det
+dårlig i denne sammenheng? Den legendariske vinskribenten Harry Waugh (1940 – 2001) skal en
+
+
+
+gang ha blitt spurt: “Have you ever mistaken a Bordeaux for a Burgundy wine?” Han skal ha svart:
+“Not since lunch!” (https://www.telegraph.co.uk/news/obituaries/1364323/Harry-Waugh.html)
+Så deltakerne i denne vinsmakingen er i godt selskap!
+Grand cru vinene skåret lavere enn Premier cru, med en differanse på -0,25 og et 95% KI lik (-1.10 til
+0.61). La oss trekke en parallell til medisin: Tenk deg at Grand cru er en medisin, og at Premier cru
+foreslås isteden, fordi den koster mindre. Du gjennomfører en ikke-underlegenhetsstudie (noninferiority trial). Videre, anta at en differanse i skåre på mindre enn 1.0 regnes som uten praktisk
+betydning, altså at 1.0 regnes som grensen for ikke-underlegenhet. I en ikke-underlegenhetsstudie
+er et tosidig 90% konfidensintervall tilstrekkelig for å etablere ikke-underlegenhet med maksimum
+5% sannsynlighet for type I feil (Piaggio, Elbourne, Pocock, Evans, & Altman, 2012). Her blir faktisk et
+90% konfidensintervall lik (-0,97 til 0,47). Altså er Premier cru ikke underlegen Grand cru. Så hvis du
+ikke er en bedre vinsmaker enn deltakerne i denne studien, vil du bli like fornøyd med en Chablis
+Premier cru til ca NOK 300 som en Chablis Grand cru til ca NOK 600, gitt at du får den blindt. Men,
+som annen forskning på pris viser (Plassmann, O'Doherty, Shiv, & Rangel, 2008), hvis du derimot får
+vite marken eller prisen, vil du antageligvis like en Grand cru bedre enn en Premier cru.
+
+Referanser
+Altman, D. G., Deeks, J. J., & Sackett, D. L. (1998). Odds ratios should be avoided when events are
+common. BMJ, 317(7168), 1318.
+Bland, J. M., & Altman, D. G. (2011). Correlation in restricted ranges of data. BMJ, 342, d556.
+O'Kelly, M., & Ratitch, B. (2014). Clinical trials with missing data: A guide for practitioners.
+Chichester: Wiley.
+Olkin, I., Luu, Y., Stokes, L., & Cao, J. (2015). Analyses of Wine-Tasting data: A Tutorial. Journal of
+Wine Economics, 10(1), 4-30.
+Piaggio, G., Elbourne, D. R., Pocock, S. J., Evans, S. J., & Altman, D. G. (2012). Reporting of
+noninferiority and equivalence randomized trials: extension of the CONSORT 2010
+statement. JAMA, 308(24), 2594-2604.
+Plassmann, H., O'Doherty, J., Shiv, B., & Rangel, A. (2008). Marketing actions can modulate neural
+representations of experienced pleasantness. Proceedings of the National Academy of
+Sciences of the United States of America, 105(3), 1050-1054.
+Rabe-Hesketh, S., & Skrondal, A. (2012). Multilevel and longitudinal modeling using Stata (3rd ed.).
+College Station, Tex: Stata Press Publication.
+
+
+
+Alle disse tallene, alle disse tabellene
+Kajsa Møllersen | Tromsø
+
+Foto: Bilder fra verket Skogsaken av Toril Johannessen. Bildene er generert av StyleGAN fra egne bilder tatt av skogen rundt
+Bergen. Toril Johannesen deltok på LIAF blant annet med foredraget The Quantifying Spirit etterfulgt av en samtale med Kajsa
+Møllersen.
+
+Det gamle Lofotpost-bygget i Svolvær står nedstrippa og
+stille og venter på sin framtidige skjebne. Veggene, taket, gulvet
+viser spor etter lang og tro tjeneste, men alt som minner om
+avisproduksjon er pakka ned og fjerna. Eller vent, her ligger
+en bunke aviser. Ikke en gammel utgave av Lofotposten, men
+helt ferske aviser som inneholder tabeller over fiske, handel,
+lovbrudd, alkoholsalg, og alt mulig annet som gjorde og gjør
+perioden fra januar til april helt spesiell. Alle disse tallene, alle
+disse tabellene.
+Avisa er en del av Lofoten International Art Festival (LIAF),
+og hele det gamle Lofotpost-bygget er fylt med samtidskunst.
+Midt oppi dette befinner jeg meg. Ikke som kunstintressert
+publikum, men som invitert statistiker. Jeg har fått 20 minutter
+til å snakke om “Statistikkens estetikk”, et tema og en tittel jeg
+har valgt selv, men nå angrer jeg litt. De fleste forbinder ordet
+statistikk med tall og tabeller, ikke teoremer og beviser, og
+jeg er redd for at tittelen er misvisende for publikum som vil
+bli skuffa over det jeg legger fram. Jeg skyver tanken fort fra
+meg igjen. Det er en grunn til at jeg har valgt dette temaet for
+28
+
+
+
+akkurat dette publikummet.
+Forskningsformidling handler ofte om å gjøre ting enkelt
+slik at publikum får følelsen av at de forstår, har lært noe og
+er blitt mer kunnskapsrike. Det gjelder å finne gode analogier,
+forenkle uten å si noe som er direkte feil, lage fine figurer, og
+skrelle bort alt som er vanskelig å forstå eller forklare. Det
+er krevende, men også berikende og tilfredsstillende. Likevel
+- jeg er lei. Den følelsen som publikum sitter igjen med etter
+vellykka forskningsformidling er nettopp det - en følelse. Om
+de sitter igjen med ny kunnskap, eller allerhelst ny innsikt, er et
+helt annet spørsmål. Det er dype motsetninger mellom følelsen
+av å forstå og faktisk innsikt.
+Kunstpublikummet har et annet utgangspunkt. Følelsen av
+å ikke forstå er en av mange følelser i møte med et kunstverk.
+Følelsen av å forstå er en annen, som ikke nødvendigvis handler
+om å forstå det som er forsøkt formidla. Kunstpublikummet
+har en uutholdenhet i møte med det uforståelige som det
+populærvitenskapelige publikum ikke tillegges. Feilaktig,
+kanskje.
+Jeg har valgt å snakke om estetikken i teoremer og beviser
+fordi det er mer interessant, og gir en dypere forståelse
+for matematiske fag enn presentasjon av nok en fantastisk
+anvendelse av statistikk. Jeg vet at de ikke kommer til å forstå.
+Ikke alle. Ikke alt. Faktisk de fleste kommer til å forstå veldig,
+veldig lite. Likevel, eller nettopp derfor, kommer de til å
+sitte igjen med en dypere innsikt enn alle de andre gangene
+jeg har formidla. Alle de gangene jeg har holdt meg innafor
+forskningsformidlingens mantra; forståelig for publikum.
+Her foran kunstpublikummet på LIAF snakker jeg om den
+estetiske opplevelsen som ligger i å arbeide med formler og
+ligninger. Jeg utbroderer følelsen: Frysninger i nakken når
+man med ett forstår det som man har strevd med lenge, og
+til da bare har vært nødt til å akseptere. Overraskelsen når
+tilsynelatende uavhengige fundamenter forbindes med en
+lekker bro. Tilfredstillelsen når det åpner seg et nytt matematisk
+rom. Jeg siterer de som har sagt det mer elegant. Professorer.
+Filosofer. Jeg snakker om Eulers identitet, og møter flere og
+flere tomme blikk, men også noen som virkelig lyser opp. Jeg
+snakker om 0, og hanker de fleste inn igjen. Tilslutt presenterer
+jeg beviset for at rota av 2 er irrasjonalt. Det går et sus gjennom
+publikum idét jeg konkluderer.
+Etterpå er det en og annen fra publikum som kommer opp
+for å prate: “Alle disse tallene, alle disse tabellene - så var
+statistikk hele tida noe annet.” Vi snakker om tida og innsatsen
+det tar for å se skjønnheten i noe, om å forstå, men ikke kunne
+forklare hva man har forstått. Om å betrakte uten å ville vite,
+om vite for å kunne betrakte. Ingen hang med på beviset for
+rota av 2, men innsikten de sitter igjen med er mye dypere enn
+overfladisk kunnskap formidla på 20 minutter. Jeg har truffet
+mitt publikum, og jeg er også helt sikker på at de finnes utenfor
+29
+
+
+
+samtidskunstfestivaler.
+Etterpå ser vi en kunstfilm som ingen forstår. Resten av
+kvelden drikker jeg øl og henger med alle kunstnerne mens
+vi hører på barokkmusikk spilt på inkatau. Vi diskuterer
+Hilbert-kurver og Mandelbrot-mengder, som visstnok er
+skikkelig 90-talls.
+
+30
+
+
+
+Fred Espen Benth
+Matematisk Institutt
+Universitetet i Oslo
+
+5 juli, 2019
+
+“Stochastics in Science:
+
+Some autobiographical notes”
+av professor Ole Eiler Barndorff-Nielsen,
+Universitetet i Århus
+I løpet av senvåren og begynnelsen på en ny sommer har jeg hatt den store glede av lese
+Ole E. Barndorff-Nielsen sine selvbiografiske notater som nylig har blitt utgitt på forlaget
+forlagetmorgenstjerne.dk. Gleden kan muligens ha sammenheng med at denne
+bokanmelderens samarbeide med Ole er nevnt i boken, men jeg tror ikke så.
+Selvbiografien er en feiring av naturvitenskapen, eller kanskje det å kunne utøve livet
+som matematiker i fagområder som geologi, fysikk og økonomi. Foruten en linje i boken som
+følger Oles faglige bidrag, så får leseren også servert en personlig vitenskapshistorie fra vår tid
+omkring stokastikk, sannsynlighetsteori og matematisk statistikk, alt akkompagnert av
+Wagners operaer.
+Boken leder oss på en leseverdig og engasjerende måte gjennom Oles vitenskapelige
+karriere. Kronologien følger hans ulike bidrag gjennom alle de tiårene som verdensledende
+stokastiker. Ja, både i tittel og i innhold anvender Ole stokastikk (eller Stochastics på engelsk) som
+betegnelsen på det faget han arbeider innenfor og sterkt deltatt i oppbygningen av siden andre
+halvdel på 50-tallet. I forordet definerer han dette som “[….] Stochastics, the common term for
+Probability and Mathematical Statistics, […]”. Og når vi allerede på side 24 lærer om historien bak
+professor Kiyosi Itos bånd til Ole og hans opphold i Århus, og de etterfølgende 250 sider med
+Oles vei gjennom vitenskapen, forstår vi at stokastikk er dekkende. Fra min gode kollega Yngve
+Vogt, vitenskapsjournalist ved Universitetet i Oslo, lærte jeg at stokastikk er den eksakte læren
+om det ueksakte, mens i følge den engelske Wikipedia kommer ordet fra det greske stokhos, som
+skal bety noe slikt som mål eller gjett.
+"1
+
+
+
+En sentral del av boken er viet Oles arbeide med sand og hyperbolske fordelinger.
+Selvom dette ikke er altfor langt tilbake i tid, gir det et innblikk i en vitenskapelig atmosfære
+som kanskje allerede er veldig forskjellig fra dagens. Matematikk og statistikk ble utført med
+penn og papir. Sirlige grafiske fremstillinger av tilpassede fordelingsfunksjoner og data på
+logaritmepapir er vist i boken, sammen med spennende bilder fra Ole og kollegaers
+innsamling av sandprøver langs de danske strender. Senere i boken treffer vi også på
+Kolmogorov, og lærer om hans arbeider innen turbulens, der han samlet inn observasjoner på
+ekspedisjoner verden rundt med forskningsfartøyet Dmitry Mendeleev. Et opptrykk av Oles
+kollega og samarbeidspartner Albert Shiryaevs artikkel “Kolmogorov and the Turbulence” gir
+et fascinerende innblikk i Kolmogorovs statistiske turbulensteori og dens koplinger mot
+moderne finansmatematikk. Kolmogorovs turbulensteori har vært en sterk motivasjon for
+mange av Oles arbeider siden 90-tallet.
+Nettopp denne koplingen mellom det å ha førstehånds kunnskap om fenomenene vi
+studerer kombinert med en interesse og evne til å utvikle teori for å skape forståelse (eller
+kunnskap) er noe som kanskje ikke lenger er så fremtredende i våre dagers spesialisering og
+fokusering. Innhøsting av data er i stor grad automatisert, og er tilgjengelig i enorme mengder.
+Avstanden til fenomenene vi studerer er blitt større. I et eget lite kapittel kalt Changing Times
+kommer Ole inn på Big Data og dagens vitenskapelige utfordringer. Oles egne ord peker ut
+retningen: “To develop concepts and methods of significance similar to the classical the way ahead must be to
+select some focal areas of very substantial scientific interest where mathematical concepts are judged to have a
+major potential effect. In addition to Stochastics, mathematical fields like geometry, topology and graph theory
+are called on as tools for the inferential analysis of complex data”. Min egen tolking av dette er at vi må
+forsøke å skape teoretisk kunnskap ut fra informasjon, som i sin tur skal gi oss forståelse.
+Datamaskinen gjør ikke den jobben alene. Dataene kommer ofte i en sosial kontekst, der vi
+ikke kjenner fysiske lover og dynamikker.
+Bokens uttrykksform er original, der den blander sammen tekst, bilder og opptrykk av
+brev og eposter. Det er i seg selv interessant å se utviklingen fra kommunikasjon via brev til
+dagens eposter. Det finnes også innlegg i boken av mer essayistisk karakter, der historien rundt
+forskeren og brigaderen Ralph Alger Bagnold står frem som særdeles spennende. Leseren tas
+med på en tur gjennom Saharas ørken under andre verdenskrig og helt opp til de fredelige
+danske badestrender, med treff av både kuler, vindkast og vitenskapelige innsikter på veien.
+Det hele gir et godt bilde på hva grunnforskning kan gi av anvendt kunnskap. Det er lov å
+ønske seg at bevilgende myndigheter også leser denne boken!
+
+"2
+
+
+
+Hva er vel kjedeligere enn en statistikers liv? Jo, kanskje livet til en matematiker? Ole er
+både statistiker og matematiker, men hans opplevelser som vi får ta del i i denne boken kan
+neppe karakteriseres som kjedelige, selv ikke av de som ikke tilhører den akademiske sfære.
+Notatene til Ole beviser hva slags opplevelser livet innen vitenskapen gir, i møte med andre
+mennesker og i det åpne synet på andre kulturer. Hans liv, likt alle andres liv, følger en sti full
+av tilfeldigheter, der vi treffer på kvantefysiske diskusjoner med Stephen Hawkings, en tysk
+Bundespresident som blir gjort oppmerksom på fallende forskningsbevilgninger til
+Oberwolfach, familemedlemmer til kollegaer som viser seg å være veldig fargerike kunstere
+med livshistorier av operaiske dimensjoner, foruten ulike opplevelser på tilfeldige operaer
+rundt om i verden. Han beskriver sine møter og samarbeid med en rekke kollegaer med dyp
+respekt og generøsitet, som for eksempel David R. Cox.
+Så, hva er en bra selvbiografi? I vår tid oversvømmes vi av selvbiografier (eller hva de
+måtte kalle det) fra mange politikere og “influensere” og kjendiser, som alle tilsynelatende har
+opplevd et helt liv før de har nådd 30. Det er derfor veldig forfriskende å lese om en person
+som faktisk har en betydning og som bidrar til kunnskap. Oles notater satte også i gang mange
+tanker hos meg om hva vitenskap er og bør være, og den ga et godt innblikk i hvordan
+vitenskapen har endret seg i løpet av bare de siste tiårene. Men ikke minst viktig, boken er
+underholdende, med sine mange anekdoter og Oles underfundige humor. Oles livsledsagerske
+Bente og hans livslange pasjon Wagner, rammer inn boken, og også livet til Ole.
+
+Frogner
+Fred Espen Benth (UiO)
+
+"3
+
+
+
+kunngjøringer
+NSF Stavanger
+Stein Andreas Bethuelsen, Tore Selland Kleppe, Jan Terje Kvaløy |
+Stavanger
+
+Lokalgruppen «NSF Stavanger» opprettes denne høsten. Første
+møte er satt til 20. november. Følg med på nettsiden NSF
+Stavanger for mer informasjon. Håper så mange som mulig
+med base i Stavanger og omegn har mulighet til å komme!
+I samme åndedrag vil vi også nevne The stochastics seminar
+@ UiS som arrangeres ca annenhver uke. Ta kontakt med Stein
+Andreas Bethuelsen om vil være på epostlisten, eller om du
+kunne tenke deg å gi et seminar.
+
+34
+
+
+
+Welcome to Tromsø and
+NORDSTAT 2020,
+June 22nd-25th!
+The conference venue is Clarion Hotel The Edge,
+located in the city centre of Tromsø.
+Save the date!
+More information will be coming at
+https://site.uit.no/nordstat2020/.
+
+Programme committee:
+Ingelin Steinsland (chair, Norwegian University of Science and Technology)
+Anders Løland (Norwegian Computing Center)
+Sigrunn Holbek Sørbye (UiT The Arctic University of Norway)
+Sondre Hølleland (University of Bergen)
+Organising committee:
+Sigrunn Holbek Sørbye (chair, UiT The Arctic University of Norway)
+Alf Harbitz (Institute of Marine Research)
+Elinor Ytterstad (UiT The Arctic University of Norway)
+Georg Elvebakk (UiT The Arctic University of Norway)
+Ingeborg Gullikstad Hem (Norwegian University of Science and Technology)
+Questions can be sent to contact.nordstat2020@uit.no.
+
+
+
+meldinger
+Nytt fra UiT
+Ny mastergrad
+– Yohannes Tesfay
+Bayesian analysis of the occurrence of myocardial
+infarction using the LGM framework
+Veileder: Sigrunn Holbek Sørbye
+Nyansatt stipendiat
+– Åse Mari Moe
+Identification of dietary patterns and their relation to
+health
+Hovedveileder: Elinor Ytterstad
+
+Nytt fra NTNU
+Tilsettinger
+– Stefanie Muff er tilsatt som Førsteamanuensis fra Aug
+2019.
+– Claudia Battisin er tilsatt som Postdoktor fra Aug 2019.
+– Thea Bjørnland er tilsatt som Postdoktor fra Aug 2019.
+– Kwaku Adjei er tilsatt som PhD student fra Aug 2019
+(Bob O’Hara).
+– Haris Fawad er tilsatt som PhD student fra Aug 2019
+(Benjamin Dunn).
+– Fredrik Nevjen er tilsatt som PhD student fra Aug 2019
+(Benjamin Dunn).
+– Silius M Vandeskog er tilsatt som PhD student fra Aug
+2019 (Sara Martino).
+PhD disputaser
+– Muhammad Azam Chaudhry
+Robustness of screening designs with a small number of
+runs
+Committee: Professor Joachim Kunert, Technische
+Universität Dortmund, Researcher Ingrid Måge, Nofima
+AS, Professor Øyvind Bakke, Department of Mathematical
+Sciences NTNU
+Disputas: 7 Juni,
+Veileder: John Tyssedal.
+36
+
+
+
+– Thea Bjørnland
+On response-dependent sampling and score tests for
+regression models with missing covarities; Applications
+to extreme phenotype sampling in genetic association
+studies.
+Committee: Professor Jelle Goeman, Leiden University
+Medical Center, Professor Håkon K. Gjessing, Norwegian
+Institute of Public Health, Associate Professor Sara
+Martino, Department of Matematical Sciences NTNU
+Disputas: 26 Juni,
+Veileder: Mette Langaas.
+– Ioannis Vardaxis
+MACPET: Complete Analysis for ChIA-PET
+Committee: Professor Giovanni Parmigiani, Harvard
+T.H.Chan School of Public Health, Professor Phillippe
+Collas, University of Oslo, Professor Henning Omre,
+Department of Mathematical Sciences NTNU
+Disputas: 28 Juni,
+Veileder: Bo Lindqvist.
+Ferdig MSc, Vår 2019:
+– Kwaku Adjei,
+Diagnosing model deviations in the N-Mixture models: A
+case study of Binomial N-Mixture models. (Bob O’Hara)
+– Benjamin Arthur,
+An Introduction to Approximate Bayesian Compution
+(Henning Omre)
+– Sabuj Bhowmick,
+A Conjoint Analysis Applied to Consumers Choice of
+Tablets. (John Tyssedal)
+– Johan Ø Birketvedt,
+Interval Censored Regular Vines with Application to
+Event-Based Modelling of Precipitation and Temperature
+(Sara Martino)
+– Martin A B Blindheimsvik,
+Functional form for covariates in parametric accelerated
+failure time models using nonparametric exponential
+regression (Bo Lindqvist)
+– Scott W C Bunting,
+Value of information analysis in the context of leakage
+detection in CO2 storage (Jo Eidsvik)
+– Elisabeth Børset.
+Investigating the Phototactic Response of Salmon Lice.
+Design and Analysis of Experiments. (John Tyssedal)
+37
+
+
+
+– Anne S Fardal,
+A Bayesian Model for Prediction of Heat Consumption
+(Sara Martino)
+– Thomas B Frogner,
+Learning from Imbalanced Data, with a Case Study in
+Finance (John Tyssedal)
+– Elisabeth Hetlelid,
+Modelling Biomarker Development During Pregnancy
+for Women with Rheumatic Diseases using Linear Mixed
+Models and Bootstrapping (Mette Langaas and Mona H
+Fenstad (St Olavs Hospital))
+– Anders D Hjort,
+Strategies for Risk Based Inspection of Corrosion Damage
+in Pipeline Systems (Jo Eidsvik)
+– Jens A T Holck,
+Forecasting the Total Balance Sent to Debt Collection
+(John Tyssedal)
+– Angela M Johnsen,
+Predicting the Day-Ahead Electricity Spot Prices in
+Germany (Jo Eidsvik)
+– Amirhossein Kazemi,
+A Semi-Supervised Approach to the Application
+of Sensor-based ChangePoint Detection for Failure
+Prediction in Industrial Instruments (Mette Langaas and
+Martin Høy (DNV GL))
+– Dag J Kristiansen,
+Detecting Neuronal Activity with Lasso Penalized
+Logistic Regression (Mette Langaas and Benjamin Dunn)
+– Hong-Tan Lam,
+Bayesian Calibration and Inference for Multiple Machines
+(Ingelin Steinsland)
+– Sigrid Leithe,
+Statistical Methods for the Analysis of Data with a Lower
+Limit of Detection (Turid Follestad)
+– Magnus Liland,
+Counterparty Credit Exposure in Interest Rate Derivatives
+- Investigating the Effect of Collateralization (Jacob
+Laading)
+– Gina Magnussen,
+Power Modeling in Cross-Country Skiing: A Quantitative
+Approach by Sensitivity Analysis and Monte Carlo
+Simulation (Bo Lindqvist)
+38
+
+
+
+– Kristine L Mathisen,
+Identifying Expression Quantitative Trait Loci in Patients
+with Inflammatory Bowel Disease (Mette Langaas and
+Atle v B Granlund (Inst for klinisk og molekylær medisin,
+NTNU)
+– Rasmus A W Munter,
+Propagating Variance in Reinforcement Learning Using
+Bayesian Regression (Thiago Martins)
+– Fredrik Nevjen,
+Properties of the Closed Testing Procedure, with
+Applications in Pairwise Comparisons and Model
+Selection (Øyvind Bakke)
+– Tina O S Oftedal,
+Uncertainty Measures and Transfer Learning in Active
+Learning for Text Classification (Erlend Aune)
+– Marte M Saghagen,
+A Comparison of Model-Based and Design-Based
+Methods for Spatial Modelling Using Complex Survey
+Data (Geir-Arne Fuglstad)
+– Anders C Sørby,
+Generative Adversarial Network (GAN) extensions and
+applications in image processing and generation (Bo
+Lindqvist)
+– Sindre N Uthus,
+Binary Classification, Logistic and Nominal Regression:
+Application to Bank Customer Loyalty Data (Øyvind
+Bakke)
+– Silius M Vandeskog,
+Modelling Diurnal Temperature Range in Norway:
+Statistical Modelling and Spatial Interpolation with the
+Five-Parameter Lambda Distribution (Ingelin Steinsland)
+– Eirik L Vestgren,
+Estimating Counterparty Exposure in Interest Rate
+Derivatives Using the Heath-Jarrow-Morton Framework
+for Interest Rate Simulation (Jacob Laading)
+– Hedda H B Vik,
+Forecasting Child Mortality while Accounting for
+Complex Survey Design (Geir-Arne Fuglstad)
+– Mira L Vik,
+Speech Enhancement with a Generative Adversarial
+Network (Gunnar Taraldsen)
+– Norunn A Wankel,
+Hierarchical Bayesian Modeling of Wind Related
+Transmission Line Failures (Håkon Tjelmeland)
+39
+
+
+
+– Johan S Wind,
+Linearized Difference Networks as Approximate Kernel
+Methods (Thiago Martins)
+
+Nytt fra Matematisk institutt ved Universitetet i Oslo
+Nye mastergrader
+– Sejla Ackar
+Portfolio optimization in a co-integrated asset market
+model
+Veileder: Fred Espen Benth
+– Jenine Gaspar Corrales
+Analyzing and predicting demographics of NRK’s digital
+users
+Veiledere: Ida Scheel og Linn Cecilie Solbergersen
+– Mari Dahl Eggen
+The LIBOR forward rate in a HJM-Lévy framework
+Veileder: Fred Espen Benth
+– Jonas Gjesvik
+Statistical modelling of goalkeepers in the Norwegian
+Tippeliga
+Veileder: Riccardo De Bin og Nils L. Hjort
+– Eirik Lødøen Halsteinslid
+Addressing collinearity and class imbalance in logistic
+regression for statistical fraud detection
+Veiledere: Ingrid Hobæk Haff og Ingrid K. Glad
+– Jens Kristoffer Haug
+Focused model selection for Markov chain models with
+an application to armed conflict data
+Veiledere: Nils L. Hjort og Håvard Mokeliv Nygård
+(PRIO)
+– Camilla LIngjærde
+Tailored graphical lasso for data integration in gene
+network reconstruction
+Veileder: Ingrid Glad, Ørnulf Borgan og Tonje G. Lien
+– Morten Madshus
+A match too much? A simulation study on overmatching
+in nested case-control studies
+Veileder: Sven Ove Samuelsen
+– Jonas Enger Melsnes
+Kriging the power futures curve and pricing of options
+Veileder: Fred Espen Benth
+40
+
+
+
+– Thi Hong Giang Pham
+Convergence of penalty methods for American options.
+Variational solutions and the compactness method.
+Veileder: Kennet Karlsen
+– Amanda Haugnes Rygg
+GLM and GAM modelling of life insurance data
+Veiledere: Anders Rygh Swensen, Ørnulf Borgan
+– Vegard Stikbakke
+A boosting algorithm to extend first-hitting-time models
+to a high-dimensional survival setting
+Veiledere: Riccardo De Bin og Geir Storvik
+– Kewei Wang
+Portfolio optimisation under rough stochastic volatility
+via machine learning
+Veileder: Frank Proske and Sven Haadem
+– Siyu Zhou
+Dynamic risk measures generated by time-changed
+BSDEs with jumps
+Veileder: Giulia Di Nunno
+– Daniel Årvik
+Counterparty risk in energy markets
+Veileder: Fred Espen Benth
+Nye PhD-grader
+– Vinnie Byeongkwan Ko
+Model selection for copulas and model pruning for neural
+networks
+Veiledere: Nils Lid Hjort og Ingrid Hobæk Haff
+Komité: Professor Axel Gandy, Imperial College Professor
+Niels Richard Hansen, Københavns Universitet Professor
+Sven Ove Samuelsen, Universitetet i Oslo
+Disputas: 11. oktober 2019
+– Knut Dagestad Rand Towards inference with graph based
+genome representations
+Veiledere: Ingrid Glad,Geir Storvik, Geir Kjetil Sandve og
+Lex Nederbragt
+Komité: Professor Tobias Marschall, Max-PlanckInstitut für Informatik Professor Pål Sætrom, NTNU
+Førsteamanuensis Ida Scheel, Universitetet i Oslo
+Disputas: 20. september 2019
+Nyansatte
+Ved Seksjon 2 (statistikk og data analyse) er Per Mykland
+og Lan Zhang er ansatt som professor II (hver i 10% stilling).
+Ved Seksjon 3 (stokastisk analyse, finans, forsikring og
+risiko) er David Banõs er ansatt i en tenure track stilling, Fabian
+41
+
+
+
+Andsem Harang er ansatt som postdoc og Hanna Zdanowicz er
+ansatt som førsteamanuensis II.
+Videre er Clara Bertinelli Salucci er ansatt som stipendiat
+ved Seksjon 2 og Alise Danielle Midtfjord, Dennis Schroers og
+Anton Yurchenko-Tytarenko er ansatt som stipendiater ved
+Seksjon 3
+
+Nytt fra Oslo senter for biostatistikk og epidemiologi
+Avhandlinger
+– Doris Tove Kristoffersen forsvarte 20. Mai sin avhandling
+“On 30-day mortality as a quality indicator for hospitals.
+Evaluation based on a simulation study and Norwegian
+data” for graden ph.d.
+Tittel på prøveforelesningen var “Trends in in-hospital
+mortality in Norway and possible explanations”.
+Bedømmelseskomité: Professor Paul Aylin, Imperial
+College, London, Professor Anette Hylen Ranhoff,
+University of Bergen, Professor Nanna Lien, University of
+Oslo.
+Hovedveileder har vært Forsker Jocelyn Clench-Aas,
+Folkehelseinstituttet. Medveieledere. Professor Marit B.
+Veierød og Professor Emeritus Petter Laake, Avdeling for
+biostatistikk, UiO.
+– Anneke Steens forsvarte 4. September 2019 sin avhandling
+“A scientific basis for vaccination policies during a
+changing pneumococcal epidemiology” for graden ph.d.
+Tittel på prøveforelesningen var “New streategies and
+vaccines to improve protection of medical risk groups
+against invasive pneumococcal disease”.
+Bedømmelseskomité: Senior Epidemiologist Irjam Knol,
+National Institute for Public Health and the Environment,
+the Netherlands, Docent Åke Örtqvist, Smittskydd
+Stockholm, Professor Fredrik Müller, University of Oslo.
+Hovedveileder har vært Avdelingsdirektør Didrik F.
+Vestrheim, Folkehelseinstituttet. Medveileder: Professor
+Birgitte Freiesleben De Blasio, Avdeling for biostatistikk,
+UiO.
+– Pål Christie Ryalen forsvarte 4. September 2019 sin
+avhandling “Casual Reasoning with Survival Data” for
+graden ph.d.
+Tittel på prøveforelesningen var “Estimating causal effects
+from obervational time-to-event data - Pros and cons of
+different Methods”.
+Bedømmelseskomité: Associate Professor Ruth Keogh,
+London School of Hygiene & Tropical Medicine, Professor
+42
+
+
+
+Torben Martinussen, University of Copenhagen, Professor
+Tron Anders Moger, University of Oslo.
+Hovedveileder har vært førsteamanuensis Kjetil Røysland,
+Avdeling for biostatistikk, UiO
+– Giovanni Romeo forsvarte 25. September sin avhandling
+“Measurement error in regression; model-based bootstrap
+and penalized regressions” for graden ph.d.
+Tittel på prøveforelesningen var “The knockoff variable
+selection method”.
+Bedømmelseskomité: Professor Malka Gorfine, Tel Aviv
+University, Associate Professor Alessandra R. Brazzale,
+University of Padova, Associate Professor Torbjørn
+Wisløff, University of Oslo.
+Hovedveileder har vært professor Magne Thoresen,
+Avdeling for biostatistikk, UiO.
+– Francesco Di Ruscio forsvarte 25. september sin
+avhandling “Modelling the transmission of methicillinresistant Staphylococcus aureus in Norway” for graden
+ph.d.
+Tittel på prøveforelesningen var “Changing epidemiology
+of meticillin-resistant Staphylococcus aureus - success
+stories in a European perspective”
+Bedømmelseskomité: Associate Professor Katherine E.
+Atkins, London School of Hygiene and Tropical Medicine,
+Associate Professor Andreas Matussek, Karolinska
+Institutet, Professor Olav Dalgard, University of Oslo.
+Hovedveileder har vært professor Birgitte Freiesleben De
+Blasio, Avdeling for biostatistikk, UiO.
+Nyansettelser
+– Professor II: Tero Aittokallio
+– Forsker: Maiju Pesonen, Reza Ghiasvand
+– Postdoktor: Erica Ponzi, Flavie Perrier, Rebecca Ashley
+Gladstone, Anna Kaarina Pöntinen, Henri Pesonen
+– PhD stipendiat: Mari Brathovde, Wei Hai Deng, Emilie
+Ødegaard
+
+Nytt fra Universitetet i Bergen
+Nye mastergrader
+– Francine Rogowski: A comprehensive study of Kernels
+and feature selection in support vector regression
+Veileder: Yushu Li og Bjørn G. Hansen (biveileder)
+– Brage Førland: Close-Kin Mark-Recapture models
+Veileder: Hans Skaug
+43
+
+
+
+– Ida J. Herud: Statistical appraches for constructing runoff
+maps - Random forest, linear models and spatial models
+tested for predictive performance of ungauged catchment
+in Norway
+Veileder: Ingelin Steinsland
+– Sverre Hauso Haugen: Portfolio optimization and
+diversification benefits: A local Gaussuan correlation
+approach
+Veileder: Bård Støve
+– Endre Norekvål Tillung: Reaktivering blant uføre - Det
+Norske penssjonssystemet og modellering av uføredata
+Veileder: Bård Støve
+– Yafee Ishraq: Sparse polynomial chaos expansion for
+uncertain elliptic partial differential equations
+Veiledere: Per Petterson (Norce) og Jan Bulla
+– Margrethe B. Isaksen: A weather generator for
+higher-frequency precipitation in Bergen
+Veileder: Hans Karlsen
+– Ellisif Nygaard: A simulation study of Goodness-of-fit
+tests for binary regression with applications to Norwegian
+intensive care registry data
+Veiledere: Geir Drage Berentsen og Øystein A. Haaland
+(medisinsk fakultet)
+– Nora Neset Gjøen: Boosted GAMLSS in general insurance:
+Case studies in travel and auto liability insurance with a
+growing portfolio
+Veileder: Ingelin Steinsland
+– Victoria Foster: Empirical time series analysis with focus
+on wavelet methods and economic data from Norway
+Veileder: Yushu Li
+– Endre Kvåle Evjen: Analysis of the probability of
+default in peer-to-peer lending. Application of different
+classification techniques
+Veileder: Jan Bulla
+– Sean M. Murray: An exploratory analysis of multi-class
+uncertainty approximation in Bayesian convolutational
+neural networks
+Veiledere: Hans Skaug, Eirik Hanson og Alexander
+Lundervold
+– Alexander Risheim: Analysis of long-distance driving
+data using hidden Markov models
+Veileder: Jan Bulla
+44
+
+
+
+– Jens C. Wahl: Parameter estimation of multivariate factor
+stochastic volatility models
+Veileder: Hans Skaug
+– Pernille Kiil: Multivariate volatility in financial time series
+using MGARCH
+Veileder: Hans Karlsen
+– Therese Grindheim: Time series: forecasting and
+evaluation methods with consentration on evaluation
+methods for density forecasting
+Veileder: Yushu Li
+– Hans C. Halvorsen: Analysis of long distance driving data
+Veileder: Jan Bulla
+– Lorenzo Borghi: Copulas in markov time series modeling
+Veileder: Hans Karlsen
+Nye doktorgrader
+– Janne Mannseth: Bayesian and frequentist computation
+with application to data from the Medical Birth Registry
+of Norway
+Veiledere: Hans Skaug (hovedveileder), Tore Selland
+Kleppe (UiS) og Geir Drage Berentsen (UiB) (biveiledere).
+– Lars Arne Jordanger: Nonlinear Spectrum Analysis based
+on the Local Gaussian Correlation and Model Selection
+for Copulas
+Veileder: Dag Tjøstheim
+Nyansettelser
+– Iain Johnston, førsteamanuensis
+– Andreas S. Stordal, førsteamanuensis II (hovedstilling ved
+Norce)
+– Antonello Maruotti, førsteamanuensis II (hovedstilling
+ved LUMSA, Roma, Italia)
+– Francesca Azzolini og Timothee Bacri, phd-stipendiater
+
+Nytt fra Universitetet i Stavanger
+Nye mastergrader
+– Bogdana Tolokonnikova
+Sample size requirements for agreement studies
+Veiledere: Anastasia Ushakova og Ingvild Dalen
+– Isra Khawar
+Overall and relative survival for cancer patients
+Veileder: Jan Terje Kvaløy
+45
+
+
+
+– Suhb-Eldin Abdulaziz Nusr
+Competing risk analysis of Norwegian mortality data
+Veileder: Jan Terje Kvaløy
+– Ådne Njå
+Modelling fire occurrences in heavy goods vehicles in
+Norwegian road tunnels
+Veiledere: Jan Terje Kvaløy og Per Amund Amundsen
+– Anders Holen
+Estimating and Forecasting of Dynamic linear Gaussian
+State Space Models for Commodity Futures
+Veiledere: Tore Selland Kleppe
+Ansettelser
+– Stein Andreas Bethuelsen er ansatt som Førsteamanuesis
+– Jörn Shultz er ansatt som Førsteamanuesis II
+– Bjørn Auestad er ansatt som instituttleder ved Instiutt for
+Matematikk og Fysikk, og i permisjon fra sin stilling
+
+46
+
+
+

@@ -1,0 +1,3152 @@
+ISSN 0803-8953
+TILFELDIG GANG
+Nr. 4, årgang 10
+Desember 1993
+
+Utgitt av Norsk Statistisk Forening
+
+Fra redaktøren. Inge Helland
+- Fra formannen. Eivind Damsleth
+Faglige innlegg
+
+Om St. Petersburgparadoxen. Anders Martin-Löf
+Bruk av Mathematicai statistikk. Odd Aalen
+Sannsynlighet for å bli uskyldig dømt - justismordets "paradoks"?
+
+Stian Lydersen
+Paradoks? Eivind Damsleth
+Bokanmeldelser etc.
+Statistikk fra siderommet. Inge Helland
+Øk dine vinnersjanser! Ny bok. Thore Egeland
+Sportssiden
+VM-sjanse 99.2%. Arbeiderbladet
+Konferanser
+
+15:e nordiska konferensen i matematisk statistik. Lund, Sverige
+The Fourteenth International Symposium on Forecasting. Stockholm
+
+Meldinger
+
+News from the Nordic Region of the Biometric Society
+Utlysning av 2 førsteamanuensis-stillinger i statistikk ved UiT, AVH
+Nytt fra Universiteter og høyskoler
+
+Rapport fra Det nasjonale doktorgradskurset om Statistiske modeller
+
+og metoder for telleprosesser. Ørnulf Borgan
+Nasjonalt doktorgradskurs om Statistisk inferens og simulering
+Medlemskap i Norsk Statistisk Forening
+Bidrag til TG
+
+
+
+
+
+Fra redaktøren
+
+Karl Pearson (1857-1936) var en av pionerene innenfor faget vårt, og han må også ha
+vært en person med meget sterke meninger. Det ser også ut til at han gjorde bruk av alle
+tilgjengelige midler til å fremme egne meninger. Da G. Udny Yule i 1912 argumentere for
+sin koeffisient Q som assosiasjonsmål i kontingenstabeller, ble han slaktet av Karl Pearson i
+en 150 siders (!) artikkel i Pearsons eget tidsskrift Biometrika. Og da Fisher - helt korrekt kritiserte Karl Pearsons beregning av antall frihetsgrader i kjikvadrat-tester, kom Pearson med
+
+et kraftig motangrep - igjen i Biometrika, et angrep som det lenge var vanskelig for Fisher å få
+publisert noe svar på. (Kilde: Agresti: Categorical Data Analysis. )
+
+Jeg håper å bli trodd når jeg sier at det ikke er på grunn av lignende tendenser at den
+
+nye redaktøren i TG har tatt inn relativt lange egne innlegg i begge de to første nummerne han
+har kontroll over...
+
+Det jeg prøver å ta opp en liten flik av i dette nummeret, er noe som jeg regner med at
+flere er opptatt av, nemlig statistikk-fagets plass i forhold til andre fag. Jeg har valgt å se på
+forholdet til moderne fysikk, både fordi jeg kjenner litt til fysikkfaget, fordi jeg mener det
+
+både er interessante likheter og interessante forskjeller mellom sannsynlighetsregning og
+
+moderne fysikk, og fordi fysikk-faget har en helt sentral posisjon innenfor naturvitenskapene.
+
+Men tilsvarende betraktninger kan gjøres i mange forskjellige retninger. Hvor står
+vårt eget fag i forhold til omverdenen? Vi har ambisjoner om at statistikk skal stå sentralt i all
+empirisk forskning, og på noen områder har vi nådd disse ambisjonene et stykke på vei. Men
+andre fag har andre begreper og andre angrepsvinkler.
+
+Er det mulig å finne felles
+
+plattformer? Kanskje det ikke er ønskelig en gang, kanskje er mangfoldet av angrepsvinkler
+på en måte er sunt? Selv om dette er store og vanskelige spørsmål, føler jeg at her er områder
+for mange interessante debatter, og håper at noen har lyst til å ta opp deler av dette temaet
+videre.
+
+Én mulighet kan være å ta utgangspunkt i en eller flere av de mange metri-ene:
+Biometrien har sine egne tidsskrifter, sine egne konferanser og sin egen organisasjon, men
+holder seg stort sett til begrepsverdenen fra statistikk og matematisk modellering, med flere
+interessante subkulturer. Kjemometrien bruker også mange av statistikkens begreper, men
+
+prøver i tillegg å utvikle nye, og mange kjemometrikere går inn for å holde en viss avstand til
+statistikken. Situsjonen innenfor økonometrien og psykometrien, og statistikkens forhold i
+forhold til samfunnsvitenskapene mer generelt i dag, kjenner jeg ikke så godt til.
+Synspunkter og bidrag mottas gjerne.
+Inge Helland
+
+
+
+Fra formannen:
+
+PUBLISERING?
+
+(!)
+
+Statistikere leverer i hovedsak to produkter: (i): publikasjoner (i en eller annen
+form) og (ii): grunnlag for beslutninger. Ofte er de to produktene sammenfallende,
+i det f.eks. en rapport fungerer som beslutningsgrunnlag. I tillegg til å formidle
+informasjon tjener også publisering som en del av evalueringsgrunnlaget for den
+enkelte i forbindelse med kompetansevurderinger, opprykk o.1.: “Publish or perish!”
+Det eksisterer et slags uoffisielt *statushierarki” blandt publikasjonsformer:
+
+En del rapportering skjer kun internt i en bedrift, eller direkte fra statistikeren
+til oppdragsgiver. Pr,.definisjon er dette ikke publisering, siden publisering (for
+meg) betyr *å gjøre alment tilgjengelig”.
+Universitetene, forskningsinstituttene m.fl. har egne publikasjonsserier, f.eks.
+Statistical Research reports fra UiO og NR-rapporter fra NR. Disse er åpne, men
+vanskelige å få tak i. Vanligvis må de bestilles direkte fra institusjonen som har
+gitt dem ut.
+
+Noen er flinke til å popularisere interessante resultater og publisere i den *populærvitenskapelige” flora av tidsskrifter. Dette er en utmerket måte å markedsføre
+faget på, men blir kanskje (av noen) oppfattet som ikke helt stuerent?
+Ved deltakelse på måter og konferanser blir det oftest utgitt *proceedings” med
+en skriftlig versjon av (de fleste) presentasjonene. Ofte blir manuskriptene antatt
+for “proceedings” uten noen vesentlig kvalitetsvurdering, men i en del tilfelle gjennomgår arbeidene en (mer eller mindre) skikkelig bedømmelsesprosess. Ofte er
+det en sammenhen mellom kvaliteten på prosessen og tiden det tar fra konferansen
+finner sted til *proceedings” foreligger!
+Enkelte av oss arbeider som statistikere innenfor andre fagdisipliner, eller vi
+
+utfører forskningsoppdrag for andre fagmiljøer. Da er det ofte relevant å pub-
+
+lisere i den andre disiplinenes fagtidskrifter (medisin, odontologi, kjemometri,
+petroleumsfag, osv.) Dette kan våre prestisjefyllte journaler med stor faglig tyngde. Imidlertid vil ofte den statistiske teorisiden måtte dempes noe i slike artikler,
+til fordel for artiklens hovedtema.
+
+Den fineste fjæren i hatten (eller kanskje rubinen i navlen for oss navlebeskuere?)
+er selvsagt de rene matematisk statistiske tidsskriftene (JASA, JRSS, Annals,
+osv.). Her behøver man ikke ha noen hemninger, men kan konsentrere seg om
+faget for fagets egen skyld!
+
+Det er viktig å publisere, både for den enkelte og for faget. Det er også viktig å
+utnytte hele det spekteret av publikasjonsformer som er beskrevet over. Og så får
+det være opp til hver enkelt å vurdere hvor TG skal plasseres i systemet!
+Ha en riktig god jul, og et godt nytt 1994!
+10. november 1993
+Eivind Damsleth
+
+
+
+Om St. Petersburgparadoxen
+av Anders Martin-Löf
+
+Man brukar såga att sannolikhetsteorin föddes under senare delen av 1600talet då flera matematiker diskuterade olika typer av slumpmåssiga spel för
+att tilldela dem deras råtta vårde, dvs den avgift en spelare bor betala for
+
+att spela spelet. Den bör vara sådan att om många oberoende upprepningar
+spelas efter varandra så ska varken spelare eller banken göra stora vinster
+
+eller förluster i det långa loppet. Man insåg tidigt att medelvårdet av utfallet
+bör vara det råtta vårdet, och Jakob Bernoulli kunde i sitt berömda arbete
+Ars Conjectandi underbygga denna insikt genom att bevisa stora talens lag
+för oberoende håndelser: Om X; tar vårdena 0 eller 1 med sannolikhet 1—p
+
+och p, och år oberoende så gåller att P(| I X7-j Xi-p |> ©)
+
++ 0 då n — oo
+
+för varje € > 0.
+
+Ars Conjectandi utgavs 1713, efter författarens död 1705, av hans brorson
+Nicolas Bernoulli, som senare slutade som juridikprofessor i Basel.
+
+Nico-
+
+las var i sin ungdom intresserad av matematik och hade korrespondens om
+olika specialproblem med fransmannen Pierre Rémoude de Montmort, en
+
+förmögen fransman som slutat tjånstemannakarriåren för att ågna sig åt
+filosofiska och matematiska studier. I denna korrespondens uppfann Nico-
+
+las Bernouilli det s.k Petersburgsspelet, men Monmort visade inte något
+större intresse för det.
+
+Något senare framförde den schweiziske matem-
+
+atikern Cramer en ”lösning” som emellertid inte tillfredsstållde Nicolas B.
+
+Denne började dårför korrespondera med sin kusin Daniel B. som då var
+akademiledamot i St. Petersburg om spelet. Detta ledde så småningom till
+
+att denne i Petersburgsakademins annaler publicerade ett berömt arbete [1],
+dår han söker finna en rimlig lösning på problemet att finna ett vårde för
+
+spelet. I detta arbete, som gett namn åt spelet, beskrivs det på följande
+sått:
+
+Min mycket illustre farbroder den berömde Nicolas Bernoulli,
+professori juridik vid Basels akademi stållde en gång flera problem till sin vån Montmort, som finns beskrivna i boken ”Analyse
+sur les jeux de hazard” de Mr. de Montmort. Det sista av dessa
+
+problem lyder sålunda: Peter kastar ett mynt tills det för första
+gången faller med en krona upp. Om detta hånder efter första
+kastet skall han betala en dukat till Paul, om det hånder vid
+
+
+
+andra kastet två dukater, efter tredje 4, efter det fjårde 8, och så
+vidare, så att efter varje kast antalet dukater fordubblas. Man
+frågar, vilket vårde har den möjliga vinsten för Paul?
+
+Detta
+
+problem omnåmndes av min farbroder i ett brev till mig, och
+han önskade höra min åsikt om det. Fastån en kalkyl visar att
+forvantade vårdet år oåndligt stort, sa bor det som han såger
+
+inte finnas någon vettig person som inte skulle sålja råtten till
+denna vinst för 20 dukater.
+
+Paradoxen består alltså i att ett spel med så måttliga vinstmöjligheter skall
+kunna ha ett oåndligt stort vårde. Två möjligheter att ”förklara bort” para-
+
+doxen framfördes redan i samtiden och har sedan dess upprepats i artiklar
+och låroböcker. Den första bygger på åsikten att stora belopp av pengar inte
+
+bör vårderas på samma. sått som mindre belopp. Dårför bör man betrakta
+förvåntade vårdet av ”nyttan” (Valeur Morale) av vinster. vilken inte år
+proportionell mot denna. Frågan år då vad som år en naturlig nyttofunktion. Den andra möjligheten år att saga att vid beråkningar av forvantade
+
+vårdet man bör trunkera serien X%9, 277271 vid ett sådant n-vårde att de
+försummade termerna har en sannolikhet 27” som år så liten att de ”praktiskt sett” inte kan intråffa. Frågan år då om det finns en sådan sannolikhet
+som ”varje vettig person” finner naturlig.
+
+Den första typen av förklaring framfördes bl.a. av Cramer, Buffon, Euler
+och mer systematiskt av Daniel B. vars teori utvecklades av Laplace till
+teorin för ”Moraliskt våntevårde”.
+
+Senare har denna typ av resonemang
+
+utvecklats i modern ekonomisk teori, dår t.ex. ”riskaversion” beskrivs med
+hjålp av nyttofunktioner.
+
+Den naturligaste nyttofunktionen som man anvånde hårleddes genom att
+saga att y(x) av ett belopp x bor vara sådant att marginalnyttan av ett
+
+tillskott dæ bor vara omvant proportionellt mot x: dy = k L, dvs y =
+k Inf dar a år startförmögenheten, och k > 0 år en proportionalitetsfaktor.
+Det bör alltså vara naturligt att anvånda det geometriska medelvårdet som
+”moraliskt våntevårde”, i stållet for det aritmetiska medelvårdet. Cramer sa
+
+att felet var att matematiker vårderar pengar i proportion till deras belopp,
+
+medan vettiga månniskor vårderar dem i proportion till den nytta de kan
+
+ha av dem. Buffon beskrev detta i följande berömda sentens [2]:
+Den girige år som matematikern bågge vårderar pengar genom
+
+deras numeriska vårde.
+
+Den förnuftiga månniskan betraktar
+
+
+
+varken mångden eller vårdet,han ser fördelarna som han kan
+vinna, han resonerar båttre ån den girige och år kånsligare ån
+matematikern.
+
+För Petersburgspelet år detta moraliska våntevårde åndligt, och med detta
+ansåg t.ex. Daniel B. att paradoxen ”förklarats”. Detta år emellertid en
+
+mycket ad hoc lösning som inte duger om spelet åndras så att vinsten år gr
+
+i stållet for 2"), vilket redan påpekats i samtiden. Vårdet sager ju heller
+inte något om hur stor vinsten blir om många oberoende partier spelas.
+Detta år ju den intressanta betydelsen av vårdet, då det år åndligt, p.g.a
+stora talens lag.
+
+Den andra metoden att trunkera serien som definierar förvåntade vårdet
+behandlades också av Buffon och han resonerade på följande sått. En typisk
+risk som var och en tar varje dag utan att oroa sig, och dårför i praktiken
+negligeras år den för en frisk man i medelåldern att dö en naturlig död
+
+under en dag. Enligt gångse dödlighetsstatistik ar denna ca 10-4 = 2719,
+så det kan vara rimligt att trunkera vid n = 13 och få vårdet æ #8 = 6.5.
+Liknande övervåganden gjordes av Borel, som jåmförde med sannolikheten
+
+for en parisare att dö i en trafikolycka som (på hans tid) var ~ 1076 æ
+2-20. Trunkering enligt detta kriterium skulle ge vårdet = 22 = 10. Dessa
+övervåganden ger ju måttliga vården på spelet, men såger ju inte heller
+något om vad som hånder då man spelar flera spel i följd.
+
+Finns det någon stora talens lag för Petersburgsspelet?
+Den ende forskare på 1700-talet som verkligen prövade att spela ett stort
+
+antal, N spel och empiriskt undersökte vårdet av utfallet per spel oy =
+
+x EN, Xx var Buffon [2]. (Denne universelle forskare ågnade sig ju åven
+
+åt att kasta synålar på ett randigt papper för att lösa Buffons nålproblem
+då han inte skrev sin monumentala Histoire Naturelle.) Han låt ett barn
+
+(sitt eget?) spela 2048 = 211 spel och fann att antalet spel av långden 1,
+
+2, 3, ... var 1061, 494, 232, 137, 56, 29, 25, 8, 6. Våntevårdet av dessa
+antal år ju 2!!-*, k=1, 2, 3 ..., dvs 1024, 512, 256, 128, 64, 32, 16, 8,
+
+4, 2, 1,.... Totala vinsten blev 10057, dvs per spel oS = 4.91. For att
+
+bedömma om detta år ett rimligt vårde jåmfört med vad man bor vånta sig
+
+gjorde han följande överlåggning, som innehåller fröet till en riktig formel
+
+för fördelningen av Sy då N = 2" och n — oo. Lat Zn, vara antalet
+
+spel av langden k bland de N spelade. Da år ju Sn = X%1 241 ZN, och
+medelvårdet E(Zn,x) = N2-* = 2"-*. Om vi neglierar bidraget från de
+
+
+
+Zn, som har medelvårdet < 1, dvs k > m så får resten ett medelvårde
+
+Sol yor = — Detta menar han bör vara en rimlig storleksordning
+för Sn, och I bör vara av storleken © %. I Buffons simulering år } = 5.5
+
+att jåmföra med EN = 4.91, en rimlig överensståmmelse!(?). Den intressanta
+slutsatsen år att oy har en storlek som tycks våxa som 3 i stållet for att
+
+vara begransad da n — ov, vilket man ju ar van vid da stora talens lag
+gåller. Att denna storlek i en mycket grov mening år riktig visades av Feller
+
+[4] som visade att $% — 1 i sannolikhet då n — oo.
+2
+
+En mycket skarpare grånsvårdessats kan man emellertid hårleda genom att
+bygga vidare på ovanstående approximation, vilket jag visat [5]. Vi har ju
+
+Se = DO ok
+
+ZN = VI
+
+2 ZN,n+1, och sålunda
+
+Ö
+
+fore)
+
+Es
+MT -3= Å 2 Un =e27) +52 vn
+S
+
+n
+
+=
+
+-
+
+—n+1
+
+1
+
+(Den första summan svarar mot de sista termer Buffon betraktar, och den
+sista mot dem som han försummar.) {Zy,,} år ju multinomialfordelade
+
+ned respektive medelvården 2"-*. Hårav år det inte så svårt att inse att
+
+IZN,n+1) blir approximativt poissonfördelade och oberoende med respektive
+
+medelvården 27", 1=0, +1,+2,.... Låt (Z;) vara en sådan följd Po-variabler.
+
+Vi bör alltså vånta oss att fördelningen för EN — > kan approximeras med
+den för Y?141 2'-1(Z, — 27!) + Hai} Z.
+
+Då n — oo visar det sig att denna summa konvergerar i fordelning mot
+0
+
+oo
+
+—00
+
+1
+
+Seog -2")+ 027 Z,
+som år konvergent n.s. (Den första termen kommer från de många korta
+spelen och den sista från de få mycket långa spelen.) Om fördelningen för
+S betecknas med F(z) får vi alltså en grånsvårdessats som sager att
+
+SN
+
+P(—
+
+5 <2)- FG)
+
+då N = 2"
+och
+n
+— ov.
+
+(I motsats till vad vi år vana vid så stabiliseras inte aS. utan dess fordelning
+
+har stor spridning da n — oo.) Det år vidare möjligt att visa att med god
+
+
+
+~.
+
+noggrannhet gåller att 1— F(2”) æ 27" dam > 5 sa att P(3x > 5+2") x
+2°,
+
+Med hjålp av denna enkla formel kan man bestamma en premie per spel
+
+som år betryggande för Peter. Om han vill ha såkerheten 1073 = 2710 skall
+han ta avgiften % + 210 = 2 + 1024 per spel. Det år intressant att notera
+att for rimliga vården på n år 3 litet jåmfört med 2”, så att det i praktiken
+mycket vål går att faststålla en premie per spel oberoende av n som vi år
+vana vid då spelets vårde år åndligt.
+
+Slutsatsen av den nåstan trehundraåriga diskussionen om Petersburgsspelet
+år alltså att det med mycket god noggrannhet kan vårderas på ett sått som
+vi år vana vid och med en mycket enkel prisformel.
+
+Referenser:
+
+1. Bernoulli, D., Specimen theoriae novae de meusura sortis.
+
+Comm.
+
+Acad. Sci. Imp. Petropolitanae 5. 175-192 (1738). (Engelsk översåttning
+i Econometrica, Vol 22, 23-36, (1954).)
+
+2. Buffon, G.L.L. Essai dÅrithmetique Morale, Suppl. å l’Histoire Naturelle, ???, 46-148. Paris (1777).
+
+3. Dutka, J. On the St. Petersburg Paradox. Arch. Hist. Exact. Sci.,
+39, 13-39 (1988).
+4. Feller, W. An Introd. to Prob. Th. and its Appl., vol 1, 3rd ed, N.Y.
+(1968).
+
+5. Martin-Lof.
+
+A. A Limit Theorem which classifies the ” Petersburg
+
+Paradox”. J. Appl. Prob., 22, 634-643 (1985).
+Anders Martin-Lof
+
+Sakset fra vart svenske søsterblad Qvartilen *
+med forfatterens tillatelse.
+
+
+
+Bruk av Mathematica i statistikk.
+ved Odd Aalen
+
+Mye av arbeidet for folk som driver med matematikk i en eller annen form, består
+
+i å manipulere formler. En deriverer, integrerer, inverterer matriser, opererer
+
+med lange summer og store brøker og så videre. En av de store nyvinninger på
+datafronten er fremveksten av systemer som tillater datamaskiner å utføre slike
+operasjoner. Mye av den matematikken en tradisjonelt har utført med blyant og
+
+papir, kan i stedet gjøres på en datamaskin. En sparer masse arbeid, og sjansen
+for å regne feil er mye mindre.
+
+Det finnes i dag en rekke systemer for såkalt symbolsk matematisk manipulasjon. Jeg vil her omtale Mathematica som er det systemet som har klart å reklamere best for seg selv. Det er også presentert via en glimrende håndbok og en
+økende litteratur som tar opp forskjellige anvendelser.
+
+For å illustrere betydningen for statistikk vil jeg ta utgangspunkt i noen cksempler der jeg selv har erfaring i å bruke Mathematica.
+
+Beregninger på Markovmodeller
+
+a
+
+B
+
+å
+
+| Avansert
+HIV
+
+Å
+
+HIV
+infeksjon
+
+hå
+
+I forløpsanalyse er det ofte naturlig å stille opp Markovprosesser som modeller.
+Som illustrasjon er det i Figur 1 vist en modell for inkubasjonstiden til en som er
+smittet av HIV-viruset. De greske bokstavene i figuren angir overgangsintensiteter.
+Ved smitte går personen inni første tilstand. En tenker seg så at inkubasjonstiden
+
+d
+
+AIDS
+
+Y
+å
+
+Behandling
+
+OA
+
+Figure 1: En Markov-modell for inkubasjonstiden til AIDS
+
+
+
+er delt opp i tre stadier, der det siste stadiet er avansert HIV-sykdom med medisinske symptomer. I dette stadiet kan det være aktuelt med medisinsk behandling;
+dette er modellert som en egen tilstand. Effekten av behandlingen er gitt ved
+koeffisienten 9, som er et tall mellom 0 og 1 og angir den reduksjon i intensiteten
+for å få AIDS som behandlingen medfører.
+
+Modeller av denne type, tildels vesentlig mer komplekse, kan brukes i AIDSepidemiologi, både til å estimere forekomsten av HIV-smittede og til å studere
+behandlingseffekter. En særlig aktuell problemstilling er hvorledes behandling
+påvirker inkubasjonstiden.
+
+Hvis en skal finne overlevelseskurven, S(t), for inkubasjonstiden utfra Markovmodellen, svarer dette til å beregne overgangssannsynligheten fra første til siste
+tilstand i modellen. Svaret er gitt ved:
+
+apy
+
+a) = et9 (oa — AO) (B— XB) (y¥+A-AP)
+—(aBr)+aBA0
+
+ett (ay
+— 2) (B= 7) (1+ A= 9)
+aBA-—ayAd-— ar?)
+
+_
+
+(a — B) €8* (B—y—
+A) (B- AB)
+—(@BA)+Byr9+ BA*O
+
+(a — B) ext (a—y—A) (a— 8)
+Denne formelen er utledet i Mathematica som automatisk kan gi svaret i TEX-
+
+form (layouten er litt pyntet på her). Selv om formelen er komplisert er den
+ikke umulig å utlede for hånd i dette tilfellet. Uansett, man er glad man sparer
+arbeidet, og med en litt mer kompleks modell ville det i praksis være helt uaktuelt
+å gjøre det for hånd. Det er ikke tvil om at Mathematica utvider enormt klassen
+av Markovmodeller som en kan bruke i praksis.
+For å utføre en slik analyse i Mathematica trenges et program. Jeg har i dette
+tilfellet tatt utgangspunkt i en standard prosedyre for å finne overgangssannsynligheter i Markovkjeder. Fra et håndregningssynspunkt er det to krevende elementer
+i denne prosedyren. Det ene er å invertere en symbolsk matrise. Det er gjort ved
+enkel Mathematica-kommando. Det andre er å invertere en rasjonal Laplace transform. Først må en da finne egenverdiene til Markovkjedens intensitetsmatrise, noe
+som generelt krever løsning av en likning av (muligens) høy grad. Dessverre er ikke
+Mathematica dyktigere enn Niels Henrik Abel, og kan derfor stoppe opp på dette
+punktet. I eksemplet vårt her er det imidlertid trivielt å finne egenverdiene. En
+kan så gå videre og benytte en kommando for delbrøkoppspaltning kombinert med
+en Mathematica-pakke som inverterer Laplace transformer. Hele programmet er
+en enkel affære, og man trenger ikke å være Mathematica-ekspert (noe undertegnede definitivt ikke er) for å lage det.
+Hvis man ønsker å tegne diagram over overlevelseskurven, finnes det i Mathematica meget enkle plottekommandoer som gir pene resultater.
+
+
+
+10
+
+Likelihoodfunksjoner
+Når en skal utføre sannsynlighetsmaksimering må en ofte sette opp sin egen likelihoodfunksjon og denne kan iblant være en komplisert affære. Beregning av standardavvik for estimatene krever i prinsippet at en deriverer likelihooden to ganger
+med hensyn på vektoren av parametre. Riktignok vil mange maksimeringsrutiner
+gi numeriske deriverte, men disse er ikke alltid til å stole på, de kan iblant være
+ganske upresise. En god mulighet er da å la Mathematica derivere likelihooden
+i stedet for å gjøre det selv. Og er det noe Mathematica eksellerer i, så er det
+å derivere. Jeg har prøvd denne fremgangsmåten med store og kompliserte likelihodfunksjoner og det har fungert utmerket.
+
+Det skal forøvrig nevnes at Mathematica ikke er egnet til å maksimere kompliserte funksjoner, eller til andre krevende numeriske beregninger. Alle slags iterasjoner går tregt i Mathematica, og selv forholdsvis enkle numeriske oppgaver kan i
+praksis vise seg å være umulige. Dette betyr ikke at Mathematica ikke kan brukes
+i visse type numerisk analyse, men det er ikke programmets sterke side. I praksis
+må en derfor kombinere med et vanlig numerisk programsystem. Selv kombinerer
+jeg med GAUSS og føler at disse to programmene dekker omtrent alle behov. En
+kan også skrive ut formler fra Mathematica i Fortran-form, som forøvrig også går
+nesten rett inn i GAUSS.
+
+Sannsynlighetregning
+Anta at en kaster mynt og kron gjentatte ganger, og at en vinner en krone ved
+kron, og taper det samme beløpet med mynt. Dette er en symmetrisk tilfeldig
+gang der kapitalen er tilstanden. Hvis en starter med en kapital på k kroner, hva
+er da sannsynlighetsfordelingen for tiden til ruin, dvs. til en har en kapital på 0
+kroner? Sannsynligheten for at dette skjer etter akkurat n spill er gitt i Karlin &
+Taylor's bok om stokastiske prosesser, bind II (s.18), i følgende form:
+
+1/(27) [ cos(x)"” sin(kz) sin(x) dz.
+Denne løsningen virker jo ikke særlig eksplisitt og man føler kanskje at man ikke
+er blitt så mye klokere. Mathematica kan imidlertid uten problemer finne eksakte
+numeriske verdier av dette integralet. Med startkapital k = 5 kroner er sannsynligheten for ruin etter akkurat n = 9 spill lik 5/128. His startkapitalen er 10
+
+kroner blir sannsynligheten for ruin etter akkurat 20 spill lik 969/131072. Når en
+bruker Mathematica er altså en formel som den gitt over en tilstrekkelig eksplisitt
+
+løsning.
+
+Spesielle funksjoner
+Når man manipulerer formler har man tradisjonelt vært mest fornøyd med såkalte
+eksplisitte løsninger. Det vil i praksis at man får uttrykk som for eksempel kan
+
+
+
+11
+
+inneholde polynomer eller klassiske funksjoner, så som logaritmer og eksponensialfunksjoner. Mathematica utvider enormt klassen av enkelt håndterbare funksjoner. En hærskare av klassiske funksjoner, for eksempel Besselfunksjoner og
+hypergeometriske funksjoner er like lett tilgjengelige som eksponensialfunksjoner
+og logaritmer. Begge disse klassene er viktige i statistikken. Besselfunksjonene
+dukker opp mange steder i sannsynlighetsteorien, for eksempel i forbindelse med
+invers gaussiske fordelinger. Konfluente hypergeometriske funksjoner opptrer som
+Laplace-transformer for betafordelinger og beslektede fordelinger, og de som bruker
+Laplace- transformer har dermed et vesentlig større register å spille på.
+En kan også definere sine egne funksjoner etter behov. Det klassiske kravet til
+
+eksplisitte løsninger blir derfor vesentlig redusert.
+
+Grafisk fremstilling
+Mathematica har en glimrende grafikk og håndboken er full av vakre bilder i mange
+farger. Fullt så flotte blir de ikke på den hjemlige laserjet, men man kan likevel få ut
+fin og sofistikert grafikk. Det som er særlig nyttig er plottene av to-dimensjonale
+flater, hvor det finnes svært mange avanserte presentasjoner. Plotterutinene er
+også enkle å bruke. Det har likevel vært litt mangelfullt med mulighetene for å
+utstyre aksene med passende tekst, passelig store tall også videre, men dette blir
+nok bedret etterhvert.
+
+Avsluttende kommentarer
+Mathematica er et avansert system som det sikkert tar år å beherske fullt ut. Men
+min erfaring er at en også kan nyttiggjøre seg det uten å være ekspert. Systemet
+kan brukes på mange nivåer, men litt innsats må man regne med. Jeg tror at
+Mathematica og liknende systemer kommer til å spille en økende rolle også innen
+statistikken, og at en fremtidsrettet faglig holdning innebærer en åpen nysjerrighet
+overfor hvordan man kan nyttiggjøre seg denne type landevinninger.
+
+Håndbok: Stephen Wolfram: Mathematica, a system for doing Mathematics by
+computer. Addison-Wesley, 1991.
+
+Informasjon om Mathematica: Wolfram Research, Inc., 100 Trade Center Drive,
+Champaign, Illinois 61820-7237, USA. E-mail: infoQwri.com
+
+
+
+12
+
+Sannsynlighet for å bli uskyldig dømt - justismordets "paradoks"?
+av Stian Lydersen, NTH Institutt for matematiske fag
+
+Høsten 1993 har det pågått en debatt i Adresseavisen eksemplifisert ved Bjugn-saken. Det vises til
+innlegg av Svein Sigmond 4/10-93 (vedlagt) og 2/11-93, innlegg av Eriksen 9/10-93 samt innlegg av
+Jan F Bjømstad og Helga Vivås 30/10-93 (vedlagt) og 8/11. De to vedlagte innleggene belyser etter
+min mening hovedinnholdet i debatten. Med de forskjellige antakelsene som er brukt, varierer
+sannsynlighetene for "justismord" fra 0.0003 - 0.03 til 0.90 i innleggene. Nedenstående viser hvordan
+begge kan utledes som tilnærmingsformler eller spesialtilfeller ut fra generelle forutsetninger. Videre
+er det tatt med en rekke talleksempler for den generelle formelen, samt noen synspunkt på hva som
+er "justismord". For ordens skyld: Dette er ikke et innlegg som tar stilling til skyld/uskyld i Bjugnsaken.
+
+Seksuelt misbruk av barn er en type straffbar handling der etterforskning/bevisførsel vanligvis er mye
+vanskeligere enn i saker der en har mer entydige tekniske bevis. Betrakt en vilkårlig person, og definer
+følgende hendelser relatert til en straffbar handling:
+S = "Personen er skyldig"
+T = "Personen blir tiltalt"
+D = "Personen blir dømt"
+
+Debattantene opererer med to forskjellige utfallsrom: Sigmond lar utfallsrommet være hele
+befolkningen, mens Bjørnstad/Vivås lar utfallsrommet være den mistenkte del av befolkningen (man
+må være mistenkt for å kunne bli tiltalt). Videre kan det synes som om Sigmond lar T stå for
+"mistenkt"i steden for "tiltalt". Utledningene nedenfor er gyldige for begge utfallsrom, så lenge en har
+dette klart for seg.
+
+Det fremgår implisitt av avisinnleggene at justismord defineres som den hendelsen at en dømt virkelig
+
+er uskyldig,
+
+S°ID. En annen sak er at det kan være like naturlig å definere justismord som den
+
+hendelsen at en uskyldig blir dømt, DIS‘. Jeg vil komme tilbake til dette poenget, og foreløpig se på
+P(SYD). Denne sannsynligheten kan skrives som
+
+P(S YD) =
+
+P(DIS 9) P(S 9
+
+P(DIS°)P(S° + P(DIS)P(S)
+
+Siden man må være tiltalt for å kunne bli dømt, er åpenbart D c T. Dermed fås
+
+P(DIS%) =
+
+PONS) _ PONTNSY _ POTNSOPMSOPSS _ poms opens
+P(S”)
+
+=
+P(S*)
+
+PSS
+
+og
+
+P(DIS) = P(DIT N S)P(TIS)
+
+
+
+13
+
+som gir
+
+P(SYÅD) =
+
+_
+
+P(DIT N $ PITIS SY P(S 9)
+P(DIT N SS P(TIS SY P(S
+
++ P(DIT NSYP(TISYP(S)
+
+ff,d - 5)
+
+= ff,d - 5 +0 - 155
+(1)
+
+Følgende sannsynligheter inngår i (1):
+s = P(S):
+
+Sannsynligheten for at en person er skyldig, dvs andelen skyldige blant hele befolkningen. I
+sine talleksempler bruker Sigmond 0,1%, mens Bjørnstad/Vivås bruker 30% i den mistenkte
+del av befolkningen.
+
+f, = PITISY:
+Sannsynligheten for at en uskyldig person blir tiltalt. Bjørnstad/Vivås bruker 1% - 10%.
+
+f, = PDIT n S9:
+
+Sannsynligheten for at en uskyldig tiltalt blir dgmt. Begge debattantene bruker 1%.
+f, = PCTIS):
+
+Sannsynligheten for at en skyldig person blir tiltalt. Sigmonds formel fremkommer ved 4 sette
+denne lik f,.
+
+f, = P(IDYT IS):
+
+Sannsynligheten for at en skyldig tiltalt blir frifunnet. Tilnærmingsformlene brukt av
+debattantene forutsetter f, << 1.
+
+Ved å anta s << 1 fås de to tilnærmingsformlene som brukes i innleggene:
+Sigmond:
+
+h
+
+P(SID) =
+2
+
+= 0,90
+
++S
+
+Bjørnstad/Vivås:
+
+P(S ID) = fh
+
+fy1 * 8
+
+0,0003 ril 0,003
+
+Så store avvik gir de forskjellige forutsetningene som de to debattantene legger til grunn!
+
+Hva vil sannsynligheten for justismord hvis den generelle formelen (1) brukes, og vi setter inn
+sannsynligheter som synes å ha riktig størrelsesorden? Vi lar nå utfallsrommet være hele befolkningen,
+da et anslag over andelen skyldige i befolkningen vil være mindre spekulativt enn et anslag over andel
+skyldige blant de mistenkte. Videre gjør vi følgende antakelser om sannsynlighetene:
+
+
+
+14
+
+s = P(S):
+
+Det er vanskelig å si hvor stor del av befolkningen som har begått seksuelle overgrep mot
+
+barn, da mange tilfeller aldri blir etterforsket. La oss anta at s er mellom 0,1% og 2%.
+f, = P(TISS) og f, = P(TIS):
+Siden påtalemyndigheten bare tar ut tiltale hvis den mener bevisene har en rimelig holdbarhet,
+er det rimelig å anta at f,/f, er betydelig større enn 1. Vi antar at f,/f, er mellom 100 og
+1000, det kan godt hende forholdet er enda større.
+
+f, = PDIT A Ss
+
+Vi beholder antakelsen om at denne er lik 1%.
+
+fj= P(DYT n S):
+Rettsvesenets prinsipp er at det er bedre at flere skyldige blir frifunnet, enn at en uskyldig blir
+dømt. Sannsynligheten for feildømming i denne retningen må derfor antas å være større enn
+f,, spesielt pga bevisets vanskelige stilling i denne typer saker. Vi antar derfor at denne
+sannsynligheten er mellom 10% og 80%. Med mindre f, er nær 1, vil f, imidlertid ha liten
+
+innflytelse på P(S“ID).
+
+Ved å bruke disse tallene i (1), fås verdier for P(S“ID) i intervallet 0,05% - 33%, se Tabell 1. Poenget
+er at med realistiske anslag på de sannsynlighetene som inngår, vil P(S“ID) kunne bli betydelig større
+enn P(DIS®), ja selv større enn P(DIT n SS). Dette kan kanskje kalles "justismordets paradoks", selv
+om det ikke er et paradoks, da det er et spørsmål om hva som er justismord: Er det at en uskyldig blir
+
+dømt (DISS), er det at en dømt er uskyldig (SID), eller kanskje det er at en person er uskyldig og blir
+
+dømt (S*HD)? (Sannsynligheten for det siste vil være tilnærmet lik sannsynligheten for (DISS).)
+
+"Svaret" på hva som er justismord synes å bero på om man ser det fra enkeltindividets eller fra rettsvesenets perspektiv:
+
+Enkeltindividet vet om han/hun er skyldig eller ikke. For enkeltindividet vil det derfor være viktig at
+
+P(DISS) (og P(DIT n S%)) er lav.
+
+Rettsvesenet "vet" ikke om tiltalte er skyldig eller ikke, men skal avgjøre om tiltalte skal dømmes.
+
+Rettsvesenet må derfor sørge for at P(S°ID) er lav, spesielt sett fra forsvarerens perspektiv.
+
+Tabell 1.
+
+s
+
+f/f,
+
+f,
+
+f,
+
+P(S‘ID), %
+
+0,001
+0,001
+
+100
+100
+
+0,1
+0,8
+
+0,01
+0,01
+
+10
+33
+
+0,001
+
+1000
+
+0,1
+
+0,01
+
+1,1
+
+0,001
+
+1000
+
+0,8
+
+0,01
+
+4,8
+
+0,02
+0,02
+0,02
+0,02
+
+100
+100
+1000
+1000
+
+0,1
+0,8
+0,1
+0,8
+
+0,01
+0,01
+0,01
+0,01
+
+0,54
+2,4
+0,054
+0,24
+
+
+
+15
+
+Adresseavisen “/lo- 93
+
+Justismordets statistikk
+9 Dagens innspill
+
+Artikkelforfatter:
+SVEIN SIGMOND
+
+Professor I teknisk fysikk, NTH
+
+dreier seg om sjansen for å
+
+I innlegg av Svein Sigmond 4. okt. og 18. okt. gis
+
+bli uskyldig dømt. I morgen
+
+kan det gjelde deg — som of-
+
+det inntrykk av at det er en
+
+fer, eller som jurymedlem.
+Jeg vil begynne med noe
+
+— Hvis den pågående bevisførsel og rettergang i
+Bjugn-saken har 99% sikkerhet, og den virkelige
+
+håndgripelig og aktuelt:
+TalHIV-smitte-diagnose.
+lene jeg bruker er enkle, men
+
+fiktive. Si at du tar en HIV-,
+test, og får vite at testen er
+
+forekomsten av massemisbruk av barn av grup
+
+99% sikker, altså at den tar
+
+per av vpksne i Norge lig-
+
+* feil en gang av hundre. Til
+
+ger på bi, Jer det 90%
+
+din forferdelse og forbau-
+
+sannsyritgiret for justismord i denne saken.
+
+selse er testen positiv. Nå
+blir statistikk et spørsmål
+
+I medisinen er man stort
+
+om liv eller død: Hvor stor er
+
+sett oppmerksom pa denne
+
+sjansen for at du da virkelig
+
+uventet forstørrede feilsannsynligheten (kalles Baynesstatistikk), og man vil alltid
+
+er HIV-smittet?
+
+Jeg har stilt mange dette
+spørsmålet, og alle — unntatt
+spesialister — svarer 99%.
+«Time» rapporterer at folk
+
+Av de fire millioner virkelig
+friske vil 1% bli feilaktig
+smittedømt, altså 40000.
+
+Dette vil si at av de friskmeldte 3,96 millioner er det
+gjort 40 feil, altså ca. 0,001%.
+
+Av de smittedemte 43 960 er
+40000 feil, altså ca. 90%!
+Sjansen for 4 være feilaktig:
+;'smittedømt” er’ faktisk 90%,
+
+v og din positive HIV-test levner deg ennå ni sjanser av ti
+på å være frisk.
+
+Konklusjonene er:
+
+— Hvis en test med feilpro-
+
+senst [% brukes på en befolkning med s% virkelig-
+
+syke, vil sjansen for feil
+sykedommming være ca.
+
+f+s
+
+x 1009
+
+— Hvis en rettergang med
+en feilsjanse {% brukes på
+en befolkning med s% virkelig skyldige, vil sjansen
+for justismord være ca.
+f
+f+s
+
+x 100%
+
+forbrytelser.
+
+2
+
+verden er faktisk ikke så urimelig.
+
+Selv under de forutsetnin-
+
+ger som Sigmond legger til
+
+grunn, er den faktiske sjansen for at en uskyldig siktet
+blir dømt lik 9% og ikke 90%.
+Med mer realistiske antagelser vil denne sjansen bli ad-
+
+9. okt.
+
+Årsaken til Sigmonds feil-
+
+urealistiske antagelser om
+sannsynligheter og feil beregning av sannsynlighet.
+Det er nok fristende å bruke
+enkle regneregler fra sann-
+
+synlighetsteorien, men Sigmond anvender ikke den rik-
+
+La sjansen for at en uskyldig blir tiltalt være f,%, 0g
+
+sett hvor sjelden forbrytel-
+
+talt blir dømt være f,%. hvis
+
+en
+
+ningen virkelig er skyldige,
+så er sjansen for justismord
+
+sen måtte være. Og denne
+har
+
+feiloppfatningen
+
+uhyggelig evne til selvrettferdiggjørelse:
+
+først
+
+Hvis
+
+mange har blitt (feilaktig)
+dømt på slikt grunnlag, vil
+dette bli brukt som bevis for
+at forbrytelsen er vanlig i
+samfunnet, og at 99% bevissikkerhet derfor er godt nok.
+
+Rene epidemier av (anklager om) opprørende forbrytelser har oppstått på denne
+
+tige regneregelen.
+
+sjansen for at en uskyldig til-
+
+8% av den mistenkte befolk- .
+
+ca.
+
+fe
+fi:
+
+fot, + 1005
+
+00%
+
+Sigmond antar at f,=f,=f,
+
+og da blir formelen
+
+£
+
++ 100%
+
+måten.
+
+f? + 100s
+
+mødre ble anklaget for hekseri, og ble stilt for retten i
+Stavanger i juli 1622. Bevisinnsamlingn ble meget samvittighetsfullt utført. Tortur
+bie ikke brukt (foik var ikke
+dumme i de dager). Jurvens
+antall ble doblet for å unngå
+at en uskyldig ble dømt. Jeg
+har utdrag av rettsdokumentene, og jeg vil anslå at prosessen ville oppdage 999 hek-
+
+Vi bruker Sigmonds anta-
+
+En av mine fjerne for-
+
+ser av 1000. Men dommerne
+glemte å multiplisere denne
+«overveiende sannsynlighe-
+
+ten» med andelen virkelige
+
+hekser i Stavanger, altså
+
+med null.
+
+Johanne Pedersdatter ble
+brent på bål I Stavanger den
+30. september 1622, som den
+siste i Norge hittil.
+
+—
+
+adskillig
+
+blir
+
+tilfeldig hvilken del av befolkningen som blir mistenkt, og eventueit at det fak-
+
+Men folk flest er helt
+ukjente med denne tankegangen. For dem betyr 99%
+bevis-sikkerhet en «overveiende sannsynlighet» for at
+den skyldige er funnet, uan-
+
+når de mistenkte blir trukket
+
+ut rent tilfeldig. Denne sann-
+
+lige leserne. Den virkelige
+
+aktige konklusjon er både
+
+krav som må stilles til bevis
+i rettssaker, og da særlig i
+saker som gjelder sjeldne
+
++ 10057 = 9%
+
+synligheten
+
+lingssaker. Vi ønsker med
+dette motinnlegget å bero-
+
+gjentatt. Dette er bakgrun-
+
+nen for de ekstra strenge
+
+1
+
+1+10
+
+og lignende barnemishand-
+
+mar. virkelig er sikker.
+I rettsvesenet, derimot,
+
+blir ikke indisier til sikre bevis, selv om en rettssak blir
+
+Men dette svaret er dedelig
+
+galt:
+
+overhengende fare, ca. 90%,
+for justismord i Bjugn-saken
+
+skillig mindre enn 9%, trolig
+av størrelsesorden 0,03% til
+0,3%. Dette ble også antydet
+i et innlegg av Leif Eriksen
+
+gjenta en positiv test inntil
+
+har skutt seg i denne troen.
+
+de 4000 smittede vil 1% bli
+feilaktig friskmeldt, altså 40.
+
+3010-93
+
+Sjansen for justismord
+
+Jeg ber deg lese dette. Det
+
+Si at vi har 0,1% virkeli
+HIV-smittede i Norge, alts
+fire millioner friske og 4000
+smittede. Så gjør vi HIV-testen på hele befolkningen. AV
+
+Ådrutaisun/
+
+gelser og beregner denne
+sannsynligheten. Et tilfeldig
+utvalg av befolkningen (for
+eksempel Bjugn) blir utsatt
+for bygdesladder som forer
+til konkrete anklager. I dette
+utvalget stilles noen perso-
+
+ner på tiltalebenken. Det antas at sjansen for at en tilfeldig valgt person i Norge er
+misbruker av barn er lik
+0,1%, dvs. s = 01%. Videre
+antar Sigmond at f=1%.
+Dette gir at sjansen for justismord blir
+
+mindre hvis det ikke er rent
+
+tisk har forekommet barne-
+
+mishandling blant de mistenkte. Realistiske tall etter
+vår mening gir sjansen for
+
+justismord av størrelsesor-
+
+den 0,039 til 0,39.
+
+For eksempel, la oss anta
+at f, er så høy som 10% 0g .
+
+at det er kun 30% skyldige i
+den delen av befolkningen
+
+som blir mistenkt. Da blir
+sjansen for justismord lik
+10
+——0
+
+0300
+
+5
+
+SE
+
+00%
+
+Co = 0,3%
+
+Hvis vi antar at fj = fa =
+1%, så blir sjansen så liten
+som 0,03%. Vi kan vel derfor
+
+trygt
+
+slå
+
+fast
+
+at
+
+dagens
+
+rettssystem fungerér «bra» I
+denne forstand. Spørsmålet
+
+er vel heller om en akseptabel andel av de skyldige blir
+
+dømt!
+
+Jan F. Bjørnstad
+Professori statistikk
+Institutt for matematikk
+
+og statistikk, UNIT, AVH
+Helga J. Vivås
+
+Førsteamanuensis i statistikk
+Institutt for matematikk
+og statistikk, UNIT, AVH
+SKRIV KORT, og HUSK:
+Forfatterens navn og adr.
+(helst også telefonnr.) må
+
+oppgis til redaksjonen.
+
+Red
+
+
+
+PARADOKS?
+
+I klippet fra RSS News: “On sonnets, riffles and the Walls Cornetto” i siste TG
+ble det beskrevet tre kategorier tilfeldigheter. Den første var ... *when the observed
+incident is not unexpected based on randomness but so in the public perception”.
+Dette minnet meg om en problemstilling som var aktuell her i Norsk Hydro for en
+tid siden.
+
+Sterkt forenklet så vi på en situasjon med et antall N identifiserte geologiske
+strukturer som muligens kan inneholde olje. Ut fra forskjellig informasjoner kan
+geologene anslå sannsynligheten for å gjøre et funn i struktur nr. 2, si til
+P(funni struktur i) = p;. I en Monte Carlo simulering med M repitisjoner simuleres
+funn/ikke-funn i de N strukturene. Basert på resultatene fra MC simuleringen kan
+fordelingen for T = totalt antall funn på de N strukturene estimeres, og forventning
+-~og varians for T' beregnes.
+
+Nå er imidlertid geologene slett ikke sikre på sitt anslag for funnsannsynlighetene
+pi, 1 = 1,...,N. I stedet for konstante verdier vil de derfor heller tilordne hver p;
+en sannsynlighetsfordeling F;. I hver repstisjon av MC simuleringen trekkes da først
+hver enkelt p; ut fra fordelingen F;, og deretter trekkes funn/ikke-funn basert på
+den realiserte p;. I og med at man derved har har innført et ekstra usikkerhetsmoment ville geologene (og undertegnede!) intuitivt forvente at det ville bli en større
+spredning i T når det var variabilitet i p;-ene enn når de var konstante. Stor var
+derfor overaskelsen når det viste seg at resultatet ble akkurat det samme, så lenge
+den konstante verdi for hver p; var lik forventningen i Fi.
+
+Det er trivielt å vise matematisk at det må være slik. La X;;=1 hvis funn på
+struktur ii MC-repitisjon 7, X;; = 0 ellers, og la p; være den tilhørende funnsannsynligheten. Da er:
+
+P(X; = 1) = f 0 = 1) pÖF; = f par = Ep,
+Med andre ord: Fordelingen for X;;, og dermed for T; = XY), Xi;, avhenger bare av
+fordelingen for p;; gjennom Ep;;.
+
+Jeg kan imidlertid forsikre om at det ikke var trivielt å overbevise geologene!
+Eivind Damsleth
+
+Eivind Damsleth, Norsk Hydro A/S P.O.Box 200, 1341 Stabekk, NORWAY Tel.
+(+47)22738160, Fax. (+47)22737873 Email: damslethQnho.hydro.com
+1
+
+
+
+17
+
+Statistikk fra siderommet
+3 bokanmeldelser etc..
+
+av Inge Helland.
+
+Tittelen over er inspirert av Øgrim og Ormestad's kjente TV-serie "Fysikk på
+roterommet". I mange hundre år har fysikken vært idealet for all eksakt vitenskap. Som
+påpekt i Lennart Råde's artikkel om Florence Nightingale i forrige nummer, gjalt dette også
+
+for statistikken.
+
+Alle er klar over at fysikkens grunnvoller gjennomgikk en fullstendig
+
+omveltning i begynnelsen av dette århundret: Ved kvantemekanikken ble det klart at all
+fysikk på mikroplanet på en helt grunnleggende måte må bygge på sannsynlighetsbetraktninger. Dette var vanskelig å akseptere for endel sentrale personer, blant annet Albert
+
+Einstein, men i dag er det få som tviler på at sannsynlighetsbegrepet er helt fundamentalt for
+moderne fysikk. Fra vårt ståsted skulle vi da tro at det ville oppstå tette bånd mellom de to
+fagfeltene statistikk og fysikk, men dette kan neppe sies å være tilfellet. Noe av forklaringen
+ligger i at sannsynlighetsberegningene i kvantemekanikken gjøres på en måte som er helt
+fremmed for oss.
+
+Undertegnede har selv snust på fysikk som fag for mange år siden, og kjenner til flere
+statistikere som har gjort det samme.
+
+Som en kollega sa det: "Mange statistikere er
+
+mislykkede fysikere." For min egen del må jeg innrømme at jeg syntes kvantemekanikken
+var en vanskelig kamel å svelge. Ikke fordi den bygget på sannsynligheter; jeg synes det er
+meget plausibelt at verden ikke er deterministisk, men på grunn all den merkelige
+formalismen den bygger på. "En observator er representert ved en operator i et Hilbertrom"
+er noe av det første en støter på; senere følger komplekse bølgefunksjoner som adderes og
+
+kvadreres for å gi sannsynligheter, observasjoner som ikke kan gjøres samtidig "fordi visse
+operatorer ikke kommuterer" osv..
+
+Av og til kan det hele minne om ritualer som
+
+gjennomføres av visse primitive stammer før man er klar til å forutsi begivenheter i
+fremtiden.
+
+Det finnes en enorm matematisk-fysisk litteratur i tilknytning til kvantemekanikken,
+
+det meste på den matematiske siden ut fra operator-teori/ funksjonalanalyse. På en måte er
+det merkelig at ikke sannsynlighetsteori kommer sterkere inn når det gjelder fundamentet:
+
+Alle teorier ender opp med sannsynlighetsfordelinger når de skal forutsi utfall av konkrete
+eksperimenter. Noe av vanskeligheten har vist seg i de såkalte teoriene om skjulte variable .
+I sin enkleste form svarer disse til vanlige sannsynlighets-modeller. Det er vist helt generelt
+at disse teoriene, hvis de i tillegg er lokale, fører til visse ulikheter (Bell's ulikheter) som kan
+testes eksperimentelt.
+
+
+
+18
+
+(Det finnes flere varianter av Bell's ulikheter; en full diskusjon ville kreve en egen
+
+artikkel. Den enkleste jeg har sett, er følgende, som jeg fant i en rapport av W.G. Faris: For
+
+hendelser A, B og C er det lett å se fra et Venn-diagram at i vanlig sannsynlighetsregning er:
+
+P(ANB’)+P(BNC)+P(CNA)S1.
+Tilsvarende gjelder ikke generelt i kvantemekanikken. I sannhetens navn: Der ulikheten ikke
+gjelder, er A, B og C delvis knyttet til forskjellige fysiske eksperimenter, men eksperimentene
+tar utgangspunkt i den samme bakenforliggende realiteten.)
+
+De som følger med i populær-vitenskapelige tidsskrifter som Scientific American, vet
+at det har skjedd ganske mye på eksperiment-fronten i de senere årene. Mest kjente er vel de
+såkalte Aspect-eksperimentene i Frankrike, men det finnes også andre, lignende.
+Konklusjonen fra disse eksperimentene ser nå ut til å være ganske entydig:
+Kvantemekanikken har rett! Forutsigelsene stemmer med de eksperimentelle resultatene.
+Hvis en derimot ser på teoriene for skjulte variable, viser det seg at Bell's ulikheter ikke
+generelt stemmer med virkeligheten. Det ser altså ut til at det er vanskelig å få vanlige enkle
+sannsynlighetsmodeller til å stemme med det man vet om moderne atomfysikk.
+
+Helt til slutt i denne artikkelen skal jeg nevne kort noe av det som finnes på det
+teoretiske området i grenselandet mellom kvantemekanikk og vanlig sannsynlighetsteori. Jeg
+
+må innrømme at mine egne interesser ligger et stykke fra den mest avanserte utviklingen. Én
+ting er at denne typen matematikk er tung å lese og arbeide med.
+grunnleggende idéene ofte forsvinner i ren formalisme.
+
+Viktigere er at de
+
+De tre bøkene jeg skal omtale
+
+nedenfor, er av et helt annet slag. Felles for alle tre er at de konsentrerer seg om hoved-idéer,
+og inneholder lite matematikk. Ellers er de nokså forskjellige. Den første gir en historisk
+oversikt over hvordan sannsynlighetsbegrepet har vært brukt og brukes av fysikere. De to
+
+siste er begge skrevet av topp-kapasiteter innenfor sine områder, forskere med så stor oversikt
+og sikkerhet at de ikke er redde for å skrive elementært. Feynman konsentrerer seg om den
+
+relativistiske kvantemekanikken, mens Ruelle berører en rekke områder, både innenfor og
+utenfor fysikken.
+
+Charles Ruhla: The Physics of Chance. From Blaise Pascal to Niels Bohr. Oxford
+University Press, 1992. ISBN 0-19-853977-0.
+
+Dette er en historisk oversikt over bruken av sannsynlighetsregning i fysikk, med
+hovedvekt på dagens situasjon. Hver ny utvikling er representert ved én eller flere sentrale
+personer: Utviklingen av sannsynlighetsregningen ved Fermat, Pascal, Huygens og (Jakob)
+
+Bernoulli, modellering av målefeil ved Gauss, statistisk mekanikk ved Maxwell og
+Boltzmann, kaosteori ved Henri Poincré, og kvantemekanikk ved Niels Bohr, med Einstein
+
+
+
+19
+
+som motpol i diskusjonen. De første kapitlene har kanskje lite nytt å lære en statistiker, men
+det er morsomt å se at våre velkjente binomiske, Poisson- og normal-fordelinger også er de
+
+som har sentral betydning i fysikk. Fremstillingen er ikke perfekt; her er uheldige
+formuleringer (s. 55 og s. 57, f.eks.) og også direkte feil (s. 11, s.13). Noe mer ukjent, og
+dermed mer interessant, stoff finner vi i kapitlene om statistisk mekanikk. Hovedprinsippene
+er klart fremstilt, ved bruk av kombinatorikk, symmetri og maksimering av funksjoner under
+sidebetingelser. Det vesentlige av matematikken er lagt til appendixer. Boltzmanns energiekvipartisjonsprinsipp gir en kort vei fra fysikk til kjikvadratfordelingen og bruken av ordet
+frihetsgraderi statistikk.
+
+Omtalen av kaosteori er meget knapp; her finnes det mange bøker som er mye mer
+omfattende.
+
+De siste kapitlene, om kvantemekanikken, er på mange måter de mest interessante,
+ikke fordi de beskriver teorien særlig nøye, men fordi Ruhla gir en relativt detaljert
+redegjørelse for de nye eksperimentene som er gjort for å prøve ut teorien. I kapittel 7 er en
+moderne versjon av Young's tospalte-forsøk beskrevet, og konklusjonen ser ut til å være
+entydig: Når lys kan gå to veier som senere møtes igjen, oppstår interferensfenomener.
+Like fullt er det klart at fotoner må oppfattes som enkeltpartikler. I kapittel 8 beskrives
+forsøkene til Alain Aspect, der konklusjonen ser ut til å være at fotoner som sendes ut
+
+samtidig fra samme kilde, må oppfattes som en enhet, selv når fotonene er flere meter fra
+hverandre. Disse forsøkene har direkte relasjoner til et tankeeksperiment av Einstein,
+
+Podolsky og Rosen i 1935 (modifisert av Bohm i 1952), og ser ut til å vise at
+kvantemekanikken har rett selv om konklusjonene ser absurde ut. Aspect's forsøk kan også
+
+settes i sammenheng med Bell's ulikheter, og gir klare motbevis mot de enkleste teoriene om
+skjulte variable.
+
+Youngs tospalte-forsøk
+
+
+
+20
+
+Det er imidlertid ikke formalisme og absurditeter som utgjør avslutningen i boken,
+
+men det enkle budskapet: Verden er stokastisk; skal vi gi en korrekt beskrivelse av
+virkeligheten, må vi gå bort fra deterministiske modeller og ta i bruk sannsynlighetsregning:
+"Is it not time therefore, at long last, to accept chance as fundamentally characteristic of
+Nature?"
+
+Richard P. Feynman: QED. The strange theory of light and matter. Penguin
+Books, Science 1985. ISBN 0-14-012505-1.
+
+De tre bokstavenei tittelen er forkortelse for kvanteelektrodynamikk, og har ingenting
+med avslutningen av et matematisk bevis å gjøre. Tvertimot er denne boken meget lite
+matematisk; Feynman's idé er at grunnprinsippene i moderne fysikk kan forklares meget
+enkelt, uten å trekke inn særlig mye tekniske begreper. I vårt språk kan grunnprinsippet han
+bygger på, kanskje sies slik: Dersom A og B er to disjunkte hendelser, og vi ikke undersøker
+
+hvilken av A eller B som skjer, er P(A U B)=|u, + us| for komplekse tall u, og u, somi
+prinsippet kan finnes fra enkle formler. Dersom vi undersgker hvilken av A eller B som
+
+skjer, er P(A)= |u al , P(B)= just og P(AU B)=P(A) + P(B). Denne typen sannsynlighetsregning fører til interferens-fenomener, og mange har kanskje sett dette omtalt i forbindelse
+
+med det såkalte tospalte-eksperimentet (se omtalen av Ruhla's bok). Hos Feynman er denne
+måten å regne på helt fundamental: Den brukes til å vise at lys går i rette linjer, brytes riktig
+mot glass og vann, spres når det går gjennom tynne hull osv.. Videre brukes samme prinsipp
+til å studere vekselvirkning mellom elektroner og fotoner, og dermed "i prinsippet grunnlaget
+for all kjemi og biologi". Tilslutt diskuteres kvalitativt sterke og svake vekselvirkninger i
+
+partikkelfysikken ut fra de samme prinsipper.
+
+Tonen er like entusiastisk hele tiden.
+
+Figurbetraktninger spiller en stor rolle. Dersom en kan litt matematikk, vil en kanskje savne
+en formel her og der. Komplekse tall er egentlig helt grunnleggende for alle resultater i boka,
+men er likevel bare nevnt så vidt i en fotnote. Hele diskusjonen er basert på små piler i
+planet. Ikke desto mindre: Det anbefales sterkt å lese boka på dens egne premisser. Kanskje
+vil en til og med lære noe nytt om komplekse tall! Det som likevel slår en mest, er den ærlige
+og direkte måten Feynman presenterer grunnlaget for fysikken på, slik han oppfatter den:
+
+Dette er oppskriften, den fungerer, men den er helt absurd. Du kan like denne oppskriften
+eller ikke, det er ikke det som betyr noe. Poenget er bare at den beskriver virkeligheten.
+
+
+
+21
+
+David Ruelle. Chance and Chaos. Princeton University Press, 1991.
+ISBN 0-691-08574-9.
+
+Dette er igjen en helt forskjellig bok.
+
+Ruelle tar utgangspunkt i Kolmogorov's
+
+aksiomer, og har.sannsynlighetsregningen med på lasset det meste av tiden, men selv om
+boka bare har 166 sider, sveiper han over et helt utrolig spekter av forskjellige emner:
+
+spillteori, kaosteori, turbulens, økonomisk teori, kvantemekanikk, informasjonsteori og fysisk
+entropi, statistisk mekanikk, svarte hull, evolusjonsteori, kompleksitetsteori både sett ut fra
+algoritme-konstruksjoner og sett ut fra Gödel's teorem... Listen er ikke komplett. Innenfor
+
+hvert emne går Ruelle rett på det han oppfatter som essensen, og leseren har sjelden vanskelig
+med å bli overbevist om at dette virkelig er essensen.
+
+Stilen er enkel, slentrende, ofte
+
+humoristisk, men likevel langtfra overflatisk. Emnene er ofte grundigere utdypet i notene
+bak, der en også finner videre referanser. Endel av disse refererer til Ruelle's egne godt
+kjente arbeider innenfor turbulensteori og statistisk fysikk.
+
+For å gi en antydning om stilen, kan det være fristende å nevne et par av det mer
+
+morsomme passasjene. Som da han etter én refusering fikk antatt sitt nå kjente arbeide om
+'strange attractors' ("Actually, I was an editor of the journal, and I accepted the paper myself
+
+- for publication.") Senere kommer en generell beskrivelse av hvordan du skal få arbeider
+antatt ved å trette ut referee'er. Eller når han diskuterer begrepene markedsøkonomi og
+frihandel ved å ta utgangspunkt i to land A og B, land A som har ideelt klima for å dyrke
+
+tannbørster, mens land B har rike gruver for utvinning av tannkrem! Ruelle's holdning til
+kvantemekanikken gjenspeiles kanskje best i måten den omtales: Hver gang han trenger et
+
+resultat fra kvantemekanikken, sier han at resultatet hentes fra 'De Hellige Skriftene", der alle
+oppskrifter finnes.
+
+Boken anbefales; det er ikke mer å si om det...
+
+Selvsagt er det mange som har prøvd å finne dypere prinsipper bak den formalismen
+
+som kvantemekanikken utgjør. Gudder: Quantum Probability (Academic Press, 1988)
+skiller i tillegg til det tradisjonelle tilnærmelsen mellom mellom kvante-logisk, algebraisk
+(C*-), konveksitets-tilnærmelse, og en som bygger på såkalt operasjonell statistikk.. I tillegg
+
+til alt dette er det fremdeles noen fysikere som leter etter skjulte variable i en konkret
+underliggende virkelighet. I sin enkleste form kan en tenke seg disse variablene som
+stokastiske variable, men det arbeides mest med mer avanserte varianter.
+
+Er
+
+da
+
+moderne
+
+sannsynlighetsteori?
+
+kvantemekanikk
+
+fullstendig
+
+Svaret er heldigvis nei.
+
+blottet
+
+for
+
+relasjoner
+
+til
+
+Den vel mest kjente stokastiske
+
+kvantemekanikken går tilbake til Edward Nelson: Dynamical Theories of Brownian
+
+
+
+22
+
+Motion (Princeton University Press, 1967), som gir en interpretasjon av Schrödingerligningen ut fra vanlige stokastiske integraler bygget på Wienerprosessen. Nelson's teorier er
+
+videreført av T.G. Dankel (Arch. Rational Mech. Anal., 1970) og W.G. Faris (Found. Phys.,
+1982), som inkorporerer spinn i teorien. Av nyere dato er boka A.S. Holevo: Probabilistic
+and Statistical Aspects
+of Quantum Theory (North-Holland, 1982) som trekker flere
+paralleller mellom vanlig statistisk teori og kvantemekanikk. En annen relevant bok er C.W.
+Helstrom: Quantum Detection and Estimation Theory (Academic Press, 1976). I det siste
+tiåret har en gruppe rundt italieneren L. Accardi vært aktive på dette området; de hadde en
+egen sesjon under EMS-møtet i Bath i fjor. Ett av flere områder under utvikling er en egen
+
+kvantemekanisk stokastisk analyse (K.R. Parthasarathy: An Introduction to Quantum
+Stochastic Calculus, Birkhåuser Verlag, 1992), der blant annnet R.L. Hudson fra University
+of Nottingham har spilt en aktiv rolle. Veldig grovt: I tillegg til Wienerprosess og
+Poissonprosses som basis for stokastiske integraler, innføres nye prosesser der en trekker inn
+ikke-kommutasjon. På dette området foregår utviklingen ganske aktivt fremdeles. Jeg tror
+likevel det er riktig å si at den virkelig store utfordringen ikke ligger i videreutvikling av den
+formelle matematikken, meni å forstå intuitivt den realiteten som ligger bak.
+
+Tie
+
+Po > w) «Kol,
+2
+
+P(D) = [iwi dx
+2
+
+2
+
+ihdy=(-3V + VVY
+Ax - Ap > FÅ
+
+VA' \
+JR
+a
+
+(OH ae
+
+= AO
+
+P(D) = If(x)dx
+P(C) = P(CIA)P(A) + PCIB)P(B)
+
+var(6) 2
+
+:
+
+n-E((=))
+
+
+
+23
+
+Øk dine vinnersjanser! Ny bok.
+Thore Egeland
+Norsk Regnesentral
+
+Statistikerne Terje Aven, Harald Haukås og Gunnar Løvås har skrevet boken Øk dine vinnersjanser. TIPPING, LOTTO & andre spill med
+systemer og garantitabeller på MORTENSENs Bokforlag. Den geografiske
+tilhørigheten til forfatterne oppdager man på side 51 (om ikke før). Der står det
+retoriske spørsmålet: “I den neste spilleomgangen spilte Viking mot Lyn. Hva
+
+ville du tippet som resultat av denne kampen”? Viking vant naturligvis (2-0)
+og opphavsmennene kommer fra Stavanger.
+
+Boken favner vidt og opplag (15000), mediadekning og pris 49,- kr vitner
+om ambisjoner og innsats fra forfattere og forlag. Etter et kort, folkelig kapittel
+om sannsynligheter er LOTTO-spill og Tipping viet hvert sitt fyldige kapittel.
+I kapittel 4 diskuterer forfatterne hvilket spill som bør velges. I det avsluttende
+
+kapitlet omtales en rekke andre spill såsom Yatzy, Craps og Risk. Sidene 95 til
+184 er viet LOTTO -og tippesystemer.
+
+Det kan være på sin plass å redegjøre for mitt utgangspunkt for å lese boken.
+Jeg er statistiker uten spesiell interesse for vedding eller spill. Til tross for det
+har jeg lest boken med stor interesse. Innimellom leverer jeg inn en tippe —
+eller lotto kupong. I motsetning til forfatterne tror jeg at jeg ville blitt meget
+lykkeligere om veddingen hadde resultert i milliongevinst.
+I LOTTO kapitlet diskuteres nær sagt alle sider ved denne spill-typen. Forfatterne poengterer eksempelvis at man ved å fylle ut 500 tilfeldige rekker har
+en vinnersjanse på 93.2%. Hvis man derimot følger Norsk Tippings anbefaling er sjansen bare 11.8%. Riktignok vil mani det siste tilfellet vinne mer når
+man vinner. Dette henger sammen med overlappingsfenomenet som er utmerket
+forklart i boken.
+
+Det er nyttig å vite (ihvertfall hvis ikke for mange andre vet det) at det
+er optimalt å følge Dagbladets eksperttipper Morten Sørgård. Dersom man
+bruker hans to sikre kan man forvente å vinne 2.13 ganger mer enn ved å tippe
+fotballkampene tilfeldig.
+
+Boken fyller mange behov og forfatterne fortjener honnør for idé og gjennomføring. Dersom boken kan bidra til øket interesse for statistikk og sannsynlighetsregning, ville det være en hyggelig bieffekt. Temaet er heller ikke uttømt;
+det er rom for en utvidet annenutgave. Kortspill (bridge og poker) og hesteveddeløp er relativt knapt omtalt. Videre har norske matematikere og statistikere
+beskjeftiget seg med blant annet Svarteper, logistisk regresjon og tipping samt
+sannsynligheter knytter til kortfordelinger i bridge når kortene ikke er godt nok
+stokket (normalsituasjonen).
+
+Tillat meg litt surmagethet mot slutten av denne ellers så panegyriske omtale. I bokens innholdsfortegnelse vises fem kapitler samt to ikke navngitte avsnitt med systemer. I teksten refereres det til vedlegg A og B mens overskriftene
+i boken signaliserer kapittel 6 og 7. Dette er naturligvis forvirrende.
+Jeg kan vanskelig vurdere tippesystemenes kvalitet. Imidlertid burde det
+vel ha vært en oversikt over hvilke systemer som finnes; det hadde øket bokens
+verdi som oppslagsverk all den tid det er tett på 100 sider med systemer.
+
+
+
+BANKER'EN
+SOM SLO TLL.
+
+(NB: Dette var for kampen
+
+mot Polen 22.9.93.)
+
+BRASIL
+cg Bolivia klare
+RIO DE JANEIRO: Romario gjorde comeback i Brasils landslagstroye etter
+åtte måneder i unåde ved å
+score begge mål da Brasil
+slo Uruguay 2-0 i søndagens skjebnekamp. Dermed er Brasil og Bolivia er
+klare for VM-sluttspillet i
+USA neste sommer mens
+Uruguay, verdensmester to
+ganger, er utslatt.
+Over 100 000 tilskuere
+pa
+Maracana
+stadion
+jublet over Romarios mal,
+som kom da brasilianerne
+begynte å gi opp håpet om
+at det voldsomme presset
+skulle belønnes med scoring. Uruguays målvakt
+Robert Siboldi var nemlig i
+praktslag.
+Uruguays
+—stjernespekkede lag spilte defensivt,
+og forsvant ut av VM-turneringen uten å ha vist
+hva som bori laget.
+Hundretusener av bolivianere strømmet ut i gatene i La Paz og andre byer
+for å feire den største
+dagen i landets fotballhistorie. Laget spilte 1-1 borte
+mot Ecuador.
+(NTB)
+
+Magne Aldrin og Andre Teigland har regnet ut at det er 99,2 prosent sikkert at Norge kommer til VM.
+
+VM-SJANSE: 9
+
+For
+å finne sannsynlig
+utfall
+har
+statisti- ' måls-seier til Nederland!
+Verdt å merke seg foran det oppgjøret i
+kerne lagt til grunn resultatene
+så langt
+Rotterdam i neste måned.
+og laget et styrketall ut fra dette. Slik at
+
+Alle hobby-statistikere, rikssynsere og andre fotball-forstå-
+
+segpåere kan lene seg tilbake. Norge går til fotball-VM med
+99,2 prosents sikkerhet. Det er statistisk bevist.
+
+2-0 over EnglandEd
+bedre «styrketall»
+
+enn 10-0 over San Marino.
+= Hvis Norge-Polen ble spilt hundre
+ganger, ville Norge i gjennomsnitt vinne
+
+ALLENE er klare etter at Norsk . ment i Norges gruppe dagen før Norge
+«Polen. Altså sannsynligheti prosent for
+Regnesentral har «spilt» de gjenat lagene kommer på de to første
+stående kampene i vår gruppe
+
+med tre mål. I en enkeltkamp
+kan imidlertid resultatet bli annerledes. Polen
+kan godt vinne eller få uavgjort, og vår
+
+10.000 ganger!
+
+se
+
+Men kampene er spilt på dataskjerm,
+ikke på sølete og tunge høstbaner. Det er
+eneste lille forbehold i denne analysen
+
+Tall-lek |
+
+sering. De to første ae gir VM-tur.
+
+brukt verken subjektive gjetninger eller
+
+Lag
+
+bygget på Blindern.
+
+Og kan noen i dette landet regne, bur-
+
+de det være Norsk Regnesentral.
+Slik er sannsynligheten til VM-avanse-
+
+«gjennomsnitts-
+
+sg
+
+Tabellen viser prosentvis sjanse for å havne på plassene 1-6 etter endt VM-kvalifi-
+
+med dette. Vi har brukt skikkelige statisder for å finne
+tiske
+lotto-prinsippet, sier Magne Aldrin og
+Andre Teigland etter å ha utarbeidet
+analysen fra øverste etasje i Informatikk-
+
+en
+
+— VM-DELTAKELSE—
+EG
+
+for at Norge kommer til VM. Vi har ikke
+
+vil
+
+kamp. Nederland Engand ene med 08
+
+Jor: toer at org og Bohm såle å
+
+- Vi er fotballinteresserte og jobber med
+tall til daglig. Derfor matte vi leke oss
+
+EN tar hensyn til dette,
+
+sier Aldrin.
+Tilsvarende
+
+NORGE
+
+ENGLAND
+NEDERLAND
+POLEN
+
+TYRKIA
+
+1
+
+95,6
+
+2
+
+3,6
+
+52,7
+2,2
+41,4
+1,6
+28
+::05
+00 :--- 0,0
+
+3
+0,6
+
+43,9
+46,8
+
+8,6:
+
+00
+
+4
+02
+
+5
+0,0
+
+6
+0,0
+
+88,5
+
+00...
+
+00
+
+11
+10,1
+
+00
+
+0,0
+0,0
+
+99,9
+
+0,0
+0,0
+0,1
+
+”
+
+Sammenlikning
+
+Tall-leken har også beregnet de andre
+til Norge og
+lagenes styrke i forhold
+resultatet ble slik:
+
+: 0,6 mål dårligere
+enn Norge.
+0,8 mål dårligere.
+Nederland:
+Polen:
+2,2
+mål dårligere.
+Tyrkia:
+3,0
+mål dårligere.
+
+San Marino: 5,2 mål dårligere.
+
+Og endelig har man satt opp en tabell
+som viser sannsynligheten for tabellplas-
+
+sering etter at kvalifiseringen er over i
+november. Den viser at Norge i teorien
+kan innta en av de fire første plassene på
+tabellen. Og husk, bare de to første gir
+VM-tur. (se egen ramme).
+Med disse tallene i bakhodet kan Drillo, Docile og alle oss andre benke oss på
+Ullevaal og foran TV-skjermene i morgen
+kveld.
+@ REIDAR SOLLIE
+
+
+
+25
+
+15:e nordiska konferensen i
+MATEMATISK STATISTIK
+
+LUND, SVERIGE
+
+* 15—19 augusti 1994
+Första informationsbladet
+oktober 1993
+
+Svenska Statistikersamfundet
+
+
+
+augusti
+
+(ankomst
+
+och presentationer
+
+avslutas
+
+fredagen
+
+organisatör.
+
+kortare
+
+15 den måndagen
+
+och rekom enderas)
+
+AKTIVITETER
+
+en planeras
+
+konferensmaterial,
+
+söndagen
+
+vålkomstmötet
+
+sessionens
+
+KOSTNADER
+
+Grup ses ionerna
+
+SOCIALA
+
+till direkt
+
+till
+
+el er
+
+Lancaster
+
+Möls,
+
+Tartu
+
+vilken
+
+15:e den till hårmed
+
+att kommer
+
+perioden
+
+Howel
+
+Diggle, Peter
+
+Tong,
+
+Jan
+
+Jeff
+Igor
+Tönu
+
+Bug e Fred y
+
+Rychlik,
+
+Steiff,
+
+Lanke,
+
+Göteborg
+Lund
+
+Lund
+
+er ors
+
+non-sampling
+models
+
+statistik,
+
+under
+
+inbjuder
+
+Högskola
+matematisk
+
+grup - paral el a
+olika vid diskuteras
+grup - antal ett samt huvudföredrag
+
+Århus Christiansen,
+
+Sture
+Erkki
+
+Sören
+
+Tomp o,
+Lund Zetterqvist,
+Lena
+Juselius,
+Katarina
+
+Holm,
+
+von Dietrich
+
+Canterbury
+
+19 den
+
+Utöver
+
+guidad
+
+på Lund
+Konferensen
+
+På augusti.
+tidigt startar
+
+söndag
+
+OCH
+
+istadsvandring
+
+av består
+
+samt Lund
+
+ett hål s kvål
+
+iVen ön til utflykt
+
+INKVARTERING
+
+Öresund,
+
+på vålkomstmöte
+
+och utflykt
+
+per SEK 1000 ca blir Konferensavgiften
+
+på konferensmid ag
+
+och person
+
+Grand
+
+omfat ar
+
+övriga
+
+Köpenhamn
+
+Helsingfors
+
+Göteborg
+
+Ålborg Asmus en,
+
+Rosen,
+
+Bengt
+
+Ove
+
+Swensson,
+
+Frank,
+
+Jan
+
+Arjas, Elja
+Bent
+
+Wretman,
+
+Oslo Natvig,
+
+Uleåborg
+
+Maré,
+
+Kragh Per
+de Jacques
+
+Elisabeth
+
+ikonferensen
+
+population
+statistics
+
+ikonferensen
+
+1994.
+
+particle
+
+MATEMATISK
+
+Lunds
+
+nordiska
+
+and Chaos
+
+of Analysis
+
+Svenska
+
+nordiska
+
+15:e
+
+på rum tiga
+
+19 — 15
+
+som imnen
+Program et
+PROGRAM
+
+augusti
+
+Huvudföredrag
+
+h) 6(ca statistics
+
+Stochastic
+
+.
+
+.
+
+.
+
+.
+= .
+= .
+
+and Fatigue
+Statistical
+on Aspects
+
+Clinical
+
+ses ioner.
+
+of Model ing
+trials
+
+Environmental
+
+Meta-analysis
+
+loads stochastic
+in methods
+ecological
+
+Grup ses ioner
+systems
+
+statistics
+
+time stochastic
+
+att kommer
+sex av består
+
+genetics
+
+Non-response,
+
+nets Random
+
+and Reliability
+
+Sampling
+
+Statistical
+
+and analysis Multivariate
+in estimation
+and Modeling
+
+response
+
+statistical
+
+inference
+
+h) 6(ca data longitudinal
+
+growth
+
+series
+
+hid en
+
+Tekniska
+statistikersamfundet
+STATISTIK
+
+Markov
+
+curves
+
+proces
+
+other and er ors
+
+control
+
+systems
+
+Teaching
+biological
+and medical
+systems
+technical
+of modelling
+Stochastic
+
+statistics
+
+DooFANAURUN-
+
+KONFERENSEN
+
+97
+
+iLund.
+
+sociala
+
+den för
+Up sala
+
+Stockholm
+
+Örebro
+
+Stockholm
+
+Göteborg
+
+Andersen,
+
+Svens on,
+
+Kulturen
+
+samt aktiviteter
+
+aktuel a
+
+icampingplats
+
+ANMÄLAN
+
+för Blanket
+
+Köpenhamn
+
+Göteborg
+
+Hotel.
+
+års (1993 SEK 650 — 500 prisklas erna
+i
+antal stort ett finns Lund I
+
+veckan.
+
+Lund.
+
+preliminår
+
+och tion
+
+ee
+
+reserverade
+år priser)
+hotel Två inkvarteringsmöjligheter.
+
+Des utom
+
+anmålan
+
+för blanket
+
+me
+
+det finns
+
+bifogas.
+
+Yt erligare
+
+informa-
+
+definitiv
+
+—
+
+och vandrarhem
+
+anmålan
+
+att kommer
+
+iut såndas
+
+ABW
+
+
+
+27
+
+ORGANISATIONSKOMMITTÉ
+
+Georg Lindgren, Lunds universitet, ordförande.
+Mona Forsler, Lunds universitet.
+Jan Lanke, Lunds universitet.
+
+Lena Zetterqvist, Lunds universitet.
+
+PROGRAMKOMMITTÉ
+
+Georg Lindgren, Lunds universitet, ordförande.
+Olle Nerman, Göteborgs universitet.
+Bo Ranrieby, Sveriges Lantbruksuniversitet, Umeå.
+Daniel Thorburn, Stockholms universitet.
+
+FÖRFRÅGNINGAR
+
+Förfrågningar om konferensen kan stållas till:
+Georg Lindgren
+Matematisk statistik
+Box 118
+
+5-221 00 Lund
+SVERIGE
+
+e-mail: nordkonf(Ømaths.Ith.se
+Fax: +46 46-104623
+Tfn: +46 46-108547
+
+PRELIMINAR ANMALAN
+15:e NORDISKA KONFERENSEN I MATEMATISK
+STATISTIK, LUND 15 — 19 AUGUSTI 1994
+
+eee ereeresresceeccesescoeesceeeeereseeesesereereeeeoseoeoeoe ree
+
+Cee eCeeesrocereceseeseoeeeoesesreseeoseseeeoeeoEeseseeoeecEeD
+
+Jag år fråmst intresserad av sessionerna nr
+01
+
+02
+
+03
+
+04
+
+05
+
+O6
+
+O77
+
+09
+
+010
+
+011
+
+012
+
+013
+
+014
+
+015
+
+08
+
+I session nr...... önskar jag presentera ett foredrag med titeln
+
+Anmålan skickas till
+
+Nordisk konferens
+Matematisk statistik
+Box 118
+S-—221 00 LUND
+SVEDRTIART
+
+
+
+28
+
+ISF 94 - The Fourteenth
+
+INTERNATIONAL SYMPOSIUM ON FORECASTING
+June 12 - 15, 1994
+To be held at the
+
+Stockholm School of Economics
+
+(SF)
+
+STOCKHOLM, SWEDEN
+
+Sponsored by the
+International Institute of Forecasters
+in collaboration with
+
+Department of Economic Statistics
+at the Stockholm School of Economics
+
+Conference Theme: Industrial Forecasting
+Keynote Speeches by prominent researchers and
+
+Exhibits on software, books and consulting
+
+practitioners
+
+services
+
+More than 50 Sessions covering all aspects of
+forecasting
+
+Panel Discussions and Round Table Sessions
+on current issues in forecasting
+
+Pre-Conference Forecasting Workshop
+
+Optional Spouses' Program
+
+Keynote speakers include:
+
+Nariman Behravesh (DRI/McGraw Hill) on Data Quality and Data Availability, Joseph Buongiorno
+(University of Wisconsin) on Forecasting for the Forestry Industry, Chris Chatfield (University of Bath)
+on What is the Best Method for Forecasting, James Stock (Harvard) on Structural Breaks and
+Forecasting, and Halbert White (University of California at San Diego) on Neural Networks.
+If you would like to get more information on ISF-94 please return the form below to:
+Dr. Sune Karlsson, Stockholm School of Economics, P.O. Box 6501, S-113 83 STOCKHOLM,
+Sweden. You can also call + 46 8 736 9239, fax: + 46 8 30 21 15, or E-mail (ISF94@hhs.se).
+FOURTEENTH INTERNATIONAL SYMPOSIUM ON FORECASTING
+June 12 - 15, 1994
+Name:
+
+Profession/Title:
+
+Company/Institution:
+Mailing address:
+
+Country:
+
+
+
+29
+
+News from the
+
+Nordic Region of the Biometric Society
+Plans for the future
+
+N
+
+An administrative session was held in Bagsværd to discuss the role of the Nordic Region
+both as separate organisation and in relation to the Biometric Society. The region's
+multi-country structure is a great potential for collaboration, while it also puts special
+demand on organisation. New channels for information and activity were discussed.
+Regional meetings are naturally scheduled for uneven years, while even years host the
+International Biometric Conferences. A Nordic meeting covering all areas of biometric research is under planning for June 1995 in Gothenburg. This meeting will involve
+some form of collaboration with the British Region. Specialized seminars will, however,
+continue to form an important part of regional activities. For example the next Symposium on Biometrical Problems in Agriculture, Forestry and Animal Investigations is
+scheduled for 1997 in Norway.
+
+Membership drive
+The Regional committee has found that information spread in the Nordic Bulletin
+is not reaching all those potentially interested. As information: Membership in the
+Biometric Society is obtained via membership in a region. The current fee for the
+Nordic Region is NOK 350 for ordinary members and NOK 150 for students. In return
+you get Biometrics, the Biometric Bulletin, the Nordic Bulletin and reduced conference
+fees. The Biometric Bulletin is the newsletter of the Biometric Society and as such
+opens a window to international activities. The Nordic Bulletin contains information
+about local events.
+Application for membership is made by sending the application form found at the
+
+back of any issue of Biometrics to the treasurer for the Nordic Region: Steinar Tretli,
+gr
+
+DE Registry, Montebello, N-0310 Oslo 3, Phone +47-22-451330, Fax +47-
+
+-451370.
+
+Young Scientist Travel Award to IBC 94
+: istiiometricians/biostat
+ion of young biome
+In an effort to encourage and support participat
+for
+thesis)
+PhD
+(or
+paper
+ific
+scient
+best
+for
+award
+cians at international meetings, an be under the age of 35.
+1993 is announced. Applicants should
+r (or parts of it) should be submitted for presentation at IBC 94 in
+
+for travel,
+costation
+covers
+award
+The
+1994.
+t
+Augus
+er
+on
+med
+Ver
+paper
+sen
+The
+about
+Inform
+000.
+10
+NOK
+of
+t
+accomodation and participation up to the amoun
+
+1993 issue of the Biometric Bulletin. Deadline for
+IBC 94 is given in the August ary
+1, 1994.
+
+submission of abstracts is Febru
+
+t. Å blend of good theory and
+av be offered on any topic of biometric interes
+the
+be unpublished orbein sea
+ed. The paper should
+ation Å favour
+es on being applic
+should
+cripts
+Manus
+l.
+journa
+l
+ationa
+published in an intern
+process of
+SF-00014 University of Helsinki, Fin-
+
+PB 33,
+to Mervi Eerola, Dept. of Statistics,furthe
+Eerola
+r information, please contact Mervi, Sectio
+For
+year.
+this
+of
+end
+the
+land, before
+n
+Laake
+Petter
+or
+)
+ki.fi
+.helsin
+la@cc
+vi.Eero
+(phone +358-0-1912533, email ”"MerOslo,
++47e
+(phon
+Oslo
+7
+P.b. 1122 Blindern, N-031
+of Medical Statistics, University of
+lmed.uio.no” ).
+22-851235, fax +47-22-851313, email ” Petter.Laake@basa
+The Nordic Regional committee for 1993
+
+Helgadöttir, Reykjavik
+Juni Palmgren, Helsinki (president) SigninKeidin
+g, Copenhagen
+Trond Haider, Oslo (secretary)
+Steinar Tretli, Oslo (treasurer)
+Lennart Bondesson, Umea
+
+Mervi Eerola, Helsinki
+
+Niels
+.
+Petter Laake, Oslo
+Seren Andersen, Copenhagen .
+
+Hölmgeir Björnsson, Reykjavik
+Hans Wedel, Gothenburg *
+
+* Member of Council for the Biometric Society
+
+
+
+30
+
+UNIVERSITETET I TRONDHEIM
+
+Den allmennvitenskapelige høgskolen
+
+FØRSTEAMANUENSIS I STATISTIKK (SV-STAT) (L.PL. 17.510, KODE 1011) FAST STILLING
+
+ved Institutt for matematikk og statistikk er det ledig en fast
+stilling som førsteamanuensis i statistikk.
+
+For stillingen kreves førstestillingskompetanse i statistikk.
+Instituttet vil med denne stillingen påta seg undervisning i
+
+grunnleggende statistikk for samfunnsvitere hvert semester og
+
+konsultasjonstjenester for vitenskapelige ansatte, hovedfags- og
+dr.grads.-studenter ved Det samfunnsvitenskapelige fakultet.
+Det er en fordel med formell utdannelse og forskningsbakgrunn som er
+
+relevant for anvendelser av statistikk innen samfunnsvitenskapelig
+forskning.
+
+Førsteamanuensen skal ta del i undervisningen i samsvar med den
+studieordningen som gjelder til enhver tid, og har plikt til å delta i
+
+eksamensarbeid uten særskilt godtgjørelse. Førsteamanuensen har rett og
+
+plikt til å drive forskning innenfor sitt fagområde, og er også pliktig
+til å ta på seg administrative oppgaver.
+
+Den totale arbeidsplikt skal fordeles på feltene forskning,
+undervisning og administrasjon. Fordelingen innen de ulike feltene vil
+til en hver tid variere, men over tid beregnes tilnærmet lik tid til
+forskning og undervisning.
+
+Det vil bli lagt vekt på både vitenskapelig og pedagogisk kompetanse,
+samt undervisningserfaring fra universitet og høgskole.
+Veiledning om dokumentasjon og vurdering av pedagogisk kompetanse kan
+
+en få ved henvendelse på tlf. 73 59 67 15. Ytterligere opplysninger kan
+en få ved henvendelse til Professor Steinar Engen, tlf. 73 59 17 47.
+
+AVH er interessert i å øke antall kvinner i sitt vitenskapelige
+personale. Kvinner oppfordres derfor spesielt til å søke.
+Tilsettingen skjer på de vilkår som til enhver tid gjelder for
+offentlige
+
+tjenestemenn.
+
+Dersom det ikke melder seg en tilstrekkelig godt kvalifisert søker, vil
+AVH vurdere midlertidig tilsetting med tittel og lønn som amanuensis i
+Fast
+inntil 3 år med sikte på kvalifisering for fast tilsetting.
+tilsetting vil i tilfelle skje uten ny kunngjøring, men etter en
+sakkyndig vurdering.
+
+Det er en forutsetning at den som blir tilsatt, bosetter seg slik at
+han/hun kan være tilstede ved og tilgjengelig for institusjonen.
+Førsteamanuensis lønnes i statens lønnsregulativ ltr. 23, netto
+kr. 21.527,50 pr. mnd. etter at 2% lovfestet innskudd i Statens
+Pensjonskasse er trukket fra.
+
+er og tidligere
+Søknaden må inneholde opplysninger om utdanning, eksamen
+ved.
+legges
+må
+r
+atteste
+og
+l
+vitnemå
+av
+kopier
+ede
+praksis. Bekreft
+Søkere må sende inn:
+
+- 5 eksemplarer av søknaden
+
+ål og
+- 5 eksemplarer av bekreftede kopier av vitnem
+I
+attester
+- 3 eksemplarer av trykte og utrykte arbeider søkeren
+ønsker det skal tas hensyn til.
+
+det i fellesarbeid
+Det vil bli tatt hensyn til fellesarbeider. Dersom, må
+søkeren legge ved
+er vanskelig å identifisere innsatsen til søkeren
+en kort redegjørelse om sin del av arbeidet.
+
+Søkeren må videre legge ved en liste over de publikasjonene som sendes
+til vurdering.
+
+-
+
+en skal sendes til Universitetet i Trondheim, Den
+
+Søknad
+aturvitenskapelige
+allmennvitenskapelige høgskolen, Det matematisk-n
+fakultet, 7055 Dragvoll innen 03.01.94. Merk søknaden med journalnummer
+MN-039.
+
+
+
+31
+UNIVERSITETET I TRONDHEIM
+
+Den allmennvitenskapelige høgskolen
+
+FØRSTEAMANUENSIS I STATISTIKK (BIOSTATISTIKK) (L.PL. 17.510, KODE
+1011)
+
+- FAST STILLING
+
+Ved Institutt for matematikk og statistikk er det ledig en fast
+stilling som førsteamanuensis i statistikk.
+Med denne stillingen får instituttet kapasitet til å tilby ellering.
+grunnkurset i statistikk for biologer med innslag av biomod
+Stillingen skal også benyttes til å styrke hovedfagsundervisningen i
+statistikk inkludert veiledning av hovedfagsstudenter. Det
+forutsettes at forskningen skal omfatte biologiske anvendelser av
+
+og
+statistikkfaget. Den som tilsettes må ha dr.grad. i statistikk
+eller
+r,
+stillinge
+problem
+ke
+biologis
+innen
+jon
+produks
+vitenskapelig
+doktorgrad i teoretisk biologi med formell kompetanse i statistikk og
+vitenskapelig produksjon innen biostatistikk.
+
+Førsteamanuensen skal delta i oppbyggingen av en ny studieretning i
+biostatistikk som-en del av fakultetets satsing på biodiversitet.
+får. nye stillinger gjennom denne satsingen slik at
+Dersom instituttet
+forskningsgruppe innen biodiversitet, forventes
+en
+det kan etableres
+det at den som tilsettes går aktivt inn i denne gruppen.
+
+den
+Førsteamanuensen skal ta del i undervisningen i samsvar med
+å delta i
+studieordningen som gjelder til enhver tid, og har plikt til har
+rett og
+eksamensarbeid uten særskilt godtgjørelse. Førsteamanuensen
+pliktig
+også
+er
+og
+e,
+fagområd
+sitt
+innenfor
+g
+forsknin
+l
+drive
+å
+plikt ti
+til å ta på seg administrative oppgaver.
+
+Den totale arbeidsplikt skal fordeles på feltene forskning,
+vil
+undervisning og administrasjon. Fordelingen innen de ulikelikfeltene
+tid til
+til en hver tid variere, men over tid beregnes tilnærmet
+forskning og undervisning.
+
+pelig og pedagogisk kompetanse
+Det vil bli lagt vekt på både vitenska
+universitet/høgskole.
+samt undervisningserfaring fra
+
+Veiledning om dokumentasjon og vurdering av pedagogisk kompetanse kan
+ger kan
+en få ved henvendelse på tlf. 73 59 67 15. Ytterligere opplysnin
+en få ved henvendelse til Professor Steinar Engen, tlf. 73 59 17 47.
+
+AVH er interessert i å øke antall kvinner i sitt vitenskapelige
+personale. Kvinner oppfordres derfor spesielt til å søke.
+Tilsettingen skjer på de vilkår som til enhver tid gjelder for
+offentlige tjenestemenn.
+
+Dersom det ikke melder seg en tilstrekkelig godt kvalifisertpå søker, vil
+AVH vurdere midlertidig tilsetting i inntil 3 år med sikte
+kvalifisering for fast tilsetting. Fast tilsetting vil i tilfelle skje
+uten ny kunngjøring, men etter en sakkyndig vurdering.
+
+slik at
+Det er en forutsetning at den som blir tilsatt, bosetter seg
+jonen.
+institus
+for
+elig
+tilgjeng
+og
+ved
+han/hun kan være tilstede
+netto
+Førsteamanuensis lønnes i statens lønnsregulativ ltr. i23,Statens
+d
+innskud
+et
+lovfest
+2%
+at
+etter
+kr. 21.527,50 pr. mnd.
+Pensjonskasse er trukket fra.
+
+Søknaden må inneholde opplysninger om utdanning, eksamener og tidligere
+praksis. Bekreftede kopier av vitnemål og attester må legges ved.
+Søkere må sende inn:
+
+- 5 eksemplarer av søknaden
+
+- 5 eksemplarer av bekreftede kopier av vitnemål og
+attester
+
+- 3 eksemplarer av trykte og utrykte arbeider søkeren
+ønsker det skal tas hensyn til.
+
+Det vil bli tatt hensyn til fellesarbeider. Dersom det i fellesarbeid
+
+er vanskelig å identifisere innsatsen til søkeren, må søkeren legge ved
+en kort redegjørelse om sin del av arbeidet.
+
+Søkeren må videre legge ved en liste over de publikasjonene som sendes
+til vurdering.
+
+°
+
+Soknaden skal sendes til Universitetet i Trondheim, Den
+
+allmennvitenskapelige hegskolen, Det matematisk-naturvitenskapelige
+
+fakultet, 7055 Dragvoll innen 03.01.99. Merk søknaden med journalnummer
+
+MN-038.
+
+
+
+32
+
+NYTT FRA UNIVERSITETER OG HØYSKOLER
+NYTT FRA UNIVERSITETET I OSLO
+
+Uteksaminerte cand. scient.
+Irene Byermoen: "Lønnsomhetsanalyse og overskuddsdelingi livsforsikring."
+Veiledere: Prof. Bjørn Sundt og Dir. Helge Ivar Magnussen
+Ronald Wolf: "Diskriminantanalyse"
+Veiledere: Eva Skovlund
+
+Nyansettelser:
+Anders Rygh Svendsen er ansatt som førsteamanuensis fra 1. januar 1994.
+
+NYTT FRA UNIVERSITETET I TRONDHEIM - AVH
+
+Nyansettelser/ engasjementer:
+Helga Vivås er engasjert som førsteamanuensis fram til 1.7.94.
+Ola Diserud er engasjert som amanuensis fram til 1.7.94.
+Magnar Lillegård er tilsatt som stipendiat i 4 år fra 17.1.94
+
+
+
+33
+
+NYTT FRA UNIVERSITETET I TRONDHEIM - NTH
+Dr. ing.
+Haavard Rue forsvarte 15. november 1993 sin avhandling: "Topics in image
+
+analysis".
+
+Hovedfaglærer: Emil Spjøtvoll
+
+Komité: Arnoldo Frigessi, Universitådi Venezia, Italia, Erik Bølviken,
+
+Universitetet i Oslo, Harald Krogstad, NTH.
+
+Lars Bodsberg forsvarte 17. desember 1993 sin avhandling:
+"VULCAN - a vulnerability calculation method for process safety systems".
+Hovedfaglærer: Bo Lindqvist
+Veileder: Tor Onshus
+
+Komité: Bo Bergman, Linköpings Tekniska Högskola, Sverige, Terje Aven,
+Høgskolesenteret i Rogaland, Tor Onshus, NTH, Bo Lindqvist, NTH.
+
+Ledig førsteamanuensisstilling
+En fast stilling i statistikk vil bli utlyst i nærmeste framtid.
+Det henvises til Norsk Lysingsblad for nærmere detaljer. Kontakt
+
+gjerne gruppeleder Henning Omre (tlf. 73 59 35 31) eller Institutt for
+matematiske fag (tlf. 73 59 35 20) for opplysninger om stillingen.
+
+Statistikkdag på NTH
+Torsdag 10. mars 1994 markeres Liv og Arnljot Høylands
+fratreden fra sine stillinger.
+
+Av innholdet nevnes:
+
+Fagseminar med bl.a. Richard Barlow, Bo Bergman og Kjell Doksum
+Festmiddag med venner og kolleger.
+
+Alle statistikere er velkomne. Mer informasjon sendes ut senere.
+
+
+
+34
+
+RAPPORT FRA DET NASJONALE DOKTORGRADSKURSET
+OM STATISTISKE MODELLER OG METODER FOR
+TELLEPROSESSER
+
+Oslo 15.-19. mars og 3.-7. mai 1993
+
+Det er for tiden i gang et arbeid med å etablere et regelmessig tilbud i nasjonale
+forskerutdanningskurs innen realfagene. I denne forbindelse ble det første nasjonale
+
+doktorgradskurset i statistikk avholdt ved Matematisk institutt, Universitetet i Oslo,
+
+15.-19. mars og 3.-7. mai 1993. Kurset var basert på monografien Statistical Models based on Counting Processes av P.K. Andersen, Ø. Borgan, R.D. Gill og N.
+Keiding som nylig har kommet ut på Springer-Verlag. Formålet med kurset var å
+gi deltagerne en oversikt over telleprosessteorien og dens anvendelser i levetids- og
+forløpsanalysen, og å sette dem i stand til på egen hånd å følge medi faglitteraturen.
+Undertegnede var organisator og leder for kurset.
+
+Kurset bestod av i alt 30 forelesningstimer og 30 øvingstimer og var normert til 3
+vekttall. Undervisningeni første periode ble gitt av undertegnede, mens Per Kragh
+Andersen fra Statistisk Forskningsenhed ved Københavns Universitet og undertegnede delte undervisningen i andre periode.
+
+Eksamen bestod av to deler. Første del var en 4 timers skriftlig prøve som ble
+avholdt lokalt (i Bergen, Oslo, Tromsø og Trondheim) mellom de to kursperiodene.
+Andre del bestod av et lite individuelt prosjekt som ble delt ut ved avslutnigen av
+andre kursperiode med innleveringsfrist 1. juni.
+
+Tilsammen avla 15 studenter eksamen (3 fra Bergen, 7 fra Oslo/ Ås, 1 fra Tromsø
+
+og 4 fra Trondheim). Sju av disse var dr.scient.-studenter, 2 dr.ing.-studenter, 1
+cand.scient.-student, 3 arbeidet med andre dr.grader (dr.med, dr.philos, dr.polit)
+mens 2 studenter ikke arbeidet med noen spesiell grad. I tillegg fulgte 4-5 studenter
+større eller mindre deler av kurset uten å avlegge eksamen.
+På bakgrunn av de innleverte prosjekt-oppgavene ser det ut til at målsetningen
+om at kurset skulle gjøre studentene “i stand til på egen hand å følge med i faglitteraturen” er blitt oppfylt for de flestes vedkommende. Den tilbakemeldingen som
+har kommet fra studentene har da også i det alt vesentlige vært positiv.
+
+Ørnulf Borgan
+
+
+
+35
+
+Nasjonalt doktorgradskurs om Statistisk inferens og
+simulering
+
+Innhold og formål: Tilgang på kraftige datamaskiner og numeriske teknikker har medført at ganske kompliserte modeller blir benyttet i stadig større
+grad. Simulering er en klasse av numeriske teknikker som er blitt stadig mer
+nyttige innenfor den statistiske fag-disiplin. Formålet med kurset er å gi
+deltakerne en oversikt over anvendelsesområdet av slike teknikker samt å
+sette deltakerne inn i den forskning som idag pågår i feltet.
+Stikkord: Monte Carlo simulation, importance sampling, data augmentation,
+Gibbs sampling, Metropolis algorithm.
+
+Deltagelse: Kurset er sentralt for dr.grads-studenter som benytter teknikker og metoder fra stokastisk simulering i sitt forskningsarbeid. Kurset er
+også velegnet som et *breddekurs” under dr.scient-graden for studenter som
+ikke får direkte bruk for dette stoffet i sitt forskningsarbeid. Kurset vil også
+være nyttig for cand.scient-studenter.
+
+Forkunnskaper: Da dette er et dr.grads-kurs i statistikk, forventes det
+at kurs-deltakerne har kunnskaper i statistikk på *cand.scient-nivå”, og at
+deltakerne har evne til å arbeide selvstendig og er innstilt på å gjøre en
+innsats.
+
+Tid, sted og lærere: Kurset avholdes ved Matematisk institutt, Universitetet i Oslo og går over to perioder. Første periode vil være 6.-10. juni 1994.
+Andre periode vil være 22.-26. august 1994. Kursledere er førsteamanuensis
+Geir Storvik og Professor Erik Bølviken, Matematisk institutt, Universitetet
+i Oslo. Undervisningen i første periode vil bli gitt av Prof. Martin Tanner,
+University of Rochester. Kursledere vil lede andre periode.
+
+Kursplan: For hver av de to kurs-periodene vil dagene være delt i to med
+forelesninger før lunsj (kl. 9-12) og oppgave-arbeid, diskusjon, o.1. etter lunsj
+(13-16).
+Eksamen:
+
+Eksamensform vil bli bestemt senere.
+
+Vekttall:
+
+Kurset er normert til 3 vekttall.
+
+
+
+36
+
+Literatur: Kursets første periode vil bli basert på Tanner’s bok “Tools for
+Statistical Inference: Methods for the Exploration of Posterior Distribution
+and Likelihood Functions, Second Edition”. Kursets andre periode vil i stor
+
+grad basere seg på artikler fra tidsskrifter.
+
+Foreløbig påmelding: For å få nærmere klarlagt interessen for kurset, bes
+de som tenker seg å delta melde fra om dette innen 15. mars 1993 til Geir
+Storvik (postadresse: Matematisk institutt, P.b. 1053 blindern, 0316 Oslo,
+email: geirs@@math.uio.no; telefon (22)855894/855887).
+
+
+
+37
+
+Medlemskap i Norsk Statistisk Forening
+
+Kontigenten i foreningen er på kr. 150 pr. år (kr. 90 for 1993) for regulære medlemmer og kr.
+50 for studenter (kr. 30 for 1993). Korrespondanse om medlemskap og innbetaling av
+
+kontigent skal skje til foreningens kasserer:
+
+Norsk Statistisk Forening v/Eva Seim
+Statistisk avd. Nycomed A.S.
+
+p.b. 4220 Torshov
+0401 OSLO
+
+Innbetalinger skal gjøres på foreningens postgirokonto 0802 5 15 10 55. Medlemmer som er
+usikre på når de betalte kontigent sist, vil nederst til høyre på adressseddelen for Tilfeldig Gang
+finne angitt hvilket år siste betaling er registrert for. Vær imidlertid oppmerksom på at
+adressesedlene for bladet ligger noe etter ajourføringen av medlemsregisteret, slik at nylig
+foretatte innbetalinger ikke vil være tatt med her.
+
+Nye medlemmer melder seg til kassereren under adressen oppgitt ovenfor. Slike medlemmer
+får automatisk tilsendt Tilfeldig Gang, med forbehold om at det tar noe tid før tilføyelser og
+forandringer i medlemsregisteret gjenspeiler seg i adressesedlene til bladet.
+Adresseforandringer meldes også til kassereren. Ved utsendelsen av Tilfeldig Gang benyttes
+det kopier av det vanlige medlemsregisteret, så adresseforandringer behøver ikke meldes
+separat til bladet.
+
+Annen korrespondanse med foreningen skal foregå med formannen under denne adressen:
+Norsk Statistisk Forening v/Eivind Damsleth
+
+Norsk Hydro
+p.b. 200
+1341 STABEKK
+
+Bidrag til Tilfeldig Gang
+
+Neste nummer av Tilfeldig Gang vil forhåpentligvis komme ut i mars 1994. Alle slags bidrag
+til bladet er velkommen, enten det gjelder nye temaer av interesse for norske statistikere, eller
+man har kommentarer til innlegg som allerede har stått i bladet. Stoff til neste nummer må være
+
+redaktørene i hende senest 1. mars 1994.
+Adressen til redaktørene er:
+
+Inge Helland
+
+Are Aastveit
+
+Institutt for matematiske fag
+Norges Landbrukshøgskole
+
+Institutt for matematiske fag
+Norges Landbrukshøgskole
+
+1432 Ås
+
+1432 Ås
+
+Boks 5035
+
+Telefon 64 94 88 75
+
+Boks 5035
+
+Telefon 64 94 88 72
+
+Fax: 64 94 88 79
+Mail: are.aastveit@imf.nlh.no
+
+
+
+
+
+
+
+Returadresse:
+
+Tilfeldig Gang v/Eva Seim
+
+NYCOMED Imaging
+Postboks 4220 TORSHOV
+
+0401 OSLO
+
+
+

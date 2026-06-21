@@ -1,0 +1,2046 @@
+ISSN 0803-8953
+Tilfeldig gang
+Nr. 1, årgang 29
+Mars 2012
+
+Utgitt av Norsk statistisk forening
+
+Redaksjonelt
+
+Fra lederen: Et hopp i riktig retning . . . . . . . . . . . .
+Fra redaksjonen . . . . . . . . . . . . . . . . . . . . . . . .
+
+1
+2
+
+Leserbidrag
+
+Noen misforståelser om signifikante resultater . . . . . .
+Reproduksjonshelsen til menn i Sjøforsvaret . . . . . . .
+
+3
+6
+
+Tankenøtter
+
+Pusleri nummer 34 . . . . . . . . . . . . . . . . . . . . . .
+Løsning på pusleri nummer 33 . . . . . . . . . . . . . . .
+
+7
+7
+
+Møter og konferanser
+
+Rapport fra det 16. norske statistikermøte, Røros 2011 . .
+33rd Annual Conference of the International Society for
+Clinical Biostatistics . . . . . . . . . . . . . . . . . . .
+Nordstat 2012 i Umeå, Sverige . . . . . . . . . . . . . . .
+
+10
+11
+14
+
+Bokomtaler
+
+Picturing the Uncertain World . . . . . . . . . . . . . . . .
+
+15
+
+Meldinger
+
+Nytt fra Norges teknisk-naturvitenskapelige universitet
+Nytt fra Universitetet for miljø- og biovitenskap . . . . .
+Nytt fra Avdeling C ved Matematisk institutt, UiO . . . .
+Nytt fra Universitetet i Bergen . . . . . . . . . . . . . . .
+
+17
+19
+19
+20
+
+Underholdning
+
+Lett underhaldning . . . . . . . . . . . . . . . . . . . . . .
+
+21
+
+Scandinavian Journal of Statistics
+
+Innholdsliste desember 2011 . . . . . . . . . . . . . . . . .
+Innholdsliste mars 2012 . . . . . . . . . . . . . . . . . . .
+
+22
+23
+
+Informasjon
+
+Årskontingent for 2012 . . . . . . . . . . . . . . . . . . . .
+
+24
+
+
+
+
+
+redaksjonelt
+Fra lederen: Et hopp i riktig retning
+Jo Eidsvik | Trondheim
+
+Statistikk er nyttig i mange sammenhenger! Som et eksempel
+har de nå utvidet bruken av vårt fagfelt innen skihopp. Fra
+langt tilbake har de jo benyttet et trimmet gjennomsnitt for å
+representere stilkarakteren til et skihopp. Her er det fem dommere
+som gir sine individuelle stilkarakterer (0–20), men den høyeste og
+laveste fjernes, og de tre gjenværende tas med i poengberegningen.
+Atskillig mer robust – stildommerne kan jo neppe orke å følge så
+godt med på alle de 100 hoppene i en konkurranse!
+Nå har de innført kompensasjonspoeng for vindforhold
+og startavsats, som gir tillegg eller fratrekk i poengsummen.
+Dersom hopperen starter høyere opp i overrennet, eller har
+bedre vindforhold, straffes han/hun. Poengsummen styrkes
+dersom han/hun har lavere startavsats eller mindre oppdrift.
+Kompensasjonspoengene regnes ut fra en slags regresjonsmodell,
+som sikkert gjelder for hver bakke, og er kalibrert på et eller annet
+vis (kunnskap om modellen etterspørres . . . ).
+Hovedgrunnen bak innføringen er å avvikle rennet mer
+effektivt (ved å justere startavsats underveis i rennet, uten å
+starte på nytt), og skape mer rettferdighet i poengberegning
+(kompensasjon av ulike værforhold). Metoden har blitt kritisert for
+at den ikke fanger opp alle viktige elementer, at den kompenserer
+for lite, og, ikke minst, for at metoden gjør skihopp altfor
+vanskelig å forstå for den jevne publikummer (som vi jo kjenner
+igjen fra andre felt der statistikk brukes).
+Man kan dra kompensasjonsparallellen til andre idretter:
+hekkeløp der hekkehøyden tilpasses kroppshøyden, diskoskast
+med justering utfra armlengde. Og hvorfor ikke ha kun én
+vektklasse i styrkeløft, og så bruke statistikk til å finne vinneren,
+uansett vekt. Eller ha høydeklasser i basketball, der for eksempel
+de i høydeklasse 170–180 cm starter med ledelse 50–0 i kampen
+mot høydeklasse 200–210 cm.
+Men jeg ser jo at bruk av statistikk ikke alltid vil gjøre sporten
+mer interessant for alle, og at det er viktig å holde spenningen om
+hvem som vinner. I et Asterix tegneseriealbum ble det sagt: «Jeg
+har aldri likt disse tilfeldighetene i sporten!» På sett og vis er jeg
+enig; toppfotball var artigere da Rosenborg vant år etter år.
+Våren er full av konferanser. Jeg oppfordrer alle til å delta
+aktivt. Spesielt håper jeg at vi blir godt representert på den
+nordiske konferansen i Sverige i juni. Denne krasjer beklageligvis
+med blant annet geostatistikk-konferansen i Oslo (der jeg skal den
+uka), men jeg ber om at mange andre kan dra til Umeå.
+
+1
+
+
+
+Fra redaksjonen
+Anne Marie Fenstad | Bergen
+
+Vi nærmer oss vinterferie, mars og snart vår i været . . . Foreløpig
+ikke synlige tegn til dette på Vestlandet, men vi håper stadig, og
+har store forventninger.
+Etter en spennende høst med Jo Røislien og programmet
+Siffer har vintersesongen statistisk sett vært roligere, kanskje med
+unntak av for de mest sportsinteresserte som teller rundetider
+og lager statistikker av disse og andre rekorder. Eller mulig
+dette er en bevisst oppbygging til lysere (konferanse)tider. Det
+er mye spennende som står på programmet her til lands denne
+sommeren.
+Nordstat 2012 går av stabelen i Umeå i Sverige 10.–14. juni.
+De har lagt opp til et variert faglig program og mange
+spennende aktiviteter utenom – alt fra kanopadling til elgsafari;
+se egen annonsering. Norske damer er sterkt representert i
+det faglige programmet. Mette Langaas fra ntnu er en av de
+inviterte foredragsholderne (key note speaker) og skal snakke
+om «Maximizing power by using unconditional enumeration
+tests in categorical distributions when nuisance parameters are
+present. Application to discrete genotype-phenotype data.».
+Videre skal Eva Skovlund lede en egen temasesjon om «Teaching
+and communicating statistics». I denne siste sesjonen skal også
+blant andre Jo Røislien delta.
+Senere på sommeren blir det iscb 2012 19.–23. august i Bergen.
+Dette er iscb sin 33. årlige konferanse for The International Society
+for Clinical Biostatistics. Odd O. Aalen leder programkomitéen,
+mens Geir Egil Eide leder organisasjonskomitéen. Dette er første
+gangen konferansen holdes i Norge, og man håper på et stort
+oppmøte av norske deltagere.
+Da gjenstår det å ønske alle komitéer, foredragsholdere og
+resten av statistikerne god vinterferie, om det er i uke 8, 9 eller 10,
+og ønske om en statistisk trivelig vårsesong!
+http://norskstatistiskforening.no/
+
+Send leserbidrag til Bard.Stove@math.uib.no
+
+2
+
+http://www.nordstat2012.se/
+
+
+
+leserbidrag
+Noen misforståelser om signifikante resultater
+Kjetil Vestfossen | Oslo
+
+Spørsmålet jeg her vil reise er om det ikke trengs mer
+bevisstgjøring omkring begrepene knyttet til hypotesetesting i
+undervisning. Et problem er at ikke-signifikante resultater ofte
+ikke kommer på trykk, men blir liggende i skrivebordsskuffen
+hos forskerne. Dette skyldes både selvseleksjon hos forskerne
+og restriktive redaktører. Kombinasjonen av skrivebordsskuffproblemet og forskning basert på lite velfunderte hypoteser
+kan slå uheldig ut. Dette vil jeg si noe om i denne artikkelen.
+Stoffet bør være velkjent, men jeg vil drøfte det på en måte som
+kanskje kan brukes i undervisning.
+
+Litt om ikke-signifikante resultater
+Ved tolking av forskningsresultater er det vesentlig om resultatene
+er statistisk signifikante eller ikke. Om resultatene ikke er
+signifikante, vil mange mene at de ikke har noen troverdighet, og
+oppfatte dem som ugyldige eller upålitelige. Så enkelt er det ikke.
+Dersom vi for eksempel sammenligner gutter og jenters
+prestasjoner i matematikk, og resultatet ikke er signifikant, skal vi
+trekke ulik konklusjon avhengig av størrelsen på utvalget. Om
+utvalget er stort, vil vi kunne være sikker på at gutter og jenter
+er omtrent like gode i matematikk. Altså kan ikke-signifikante
+resultater være svært pålitelige. I slike situasjoner vil det være
+best heller å presentere resultatene som konfidensintervaller.
+Om utvalget er lite, bør vi kanskje ikke trekke noen konklusjon
+i det hele tatt. Dessverre ser man noen ganger at ikke-signifikante
+resultater tolkes som om det ikke er noen effekt tilstede i
+populasjonen, selv om det ikke er grunnlag for en slik tolkning
+(grunnet et lite utvalg eller store tilfeldige målefeil). Denne typen
+feil er leie, og forekommer, men jeg vil i denne artikkelen først og
+fremst se nærmere på et annet problem ved testing.
+
+Kjetil Vestfossen har hovedfag i anvendt
+statistikk fra Universitetet i Bergen i 2005.
+Han har undervist på videregående skole
+i matematikk og naturfag, har studert
+biologi og jobbet innen ﬁskeoppdrett.
+Etter hovedfaget har han undervist i
+matematikkdidaktikk ved lærerutdanning
+og i vitenskaplig metode ved Institutt for
+lærerutdanning og skoleforskning ved
+Universitetet i Oslo.
+
+Hvor ofte er signifikante resultater «sanne»?
+Hvor ofte er egentlig signifikante resultater «sanne»? En ting er å
+trekke feil konklusjon når resultatene ikke er signifikante; noe
+annet er å ha overdreven tro på resultater som er signifikante.
+Et godt eksempel på dette finner vi i metodekapittelet
+i pisa-rapporten fra 2010. pisa er en internasjonal test av
+skoleprestasjoner i lesing, naturfag og matematikk hos 15-åringer,
+og mer enn 60 land deltar. På side 266 i pisa-rapporten fra 2010
+skriver forfatterne: «Hvis denne korrelasjonskoeffisienten er
+signifikant positiv, betyr dette at den med stor (minst 95 prosent)
+sannsynlighet også er positiv for hele populasjonen.» Dette
+
+Kjærnsli M. og Roe A. (red.) (2010). På
+rett spor: Norske elevers kompetanse i
+lesing, matematikk og naturfag i PISA
+2009. Universitetsforlaget.
+isbn 978-82-15-01735-8.
+http://www.pisa.no/pdf/
+publikasjoner/Paa_rett_spor.pdf
+
+3
+
+
+
+medfører ikke riktighet. Utsagnet er et uttrykk for misforståelser
+om hva det vil si at et resultat er signifikant. Ingen kan si nøyaktig
+hvor ofte signifikante resultater er pålitelige, men jeg tror at slike
+utsagn som gjengitt ovenfor kan medføre en overvurdering av
+hvor ofte forskningsresultater «stemmer med virkeligheten».
+Vi kan generalisere utsagnet i pisa-rapporten om korrelasjoner
+til å gjelde signifikante resultatet generelt. Da handler
+dette om påliteligheten til alle signifikante resultater, og
+ikke bare signifikante korrelasjoner. Tabellen til høyre viser
+hypotesetestingssystemet slik det fremstilles i mange lærebøker,
+der α er signifikansnivået og 1 − β er styrken under H1 .
+For å belyse problemet med et eksempel, la oss anta at vi har
+to institutter – ett med svært dårlig forskningsteft, og ett der
+forskerne har svært god teft for å finne frem til hypoteser der den
+alternative hypotesen H1 faktisk er sann.
+La oss tenke oss at det første instituttet har fått for seg noen
+dårlige forskningsidéer som de vil teste ut. Disse idéene er såpass
+dårlige at H0 alltid er sann. Når de har valgt et signifikansnivå
+på 5 %, får det følgende konsekvenser. I det lange løp vil 5 % av
+testene ved ren uflaks være signifikante resultater som ikke er
+korrekte. De får falske positive. Se tabellen til høyre, der de mulige
+kombinasjoner av testresultater og virkeligheter er fargelagt.
+
+Test- H0
+resultat H1
+
+Virkeligheten
+H0
+H1
+1−α
+β
+α
+1−β
+
+Test- H0
+resultat H1
+
+Virkeligheten
+H0
+H1
+1−α
+β
+α
+1−β
+
+Test- H0
+resultat H1
+
+Virkeligheten
+H0
+H1
+1−α
+β
+α
+1−β
+
+Foreløpig konklusjon
+I situasjonen ovenfor får forskerne signifikante resultater i 5 % av
+tilfellene. Disse 5 % utgjør uheldigvis 100 % av de signifikante
+resultatene til dette instituttet, og konklusjonene blir her ikke
+korrekte. Det som kan skje videre er at de ikke-signifikante
+resultatene bare blir lagt i en skuff og glemt. Dersom man
+eventuelt forsøker å få dem publisert, blir de avvist, fordi de ikke
+er signifikante, og dermed ikke interessante. De falske positive
+resultatene er derimot veldig spennende, og blir publisert!
+Alt dette instituttet har publisert på dette feltet er det rene tøv.
+Ikke bare det: Instituttet har bidratt til å gi oss motsatt oppfatning av
+virkeligheten enn den som stemmer! Det tragikomiske er at de kanskje
+har utført selve undersøkelsen og signifikanstestingen korrekt.
+Vi så at i denne situasjonen var det langt fra 95 % av alle
+signifikante resultater som «stemte med virkeligheten». Hvor ofte
+forskningsresultater stemmer med virkeligheten avhenger altså
+ikke bare av hypotesetestingssystemet, men også av hvor god teft
+forskerne har. Det er med andre ord viktig å forske på gode og
+relevante problemstillinger.
+
+Institutt for «fremragende» forskning
+La oss nå se på instituttet med forskere med svært god teft. De
+har gode og relevante problemstillinger som de vil teste ut. I alle
+tilfellene er H1 sann, og konklusjonene ved signifikante resultater
+stemmer alltid med virkeligheten. Vi ser at «korrekthetsprosenten»
+til signifikante resultater kan variere fra 0 % til 100 %, avhengig
+4
+
+
+
+av forskernes teft. Sannheten ligger nok et sted mellom disse to
+tallene, avhengig av hva forskerne velger å undersøke og teste. Vi
+ser at utsagnet i pisa-rapporten ikke stemmer.
+
+Styrke
+Det er vanlig i lærebøker i statistikk å anbefale at styrken bør
+være minst 80 % for en rimelig aktuell effekt. Det vil si at det for
+eksempel bør være minst 80 % sannsynlighet for å finne ut at det
+er forskjell på gutter og jenter i lesing dersom det faktisk er en
+rimelig stor forskjell i populasjonen.
+Regner vi med at disse tidligere omtalte dyktige forskerne
+hadde 80 % styrke i sine forsøk, så mister/overser de likevel 20 %
+av tilfellene der de skulle funnet signifikante resultater. Disse
+forskerne er jo også utsatt for en restriktiv redaktør som ikke vil
+høre om at usignifikante resultater skal publiseres. Men i disse
+tilfellene er det jo «bra» at redaktørene er restriktive.
+
+Lærebøker
+Det er ikke bare pisa som kan være uheldige med sine
+formuleringer. I Introduksjon til samfunnsvitenskapelig metode, en
+lærebok som i mange år har vært brukt ved samme institutt som
+står bak pisa-rapporten, brukes en noe omtrentlig definisjon
+av begrepet p-verdi. På side 296 skriver forfatterne: «P viser til
+sannsynligheten for å forkaste korrekt nullhypotese.» Hva er så
+galt med denne definisjonen? Det vil jeg vise med hvordan det
+bærer galt av sted lenger nede på samme side.
+De skriver: «Dersom det ikke er noen forskjell mellom to
+utvalg, vil t-verdien være 0, mens p-verdien vil være 1,0. Hvis vi
+da forkaster H0 er det svært stor sannsynlighet (100 prosent) for
+at vi forkaster en riktig nullhypotese, og vi beholder følgelig H0 .»
+Dette er rent logisk ikke riktig. Selv om gutter og jenter ikke er
+like gode i for eksempel matematikk, kan det likevel hende at vi
+er uheldige med utvalget, slik at gutter og jenter fremstår som
+like gode. Her blir p-verdien 1, men det er jo ikke slik at om
+vi forkaster H0 , så er det 100 % sikkert at vi forkaster en riktig
+nullhypotese. Tvert imot vet vi at det er 100 % sikkert at H0 er feil.
+
+Johannessen A., Tufte P.A. og
+Kristoffersen L. (2006). Introduksjon til
+samfunnsvitenskapelig metode. Abstrakt
+forlag, tredje utgåve. isbn 82-7935-212-0
+
+Konklusjon og avsluttende kommentarer
+Dersom man bruker hypotesetesting uten å forstå systemet
+tilstrekkelig, kan man komme galt ut. Selv om jeg har hentet
+en feilformulering fra pisa-rapporten, tror jeg ikke det er noe
+problem ved deres forskning – snarere tvert imot, siden det står et
+internasjonalt sterkt fagmiljø bak undersøkelsen. Dette sammen
+med at den samme undersøkelsen gjennomføres i mer 60 land,
+gjør at jeg ikke tviler på deres resultater; jeg er mer bekymret for
+kvaliteten på undervisning og formidling generelt, der studenter
+og den allmenne leser blir presentert for feilaktige forklaringer på
+begreper knyttet til hypotesetesting. Eksemplene jeg har vist til er
+dessverre ikke enestående.
+5
+
+
+
+Reproduksjonshelsen til menn i Sjøforsvaret
+Valborg Baste | Bergen
+
+Valborg Baste disputerte fredag 20. mai 2011 for ph.d-graden
+ved Universitetet i Bergen, med avhandlingen Radiofrequency
+electromagnetic fields and reproductive health – Occupational exposure
+among servicemen in the Royal Norwegian Navy.
+Bakgrunnen for avhandlingen var at Sjøforsvaret på midten
+av 1990-tallet opplevde et cluster av medfødte misdannelser
+blant barna til ansatte på motortorpedobåten knm «Kvikk», som
+hadde operert som elektronisk krigføringsfartøy. Man fikk en
+generell mistanke om at arbeid om bord på motortorpedobåter
+(mtb) og spesielt eksponering for radiofrekvente (rf)
+elektromagnetiske felt som brukes i radiokommunikasjonsutstyr,
+kunne ha en uheldig virkning på reproduksjonshelsen til
+tjenestemennene.
+Formålet med avhandlingen var å undersøke om tjenestemenn
+om bord på mtb generelt, og spesielt de som hadde jobbet med
+rf-felt, hadde større risiko for dårligere reproduksjonshelse
+sammenlignet med andre ansatte i Sjøforsvaret.
+Avhandlingen viste ingen sammenheng mellom fedres
+arbeid ombord på mtb eller deres eksponering for rf-felt
+og medfødte misdannelser hos deres barn. Det ble funnet
+en økt risiko for dødfødsel eller død innen første leveuke
+og svangerskapsforgiftning hvis far hadde arbeidet på mtb i
+tremånedersperioden før unnfangelse sammenlignet med fedre
+som hadde tjeneste på andre fartøy.
+For de som hadde høy eksponering for rf-felt i løpet av
+samme periode, var det en indikasjon på ytterligere økt risiko.
+Dette var imidlertid basert på et lite antall eksponerte og må
+betraktes som et usikkert funn. Det var ingen sammenheng
+mellom fedres eksponering for rf-felt forut for tremånedersperioden før unnfangelse og svangerskapsutfallene som ble
+undersøkt.
+Eksponeringsnivåene av rf-felt om bord på mtb-ene var, med
+få unntak, generelt lavere enn for andre yrker med denne type
+eksponering, og i forhold til internasjonale retningslinjer. I en av
+studiene som inngår i avhandlingen, basert på selvrapporterte
+data, ble det funnet en økt risiko for ett års infertilitet ved
+økt eksponering for rf-felt, men ingen økt risiko for ikke å få
+barn.
+Avhandlingen er basert på en spørreundersøkelse blant alle
+ansatte i Sjøforsvaret. Sjøforsvarets egne rf-eksponeringsmålinger
+ble vurdert, og det ble utarbeidet en metode for å beregne
+feltdose. Resultatene fra eksponeringsvurderingene er benyttet i
+en kohortstudie der tjenestehistorikk fra Sjøforsvaret er koblet
+med data fra Medisinsk fødselsregister.
+
+6
+
+Foto: Jørgen Barth
+
+Valborg Baste tok hovedfag i statistikk ved
+Universitetet i Bergen i 1992, men hadde
+jobbet ﬂere år ved seksjon for medisinsk
+informatikk og statistikk ved UiB samtidig
+med studiene. Etter endt studie jobbet
+hun ved Medisinsk fødselsregister og
+deretter som forsker ved Arbeids- og
+miljømedisin, Uni helse. Fra 2008 var hun
+stipendiat ved Arbeids- og miljømedisin,
+Institutt for samfunnsmedisinske fag,
+Universitetet i Bergen. Fra 2012 jobber
+hun som biostatistiker ved Nasjonalt
+kompetansesenter for leddproteser.
+
+Baste V., Riise T. og Moen B. (2008).
+«Radiofrequency electromagnetic fields;
+male infertility and sex ratio of
+offspring». European Journal of
+Epidemiology, volum 23, side 369–377.
+10.1007/s10654-008-9236-4
+Baste V., Mild K.H. og Moen B.E. (2010).
+«Radiofrequency exposure on fast
+patrol boats in the royal norwegian
+navy—an approach to a dose
+assessment». Bioelectromagnetics,
+volum 31, nummer 5, side 350–360.
+10.1002/bem.20562
+
+Baste V., Moen B., Oftedal G., Strand L.,
+Bjørge L. og Hansson M.K. ().
+«Pregnancy outcomes after paternal
+radiofrequency field exposure aboard
+fast patrol boats». Akseptert i Journal
+of Occupational and Environmental
+Medicine.
+
+
+
+tankenøtter
+Pusleri nummer 34
+Jostein Lillestøl | Bergen
+
+I usa gjennomførte man i perioden 1999–2008 The 50 States
+Quarters Program. Kort fortalt ble store mengder quartermynter
+sendt ut på markedet med motiver fra hver av de 50 ulike statene.
+Per hadde forskningsopphold i USA på denne tiden, og skrev
+blant annet følgende i sin rapport hjem:
+Min datter Jenny prøver å få en fullstendig States
+Quarters-samling, og hun har 47 ulike nå. Når vi
+får en slik quarter ser vi først etter om den passer i
+hennes samling, hvis ikke så legger jeg den til min
+egen samling, som har 34 forskjellige akkurat nå. Før
+vi begynte å samle, spurte jeg meg selv:
+Hva er forventet antall slike mynter som trengs før
+Jenny har en fullstendig samling? Hva er forventet
+antall slike mynter som trengs før jeg også har en
+fullstendig samling?
+I det siste har det gått lenge mellom hver gang vi
+finner en ny mynt, og jeg spør meg: Hva er forventet
+antall flere mynter som trengs for Jenny og meg
+akkurat nå, når Jenny har 47 ulike mynter og jeg 34?
+
+Foto: Jennuine Captures
+
+Per reiste også andre spørsmål, som trolig er mer krevende,
+blant annet knyttet til forventet antall av den myntsort det er flest
+av i sparebøssen der alle mynter havnet som ingen av dem hadde
+bruk for, og spørsmål knyttet til situasjoner der han og datteren
+sluttet å samarbeide, for eksempel angående sjansen for at han
+fikk samlingen komplett før datteren.
+Merknad: I virkeligheten var opplaget av de ulike myntene
+ikke det samme, og myntene ble introdusert til forskjellig tid.
+Samtidig var det fortsatt mange mynter av den gamle type. Se
+http://en.wikipedia.org/wiki/50_State_Quarters.
+Send løsning til Jostein.Lillestol@nhh.no.
+
+Løsning på pusleri nummer 33
+Jostein Lillestøl | Bergen
+
+Oppgaven
+Ølle er håndballtrener, og en dag etter treningen samler han
+de 10 frammøtte rundt seg i gymsalen, og sier: «I garderoben
+er det akkurat 10 nummererte garderobeskap. Jeg har et foto
+av hver av dere, og har plassert et bilde i hvert av skapene
+helt tilfeldig. Dere får slippe inn i garderoben én etter én,
+7
+
+
+
+og får lov til å åpne halvparten av skapene, det vil si 5 skap
+hver, med sikte på å finne eget bilde. Om du lykkes eller
+ikke, legger du alt tilbake på plass og lukker skapene, slik at
+nestemann som kommer møter akkurat samme oppgave. Deretter
+forlater du garderoben ut døren til gangen, og går hjem, uten
+å kommunisere med de andre på laget. Dersom alle 10 på laget
+har funnet eget bilde, blir det gratis treningsleir for alle. Jeg
+vil være tilstede i garderoben for å observere utfallet, og se
+til at alt går riktig for seg. Dere får en halvtime til å diskutere
+oppdraget før vi setter i gang. Jeg går ut i garderoben imens.
+Forstått »
+Etter at laget er overlatt til seg selv, tar Bølle ordet først: «Hva
+er det å diskutere? Hver av oss har 50 % sjanse for å finne vårt
+eget bilde, uavhengig av hva de andre gjør. Sjansen for at vi
+greier det alle sammen er da en halv opphøyd i tiende (som er
+mindre enn en promille), og slik er det samme hvilke skap de
+andre velger å åpne, så lenge vi ikke får gitt noe informasjon
+til de som kommer etter.» Crølle bryter inn: «Jeg er uenig. Enn
+om de 5 første av oss velger de 5 skapene med laveste numre,
+og de 5 siste av oss velger skapene med høyeste numre? Da
+tror jeg sjansen for å lykkes vil øke.» Dølle har stått og grublet,
+og sier så: «Crølle har rett, men hans løsning gir oss heller ikke
+særlig stor sjanse. Jeg mener det er mulig å velge en strategi
+som kan gi oss langt større sjanse for å komme på treningsleiren.
+Hør nå her . . . » Bølle bryter han av: «For noe tull! Dette er
+bortkasta tid å diskutere. La oss få det overstått, og komme oss
+ut herfra!»
+Dølle klarer imidlertid å overbevise de andre med intuitive
+argumenter, og laget gikk med på hans strategi. Det viste seg at
+laget lyktes i sitt oppdrag, og kom på treningsleiren. Innen den
+tid hadde Dølle regnet ut sannsynligheten for at den strategien
+han foreslo skulle lyktes. Den var over 30 %!
+Greier du å gjøre han det etter?
+
+Løsning
+Det kan se ut som det ikke fins noen god strategi der en på
+forhånd har avtalt akkurat hvilke dører hver spiller skal åpne.
+Vi må altså lete etter en sekvensiell strategi som utnytter hva
+som skjer underveis. Er det mulig, når vi ikke kan formidle
+informasjon mellom spillerne? Ja! Muligheten ligger i å lete etter
+en strategi der utfallene for spillerne ikke er uavhengige, men
+positivt korrelerte, slik at hvis én lykkes/mislykkes, så er det også
+stor sjanse for at de andre lykkes/mislykkes.
+Strategi: La skapene være nummererte fra 1 til 10, og man enes
+om en nummerering av spillerne fra 1 til 10, for eksempel i den
+rekkefølge de går inn. Spiller nummer i starter med å åpne skap
+i. Spilleren noterer seg nummeret til den spiller bildet i skapet
+tilhører, og åpner deretter skapet med dette nummeret. Spilleren
+fortsetter på samme måte til han har åpnet de 5 tillatte skapene.
+8
+
+
+
+La oss se på noen eksempler med plassering av bildenumre i de
+10 skapene:
+Eks.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+Sykluser
+
+A
+B
+C
+D
+E
+
+6
+6
+6
+6
+6
+
+8
+7
+8
+8
+8
+
+9
+8
+3
+2
+9
+
+7
+9
+7
+7
+7
+
+2
+3
+9
+1
+1
+
+4
+2
+4
+4
+4
+
+1
+1
+10
+10
+10
+
+5
+5
+5
+9
+2
+
+10
+10
+2
+3
+3
+
+3
+4
+1
+5
+5
+
+(6 4 7 1)(8 5 2)(9 10 3)
+(6 2 7 1)(8 5 3)(9 10 4)
+(6 4 7 10 1)(8 6 9 2)(3)
+(6 4 7 10 5 1)(8 9 3 2)
+(6 4 7 10 5 1)(8 2)(9 3)
+
+I eksempel A ser vi at når spiller nummer 1 åpner skap 1, finner
+han bildet til spiller nummer 6. Når han åpner skap 6, finner han
+spiller nummer 4, og når han åpner skap 4, finner han spiller
+nummer 7, hvoretter han åpner skap 7 og finner spiller nummer 1,
+som er han selv. Spiller nummer 1 lykkes altså.
+Spiller nummer 2 begynner med å åpne skap 2, og finner
+spiller nummer 8. Når han åpner skap 8, finner han spiller
+nummer 5, og når han åpner skap nummer 5, finner han nummer
+2, sitt eget bilde. Spiller nummer 3 vil i sin tur finne spiller
+nummer 9, 10 før han selv, nummer 3, dukker opp.
+Vi ser at hver spiller entydig tilhører en bestemt syklus. I
+eksempel A var det akkurat tre sykluser, som er listet i høyre
+kolonne i tabellen. Spiller nummer 4 vil oppleve samme syklus
+som spiller nummer 1, og så videre. Eksempel B har også tre
+sykluser, men her vil spiller nummer 2 se samme syklus som
+spiller nummer 1, før spiller nummer 3 og spiller nummer 4 møter
+de to andre syklusene.
+Vi skjønner nå at alle vil lykkes såfremt alle syklusene
+har høyst 5 elementer. Ovenfor vil en altså lykkes dersom
+plasseringene er som i eksemplene A–C, og alle i den lange
+syklusen på seks mislykkes i eksemplene D og E.
+Sannsynligheten for å mislykkes kan derfor beregnes som
+sannsynligheten for at det forekommer en syklus av minst seks
+elementer. Det er lett å vise at dette er lik
+
+Foto: Eva Serna
+
+1 1 1 1
+1
+1627
++ + + +
+=
+= 0,6456,
+6 7 8 9 10
+2520
+slik at den søkte sannsynligheten blir 0,3544.
+Generelt: Med 2n spillere som hver får åpne n skap, er
+sannsynligheten for en m-syklus for m > n
+
+(2n
+1
+m )( m − 1) ! (2n − m ) !
+= .
+(2n)!
+m
+Merk at summen fra n + 1 til 2n som går mot ln(2) = 0,6931 når
+n går mot uendelig. Sannsynligheten er altså minst 0,3069 for å
+lykkes, uansett hvor mange spillere det er!
+Merknad: Problemstillingen tilskrives Peter Bro Miltersen,
+professor i computer science i Aarhus, som spredte den i sitt
+fagmiljø rundt 2003, og der kollegaen Sven Skyum bidro med
+denne overraskende vellykkede strategien.
+9
+
+
+
+møter og konferanser
+Rapport fra det 16. norske statistikermøte, Røros 2011
+Kristoffer Hellton og Tonje G. Lien | Oslo, Universitetet i Oslo
+
+Før påske, halvveis inn i masteroppgaven på ntnu, kom
+invitasjonen om å bli med på nsfs 16. norske statistikermøte
+14. til 17. juni på Rørås. Veilederne våre lovet hyggelig selskap,
+god mat og spennende foredrag, mot et bitte lite 10 minutters
+innlegg om den avsluttende masteren. Etter å ha nølt litt takket
+vi begge ja til turen. Det er vanskelig å si nei når veileder sitter
+i organisasjonskomitéen! Utover våren viste det seg å være
+et smart valg, for vi fikk begge jobbtilbud som stipendiater i
+Oslo, og nsf var den perfekte anledning til å bli bedre kjent
+med statistikkmiljøet i Norge. Så etter 20 uker med knallhardt
+arbeid med masteren var vi klare til å presentere resultatet på
+vår første konferanse. Kristoffer hadde jobbet med smoothing
+splines og inla, mens Tonje utviklet en ny metode for å analysere
+gen-ekspresjonsdata fra pcr.
+Etter en kort togtur tirsdag morgen fra Trondheim var vi
+framme på Røros hotell før lunsj. Og for en lunsj! Buffet er det
+vanligvis ikke så mye av i en studentøkonomi.
+Delegasjonen fra Oslo ankom ganske forsinket etter en tre-velt
+lenger sør. De første dagene av konferansen besto av et inla-kurs
+holdt av Håvard Rue og Daniel Simpson. Et veldig interessant
+tema med både teori og r-praksis.
+Dagen etter kom flere kjente fra Trondheim. Røros Hotell
+stilte med herlig frokost og lunsj med hjemmelagde oster,
+spekekjøtt og dessert. Foredragene begynte etter lunsj og dekket
+bredt både praktiske og teoretiske statistikktemaer fra medisin,
+finans, vær og økologi. Det ble også tid til å bli kjent med flere
+andre ph.d.-studenter fra hele Norge, og etter middag ble det
+besøk i hotellbaren og den lokale puben. Tredje konferansedag
+holdt vi og to andre masterstudenter fra Trondheim innlegg,
+og dette var en spennende opplevelse. Ganske nervepirrende
+når publikum består av professorer, forelesere og forskere i
+statistikk. Men vi var veldig godt fornøyd med egen innsats! Og vi
+gjorde oss fortjent til en bedre konferansemiddag. Før middagen
+var det imidlertid tid for turistaktiviteter, med gruvebesøk og
+byvandring. Vi ble kjørt av gårde og fikk en overraskende kjølig
+omvisning i Olavsgruva med medfølgende, kledelige hjelm. Med
+nyvalgt leder for nsf, Jo Eidsvik, i spissen ble det også avholdt
+fotballkamp.
+Den oppgraderte konferansemiddagen holdt det den lovet, og
+var en verdig 75-årsmarkering av nsf. Det var bordvers, taler og
+avsløring av at det geografiske gjennomsnittet av nsfs konferanser
+passende nok er Gausdal.
+10
+
+http://www.math.ntnu.no/NSF2011/
+
+Hellton K.H. (2011). Stochastic Models
+for Smoothing Splines: A Bayesian
+Approach. Masteroppgave, Norges
+teknisk-naturvitenskapelige universitet.
+http://urn.kb.se/resolve?urn=
+urn:nbn:no:ntnu:diva-13724
+
+Lien T.G. (2011). Statistical Analysis of
+Quantitative PCR Data. Masteroppgave,
+Norges teknisk-naturvitenskapelige
+universitet.
+http://urn.kb.se/resolve?urn=
+urn:nbn:no:ntnu:diva-13094
+
+http://www.math.ntnu.no/~hrue/
+inla-course/all-lectures.pdf
+http://www.math.ntnu.no/~hrue/
+inla-course/R-INLA.pdf
+
+http://www.math.ntnu.no/NSF2011/
+program.php
+
+Foto: Mette Langaas
+
+
+
+Vi vil takke Jo Eidsvik, Mette Langaas og Gabriele Martinelli
+for en hyggelig og svært vellykket konferanse både faglig og
+sosialt. Programkomitéen ble ledet av Solve Sæbø sammen med
+Ingunn Fride Tvete, Bård Støve og Sigrunn Sørbye. Vi gleder oss
+til flere statistikkonferanser i fremtiden!
+
+Foto: Mette Langaas
+
+Foto: Mette Langaas
+
+11
+
+
+
+www.iscb2012.info
+We are delighted to invite you to the 33rd Annual
+Conference of the ISCB, for the first time in Norway. Clinical
+biostatistics is a field that is crucial to medical and health
+related research to ensure quality knowledge as basis for
+treatment and prevention, etiology and health care. The
+conference is meant to build a bridge between researchers
+in the medical and health related fields and developers of
+new relevant statistical methodology and software.
+The Scientific Programme Committee has set up a broad
+range of interesting topics both in the invited and contributed sessions. The traditional mini-symposia, that can be
+attended separately, are devoted to vaccine research as at
+the previous ISCB-conferences, and register-based epidemiology, thus giving the conference a Nordic flavour.
+The conference is also a unique opportunity to experience
+Norwegian nature and culture, be it before, during, or after
+the official programme. We hope you find the programme
+attractive and will take this opportunity to participate and
+visit Bergen, Norway in August 2012.
+Mark your calendar now!
+Geir Egil Eide
+
+Odd O. Aalen
+
+Deadline for abstracts: 15 March 2012
+Notification for abstract acceptance: 1 May 2012
+Early Bird registration: 15 May 2012
+Pre-Conference courses: 19 August 2012
+Conference start: 20 August 2012
+Mini-symposia: 23 August 2012
+
+The International Society for Clinical Biostatistics (ISCB) was founded
+in 1978 to stimulate research into the principles and methodology used
+in the design and analysis of clinical research and to increase the
+relevance of statistical theory to the real world of clinical medicine.
+
+Scientific Committee
+Chairman:
+Denmark:
+France:
+Germany:
+Italy:
+Norway:
+Sweden:
+UK:
+USA:
+
+Odd O. Aalen (Norway)
+Per Kragh Andersen
+Daniel Commenges
+Jan Beyersmann
+Clelia Di Serio
+Ørnulf Borgan, Jan Terje Kvaløy, Stein Emil Vollset
+Marie Reilly
+Michael Campbell, David Clayton, Vanessa Didelez
+Sophia Rabe-Hesketh, Terry Therneau
+
+Local Organizing Committee
+Chairman: Geir Egil Eide
+Vice-chairman: Stein Atle Lie
+Treasurer: Jan Harald Aarseth
+Scientific coordinator: Jan Terje Kvaløy
+Members: Jörg Aßmus, Milada Cvancarova Småstuen,
+Anne Marie Fenstad, Ivar Heuch, Ågot Irgens,
+Roy Miodini Nilsen, Inger Lise Ravnanger,
+Tore Wentzel-Larsen
+
+Congress Secretariat
+Kongress & Kultur AS
+Torgalmenningen 1A
+Postboks 947 Sentrum
+N-5808 Bergen, Norway
+
+Phone: + 47 55 55 36 55
+Fax:
++ 47 55 55 36 56
+e-mail: mail@kongress.no
+
+www.iscb2012.info
+Important Dates
+
+33rd Annual Conference
+of the
+
+Second Announcement
+
+Invitation
+
+Welcome to ISCB33 in Bergen 2012!
+
+www.iscb2012.info
+
+ISCB
+
+International Society for
+Clinical Biostatistics
+
+19-23 August 2012
+Bergen - Norway
+
+
+
+www.iscb2012.info
+Call for abstracts
+Deadline for submitting abstracts is 15 March 2012.
+The submitting form is found at www.iscb2012.info
+Contributed presentations (oral presentations as well as posters) are
+welcome in any area of biostatistics, epidemiology and related topics. The
+Scientific Programme Committee particularly encourages submissions of
+contributed presentations about the invited session topics, as well as the
+other topics listed below.
+Suggested topics
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Adaptive clinical trials
+Bioinformatics
+Causal inference
+Clinical trials
+Diagnostic methodology
+Dynamic treatment regimens
+Epidemiological designs
+Evaluating hospital performance
+Functional data analysis
+Genomics / systems biology
+Health economics and regulatory affairs
+Incomplete data
+Joint modeling of outcome and times-to event
+Latent variable models
+Longitudinal data
+Measurement error
+Meta-analyses
+Modelling in drug development
+Modelling infectious disease
+Model selection
+Observational studies
+Prediction
+Statistics for epidemiology
+Structural Equation Modelling
+Surrogate marker evaluation
+Survival and multistate models
+
+www.iscb2012.info
+The abstract should be submitted via the abstract submission system on
+the conference website where detailed information about the procedure
+can be found.
+The Scientific Programme Committee will review all submitted abstracts
+and notification of acceptance will be given by 1 May 2012.
+Papers based on the presentations at ISCB33 may be submitted for a
+special conference issue of Statistics in Medicine.
+Please note that presenters of abstracts are not automatically registered
+for the conference and should register before the early bird deadline May
+15 to be included in the programme.
+
+Invited sessions
+
+President’s Invited Speaker:
+Deborah Ashby (UK): A benefit-risk analysis of using formal benefit-risk
+approaches for decision-making in drug regulation
+Plenary Sessions:
+Stephen Senn (LUX): Concurrent control in clinical trials: key condition
+or sacred cow?
+Terry Speed (AUS): Epigenetics: a new frontier
+Invited sessions
+1. Evaluating hospital performance (Organizer: Michael J. Campbell)
+2. Causal inference (Organizer: Stijn Vansteelandt)
+3. Genomics systems biology: (Organizer: Arnoldo Frigessi)
+4. Extensions to epidemiological designs: (Organizer: Marie Reilly)
+5. Functional data analysis (Organizer: Per Kragh Andersen)
+6. Modelling infectious disease (Organizer: Birgitte de Blasio)
+
+Pre-conference courses
+1. Analysis of rare genetic variants in common diseases (Full day),
+2. Bayesian computing with INLA (Half day),
+3. Estimating treatment effects using longitudinal data (Half day),
+4. Analysis of interval-censored survival data (Half day),
+5. Latent class mixed models for longitudinal data and time-to-event data
+(Half day)
+
+www.iscb2012.info
+Mini-symposia
+Mini-symposium I: Register-based epidemiology
+In several Nordic countries, large health registries are regarded as the
+most important sources of information for medical research and
+development. By using the social security number, data from various
+registries within a country can easily be linked for both epidemiologic and
+clinical purposes. The aim of the Mini-sympposium is to give the audience
+insight into how the various registries, biobanks, as well as national health
+surveys are used in the scientific work. The Scientific Programme
+Committee of the Mini-sympposium has planned seven oral presentations
+with experts from Norway, Denmark, Sweden, Finland, and the United
+States.
+The mini-symposia is also offered as a preconference event for the
+annual meeting of the Norwegian Society for Epidemiology (NOFE).
+Please, see the conference website for the conditions.
+Mini-symposium II: Statistics in vaccine research
+Topic: Novel Statistical Approaches Used in Post-marketing Safety
+Surveillance Systems – A Global Perspective (Organizer: Allen Izu)
+The key characteristics of several newly emerging electronic safety
+surveillance systems will be described, including standard surveillance
+aims, data, organizations involved, and statistical methods and tools
+employed. From a global perspective, the design and analysis challenges
+that arise when applying the various statistical approaches will be
+discussed with several examples from monitoring the safety of vaccines.
+
+Conference awards
+The ISCB grants both ICSB Student Conference Awards (Organizer:
+Ulrich Mansmann) and Conference Awards for Scientists (Organizer:
+Zdenek Valenta). Please, see the detailed conditions on the conference
+website, and apply before 15 march 2012.
+
+More detailed information is found at www.iscb2012.info
+
+
+
+Nordstat 2012
+24th Nordic Conference in Mathematical Statistics, June 10-14, Umeå
+
+Welcome to Nordstat in Umeå, Sweden,
+June 10-14, 2012
+The 24th Nordic Conference in Mathematical Statistics (NORDSTAT) is a biennial international meeting
+for statisticians and probabilists, organized by the Nordic and Baltic countries. For further information
+please visit: www.nordstat2012.se.
+REGISTRATION and ABSTRACT SUBMISSION to contributed sessions are now open. Submission deadline is March 1, 2012, and early bird registration available until April 1, 2012.
+
+Key note speakers
+SJS lecture: Mark Girolami, University College London
+Mindaugas Bloznelis, Vilnius University
+Richard Gill, Leiden University
+Peter Guttorp, University of Washington
+Rebecka Jörnsten, Chalmers University of Technology, Gothenburg
+Mette Langaas, Norwegian University of Science and Technology, Trondheim
+Lasse Leskelä, University of Jyväskylä
+Thomas Mikosch, University of Copenhagen
+Jeff Rosenthal, University of Toronto
+
+Invited sessions
+Inference for stochastic processes, Statistical genetics and epidemiology,
+Insurance and risk, Data mining and multivariate statistics, Discrete probability,
+Event history analysis, Statistics in climate science, Survey sampling, Stochastic models in biology,
+Spatial statistics, Statistics in forestry and agriculture, Graphical models and causal inference, Teaching
+and communicating statistics, Mathematical Finance
+
+We look forward to seeing you in Umeå!
+Tom Britton and Sara Sjöstedt de Luna
+Chairs of the Programme Committee and the Organizing Committee
+
+
+
+bokomtaler
+Picturing the Uncertain World
+Karl Ove Hufthammer | Bergen
+
+Boka har undertittelen How to Understand, Communicate, and
+Control Uncertainty through Graphical Display, og forfattaren
+Howard Wainer er opptatt av at verda vår er usikker, og
+utfordringa er å klara å forstå og handtera denne uvissa og
+variasjonen. Han illustrerer utfordringa med ei rekkje eksempel
+henta frå forsking og politikk, frå nær og fjern historie, og med til
+dels svært opplysande grafar og diagram.
+Eit gjennomgåande tema er korleis me skal unngå å misforstå
+statistiske data, og det kanskje beste eksempelet finn me i første
+kapittel, The Most Dangerous Equation1 . Ein farlig formel !? Kva er
+det? Jo, Wainer meiner ein formel er farlig dersom det gjer store
+skadar å ikkje kjenna formelen og det er mange som ikkje gjer
+det. Og den aller farligaste formelen meiner Wainer overraskande
+√
+nok er σx = σ/ n. Eitt av fleire problem med denne oppstår når
+ein samanliknar grupper med ulikt tal på observasjonar i kvar
+gruppe. Når n er liten, er variasjonen stor. Og når variasjonen er
+stor, kan enkeltutfall falla langt frå forventingsverdien. Wainer
+illustrerer dette med forsking som viste at dei skulane i usa med
+best elevprestasjonar var små skular. Resultatet var at det vart
+sprøyta milliardar av dollar på å redusera storleiken på skulane.
+Dette hørtest fornuftig ut!
+Men små skular var ikkje betre, tvert imot: På små skular
+måtte kanskje same lærar undervisa i både engelsk og matematikk
+(jamfør den norske debatten om allmennlæraren), ein hadde
+gjerne ikkje råd til ein godt utstyrt fysikklab, og så vidare. Dette
+gjev ikkje høg kvalitet, berre stor variasjon, og derfor lett svært
+låge eller høge gjennomsnittsresultat. Ein hadde brukt milliardar
+ikkje på å forbetra elevprestasjonane, men på å auka variansen!
+Me ser same fenomenet her til lands, der dei skulane eller
+kommunane som vert trekte fram i media som best (eller verst)
+basert på resultata frå nasjonale prøvar gjerne er dei minste.
+Resultata seier lite om skulane; dei berre illustrerer ei statistisk
+lov! Tilsvarande gjeld samanlikningar av dei beste og verste
+sjukehusa. Dei minste2 er gjerne dei som kjem verst ut på
+statistikken. Dette er viktig å kjenna til, spesielt no når me har fått
+fritt sjukehusval.
+Eit anna problem med den farlige formelen er at teljaren,
+standardavviket, også kan variera mellom gruppene. Wainer
+illustrerer dette med eksempel der tallause amerikanske
+statistikkar har vist kjønnsforskjellar på ulike prestasjonar, der
+gutar var overrepresenterte blant dei som gjorde det best. Her var
+ikkje grunnen at gutane i snitt var betre; dei hadde berre større
+varians, og vart såleis overrepresenterte i begge endane av skalaen!
+
+1 Alt materialet i boka er basert på
+
+tidligare artiklar som Wainer har skrive,
+hovudsaklig i tidsskriftet Chance. Dette
+første kapittelet er basert på ein artikkel
+i American Scientist. Søker du etter The
+Most Dangerous Equation på nettet, vil
+du trulig finna ein pdf-versjon for
+nedlasting. Eventuelt kan du bruka
+doi-en 10.1511/2007.65.1026 for å
+komma direkte til artikkelen i American
+Scientist dersom du eller institusjonen
+din abonnerer på dette.
+
+2 Merk at her er det òg andre store
+
+fallgruver å gå i. Om eit stort sjukehus,
+som Rikshospitalet, har mange fleire
+komplikasjonar eller dødsfall ved ein
+type inngrep, tyder ikkje dette at
+sjukehuset er dårlig. Det kan faktisk
+vera det beste sjukehuset for denne
+typen inngrep, slik at høgrisikopasientar alltid vert sendt her. Desse
+har flest komplikasjonar og dødsfall, og
+rett konklusjon er motsett enn det ei
+naiv tolking av statistikken tilseier!
+
+15
+
+
+
+Me har sett korleis den «farlige formelen» kan føra oss på
+feilspor i skulepolitikken, men Wainer har òg fleire kapittel
+om statistikk i skulesamanheng, med eksempel på kva som
+kan gå gale når ein skal tolka testdata. I usa viste det for
+eksempel seg at svarte gjorde det dårligare enn kvite på den
+store nasjonale sat-prøven. Men samanlikna ein elevar med same
+poengskår, viste det seg kvite gjorde det betre enn svarte på dei
+lette spørsmåla, mens svarte gjorde det betre enn kvite på dei
+vanskelige spørsmåla. Ein konkluderte med at det fanst ein etnisk
+eller sosial bias, slik at sat-testen måtte reviderast. Wainer viser
+at grunnen heller er måten ein gjer samanlikninga på3 , og den
+foreslåtte endringa ikkje ville gjera testen meir rettferdig; han ville
+berre gjera resultata meir usikre! Kanskje noko å ha i bakhovudet
+om det her på berget skulle dukka opp forslag om revidering
+av dei nasjonale prøvane fordi resultata indikerer at utforminga
+diskriminerer for eksempel eitt av kjønna?
+Elles er innhaldet i kapitla svært varierte – ekstrapolering,
+diskretisering av talmateriale, forbetringar av grafiske
+presentasjonar av data, og av uvisse i data. Her presenterer
+forfattaren ikkje nødvendigvis den fullstendig løysinga, men
+peiker heller på problem og skisserer mulige løysingar eller
+forbetringar.
+Siste del av boka er ulike interessante, statistiske glimt frå
+historia. Korleis har statistisk tenkemåte vore brukt, og kva er
+opphavet til nokre av dei statistiske (grafiske) verktøya me no
+har? Her viser Wainer fleire interessante og sjeldne grafiske
+framstillingar, som òg finst som eigne fargesider (resten av boka
+er i svartkvitt). Det er fleire godbitar, men eg likar spesielt Francis
+Galtons kart frå 1883, som ved hjelp av fargar viser kva delar av
+verda ein kunne nå frå London på så og så mange dagar, med
+raskaste rute og alle tilgjengelige transportmiddel4 . For eksempel
+kunne ein nå vestkysten av Australia på 30–40 dagar, mens det
+ville ta over 40 dagar å komma til austkysten eller innlandet. Var
+det her Jules Verne fekk idéen til boka Jorda rundt på 80 dagar,
+undrar Wainer. Eller var det kanskje omvendt?
+Picturing the Uncertain World: How to Understand, Communicate,
+and Control Uncertainty through Graphical Display er ei bok med
+mykje innsikt; det er ei bok å bli klok av. Ho er skriven for å
+kunna lesast av ikkje-statistikarar, og med nokre få unntak unngår
+Wainer formlar; det er konsepta som er det viktige. Likevel er
+nokre av emna såpass avanserte at det nok hjelper å ha hatt
+minst eit innføringskurs i statistikk, og iallfall vera fortruleg med
+omgrep som forventingsverdi og standardavvik.
+Det einaste ved boka eg vil kritisera, er at noko av stoffet er litt
+for usa-orientert, og variasjonen i omfang og nivå på dei ulike
+kapitla er litt for stor. Dette er naturlig, sidan store delar av boka
+er henta frå tidligare artiklar og oppsamla erfaringar, men sjølv
+om alle kapitla handlar om variasjon og uvisse på ein eller annan
+måte, skulle eg ønskt meg ein noko kraftigare raud tråd. Men
+dette er småplukk; det er ei flott bok, som eg varmt anbefaler!
+16
+
+3 Merk at problemet er langt frå
+openbart, og Wainer gjer simuleringar
+for å rimeliggjera at effekten er reint
+statistisk.
+
+4 Det er verdt å merka seg at det gjekk
+
+over hundre år før denne idéen på ny
+tok tak, og først dei siste åra, med
+frigjering av kartdata og utvikling av
+frie kartresursar, har det dukka opp
+liknande grafiske framstillingar. Prøv
+for eksempel old.isokron.com,
+www.triptropnyc.com eller
+www.walkscore.com/transit-map.php.
+
+Wainer H. (2009). Picturing the Uncertain
+World: How to Understand, Communicate,
+and Control Uncertainty through
+Graphical Display. Princeton University
+Press. isbn 978-0-691-13759-9
+
+
+
+meldinger
+Nytt fra Norges teknisk-naturvitenskapelige universitet
+Ph.d.-disputaser høsten 2011
+Haakon Michael Austad (28. november)
+Approximations of Binary Markov Random Fields
+Veileder: Håkon Tjelmeland
+Komité: Professor Geir Storvik, Department of Mathematics,
+University of Oslo; Senior Lecturer Merrilee Hurn, University
+of Bath, Claverton Down, Storbritannia; Førsteamanuensis Jo
+Eidsvik, Institutt for matematiske fag, ntnu
+
+http://urn.kb.se/resolve?urn=
+urn:nbn:no:ntnu:diva-14922
+
+Øyvind Salvesen (1. desember)
+Statistical Models in Ice Hockey
+Veileder: Håvard Rue.
+Komité: Professor Paul Fearnhead, Department of Mathematics
+and Statistics, Lancaster University, Storbritannia; Professor
+Jostein Lillestøl, Institutt for Foretaksøkonomi, Norges
+Handelshøyskole, Bergen; Førsteamanuensis Mette Langaas,
+Institutt for matematiske fag, NTNU, Trondheim
+
+Nye ph.d.-studenter høsten 2011
+Václav Slimáček – veileder: Bo Lindqvist
+Geir Arne Fuglstad – veileder: Håvard Rue
+Erik Solbu – veileder: Steinar Engen
+
+Workshop
+2nd Workshop on Bayesian Inference for Latent Gaussian Models with
+Applications blir avholdt på ntnu Gløshaugen 30. mai–1. juni
+2012. For registrering og mer informasjon, se hjemmesiden
+http://lgm2012.r-inla.org/.
+
+Masteroppgaver 2011
+Aaserud, Stein
+Residuals and Functional Form in Accelerated Life Regression Models
+Veileder: Bo Lindqvist
+
+http://urn.kb.se/resolve?urn=
+
+Borgan, Yngve
+Using the Composite Likelihood Method on 4D AVA Seismic Data
+Veileder: Jo Eidsvik
+
+http://urn.kb.se/resolve?urn=
+
+urn:nbn:no:ntnu:diva-13091
+
+urn:nbn:no:ntnu:diva-13577
+
+Bull, Bendik
+Analyse av risikoen for rente- og aksjeporteføljer med LIBOR Market
+Modellen
+Veileder: Jacob Laading
+17
+
+
+
+Ellingsen, Ask
+Modelling correlated financial time series
+Veileder: Håvard Rue
+Fuglstad, Geir-Arne
+Spatial Modelling and Inference with SPDE-based GMRFs
+Veileder: Finn Lindgren og Håvard Rue
+Grude, Lillian
+Risk Factors for Breast, Uterine and Ovarian Cancer: A competing Risks
+Analysis
+Veileder: Bo Lindqvist
+Halvorsen, Gaute
+Numerical Solution of Stochastic Differential Equations by use of Path
+Integration: A study of a stochastic Lotka-Volterra model
+Veileder: Arvid Næss
+
+http://urn.kb.se/resolve?urn=
+urn:nbn:no:ntnu:diva-13725
+
+http://urn.kb.se/resolve?urn=
+urn:nbn:no:ntnu:diva-13572
+
+http://urn.kb.se/resolve?urn=
+urn:nbn:no:ntnu:diva-14421
+
+Helgesen, Ole Thomas
+Analysis of portfolio risk and the LIBOR Market Model
+Veileder: Jacob Laading
+
+http://urn.kb.se/resolve?urn=
+
+Hellton, Kristoffer Herland
+Stochastic Models for Smoothing Splines: A Bayesian Approach
+Veileder: Daniel Simpson og Håvard Rue
+
+http://urn.kb.se/resolve?urn=
+
+urn:nbn:no:ntnu:diva-13090
+
+urn:nbn:no:ntnu:diva-13724
+
+Husby, Håkon
+Statistical modeling of maintenance on offshore oil and gas installations
+Veileder: Bo Lindqvist
+Kristiansen, Thomas
+Analysis of dominance hierarchies using generalized mixed models
+Veileder: Jarle Tufto
+Le, Minxian
+Prediction of large price changes in the energy market using extreme
+value statistics
+Veileder: Arvid Næss
+
+http://urn.kb.se/resolve?urn=
+urn:nbn:no:ntnu:diva-13335
+
+http://urn.kb.se/resolve?urn=
+urn:nbn:no:ntnu:diva-14146
+
+Lien, Karianne
+Stochastic programming in aluminium recycling
+Veileder: Jo Eidsvik
+Lien, Tonje Gulbrandsen
+Statistical Analysis of Quantitative PCR Data
+Veileder: Mette Langaas
+Nilssen, Yngvar
+Survival Analysis using Integrated Nested Laplace Approximations: A
+Case Study of House Sparrows from Aldra
+Veileder: Ingelin Steinsland
+Oshaug, Christian A.J.
+Lévy Processes and Path Integral Methods with Applications in the
+Energy Markets
+Veileder: Arvid Næss
+18
+
+http://urn.kb.se/resolve?urn=
+urn:nbn:no:ntnu:diva-13094
+
+http://urn.kb.se/resolve?urn=
+urn:nbn:no:ntnu:diva-13332
+
+http://urn.kb.se/resolve?urn=
+urn:nbn:no:ntnu:diva-13730
+
+
+
+Skjong, Morten
+An Application of the ACER Method to Norwegian Water Level Data: A
+Comparison of Return Level Estimates
+Veileder: Arvid Næss
+
+http://urn.kb.se/resolve?urn=
+urn:nbn:no:ntnu:diva-13496
+
+Sneltvedt, Tommy
+Sequential value of information for Markov fields
+Veileder: Jo Eidsvik
+Stenshorne, Kim
+A Framework for Constructing and Evaluating Probabilistic Forecasts of
+Electricity Prices: A Case Study of the Nord Pool Market
+Veileder: Ingelin Steinsland og Turid Follestad (sintef Energi)
+Thalberg, Hege
+A Comparison Study of Different Optimizing Criteria and Confounding
+Patterns For Multi-Level Binary Replacement and Other Designs Used
+in Computer Experiments
+Veileder: John Tyssedal
+Østgård, Eirin Tangen
+Statistical Modeling and Analysis of Repeated Measures, using the
+Linear Mixed Effects Model
+Veileder: Mette Langaas
+
+http://urn.kb.se/resolve?urn=
+urn:nbn:no:ntnu:diva-13333
+
+http://urn.kb.se/resolve?urn=
+urn:nbn:no:ntnu:diva-14418
+
+http://urn.kb.se/resolve?urn=
+urn:nbn:no:ntnu:diva-13092
+
+Nytt fra Universitetet for miljø- og biovitenskap
+Nye doktorgrader
+Guro Dørum
+Knowledge-based methods handling complex dependency structures –
+Applications to gene expression data
+Veiledere: Solve Sæbø (hovedveileder) og Lars Gustav Snipen
+(medveileder)
+Julia Isaeva
+Multivariate analysis as a tool for understanding and reducing
+complexity of mathematical models in systems biology
+Veiledere: Solve Sæbø (hovedveileder) og Harald Martens og John
+A. Wyller (medveiledere)
+
+Nytt fra Avdeling C ved Matematisk institutt, UiO
+Avhandlinger
+Steffen Grønneberg disputerte 18. november 2011. Tittel for
+avhandlingen var Some applications of stochastic process techniques
+to statistics, og for prøveforelesningen Dependence modelling via
+copulas.
+Bedømmelseskomitéen besto av første opponent Johan Segers,
+Institut de statistique, biostatistique et sciences actuarielles,
+
+http://projects.nr.no/sfi/images/
+e/e8/Lecture_groenneberg.pdf
+
+19
+
+
+
+Université catholique de Louvain; andre opponent Irène Gijbels,
+Statistics Section, Katholieke Universiteit Leuven; og administrator
+Anders Rygh Swensen, Department of Mathematics, Universitetet
+Oslo. Veileder var Nils Lid Hjort.
+
+Nye mastergrader
+Joachim Holth
+Merton’s portfolio problem, constant fraction investment strategy and
+frequency portfolio balancing
+Veileder: Fred Espen Benth
+Nikita Moratchevski
+Sekvensiell optimering av oljeproduksjon under usikkerhet
+Veileder: Veileder: Arne Bang Huseby
+
+Nytt fra Universitetet i Bergen
+Ny mastergrad
+Magne Solheim
+Stokastisk volatilitet
+Veileder: Hans Julius Skaug
+
+20
+
+http://urn.nb.no/URN:NBN:no-30168
+
+http://urn.nb.no/URN:NBN:no-30324
+
+
+
+underholdning
+Lett underhaldning
+Karl Ove Hufthammer | Bergen
+
+Ekstrapolering
+To statistikarar var på flytur til ein statistikkonferanse. Brått kjende
+dei eit lite dunk, og kapteinen opplyste over høgtalaranlegget at
+dei hadde mista ein flymotor. Men dette var ikkje noko problem,
+då det var tre igjen; turen ville berre ta 4 timar i staden for 2. Ei
+stund etter kom det eit nytt dunk, og kapteinen opplyste om at
+dei hadde mista ein motor til. No ville det ta 9 timar å komma
+fram. Statistikarane uroa seg ikkje. Dette var upraktisk, men dei
+ville likevel rekka konferansen – med god margin. Dunk! «Me
+mista den tredje motoren, men slapp av: flyet klarar fint å fly på
+éin motor; det vil berre ta 20 timar å komma fram.» Den eine
+statistikaren vender seg då til den andre: «Håpar me ikkje mistar
+den siste motoren òg. Då vert me verande her oppe for alltid!».
+
+Conditional Risk
+
+http://xkcd.com/795/
+
+Pussig statistikk
+I Vatikanet er det i snitt to pavar per kvadratkilometer. Og viss
+me legg alle statistikarar etter kvarandre langs ekvator, så er me
+endelig kvitt dei! ,
+Til slutt var det fangen som fekk velja mellom fengsel i 100 år
+eller på livstid. Han valde livstid, då det statistisk sett vart kortare!
+21
+
+
+
+ABC
+
+D AE F F F
+
+A
+B
+
+CDE F
+
+F C
+
+A
+
+E
+
+AB CC D E F
+F
+
+F
+C
+
+D
+&
+
+(
+
+D
+
+A
+
+C F! C
+#E C
+D C $ C% C%
+A A C E A A
+
+E C A
+
+"
+
+F
+
+D$
+
++C
+
+,-
+
+C D
+F C
+0 C C A$
+" "$
+C&$CD! E '" D
+
+. C
+
+F
+
+2
+
+( D F
+
+3
+
+FC' D DDC C% ( D F
+C F
+C
+C C E
+D
+C!
+D
+C A C
+D /
+D
+"#$
+D%
+
+/
+
+C
+
+B
+
+B 1E
+C$ D
+
+C EF
+C " DD
+*
+
+C C
+
+)
+
+*
+
+( D FFC A
+
+D( " D "
+
+E D$
+
+C
+
+D
+
+D# )*
+
+D
+
+E
+DC1F / D
+A +" # E ,- " .
+C
+
+*
+
+!C $
+
+& E
+
+% C
+
+C
+
+( D F
+
+(EF C% C
+
+*
+
+C ! C
+
+3
+
+&F 1
+FC!#
+
+D B D
+
+F C C 0
+0C *
+A D 6% ( D F
+B / 0A C
+"
+1 2
+! C
+C
+(
+E
+3 4
+" - "
+
+DC C
+!
+
+F
+
+7EF
+
+F " !)
+
+D
+
+C
+C
+C
++ AC
++ DC
+
+$
+#C
+
+! E '"5D 6C&
+
+F
+
+E B
+
+# 8 $
+# #
+
+$ 9 D "&
+
+D
+C
+C C
+
+: :;
+0
+C
+F
+C
+C C F
+C
+C C F
+C
+
+45
+
+C C
+
+! 7C C F C8 FC
+D
+% F
+DC C
+F
+. FE * *BC 8 C 9
+D C B A
+C ( D F
+7
+CD C
+D6 D E C D
+D
+
+7EF C
+D$
+$$
+
+C
+
+F
+
+7
+
+C #C C
+E6
+
+C C
+
+" D
+
+5
+
+55
+
+
+
+ABC
+
+D AE F F F
+
+A
+BCD
+
+E EF CB
+E C C
+A B C DAEFE
+
+D
+
+C
+
+E
+
+AE C
+C
+C
+A F AA
+
+C
+
+A
+
+E E EFC
+E
+
+E
+
+CE C
+
+AF
+
+A BC
+
+E ACB A E
+
+C
+
+CD
+D
+
+E
+E C CD E E C
+D! FE EFC
+$ %
+C
+C&E C E E AC
+EF F
+FC
+
+!
+
+"#
+
+C
+
+"
+
+E
+
+E C$E A
+C C
+E E C(
+F DF "A#$ C "EF E !E A
+
+E C
+
+F
+
+C' +C
+
+E%
+
+F C C*
+C' +C
+C
+EE
+E A
+& %E ' EF% ( ) *AA C (A
+
+D
+
+F C
+!
+AAB
+
+E
+
+A C
+! E C C
+E
+E% CB E E C
+C
+A E EC
+AF !
+
+'
+
+C
+
+E
+
+BC'
+E E
+
+E
+
+A C(
+
+C( !
+
+F C
+
+B
+0
+
+*
+&
+
+C
+
+A C
+! E E E C C(E E
+E C* A
+E C
+EFE
+1 E E 2
+C
+3 !
+
+C1
+A4 E E,E C
+
+C
+
+E
+
+C
+
+CD! E
+
+FB
+
+E C-E C
+FE C C C
++ E
+* A%E+ EFE $E E C * AFA ' , E-E
+CD E EF C/
+&
+.F -E B C / E *0 ,
+
+C
+
+C
+
+E
+
+E
+
+)
+
+,)
+F
+
+E
+
+E
+
+EA
+
+.
+
+"
+
+"
+
+..
+.
+
+$ B AF $E A 5
+( E CD FE C C1
+EF CD
+/E E CD E EF CD FE
+2 & AE CD E EF CD FE
+D& E CD E EF CD FE
+
+E EF
+
+
+
+informasjon
+Årskontingent for 2012
+Medlemskontingenten i nsf er kr 200,– per år for ordinære
+medlemmer, mens mastergradsstudenter får gratis medlemskap.
+På adresselappen bakpå bladet står det anført siste år vi har
+mottatt kontingent fra deg. Sjekk adresselappen! De som ikke har
+betalt for tidligere år gjør dette sammen med kontingenten for
+2012. Dersom du mener betalingsinformasjonen ikke stemmer, gi
+beskjed til clara-cecilie.gunther@nr.no. Dersom arbeidsgiveren
+din betaler kontingenten, sørg for at navnet ditt kommer med på
+innbetalingen.
+De største utgiftspostene for nsf er overføringer til lokallagene
+i Oslo, Bergen og Trondheim, utdeling av Sverdrup-prisen, nsfs
+medlemskap i The European Mathematical Society (ems) og the
+International Statistical Institute (isi), trykking og utsending av tg
+og utgifter i forbindelse med diverse arrangementer – blant annet
+støtte til studenter ved deltakelse på det norske statistikermøtet.
+For at medlemsregisteret skal være best mulig oppdatert, er
+det viktig at du oppgir eventuell ny post- eller e-postadresse, ved
+å sende meg en e-post. Vi har også opprettet en egen e-postliste
+for nsfs medlemmer, nsf-medlemmer@math.uio.no. Dersom du
+ikke mottar e-post fra denne lista, send meg din oppdaterte
+e-postadresse.
+Betalingsfrist for innbetaling av kontingent er 15.04.2012.
+Vennligst oppgi hvem kontingenten gjelder for ved innbetaling.
+
+http://www.euro-math-soc.eu/
+http://isi-web.org/
+
+Clara-Cecilie Günther
+Kasserer nsf
+Telefon: 22 85 25 63
+Konto: 0530 27 73299
+Betalingsinformasjon
+
+GIRO
+
+Betalingsfrist
+
+15.04.2012
+
+Underskrift ved girering
+
+Kontingent NSF 2012 for [Navnet ditt]
+
+Betalt av
+
+Betalt til
+
+NSF ved Clara-Cecilie Günther
+Norsk Regnesentral
+Postboks 114 Blindern
+0314 Oslo
+Belast
+konto
+Kundeidentifikasjon (KID)
+
+H
+
+Kvittering
+tilbake
+
+Kroner
+
+200
+
+Øre
+
+Til konto
+
+00
+
+0530 27 73299
+
+Blankettnummer
+
+
+
+
+
+Avsender
+Norsk statistisk forening
+v/Clara-Cecilie Günther
+Norsk Regnesentral
+Postboks 114 Blindern
+0314 Oslo
+
+Redaksjon
+Anne Marie Fenstad
+Karl Ove Hufthammer
+Bård Støve
+
+
+

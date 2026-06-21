@@ -1,0 +1,1074 @@
+ISSN 0803-8953
+TILFELDIG
+GANG
+Nr. 2, årgang 28
+Juni 2011
+
+Utgitt av Norsk Statistisk Forening
+INNHOLD
+Fra lederen, Magne Aarset . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Fra redaksjonen, Sven Ove Samuelsen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Side
+3
+4
+
+Innlegg
+Lesebrev fra Milano, Ingrid K. Glad. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+A few words on Bernstein - von Mises theorem in survival analysis, Jana Timková . . . . . . . . . . . . . . .
+NR-blogg, Mathilde Wilhelmsen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5
+7
+9
+
+Møter og konferanser
+Det 16. Norske Statiskermøtet NSF2011 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Planlagte møter i Norge . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+10
+12
+
+Scandinavian Journal of Statistics
+Innholdsfortegnelse volum 38, nummer 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Innholdsfortegnelse volum 38, nummer 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+13
+14
+
+Puslerispalten
+Løsning av pusleri nr. 31, Jostein Lillestøl . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Pusleri nr. 32, Jostein Lillestøl . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+15
+15
+
+Norsk Statistisk Forening
+Årsberetning 2011 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Regnskap for 2010 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Referat fra årsmøte 2011, Clara-Cecilie Günther . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+17
+20
+22
+
+Meldinger
+Nytt fra Universitetet i Oslo, Avd. C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Nytt fra Universitetet i Oslo, Avd. for biostatistikk . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Nytt fra Universitetet i Bergen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Nytt fra Norges teknisk-naturvitenskapelige universitet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Nytt fra Universitetet for miljø og biovitenskap . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+23
+24
+24
+24
+24
+
+Årskontingent Norsk Statistisk Forening 2011 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+26
+
+
+
+
+
+3
+
+Det er meg en glede å gratulere hele foreningen med et nytt styre og, ikke minst, en ny
+leder av styret - og dermed leder av foreningen. Det gleder meg også at
+gjennomsnittsalderen (om enn ikke medianen) i det nye styret er betraktelig lavere enn
+i den ”gamle” styret (selv om denne betegnelsen gir dårlige assosiasjoner hos meg). Jeg
+har det håp at de nye og yngre kreftene kanskje ikke bare medfører evolusjon, men også
+litt revolusjon. (Jeg må med skam innse at jeg har ikke har gjennomført noe
+revolusjonerende nytt i mine perioder som leder for foreningen.) Jeg tror imidlertid at
+vi trenger noe ”revolusjonerende nytt” nå! (Beklager Jo, men jeg prøver med litt ekstra
+press .)
+Det er for meg et paradoks at jeg fremdeles råder mine gode studenter, som jeg gjorde
+for over 25 år siden, at hvis en arbeidsgiver søker etter en ”statistiker”, så ikke søk på
+jobben uten det er andre statistikere allerede ansatt. Moralen er at de ”uvitende” som
+søker etter en statistiker ofte ønsker en som kan registrere noen tall og rapportere disse
+– en slags ”revisor”. Jeg anbefaler fremdeles mine gode studenter i stedet å søke på
+stillinger som går under betegnelsen ”analytiker”, eller kanskje rett og slett ”leder”?
+Jeg mener derfor, som nevnt i flere av mine tidligere ledere her i TG, at vi statistikere har
+et kommunikasjonsproblem. Jeg tror at vi kan og forstår mye – hovedsakelig basert på
+vår kunnskap om abstrakte (matematiske) modeller -, men ”folk skjønner ikke hvor
+flinke vi er”. Et klassisk eksempel kan være at når Granli-utvalget ble nedsatt for nesten
+40 år siden for å vurdere om Norge burde satse på atomkraft, så var mange grupper
+inkludert (inkl. husmødre) i gruppen, men ingen statistikere som var eksperter på
+sannsynlighetsregning og statistiske metoder. Og slik jeg ser det, så er det faktisk ikke
+blitt noe bedre de seneste årene. Vi er misforstått utenfor våre snevre faglige
+omgivelser, og helt tilsidesatt blant folk flest. (Jeg minnes fremdeles min venninne som
+trodde jeg husket hele statistisk årbok fordi jeg jo ganske riktig studerte ”statistikk”.)
+Men mitt spørsmål som avtroppende leder av foreningen er selvfølgelig: Hvorfor er det
+blitt slik? Med det direkte oppfølgende spørsmål: Hvorfor har vi latt det bli slik?
+Hvordan ”markedsføres” vårt fag blant studentene? Ønsker vi ”middelhavsfarere”? Bør
+det være slik at bare de aller, aller beste får anledning til å spesialisere seg innen vårt
+fag? Jeg tror at kunnskap om vårt fag er viktig i samfunnet også utenfor universitetene
+og høyskolene. Jeg er overbevist om at personer som innehar viktige roller i samfunnet
+(nasjonalt som internasjonalt), bør ha en viss bakgrunn og forståelse for vårt fag.
+Men hvordan dette skal løses overlater jeg altså til det nye styret. Lykke til og takk til de
+gamle styremedlemmene, alle arrangementskomiteene, alle programkomiteene, ”gutta”
+i Sverdrupkomiteen, og alle dere andre for et flott samarbeid over flere år.
+Jeg håper og tror at Norsk Statistisk Forening fremdeles vil være en vital og spennende
+forening når jeg mimrer tilbake til denne perioden som den eldste gjenlevende
+statistiker om 50 år. Takk for meg! Takk til alle de som bidro til at foreningen kunne ta
+på seg de oppgaver den faktisk har gjort! Og lykke til – alle sammen! Vi ses på neste
+møte arrangert av Norsk Statistisk Forening! Jeg synes denne foreningen er viktig!
+Magne
+
+
+
+4
+
+Fra redaksjonen
+Da takker denne redaksjonen for TG, som har bestått av Ingrid Glad, Geir Storvik og
+undertegnede, for seg og overlater pinnen til neste redaksjon som vil holde til i Bergen(?).
+Dette er vårt TG nummer 5, dermed ett mindre enn forrige redaksjon, men tilsvarende andre
+redaksjoner de senere årene. Vi har i stor grad holdt oss til den mal de tidligere redaksjoner
+har lagt opp til, mest bestående av informasjon/nyheter men også noe faglig stoff.
+Vi ble litt forsinket med dette nummeret (også), så blant annet invitasjonen til det 16. norske
+statistikermøtet (eller conference som det i internasjonaliseringens ånd er blitt til) er noe
+malplassert. Men dette har den fordelen at vi kan gratulere med et meget vel gjennomført
+arrangement og program. Jeg var selv tilstede og hadde stor glede av kurset til Håvard Rue og
+Daniel Simpson samt inviterte og påmeldte foredrag på selve konferansen. Jeg har all grunn
+til å tro at de øvrige ca. 60 deltagerne oppfattet det på samme måte. Røros, som også var åsted
+for det første norske møtet, er jo et flott sted å legge tilstelningen på. Riktignok gjorde NSB
+sitt beste for å krongle til ankomsten for mange av oss som kom fra Oslo og omegn.
+Vi vil også gratulere den nye lederen for foreningen, Jo Eidsvik, med valget samt takke den
+avgående lederen Magne Aarset. Jeg føler et spesielt ansvar (skyld) i denne anledning siden
+det var meg som ”lurte” Magne til å stille opp i 2007. Og da det viste seg vanskelig å finne en
+ny leder i 2009, stilte han opp for enda en periode, så dobbelt takk til Magne. Antagelig har du
+den lengste regjeringstiden i foreningens historie.
+Framtiden for Tilfeldig Gang ble også diskutert på årsmøtet (nå også kjent som ”annual
+meeting”). SSB har begynt å be om betaling for trykkingen, noe som kan gjøre et vesentlig
+innhugg i foreningens - gode - økonomi og muligens lede til økning i den - meget lave kontingenten. Egentlig er det oppsiktvekkende at de ikke har gjort dette tidligere og vi skal
+være meget takknemlig for støtten som Byrået har gitt foreningen gjennom mange år. Uansett
+virket det som om stemningen på årsmøtet var stor for å fortsette utgivelsen av TG.
+
+Så da får vi med denne smule sommerlektyre ønske alle foreningens medlemmer en god ferie!
+
+Sven Ove Samuelsen
+
+
+
+5
+
+Reisebrev fra Milano
+Familien Glad/Frigessi, bestående av fru Glad og herr Frigessi, to barn på 8 og 11
+år, og en katt, la i september 2010 ut på langtur: Et halvt år i Milano, Italia, der
+de voksne var på forskningsopphold og barna gikk på italiensk skole. Her er
+Ingrids rapport til Tg's lesere:
+Ada på 8 fikk en stor bunke tegninger i posten til jul i Milano. Klassekameratene
+hennes i Oslo hadde tegnet, og nesten alle tegningene var variasjoner av Ada
+med paraplydrink, i hengekøye, spent opp mellom to palmetrær. Vi var jo i
+Syden, på en slags mystisk langferie... Oh, yeah:
+Milano er en stor, flat, trafikkert by med mye smog og mye regn. Barna kunne
+ikke snakke italiensk (men skjønte litt), og italiensk skole ligger mange år foran
+norsk når det gjelder pensum, og mange år bak når det gjelder pedagogisk
+opplegg. Så dette var beinhardt arbeid, spesielt for barna, men også for oss. De
+ble tatt meget vel imot både av barn og av voksne, og klarte seg etter hvert
+strålende. Men leksene var så lange og så mange at vi nok skulle ha hatt en
+hjemmeværende forelder på fulltid til å følge opp barna. For 6.-klassingen var
+lærebokspråket så avansert at min gode dagligitaliensk ikke alltid strakk til. Jeg
+ble i løpet av oppholdet svært ydmyk overfor alle som kommer til et nytt land og
+skal forstå og innordne seg et system på et fremmed språk. Vi hadde tross alt
+en innfødt pappa på laget, men ingen i hans familie har noen gang gått på vanlig
+offentlig skole, slik våre barn gjorde... vi skjønte for eksempel etter hvert at
+barna måtte ha med ikke bare eget skrivepapir, men også eget toalettpapir,
+hjemmefra.
+Om forholdene var kummerlige på skolene, var de voksnes omgivelser på San
+Raffaele-universitetet usedvanlig elegante. San Raffaele er et privat sykehus og
+universitet, som driver utdanning av leger, tannleger, psykologer og filosofer,
+men er mest kjent for sine fremragende forskningsmiljøer innen livsvitenskapene. Vi var gjester ved gruppen for biostatistikk, ledet av en effektiv
+dame ved navn Clelia di Serio, som sammen med en av sine ansatte hadde
+gjestet sfi(2) i Oslo året før. Biostatistikerne på San Raffaele samarbeider med
+alle mulige interne (og eksterne) forskningsgrupper, og har en fantastisk tilgang
+på interessante datasett og problemstillinger. Vi ble spesielt involvert i et
+genterapi-prosjekt, der vi analyserte data for hvor langs genomet forskjellige
+virus typisk integrerer seg. Disse virusene fungerer som transportører av
+reparerte gener, og det er viktig å finne virus som gjør jobben hensiktsmessig.
+For en som til vanlig sitter på Matematisk Institutt på Blindern, var det
+fascinerende å oppleve nærheten til biologene; hvis vi lurte på noe angående
+data eller problemstilling, var veien aldri lang til nærmeste kontor eller lab. Vi
+var også med i deres jevnlige 'dataklubb', der livs-forskerne dro frem datasett og
+problemer og statistikerne kommenterte og diskuterte, og kunne hoppe inn i
+prosjekter som virket interessante. Ellers gav vi og var vi på en del seminarer,
+og fikk innblikk i undervisning, organisasjon og universitetspolitikk i løpet av
+lange, varme lunsjer i kantinen. Studentene syntes meg storkrevende i forhold til
+det jeg er vant til fra UiO. Kanskje er det fordi de (deres foreldre) betaler så mye
+for å gå der? De sto i lange køer utenfor forelesernes kontorer, forlangte spesialbehandling på alle tenkelige grunnlag og klaget og kranglet for det minste. Selv
+
+
+
+6
+
+om San Raffaele er et rikt privatuniversitet (antakelig solid sponset av signor
+bunga-bunga-Berlusconi, som bruker sykehuset for seg og sine), hørte vi mye
+om de sedvanlige kampene om midler, stillinger, lokaler og posisjoner. Ved
+ankomst og avreise måtte vi i høytidelig audiens hos grunnlegger og rektor, en
+90 år gammel bannlyst prest med papegøyer på kontoret. Formålet var å snakke
+pent om vertskapet vårt, slik at biostatistikk-gruppen muligens kunne bli tildelt
+en stilling til eller noen kvadratmeter mer kontorplass. Det hadde de fortjent!
+I tillegg til San Raffaele, hadde vi også hvert vårt kontor hos Fabrizio Ruggeri på
+CNR (Det statlige forskningsinstituttet, avdeling for anvendt matematikk). Noen
+fellesprosjekter ble startet opp og vi takker for gjestfriheten også der! Å få jobbe
+i nye, uvante omgivelser er inspirerende og givende, og en unik mulighet vi på
+universitetene må være takknemlige for at vi har.
+Seks måneder i en helt ny setting er også en flott familieopplevelse. Barna fikk,
+tross en tøff start og mye slit, fornyet selvtillit, lærte masse, og setter nå enda
+mer pris på den norske, lekende skolehverdagen sin. Vi fikk mange hyggelige
+besøk fra Norge i helgene, med klimaks da hele klassen til Simon på 11 kom på
+besøk og vi hadde 13 gutter sovende på gulvet i stuen. Jentene og foreldrene
+sov på hotellet vegg i vegg med leiegården vi bodde i. Vi rakk helgeturer til
+Roma, Pompei, Pisa og Sardinia, og ble kjent med masse hyggelige folk både på
+jobb og i forbindelse med barna. Det er klart at USA, England og Australia er mer
+naturlige reisemål for forskningsopphold pga. språket, men jeg vil oppmuntre
+alle til å vurdere også andre muligheter i vår store, vide verden. God tur!
+Ingrid K. Glad,
+Matematisk Institutt, UiO
+
+Under dobbel helix på San Raffaele
+
+
+
+7
+
+A few words on Bernstein - von Mises theorem in survival analysis
+Jana Timková
+In 18th century Laplace was the first one to observe the fact that with growing sample size the posterior
+distribution of an Euclidian parameter, rescaled and centered around MLE, resembles a zero-mean normal
+distribution with variance equal to inverse Fisher information. This was ”found” again in the beginning of
+20th century by Bernstein [1] and futher explored by von Mises [10], subsequently this learning being named
+after them. Nowadays, with growing popularity of Bayesian methodology due to increasing computational
+possibilities and introduction of MCMC methods, this knowledge becomes actual again. The reasoning for
+the posterior distribution essentially turning into the distribution of a maximum likelihood estimator goes as
+follows: When the observations are generated from a distribution (parametrized by our unknown parameter,
+let’s say, θ) that is a function smooth enough in θ, we get the local asymptotic normality property and this
+in addition to some conditions on the prior distribution ensures the asymptotic√equivalence to a Gaussian
+model, i.e. the convergence of the posterior distribution of rescaled parameter n(θ̂ − θ0 ) to a normal distribution. More details on this account can be seen e.g. in van der Vaart [11].
+The situation gets more complicated when we deal with infinite-dimensional models where the choice of
+a suitable prior distribution is essential and even a seemingly well-built model can lead to improper results.
+Lots of attention has been paid to the consistency (or the lack of it) and asymptotic properties of estimators
+in such models (Diaconis and Freedman [5] and others). Recently, a positive breakthrough in the field of
+Bayesian non- and semi-parametric survival analysis was achieved in work of several authors, showing that
+the Bernstein-von Mises quality can indeed be obtained in non-parametric setting. Among others there is
+Kim and Lee’s result in i.i.d. case [8], Kim [7] in Cox model with constant covariates and De Blasi in his
+thesis [2] followed by papers with Hjort, [3] and [4], where they analysed Cox model with logistic relative risk
+and a competing risk model. They all established that under the neutral to the right priors respectively the
+Beta process priors for the cumulative hazard function, again the posterior distribution of the parameters
+centered around the MLEs is asymptotically equivalent to the sampling distribution of maximum likelihood
+estimators.
+This phenomenon is certainly fascinating on its own - firstly that the prior information vanishes with
+huge amount of data, and secondly it states that two different approaches, frequentist and Bayesian, can
+lead a statistician to the same result; but there also some practical prospects to it. When carrying out the
+Bayesian analysis of a datasets, often the exact posterior distribution can be rather complicated to work
+with and the normal approximation based on Bernstein - von Mises theorem as on a Bayesian CLT can come
+in handy. Further, the equivalence of asymptotic distributions can be helpful for construction of confidence
+bands for a functional parameter, as is e.g. a cumulative baseline hazard function or a survival function.
+Even though the frequentist asymptotic properties are well-known, it proved to be tedious to construct the
+exact confidence sets consequently leaving room to various approximations. For example, we know that the
+Kaplan-Meier estimator of a survival function converges to a Gaussian process with certain variance structure and ideally we would use the knowledge on Brownian motion to create the confidence bands - however,
+it’s not an easy task and often a pointwise confidence set or the Gill weighted band is used instead. Now
+we can toss among the plausible approximations also a Bayesian credibility set based on sufficiently large
+sample from posterior distribution which credence is warranted by equal limiting distribution. Here, once
+a sample from the posterior distribution is obtained the credible bands can be construct in various ways.
+Apart from simple pointwise construction based on sample quantiles on a time net it is possible to consider
+
+1
+
+
+
+8
+
+less traditional techniques as is the usage of the depth of functional data [9] or regression quantiles.
+Sometimes we are more interested in an estimator of a functional of estimated parameters, e.g. a median
+residual life or survival function under certain covariate values. As is nicely shown in Gill [6], when one
+explores the properties of the functionals of parameters the functional delta method hand in hand with
+Hadamard differentiability may serve a tool - and that goes both for frequentist and Bayesian asymptotics.
+My interest in Bayesian asymptotics and particularly in Professor Nils L. Hjort’s work was what brought
+me to Norway and I am very pleased I could spend a few fruitful and exciting months at University of Oslo.
+Most of the time I spent by working together with Nils Hjort on the properties of estimators in Aalen linear
+model.
+
+References
+[1] Bernstein, S. (1917): Theory of probability. In Russian.
+[2] De Blasi, P. (2006): Semiparametric models in Bayesian event history analysis using beta process, Ph.D.
+thesis.
+[3] De Blasi, P., Hjort, N. L. (2007): Bayesian survival analysis in proportional hazard models with logistic
+relative risk, Scand. J. Statist. 34, pp. 229 – 257.
+[4] De Blasi, P., Hjort, N. L. (2009): The Bernstein-von Mises theorem in semiparametric competing risks
+models, J. Statist. Planning Inf. Vol. 34, No. 4, pp. 1678 – 1700.
+[5] Diaconis, P., Freedman, D. (1986): On the consistency of Bayes estimates (with discussion), Ann. Statist.
+14, pp. 1 – 67.
+[6] Gill, R. D., Wellner, J. A., Prestgaard J. (1989): Non- and semi- parametric maximum likelihood estimators and the Von Mises method (Part 1), Scand. J. Statist. Vol. 16, No. 2, pp. 97 – 128.
+[7] Kim, Y. (2006): The Bernstein-von Mises theorem for the proportional hazard model. Ann. Statist. Vol.
+34, No. 4, pp. 1678 – 1700.
+[8] Kim, Y., Lee, J. (2004): A Bernstein-von Mises theorem in the nonparametric right-censoring model.
+Ann. Statist. Vol. 32, No. 4, pp. 1492 – 1512.
+[9] López-Pintado, S., Romo, J. (2009): On the Concept of Depth for Functional Data, J. Amer. Statist.
+Assoc. Vol. 104, No. 486, pp. 718 – 734.
+[10] Mises, R. von (1931): Wahrscheinlichkeitrechnung. Springer, Berlin.
+[11] Vaart, A. W. van der (2000): Asymptotic statistics (Cambridge Series in Statistical and Probabilistic
+Mathematics). Cambridge University Press.
+This work was supported by Yggdrasil grant from The Research Council of Norway.
+
+2
+
+
+
+9
+
+Regn med oss
+Vi på Norsk Regnesentral (NR) har siden sommeren 2010 hatt vår egen blogg, “Regn med
+oss”. Her vil vi dele noen av de sidene ved statistikk som vi tror kan ha allmenn interesse.
+Eksempler på det vi har blogget om til nå er:
+
+
+
+
+
+
+
+Kan statistikere spille lotto?
+Store tall
+Kommer Norge til fotball‐EM?
+Er nettpoker tilfeldig?
+Å lure med statistikk
+Uløselig matematikkoppgave?
+
+Det sistnevnte bloggeksempelet, “Uløselig matematikkoppgave?”, vekket stor interesse
+blant leserne. En av de ansatte på NR, Anne Randi, har en sønn i 5. klasse som kom hjem fra
+skolen en dag og var temmelig
+oppgitt etter en matteprøve. Han
+mente en av oppgavene var uløselig.
+Etter å ha lest gjennom den upresist
+formulerte oppgaven, måtte hans
+mor si seg enig. Senere, da prøven
+ble delt ut igjen ferdig rettet, viste
+det seg at hans forklaring om at
+oppgaven ikke var løselig, ikke ble
+godkjent av læreren. Mange lesere
+kommenterte dette blogginnlegget.
+En annen av våre bloggere, Anders, b le oppringt fra Dagsnytt atten under fotball‐VM i
+forbindelse med et blogginnlegg om vinnersjanser. Nå skal det sies at han ble dumpa til
+fordel for Jonas Gahr Støre, men allikeve l; vi kom nesten på nyhetene.
+Det er ikke alltid like lett å finne noen passende temaer å blogge om. D et bør ha noe med
+fagfeltet vårt å gjøre, og det bør interess ere “mannen i gata” (allerede her begynner det å bli
+vanskelig). Når det vi skriver om i tillegg ikke bør være for politisk betent eller vanskeliggjøre
+kundeforhold, snevres det inn ytterligere.
+Til tross for dette, har vi skrevet en del blogginnlegg. Innleggene legges ut to steder: på
+blog.nr.no og/eller forskning.no. Ikke alle innlegg kommer på nett begge steder. For
+eksempel hadde vi julenøtter kun på forskning.no.
+Sjekk ut bloggen vår da vel! Kanskje du lar deg inspirere til å starte en blogg selv
+På vegne av NRs bloggredaksjon, Mathilde Wilhelmsen
+
+
+
+10
+
+VELKOMMEN TIL NSF2011
+--det 16. norske statistikermøtet-http://www.math.ntnu.no/NSF2011/
+
+Det 16. norske statistikermøtet vil bli arrangert på Røros hotell, Røros, med
+forkurs 14. - 15. juni, og konferanse 15. - 17. juni 2011. Tidspunkt for start og
+avslutning av forkurs og konferanse er satt slik at det harmonerer med
+ankomst og avgang av tog til Oslo og Trondheim.
+Forkurset: «Bayesian Computing with
+Integrated Nested Laplace Approximation
+(INLA): theory and applications», blir holdt
+av Håvard Rue og Daniel P. Simpson
+(NTNU) og vil inneholde både teori og
+hands-on med R (deltakerne bør ta med
+laptop). Forkurset starter tirsdag 14. juni kl.
+15.00, og avsluttes kl. 12.30 onsdag 15.juni.
+Les mer om INLA fra http://www.r-inla.org
+Konferansen: Onsdag 15. juni kl. 15 starter konferansen, og den avsluttes
+etter lunsj fredag 17.juni kl. 14. Programkomiteen (Solve Sæbø, Sigrunn
+Holbek Sørbye, Ingunn Fride Tvete og Bård Støve) har satt sammen et
+spennende program. Vi vil få høre foredrag av de to Sverdrup-prisvinnerne
+Tore Schweder (Centre of excellence for ecology and evolutionary
+synthesis/UiO) og Ida Scheel (Statistics for Innovation/Norsk Regnesentral). I
+tillegg kan vi glede oss til å høre psykolog Helge Brovold
+(Renatesentret/NTNU) fortelle om de indre faktorer som virker inn på
+studentenes mestring av matematikkfaget og Helge Drange (UiB/Bjerknes
+Centre for Climate Research) snakke om klima og statistikk. Det vil i tillegg bli
+rundt 20 påmeldte foredrag!
+Årsmøte i NSF: blir avholdt onsdag 15. juni kl. 18.35.
+
+
+
+11
+
+Sosialt: I tillegg til det stimulerende
+samværet med kolleger blir det
+velsmakende mat, og mulighet for å
+utforske Røros - over og under bakken.
+Kanskje blir det også tid til en
+fotballkamp? Torsdag 16. juni kl. 16.30
+kan du delta på byvandring i Røros eller
+på tur til Olavsgruva (med forbehold om
+tilstrekkelig antall påmeldte).
+Konferansemiddagen blir avholdt på
+Røros hotell torsdag 16. juni kl. 20.
+Priser: se «Registration form» på
+NSF2011-siden for alle priser. Kort fortalt
+så koster forkurset 750 NOK og
+konferansen 900 NOK for NSFFoto: Sigurd Gartmann
+http://www.flickr.com/photos/sigurdga/
+medlemmer. Priser for helpensjon på
+Røros hotell er 1420 NOK på enkeltrom,
+1185 NOK på dobbeltrom og 1030 NOK på 3-mannsrom.
+Påmelding: Husk påmeldingsfristen - som er 17. mai (hipp hipp hurra)! Du
+kan melde deg på også etter denne datoen, men da har konferanse/kursavgiften økt med kr 300 og du må du selv ta kontakt med Røros hotell for å
+bestille rom (se informasjon fra NSF2011-siden).
+Sponsorer av konferansen: Vi retter en stor takk til Norsk Regnesentral og til
+Telemarkgruppen som sponser konferansen.
+Programkomiteen: består av Solve Sæbø (UMB, leder), Sigrunn Holbek
+Sørbye (UiTø), Ingunn Fride Tvete (Norsk Regnesentral) og Bård Støve
+(NHH).
+Med vennlig hilsen
+Arrangementeskomiteen ved NSF avdeling Trondheim:
+Gabriele Martinelli, Jo Eidsvik og Mette Langaas.
+
+
+
+12
+
+Møter under planlegging
+
+GEOSTATS 2012 (Ninth International Geostatistics Congress, Oslo, Norway)
+GeoStats 2012 vil bli arrangert i Oslo 11-15 Juni 2012, se www.geostats2012.no.
+Arrangementskomite er Petter Abrahamsen, Henning Omre, Arnoldo Frigessi, Ørnulf Borgan,
+Ragnar Hauge, Odd Kolbjørnsen, Richard Sinding-Larsen og Øivind Lie
+ISEC2012 i Oslo 4. -6. Juli 2012.
+Den 3. ISEC (International Statistical Ecology Conference) vil bli arrangert på Sundvollen
+med CEES (Center for ecological and evolutionary synthesis) som vertsinstitusjon.
+Programkomiteen ledes av Eric Rexstad som har med seg Steve Buckland, Tore Schweder,
+Carl Schwartz, Byron Morgan og Torbjørn Ergon. Organisasjonskomiteen ledes av Geir
+Storvik som har med seg Tore Schweder, Torbjørn Ergon, Trond Reitan og Jayne Lambrou.
+
+ISCB33 i Bergen 19.-23. august 2012.
+En lokal organisasjonskomité for 33rd Annual Conference of the International Society for
+Clinical Biostatistics er etablert bestående av Jan Harald Aarseth, Jörg Assmus, Ågot Irgens,
+Jan Terje Kvaløy, Tore Wentzel-Larsen, Stein Atle Lie og Geir Egil Eide. Ivar Heuch er
+assosiert medlem. Konferansen vil bli holdt i Grieghallen med mottakelse i Håkonshallen.
+En programkomité er også under etablering med Odd Aalen som leder.
+
+Fra redaksjonen: TG tar gjerne imot meddelelser om andre møter som er under planlegging.
+
+
+
+13
+
+SCANDINAVIAN JOURNAL OF STATISTICS
+Volume 38 • Number 1 • March 2011
+Contents:
+
+Page
+
+Inference for Lévy-Driven Stochastic Volatility Models via Adaptive Sequential
+Monte Carlo
+Ajay Jasra, David A. Stephens, Arnaud Doucet & Theodoros Tsagaris
+
+1
+
+Efficient Covariance Estimation for Asynchronous Noisy High-Frequency Data
+Markus Bibinger
+
+23
+
+Efficient Estimation of an Additive Quantile Regression Model
+Yebin Cheng, Jan G. De Gooijer & Dawit Zerom
+
+46
+
+Comparing Conditional Quantile Curves
+Holger Dette, Jens Wagener & Stanislav Volgushev
+
+63
+
+Series Estimation in Partially Linear In-Slide Regression Models
+Jinhong You, Xian Zhou & Yong Zhou
+
+89
+
+Estimators Based on Data-Driven Generalized Weighted Cramér-von Mises Distances
+under Censoring – with Applications to Mixture Models
+Eric Beutner & Laurent Bordes
+
+108
+
+Maximum Entropy Approximations for Asymptotic Distributions of Smooth Functions of
+Sample Means
+Ximing Wu & Suojin Wang
+
+130
+
+Testing for Equivalence of Means under Heteroskedasticity by an Approximate Solution
+of a Partial Differential Equation of Infinite Order
+Martin Bachmaier
+
+147
+
+ROC Curves in Non-Parametric Location-Scale Regression Models
+Wenceslao González-Manteiga, Juan Carlos Pardo-Fernández & Ingrid Van Keilegom
+
+169
+
+Published on behalf of:
+Danish Society for Theoretical Statistics
+Finnish Statistical Society
+Norwegian Statistical Society
+Swedish Statistical Society
+
+
+
+14
+
+SCANDINAVIAN JOURNAL OF STATISTICS
+Volume 38 • Number 2 • June 2011
+Contents:
+
+Page
+
+Papers from 23rd Nordic Conference on
+Mathematical Statistics
+SJS Lecture
+On Future Directions in Statistical Methodologies – Some Speculations
+Elja Arjas
+
+185
+
+Comment
+Reflections on Future Directions
+Ulf Grenander
+
+195
+
+T Estimation for High-Dimensional Linear Mixed-Effects Models Using ℓ1-Penalization
+Jürg Schelldorfer, Peter Bühlmann & Sara Van De Geer
+
+197
+
+The Double Gaussian Approximation for High Frequency Data
+Per A. Mykland & Lan Zhang
+
+215
+
+Original Articles
+Measurement Error Correction by Exploiting Gene–Environment Independence in
+Family-Based Case–Control Studies
+Annamaria Guolo
+
+237
+
+Buckley–James Type Estimator for Censored Data with Covariates Missing by Design
+Menggang Yu
+
+252
+
+Choice of Estimators Based on Different Observations: Modified AIC and LCV Criteria
+Benoit Liquet & Daniel Commenges
+
+268
+
+Goodness-of-Fit based on Downsampling with Applications to Linear Drift Diffusions
+Julie L. Forman, Bo Markussen & Helle Sørensen
+
+288
+
+On the Product of Inverse Wishart and Normal Distributions with Applications to
+Discriminant Analysis and Portfolio Theory
+Taras Bodnar & Yarema Okhrin
+On the Optimality of Multivariate S-Estimators
+Christophe Croux, Catherine Dehon & Abdelilah Yadine
+On the Flexibility of Metropolis–Hastings Acceptance Probabilities in Auxiliary Variable
+Proposal Generation
+Geir Storvik
+
+311
+
+332
+
+342
+
+On a Class of Random Probability Measures with General Predictive Structure
+Stefano Favaro, Igor Prünster & Stephen G. Walker
+
+359
+
+An Extension of Sampford’s Method for Unequal Probability Sampling
+Lennart Bondesson & Anton Grafström
+
+377
+
+Published on behalf of:
+Danish Society for Theoretical Statistics
+Finnish Statistical Society
+Norwegian Statistical Society
+Swedish Statistical Society
+
+
+
+15
+
+Pusleri nr. 31 (løsning)
+Oppgaven var: I en fotballturnering deltar åtte lag, fire av disse er seedet foran de andre fire. Det spilles
+cup, og første runde (kvartfinalen) er oppsatt slik at hvert seedet lag møter et useedet. Anta at sannsynligheten
+for at et seedet lag slår et useedet er p>1/2, og at i kamper mellom likt seedede lag har begge sannsynlighet ½
+for å vinne. Hva er sannsynligheten for at
+(a) Et gitt (u)seedet lag når finalen
+(b) Et gitt (u)seedet lag vinner
+(c) Et (u)seedet lag når finalen
+(d) Et (u)seedet lag vinner
+
+Løsning:
+La oppsettet for de fire kvartfinalene være (a1 , b1), (a2 , b2), (a3 , b3), (a4 , b4), der a betyr
+seedet og b useedet, og fotskrift er nummeret til gruppen/kampen. Anta at semifinalene er
+satt opp som (Vinner 1, Vinner 2) og (Vinner 3, Vinner 4). La q=1-p
+(a) Laget må vinne oppsatt kvartfinale og deretter vinne semifinalen, der en må betinge med
+hensyn på hva slags vinner (seedet eller useedet) som vinner den tilhørende oppsatte
+gruppe. Vi får
+Ai=ai kommer til finalen, P(Ai) = p∙(p∙ ½+q∙p)=p2(1+2q)/2=r
+Bi=bi kommer til finalen, P(Bi) = q∙(q∙ ½+p∙q)=q2(1+2p)/2=s.
+La Ci=lag fra gruppe nr. i kommer til finalen, Da er P(Ci)= P(Ai)+ P(Bi)=r+s=1/2, som det
+bør være, siden vi har seks (”fire over to”) mulige kombinasjoner av (kvartfinale)grupper
+for de to finalelag som må være like sannsynlige, og tre av disse har lag fra gruppe nr. i.
+(b) For å vinne turneringen må en komme til finalen og vinne denne, som krever betinging
+med hensyn til hva slags lag som blir motstander i finalen, seedet eller useedet. På grunn
+av oppsettet er det fire mulige motstandere, to av hvert slag. Vi får
+Ai*=ai vinner turneringen P(Ai*) = r∙(r∙½+ r∙½+s∙p+s∙p) = r∙(r +2sp).
+Bi*=bi vinner turneringen P(Bi*) = s∙(s∙½+ s∙½+r∙q+r∙q) = s∙(s +2rq).
+Ci*=lag fra gruppe nr. i vinner turneringen. Da er P(Ci*)= P(Ai*)+ P(Bi*)=1/4 (som sjekk)
+(c) A= seedet lag i finalen P(A) =P(A1 ᴜA2 ᴜA3 ᴜA4)= 4r-4r2=4r(1-r)
+B=useedet lag i finalen P(B) = 4s-4s2=4s(1-s)
+Dette beregnes ved summen av de fire P(Ai)=r minus P(Ai∩Aj)=r2 for de fire tillatte
+kombinasjoner (der begivenhetene blir uavhengige), og tilsvarende for P(B).
+(d) A*= seedet lag vinner turneringen P(A*) =4∙P(Ai*) pga. union av disjunkte begivenheter
+B*=useedet lag vinner turneringen P(B*) = 4∙P(Bi*)
+
+
+
+16
+
+Sannsynligheten for at seeded lag vinner som funksjon av p
+
+Pusleri nr. 32
+
+Tegn en linje og en sirkel som berører linjen i punktet O. Avsett fra punktet O langs linjen en lengde X
+trukket fra normalfordelingen N(0,1). Endepunktet i positiv eller negativ retning kaller vi P. Fra
+punktet P trekker vi en tilfeldig rett linje, som i figuren krysser sirkelen i punktene A og B.
+Hva er sannsynlighetsfordelingen til produktet av avstandene PA og PB, gitt at linjen krysser sirkelen?
+
+B
+
+A
+
+O
+
+P
+
+Løsning til
+Jostein.lillestol@nhh.no
+
+
+
+17
+
+Årsberetning for Norsk statistisk forening
+for perioden 2009 - 2011
+
+Tillitsverv
+Det fant i perioden sted noen utskiftninger, men ved utgangen av perioden var følgende
+tillitsverv besatt:
+
+Styret i Norsk statistisk forening
+ Leder: Magne Aarset, Høyskolen i Ålesund/ Handelshøyskolen BI
+ Kasserer: Clara-Cecilie Günther, Norsk regnesentral
+ Styremedlem: Alf Harbitz, Havforskningsinstituttet i Tromsø
+ Styremedlem: Guri Feten, Universitetet for miljø- og biovitenskap, Ås
+ Styremedlem: Jo Eidsvik, NTNU, Trondheim
+ Varamedlem: Tore Wentzel-Larsen, Haukeland universitetssykehus, Bergen
+ Varamedlem: Gunnhildur H. Steinbakk, Universitetet i Oslo
+
+Styret i Norsk statistisk forening, avdeling Oslo
+ Leder: Ingunn Fride Tvete, Norsk Regnesentral
+ Kasserer: Tor Cato Gjerdingen, Storebrand
+ Sekretær: Marion Haugen, Universitetet i Oslo
+ Webansvarlig: Ståle Nygård, Ullevål Universitetssykehus og Rikshospitalet
+ Styremedlem: Hege Marie Bøvelstad, Universitetet i Oslo
+ Styremedlem: Nils F. Haavardsson, Det Norske Veritas
+
+Styret i Norsk statistisk forening, avdeling Bergen
+ Styreleder: Anne-Marie Fenstad, Haukeland Universitetssykehus
+ Sekretær: Ågot Irgens, Haukeland Universitetssykehus
+ Kasserer: Terje Schaathun, Vital forsikring
+ Styremedlem: Astrid Lunde, Universitetet i Bergen
+
+Styret i Norsk statistisk forening, avdeling Trondheim
+ Leder: Stian Lydersen, NTNU
+ Sekretær: Rupali Akerkar, NTNU.
+ Kasserer: Jo Eidsvik, NTNU
+ Styremedlem: Ola Eirik Mo, SONOWAND AS.
+
+
+
+18
+
+Scandinavian Journal of Statistics
+ Redaktører: Bo Lindqvist, NTNU, Trondheim og Ørnulf Borgan, Universitetet i Oslo
+ Nasjonal redaktør for Norge: Håvard Rue, NTNU, Trondheim
+ Norsk styremedlem: Hans Julius Skaug, Universitetet i Bergen
+Redaksjon i medlemsbladet Tilfeldig Gang
+ Ingrid Glad, Universitetet i Oslo
+ Sven Ove Samuelsen, Universitetet i Oslo
+ Geir Storvik, Universitetet i Oslo
+
+Sverdrup-komité
+ Magne Aarset, Høyskolen i Ålesund/ Handelshøyskolen BI
+ Sven Ove Samuelsen, Universitetet i Oslo
+ Arnoldo Frigessi, Universitetet i Oslo
+Revisorer
+ Alfhild Lien Eide, Statoil, Trondheim
+ Georg Elvebakk, Universitetet i Tromsø
+
+Dessuten har medlemmer av foreningen etablert arrangementskomitéer og programkomitéer
+for henholdsvis det 15. norske statistikermøtet i 2009, for 23rd Nordic Conference on
+Mathematical Statistics i 2010 og det 16. norske statistikermøte i 2011.
+
+Medlemsskap og økonomi
+Foreningen har (per 1. juni 2011) 274 medlemmer.
+Per 31.12.2010 hadde foreningen kr. 43 606,73 på driftskontoen og kr. 315 319,45 på
+fondskontoen (se vedlagte regnskap).
+
+
+
+19
+
+Styremøter
+Styret har i perioden diskutert aktuelle saker per epost. Viktige saker i perioden 2009 - 2011
+har vært som følger.
+
+Det 16. norske statistikermøtet
+Det 16. norske statistikermøtet arrangeres på Røros Hotel, Røros 14. - 17. juni 2011. Dette
+møtet markerer foreningens 75-års jubileum. Møtet innledes med et ”INLA course” holdt av
+Håvard Rue.
+Arrangementskomitéen er fra Norsk statistisk forening, avdeling Trondheim og består av
+Mette Langaas, Gabriele Martinelli og Jo Eidsvik.
+Programkomitéen har bestått av Solve Sæbø (Universitetet for miljø- og biovitenskap),
+Ingunn Tvete (Norsk regnesentral), Sigrunn Sørbye (Universitetet i Tromsø) og Bård Støve
+(Universitetet i Bergen)
+
+23nd Nordic Conference on Mathematical Statistics
+Sommeren 2010 arrangerte Norsk statistisk forening den 23rd Nordic Conference on
+Mathematical Statistics. Arrangementskomitéen var fra avdelingen i Bergen med Dag
+Tjøstheim som leder. Programkomitéen hadde hovedvekt fra avdelingen i Trondheim med
+Håvard Rue som leder.
+
+Scandinavian Journal of Statistics
+SJS publiseres hvert kvartal på vegne av the Danish Society for Theoretical Statistics, the
+Finnish Statistical Society, the Norwegian Statistical Society and the Swedish Statistical
+Society.
+
+Medlemsbladet Tilfeldig Gang (TG)
+Det ble utgitt 6 nummer av TG. Statistisk sentralbyrå, ved Johan Heldal, har sørget for
+trykking og utsendelse av TG. Alle medlemsbladene er tilgjengelige på Norsk statistisk
+forenings hjemmeside.
+
+Sverdrup prisene
+Sverdup-pris komitéen delte i 2009 ut Norsk statistisk forenings Sverdrup-pris til en
+fremragende representant for statistikkfaget og Norsk statistisk forenings Sverdrup-pris for
+unge forskere med beste artikkel til henholdsvis Dag Tjøstheim og Sara Martino. I 2011 gikk
+Sverdrup-prisene til henholdsvis Tore Schweder og Ida Scheel.
+
+
+
+20
+
+Oversikt over inntekter og utgifter til Norsk statistisk forening 2010
+Regnskap, foreningen
+Kontonr. 0530 2773299, Postbanken
+Inntekter
+Kontingent
+Medl.kont EMS, individuell
+Renter
+Totale inntekter, foreningen
+
+36 610,00
+185,00
+48,86
+36 843,86
+
+Utgifter
+Vedlikehold av nettsider
+Gebyr
+Overføring lokalforeninger
+Utgifter kasserer
+Porto, Tilfeldig Gang
+Refusjon reiseutgifter studenter, NORDSTAT 2010
+Medl.kont EMS
+Medl.kont EMS, individuell
+Tilbakebetaling kontingent
+
+2 850,00
+254,00
+12 000,00
+179,00
+4 465,94
+3 188,00
+3 425,11
+187,57
+1810
+
+Totale utgifter, foreningen
+
+28 359,61
+
+Resultat
+
+8 484,25
+
+Beholdning pr. 31.12.09
+Beholdning pr. 31.12.09
+Inntekter 2010
+Utgifter 2010
+
+35 122,48
+36 843,86
+28 359,61
+
+Total beholdning, foreningen 31.12.2010
+
+43 606,73
+
+
+
+21
+
+Regnskap, fond
+Kontonr. 8200 730927, DnB Nor
+Inntekter
+Renter
+Totale inntekter, fond
+
+5 714,96
+5 714,96
+
+Utgifter
+0,00
+Resultat
+Beholdning pr. 31.12.09
+Beholdning pr. 31.12.09
+Inntekter 2010
+Utgifter 2010
+Total beholdning, fond 31.12.2010
+Oslo, 25.04.2011
+Clara-Cecilie Günther (kasserer)
+
+5 714,96
+
+309 604,49
+5 714,96
+0,00
+315 319,45
+
+
+
+22
+
+Referat fra landsmøte i Norsk statistisk forening
+Røros Hotell, Røros, 15. juni 2011 kl 18.35-18.50. Møtet ble holdt i forbindelse med det 16.
+norske statistikermøtet.
+1.
+2.
+3.
+4.
+
+Innkalling og saksliste ble godkjent.
+Jo Eidsvik ble valgt til møteleder og Clara-Cecilie Günther til referent.
+Møteleder gikk gjennom årsberetningen for 2009-2011.
+Kasserer gikk gjennom regnskapet for 2009 og 2010. Utgifter i forbindelse med det
+15. norske statistikermøtet førte sammen med utdelingen av Sverdrupprisen til
+underskudd i 2009. Økonomien er likevel god, da fondet til foreningen har godt med
+midler.
+5. Ingen innkomne forslag, men to saker ble tatt opp av møteleder.
+a. Styret ønsker at man før neste valg har en valgkomite som foreslår leder og
+nye styremedlemmer. Det nye styret vil ta videre initativ til å gjøre dette.
+b. TGs fremtid ble diskutert. Fra og med første nummer 2011 må foreningen
+betale for trykking av TG. Sammen med portoutgifter utgjør dette rundt 6000
+kr pr nummer. Styret ønsket derfor synspunkter på hvorvidt TG blir lest og om
+medlemmene ønsker å få bladet på papir eller om en elektronisk versjon er
+tilstrekkelig. Ulike synspunkter kom fram, der noen ønsker papirutgaven, mens
+andre mener at man selv kan skrive ut det man ønsker å lese. En mulighet for å
+dekke inn økte kostnader er å øke kontingenten eller endre vedtektene til
+fondet slik at mer midler kan tas derfra. Det generelle inntrykket var at TG blir
+lest. Det nye styret vil fortsette diskusjonen internt.
+6. Jo Eidsvik, NTNU, ble valgt som ny leder ved akklamasjon. Anders Løland, NR, og
+Bård Støve, UiB, ble valgt inn som nye styremedlemmer ved akklamasjon. Hanne
+Rognebakke, NR, ble godkjent som en av to nye revisorer. Bergensavdelingen tar
+ansvar for å finne ny redaksjon og redaktør for TG. Det nye styret vil finne en andre
+revisor i ettertid. Dette blir godkjent.
+Fra det gamle styret fortsetter Clara-Cecilie Günther, NR, som kasserer, Alf Harbitz,
+Havforskningsinstituttet i Tromsø, som styremedlem og Gunnhildur Steinbakk, NR, og Tore
+Wentzel-Larsen, Regionsenter for barn og unges psykiske helse, som varamedlemmer.
+
+
+
+23
+
+Nytt fra avdeling C, matematisk institutt, UiO
+Avhandlinger
+Monica Kristiansen forsvarte 31. mai 2011 sin avhandling
+A component-based approach for assessing reliability of compound software.
+Bedømmelseskomité: Dr. Peter Popov, Centre for Software Reliability, City University
+London , Dr. Siv Hilde Houmb, Secure NOK, Professor Bo Lindqvist, Matematisk institutt,
+Universitetet i Oslo/NTNU
+Veileder: Dr. Rune Winther, Professor Bent Natvig
+
+Nye Master-kandidater:
+Naeimeh Radnia: Analysis of recurrent event data using Poisson and renewal type models
+Veileder: Ønulf Borgan
+Girmay Zerom Godefay: Analysis of stillbirth rates during pregnacy
+Veileder: Sven Ove Samuelsen
+Kjell Andreas Solberg: Optimalisering av oljeproduksjon under usikkerhet
+Veileder: Arne Bang Huseby
+Pål Nordby: A combined structural/statistical texture analysis of monolayer ovarian cancer
+cell nuclei
+Veileder: Fritz Albregtsen
+Didier Darwin Niteka: Model robustness of interest-rate guarantees
+Veileder: Fred E. Benth
+Navreet Kaur: Classifications of children with ADHD, bipolar spectrum disorders (BD)
+and comorbid ADHD and BD
+Veileder: Ørnulf Borgan
+Anahitha Rahimi: The impact of World War II on the cancer rates in Norway
+Veileder: Ørnulf Borgan
+Bård Øyvind Kvaal: Spatio-temporal model for Plague dynamics
+Veileder: Geir Storvik
+Øyvind Bleka: Romlig analyse av lammevekter
+Veileder: Geir Storvik
+Hilde Galleberg Johnsen: Regularized parameter estimation and the choice of tuning
+parameters
+Veileder: Nils L. Hjort og Arnoldo Frigessi
+Navdeep Singh: Dynamisk uføremodellering: En norsk studie
+Veileder: Erik Bølviken
+Hanne Kirkenær Ellingsen: Usikkerhet ved levetidsfremskrivninger
+Veileder: Erik Bølviken
+Lars Sevald Leknes: Approximation of forward prices in electricity markets
+Veileder: Fred E. Benth
+
+Nyansettelser:
+Natalie Støer er ansatt som stipendiat fra 15. februar 2011, Veileder: Sven Ove Samuelsen
+
+
+
+24
+
+Nytt fra Avdeling for biostatistikk, UiO
+Avhandlinger
+Jon Michael Gran forsvarte 18. februar 2011 sin avhandling
+Infectious disease modelling and causal inference
+for graden ph.d. Tittel på prøveforelesningen var How to handle time varying covariate effects in survival analysis.
+Bedømmelseskomité: Professor Robin Henderson, School of Mathematics and Statsitics, University of Newcastle, Professor Åke Svensson, Mathematical Statistics, Stockholm University,
+Professor emeritus Lars Walløe, IMB, Universitetet i Oslo
+Veileder har vært Odd Aalen, Avdeling for biostatistikk.
+
+Nyansettelser
+Øystein Sørensen er ansatt som stipendiat fra 11. april 2011.
+
+Nytt fra Universitetet i Bergen
+Ny mastergrad:
+Niejing Willgohs: Hierarchical Bayesian survival analysis of age-specific data from birds’
+nests.
+Veileder: Ivar Heuch
+
+Ansettelse:
+Dr.scient Bård Støve er ansatt som førsteamanuensis i statistikk ved matematisk institutt.
+Assisterende forskningssjef ved Norsk Regnesentral Kjersti Aas er ansatt som professor II
+i statistikk ved matematisk institutt.
+
+Nytt fra NTNU
+Nye Master:
+Anders Nesbakken: Evaluation of Modern Design Methods for use in Computer Experiments.
+Veileder: John Tyssedal
+
+Nye PhD studenter:
+Rikke Ingebrigtsen har begynt på PhD studiet (Vinter 2011). Veileder: Ingelin Steinsland
+Geir-Arne Fuglstad begynner på PhD studiet (Sommer 2011). Veileder: Håvard Rue
+
+Nytt fra Universitetet for miljø- og biovitenskap
+Nyansettelser
+Thore Egeland er ansatt som Professor i statistikk ved Institutt for Kjemi, bioteknologi
+og matvitenskap
+
+
+
+25
+
+
+
+26
+
+Norsk Statistisk Forening
+
+Kasserer: E-mail: clara-cecilie.gunther@nr.no
+
+Tlf: 22 85 25 63
+
+Postgirokonto: 0530 27 73299
+
+_____________________________________________
+
+Årskontingent Norsk Statistisk Forening 2011
+Medlemskontingent i NSF er kr. 200,- pr. år for ordinære medlemmer (mastergradsstudenter får gratis medlemskap). På
+adresselappen bakpå TG står det anført siste år vi har mottatt kontingent fra deg. Sjekk adresselappen! De som ikke har
+betalt for tidligere år gjør dette sammen med kontingenten for 2011. Dersom du mener betalingsinformasjonen ikke
+stemmer, gi beskjed til clara-cecilie.gunther@nr.no.
+NB: Dersom din arbeidsgiver betaler kontingenten, sørg for at navnet ditt kommer med på innbetalingen.
+Hva gjør vi med pengene?
+De største utgiftspostene for NSF er overføringer til lokallagene i Oslo, Bergen og Trondheim, NSFs medlemskap i the
+European Mathematical Society (EMS) og the International Statistical Institute (ISI), utsending av TG, og utgifter i
+forbindelse med diverse arrangementer (bla. støtte til studenter ved deltakelse på det norske statistikermøte).
+Medlemsregister
+For at medlemsregisteret skal være best mulig oppdatert er det viktig at du oppgir evt. ny post/e-postadresse ved å sende
+meg en e-post. Vi har opprettet en egen mailingliste for NSFs medlemmer, nsf-medlemmer@math.uio.no. Dersom du ikke
+mottar e-post på denne lista, send meg din oppdaterte e-postadresse.
+Betalingsfrist for innbetaling av kontingent er 1. mars 2011. Vennligst oppgi hvem kontingenten gjelder for ved
+innbetaling.
+PÅ FORHÅND TAKK!
+Vennlig hilsen
+Clara-Cecilie Günther
+Kasserer NSF
+
+Kontingent NSF 2011: kr. 200
+
+01.03.2011
+
+NSF v/ Clara-Cecilie Günther
+Norsk Regnesentral
+Postboks 114, Blindern
+0314 Oslo
+
+0530 27 73299
+
+
+
+
+
+RETUR:
+Norsk Statistisk
+Forening
+v/Clara-Cecilie Günther
+Norsk Regnesentral
+Postboks 114, Blindern
+0314 Oslo
+
+B
+
+Redaksjon:
+Ingrid K. Glad
+Sven O. Samuelsen
+Geir Storvik
+
+
+

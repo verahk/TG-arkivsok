@@ -1,0 +1,3138 @@
+ISSN 0803-8953
+
+TILFELDIG GANG
+Nr. 3, årgang 11
+
+September 1994
+
+Utgitt av Norsk Statistisk Forening
+
+Fra redaktøren. Inge Helland
+
+Fra formannen. Eivind Damsleth
+Minneord
+Erik Nikolai Torgersen: 1935-1994. Bo Lindqvist og Anders Rygh Swendsen
+
+Faglig stoff
+John Graunt (1620-1674). Henrik Dahl
+Bokanmeldelse: P.K. Andersen, Ø. Borgan, R.D. Gill og N. Keiding:
+Statistical Models Based on Counting Processes. Nils Lid Hjort
+
+Bokanmeldelse: G. Blom, L. Holst og D. Sandell: Problems and Snapshots
+from the World of Probability. Havard Rue
+Norske Gruppesesjons-innlegg på det nordiske statistikermøtet i Lund
+Inntrykk fra ICOTS 4. Jostein Lillestøl
+Journal of Statistics Education
+
+Konferanser
+
+Det 8. norske statistikermote, Asgardstrand, 12.-14. juni 1995
+21st European Meeting of Statisticians, Aarhus, 21-25 August 1995
+
+Det 20. Nordiske statistikermøtet, Ålborg, 2.-5. august 1995
+Meldinger
+Nytt fra Universitetet i Oslo
+Nytt fra gruppe for statistikk, NTH
+
+Medlemskap i Norsk Statistisk Forening
+Bidrag til TG
+
+
+
+
+
+Fra redaktøren
+
+Sensommerens store begivenhet ble den nordiske statistikerkonferansen i Lund i midten
+av august. Stor deltakelse fra alle land i et utvidet Norden (de baltiske landene gjør seg
+stadig mer gjeldende), gode foredrag og stor aktivitet på gruppene. Hovedforedragene
+var ved Peter Diggle (Analysis of longitudinal data) og Howell Tong (Chaos and
+statistics). Arrangørene hadde vært lovlig sent ute med å finne diskutanter til disse
+foredragene, men det var en situasjon som Steffen Lauritzen og Søren Johansen taklet
+med bravur. De norske gruppesesjons-innleggene er gjengitt senere i bladet. Av
+
+utenomfaglige ting lærte vi mest om Tycho Brahe, og dette under en sykkeltur på øya
+Ven i Øresund (250 gule sykler var leid ut til oss statistikere). Til opplysning: Det
+observasjonene fra denne øya som dannet utgangspunktet for Kepler da han arbeidet
+seg fram til sine velkjente lover. Eller, som en amerikansk turist hadde uttrykt det:
+"This is where the era of the cosmonauts began!"
+
+Et hyggelig mellomspill var redaktørmøtet i SJS. Tidsskriftet går godt både økonomisk
+og når det gjelder stoff-tilgang. Representanten for forlaget kalte SJS for et sunt
+tidsskrift.
+
+Vel hjemme er undervisningeni full gang. Jeg må innrømme at jeg hadde gruet meg litt
+denne gangen: Et dr.scient-kurs i forsøksplanlegging og variansanalyse for vel 30
+norske og 5 utenlandske studenter. Etter press fra utlendingene og deres venner har jeg
+lovet å holde forelesningene på engelsk, men det jeg var redd for, var at dette skulle
+virke rart i forhold til de norske studentene. Hittil ser det imidlertid ut til å ha gått
+
+brukbart. En forelesningsserie i statistikk på en landbrukshøyskole - selv på dr.scient.nivå - må nødvendigvis starte ut fra en del banale ting. Det som har slått meg i de siste
+dagene, er at de samme tingene langtfra virker like banale når de sies på engelsk. Er det
+vårt eget språk som virker forflatende? Eller er det bare slik at vi er vant til å lese og
+høre alle litt mer dyptpløyende diskusjoner på engelsk?
+
+Ellers, når det gjelder de pedagogiske aspektene av faget vårt, vises til innlegg av
+
+Jostein Lillestøl og en kopi av brosjyren for Journal of Statistics Education lenger inne i
+bladet.
+
+Inge Helland
+
+
+
+Fra formannen:
+
+SOMMEREN 1994 OG EKSTREMVERDISTATISTIKK
+Så skriver vi september, og sommeren 1994 er ugjenkallelig forbi. En sommer som, i
+
+hvert fall værmessig, har vært den beste i manns minne, særlig her sørpå.
+Som statistiker er det naturlig å interessere seg for vær og værstatistikk. Spørsmålet
+
+om forurensning, klimaendringer og ”global warming” har vært sentralt gjennom flere år.
+Selv om forurensningen i atmosfæren uomtvistelig har økt vesentlig er det, såvidt jeg vet,
+ikke påvist signifikante klimatiske endringer, i forhold til den naturlige klimavariasjon som
+har vært opp gjennom historien.
+
+Selv om ”gjennomsnittsværet” ikke har endret seg signifikant, kan det se ut som om
+
+variabiliteten har økt påfallende i de senere år. Ser man på meteorologiske ekstremer, er det
+påfallende mange som er registrert i løpet av de siste 5-10 år, selv om observasjonshistorien
+
+strekker seg over flere århundrer. Jeg har ikke foretatt noen form for formell analyse, men
+det ville vært interessant å sett en test av hypotesen om at været er blitt signifikant mer
+variabelt - nasjonalt eller globalt. Kanskje en utfordring til være meterologistatistikere?
+Den 15de nordiske konferansen i matematisk statistikk er vel til ende. Dessverre hadde
+
+jeg selv ikke anledning til å være med, men mine kilder forteller at konferansen var meget
+vellykket, både faglig, arrangementsmessig og sosialt. Takk til Svenska statistikersamfun-
+
+det og Lunds Universitet! Under konferansemiddagen inviterte professor Johan Fellman
+til den 16de nordiske konferansen, som (med stor sannsynlighet) vil bli holdt fra 3. juni
+1996 i Lahti. Før det er det imidlertid norsk statistikermøte i juni neste år!
+Ha en god, hyggelig og produktiv høst!
+26. august 1994
+
+Eivind Damsleth
+
+
+
+Erik Nikolai Torgersen: 1935-1994.
+
+Professor Erik Torgersen døde 25. januar i år. Selv om han hadde problemer med
+hjertet, og hadde gjennomgått en by-pass operasjon et par uker tidligere, kom dette
+svært overraskende. Han var etter forholdenei fin form, optimistisk og full av planer
+for framtiden. Han etterlater seg sin kone Liv og to voksne barn, Inger og Ole.
+
+Erik ble født 2. januar 1935 i Oslo og vokste stort sett opp der .
+av krigen bodde han i Nordmarka, der han gikk på en todelt skole.
+
+På slutten
+Skolegangen
+
+var heller en plage, og han valgte å ta gymnaset som privatist i 1953, med nokså
+middelmådig resultat.
+Samme høst begynte han å studere på Blindern. Planene var i første omgang å
+bli aktuar, men etterhvert skiftet han mening. Han ble cand.mag. i 1959 og begynte
+på hovedfag i statistikk.
+
+Høsten 1961 og våren 1962 var han ansatt ved Aarhus
+
+Universitet. Samtidig gjorde han ferdig hovedfaget og avla eksamen tidlig i 1962.
+Resultatene var nå langt fra middelmådige. Fra høsten 1962 var han universitetslektor ved Universitetet i Oslo. To år senere ble han universitetsstipendiat og dro
+høsten 1965 til University of California i Berkeley med sikte på å ta en Ph.D. Han
+avla eksamen høsten 1968 og var deretter *assistant professor” i Berkeley halvannet
+
+år. I 1970 kom han tilbake til Oslo, først som universitetslektor. Han ble utnevnt
+til dosent i 1973 og professor i 1978. Han ble innvotert som medlem av Det Norske
+Vitenskapsakademi i 1986.
+
+Erik var en internasjonalt anerkjent forsker. Fra 1977 var han norsk medlem av
+International Statistical Institute, og i 1984 ble han valgt til Fellow i Institute of
+Mathematical Statistics. Han var medredaktør i Scandinavian Journal of Statistics
+fra starten i 1974 til 1981, og var også blant annet medlem av redaksjonen i Journal
+of Statistical Planning and Inference .
+Vi ble kjent med Erik først som en inspirerende foreleser og engasjert veileder.
+
+Spesielt vil vi fremheve hans hovedfagskurs i "Sammenligning av eksperimenter.”
+Lesing av artikler var en viktig del. Disse var som regel av den tunge matematiske
+
+sorten, men den skoleringen Erik med dette ga oss studenter, har siden vist seg å
+være meget verdifull. Vi ble raskt brakt fram til forskningsfronten i Eriks spesialfelt.
+Sin mangeårige innsats i feltet kronet han i 1991 med en imponerende monografi *
+
+Comparison of Statistical Experiments ”, utgitt på Cambridge University Press.
+Senere, etterhvert som vi ble nærmere kjent, oppdaget vi hans andre positive
+egenskaper. Erik hadde mange interesser utover faget sitt. Hans kone Liv sier det
+slik i et brev vi har fått.
+
+“ Friluftslivet sto spesielt høyt. Nordmarka sto i en særstilling. Mylla området
+var for alltid hans etter skolegangen under krigen. Bøndene der oppe var gutteda-
+
+genes helter. Ingen annen yrkesgruppe kunne måle seg med dem. Fjellet og sjøen
+ble senere bekjentskaper. California gav ham nettopp muligheter til å forfølge også
+
+disse interessene. Han gikk cross-country skiing i California før andre fant på det.
+Mens havet var tiltrekkende for bading og vandringer langs stranden.
+
+Det finnes
+
+
+
+knapt den sti i the Bay-area som han ikke har vandret. Dette gjorde han så sent
+somi juli 1993. Hjemveien gikk om Japan. der hans interesse for friluftsliv var vel
+
+kjent.
+
+Professor I. Kusama ved The Waseda University i Tokyo arrangerte en to
+
+dagers fottur i høyfjellet utenfor Tokyo. Dette ble Eriks’s siste fottur.
+Erik hadde mange interesser innen naturvitenskap. Det spente fra fysikk, mekanikk,
+
+astronomi, kjemi til biologi. Historie, både nyere og eldre tid, var fasinerende lesning.
+Hans kunnskaper kunne være overveldende på omgivelsene. Hans kone Liv fant det
+i perioder vel anstrengende. Hans teoretiske kunnskaper var noen ganger bedre enn
+de rent praktiske. Han ble da minnet om, at dette, jo dette er en en-entydig avbilding. Eller når iveren ble som størst var det fristende å spørre * What happens on
+the boundary?” Han tok hintet.
+
+Likevel, det er å gjøre Erik urett om han blir stående i vår bevissthet kun som
+teoretiker. Husmannsplassen i Hurdal ble vel tatt vare på. Skogen skulle pleies, hele
+
+30 mål. Innmarken holdes i hevd. Ved- og tømmerhugsten sto han selv for.”
+
+- Det er ikke så mange som er fortrolige med hele Eriks vitenskaplige produksjon.
+Vi har derfor laget en oversikt over de viktigste av hans arbeider, og skal kommentere
+
+en del av resultatene og gjøre litt rede for bakgrunnen. Bare trykte arbeider er tatt
+med i oversikten.
+
+I [1], som er basert på hovedoppgaven , studerer han en enveis varianskomponent
+modell.
+
+Spesielt utleder han i det balanserte tilfellet en overalt sterkeste test for
+
+forholdet mellom variansene.
+
+Arbeidet [2] er Eriks første om suffisiens.
+
+Dette er et gjennomgående tema i
+
+mange av hans senere arbeider. I dette arbeidet fant han en betingelse for at ordningsobservatoren er minimalsuffisient i translasjons- og skalamodeller.
+
+I [4] konstruerte han et eksempel på at de rangbaserte Hodges-Lehmann estimatorene for en shift parameter ikke behøver å ha kontinuerlig fordeling selv om
+observasjonene har det.
+
+Arbeidet [3] er doktoravhandlingen, som ble publisert i sin helhet.
+
+Arbeidet
+
+er en omhyggelig studie av eksperimenter med et endelig antall parametre.
+
+For
+
+å beskrive bakgrunnen for arbeidet og sette resultatene inn i en naturlig ramme,
+
+er det nødvendig å si noen ord om hovedideene for teorien om sammenligning av
+eksperimenter.
+Denne teorien er en videreføring av Abraham Wald’s berømte arbeider innen
+
+statistisk desisjonsteori.
+
+Vi skal kort minne om de viktigste begrepene, som blir
+
+berørt nedenfor.
+Et statistisk eksperiment, eller en modell, består av at et tilfeldig utfall
+
+X ob-
+
+serveres, der sannsynlighetsfordelingen for X avhenger av en ukjent parameter Ø. I
+praksis er dette ofte et sett av fordelinger til en vektor av reelle tilfeldige variable.
+Problemstillingen i desisjonsteorien går ut på at en skal velge en beslutning d fra
+
+en på forhånd gitt mengde D av mulige beslutninger. Graden av *korrekthet” for
+beslutning d antas å være spesifisert ved en tapsfunksjon L(6,d), som angir beslut-
+
+ningstakerenes “tap” ved å treffe beslutning d når @ er den virkelige verdien av den
+ukjente parameteren. Informasjonen i X skal nå benyttes i valg av beslutning. Dette
+
+
+
+gjøres i form av en beslutningsregel, som for hver mulig realisasjon av X spesifiserer
+
+hvilken beslutning d(X) som skal velges. Godheten av beslutningsregelen d(-) måles
+ved det forventede tap ved å bruke regelen d(-) når 0 er verdien på den ukjente pa-
+
+rameteren. Dette kalles risikofunksjonen og er definert ved R(6, d(:)) = Eg L(0, d(X))
+La nå E og F være to eksperimenter med samme parametermengde. Den klas-
+
+siske definisjonen i teorien for sammenligning av eksperimenter sier at € er minst
+like informativ som F hvis det for ethvert beslutningsproblem og tilhørende beslutningsregel dr i F, finnes en beslutningsregel de i €, som er minst like god som dr i
+den forstand at
+
+R(0, de(:)) < R(0,dø(.)) for alle 9.
+Det viser seg imidlertid snart at denne ordningen sjelden er oppfyllt.
+
+(1)
+Dette
+
+motiverte Lucien Le Cam til å kvantifisere informasjonstapet om 6 ved å basere seg
+på € i stedet for på F. Han gjorde det ved å innføre den såkalte defisiensen for €
+
+med hensyn på F, betegnet med 6(€, F).
+Definisjonen av defisiens er en naturlig utvidelse av definisjonen for at et eksperiment er mer informativt enn et annet. Det går essensielt ut på at 6(€,F) defineres
+som det minste tall € > 0 som medfører at ulikheten (1) kan oppfylles for alle Ø og alle
+beslutningsregler, dersom € legges til på høyre side. For at dette skal gi mening ma
+en forutsette at tallverdien til de mulige tapsfunksjonene er høyst 1. Alle begrensede
+
+tapsfunksjoner kan imidlertid skaleres slik at dette kravet er oppfyllt. Defisiensen gir
+nå et kvantitativt uttrykk for informasjonstapet. Jo mindre € som skal til, jo mindre
+
+er informasjonstapet ved € i forhold til F. Spesielt svarer det at € er mer informativt
+
+enn F til at 6(€,F) = 0. Størrelsen A(E, F) = maks(6(E, F), 6(F,E)) definerer et
+avstandsmål mellom eksperimenter, og er avstanden mellom to eksperimenter null,
+sies de å være ekvialente.
+
+Det interessante er at ekvivalente definisjoner av 6(€,7) kan uttrykkes alternativt ved maksimum risiko, ved ytelsesfunksjoner for desisjonsregler, ved Bayes
+risikoer, eller ved randomiseringer. Dette ble vist av Le Cam, og representerer en
+
+generalisering av tidligere karakteriseringer av ulikheten (1). Spesielt vil randomiseringskriteriet gi at 6(€,F) = inf supg |PsM — Qe||, hvor infimum tas over alle
+randomiseringer M. En randomisering er her en fordeling over utfallsrommet til F
+
+for hvert punkt i utfallsrommet til €. En intuitiv fortolking av 6(€,F) er derfor at
+størrelsen angir i hvilken grad fordelingene i eksperimentet F kan reproduseres fra
+fordelingene i € ved myntkast eller en annen tilfeldig mekanisme.
+
+Som det fremgår av tittelen, studerte Erik i [3] eksperimenter med endelig parameterrom. Det første resultatet han utledet er en karakterisering av hvorvidt et
+eksperiment er e-defisient relativt til et annet når en begrenser seg til desisjonsprob-
+
+lemer der desisjonsmengden D har et gitt antall elementer. Et spesialtilfelle er når
+D har akkurat to elementer, og et viktig resultat er en karakterisering av e-defisiens
+
+i dette tilfellet. Resultatet er svært nyttig og har som konsekvens at to generelle
+
+eksperimenter € og F der parameterrommet ikke nødvendigvis er endelig, er ekvi-
+
+valente hvis sammenhengen melom målene av formen )
+>, ca Ps og >, ceQe definerer
+en isometri.
+
+
+
+Et annet viktig resultat i avhandlingen er en karakterisering av de eksperimentene
+som er ekstremalpunkter. Et viktig verktøy i denne forbindelse er at eksperimentene
+kan representeres som en bestemt type mål.
+
+For endelige parametermengder er
+
+dette de såkalte standardeksperimenter som ble introdusert av Blackwell i et av de
+første arbeidene på feltet. Det er essensielt et sannsynlighetsmål på simplekseni et
+
+Euklidsk rom. Erik viste i [3] at ekstremalpunktene for mengden av eksperimenter
+med endelig parameterrom, er de eksperimenter som er begrenset og komplette. I
+
+[8] vender han tilbake til dette problemet og viser at samme karakterisering gjelder
+for vilkårlige parametermengder, ikke bare de som er endelige.
+
+Artikkelen [5] behandler translasjonseksperimenter, dvs. eksperimenter der P(-) =
+P(- — 0) der P er et fast sannsynlighetsmål. Hovedresultatet her er at randomiseringskriteriet som ble nevt ovenfor, under generelle betingelser har formen 6(Ep, Fg) =
+
+inf, ||“ + P — Q||. Dette betyr at randomiseringen i dette tilfellet er en konvolusjon,
+og at en kan begrense seg til å betrakte målene P og Q som definerer translasjonseksperimentene.
+
+Arbeidet [7], som er en oversiktsartikkel, er basert på et invitert foredrag holdt
+på
+
+6. Nordiske Konferanse i Matematisk Statistikk i Lofthus i Hardanger i 1975.
+
+I [10 ] definerte Erik to informasjonsmål som henholdsvis A-avstanden til det totalt informative og det totalt ikke-informative eksperimentet. Han studerte deretter
+disse informasjonsmålene når antallet observasjoner økte og utledet en del resultater
+
+om konvergens-ratene.
+Erik var interessert i å konkretisere informasjonsmålene til vanlige statistiske
+modeller. Det første arbeidet av denne typen er [6] som han skrev sammen med sin
+student Ole Håvard Hansen. Her betraktet de lineær-normale eksperimenter gitt ved
+X1,-++; Xn, og Y1,..., Yn som alle er uavhengige normalfordelte med ukjent varians
+
+0? og forventning henholdsvis A'B og B'B der A’ og B' er n; x k og na x k matriser.
+Parametervektoren
+
+har dimensjon k x 1. Da er €4 minst like informativt som Eg
+
+hvis og bare hvis AA’ — BB’ er positivt semidefinit og ni > na +rang(AA' — BB’).
+Dette er et generelt resultat, som gjelder for flere desisjonsproblemer. I [12], som
+
+er skrevet sammen med Czeslaw Stepniak, studerer han problemet der en sammenligner lineære modeller ved å se på variansen til de beste lineære forventningsrette
+
+estimatorene i de ulike modellene. I [14] studerer han en rekke andre ordninger for
+
+lineære modeller. I [13] er det igjen ordningen knyttet til defisiensen som står i fokus,
+men denne gangen knyttet til utvalgsmodeller.
+Ved å utvide den desisjonsteoretiske rammen som ble skissert ovenfor ved ikke
+lenger å insistere pa at målene som definerer eksperimentene € og F skal vere
+
+sannsynlighetsmål, viser det seg at mange av resultatene kan generaliseres.
+
+Uti
+
+fra den desisjonsmessige tolkningen er dette mer formelle resultater som har begrenset interesse. Dette mer generelle oppsettet har imidlertid en parallell til det
+som benyttes i teori for majorisering, og har vist seg fruktbart å utnytte denne
+
+sammenhengen. Arbeidene [16], [18] og [22] dreier seg om dette.
+Arbeidene ovenfor om sammenligning av eksperimenter utgjør grunnlaget for
+monografien,
+
+*Comparison of Experiments” , som Erik gav ut i 1991. Her gav han
+
+en meget klar innføring i teorien for sammenligning av eksperimenter og summerte
+
+
+
+opp sitt eget bidrag fra arbeidene ovenfor. En av oss (B.L.) har tidligere anmeldt
+boka i TG (mars 1992). Vi regner med at den i lang tid kommer til å være en av de
+sentrale referansene på feltet.
+I slutten av 50-årene viste Bahadur at for dominerte modeller gjelder følgende:
+Hvis det for enhver reell funksjon av de ukjente parametrene som kan estimeres med
+
+en forventningsrett estimator med endelig varians også finnes en forventningsrett
+estimator med uniformt minimal varians, medfører dette at det finnes en kvadratisk
+komplett og suffisient observator. Dette er altså en omvendt form av det berømte
+
+Rao-Blackwell teoremet. Nå er ikke alle modeller dominerte, og Erik viste i [17] at
+Bahadurs resultat også gjelder i en mer generell modellklasse. Samme problemstilling hadde han vært opptatt av tidligere i [11], der han viste at med en mer generell
+definisjon av begivenheter og tilfeldige variable, gjelder Bahadurs resultat uten noen
+som helst krav til modelltypen.
+I [9] betraktes problemet med å ta en beslutning pa basis av observasjonen X
+når tapet avhenger av den ukjente parameteren, beslutningen og en ikke observerbar
+størrelse Y. Xo sies å være prediksjonssuffisient for X med hensyn på Y hvis Xo
+er suffisient for X, og X og Y er betinget uavhengige gitt Xo for alle parameterverdier. Prediksjonssuffisiens innebærer at desisjonsregler basert pa Xo er essensielt
+komplette for tapsfunksjoner som avhenger av den ukjente parameterverdien, beslutningen og Y. Erik viste at en mer generell form for prediksjonssuffisiens vil medføre
+at beslutninger basert på Xo er essensielt komplett for tapsfunksjoner av typen oven-
+
+for som er uavhengige av parameterverdien. Det omvendte var kjent tidligere, så
+han bidro her til en fullstendig beskrivelse av problemet.
+I [15], som er et fellesarbeid med Krishnan Unni, studerte han betingelser for eksistens av en komplett og suffisient observator i sensurerte eksponensielle fordelinger,
+og spesielt utledet de en presis nødvendig og tilstrekkelig betingelse for dette i sensurerte gammafordelinger.
+
+I et par av de senere arbeidene [19] og [20] var Erik oppttatt av sekvensielle problemer. Blant annet generaliserte han en optimalitetsegenskap for den sekvensielle
+sannsynlighetskvotetesten.
+
+Arbeidet [21] er en diskusjon om forholdet mellom informasjonsinnholdet i et
+eksperiment og det eksperimentet en får ved å betrakte alle de betingede sannsynlighetsmålene gitt et seleksjonssett S.
+
+
+
+Publikasjoner:
+Bok.
+Torgersen, E.N. (1991).
+
+Comparison of Statistical Experiments.
+
+Cambridge University Press.
+
+Artikler.
+[1]
+
+Torgersen, E. N. (1963). On a class of combined “one-way” classification (model IT)-
+
+[2]
+
+Torgersen, E. N. (1965). Minimal sufficiency of the order statistic in the case of
+translation- and scale parameters. Skand. Aktuarietidsskrift, 48 pp. 309-333.
+Torgersen, E. N. (1970). Comparison of experiments when the parameter
+space is finite. Z. Wahrscheinlichkeitstheorie verw. Geb., 16, pp. 219-249.
+Torgersen, E. N. (1971). A counterexample on translation invariant measures.
+
+[4]
+
+covariance models.
+
+Skand. Aktuarietidsskrift,
+
+Ann. Math. Statist.,
+
+46 pp. 167-172.
+
+42, pp. 1450-1451.
+
+[5]
+
+Torgersen, E. N. (1972). Comparison of translation experiments.
+
+[6]
+
+Hansen, O. H. and Torgersen, E. N. (1974). Comparison of linear normal
+
+[7]
+
+Torgersen, E. N. (1976). Comparison of statistical experiments.
+
+[8]
+
+Torgersen, E. N. (1977). Mixtures and products of dominated experiments.
+
+[9]
+
+Torgersen, E. N. (1977). Prediction sufficiency when the loss function does not
+
+[10]
+
+Torgersen, E. N. (1981a). Measures on infomation based on comparison with
+
+[11]
+
+Torgersen, E. N. (1981b). On complete sufficient statistics and
+
+Ann. Math. Statist., 43, pp. 1383-1399.
+experiments.
+
+Ann. Statist.,
+
+Scand. J. Statist.,
+Ann. Statist.,
+
+2, pp. 367-373.
+
+3, pp. 186-208.
+
+5, pp. 44-64.
+
+depend on the unknown parameter. Ann. Statist.,
+total information and with total ignorance.
+
+Ann. Statist., 9,pp. 638-57.
+
+uniformly minimum variance unbiased estimators.
+Di Alta Mathematica. Symposia Mathematica,
+
+[12]
+
+5, pp. 155-163.
+
+Instituto Nazionale
+
+XXV, pp. 137-53.
+
+Stepniak, C. and Torgersen, E. N. (1981). Comparison of linear experiments
+with known covariances.
+
+Scand. J. Statist.,
+
+8, pp. 183 -184.
+
+[13]
+
+Torgersen, E. N. (1982). Comparison of some statistical experiments associated
+with sampling plans. Probability and Mathematical Statistics, 3, pp. 1-17.
+
+[14]
+
+Torgersen, E. N. (1984). Orderings of linear models.
+
+[15]
+
+Torgersen, E. N. and Unni, K. (1984). Censored exponential models.
+
+[16]
+
+Torgersen, E. N. (1985). Majorization and approximate majorization for
+
+and Inference,
+Sankya,
+
+J. of Statist. Planning
+
+9, pp. 1-17.
+
+46 Series A, Pt. 1, pp. 1-23.
+
+families of measures. In Linear Statistical Inference.
+
+T. Calinski and W. Klonecki (eds.) Lecture notes
+in Statistics No. 35, pp. 247-310, Springer-Verlag, Berlin.
+
+
+
+[17]
+
+Torgersen, E. N. (1988). On Bahadur’s converse to the Rao-Blackwell theorem.
+
+[18]
+
+Torgersen, E. N. (1991). Stochastic orders and comparison of experiments.
+
+Extension to majorized experiments. Scand. J. Statist.,
+
+15, pp. 273-280.
+
+In Stochastic Orders and Decision under Risk. K. Mosler and M. Scarsini (eds.).
+IMS Lecture Notes-Monograph Series, Hayward CA, pp. 334-371.
+
+[19]
+[20]
+
+Greenstein, E. and Torgersen, E. N. (1993). Statistical information and
+expected number of observations for sequential experiments. Sendt til
+J. Statist. Planning and Inference.
+Torgersen, E. N. (1993a). More optimality of the sequential probability
+ratio test. Manuscript to be published in a book on Springer Verlag. D. Pollard,
+E. N. Torgersen and G. L. Yang (eds.)
+
+[21]
+
+Torgersen, E. N. (1993b). Selection, information and reliability. Sendt til
+
+[22]
+
+Torgersen, E. N. (1994). Information orderings and stochastic orderings. In
+
+Annals of Statistics.
+
+Stochasic Orders and Their Applications. M. Shaked and
+
+J. G. Shantikumar. (eds.), pp. 275-319. Academic Press, New York.
+
+Bo Lindqvist
+
+Anders Rygh Swensen
+
+
+
+10
+
+John Graunt (1620 -1674), verdens første statistiker
+og hvorfor det ikke dukket opp statistikere før.
+Henrik Dahl, Agder Distriktshøgskole
+
+Hvorfor er statistikkfaget av så ny dato?
+
+Grunnlaget for statistikkfaget er statistisk regelmessighet. For å kunne
+oppdage fenomenet "statistisk regelmessighet" trengs det store mengder data.
+Siden verdens første statistiker ikke kunne planlegge innsamlingen av de data
+som gjorde at vedkommende oppdaget statistisk regelmessighet, måtte det
+materialet som vedkommende brukte være samlet inn av andre årsaker.
+Grunnen til at statistikkfaget er av så ny dato er at det ikke tidligere (enn på
+midten av 1600-tallet) forelå store mengder data som var tilgjengelig for en
+
+person som kunne oppdage fenomenet "statistisk regelmessighet". I de tilfeller
+der det ble samlet inn store datasett, som f.eks. folketellingen av Romerriket
+under keiser Augustus, var disse datamengdene ikke tilgjengelige for "den rette
+person".
+
+Pesten.
+
+Det fenomenet, som førte til at et slikt statistisk materiale ble samlet
+inn, slik at det ble tilgjengelig for analyse, var pesten. Etter svartedauen i
+1348 - 1350 kom pesten til å herje Europa i nesten 400 år. De virkelige
+årsaker til spredningen av pest var lenge ukjente. Den fremherskende teori
+var at pesten skyldtes "dårlig luft". Den eneste sikre måten å unnslippe
+pestfaren var derfor å rømme til områder med "bedre luft". I praksis kom dette
+til å bety at folk, som hadde mulighet til å flytte på seg (dvs. de rikeste), flyttet
+ut av byene når pesten kom. For at folk skulle kunne komme seg unnai tide,
+var det behov for et varslingssystem. I London ble deti 1530-årene utviklet et
+varslingssystem, som besto av at det i hvert kirkesogn ble laget rapporter over
+pest- og andre dødsfall. Ved hjelp av disse rapportene kunne de rike finne ut
+når det var på tide å rømme byen. Fra 1604 ble det laget ukentlige oversikter
+over dødsfall og andre tilsvarende hendelser
+i alle kirkesognene i London. Fra
+1625 ble disse "Bills of Mortality" trykket og solgt på abonnementbasis. På
+denne måten ble det samlet inn store mengder data.
+
+John Graunt
+
+Nå var det altså duket for at en tilstrekkelig smart person skulle
+oppdage "statistisk regelmessighet". I en anbefaling av boken sin gir John
+Graunt i 1662 følgende motivering for sin undersøkelse:
+Now having (I know not by what accident) engaged my thoughts upon
+the Bills of Mortality, and so far succeeded therein, as to have reduced
+several great confused Volumes into a few perspicuous Tables, and
+
+
+
+11
+
+abridged such Observations as naturally flowed from them, into a few
+succinct Paragraphs, without any multitude of multiloquious Deductions,
+
+I have presumed to sacrifice these my small, but first publish’d Labours
+unto
+
+your Lordship ----
+
+Boken "Natural and Political Observations, made on the Bills of Mortality” ble
+vel mottatt og førte til at Graunt ble innvalgt som medlem av den nystartede
+Royal Society. Hva som gjorde at det nettopp var kjøpmannen John Graunt og
+ikke en av tidens matematikere som sto for dette gjennombruddet, er ikke
+
+klart. Antakelig var Graunt det professor Sverdrup i Lov og tilfeldighet kaller:
+en person med en glupende appetitt på tall
+
+Graunt skriver:
+I might answer, That there is much pleasure in deducing so many
+
+abstruse and unexpected inferences out of these poor despised Bills of
+Mortality.
+Graunt nevner selv at han benyttet seg av "shop artimetick", så hans bakgrunn
+som kjøpmann kan ha hatt sin betydning. Han strever en del med å overbevise
+
+leseren om viktigheten av sine undersøkelser:
+It may be now asked, To what purpose tends all this laborious bustling
+
+The number of people?
+
+How many Males and Females?
+How many Married and Single?
+How many teeming Women?
+
+How many of every Septenary or Decad of years in age?
+How many Fighting Men?
+How much London is, and by what steps it hath increased?
+In what time the Housing is replenished after a Plague?
+
+SS
+
+el
+
+© ori
+
+ee be
+
+and groping? To know:
+
+0.
+
+What proportion die of each general and particular Casualties?
+What Years are Fruitful and Mortal, and in what Spaces and
+
+11.
+
+Interval they follow each other?
+In what proportion Men neglect the Orders of the Church, and
+
+12.
+
+Sects have increased?
+The disproportions of Parishes?
+
+13.
+
+| Why the Burials in London exceed the Christenings, when the
+contrary is visible in the Country?
+
+Graunt ender opp med følgende kraftsalve:
+To this I might answer in general, by saying, that those, who cannot
+
+apprehend the reason for these Inquiries, are unfit to trouble themselves
+to ask them.
+
+
+
+12
+
+Det er verd at å merke seg at tidens store sannsynlighetsteoretikere, som
+Jakob Bernoulli og Abraham De Moivre, nødig beskjeftiget seg med empiriske
+data (bortsett fra at De Moivre brukt data fra Graunt og Halley til å lage
+
+dødelighetstabeller).
+
+Referanser:
+
+Hald, A.: A History of Probability and Statistics and Their Applications before
+1750. Wiley 1990.
+Pearson, K.: The History of Statistics in the 17th & 18th Centuries against the
+
+changing background of intellectual, scientific and religious thought. Griffin
+1978.
+
+Sverdrup, E.: Lov og tilfeldighet. Universitetsforlaget 1964.
+
+
+
+13
+
+Bokanmeldelse av
+
+P.K. Andersen, Ø. Borgan, R.D. Gill og N. Keiding:
+Statistical Models Based on Counting Processes
+(Springer- Verlag, 1993, 767 sider)
+
+DETTE ER BEGIVENHET.
+
+Boken er stor og solid og dekker det etterhvert
+
+meget brede feltet ‘forlgpsanalyse’, eller ‘event history analysis’, på en forbilledlig måte. Dette feltet har hittil savnet en egnet enhetlig og tilstrekkelig
+dyptgående fremstilling, og her har fire internasjonalt anerkjente forskere,
+med bred erfaring innen både teori og anvendelser, levert en slik.
+
+Den vil
+
+være nyttig for bade studenter og andre nykommere, for mange sporadiske
+brukere, og for spesialistene, og vil finne veien til svært mange statistikeres
+bokhyller.
+Forløpsanalyse handler enkelt sagt om statistisk modellering og ana-
+
+lyse av individers bevegelser over tid, registrert som overganger mellom ulike
+tilstander. Et eksempel er overganger mellom ‘arbeidssgkende’, "innehaver
+
+av fast jobb”, og ‘syk’; et annet er den såkalte overlevelses-modellen der
+de to tilstandene er ‘levende’ og ‘dgd’. Man kan være interessert i å sammenligne ulike populasjoner eller mer generelt analysere effekten av individenes kovariater. Metodene har anvendelser innen biostatistikk, demografi,
+pålitetelighetsteori, forsikringsmatematikk, kvantitativ sosiologi (for eksem-
+
+pel skilsmisse-statistikk), ‘gjennomstrgmmings-prediksjoner’ (for eksempel
+studenter som skal frem til sin endelige eksamen, med et stort antall mulige
+
+studieveier og et stort antall mulige forsinkelses- og avbrytelses-faktorer),
+populasjons-fremskrivning, &c.
+
+Feltet har røtter langt tilbake i tiden, men har skutt fart og blitt sterkt
+videreutviklet i løpet av de siste 15-20 år, blant annet ved matematisk egnede
+
+konstruksjoner der martingaler, telleprosesser, sensurerte data og produktintegraler er hovedstikkord. Det finnes en såkalt ‘Scandinavian school’ her,
+mer eller mindre veldefinert, der det går en linje fra Erling Sverdrup via
+Jan Hoem til Odd Aalen, hvis arbeider mellom 1975 og 1980 har vært av
+
+avgjørende betydning, og videre til denne bokens fire forfattere og flere av
+deres kolleger. Som nevnt har området manglet en enhetlig fremstilling av
+metodikk og anvendelser. D.R. Cox og D. Oakes sin Analysis of Survival Data
+
+(Chapman and Hall, 1984) er informativ og konsis, men bokens sparsomhet
+med detaljer gjør det vanskelig å nå en fullgod forståelse.
+
+Den når heller
+
+ikke helt frem til det naturlige apparat rundt anvendt asymptotisk teori,
+som er grunnlaget for de vanligste anvendelsene. T.R. Fleming og D.P. Har-
+
+ringtons Counting Processes and Survival Analysis (Wiley, 1991) går på den
+annen side langt i de matematiske konstruksjoner, og behandler martingaler,
+asymptotisk normalitet og Cox-regresjon utførlig. Stoffmengden i denne nye
+boken er imidlertid signifikant større.
+
+Boken har 10 kapitler. Etter en introduksjon, som blant annet beskriver
+en rekke konkrete anvendelser i detalj, og som siden blir brukt som illu-
+
+strasjoner utover i boken, følger et krevende kapittel om den matematiske
+
+
+
+14
+
+bakgrunnen.
+
+Her er stoff som tidligere bare har vært tilgjengelig i spesia-
+
+listens journal-litteratur. I de neste kapitler behandles sensurerings-mekanismer og ikkeparametrisk estimering og hypotesetesting. Kapitlene VI og VII
+
+vil være viktige for de fleste anvendere av forløpsanalyse, og tar for seg
+parametriske modeller og regresjonsmodeller. Cox-regresjons-metoden er den
+mest kjente, av gode grunner, men dens popularitet har i en periode fortrengt
+
+alternativer som i visse henseender kan være bedre egnede, så som Aalens
+lineære regresjonsmodell for overlevelsesdata. Denne og andre blir bredt pre-
+
+sentert her. Kapittel VIII er om asymptotisk effisiens og vil tiltrekke seg de
+
+mer spesielt interesserte.
+
+De to siste kapitlene er om tanderhets (frailty
+)-
+
+modeller, hvor konsekvensene av at de ‘fragile individer dør først” studeres,
+og om multivariate tidsskalaer.
+
+Boken har blitt til gjennom en lang prosess, beskrevet i noe sosiologisk
+detalj i forfatternes forord. Det er visse faremomenter tilstede når fire forfattere i tre land skriver et fellesprodukt over en tiårsperiode, men det har
+lyktes dem å unngå disse. Boken er skrevet med grundighet og respekt, over-
+
+for fag og anvendelser, og overfor fremstilling, det trykte ord og den ferdige
+bokside. Helhetsinntrykket er korrekthet og en naturlig balansering mellom
+
+tekst, formler og figurer. Boken har svært få ukorrektheter eller trykkfeil (en
+liste over ca. 28 milde slike kan fås pr. email fra denne anmelder). Man kan
+tidvis ane forskjeller mellom kapitler eller underkapitler, i fremdriftshastighet
+eller i stilistisk henseende, men dette er aldri fremtredende.
+
+Bokens behandling av hazardrate-estimering kunne kanskje vært bedre.
+Dette er et teknisk vanskeligere problem enn å estimere den integrerte eller
+
+kumulative hazardrate (for hvilken Nelson—Aalen-estimatoren er utviklet).
+Boken er uklar med hensyn til oppskrifter for å velge glattingsparameter
+
+(kapittel IV.2), og med hensyn til visse beregninger rundt konfidenskurver
+rundt glattede kurver i Cox-regresjon (kapittel VII.2). Konfidenskurvene er
+
+her ikke for den sanne rate (som ville være det mest interessante), men derimot for den kjerne-glattede rate, uten at dette gjøres klart, og variabiliteten
+i Cox-koeffisient-estimatorene er heller ikke tatt hensyn til.
+
+Noen bestsellere bærer betegnelsen ‘unputdownable’, klippet ut fra en
+
+passende panegyrisk anmeldelse. Av og til føler en leser eller en potensiell
+kjøper i bokhandelen at en bok, ved sin blotte størrelse og tyngde, er ‘un-
+
+pickupable’.
+
+Andersen, Borgan, Gill og Keiding med sine 767 sider faller
+
+likevel ned på den riktige side av den Vikram Sethske skillelinje.
+
+Det er
+
+vanskeligere å orientere seg raskt i boken enn for eksempel i en delikat konsis
+Cox-ish bok på 150 sider, og jeg var først usikker på den pedagogiske nytte
+
+av at de samme gjennomgangseksempler er behandlet så mange forskjellige
+steder. Etter noe mer bruk av boken var dette likevel ikke noe problem.
+Bokens styrke er dens utførlighet og bredde, innen både matematiske
+grunnlags-konstruksjoner, statistisk teori, og anvendelser. I tillegg er den
+meget grundig og informativ med hensyn til referanser og bibliografiske opplysninger. Kjøp den og bruk den.
+
+Nils Lid Hjort, Matematisk Institutt, Universitetet i Oslo.
+
+
+
+15
+
+Et “funn” av en bok!
+Problems and Snapshots from the World of Probability
+av Gunnar Blom, Lars Holst og Dennis Sandell
+
+En statistiker og hans kone inviterte n — 1 andre statistikerpar til middag. Som
+seg hør-og-bør i slike miljø, ble de n par plassert tilfeldig rundt bordet med
+den selvfølgelige restriksjon, at menn og koner har alternerende stoler. Hva er
+
+sannsynligheten for at ingen av mennene har sin kone ved siden av seg, hverken
+til høyre eller venstre?
+
+Dersom hjertet allerede nå banker fort og heftig, er du rett person for å lese videre". Jeg
+vil på det sterkeste anbefale TGs lesere om en nylig utkommet “funn” av en bok fra våre
+svenske kolleger Blom, Holst og Sandell som er utgitt pa Springer-Verlag. Dette er den
+
+mest fornøyelige og festelig bok jeg har lest på mange år. Den inneholder problemer og
+utdrag fra *the world of probability”, både litt teori og ikke minst, festelige problemer av
+
+slik art som presentert over. Problemene (med løsning) og tilhørende teori blir diskutert
+på en meget klar og oversiktelig måte. I tillegg til historisk stoff, dvs. klassiske problemer
+som våre forgjengere slet med, inneholder også boken bidrag og festelige problemer fra
+
+områdene *Combinatorics, Poisson approximation, Patterns in random sequences, Markov
+chains, Random walks, Cover times” og *Embedding procedures”. For de av oss som ikke
+er like godt inne i alle disse områdene, fungerer boken som en kort introduksjon og fremfor
+alt, en inspirasjon til å lese mere om emnet. Som det står i forordet,
+%...we have not written a textbook in probability, but rather a book for browsing
+through when occupying an easy-chair”.
+
+Sa det beste stedet å oppbevare boken er nok ikke pa kontoret... Jeg har prøvd den i de
+siste månedene og den fungerer vel så bra i god-stolen som på lesestoff på stranden. Den
+leses nok best i små porsjoner og hver del kan leses relativt uavhenig av hverandre, både
+en og flere ganger. Referansene er utfyllende og dekker det primære behovet for videre
+
+referanser for dem som vil det.
+Boken må være den perfekte gaveidé til enhver statistiker, men legg ved en byttelapp
+fordi det kan hendt at han/hun ikke klarte å vente...
+
+Håvard Rue
+Institutt for matematiske fag
+NTH
+
+Problemet over er “the ménage problem” som ble formulert på slutten av det 19’ende århundre og hvor
+en eksplisitt løsning ikke ble funnet før i 1930-årene. Du kan lese mere om dette i kap. 5.8
+
+
+
+16
+
+NORSKE GRUPPESESJONS-INNLEGG PÅ DET NORDISKE
+STATISTIKERMØTETI LUND 15-19.8.94
+
+The Trend-Renewal Process, a Useful Model for Repairable
+Systems
+
+Bo Lindqvist
+
+|
+
+Department of Mathematical Sciences
+Norwegian Institute of Technology
+
+Abstract
+
+This paper studies what we have called the Trend-Retrewal Process (TRP). This is a time
+
+transformed renewal process, which has both the ordinary renewal process (RP) and the
+nonhomogeneous Poisson process (NHPP) (and hence the homogeneous Poisson process
+- HPP) as special cases. The basic definitions are given, and the likelihood function
+corresponding to a realization of the process is obtained. A parametrization related to
+Weibull processes is studied, and tests for the null hypotheses of NHPP, HPP and RP
+are studied. Two examples with real data are given for illustration. The parametrization
+of the TRP corresponding to a gamma distributed RP has been considered earlier by
+Berman.’ His work is briefly reviewed. A short discussion of further work is given at the
+end.
+
+Martingales and likelihood
+
+Per A. Mykland, University of Chicago
+
+Abstract:
+
+N
+
+Martingales have long been used to derive results about likelihoods. This talk develops the viewpoint
+that the opposite direction of reasoning is perhaps even more interesting: likelihood theory has a lot to say
+
+about martingales.
+The device used to carry likelihood results into the martingale domain is to represent the martingale as
+a score function in a parametric inference problem. Two general representations of this type are described.
+In each case, analogues of higher order derivatives of the log likelihood are given for martingales (they turn
+
+out to be higher order versions of the quadratic variation).
+Two applications are discussed.
+
+One is that one of the constructed likelihood problems can be used
+
+directly for inference. In particular, an analogue of the likelihood ratio statistic can be created on the basis
+of any martingale. This leads to tests and confidence intervals with considerably improved accuracy. In the
+case of independent observations, the method yields the same results as empirical likelihood.
+
+On the other hand, a corollary to these representations is the existence of Bartlett identities for martingales. These can be used to calculate cumulants and to show asymptotic results, such as the central limit
+theorem and asymptotic expansions for martingales.
+
+Examples from survival analysis and time series are given.
+
+—
+
+
+
+17
+
+Estimation in.Cox Regression Model
+
+Based on Sampled Data *
+Ørnulf Borgan
+
+Institute of Mathematics
+University of Oslo
+
+In Cox regression, one compares the covariate value of a failing individual
+(case) to the covariate values of all the individuals at risk at the time of the
+failure. In large epidemiological cohort studies of a rare disease, Cox regres-
+
+sion therefore requires collection of covariate information on all individuals
+in the cohort even though only a small fraction of these actually get diseased.
+
+Cohort sampling methods, in which each case is compared to a (small) sam- |
+ple from those at risk (controls), may therefore give a substantial reduction |
+
+in the resources (time and money) that need to be allocated to a study. In
+the talk I will, using marked point processes, present a general framework
+for such cohort sampling methods. Further, estimation of the regression parameter (via a partial likelihood) and the integrated baseline hazard will be
+
+discussed, and the performance of the methods wiil be illustrated when the
+controls are selected by simple and stratified random sampling.
+
+Approximately optimal model reduction for prediction in linear models
+
+Inge S. Helland
+Agricultural University of Norway
+
+In data analysis with many variables, a general problem
+is that a large number of parame-
+
+ters in the statistical model may lead to unstable estimates and unreliable predictions. We
+_first discuss dimension reduction of the parameter space from an estimation and prediction point of view, drawing upon recent asymptotic results by Hjort (1991) and Karesen
+
+(1992). Next this is specialized to linear prediction in the multinormal case, where the
+asymptotically optimal parameter reduction is shown to lead essentially to the model with
+m relevant components, formulated by the author elsewhere in connection with discussions
+of principal components regression and partial least squares regression.
+Testing rational expectations in vector autoregressive models.
+
+by
+
+-
+
+Soeren Johansen, University of Copenhagen and
+Anders Rygh Swensen, Statistics Norway and University of Oslo
+Abstract
+
+Assuming that the solutions of a set of restrictions on the rational
+expectations of future values can be represented as a vector autoregressive
+model, we study the implied restrictions on the coefficients. Nonstationary
+behavior of
+
+the variables is allowed,
+
+and the restrictions on the
+
+cointegration relationships are spelled out.
+
+it is shown that
+
+In some interesting special cases
+
+the likelihood ratio statistic can easily be computed.
+
+
+
+18
+
+CK
+SOME ASPECTS OF RELIABILITY ANALYSIS IN SHO
+å
+MODELS
+
+JØRUND GÅSEMYR andBENT NATVIG
+University of Oslo
+
+component states
+ABSTRACT. In this paper we consider a binary, monotone system whose
+ndent common shocks, i.e. shocks that
+are dependent through the possible occurence of indepe
+common cause failures in
+destroy several components at once. Such systems can be used toasmodel
+system,
+reliability analysis. We propose to consider the common shocks components in a new
+
+how the minimal path and
+thereby obtaining a system of independent components. Weneshow
+n between bounds for
+relatio
+the
+cut sets of the two systems are related, and use this to exami
+m of deriving a distribution —
+the reliability based on the two systems. We also discuss the problenent
+reliabilities, as well as
+compo
+of system reliability from a joint prior distribution for theexpon
+ential distribution fits into this
+data at the system level. The Marshall-Olkin multivariate
+framework, and some special cases of this model are treated as an example.
+
+Recognition of Spikes in EEG Patterns using
+hidden Markov Chains
+Geir Storvik and Erik Bølviken and Gutorm Høgåsen
+Summer 1994
+
+Abstract
+The textural segmentation problem discussed in this talk arises with
+
+|
+|
+
+EEG recordings of epileptic patients. Enormous amounts of data are
+generated when such patients are under surveillance, for example 200 ob- *
+servations per second in, say 16 or 32 channels simultaneously. Yet most
+
+of the material may be trivial or uninteresting from a medical or clinical
+
+point of view, the target of the observations being the tiny fraction corresponding to epileptic events or attacks. Clearly an automatic screening
+
+procedure would be highly desirable.
+
+Our aim with the project has been to develop a new textural segmenta-
+
+tion method, to be applied to EEG traces from epileptics, for the following
+
+type of situation. Suppose the time axis is to be partitioned into segments
+
+which are to be assigned labels among a small number of given classes.
+For all but one of the classes fairly precise information is available about
+the associated data patterns. We shall call these the classes of interest.
+The remaining class is a “residual” containing everything not covered by
+the others. This means that it may be a conglomerate of different textural
+rhythms. In the EEG example the “residual class” is the “normal” of the
+patient.
+
+Our solution is to employ a Bayesian approach by using as a prior for
+the sequence of classes a (semi) Markov model. Since only the EEG traces,
+which are assumed to depend on the underlying sequence of classes, is
+observed, a Hidden Markov model appear. We will in the talk present the
+specific model chosen, the restoration algorithm and model adaptation.
+
+Some preliminary results will also be presented.
+
+i
+
+|
+
+|
+
+
+
+19
+
+Inntrykk fra ICOTS 4
+
+International Conference on Teåching Statistics ble holdt for fjerde gang i Marrakech,
+Marokko 25. - 30. juli 1994. Tre norske deltakere hadde utnyttet muligheten til å kombinere fag og ferie i eksotisk miljø.
+
+Statistikkundervisning i de fleste sammenhenger ble belyst, fra grunnskole til universitet
+og etterutdanning, og fra ulike behov: som borger, bruker eller spesialist.
+Hovedinntrykket var en massiv kritikk av den tradisjonelle undervisningsform med forelesninger, oftest definisjon, setning, bevis etterfulgt av oppgaver og øvelser. Alternativer
+ble presentert, de fleste med utgangspunkt i reelle problemstillinger og data, der teori ble
+trukket inn etter behov, og der lærestilen “Do, See, Think, Consolidate” ble anbefalt.
+Prosjektarbeid og kommunikasjon var også sentralt for mange.
+
+Statistikkens “hate and love” med matematikken dukket ofte opp som tema:
+
+“Data are not just numbers, but numbers in a context. In statistics context provides
+meaning, in mathematics context obscures structure. Our food in their garbage!”
+Dette tema er av betydning for situasjonen i Norge, der sannsynlighetsregning og statistikk omsider ser ut til å få “fast plass” på planen i videregående skoles matematikk. I
+mange land blir slik undervisning gitt av lærere med minimal bakgrunni statistisk
+tenkemåte. Det er av interesse å få en diskusjon i TG som belyser problemstillingen, og
+hvordan vi kan bidra til beste for skolen og faget. I Norge har vi vel i gjennomsnitt og
+med mindre variasjon stilt oss lenger over på matematikkens side enn i de fleste andre
+land (de har "alternative” statistikere).
+
+Konferansen ga rikelig mulighet for å plukke opp gode eksempler og idéer som kan gjøre
+faget vårt mer interessant for studentene. En del av dette håper vi etterhvert kan komme
+
+på trykk i TG. Forøvrig fikk vi nyttig informasjon om hvor og hvordan slike ting kan
+finnes og hentes via Internet, bl.a. gjennom tilbudet til Journal of Statistical Education.
+Konferansen ga også et innblikk i mulig bruk av multimedia i læresituasjonen: video,
+lyd, tekst, animasjon og interaksjon. Statistikk er på mange måter et ideelt område: Vi
+gjør allerede bruk av programvare til analyse, ofte på eksplorativt, interaktivt vis. Mange
+var imidlertid kritiske, og for deltakere fra land utenom den rike del av verden var diskusjonen uvirkelig uansett.
+
+Ulike studiegrupper var i sving under konferansen, men som noen sa: “Whenever there
+are two statisticians, there are three points of view”.
+
+Jostein Lillestøl
+
+
+
+aie
+
+BYeW
+
+PIM
+
+Jo 9 1 917019
+
+pamunuaveTp
+
+KN909
+
+JEYNN
+
+2A110111U?
+
+Suiyona}
+
+PUD
+
+UESNS
+
+UONEIDOS V
+
+UONDIIUNWWOD
+
+‘jUuapIseld
+
+|BUINOÅ
+
+BAIJEAOUU!
+
+241 01 1U1
+
+aYDW
+
+93240924
+
+JO yoseasay
+
+01 D $u1uo1914ua-34
+
+0} ay}
+
+‘peBeunooua
+
+£14010Y29
+
+UL190
+
+10919149
+
+$U1433UO1d
+
+**
+
+91Y]
+
+'59819J24
+
+Ag 2014)
+
+SUOIS IWGNS
+
+JeY}
+
+Lunipaw
+
+JO ‘aiemyos
+
+S}UBWIJadX9
+
+yjoq
+
+aie
+
+ASN
+
+JO JUBLUS AS e
+
+JOBdUWI
+
+je}opoaue
+
+V 891NOSAY
+
+‘apnjoul
+
+JO 24)
+
+« ,SMAIADY,
+
+SPOYjeW
+
+:SUG
+
+sjuawyedep
+
+Mau
+
+JO Paj|01JUOI
+
+» Bulyoeay,
+
+Sa[DNIV
+
+jeusnor
+
+‘uoneonpa
+
+PUE
+
+, UOIS NOSIP
+
+4 SYNSAL
+
+pue
+
+pue
+
+saeiqi]
+
+409 ay]
+
+Kjapim
+
+UO
+
+91 auo
+
+JO BY}
+
+'992004d
+
+‘pamaiaed
+
+‘syoog
+
+UO
+
+S21)SIJEIS
+
+19.419
+
+a1q01 0ap
+
+241
+
+**
+
+Jo ay)
+
+'9ULI
+
+9141
+
+‘puljq
+
+JO
+
+Jo 241
+
+Buryoes}
+
+ajqnop
+
+21U041)29|a
+
+UO
+
+saiBojouyoa}
+
+10} Suayoeay
+
+JO Meu
+
+syoda,
+
+v
+
+saipn}s
+
+JAILVWHOGJUNI
+
+a
+
+4 aseo
+
+20
+
+Journal of Statistics Education
+NonProfit Org.
+
+North Carolina State University
+U.S Postage
+
+Department of Statistics
+Raleigh, NC
+
+PAID
+
+Box 8203
+Permit No.2353
+
+Raleigh NC 27695 8203
+
+M
+
+
+
+‘enss!
+
+JO Soijsijeys
+
+JO 'SaJDNuE
+
+SJEQUISQNS
+Meu
+
+ay)
+
+JO 34)
+
+1IEYD
+
+1EYD
+
+JUBWLEdAG
+
+JO 84)
+
+"UIO
+
+wesbuy
+
+8a} !WWOD
+
+JO 'SINSNEIS
+
+9 )HWLWOJ
+
+32uDLul1Od
+
+10345
+
+Joafoud
+
+970 0} 'm01109
+
+118
+
+UINof
+
+anof~
+
+SG PA1aJjO
+
+pue
+
+Kou
+
+91 Sithoaouus
+
+UO
+
+psojuers
+
+'suonedi|Iqnd
+
+JO SJUSpISald
+
+Bulaieoas
+
+UOIS NISIP
+
+0}
+
+Burysijqnd
+
+Å
+
+Ajaun
+
+oapia
+
+ÅjISJEAMUN
+
+WSv
+
+JO JedI}SI}E}S
+
+4
+
+e
+40)
+
+58191005
+
+400
+
+pub Jo
+
+då
+
+sdij9
+
+ae I on D japow
+
+;
+
+$019S1}8}S
+
+iim
+
+pue
+
+ajqejeAe
+
+sjevayeu
+
+:0]
+
+jae 241 Sie
+
+JO BH1eYO
+
+40J
+
+81509 bid
+
+Asp
+
+‘punos
+
+jeusnof
+
+01 341 Alrog02d
+
+pup
+
+djay
+
+984)
+
+pue Bunulid
+
+‘winipew
+
+‘soiydesB
+
+21U04JDAJE
+
+awodaq
+
+21U01}99/8
+
+juaweounou e
+JO 'SJUSJUOJ
+
+SI Ue
+
+ued aq paysanbas
+Aq ‘jeww-e
+pz sinoy
+‘dy pue 8uja)
+
+Siopeas
+
+Bulyoea)
+
+Be] pojelsosse
+
+SE Aau}
+
+paaiyoie
+
+Sajqeua
+
+JO Jsasajul
+
+ue ||EUI-9
+& A|qe]
+
+Aq '184d06
+
+SUONINIJSUI
+
+UONEINP3
+
+ul e jaj esed
+
+ay) aw)
+
+sjeusnof
+
+Jaded
+
+91U04128|a
+
+DILIBUÅP
+
+aanjua
+
+sioyeonpe
+
+4 UBD
+
+ul juid
+
+» suayoys
+
+, sanes
+
+, MBIA
+
+winso}
+
+, ayedioed
+
+SADIE
+
+einue
+
+4 ssaoce
+
+sjasejep
+
+ey}
+
+WNIpalW
+
+“saijiqedeo
+
+, Yees
+
+asoy}
+
+, peojumop
+
+91U0I}99/9
+
+YIM
+
+ano”
+
+'943410
+
+PUE
+
+Buipnjdu!
+
+BAlade/
+
+‘“sjelayew
+saps
+‘Ajisea
+pue Åj|eoneuolne
+JSF SI osje ajqeyleae
+
+jeusnor
+
+ssa22p
+
+swesboid
+
+y |JEUONEN
+
+BSN
+JBYIO
+
+PUe
+
+y 9944
+
+4 uoleuoju|
+
+pue
+
+‘eyep
+
+x SUOIJSUUOJ
+
+« SSdS
+
+x SVS
+
+SAIYDJE
+
+YAOMJOU
+
+BieMaIeEYS
+
+84)
+
+'dno1B
+
+'dno1B
+
+pue
+
+QI7}2}S
+
+S891NOS8J
+
+BAIYOIE
+
+:sdnoi6
+
+|eu4nof
+
+IEMYOS
+
+JO pajejas-SVS
+
+swes6osd
+
+T-XSSdS
+
+T-SVS
+O} BDU
+
+Bunnsuoo
+
+ajqeyoeas
+
+10J SIOYINY
+
++ Sonshe1s
+
+pue
+
+UOIJEWOJU]
+
+0) SJIJSNEIS
+
+'SMAN
+
+‘dnos6
+
+'dno16
+
+BdIAJBS
+
+sey
+
+SONSNE)S
+
+T-AV.LS
+
+T-JEISP3
+
+0) djay
+
+POJejO1
+
+sosvew
+
+Pa)08|as
+
+Saniyose
+
+[jeg
+
+puy
+
+SAPNjOU!
+
+snsua.)
+
+JO asay}
+
+sJadeq
+
+94)
+
+si e
+
+pue
+
+pue
+
+O} SO1}SIJEJS
+
+40)
+
+‘QIEMYOS
+
+0} '3SP
+
+ay}
+
+uaaq
+
+JO sonsneys
+
+pue
+
+pue
+
+punose
+
+ue Jounfpe
+
+wo
+
+ad1AJaS
+
+JO "UONEUWOJUI
+0) 24)
+
+uoneonpa
+
+uoIs nas!p
+
+BY}
+
+pajejas
+
+SAIYDJE
+
+'9911496
+
+Aq Siapeas
+
+UONEWIOJU|
+
+, SONSNEIS
+
+paxapul
+
+4 ÅlNA
+21u01108|a
+
+SAUI|BPIND
+
+x ASL
+
+'4jas)I
+
+U| UONIPpe
+
+:sa04nosa4
+
+21U01 28|a
+
+UONEUINOJU|
+
+abueysng
+
+UONEINPI
+
+SUOIS NISIP
+
+ISS
+
+ISF
+
+Bulmo}|o}
+
+‘UONeONpa
+
+pue
+
+BuImo1B
+
+EYL
+
+nLyEWLOJU
+
+passes0e
+
+SUL
+
+‘aqo|6
+
+Ag Buisn
+
+AY
+
+SJØPESL
+
+|EUINOÅ
+‘AjyoINb
+“Aep
+
+SJOEJI SGE
+
+‘jeusnol
+JO yoke
+
+BUL
+
+ayeLpawul}
+
+ue
+JO Mau
+
+JuaWI eEd|aq
+
+YON
+
+jeusnor
+
+UONEWAOJUI
+
+SJEPeEay
+
+U| JaUYIa
+
+aqiuosqns
+
+JO aqiosqns
+
+:UWUO4J
+
+21815
+
+puas
+
+JO s21)51EIG
+
+JO SINSNEIS
+
+JNOYNM
+
+‘ased
+
+4/e}-as/
+
+rå
+
+ssa00e
+
+awenjsily
+
+JNQ
+
+0) Xje)-as!
+
+aunouue-as!
+
+aqiuosqns
+
+WN1OJ
+
+0} adunouue-as!
+
+'35P
+
+au)
+
+*sjetayew
+
+01 YJeJ-asSå,,
+
+aqiuiosqns
+
+21U01JD8ja
+
+Ul}
+
+'SJUBWBSJUNOU E
+
+BUIJOJEI
+
+jeusnof
+
+Bulraijes
+
+x SJAQUISANS
+
+syoesjsqe
+
+sanss!
+
+'5JUSJUOJ
+
+0} a2UNOUUE-asf,
+
+» SJAQUISYNS
+
+SJUIW
+
+JO suondiuosqns
+
+0} JSF
+SadA)
+
+SUonNduasqns
+om
+
+suoduasqng
+
+hiejuawnduoy
+
+AUSIAAIUN|
+
+uojeonp®
+
+ay}
+
+'
+
+Pa}JOASP
+
+'3SP
+
+aie
+
+SWENISET
+
+YE66L
+
+'9ANIUIA
+
+240
+
+jeonsnels
+
+3S[
+
+0} |Ieu-3
+
+abessaw
+
+Aq Bulpuas
+
+Aq Bulpuas
+
+34)
+
+awenjsey]
+
+SUOIJONIJSUI
+
+1 8YUI
+
+;
+
+14514
+
+91 UD
+
+Aew
+
+0} SIU)
+
+0} SUOIS NOSIP
+
+awodIeq
+
+aAnl99841
+
+Buipnjdul
+
+, BAIaI91
+
+‘ayqejleae
+
+PUE
+
+aq paule)qo
+
+,,OS|E
+
+awen}sily
+
+Ul UONIPPE
+
+JO ‘SajDIPe
+
+JO au)
+
+Aew
+
+Tei
+
+ie
+Å
+
+ay}
+
+:SSeJPPEe
+
+92411
+
+mau
+
+-UO
+
+jo
+
+vsv
+
+409 11 ‘mou
+
+:eBessaw
+
+JO'uoneo34)
+UONDS5
+np3
+
+PUD
+
+Suijioxa
+
+ysanbas
+
+|!2UI-9
+
+:oBessow
+
+ay}
+
+JUBA2J84
+
+JO ue
+
+JO}
+
+JO ‘aBseyo
+
+& ajqe,
+
+Med
+
+-BJUNOU E
+
+9594)
+
+884)
+
+0)
+
+UO
+
+21
+
+
+
+22
+
+Det 8. norske statistikermøte
+
+Åsgårdstrand
+
+12.-14. juni 1995
+Norsk statistisk forening, avdeling Oslo, har den glede å invitere til det 8. norske statistikermøte
+
+som blir holdt på Åsgårdstrand Hotel i Vestfold i tiden 12.-14. juni 1995.
+
+Program
+Programmet vil bli bygget opp etter samme retningslinjer som tidligere konferanser.
+Adkomst
+
+Det vil bli arrangert felles reise fra Oslo (båttur nedover). Totale reiseutgifter vil bli ca kr 250.
+Kostnader
+
+Konferanseavgiften er satt til kr. 400 og dekker konferansemateriell og festmiddag. Hotellprisen
+er ca. kr. 2000 for hele oppholdet og betales direkte til hotellet. Prisen dekker frokost, lunsj og
+vanlig middag på hotellet.
+
+Endelig innbydelse
+Endelig innbydelse sendes ut i neste TG.
+Programkomité
+
+- — Eva Seim, Nycomed Imaging
+- —
+
+Grete Fenstad, UiO
+
+-
+
+Håvard Rue, NTH
+
+-
+
+en fra Bergen.
+
+Spørsmål angående faglig program kan rettes til Grete Fenstad, tlf 22 85 58 76,
+epost: grete(Ømath.uio.no.
+Arrangementskomité
+
+Arrangementskomitéen består av styret for Norsk statistisk forening, avdeling Oslo.
+Spørsmål kan rettes til Geir Storvik, tlf. 22 85 58 94, epost: geirs@math.uio.no.
+
+
+
+23
+
+21st European Meeting
+
+|
+
+of Statisticians
+
+..; — .
+
+—
+
+21-25 August 1995
+University of Aarhus, Denmark
+
+Bulletin 1
+
+a
+
+The 21st European Meeting of Statisticians will take place under the auspices of
+the European Regional Committee of the Bernouilli Society for Mathematical Statistics
+and Probability.
+
+Scientific Programme Committee
+
+Local Organising Committee
+
+P. Embrechts (Chairman, Switzerland)
+
+M. Sørensen (Chairman) ©
+
+P.K. Andersen (Denmark)
+
+- A.H. Andersen
+
+P.J. Green (U.K.)
+
+E.B. Vedel Jensen
+
+P. Groeneboom (The Netherlands) -
+
+J.L. Jensen
+
+A.N. Shiryaev (Russia)
+
+J. Møller
+
+E. de Turckheim (France)
+
+|
+—
+
+—
+
+O. Wethelund
+
+—
+.
+
+
+
+UIDY
+
+AOYDU
+
+UDIUMOIG
+
+£80j019
+
+2USNIQVQOI
+
+$U21Q0AJ
+
+assaauy
+
+suoyoung
+
+auas a uoy
+sjuautsadxg
+
+pup
+
+:5552204d
+
+uoNop
+
+K1024,1
+
+dof
+sajqu
+
+SUOISSIS
+
+poyrauy
+
+SJØPOW
+
+a1uop
+
+fo oousunis
+pup uojsi9aq
+
+Ul Soyauan
+
+SJUSUDIS
+
+914015
+
+DA
+
+tuapuadaq
+
+suoyvoyddy
+
+Jadeq
+
+PAU]
+
+24024
+
+saunyoe7]
+
+Bussola
+
+UIT
+
+s 04nqoo7]
+
+:24ny2*]
+
+UINJOJ
+
+Juu3do
+
+*samoap
+
+ut
+
+0140)
+
+PUB
+
+Jaded
+
+:84951UUJIQ
+
+preyory
+
+suey
+
+soune4
+
+rug
+
+98g
+
+DRA
+
+(weprasury)
+
+Bose]
+
+uenns
+
+[2LYININ
+
+HIQIV
+
+191d
+
+JOPUBXI V
+
+IPO
+
+JoJØpn
+
+104,
+
+Sesog
+
+(sured)
+
+op 15ung
+
+(unsog)
+
+(1120)
+
+(ME[D01M)
+
+*suors as
+
+—*
+
+(opea5)
+
+(sesof-u3-Anor)
+
+UOI M
+
+wneqs nN
+
+(snyrev)
+(stred)
+
+Jaded
+
+'N A38ÅNYSG
+
+suod
+
+W0 92u201D
+
+'d ueyynog
+
+19dsar
+
+(28puqueJ)
+
+(uuog)
+
+(sueq)
+
+put panqunuo
+
+uorong
+
+SuoISsas
+
+7
+
+4940
+
+4D2UIT-UON
+
+japow
+
+ueuwaH
+
+praeq
+
+UV
+
+34) dva5300g
+
+auly
+
+PaPAUJ
+
+uossuoyp
+
+*r 1npeypdardg
+
+'g UIMOQ
+
+peyads
+
+K1utpr4224un
+
+saop
+
+IW [299]
+
+parAul
+
+U2YM
+
+3UIOY
+
+HM
+
+(p10JutIS)
+
+521435
+
+PUL
+
+8 JO PUa[q
+jen}
+
+oud.
+
+Jo reroads
+
+(raRfy£oy)
+
+:594NJI3]
+
+Jerouraoid
+
+1] s1SISUOd
+
+(28puque)
+
+“OWODIOM
+
+sourey
+
+prempg
+
+ouug
+
+BIQ & Pur UMO)
+
+JO WNaSNN
+
+'sBundoy
+
+'D anken
+
+sneyyeq
+
+uswueyy
+
+*A119
+
+ay) PUR
+
+YIM
+
+Jo uvodomg
+
+yorym
+
+‘pre Bsao~]
+
+£134
+
+san aYDIFKN
+Ma] YW "YREUUIG
+62 ueYy) 210UI
+
+st paunsean
+SI Aofua
+
+oy) uonrpen
+
+ue SI snyey
+
+(urnsoag)
+
+(142nn)
+
+dy) st 4119 24) JO [nos
+
+jeuONeoNps
+
+JaYour
+Sa[ILI
+
+oy) Ajqeqoid
+DAISUI X3
+
+SMO[OJ
+
+Jasco
+
+put
+
+NOA soyeu
+
+Furuureyd
+
+-[ND
+
+JO Joquinu
+
+1e)S-991y1
+oY) WOLJ
+paraquN-JeY
+
+ATe-uado
+
+owwei3oid
+
+preuoy
+
+Wnasnw
+'SUONDBINE
+
+ay) 'uonoene
+doIstyaid
+JOWWNS
+JO duaptsal
+usand
+WOJ sosnoy
+JO wed A1949
+
+PIO 94L,
+Isog
+
+NE ETE
+
+UMOUY
+
+an
+
+uUMOL
+PUB
+
+Aq
+ur
+
+EE
+
+* ur son A119 ay) sayoeog
+
+up
+
+uUoypjOM3d
+
+pap arys
+
+SNonunuo)
+
+10ds
+
+KINQVQOId
+
+ANKVYDOUd
+
+Buntaur
+
+PUD
+
+CREE
+
+Furpurisino
+- uoneJor
+Aq padnoaua
+put spoom
+pasop1oq
+puesnoy)
+ann ay) JO DUO SI 11 pue sreaA
+uniIA
+Sey 1] SUMO)
+"SjuEiNqey
+UP
+JO A101SIY
+S303 snyrev
+YJRQ
+B uey) sow
+SI snyeY
+sYIRWUI
+puodas
+WIM AjID 1S9F1R]
+“Ul 000'897
+
+0) nok
+
+uy S2HSNDIS
+
+DLI L NAIDS
+
+24
+
+En
+å
+
+
+
+FURTHER INFORMATION
+Contributed papers need not be related to the topics of
+Invited Paper Sessions.
+
+They may either be read or pre-
+
+sented as posters. Detailed instructions on the submission of
+contributed papers will be given in Bulletin 2.
+
+It is planned that the Royal Statistical Society will hold an
+
+Pre-registration Form
+Name
+
+Institution
+Address
+
+Ordinary Meeting during the Conference.
+
+Workshops can be held on various subjects. Suggestions for
+topics for workshops should be sent to the Local Organising
+
+Committee.
+
+Exhibitions of books and statistical software are planned.
+
+Telephone
+
+Telefax
+E-mail
+
+The official language of the meeting will be English.
+Please tick as appropriate
+
+The venue for the meeting will be the University of Aarhus.
+
+Bulletin 2, the final bulletin, will be circulated during Jan-
+
+uary 1995.
+
+The deadline for abstracts will be 1 May 1995.
+
+O I am a member of the Bernoulli Society
+O I intend to participate
+O I may participate; please keep me informed
+
+Ol I wish to present a contributed paper
+O I wish to present a poster contributed paper
+Title of paper
+
+Address for Correspondence
+To receive further information please return the attached PreRegistration Form as soon as possible. All correspondence
+should be addressed to:
+
+21st European Meeting of Statisticians
+
+Accompanying persons
+
+1) Name
+
+Department of Theoretical Statistics
+
+Institute of Mathematics
+
+2) Name
+
+University of Aarhus
+DK-8000 Aarhus C
+
+Denmark
+
+Telephone: +45 8942 3532
+Telefax: +45 8613 1769
+E-mail:
+
+ems95@mi.aau.dk
+
+Signature
+
+Date
+
+
+
+26
+
+Det 20. Nordiske Statistikermøte
+Rebild Bakker, Hotel og konferancecenter
+
+Ålborg, Danmark
+2.-5. august 1995
+
+Hvert tredje år arrangeres det nordiske statiskermøter i de nordiske land. Forrige var på Island i 1992.
+
+Møtene arrangeres av de statistiske foreninger, der arrangørlandets statistiske forening drar det tyngste
+lasset. Neste statistikermøte i Norge blir i 2001 slik at Norsk statistisk forening har god tid på seg.
+Statistikermøtene er først og fremst møtested for statistikkprodusentene i Norden, men med noe innslag
+av sentrale brukere som departementene. Neste års møte har en egen sesjon om statistiske metoder som
+burde interessere andre enn kun metodestatistikere i de statistiske sentralbyråer.
+
+Rebild Bakker ligger omtrent 25 km syd for Ålborg.
+Hovedtrekkene i programmet ble behandlet på et arbeidsmøte i København 18. august, der Leiv Solheim
+fra Statistisk sentralbyrå, representerte Norsk statistisk forening. Hovedtemaet på møtet blir
+Statistikerens rolle og ansvar
+Programmets faglige del foregår torsdag 3. og fredag 4. august og består av:
+-En plenumdiskusjon med innlegg omkring møtets hovedtema
+-3 parallelle sesjoner som tar opp følgende 9 emner:
+-Miljøstatistikk
+
+-Økonomisk statistikk
+«Statistiske metoder
+-Kvaliteten i statistikkproduksjonen
+-Levekår og helse
+-Formidling
+
+-Diskresjonspolitikk
+-Foretaksstatistikk
+-Utdanning av statistikere
+
+-Tilslutt et avslutningsforedrag som trekker linjer inn i neste århundre.
+Den sosiale rammen rundt møtet er
+
+-Mottakelse, onsdag kveld
+-Festmiddag, fredag kveld
+
+-Utfukt, lørdag
+
+Deltakeravgiften er på 2 000 D.kr., mens for ledsagere er avgiften på 1 200 D.kr.
+
+I neste nummer av Tilfeldig Gang vil det komme et endelig program for møtet.
+
+Spørsmål rettes til Leiv Solheim, tlf 22 86 46 87
+
+
+
+27
+
+Nytt fra Universitetet i Oslo
+Uteksaminert Dr.Scient:
+
+Trygve Almøy: ”Prediction methods with many possible explanatory variables” Veiledere:
+Prof. Erik Bølviken, Prof. Inge Helland Komité: Dr. Paul Geladi, Doc. Rolf Sundberg,
+Prof. Tormod Næs
+
+Gunnar Løvås: ”Mathematical Modeling of Emergency Evacuation” Veiledere: Prof.
+Bent Natvig, Prof. Terje Aven Komité: Prof. Bo Lindqvist, Prof. Bo Bergman, Forsker
+Thore Egeland
+
+- Uteksaminerte Cand.Scient:
+
+Robert Meisingset: ”Pseudo-Likelihood teori i overlevelsesanalysen” Veileder: Sven
+Ove Samuelsen
+
+Espen Frank Olsen: ”Noestede Kasus kontroll metoder for Cox regresjonsmodell”
+Veileder: Ørnulf Borgan
+
+Rolf Erik Falk: ”Metoder for beregning av livsforsikringspremier ved usikker diskonteringsrente” Veileder: Arne Bang Huseby
+
+Statistcal Research Reports:
+
+Arne Bang Huseby: ”Positive dependence from an operational point of view” No. 7,
+1994.
+
+
+
+NYTT FRA GRUPPE FOR STATISTIKK, NTH
+
+Ferdige sivilingeniører
+Lena Ringstad Olsen: ”Statistisk analyse av daglige driftsparametre
+i resirkulert anlegg
+for alproduksjon’. Veiledere: Reinhold Fieler og Trond Skotvold, Akvaplan-niva, Tromsø.
+
+(Faglærer ved NTH: Bo Lindqvist.)
+Charlotte Skourup: ”On some new measures of reliability importance”. Veileder: Stian
+
+Lydersen.
+
+Permisjon/ Vikar
+Førsteamanuensis Fred Godtliebsen har fra 1. september gått overi stilling ved Univer-
+
+sitetet i Tromsø og har permisjon uten lønn fra NTHi studieåret 1994/95.
+
+Lars Ødegaard er engasjert som amanuensis-vikar høsten 1994.
+
+
+
+29
+
+Medlemskap i Norsk Statistisk Forening
+
+Kontigenten i foreningen er på kr. 150 pr. år (kr. 90 for 1993) for regulære medlemmer og kr.
+50 for studenter (kr. 30 for 1993). Korrespondanse om medlemskap og innbetaling av
+
+kontigent skal skje til foreningens kasserer:
+
+Norsk Statistisk Forening v/Eva Seim
+Statistisk avd. Nycomed A.S.
+
+p.b. 4220 Torshov
+0401 OSLO
+
+Innbetalinger skal gjøres på foreningens postgirokonto 0802 5 15 10 55. Medlemmer som er
+usikre på når de betalte kontigent sist, vil nederst til høyre på adressseddelen for Tilfeldig Gang
+finne angitt hvilket år siste betaling er registrert for. Vær imidlertid oppmerksom på at
+adressesedlene for bladet ligger noe etter ajourføringen av medlemsregisteret, slik at nylig
+foretatte innbetalinger ikke vil være tatt med her.
+
+Nye medlemmer melder seg til kassereren under adressen oppgitt ovenfor. Slike medlemmer
+
+får automatisk tilsendt Tilfeldig Gang, med forbehold om at det tar noe tid før tilføyelser og
+forandringer i medlemsregisteret gjenspeiler seg i adressesedlene til bladet.
+Adresseforandringer meldes også til kassereren. Ved utsendelsen av Tilfeldig Gang benyttes
+det kopier av det vanlige medlemsregisteret, så adresseforandringer behøver ikke meldes
+separat til bladet.
+
+Annen korrespondanse med foreningen skal foregå med formannen under denne adressen:
+Norsk Statistisk Forening v/Eivind Damsleth
+
+Norsk Hydro
+p.b. 200
+1341 STABEKK
+
+Bidrag til Tilfeldig Gang
+
+Neste nummer av Tilfeldig Gang vil forhåpentligvis komme ut i desember 1994. Alle slags
+bidrag til bladet er velkommen, enten det gjelder nye temaer av interesse for norske statistikere,
+eller man har kommentarer til innlegg som allerede har stått i bladet. Stoff til neste nummer må
+være redaktørene i hende senest 1. desember 1994.
+Adressen til redaktørene er:
+Inge Helland
+
+Institutt for matematiske fag
+Norges Landbrukshøgskole
+Boks 5035
+
+1432 Ås
+
+Telefon 64 94 88 75
+
+Åre Aastveit
+
+Institutt for matematiske fag
+Norges Landbrukshøgskole
+Boks 5035
+
+1432 Ås
+
+Telefon 64 94 88 72
+Fax: 64 94 88 79
+Mail: are.aastveit@imf.nlh.no
+
+
+
+o
+
+i
+
+i
+
+een
+
+ati
+
+a
+|
+
+a
+Dal
+
+usa
+
+FE
+
+i]
+
+ia
+
+i
+
+|a
+
+i)
+
+i
+
+i
+
+i
+
+Bo
+
+i
+
+1
+
+o (et
+
+i
+
+ve
+
+i
+
+|
+
+im
+
+7
+
+n
+
+ft
+
+.
+
+=)
+
+oy
+
+=
+
+å
+
+um
+
+21
+
+aa
+
+:
+
+ae
+
+i
+
+7
+
+Ve ad
+
+i
+
+å
+
+å
+
+5
+
+å
+
+5
+
+ait
+
+:
+
+oe
+
+i
+
+1
+
+£55 =
+
+Ute
+
+a
+
+jur]
+
+oO
+
+c oa
+
+=F.
+
+a
+
+gå
+
+ge
+
+Dam
+
+PG
+
+il
+
+ee
+
+Ä
+
+=) os
+
+4 ge
+
+7
+
+ia
+
+it
+
+sm
+
+@,4.-
+
+sr
+
+=
+
+oddn kn
+
+#5)
+
+«5
+
+i
+
+=
+
+ee
+
+ar
+
+i
+
+ay
+
+|
+
+en
+
+*®#
+
+i
+
+ia
+
+=
+
+C=
+
+0
+
+ed
+
+PE
+
+i]
+
+i
+
+Ører
+
+8
+
+ft
+
+oi
+
+Sh
+
+=g-
+
+een
+
+Å
+
+5
+=>
+
+Mol
+
+a
+
+
+
+
+
+Returadresse:
+
+TILFELDIG GANG v/Eva Seim
+NYCOMED Imaging
+
+Postboks 4220 TORSHOV
+0401 OSLO
+
+
+

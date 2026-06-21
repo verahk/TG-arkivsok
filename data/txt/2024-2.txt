@@ -1,0 +1,925 @@
+ISSN 0803-8953
+Tilfeldig gang
+Nr. 2, årgang 41
+Desember 2024
+
+Utgitt av Norsk statistisk forening
+
+Redaksjonelt
+Artikler
+
+“The Beginning is the Most Important Part of the Work”:
+Reflections on Starting Anew in Oslo” . . . . . . . . .
+Richard Feynman, kvanteteori og statistikk. . . . . . . . . .
+Interview with Professor Sylvia Frühwirth-Schnatter . . . .
+
+Tankenøtter
+
+Pusleri nr. 61 . . . . . . . . . . . . . . . . . . . . . . . . .
+Pusleri nr. 60 (Løsning) . . . . . . . . . . . . . . . . . . . .
+
+Møter og konferanser
+
+Trondheim Symposium in Statistics . . . . . . . . . . . . .
+
+Meldinger
+
+Nytt fra Oslo senter for biostatistikk og epidemiologi . . . .
+Nytt fra Universitetet i Bergen . . . . . . . . . . . . . . . .
+Nytt fra Norges teknisk-naturvitenskapelige universitet . . .
+
+2
+3
+7
+11
+13
+18
+19
+19
+20
+
+
+
+
+
+redaksjonelt
+Fra redaksjonen
+I denne TG-utgaven skriver Kushgari Tandon om å starte et nytt
+kapittel som PhD-student i Oslo, langt fra det India hun kjenner
+som hjemme. Inge Helleland deler nye, avgjørende innsikter fra
+skjæringspunktet mellom statistikk og kvantemekanikk og Sylvia
+Frühwirth-Schnatter, som besøkte Integreat i sommer, reflekterer rundt
+Bayesiansk statistikk i både fortid og fremtid i et intervju med Olesia
+Fesenko og Aliaksandr Hubin. Dessuten kommer nye puslerier fra
+Jostein Lillestøl, som dere kan gruble på gjennom juleferien.
+På vegne av redaksjonen vil jeg takke varmt for alle bidrag til
+denne utgaven. Og, selvfølgelig, oppmuntre flere til å bidra til den
+neste.
+Med ønsker om en god jul og et godt nytt år,
+Vera Kvisgaard
+
+1
+
+
+
+artikler
+“The Beginning is the Most Important Part of the Work”:
+Reflections on Starting Anew in Oslo
+Kushagri Tandon
+As I embark on this exciting new chapter of my life as a PhD
+student in statistics at the University of Oslo, I find myself reflecting
+on the journey that brought me here. This is my first time living abroad,
+having moved here from India, and the experience reminds me of
+Plato’s words: “The beginning is the most important part of the work.”
+As I settle into life in Oslo, I’m discovering just how true this is – not
+only in my research, but in adjusting to a culture that is helping me see
+the world in new ways.
+Oslo has a calm, understated charm, with its crisp air, quieter pace,
+and open spaces. It’s a big shift from the lively energy I’m used to,
+and I’m still learning to adjust. People work with focus and intention,
+but there’s a clear respect for personal boundaries and time outside of
+work. Here, work-life balance isn’t just a goal but a standard way of
+living. I’m used to a faster, more demanding rhythm, so this approach
+has been surprising but refreshing.
+Since childhood, I’ve been fascinated by the natural beauty of
+Norway. I still remember reading about the northern lights in an old
+encyclopedia, its pages filled with images of green and purple skies
+that seemed otherworldly. I’d always dreamed of seeing the aurora in
+person, but I hadn’t imagined it would happen so soon after moving
+here. I’ve been lucky to catch glimpses of it a few times in Oslo, and
+each time, it feels surreal—like a childhood dream coming to life.
+There’s a kind of magic in the air when those lights dance across
+the sky, a reminder of the unique wonders this place has to offer.
+The nearby forests, fjords, and even Oslo’s cold evenings feel like
+reminders that nature is very much alive here.
+The academic environment at UiO has been one of the most
+rewarding aspects of this experience. The statistics department
+holds frequent seminars and discussions that go beyond any single
+specialization, giving me a chance to broaden my understanding
+and explore areas outside my primary research. It’s invigorating to
+engage with a range of topics, from applied statistics to theoretical
+developments, and to hear about the diverse projects my peers and
+mentors are working on. This environment has enriched my own
+perspective on statistics and deepened my appreciation for the
+collaborative nature of our field.
+The work culture itself has been a revelation. Research here
+doesn’t feel like a race; there’s a focus on depth, curiosity, and genuine
+collaboration. At first, the pace felt unfamiliar, and I wasn’t sure how
+to adjust. But I’m beginning to see how this approach invites new ways
+of thinking, how it values quality over quantity. My colleagues have
+2
+
+
+
+been welcoming, and their support makes me feel at home even in this
+unfamiliar setting.
+That’s not to say it’s been easy. Admittedly, the social reserve here
+has taken some getting used to. I miss the spontaneous connections
+and warmth of home, where conversations flow easily and friendships
+are quickly built. Here, people are a bit more reserved, valuing privacy
+and meaningful engagement over small talk. It’s a shift, but in its own
+way, I’ve found it grounding. The colleagues I’ve met so far have been
+warm and supportive, even if it takes time to break the ice. Each small
+conversation over coffee or lunch feels like a step closer to connection
+and a place within this new environment.
+And then there’s the language. Norwegian is a riddle I’m
+determined to solve, even though I struggle with pronunciations and
+intonations that feel entirely foreign to me. My attempts at basic
+phrases have led to a few grocery store misadventures, bringing to
+mind Oscar Wilde’s words: “Experience is merely the name men gave
+to their mistakes.” At this rate, I’m gaining plenty of “experience” each
+week, but I’m hopeful that with time (and patience from the cashiers),
+I’ll crack the code.
+All told, the experience of settling into Oslo has been equal
+parts challenging and rewarding. I’m grateful for the chance to
+work on something I love in a place that offers a different way of
+thinking and living. These first few months in Oslo have been full of
+discoveries—about myself, my work, and this new way of living. With
+each day, Oslo feels a bit less foreign and more like an adventure
+I’m meant to be on. I’m hopeful that as time goes on, these early
+experiences will continue to deepen and enrich my journey, both
+personally and professionally. Thank you for reading, and for joining
+me in this new chapter.
+
+3
+
+
+
+Richard Feynman, kvanteteori og statistikk
+Inge Hellanda)
+
+I årevis har jeg prøvd å trenge inn i grunnlaget for kvantemekanikken, slik en statistiker kan se det, og i løpet av disse
+årene har jeg også gitt noen rapporter fra denne prosessen her
+i TG. Nå mener jeg at de siste brikkene har falt på plass, og
+den som har dyttet dem på plass for meg, er en kjent fysiker
+som heter Richard Feynman. Den samme Richard F. var litt
+av en personlighet. Han briljerte som teoretiker, foreleser og
+formidler, men det en del utenforstående husker best om han,
+er den sære hobbyen han hadde: Han likte å gå ut i skogen for
+seg selv med et sett Bongo-trommer, sette seg ned, og gi en
+heidundrende Bongotromme-konsert gjennom skogen.
+Kvantemekanikken bruker komplekse tall som grunnlag for
+å beregne sannsynligheter. Disse komplekse tallene kan bli
+representerte som vektorer i xy-planet, og i boken [1] forklarer Richard Feynman i detalj hvordan man kan operere med
+disse vektorene for å finne sannsynligheter: 1) Sannsynlighet
+kan finnes ved å kvadrere normen av vektorene. Dette er
+koblet til Born’s regel; som jeg har diskutert tidligere i TGartikler; 2) En vektor som beskriver unionen av et sett av disjunkte begivenheter, finnes ved å addere vektorene knyttet til
+enkeltbegivenhetene; 3) En vektor som beskriver et snitt av to
+uavhengige begivenheter, finnes ved å ta et spesielt produkt
+av vektorene knyttet til de to enkeltbegivenhetene: Normene
+multipliseres, og vinklene de danner med x-aksen adderes
+(med fortegn).
+For en som kjenner til komplekse tall, kan alt dette forenkles: 1) Sannsynlighet kan finnes ved å kvadrere normen av
+det komplekse tallet; 2) Et komplekst tall som beskriver unionen av et sett av disjunkte begivenheter, finnes ved å ta summen av de komplekse tallene knyttet til enkeltbegivenhetene:
+3) Et komplekst tall som beskriver et snitt av to uavhengige
+begivenheter, finnes ved å ta produktet av de komplekse tallene knyttet til enkeltbegivenhetene. Hvis man tenker seg litt
+om, har dette en geometrisk tolking som i avsnittet over.
+Alt dette er selvfølgelig helt forskjellig fra hva vi som statistikere har lært av Kolmogorov. Grunnlaget er altså at man kan
+knytte komplekse tall til begivenheter. Det må innrømmes at
+Feynman diskuterer en spesiell situasjon: Fotoner som starter
+i et punkt S og gjennom forskjellige begivenheter ender opp i
+et punkt D. Men ut fra denne situasjonen kan han diskutere
+mange kjente fenomener ved lys: Hvis uhindret, går de i en
+rett linje; ved refleksjon i et speil er innfallsvinkel lik utfallsvinkel; ved refleksjon i en tynn glassplate varierer styrken
+som en sinusfunksjon av tykkelsen; lengden av sinusbølgene
+avhenger av bølgelengden, og så videre. Dette er fenomener
+som kan observeres direkte, og ifølge Richard Feynman, kan
+alt begrunnes ut fra kvantemekanikken.
+Så la oss se på fotoner som starter i punktet S, ankommer til
+slutt i punktet D, og kan ta forskjellige veier. Standard kvantemekanikk beskrive tilstanden til et foton ved det som kalles
+
+a) Electronic mail:
+
+ingeh@math.uio.no
+
+ket-vektorer |vi i et Hilbertrom, i det endelig-dimensjonale
+tilfellet, komplekse normerte søylevektorer. Her kan ‘tilstand’ svare til det vi vil kalle ‘begivenheter’ for fotonet, tilstanden etter at denne begivenheten er kjent. De tilsvarende
+komplekskonjugerte rekkevektorene hv| kalles bra-vektorer.
+Skalarprodukter av typen hu|vi er viktige. Når normen av slike
+kvadreres, får vi etter Born’s regel sannsynligheter.
+La nå E betegne den begivenheten at et foton starter i S og
+etter en tid rekker D. La E være representert ved den faste ketvektoren |vi. Vi er interesserte i betinget sannsynlighet, gitt E
+for en typisk annen begivenhet, en som har ket vektoren |ui
+knyttet til seg. Etter Born’s regel er denne |z|2 , der z = hu|vi.
+Dette gir altså Feynman’s regel 1). Hvordan kan reglene 2) og
+3) begrunnes?
+Regel 2) ser ut til å kreve at når |u1 i og |u2 i betegner to
+(disjunkte) veier fotonet kan gå, vil |u1 i + |u2 i være knyttet til unionen av disse to veiene. Dette kan begrunnes ved
+å bruke min teori for teoretiske variable, en teori som jeg
+vil komme tilbake til nedenfor. Definer følgende to variable:
+θ1 er en indikatorvariabel som er 1 hvis fotonet går den ene
+veien, 0 ellers, tilsvarende θ2 for den andre veien. Ifølge min
+teori, og ifølge standard kvantemekanikk, finnes det et abstrakt Hilbertrom H , og to operatorer i dette Hilbertrommet,
+A1 og A2 , den første knyttet til θ1 , og den andre til θ2 . Den
+viktigste betingelsen for å få til dette er at hele situasjonen
+kan beskrives av en observatør eller av en gruppe observatører
+som har den egenskapen at de samtidig, relativt til situasjonen, tenker på to forskjellige vaiable θ og η som er maksimalt
+tilgjengelige. I tilknyning til fotoner er det naturlig å, i en eller
+annen forstand, knytte θ til partikkel-bildet av fotonet, og la
+η være knyttet til bølge-bildet av fotonet, to komplementære
+bilder.
+La oss gå tilbake til de to indikatorvariablene θ1 og θ2 og
+deres operatorer. Ifølge teorien har A1 to egenverdier som
+svarer til de mulige verdiene for θ1 , tilsvarende for A2 . La
+|u1 i være egenvektoren for A1 som svarer til θ1 = 1, og la |u2 i
+være egenvektoren for A2 som svarer til θ2 = 1
+Se på operatoren A0 = A1 + A2 , og anta at de to begivenhetene beskrevet ved θ1 og θ2 er disjunkte. Det følger at
+θ1 = 1 ikke kan skje samtidig med θ2 = 1, og når Born’s regel
+brukes på dette, må nødvendigvis |u1 i og |u2 i være ortogonale. Men da er |ui = |u1 i + |u2 i en egenvektor for A0 med
+egenverdien 1, og enhver vektor som er ortogonal til |ui vil
+være en egenvektor for A0 med egenverdien 0. La ξ være en
+teoretisk variabel knyttet til A0 . Siden A0 har egenverdiene
+0 og 1, kan vi la ξ være en indikator-variabel, og den indikerer da unionen av de to veiene fotonet kan gå. Forutsetningen for regel 2) er altså oppfylt ved kvantemekanikken (og,
+som jeg vil komme tilbake til, ved det grunnlaget for kvantemekanikken son jeg har foreslått).
+Regelen 3) kan begrunnes på en lignende måte for to
+uavhengige begivenheter E1 og E2 , når disse er knyttet til
+to forskjellige veier for fotonet. La de to komplekse tallene
+z1 = hu1 |vi og z2 = hu2 |vi være knyttet til disse to begiven-
+
+
+
+2
+hetene. De to ket-vektorene |u1 i og |u2 i kan være egenvektorer for A1 og A2 , den første konstruert ut fra en indikator θ1
+for begivenheten E1 , og den andre konstruert ut fra en indikator θ2 for begivenheten E2 .
+Skal en se på snittet av to forskjellige begivenheter E1 og
+E2 , må en ifølge standard kvantemekanikk se på tensorproduktet av to Hilbertrom H1 og H2 , det første slik at indikatoren for E1 har en operator A1 i H1 , og det andre slik at indikatoren for E2 har en operator A2 i H2 . I Feynman’s tilfelle
+er de to Hilbertrommene identiske, og vi må se på H ⊗ H .
+En spesiell vektor her er |u1 i ⊗ |u2 i, som er er egenvektoren
+med egenverdi 1 for operatoren A1 ⊗ A2 , med A1 og A2 som
+definert over. Denne operatoren viser seg å være operatoren
+knyttet til indikatoren for E1 ∩ E2 . Og hvilket komplekst tall
+knyttes til denne begivenheten når z1 = hu1 |vi og z2 = hu2 |vi?
+For å forstå dette, må vi godta at den vektoren i H ⊗ H som
+betegner den grunnleggende begivenheten E (at fotonet starter
+i A og avlutter i B), er |vi⊗|vi. Da gir en anvendelse av Born’s
+regel at svaret er z1 z2 .
+Det hele blir kanskje nå litt for teknisk, men poenget er
+følgende: Når z1 er knyttet til E1 og z2 er knyttet til E2 , kan
+det vises as z = z1 z2 kan knyttes til E1 ∩ E2 .
+Når alt dette er sagt, må det også sies at regel 3), gitt
+regel 1), er helt i tråd med vanlig statistikk for uavhengige
+begivenheter: P(E1 ) = |z1 |2 , P(E2 ) = |z2 |2 gir P(E1 ∩ E2 ) =
+|z1 |2 |z2 |2 = |z1 z2 |2 .
+Så hva er det, ifølge diskusjonen over, som skiller kvantesannsynligheter fra vanlige sannsynligheter? Jo, for det første
+er alle sannsynligheter betingete, gitt en begivehet E. For de
+andre finner vi sannsynlighetene ved å addere komplekse tall
+- noe vil kalle dem sannsynlighetsamplituder, andre bølgefunksjoner - og kvadrere normen av summen.
+Dette har en rekke konsekvenser. For det første gjelder ikke
+alltid loven om total-sannsynligheter. (P(A ∪ B) = P(A) +
+P(B) for disjunkte begivenheter.) Dette har igjen som konsekvens at det såkalte ‘sure thing principle’ ikke nødvendigvis
+holder: Hvis A er sann under betingelsen B og også under
+betingelsen ikke-B, er A alltid sann. I kvantemeknikken opererer en med betingelser som hverken er B eller ikke-B. Det
+enkleste er om vi igjen snakker om subjektive observasjoner
+gjort av en person eller av en gruppe personer som kan kommunisere innbyrdes. Da kan vi også ta hensyn til betingelsen
+‘vi vet ikke’. Personen eller personene har fokusert på andre
+variable.
+La oss gå tilbake til Richard Feynman’s bok [1]. Han
+diskuterer også det velkjente tospalte-eksperimentet: La
+monokromatisk lys fra kilden S skinne gjnnom to spalter A
+og B som ligger nær hverandre, og la lyset treffe en skjerm
+bak spaltene. Hva vi ser, er et interferens-mønster, og dette
+selv om vi har så svakt lys at vi kan tenke oss at det bare kommer et foton om gangen. Dette er et klart eksempel på noe
+som kan forklares ved kvantemekanikken, og det er et klart
+eksempel på at P(A ∪ B) blir forskjellig fra P(A) + P(B).
+Men hva skjer om vi knytter en liten detektor til hver av
+spaltene, en detektor som forteller hvilken spalte hvert foton
+går igjennom? Da blir plutselig P(A ∪ B) = P(A) + P(B). Her
+er det snakk om to komplementære eksperimenter, der ordet
+komplementær i sin tid ble innført av Niels Bohr. I det ene
+
+eksperimentet oppfører lyset seg som bølger, i det andre som
+partikler. Det avgjørende er hvilken kunnskap vi har: Vet
+vi om hvilken spalte fotonet går igjennom, får vi partikkeloppførsel, hvis ikke, får vi bølge-oppførsel. På en måte spiller
+observatøren en rolle i disse eksperimentene, også. Men i
+dette tilfellet kan alle oservatører kommunisere om hva som
+skjer.
+Boken [1] diskuterer mye mer. Feynman gir en enkel forklaring på hvordan elektroner beveger seg, og hva som skjer
+når et elektron absorberer eller sender ut et foton. Tilsammen danner disse fenomenene grunnlaget for det som kalles
+kvanteelektrodynamikk (QED), en teori funnet av Feynman
+selv sammen med endel andre forskere. Enkle diagrammer
+- Feynmandiagrammer - knyttes til forskjellige begivenheter
+og danner en bakgrunn for beregning av komplekse sannsynlighetsamplituder, amplitudene adderes, og kvdratet av normen til summen gir sannsynligheter. Fra kvanteelekrodynamikken igjen, gir Feynman konsekvenser for en rekke fysiske og kjemiske fenomener. Alt er altså basert på enkle operasjoner med komplekse sannsynlighetsamplituder.
+For Feynman var alt dette ren formalisme. Han adderte
+piler og tok norm kvadrert for å få sannsynligheter. Eller
+adderte komplekse sannsynlighetsamplituder og tok norm
+kvadrert for å få sannsynligheter. Regelen om sannsynligheter
+kalles Born’s regel. Tusenkroners-spørsmålet er da: Kan vi
+finne et sett med naturlige postulater slik at alt dette, inklusiv
+Born’s regel kan utledes fra disse postulatene? I [2] har jeg
+forsøkt meg på dette, ut fra 6 forholdsvis enkle postulater (I
+ettertid: Et sjuende postulat trengs for å takle sannsynligheter
+for uavhengige begivenheter, diskutert over. Dette, sammen
+med en forenkling av hele teorien, er nettopp publisert [11].)
+Ett av postulatene er likelihoods-prinsippet fra statistikk.
+De fleste av de andre er relativt intuitive, men et par av dem
+fortjener å nevnes her. Da må jeg også nevne grunnbegrepet i
+teorien, nemlig det jeg kaller teoretiske variable, som i en gitt
+kontekst antas å være knyttet til en person eller til en gruppe
+kommuniserende personer. I fysikk er disse fysiske variable,
+men jeg har også mulighet til å generalisere teorien. I statistikk kan de teoretiske variablene være parametre, i beslutningsteori beslutningsvariable. Det eneste jeg forutsetter matematisk, er at hvis λ er en teoretisk variabel, og θ er en funksjon
+av λ , da er θ en teoretisk variabel.
+De teoretiske variablene kan være det jeg kaller tilgjengelige eller utilgjengelige. I fysikk betyr tilgjengelig at de
+kan måles så nøyaktig som vi ønsker det. I statistikk at de
+kan estimeres, gitt et estimeringsprinsipp. Det eneste jeg forlanger rent matematisk, er at hvis λ er tilgjengelig, og θ er en
+funksjon av λ , er θ tilgjengelig.
+Tilbake til postulatene: Et av dem er at det, i enhver gitt
+konlekst og relativt til en observatør eller en gruppe observatører, finnes en utilgjengelig variabel φ slik at alle tilgjengelige variable kan sees på som funksjoner av φ . I enkle fysiske eller statistiske eksempler er det lett å begrunne dette.
+Et siste postulat, som trengs for å bevise Born’s regel, er
+følgende: Observatøren (gruppen av kommuniserende observatører) har idealer som kan modelleres ved en konkret eller
+abstrakt person D som er fullkomment rasjonell.
+De to siste postulatene kan taes akkurat som de er, men som
+
+
+
+3
+helt generelle antakelser kan de også begrunnes ved en tro på
+at det finnes en rasjonell Gud som har all nødvendig kunnskap.
+Dette er nærmere diskutert i [3].
+Jeg nevnte at de teoretitske variablene mine også kan være
+beslutningsvarisble (se [4]). Anta at en person (eller en gruppe
+kommuniserende personer) i en gitt situasjon har valget mellom å gjøre tiltakene a1 , a2 , ..., ar . Da kan vi definere en
+beslutningsvariabel θ som lik k hvis tiltaket ak velges. Denne
+defineres som tilgjengelig hvis personen(e) virkelig er i stand
+til å gjennomføre beslutningen. Dette er utgangspunktet for
+en rik teori (kvantebeslutningsteori), som nå utforskes videre.
+Det finnes i litteraturen en ganske omfattende empirisk
+grunnlag for kvantebeslutningsteorien (se for eksempel [5] og
+[6]). Det er mye som tyder på at dette kan sees på som en modell som beskriver svært mange av de daglige beslutningene vi
+alle gjør, og kanskje også mer komplekse beslutninger, som
+de som gjøres av vitenskapsfolk og politikere. Alt dette må
+også sees i sammsnheng med en grunnleggende diskusjon om
+fri vilje.
+Det må også sees i sammenheng med tradisjonell beslutningsteori, grunnlaget for mye statistikk og økonomisk teori,
+som bygger på forventet tap eller gevinst. Min påstand er at
+vi alle i løpet av livet gjør en mengde beslutninger, og for meg
+er det unaturlig å forestille seg at vi tenker på (økonomisk) tap
+eller gevinst i alle disse sammenhengene.
+Hvis denne påstanden er riktig, kan det se ut som om vi
+må oppgradere synet vårt på kvanteteorien. Den kan også
+ha makroskopiske konsekvenser, konsekvenser som har relavans for mange fagområder. Dette samsvarer godt med synet
+til den svenske kvanteteoretikeren Andrei Khrennikov, som i
+flere bøker og artikler (for eksempel [7]) har argumentert for
+at kvantelignende modeller har et svært omfattende sett av anvendelser.
+Min påstand er at slike modeller også kan ha relevans for
+statistisk teori og anvendelser, og dette er noe jeg prøver å
+arbeide med nå. Men i et slikt arbeide er det også vanskeligheter. Ett aspekt er at vi alle, ifølge nettopp kvanteteorien,
+har våre begrensninger, se [8]. Helt konkret, følger følgende
+fra teorien min: Dersom det er knyttet to forskjellige maksimale og relaterte beslutningsvariable θ og η til en person, kan
+ikke denne personen samtidig tenke på en tredje teoretiske
+variable ξ , som er relatert til θ , men ikke til η. Populært:
+Vi har vanskeligheter med å tenke på mer enn to forskjellige
+maksimale variable samtidig. Alle begrepene her kan gjøres
+presise. ‘Samtidig’ er en helt nødvendig presisering. Lar vi
+tiden gå, er vi i stand til å tenke på svært mye forskjellig.
+Dette er ikke bare teori. Etter mitt syn er en slik påstand nødvendig for å kunne forstå et konkret eksperiment som
+fysikerne har vært svært opptatte av: Bell-eksperimentet. Men
+det er en helt annen historie.
+
+I alle fall kan alt dette gi oss litt å tenke på, også - og kanskje
+ikke minst - om vi er statistikere.
+—
+PS.
+Feynman’s QED er nå ført videre i moderne kvantefeltteori, som danner grunnlaget for store deler av fysikken. Blant
+annet ligger den bak standardmodellen i elementærpartikkelfysikk, som representerer grensen for hva man i dag vet om
+elementærpartiklene. For en meget grundig innføring, se
+Steven Weinberg’a bok [9]. Blant åpne problemer i teoretisk fysikk kan nevnes problemet med å få til en skikkelig syntese mellom kvanteteorien og generell relativitetsteori.
+Flere forskningsgrupper rundt om i verden arbeider med dette.
+Med utgangspunkt i mitt eget kvantegrunnlag har den indiske
+fysikeren Harish Parthasarathy og jeg gjort oss endel tanker
+omkring problemet i boken [10], som kommer snart.
+
+REFERANSER
+
+[1] Feynman, R. (1985). QED. The Stange Theory of Light
+and Matter. Princeton University Press, Princeton.
+[2] Helland, I.S. (2024a). A new approach towards quantum foundation and some consequences. arXiv: 2403.09224
+[quant-ph]. Academia Quantum 1, 1-9.
+[3] Helland, I.S. (2023a). Quantum mechanics as a theory
+that is consistent with the existence of God. Dialogo Conferences & Journal 10 (1), 127-134.
+[4] Helland, I.S. (2023b). A simple quantum model linked
+to decisions. Foundations of Physics 53,12.
+[5] Busemeyer, J.R. & Bruza, P.D. (2012). Quantum Models for Cognition and Decisions. Cambridge University Press,
+Cambridge.
+[6] Pothos, E.M. & Busemeyer, J.R. (2022). Quantum cognition. Annual Review of Psychology 73, 749-778.
+[7] Khrennikov, A. (2023). Open Quantum Systems in Biology, Cognitive and Social Sciences. Springer, New York.
+[8] Helland, I.S. (2022). The Bell experiment and the limitations of actors. Foundations of Physics 52, 55.
+[9] Weinberg, S, (1995). The Quantum Theory of Fields.
+Vol. 1.Fundamentals. Cambridge University Press, Cambridge.
+[10] Helland, I.S. & Parthasarathy, H. (2024). Theoretical
+Variables, Quantum Theory, Relativistic Quantum Field Theory, and Quantum Gravity. Taylor & Francis, Abingdon.
+[11] Helland, I.S. (2024b). Some mathematical issues regarding a new approach towards quantum foundation. arXiv:
+2411.13113 [quant-ph].
+
+
+
+Interview with Professor Sylvia Frühwirth-Schnatter
+Sylvia Frühwirth-Schnatter, a renowned Austrian statistician, visited Integreat and the Department
+of Mathematics for her seminar on Bayesian Factor Analysis on 7 June 2024.
+
+Sylvia Frühwirth-Schnatter, photo by Vienna University of Economics and Business (WU), 2017
+
+In this interview Professor Frühwirth-Schnatter looks back at 40 years of her career, reflects on the future of Bayesian statistics, and shares her
+professional insights with early career researchers.
+
+What did initially spark your interest in Bayesian analysis and how did your academic journey
+lead you this way?
+
+I studied mathematics at the University of Technology and I didn’t plan to become a statistician right away. I was particularly interested in numerical
+analysis and Markov processes. It became clear to me early on that I'm not going to make any contributions in number theory or any other
+theoretical field.
+After my third year, I was invited to undergo an internship at the Department of Water Resources Research and Hydrology. And as it turned out,
+Dieter Gutknecht, one of the professors, just came back from the US (I think he was at MIT), where he got interested in Bayesian statistics and read
+the famous book of Arnold Zellner. He asked me: “Do you know anything about Bayesian statistics?” And actually, among the elective courses I took
+that year, there was a lecture about reliability theory. And at the very end, Reinhold Viertl who was teaching this course talked about Bayesian
+statistics, referring to the book by Raiffa and Schlaifer, and I really loved it. So I said to Dieter Gutknecht: “Yes, I think I know a bit about Bayesian
+statistics”. And this is how it all started - with a two month internship at an engineering department. After that, I got involved in an industrial project at
+the same department for four years and this is also when I started to work on Bayesian state space models and Kalman filtering. This is an amazing
+thing: you can plan your career, but in the end you see an opportunity, you seize it, and then it turns into something that has been lasting now for 40
+years.
+
+
+
+What are the most significant decisions that you have made throughout the career and that
+allowed you to become who you are? Could you give any advice to the early career researchers,
+who might be striving to get such achievements?
+
+It's a complex question, of course. What makes you successful in science?
+I would say the most important thing is to choose a subject that you really like, that you even love, because you will work on it for years and
+sometimes for decades. In this sense, I was very lucky to get involved in Bayesian statistics, because it was just the right moment. The methods
+had been there for quite some time, but were not used much because of computational limitations. So, above all, I recommend to look for an
+interesting research field with the potential of further growth.
+Then it very much depends on whether you are a more risk-averse person or if you love risk. Moving into a new under-researched area is a risky
+business because you never know whether you are going to succeed. But from my experience and what I have seen from others, it is very
+rewarding to create something new that you really like and that you can be proud of.
+And then of course, there are some personal traits that I think are important. Whatever I've been doing, I was always strongly committed, whether it
+was writing a paper, providing a referee report or teaching students at any levels. So, I would say that commitment and working hard is probably
+part of the success.
+
+What were the most significant challenges that you encountered in your research and how did
+you overcome them?
+
+Early in my career, I've been working outside the mainstream of the Austrian community and frequentist statistics. So, colleagues were often saying:
+“Why are you working on this?” This was quite hard for me because I did not really feel as accepted as I am now in the Austrian statistical
+community. So, what I did was seeking an international context. Already during my first years as a young postdoc at the University of Technology, I
+was already traveling to many conferences. Back then, there was no financial support from the university and I had to fund these trips out of my
+small postdoc salary. But I think it was tremendously important that I went to these international conferences, met Bayesians from all over the world
+and started to create my personal scientific network. Over the years, I got a lot of recognition from the international community and this helped me a
+lot to overcome this depression. So this is an advice I can give you: seeking contact with people who are working on the same subject within or
+outside your institution. These relationships can be very helpful in difficult situations, especially when you start thinking: “Oh, maybe I should leave
+academia, maybe I do something wrong”.
+Another challenge is finding the balance between working on your research and your personal life. Many of us mathematicians would prefer to sit in
+the office and work quietly on our problems. In addition to potentially starting a family, you will take over additional work-related duties as you are
+climbing the career ladder, like becoming an associate editor for a scientific journal and/or contributing to leadership and self-governance at your
+institute and your research institution or university. I've been chair in total for 12 years and there are a lot of challenges that come with that position.
+Sometimes I found it hard to find this balance, as a quiet and timid person. People call it life work-life balance, but it's much more complex in
+academia. As researchers, we need to be so many different persons at the same time, we have to be good administrators, we have to be brilliant in
+writing, and so forth. And this is the advice I would give: make time for whatever is most important at the moment and then be fully engaged. And the
+weekends should be reserved for your private life (which, admittedly, often didn’t work out for me in the last 10 years).
+
+What do you think has become better in academia?
+
+What I think did improve is that younger researchers get more recognition for the work they are doing. And I also think, in particular after the whole
+Covid-19 crisis, in institute management we care much more about the well-being of young researchers. It is also my impression that we care more
+about placement and where people will go. When I was a doctoral student, there was not much institutional support in career planning and figuring
+out where I would like to go next and what I would like to achieve.
+
+
+
+In 1977, nearly half a century ago, when I said that I wanted to study mathematics, people were very surprised that I didn't want to become a
+teacher because this was the most probable pathway for a girl who loved mathematics. But I insisted: “Well, I want to study technical mathematics”.
+Sometimes, it was really hard. There were situations at the university, when I would make a small mistake at an exam, and one of the teachers
+would say: “Okay, this is again proof that women are not suitable to study mathematics”. When you ask me about the past, all these unpleasant
+memories are coming back. But it is a relief to know that this won't happen anymore to any young woman, because any teacher who would say
+anything like this would immediately get into big troubles. So, this would be my advice to any young woman: if you feel this is really what you would
+like to do, then just do it.
+
+Now we have this boom of large-scale generative Al models that people are using for writing,
+coding, and even for generating some research questions. But, of course, those are also partially
+based on some Bayesian or probabilistic ideas. How do you see the perspective of Bayesian
+statistics today, in the era of these large-scale Al models? How have you seen the Bayesian
+statistics evolve over the last 40 years? Is it the end that we are experiencing right now, or is it
+the new beginning? Or is it just a normal thing that is happening as a part of the evolution of the
+field
+
+Regarding today’s situation, I think that variational Bayes is something that should be pursued, even if we know about the challenges with
+variational Bayes for latent models such as state-space models. I think many of us have enough formal training to not just use variational Bayes as
+a machinery and just try to find some approximation, but rather think carefully about the method. How can we set up variational Bayes in such a way
+that by investing more resources (say computing or coding time) we can get a better approximation?
+Of course, there is always a bias when you use approximations. As I learned from Arnoldo Frigessi during my visit, you had to do Covid-19 forecasts
+within 48 hours (or even less) and then you don't have much time and will have to life with the bias. But in a situation, where you have more time,
+we need a technique that is adjustable to the resources we have. And I think that with variational Bayes, as it is commonly used nowadays, there is
+still room for considerable improvement.
+When I started out in the 1980s, people were using orthogonal integration to perform approximate Bayesian inference. There you could decide how
+many grid points you're taking to improve the approximation under limited computational resources. And I think something similar would be very
+useful for modern scalable Bayesian methods. It is also an area where mathematicians with their formal training could contribute a lot and
+collaborations are always a source of inspiration.
+
+Can we say that Bayesian statistics has, in fact, won? Since four out of five cases of modern
+machine learning and signal processing is Bayesian?
+
+It's a very good question and it goes back 100 years, to the fight between Jeffreys and Fisher. In my opinion, it's not about who is winning here, it's
+about what kind of data we are analyzing. And there will always be a need for frequentist statistics, in particular, in repeated experiments. This is
+what Fisher has been doing, creating experimental data that were a perfect match for the math that he developed, as opposed to Jeffreys who was
+working on analyzing earthquake data. Every earthquake is different and Bayesians offer techniques that can deal with just the data that we have,
+where we don't have repeated measurements. I think it's not a fight and there are no winners. Bayesian statistics has gained the recognition it
+deserves, it's part of the toolbox that we are using as statisticians, based on the data we have, based on the problems that we would like to solve,
+and based on what actions are taken based on our results.
+Let's say you want to do uncertainty quantification in an applied research project. Then I don't know of any other statistical methods which can do
+that as easily as Bayesian statistics. On the other hand, in a business situation where a manager has to make a quick decision and a data scientist
+is asked to take a look at some data and to provide a summary without much delay, then you will probably not utilize complex Bayesian models
+estimated via MCMC.
+
+
+
+It has to be admitted that in most scientific fields, by statistics people mostly know and
+understand the frequentist statistics. Most people would not even have heard about the Bayesian
+statistics. And, of course, it makes it still quite difficult to sell the methods to them and also to
+publish methods in their journals. Still, it is in the field of large-scale Al and machine learning that
+Bayesian statisticians really strive. It's where we can apply and strive, it's where we can be
+published, prominent, and noticed. Yet, in the very basic fields where people are using statistics,
+even today, in 2024, it is quite often difficult to persuade people to use Bayesian methods, very
+much make them want to. So, what do you think about that?
+
+I think a really reliable and convenient software environment for Bayesian inference would be an important step into this direction. It's not only about
+providing an R package that goes with a paper, but to provide a comfortable software environment with a very good user interface and sensible
+default prior choices. We have been trying to do this in our group in recent research projects and every time we worked hard on the design of good
+default prior choices. In the shrinkTVP package, for instance, we allow the parameters in a regression model to change over time and it is a
+hierarchical model with really complex shrinkage priors. But as a user, you only need to provide the covariates and the outcomes due to our default
+prior choices and there's a full interface, including many plotting and other features. And there are many more examples of good software provided
+by the Bayesian community. I think it is really important to have such tools for practitioners so that they can focus on the interpretation of the results
+rather than looking into the technology.
+I don't know much about the technology behind my iPhone and, still, I'm very happy with it. If we could achieve something similar with Bayesian
+software, I think this would be a great step forward.
+
+About Sylvia Frühwirth-Schnatter
+Sylvia Frühwirth-Schnatter is currently professor of applied statistics and econometrics at the Vienna University of Economics and Business. She
+took her PhD at the Technical University of Vienna in mathematics and business and economics and is known for her research in Bayesian analysis.
+Before starting her current professorship at the University of Economics and Business, Sylvia was a professor at Johannes Kepler University in Linz.
+Since 2014, Sylvia is a full member of the Austrian Academy of Sciences and a recipient of multiple awards and prizes, including the famous
+Bayesian DeGroot Prize and numerous prizes for the best paper at the Vienna University of Economics and Business.
+Read more about Integreat research here
+
+Av Aliaksandr Hubin, Olesia Fesenko
+Publisert 2. sep. 2024 14:02 - Sist endret 17. okt. 2024 09:36
+
+
+
+tankenøtter
+
+11
+
+
+
+Pusleri nr. 61
+På din arbeidsplass er det kun ett toalett. Om det er ledig eller opptatt skal markeres med et
+skyveskilt på utsiden av døren, der hver bruker ved ankomst skyver til Opptatt (O) og ved
+utgang skyver tilbake til Ledig (L). I midlertid er det mange brukere som ikke følger den
+pålagte rutinen. Anta at bare 1/3 av brukerne gjør det, mens 1/3 markerer Opptatt, men
+glemmer å skyve tilbake til Ledig etter bruk. Den siste 1/3 bryr seg ikke om skiltet i det hele
+tatt, og lar det stå urørt. Endelig anta at toalettet i virkeligheten er opptatt ½-parten av
+tiden.
+Hva er sannsynligheten, gitt at dørskiltet viser Opptatt, for at toalettet virkelig er opptatt?
+Hva er sannsynligheten, gitt at dørskiltet viser Ledig, for at toalettet virkelig er ledig?
+
+Løsning til
+jostein.lillestol@nhh.no
+
+
+
+Pusleri nr. 60 (løsning)
+Oppgaven var: Et lag med n=5 basketspillere er oppstilt i en ring sammen med treneren som
+har ballen. Treneren starter en ballutveksling mellom de 6 i ringen inntil alle spillere har fått
+kjenne på ballen. Finn forventet antall ballutvekslinger i følgende situasjoner
+(a) Enhver sender ballen videre til en tilfeldig av de fem andre.
+(b) Enhver sender ballen videre til en tilfeldig av de to naboene i ringen.
+Påstand i (b): Alle har samme sjanse for å bli den siste som får kjenne på ballen.
+Sant eller Usant?
+Løsning: Vi kan like gjerne studere problemet for vilkårlig n, og tegner her en figur med n=7,
+der trener er gitt nr. 0, og spillerene nr. 1,2,…,7 med urviserene. I tillegg er navngitt personer
+i hver av fire himmelretninger.
+
+Situasjon (a): Antall ballutvekslinger kan betraktes som summen av «ventetidene» fra en ny
+deltaker med ballen til den neste nye. Med n+1 personer og start hos treneren har den
+første spiller ballen etter 1 tidsenhet, og sannsynligheten for at denne sender ballen videre
+til en ny spiller (og ikke treneren) er (n-1)/n. Går ballen tilbake til trener, er det på nytt
+sannsynlighet (n-1)/n for at neste mottaker er en ny spiller, og så videre. Vi har derfor en
+geometrisk fordelt ventetid med forventning n/(n-1). Når akkurat k spillere har fått kjent på
+ballen er sannsynligheten for at neste mottaker er en ny spiller lik (n-k)/n med forventet
+ventetid n/(n-k), som vil gjelde for k=0,1,…,n-1. Forventet ventetid Fn til alle n spillere har
+fått kjent på ballen er dermed summen av disse
+Fn = n∙(1 + ½ + 1/3+…+ 1/n) for n≥1
+Vi ser at Fn = n∙ Hn , der Hn er den såkalte harmoniske rekken. Beregning gir for n=1,2,…,9
+
+
+
+n
+Fn
+
+1
+1.0
+
+2
+3.0
+
+3
+5.5
+
+4
+8.3
+
+5
+11.4
+
+6
+14.7
+
+7
+18.2
+
+8
+21.7
+
+9
+25.5
+
+Her er for n=5 F5 =137/12≈11.4.
+
+Alternative opplegg: Dersom vi isteden antar at hver deltaker ikke returnerer ballen
+umiddelbart til avsender, får vi isteden Fn = 1+(n-1)∙Hn-1 med F5 =1+25/3≈9.3. Dersom vi
+antar at ballen også må være innom treneren minst en gang etter starten blir isteden Fn =
+1+n∙Hn med F5 =1+137/12≈12.4. Dersom vi antar at treneren står utenfor ringen, og starter
+det hele ved å kaste ballen til en tilfeldig spiller blir Fn = (n-1)∙Hn-1 med F5 = 25/3≈8.3. Endelig
+har vi opplegg der hver deltaker ikke har lov å sende ballen på nytt til samme person. Dette
+er nok litt vanskeligere.
+Situasjon (b): Kan oppfattes som sirkulær tilfeldig gang («circular random walk»).
+Sentrale egenskapene ved (lineær) tilfeldig gang bør være kjent for de fleste, men er de
+ukjente eller glemt, gjengis to resultater vi kan få bruk for i et Appendiks ved slutten av
+løsningen. Vi vil likevel være på utkikk etter argumenter som ikke krever disse resultatene.
+Med n+1 personer i sirkel, treneren og n spillere, kan vi registrere ballens posisjon med
+tallene 0,1,2,…,n, der vi starter med ballen i trenerens posisjon 0.
+La Xt være ballens posisjonen etter utveksling nr. t, t=1,2,3,… med start i X0=0. Tilfeldig gang i
+sirkel kan da representeres med en tilfeldig gang på tallinjen Xt* , med start i X0* =0, der vi
+observerer resten modulo n+1, dvs. Xt = Xt* (mod n+1). Innom alle posisjoner på sirkelen har
+vi straks vi har vært innom n+1 ulike verdier på tallinjen, verdier som nødvendigvis må ligge
+som et sammenhengende område uten hull (der 0 var med fra starten av).
+Vi skal finne Fn = forventet tid til vi har besøkt n+1 ulike verdier på tallinjen.
+Betrakt situasjonen straks vi har n ulike verdier. Disse vil også utgjøre et sammenhengende
+område, der vi nå befinner oss nederst eller øverst. Uansett får vi en ny verdi ved å gå
+enheten 1 i samme retning eller n enheter i motsatt retning. Herfra er problemet som det
+velkjente «Gamblers ruin» med forventet ventetid til enden av intervallet lik produktet av de
+to avstandene fra der vi er, nemlig 1∙n=n (jfr. Appendiks). Vi har derfor for n=1,2,3,.. med
+F0=0 at
+𝐹𝑛 = 𝐹𝑛−1 + 𝑛 for 𝑛 ≥ 1
+Forventet tid til n ulike sifre blir derfor summen av tallene fra 1 til n, som er
+𝐹𝑛 =
+
+𝑛∙(𝑛+1)
+2
+
+.
+
+Som sagt ovenfor motsvarer dette forventet antall ballutvekslinger til alle har fått kjenne på
+ballen. For n=5 får vi F5=15. Vi ser at forventningen er forenlig med summen av n+1 like
+forventinger n/2, svarende til at hver person har etter starten like forventet antall berøringer
+med ballen. Alternativt kan en betrakte sum av n forventninger lik (n+1)/2. En kan spørre
+om dette kan være nøkkelen til en alternativ utledning av formelen uten kjennskap til
+
+
+
+resultatet for tilfeldig gang gitt i Appendiks. I hvert fall har vi sannsynliggjort at påstanden i
+oppgaven kan være riktig. Som en kuriositet nevnes at formelen fremkommer direkte i
+følgende alternative opplegg: Utfør myntkast i n omganger, der ballen i hver omgang enten
+går ett skritt med urviseren eller n skritt mot urviseren, og i begge tilfeller ender opp hos den
+neste spiller i sirkelen. I dette opplegg er det altså mulig at alle får kjenne ballen i løpet av
+den første omgangen, men også muligheten for at n omganger kreves.
+Kommentar. Problemstillinger knyttet til å rekke over alle tilstander blir ofte omtalt som
+«cover problems». Slike er blant annet studert i forbindelse med grafer og nettverk i
+datafaget, gjerne for å belyse tidsforbruk. Det er forholdsvis få eksempler på eksakte
+løsninger, og den generelle teorien er i hovedsak basert på skranker for forventninger.
+Er sannsynligheten for å være den siste som får kjenne på ballen lik for alle?
+For (b) kan man forestille seg at spilleren lengst vekk fra treneren har størst sjanse for å være
+den siste som mottar ballen. At dette ikke er tilfelle, og at avstanden til treneren ikke spiller
+noen rolle, kan vises generelt på flere måter: (1) Rent analytisk (litt strev), (2) Betinging.
+dreiing og symmetri (lite strev) og (3) Sammenkobling (uten strev).
+(1) Analytisk
+Vi ser muligheten for å bruke egenskap ved tilfeldig gang på tallinjen gitt i Appendiks): Ved
+start i 0 er sjansen for å nå opp til +b før ned til -a lik a/(a+b). Dette gjelder også uansett
+startpunkt med a og b som avstandene til startpunktet. La oss brette ut den tilfeldige gang
+på sirkelen og markere spiller nr. k på den positive siden, som tilsvarer posisjon modulo n+1
+på den negative side, dvs. –(n+1-k).
+
+Betrakt så situasjonen rett før spiller nr. k får ballen som sistemann. Ballen må da hele tiden
+ha vært i området fra –(n-k) til k-1, og nå befinne seg i ett av de to endepunktene. Vi har
+derfor to gjensidig utelukkende forløp:
+Forløp 1: Innom k-1 før –(n-k) (dvs. b=k-1 og a=n-k), og deretter ved start i k-1 nå –(n-k) før k
+(dvs. b=n-1 og a=1).
+Forløp 2: Innom –(n-k) før k-1 (dvs. b=n-k og a=k-1), og deretter ved start i –(n-k) nå k-1 før
+–(n+1-k) (dvs, b=n-1 og a=1).
+Sammenholdt gir dette ved gjentatt bruk av formelen ovenfor
+𝑛−𝑘
+𝑛−1
+
+1
+
+𝑘−1
+
+1
+
+1
+
+∙ 𝑛 + 𝑛−1 ∙ 𝑛 = 𝑛 for k=1, 2, … , n
+
+Altså har hver spiller samme sjanse for å være den siste som får kjenne på ballen.
+
+
+
+Betrakt alternativt situasjonen der treneren er utenfor sirkelen og kaster ballen til en tilfeldig
+spiller som så starter ballutvekslingen mellom spillerne i sirkelen. Situasjonen er derfra den
+samme som ovenfor, med denne spilleren i rollen som trener, og med n-1 spillere istedenfor
+n. For at spiller nr. k skal bli den siste med ball, må en først unngå å bli starteren. Vi får
+derfor sannsynligheten
+𝑛−1
+𝑛
+
+∙
+
+1
+𝑛−1
+
+=
+
+1
+𝑛
+
+, for k=1, 2, … , n
+
+dvs. alle n spillere har samme sannsynlighet. Dette er ikke overraskende, siden vi her godt
+kunne appellere til symmetrien i problemet.
+
+(2) Betinging og symmetri:
+La det for enkelhets skyld være et odde antall spillere, slik at n=2m+1. Treneren har da
+akkurat en spiller på motsatt side av sirkelen, lengst vekk fra seg. La p0 være sannsynligheten
+for at denne spilleren er den siste som mottar ballen, og la pk for k=1,2,…,m være
+sannsynligheten for at en spiller k plasser til side for denne er den siste.
+Beting med omsyn til utfallet av første ballkast, til høyre eller til venstre. Vi har da
+p0=1/2∙ p1+1/2∙ p1 som gir p1= p0. Vi har her brukt at etter første ball er utvekslet har vi en
+dreid situasjon med ny startperson der vi spør etter sannsynligheten for at spiller en plass til
+side for den motsatte av den nye startpersonen er den siste. I den nye situasjonen vil
+riktignok en sidemann til startpersonen allerede ha hatt ballen, men dette får ingen
+innvirkning, da denne uansett må besøkes på nytt for å nå alle de andre.
+Dette resonnementet kan utvides ved å betinge med omsyn til hvilken av de to posisjonene
+som er k posisjoner til side for den lengst vekke som først mottar ballen, foreta dreiing til ny
+startperson og bruke argumentet om allerede besøkte personer er uten betydning. Vi har da
+pk= p1 ; k=1,2,…,m , slik at pk=1/n ; k=0,1,2,…,m. Dette betyr likhet for alle n spillere.
+
+(3) Sammenkobling
+Betrakt to spillere A og B i sirkelen, der vi uten tap av generalitet antar at A står motsatt
+treneren (O) og B står på en plass før A, eksemplifisert i figuren med O=Norman, A=Søren og
+B=Østen. I fokus er to realiseringer av sirkulær tilfeldig gang med start hos O, en som ender
+hos A og en som ender hos B, begge etter å ha vært innom alle de andre først. Tenk deg nå
+sirkelen dreid med urviseren, slik at B overlapper A. Vi har da omgjort situasjonen til tilfeldig
+gang med ulike startpunkter og samme endepunkt. Anta at vi modifiserer den realiserte
+tilfeldige gang for B som følger: Straks de to prosessene møtes (vil skje med sannsynlighet 1),
+erstatt det videre forløp med A sitt videre forløp. Denne konstruksjonen gir en tilfeldig gang
+for B som ender opp samme sted som den for A, og der begge oppfylt kravet om å være
+innom de andre først. Her må det avklares at de spillere for B-prosessen som ikke har fått
+ballen før dette møtet, er sikret å få den etter møtet og før B får den. Dette er opplagt fordi
+
+
+
+eventuelle manglende besøk for B-prosessen ligger før møtepunktet, og der har A-prosessen
+ennå ikke vært.
+Vi har nå oppnådd at for enhver realisasjon som oppfyller kravet for A, har vi en entydig
+likeverdig realisasjon for B, dvs. like lang og oppfyller kravet. Sannsynligheten for en
+realisasjon som oppfyller kravet som siste mottaker må derfor være lik for A og B.
+Argumentasjonen faller under merkelappen «coupling», en generell teknikk som kan brukes i
+mange sammenhenger som erstatning for mer krevende analytiske utregninger.
+Tanken går tilbake til forventet tid til alle har fått kjenne på ballen. Fins det også her en enkel
+alternativ argumentasjon som ikke krever resultatet i Appendiks, men som eventuelt gjør
+bruk av at vi nå vet at alle spillere har samme sjanse for å være den siste?
+
+Appendiks:
+La 𝑋𝑡 ; 𝑡 = 0,1,2, … være tilfeldig gang på heltallslinjen, dvs. 𝑋𝑡 = 𝑋𝑡−𝟏 + 𝜖𝑡 ; 𝑡 = 1,2,3, … ,
+der 𝜖𝑡 ’ene er uavhengige med 𝜖𝑡 = ±1 med like sannsynligheter ½.
+Betrakt intervallet fra -a til +b med start i 0, dvs. 𝑋0 = 0. Da er
+1. Sannsynligheten for å nå opp til +b før ned til -a lik a/(a+b).
+2. Forventet antall skritt til en av skrankene -a eller +b nåes er a∙b.
+Dette gjelder også uansett startpunkt med a og b som avstandene til startpunktet.
+De to påstandene blir typisk bevist ved å etablere to enkle differenslikninger, og løse disse.
+Refleksjon: Kan de to påstandene sannsynliggjøres på annet vis?
+
+jostein.lillestol@nhh.no
+
+
+
+møter og konferanser
+Trondheim Symposium in Statistics
+On November 1st, statisticians and associates gathered for the 16th
+Trondheim Symposium of Statistics. This year’s event took place at
+NTNU Gløshaugen. There were 30 participants. After the program of
+interesting scientific presentations, we walked downtown for pizza and
+minigolf. Invited speakers were:
+– Ingrid K. Glad, Professor and Co-Director of Integreat and
+BigInsight, Department of Mathematics, UiO
+– Chloe R. Nater, Researcher, NINA
+– Sebastien N. Gros, Department Head, Department of
+Engineering Cybernetics, NTNU
+– Terje A. Eikemo, Professor and Director of CHAIN, Department
+of Sociology and Political Science, NTNU
+
+Presentation by Ingrid Glad, University of Oslo
+
+18
+
+
+
+meldinger
+Nytt fra Oslo senter for biostatistikk og epidemiologi
+Nyansatte
+– Førsteamanuensis: Morten Valberg
+– Forsker: Ove Øyås
+– PhD studenter: Anastasia Giorcelli, Håkon Taskén, Vilde
+Hansteen Ung, Christoffer Lingjærde
+
+Nye PhD-grader
+– Emilie Eliseussen Ødegaard. “Rank-based Bayesian methods
+for high-dimensional data in transcriptomic analyses”.
+Bedømmelseskomité: Associate Professor Geoff Nicholls,
+University of Oxford, UK; Professor Mark van de Wiel,
+Amsterdam University Medical Center, the Netherlands;
+Associate professor Ragnhild Eskeland, Avdeling for
+molekylærmedisin, UiO. Hovedveileder: Valeria Vitelli,
+Avdeling for biostatistikk, UiO; Medveileder: Arnoldo Frigessi,
+Avdeling for biostatistikk, UiO.
+– Nita Kaupang Shala. “Occupational exposures and cancer
+of the bladder, kidney, and pleura in Norwegian offshore
+petroleum workers”. Bedømmelseskomité: Emeritus Reader
+Lesley Rushton, Imperial College London, UK; Professor
+Karin Charlotta Maria Rylander, The Arctic University of
+Norway (UiT); Professor Anthony Sverre Wagstaff, Avdeling for
+samfunnsmedisin og global helse, UiO. Hovedveileder: Overlege,
+seniorforsker Tom Grimsrud, Kreftregisteret. Medveiledere:
+Seniorforsker Jo Stenehjem, Kreftregisteret/Avdeling for
+biostatistikk, UiO; Professor Marit B. Veierød, Avdeling for
+biostatistikk, UiO.
+
+Nytt fra Universitetet i Bergen
+Nyansatte
+– Eivind M. Lamo, stipendiat. Veileder: Yushu Li
+
+Nye Mastergrader
+– Håvard Kolve og Erlend Myhre: Exploring Spline Based Models
+in glmmTMB. Veileder: Hans Skaug
+– Endre Moe: Application of wavenet to financial time series
+prediction. Veileder: Hans Karlsen
+19
+
+
+
+– Vegard Josvanger: Plant identification with computer vision and
+improvement through location data. Veileder: Hans Karlsen
+– Eivind M. Lamo: Sequential Monte Carlo Methods in Practice.
+Veileder: Andreas S. Stordal
+
+Nye PhD-grader
+– Belén Garciá Pascual: Mathematical Modelling of Cellular and
+Evolutionary Processes in Changing Environments. Veileder:
+Iain G. Johnston. Opponenter: Nora S. Martin, Centre for
+Genomic Regulation (CRG), Spain Folmer Bokma, Karlstad
+University, Sweden
+
+Nytt fra Norges teknisk-naturvitenskapelige universitet
+Nye mastergrader
+– Kebene Amanuel Baissa: Snow avalanche hazard mapping using
+spatio-temporal Bayesian models with inlabru. Veiledere:
+Ingelin Steinsland og Eivind Juvik (Statens vegvesen)
+– Benjamin Sigbjørnsen: Site-specific probabilistic forecast for
+avalanches. Veiledere: Ingelin Steinsland og Eivind Juvik
+(Statens vegvesen)
+– Johannes Tveit Gjerdåker: A comparison of Bayesian Kriging
+and DeepKriging. Veileder: Geir-Arne Fuglstad.
+– Caroline Jensen: Bayesian event detection in a DAS data set.
+Veileder: Håkon Tjelmeland.
+– Helena Koch Haugane: Enhancing Car Insurance Sales
+Predictions: A Comparative Study of Categorical Boosting
+and Logistic Regression with Insights from Explainable AI.
+Veiledere: Mette Langaas og Anne-Randi Syversveen (If).
+– Ingvild Lyngved Ødegård: Conditional likelihood inference for
+within-cluster effects. Veileder: Thea Bjørnland
+– Jesper Matteus Bengston: A comparative analysis of
+non-medicinal delousing methods with respect to delousing
+effect and welfare impact. Veileder: Thea Bjørnland
+– Mads Nørstebø: En analyse av store språkmodellers utførelse av
+statistikkoppgaver ved hjelp av generaliserte lineære blandede
+modeller. Veileder: Thea Bjørnland
+
+Nye PhD-grader
+– Martin Outzen Berild, ‘Modeling complex dependence structures
+in space and time using SPDEs’ Committee: Johan Lindström,
+Lund University, Sweden, Geir Olve Storvik, University of Oslo,
+Norway, Thea Bjørnland, NTNU. Veiledere: Geir-Arne Fuglstad,
+Jo Eidsvik, Ingrid Ellingsen.
+20
+
+
+

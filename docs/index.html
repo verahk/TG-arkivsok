@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TG-arkivsøk</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" rel="stylesheet" />
+    <style>
+      /* Basert på GitHub Pages-temaet "minimal" (pages-themes/minimal). */
+      * { box-sizing: border-box; }
+      body {
+        background-color: #fff;
+        padding: 50px;
+        margin: 0;
+        font: 14px/1.6 "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        color: #606c71;
+        font-weight: 400;
+      }
+      .wrapper {
+        width: 1040px;
+        margin: 0 auto;
+      }
+      header {
+        width: 270px;
+        float: left;
+        overflow-wrap: anywhere;
+      }
+      section {
+        width: 650px;
+        float: right;
+        padding-bottom: 50px;
+      }
+      header h1 {
+        color: #000000;
+        margin: 0 0 24px;
+        padding-bottom: 16px;
+        border-bottom: 1px solid #ffffff;
+        font-size: 34px;
+        line-height: 1.1;
+      }
+      .logo {
+        display: block;
+        max-width: 100%;
+        height: auto;
+        margin: 28px 0 16px;
+      }
+      header p {
+        color: #000000;
+        margin: 0 0 16px;
+      }
+      header ul {
+        margin: 0 0 16px;
+        padding-left: 16px;
+      }
+      header li {
+        margin-bottom: 5px;
+      }
+      p.view a { font-weight: 200; }
+      h2 {
+        color: rgb(0, 0, 0);
+        margin: 28px 0 10px;
+        font-size: 15px;
+        font-weight: 700;
+      }
+      section > p { margin: 0 0 14px; }
+      a { color: #000; text-decoration: underline; }
+      a:hover, a:focus { color: #000; text-decoration: underline; }
+      strong { color: #222; font-weight: 700; }
+
+      .card { margin: 20px 0; }
+      .grid-query {
+        display: grid;
+        grid-template-columns: 1fr auto;
+        gap: 12px;
+        align-items: end;
+      }
+      .grid-options {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 12px;
+        align-items: end;
+        margin-top: 12px;
+      }
+      label {
+        display: block;
+        font-size: 16px;
+        font-weight: 700;
+        margin-bottom: 5px;
+        color: #222;
+      }
+      input, select, button {
+        width: 100%;
+        padding: 10px 12px;
+        border: 1px solid #dce0e5;
+        border-radius: 5px;
+        font-size: 16px;
+        font-family: inherit;
+        background: #fff;
+        color: #383e41;
+      }
+      input:focus, select:focus {
+        outline: none;
+        border-color: #267cb9;
+        box-shadow: 0 0 0 2px rgba(38, 124, 185, 0.15);
+      }
+      button {
+        background: #000;
+        color: #fff;
+        border: 1px solid #000;
+        font-weight: 700;
+        cursor: pointer;
+        white-space: nowrap;
+      }
+      button:hover { background: #333; }
+      .row {
+        display: flex;
+        gap: 14px;
+        align-items: center;
+        flex-wrap: wrap;
+        margin-top: 12px;
+      }
+      .checkbox {
+        display: flex;
+        align-items: center;
+        gap: 7px;
+        font-size: 15px;
+        font-weight: 400;
+        color: #606c71;
+      }
+      .checkbox input { width: auto; padding: 0; accent-color: #000; }
+      .scope-label {
+        font-size: 15px;
+        font-weight: 700;
+        color: #222;
+        margin-right: 4px;
+      }
+      .yearfilter { position: relative; display: block; }
+      .year-toggle {
+        width: 100%;
+        text-align: left;
+        background: #fff;
+        color: #383e41;
+        border: 1px solid #dce0e5;
+        border-radius: 5px;
+        padding: 10px 12px;
+        font-size: 15px;
+        font-weight: 400;
+        cursor: pointer;
+      }
+      .year-toggle:hover { border-color: #267cb9; }
+      .year-toggle .caret { float: right; margin-left: 10px; color: #888; }
+      .year-panel {
+        position: absolute;
+        z-index: 20;
+        margin-top: 4px;
+        background: #fff;
+        border: 1px solid #dce0e5;
+        border-radius: 5px;
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+        padding: 6px 12px;
+        max-height: 340px;
+        overflow: auto;
+        min-width: 260px;
+      }
+      .year-panel[hidden] { display: none; }
+      .year-panel .panel-actions {
+        display: flex;
+        gap: 14px;
+        padding: 6px 0 8px;
+        border-bottom: 1px solid #eee;
+        margin-bottom: 4px;
+      }
+      .year-panel .panel-actions a { font-size: 13px; cursor: pointer; }
+      .decade-group { border-bottom: 1px solid #f0f0f0; padding: 7px 0; }
+      .decade-group:last-child { border-bottom: none; }
+      .decade-head {
+        display: flex;
+        align-items: center;
+        gap: 7px;
+        font-weight: 700;
+        font-size: 14px;
+        color: #222;
+        cursor: pointer;
+      }
+      .year-list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 5px 14px;
+        margin: 6px 0 0 22px;
+      }
+      .year-panel label {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        margin: 0;
+        font-weight: 400;
+        font-size: 13px;
+        color: #606c71;
+        cursor: pointer;
+      }
+      .decade-head label { font-weight: 700; font-size: 14px; color: #222; }
+      .year-panel input { width: auto; padding: 0; accent-color: #000; }
+      .example {
+        background: #f3f6fa;
+        border-left: 4px solid #267cb9;
+        padding: 8px 12px;
+        margin: 8px 0 0;
+        border-radius: 0 5px 5px 0;
+        font-size: 13px;
+        color: #383e41;
+        font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+      }
+      .status {
+        margin-top: 12px;
+        font-size: 13px;
+        color: #606c71;
+      }
+      .results {
+        margin-top: 24px;
+        display: grid;
+        gap: 14px;
+      }
+      .result {
+        border: 1px solid #e5e5e5;
+        border-radius: 5px;
+        padding: 14px;
+        background: #fff;
+      }
+      .meta {
+        font-size: 13px;
+        color: #606c71;
+        margin-top: 4px;
+      }
+      .hit-title { margin-top: 2px; }
+      .hit-title a { font-weight: 700; }
+      .badge {
+        display: inline-block;
+        padding: 2px 8px;
+        border-radius: 4px;
+        background: #f3f6fa;
+        border: 1px solid #dce0e5;
+        color: #267cb9;
+        font-size: 12px;
+        font-weight: 700;
+      }
+      .empty {
+        padding: 16px;
+        color: #606c71;
+        border: 1px dashed #d5d5d5;
+        border-radius: 5px;
+      }
+      .snippet {
+        margin: 10px 0 0;
+        padding: 8px 12px;
+        background: #f8f8f8;
+        border: 1px solid #e5e5e5;
+        border-radius: 5px;
+        white-space: pre-wrap;
+        word-break: break-word;
+        overflow: auto;
+        font-size: 12.5px;
+        line-height: 1.5;
+        font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+        color: #333;
+      }
+      .snippet mark { background: #fff2a8; padding: 0 1px; }
+
+      @media print, screen and (max-width: 960px) {
+        .wrapper { width: auto; margin: 0; }
+        header, section { float: none; position: static; width: auto; }
+        header {
+          margin-bottom: 20px;
+          padding-bottom: 16px;
+          border-bottom: 1px solid #e5e5e5;
+        }
+      }
+      @media print, screen and (max-width: 720px) {
+        body { padding: 20px; }
+        .grid-options { grid-template-columns: 1fr; }
+      }
+      @media print, screen and (max-width: 480px) {
+        body { padding: 15px; }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <img class="logo" src="tg-logo.png" alt="Tilfeldig Gang-logo" />
+        <p>Søk i arkivet til <em>Tilfeldig Gang</em>, medlemsbladet fra Norsk Statistisk Forening.</p>
+        <p>Lenke til arkivet: <a href="https://sites.google.com/site/statistiskforening/tilfeldig-gang" target="_blank">https://sites.google.com/site/statistiskforening/tilfeldig-gang</a></p>
+
+        <hr>
+        <p>Arkivet er gjort søkbart ved å lese tekst fra pdf, med varierende presisjon. Feil i denne prosessen gjør at søket ikke er garantert å finne alle treff.</p>
+        <p class="view"><a href="https://github.com/verahk/TG-arkivsok">Vis prosjektet på GitHub</a></p>
+
+        <hr>
+
+        <h2>Alternativer for søk:</h2>
+        <p>Søkemodus (velg i menyen):</p>
+        <ul>
+          <li><strong>Alle ord</strong>: finner sider der alle ordene finnes, uansett rekkefølge: <br /><em>"Tilfeldig gang" og "gang Tilfeldig" gir samme resultat.</em></li>
+          <li><strong>Eksakt frase</strong>: finner sider der ordene står i nøyaktig rekkefølge.<br /><em>"Tilfeldig gang" og "gang Tilfeldig" gir <u>ikke</u> samme resultat.</em></li>
+          <li><strong>Regex</strong>: tolker søkeordet som et regulært uttrykk.</li>
+        </ul>
+        <p>Du kan i tillegg begrense treffene til ett eller flere år, skille mellom store/små bokstaver og velge om du vil tillate skrivefeil (f.eks. <em>Tilfeldig=Tilfledig</em>).</p>
+      </header>
+
+      <section>
+        <div class="card">
+          <div class="grid-query">
+            <div>
+              <label for="q">Søkeord</label>
+              <input id="q" placeholder="Ord, frase eller regex-mønster" autocomplete="off" autofocus />
+            </div>
+            <div>
+              <button id="searchBtn" type="button">Søk</button>
+            </div>
+          </div>
+
+          <div class="grid-options">
+            <div>
+              <label for="searchMode">Søkemodus</label>
+              <select id="searchMode">
+                <option value="all_terms" selected>Alle ord</option>
+                <option value="phrase">Eksakt frase</option>
+                <option value="regex">Regex</option>
+              </select>
+            </div>
+            <div>
+              <label>Avgrens til årstall</label>
+              <div class="yearfilter" id="yearFilter">
+                <button type="button" class="year-toggle" id="yearToggle" aria-expanded="false">
+                  <span id="yearToggleLabel">Alle år</span><span class="caret">▾</span>
+                </button>
+                <div class="year-panel" id="yearPanel" hidden></div>
+              </div>
+            </div>
+          </div>
+
+          <div class="row">
+            <label class="checkbox"><input type="checkbox" id="caseSensitive" /> Skill mellom store/små bokstaver</label>
+            <label class="checkbox"><input type="checkbox" id="fuzzy" /> Tillat skrivefeil (fuzzy søk)</label>
+          </div>
+
+          <div id="status" class="status">Laster indeks...</div>
+        </div>
+
+        <div id="results" class="results"></div>
+      </section>
+    </div>
+
+    <script src="search.js"></script>
+  </body>
+</html>

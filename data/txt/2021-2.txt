@@ -1,0 +1,1458 @@
+ISSN 0803-8953
+Tilfeldig gang
+Nr. 2, årgang 38
+November 2021
+
+Utgitt av Norsk statistisk forening
+Redaksjonelt
+
+Fra NSF-lederen . . . . . . . . . . . . . . . . . . . . . . . .
+Fra redaksjonen . . . . . . . . . . . . . . . . . . . . . . . .
+
+1
+1
+
+Tankenøtter
+
+Pusleri nr. 56 . . . . . . . . . . . . . . . . . . . . . . . . .
+Pusleri nr 55 (løsning) . . . . . . . . . . . . . . . . . . . . .
+
+2
+2
+
+Møter og konferanser
+
+Reisebrev fra Trondheim statistikksymposium . . . . . . . .
+
+5
+
+Artikler
+
+NOST (Norwegian Open source Statistics Textbooks) . . . .
+Om å ta beslutninger . . . . . . . . . . . . . . . . . . . . .
+Matematisk statistikk: Fag, folk og fellesskap . . . . . . . .
+
+6
+8
+12
+
+Kunngjøringer
+
+Nordisk statistikkmøte . . . . . . . . . . . . . . . . . . . .
+
+23
+
+Meldinger
+
+Nytt fra Oslo senter for biostatistikk og epidemiologi . . . .
+Nytt fra Tromsø . . . . . . . . . . . . . . . . . . . . . . . .
+Nytt fra NTNU . . . . . . . . . . . . . . . . . . . . . . . .
+Nytt fra UiB . . . . . . . . . . . . . . . . . . . . . . . . . .
+Nytt fra Stavanger . . . . . . . . . . . . . . . . . . . . . . .
+Nytt fra UiO . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+24
+24
+25
+27
+27
+28
+
+
+
+
+
+redaksjonelt
+Fra NSF-lederen
+Ingrid Hobæk Haff | Universitet i Oslo
+
+Så har altså tida kommet for å skrive til TG som nokså nyvalgt
+NSF-leder. Som vanlig er jeg ute i siste liten, og idéene trenger seg
+ikke akkurat på. I et forsøk på å få noen idéer, googler jeg «TG». Jeg
+kan røpe at vårt kjære tidsskrift ikke kom langt opp på lista. Første
+treff var «The Gathering», det årlige datatreffet i Vikingskipet. Andre
+treff inkluderer «Trafikalt grunnkurs» og proteinet Thyroglobulin. Jeg
+vrir hjernen mine for å komme på et eller annet poeng som forbinder
+disse, men uten hell. Etter å ha klikket meg gjennom 10 sider med treff,
+googler jeg i stedet «Tilfeldig gang». Der troner tidsskriftet vårt på
+toppen, så det står altså ikke så dårlig til som jeg trodde. Litt lenger
+ned kommer noen lenker til børs og aksjekurser, uten at det gir noe mer
+inspirasjon.
+Hva er så årsaken til idétørken? Jo, mesteparten av min
+oppmerksomhet er rettet mot telefonen min, som jeg forventer skal
+ringe når som helst. Årsaken er den ubudne gjesten som hvert år
+hjemsøker alle barnehager og skoler, nemlig noroviruset. Det har nå
+meldt sin ankomst til mitt ene barns barnehage og mitt andre barns
+skole. Det er nemlig ikke noe usikkerhet knyttet til hvorvidt barna mine
+får omgangssyke, det eneste stokastiske elementet er når det inntreffer.
+I fjor fikk riktignok familien min et friår, takket være avstandskrav og
+usedvanlig grundig håndvask. Om ikke jeg tar imot noroviruset med
+glede, er det i det minste et tegn på betraktelig større grad av normalitet
+i samfunnet enn i fjor høst og vinter.
+Skjønt hvem vet hvor lenge vi får nyte et tilnærmet normalt liv,
+nå som den lumske omikron-varianten lurer rundt hvert hjørne? Vi
+som statistikere kan muligens dra noe glede av situasjonen i form
+av nye, spennende data. Som det har vært bemerket flere ganger
+tidligere har koronapandemien om ikke annet aktualisert betydningen
+av faget vårt. Den bidrar også til at flere lærer seg det greske alfabetet.
+Langtidseffekten er dog usikker. Jeg tenker jeg gir meg der, før det blir
+altfor dystert, og ønsker i stedet alle NSF-medlemmer en riktig god
+jul!
+
+Fra redaksjonen
+Jarle Tufto, Gunnar Taraldsen | Trondheim
+
+Den nye redaksjonen ønsker å takke alle som har bidratt med stoff til
+denne utgaven.
+
+1
+
+
+
+tankenøtter
+Pusleri nr. 56
+Jostein Lillestøl | Bergen
+
+Figuren viser simulerte punkter uniformt fordelt innenfor en likesidet
+trekant med sidelengde 1.
+
+Finn en enkel geometrisk simuleringsmetode (dvs. med passer og
+linjal). Finn en analytisk simuleringsmetode (dvs. med formel og bruk
+av regnekraft), helst en som lar seg generalisere til vilkårlig trekant og
+til rommet (tetraeder). Tilgjengelig: Uavhengige Uniform[0,1]-variable
+U.
+Dersom du raskt finner en analytisk løsning med tre U’er og tre
+programlinjer i R for å simulere, beregne og plotte resultatet, kan du
+jo prøve å finne en alternativ løsning som krever bare to U’er og to
+programlinjer i R.
+
+2
+
+
+
+Pusleri nr. 55 (løsning)
+Oppgaven var: Pål er tilbudt et spill der en i hver spilleomgang kan vinne 1 myntenhet eller tape 1
+myntenhet. Sannsynligheten for å vinne i en spilleomgang er imidlertid avhengig av spillerens
+monetære status for øyeblikket i forhold til utgangspunktet S=0. Dersom status er 𝑆 ≡ 0 (𝑚𝑜𝑑 3) er
+sannsynligheten for å vinne 1 enhet kun lik 1/10, ellers er sannsynligheten hele ¾. Pål lurer på om
+dette er rettferdig spill, gitt at han er tvunget til å følge dette oppsettet. På baksiden av en
+konvolutt noterer han at den ugunstige sannsynligheten opptrer ved status 0, ±3, ±6, ±9, , …, som
+utgjør en tredjedel av tallinjen, slik at sannsynligheten for å vinne blir
+1 1 2 3 16 1
+𝑃(𝑉𝑖𝑛𝑛𝑒) = ∙
++ ∙ =
+>
+3 10 3 4 30 2
+Jøss, dette er til min fordel tenker Pål, og setter i gang å spille. Etter en (lang) stund uteblir den
+forventede positive gevinst, og han lurer på om noe er galt i utregningen. Kan du hjelpe Pål?
+
+Løsning: Beregningen er basert på forestillingen om at de ugunstige tilstanders andel av tallinjen er
+bestemmende for andelen ganger der en møter den ugunstige sannsynligheten i det lange løp. Det
+er ikke tilfelle! Dette avsløres ved å betrakte Markovkjeden {𝑋! } med tre tilstander 0, 1 og 2, der for
+i=0,1,2 𝑋! = 𝑖 når status etter n’te spill 𝑆! ≡ 𝑖 (𝑚𝑜𝑑 3). Anta generelt at de to sannsynlighetene er
+𝑝" < 𝑝# . Da har vi følgende overgangsmatrise
+0
+𝑝"
+1 − 𝑝"
+0
+𝑝# C
+𝑃 = A 1 − 𝑝#
+𝑝#
+1 − 𝑝#
+0
+"
+#
+De stasjonære sannsynligheter er 𝜋 = $ (1 − 𝑝# + 𝑝# , 1 − 𝑝# + 𝑝" 𝑝# , 1 − 𝑝" + 𝑝" 𝑝# )r, der D er
+"
+
+&
+
+(
+
+#
+
+)
+
+faktoren som gir sum sannsynligheter lik 1. Innsatt 𝑝" = "% og 𝑝# = ' gir 𝜋 = E"& , "& , "&F. Ny
+utregningen av sannsynligheten for å vinne gir derfor
+5 1
+8 3 13 1
+𝑃(𝑉𝑖𝑛𝑛𝑒) =
+∙
++
+∙ =
+=
+13 10 13 4 26 2
+I denne forstand har vi derfor et rettferdig spill (i det lange løp). For en tilsvarende «random walk»
+vet vi at prosessen kan «fly av gårde» i en av retningene uten stabiliserende karakter rundt null. Noe
+tilsvarende er tilfelle her, og forklarer Pål sin dårlige spillerfaring, her illustrert med en graf, som
+også illustrerer noe av prosessens eiendommelige karakter
+
+Parrondo’s paradoks: Det beskrevne spill forekommer ofte ved presentasjon av det såkalte
+Parrondo’s paradoks. Dette innebærer grovt sagt at det er mulig å kombinere to spill som begge er
+til din disfavør til et spill i din favør. La oss først kombinere to rettferdige spill. Spillet ovenfor, kall
+det A, kombineres med et nytt spill B, svarende til myntkast med rettferdig mynt, dvs.
+
+
+
+sannsynligheten for å vinne en myntenhet er ½. Anta at man foran hver spilleomgang randomiserer
+hvilket av de to spillene som skal spilles. Med sannsynlighet 0.6 spilles A og med sannsynlighet 0.4
+spilles B. Det viser seg at (i det lange løp) 𝑃(𝑉𝑖𝑛𝑛𝑒) = 0.5131 > 0.5. Vi kan til og med starte med
+spill A og B i vår disfavør, illustrert ved å redusere sannsynlighetene for å vinne 1 myntenhet i hvert
+av delspillene, eksempelvis trekk fra 0.005. Dette gir for spill A: 0.0095, 0.745 (med beregnet
+sannsynlighet 0.4957 for å vinne i det lange løp) , for spill B: 0.495. Kombineres nå de to spillene A
+og B på samme måte som ovenfor, får vi 𝑃(𝑉𝑖𝑛𝑛𝑒) = 0.5081 > 0.5, på tross av at spill A og spill B
+begge er ufordelaktige isolert sett. Paradokset kan også fremkomme uten å randomisere mellom A
+og B, men isteden veksle mellom å spille A og B etter forutbestemt mønster.
+Paradokset er oppkalt etter den spanske fysikeren Juan Parrondo, som presenterte det midt på
+1990-tallet. Fenomenet ble belyst av han og mange andre i årene etter, i stor grad ikke-statistikere.
+Det skal her sies at vårt spill A ikke er et spill i John von Neumann’s forstand (1944), som er
+grunnlaget for klassisk nytteteori. Økonomer har da også avvist dets relevans for økonomisk teori.
+Spillet A er imidlertid innen rammen av spill i David Blackwell’s forstand (1954). Paradokset finnes i
+mange forkledninger, og dets relevans er omdiskutert i ulike sammenhenger (også dagligdagse).
+Noen vil sikkert fornemme slektskapet til det mer velkjente Simpson’s paradoks. Det ble etter hvert
+en omfattende litteratur om paradokset og dets ulike varianter. Nedenfor er en kort liste.
+Litteratur
+Parrondo, J. M. R (1996) How to cheat a bad mathematician, in EEC HC&M Network on Complexity
+and Chaos, ISI, Torino, Italy. (Upublisert).
+Harmer G. P. & Abbott D. (1999) Parrondo’s paradox: Losing strategies cooperate to win, Nature
+402, 864. (Kort lettlest introduksjon)
+Harmer, G.P. & Abbot, D. (1999) Parrondo’s paradox, Statistical Science 14 (1999) 206–213. (For
+statistikere)
+Harmer, G.P. & Abbot, D. (2002) A review of Parrondo’s paradox, Fluctuation and Noise Letters,
+vol.2, no.2, 71-107. (Oversikt med mange referanser)
+Von Neumann, J. (1944) Theory of Games and Economic Behavior, Princeton: Princeton University
+Press.
+Blackwell, D. & Girshick, M. A. (1954) Theory of Games and Statistical Decisions, New York: John
+Wiley & Sons .
+
+
+
+møter og konferanser
+Reisebrev fra Trondheim statistikksymposium
+Gunnar Taraldsen og Jarle Tufto | Trondheim
+
+Første helgen i november gikk årets Trondheim Symposium i
+statistikk av stabelen på Ørlandet Kysthotell, 50 minutters båtreise fra
+Trondheim. Etter over et år med lite sosial aktivitet var det i hele 43
+deltakere som fant veien til Ørlandet.
+Første foredrag var med Solveig Engebretsen (Norsk Regnesentral)
+som fortalte om det romlig modellering av covid-19 epidemien.
+Mollie Brooks (Danmarks tekniske universitet) fortalte om
+Template model builder og glmmTMB spesielt. Eksemplene inkluderte
+bruk av random effects med AR(1) struktur for å modeller individuell
+ontogenetisk vekst blant sauerasen «Soay sheep» på St. Kilda-øyene,
+modellering av null-inflasjon, over- og underdispersjon via generalisert
+Poisson-fordeling og Conway-Maxwell-Poissonfordelingen.
+På dag to fortalte Heine Strand (Folkehelseinstituttet) om
+statistiske analyser ved Folkehelseinstituttet med eksempler
+hentet fra nylige publikasjoner omkring Covid-19 forekomst blant
+ulike innvandrergrupper, analyse av data på demens i den norske
+befolkningen og effekt av demens på forventet gjenværende levetid.
+Det siste eksempelet så på overlevelse og forventet levetid blant
+100-åringer via kvantilregresjon.
+Pierre Druilhet (Université Clermont Auvergne) snakket
+om impropre a priori og a posteriori fordelinger og hvordan
+ekvivalensklasser av slike fordelinger kan betraktes som en spesiell
+type «q-vag» grense av propre fordelinger.
+Siste taler var Nils Lid Hjort som snakket om nye metoder
+for å kombinere konfidensfordelinger fra ulike studier til en felles
+konfidensfordeling.
+Slides for de fleste foredragene er tilgjenglige på https://wiki.
+math.ntnu.no/selbusymposium/2021/start.
+
+Foto: Av Bimbo2 – Eget verk, CC BY-SA 3.0,
+https://commons.wikimedia.org/w/
+index.php?curid=5834192
+
+Ørlandet kysthotell. Nesten alle rakk
+båten tilbake.
+
+5
+
+
+
+artikler
+NOST (Norwegian Open source Statistics Textbooks)
+Hans J. Skaug | Matematisk institutt, Universitetet i Bergen.
+
+NSF vedtok på sitt hovedmøte i Tromsø i juni 2021 opprettelse av
+nettstedet https://github.com/nsfnost for tilgjengeliggjøring av
+lærebøker i Statistikk som er gått ut av trykk, og der forfatter er villig
+til å overdra opphavsrett til NSF. Undertegnede var forslagsstiller,
+og har tatt på seg et redaktøransvar for NOST. Intensjonen med
+NOST er i tillegg til tilgjengeliggjøring, en avklaring av hvordan
+disse lærebøkene kan brukes og videreutvikles ved hjelp av moderne
+verktøy for håndtering av åpen kildekode. Så langt inneholder NOST
+lærebøkene til Jostein Lillestøl og Alf Harbitz.
+Mye tid og godt arbeid blir og har blitt nedlagt i å utforme
+norskspråklige lærebøker i Statistikk på grunnivå. Når en lærebok
+ikke lenger blir brukt som pensumbok, og etter hvert går ut av trykk,
+betyr det ikke at innholdet er foreldet. Spesielt gjelder dette eksempler
+og regneoppgaver med tilhørende løsningsforslag. Det aspektet som
+hurtigst går ut på dato er valg av programpakke (SPSS, Minitab,
+SAS, R, etc), men det er tross alt en begrenset oppgave å endre kode
+og skjermutskrift sammenliknet med å skrive en lærebok fra start.
+Endringer av denne type forutsetter imidlertid at «kildekode» for
+boken er tilgjengelig.
+I tilfellet med Lillestøls bok er LaTeX-kode tilgjengelig i tillegg
+til pdf-versjonen. Tilgang til LaTeX-kode forenkler modifisering og
+videreutvikling av boken. En intensjon med NOST er at en lærebok
+kan modifiseres og «forgrenes». For eksempel kan jeg lage en utgave
+ment som støttelitteratur for studenter som savner en norsk-språklig
+lærebok i kurset jeg foreleser. Versjonskontrollsystemet «git» har god
+støtte for en slik forgrening («branches»).
+Hver lærebok under NOST vil være tilgjengelig under en lisens
+som bestemmes av forfatter. Bøkene til Lillestøl og Harbitz er begge
+tilgjengelig under en lisens som inneholder en NC (non-commercial)
+klausul, som hindrer kommersiell utnyttelse. Dette kan synes
+problematisk, men det er viktig å understreke at lisensen ikke er til et
+hinder for at studenter laster ned og bruker bøkene i sine studier.
+Det er uklart hva som i fremtiden vil skje med lærebøkene som
+ligger under NOST. Som et minimum vil de bare «ligge der» og være
+tilgjengelig for interesserte. Et annet scenario er at de tas i bruk som
+kursmateriell i ett eller flere kurs, og dermed videreutvikles. Jeg har
+tidligere sett initiativ til åpenkildekode-lærebøker i statistikk, uten at
+jeg har inntrykk av at disse har noen stor markedsandel i undervisning.
+Dette taler mot en fremtid med videreutvikling av bøker som ligger
+under NOST. Men hvis vi ser på situasjonen for statistisk programvare
+er perspektivet mere positivt. Programpakken R, som er har åpen
+kildekode, brukes utbredt i undervisning. Det synes mye enklere å
+enes om en lærebok enn en hel programpakke, og det er heller ikke
+6
+
+
+
+nødvendig å enes fullstendig. NOST kan inneholde mange ulike
+versjoner (forgreninger) av en lærebok som jeg har vært inne på. Jeg
+ser på redaktørrollen min som en tilrettelegger for videreutvikling,
+heller enn den som videreutvikler. Videreutviklingen må komme fra de
+som eventuelt måtte se på NOST som et nyttig verktøy i sitt virke.
+
+7
+
+
+
+Om å ta beslutninger
+Inge S. Helland | Universitetet i Oslo
+
+I 2015 tok redaksjonen i tidsskriftet ‘Basic and Applied Social
+Psychology’ en beslutning: De erklærte at ‘null hypothesis significance
+testing is invalid, and thus authors would not be required to perform it’.
+Som en konsekvens ble det krevet at alle artikler i tidskriftet skulle
+fjerne alle spor på signifikanstesting (p-verdier, t-verdier, F-verdier,
+utsagn om signifikans eller mangel på dette og så videre). Dette ble
+begrunnet i en artikkel fra redaksjonen [1].
+Dette har resultert i en storm av artikler fra statistikere, statistikere
+som i sin tid også tok sine beslutninger, som om hva det skulle
+fokuseres på, hvilken kunnskap de skulle trekke fram, og hva som
+skulle sies i den forbindelsen. Særlig var mange opptatt av å prøve å
+tenke litt nytt omkring begrepet p-verdier.
+Som alle vet, stammer p-verdi-begrepet fra Fisher, og er definert
+som sannsynligheten, under forutsetningen av ingen effekt eller
+ingen forskjell (nullhypotesen), for å få et resultat likt med eller
+mer ekstremt enn det som er observert. For å bruke en p-verdi,
+må altså flere forutsetninger være oppfylt. For det første må vi ha
+en sannsynlighetsmodell for dataene våre under det som kalles en
+nullhypotese. For det andre må vi ha en retning i parameter-rommet og
+dermed en retning i data-rommet: Vi må definere hva som er ekstremt.
+Og ikke minst: Vi må ha en tolkning av den p-verdien vi eventuelt
+publiserer. Hva vil vi med den?
+Dette er en beslutningssituasjon. Som jeg ser det, er enhver
+beslutning knyttet til en konkret person eller til en gruppe
+kommuniserende personer. Den kan også være knyttet til en konkret
+kontekst, si her et eksperiment. La oss prøve å sette p-verdien inn i en
+slik sammenheng.
+La oss først se det hele ut fra redaktørene av vitenskapelige
+tidsskrifter. Macnaughton [2] har tatt for seg to tidsskrifter,
+American Statistician og New England Journal of Medicine. Ta
+det første tidskriftet først. Det var opptatt av utbredt misbruk av
+signifikans-begrepet. I mars 2019 ble et eget nummer av American
+Statistician [3] utgitt med diskusjoner rundt dette emnet. Redaktørenes
+åpningsuttalelse var: ‘It is time to stop using the term ‘statistical
+significant’ entirely. Nor should variants such as ‘significantly
+different’, ‘p < 0.05’, and ‘non-significance’ survive.’ Denne uttalelsen
+har ført til mye forvirring og videre diskusjon. Jeg kommer tilbake til
+det.
+Fire måneder etter at dette spesialnummeret ble publisert, kom
+New England Journal of Medicine med en redaktør-uttalelse [4].
+Denne sier at tidsskriftet vil ‘(with appropriate caution) continue to
+use the concepts of threshold values and staistical significance for
+assessing primary (i.e. main, key) outcomes in papers submitted to the
+journal’.
+Macnaughton [2] har gått grundig inn i denne tilsynelatende
+uenigheten. Han mener at p-verdier kan være nyttige hjelpemidler
+8
+
+
+
+for redaktører til å ta en beslutning: Skal en empirisk artikkel sendes
+videre til kvalitetsvurdering ved referee-er eller ikke? Selvsagt må
+kvalitet, definert på passende måte, være avgjørende for publisering.
+Men en nødvendig forutsetning er artikkelen inneholder interessante
+resultater. I denne vurderingen kan p-verdiene gi en pekepinn.
+Hvordan har det så gått med artiklene i ‘Basic and
+Applied Psychology’ etter at redaktørene besluttet å droppe all
+signifikanstesting? Statistikerne Fricker et al. [5] har tatt for seg 31
+slike artikler. Konklusjon: ‘We found multiple instances of authors
+overstating conclusions beyond what data would support if statistical
+significance had been considered. Readers would be largely unable to
+recognize this because the necessary information to do so so was not
+readily available.’
+Det skulle være klart at her har statistikere som en gruppe en klar
+forpliktelse til å skjære igjennom og gi råd til empiriske forskere og til
+personer som skal vurdere empirisk forskning, spesielt da redaktører
+av tidsskrifter. Kan vi det? Dessverre ser det ut som om meningene
+fremdeles er noe delte.
+Etter min mening kan p-verdiene være et hjelpemiddel til å
+ta beslutninger på bakgrunn av data. Andre slike hjelpemidler er
+konfidensintervall, grafiske metoder og metoder som bygger på det
+Bayesianske begrepsapparatet. Macnaughton [2] har skissert en
+situasjon der p-verdier kan være nyttige i en beslutningsprosess. Cox
+[6] har beskrevet fire andre situasjoner: 1) I sammenhenger som
+medisinsk forskning eller annen forskning har forskeren formulert en
+veldefinert nullhypotese og en eller flere alternative hypoteser. Vi har
+da en klassisk Neyman-Pearson situasjon. På egen hånd eller ved hjelp
+av en statistiker har forskeren definert en sannsynlighetsmodell for
+dataene under de forskjellige hypotesene. En testobservator er valgt på
+grunnlag av styrkeberegninger, og ut fra denne er en p-verdi beregnet.
+Forskeren bruker denne til å ta stilling til hvilken hypotese han vil tro
+på. 2) I noen situasjoner representerer nullhypotesen konvensjonell
+teori, og alternativet en ny oppdagelse som har interesse i seg selv.
+P-verdien kan da være et middel til å kommunisere hvor stor sikkerhet
+en kan ha, ut fra et konkret sett av data, til den nye oppdagelsen. 3)
+Nullhypotesen deler en mulig parameter i to deler. For eksempel, enten
+gir behandling A en større forventet respons enn behandling B, eller så
+gir behandling B dn største forventete responsen. Vi må ta stilling til
+om dataene har etablert en retning for en relevant effekt. En to-sidig
+signifikanstest kan brukes, og p-verdien angir en slags styrke knyttet til
+konklusjonen. 4) En mer uformell anvendelse kan være i forbindelse
+med modell-sjekking knyttet til en relativt komplisert modell, kanskje i
+en situasjon der en har liten tidligere erfaring.
+Av mange nyere artikler skrevet av statistikere om p-verdier kan
+jeg nevne to: Ioannidis [7] prøver å oppsummere hva vi har lært ut fra
+alle de empiriske artiklene som har brukt p-verdier. Han nevner først at
+bruken av p-verdier ar økt betraktelig i de senere årene, og han sier at
+denne bruken er problematisk. Misbruk er knyttet til det han har kalt
+death-by-significance, og det hjelper ikke å gå fra rutinemessig bruk av
+P < 0.05 til for eksempel P < 0.005. Han anbefaler bruk av andre mål
+9
+
+
+
+i tillegg når en beslutning skal tas. På den annen side sier Kuffner og
+Walker [8] at p-verdiene i seg selv er relativt uskyldige, og problemet
+ligger i misbruk og mistolkning.
+Ut fra alt dette er det ikke urimelig at man etterlyser en autorisert
+uttalelse om p-verdier og signifikanstesting fra statistikerne som en
+gruppe. Som nevnt har konklusjonen fra redaktøren [3] i American
+Statistician i 2019 ført til endel forvirring. Presidenten i American
+Statistical Association tok opp denne tråden, og oppnevnte en
+ekspertgruppe som blant annet hadde med kjente statistikere som
+Bradley Efron og Nancy Reid. Konklusjonen kom nettopp [9]. Det er
+verdt å sitere to avsnitt fra denne uttalelsen:
+‘P-values are valid statistical measures that provide convenient
+conventions for communicating the uncertainty inherent in quantitative
+results. Indeed. P-values and significance tests are among the most
+studied and best understood statistical procedures in the statistics
+literature. They are important tools that have advanced science through
+their proper application.’
+‘Much of the controversy surrounding statistical significance can
+be dispelled through a better appreciation of uncertainty, variability,
+multiplicity, and replicability.’
+Mye misbruk og mistolkning av p-verdier er knyttet til situasjoner
+der en har eller kan ha mange slike p-verdier, knyttet til forskjellige
+nullhypoteser. Anta at alle disse nullhypotesene er sanne, og en har
+gjort q forskjellge avhengige eller uavhengige tester. Hvis q er stor, er
+det da stor sannsynlighet for at minst en test gir forkastning.
+En måte å takle slike stuasjoner, er en grafisk metode, forslått av
+Schweder og Spjøtvoll [10] i 1982. La p variere fra 0 til 1, og la Np
+være antall av de gitte p-verdiene som er større enn p. Et plott av Np
+mot 1 − p kan da være nyttig. En kan vise at venstre del at dette plottet
+er tilnærmet lineært, og stigningsforholdet er et estimat på T0 , antall
+sanne nullhypoteser. De nullhypotesene som ikke er sanne ventes å gi
+avvik fra den rette linjen.
+Et alternativ kan være å bruke metoder fra multippel testing.
+Bonferroni’s metode er enkel å bruke her. Har en q forskjellige
+p-verdier knyttet til forskjellige beslutninger som beskrevet over, kan
+en rett og slett multiplisere dem alle med q. Da har en kontroll på
+sannsynligheten for minst en feilaktig forkastning.
+La meg slutte med noen betraktninger omkring en generell
+beslutnings-situasjon. Ifølge Yukalov og Sornette [11] kan slike
+situasjoner beskrives ved å bruke modeller og metoder fra
+kvanteteorien. I språket beskrevet i min egen bok [12] kan dette
+formuleres på følgende måte: En forsker som vil gjøre en undersøkelse
+i en konkret kontekst kan ha flere variable i tankene sine. Anta at to
+av disse variablene er relaterte, som kan defineres presist, og at de
+også er maksimalt tilgjengelige, som er definert som det meste han er
+istand til å spørre om. Da kan ifølge kvanteteorien situasjonen under
+svake betingelser beskrives ved abstrakte enhetsvektorer i et komplekst
+Hilbertrom. I det diskrete tilfellet står nesten alle slike vektorer i
+enentydig korrespondanse med et spørsmål knyttet til en maksimalt
+tilgjengelig variabel θ , som ofte er en vektor av enkeltvariable, slik
+10
+
+
+
+at spørsmålet består av flere enkeltspørsmål: ‘Hva er verdien av θ ?’
+sammen med et presist svar, si ‘θ = u’. Noen slike variable kan
+knyttes til beslutningene forskeren må gjøre, si etter å ha utført et
+eksperiment. Under visse betingelser kan sannsynligheten for å gjøre
+ulike beslutninger beregnes ved en matematisk formel, Born’s formel.
+Etter min mening kan også felles beslutninger, gjort av en gruppe
+personer, beskrives på en lignende måte. Men dette er ikke alle enige i.
+Hervé Zwirn, som jeg har omtalt i en tidligere TG-artikkel, mener at
+all beskrivelse av verden må sees ut fra det som befinner seg i tankene
+til en enkeltperson; han kaller denne filosofien for solipsisme. Men
+forskjellige personer kan i alle fall kommunisere.
+
+Referanser
+[1] Trefirnow, D. & Marks, M. (2015). Editorial. Basic and Applied
+Social Psychology. 37. 1-2.
+[2] Macnaughton, D.B. (2021). The War on Statistical Significance.
+Kindle Direct Publishing.
+[3] Wasserstein, R.L., Schirm, A.L. & Lazar, N.A. (2019). Moving to
+a world beyond ‘p < 0.05’. Editorial. American Statistician 73:
+sup1: 1-19.
+[4] Harrington, D., D’Agostino, R.B., Gatsonis, C., Hogan, J.W.,
+Hunter, D.J., Normand, S.T., Drazen, J.M. & Hamel, M.D. (2019).
+New guidelines for statistical reporting in the Journal. New
+England Journal of Medicine 381, 285-86.
+[5] Fricker R.D. Jr, Burke, K., Han, X. & Woodall, W.H. (2019).
+Assessing the statistical analyses used in Basic and Applied Social
+Psychology after their p-value ban. American Statistician 73, No.
+Sup1, 374-384.
+[6] Cox, D.R. (2020). Statistical significance. Annual Review of
+Statistics and its Applications 7, 1-10.
+[7] Ioannidis, J.P.A. (2019). What have we (not) learnt from millions
+of scientific papers with p-values? American Statistician 73 (51),
+20-25.
+[8] Kuffner, T.A. & Walker, S.G. (2019). Why are p-values
+controversial? American Statistician 73 (1), 1-3.
+[9] Benjamini, Y., De Veaux, R.D., Efron, B., Evans, S., Glickman,
+M., Graudbard, B.I., He, X., Meng, X.-L., Reid, N. Stigler, S.M.,
+Vardeman, S.B., Wikle, C.K., Wright, T., Young, L.D. & Kafadar,
+K. (2021). The ASA president’s task force statement on statistical
+significance and replicability. Annals of Applied Statistcs 15 (3),
+1084-1085.
+[10] Schweder, T. & Spjøtvoll, E. (1982). Plots of P-values to evaluate
+many tests simultaneously. Biometrika 69 (3), 493-502.
+[11] Yukalov, V.I. & Sornette, D. (2014). How brains make decisions.
+Springer Procedings in Physics 150, 37-53.
+[12] Helland, I.S. (2021). Epistemic Processes. A Basis for Statistics
+and Quantum Theory. Springer, Berlin. Revidert utgave.
+11
+
+
+
+Matematisk statistikk: Fag, folk og fellesskap
+Jostein Lillestøl | Norges Handelshøyskole
+
+Matematisk statistikk som fag i Norge begynte på mange måter tidlig
+på 1960-tallet, selv om flere tråder kan trekkes lenger bakover. Vi er
+fremdeles noen som var med den gang, og som sitter på kunnskap
+om historien til faget her til lands og dets forhold til Norsk Statistisk
+Forening (NSF). Det er kunnskap som kanskje er ukjent for mange
+som har funnet veien til faget og fått sitt levebrød ved det. Om noen er
+spesielt interessert i dette, fins to tilbakeskuende artikler i Statistisk
+Sett, skriftet utgitt ved 50-års jubiléet til Norsk Statistisk Forening i
+1986, og som er tilgjengelig på nettet fra NSF sin hjemmeside. Det er:
+«Statistikkfaget i Norge: Det gamle og det nye faget» av Tore Schweder
+og «Norsk Statistisk Forening 1936-1986» av Jostein Lillestøl. På
+den tid vi skrev dette hadde matematisk statistikk fått en klar faglig
+identitet i Norge, og kandidater med slik bakgrunn ble etterspurt både
+her og der. Her følger et nytt tilbakeblikk, med opplevelse, erfaringer
+og synspunkter etter et langt liv innen faget. Vekten er lagt på perioden
+da de strukturer vi kjenner i dag var i støpeskjeen. Avslutningsvis
+reises spørsmål knyttet til dagens situasjon.
+
+Eget fagfelt
+Matematisk statistikk som begrep og eget fagfelt vokste fram på
+1930-tallet, inspirert av pionerer i statistisk teori, som Ronald Fisher og
+Jerzy Neyman, i samspill med det sannsynlighetsteoretiske grunnlag
+lagt av Kolmogorov i 1933. Felleskap mellom matematisk statistikere
+ble skapt innen Royal Statistical Society i UK og American Statistical
+Association i USA, og det nye faget kom til uttrykk i deres tidsskrifter
+Journal of the Royal Statistical Society (JRRS Ser B Methodology fra
+1934) og Journal of the American Statistical Association (JASA). I
+tillegg kom den nye organisasjon Institute of Mathematical Statistics
+(IMS) etablert i 1935 og dens tidsskrift Annals of Mathematical
+Statistics (AMS), fra 1973 delt i Annals of Statistics og Annals of
+Probability.
+Matematisk statistikk som eget fagfelt med undervisning på høyere
+nivå i Norge har sin begynnelse rundt 1960 på Matematisk institutt ved
+Universitetet i Oslo. Realfagstudiet hadde da fått en ny studieordning
+som var emnebasert og ga større mulighet for individuell tilpasning.
+Matematisk institutt var den gang organisert i fire avdelinger, der
+Statistikk og Forsikringsmatematikk utgjorde Avdeling C, med to
+professorer Erling Sverdrup og Olav Reiersøl, og et knippe ferske
+universitetslektorer/stipendiater (Arnljot Høyland, Else Sandved, Grete
+Fenstad, Erik Torgersen, Emil Spjøtvoll). For innblikk i synspunktene
+til de to nestorene innen faget anbefales video-intervjuet med Erling
+Sverdrup tilgjengelig fra NSF sine nettside og intervju med Olav
+Reiersøl publisert i 2000.1 .
+Den nye studieplanen til lavere grad (cand.mag. 3 ½ år) hadde
+en emnegruppe i statistikk på tre kurs, kalt S1, S2 og S3, som
+grunnlag for å begynne på høyere grad studium (cand.real. 2 år) med
+12
+
+1 The ET Interview: Professor Olav
+Reiersøl, Econometric Theory , Volume 16 ,
+Issue 1 , February. 2000 , pp. 113 – 125
+
+https://doi.org/10.1017/
+S0266466600161067
+
+
+
+matematisk statistikk som hovedfag. Emnegruppen utgjorde ett års
+studium (datidens 20 vekttall av 65 + forberedende i filosofi). Samlet
+ga dette et studieløp litt lenger enn den senere cand.scient. og dagens
+masterutdanning, og med en hovedoppgave som i mange tilfeller kunne
+måle seg med dagens PhD avhandlinger. Aktuarstudiet var den gang et
+eget studium som riktignok hadde kursene i statistikk i lavere grad
+felles med realfagstudentene, men ikke ble videreført på hovedfagsnivå.
+Tilsiget av ferdige kandidater med matematisk statistikk som hovedfag
+begynte midt på 1960-tallet.
+
+Faget fenger
+Det tok tid før jeg ble oppmerksom på statistikk som fag.
+Det skjedde annet studieår ved snusing i matematikkhyllene i
+universitetsbokhandelen Studia. Der sto en rekke kompendier med
+tittel Innføring i statistisk inferens. «Jøss, det er jo matematikk!
+Og Sverdrup, var ikke han polarforsker?». Dette måtte undersøkes
+nærmere! Jeg kom raskt til klarhet, men kurset S1 var allerede godt i
+gang med Torgersen som foreleser. Han snakket om Bernoulli-forsøk,
+og greide å gjøre det såpass abstrakt at jeg trakk meg tilbake med
+halen mellom bena. Året etter prøvde jeg igjen, og da med Høyland
+som foreleser. Da ble jeg fanget opp av faget, akkurat den passe
+blandingen av stringens (når det var nødvendig) og omtrentligheter
+(når det var tilstrekkelig). Problemstillingene hadde tilsynelatende
+noe med virkeligheten å gjøre. Dessuten ble bordregnemaskin brukt
+som hjelpemiddel, av typen Ohdner med håndsveiv (der man sveivet
+baklengs ved divisjoner). Sikkert nyttig! Og så var det kurset S3 med
+Emil Spjøtvoll, der gamblers ruin var tema. Fascinerende!
+
+Datafag i emning
+På tidlig 1960-tall eksiterte ikke informatikk som begrep og
+universitetsfag. Brukerkurs i Fortran-programmering fantes, men var
+ansett å være uakademisk og ga ikke vekttallskredit. Den første endring
+kom i 1963 med Ma9, et lite kurs som inneholdt Algol-programmering.
+Dette språket var definert ved logiske primitiver, og kunne dermed
+aksepteres for kredit. Ved Matematisk institutt hadde man riktignok
+Avd D, Numerisk analyse, som ikke virket spesielt spenstig. Dersom
+man ville orientere seg i retning av Computer Science måtte man
+søke andre steder. I årene som fulgte var det et visst påtrykk utenfra
+for å etablere studieprogram i datafag og tilbud om veiledning på
+hovedfagsnivå, bl.a. fra Lars Monrad Krohn ved FFI på Kjeller, den
+senere gründeren av Norsk Data. Nærmere Blindern ved enden av
+Gaustadjordet lå Norsk Regnesentral, der duoen Kristen Nygård og
+Ole Johan Dahl var i ferd med å utvikle Simula, et objektorientert
+programmeringsspråk, etter sigende det første i verden. Først i 1968
+fikk Avd. D sin første professor i faget (Ole Johan Dahl) og i 1972
+skiftet avdelingen navn til Databehandling og numerisk analyse.
+Norsk Regnesentral hadde på denne tiden et oppgående matematisk
+statistisk miljø med vekt på modellering. Gjennom prosjekter i
+samarbeid med andre forskningsmiljøer og næringsliv demonstrerte
+13
+
+
+
+NR at matematisk statistikk var nyttig i praksis. Dette var med på å
+åpne døren for matematisk-statistikere også utenom høyere utdanning.
+Selv fikk jeg som student i 1964 gleden av å ha sommerjobb på NR
+(sammen med Tore Schweder, Steinar Bjerve og Jørgen Randers)
+og deretter deltid. NR hadde to år før anskaffet UNIVAC 1107, et
+hypermoderne dataanlegg som fylte et stort rom. For ferske studenter
+var dette en åpenbaring å komme hit fra håndregnemaskinen på
+Blindern. Vårt oppdrag var å oversette numeriske rutiner fra Fortran
+til Algol, og jeg husker spesielt strevet med Kurgla, et program
+for kurveglatting som skulle implementeres for skjærebrenning av
+skipsprofiler. En del av tiden fikk vi bruke til det vi ville. For meg var
+det fristende å prøve ut Simula som var i startfasen av sin utvikling. På
+1960-tallet var vi fremdeles i hullkortalderen, med hver programlinje
+kodet på sitt kort. Kortbunken måtte så leveres inn for kjøring. Med
+mange i kø kunne det ta sin tid, og med feil i programmet var det på’an
+igjen.
+
+Valgets kval
+Tidligere var arbeidsmulighetene for matematikere svært begrenset,
+med få stillinger utenom gymnaset (nå videregående skole). I løpet av
+1960-tallet endret det seg. Stillinger dukket etter hvert opp her og der,
+først ved de andre universitetene og de vitenskapelige høyskolene og
+på 1970-tallet ved de nyopprettede regionale høyskolene. Det var også
+ekspansjon innen anvendt forskning, der matematisk ekspertise var på
+stigende kurs, bl.a. som følge av tilkomsten av store datamaskiner og
+de muligheter dette ga.
+På spranget inn i hovedfag forelå tre mulige valg: Ren
+matematikk, matematisk statistikk eller et mer eller mindre udefinert
+databehandlingsfag. Den opprinnelige plan var ren matematikk,
+men i møte med matematisk statistikk og databehandling ble det
+mindre aktuelt. Målteori var ikke så verst, men abstrakt algebra og
+topologi skjønte jeg lite av. Hva med datafag? Både FFI og NR fristet
+med opplegg for et hovedfag, herunder Kristen Nygård som ønsket
+statistikere tettere på sitt Simula-prosjekt. Noe klart definert hovedfag
+i Computer Science fantes ennå ikke, og jeg observerte en rekke
+studenter som var fanget opp av datamaskinen , med stø kurs mot
+å forbli evige studenter. På denne tiden jobbet en rekke briter ved
+NR, og jeg minnes at jeg spurte en av dem (Bell) hvilke emner jeg
+burde lese for å ha en fremtid innen IT. Han sa: ”Read topology, if
+you master topology, you will master everything!” Det var ikke det
+jeg likte å høre, noe som faktisk styrket meg i troen på at matematisk
+statistikk var det rette valg. Statistikk var matematikk, men ikke bare
+matematikk, og at det var et etablert fagområde, der mengden av
+mulige interessante jobber ikke var tom, men faktisk ganske stor.
+Problemet var at jeg manglet årskurset S2, noe som også var tilfelle for
+medstudent Steinar Bjerve. Da var det at Grete Fenstad sa seg villig
+til å arrangere en ekstra eksamen utenom tur, dersom vi leste på egen
+hånd. Snakk om velvilje og inkluderende holdning! Noe helt annet enn
+den ekskluderende og til dels arrogante holdning som vi fornemmet på
+14
+
+
+
+Avd. A. Slik ble det, og vi kunne gå løs på hovedfaget uten tidstap.
+
+Lov og tilfeldighet
+Erling Sverdrup sine kompendier kom ut i bokform i 1964 under
+tittelen «Lov og tilfeldighet» i to bind på Universitetsforlaget. Til
+sammen utgjorde de i hovedsak pensum i kursene S1 og S2. Bøkene
+hadde undertittelen «den praktiske statistikks metode og teknikk». En
+titt på bøkene avslører imidlertid at her stilles det betydelige krav til
+leseren innen matematisk analyse, samt litt lineær algebra. Bind 2 har
+fått påskriften «en matematisk videreføring». Likevel var dette ikke
+matematisk nok for enkelte ren-matematikere på instituttet. Sverdrup
+fikk kritikk for at han tok utgangspunkt i statistiske fordelinger,
+uten det matematiske fundament med utfallsrom, sigma-algebra og
+stokastiske variable som målbare funksjoner. Sverdrup mente dette var
+en unødig omvei som bare stjal tid. Kritikken provoserte han såpass at
+han laget et appendiks til den engelske utgaven av bøkene, der han
+satte tingene på plass.2 Bøkene til Sverdrup definerte langt på vei
+grunnkompetansen til flere generasjoner norske statistikere.
+Kurset S3 var basert på siste del av Feller’s klassiske bok
+i sannsynlighetsteori.3 Pensum var i hovedsak stokastiske
+prosesser, herunder random walk, ruinproblemer, markovkjeder og
+fornyelsesteori. Som forberedelse til hovedfag var det, i tillegg til S1,
+S2 og S3, sterkt anbefalt å lære seg mål- og integralteori. Det skulle
+vise seg å være et godt råd.
+
+2 Sverdrup, E. (1964) Lov og Tilfeldighet:
+
+den praktiske statistikks metode og teknikk,
+Bind 1,2, Oslo: Universitetsforlaget.
+Sverdrup, E. (1967) Laws and Chance
+Variations: Concepts of Statistical Inference,
+vol 1-2, Amsterdam: North Holland.
+3 Feller, W. (1957) An Introduction to
+
+Probability Theory and its Applications,
+Vol. I, 2rd ed., New York: JohnWiley &
+Sons.
+
+Hovedfag
+I hovedfaget møtte vi Sverdrup og Reiersøl som forelesere og
+potensielle veiledere. Studiehåndboken kunne oppvise et imponerende
+spekter av emner til høyere grad, men med den lille staben ble kun
+et lite knippe regelmessig tilbudt. Sverdrups kurs i inferensteori
+sto sentralt, og var nesten å regne som obligatorisk. Det norske
+matematisk-statistiske fagmiljøet var i starten sterkt forankret i
+Neyman-Pearson teorien, som innebar statistisk inferens i stokastiske
+modeller, med vekt på optimalitet i en eller annen forstand. Sverdrups
+presentasjon av Neyman-Pearson teorien var basert på målteori, med
+Lebesgue-integraler og flittig bruk av Radon-Nikodyms teorem.
+Målteori var også nødvendig for å følge Reiersøl sine forelesninger i
+markovprosesser. Disse var inspirert av Dynkins avanserte bok, med en
+egen vri, og det var ikke lett å henge med. Det var sterkt anbefalt å ta
+kurs i grensesetninger i sannsynlighetsregning og statistikk. Ønsker
+om fordypning i mer eksotiske emner var risikofylt, da en ikke kunne
+vente seg noe veiledning. Eksempelvis ble ønske om fordypning i
+fundamentet for bayesianisme med utgangspunkt i Savage og De
+Finetti møtt med en kald skulder. Det viste seg senere at de tilbudte
+hovedfagskurs lå fullt på høyde med doktorgradskurs ute i verden, noe
+som den tids studenter med ambisjoner fikk stor glede av.
+Jeg minnes Sverdrups sine forelesninger som elegante, og
+som etterlot inntrykket av en ferdig utviklet teori. Reiersøl sine
+forelesninger var tilsynelatende mer ustrukturerte, men kunne gi en
+
+Erling Sverdrup (1917-1994)
+
+15
+
+
+
+følelse av å være ved forskningsfronten der og da. Begge var pent
+antrukket i mørk dress og slips. Forskjellen var at etter forelesningen
+var Sverdrup like elegant, mens Reiersøl var full av krittmerker på
+ryggen etter å ha lent seg mot tavlen hver gang han snudde seg for å se
+om vi hang med.
+
+Bergen venter
+Allerede før jeg var ferdig med hovedfagsoppgaven fikk jeg tilbud
+om jobb ved Norges Handelshøyskole (NHH). Det spilte ingen rolle
+at oppgaven dreide seg om noe fjernt fra fagene der, så lenge det
+matematisk-statistiske grunnlaget var i orden. Jeg takket ja, og flyttet
+til Bergen høsten 1966, en by uten matematisk-statistikere fra før.
+Det varte ikke lenge, siden Sven Nissen-Meyer (1908-1987), lege
+og biostatistiker, kom fra USA i 1967 til et nyopprettet professorat i
+matematisk statistikk ved Universitetet i Bergen, der han snart fikk
+flere rundt seg (Henrik Dahl, Trygve Nilsen og Ivar Heuch). Ved
+NHH fikk jeg et langt liv som forsker og underviser på alle nivå.
+Jeg ble gitt stor frihet, og både stab og studenter var mottagelige
+for matematisk statistikk. Eksempelvis var det våren 1969 hele 30
+studenter i valgemnet matematisk statistikk, og det utgjorde omtrent
+15% av hele studentkullet. En tidligere artikkel i TG forteller litt om
+metodefagenes inntreden på NHH.4
+
+Veien videre
+På den tid var det ikke nødvendig med doktorgrad for stillinger i
+akademia, med mindre man ville bli professor. Det færreste hadde
+ambisjoner om det, i en tid da professortittelen var mer eksklusiv enn
+den er i dag. Dette var tiden før organisert doktorgradsstudium under
+veiledning, og der dr.philos ofte mer var slutten på et forskningsløp
+enn begynnelsen.
+Skuet man utover landegrensene var University of California
+Berkeley stedet for å fange opp nye ting. Her var navn kjent fra
+Sverdrup sine forelesninger, foruten Jerzy Neyman selv, var det
+Lehmann, Sheffé, Hodges og Blackwell (som var bayesianer) og
+mange flere enda ukjente. Hit var det fristende å reise, og NHH ga
+meg anledning til et års opphold der i 1968-69, først uten tanke om
+doktorgrad. Dette var i studentopprørets tid og to saker, Black studies
+program og Peoples Park, førte til demonstrasjoner og utøvelse av
+makt som lammet universitetet i to perioder. Oppholdet fristet likevel
+til å komme tilbake som regulær student i doktorgradsprogrammet,
+som skjedde i 1973.
+Arnljot Høyland (1924-2002) hadde vist vei da han returnerte fra
+Berkeley til Blindern med doktorgrad i 1963. I 1965 reiste han derfra
+til Norges Tekniske Høyskole (NTH) i Trondheim og bygde opp et
+sterkt fagmiljø der. Erik Torgersen (1935-1994) fulgte opp i 1968, og
+kom tilbake fra Berkeley til Blindern og endte som professor der. Emil
+Spjøtvoll (1940-2002) fullførte isteden den norske graden dr.philos i
+1968. Han satte spor etter seg, først på Blindern, så ti år på Norges
+Landbrukshøyskole på Ås, og sist til NTH i Trondheim, der han ved
+16
+
+Olav Reiersøl (1908-2001)
+
+4 Lillestøl, J: Metodefagene ved NHH de
+første 50 år, TG, 2017 nr. 1 (Juli).
+
+
+
+opprettelsen av NTNU ble den første rektor.
+Etter hvert var det mange norske statistikere som kom hjem
+med doktorgrad fra Berkeley. I perioden 1974-1980 var det hele syv
+stykker (Steinar Bjerve, Tore Schweder, Odd Aalen, Jostein Lillestøl,
+Jan Bjørnstad, Knut Aase, Anders Rygh Swensen). Blant disse fant
+Schweder og senere Bjørnstad veien til det nyopprettede Universitetet
+i Tromsø, før de dro videre til andre beitemarker. Blant de få som
+hadde fantasi til å søke andre steder var Dag Tjøstheim med Ph.D fra
+Princeton og Steinar Engen med D.Phil fra Oxford. Med så mange som
+utdannet ved topp universiteter i utlandet, lå forholdende godt til rette
+for å starte slike programmer, noe som var gjort mulig med vedtaket
+om innføring av dr.scient graden i 1977 (erstattet av PhD i 2007).
+
+Jerzy Neyman, Jostein Lillestøl, Erich
+Lehmann. Foto tatt under picnic i
+forbindelse med Neyman´s 80-årsdag i
+1974
+
+NSF som møteplass
+Med matematisk statistikere spredd på flere institusjoner meldte det
+seg behov for egnede møteplasser. Norsk Statistisk Forening hadde
+eksistert fra 1936, i hovedsak bygget på interessefellesskapet mellom
+Statistisk Sentralbyrå og Sosialøkonomisk institutt og kandidater
+derfra. Foreningen hadde regelmessige møter med foredrag, og ble
+aktivert hver gang Norge hadde ansvar for Nordisk konferanse i
+statistikk (dvs. for byråstatistikere). Ellers var foreningen lite aktiv og
+interessefellesskapet med matematisk statistisk teori og modellering
+var svakt. En endring skjedde i 1971 da Tore Schweder ble valgt til
+leder, og matematisk-statistikere overtok hegemoniet. Flere ledere
+med matematisk-statistisk bakgrunn fulgte i årene etter, men NSF var
+fortsatt en Oslo-klubb inntil 1985. Ved 50-årsjubileet til NSF i 1986
+ble det tatt et foto med en rekke tidligere ledere av foreningen.
+
+Nordiske møter og SJS
+De nordiske konferansene i matematisk statistikk kom i gang uten å
+ha noen norsk forening i ryggen. Initiativet ble tatt av norske Arnljot
+Høyland og danske Ole Barndorff-Nielsen som møttes under studier
+i California. Den første konferansen fant sted i Aarhus i 1965 og
+den neste i Lofthus i Hardanger året etter. Disse er omtalt i tidligere
+Tilbakeblikk i TG. Disse konferansene ble en umiddelbar suksess, og
+det var enighet om å forsøke å etablere en fast tradisjon. Stafettpinnen
+gikk videre til svenskene, men det tok tre år før de inviterte til Umeå
+i 1969. Med den fjerde konferansen i Jvväskylä i Finland i 1971
+var vi kommet Skandinavia rundt og praksisen med konferanser
+annethvert år etablert. Disse konferansene spilte en betydelig rolle
+på flere måter, både for kontakten mellom etablerte forskere og for
+nye innen faget. Som hovedfagsstudent og nylig ferdig kandidat
+fikk vi et utvidet perspektiv på faget, for muligheter og kravene til
+vitenskapelighet. Mest av alt bidro de til å skape en felles bevissthet
+om statistikk som et eget fag med livets rett. Den første tid hadde de
+norske deltakerne, med få unntak, sin bakgrunn fra avdeling C, men
+dette endret seg med tiden. Langt på vei ble dette møteplassen for
+de norske matematisk-statistikere på tvers av institusjonene, idet de
+norske konferansene ennå lå noe fram i tid.
+
+Et knippe tidligere ledere av NSF
+fotografert i 1986. Bak fra venstre: Erik
+Mohn (1984-85), Henrik Palmstrøm
+(1946-48), Herdis Thorén Amundsen
+(1963-65), Steinar Tretlie (1979-81),
+Jostein Lillestøl (1986-87), Hans Bjåland
+(1962-63), Foran: Steinar Bjerve (1975-79),
+Tore Schweder (1971-72).
+
+17
+
+
+
+Tanken om et eget nordisk tidsskrift ble lansert av svenskene på
+møtet i Umeå i 1969, men det tok noen år å få klarlagt det økonomiske
+grunnlaget. Scandinavian Journal of Statistics kom i sin første årgang i
+1974, med de statistiske foreninger i hvert av landene som sponsorer,
+forutsatt at man ikke påtok seg økonomiske forpliktelser. De første
+norske redaktørene var Erik Torgersen og Emil Spjøtvoll.
+
+ISI og Bernoulli Society
+Den internasjonale organisasjonen for statistikere, International
+Statistical Institute (ISI), hadde på denne tid medlemskap etter forslag
+fra allerede medlemmer og innvotering. ISI avholdt annethvert år store
+internasjonale sesjoner, åpent for alle, med hele bredden av statistiske
+emner på programmet. ISI var organisert i underavdelinger etter tema,
+med åpent medlemskap, og som bidro til sesjonene, men også holdt
+egne møter utenom disse. Bernoulli Society for Mathematical Statistics
+and Probability etablert i 1975 under ISI er en slik, og ble til som
+en sammenfatning av tre partnere: IASPS (International Association
+of Statistics in the Physical Sciences), en eksisterende avdeling av
+ISI etablert i 1958 etter forslag av Jerzy Neynan, ERC (European
+Regional Committee), et initiativ initiert av økonometrikeren Henri
+Theil i 1960 og videreført av Anders Hald og CCSP (Commitee for
+Conferences on Stochastic Processes), et initiativ av Julian Keilson i
+1971. Alle tre partene avholdt konferanser etter sin oppstart fram mot
+sammenslåingen i 1975. De europeiske konferansene i matematisk
+statistikk arrangert av ERC startet i 1962 i Dublin og fram til Bernoulli
+Society overtok i 1975 var det avholdt åtte slike konferanser.
+
+Europeisk møte i Oslo 1978
+Rett etter etableringen av Bernoulli Society sendte Erling Sverdrup en
+invitasjon om å avholde 11th European Meeting of Statisticians 1978
+ved Universitetet i Oslo, et tilbud som ble akseptert av den europeiske
+komiteen. Dette var den første ISI-konferansen i Norge siden 1901,
+og et stort løft for et lite fagmiljø. Med Matematisk institutt i ryggen,
+ble det nedsatt en organisasjonskomite med bred representasjon:
+Universitetet i Oslo (Herdis Thorén Amundsen, Ragnar Norberg),
+Norsk Regnesentral (Erik Mohn (1936-1988), leder), Statistisk
+Sentralbyrå (Ib Thomsen), Norges Almenvitenskapelig Forskningsråd
+(SteinarTamsfoss), Universitetet i Bergen (Trygve Nilsen), Universitet
+i Tromsø (Tore Schweder), Norges Tekniske Høyskole (Per
+Hokstad), Norges Landbrukshøyskole (Emil Spjøtvoll) og Norges
+Handelshøyskole (Jostein Lillestøl). Dette var de institusjoner hvor det
+fantes matematisk-statistikere på den tiden, representert ved den nye
+generasjon matematisk-statistikere. Erik Mohn ledet arbeidet på en
+glimrende måte, og konferansen ble en stor suksess, både faglig og
+sosialt. Den kan også sies å ha vært identitetsbyggende for det norske
+miljøet.
+18
+
+
+
+På Café Engebret
+Her gis plass til en solid digresjon: Det var fremdeles Den Kalde
+Krigen, og forskere fra Øst-blokken ble ikke gitt mange anledninger
+å reise til Vesten på konferanser, selv etter invitasjoner og kostnader
+dekket. Det gjaldt mest av alt Sovjet-Unionen, og det ble sagt at ytret
+du ønske om en bestemt person, sendte de heller en annen. Vi hadde
+invitert Igor, og til vår overraskelse var han med i den lille russiske
+delegasjonen. Her var også en tilårskommen forskningsbyråkrat fra
+Uzbekistan, som med bulgarsk tolk presenterte et lite arbeid han
+hadde gjort sammen med Kolmogorov tyve år før. Oslo kommune
+hadde (takket være godt innspill av Erik Mohn) spandert en storslått
+mottakelse i Oslo Rådhus, med omvisning og rikelig med snitter til
+alle. Etter mottakelsen ønsket vi å ta Igor med ut på byen. Han vred på
+seg, og vi forsto at han var under streng kontroll. Vår mistanke falt
+på uzbekeren. Med han invitert var saken løst, og vi vandret av sted
+til den tradisjonsrike Café Engebret. Under oppholdet der fremmet
+Tore Schweder tanken om at USSR burde kunne arrangere et lignende
+møte, med baktanken om at da ville også andre enn de politisk utvalgte
+kunne møte fagfeller fra Vesten. Stemningen ble etter hvert høy og
+kulminerte med at usbekeren skålte for den norske kvinne, og ønsket
+velkommen til møte i Samarkand om fire år. Vel, det tok litt lenger tid,
+og stedet ble et annet. I 1986 ble First Bernoulli-IMS World Congress
+arrangert i Tasjkent med god norsk deltakelse.
+
+Utenom Oslo
+Studietilbud på høyere nivå utenom Oslo ble tilgjengelig sent på
+1960-tallet, ved Norges Tekniske Høyskole/Universitet i Trondheim,
+ved Universitetet i Bergen, og ved Universitetet i Tromsø (opprettet i
+1968) ti år senere. Ved slutten av 1970-tallet hadde et betydelig antall
+matematisk-statiskere funnet arbeid ved institusjoner utenom Oslo, og
+mange av dem utdannet der. I Bergen var det, i tillegg til Matematisk
+Institutt og Handelshøyskolen, også statistikere i anvendt forskning,
+som i fiskeri- og havforskning og ved Haukeland sykehus.
+
+Helnorsk møteplass
+Som følge av den nye situasjon var det naturlig at NSF rettet sin
+oppmerksomhet ut over Oslo, i første omgang etablere en helnorsk
+møteplass. Det første Norske Statistikermøte fant sted på Røros i
+1979, og holdes i de årene det ikke er nordisk møte. Formatet på
+møtene har vært 2-3 inviterte hovedforedrag, supplert med en rekke
+påmeldte korte bidrag. På det første norske møtet ga Erling Sverdrup
+en systematisk innføring i teorien for kryssklassifiserte multinomiske
+data. Han demonstrerte, delvis med egen forskning, hvordan en kunne
+studere temaet innen rammen av Neyman-Pearson teorien, og dermed
+at kjikvadrattester kunne gjøres til noe mer enn et isolert tema i
+undervisningen. Multivariabel dataanalyse var tema for det andre
+hovedforedraget, der miljøet fra Norsk Regnesentral (Mohn, Kalvenes,
+Sollie) presenterte anvendelser, bl.a. på sur nedbørs innvirkning på
+fisk og skog. Ved det neste møtet to år senere i Bø i Telemark var
+19
+
+
+
+hovedtemaene diffusjonsprosesser (Helland) og multivariate tidsrekker
+(Tjøstheim). Det ble ikke avholdt noe norsk møte i 1983, fordi Norge
+sto for tur til å arrangere nordisk møte året etter, som fant sted på
+Bolkesjø i 1984.
+Disse møtene ble altså holdt ved at matematisk-statistikere
+gikk sammen om oppgaven, Institusjonelt hadde man Matematisk
+institutt og Norsk Regnesentral i ryggen, og i noen grad Statistisk
+Sentralbyrå. Det ble søkt om økonomisk støtte utenfra og De norske
+livsforsikringsselskapers fond og Norges Almenvitenskapelige
+Forskningsråd (NAVF) bidro til det første møtet, men ved det neste
+var kassen tom over alt. Til det nordiske møtet i 1984 fikk vi støtte
+både fra bank og forsikring, mens NAVF sviktet oss igjen. NSF hadde
+riktignok et fond som kunne brukes, men det var ikke uuttømmelig.
+
+Meldingsblad
+Behovet for et meldingsblad med innslag av faglig stoff meldte seg
+tidlig på 1980-tallet. Initiativet ble tatt av Tore Schweder og etter en
+diskusjon valgte man navnet Tilfeldig Gang. Det første nummer av
+TG kom i april 1984 med Johan Heldal i Statistisk Sentralbyrå som
+redaktør den første tid, og der byrået tok kostnadene ved opptrykk
+noen år. TG har hatt varierende utgivelser og varierende omfang og
+innhold. I noen grad har TG levd opp til sitt navn. Redaksjonen har
+gått på omgang i landet, og har slett ikke vært helt tilfeldig!
+
+Bergen rører på seg
+Med de mange statistikere som etter hvert hadde sin arbeidsplass i
+Bergen lå forholdene til rette for en lokal statistisk forening. Statistisk
+Forening i Bergen ble opprettet i 15.12. 1983 med Jostein Lillestøl
+som den første leder. Vedtektenes §8 sa: «Foreningen bør se sin
+virksomhet i sammenheng med Norsk Statistisk Forening, og forsøke å
+koordinere sin aktiviteter med denne». Den unge foreningen ble straks
+utfordret til å ta på seg å arrangere det tredje norske statistikermøtet i
+1985. Meldingen fra Bergen til NSF sine medlemmer er klar: «Alle
+norske statistikere bør føle et ansvar for å komponere et møteprogram
+som kan styrke vårt faglige fellesskap». Møtet fant sted i Godøysund
+i Sunnhordland, og for første gang var problemstillinger innen
+oljesektoren gjort til et hovedtema på NSF-møte, med foredragsholdere
+bl.a. fra Statoil (Thor Langeland), NTH (Harrald Krogstad) og Norsk
+Regnesentral (bl.a. Henning Omre). Det ble søkt om støtte fra Statoil
+i Bergen, med god begrunnelse. Blankt avslag! At det var behov for
+flere statistikere i oljesektoren hadde jeg erfart ved besøk et par år
+før, da jeg ble presentert for flere statistiske problemstillinger, bl.a.
+risikovurderinger, som hadde fått en høyst diskutabel løsning. Senere
+har det jo vist seg at norske statistikere har gjort seg sterkt gjeldende
+innen romlig statistikk, også internasjonalt.
+
+Landsdekkende NSF
+På møtet i Godøysund avholdt NSF ekstraordinært hovedmøte hvor
+vedtektene ble justert slik at de åpnet opp for lokalforeninger. Høsten
+20
+
+
+
+1985 ble så Statistisk Forening i Oslo opprettet med Tormod Næs,
+Norges Landbrukshøyskole som leder, og Statistisk Forening i Bergen
+justerte sine vedtekter. Fra da av hadde NSF to lokalforeninger, og
+senere er Trondheim kommet til.
+At NSF nå var blitt en forening for hele landet ble ytterligere
+markert ved at årsmøtet i 1985 valgte Jostein Lillestøl fra Bergen som
+sin første leder utenfor Oslo, og styremedlemmer vidt spredt: Bergen
+(Knut Meen, Rolv Skjærven), Trondheim (Bo Lindqvist), Tromsø (Jan
+Bjørnstad) og Oslo (Johan Heldal). Fra da av har NSF den struktur vi
+har i dag, der ledervervet og tyngdepunktet i styret flytter seg rundt i
+landet, stort sett etter en fast syklus. Styret som ble valgt i 1985 for
+perioden 1986-87 fikk blant annet oppgaven med å markere NSF
+sitt 50-års jubileum. Det ble gjort med jubileumsskriftet Statistisk
+Sett, med en rekke artikler av ulik art (red. Lindqvist, Lillestøl).
+Blant oppgavene til et nyvalgt styre er å forberede det neste norske
+statistikermøte to år fram i tid, og det nye styret valgte å holde møtet
+i 1987 ved Fana Folkehøyskole. Tanken var å utvise nøkternhet,
+statistikere trenger da ikke lunsjbuféer!
+Man har fortsatt med på legge de norske møtene til steder
+utenom storbyene der en kunne kombinere faglighet med nøkternhet
+og rekreasjon. Ved flere anledninger ble folkehøyskoler med
+internat valgt. Temaene for hovedforedragene har vært varierte
+og med foredragsholdere fra stadig flere miljøer. Disse ga ofte
+en oversikt over status på et område, tilpasset det allmenne
+matematisk-statistiske grunnlaget de fleste tilstedeværende hadde.
+For enkelte nye temaområder som dukket opp var det aktuelt å tilby
+etterutdanningsseminarer og kurs over en eller flere dager. Slike har
+vært gitt av NSF selv eller i regi av lokalforeninger. Løfte om garanti
+fra NSF sitt fond har vært til hjelp for flere initiativ. Eksempler på slike
+seminarer/kurs i denne perioden er Korrespondanseanalyse (Bølviken,
+1986 SFO i samarbeid med Norsk Regnesentral), Classification and
+Regression Trees (SFO, 1967). Dette viser at man har vært forholdsvis
+tidlig ute med å formidle nye tema.
+
+Undervisningskomite
+På møtet i Fana i 1987 ble det vedtatt å opprette en undervisningskomite,
+med mandat å ivareta fagets interesser i undervisningssammenheng,
+grovt sagt. I årene som fulgte avga utvalget uttalelser i forbindelse med
+statistikkfagets plass i utvidelsen av de økonomisk-administrative
+studier ved de regionale høyskolene. Det samme ble gjort i forbindelse
+med Reform 94 og innføring av sannsynlighetsregning i den videre
+gående skole Utvalget gikk kritisk gjennom alle lærebøkene, noe som i
+et tilfelle medførte at forlaget måtte trykke opp nytt kapittel.
+
+Utfordringer
+Det matematisk-statistiske fagmiljøet i Norge og ellers i verden har
+vært mest opptatt av metoder basert på stokastiske modeller, med
+liten vekt på metoder av mer eksplorativ karakter. En del områder
+på fremmarsj ble møtt med stor skepsis. Det gjaldt for eksempel
+21
+
+
+
+trinnvis regresjon, PLS (partial least squares), kausal modellering og
+stianalyse (LISREL). Dette ga opphav til interessante debatter med de
+som hadde funnet metodene nyttige i praksis, for eksempel innenfor
+individorienterte fag og samfunnsfag. Formen på kritikken kan i noen
+grad ha virket ekskluderende, slik at forskere innen disse fagene ikke
+fant vår arena velegnet for interaksjon. Denne bekymring ble reist av
+undertegnede allerede i 1984 i et brev til programkomitéen for møtet i
+Godøysund året etter, der to temaer ble trukket fram:
+«1. Statistikkens forhold til de raskt voksende miljøene i
+informatikk og informasjonsvitenskap. Kommer modellarbeid på
+sidelinjen? og 2. Statistikere og samfunnsfagene. Modelltankegang står
+svakt. Variablenes målenivå bestemmer metoden i henhold til såkalte
+måleteorier (Stevens, 1946), en tradisjon som står i delvis motsetning
+til modellbasert inferens». I våre dager er stikkord som maskinlæring
+og «Big Data» kommet til, og som utfordrer modellbaserte paradigmer.
+I noen tilfeller kan det se ut som at toget går, og vi står igjen på
+perrongen. Nå er det nok slik at mange med matematisk-statistisk
+bakgrunn har funnet veien inn i disse områdene og trives godt der.
+På den ene side er det bra at dogmatiske holdninger er mindre
+fremtredende enn før, mens på den annen side synes utfordrende
+metodedebatter å ha blitt bare for de spesielt interesserte. De fleste
+finner sin nisje og trenger kanskje ikke noe større fellesskap.
+Viktige spørsmål er derfor : Hva er en statistiker i dag? Har vi noe
+felles som det er verdt å kjempe for? Er matematisk-statistikk fortsatt
+er samlende begrep? Hvor bredt kan og bør Norsk Statistisk Forening
+favne?
+
+22
+
+
+
+kunngjøringer
+
+FACTS ON THE FLY
+REYKJAVÍK, ICELAND
+22.08.2022 – 24.08.2022
+
+Statistics Iceland is pleased to invite you
+to the 29th Nordic Statistical Meeting,
+bringing statisticians and users of official statistics together
+to discuss best practices
+and innovations in the field of statistics.
+
+FOLLOW US
+Website:		 NSM2022.IS
+Facebook: FACEBOOK.COM/NSM2022
+Twitter:			 TWITTER.COM/NSM2022ICELAND
+
+23
+
+
+
+meldinger
+Nytt fra Oslo senter for biostatistikk og epidemiologi
+Nye PhD-grader
+– Leon Alexander McLaren Berge forsvarte 13. september
+2021 sin avhandling «Use of prescription drugs and risk of
+cutaneous melanoma» for graden ph.d. Bedømmelseskomitè:
+Senior Lecturer Christopher Cardwell, School of Medicine,
+Dentistery and Biomedical Science, Centre for Public Health,
+Queen’s University Belfast, Northern Ireland; Professor Lisbet
+Rosenkrantz Hølmich, Department of Clinical Medicine,
+University of Copenhagen; Professor Anette Hjartåker,
+University of Oslo. Hovedveileder har vært Trude Eid Robsahm,
+Kreftregisteret Medveileder: Professor Marit Veierød, Avdeling
+for biostatistikk, UiO.
+– Kaitlyn Michiko Tsuruda forsvarte 24. september 2021
+sin avhandling «Overdiagnosis and ‘underdiagnosis’ in
+BreastScreen Norway» for graden ph.d. Bedømmelseskomitè:
+Associate Professor Håkan Jonsson, Department of
+Epidemiology and Global Health, Umeå University, Sweden;
+Coordinator of Epidemiology and Evaluation group, PhD
+Maria Sala Serra, Institut Hospital del Mar d’Investigacions
+Mèdiques (IMIM), Spain; Professor 2 Mona Kristiansen Beyer,
+University of Oslo. Hovedveileder har vært Solveig Hofvind,
+Kreftregisteret Medveileder: Professor: Marit Veierød, Avdeling
+for Biostatistikk, UiO.
+
+Nyansettelser
+– PhD stipendiat: Catharina Stoltenberg
+– Postdoktorer: Youness Azimzade, Leonard Schmiester,
+Theophilus Quachie Asenso
+
+Nytt fra Tromsø
+Nye mastergrader
+– Nico Hahn: Modelling of Viral Disease Risk - Using the
+Example of SARS-CoV 2 Supervisor: Sigrunn Holbek Sørbye
+– Jonathan Berezowski: Trans-dimensional inference over
+Bayesian neural networks Supervisors: Thomas Johansen, Jonas
+Nordhaug Myhre and Fred Godtliebsen
+– Jonas Berg Hansen: Power Flow Optimization with Graph
+Neural Networks Supervisor: Filippo Bianchi
+24
+
+
+
+Nytt fra NTNU
+Nye mastergrader
+– Johannes Alten-Ronæss: ‘Predictions of football results in the
+Premier League and its use on the betting market’. Veileder Jarle
+Tufto.
+– Christian Barkald: ‘Multiresolution small area estimation’.
+Veileder Geir-Arne Fuglstad.
+– Jens Berg-Jensen: ‘An Adaptive and Dynamic Approach to
+Model Snowpack Stability’. Veileder Jo Eidsvik.
+– Vilde Brady: ‘Bayesian ensemble filtering for a model
+with categorical and continuous variables’. Veileder Håkon
+Tjelmeland.
+– Vojin Dudic: ‘German Cancer Analysis Platform’. Veileder
+Andrea Riebler.
+– Lisa Erfjord: ‘Statistical Analysis of Interaction Effects Between
+Environmental and Genetic Factors’. Veileder Mette Langaas.
+– Stephanie Jebsen Fagerås: ‘Forecasting Product Rankings at
+Vinmonopolet with Machine Learning’. Veileder Erlend Aune.
+– Irene Fougner: ‘Representation learning for Time series
+classification’. Veileder Erlend Aune.
+– Olav Helland-Moe: ‘Objective inference for correlation’.
+Veileder Gunnar Taraldsen.
+– Håkon Andersen Holte: ‘Survival Analysis with Deep Recurrent
+Neural Network Model for Prediction of Credit Card Defaults’.
+Veileder John Tyssedal.
+– Camilla Karlsen: ‘Investigation of shortened sea phase effect on
+salmon lice’. Veileder John Tyssedal.
+– Elen Ekeberg Klippen: ‘Multitask imputation and forecasting for
+time series’. Veileder Erlend Aune.
+– Christian Nilsen Lehre: ‘Quantifying and Decomposing
+Predictive Uncertainty in Deep Neural Networks’. Veileder
+Gunnar Taraldsen.
+– Catharina Lilleengen: ‘Modeling volatility in the stock market’.
+Veileder Jacob Laading.
+– Martine Lysebo: ‘Sampling decisions for energy efficient
+IoT-sensors using dependency models’. Veileder Ingelin
+Steinsland.
+– Emil Alvar Myhre: ‘Bayesian optimal experimental design for
+studying synaptic plasticity’. Veileder Benjamin Dunn.
+25
+
+
+
+– Andre Olaisen. ’Search engine with re-ranking using deep
+learning models’. Veileder Thiago Martins.
+– Eliane H. Olsen: ‘Improving direct phone targeting through
+customer response modeling’. Veileder John Tyssedal.
+– Oscar Ovanger: ‘Semi-supervised Gaussian process learning on
+a transductive graph’. Veileder Jo Eidsvik.
+– Sverre Solheim Pettersen: ‘A Heath-Jarrow-Morton Framework
+Based Approach to Stochastic Modelling of Portfolio Returns’.
+Veileder Jacob Laading.
+– Vebjørn Rekkebo: ‘Extending quantitative genetic models to
+estimate mutational variance’. Veileder Stefanie Muff.
+– Maud Rødsmoen: ‘Programming a computer to play human-like
+chess’. Veileder Benjamin Dunn.
+– Marion Helen Røed: ‘Spatial Extreme Value Modelling of Sea
+Levels’. Veileder Sara Martino.
+– Johanne Skogvang: ‘Modelling the Box task’. Veileder Håkon
+Tjelmeland.
+– Øyvind Steensland: ‘Document Ranking Using Fine-tuned
+BERT’. Veileder Thiago Martins.
+– Thakshina Tharmapalan: ‘Estimating associations in survey data
+using mixed models’. Veileder Geir-Arne Fuglstad.
+– Emil Vedvik: ‘A spatio-temporal approach for road safety
+modelling’. Veileder Ingelin Steinsland.
+– Atle Wiig-Fisketjøn: ‘Improving risk prediction of CVD with
+statistical learning’. Veileder Mette Langaas.
+
+Nye PhD-grader
+– Maxime Conjard
+‘The Selection Kalman Model - Data assimilation for
+spatio-temporal variables with multimodal spatial histograms’
+Disputas 10 Juni, 2021. I komiteen var Jaime Gomez-Hernandez,
+Universitat Politècnica de València, Spain, Geir Nævdal,
+NORCE Energy, Norway, Thea Bjørnland, NTNU (intern).
+Prøveforelesningstema: ‘Particle filters for geophysical systems’.
+Veileder Henning Omre.
+– Ingeborg Gullikstad Hem
+‘Robustifying Bayesian Hierarchical Models Using Intuitive
+Prior Elicitation’ Disputas 26. Juni, 2021. I komiteen var
+Manuela Zucknick, University of Oslo, Norway, David Rossell
+Universitat Pompeu Fabra, Barcelona, Spain, Bob O’Hara,
+NTNU (intern), Prøveforelesningstema: ‘The role of Bayesian
+priors for regularization’. Veileder: Geir-Arne Fuglstad.
+26
+
+
+
+– Margrethe Kvale Loe
+‘Ensemble updating for a state-space model with categorical
+variables’ Disputas 30. September, 2021. I komiteen
+var Sarah Dance, University of Reading, UK, Yushu Li,
+University of Bergen, Norway, Bo Lindqvist, NTNU (intern).
+Prøveforelesningstema: ‘Introduction to 4-Dimensional
+Variational (4D-Var) Data Assimilation’. Veileder Håkon
+Tjelmeland.
+– Ole Bernard Forberg
+‘Bayesian Inversion of Seismic Data using multimodal Selection
+Gaussian prior Models’. Disputas 26. november, 2021. I
+komiteen var Klaus Mosegaard, University of Copenhagen,
+Alessandra Menafoglio, Politecnico di Milano, og John Tyssedal,
+NTNU (intern). Prøveforelesningstema: ‘Statistical learning for
+spatial data’. Veileder: Henning Omre og Øyvind Kjøsnes.
+
+Nytilsatte PhD studenter
+– Andre Olaisen. Veileder Jo Eidsvik.
+– Oscar Ovanger. Veileder Jo Eidsvik.
+– Ekaterina Poliakova. Veileder Gunnar Taraldsen.
+
+Nytilsatte
+– Natoya Jourdain er tilsatt som Post Doc.
+– The Tien Mai er tilsatt som Post Doc.
+
+Nytt fra UiB
+Nyansettelser
+– Sondre Hølleland, førsteamanuensis II
+– Berent Lunde, førsteamanuensis II
+– Kristian Gundersen, postdoktor
+– Belen G. Pascual, phd-student i ERC-prosjektet EvoConBiO
+
+Nytt fra Stavanger
+Nye mastergrader
+– Bharat Ghimire: Towards Bayesian Estimation of Compartmental
+Models for COVID-19. Supervisor: Tore Selland Kleppe
+27
+
+
+
+Nytt fra UiO
+Nyansatte
+– Seksjon 2: Vera Haugen Kvisgaard (PhD),Claudio Meggio
+(PhD), Ingrid Dæhlen (PhD), Per August Moen (PhD) og
+Aliaksandr Hubin (Postdoc)
+– Seksjon 3: Åsmund Hausken (PhD), Hao Tang (Postdoc), Oriol
+Zamora Font (PhD), Natalia Sirotko-Sibirskaya (Postdoc),
+Aleksander Grochowicz (PhD),
+
+Nye Mastergrader
+– Bjørn Gunnar Hansen: Making the most of data in dairy farming
+research –how twenty-first century statistical learning methods
+can contribute. Veileder: Ingrid Glad.
+– Øystein Skauli: Modelling Short Term Changes in User Interest
+for Online Marketplaces. Veileder: Ida Scheel.
+– Alexander Drottning: Merton’s portfolio problem: A Monte
+Carlo study. Veileder: David Banos.
+– Siri Østensen: Pandemiforsikring. Veileder: Fred Espen Benth.
+– Eline Larsen Valen: Risk Management in Power Markets An
+Infinite Dimensional Approach. Veileder: Fred Espen Benth.
+– Åsmund Hausken Sande: Prospective Reserves of Life Insurance
+Policies under the Heath-Jarrow-Morton Framework. Veileder:
+David Ruiz Banos.
+– Kristoffer Edward Alfonso Huertas: Mathematical reserves of
+unit-linked insurance policies with fractional volatility. Veileder:
+David Ruiz Banos.
+– Nicolay Bjørlo Kristensen: Weakly Supervised Learning for
+Predictive Maintenance: An Extended Random Forest Approach
+using Imbalanced Event Data from Hybrid Ships. Veiledere:
+Azzeddine Bakdi, Morten Stakkeland og Ingrid Glad.
+– Nikola Kaletka: Effects of prior information on monotonicity
+directions in additive monotone regression. Veiledere: Ingrid
+Glad og Solveig Engebertsen.
+– Peder Nørving Viken: Sequential Monte Carlo and twisted state
+space models Twisting models to reduce variance. Veiledere:
+Geir Storvik, Anne Solberg og Odd Kolbjørnsen.
+– Ingrid Dæhlen: Empirical and Hybrid Likelihood. Veileder: Nils
+Lid Hjort.
+– He Gu: Recurrent Neural Networks for predicting ship motor
+temperatures aiming to help prevent motor overheating.
+Veiledere: Kristoffer Helton, Ingrid Glad og Morten Stakkeland.
+28
+
+
+
+– Ingebjørg Hansen Sævareid: Accounting for Buyer
+Characteristics in Property Valuation Models Based on
+Norwegian Transaction Data. Veiledere: Christos Dimitrakakis
+og Kjersti Næss Torsteinsen.
+– Jens Helleberg Jakobsen: Application of count time series to
+battle deaths. Veiledere: Gudmund Horn Hermansen, Geir
+Storvik, Anne Solberg og Odd Kolbjørnsen.
+– Anna Skovbæk Mortensen: Fraud detection using copula
+regression. Veileder: Ingrid Hobæk Haff.
+– Håkon Bliksås Carlsen: Studying the application of semisupervised learning for fraud detection. Veileder: Ingrid Hobæk
+Haff.
+– Jonas Øren: Likelihood corrections for the incidental parameter
+problem in Poisson distributed panel data. Veileder: Riccardo De
+Bin.
+– Marthe Elisabeth Aastveit: Multi-State Models for IntervalCensored Data with Transition Times from Gamma Processes.
+Veileder: Nils Lid Hjort og Céline Cunen.
+– Bob Betuin Fjellheim: Bayesian Plackett-Luce Models for
+Describing Consensus in Ranking Data. Veileder: Ida Scheel.
+– Jon Randby Kristensen: Neural Networks for Pricing Caps on
+LIBOR Rates. Veileder: Fred Espen Benth.
+– Nguyen Nhung Lu: Discrete choice methods in market research
+for seafood. A statistical analysis. Veiledere: Riccardo De Bin
+og Kjell Arne Brekke.
+– Anne Catharina Stoltenberg: A class of parametric survival
+models via Dirichlet processes. Veileder: Nils Lid Hjort og
+Céline Cunen.
+– Madeleine Innholt Halle: Importance Measures in Multistate
+Systems. Veileder: Arne Bang Huseby.
+
+Nye PhD-grader
+– Qinghua Liu: Bayesian Preference Learning with the
+Mallows Model. Veiledere: Ida Scheel og Arnoldo Frigessi.
+Bedømmelseskomité: Assistant Professor Cristina Mollica,
+Sapienza University of Rome, Professor Brendan Murphy,
+University College Dublin og Professor Nils Lid Hjort,
+Universitetet i Oslo.
+– Christian Agrell: Developments for optimization under
+uncertainty in safety-critical systems. Veiledere: Arne
+Bang Huseby, Fred Espen Benth, Simen Eldevik og Frank
+Børre Pedersen. Bedømmelseskomité: Professor David
+Ginsbourger, University of Bern, Professor Jo Eidsvik, Norges
+29
+
+
+
+teknisk-naturvitenskapelige universitet Professor Tom Louis
+Lindstrøm, Universitetet i Oslo.
+– Silvia Lavagnini: Stochastic Modelling in Energy Markets
+–From the Spot Price to Derivative Contracts. Veildere:
+Fred Espen Benth og Luca Di Persio. Bedømmelseskomité:
+Associate Professor Svetlana Borovkova, Vrije Universiteit
+Amsterdam, Associate Professor Lucia Caramellino, Universita
+di Roma-Tor Vergata, Associate Professor Kristina Rognlien
+Dahl, Universitetet i Oslo.
+– Martin Tveten: Scalable change and anomaly detection in
+cross-correlated data. Veildere: Ingrid Kristine Glad og Nils Lid
+Hjort. Bedømmelseskomité: Senior researcher Stéphane Robin,
+AgroParisTech/Université Paris-Saclay, Senior lecturer Haeran
+Cho, University of Bristol, Associate professor Johan Pensar,
+University of Oslo.
+– Jonas Moss: Psychometrics and the modelling of publication
+bias. Veildere: Riccardo De Bin og Nils Lid Hjort.
+Bedømmelseskomité: Førsteamanuensis Karl Bang Christensen,
+Københavns Universitet, Associate Professor Björn
+Andersson,Universitetet i Oslo, Professor Sven Ove Samuelsen,
+Universitetet i Oslo.
+
+30
+
+
+

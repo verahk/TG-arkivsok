@@ -1,0 +1,2002 @@
+ISSN 0803-8953
+TILFELDIG GANG
+
+Nr. 1/2, årgang 14
+Mars 1997
+
+http://www.nr.no/TilfeldigGang/
+
+Utgitt av Norsk Statistisk Forening
+INNHOLD
+
+Fra redaktøren. Thore Egeland.
+Faglig stoff
+
+Bayes og virkeligheten. Odd Aalen.
+
+Anvendelse av Bayesiansk statistikk innen epidemiologi. Kåre Osnes.
+Dr.scient grad ved UiO. Gudmund Høst.
+
+Statistikk på Rikshospitalet. Senter for klinisk epidemiologi. Odd Kolbjørnsen.
+Konferanser og kurs
+
+Invitasjon til det 9. norske statistikermøtet.
+Program for det 9. norske statistikermøtet.
+Videregående statistikk: Forløpsanalyse.
+
+International Biometric Society Nordic Regional Meeting.
+Konferanseoversikt.
+
+Nytt fra universiteter og høyskoler
+Nytt fra Gruppe for statistikk, NTNU.
+Meldinger
+
+Nekrolog: Herdis Thorén Amundsen.
+
+Bent Natvig 50 år. Terje Aven og Arne Bang Huseby.
+Odd Aalen 50 år. Ørnulf Borgan.
+
+Inge Svein Helland 50 år. Trygve Nilsen.
+Petter Laake 50 år. Tore Schweder.
+”Matforsk-sjef får priser”. Fra Østlandets Blad.
+Ledige stillinger ved Norsk Regnestentral.
+Ledig stilling ved Aarhus Universitet.
+Medlemskap i Norsk Statistisk Forening.
+
+Bidrag til Tilfeldig Gang.
+
+
+
+
+
+Fra redaktøren
+I forrige nummer trykket vi innkallingen skrevet av Gudmund Hernes til et seminar om
+kliniske prøvninger. Vi oppfordret samtidig til diskusjon - noen av deltagerne ble sågar
+spesialoppfordret. Vi har fått et innlegg fra Odd Aalen. Han følger opp Bent Natvigs
+innlegg om bayesianske metoder fra nevnte seminar. I den forbindelse nevner vi at samme
+Odd holder/holdt (imperfektum formen gjelder de av våre lesere som holder seg til papirversjonen av TG) seminar 3. april kl. 1415 ved Matematisk Institutt i Oslo, se
+http://www.math.uio.no/~borgan/MEDSTAT/, og at temaet følges opp med et nytt heldagsseminar 15. april i regi av Norges Forskningsråd.
+
+I dette nummeret trykker vi en nekrolog og flere 50-årsomtaler. Tilfeldig Gang er i sin
+natur ikke så opptatt av den presise dato for rundingen av merkedager. Et godt anslag
+får holde. Vi gjør uttrykkelig oppmerksom på at redaktøren ikke ønsker å være dommer
+over hvem som fortjener omtale i ulike sammenhenger. Vi oppfordrer sterkt fagmiljøene
+rundt omkring om å sende innlegg til TG. Dermed kan også de som måtte ane en viss
+Oslosentrering i stoffutvalget gjøre sitt til en balansering. Vi legger imidlertid raskt til
+følgende for å komme vestlendingene i forkjøpet: Inge Helland er ikke østlending hverken
+av legning eller opprinnelse.
+
+Fra barnsben av har vi lært at selvros skal man lytte til. Det kommer fra hjertet. Vi synes
+personlig at dette nummeret av TG er riktig bra og fyldig (redaktøren har intet skrevet
+bortsett fra denne spalten). Videre merker vi stadig en omfattende interesse for webversjonen. Faktisk synes vi at nummeret er så bra at vi betrakter det som et dobbeltnummer
+og setter frist for innlegg til neste utgave til 1. september.
+Thore Egeland
+
+
+
+Bayes og virkeligheten
+
+Jeg er blitt bedt av redaktøren om å komme med noen synspunkter på bayesian-
+
+ismen, og gjør gjerne det.
+
+Bayesianerne har rett i én ting. Det er viktig og sunt at en diskuterer de
+fundamentale idéer som en disiplin hviler på og ikke bare tar dem for gitt. De
+svakeste punkter i vitenskapelige teorier ligger ofte i fundamentene, og man kan
+
+godt ta en sjekk på grunnmuren iblant.
+
+Bayesianerne holder i live en debatt om hva sannsynlighet er og hvordan inferens skal utføres, og det er greit. Men, likevel, særlig dyptpløyende er de ikke.
+De er i like høy grad positivister som oss andre, de fremmer troen på det målbare, på en sannhet der ute som vi nok får has bare vi gjør konfidens-intervallet,
+
+eller kredibilitets-intervallet passelig vidt. Et utgangspunkt er derfor at vi egentlig
+trenger en mer langt dyptgående kritikk enn det vi normalt møter i det statistiske
+
+fagmiljø.
+
+Men, altså, temaet denne gangen er bayesianisme. Ser man litt nærmere på
+hvordan dette begrepet brukes, møter man på ganske varierende fortolkninger. De
+
+viktigste er som følger:
+
+e subjektivt skjønn skal eksplisitt inkorporeres i beregninger (subjektiv bayesianisme)
+
+e det benyttes ikke-informative apriori-fordelinger i stedet for subjektivt skjønn
+(objektiv bayesianisme)
+e det benyttes flere apriori-fordelinger, pessimistiske, optimistiske, nøytrale og
+resultatene sammenliknes
+
+Det er den første av disse som er mest kontroversiell, mens det er den andre,
+og i noen grad den tredje, som er vanlig i praksis. Det må her innskytes at den
+mest kompromissløse forkynnelse av den subjektive bayesianisme kommer fra de
+teoretiske elfenbenstårn.
+
+Ingen benekter at skjønn må trekkes inn i vurderinger som gjøres. Spørsmålet
+er om dette skal gjøres direkte i den statistiske analysen, eller om en først skal se på
+tallenes tale og så sammenholde dette med sine andre vurderinger etterpå. Svaret
+er (selvfølgelig) et både og: Iblant er det naturlig å trekke inn skjønn direkte,
+
+andre ganger (som regel) er det ikke naturlig.
+Et fundament for viten om medisinsk behandling er de kliniske prøvninger.
+Disse er statistiske i sin karakter og bruker prinsipper som randomisering etc.
+
+
+
+Prøvningene betraktes ofte som avgjørende informasjon om behandlingers verdi
+og har blant annet den rolle at de bilegger kontroverser. Det er av stor betydning
+at resultatene av prøvningene betraktes som objektive, hevet over de økonomiske,
+faglige og politiske interesser som kan gjøre seg sterkt gjeldende. Direkte inkorporering av personlige standpunkter vil ødelegge en klinisk prøvnings troverdighet.
+I den grad seriøse bayesianere opererer på dette feltet, ser man også at de
+
+er forsiktige. Et nylig notat av Storvik, Natvig, Gåsemyr og Aurnes til Helsedepartementet som skulle vurdere verdien av en viss type behandling, avviser klart
+at subjektiv informasjon skal brukes. I stedet benyttes en, i og for seg grei men
+noe kompleks, objektiv bayesianisme, som gir tilsvarende resultater som en klassisk frekventistisk analyse ville gitt. En sentral internasjonal bayesianer som David
+Spiegelhalter understreker at analyse av en klinisk prøvning må skjei to trinn: først
+må man gjøre en klassisk analyse av dataene i resultat-avsnittet, og så eventuelt
+servere den bayesianske analysen i et eget diskusjonsavsnitt. Hele den biomedisinske litteratur har et meget skarpt skille mellom resultat-del og diskusjons-del. I
+den første del skal resultatene i forsøket presenteres som de var, uten personlige
+oppfatninger.
+
+I de subjektive bayesianeres verden er skjønnet en sannsynlighetsfordeling,
+gjerne en gammafordeling. Det tas lite hensyn til den psykologiske og menneskelige kompleksiteten som ligger i det å utøve et skjønn. Her hjelper det ikke om
+man aldri så mye har en aksiomatisk velfundert teori for subjektiv sannsynlighet.
+Skjønnet kan være godt, men det kan like gjerne være dårlig. Det kan også være
+bevisst fordreid, eller bestemt av økonomiske interesser. Den menneskelige natur
+kunne godt være en faktor i de subjektive bayesianernes modeller (den menneskelige natur er ikke gammafordelt!). Nå fortoner modellene seg ofte som utillatelig
+naive, men det kan man jo godt være i elfenbenstårnet.
+Et særtekk ved de misjonerende bayesianere er det inntrykk de gir av å være
+alene mot den store hop. Deres problem er at deres fagfeller jevnt over er noen
+store pragmatikere. Statistikere er ikke lett-antennelig materiale som brenner for
+faglige idéer. Holdningen er snarere at man har sine oppgaver som skal løses
+og man ser seg rundt og bruker de verktøyene som er hensiktsmessige. Og de
+kan gjerne være bayesianske. Faktum er skillene mellom bayesianske og klassiske
+miljøer er brutt ned de senere årene, og at mye av luften er gått ut av den gamle
+kontroversen (selv om noen stadig forsøker å blåse den opp).
+Ved Seksjon for medisinsk statistikk i Oslo har vi for eksempel to prosjekter der
+bayesianske metoder spiller en viktig rolle. Det ene, ved stip. Kåre Osnes, benytter
+Gibbs- sampling og er omtalt annet steds i bladet. Det andre er et internasjonalt
+prosjekt om AIDS-epidemiologi som jeg selv er involvert i. Her er det svært mye
+man ikke vet; subjektive vurderinger, ja rene gjetninger må gjøres, og det har vist
+seg meget hensiktsmessig å legge inn subjektive bayesianske elementer. Jeg lærte
+forøvrig der at det er en vesentlig forskjell på om bayesianske antagelser legges på
+hjelpe-størrelser, eller på størrelser som direkte inngår i hovedkonklusjonene. Ofte
+er det det første som gjøres, f.eks for å foreta utglatning av kurver. Forskyvning
+
+
+
+av hovedkonklusjonen mot et på forhånd valgt skjønn vil vanligvis oppfattes som
+langt mer kontroversielt.
+
+Så bayesianske idéer er slett ikke unyttige, selv om de mer ekstreme standpunkter må tas med store klyper salt. Forhold mellom objektive og subjektive
+elementer varierer selvsagt med fagfelt og problemstilling. Et lite tips til bayesianerne: Kampen om statistikersinnet står i dag i programvarens verden. Med et
+museklikk renner i dag de mest avanserte frekventistiske analyser ut på skjermen:
+logistiske regresjoner, diskriminant-analyser, Kaplan-Meier-plott og annen styggedom (ifølge bayesianerne) fosser ut. Hvor er den enkle, greie, Windows-baserte
+programvaren som presenterer a posteriori-fordelinger i fine farger, med skraverte
+kredibilitets-intervaller? Finnes den? S-plus er ikke noe svar, det er et high-brow
+program for de høyst innvidde. BUGS for Gibbs-sampling er kun et delsvar som
+tar for seg visse spesielle, om enn uhyre interessante metodikker.
+
+Det siste punktet har å gjøre med å ta virkeligheten på alvor. Da må man
+også ta i betraktning at de forskjellige fagfelter der statistikk anvendes er svært
+forskjellige. Statistikk har sine spesialiteter like fullt som medisinen. Det som
+passer på et felt, passer ikke nødvendigvis like godt på et annet. Det ville aldri
+falt meg inn å komme med bombastiske uttalelser om risikoanalyse i Nordsjøen,
+for det vet jeg ingenting om. Jeg forventer den samme respekt for min disiplin,
+medisinsk statistikk. For oss som jobber der har det tatt mange år å få et slags tak
+på problemstillinger og metoder. De beste metodevalg kan derfor ikke vurderes
+ved å stikke hodet inn, ta en titt, og så svinge ut av døren igjen i neste øyeblikk.
+Det betyr ikke at vi ikke trenger nye impulser, også utenfra. Men de som kommer
+med dem får ta seg tid til å bli kjent med feltet. Hvis de gidder det, så kan de
+kanskje bidra med noe også.
+
+Odd Aalen
+
+
+
+Anvendelse av Bayesiansk statistikk (v.hj.a. Gibbs Sampler) innen epidemiologi.
+Kåre Osnes. Stipendiat ved seksjon for medisinsk statistikk, UiO
+e-mail: kaare.osnes@basalmed.uio.no
+
+Jeg er nylig ferdig med min medisinutdannelse, men har alltid vært fascinert av realfag. Det er spennende
+
+å diskutere og analysere viktige medisinske problemstillinger ved hjelp av statistiske metoder. Derfor er
+jeg for tiden stipendiat ved Seksjon for medisinsk statistikk ved UiO og lønnet av Den Norske
+Kreftforening. Prof. Odd O Aalen og forsker Tor Haldorsen fungerer som veiledere i prosjektet.
+
+Mitt prosjekt går ut på å utvikle og utprøve metoder for beregning av mest mulig sikre estimater for den
+geografiske variasjonen av kreftrisiko. Kartlegging av geografisk variasjon i kreftforekomst kan gi nye
+idéer om årsaksforholdene bak ulike kreftsykdommer og verifisere gamle hypoteser. Kreftatlas lokaliserer
+
+både områder med spesielt lav og høy risiko for de ulike kreftformene. Ved f.eks. å se på levesettet i disse
+områdene kan en danne seg hypoteser om hva som forebygger eller øker risikoen for slike sykdommer.
+Disse hypotesene kan verifiseres i mer omfattende epidemiologiske undersøkelser.
+
+I Norge registrerer Kreftregisteret" alle nye krefttilfeller i hver enkelt kommune. Mange kommuner har
+
+lav populasjon, og risikoestimatene i de enkelte kommuner blir derfor unøyaktige. For å få sikrere
+
+estimater er det naturlig å anta at det er liten forskjell i kreftrisikoen mellom nabokommuner. Det er derfor
+vanlig å glatte risikoestimatene i de ulike kommunene mot data fra nærliggende områder etter forskjellige
+formler. Men en må samtidig unngå å glatte over for store områder. Da står en nemlig i fare for å gå glipp
+av viktige geografiske detaljer. Jeg vil i det følgende beskrive en metode innen Bayesiansk statistikk som
+glatter den relative risikoen i de forskjellige kommuner mot et lokalt gjennomsnitt, uten å viske ut markerte
+
+lokale overhyppigheter”*. Denne metoden har flere fordeler i forhold til enklere metoder brukt ved todimensjonal glatting. Graden av glatting i en kommune avhenger her bade av den totale geografiske
+
+variasjonen i kreftforekomst og befolkningsgrunnlaget i kommunen. I de fleste andre metoder må en
+bestemme glattingsparametre før analysen av dataene, og graden av glatting er dessuten ofte uavhengig av
+
+størrelsen på kommunens populasjon og dermed usikkerheten på risikoestimatene.
+Hensikten med Bayesianske statistiske undersøkelser er i likhet med klassisk frekventistisk statistikk å
+beregne best mulige estimater for alle ukjente parametre. I frekventistisk statistikk har parameteren en fast,
+men ukjent verdi. I Bayesianske statistikk blir derimot parametrene sett på som ukjente stokastiske
+variable med sannsynlighetsfordelinger som skal beregnes. Beregninger av slike sannsynlighetsfordelinger
+
+er basert både på forhåndsantagelser om disse parametrene og data fra undersøkelsene. I epidemiologi kan
+slike parametre f.eks. være sykdomsrisikoen innenfor en kommune eller blant en gruppe mennesker.
+
+Forhåndsantagelsene kan være basert på funn fra tidligere undersøkelser, biologiske betraktninger o.1.
+Disse angis eksplisitt som en apriori sannsynlighetsfordeling for de aktuelle parametrene, og kan variere
+
+både med hensyn til gjennomsnitt og spredning (en vag apriorifordeling har stor spredning omkring
+forventningsverdien, mens en sterk apriorifordeling har liten spredning). Denne fordelingen justeres av de
+observerte dataene (via likelihood-funksjonen) og vi får en aposteriori sannsynlighetsfordeling. Bortsett
+fra i de aller enkleste modellene er denne aposteriorifordelingen vanskelig å beregne analytisk. I de senere
+
+år har derimot stadig flere velegnede verktøy innen Bayesiansk statistikk blitt beskrevet og utprøvd i
+faglitteraturen. Mange av disse metodene er svært ressurskrevende, noe som i lang tid har begrenset
+
+bruken. Men ettersom kraftige datamaskiner har blitt stadig lettere tilgjengelige, har Bayesiansk statistikk
+
+funnet sin anvendelse innen stadig flere områder. Markov kjede Monte Carlo-simuleringsmetoder er
+velegnede verktøy innen Bayesiansk statistiske analyser. En metode som har spesielt attraktive
+
+egenskaper, er Gibbs Sampling’. Denne metoden har gjort det mulig å analysere mer fleksible og
+
+realistiske modeller. Derfor brukes Gibbs Sampling av stadig flere forskningsinstitusjoner verden over.
+
+Implementeringen av avanserte statistiske modeller er nå blitt forenklet ved bruk av BUGS*, et software
+utviklet spesielt for å utføre Bayesianske analyser ved hjelp av Gibbs Sampling. Jeg vil bruke Gibbs
+Sampling som et verktøy i den Bayesianske analysen av den geografiske variasjonen i forekomst av kreft i
+bukspyttkjertelen i norske kommuner. Resultatene av en slik analyse kan presenteres i et kart. Et slikt kart
+kan f.eks. vise at det er en påfallende overhyppighet av krefttilfeller langs nord/vest-kysten av Norge. En
+
+OT
+
+Bayesiansk undersøkelse kan også angi sannsyligheten for at det er en forhøyet kreftrisiko i det aktuelle
+området.
+
+
+
+Metode(kan sløyfes uten å miste sammenhengen)
+Bayesiansk statistikk
+
+I det følgende er Y en datavektor og 0 en parametervektoren. I Bayesiansk statistikk skal en bestemme
+den betingede fordelingen til 9 gitt Y: p(@Y).
+Bayes teorem sier at
+
+(AY) = P(Y9)* P(A)
+p(Y)
+der p(¥|@) er likelihoodfunksjonen og p(0) er apriorifordelingen til parametervektoren.
+
+p(Y)= J P(Y|O)* p(@)d@. Dette uttrykket er ofte er vanskelig å beregne. Vi vet imidlertid at p(Y) er
+et fast tall (men dog forskjellig for hvert enkelt datasett). Derfor er aposteriorifordelingen til 0
+proporsjonal med likelihoodfunksjonen til 0 basert på Y og apriorifordelingen til 0.
+
+P(A Y) x p(NØ)* p(9).
+Selv om en nå har funnet et uttrykk som er proporsjonalt med aposteriorifordelingen til parametervektoren,
+kan det være vanskelig å finne analytiske uttrykk for momentene til de ulike parametrene. I faglitteraturen
+er det beskrevet mange måter å løse dette problemet på numerisk, f.eks ved hjelp av grids. Men hvis
+parameterrommet er multidimensjonalt, kan dette bli svært ressurskrevende. I slike tilfeller kan Markov-
+
+kjede-simuleringer ofte gi tilfredsstillende løsninger. Ved alle typer Markov-kjede-simuleringer er idéen å
+simulere en “random walk” i parameterrommet fra en fordeling som konvergerer mot en bestemt
+
+stasjonærfordeling: p(QY). En må altså finne en Markov-prosess som har nettopp den spesifiserte p(Ø Y)
+som stasjonærfordeling. En bestemt Markov-kjede-algoritme som har vist seg å være brukbar i mange
+multidimensjonale problemer, er Gibbs Sampler.
+Gibbs Sampler
+1. Vi deler parametervektoren inn i d komponenter eller subvektorer G=(6,,..,0,). Det antas å være
+vanskelig å simulere fra p(@Y), men relativt enkelt å simulere fra p(@|Y,@,). p(@|¥,0,) betyr fordelingen
+
+til 0. betinget alle andre parametervektorer (0; ) i tillegg til dataene (Y).
+2. For hver iterasjon av Gibbs Sampler, går en gjennom alle subvektorene @, ,i=/,..,d og trekker nye verdier
+for subvektoren fra p(01Y,0,). p(@|¥,@,) er altså den betingede fordelingen til @. gitt alle dataene og gitt at
+de sist trukkede verdiene til de andre parametersubvektorene er de "sanne verdiene”.
+
+Denne algoritmen garanterer at en vil trekke parameterverdier fra sannsynlighetfordelinger som stadig
+nærmer seg den ‘riktige fordelingen” (stasjonær-fordelingen). For å kunne foreta den første iterasjonen, er
+
+det nødvendig å gi startverdier til 0. Fomuftige startverdier er ofte en forutsetning for at algoritmen skal
+konvergere innen rimelig tid, altså at fordelingen vi trekker parameterverdiene fra er tilnærmet lik p(@Y).
+3. Når prosessen har nådd en tilnærmet konvergens, lagres hver j-te simulerte verdi ( kan f.eks være 1, 5
+
+eller 10) av hver parametervektor. Årsaken til at en ikke nødvendigvis bruker alle de simulerte verdiene, er
+at slike parameterverdier fra etterfølgende iterasjoner er korrelerte. Jo større j er, dess mindre blir
+avhengigheten mellom de lagrede verdiene. Disse verdiene antas altså å være genereringer fra aposteriori-
+
+fordelingen til 6, og kan derfor brukes til å beregne bl.a. gjennomsnitt, median og standardavvik for de
+forskjellige parametrene. For å estimere slike mål, kreves ikke uavhengighet. Men estimatene blir sikrere
+enten hvis antall genererte verdier øker eller de blir mindre avhengige. Derfor blir valget av j avhengig av
+hva som er den begrensende faktoren i analysen. Hvis lagerkapasiteten er begrenset, er det viktig at de
+
+simulerte verdiene er så uavhengige som mulig, og en bør derfor velge en stor j-verdi. Hvis derimot antall
+iterasjoner eller tiden analysen kan bruke er den begrensende faktoren, får en de sikreste estimatene hvis en
+bruker alle de simulerte verdiene.
+
+Det er også andre aspekter ved Gibbs sampling som har vært gjenstand for mye diskusjon". Hvor mange
+iterasjoner av Gibbs Sampling må en ha før prosessen konvergerer, og hvordan kan en måle dette ?
+Anvendelse av Gibbs Sampler for beregning av geografisk variasjonen i kreftrisiko
+I vårt eksempel vedrørende glatting av kreftatlas består parametervektoren av de kommunevise relative
+
+risikoene @, i tillegg til et såkalt glattingsparameter Å, som vil bli beskrevet senere. Vi skal simulere
+verdier fra aposteriorifordelingen til parametervektoren ved hjelp av Gibbs Sampler. Det har da vist seg
+
+
+
+hensiktsmessig å dele opp parametervektoren i delvektorer som bare inneholder en parameter. Da er det
+tilstrekkelig å simulere fra den betingede fordelingen til hver enkel parameter gitt dataene og de siste
+simulerte verdiene for de andre parametrene.
+
+P(O10.;5
+
+-i>
+
+Å, Y) & p( 010;
+A)*
+p(X|G,), i=1,..,n
+
+der det første uttrykket på høyre side er apriorifordelingen til 4, og det siste uttrykket er
+likelihoodfunksjonen. 6; er vektoren av alle 9, jæi. Priorfordelingen til 6, er en normalfordeling med
+forventning lik den gjennomsnittlige relative risikoen i nabokommunene, og standardavvik lik //(A*n,) . I
+utregningen av likelihoodfunksjonen antar en at antall nye observerte krefttilfellene Y, i kommune i: er
+Poisson-fordelte med forventning 6,*£; der 6, er relativ risiko og £; er forventet antall nye krefttilfeller i
+
+kommunen basert på kjønn- og aldersspesifikke rater for hele landet.
+Aposteriorifordelingen til Å er gitt ved
+
+P(A
+Ø) x p(A)* pA).
+Det har vist seg gunstig å anvende en skalert Chi-kvadrat-fordeling med skalaparameter lik s og med v
+frihetsgrader som apriorifordeling til Å. Det kan vises at tettheten til 0 gitt Å er:
+
+p( NA) « etsep| 249) n;* 6,*(0, -)|
+i=l
+
+der n; er antall naboer til kommune nr. i og r) er den gjennomsnittlige relative risikoen til disse
+kommunene. Da er aposteriorifordelingen til Å en gammafordeling.
+
+P(A) ~ aud (n+ yi2[ vist Sin 6,+(8, -2) +3
+Denne modellen kan altså sees på som en hierarkisk modell. Første nivå er Poisson-fordeling av antall nye
+observerte krefttilfeller i de enkelte kommunene basert på den relative risikoen og antall forventede tilfeller
+i kommunen. Det andre nivået er en multinormalfordeling av kommunenes relative risikoer, mens det
+tredje nivået er skalert Chi-kvadratfordeling for dispersjonsparameteret A. Dette er illustrert i figur 1.
+
+I den foreliggende analysen er metoden implementert i det matematiske programmeringsspråket GAUSS’.
+Å er simulert fra en standard Gamma-fordeling, med parametre som angitt over. I simuleringen fra
+
+p(0/8,,A, Y) har jeg her anvendt rejection sampling og griddy gibbs sampling”.
+I Bayesiansk statistikk er det et velkjent problem å finne egnete apriorifordelinger. Hvis det er mye data,
+er valget av apriorifordeling av mindre betydning. Men desto mindre datasettet er, desto viktigere er det å
+
+finne passende apriorifordelinger. I den beskrevne modellen, har særlig apriorifordelingen til
+dispersjonsparameteret Å vært gjenstand for mange diskusjoner. I hvor stor grad er kartet over de estimerte
+relative risikoene avhengig av apriorifordelingen til Å? Hvis vi bruker en priorfordeling som favoriserer
+
+store verdier av A, står en i fare for å overse små men ‘sanne’ sykdomsclustre. Hvis en derimot anvender
+en apriorifordeling med et for lite skalaparameter, vil kartet bli for lite glattet, og en vil derfor ha
+vanskeligheter med å skille sanne” clustre fra tilfeldige overhyppigheter. Også apriorifordelingen til de
+relative risikoene har vært gjenstand for debatt. Det er naturlig å anta at det er sammenheng mellom
+
+insidensratene i nærliggende kommuner. Derfor er det vanlig å anvendt en apriorifordeling som tar hensyn
+til dette.
+
+Resultater og diskusjoner
+Jeg vil nå gi et eksempel på hvordan et kreftatlas av estimerte rater kan være avhengig av valget av
+apriorifordelingen til dispersjonsparameteret Å. Den beskrevne metoden er anvendt på forekomsten av
+
+kreft i bukspyttkjertelen i norske kommuner i årene 1982-91. Tre ulike apriorifordelinger som beskrevet i
+tabell I er anvendt på dette datasettet. Apriorifordelingene varierer både med hensyn til gjennomsnitt og
+
+spredning. En sterk apriori fordeling har lite spredning i sannsynlighetsfordelingen rundt gjennomsnittet.
+Dess sikrere våre antagelser er om verdien på parameteret, dess sterkere kan apriorifordelingen være.
+Desto flere frihetsgrader, desto sterkere er apriorifordelingen. Hvis en derimot mangler sikre antagelser
+
+om fornuftige parameterverdier, er det naturlig å velge en vag apriorifordeling. Tabell 1 angir også
+gjennomsnittet til aposteriorifordelingen til Å og variasjonsbredden til @. (den relative sykdomsrisikoen i
+
+
+
+kommune
+
+i forhold til landet som helhet). Prior I er en vag prior som favoriserer moderat geografisk
+
+spredning, mens prior 2 og 3 bygger på sterkere antagelser om den geografiske variasjonen. Prior 2 antar
+
+stor geografisk variasjon, mens prior 3 favoriserer mindre geografisk forskjeller av Å. Desto større
+datamengden er, desto mindre blir forskjellene mellom aposteriorifordelingene til Å ved de forskjellige
+apriorifordelingene. Viser av tabellen at vårt valg av apriorifordeling er av stor betydning for analysen av
+
+våre data. Gjennomsnittsverdien på Å varierer fra 7.8 til 32.7. Også variasjonsbredden av relativ-risikoestimatene fremkommet ved de ulike apriorifordelingene viser dette. Hvis vi ser på kartene fremkommet
+ved denne analysen (figur 2), ser vi enda tydeligere hvordan vårt valg av apriorifordeling er avgjørende for
+graden av glatting. Det første kartet viser den observerte (uglattede) hyppigheten av kreft i
+
+bukspyttkjertelen i norske kommuner 1982-91. Utfra dette kartet er det vanskelig å kunne identifisere og
+
+lokalisere eventuelle sykdomsclustre. Kartet fremkommet ved bruk av prior 3 identifiserer bare de største
+og mest fremtredende områdene med øket eller redusert risiko. Prior 2 gir på den andre siden et mye mer
+detaljert bilde, men det kan av og til være vanskelig å avgjøre hvilke overhyppigheter som er forårsaket av
+sanne clustre og hvilke som bare skyldes tilfeldig variasjon. Prior I gir et kart som er en mellomting
+mellom de to andre apriorifordelingene og er i mange tilfeller det beste valget. Alle kartene fremkommet
+
+ved den Bayesianske analysen viser at det er en tydelig nord-sør-gradient i risikoen for kreft i
+bukspyttkjertelen, med høyest risiko i nord. Kartene viser også tydelige overhyppigheter i det sentrale
+
+østlandsområdet og på vestlandet. Kartet fremkommet ved apriorifordeling 2 antyder dessuten noen
+lavrisiko-områder: Langs svenskegrensen i sør-Norge og på sørvest- og nordvest-landet.
+I tillegg til å gi estimerte rater for risikoen i de ulike kommuner, gir også en Gibbs Sampling-analyse
+
+kredibilitets-intervall for alle estimerte parametre. Slike intervall kan brukes til å bestemme hvor sikre de
+ulike overhyppighetene er. Vi kan dermed foreta tester vedrørende øket eller redusert risiko i de ulike
+kommunene. En stor fordel med Bayesiansk statistikk er fortolkningen av slike multiple tester. I klassisk
+statistikk prøver en å kontrollere sannsynligheten for å få type II feil ved å bruke mer stringente
+
+signifikans-nivåer, f.eks Bonferroni-korreksjon. Denne korreksjonen er vist å være konservativ, noe som
+øker med antall tester utført. Bayesianske metoder for å ta seg av problemet med multiple tester avhenger
+ikke av antall tester, men istedenfor av våre apriori antagelser om parametrene.
+
+1.Niva
+
+Observerte
+Krefttilfeller
+
+Forventede
+Krefttilfeller
+
+2.Niva
+
+Relative
+Risikoer
+
+>
+3.Nivå
+
+Geografisk
+Variasjon
+
+Figur 1. En illustrasjon av den Bayesianske hierarkiske modellen for kommunevise relative risikoer.
+
+
+
+Relativ hyppighet av kreft i bukspyttkjertelen i 1982—91 Estimert relativ risiko for kreft | bukspyttkjertelen med aprioriford. 2
+
+SUR
+
+BRR
+
+oe 980.4
+
+2
+
+SH 9. 90-110
+
+Burt
+
+WB 1.40-1.60
+
+BM 1.60->
+
+0.88.90
+
+Å
+
+oe
+
+fe
+
+$ ee
+
+«
+
+el 0.49-1.10
+
+As:
+
+å 33-48
+1.40-1.60
+
+¥
+
+1.00
+
+på
+
+7
+
+Estimert reiativ risiko for kreft i bukspyttkierteien med aprioriford.
+
+F8-RR
+
+1Esti
+
+reistiv risiko for kreft i bukspyttkjertelen med apriorford. 3
+
+BRR
+
+<=-0,75
+
+0.75-0.90
+
+MM 0.90-1.10
+
+Z 1.19-1.25
+
+MH 1.25-1.40
+
+1.40-1.68
+
+ag
+
+0+ 75-0.90
+
+238 0.90-1. 18
+
+BH 1.10-1.25
+
+1.25-1.40
+
+Figur 2. Kart over relativ risiko for kreft i bukspyttkjertelen i norske kommuner i 1982-91 fremkommet ved bruk av forskjellige
+apriorifordelinger.
+
+APRIORI
+FORDELING, A
+
+FRIHETSGRADER
+
+SKALAPARAMETER
+
+APOSTERIORI
+GJENNOMSNITT, 4
+
+VARIASJONSBREDDE
+PA RELATIV RISIKO
+
+PRIOR /
+
+0.5
+
+20
+
+20.94
+
+0.73-1.96
+
+PRIOR 2
+
+10
+
+2
+
+7.80
+
+0-62-2.56
+
+PRIOR 3
+
+10
+
+200
+
+32.66
+
+0.78-1.74
+
+Tabell 1. En kort beskrivelse av apriori og aposteriori -fordelingen til A. Siste kolonne angir laveste og høyeste kommunevise
+relative risiko, oppnådd ved de ulike apriorifordelingene.
+
+Konklusjon
+Den foreliggende analysen er bare et eksempel på nye anvendelser av Bayesiansk statistikk i de senere år.
+
+Også på mange andre områder innen anvendt statistikk gir bruk av Bayesiansk statistikk muligheter for å
+
+lage mer fleksible og realistiske modeller
+”. Utviklingen av Gibbs Sampler har sammen med den økende
+
+tilgjengeligheten på kraftige datamaskiner ført til at stadig mer avanserte modeller lar seg analysere. Det er
+derfor forventet at Bayesiansk statistiske metoder skal få innpass på stadig flere områder innen anvendt
+
+statistikk (f.eks epidemiologi").
+Referanser
+
+1. Kreftregisteret ‘Forekomst av kreftsykdommer i Norges kommuner 1982-1991’, 1993.
+2. Besag, J., York, J. and Mollié, A. 'Bayesian image restoration, with application in spatial statistics
+
+(with discussion)”, Annals of the Institute of Statistical Mathematics, 43, 1-59 (1991).
+
+3. Bernardinelli, L., Clayton, D., and Montomoli, C. ‘Bayesian Estimates of Disease Maps: How
+Important are Priors?”, Statistics in Medicine, 14, 2411-2431 (1995).
+
+4. Osnes, K. ‘The Sensitivity of Bayesian Disease Mapping to the Choice of Prior Hyperparameters’,
+submitted to Statistics in Medicine, (1996).
+
+5. Geman, S. and Geman, D. ‘Stochastic relaxation, Gibbs distributions and the Bayesian restoration of
+
+images’, JEEE Transactions on Pattern Analysis and Machine Intelligence, 6, 721-741 (1984).
+
+6. BUGS:’A program to perform Bayesian inference using Gibbs sampling’, MRC Biostatistics Unit
+
+Cambridge, 1994.
+
+
+
+7. Tanner, M. A. Tools for Statistical Inference. Methods for the Exploration of Posterior Distribution
+and Likelihood Functions, Springer-Verlag, 1993.
+
+8. GAUSS The GAUSS System Version 3.0.© Aptech Systems, Inc. Maple Valley WA 1984-92.
+9. Smith, A. F. M. and Gelfand A. E. ‘Bayesian Statistics Without Tears: A Sampling-Resampling
+Perspective’, The American Statistican, Vol. 46, No. 2, 84-88 (1992).
+
+10. Gilks, W. R. et al Markov Chain Monte Carlo in Practice, Chapman & Hall, 1996.
+
+11. Lilford, R. J. and Braunholtz, D. ‘The statistical basis of public policy: a paradigm shift is overdue’,
+British Medical Journal, Vol. 313, 603-607 (1996).
+
+10
+
+
+
+“Contributions to the Analysis of
+
+Spatial and Spatial-Temporal Data”,
+GUDMUND HØST
+
+Avhandling til dr.scient. graden ved
+
+Universitet i Oslo
+Matematisk institutt
+
+Avdeling for statistikk
+1996
+
+Summary
+
+The purpose of this thesis is to address some problems related to the analysis
+
+of spatial and spatial-temporal data. To fix ideas, consider a sulphuric air
+pollutant measured daily at a network of monitoring stations in Europe. Air
+borne sulphur contributes to acidification, and a statistical analysis may be
+of help both for predicting environmental loads and for identifying sulphur
+emissions from different countries. Although non-statistical methods may be
+applied to solve these problems, an advantage of the statistical approach is
+that the inferred quantities can be given uncertainty estimates. The three
+
+papers contained in this thesis all relate to prediction, prediction errors and
+
+identification of emissions sources, and all three papers are illustrated by
+applications to European sulphur data. A brief summary of the papers contained in this thesis is given below.
+
+11
+
+
+
+1. *Spatial Interpolation Errors for Monitoring Data” (with Omre,
+H. and Switzer, P.)
+
+Investigation of a spatial-temporal decomposition model for improving
+
+estimates of spatial interpolation (prediction) errors from monitoring
+data.
+
+The spatial interpolation error estimates were improved com-
+
+pared to Kriging, although the interpolated values were quite similar.
+
+2. *Smoothing and Prediction of Random Processes by a Local
+Polynomial Method”
+
+A study of a random process model with an unknown, slowly varying trend and a correlated residual process.
+
+Both trend estimation
+
+(smoothing) and prediction are considered. An extension of local polynomial methods to continuous random processes is carried out. The
+
+paper describes a new approach to nonparametric smoothing and to
+nonparametric Kriging.
+
+3. “Bayesian Estimation of European Sulphur Emissions Using
+Monitoring Data”
+
+Presentation of a statistical method for verifying reported sulphur emissions from European countries. The method combines meteorological
+
+modeling, prior information on sulphur emissions and measurements of
+sulphate depositions within an Bayesian framework.
+
+12
+
+
+
+Statistikk på Rikshospitalet Senter for klinisk epidemiologi
+Et bidrag til serien om hverdagen til norske statistikere.
+
+Kort om Senter for klinisk epidemiologi
+Senter for klinisk epidemiologi ble opprettet i april 1996. Senteret ble samtidig administrativt
+slått sammen med Kontor for Klinisk Kreftforskning.
+Ved opprettelsen fikk senteret følgende mandat.
+
+e Være kompetansesenter i epidemiologi og statistikk for Rikshospitalets forskere.
+e Bistå Rikshospitalets avdelinger med å opprette kontakt, og utnytte data fra eksterne kliniske
+databaser som *The Cochrane Collaboration”
+
+e Bistå Rikshospitalets avdelinger med å registrere og presentere kliniske resultater (Outcome
+data) og andre data som reflekterer kvaliteten på sykehusets medisinske tjenester.
+e Bistå Rikshospitalets avdelinger med å gjennomføre undersøkelser slik at de kan
+sammenligne sine egne resultater med andre sentra.
+
+Arbeidsoppgaver
+
+Kort sagt assisterer og veileder Senteret forskere på Rikshospitalet med hensyn til håndtering av
+data. Det er prinsipielt tre stadier som et prosjekt går gjennom. Senteret er aktivt med i alle
+delene.
+Design
+
+Ved design av et studie, er det nødvendig med kunnskap om problemet. Hvilke parametere som
+må taes i betraktning, har klinikerne lang erfaring med. Senteret assisterer dem med å gi relevant
+litteraturhenvisninger, og hjelper dem med å søke i eksisterende databaser som, «Medline»,
+«ACP journal» og «Cochrane». En annen problemstilling er hvordan studiet skal gjennomføres.
+Er det mulig med randomisering, er problemstillingen egnet som crossover-studie ? En viktig
+del av designet er også hvor mange pasienter som må inkluderes for å finne interessante kliniske
+forskjeller. Det er da viktig å formulere de statistiske spørsmålene slik at de har kliniske svar.
+Innsamling
+
+Senteret hjelper til med å designe og lage databaser. Databasene lages slik at feilmeldinger gis
+dersom uvanlige verdier tastes inn. Dette er med på å bedre datakvaliteten. Høy datakvalitet er
+en forutsetning for at resultatet på analysen skal bli troverdig. Senteret gir råd om hvordan data
+skal lagres for at det skal bli lett å trekke ut delmengder av dataene, og få oversikt.
+Analyse
+
+Når dataene er innsamlet, må de analyseres og presenteres. Senteret bidrar med veiledning i
+statistikk slik at relevante tester og metoder benyttes.
+
+Overlevelsesanalyse med «Kaplan-Meyer plot» , «Cox-regresjon» og «logrank tester», er noen
+av de mest populære teknikkene. Klinikere er i stor grad interessert i hvilken prognose pasienten
+har og eventuelle faktorer som kan bedre prognosen.
+
+13
+
+
+
+Et annet tema er effekt av medikamenter. «Er et nytt medikament bedre enn et gammelt?» eller
+«Er medikamenter bedre enn ingenting (placebo) ?» . Et problem som ofte dukker opp i denne
+
+sammenhengen er at det ikke er entydig hva som gjør et medikament bedre enn et annet. Så selv
+om mange data er samlet inn, er det vanskelig å konkludere.
+
+Metoder som anova, manova og repeterte målinger forekommer også. Det gjør de ofte i
+sammenheng med at nye målemetoder utprøves, og sammenlignes med de eksisterende.
+Senteret har sin styrke i at det er et tverrfaglig miljø. Det er ansatt personer med kompetanse fra
+medisin, statistikk og database. Dette gir de ansatte utfordringer til å formidle budskapet på en
+forståelig måte, uten bruk av for mye fagterminologi. Senteret ligger også med kort avstand til
+klinikken. Dette gjør at det blir mye enklere å ta kontakt for klinikerne. Videre samarbeider
+senteret med seksjon for medisinsk statistikk, universitetet i Oslo, blant annet gjennom et
+Professor II stipendiat.
+
+Odd Kolbjørnsen
+
+14
+
+
+
+Invitasjon til
+
+Det 9. norske statistikermøtet
+Selbu 9-11 juni 1997
+Det 9. norske statistikermøtet holdes på Selbusjøen hotell i Selbu, 37 km fra Trondheim
+Lufthavn Værnes og 70 km fra Trondheim sentrum.
+Transport
+
+Det er planlagt buss fra Værnes 9/6 kl.1115, og avreise tilbake til Værnes 11/6 kl.1245.
+;
+
+Bussturen tar drøye 30 minutter.
+Overnatting
+
+Det er reservert rom på Selbusjøen hotell og Selbu hotell som ligger like ved siden av hverandre.
+Pris pr. person for hele oppholdet vil bli ca. 1750,- for enkeltrom og 1475,- for dobbeltrom.
+Denne prisen inkluderer 2 døgn helpensjon samt festmiddag og lunsj ankomstdag. Mulighet
+for leie av campinghytter er også tilstede.
+Påmelding
+
+Påmelding sendes til
+
+Ola Håvard Diserud
+Institutt for matematiske fag
+
+Fakultet for fysikk, informatikk og matematikk
+Norges teknisk naturvitenskapelige universitet, NTNU
+7034 Trondheim
+
+E-post : diserudQmatstat.unit.no
+Telefon : 73 59 14 45
+Fax : 73 59 10 38
+
+Frist for påmelding er 18. april 1997.
+Konferanseavgift
+
+Det blir trolig en liten konferanseavgift (under 100kr) som ennå ikke er bestemt. Påmeldte
+deltakere vil bli informert om endelig beløp (så snart som mulig) samt innbetalingsmåte.
+Betaling
+
+Betaling av transport og hotell foretas før avreise fra Selbu.
+
+Eventuelle spørsmål kan stilles til Ola Håvard Diserud på adressen over.
+
+15
+
+
+
+Påmeldingsskjema til Det 9. norske statistikermøtet
+Ønsker transport
+
+: 0 Ja
+
+0Nei
+
+0 Nei
+Ønsker overnatting: 0 Ja
+0 Hotell
+
+0 Enkeltrom
+
+0 Campinghytte
+Andre opplysninger:
+Navn
+Adresse
+
+:
+
+Telefon :
+
+16
+
+0 Dobbeltrom sammen med:
+
+
+
+Norsk Statistikermøte 1997
+Melding fra programkomitéen
+Fred Godtliebsen ! & Hans Karlsen ? & Mette Langaas 3
+Som tidligere annonsert i TG, vil det 9. norske statistikermøtet bli avholdt i Selbu, 9.11.
+juni 1997. I den anledning har programkomitéen gleden av å presentere første informasjon
+om programmet. Vi har lagt opp til tre hovedtema, ett for hver dag av møtet. Vi håper at
+programmet vekker interesse for alle medlemmer og deler av den norske statistiske familie.
+Mandag 9.juni: Forsikringsstatistikk En stor del av dagens nyutdannede cand.scient-er
+finner jobb i forsikringsbransjen. Hvordan ser hverdagen de møter ut og hvilke problemstillinger møter de i sin nye jobb i forsikringsbransjen? Pål Lillevold er selvstendig konsulent
+innen aktuarfaget. Vi skal høre hvilke erfaringer han har fra arbeid i forsikringsbransjen.
+Innen forskning kan man arbeide med teoretiske problemstillinger, og Bjørn Sundt vil snakke
+om totalskadefordelinger.
+
+13.00-14.30 PÅL LILLEVOLD:
+
+Klassiske og nye problemstillinger i livs- og pensjonsforsikring
+
+14.45-15.30 BJØRN SUNDT (Matematisk Institutt, UiB):
+Rekursive metoder til beregning av totalskadefordelinger
+
+Tirsdag 10.juni: Medisinsk statistikk Daglig bringer tabloidpressen oss undersøkelser
+om vår helse. Farmasøyt og statistiker Eva Skovlund arbeider ved Radiumhospitalet og vil
+snakke om sine erfaringer innen klinisk forskning. Ved senter for medisinsk informatikk og
+statistikk ved Universitetet i Bergen arbeider man i hovedsak med problemstillinger innen
+epidemiologisk forskning knyttet til fødselsregisteret. Håkon Gjessing er post-doc stipendiat
+ved SMIS og vil snakke om en studie av svangerskapslengde og fødselsvekt.
+
+9.00-9.45 EVA SKOVLUND (Radiumhospitalet /Seksjon for medisinsk statistikk UiO):
+Mer viten eller flere publikasjoner? Et kritisk blikk på klinisk kreftforskning.
+
+10-00-10.45 HÅKON GJESSING (Senter for medisinsk informatikk og statistikk, UiB):
+Svangerskapsvarigheter og fødselsvekter, noe for en statistiker? En litt annerledes analyse av
+
+feilkilder ved beregning av svangerskapsvarighet.
+
+Onsdag 11.juni: Statistikkens inntog i den videregående skole Med reform-94 har
+statistikk og sannsynlighetsregning toget med stor kraft inn i matematikkpensumet i den
+videregående skole. I en paneldebatt vil vi diskutere ulike aspekter av denne reformen.
+Medlemmene av panelet vil først gi en kort innledning om utvalgte problemstillinger (skissert
+nedenfor), og deretter følger en debatt der alle på møtet oppfordres til å delta. Panelet består
+av Ørnulf Borgan, Jostein Lillestøl, Ivar Heuch og Tore Oldervold.
+
+ØRNULF BORGAN (Matematisk Institutt, UiO):
+Hva sier læreplanen om pensumet i statistikk og sannsynlighetsregning? Erfaringer fra kurs
+
+for lærere i den videregående skolen.
+
+Seksjon for matematikk og statistikk, Institutt for matematiske realfag, Universitetet i Tromsø, Breivika,
+
+9037 Tromsø, tlf. 77 64 40 16,fred@mat-stat.uit.no
+
+2Matematiske Institutt,
+
+Bjørn Trumpys hus,
+
+hans.karlsen@mi.uib.no
+
+Allégt.
+
+55,
+
+5007 Bergen,
+
+tlf.
+
+55
+
+58 28 36,
+
+3Norsk Regnesentral, Postboks 114 Blindern, 0314 Oslo, tlf. 22 85 25 69, mette.langaaas@nr.no
+
+17
+
+
+
+JOSTEIN LILLESTØL (Handelshøyskolen i Bergen):
+Hvordan vil statistikk som fag i videregående skole påvirke innholdet av grunnkursene ved
+universiteter og høgskoler?
+
+IVAR HEUCH (Matematisk Institutt, UiB):
+Hvordan er kvaliteten av lærebøker i statistikk for den videregående skole? Eksempler fra
+dagens bøker.
+
+TORE OLDERVOLD (Strinda videregående skole i Trondheim):
+Synspunkter fra en lærer å den videregående skole. Hvordan opplever lærerne i den videregående
+skolen læreplanen? Har lærerne tilstrekkelig kompetanse?
+Åpen avdeling/Påmeldte foredrag
+
+Også denne gang vil det være anledning for deltakerne å melde på egne foredrag. Foredragsholderne får i utgangspunktet 15-25 minutter til rådighet inkludert diskusjon. Endelig
+tidsramme blir avgjort av programkomitéen.
+
+Vi vil spesielt oppfordre anvendte statistikere ute i industrien til å presentere sine statistiske
+problemer fra den *virkelige” verden. Presentasjoner som hører under ett av hovedtemaene
+vil (så langt det er mulig) bli plassert samme dag som hovedtemaet.
+Hovedfags- og doktorgrads-studenter oppfordres spesielt til å melde på foredrag. Det hviler
+implisitt en plikt for veiledere til å melde på sin(e) student(er) for foredrag.
+Tidsfrister
+
+Det er kun to tidsfrister å huske på, 18. april og 15. mai 1995. Den første fristen gjelder
+påmelding av eget foredrag (dette er også fristen for å melde seg på til møtet). Send en
+foreløpig tittel til Mette. Før 15. mai sendes den endelige tittel samt et sammendrag (abstract)
+av foredraget (fortrinnsvis i email eller på diskett i ATX, Word eller rent tekstformat).
+Sammendragene blir distribuert på møtet.
+
+18
+
+
+
+Kurs 97med4e O-3157
+
+VIDEREGÅENDE STATISTIKK: FORLØPSANALYSE
+21.-24. april 1997
+Kurslitteratur:
+
+Kapittel 13 i D. G. Altman: Practical Statistics for Medical Research (Chapman and Hall,
+1991).
+
+I tillegg vil et notat bli delt ut ved kursstart.
+Undervisningssted:
+
+Forelesningene finner sted i rom 2180 i Preklinisk bygg (Institutt for ernæringsforskning) på
+Gaustad. Øvelsesarbeidet vil for en stor del være i PC-stua.
+
+Lærere:
+
+Prof.stip. Thore Egeland, Seksjon for medisinsk statistikk
+Professor Eva Skovlund, Seksjon for medisinsk statistikk
+Stipendiat Kåre Osnes, Seksjon for medisinsk statistikk
+Forsker Per Henrik Zahl, Seksjon for medisinsk statistikk
+
+Professor Odd Aalen, Seksjon for medisinsk statistikk. (Kursleder)
+
+Leger har fortrinnsrett til fulltegnede kurs.
+
+PÅMELDING må skje til Sekretariatet for forskerutdannelse (Lasse Ringstad), Det medisinske fakultet.
+
+19
+
+
+
+International Biometric Society
+Nordic Regional Meeting
+Biometric meeting
+Aas, Norway, June 18-20, 1997
+Preconference course
+
+Generalized Linear Mixed Models
+Aas, Norway, June 16-17, 1997
+The programme will cover biometric research and development over the full range of applied
+fields, including agriculture and forestry, medicine, biology, the environment and other areas
+of life sciences. Efforts are made to involve biometricians from the German Region, but the
+conference is open to scientists from all countries.
+CONFERENCE VENUE
+
+The venue of the conference will be the Agricultural University of Norway, at Aas. Aas is
+located only 30 km South of Oslo, and is easily accessible from Oslo by train or by car. In
+1997 the Agricultural University of Norway will be 100 years as an academic institution.
+PRELIMINARY LIST OF TOPICS AND INVITED SPEAKERS
+The different sessions, with the confirmed invited speakers, are:
+e Multivariate discrete models, including a case study (Chair: Adam Gottschau)
+— Geert Molenberghs, Diepenbeek
+— Jari Haukka, Helsinki
+— Peter Dalgaard, Copenhagen
+— Walter Stroup, Nebraska
+
+Reference values (Chair: Sture Holm)
+
+Stereological methods in forestry and agriculture (Chair: Lennart Bondesson)
+— Goran Stahl, Umea
+— Salme Kårkåinen, Jyvaskyla
+— Jørgen Nielsen, Foulum
+
+Image analysis and spatial statistics (Chair:Tormod Nes)
+— Ulf Indahl, MATFORSK, Aas
+Latent variable models
+
+— Gerhard Arminger, Wuppertal
+— Anders Skrondal, Oslo
+
+Methodological issues in perinatal data analysis (Chair: Stein E. Vollset)
+— Clarice Weinberg, North Carolina
+— Rolv Skjærven, Bergen
+
+20
+
+
+
+— Håkon Gjessing, Bergen
+
+e Model selection, model validation and model building strategies
+— Saskia le Cessie, Leiden
+
+e Attributable fractions (Chair: Esa Laara)
+— Olaf Gefeller, Gottingen
+— Geir Egil Eide, Bergen
+— Hannu Oja, Oulu
+
+e Semiparametric regression models (Chair: Ludwig Fahrmeir)
+— Gerhard Tutz, Berlin
+— R. Labourriau, Foulum
+
+Informative missing values (Chair: Lene Theil Skovgaard)
+CALL FOR PAPERS
+
+Participants are invited to present contributed papers. Speakers in the contributed paper
+sessions will be given 20 minutes each, including discussion. The deadline for sumitting
+abstracts for contributed papers is April 15, 1997. The abstracts shall be mailed to Are
+Aastveit, Department of Mathematics, Agricultural University of Norway,P.O. Box 5035,
+1432 Aas-NLH, NORWAY
+
+SOCIAL PROGRAMME
+
+The social programme will include a trip to Oscarsborg fort which is located on an island in
+the Oslofjord. The conference banquette will take place at a hotel on the fjord.
+FINAL ANNOUNCEMENT
+
+The third and final announcement of the conference and the preconference course will be
+available around March 1, 1997. The final registration date will be April 15, 1997.
+PRECONFERENCE COURSE
+
+Introduction to Generalized Linear Mixed Models
+There will be a preconference course, held at Aas, June 16-17. The topic for the course will
+be: Introduction to Generalized Linear Mixed Models.
+
+The speaker in the course will be Walter Stroup. He is Professor of Biometry, University
+of Nebraska and has worked with the theory for Generalized Linear Mixed Models, together
+with the development of the PROC MIXED procedure and GLIMMIX-macros for SAS.
+Course description:
+
+Generalized Linear Mixed Models (GLMM) generalize linear model theory to incorporate
+models with fixed and random effects and models with non-normal, possibly correlated errors.
+
+GLMM's have given researchers in a wide variety of disciplines a powerful class of new tools
+for data analysis. For example, complex designs - like repeated measures, split-plot, or multilocation - with categorical or discrete responses, can be addressed. GLMM’s also offer a
+comprehensive generalization of linear model theory. GLMM’s are a major topic of statistical
+21
+
+
+
+research and are a subject of intense interest in the medical, agricultural and environmental
+sciences.
+
+The course provides an introduction to GLMM’s. The course features an overview of GLMM
+theory and methodology as well as several examples emphasizing practical applications.
+GLIMMIX, a SAS macro that extends PROC MIXED to generalized linear models, will
+be used. The course is divided into three main sections
+e a general introduction to mixed models
+
+e integration of mixed models and generalized linear models to get GLMM’s
+e examples using GLIMMIX.
+
+The lectures will be held in an auditorium at the Agricultural University, the exercises in a
+datalab.
+
+Registration for the preconference course will be on the registration form for the conference.
+Deadline for registration will be April 15, 1997. The number of participants will be limited.
+ACCOMMODATION
+
+Accommodation during the conference and preconference course in single rooms at student
+dormitories will be available at a price of NOK 285 per day, including breakfast. The student
+
+dormitories are located approximately 600 m from the conference venue. Hotel is available
+at Aas Hotel at a price of NOK 550 per day, including breakfast. The hotel is located at the
+center of Aas close to the railway station, and only 1 km from the conference venue.
+CONFERENCE AND PRECONFERENCE COURSE FEES
+
+The conference fee will be NOK 1.500. This includes lunch during the conference, conference
+banquette and the conference tour.
+
+The fee for the preconference course (including lunch) will be NOK 2.500.
+WORLD WIDE WEB
+
+Information about the conference and preconference course will be updated on our web pages:
+
+http://wwwnlh.nlh.no/institutt/imf/nbc97/
+ORGANIZERS
+
+Programme committee: Lene Theil Skovgaard, Denmark (chair); Holmgeir Bjørnsson, Iceland; Lennart Bondesson,Sweden; Ludwig Fahrmeir, Germany; Sture Holm, Sweden; Esa
+Låårå, Finland; Aage Nielsen, Denmark; Tormod Næs, Norway; Jukka Ofversten, Finland;
+Stein Emil Vollset, Norway
+
+Local committee: Are Aastveit (chair), Trygve Almøy, Doris Tove Kristoffersen, Petter Laake
+CONTACT ADDRESS:
+
+Are Aastveit, Department of Mathematics, Agricultural University of Norway
+P.O. Box 5035, 1432 Aas-NLH, NORWAY
+
+Tel: +47 6494 8872 Fax: +47 64948879 E-mail: are.aastveit Qimf.nlh.no
+
+22
+
+
+
+International Biometric Society Nordic Regional Meeting,
+Aas, Norway, June 18-20, 1997
+
+Preconference course in Generalized Linear Mixed Models
+Aas, Norway, June 16-17, 1997
+Preliminary Registration Form:
+
+Name:
+
+Affiliation
+Mailing address:
+
+Fax:
+
+Telephone:
+E-mail:
+
+I wish to present a contributed paper
+
+(
+
+)
+
+Preliminary title of paper:
+
+(
+
+)
+
+Aas hotel:
+
+(
+
+)
+
+Student dormitory :
+
+(
+
+)
+
+I wish to participate in the preconference course
+
+For our planning of accommodation:
+I want
+
+to
+
+stay at:
+
+Date:
+
+Signature:
+
+Mail this preliminary registration form to:
+
+Are Aastveit, Department of Mathematics, Agricultural University of Norway P.O. Box 5035,
+1432 Aas-NLH, NORWAY
+
+23
+
+
+
+Konferanseoversikt
+TID
+
+STAD
+
+| TITTEL
+
+| KONTAKT
+
+1997
+
+6-8.april
+
+Oslo
+
+Norsk Statistisk Forenings
+etterutdanningsseminar
+
+3.-6.juni
+
+Uppsala
+
+Svenska Statistikersamfundets
+
+Geir Storvik, Matematisk institutt
+Avd. for statistikk, Univ. i Oslo
+e-mail: geirsQmath.uio.no
+
+9-1l1.juni | Selbu
+
+sommerskola 1997
+
+9.norske statistikermøte
+
+Ulf Olsson, SLU/SDI Box 7013, 75007
+
+Uppsala. e-mail: Ulf.OlssonQsdi.slu.se
+
+Ola Håvard Diserud, Inst. for matematiske
+
+fag, Fakultet for fysikk, informatikk og
+matematikk, NTNU, 7034 Trondheim.
+
+e-mail diserud@matstat.unit.no
+
+8-13.juni | Umeå
+
+Second Scandinavian-Ukrainian Conference | Dimitri Silvestrov, Dept. of Mathematical
+
+in Mathematical Statistics
+
+Statistics, Umeå University, S-90187 Umeå
+
+fax:090-167 658, e-mail:ssucQmatstat.umu.se
+
+17-20.juni | Ås
+
+International Biometric Society
+
+Are Aastveit, Inst. for matematiske fag
+
+Nordic Regional Meeting
+
+Norges Landbrukshøgskole, Postboks 5035
+
+1432 Ås-NLH. Tlf.:64948872, fax:64948879
+
+e-mail: are.aastveit Qimf.nlh.no
+
+14-18.juli | Nottingham, | The Royal Statistical Society 1997
+David Laws, ”RSS97”
+England
+Conference: Practical Bayesian Statistics 4 | Department of Mathematics
+http://www.maths.nott.ac.uk/
+
+University of Nottingham
+
+8th Int. Conference on Quantitative
+Methods for the Environmental Sciences
+
+Prof. Abdel H. El-Shaarawi,
+National Water Research Institute,
+
+personal /rss97
+
+4-8.aug
+
+Innsbruck,
+Østerrike
+
+NOTTINGHAM, U.K, NG7 2RD
+
+P.O.Box 5050, 867 Lakeshore Road,
+Burlington, Ontario Canada L7R 4A6
+tlf.: 1 905 336 4584, fax: 1 905 336 4989
+
+e-mail: abdel.el-shaarawi@cciw.ca
+
+10-14.aug | Anaheim,
+California
+
+Joint Statistical Meetings
+
+ASA, Meetings Office, 1429 Duke Street
+Alexandria, VA 22314-3402 USA
+
+http://www.amstat.org/meetings/jsm/1997 | tlf.: (703) 684-1221, fax: (703) 684-2036
+e-mail: meetings@amstat.org
+
+18-27.aug | Istanbul,
+Tyrkia
+16-17.aug | Athen,
+Hellas
+
+51st Session of the International
+Statistical Institute
+
+ISI Permanent Office, 428 Prinses
+Beatrixlaan, P.O.Box 950,
+
+http://www.cbs.nl/isi/session.htm
+
+2270 AZ Voorburg, Nederland
+
+ISI Satellite Conference on ” Industrial
+Statistics: Aims and Computational
+Aspects”
+
+Assistant Professor C.P. Kitsos,
+Dept. of Statistics, AUEB,
+Patission 76, Athen, Hellas
+tlf.: 301 8203132, fax:301 8226204/8676265
+
+e-mail:kitsosQaueb.gr
+
+31.aug4.sept
+
+Rostock,
+Tyskland
+
+ISI Satellite Meeting: ”Mathematical
+Statistics and its Applications to
+Biosciences”
+
+Prof. Dr. F. Liese, Deptartment of
+Mathematics, University of Rostock
+18051 Rostock, Tyskland
+tlf.: +49 381 498 1524,
+fax: +49 381 498 1520
+e-mail: biostat Qlikeli.math.uni-rostock.de
+
+27-29.aug. | Jerusalem,
+Israel
+
+IASS/IAOS Satellite Meeting on
+Longitudinal Studies
+
+Gad Nathan, Dept. of Statistics
+The Hebrew University of Jerusalem
+Jerusalem 91905, Israel
+
+http://pluto.mscc.huji.ac.il/~ gad/smls.html | tlf.: +972-2-5883-304/6553-371
+fax: +972-2-5322-545/6522-319
+e-mail: gadQolive.mscc.huji.ac.il
+
+8-12.sept. | Enshcede,
+Nederland
+
+Statistics for Public Resources,
+Utilities and Care for the Environment
+(SPRUCE IV)
+
+SPRUCE IV, ITC, P.O.Box 6,
+7500 AA Enschede, The Netherlands
+tlf.: +31 53 487 43 83
+fax: +31 53 487 43 99
+
+24
+
+;
+
+
+
+NYTT FRA GRUPPE FOR STATISTIKK
+NTNU
+
+Ferdige sivilingeniører
+Eva Fagernes: ‘Trendmodelleri vedlikeholds- og plitelighetsanalyse’. Veileder:
+Per Hokstad.
+
+Roger Jensen: ‘Analyse av pålitelighetsdata: Degraderte og kritiske feil”. Veileder:
+Per Hokstad.
+
+Tony Kråkenes: ‘Impariment of safety functions’. Hovedoppgaven er utført
+ved Dovre Safetec AS, Trondheim, under veiledning av Stein Haugen. Faglig
+ansvarlig ved NTNU: Stian Lydersen.
+
+Erlend Olsen: 'Statistisk analyse av en raffineringsprosess. Raffinering av silisium metall ved Meraker Næringspark as”. Hovedoppgaven er utført i samarbeid
+med Elkem Meraker og Institutt for matematiske fag, NTNU. Veileder: John
+Tyssedal.
+
+Kjell Øivind Oulie: 'Spatial interaction models for simulation of fault patterns’. Hovedoppgaven er utført ved Norsk Regnesentral, Oslo, under veiledning
+av forsker Petter Mostad. Faglig ansvarlig ved NTNU: Henning Omre.
+
+Øyvind Salvesen: ‘En statistisk modell for prediksjon av fotballkamper i en
+
+liga”. Veileder: Håvard Rue
+
+Are Schrøder-Nielsen: 'Statistisk analyse av markedsaktiviteter i bokklubb.
+
+Veileder: John Tyssedal.
+
+Sonja Stamnes: ‘Diskriminantanalyse av keisersnittfødsler”. Veileder: Bo Lindqvist.
+
+Martin Stølevik: ‘Evaluering av forenklede 2-fase strømningsmodeller for fluivale reservoargeometrier’. Hovedoppgaven er utført ved Statoil forskningssenter,
+Trondheim, under veiledning av Arve Næss. Faglig ansvarlig ved NTNU: Henning
+Omre.
+
+Geir-Henning Wintervoll: ‘Tidsrekkemodellering av silisium-tap ved en ferrosilisium prosess”. Hovedoppgaven er utført ved FESIL ASA, Holla Metall i
+samarbeid med Institutt for matematiske fag, NTNU. Veileder ved FESIL ASA:
+Senior metallurgist, dr.ing. Birger Andresen. Veileder ved NTNU: John Tyssedal.
+
+25
+
+
+
+Herdis Thorén Amundsen
+
+Herdis Thorén Amundsen døde 12. januar, 83 år gammel. Med henne har en av pionerene i
+norsk statistikk gått bort.
+
+Hun ble født 8. mars 1913 og tok aktuareksamen ved Universitetet i Oslo i 1939. Senere
+videreførte hun sin utdannelsei statistikk. Fra 1942 og under resten av krigen var hun ansatt som
+sekretær i Utenriksdepartementet i London, der hun blant annet arbeidet med kodingsproblemer.
+I denne stillingen fortsatte hun i Oslo etter krigen fram til 1948. Hun kom deretter over til
+Universitetet, der hun allerede tidligere hadde vikariert i forskjellige stillinger. Hun var
+universitetsstipendiat 1951-56, universitetslektor 1956-62 og dosent i statistikk fra 1962 ved
+Sosialøkonomisk institutt.
+
+Herdis Thorén Amundsen var faglig meget dyktig. Sin kompetanse opparbeidet hun seg til tross
+for avbruddet under krigen og til tross for en periode som eneforsørger.I tillegg til
+vitenskapelige publikasjoner har hun skrevet flere lærebøker i statistikk som i mange år har vært
+
+med på å prege den sosialøkonomiske utdannelsen i Oslo. Bøkene holder fremdeles faglig mål
+men har nå måttet vike plassen for andre bøker på grunn av omlegging av studiet.
+Hun var en drivkraft i det statistiske miljøet utenfor Sosialøkonomisk institutt også. Tidlig på
+70-tallet tok hun initiativ til og bygget opp Statistikk grunnfag ved det Samfunnsvitenskapelige
+fakultet. Dette studiet går utover et rent innføringskurs i statistikk og har vist seg nyttig for
+studenter og forskere fra disipliner både i og utenfor de samfunnsvitenskapelige fagene. I 1964
+deltok hun i opprettelsen av og ledet den første tiden en avdeling for matematisk statistikk ved
+Norsk Regnesentral. Hun har senere også vikariert som leder ved Norsk Regnesentral. Hun har
+vært leder for Norsk statistisk forening og var med i styret for Scandinavian Journal of Statistics
+fra starten.
+
+Hun stilte sterke, for ikke å si ubøyelige, krav til faglig redelighet. Kom man til henne med et
+manuskript for kommentarer, kunne man være trygg på at det ble grundig lest. Det var ikke
+mange feil og uklarheter som unnslapp hennes oppmerksomhet. Hun var svært samvittighetsfull
+og sparte seg aldri i sitt arbeide. Yngre forskere og andre som har jobbet under henne vil også
+huske med takknemlighet hennes effektive støtte preget av varm forståelse og innlevelsesevne.
+Statistikk og sosialøkonomi er studier som tradisjonelt har vært sterkt dominert av menn. Herdis
+Thorén Amundsen var den første kvinnei toppstilling i dette miljøet og satte således et godt
+eksempel for andre kvinner innenfor forskning og høyere undervisning.
+I 1983, etter å ha fratrådt sin stilling ved 70 år, ble Herdis Thorén Amundsen tildelt Kongens
+fortjenestemedalje i gull.
+
+Gjennom hele sin pensjonisttilværelse har hun jevnlig benyttet sin faste kontorplass ved
+Sosialøkonomisk institutt og gledet oss ved å holde kontakten med fagmiljøet ved like. Hun har
+betydd mye for mange kolleger og andre som har vært i kontakt med henne. Vi takker henne for
+dette og for den store innsatsen hun har gjort for norsk statistikk og sosialøkonomi.
+
+Harald Goldstein
+Hilde Bojer
+26
+
+
+
+Bent Natvig 50 år
+Professor Bent Natvig har fylt 50 år. En markert skikkelse innenfor utdanning og forskning
+jubilerer. Som amanuensis og professor i matematisk statistikk (pålitelighetsanalyse) ved
+Universitetet i Oslo har Natvig gjort en imponerende innsats for å bygge opp et internasjonalt
+sterkt fagmiljø innenfor pålitelighetsfaget. Nå leder han en faggruppe som har markert seg
+som et tungt grunnforskningsmiljø innenfor sentrale deler av pålitelighetsteorien.
+
+Etter avlagt embedseksamen i 1970, arbeidet Natvig de første årene med stokastiske prosesser
+anvendt mot køteori. Hans doktorgrad (Ph. D.) fra University of Sheffield 1975 er innenfor
+dette feltet.
+
+Så møtte han imidlertid utfordringene innenfor pålitelighets- og sikkerhetsfaget. Etter dramatiske ulykker i Nordsjøen, med blant annet Alexander Kielland katastrofen der 123 mennesker
+omkom, fikk Universitetet i Oslo en viktig rolle i å bygge opp en grunnleggende kompetanse
+innenfor pålitelighetsteori. En ny amanuensisstilling ble opprettet som Natvig besatte.
+Det hadde da allerede i flere år vært tilbudt kurs innenfor fagområdet og forskningsaktiviteten
+var kommet godt igang med flere hovedfags- og doktorgradsstudenter.
+
+Natvigs forskning i denne perioden var rettet mot multinære koherente systemer, mål for
+pålitelighetsmessig betydning og skranker for pålitelighet for koherente systemer. Den multinære teorien gjør det mulig å analysere påliteligheten av tekniske systemer som kan ha flere
+enn to tilstander, for system og komponenter. For å kunne studere olje- og gass produksjonsog transportssystemer er en multinær fremgangsmåte helt nødvendig for å kunne beskrive systemene tilstrekkelig nyansert. Flere av Natvigs arbeider innenfor disse feltene representerer
+
+viktige bidrag til pålitelighetsteorien.
+
+I 1986 ble Natvig professor innenfor matematisk statistikk (pålitelighetsanalyse) ved Universitetet i Oslo. Dette var det første professoratet knyttet til pålitelighetsanalyse i Norge.
+I de senere årene har hans forskning vært rettet mot Bayesianske metoder og ekspertvurderinger. Også her har han kommet med interessant bidrag til fagområdet.
+
+Natvig har gjort en stor innsats for å sette statistikkfaget inn i en større sammenheng. Såvel
+nasjonalt som internasjonalt har han vært aktiv i debatten omkring petroleumsvirksomheten
+og kjernekraftsindustrien, spesielt de sikkerhetsmessige sider av disse. Videre har han vært aktiv i kampen mot atomvåpen, blant annet gjennom deltagelse i den Nobelprisbelønte Pugwashbevegelsen.
+
+Han har også arbeidet med anvendelse av statistikkfaget innenfor samfunnsfag og odontologi.
+
+Natvig har solid administrativ erfaring. Han har bl.a. vært dekanus ved det Matematisk-
+
+Naturvitenskapelige Fakultet ved Universitetet i Oslo i perioden 1993-95.
+
+Natvig er en frittalende person. Dette sammen med hans gode evne til å formulere et klart
+budskap gjør han interessant å lytte til, enten det nå gjelder spørsmal i forbindelse med fag,
+undervisning, utdanningspolitikk, eller samfunnssutviklingen.
+Vi gratulerer!
+
+Terje Aven
+
+Arne Bang Huseby
+
+27
+
+
+
+ODD O. AALEN - 50 ÅR
+Den 6. mai fyller Odd O. Aalen 50 år. De fleste statistikere i verden, som arbeider med analyse
+av levetidsdata, har hørt om Nelson-Aalen estimatoren for den integrerte hasardfunksjonen. Og
+Aalen-Johansen estimatoren for matrisen av overgangssannsynligheter i en inhomogen Markov
+prosess og Aalens additive regresjonsmodell opptar stadig flere. Men særlig er Odd kjent for “the
+counting process approach to survival and event history analysis.”
+Odd tok hovedfag ved Universitetet i Oslo i 1972.
+
+Oppgaven hans handlet om Estimer-
+
+ing av risikorater for prevensjonsmiddelet spiralen, og kimen til Odds senere innsats kan spores
+
+tilbake til denne. Da Odd i 1973 reiste til Berkeley, hadde han alt (uten kjennskap til Nelsons
+tidligere arbeider) utviklet Nelson-Aalen estimatoren for de integrerte intensitetene i en multippel
+
+avgangsmodell, og han hadde klare idéer om at denne var gyldig i mange flere situasjoner.
+I Berkeley gjorde Odds veileder, Lucien Le Cam, han oppmerksom på et nytt arbeide av
+McLeish om sentralgrensesetninger for martingaler. Fra annet hold fikk han kjennskap til en
+
+teori for telleprosesser som nylig var utviklet innen “electronic engineering.” Odd evnet på en
+imponerende måte å tillempe og videreutvikle disse teoriene. I sin Ph.D.-avhandling Statistical
+inference for a family of counting processes (1975) og senere publikasjoner, viste han hvordan en
+rekke situasjoner i levetids- og forløpsanalysen kan gis en felles formulering ved hjelp av telleprosesser og hvordan dette gjør det mulig å benytte martingaler og stokastiske integraler i studiet
+av Nelson-Aalen estimatoren og andre statistiske metoder.
+Etter avsluttet Ph.D.-grad, ble Odd invitert til København av sin tidligere hovedfagsveileder
+Jan M. Hoem. Her vekket Odds arbeider interessen til blant annet Niels Keiding, som senere
+
+introduserte andre (bl.a. Per K. Andersen og undertegnede) til den telleprosessbaserte levetidsog forløpsanalysen.
+
+Slik var Odds korte opphold i København en avgjørende forutsetning for
+
+den betydelige danske innsatsen i levetids- og forløpsanalysen og for det tette dansk-norske sam-
+
+arbeidet i dette fagfeltet. Odds arbeid med Søren Johansen om Aalen-Johansen estimatoren er
+et annet håndfast resultat av dette oppholdet.
+
+Etter avtjent militærtjeneste, ble Odd i 1977 ansatt som førsteamanuensis ved Universitetet
+i Tromsø. Her gjorde han det grunnleggende arbeidet om den additive regresjonsmodellen, som i
+
+dag framstår som et viktig supplement til Coxs multiplikative regresjonsmodell. I 1982 fikk Odd
+en nyopprettet stilling som professor i medisinsk statistikk ved Universitetet i Oslo. Mye av hans
+tid gikk nå med til å utarbeide et godt undervisningsopplegg i statistikk for medisinerstudentene
+og et etter- og videreutdanningstilbud for ferdige leger. Odds idéer ble imidlertid tatt opp av
+andre, og det var utover på 1980-tallet en hektisk internasjonal forskningsaktivitet om bruk av
+
+telleprosesser i levetids- og forløpsanalysen. I dag er denne teorien vel utviklet og undervises ved
+en rekke universitet verden rundt.
+
+De siste ti årene har det igjen kommet flere viktige arbeider fra Odds hånd. Han har særlig
+vært opptatt av uobservert heterogenitet (“frailty”) i levetids- og forløpsmodeller. Men han har
+også arbeidet videre med den additive regresjonsmodellen, og sammen med engelske statistikere
+har han utviklet bedre metoder for overvåking av HIV /AIDS-epidemien. Odd er medredaktør av
+Biometrical Journal og Statistical Methods in Medical Research, og han har vært president i den
+
+nordiske regionen av International Biometric Society (1994-96).
+Det er alltid en glede å lese Odds arbeider. Framstillingen er klar og pedagogisk, uten unødig
+teoretisering, og med respekt for og innsikt i de reelle problemene som motiverte det statistiske
+
+metodearbeidet. Hans lærebok En innføring i statistikk - med medisinske eksempler (Gyldendal,
+1994) er et lite mesterverk, og det er å håpe at Odd vil utvide denne slik at den kan bli en aktuell
+tekst for brukerkurs ved norske universitet og høyskoler. Odd er beskjeden av natur, men han
+viker ikke tilbake for utfordringene når de kommer. Som statistisk ekspert i Landås-saken fikk
+han virkelig erfare presset i media-samfunnet.
+
+Det er få forunt å sette så store spor etter seg i internasjonal forskning som det Odd har gjort.
+På vegne av norske statistikere, vil jeg takke han for innsatsen og gratulere med dagen.
+Ørnulf Borgan
+
+28
+
+
+
+INGE SVEIN HELLAND - 50 ÅR
+Det kvapp litt i meg da redaktøren forleden uke ringte og spurte om jeg
+kunne skrive en omtale av Inge Helland i anledning av at han fyller 50 år den
+14. juni 1997. Jeg føler ikke at det er så lenge siden at den æren ble meg selv
+til del, og nå kommer min første hovedfagsstudent og *puster meg i nakken”.
+
+Det er jammen ikke bare etter hvert som ens barn vokser opp at en skal vite
+at en blir gammel. Jeg synes ikke at det er så lenge siden daværende dosent i
+anvendt matematikk Kristian Dysthe kom med ham i kontordøren og spurte
+om jeg hadde en passende hovedfagsoppgave til en flink student.
+Inge hadde da vært noen tid ved Nordisk Institutt for Teoretisk Atomfysik i København som utplassert hovedfagsstudent i teoretisk fysikk. Det
+viste seg at han ikke likte det så godt at han ville fortsette i de baner. Statistikk var da nettopp startet som eget fag i Bergen, og Dysthe mente at det
+gjalt å kanalisere gode studenter dit det var størst behov for dem. På det
+
+tidspunktet studerte jeg prosessen gitt ved X, = max(Xn-1 — Dn, Un) der
+
+X,, skulle representere saltholdigheten i en fjord ved år n, D, dekrementet
+pga tilførselen av ferskvann og U, saltholdigheten i kystvannet utenfor. Dersom saltholdigheten inne i fjorden blir for lav, vil det tyngre vannet utenfor
+renne over den grunne terskelen ved fjordmunningen og presse det lettere
+vannet ut. Geofysikerne hadde en del målinger fra Nordfjord som tydet på
+denne mekanismen. Problemet passet ham godt da det krevde mer dyktighet
+i klassisk matematikk enn en grundig skolering i statistikk. Han var ferdig
+
+cand. real. i desember 1973 med innstilling til Kongen.
+
+Inge ble stipendiat og i 1976 dro han til Berkeley for halvannet år. I denne
+tiden arbeidet han med svak konvergens av stokastiske prosesser til singulære
+diffusjonsprosesser. Disse arbeidene var i første omgang motivert ut fra konvergens av forgreningsprosesser. De var grunnlaget for doktorgardsarbeidet
+hans. I Berkeley hadde han som så flere andre norske besøkende stort utbytte
+av samtaler med Lucien LeCam. Han synes å være en av dem som hadde tid
+til overs for unge interesserte besøkende.
+Inge ble i 1978 ansatt ved Norges Landbrukshøyskole, først som amanuensis og senere som professor. Dette var en tid for omstilling fra matematiske
+problem til problem fra den reelle verden. Dette var ikke lett. Fra den norske
+konferansen på Bø i Telemark i 1983 husker en anvendelser av diffusjonsprosesser på barkebillenes utbredning. Det var nok en viss avstand mellom det
+raffinerte verktøyet han behersket og problemet.
+Inges mest siterte publikasjon er nok “oversiktsartikkelen” Central limit
+theorems for martingales with discrete or continuous time i SJS 1982. Dette
+
+er ikke en rent refererende oversiktsartikkel. Han tar det vanskelige stoffet,
+som den gang bare fantes spredt omkringi artikler, og behandler det på en
+
+29
+
+
+
+enhetlig og god måte. Bevisene som han presenterer er for en stor del egne.
+De er mer elementære og mer naturlige enn de opprinnelige som bygget på
+den franske skoles arbeid om stokastiske prosesser. De bygger på hans egne
+arbeid om konvergens til en brownsk bevegelse.
+I de senere årene har jeg hatt stor glede av å lese Inges og kollegers arbeid om PLS. Jeg synes at artikkelen On the structure of partial least squares regression fra 1988 står som et forbilde på et velskrevet og klargjørende
+arbeid. Jeg hadde tidligere hørt en del fra kjemometrikerne om denne teknikken. Bortsett fra at det var et alternativ til prinsipalkomponentregresjon
+og at det hadde noe med multivariabel analyse å gjøre, var det hele nokså
+tåket for meg. Nevnte arbeid lettet dette sløret.
+I den tiden Inge var redaktør av Tilfeldig Gang falt noen av våre kolleger
+fra, og han benyttet anledningen til å minne oss om de ideelle kravene som
+stilles til oss som statistikere: “Vi skal dekke hele spennet fra den tyngste
+teorien på den ene siden over til den praktiske dataanalysen på den andre,
+med alle sine krav til kompromissvilje og helhetshensyn, med hele spekteret
+av fagfelt som skal tilpasses.” — “Det er langt fra en noen triviell oppgave til
+enhver tid å kunne vurdere på en fornuftig måte statistiske spørsmål samtidig
+fra et akademisk og fra et anvendt siktepunkt”.
+Inge har selv forsøkt å leve opp til disse fordringer. Vi vet at det har krevd
+stor innsats å være med på hele det vide feltet som faget vårt er, men du for
+en belønning det må ha vært å klare det. Skal vi tolke det slik at det har vært
+vel anstrengende å delta på alle kanter og at det er en “aldrende” professors
+
+valg å forlate Ås med alle de praktiske gode problem som genereres der for
+å ofre seg for mer matematiske oppgaver? Det kan jo ikke være ønsket om å
+få lengre reisetid til arbeid.
+
+Etter at Inge flyttet til Ås har vi i Bergen savnet ham. Han var en god
+
+kollega å ha i miljøet. Han tok også del av de trivielle oppgavene på en tid
+da han var universitetsstipendiat og skulle ha vært spart for slikt. Han betød
+mye for det faglige nivået i statistikk her vest i den tiden han var her. Vi
+hadde håpet at det faktum at hans foreldre fremdeles bor i Bergen skulle ha
+medført at vi kunne opprettholde kontakten bedre. Slik er det dessverre ikke
+blitt, og jeg har ikke oversikt over Inges øvrige arbeid. Jeg skjønner imidlertid
+på resultatet av ansettelsen i den “omgjorte amanuensistillingen” i Oslo at
+også de må være av høy kvalitet.
+Jeg vil benytte anledningen til å ønske Inge tillykke med den nye jobben
+og til å gratulere ham så meget med den store dagen i juni.
+Trygve Nilsen
+
+30
+
+
+
+Petter Laake blir 50 år den 14. Juli 1997.
+Petter Laake (heretter kalt Petter) er en samarbeidets og brobyggingens mann. Etter hovedfag
+
+i 1973 arbeidet Petter med utvalgsmetoder og andre metodespørsmåli Statistisk Sentralbyrå
+fram til 1980. Deretter hadde han ansvaret for Statistikk grunnfag ved Det samfunnsvitenskapelige fakultet, Universitetet i Oslo, fram til 1991, med et avbrudd som forskningsveileder
+(NAVF) i medisinsk statistikk i 1989-91. Fra 1992 har Petter vært professor i medisinsk statistikk ved Universitetet i Oslo. På disse tre stedene, Byrået, SV-fakultetet og Det medisinske
+fakultet har det dannet seg stabile nettverk omkring Petter. Nettverk av folk som har dratt
+nytte av hans brede statistiske register, hans entusiasme og hans evne til å disponere sine
+(og andres) krefter slik at prosjekter blir satt i gang der det er behov, og gjennomført med
+
+resultater som er nyttige, både i teori og i praksis.
+
+For egen del har jeg arbeidet tett sammen med Petter fra jeg kom til Sosialøkonomisk institutt
+i 1984. Det har vært en udelt glede. Han moderniserte Statistikk grunnfag ved å trekke
+fram det begrepsmessige og å tone ned det algebraiske regneriet (varianser innen utvalgsteori
+osv). Og han geleidet studentene inn i SPSS og annen nødvendig databehandling. I Petters
+periode var det stabil rekruttering til Statistikk grunnfag, også av ferdige medisinere og andre
+som trengte ” voksenopplæring”. Om det er fordi vi ikke lenger har Petter som entusiastisk
+trekkplaster men nå som delvis konkurrent, eller om det er dårlige konjunkturer for statistikk
+ved SV-fakultetet som gjør at rekrutteringen til Statistikk grunnfag nå er blitt så elendig,
+kan diskuteres. At Petter stadig er en meget etterspurt lærer på videreutdanningskurs i
+statistikk for medisinere peker i retning av den første forklaringen (men utelukker ikke den
+siste). Uansett, både ved SV-fakultetet og nå ved Det medisinske fakultet har Petter trukket
+tunge lass for å styrke utdanningen i anvendt statistikk blant samfunnsvitere og medisinere,
+både i kvantitet og i kvalitet. Og for oss som har hatt gleden av å arbeide sammen med
+Petter, virker det som han har gjort dette med iver og lyst.
+
+Petter liker ”ryddighet”, og han er en utpreget ryddig person selv. Han roter det ikke til,
+verken for seg selv eller for oss andre. Dertil har Petter god greie på penger. Han er, med
+andre ord, den fødte prosjektleder. Og mange prosjekter har det blitt. Siden Petter, som
+sagt, også har et bredt statistisk register å spille på, har det blitt faglig profilerte prosjekter
+somi tillegg til medarbeideres publikasjoner i ymse journaler har resultert i artikler i våre
+beste tidsskrifter. De viktigste områdene Petter har arbeidet vitenskapelig i er:
+
+- Utvalgsundersøkelser. Publikasjoner: Bl.a. i JASA, SJS, Metrika.
+
+- Multivariable statistiske metoder, faktoranalyse, repeterte målinger. Publikasjoner bl.a. i
+Biometrics, SJS, Comp. Stat. Quart., Tidsskrift for samfunnsforskning.
+- Helseøkonomi. Publikasjoner i J. Health Econ., Medical Care.
+- Alkohol/jus. Publikasjoner i Lov og Rett.
+
+- Medisinske prosjekter: Kosthold og kreft, dødelighet blant eldre i Norge, evaluering av mentale i tester i geriatri, kreft blant barn av landbrukere etc. etc. Publikasjoner i epidemiologiske
+tidsskrifter.
+
+Petters tyngste faglige bidrag er doktorarbeidet fra 1988 (Dr.philos): ”Studies of performance
+
+31
+
+
+
+in models with non-linear covariance structure: a non-rubust and a robust approach”, og etterfølgende artikler. Dette arbeidet har brakt Petter i tett kontakt med betydelige statistikere
+
+som K. G. Jøreskog og T.W. Anderson. Anderson kommer regelmessig innom Oslo, ikke minst
+for å samarbeide med Petter (de har et fellesarbeid som kommer i SJS), og Petter besøker
+Anderson i Stanford. Også internasjonalt er altså Petter en brobygger. Disse kontaktene er
+sikkert til glede for Petter, men de er også meget nyttige for oss andre norske statistikere.
+Når Petter nå blir 50 år hyller vi han som en av krumtappene i norsk statistikk. En kunne ha
+ramset opp diverse verv og kommisjoner, både i og utenfor statistikken, og både i og utenfor
+landet. Det vesentlige for lesere av TG er imidlertid at Petter er en dyktig og flittig anvendt
+statistiker og en meget god ambassadør for vårt fag, både innad og utad. Som ambassadører
+flest har også Petter sans for det mer sosiale, noe enkelte heldige lesere av TG vet etter å ha
+vært invitert hjem til Sissel og Petter når det har vært utlendinger på besøk eller når de rett
+og slett har hatt lyst på selskap.
+
+Tore Schweder
+
+Matforsk--sjeffår ens
+er tildelt
+Tormod Næs ved Matforsk
+
+1996 Eastern Analytical Symosium Awardin Chemoingssjef
+
+metrics. Overrekkelsen skjer under et symposium i.
+
+Somerset, New Jerseyi novemberi år,forteller Mat-
+
+forsks informasjonsblad Matnyttig.
+
+.-
+
+' Ås: IHagmnijaet har stor respekt gjesteforsker ved Matforski Ås.
+
+for Nas’ mange bidrag til å utvikde | Nå venter en ærefull reise til New
+fagområdet, Som innebærer bruk Jersey på Næs med følge. Eastern
+av statistiske og matematiske me-
+
+toderinnen kjemi. Forslaget om å
+gi. prisentil Tormod Næs kom
+opprinnelig fra den amerikanske
+forskeren Chuck Miller, tidligere
+
+Analytical Symposium Incorpo-
+
+rated tar seg av kostnadene.
+:
+Men det blir ikke den eneste
+gangen Tormod Næs setter seg
+på flyet til USA i 1997. Allerede i
+
+32
+
+
+
+Norsk Regnesentral (NR) er et ledende IT-institutt innen distribuert multimedia,
+sikkerhet, objektorientering, elektronisk handel, virksomhetsutvikling, bildebehandling og
+
+statistisk-matematisk modellering. Instituttets 90 ansatte arbeider med anvendt forskning på
+
+oppdrag for næringsliv og offentlig sektor i Norge og internasjonalt.
+
+Forskere
+til avdeling for Statistisk Dataanalyse
+
+Vi driver oppdragsforskning innen anvendt statistikk og statistisk modellering. Forskerne i
+avdelingen har utviklende og krevende oppgaver i varierte prosjekter for et bredt spektrum
+av oppdragsgivere. Blant våre viktigste innsatsområder i dag kan nevnes miljø- og
+
+ressursforvaltning samt økonomi og administrasjon.
+
+NR har Norges største og fremste miljø innen matematisk statistikk. Du skal lete lenge for
+å finne mer interessante arbeidsoppgaver noe sted i Norge. Statistikk er et fag i rivende
+utvikling, særlig i møtepunktet mellom teori og anvendelser. Vi søker å bidra til denne
+utviklingen, blant annet ved å finne stadig nye områder i samfunns- og næringsliv der vår
+kompetanse er verdifull. Vil du være med på laget?
+Vi søker utadvendte personer som:
+
+@ har solid bakgrunn innen matematisk statistikk, gjerne med doktorgrad eller
+omfattende erfaring
+
+& har interesse og legning for å utnytte teoretiske kunnskaper i anvendt problemløsning
+
+@ ikke er redde for å ta en utfordring og skape resultater som har verdi for våre
+oppdragsgivere
+
+@ har evne til å kommunisere og samarbeide med oppdragsgivere og kolleger, herunder
+gode fremstillingsevner skriftlig og muntlig
+
+En forskningsbakgrunn innen et annet fagfelt, der bruk av statistiske metoder og
+kompetanse har vært sentral, kan også være relevant.
+
+For mer informasjon kontakt forskningssjef Jon Helgeland eller seniorforsker Gudmund
+Høst.
+
+Skriftlig søknad med vitnemål og attester sendes personalkontoret innen 4. april 1997.
+Kvinner oppfordres til å søke.
+
+Norsk Regnesentral, P.b. 114 Blindern, 0314 Oslo.
+Tlf: 22 85 25 00. Fax: 22 69 76 60. Internett hjemmeside http://www.nr.no/
+Jon.Helgeland@nr.no / Gudmund.Host Onr.no
+
+33
+
+
+
+DEPARTMENTS OF MATHEMATICAL SCIENCES
+UNIVERSITY OF AARHUS
+DENMARK
+
+CHAIR IN MATHEMATICAL STATISTICS
+
+The Department of Theoretical Statistics and Operations Research invites applications for a chair
+in Mathematical Statistics. The position is open from January 1998, or as soon as possible
+thereafter. At present the annual salary amounts to approximately DDK 415,000 (plus pension
+contribution).
+
+The permanent Department staff consists, at present, of one Professor and sixteen Associate
+Professors. In addition there is always a number of junior researchers, post doctoral fellows and
+
+long and short term visitors. The active areas of research include model structures and likelihood
+
+inference, statistical inference for stochastic processes, stochastic geometry and stereology, spatial
+statistics, asymptotic theory, high dimensional probability theory, and applications to problems
+in biologi, geology, physics, and insurance and financial mathematics.
+Candidates should have a strong research record ion mathematical statistics. It is, further,
+desirable that candidates have extensive competence in relevant areas of mathematics, in
+
+particular probability theory, and in applications of statistics. High qualities in academic
+leadership are considered essential.
+
+The professor is expected to conduct teaching at the pre- and post-graduate level.
+Applications should include a curriculum vitae giving evidence on which the evaluation of the
+applicant's scientific and teaching qualifications can be based, a complete list of publications,
+together with five copies of each of the candidate’s 5-10 best publications. Other supportive
+material should also be submitted in five copies; also a description of scientific accomplishments,
+future research plans, participation in research programmes and scientific leadership should be
+enclosed.
+
+The selection
+
+committee may include further material from the list of publications in its
+
+evaluation of the applicant. In that case the applicant is required, upon request, to submit the
+material to the selection committee.
+The selection committee's written evaluation of the applicants will be sent in full to all appiicants.
+
+Applications should be addressed to The Faculty of Science, University of Aarhus, Ny
+Munkegade, Building 520, DK-8000 Aarhus C, and marked 211/5 - 13. The deadline for
+the receipt of all application material is 15 August 1997, at twelve noon.
+
+For further information on salary, research and teaching duties, staff and other facilities, please
+contact: The Department Chairman, Professor S.E. Graversen, Phone +45 8942 3425. E-mail:
+matseg
+@
+mi.aau.dk.
+
+34
+
+
+
+Medlemskap i Norsk Statistisk Forening
+Kontingenten i foreningen er på kr. 150 pr.år for regulære medlemmer og kr. 50 for
+studenter. Korrespondanse om medlemskap og innbetaling av kontingent skal skje
+til foreningens kasserer:
+
+Norsk Statistisk Forening v/Harald Johnsen
+Avd. for klinisk kjemi
+
+Regionssykehuset i Trondheim
+7006 TRONDHEIM
+
+Innbetalinger skal gjøres på foreningens postgirokonto 0802 5 15 10 55. Medlemmer
+som er usikre på når de betalte kontingent sist, vil nederst til høyre på adressedelen
+for Tilfeldig Gang finne angitt hvilket år siste betaling er registrert for. Vær imidlertid oppmerksom på at adressesedlene for bladet ligger noe etter ajourføringen
+
+av medlemsregisteret, slik at nylig foretatte innbetalinger ikke vil vere tatt med her.
+
+Nye medlemmer melder seg til kassereren. Slike medlemmer får automatisk tilsendt
+Tilfeldig Gang, med forbehold om at det tar noe tid før tilføyelser og forandringer
+i medlemsregisteret gjenspeiler seg i adresselistene til bladet. Adresseforandringer
+meldes også til kassereren. Ved utsendelsen av Tilfeldig Gang benyttes det kopier av
+det vanlige medlemsregisteret, så adresseforandringer behøver ikke meldes separat
+til bladet.
+
+Annen korrespondanse med foreningen skal foregå med formannen under denne
+adressen:
+
+Norsk Statistisk Forening v/Arnljot Høyland
+Institutt for matematiske fag
+NTNU
+
+7034 Trondheim
+
+Bidrag til Tilfeldig Gang
+Neste nummer av Tilfeldig Gang vil komme ut i september 1997. Alle slags bidrag til
+bladet er velkomne, enten det gjelder nye temaer av interesse for norske statistikere,
+eller man har kommentarer til innlegg som allerede har stått i bladet. Stoff til neste
+nummer må vere redaktøren i hende senest 1/9-97.
+Adressen til redaksjonen er
+
+Postadresse:
+
+Turid Follestad
+Norsk Regnesentral
+
+Thore Egeland
+Rikshospitalet
+
+Senter for klinisk epidemiologi
+Pilestredet 32
+
+Boks 114, Blindern
+0314 OSLO
+
+0027 OSLO
+
+Telefon:
+Fax:
+
+e-mail:
+
+22867919
+22867662
+
+thoreeQbasalmed.uio.no
+
+35
+
+22852500
+22697660
+
+turid.follestad@nr.no
+
+
+
+
+
+
+
+Retur:
+Tilfeldig Gang v/ Harald Johnsen
+Avdeling for klinisk kjemi
+
+Regionssykehuset i Trondheim
+N-7006 Trondheim
+
+
+

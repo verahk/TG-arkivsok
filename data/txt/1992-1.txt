@@ -1,0 +1,5512 @@
+TILFELDIG GANG
+
+Nr. 1, årgang 9
+Mars 1992
+
+Utgitt av Norsk Statistisk Forening
+
+INNHOLD
+
+Fra redaktøren
+
+Fra formannen i Norsk Statistisk Forening. Trygve Nilsen
+Utdanning
+
+Statistics and probability topics for pre-college students:
+
+The quantitative literacy perspective. James M. Landwehr
+Statistics in the schools: Teaching the teachers. Richard L. Scheaffer
+Faglige innlegg
+Formålsløs inspeksjon? Jostein Lillestøl
+Debatt-innlegg (fra Chance Magazine):
+Monty Hall's probability puzzle. Eduardo Engel and Achilles Venetoulias.
+Bokanmeldelser:
+
+Erik Torgersen: Comparison of Statistical Experiments. Bo Lindqvist
+Harald Martens and Tormod Næss: Multivariate Calibration. Erik Bølviken
+
+Jon H. Knudsen: Innføring i Minitab. Henrik Dahl
+Konferanser
+
+14. Nordiske konferanse i matematisk statistikk. Røros 15.-19. juni 1992.
+
+Program og bindende påmelding.
+Industriell matematikk i 10 år ved NTH: Jubileumskonferanse 17.-21. august 1992
+Kalender for internasjonale møter.
+Meldinger
+
+Scandinavian Journal of Staatistics. Nytt forlag og skjema for abonnenter
+Nytt fra universiteter og høyskoler
+Liste over medlemmer i Norsk Statistisk Forening
+
+Annonse: Amanuensis i statistikk ved Agder distriktshøgskole
+Medlemskap i Norsk Statistisk Forening
+Bidrag til TG
+
+
+
+
+
+Fra redaktøren
+
+Vi er vel alle enige om at det er behov for statistikkundervisning i den videregående
+skolen, spesielt i matematikk i studieretningen for allmenne fag. I dagens informasjonsog teknologisamfunn er det viktig å lære elevene kvantitative ferdigheter. I tillegg vil
+dette styrke rekrutteringen til faget, noe som er viktig i seg selv med samfunnets akselererende behov for statistikere. Som nevnt av Grete U. Fenstad i forrige nummer av
+TG foreligger det nå et forslag om statistikk og sannsynlighet i matematikkfaget. I den
+forbindelsen kan det være av interesse å se hva som skjer i USA. Undervisningsutvalget i
+NSF v/Jostein Lillestøl har tidligere i TG (nr. 4, 1989 og nr. 1, 1990) orientert om statistikkundervisning i den amerikanske skolen. Med støtte fra National Science Foundation
+har The American Statistical Association (ASA), sammen med The National Council of
+Teachers of mathematics, siden 1984 drevet et prosjekt kalt ”Quantitative Literacy Project (QLP)”. Det er blitt utarbeidet undervisnings-materiale og gitt etterutdanningskurs
+for lærere. I dette nummer av TG presenteres to artikler fra foredrag gitt ved årsmøtet
+i ASA i fjor som gir en orientering om dette prosjektet. Det neste skrittet i QLP er
+å integrere statistikkundervisningen i matematikkfaget ved å gjøre matematikken mer
+dataorientert. Dette bør jo også være av interesse for matematikk i den norsk skolen.
+I denne forbindelsen kan det nevnes at i staten Wisconsin er det et krav at alle elever
+i ”high school” skal ha instruksjon i elementær statistikk, og i California gis statistikkundervisning på alle nivå fra ”kindergarten”, dvs. fra 5 års alderen!
+Ellers i dette nummer er det en oppfølging av debatten fra USA når det gjelder valg av
+spillstrategi. Artikkelen er fra Chance og gir en lettfattelig forklaring på hvorfor Marilyn
+vos Savant hadde rett.
+
+Vedlagt til dette TG skal det være en postgiroblankett for innbetaling av medlemskontingent til Norsk Statistisk Forening. Jeg vil oppfordre alle lesere til å sende inn giroen
+nå. Kontingenten er så lav at det ellers er lett å glemme at man ikke har betalt, og denne
+inntekten er viktig for driften av foreningen.
+
+Dette nummeret inkluderer en liste over medlemmer i NSF. Hvis det er interesse for det så
+kan det bli aktuelt å oppdatere denne listen med telefonnummer, arbeidssted og eventuell
+e-mail adresse. Jeg vil gjerne ha reaksjoner på en slik oppdatering. Den enkleste måten
+å oppnå dette på er isåfall at alle medlemmene sender inn denne informasjonen til meg,
+gjerne over e-mail.
+
+Jan F. Bjørnstad
+
+
+
+Fra formannen i Norsk Statistisk Forening
+Norsk Statistisk Forening har for tiden 210 ordinære og 30 student medlemmer. En liste over dem er tatt inn i dette nummer av TG. Vi tror at det kan
+være interessant å se hvor ens fagkolleger befinner seg.
+
+Kontingentinntekten for 1991 var kr 24.000 . Denne skal dekke utsendelse
+av TG med kr. 9.000 (fra 1993 muligens også trykkingen) og bidrag til
+lokalforeningene i Bergen, Oslo og Trondheim. Bidraget har hittil vært kr.
+9.000. Dette gir et disponibelt beløp på kr. 6.000, som skal dekke medlemskapi ISI, mulige underskudd på etterutdanningsseminar og konferanser mm.
+Det er etter min mening for lite. Men siden foreningen ønsker å samle alle
+norske statistikere, bør kontingenten være så lav at ingen velger å stå utenfor på grunn av den. Jeg har derfor liten lyst til å foreslå at kontingenten
+heves. Jeg ser heller at vi alle søker i våre omgivelser etter flere potensielle
+medlemmer, og i fall de finnes, anmoder dem å melde seg inn.
+
+I det forrige nummer uttrykte jeg glede over at arbeidsmarkedet for statistikere fremdeles er godt. Det ser spesielt ut til å gjelde for undervisningsstillinger ved distriktshøgskoler og andre høgskoler dersom vi skal se på antall
+forespørsler som vi får fra slike institusjoner om potensielle søkere til stillinger. I et annet innlegg refererte Grete Fenstad fra forslag til fagplan for
+den videregående skole. Hun fortalte at sannsynlighetsregning og statistikk
+er foreslått tatt inn på de fleste nivåer. Dette er et moment som vil øke
+etterspørselen etter hovedfagsstatistikere som matematikklektorer i skolen.
+Hvordan står det så til med arbeidsmulighetene innefor praktiseringen av
+faget vårt? Er det slik at vi bare utdanner for å kunne utdanne enda flere,
+eller er det også behov for våre kandidater i det praktiske liv?
+I forbindelse med redigeringen av medlemslisten har jeg med interesse
+studert de adresser som de ulike medlemmer gir. De viser en hyggelig spredning på ulike arbeidsgivere. Det som listen ikke sier noe om, er hvorvidt dette
+stort sett skyldes at næringslivet er representert ved kandidater fra NTH,
+mens kandidater fra universitetene holder seg til de offentlige og halvoffentlige
+arbeidsgiverne. I så fall ville det være en uheldig deling av arbeidsmarkedet.
+Jeg har inntrykk av at en stor del av dem som blir ansatt i offentlige still-
+
+inger begynner som konsulenter og forblir det. På noen måter er det nokså
+naturlig at statistikerne er konsulenter siden de representerer et metodefag.
+Men jeg er ikke like sikker på at det er riktig at så mange ender i det
+lønnsjiktet.
+
+Trygve Nilsen
+
+
+
+Det amerikanske " Quantitative Literacy Project" har som formål å styrke statistikk- og matematikk-
+
+undervisingen i skolen , blant annet ved å motivere forskjellige matematikkemner ved bruk av dataanalyse slik
+
+at statistikk blir integrert i matematikkfaget. Vi presenterer her to artikler som beskriver dette prosjektet.
+
+Artiklene blir publiserti " 1991 Proceedings of the American Statistical Association Section on Statistical
+Education" og er her gjengitt med tillatelse av forfatterne. Forklaring på noen av forkortelsene som benyttes:
+ASA : The American Statistical Association . CSE: Center for Statistical Education (under ASA).
+K-12 : Kindergarten til og med high school. NCTM : The National Council of Teachers of Mathematics
+
+STATISTICS AND PROBABILITY TOPICS FOR PRE-COLLEGE STUDENTS:
+THE QUANTITATIVE LITERACY PERSPECTIVE
+James M. Landwehr, AT&T Bell Laboratories
+Murray Hill, NJ 07974
+
+A philosophy of teaching statistics in junior
+
+Abstract
+
+The Quantitative Literacy Project has
+developed and published four curriculum units
+dealing with basic topics in data analysis,
+probability, simulation, and an introduction to
+statistical inference through survey sampling.
+For basic statistics, the approach followed in
+these units uses real data of interest to students
+for
+methods
+graphical
+emphasizes
+and
+interpreting data. Simulation of real events
+
+introduces the basic ideas of probability and
+solves more complicated probability problems.
+A simulation approach is also used to develop
+
+confidence intervals and introduce statistical
+inference. This paper discusses reasons for
+emphasizing these ideas and describes some
+examples that are in the materials.
+
+Philosophy and General Approach
+The goal of the Quantitative Literacy Project
+(QL) is to introduce the most important and upto-date topics in statistics and probability into
+
+the elementary and secondary school curricula.
+We chose to focus on roughly the middle 75% of
+the student population for grades approximately
+7 through 12. Thus, our goal was not to produce
+materials usable only by special groups, such as
+the most advanced students or students needing
+remediation.
+
+Taken together, the four books (references
+[1], [2], [3] and [4]) provide an introduction to
+
+the ideas of statistics and probability that
+students should possess upon their graduation
+
+from high school. The QL books use many
+examples to help teach students how to deal with
+the types of data and questions that they will
+
+‘frequently meet in the media, at work, and as
+
+informed citizens.
+
+The emphasis is not on
+
+watering down advanced mathematical statistics
+
+and probability for younger students, but rather
+on experiencing real examples and hands-on
+applications.
+
+and
+
+senior
+
+high
+
+schools
+
+emerged
+
+through
+
+interaction, mutual education, and negotiation
+
+among the statisticians and mathematics teachers
+on
+
+the
+
+American
+
+Statistical
+
+Association
+
+-
+
+National Council of Teachers of Mathematics
+
+Joint Committee. The four QL books are thus a
+result of a collaboration between statisticians
+
+and teachers, who have agreed on both the
+Statistical concepts that are most important for
+the general public to know and the best ways to
+teach these concepts. This collaboration included
+not only the authors of the four units, but also
+other teachers and statisticians who provided
+valuable insights during the writing and field
+
+testing.
+
+The
+
+principles
+
+that
+
+guided
+
+this
+
+collaboration include the following:
+
+1. There is often more than one way to approach
+
+problems
+
+in
+
+probability
+
+statistics
+
+problem
+
+and
+
+can
+
+probability.
+
+be
+
+solved
+
+A
+
+either
+
+theoretically or by simulation. It is not unusual
+
+for two statisticians to make two different graphs
+to display the same data.
+discussion
+
+and
+
+This means that
+
+evaluation
+
+of
+
+different
+
+approaches can take up a large part of class time.
+
+It also means that the data may suggest more
+than
+
+one
+
+conclusion.
+
+Students
+
+must
+
+be
+
+encouraged to attack problems from different
+angles
+
+and
+
+be
+
+prepared
+
+to
+
+support
+
+their
+
+conclusions.
+
+2. Real data that are interesting and important to
+
+the students should be used in statistics lessons.
+Real data give the study of statistics both its
+legitimacy and its excitement. In addition, real
+data are
+
+invariably
+
+messy.
+
+Values are often
+
+missing and are sometimes faulty. Students, who
+are accustomed to the neatness of the numbers in
+
+much
+
+of
+
+mathematics,
+
+need
+
+experience
+
+in
+
+dealing with nuinbers in the real world.
+
+3.
+
+Traditional
+
+topics
+
+taught
+
+in
+
+introductory
+
+statistics — such as the standard deviation, the
+
+
+
+normal distribution, hypothesis testing, and
+Bayes' Theorem and other probability formulas
+— should be taught after the more basic ideas of
+probability,
+experimental
+analysis,
+data
+simulation, and information about sample
+surveys that are in the four QL books.
+
+4. The emphasis in teaching statistics should be
+on good examples and on building intuition, not
+on showing how to lie with statistics or on
+
+probability paradoxes that destroy a student's
+confidence.
+
+5. Students enjoy and profit from project work,
+experiments, and other activities designed to
+give them practical experience in statistics.
+
+6. Students
+
+should
+
+write
+
+sentences
+
+and
+
+The emphasis should be on interpreting plots
+
+and numerical summaries rather than on the
+technicalities of constructing plots and statistics.
+7. Finally, all statistics and probability taught in
+the schools should be important and useful to
+students in their own right and not serve just as
+
+preparation for college courses.
+
+This emphasis on data analysis first rather
+
+than theoretical probability and __ statistical
+inference results from the following general,
+simplified model of how good statistics is often
+done in practice. Our approach is to teach
+statistics through many examples that follow this
+model. When confronted with a problem, the
+statistician first considers questions about the
+data and the substantive problem. For example,
+how were the data collected, are they the right
+data for questions of interest, how were the
+numbers actually measured, what are the reasons
+for any missing values, and so forth. If the data
+are of good quality and relevant enough to some
+important issues to be worth analyzing, the first
+
+thing to do is to make a variety of simple
+graphical and numerical summaries of the data.
+This begins the iterative process of interpreting
+the plots and possibly asking further questions
+and replotting. Sometimes the results at this
+stage give clear and convincing answers to the
+questions,
+
+so
+
+further
+
+models can be either stochastic or deterministic.
+Finally, statistical inference about the parameters
+
+in one or several models can be useful.
+Our approach emphasizes the first two of
+
+these four stages, namely data questioning and
+data analysis.
+Simple linear models are
+developed for several data examples, but
+statistical models are not introduced to any great
+extent. Statistical inference arises only in the
+fourth book in the context of inference about the
+population
+
+proportion
+
+for
+
+a
+
+dichotomous
+
+population.
+
+paragraphs giving their conclusions. The answer
+to a Statistics problem is generally not a number
+but a paragraph summarizing the interpretation.
+
+important
+
+find an
+
+to try to
+
+needed and it is useful
+
+appropriate model (or models) for the data; the
+
+more
+
+needed.
+not
+is
+analysis
+sophisticated
+Sometimes, however, further analyses are
+
+Why
+
+should
+
+statistics
+
+in
+
+the
+
+schools
+
+be
+
+taught concentrating on the beginning stages of
+
+the full analysis process?
+
+Not only is this
+
+approach easy, fun and wide open to creativity,
+it models the way good scientific and statistical
+work is begun. Someone has a question, so we
+collect some data and see if we can explore some
+possible answers.
+
+Most of what a high school
+
+graduate should know about data collection,
+
+summarization and interpretation can be taught
+through
+
+this
+
+approach,
+
+unencumbered
+
+by
+
+a
+
+plethora of mysterious assumptions. Moreover,
+the process of data analysis is not trivial, it is not
+something that people know how to do innately
+
+or just pick up. It does need to be taught!
+Our approach implies that
+
+some of the
+
+traditional introductory terms and topics do not
+
+arise
+
+naturally,
+
+included in the
+include
+
+the
+
+and
+
+therefore
+
+they
+
+four QL books.
+
+following:
+
+standard
+
+are
+
+not
+
+Examples
+deviation,
+
+normal distribution, least squares fit, t-test, chi-
+
+squared
+
+test,
+
+type
+
+I
+
+and
+
+II
+
+errors,
+
+Bayes
+
+Theorem, and permutation and combinations.
+We have, however, included the more basic
+
+ideas and methods that are related to some of
+these terms, as is illustrated in the following
+paragraph.
+
+Instead of having
+
+students
+
+calculate
+
+the
+
+standard deviation, we emphasize plotting data
+distributions in various ways so as to give a
+visual impression about the variability in the
+
+data. For numerical measures of variability we
+use the range and interquartile range, which the
+students
+
+can
+
+easily
+
+understand
+
+and
+
+explain,
+
+rather than the standard deviation. The normal
+
+
+
+distribution is not included because the technical
+level at which it would be natural to introduce
+the normal distribution is not reached.
+Specifically, the probability material does not
+develop the central limit theorem; moreover,
+formal models of data distributions or residuals
+through which the normal distribution might
+also be introduced, are not used. However,
+
+students get much experience examining and
+comparing data distributions for characteristics
+such as symmetry, length of tails, and possible
+gaps or outliers. Rather than fit a straight line to
+data with the method of least squares, we use a
+method based on medians that can be
+constructed graphically. This method is resistant
+to outliers, so it is often more useful than least
+squares for real data. Neither the formal
+
+terminology
+
+of hypothesis
+
+testing
+
+nor
+
+any
+
+specific test statistic is covered; instead, students
+get experience interpreting and comparing data
+sets mainly through using plots. The ideas of
+confidence intervals are introduced and used
+only in the simplest possible inference problem,
+namely that of learning about the proportion ina
+dichotomous population from a random sample.
+The QL_ probability material emphasizes
+estimating probabilities from real data and
+simulating random events, rather than a more
+formal approach that would make a prion
+
+statements about equally likely outcomes and
+present formulas and counting methods for
+The subject of
+computing probabilities.
+permutations and combinations is treated
+adequately in many school mathematics books,
+
+so we did not attempt to rewrite it in the QL
+materials.
+
+Summary of Content
+Topics that members of the Joint Committee
+judged to be the most important were organized
+into four small books rather than one large text.
+Our strategy was to package the topics in a way
+
+that we hoped would have the most impact in
+the schools, and supplementary materials that
+could be taught within the existing mathematics
+curriculum in a variety of ways seemed like they
+would be used more than material prepared as a
+One semester course. The books can be used
+flexibly with different types of students in grades
+
+7 through 12. The minimum amount of time
+needed to cover any single book is about three
+
+weeks, but much more time. can be spent
+depending on the level of the students and the
+number and size of projects that the teacher
+assigns. Taken together, the four books can be
+used as the basis for a one semester course in
+statistics and probability in grades 10 to 12,
+although most teachers would also bring in some
+additional mathematical probability from a
+traditional text.
+
+The books all follow the same basic style.
+For each topic there is first some brief
+for
+questions
+and
+material
+explanatory
+discussion which the teacher can present to the
+class or have the students read themselves. This
+material is followed by applications (exercises)
+that the students can work individually, in small
+groups, or in the whole class.
+
+The first book in the QL series, Exploring
+Data [1], emphasizes graphical methods and
+serves as an introduction to data analysis. Data
+sets that are included concern topics such as the
+nutrition in fast foods, sales of the most popular
+children's books, safety indices for different
+automobiles, television ratings, baseball home
+run records, SAT scores by state, life expectancy
+values, and many others. Examples were
+selected to be interesting or important to
+students and represent the kinds of issues that
+
+citizens must deal with. The interdisciplinary
+nature of statistics allows illustrations from
+many areas of science and everyday activities.
+The statistical analyses concentrate on
+
+constructing and
+graphical
+
+interpreting certain simple
+
+displays.
+
+This
+
+book
+
+treats
+
+three
+
+single-variable plots: line plots (plotting the data
+on a number line, perhaps identifying different
+observations with different characters); stemand-leaf plots; and box plots. Traditional graphs
+such as bar graphs and pie charts are not
+
+included. Numerical summaries used are the
+median, maximum and minimum, quartiles,
+inter-quartile range, and mean. Scatter plots of
+two variables are interpreted in terms of features
+such as general linear or nonlinear trends,
+outliers, clusters, and gaps. Robust methods that
+
+are based on medians and can be calculated
+graphically are presented for fitting a straight
+
+
+
+line to a scatter plot and for smoothing time
+series plots. Only a few statistical techniques
+
+are introduced; what is important is not the
+
+specific techniques, but how they are used.
+
+The general style of Exploring Data is to
+
+show through examples how good data analysis
+is done. The authors searched for examples with
+interesting features and wrote a series of
+questions for each example that take the student
+through the data analysis, breaking it down into
+specific, small, learnable steps. The goal is that
+students, after working through many such
+examples and answering the questions, will
+develop competence and confidence in their
+ability to analyze new data sets on their own. In
+summary, students learn how to examine plots in
+order to describe the data, how to detect patterns
+in the data and make conjectures about them,
+and how to select the appropriate plots for a
+
+Independent
+
+events
+
+several examples.
+
+are
+
+discussed
+
+through
+
+Tree diagrams are used to
+
+present outcomes of compound events and to
+conditional
+notions of
+basic
+introduce
+probability. Students learn how to find and use
+expected values and when to multiply and add
+Random numbers are also
+probabilities.
+introduced and used in sampling. Several
+examples involve tables of real data, so that
+students gain experience in constructing
+
+probabilities from the appropriate ratios. This
+book differs from most junior or senior high
+
+school introductions to probability in that it
+emphasizes estimation of probabilities from real
+
+data and the use of expected values in decision
+making.
+
+QL book, Exploring Probability [2], does not
+require Exploring Data as a prerequisite and
+either one could be taught first depending on
+local preferences. Both are intended for grades
+
+The Art and Techniques of Simulation [3]
+develops the ideas of empirical probability by
+least
+at
+solve,
+to
+simulation
+using
+probability
+difficult
+more
+approximately,
+problems that could not be solved theoretically
+at this level. Students develop the idea of
+formulating a mathematical, probabilistic model
+that corresponds to a stated real problem. The
+simulations begin with physical devices and
+proceed to using random number tables and the
+computer. The development emphasizes the use
+of an eight-step process (developed from trialand-error with students and teachers) for
+simulating a given problem. The eight steps are
+the following: state the problem clearly; define
+the key components; state the underlying
+assumptions; select a model to generate the
+outcomes for a key component; define and
+conduct a trial; record the observations of
+interest; repeat the previous two steps for at least
+50 trials; summarize the information and draw
+
+about 7 through 10.
+
+conclusions.
+
+given set of data.
+
+Exploring Data is called the first book in the
+QL series to emphasize the point of view that, in
+order to interpret data, you do not need to teach
+probability first. That is, we believe that the
+process of displaying data and interpreting the
+results can be useful even without any formal
+distinction between population and sample, and
+whether or not some random mechanism was
+used to sample the data. The data in many of the
+examples in the book, such as the traffic fatality
+rates in all 50 states, cannot be thought of as a
+population;
+any
+from
+sample
+random
+nevertheless, data analysis is useful. The next
+
+Exploring Probability develops the basic
+concepts of probability from an empirical point
+
+of
+
+view
+
+that
+
+experimentation.
+
+emphasizes
+
+Student
+
+These experiments involve
+
+simple spinners, dice, coins, and cards. Students
+are given enough experience through such work
+to develop intuitive notions of what randomness
+means. They learn the relative frequency
+
+concept of probability, how to estimate
+probabilities from real data, and the relationship
+between estimated and theoretical probability.
+
+Example problems include estimating the
+probability of guessing five or more correct
+answers in a seven question multiple-choice test,
+simulating the spread of an infectious disease,
+
+and studying the time spent in a maze. A major
+
+strength of this unit is that it encourages
+analytical reasoning, since setting up a
+simulation requires a student to analyze
+processes and set up a logical sequence of steps
+to predict possible outcomes. It also provides a
+natural
+
+opportunity for integrating computer
+
+
+
+applications into a mathematics curriculum,
+
+although it does not require the use of
+Simulation
+
+computers.
+
+is
+
+an
+
+important
+
+technique of current applied mathematics that
+
+can be made accessible to students and used to
+solve interesting problems, so it deserves a place
+in the curriculum. This book should follow the
+material in Exploring Probability and is
+
+The approach taken in this book to
+constructing confidence intervals is unlike other
+
+introductory treatments to statistical inference in
+that it relies on simulations from many different
+populations and then a logical argument for
+constructing the confidence interval, rather than
+on algebraic formulas. The statistical ideas are
+also carried over to two related problems, one
+
+intended for grades 8 through 12.
+Exploring Surveys and Information from
+
+involving capture-recapture and the other
+constructing and comparing different estimators
+of the maximum for uniform observations over
+
+underlying sample surveys and gives students
+enough information so that they can make
+informed opinions about the widespread use of
+polls and other surveys. It contains more
+advanced material than the other three QL books
+and is intended for grades 10 through 12. While
+the real-world context is a survey, the
+
+an unknown interval. A valuable practical
+component of this unit involves projects in
+which students design, execute, and analyze a
+survey for some question of interest to them.
+
+unknown population proportion on the basis of a
+random sample. Simulation is used to develop
+the concept of sampling distribution, and there
+are no complicated formulas. By simulating to
+obtain the sampling distribution of the sample
+proportion for several populations with different
+true proportions, and by comparing the sampling
+distributions using box plots, students are able to
+construct a confidence interval for the population
+proportion based on the sample proportion. The
+
+Publications, 1986.
+
+Samples
+
+[4]
+
+teaches
+
+the
+
+statistical
+
+ideas
+
+dichotomous
+a
+is
+context
+mathematical
+population where we want to learn about the
+
+major statistical goal is to enable students to
+understand the fundamental ideas underlying
+
+Practical aspects of
+confidence intervals.
+of bias are also
+sources
+sampling and possible
+discussed through many examples. Thus, this
+book deals with the basics of statistical inference
+in the context of random sampling from the
+simplest type of theoretical population, namely
+one having only two types of members.
+
+References
+
+[1] Landwehr, James M. and Ann E. Watkins,
+Exploring Data, Palo Alto, CA: Dale Seymour
+
+[2] Newman, Clare M., Thomas E. Obremski
+
+and Richard L. Scheaffer, Exploring Probability,
+Palo Alto, CA:
+
+Dale Seymour Publications,
+
+1987.
+
+[3] Gnanadesikan, Mrudulla,
+Richard L.
+Scheaffer and Jim Swift, The Art and
+Techniques of Simulation, Palo Alto, CA: Dale
+Seymour Publications, 1987.
+
+[4] Landwehr, James M., Jim Swift and Ann E.
+Watkins, Exploring Surveys and Information
+
+from Samples, Palo Alto, CA: Dale Seymour
+Publications, 1987.
+
+
+
+STATISTICS IN THE SCHOOLS: TEACHING THE TEACHERS
+Richard L. Scheaffer
+University of Florida
+Gainesville, FL
+
+Key Words: teachers, mathematics education
+BUILDING TIIE DELIVERY SYSTEM
+
+Those who would teach mathematics need
+
+Statistical education in the schools can be
+likened to the task of bringing a new product
+to consumers. The research and development
+phase has largely been accomplished through
+the two NSF grants that produced the
+Quantitative Literacy (QL) materials and
+model workshops and through the work of the
+
+appropriate to the grades they will teach,
+in a style consistent with the way in
+which they are expected to teach. It is
+time that we identify a cadre of
+in
+interests
+special
+with
+teachers
+be
+will
+who
+science
+and
+tics
+mathema
+prepared to teach young children both
+
+the
+that developed
+committees
+NCTM
+EVALUATION
+AND
+CURRICULUM
+STANDARDS. This work has generated an
+awareness that certain statistical concepts can
+
+and should be taught as part of the K-12
+mathematics curriculum; it has, in fact,
+whetted the appetite of many to hastily get on
+with the business of teaching statistics. One
+would do well to remember, however, that a
+new product cannot be brought to market
+without a delivery system. A good delivery
+system must be strong enough to carry the
+product, must have regular opportunities for
+being renewed, refreshed and updated, and
+must be attuned to signposts along the way to
+For the product under
+stay on course.
+education, the
+statistical
+consideration,
+These teachers
+delivery system is teachers.
+must be provided with strong minds and arms
+for carrying the load, opportunities to rest and
+share the load with others, and affirmation
+that the load is being carried in the right
+direction.
+
+CONTENT AND STYLE: TWO ARMS FOR
+CARRYING TIE LOAD
+
+Of the many attempts during the 1980’s
+for change in
+to articulate the need
+of the most
+one
+mathematics education,
+the National
+from
+successful was the report
+EVERYBODY
+entitled
+Research Council
+Commenting on the needs of
+COUNTS.
+teachers, this document states:
+
+to learn contemporary mathematics
+
+mathematics and science in an
+
+integrated, discovery-based environment.
+
+The QL Project has taken it upon itself to
+look at both content issues and style of
+teaching. As stated in the QL WORKSHOP
+MANUAL, the goals of such a workshop are
+twofold:
+
+1.
+
+To teach statistical techniques, and
+
+2.
+
+To provide pedagogical experiences that
+
+will prepare the participants to teach
+these statistical and probabilistic concepts
+accurately and effectively in the
+
+classroom.
+
+Content
+
+The specific content of the QL Project has
+been discussed and reviewed on a number of
+occasions and in numerous documents. At this
+point, it is sufficient to say that the content in
+
+statistics is exploratory, empirical, largely
+graphical, and modern in the sense that it
+parallels the way an applied statistician would
+address a real problem and uses many of the
+Again, the CURRICULUM
+same tools.
+STANDARDS has picked up this theme in its
+statement:
+
+Collecting,
+
+organizing,
+
+describing,
+
+and
+
+interpreting data , as well as making
+
+decisions and predictions on the basis of
+that information are important in a
+
+society
+
+based
+
+on
+
+technology
+
+communication. These processes are
+
+and
+
+
+
+young
+for
+appropriate
+particularly
+solve
+to
+used
+children because they can be
+g,
+interestin
+y
+problems that are inherentl
+
+represent significant applications
+
+of mathematics to practical questions and
+offer rich opportunities for
+mathematical inquiry.
+
+The content theme of data analysis is not
+just in the statistics standard but runs
+throughout many standards, such as those in
+number sense, measurement, algebra, geometry
+and functions. The content in statistics should
+be connected to other content areas of
+
+mathematics
+
+for
+
+and
+
+motivation
+
+enlightenment. To quote the CURRICULUM
+STANDARDS once more:
+
+This standard should not be viewed as
+advocating, or even prescribing, a
+
+statistics course; rather, it describes topics
+that should be integrated with
+mathematics topics and disciplines.
+
+other
+
+Problem solving as a means as well as a
+
+goal of instruction
+
+The use of a variety of instructional
+formats
+
+The use of calculators and computers as
+tools for learning and doing
+mathematics
+
+Effective questioning techniques
+
+Student communication of mathematical
+ideas orally and in writing
+
+The assessment of learning as an integral
+part of instruction
+
+In parallel, these STANDARDSalso call
+
+for decreased attention to:
+
+Teacher and text as exclusive sources of
+knowledge
+
+Rote
+
+Style
+
+memorization
+
+of
+
+facts
+
+and
+
+procedures
+
+As suggested above in content, the style
+of the QL materials and models is one that
+emphasizes problem solving. This approach is
+used throughout the GUIDELINES FOR THE
+TEACHING OF STATISTICS, K-12, recently
+published by ASA’s Center for Statistical
+Education, as each section is developed around
+a five-step model of understanding the
+problem, gathering data, organizing and
+representing data, describing patterns in data,
+and interpreting data in light of the original
+problem-solving
+this
+Within
+problem.
+framework, the QLP also emphasizes hands-on
+work with manipulatives and data, discussion
+and logical argument, cooperative learning, and
+
+student projects (individual and/or group).
+
+The QL emphases are consistent with the
+CURRICULUM STANDARDS in which the
+teacher is viewed as a moderator, facilitator,
+
+the
+than
+rather
+coach
+and
+catalyst
+authoritative director of everything that takes
+place in the classroom. The CURRICULUM
+STANDARDS call for increased attention to:
+The active involvement of students in
+constructing and applying mathematical
+ideas
+
+Extended periods of individual seatwork
+
+practicing routine tasks
+
+Instruction by teacher exposition
+
+Paper-and-pencil manipulative skill work
+
+The relegation of testing to an adjunct
+role with the sole purpose of
+
+assigning grades
+
+These pedagogical issues are expanded
+released
+NCTM's , recently
+iin
+upon
+FOR
+DS
+STANDAR
+PROFESSIONAL
+
+TEACHING
+
+MATIIEMATICS,
+
+which
+
+STATISTICIANS,
+
+AND
+
+preserves the flavor of data analysis throughout
+the curriculum and lists statistics and
+probability as core subjects to which all
+mathematics teachers, K-12, need adequate
+
+exposure.
+
+TEACHERS,
+
+OPPORTUNITIES
+ADMINISTRATORS:
+FOR SHARING TIE LOAD
+Even with a strong content background in
+
+
+
+10
+
+modern statistics and experience with the
+teaching style outlined above, a lone teacher
+may find it impossible to deliver the statistical
+
+education package called for by NCTM and the *
+QLP without.a local support network. Thus,
+the QL model workshop format has built in
+requirements that:
+
+Workshops involve a group of tcachers
+from the same geographic region
+Workshops encourage teachers to deliver
+similar workshops in their home
+region
+
+enlist
+Workshops’
+administrators and
+
+support
+the
+request them
+
+of
+to
+
+component is of major importance to most
+teachers.
+
+COUNTS
+EVERYBODY
+report
+The
+in its
+administrators
+of
+role
+key
+the
+recognized
+administrators
+statement that school-based
+:
+
+should:
+
+attend
+
+an information session on QL
+
+Workshops involve local
+interested in education
+
+support of the local administrator. For this
+reason, administrators must agree in writing to
+support the teacher before that teacher is
+accepted for a QL workshop. In addition, the
+administrator is invited to attend a session of
+the workshop devoted to explaining the
+principles of the QLP and its ties to other
+reforms in mathematics education. One of the
+crilicisins of past QL workshops has been that
+the administrator component was handled too
+informally and emphasized too little; this
+
+Provide opportunities for teachers to work
+statisticians
+
+together
+
+Become
+
+educated
+
+Teachers
+
+mathematics education
+
+It is important that each teacher who is
+attempting to launch out onto the path
+suggested by the QLP and the CURRICULUM
+
+Support innovation
+
+STANDARDS develop a collegial relationship
+
+with a group of like-minded teachers. This not
+only provides moral support for the new
+venture, but also allows the sharing of ideas
+and classroom activities.
+(Finding data
+analysis activities that work well in the
+
+classroom is no small task; this sharing can be
+a real time-saver.) Such a supportive group of
+
+teachers would ideally develop along two
+First, the teachers attending a QL
+tracks.
+workshop should all be within close proximity
+
+Second, each teacher who
+to one another.
+completes a QL workshop should use that
+model to conduct other workshops in his or her
+home school or district. With that approach, a
+sizable cadre of teachers well-versed in
+statistical education could be built up over a
+relatively short period of time.
+Administrators
+
+Confronted with myriad textbooks, state
+guidelines, district goals and standardized tests,
+all of which may affect the teacher’s annual
+evaluation, today’s classroom teacher has little
+room for innovation without the expressed
+
+on
+
+issues
+
+in
+
+Statisticians
+
+Prior to attending a QL workshop, most
+teachers would have had little formal training
+in statistics and virtually no training in the
+techniques that the QLP says should be used in
+It goes almost
+the mathematics classroom.
+summer
+one-week
+a
+without saying that
+
+workshop is not going to supply the teacher
+with everything that teacher will need to know
+to teach statistics throughout his or her career.
+Thus, the support of a network of local
+statisticians is critical to the ongoing teaching
+of statistics within any school or district. The
+mechanism for beginning this network is
+embedded in the QL workshop model, as
+statisticians are invited to attend the workshop
+for a few hours to become acquainted with the
+teachers, to offer suggestions on what is
+happening in the workshop, and to bring to the
+teachers some examples from the ”real” world.
+Another duty that these statisticians often
+perform is that of hosting follow-up sessions as
+
+field trips during the school year. These field
+
+trips give the teachers first-hand experience
+with applications of mathematics and often
+
+lead to other interactions between the school
+
+
+
+11
+
+FOR
+
+problem, collect and analyze data, use simple
+tools, work as a team, learn by doing, convey
+the message clearly) that closely parallels the
+QL approach. SPC teams in many industries
+
+How do we know we are on the right road? A
+partial answer comes from internal checks
+among the teachers and students who have
+
+similar to the one suggested above (in the
+section on Style). To go back to the notion of
+field trips, on such trips it is not uncommon for
+a teacher to notice the similarity between the
+
+community and the business community or the
+college/university community.
+
+AFFIRMATIONS:
+
+SIGNPOSTS
+
+GUIDING TIE LOAD
+
+been part of the QL Project and its
+ramifications. Virtually all of the teachers who
+have participated in a QL workshop think of it
+as a worthwhile experience that extended their
+
+knowledge and gave them something useful to
+take back to the classroom. Typical quotes are
+
+use a problem solving format that is quite
+
+two approaches to using mathematics. Added
+to the positive support of the teachers, the
+industrial success with SPC seems to lead to an
+
+inescapable conclusion about this approach to
+statistics and to mathematics education. IT
+WORKS!
+
+as follows:
+
+EPILOGUE
+
+“The QL materials successfully illustrate
+to students the relevancy of
+mathematics.”
+
+“Interesting, informative, fun!”
+“QL workshops have helped me develop
+as a teacher more than any other
+workshop I’ve attended.”
+
+“Quantitative ‘literacy is a must for an
+informed society.”
+
+“The statisticians were terrific to work
+with. It was good to have the
+opportunity.”
+
+A plan is now in place for developing a
+strong delivery system. Is that the end of the
+road? Hardly! Many of those teachers who
+leave the QL workshops excited about
+something new and different that seems
+meaningful also leave with an important
+question unanswered. ”How can I work this
+material into a curriculum that is already
+Unfortunately, many have
+overcrowded?”
+decided the the answer is ”I can’t.” With this
+question in mind, the CSE has developed a new
+project under the title A DATA-DRIVEN
+SCHOOL
+HIGH
+FOR
+CURRICULUM
+to
+attempt
+will
+that
+MATHEMATICS
+can
+topics
+illustrate how and where statistical
+be placed within the mathematics topics that
+
+STANDARDS is further evidence that, at least
+among mathematics educators, this approach
+
+are emphasized in the STANDARDS. The idea
+is to use data analysis to motivate and
+illustrate the important topics in mathematics
+while, at the same tirne, providing a coherent
+
+But, what about the opinions of those
+outside -the QLP and the mathematics
+education community that it impinges upou?
+One interesting observation is that the
+development of the QLP occurred in rouglily
+the same time frame as the renewed emphasis
+upon statistical process control (SPC) in
+If one examines the outcomes of
+industry.
+
+Since most of the participants at QL
+workshops are secondary teachers, a second
+“Why doesn’t this
+question often arises.
+material begin in the elementary grades?” To
+begin the process of translating some QL ideas
+to the earlier grades, the CSE has also
+entitled
+project
+a
+on
+embarked
+THE
+IN
+Y
+LITERAC
+QUANTITATIVE
+TICS
+MATIIEMA
+ELEMENTARY
+CURRICULUM. The emphasis here will be on
+
+The fact
+embedded in
+
+that the QI. concepts were
+the NCTM CURRICULUM
+
+Similarly, the QL
+seems to be correct.
+approach is in line with the suggestions made
+in EVERYBODY COUNTS.
+
+these independent efforts, one can see that they
+have evolved into rather similar programs.
+a
+developed
+has
+movement
+SPC
+The
+
+philosophy of problem solving (identify the real
+
+picture of elementary statistics.
+
+the enhancement of the skills of the teachers so
+that - they can effectively introduce some
+statistical ideas in mathematics and science.
+
+
+
+12
+
+So, the road is long but the directions
+
+seem clear and
+
+the pool
+
+of supporters is
+
+growing larger. With continued diligence by so
+many, the delivery system will eventually be
+able to deliver a quality product in statistical
+education.
+
+REFERENCES
+
+Curriculum and Evaluation Standards for
+School Mathematics, National Council of
+Teachers of Mathematics, Reston, VA, 1989.
+Everybody Counts, National Research Council,
+Washington, DC, 1989.
+
+Guidelines for the Teaching of Statistics,
+Center for Statistical Education, American
+Statistical Association, Alexandria, VA 1991.
+
+Professional
+
+Standards
+
+for
+
+Teaching
+
+Mathematics, National Council of Teachers of
+Mathematics, Reston, VA, 1991.
+
+Manual,
+Literacy Workshop
+Quantitative
+Center for Statistical Education, American
+Statistical Association, Alexandria, VA, 1991.
+
+
+
+13
+
+Formålsløs inspeksjon?
+Jostein Lillestøl
+
+La oss ta for oss situasjoner der tradisjonell stikkpøveinspeksjon kan
+tenkes brukt, men der prosessforståelse, statistisk innsikt og kvalitetsideologi
+kan få en på andre tanker (idéene stammer i hovedsak fra Shewhart, Deming
+og Mood).
+
+Vi betrakter ensartede objekter (varer, tjenester, registreringer) som går
+fra leverandør til kunde i en prosess, og der det kan være behov for å utøve
+en kontroll- eller inspeksjonsfunksjon. Det kan være
+
+- innkomne vareenheter fra ekstern leverandør
+
+- leverte produksjonsenheter fra et trinn i produksjonsprosess til det
+neste
+
+- utført arbeid i et oppdrag (f.eks. en mengde sveisepunkter)
+- utført arbeid i et tjenesteytende system
+
+- registeringer av aktivitet (innkjøpsordrer, fakturaer etc.)
+Vi kan tenke flere ulike situasjoner:
+
+e objektene kommer som et enkeltstående parti,
+e objektene kommer
+i partier, flere over tid,
+
+e objektene kommer i en kontinuerlig strøm,
+
+e objektene kommer kontinuerlig, men blir av praktiske grunner organisert i partier.
+
+En må i denne sammenheng tenke over om kontrollfunksjonen er rettet mot
+den underliggende prosess, eller bare det foreliggende parti. Dette vil være
+
+bestemmende for hvordan eventuelle beslutningsregler knyttet til kontrolleller inspeksjonsfunksjonen utformes.
+
+
+
+14
+
+La oss tenke oss at kontrollfunksjonen er rettet mot en bestemt type feil
+ved objektene. La oss betrakte inspeksjonsplaner knyttet til partier. Disse
+er av to slag:
+e aksept /forkast planer
+e korrigerende planer
+
+Aksept /forkast planer innebærer at det trekkes en stikkprøve fra partiet,
+
+og hvis det finnes få/mange feil i dette aksepteres /forkastes hele partiet.
+Korrigerende planer innebærer at når mange feil finnes i stikkprøven, uføres
+en helt eller delvis inspeksjon av de øvrige.
+
+Selv om inspeksjonsplaner er
+
+viet stor oppmerksomhet i lærebøker, og omfattende tabeller er tilgjengelig,
+er det ikke tvil om at det foregår mye uvettig bruk.
+Valg av inspeksjonsplan, ja om inspeksjon overhodet bør finne sted, bør
+være basert på kunnskap om den prosessen som genererer partiene. Vi skal
+
+nedenfor se at delvis inspeksjon av partier fra såkalte stabile prosesser har
+lite for seg. Dette har vidtrekkende konsekvenser i diskusjonen av egnede
+kontrollaktiviteter.
+
+Inspeksjon av partier fra stabil prosess
+La oss si vi er interessert i en viss type feil ved enheter som kommer i en
+
+kontinuerlig strøm, men som av ulike grunner blir samlet i partier. Det kan
+dreie seg om alt fra
+
+- innkomne materialer fra fast ekstern eller intern leverandør, til
+
+- registeringer av aktivitet (ordresedler, faktura, bilag etc.)
+Antall enheter i hvert parti kan være fast eller variere tilfeldig fra parti til
+parti, det siste vil f.eks. være aktuelt hvis vi betrakter fakturaer som samles
+på månedsbasis.
+
+Anta at stikkprøver tas fra hvert parti med sikte på aksept eller ikke av
+
+de ukontrollerte for dette partiet. Studer et gitt parti, og la
+N
+
+=
+
+Antall enheter i partiet
+
+M
+
+=
+
+"Antall enheter med feil blant de N
+
+
+
+15
+
+La videre
+
+n
+
+=
+
+Stikkprøvestørrelsen
+
+Y
+
+=
+
+Antall enheter med feil i stikkprøven
+
+X
+
+=
+
+"Antall gjenværende enheter med feil i partiet
+
+La oss anta at prosessen som genererer feil i de innkomne enheter er sta-
+
+bil, dvs. at det er en konstant sannsynlighet p for at den aktuelle feiltype
+forekommer på en enhet, og at forekomst av feil er uavhengig fra enhet til
+enhet. Da kan det vises matematisk at
+X er statistisk uavhengig av Y
+
+dvs. at kunnskap om Y er verdiløs ved prediksjon av X. Dette medfører
+at beslutningsregler av typen aksept /forkast /gjennomgå resten av partiet er
+verdiløse. ! Det er derfor bare i situasjoner der prosessen som genererer feil
+i innkomne enheter er ustabil, at denne type inspeksjon kan ha noe for seg.
+Dette kan skje ved at
+e feilsannsynligheten varierer over tid
+
+e avhengighet i forekomst av feil fra enhet til enhet
+
+e andre forekomster av feil av spesielle årsaker,
+
+dvs. som ikke er del av systemet slik det normalt virker
+
+Likevel er det et spørsmål om kostnadseffektiviteten av slike inspeksjonsplaner.
+
+I daglig drift er ustabile systemer et lite ønskelig utgangspunkt. Blant
+grunnene nevner vi:
+
+- virkemåten er vanskelig forståelig, og ikke predikerbar,
+
+- konsekvensen av endringer i systemet lar seg vanskelig vurdere.
+En vil derfor ha fordel av å studere alle viktige prosesser mht. deres stabilitet, og hvis de er ustabile, forsøke å finne årsakene, og fjerne disse. Dette
+er et sentralt element i kvalitetsledelse (Deming). Merk at hvis en prosess
+blir stabilisert gjennom slikt arbeid, vil en inspeksjonsplan som ga mening
+
+under mer kaotiske forhold, ikke lenger være særlig meningsfylt.
+1Dette betyr ikke at stikkprøven er uten verdi for å anslå feilsannsynligheten.
+Stikkprøven på n enheter fra partiet er i denne forbindelse likeverdig med n enheter
+hentet tilfeldig fra strømmen av enheter.
+
+
+
+16
+
+Hva slags inspeksjon er meningsfylt for partier fra stabil prosess?
+Etter det som er sagt ovenfor finnes det bare to muligheter:
+e ingen inspeksjon
+
+e 100% inspeksjon
+
+Hva som en er best tjent med vil avhenge av de kostnadselementer som
+
+foreligger (kp-regelen).
+
+Inspeksjon av partier fra ustabil prosess
+Dersom det er grunn til å anta at vi har en ustabil prosess, bør vår forståelse
+av ustabiliteten i prosessen bestemme om vi satser på
+e ingen inspeksjon
+
+e 100% inspeksjon
+e delvis inspeksjon
+
+Informasjonen ved eventuell inspeksjon bgr selvsagt umiddelbart utnyttes
+
+i forbedringsarbeid med sikte pa å stabilisere prosessen.
+
+Dette kan ofte
+
+medføre at man samtidig finner muligheter permanent reduksjon av feilhyppigheten, som overflødiggjør videre inspeksjon.
+
+Dersom vi i utgangspunktet ikke vet om prosessen er stabil eller ikke,
+
+bør selvsagt dette bringes på det rene.
+
+Diskusjon
+Noen ganger svarer det seg å ikke foreta inspeksjon av partier i det hele
+tatt, noen ganger svarer det seg å foreta inspeksjon av alle enhetene i
+
+partiet (totalinspeksjon), mens det noen ganger er best å foreta bare en
+stikkpøveinspeksjon.
+
+Det fins omfattende teorier omkring ”optimale” stikkprøveplaner, som
+omfatter utvalgsmetode, bestemmelse av stikkprøvestørrelse og aksepttall,
+
+hvor en holder kostnader med å slippe gjennom enheter med feil eller av
+dårlig kvalitet opp mot inspeksjonskostnadene.
+
+Følgende uformelle betraktning angående stikkprøveomfang kan gjøres:
+1. Utfør ingen inspeksjon dersom inngående kvalitet er stabil og god.
+
+
+
+17
+
+2. Utfør totalinspeksjon dersom inngående kvalitet er stabil men dårlig,
+og kostnadene ved inspeksjon ikke er uakseptable.
+
+3. Utfør delvis inspeksjon dersom inngående kvalitet vanligvis er god
+og ingen inspeksjon synes påkrevet, mens det sporadisk forekommer
+dårlige partier som berettiger totalinspeksjon.
+Nå skal vi være forsiktige med å gi generelle anbefalinger, fordi omstendighetene
+i den konkrete situasjon kan variere. Vi har situasjoner karakterisert ved at
+
+enheter kan ødelegges ved inspeksjon, muligens eller sikkert (f.eks. fyrverkeri som testes ved avfyring). Vi har situasjoner der partier som ikke aksepteres ved vår kontroll returneres til leverandør uten synlig kostnad. Slikt
+er imidlertid lite ønskelig, og leverandørens kostnader blir vel til syvende og
+sist veltet over på kunden.
+
+Begge disse situasjonene, blant mange andre,
+
+innbærer en aktititet som ikke tilfører enhetene verdi. Inspeksjon av dette
+slaget strider derfor mot idéene i moderne kvalitetsfilosofi.
+
+Hensikten med en stikkprøve kan være å redusere hyppigheten av enheter
+med feil eller dårlig kvalitet som føres videre i systemet. Dette kan tenkes å
+oppnås på flere måter:
+- funne feil i stikkprøven rettes og dårlig kvalitet lukes ut,
+
+- stor hyppighet av feil/dårlig kvalitet i stikkprøven kan indikere nødvendighet
+av ytterligere kontroll av resten av partiet.
+
+- stikkprøver gir informasjon som kan brukes til å finne årsaker til feil/dårlig
+kvalitet
+
+- stikkprøver er en nødvendighet for å sikre at leverandør ikke forfaller
+eller utnytter fravær av inspeksjon.
+
+Her er det siste mer et spørsmål om å reagere på den prosess som genererer
+enhetene, og til dette er løpende registreringer i et kontrolldiagram et mer
+
+tjenlig hjelpemiddel. Stikkprøven har dermed ikke et aksept /forkast formål.
+Mange hevder med styrke at delvis inspeksjon har lite for seg.
+”En kan ikke inspisere kvalitet inn i et produkt”
+I situasjoner der partier er sammensatt av enheter fra en stabil prosess, der
+
+feil opptrer tilfeldig i de individuelle enheter, er det som tidligere nevnt teoretiske grunner for at delvis inspeksjon ikke har mye for seg, utover eventuelt
+som et ris bak speilet som kan bidra til at prosessen fortsatt holder seg stabil.
+Gir vi våre studenter tilstrekkelig statistisk innsikt, slik at de ikke gjør
+bruk av og formidler videre i beste fall verdiløse metoder?
+
+
+
+18
+
+Her er en oppfølging av debatten fra USA, presentert i forrige nummer av TG, om valg av
+spillstrategi. Artikkelen er sendt inn av Per Lea og ble først publisert i magasinet
+CHANCE, volume 4, no.2, 1991 . Artikkelen gjengis her med tillatelse fra CHANCE.
+
+What do ”Let's Make a Deal” and
+”Ask Marilyn” have in common?
+A probability problem.
+
+Monty Hall's Probability
+Puzzle
+Eduardo Engel and Achilles Venetoulias
+Introduction
+The game played on the TV show
+"Let's Make a Deal” (with Monty
+Hall) gives rise to the following interesting puzzle. There are three
+curtains, an announcer (Monty)
+and a player. One of the curtains
+
+contains a valuable prize and the
+
+other two are empty; only Monty
+knows where the prize is. Players
+win the prize ifthey guess correctly which curtain contains the
+prize. Initially the player selects a
+curtain. Then, Monty opens an
+
+empty curtain that the player did
+not choose. Having eliminated that
+curtain from contention, Monty offers the player the option to select
+the remaining third curtain as a
+final choice. Then, the player must
+
+decide whether it is an advantage
+to switch curtains or to insist on
+the original guess. At this point,
+
+we suggest. the reader take a
+minute to ponder the problem and
+decide whether switching increases the chances of winning.
+The decision the player faces is
+6
+
+VOL. 4. NO. 2. 1991
+
+a tricky problem in elementary
+probability which has become a
+popular puzzle known as "the
+three curtains puzzle.” It first appears to most people, including
+
+the authors of this article, that the
+player should be indifferent to
+which curtain is selected because
+both of the unopened curtains
+have the same probability of containing the prize. This position of
+indifference apnealsto intnition in
+an apparently compelling manner.
+In Cecil Adams’ words (see his
+"Straight Dope’’ column of
+November 23, 1990):
+If there are three curtains the
+chances of picking the right one
+are one in three. Knock one out of
+contention and the chances of
+either of the remaining curtains
+being the right one are even —
+one in two.
+
+More careful examination of the
+conditional probabilities reveals
+that the indirference argument is
+wrong. The plaver's first guess
+contains the prize with probabilitv
+1/3 whereas the other curtain con-
+
+tains the prize with probability 2/3
+(this fact is proved in the next section). Thus the player is not only
+better off by switching to the third
+curtain but, by doing so, doubles
+the chances of winning the prize.
+The three curtains problem appeared first in a Letter to the Editor
+by Steve Selvin in The American
+
+Statistician in 1975. Recently, the
+problem received wide public attention after Marilvn vos Savant
+posed, and correctly answered, the
+puzzle in her "Ask Marilyn"
+column of September 9, 1990. Two
+more Ask Marilyn columns have
+followed (December 2, 1990 and
+February 17, 1991) in which
+Ph.D.'s from across the country
+claimed that Marilyn was wrong
+and that the indifference position
+was correct. The following excerpts are taken from those
+columns:
+
+I suggest that you obtain and
+May
+refer to a standard textbook in
+
+probability before you try to
+
+answer a question of this kind
+again.
+
+& 1991 Springer-Verlag New York, Inc.
+
+
+
+19
+
+If one curtain is shown to be a
+loser, that information changes
+the probability of either remaining choice to 1/2. As a professional mathematician, I’m very
+
+concerned with the general lack
+of mathematical skills. Please
+
+help by confessing your error.
+
+You are utterly incorrect about
+the game-show question, and I
+hope this controversy will call
+some public attention to the
+serious national crisis in mathematical education.
+
+Prompted by a reader who
+“stumbled upon” the "Ask
+
+Table 1
+
+Prize is
+behind
+
+chooses
+
+openscurtain
+
+' switches
+
+Player
+
+Player
+
+1
+1
+1
+2
+2
+2
+3
+3
+
+1
+2
+3
+1
+2
+3
+1
+2
+
+20r3
+3
+2
+3
+10r3
+1
+2
+1
+
+from 1 to 2 or3
+from 2 to 1
+from 3 to 1
+from 1 to.2
+from 2 to 1 0r3
+from 3 to 2
+from 1 t0 3
+from 2 to 3
+
+No
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+Yes
+
+curtain
+
+Player
+
+curtain
+
+3
+
+3
+
+Monty Hall
+
+1or2
+
+from 3 to 1 or 2
+
+wins
+
+No
+
+Marilyn” column while “‘perverse-
+
+ly flipping” through the Parade
+Magazine section of his Sunday
+newspaper, Cecil Adams took the
+wrong side in his first column on
+this puzzle (see the quotation
+
+above). Two columns followed: In
+the first he corrected his mistake,
+and in the second he dealt with
+letters from readers incredulous of
+seeing him abandon the position
+
+selected. In particular, the probability of getting the prize with that
+curtain is the same as before (1/3).
+
+But now there are only two can-
+
+didate curtains and one of them
+contains the prize with probability
+1/3. Therefore, the other curtain
+
+contains the prize with probability
+1 -1=2. Deciding never to switch
+
+with Marilyn).
+
+curtains is equivalent to not
+having the option to switch; hence
+the odds of winning by not switch-
+
+curtains problem and outlines
+
+ing are one in three.
+
+of indifference (and join sides
+
+This article discusses the three
+
+some interesting variations. First,
+
+we attempt to dispel any doubt
+
+that if the player changes curtains
+the player is twice as likely to win
+the prize by staying with the
+
+original choice. Then we relate the
+problem to a version of the three
+prisoners’ dilemma. Finally, we
+discuss entertaining variants.
+
+Solution
+There are many arguments for
+verifying that switching curtains
+
+offers an advantage. Perhaps the
+
+shortest, though not the most intuitive, argument is the following.
+
+Initially all three curtains are
+
+equally likely to contain the prize
+and the player has a 1/3 chance to
+
+get the prize on the first guess.
+
+Suppose that the player decides to
+stay with the first guess, after the
+announcer opens another curtain.
+Clearly, nothing changes about the
+curtain the player has already
+
+A less elegant, but perhaps more
+convincing solution is to list all the
+possible outcomes of the game
+(this, in fact, is Selvin’s original
+solution) [see Table 1]. Counting
+all outcomes shows that the probability of winning is 6/9=2/3
+
+when the player changes curtains.
+
+The critical element behind the
+solution of the puzzle is that
+Monty knows both which curtain
+contains the prize and which curtain the player has chosen before
+he opens a curtain. He is deprived
+of the opportunity to eliminate the
+
+player’s guess even if that curtain
+is empty. Therefore, Monty’s
+choice does not contribute any-
+
+thing to the probability that the
+player’s curtain contains the prize.
+On the other hand, the fact that,
+having had the opportunity to do
+so, Monty did not open the curtain
+which the player did not choose
+does increase the probability of
+finding the prize behind that curtain. This observation provides a
+
+Three Prisoners’ Dilemma
+A more striking formulation of the
+same problem is one version of the
+well-known three prisoners’ dilemma. There are three prisoners and
+
+one guard. One of the prisoners will
+be executed, and only the guard
+knows who that prisoner is. The night
+before the execution the guard
+brings food to the first prisoner. The
+
+prisoner is anxious about the upcom-
+
+ing execution and asks the guard
+whether he is the unlucky inmate.
+The guard replies that he is not allowed to tell the prisoner if it is he that
+will be executed, but he informs the
+prisoner that the third prisoner will be
+set free. The prisoner is greatly
+
+alarmed by this response because
+he immediately infers that the probof his death has increased
+ability
+from 1/3 to 1/2.
+
+In reality, however, the prisoner
+should not be any more concerned
+than he was before talking to the
+guard. His hasty conclusion is false,
+since he will still be executed with
+probability 1/3. Instead, it is the
+
+second prisoner that will be executed with higher probability. By
+analogy to the game with the curtains, the probability that the second
+prisoner will be executed is now
+
+raised to 2/3. This is the beauty of
+
+the apparent paradox.
+
+CHANCE: NEW DIRECTIONS FOR STATISTICS AND COMPUTING
+
+7
+
+
+
+20
+
+heuristic explanation for why the
+curtain which the player did not
+choose is more likely to contain
+the prize.
+
+Monty Hall himself is credited
+by Selvin with providing the following solution to the puzzle his
+show originated. Monty begins by
+confessing that he is not ‘‘a student
+of statistics problems,” and by
+(wrongly) finding fault in Selvin's
+original argument. He goes on to
+
+add: “Oh, and incidentally, after
+one curtain is seen to be empty,
+
+the player’s chances are no longer
+50/50 but remain what they were
+in the first place, one out of three.
+It just seems to the contestant that
+one curtain having been eliminated,
+the player stands a better chance.
+Not so.” Selvin remarks that it
+could not have been said better!
+
+Monty’s Behavior
+Several assumptions on Monty
+
+Hall’s behavior underlie the
+counterintuitive solution to the
+
+this possibility:
+
+1. If the player picked the right
+curtain, Monty Hall is so impressed that he gives the
+player a million dollars and
+tells the player to go home.
+otherwise he lets the player
+reconsider. In this case
+
+switching is a sure bet.
+2. If the player picked the wrong
+curtain, Monty is so angered
+that he shoots the player and
+the player dies, otherwise the
+show drags on. In this case,
+staying put is a sure bet.
+
+These scenarios indicate that
+
+watching the show many times
+
+column. Suppose an attentive
+
+player’s current choice) at ran-
+
+and do not correspond to the
+
+viewer of the show notes that
+Monty (a) does not give the player
+
+dom.
+
+a chance to switch curtains on
+
+every show, and (b) decides to
+open a certain curtain twice as
+
+choice: In both cases the chances
+of winning are exactly the same.
+
+remaining third of the games
+
+Monty would accidentally open
+the curtain with the prize and the
+game would have to be played
+again.
+
+Another major assumption is
+that there is nothing systematic in
+
+Monty’s behavior which could
+
+help the player decide whether to
+switch curtains or not. If this as-
+
+sumption is dropped, the optimal
+strategy may change substantially.
+The following two scenarios, due
+to Timothy Chow from Princeton
+University, eloquently illustrate
+8
+
+VOL. 4, NO. 2. 1991
+
+that Monty wants to give the contestant a fair chance and decides
+to behave in a simple way. On
+
+gested by Cecil Adams’ second
+
+gument would be correct indeed:
+
+the game would be the same if the
+player switched curtains as if she
+did not. In both cases, the player
+would win one third of the time
+and lose one third of the time. The
+
+player chooses curtain 7 (the game
+begins); Monty discards curtain 3
+and the player switches to curtain
+5 (first round completed); Monty
+discards curtain 1 and the player
+moves to curtain 4 (second round
+completed); Monty discards curtain 7 and the player refuses
+Monty’s offer to switch curtains
+(third round completed); Monty
+opens the curtain with the prize
+(the game ends). Suppose further
+
+example, consider a situation sug-
+
+often when the player initially
+chooses the “right” curtain as does
+not. A player who is aware of these
+observations should remain indif-
+
+The player’s chances of winning
+
+could develop as follows. The
+
+every round, he chooses to open
+one of the available curtains (i.e.,
+those that do not contain the prize
+
+before deciding on an optimal
+strategy may prove useful. As an
+
+three curtains problem. One of
+them is that Monty knows which
+curtain contains the prize. If this
+were not the case, and all the
+remaining assumptions were the
+same as before, the indifference ar-
+
+tunity to switch to one of the
+remaining curtains. Under these
+conditions, a hypothetical game
+
+ferent between switching curtains
+
+and staying with the original
+
+A Game with Many Rounds
+Suppose that, motivated by all the
+attention he has recently received
+from ‘‘students of statistics
+problems,” Monty Hall decides to
+
+become innovative and change the
+
+game as follows. There are 7 cur-
+
+tains (numbered from1 to 7) only
+one of which contains the prize,
+and the game consists of three
+rounds. At the beginning of every
+round, Monty discards one of the
+curtains by opening one from the
+curtains that do not contain the
+prize and that differ from the
+player’s current choice. Then, he
+gives the contestant the oppor-
+
+In this game the decisions the
+plaver must make are considerably
+more complicated than in the
+original game, because the number
+of strategies at the player’s disposal is much larger. The player
+must decide on every round
+whether to switch curtains or not;
+hence the player has access to at
+least 2°=8 possible strategies. In
+
+reality, there are many more additional choices to make. For example, once the player has
+decided to switch, the player must
+decide between moving to a cur-
+
+tain that has not been chosen
+before and moving to a curtain
+chosen on one (or even two) of the
+
+preceding rounds.
+
+Which strategy should the contestant follow? Should the player
+switch on every round or only on
+the first round? Should the player
+
+switch on the first and last rounds?
+And when the player switches curtains, should the player prefer a
+curtain that has not been visited
+before or a curtain that has already
+
+been chosen on a previous round
+(assuming, of course, that such a
+
+curtain is available)? Again, it is
+
+probably worthwhile
+
+for the
+
+
+
+sac
+
+=————
+
+21
+
+Unconditional vs. Conditional Probabilities
+As a generalization intended to
+recreate more faithfully the actual
+conditions on "Let's Make a Deal,”
+
+suppose that the three curtains conceal a fabulous first prize (say a new
+car), a nice second prize (say a
+refrigerator), and a worthless gag
+third prize (say a goat). Suppose that
+Monty, in an effort to entice you, the
+player, to switch away from your
+original door selection, will always
+open the door revealing the
+refrigerator if he can (i.e., if you have
+not already chosen the refrigerator);
+otherwise, he will reveal the goat (he
+would never reveal the car’s loca-
+
+reader to pause at this point and
+try to guess what the player’s best
+strategy might be.
+
+In an informal way, the optimal
+strategy can be derived from the
+intuition we gave for the solution
+to the original puzzle (a formal
+derivation is given in the Engel
+and Venetoulias paper in the Ad-
+
+ditional Reading). When Monty
+
+opens a curtain, he is prevented
+
+from discarding the player’s current curtain and, therefore, is not
+giving out any information on the
+likelihood of finding the prize behind that curtain. By the same
+token, Monty’s choice increases
+the likelihood of finding the prize
+
+behind one of the curtains he
+could, but did not, choose. Thus,
+on any given round. the curtains
+that are most likely to contain the
+prize are those that the player has
+not visited so far. The probability
+of finding the prize behind an
+"unvisited” curtain grows after
+each round, whereas the probability of finding the prize behind
+one of the remaining curtains (i.e.,
+the player’s current choice)
+
+tion). If this is Monty's strategy and
+
+you know. this, then conditional on
+seeing the goat revealed, switching
+doors will of course win the car with
+probability 1 (Monty only does this if
+you initially picked the refrigerator).
+But conditional on seeing the
+refrigerator revealed, switching
+doors will win the car with probability
+only 1/2.
+
+Note however that an argument
+similar to the one of Table 1 shows
+that unconditionally, the strategy of
+always switching doors still wins the
+car 2/3 of the time, as in the original
+problem.
+
+tains do not depend on the strategy
+that the player followed during the
+earlier part of the game. The only
+effect the previous rounds have is
+to prevent Monty from discarding
+certain curtains and this is taken
+into account by all the move-to-a-
+
+new-curtain-on-the-last-round
+strategies. Choosing an unvisited
+curtain on the last round gives the
+contestant the largest probability
+of winning the prize regardless of
+what the player did on all the previous rounds. In other words, any
+strategy that switches to an un-
+
+visited curtain on the last round of
+the game is optimal.
+Clearly, the optimal strategy
+
+depends neither on the actual
+number of curtains nor on the
+
+numher of rounds, as long as there
+are enough curtains in the game.
+
+The probability of winning the
+prize in the general game with n
+curtains and k rounds can be calculated easily from the simplest
+among all optimal strategies. This
+strategy switches curtains only on
+the last round. With this strategy,
+the player always moves to a cur-
+
+tain not visited before, because the
+first, and only, time the player
+switches curtains is on the last
+The game then becomes
+round.
+those
+are
+prize
+the
+likely to contain
+to a game with one
+.
+equivalent
+never
+has
+player
+curtains that the
+Monty discards k
+where
+round
+the
+ore,
+Furtherm
+visited before.
+the player the
+offers
+and
+becurtains
+prize
+the
+finding
+chances of
+one of the
+to
+switch
+to
+curoption
+d
+unvisite
+those
+hind one of
+
+remains unchanged. The last time
+the player has the option to switch
+curtains, the curtains that are more
+
+remaining
+
+n-k-1
+
+curtains.
+
+is
+
+(n-1)/
+
+Counting cases, just as in Table 1,
+shows that the player’s probability
+winning
+
+of
+
+[n(n - k- 1)]. For example, when
+there are 7 curtains and 3 rounds,
+the probability of winning is 2/7,
+
+which is twice as large as the probability of winning when the player
+stays with the initial choice
+throughout the game.
+
+Conclusion
+The surprising conclusion of the
+three curtains problem has made
+it a favorite mathematical puzzle.
+In fact, some prestigious business
+schools (e.g., Harvard, Stanford,
+etc.) use the puzzle to educate their
+MBA students in decision making.
+The problem serves as an example
+of how intuition can be misleading
+in making decisions under uncer-
+
+tainty (for more on this and other
+relevant entertaining problems,
+see Tversky and Gilovich’s article,
+as well as the one by Larkey et al.,
+in the Additional Reading).
+Additional Reading
+
+Adams, C., "The Straight Dope,” syndicated column that appears in
+several weekly magazines; November 23, 1990; December 5, 1990;
+February 22, 1991.
+
+Engel, E., and Venetoulias, A. (1989).
+Let's make a deal!, Technical
+Report TR 66, CCREMS, S!oan
+School of Management, Boston:
+MIT, September.
+
+Larkey, P.D., Smith, R.A., Kadane, J.B.
+(1989). "It's okay to believe in the
+hot hand,” Chance, Fall, 22-30.
+
+Selvin, S. (1975). A problem in probability, in "Letters to the Editor,”
+The American Statistician, 29, 67
+and 134.
+
+Tversky, A., and Gilovich, T. (1989).
+“The cold facts about the ‘hot hand’
+
+in basketball,” Chance, Winter, 16—
+21.
+
+vos Savant, M., "Ask Marilyn,” syndicated column
+
+that appears
+
+in
+
+several weekly magazines; Septem-
+
+ber 9, 1990; December 2, 1990;
+February 17, 1991.
+
+CHANCE: NEW DIRECTIONS FOR STATISTICS AND COMPUTING
+
+9
+
+
+
+22
+
+Erik Torgersen:
+
+Comparison of Statistical Experiments
+Encyclopedia of Mathematics and its Applications
+Cambridge University Press, 1991
+
+Denne boken omhandler den matematiske teori for sammenligning av statistiske eksperimenter, slik den har utviklet seg fra de grunnleggende arbeider av David Blackwell, Charles
+Stein og andre rundt 1950, via gjennombruddet med LeCam’s defisiensbegrep i 60-årene
+
+og ikke minst gjennom forfatterens egen forskningsvirksomhet de siste 20-25 år. Jeg vil
+starte min anmeldelse med en hjertelig gratulasjon til forfatteren ved utgivelsen av dette
+
+omfattende verket.
+Teorien for sammenligning av eksperimenter kom i kjølvannet av Abraham Wald’s
+berømte arbeider om statistiske desisjons-funksjoner.
+
+For lettere å kunne forklare hva
+
+kjernen i teorien er, vil jeg derfor først gå gjennom noen av grunnbegrepene fra desisjonsteorien.
+
+Et statistisk eksperiment beståri at et tilfeldig utfall X (som i praksis ofte er en vektor
+av reelle tilfeldige variable) observeres, der sannsynlighetsfordelingen for X avhenger av
+en ukjent parameter 0.
+
+Problemstillingen i den statistiske desisjonsteorien går ut på at
+
+det skal velges en beslutning d fra en på forhånd gitt mengde D av mulige beslutninger.
+
+Graden av “korrekthet” for beslutning d antas å være spesifisert ved en såkalt tapsfunksjon
+L(0,d), som angir beslutningstakerens “tap” ved å treffe beslutning d nar Ø er den virkelige
+verdi av den ukjente parameter. Informasjonen i X skal nå benyttes i valg av beslutning
+
+d.
+
+Dette gjøres i form av en beslutningsregel, som for hver mulig realisasjon av X sier
+
+hvilken beslutning d(X) som skal velges. Godheten av beslutningsregelen d(-) måles ved
+
+risikofunksjonen
+
+R(0, d(-)) = EgL(0, d(X))
+som angir det forventede tap vi påføres ved å bruke regelen d(-) når Ø er verdien på den
+ukjente parameter.
+
+La nå & betegne eksperimentet som består i observere det tilfeldige utfall X, og la F
+betegne et annet eksperiment som består i observere et tilfeldig utfall Y, der sannsynlighetsfordelingen for Y avhenger av den samme ukjente parameteren 0 som bestemmer fordelingen for X. Anta at vi bare kan observere ett av eksperimentene € og F. Hvilket av
+
+dem gir mest informasjon om 6?
+Den klassiske definisjon i teorien for sammenligning av eksperimenter sier at € er minst
+
+like informativ som F hvis for ethvert beslutningsproblem (gitt ved en mengde D av mulige
+beslutninger og en tapsfunksjon L(0,d)) og enhver beslutningsregel dø(-) basert på Y, det
+
+fins en beslutningsregel de(-) basert på X som er minst like god som dr(-) i den forstand
+at
+
+R(9, de(-)) < R(8,dr(-)) for alle 6
+
+(1)
+
+
+
+23
+
+Det viser seg imidlertid snart at ordningen minst like informativ mellom eksperimenter
+bare unntaksvis vil være oppfylt dersom man prøver å sammenligne to eksperimenter. Det
+var derfor et viktig gjennombrudd for feltet da Lucien LeCam rundt 1960 vendte seg til
+det mer generelle problemet å kvantifisere informasjonstapet om å ved å basere seg på €
+istedenfor på F. Han gjorde dette ved å innføre den såkalte defisiensen for
+med hensyn
+pa F, betegnet 6(€, F).
+
+Definisjonen av defisiens springer naturlig ut fra (1), og går essensielt ut på at 6(E,7F)
+defineres som det minste tall € > 0 som medfører at ulikheten (1) kan oppfylles for alle
+6 og alle beslutningsproblemer, dersom € legges til på høyre side. Det forutsettes da at
+|L(Ø, d)| < 1 for alle 0 og d, men merk at alle begrensende tapsfunksjoner L kan skaleres
+slik at dette er tilfelle. Jo mindre € som skal til, jo mindre er informasjonstapet ved å
+observere € istedenfor F. Hvis € er mer informativ enn Ff, er 6(€,F) =0.
+Det interessante er at ekvivalente definisjoner av 6(€, F) kan uttrykkes alternativt ved
+maksimum risiko, ved ytelsesfunksjoner for desisjonsregler, ved Bayes risikoer, eller ved
+randomiseringer. Dette ble påvist av LeCam, og han generaliserte dermed tilsvarende
+resultater for det klassiske “mer informativ”-begrepet. LeCam’s defisiensbegrep danner
+kjernen i denne boken.
+
+Første del av boken gir en introduksjon til statistiske eksperimenter og konveksitetsteori.
+
+Deretter følger kapitler om spill-teori, desisjonsteori og vektor latticer. Det siste
+
+emnet spiller en meget stor rolle for representasjon av statistiske eksperimenter. Det viser
+seg nemlig at bruk av standard målteori ofte fører til unødvendige problemer av ren teknisk
+natur, og at disse unngås ved å arbeide innenfor en funksjonal-analytisk ramme ved bruk
+
+av teori for vektor latticer. Denne nye måte å representere eksperimenter på synes etter
+hvert å få en viss utbredelse, og framstillingen i boken vil her være nyttig også utenfor
+feltet sammenligning av eksperimenter.
+
+Boken går så over til å studere defisiensbegrepet og dets sammenheng med andre begreper som suffisiens, randomisering, avstandsmål, ordninger, ekvivalensbegreper, kompletthet og konvergens. De tre siste kapitlene er viet til ulike anvendelser av teorien. Her
+studeres bl.a. lineærnormale modeller og lokal sammenligning av eksperimenter. Det vises
+
+også hvordan teorien for sammenligning av eksperimenter kan ses på som en generalisering
+av teorien for majorisering og Schur-konveksitet. Mens mye av motivasjonen for LeCam’s
+
+arbeider på feltet har vært knyttet til asymptotisk statistisk teori, er slike anvendelsene
+imidlertid ikke spesielt berørt i denne boken.
+
+Som det framgår av omtalen ovenfor, vil boken først og fremst rette seg mot teoretisk
+orienterte statistikere, og eventuelt matematikere med interesse for statistikk. I tillegg til
+at den gir en tilnærmet komplett framstilling av teorien for sammenligning av eksperi-
+
+menter, utgjør den en meget verdifull kilde for alle som arbeider med matematisk teori for
+statistiske eksperimenter og statistisk desisjonsteori. Det er gjennom hele boken lagt vekt
+på motivasjon av begreper og resultater, noe som selvsagt er svært viktig i en såvidt abstrakt framstilling som dette. Nødvendige forkunnskaper for å kunne ha utbytte av boken
+er et visst grunnlag i målteori og funksjonalanalyse.
+Bo Lindqvist
+
+
+
+24
+
+Multivariate Calibration.
+Harald Martens and Tormod Næss.
+Wiley
+
+Anmeldt av Erik Bølviken.
+Kalibrering dreier seg om å estimere indirekte målte størrelser. Anta X er en eller flere
+målinger av en ukjent størrelse Y. Boken handler om hvorledes en prediktor Y = f(X)
+kan bestemmes empirisk fra treningsdata der samsvarende verdier av Y og X foreligger fra
+et representativt utvalg. Problemet betraktes ut fra behovene i kjemi, med spesiell vekt
+på spektroskopiske data. Det har (i følge forordet) vært en målsetting å bygge bro med
+mellom praktisk kalibrering i kjemi /ingeniør-fag og statistisk teori. “A combination of the
+chemist’s and statistician’s point of view is presented.” (side 34).
+Forfatterne er utvilsomt godt kvalifisert til å skrive en slik bok. Dr. Tech. Harald Martens,
+sivilingeniør fra Norges Tekniske Høgskole og Dr. Scient Tormod Næss, utdannet statistiker ved Universitetet i Oslo har begge lang erfaring i praktisk arbeid med kjemiske og
+spektroskopiske data og har offentliggjort en rekke arbeider innen såkalt kjemometri. De
+har derfor bakgrunn til å bedømme hvilke typer statistiske teknikker dette fagområdet har
+nytte av, og deres vurderinger har krav på interesse, også blant statistikere alment. Deres
+hovedemne (kalibrering) innebærer, som nevnt, at prediksjon er det sentrale poeng. Det
+legges vekt på empirisk modell validering og på metodikk som tåler enkeltstående, sterkt
+avvikende observasjoner (“outliers”). Derimot er hypotesetesting stort sett fraværende.
+Det er ikke vanskelig å følge forfatterne i det. Jeg synes også de har atskillig å fare med
+når de (side 33) hevder at
+
+“Statisticians, on the other hand, have very good formal handle on
+distributions and have valuable methods to assess uncertainties. But
+since they usually do not have a personal relationship to the samples
+and the instrumentation, they can become prisoners of the given data
+or locked into some type of standard statstical model. Å danger in some
+statistical traditions is to focus to much on an elaborate mathematical model
+description of the problem instead of driving for goal-oriented results.”
+
+Dette er en type advarsel “praktikere” fremmer fra tid til annen.
+mening klar adresse til visse fagtradisjoner i statistikk.
+
+Den har etter min
+
+Boken er altså rettet mot praktisk, empirisk modellkonstruksjon, skrevet i den ånd sitatet
+ovenfor tilsier og den har interesse og verdi utover sitt direkte anvendelsesområde. Det
+tradisjonelle statistiske begrepsapparatet innføres, men uten strenge modellforutsetninger
+(som normalfordelinger) og uten usikkerhetsevalueringer som bygger på disse. Fremstillin-
+
+gen begrenser seg hovedsaklig til lineære og bilineære prediksjonsmetoder. Behandlingen
+av lineære metoder er standard (og kan leses mange andre steder), selv om noe stoff er spesifikt knyttet til kalibrering (f.eks. diskusjonen om invers” kontra “klassisk” kalibrering).
+
+
+
+25
+
+Forfatternes hovedhensikt er imidlertid å introdusere bilineære teknikker. Selv om mye av
+fremstillingen er algoritmisk (se nedenfor), gis det en motivering ut fra en latent variabel
+
+modell. Det postuleres at det finnes (et lite) antall latente (ikke-observerbare) faktorer
+Tr forbundet med både respons Y (som godt kan være vektoriell) og forklarTi, Taj...
+
+ingsvariable X. Det antas lineære relasjoner av formen
+k
+
+i=1
+k
+
+¥
+t=1
+
+der P; og Qi; er såkalte loading-vektorer, like lange som X og Y henholdsvis, og E og F
+tilfeldige avvik. Dette gir en prediksjonsmetode ved at T;,72,..., Tr kan bestemmes fra X
+
+og deretter settes inn i ligningen for Y.
+
+Modellen er en vanlig faktoranalysemodell med et klart slektskap til teknikker som prinsipal komponentanalyse og kanonisk korrelasjonsanalyse. Den kunne ha veert identifisert ved
+en av teknikkene utviklet i faktoranalyse, men forfatterne bruker isteden den sakalte “par-
+
+tial least squares” (PLS) algoritme, som estimerer loading-vektorene parvis, først (P;, Q1),
+deretter (P2,Q2) osv. En av grunnene til denne fremgangsmåten er særegenheter ved spektroskopiske data, som ofte består av mange ekstremt høyt korrelerte målinger. Det er ikke
+uvanlig i disse anvendelsene at antall variable er større enn antall enheter, og det trengs
+teknikker som håndterer dette. Jeg må tro forfatterne mener PLS er velegnet.
+
+Bokens viktigste bidrag er at den utvikler PLS-metodikken til en praktisk brukbar statistisk
+teknologi, implementert i komersielt tilgjengelig programvare (UNSCRAMBLER). Den er
+skrevet ut fra et markert fagsyn, som gjennomsyrer fremstilingen, men uten å gli over i
+overivrig misjonering. Likevel er det knapt til å unngå at man har motforestillinger mot
+noen av de mange prinsipielle synspunktene. Ett av dem er forholdet mellom *hard”
+og "bløt” (="soft") modellering. Mens lineær regresjon henføres til de “harde” metoder
+(“which in their very structure and pretension lock the mind into possibly inadequate explanations” , side 60), klassifiseres bilineære teknikker til de "bløte” (“pragmatic models
+that leave the mental inference to the subsequent graphical inspection phase”, også side
+
+60). Dette er overdrevet. Riktignok tilpasser bilineære metoder seg bedre til dataene (på
+godt og ondt), men “hard” og “blgt” har antakelig like mye å gjøre med holdninger (hos
+personer) som med egenskaper til lineære/bilineære metoder per se. Er forfatternes vurdering her påvirket av at lineær regresjon ofte har vært fremstilt i en drakt av gaussiske
+antakelser?
+
+Jeg er heller ikke overbevist om at det nødvendigvis er mest naturlig å betrakte prediksjon
+ut fra en latent variabel modell. På den annen side leverer Martens og Næss et generelt
+begrepsapparat med bred anvendelse, og deres PLS-fremstilling bør ha interesse for statistikere alment, ikke minst som innlegg i en metodisk debatt. Dessuten inneholder boken
+
+
+
+26
+
+avstikkere til en lang rekke moderne ideer som bootstrapping, ikke-parametrisk regresjon,
+trestrukturmetoder osv. Den pedagogiske side er bra, skjønt gjør ikke alle de halv-filosofiske
+betraktningene (verdifulle i seg selv) boken vanskeligere tilgjengelig enn den kunne ha vært
+for folk med liten bakgrunn i statistisk metode (en av målgruppene)? Det virker ganske
+
+barskt å gi seg i kast med den uten forkunnskaper, selv om den i prinsippet står på egne
+ben (med et avsnitt om lineær algebra inkludert). Men kanskje jeg undervurderer våre
+kjemometriske venner?
+
+Referanselisten virker grundig og indeksregisteret er utmerket (jeg hadde mye nytte av
+sistnevnte da jeg skrev denne anmeldelsen). Det gjenstår å gratulere Martens og Næss
+med et vel gjennomført arbeid.
+
+Jon H. Knudsen: INNFØRING I MINITAB. Universitetsforlaget, 1990.
+ISBN 82-00-02648-5. 87 sider. Kr. 109,-.
+
+Det
+
+kan diskuteres
+
+innføring
+
+S.
+
+H.
+
+i
+
+Searle advarer i
+
+Packages:
+
+om det
+
+statistikk på
+
+er vel
+
+betenkt
+
+programvare av
+
+sin artikkel:
+
+Some Words of Caution?"
+
+å basere en
+
+typen MINITAB.
+
+"Statistical Computing
+
+i nr.4 The American
+
+Statistician 1989 mot å bruke datapakker i innføringskurs i
+statistikk. "I think that learning what and when is initially
+more important.
+The how can be learnes when needed.
+If
+learned early on, at the expense of statistics itself, the
+student can easily spend more time on computing than on
+
+statistics,
+
+and so be deficient
+
+in some important
+
+statistical
+
+topics."
+
+Boken til Jon H. Knudsen er, så vidt jeg vet, den første
+norskspråklig innføring i statistikk som baserer seg på
+MINITAB.
+
+Framstillingen er gitt
+
+i
+
+en noe sleivete stil:
+
+"Resultater av beskrivende mål kan danne input til
+
+formulering
+
+av statistiske hypoteser.
+Beregning av konfidensintervaller,
+testfunksjoner og deres p-verdier gjør det mulig å bekrefte
+eller
+
+avkrefte disse hypotesene."
+
+(8.30)
+
+"Vi kan ikke regne med samme presisjon i svaret fra en
+simuleringsundersøkelse som i en teoretisk undersøkelse.
+På
+den annen side, et svar finner vi alltid, og det er da noe."
+(8533)
+
+På s.39 har vi en svært
+tall
+
+generatorer.
+
+forenklet beskrivelse av tilfeldig-
+
+
+
+27
+
+På s.42 gir Jon H. Knudsen Gauss æren for først å ha
+formulert minste kvadraters metode.
+Det er mulig at Gauss
+kjente til teknikken først, men det er i alle fall Legendre
+
+som først publiserte metoden i 1805.
+Se Stigler:
+The History
+of Statistics.
+The Measurement of Uncertainty before 1900.
+Harvard University
+
+Press
+
+1986.
+
+Hvis en oppfatter boken som en innføring i
+
+en bli
+
+noe bekymret over visse
+
+formuleringer:
+
+statistikk,
+
+En estimator er "en ligning hvis løsning er et estimat"
+Kommentar til
+
+kan
+
+(s.43)
+
+antakelsen om uavhengighet:
+
+"Om du synes at det er pedanteri å presentere en slik uttalt
+forutsetning, kan jeg være enig i det, dersom du leser dette
+kursorisk og overflatisk.
+For de av leserne som vil se
+statistisk teori i bruk, er det imidlertid nødvendig med et
+noe høyere presisjonsnivå."
+
+(8.69)
+
+En interessant side ved boken er at
+
+den viser hvordan
+
+makroer i MINITAB kan brukes til å tilpasse de tilgjengelige
+prosedyrene til en konkret problemstilling.
+Et interessant
+eksempel
+
+er Ranoo Hvebergs W-metode
+
+(s.
+
+65
+
+-
+
+76).
+
+Dette
+
+er en
+
+generalisering av tegn-testen og gir en fordelingsfri metode
+til
+
+å
+
+sammenligne n datasett hver med like mange
+
+observasjoner.
+Dessverre har forfatteren glemt å gi
+henvisning, slik at det kan gis inntrykk at selve metoden er
+hans
+
+ide’.
+
+Som en oppsummering synes jeg ikke boka til Jon. H. Knudsen
+gir noe overbevisende argument for at innføring i statistikk
+bør gis i form kjøring av en datapakke.
+Dette betyr ikke at
+det ikke kan være behov for norskspråklig materiell om
+
+MINITAB,
+
+men jeg tror ikke at dette overflødiggjør en mer
+
+teoretisk innføring i begrepsapparatet i sannsynlighetsregning
+
+og
+
+statistikk.
+
+Henrik Dahl
+
+
+
+28
+
+14.NORDISKE KONFERANSE I MATEMATISK STATISTIKK
+
+Norsk statistisk forening har den glede 4 invitere til den 14. nordiske konferanse i matematisk statistikk
+som blir holdt på
+
+Hotel Røros i Sør-Trøndelag
+i tiden 15.-19. juni 1992
+
+Røros er en gammel kobbergruveby med historie tilbake til 1644. Stedet har en spennende
+
+trehusbebyggelse som er så enestående at den er plassert på samme liste over bevaringsverdige byggverk
+som pyramidene i Egypt.
+
+PROGRAM
+
+Programmet er bygd opp etter samme retningslinjer som tidligere konferanser. Det består av fire inviterte
+hovedforedrag med diskusjoner og 9 gruppeemner. Gruppeemnene er fordelt på tre sesjoner, se vedlagte
+
+timeplan.
+
+INVITERTE HOVEDFOREDRAG
+
+Erik Bølviken og Dag Tjøstheim, Norge:
+
+Non-linear Time Series, Regime Models and Related
+
+Hermann Thörisson, Island:
+
+Coupling Methods in Probability Theory
+
+Lene Theil Skovgaard, Danmark:
+
+Repeated Measurements Designs
+
+ine Models in Statistics
+
+Grace Wahba, Wisconsin, USA:
+
+’ GRUPPESESJONER
+
+1.
+
+Principles of Statistical Inference
+
+Organisator: Jan Bjørnstad, Norge (Trondheim)
+
+2
+
+Computational Statistics and Graphics
+
+Organisator: Knut Conradsen, Danmark (Lyngby)
+
+3.
+
+Reliability
+
+Organisator: Bengt Klefsjø, Sverige (Luleå)
+
+4.
+
+Biostatistics
+
+Organisator: Odd Aalen, Norge (Oslo)
+
+5.
+
+Spatial Statistics
+
+Organisator: Aila Sårkkå, Finland (Jyvaskyla)
+
+6.
+
+Teaching Statistics
+
+7.
+
+Statistics of Stochastic Processes
+
+Organisator: Michael Sørensen, Danmark (Aarhus)
+
+8.
+
+Latent Models in Social Statistics
+
+Organisator: Ib Thomsen, Norge (Oslo)
+
+9.
+
+Linear Models: Theory and Applications
+
+Organisator: Sture Holm, Sverige(Gøteborg)
+
+and Marked Point Processes
+
+'
+
+Organisator: Hans Stenlund, Sverige (Umeå)
+
+Gruppesesjonene består av flere kortere bidrag, se forøvrig den vedlagte timeplanen som viser hvilke
+gruppesesjoner som går parallelt. De deltakere som
+
+|
+
+ønsker å anmelde bidrag tar direkte kontakt med organisatorene, se vedlagte adresseliste.
+
+
+
+29
+
+ADKOMST
+
+Til Røros kan en komme med bil, jernbane eller fly. Følgende reisemuligheter finnes fra Oslo med tog
+
+og jembane for dem som ønsker å ankomme Røros mandag 15.juni:
+
+Tog: Avgang(Oslo) kl 10.00
+Fly: Avgang(Oslo) kl 12.40
+
+Ankomst(R¢ros) kl 15.45
+Ankomst(Røros) kl 13.25
+
+For reisemuligheter fra andre stederi Norge henvises til rutetabeller for tog og fly.
+
+For dem som ønsker å bruke bil kan vi opplyse at kjøretiden er omlag 5 timer fra Oslo og 2 timer fra
+Trondheim.
+
+For dem som skal reise fra Røros fredag 19.juni gjelder følgende tider:
+Tog: Avgang(Røros) kl 12.06
+
+Fly: Avgang(Røros) kl 13.40
+
+Ankomst(Oslo) kl 17.46
+
+Ankomst(Oslo) kl 15.20, via Trondheim
+
+UTFLUKTER
+
+Det vil bli arrangert omvisning i Røros og tur til en av gruvene, se vedlagte timeplan.
+KOSTNADER
+
+Konferanseavgiften er satt til Nkr 1100 og dekker konferansematcriell, utflukter og festmiddag.
+For de som ikke ønsker å delta på festmiddagen er konferanseavgiften Nkr 850.
+
+Konferanscavgiften betales til postgirokonto 0825 0411678 innen 15. mat på vedlagte postgiroblankett.
+Hotellprisen er Nkr 850 pr person på enkeltrom pr døgn og Nkr 630 pr person på dobbeltrom pr døgn.
+Ledsagende barn betaler Nkr 255 pr døgn.
+
+Studentpris er Nkr 455 pr person i 4-sengsrom pr døgn.
+
+Prisenc dekker frokost, lunsj og vanlig middag på hotellet. For de som deltar på festmiddagen er det et
+fratrekk på Nkr 165 på pensjonsprisen en dag.
+
+De som ønsker annen innkvartering må betale ordinære priser for måltidene.
+Det er campingplass på Røros.
+SVARBLANKETT
+
+Svarblanketten retumeres innen 30. april til
+Leiv Sotzeim
+
+Seksjon for Metoder og Standarder
+Statistisk sentralbyrå
+
+Postboks 8131
+
+N-0035 OSLO
+NORGE .
+
+
+
+30
+
+ORGANISASJONSKOMITE
+
+Leiv Solheim, Statistisk scntralbyrå, Oslo, leder,
+Thore Egeland, Norsk Regnesentral, Oslo
+
+Tormod Næs, MATFORSK, Ås
+
+John Sølve Tyssedal, Norges Tekniske Høgskole, Trondheim
+
+PROGRAMKOMITE
+Jostein Lillestøl, Norges Handelshøyskole, Bergen, leder
+Nils Lid Hjort, Universitetet i Oslo
+
+Emil Spjøtvoll, Norges Tekniske Høgskole, Trondheim
+Ib Thomsen, Statistisk sentralbyrå, Oslo
+
+SPØRSMÅL
+Spørsmål om konferansen kan rettes til:
+Tormod Næs
+MATFORSK
+Osloveien 1
+
+1420 ÅS NORGE
+
+TIE 09 970165
+
+Fax: 09 970333
+
+SVARBLANKETT
+Retumeres innen 30.april til
+
+Lat Sotbein
+Seksjon for Mecoder og Sundarder
+Smistisk semralbyrå
+Postboks 2131
+H-0083 OSLO NORGE
+
+Jeg sender en bindende påmelding til den 14. Nordiske Konferanse i Matematisk Statistikk på Røros
+15.-19. juni 1992.
+
+Fomavn:
+
+Etternavn:
+Adresse:
+
+Sted:
+
+Postnummer:
+
+Fax:
+
+Tlf:
+
+Land:
+Student(Ja/Nei):
+
+Jeg ønsker å delta i gruppesesjonene nr:
+Eventuelle ledsag
+
+(marker barn spesielt)
+
+Jeg ønsker
+a) enkeltrom:
+
+b) dobbelrom:
+
+c) 4-scengsrom:
+
+__kun for studenter
+måltider på hotellet:
+
+d) bo utenfor hotellet:
+Ankomstti
+
+Kt:
+
+Transporumiddel(fly/tog):
+
+Avreisetidspunkt:
+
+————
+
+Dere som kommer alene og bar kryssct av for dobbeltrom eller 4-scngsrom bes skrive opp
+hvem dere eventuelt pnsker 4 dele rom med:
+
+Jeg ønsker å delta på fesumiddagen(jamei):
+—
+
+
+
+31
+
+Program/Timeplan
+
+ADRESSELISTE FOR ORGANISATORENE AV GRUPPENE
+Gruppe 1
+
+Mandag 15. juni
+11.00-16.30
+13.00-15.00
+
+Registrering
+Lunsj
+
+16.30-16.45
+
+Åpning
+
+Plenumsforelesning:
+
+Gruppe 2
+
+Knud Condradsen
+Danmarks Tekniske Høyskole
+IMSOR Bygn. 321
+2800 Lyngby DANMARK
+
+Gruppe 3
+
+Bengt Klevsjø
+Dept. of Mathematics
+Luleå Universitet
+95164 Luleå
+SVERIGE
+
+Gruppe 4
+
+Odd Aalen
+
+Erik Bølviken & Dag Tjøstheim, Norge
+
+Non-linear Time Series, Regime Models and Related
+Topics
+Middag/kulturinnslag
+
+Tirsdag 16. juni
+07.00-09.00
+
+Frokost
+
+09.00-12.00
+12.00-13.00
+
+Plenumsforelesning:
+
+13.00-15.00
+
+forelesning:
+
+15.00-15.30
+15.30-17.30
+
+Lunsj
+
+Pl
+
+Erik Bølviken & Dag Tjøstheim forts.
+
+Hi
+
+Gruppesjoner:
+Gruppe 1.
+
+Gruppe 9.
+18.00-20.00
+
+Byvandring i Røros
+
+20.00-
+
+Middag
+
+Principles of Statistical Inference,
+Organisator: Jan Bjørnstad, Norge
+Spatial Statistics and Marked Point Processes,
+Organisator: Aila Sårkkd, Finland
+Linear Models: Theory and Applications,
+Organisator: Sture Holm, Sverige
+
+Onsdag 17. juni
+Frokost
+
+09.00-10.00
+
+Plenumsforelesning:
+
+10.00-10.15
+
+Pause
+
+P. Boks 1122 Blindern
+
+0317 Oslo
+
+Gruppe 5
+
+Department of statistics
+
+12.00-13.00
+
+Lunsj
+Gruppesesjoner:
+Gruppe 3.
+
+Hans Stenlund
+Umeda Universitet
+Inst. for mat./stat.
+901 87 Umeå SVERIGE
+
+Gruppe 7
+
+Michael Sørensen
+
+Gruppe 6.
+
+Gruppe 8.
+
+15.00-
+
+Busstur til Olavsgruva
+
+19.30
+
+Middag
+
+Latent Models in Social Statistics
+Organisator. Ib Thomsen, Norge
+
+Torsdag 18. juni
+07.00-09.00
+
+09.00-12.00
+12.00-13.00
+
+13.00-15.00
+
+Frokost
+
+Plenumsforelesning: Grace Wahba forts.
+Lunsj
+
+Plenumsforelesning:
+
+Lene Theil Skovgaard, Danmark
+
+Repeated Measurements Designs
+
+15.00-15.30
+
+Kaffe/mineralvann/frukt
+
+15.30-17.30
+
+Gruppesesjoner:
+
+Gruppe 2:
+
+Gruppe 4:
+
+Gruppe 7:
+
+19.00-
+
+Computational Statistics and Graphics
+
+Organisator: Knut Conradsen, Danmark
+Biostatistics
+Organisator: Odd Aalen, Norge
+
+Statistics of Stochastic Processes
+Organisator: Michael Sørensen, Danmark
+
+Festmiddag
+
+Fredag 19. juni
+07.00-09.00
+
+Frokost
+
+09.00-10.30
+
+Diskusjon:
+
+10.30-10.45
+11.00-
+
+Avreise
+
+Avslutning
+
+Århus Universitet
+
+Matematisk Institutt
+Ny Munkegade
+
+8000 Århus
+Gruppe 8
+
+Wahba's foredrag
+Jon Helgeland, Norge
+Diskutanter:
+Den andre diskutanten er foreløpig ikke klar
+.
+
+DANMARK
+
+Ib Thomsen
+Statistisk sentralbyrå
+P.B. 8131 Dep.
+
+0033 Oslo
+
+Organisator: Bengt Klefsjø, Sverige
+Teaching Statistics
+Organisator: Hans Stenlund, Sverige
+
+FINLAND
+
+Gruppe 6
+
+Henrik Madsen, Danmark
+
+Reliability
+
+I
+
+SF 40351 Jyvaskyla
+
+Splinc Models in Statistics
+
+Diskusjon: Bølviken & Tjøstheim's foredrag
+Markku Rahiala, Finland
+Diskutanter:
+
+NORGE
+
+Aila Sarkka
+University of Jyvaskyla
+
+PL35
+
+Grace Wahba, USA
+
+10.15-12.00
+
+13.00-15.00
+
+statistikk
+
+Universitetet i Oslo
+Seksjon for medisinsk statistikk
+
+Thérisson, Island
+
+Coupling Methods in Probability Theory
+Kaffe/mineralvann/frukt
+
+Gruppe 5.
+
+07.00-09.00
+
+ikk og
+
+AVH
+
+7500 Dragvoll NORGE
+
+16.45-18.30
+
+19.30-
+
+Jan Bjørnstad
+ivut
+for
+m:
+
+Gruppe 9
+
+NORGE
+
+Sure Holm
+
+Statistiska Inst.
+Victoriagt. 13
+41125 Gercborg SVERIGE
+
+
+
+32
+
+Industriell matematikk i 10 år ved NTH:
+Jubileumskonferanse 17.-21. august 1992
+Som annonsert i forrige nummer av TG, feirer studieretningen for industriell matematikk
+på NTH sitt 10 års jubileum i år. I den anledning vil det bli arrangert en konferanse
+om industriell matematikk i august. Denne konferansen omfatter også den 9. nordiske
+konferanse om matematikk-undervisning ved tekniske universiteter, samt det 6. nordiske
+møte om industriell og anvendt matematikk (den nordiske grenen av SIAM).
+Selve konferansen pågår de tre første dagene, mens de to siste dagene er forbeholdt
+minisymposier i 6 ulike emner.
+Temaet for konferansen er industrielle anvendelser av matematikk, numerikk og statistikk, samt universitetsprogrammer i industriell matematikk. Det er 6 inviterte foredragsholdere, men påmeldte bidrag er velkomne.
+Blant emnene for minisymposiene kan vi nevne "Statistical Methods in Image Processing” og *Reliability Theory”.
+
+Brosjyre med detaljerte opplysninger og påmeldingsblankett kan fås ved henvendelse
+til Bo Lindqvist, Institutt for matematiske fag, 7034 Trondheim, tlf.
+
+boQimf.unit.no.
+
+07-593532, email:
+
+
+
+33
+
+KALENDER FOR INTERNASJONALE MØTER
+1992
+
+1.-3. juni - Second Nordic Symposium on Statistical Software in
+Education,Research and Practice, Helsinki, Finland.
+
+Informasjon: NordSSS, Dept. of Statistics, University of Helsinki, Aleksanterinkatu ty
+
+SF-00100 Helsinki, Finland. E-mail: nordsss Gnoppa.helsinki.fi
+15.-19. juni - 21st Conference on Stochastic Processes and Their
+Applications, North York (Toronto), Canada.
+
+Informasjon: G.L. O'Brien, York University, Dept. of Mathematics, 4700 Keele Street,
+North York, Ontario, Canada M3J IP3. E-mail: omega@yorkvm1.yorku.ca
+14.-20. juni - Fifth International Symposium on Statistical Decision Theory
+and Related Topics, West Lafayette, Indiana , USA.
+
+Informasjon: Shanti S. Gupta, Dept. of Statistics,Purdue University, West Lafayette, IN
+
+47907, USA. E-mail: tej @cc.purdue.edu
+
+22.-26. juni - The 5th International Meeting on Statistical Climatology
+(5IMSC), Toronto, Canada.
+
+Temaer: Klimaendringer og effekt av drivhusgasser. Informasjon: Francis W. Zwiers,
+Numerical Modeling Division, Canadian Climate Centre, 4905 Dufferin St., Downsview,
+Ontario, Canada M3H 5TH. E-mail: acrnrf7.@cid.aes.doe.ca
+
+8.-11. juli - 3rd International Conference on Practical Bayesian Statistics,
+Nottingham, England.
+
+Informasjon: A. O'Hagan, Dept. of Mathematics, Univ. of Nottingham, University Park,
+Nottingham NG7 2RD, England.
+
+13.-17. juli - GLIM 92 and 7th International Workshop on Statistical
+Modeling, Miinchen, Tyskland.
+
+Informasjon: Ludwig Fahrmeir, Seminar fiir Statistik, University of Miinchen, Ludwigstr.
+33, D-8000, Miinchen 22, Tyskland. E-mail: glm.stamo@statistik.uni-muenchen.dbp.de
+9.-13. august - Joint Annual Meetings of ASA,IMS and the Biometric Society,
+Boston, Massachusetts, USA.
+
+Informasjon: ASA, 1429 Duke Street, Alexandria , VA 22314-3402, USA.
+17.-21. august - 13th International Meeting on Clinical Biostatistics,
+København, Danmark.
+
+Informasjon: Karsten Schmidt, Spadille Biostatistik ApS, P.O.Box 25, N.W. Gadesvej 4,
+DK 3480 Fredensborg, Danmark.
+
+24.-28. august - 10th Symposium on Computational Statistics (COMPSTAT),
+Neuchatel,
+
+Sveits.
+
+Informasjon: COMPSTAT Secretariat, Groupe de Statistique, Universite de Neuchatel,
+Pierre-a-Mazel 7,CH-2000 Neuchatel, Sveits. E-mail: sekoenig@cnedcu51.bitnet
+
+
+
+34
+
+9.-11. september - Royal Statistical Society Full Conference,
+Sheffield,
+
+England.
+
+Informasjon: P.J. Diggle, Math. Department, Lancaster University, Lancaster LA1 4YF,
+England. E-mail: maa026 @uk.ac.lancs.centl
+
+14.-18. september - 20th European Meeting of Statisticians, Bath, England.
+Informasjon: R. Sibson, School of Math.,Univ. of Bath, Bath BA2 7AY, England.
+E-mail: ems @maths.bath.ac.uk
+
+24.-26. september - International Conference on Survey and Statistical
+Computing, Bristol, England.
+
+Informasjon: L. KcKay, 4 Mansel Drive, Rochester, Kent ME1 3HX, England.
+30.nov.-3.desember - Meeting on Biostatistics, Newcastle, Australia.
+Informasjon: A.J. Dobson, Dept. of Statistics, University of Newcastle, Newcastle,
+
+NSW
+
+2308, Australia .
+
+7.-11. desember - The 16th International Biometrics Conference,
+Hamilton, New Zealand.
+
+Informasjon: IBC '92 Secretary, Ruakura Agricultural Centre, East Street, Hamilton, New
+Zealand. E-mail: ibc @ruakura.maf. govt.nz.
+1993
+
+11.-14. januar -
+
+Indo-US-Japan Conference on Quality Through Engineering
+
+Design, Bangalore, India.
+
+|
+
+Informasjon: NIST, Gaithersburg, MD 20899, USA. E-mail: lund @micf.nist.gov.
+21.-25. juni - 22nd Conference on Stochastic Processes and Their
+Applications, Amsterdam, Nederland.
+
+Informasjon: SPA '93,CWI, PO Box 4079, 1009 AB Amsterdam, Nederland.
+E-mail: spa93 @cwi.nl
+
+28.juni-3.juli - 6th International Vilnius Conference on Probability Theory
+and Mathematical Statistics, Vilnius, Litauen.
+
+Informasjon: V. Statulevicius, Inst. of Math. and Informatics, Lithuanian Academy of
+Sciences, 4 Akademijos Street, 232 600 Vilnius, Litauen.
+8.-12. august - Joint Annual Meetings of ASA,IMS and the Biometric
+Society,San Francisco, California, USA.
+
+Informasjon: ASA, 1429 Duke Street, Alexandria , VA 22314-3402, USA.
+19.-24. august - 8th International Workshop on Statistical Modelling,
+Perugia, Italia,
+
+Informasjon: A. Forcina, Dept. of Statistical Science, Univ. di Perugia, CP 1315/1,
+Perugia, Italia. E-mail: statfrc@ipguniv.bitnet
+
+25.aug.-3.sept. - 49th Biennial Session of the International Statistical
+Institute, Firenze, Italia.
+
+Informasjon: ISI Permanent Office, 428 Prinses Beatrixlaan, PO Box 950, 2270 AZ
+Voorburg, Nederland.
+
+
+
+55
+
+SCANDINAVIAN JOURNAL OF STATISTICS
+SJS har nå skiftet forlag, idet Blackwell Publishers erstatter Almqvist & Wiksell fra og
+med årgangen 1992. Som før er det imidlertid de nordiske statistiske foreningene som står
+som utgivere, og skiftet får selvsagt heller ingen konsekvenser for den redaksjonelle linjen.
+Abonnentene vil merke endringen ved at abonnementet nå skal betales enten ved
+kreditt-kort til Blackwell Publishers, eller til SJS’ postgirokonto i Danmark. Både gamle
+og nye abonnenter kan bruke skjemaet som finnes i dette nummer av TG.
+Jeg vil minne om at medlemmer av Norsk Statistisk Forening får SJS for den utrolig
+lave prisen 160 kroner for hele 1992.
+
+Norske statistikere bør støtte opp om sitt “eget” tidsskrift SJS ved å
+e Abonnere
+
+& Sende inn gode arbeider (manuskripter sendes hovedredaktør Elja Arjas)
+
+Bo Lindqvist
+
+Subscription order form for members of the Norwegian
+Statistical Society
+
+Scandinavian Journal of Statistics, Volume 19, 1992
+Please complete as appropriate and return the following form to: Anne Kitson,
+
+Marketing Manager, Blackwell Publishers, 108 Cowley Road, Oxford OX4 1JF,UK
+Name and address (to which the journal should be sent):
+
+I have earlier subscribed to Scandinavian Journal of Statistics ODO;
+
+I am a new sub-
+
+scriber (J. (Please tick as appropriate.)
+
+Members of the Norwegian Statistical Society can pay either direct via credit card to
+Blackwell Publishers or in local currency via Danish post giro.
+Option 1 — payment direct to the publisher.
+
+Please enter my member subscription to volume 19, 1992 at £14.50 and charge my
+
+Eurocard [: Mastercard (Access): Visa (Barclaycard): Diners Club/American
+Express (1): (Please tick as appropriate.)
+
+Card number
+Signature
+
+|
+
+|
+
+|
+
+|
+
+Expiry date
+
+Option 2 — payment via Danish giro account of SJS board.
+
+Please tick if appropriate: 1 I have paid 160 Norwegian kroner to Danish giro no.
+6 52 10 10 (Address: Scand. J. Statist., Mat. sek., Thorvaldsensv. 40, DK 1871 Frederiksberg C)
+
+Important notice: Members who pay via Danish Giro must send their
+address details separately to Blackwell Publishers, typically by use of this
+form. Missing issues, claims and other queries regarding receipt of the journal should be addressed directly to Blackwell Publishers.
+
+
+
+36
+
+NYTT FRA UNIVERSITETER OG HØYSKOLER.
+
+NYTT FRA UNIVERSITETET I OSLO
+Uteksaminerte cand. scient.
+Birger Pedersen : "Metoder for optimalisering av vedlikeholdsstrategien til et produksjonssystem”
+
+Veileder : Arne Bang Huseby
+
+Erik Hæreid : “To additive modeller i kredibilitetsteorien”
+Veileder : Bjørn Sundt
+
+Arne Lars Bjørnaa Eyland : "Classification of Cars in a Multiplicative Rating Model
+using Recursive Credibility Estimation — Theory and Application”
+Veileder : Bjørn Sundt
+
+Finn Tveito : "Estimering i en sensurert geometrisk fordeling”
+Veileder : Erik Torgersen
+
+Ansettelser
+Petter Abrahamsen er NAVF-stipendiat fra 1. september 1991
+
+Harald Haukås er stipendiat i samarbeid med Høgskolesentret i Rogaland fra 1. januar
+1992
+
+Jon Ketil Grønnesby er stipendiat fra 1. januar 1992
+
+Eva Skovlund er ansatt som førsteamanuensis fra 1. januar 1992
+
+Permisjon
+Erik Torgersen har forskningsfri våren 1992 og vil i en del av perioden oppholde seg ved
+University of California, Berkeley
+
+Publikasjoner
+Nils Lid Hjort : “On the time a diffusion process spends along a line”, Statistical Research Report No. 10, 1991
+
+Svein Eggen, Bent Natvig & Jørund Gåsemyr : “Periodental conditions among two
+Norwegian patient groups. Å statistical analysis of the relation of probing pocket depth to
+sex, age, plaque, residence and torus mandibularis”, Statistical Research Report No. 1, 1992
+
+Seminar
+Avdeling C arrangerte et seminar på Granavolden Gjæstgiveri 20.-21. februar med følgende
+4 seksjoner : "Vi utdanner”, "Vi forsker”, "Vi studerer” og "Mening og mål — evaluering
+og tiltak”. Vi arbeidet delvis i plenum, delvis lærere og studenter hver for seg og delvis i
+mindre grupper som varierte fra emne til emne. Program og referat vil bli samlet og utgitt
+
+
+
+37
+
+som Statistical Memoirs. Det var i alt 29 deltakere, 13 lærere og 16 hovedfagsstudenter.
+Arrangementskomitéen besto av : Grete U. Fenstad, Nils Lid Hjort og André Teigland.
+
+Jubileum
+Erling Sverdrup fylte 75 år den 23. februar i år. Avdelingen markerte begivenheten ved
+å invitere ham på lunsj i restaurant Proffen.
+
+NYTT FRA GRUPPE FOR STATISTIKK, NTH
+Ny professor
+Henning Omre (Norsk Regnesentral) har tatt i mot det ledige professoratet (etter Arnljot
+Høyland).
+
+Ferdige sivilingeniører (studieåret 90/91)
+Helge Blaker: ”Preference functions and Interference’. Veileder: Emil Spjøtvoll.
+Mette Langaas: ‘Systems with Emphasis on Explanatory Variables’. Veileder: Jørn Vatn
+
+/ Per Hokstad (ansv. fagl.).
+Rita Mikalsen: "Bruk av statistiske metoder for å forbedre Gamma-kamera bilder’. Veileder: Fred Godtliebsen.
+
+Ferdige sivilingeniører (studieåret 91/92)
+Jo Aldal: ’Analysemetodar for statistiske forsøk i samband med raffingrkjgringar’. Vei-
+
+leder: Liv Høyland.
+
+Georg Elvebakk: ’Resampling teknikker for analyse av reparerbare systemer”. Veiledien:
+Bo Lindqvist.
+
+Turid Follestad: ’Multidimensjonal analyse av klangfarge for strykeinstrument’. Vei-
+
+leder: Emil Spjøtvoll.
+
+Kjetil Hansen: ”Software regularity analysis shuttle tanker oil and gas transport”. Thom
+E. Thorstensen / Stein B. Jensen (ansv. fagl.).
+Harald Haukaas: ’Optimale vedlikeholdsavtaler for brann- og gass- detektorer”. Veileder: Odd Thomassen / Stein B. Jensen (ansv. fagl.)
+Leif G. Hestholm: ”Beredskapsanalyse for Embla-plattformen’. Veileder: Øystein Borg-
+
+ersrud / Arnljot Høyland (ansv. fagl.).
+Anita Kittelsen: ”Corrosion and Lifetime Models’.. Veileder: Marvin Rausand / Arnljot
+
+Høyland (ansv. fagl.).
+Kari Hege Mørk: ’Simulering av gassnettverk’. Veileder: Morten Sørum / Bo Lindqvist
+
+-
+
+(ansv. fagl.).
+Espen Fyhn Nilsen: ”Analyse av utblåsingsrisiko på offshoreinstallasjoner”. Veileder: Jo
+
+Hulbækdal / Stein B. Jensen (ansv. fagl.).
+
+
+
+38
+
+Hilde Oddaker:
+
+’Graphical Estimation for Repairable Systems with Explanatory Vari-
+
+ables’. Veileder: Bo Lindqvist.
+
+Jorunn Seljelid:
+
+’Statistical Methods for Repairable Systems Reliability, with Application to X-mas Tree Valves on Production Platforms’. Veileder: Jan Eirik Ramstad/Bo
+Lindqvist.
+
+Ivar Skjeldal:
+
+’Reliability Asessment of Subsea Isolation Function’. Veileder: Jan Erik
+
+Vinnem / Bo Lindqvist ( ansv. fagl.).
+Geirmund Vislie: ”Oreda Trend Analysis’. Veiledere: Hans Jørgen Grundt og Jørn Vatn.
+
+/ Stein B. Jensen (ansv. fagl.)
+
+Publikasjoner
+Kjell A. Doksum & Arnljot Høyland: Models for Variable-Stress Accelerated Life
+Testing Experiments Based on Wiener Processes and the Inverse Gaussian Distribution.
+
+Technometrics, 34, pp. 74-82.
+Bo Lindqvist: Moment inequalities for the reliability function. Statistics & Probability
+
+Letters, 13, pp. 85-88.
+
+
+
+39
+
+- Norsk Statistisk Forening - Adresseliste
+Poststed:
+
+Navn:
+
+Adresse:
+
+Aberge, Rolf
+Aalen, Odd
+Aamodt, Geir
+Aarseth, Jan H.
+
+Statistisk Sentralbyrå
+Seksjon for med. stat.
+
+Aarset, Magne
+Aarø, Ragnar
+Aase, Knut K.
+Aasnes, Jørgen
+Aastorp, Ove
+Aastveit, Are H.
+Abelsen, Birgit
+Abrahamsen, Petter
+Aksland, Ma
+Albrektsen, Grethe
+Aldrin, Magne
+Almøy, Trygve
+lvheim, Atle
+Amundsen, Arne
+
+Matematisk institutt
+
+DNV Industrial Devel
+
+yskole
+Norges Handrie
+
+P.b. 8131 DEP.
+P.b. 1122 Blindern
+ei 86 B
+Otto Ri
+
+ent
+
+Statistisk Sentralbyrå
+NLH
+
+Norsk Regnesentral
+Inst. fiskeri og marinbiologi
+Norsk Regnesentral
+
+NSD
+SOS.ØK. institutt
+Sosialdepartementet
+Amundsen, Ellen J.
+Amundsen, Herdis T. SOS.ØK. institutt
+
+Auestad, Bjørn H.
+
+Aven, Terje
+Bakke, Nils
+Bartonoba, Alma
+Baste, Valborg
+Belsby Liv
+Berge, Erling
+Biørn, Erik
+Bjelke, Erik
+Bjerke, Frøydis
+Bjerve, Steinar
+Bjøntegård, Eivind
+Bjørkestøl Kirsten
+Bjørnstad, Jan Fr.
+Blaker, Helge
+Bodsberg, Lars
+Borgan, Jens Kr.
+Borgan, Ørnulf
+Bredrup Edvin
+Brenn, Tormod
+Brox, Knut Håkon
+Brun, Oddny H.
+Bu, Tor
+By, Vigdis
+Byermoen, Irene
+
+Byguglien, Jan
+
+Christensen, Peter
+Christoffersen, Knut
+Dahl, Grete
+Dahl, Henrik
+Damsleth, Eivind
+de Groot, Arold
+Doksum, Kjell
+
+Egede-Larsen, H.O.
+
+Inst. for mat. og nat.HSR
+Rogaland Distr.høyskole
+Statistisk Sentralbyrå
+
+NILU,
+
+Statistisk sentralbyrå
+SOS. ØK. inst.
+
+Papirindustriens forskn.inst.
+Mat. inst. avd. C
+
+SOS.ØK. institutt
+
+Inst. for Mat. og Statistikk
+Statistisk Sentralb
+MRC Biostatitics
+
+Unit
+
+Interpro AS
+Norsk Hydro A/S
+
+Statistisk Sentralbyrå
+Kredittkassen
+
+Norsk Hydro
+Department of Statistics
+
+Norsk Regnesentral
+
+Evandt, Øystein
+
+VERITAS
+
+Fagerheim, Jørn
+Fagerthun, Hans E.
+Fenstad, Anne M.
+Fenstad, Grete
+Flåm, Sjur Didrik
+Folkeson Morten
+Foosnæs, Hans
+Forsen, Lisa
+Fossen, Stein
+Foss, Tron
+Fredrikson Gunnar
+Fridstrøm, Lasse
+Fuglerud, Per H.
+Funnemark, Espen
+Furnes, Nils Terje
+Gaarder, Simen
+Gaasland, Ann K.
+Gedde-Dahl, Truls
+Georgsen, Frode
+Gilde, Vibeke
+Ciollectad
+
+mva
+
+Helleveien 30
+P.b. 8131, DEP
+H. Nestens veg 2 D
+
+len berggt. 71 A
+Øvre114MøBlindern
+P.b.
+Høyteknologisenteret
+4
+Hans T:
+P.b. 114, Blindern
+Østre Torp
+Hans Holmboesgate 22
+P.b. 1095, Blindern
+P.b. 8011 DEP.
+P.b. 1095, Blindern
+P.b. 2557, Ullandshaug
+
+P.b. 2450
+P.b. 8131, DEP.
+Box 64
+Sydneskleiven 4
+Postboks 8131
+Søråsveien 28
+P.b. 1095
+Postboks 127
+P.b. 115 Vindern
+P.b. 1053, Blindern
+P.b. 1095, Blindern
+Voielia 26
+
+Universitetet i Trondheim
+Singsaker Studenterhjem
+
+Ss
+
+Egeland, Thore
+Eide, Geir Egil
+Eide, Henriette
+Eie, Birgit
+Engeland, Anders
+Engen, Steinar
+Esbensen, Kim
+
+Espehaug, Birgitte
+
+Universitetet i Bergen
+P.b. 300 Høvik
+
+, Avd. 75
+
+P.b. 8131, DEP
+5 Shaftesvury Roac
+Ivar Aasens vei 10
+Biskop Bergrravsgt. 30
+ten 15
+
+Kokstadvn. 9, P.b. 85
+Boks 4313 Nygårdstangen
+Harald Bothnersvei 40
+8162 Sogn Studentby
+P.b. 510, Stasjonssida
+Hovsveien 21
+
+Middelthuns gt. 17
+Lutvannsveien 28
+Vigvollåsen 51
+P.b. 200
+
+Vikolviks - rute/2980
+
+Evans Hall, Univ. of Calif.
+Nils Bays vei 27
+
+4004 STAVANGER
+4001 STAVANGER
+0033 OSLO
+2001 LILLESTRØM
+5010 BERGEN
+0033 DEP. OSLO
+
+1430 ÅS
+
+0317 OSLO
+5043 HOP
+0319 OSLO
+0316 OSLO
+0317 OSLO
+4623 KRISTIANSAND
+7055 DRAGEVOLL
+7010 TRONDHEIM
+7034 TRONDHEIM-NTH
+0033 OSLO
+Cambridge ENGLAND
+9000 TROMSØ
+9000 TROMSØ
+0655 OSLO
+5061 KOKSTAD
+
+5028 BERGEN
+7017 TRONDHEIM
+0858 OSLO
+
+2201 KONGSVINGER
+
+1800 ASKIM
+0368 OSLO
+0676 OSLO
+4600 KRISTIANSAND
+1341 STABEKK
+
+4900 TVEDESTRAD
+Berkely, CA 94720 USA
+
+0401 OSLO
+0340 OSLO
+0384 OSLO
+
+AVH
+
+Mat. inst. Avd. C
+Inst. for økonomi
+Storebrans-Norden
+Nord-Trøndelag DH
+Statens inst.for folkehelse
+
+0314 OSLO
+1440 DRØBAK
+5007 BERGEN
+0317 OSLO
+0030 OSLO
+0317 OSLO
+
+Bjørnst. Bjørnsons på. 1
+Flyveien 13
+
+Inst. for mat. og stat.
+
+Norsk Regnesentral
+
+1432 ÅS - NLH.
+
+7043 TRONDHEIM
+0314 OSLO
+5006 BERGEN
+5008 BERGEN
+
+ÖSLO
+0876
+0314 OSLO
+
+NHH
+P.b. 4220 Torshov
+
+NRK, Statistikkontoret
+
+7034 TRONDHEIM-NTH
+5035 BERGEN
+0033 OSLO
+2050 JESSHEIM
+
+P.b. 114 Blindern
+
+Statitisk avd. Nycomed A/S
+
+Inst. for Mat. og stat.
+
+0033 OSLO
+0317 OSLO
+1345 ØSTERAAS
+5007 BERGEN
+1322 HØVIK
+
+P.b. 114
+
+G. Tischendorfsvei 49
+P.b. 300
+
+Veitvetstubben 8C
+Trondheimsvn. 35B
+Prof. Dahisgate 5
+P.b. 1053, Blindern
+J. Reinsgt. 19
+Haakon VII'sg. 10
+
+5035 BERGEN - S
+
+7055 DRAGVOLL
+0314 OSLO
+
+5031 LAKSEVÅG
+1322 HØVIK
+0596 OSLO
+2040 KLØFTA
+0355 OSLO
+0316 OSLO
+5008 BERGEN
+
+0161 OSLO
+
+Geitmyrsveien 75
+Lyngveien 44
+Blakersund
+
+Jegerveien 12F
+
+Statistisk avd. Nycomed A/S
+Veritec
+
+Avd.for foreb.inf.med, Siff.
+
+Bernt Knudsens v 44B
+P.b. 4220 Torshov
+P.b. 300, Høvik
+
+Trostefaret 2B
+Ullernfaret 14E
+
+0281 OSLO
+
+Enebakkveien 25C
+
+0402 OSLO
+0657 OSLO
+0373 OSLO
+
+Åslandsveien13
+.75
+Geitm
+
+Ivar Aasebs vei 37
+Gaoildulenat
+
+11
+
+9105 EIDKJOSEN
+
+NES2
+
+NEAr OM
+
+
+
+40
+
+K.
+gj Håkon
+
+Inst. for matematiske fag
+Inst. for matematiske fag
+Inst. for stat. og datebeh.
+STATOIL
+Elkem Forsknin;
+Mat. inst. avd.
+
+ter
+
+SOS.ØK. institutt
+
+Statistisk avd. Nycomed A/S
+Kreftregisteret
+
+Valesvei 22
+
+Statistisk Sentralbyrå
+Norsk Regnesentral
+
+Hjellvik, Vidar
+Hjort, Nils Lid
+Hoffmann, Eivind
+Hokstad, Per
+Holen, Marit Olsbø
+Hollund, Knut U.
+
+Holme, Ingar
+Holter, Jon Petter
+Homleid, Mariken
+Horten, Harald
+Hove, Sverre
+Hoveid, Øivind
+Huseby, Arne Bang
+Hustoft, Anne Gro
+Hveberg, Ranoo
+Høst, Gudmund
+Høgåsen, Guttorm
+Høyland, Arnljot
+Høyland, Liv
+Høyland, Tor E.
+Indregaard, Magnar
+Indrehus, Oddny
+Indseth, Audun
+
+Irgens Å
+
+Iversen, einvor
+
+Jensen, Einar
+
+Inst. for matem. fag
+Univ. i Bergen
+
+Norsk Regnesentral
+SINTEF, Avd.75
+Medsstat institutt
+Norges Bank
+Meterologisk inst.
+
+NILF
+
+Mat. inst. Avd. C
+SI
+MR-DH
+
+Norsk Regnesentral
+Mat.inst. Avd. C
+Inst. for matematiske fag
+Inst for matematiske fag
+Fors.selsk.stat.kontor
+
+Statens Veivesen
+Norsk Hydro
+
+Avd. for klinisk kjemi
+Norsk Regnesentral
+
+Kjersgaard, Pal
+Kleive, Ann Marit
+Knag, Klaus
+Knudsen, Jon H.
+Kristiansen, Arild
+
+Kristiansen,Mai-Lis
+Kristoffersen, D.T.
+
+Laake, Petter
+Langssa, Mette
+
+Statistisk Sentralbyrå
+
+Sosialøkonomisk inst.
+
+Lanpiat Arve
+
+Akvtuar 5, Gjensidige
+
+Lauvskar, Ole
+Lea, Per
+Lettenstrøm, Gerd
+Lie, Rolv Terje .
+Lie, Stein Atle
+Liestøl, Knut
+
+VITAL Forsikring
+Matforsk.
+
+Lillestøl, Jostein
+
+Norges Handelshøyskole
+Inst.for matematiske fag
+
+Lauritzen, kåre
+Larsen,
+
+Sti
+
+Elin
+Lilland, Inger
+Lilleng, Solfrid
+
+beacon
+Lusd, Nils H.
+Ljøgot,
+
+Lydersen, Stian
+Lysne, Dan A.
+
+Løvkvist, Håkon
+Låstad, Knut Ivar
+Martens, Harald
+
+Martens, Magni
+Meen, Knut
+Melhus. Marita
+
+Aramuer Hansens hus
+Inst. for informatikk
+
+Statistisk Sentralbyrå
+SINTEF
+
+7034 TRONDHEIM-NTH
+7034 TRONDHEIM-NTH
+
+P.b. 1070, Blindern
+Tårnfjellveien 19 P.b. —
+Fagerlia
+
+P.b. 1053Vipbygdd
+
+40, Va
+Pea,
+
+P.b. 1095, Blindern
+Telemark distr.høyskole
+P.b. 4220 TORSHOV
+Montebello
+
+Maria Dehlis vei 27 A
+Stensgata 35C
+Kringsjåveien 18
+
+0316 OSLO
+
+3900 PORSGRUNN
+4001 STAVANGER
+3000 DRAMMEN
+4602. KRISTIANSAND
+0316 OSLO
+0317 OSLO
+3800 BØ I TELEMARK
+0401 OSLO
+0310 OSLO
+1084 OSLO
+0358 OSLO
+
+7000 TRONDHEIM
+9000 TROMSØ
+
+P.b. 8131, DEP
+P.b. 114, Blindern
+gate 9
+Ths. Heftys
+
+0033 OSLO
+0314 OSLO
+0264 OSLO
+
+Matematisk institutt
+Adolph Bergs vei 13 A
+P.b. 114, Blindern
+
+5007 BERGEN
+
+114, Ch. des MollisS
+
+Kalfarv. 54
+Bråtenalleen 25
+P.b. 6, Ullev. sykehus
+P.b. 1179 Sentrum
+P.b. 45, Blindern
+
+dan 68
+
+P.b. 8024, DEP.
+P.b. 1053, Blindern
+P.b. 124, Blindern
+P.b. 308
+BOKS 114 Blindern
+P.b. 1053, Blindern
+
+6A
+Kalfarlien
+P.b. 8131, DEP.
+P.b. 8131, DEP
+Veidir. P.b.6390
+P.b. 4313
+Regionsykehuset i Trh.
+P.b. 114, Blindern
+NUTEC P.b. 6
+Sletten
+P.b. 8131, DEP
+Ullevålsvn. 7
+Prahlsvei 4
+Myrarinden 8
+Lyshovden 318
+Hallagerbakken 18B
+Høvik Terasse 4
+Leverbakken 1
+P.b. 1095, Blindern
+Frode Rinnansvei 11
+P.b. 397 Sentrum
+Guldhaugsletta 7
+Bjørnestadbakken 7
+Post 530
+Osloveien 1
+
+Ar 2
+
+erd14
+
+P.b. 1080, Blindern
+Skjenlia 45
+Haugen, Bjørkmyr
+Helleveien 30
+Rudveien 18
+
+P.b. 510, Stasjonssida
+Avd. sikkerhet og pal.
+Iskogen 366
+M
+
+Minister Ditleffsvei 11C
+Salhusveien 150
+Gamleveien 13
+Gamleveien 13
+Hanøytangen
+
+5030 LANDÅS
+0314 OSLO
+
+CH-1293 Bellevue-Ge
+
+7034 TRONDHEIM-NTH
+5018 BERGEN
+0487 OSLO
+0407 OSLO
+0107 OSLO
+0313 OSLO
+7043 TRONDHEIM
+0673 OSLO
+0034 OSLO
+0316 OSLO
+0314 OSLO
+6401 MOLDE
+0314 OSLO
+0316 OSLO
+
+7034 TRONDHEIM-NTH
+7034 TRONDHEIM-NTH
+
+1352 KOLSÅS
+
+8c
+en 5B
+
+are
+ard
+
+1432 ÅS-NLH
+
+0202 OSLO
+
+P.b. 2429, Solli
+Høgåsveien 32
+
+Innl
+Hon:
+Statistisk Sentralbyrå
+Statistisk Sentralbyrå
+
+5030 LANDÅS
+
+Konvalvei 14
+
+Takobslivn. 55, Leil. 2
+
+6800 FØRDE
+1375 HØN
+5018 BERGEN
+0030 OSLO
+0033 OSLO
+0604 OSLO
+5028 BERGEN
+7006 TRONDHEIM
+0314 OSLO
+
+5034 YTRE LAKSEVÅG
+
+5065 BLOMSTERDALEN
+0033 OSLO
+
+0175 OSLO
+
+5035 BERGEN - S
+5084 TERTNES
+5033 FYLLINGSDALEN
+1256 OSLO
+3010 DRAMMEN
+1346 GJETTUM
+0317 OSLO
+7035 TRONDHEIM
+0103 OSLO
+2013 SKJETTEN
+0672 OSLO
+5020 BERGEN
+
+1430 ÅS
+
+0363 OSLO
+5021 BERGEN
+5050 NESTTUN
+0316 OSLO
+5079 OLSVIK
+7036 TRONDHEIM
+5035 BERGEN-S
+7034 TRONDHEIM-NTH
+2000 LILLESTRØM
+2201 KONGSVINGER
+
+7034 TRONDHEIM-NTH
+5095 ULSETH
+0862 OSLO
+5086 SALHUS
+
+1430 ÅS
+1430 ÅS
+
+5310 HAUGLANDSH.
+7058 TAKOBSLI
+
+
+
+41
+
+Rikstrygdeverket
+
+Sjøkrigsskolen
+BI-Skedsmo
+Oslo Data
+
+Dalsveien 37 B
+Drammensveien 60
+
+Frode Rinnansvei 183
+
+Wallemsviken
+
+Smedstuveien 32
+P.b. 6664
+Søndre Rød 13B
+
+Akebakkeskogen 58A
+
+Department of Statistics
+
+Hans Øverlandsvei 51A
+
+University of Chicago
+
+Hedmark Distr.høyskole
+
+FDB-Sentralen
+Mat. inst Avd. C
+Mat. Inst.
+
+Univ.
+i
+Bergen
+
+t. lab.
+
+Forsknin
+
+Inst. for inf.vit.sk.
+
+Osloveien 1
+
+Matforsk.
+
+Norsk Regnesentral
+1224 Sogn studentby
+Statistisk Sentralbyrå
+MMI A/S
+Statistisk Sentralbyrå
+Palmstrøm, Henrik
+Paulsen, Jostein E.
+Petersen, Stein Ø.
+Pham, Dinh Quang
+Pripp, Petter
+Rausand, Marvin
+Reiersøl, Olav
+ReiertsenN, Jon
+Riise, Trond
+Rodtwitt, Svein-E.
+Rue, Håvard
+Redevand, Sissel
+Sagsveen, Anne
+Salen, Anne-Berit
+Samuelsen, Svein O.
+Samset, Ooddgeir
+Sander, Hildur
+Sandstad, Berit
+Sandvik, Leiv
+Sandvik, Valborg
+Sande, Ivar
+Schalm, Arnfinn
+Schweder, Tore
+Seim, Eva
+Selmer, Randi
+Sevaldson, Per
+Sigstad, Jenny-Anne
+Simpson, Liv H.
+Siring, Erling
+Skancke, Gisle
+Skaug, Hans
+Skiri, Halvard
+
+Skjold, Frode
+
+Skjerven, Rolv
+Skovlund, Eva
+Skreppa, Tore
+Solheim, Leiv
+Sollie, Bj
+
+Spjøtvoll, Emil
+
+Standal, Nils A.
+Stene, Jon
+Stensholt, B.K.
+StordalL, Kjell
+Storvik, Geir
+Sture, Sten
+Stålhane, Tor
+Sundt, Bjørn
+Sverdrup, Erling
+
+Swensen, Anders R.
+Sæbø, Hans Viggo
+Sørheim, Samuel
+Sørlie, Ketil
+Sørum. Morten
+
+Matematisk inst.
+NIS
+Statistisk Sentralbyrå
+
+SIMA
+
+/ Tariff H10-5A
+Aktuar
+i,
+SIFF
+Avd. for epidemiolog
+Avd. for kostholdsforskn.
+Norsk Hydro A/S
+Inst. for stat. og databeh.
+Inst. for mat. og stat.
+
+Statistisk Sentralbyrå
+
+Statistisk Sentralbyrå
+Statoil, Resgeo-Rd
+Statistisk Sentralbyrå
+Statistisk Sentralbyrå
+Med. Inf. stat.
+
+Inst. for informatikk
+Norsk inst.for skogforskn.
+Statistisk Sentralbyrå
+Inst for matematiske fag
+Statistisk inst.
+
+Tekn. div., Oslo Teledistr.
+
+esentral
+
+Uni Storebrand
+
+Wyatt - Lillevold
+
+Statistisk Sentralbyrå
+NIBR
+VERITEC
+
+Sognsveien 85
+P.b. 8131, DEP
+P.b. 9143 Vaterland
+P.b. 8131, DEP
+Ladegårdsgate 70
+Hafrsfjordsgate 2
+Univ. i Bergen
+Strinsveien 2
+P.b. 8131
+Konsul Børsgt. 35
+
+Torødveien 109
+
+Armauer Hansens hus
+
+Kay 708,
+
+Damplassen 10
+Olaf Bulls vei 11 A
+Bøkveien 70
+P.b. 114, Blindern
+Simon Darres vei 65
+
+Avd. sikkerhet og pal
+
+SINTEF
+
+Norsk
+
+Liljeveien 13
+P.b. 67
+P.b. 1053, Blindern
+P.b. 1053, Blindern
+Selvikveien 20
+Matematisk institutt
+Ø. Nattlandsfjellet 10
+Universitetsparken 5
+Thor Møhlensgt. 55
+Linneaveien 3
+
+Åsterudsletta 86
+
+Haukeland sykehus
+Ullern Alle 121
+
+Lofthus TerasseE 17A
+Storebr.Norden, Pb.1380
+
+Eidsvågveien 36
+Geitmyrrsvn. 75
+Torsvei 11B
+Dr. Dedichens vei 48
+P.b 1117, BLINDERN
+Landskronavn. 44
+Fredsborgvn. 32
+P.b. 4313 Nygårdstangen
+
+Stein
+
+nget 63
+
+P.b. 1070, Blindern
+AVH
+Holmensletta 10
+P.b. 8131, DEP
+Lillebergveien 12A
+P.b. 8131, DEP
+Boks 300
+P.b. 8131, DEP
+Hallskaret 76
+
+Jakobslivn. 55, Leil. 2
+MFH-b
+dern
+P.b. 1
+
+P.b. 8131 DEP.
+Våghalsen 6
+Rådyrveien 89
+estrædet 6
+Myrdalskogen 147
+P.b. 451, Sentrum
+P.b. 114, Blindern
+Boks 1155, Sentrum
+Theodor Petersensvei 18
+P.o.box 7118 H
+te 4
+Olav K
+P.b. 8131 DEP.
+Beverveien 2
+Fana gymnas
+P.b. 44 Blindern
+Boks 300
+
+0387 OSLO
+0270 OSLO
+7035 TRONDHEIM
+
+5034 YTRE LAKSEVÅG
+
+2013 SKJETTEN
+7040 TRONDHEIM
+057? OSLO
+0752 OSLO
+0490 OSLO
+1322 HØVIK
+5734 University Avenue
+Chicago, IL 60637, USA
+
+2450
+
+A
+
+1450 NESODDTANGEN
+
+1432 ÅS-NLH
+
+0316 OSLO
+0316 OSLO
+5083 ØVRE ERVIK
+
+5007 BERGEN
+
+5030 LANDÅS
+
+DK-2100 København Ø
+5008 BERGEN
+1450 NESODDTANGEN
+
+1430 ÅS
+
+0852 OSLO
+0765 OSLO
+7058 JAKOBSLI
+0314 OSLO
+0669 OSLO
+0858 OSLO
+0033 OSLO
+0134 OSLO
+0033 OSLO
+5035 BERGEN - S
+0273 OSLO 2
+5007 BERGEN
+7034 TRONDHEIM-NTH
+0033 OSLO
+5006 BERGEN
+
+7034 TRONDHEIM-NTH
+3135 TORØD
+1344 HASLUM
+5021 BERGEN
+0381 OSLO
+7034 TRONDHEIM-NTH
+0588 OSLO
+0114 OSLO - VIKA
+
+5082 EIDSVÅGNESET
+0462 OSLO
+7032 TRONDHEIM
+0675 OSLO
+0317 OSLO
+2013 SKJETTEN
+0177 OSLO
+
+5028 BERGEN
+1156 OSLO
+0316 OSLO 3
+7055 DRAGVOLL
+0385 OSLO
+0033 OSLO
+
+7017 TRONDHEIM
+
+0033 OSLO
+4001 STAVANGER
+0033 OSLO
+5095 ULSET
+
+2201 KONGSVINGER
+7058 JAKOBSLI
+5021 BERGEN
+0316 OSLO
+
+1432 ÅS-NLH
+
+0033 OSLO
+0458 OSLO
+
+7034 TRONDHEIM-NTH
+3900 PORSGRUNN
+DK-1455 KØBENHAVN K
+5095 ULSET
+0104 OSLO
+0314 OSLO
+0107 OSLO
+7000 TRONDHEIM
+0351 OSLO
+0273 OSLO
+0033 OSLO
+0596 OSLO
+5040 PARADIS
+0313 OSLO
+1322 HØVIK
+
+
+
+42
+
+Statistisk Sentralbyrå
+Norsk Regnesentral
+Univ. i Bergen
+Mat. inst. Avd. C
+
+gdeverket
+Inst. for mat. fag.
+Kreftregisteret
+NYCOMED
+
+Inst.for matematiske fag
+Sogn og Fjordane DH,
+
+Vivås, Helga J.
+Volden, Rolf
+
+Vollset, E Stein
+Walløe, Lars
+Walsøe, Heidi
+Wenstøp, Fred
+Westad, Frank
+
+Winther, Paal
+Winter, Rune
+Wolf, Ronald
+Ytterstad, Elinor
+Ødegaard, Lars A.
+Østebø, Runar
+Øvstedal, Tove
+
+Norsk Regnesentral
+Inst. for informatikk
+
+Drammensveien 60
+
+7016 TRONDHEIM
+1374 BORGEN
+0033 OSLO
+0314 OSLO
+5007 BERGEN
+0316 OSLO
+0270 OSLO
+
+Postboks 4220 Torshov
+
+0310 OSLO
+0401 OSLO
+
+Bergsbakken 11
+Borgenveien 134 —
+P.b. 8131 DEP
+P.b. 114 Blindern
+Matematisk institutt
+P.b. 1053, Blindern
+P.b 35
+Ullern Chaussee 70
+
+P.b. 39
+P.b. 115 Vindern
+Mauritz Hansens gt. 8
+Nevberggate 16
+Stokkanhaugen 56
+P.b. 114, Blindern
+Søre Renen 67
+P.b. 1080, Blindern
+Tverrbakken 3
+
+Bedr. øk. inst
+
+TECNICA A/S
+Norsk Hydro A/S
+
+P.b. 138 Dusavik
+P.b. 24
+
+1432 ÅS-NLH
+
+7034 TRONDHEIM-NTH
+5801 SOGNDAL
+0319 OSLO
+7030 TRONDHEIM
+0367 OSLO
+7048 TROMDHEIM
+0314 OSLO
+5044 NATLAND
+0316 OSLO
+0475 OSLO
+1301 SANDVIK
+0657 OSLO
+5008 BERGEN
+1251 OSLO
+0963 OSLO
+9000 TROMSØ
+7035 TRONDHEIM
+4001 STAVANGER
+5049 SANDSLI
+
+
+
+43
+
+ANNONSE
+
+UTLYSINGSTEKST
+AMANUENSIS I STATISTIKK
+
+Ved Agder distriktshøgskole er det ledig ei amanuensisstilling i
+statistikk frå 01.08.92. Stillinga er knytt til Institutt for matematiske
+fag.
+
+Det er utarbeid ein stillingsomtale som ein vil få tilsendt ved å
+venda seg til høgskolen.
+
+Stillinga er plassert i Statens lønnsregulativ Lpl. 17.510, kode 1010,
+lr.30, ltr. 15-21. Frå lønna går lovfesta innskot til Statens pensjonskasse.
+
+Det kan søkjast om personleg opprykk til førsteamanuensis, ltr. 22.
+Dersom slikt opprykk ikkje blir innvilga, er det høve til å trekkje
+søknaden tilbake. Etter søknad kan tidlegare praksis bli godskriven.
+Ved elles like kvalifikasjonar vil ein kvinneleg søkjar bli føretrekt.
+Det krevst at den tilsette står til disposisjon for høgskolen og
+studentane i ei tid som samla utgjer ei normal arbeidsveke.
+
+Den tilsette har rettar og plikter som er fastsett i instruks for slike
+stillingar.
+
+Søknaden må innehalda fullstendige opplysningar om utdanning,
+praksis og eventuell anna fagleg verksemd og sendast inn med
+stadfesta kopiar av attestar og vitnemål i 4 eksemplar. Vitskaplege
+arbeid som søkjaren vil skal takast med i vurderinga og liste over
+desse, skal sendast inn i 3 eksemplar.
+
+Søknadsfrist 27.03.92. Søknadsfristen gjeld også for innsending av
+vitskapelege arbeid.
+
+Søknaden skal sendast til Agder åistriktshøgskole, Fordenskjoldsgi
+65, 4604 Kristiansand.
+
+Nærmare opplysningar kan ein få ved å venda seg til instuttleiar
+Leiv Storesletten, tlf. 042-79567 eller amanuensis Henrik Dahl, tlf.
+042-79568.
+
+
+
+44
+
+Medlemskap i Norsk Statistisk Forening
+Kontingenten i foreningen er på kr. 90 pr. år for regulære medlemmer og kr. 30 for studenter. Korrespondanse om medlemskap og innbetaling av kontingent skal skje til foreningens
+kasserer:
+
+Norsk Statistisk Forening v/Ole Lauvskar
+Vital Forsikring
+5020 Bergen
+
+Innbetalinger skal gjøres på foreningens postgirokonto 5 15 10 55. Medlemmer som er usikre
+på når de betalte kontingent sist, vil nederst til høyre på adresseseddelen for Tilfeldig Gang
+finne angitt hvilket år siste betaling er registrert for. Vær imidlertid oppmerksom på at
+adressesedlene for bladet ligger noe etter ajourføringen av medlemsregisteret, slik at nylig
+foretatte innbetalinger ikke vil være tatt med her.
+
+Nye medlemmer melder seg til kassereren under adressen oppgitt ovenfor. Slike medlem-
+
+mer får automatisk tilsendt Tilfeldig Gang, med forbehold om at det tar noe tid før tilføyelser
+
+og forandringer i medlemsregisteret gjenspeiler seg i adressesedlene til bladet. Adressefor-
+
+andringer meldes også til kassereren. Ved utsendelsen av Tilfeldig Gang benyttes det kopier
+av det vanlige medlemsregisteret, så adresseforandringer behøver ikke meldes separat til
+
+bladet.
+
+Annen korrespondanse med foreningen skal foregå med formannen under denne adressen:
+Norsk Statistisk Forening v/Trygve Nilsen
+Matematisk institutt
+Universitetet i Bergen
+Allégt. 55
+5007 Bergen
+
+Bidrag til Tilfeldig Gang.
+
+Neste nummer av Tilfeldig Gang vil forhåpentligvis komme ut i juni 1992. Alle slags
+bidrag til bladet er velkommen, enten det gjelder nye temaer av interesse for norske statistikere, eller man har kommentarer til innlegg som allerede har stått i bladet. Stoff til
+neste nummer må være redaktøren i hende senest 1. juni. Det kan gjerne sendes som
+ASCII-filer, eventuelt tilpasset IATpX, på diskett eller med elektronisk post. Redaktørens
+adresse er:
+
+Tilfeldig Gang v/Jan Bjørnstad
+Institutt for matematikk og statistikk
+Universitetet i Trondheim
+Den allmenvitenskapelige høgskolen
+7055 Dragvoll
+Telefonnummer (07) 591751.
+
+Elektronisk post: Jan.Bjoernstad@avh.unit.no
+For IATpX-dokumenter: Inger.SeehuusQavh.unit.no
+
+
+
+
+
+Returadresse:
+
+Tilfeldig Gang v/ Ole Lauvs
+Vital Forsikring A.S
+5020 Bergen
+
+
+

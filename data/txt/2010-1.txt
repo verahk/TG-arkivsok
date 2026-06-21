@@ -1,0 +1,1046 @@
+ISSN 0803-8953
+TILFELDIG
+GANG
+Nr. 1, årgang 27
+Mars 2010
+
+Utgitt av Norsk Statistisk Forening
+INNHOLD
+Fra lederen, Magne Aarset . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Fra redaksjonen, Ingrid K. Glad . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Side
+3
+4
+
+Artikler
+En introduksjon til Ian Hacking, Steffen Grønneberg . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5
+
+Jubileum
+Thore Egeland 50 år, Geir Storvik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Ørnulf Borgan 60 år, Sven Ove Samuelsen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+8
+10
+
+Stipendiatpresentasjoner
+Ingrid Hobæk Haff . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Arne Johannes Holmin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+12
+13
+
+Møter og konferanser
+Modern statistics for climate research, Tore Schweder og Marion Haugen . . . . . . . . . . . . . . . . . . . . . . . .
+W.shop on recent developements for case-chort and nested case-control studies,S. O. Samuelsen .
+Nordstat 2010 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Nordisk statistikerkonferanse i København 2010, Anne Karine Stensvik . . . . . . . . . . . . . . . . . . . . . . . . .
+Planlagte møter i Norge . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+15
+18
+19
+20
+21
+
+Puslerispalten
+Løsning av pusleri nr. 28, Jostein Lillestøl . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Pusleri nr. 29, Jostein Lillestøl . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+22
+23
+
+Meldinger
+Nytt fra Norges teknisk-naturvitenskapelige universitet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Nytt fra Universitetet i Oslo, Avd. C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Nytt fra Universitetet i Oslo, Avd. for biostatistikk . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Nytt fra Universitetet i Bergen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+24
+25
+25
+25
+
+Årskontingent Norsk Statistisk Forening 2010 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+26
+
+
+
+
+
+3
+
+Nå er det snart sol og sommer
+Selv om det virker som om vinteren i år gjør sitt for at det skal bli vanskelig å
+argumentere for en mulig global oppvarming, er det likevel på tide for de mest optimistiske av
+oss å innse at sommeren nok kommer også i år. Og med sommeren kommer lys, glede og
+konferanser!
+I år er det som kjent Norsk Statistisk Forening (NSF) som arrangerer
+23rd Nordic Conference on Mathematical Statistics (NORDSTAT)
+på Voss 14 – 17 juni.
+Styret håper at så mange som mulig får anledning til å delta, for det er noe spesielt med
+disse konferansene der man i tillegg til faglig utbytte også kan føle en viss geografisk
+tilhørighet. Spesielt mener jeg det er verdifullt for de yngre garder å delta på slike konferanser.
+Det er en god tradisjon at NSF har støttet økonomisk de Masterstudentene i Norge som
+deltar på de norske og ”nordiske” konferansene. Slik blir det også i år. Dette avtales og
+samordnes med de aktuelle institutter, så jeg håper alle sprer det gode budskap til de det kan
+være aktuelt for.
+For ytterligere å styrke miljøet blant de norske statistikerne, ved bl.a. å sikre en rimelig
+rekruttering til NSF, vil også instituttene nå få anledning til å tilby masterstudenter i statistikk et
+eget studentmedlemskap i NSF. Dette medlemskapet gir samme fordeler som et vanlig
+medlemskap, men pliktene blir imidlertid litt forskjellige. Vi forventer ikke at disse studentene
+like ivrig som dere ordinære medlemmer tar på seg tillitsverv i foreningen. Det er jo som kjent
+en nødvendighet at alle bidrar for at vi skal greie å drive denne foreningen, men vi har forståelse
+for at det kan være greit å se hvordan ting fungerer (eller ikke fungerer?) før man engasjerer
+seg. Dessuten blir dette studentmedlemskapet gratis i studieperioden. Jeg håper alle vil spre
+også dette glade budskap. (For innmelding ta kontakt med undertegnede via maaa@hials.no
+eller med foreningens økonomiansvarlig, Clara-Cecilie Günther, via claracecilie.gunther@nr.no.)
+Det er litt tidlig å ønske god sommer allerede nå, men jeg håper i alle fall at solen vil
+skinne sånn passelig på oss alle framover, om enn i overført betydning.
+
+Magne
+
+
+
+4
+
+Fra redaksjonen
+Kjære TG-lesere,
+i disse dager blåser en Eia-vind liv i den gamle diskusjonen om arv og miljø i serien
+Hjernevask på NRK. Foreløpig har vi bare sett det første programmet, som bygget
+opp en søkt enten-eller-kontrovers mellom biologer og samfunnsvitere i et forsøk på
+å forklare vårt kjønnssegregerte arbeidsmarked. Jeg antar at de aller fleste i
+realiteten sier 'ja takk, begge deler', og at vi statistikere kunne ha forklart folket
+både om variasjon og spesielt interaksjon. Samtidig er spørsmålet om biologi
+gammelt nytt, ikke så fryktelig interessant eller nyttig, og potensielt farlig. Ingen
+biologiske forskjeller legitimerer at vi ikke skal kjempe for at alle skal ha like
+rettigheter og muligheter. Og fra vår egen lille verden - selv om noen av forskjellene
+i jenters og gutters interesser kan ha en biologisk forklaring, betyr ikke det at vi ikke
+skal jobbe aktivt for at flere jenter skal studere realfag, for eksempel.
+Redaksjonen i TG sier også 'ja takk, begge deler' når det gjelder innholdet i bladet
+vårt. Vi har mange faste spalter, som vi skal hegne om, men vi må ikke bare bli en
+hyggelig blanding av familiealbum og møtebulletin – vi ønsker også at TG skal være
+et forum for meningsytringer og diskusjon. Vi oppfordrer medlemmene av NSF til å
+bruke bladet aktivt til for eksempel faglige feider, til lufting av strategier for styrking
+av statistikkfaget, for diskusjon av aktuelle finansieringskilder, ønsker om flere slike,
+for arbeid med rekruttering til faget, og mulige felles overlevelses-strategier for å
+holde statistikkmiljøene samlet i en universitetsverden der alle enheter ønsker seg
+sitt eget lille statistikerteam. Og så videre!
+Det er gledelig å se at stadig flere internasjonale konferanser/workshops/møter
+arrangeres av norske statistikkmiljøer. Dersom du er med i planleggingen av noe
+slikt, send oss noen ord, slik at NSFs medlemmer er informert i god tid, gjerne før
+arrangementene annonseres ute i den store verden.
+En av våre faste spalter er presentasjoner av stipendiater. Det forventes at alle
+doktorgradsstudenter i statistikk har presentert seg selv i TG en gang i løpet av
+stipendperioden. Dersom du er stipendiat, er godt i gang med arbeidet og ikke har
+presentert deg selv ennå, send inn noe, gjerne med et bilde!
+Som omtalt på forrige side av Magne Aarset, innfører foreningen nå gratis studentmedlemskap i NSF. Redaksjonen er svært glade for dette og ønsker alle masterstudenter velkommen som nye lesere! For TG utgjør disse et nytt publikum vi alle
+bør ha i bakhodet når vi sender inn stoff.
+Husk at vi også finnes på nett – http://www.math.uio.no/nsf/ .
+Og husk å sende dine bidrag til Geir Storviks mailadresse geirs@math.uio.no! Neste
+nummer av TG vil komme etter sommerferien, frist for innsending blir 15. august
+2010.
+Ingrid K. Glad
+
+
+
+5
+
+En introduksjon til Ian Hacking
+Årets Holbergprisvinner var den canadiske filosofen Ian Hacking. Selv om Hacking har jobbet med mange
+temaer var hovedbegrunnelsen til priskomiteen at hans arbeid med sannsynlighet og statistikk var enestående
+og viktig. Jeg har med denne teksten lyst til å gi en introduksjon til Hacking. Hacking er en veldig
+mangesidig forfatter, men jeg skal her kort motivere og diskutere bare ett av de mange temaene han tar opp.
+Jeg ønsker også å vise frem hans stil og teknikk, da disse skiller seg ganske mye fra andre forfattere som tar
+opp liknende temaer, og nettopp denne forskjellen gjør at det er ekstra interessant å lese ham.
+Moderne statistikk angriper praktiske problemer ved hjelp av avansert matematikk og en aksiomatisk
+tilnærming til sannsynlighet. Man tar naturlig i bruk for eksempel kontinuerlig tid stokastiske prosesser som
+brownske bevegelser, hvis eksistens og egenskaper er bevist av lange argumenter som hviler spesifikt på
+tellbar additivitet og utvalgsaksiomet (axiom of choice). Det finnes mange forskjellige matematiske
+formaliseringer av tilfeldighetsbegrepet.1 Statistikk har for lengst blitt så avansert at man anvender metoder
+som ville vært annerledes hvis man hadde jobbet med andre formaliseringer. Hvorfor har vi valgt akkurat den
+formaliseringen vi bruker, og hva er konsekvensene av dette valget?
+Sannsynlighet har for lengst blitt et hverdagsord, og sjansetankegangen har blitt mer og mer
+gjennomtrengende i alle deler av samfunnet. Allerede som barn begynner man å bruke begrepene tilfeldighet,
+sannsynlighet og sjanse. Men dette dagligdagse sannsynlighetsbegrepet er slettes ikke identisk med den
+matematiske formaliseringen vi jobber med i statistikk. Matematiske begreper må være entydige og presise,
+mens det hverdagslige sjansebegrepet virker kaotisk og inkonsistent. Ordene tilfeldig, sannsynlighet og
+sjanse brukes i så brede og kompliserte sammenhenger at det virker klart at man ikke kan formalisere det
+hverdagslige sjansebegrepet matematisk. Likevel vil alle enes om at den matematiske formaliseringen og det
+hverdagslige sjansebegrepet begge skal referere til ett og samme fenomen, som på en eller annen måte finnes
+der ute i verden, på samme måte som geometriske former.
+Grunnleggende geometri beskriver fenomener som har et enklere forhold mellom teori og fenomenene vi
+sanser. Men selv her er dette forholdet komplisert, og før Riemann, og for å ikke snakke om Einstein, var
+matematikere og filosofer stort sett enige om at euklidsk geometri beskrev hvordan verden virkelig var. Kant
+gikk til og med så langt som å mene at euklidsk geometri var implisert av selve vår kapasitet til å erfare noe
+som romlig. Geometri hadde forandret seg lite på over tusen år, og troen på at man hadde funnet den
+endelige essensen av den fysiske verden bidro til at man ikke kom videre før man stilte vanskelige
+grunnlagsspørsmål. Sannsynlighet og statistikk har hatt en mye kortere historie enn geometri, og ble modnet
+først i det tjuende århundre. Før 1600 fantes ikke sjansebegrepet, og statistikere og probabilister har stort sett
+jobbet konstruktivt med å balansere på plass en anvendbar teori. Sjansebegrepet er mye mindre kulturelt
+universelt og er vanskeligere tillært enn for eksempel geometri. Derfor virker det naturlig å undersøke
+hvordan dette begrepet ble til, for så å følge dets utvikling helt frem til vår tid. Ian Hackings bok The
+Emergence of Probability – a philosophical study of early ideas about probability induction and statistical
+inference (heretter TEP) fra 1975 er et grundig studium av hvordan sjansebegrepet oppstod rundt 1640 og
+følger begrepets utvikling frem til 1737. Fortsettelsen følger i The Taming of Chance (heretter TTC) fra
+1990, som tar for seg tiden frem til 1880. Mens TEP handler om sannsynlighet, handler TTC hovedsaklig
+med statistikk. Denne introduksjonen begrenser seg hovedsaklig til TEP. Hensikten med TEP beskrives som
+følger:
+I am inviting the reader to imagine, first of all, that there is a space of possible
+theories about probability that has been rather constant from 1660 to the present.
+Secondly, this space resulted from a transformation upon some quite different
+conceptual structure. Thirdly, some characteristics of that prior structure, themselves
+quite forgotten, have impressed themselves on our present scheme of thought. Fourth:
+perhaps an understanding of our space and its preconditions can liberate us from the
+cycle of probability theories that has trapped us for so long. This last picture has a
+familiar ring. The picture is, formally, the same as the one used by the psychoanalysts
+and by the English philosophers of language. „Events preserved in memory only
+below the level of consciousness‟, „rules of language that lie deep below the surface‟,
+and „a conceptual space determined by forgotten preconditions‟: all three have, of
+1
+
+I artikkelen “Interpretations of probability” på Stanfords åpne filosofileksikon
+[http://plato.stanford.edu/entries/probability-interpret/] nevnes i hvert fall fem.
+
+
+
+6
+
+course, a common ancestor in Hegel. (TEP, s. 16)
+
+Som eksempel på sitatets andre og tredje momenter ønsker jeg å diskutere Hackings påstand om at
+sannsynlighet helt fra starten har vært et grunnleggende tosidig begrep som samtidig har stått for både
+subjektiv grad av usikkerhet og andel gunstige hendelser av fenomener med en stabil relativ frekvens. Denne
+todelingen er fortsatt med oss, og enhver forklaring på sannsynlighetens begynnelse må forklare hvordan
+dette oppstod. For å undersøke hvorfor og hvordan sannsynlighet startet som et tosidig begrep tar Hacking
+utgangspunkt i filosofen Foucaults diskusjoner om tegnet fra Foucaults bok Tingenes orden (TO) fra 1966.
+Foucault var en av etterkrigstidens mest innflytelsesrike filosofer og har skrevet flere bøker som presenterer
+teorier omkring skjulte antagelser og strukturer i historie og idéhistorie. Foucaults grunnverktøy er å beskrive
+det han kaller perioders epistemer. Epistemer er de bevisste og ubevisste antagelsene og kravene som en tid
+eller kultur legger til grunn for hva kunnskap er. Flere epistemer kan finnes samtidig, og de forandres og
+utvikles med tid. For å forstå våre egne epistemer må vi forstå hvordan de oppsto, og prosessen med å følge
+disse epistemenes opprinnelse og utvikling ved å lese originalkilder kaller Foucault arkeologi. Metoden er
+mye mer komplisert enn det jeg har beskrevet her, men grunntanken bak den er naturlig – og til en viss grad
+også nødvendig – når man skal jobbe med intellektuell historie før 1900: folk tenkte annerledes om verden
+før enn nå, og det må man ta hensyn til når man skal forstå fortiden fra nåtiden. Middelaldertankegangen var
+for eksempel svært forskjellig fra vår, og det er lett å feiltolke middelalderske ideer med mindre denne
+forskjellen tas hensyn til. Hacking eksemplifiserer dette med Galileis berømte sitat:
+Philosophy is written in this grand book, the universe, which stands continually open
+to our gaze. But the book cannot be understood unless one first lears to comprehend
+the language and read the letters in which it is composed. It is written in the language
+of mathematics.
+
+På grunnskolen lærer man at Galilei her må tolkes som å komme med en radikal og Pytagoreisk nytolkning
+av universet, men utsagnet er nettopp det motsatte – han populariserer sine fysiske teorier på en måte som vi
+snart skal få se at var svært tidsriktig.
+I tillegg til den berømte trinnstigen i naturen – som lineært rangerer verdien til alt i verden, hvor steiner er
+nederst, opp til planter, til mennesker, til engler og så helt opp til Gud – var en sentral del av
+sekstenhundretallstenkningen forståelsen om at verden henger sammen gjennom likheter, analogier og tegn.
+Alt er koblet til alt, og enkeltdeler henger sammen med alle andre deler av verden. Dette var ikke ment som
+et poetisk bilde, men bokstavelig: Hvis en urte liknet på et menneskelig organ er dette et tegn på at den hadde
+helbredende egenskaper for dette organet. Innen okkult kristendom oppstod etter hvert tanken om at et tegn
+ikke bare var en likhet – men Guds skrift i naturen. Hvis man kan dechiffrere disse tegnene kan man lese
+Guds tanker. Alkymistene og legene hadde intrikate tolkningssystemer for å finne naturens hemmeligheter,
+og mens alkymistene ønsket å lese Guds tanker for å komme nærmere Ham, ønsket legene å etablere en
+vitenskap med tegnene som bevisgrunnlag. Problemene med tegn er at noen tegn er sikre, mens er andre mer
+usikre. De usikre tegnene er usikre på to måter: Man har en subjektiv usikkerhet – ved å ikke være sikker på
+om man har lest Guds skrift riktig – og man har en frekventistisk usikkerhet – ved at selv om et tegn er riktig
+lest, er det ikke noen nødvendighet i at tegnets makt utføres: Urtemedisiner fungerer ikke alltid.
+Sammenhengen mellom denne historiske observasjonen og tidlig sannsynlighetsregning virker kanskje litt
+utrolig, men Hacking driver ikke med tradisjonell historieskrivning.
+The sign-as-evidence indicates with probability but I do not claim that the authors
+who employed it were an „influence‟ on the founding fathers of probability. Some
+historians of ideas are much concerned with the way in which work of A can
+influence his successor B. Two kinds of influence are considered. B may deliberately
+choose to employ central concepts or techniques of A, or else B may unwittingly
+pursue a programme initiated by A. Such talk of „influence‟ is part of the historians‟
+language of precursors and anticipations. It would be amazing if Paracelsus [en
+alkymist diskutert tidligere i boken] were an „influence‟ on a Pascal or a Leibniz. The
+mathematicians despised what they knew of the occult. Yet their contempt for those
+earlier hermetical figures does not preclude the possibility that whenever these
+geometers thought about opinion, they thought in a conceptual space that was the
+legacy of the very empirics whom they scorned. The intellectual objects about which,
+and in which, the new mathematicians thought had been formed in the crucibles of the
+alchemists and the vials of the physicians. [TEP, s 44-45]
+
+Det er på dette nivået Hackings og Foucaults arbeidsmetoder for søken etter skjulte strukturer kommer inn.
+
+
+
+7
+
+Denne metoden har sine røtter i Nietzsches Moralens genealogi fra 1887, og ble gjenopptatt og
+videreutviklet av Foucault. Hackings viktigste påvirkning fra Foucault består i at han søker koblinger som
+dem beskrevet i sitatet ovenfor, og ikke bare i den mer opplagte tanken om at man må være bevisst at
+fortidens mennesker tenkte annerledes enn oss.
+Diskusjonen om tegnet i TO er på bare fem sider, men avslutter med:
+If we question Classical thought at the level of what, archeologically, made it
+possible, we perceive that the dissociation of the sign and resemblance in the early
+seventeenth century caused these new forms – probability, analysis, combination, and
+universal language system – to emerge, not as successive themes engendering one
+another or driving one another out, but as a single network of necessities. And it was
+this network that made possible the individuals we term Hobbes, Berkeley, Hume or
+Condillac. (TO, s 70)
+
+Dette utdraget oppsummerer den videre hovedhistorien til TEP, og Hacking videreutvikler og underbygger
+Foucaults svært kompakte diskusjon av sannsynlighet slik at det blir et helhetlig prosjekt. Idégrunnlaget til
+sannsynlighet er ikke bare viktig for statistikk, men også alle vitenskaper som anvender statistikk. Men fra
+sitatet over ser vi at Foucault og Hacking mener at sjansebegrepet også har spilt en viktig del i et idéhistorisk
+puslespill som er av mye bredere interesse. I Humes A Treatise of Human Nature fra 1737 finner vi hans
+berømte induksjonsproblem. 1737 er også tiden da TEP avsluttes. Ikke fordi Humes problem er konklusjonen
+for sjansebegrepets endelige utvikling – men fordi det at spørsmålet om induksjonens gyldighet var mulig å
+stille illustrerer at sjansebegrepet hadde modnet seg til det vi kjenner i dag.
+Mye av statistikkens tidlige historie har vært skrevet av enten historieinteresserte statistikere eller
+statistikkinteresserte historikere. Før Hacking har slik historieforskning stort sett begrenset seg til matematisk
+historie, uten å tolke og utdype konsekvensene av den begrepsmessige utviklingen til sannsynlighet og
+statistikk. Etterkrigstiden førte med seg mange nye og dype forskningsmetoder for å skrive idéhistorie, og få
+av de tradisjonelle historieverkene benytter seg av disse. Ikke bare har Hacking de intellektuelle verktøyene
+fra samtidsfilosofi til rådighet, han er blant dem som utvikler dem. Disse verktøyene, som for eksempel
+Foucaults historieperspektiv, vet man som oftest ikke om – og kan i hvert fall ikke mestre – uten å være
+filosof.
+Sannsynlighetsbegrepets og statistikkens grunnlag er koblet til veldig mange forskjellige fagfelt. For
+eksempel har sannsynlighet og statistikk mye med induksjon og kausalitet å gjøre, og dette er sentrale
+begreper for moderne erkjennelsesteori og vitenskapsfilosofi. Men statistikk er også grunnleggende innen for
+eksempel samfunnsvitenskap, hvor man kategoriserer og tolker samfunnet ved hjelp av å telle kvantifiserbare
+størrelser. Hacking vet mer enn nok om disse feltene som statistikk både påvirker og mottar påvirkning fra til
+å analysere den sammensatte historien til fagfeltet vårt, og vi som statistikere kan benytte oss av ham for å
+forstå mer av bakgrunnen til det vi driver med.
+Steffen Grønneberg, stipendiat i statistikk ved Avdeling C, UiO
+PS. I Oslo er vi en gjeng med statistikere som skal starte med en lesegruppe der vi vil ta for oss tekster om
+grunnlaget til statistikk. Vi starter med Hacking nå i vår, og inviterer herved andre interesserte til å bli med.
+Send meg en epost (steffeng@math.uio.no) hvis du er interessert så formidler jeg interessen videre.
+
+
+
+8
+
+Thore Egeland 50 år
+13. Februar i år fylte Thore 50 år. Thore
+startet
+sin
+forskerkarriere
+innen
+pålitelighetsteori der han i 1989 tok sin
+doktorgrad (On dependence and system
+reliability
+med
+Bent
+Natvig
+som
+hovedveileder). I denne perioden hadde han
+også en forskerstilling ved Veritas Research.
+Etter dette har han imidlertid vist sin
+allsidighet ved å gi betydelige bidrag innen
+mange ulike felt.
+Fra 1989 til 1996 var han ansatt ved Norsk
+Regnesentral på Sand gruppen. Med sin
+ballast som generell statistiker ble han der
+involvert i en rekke prosjekter relatert til
+oljebransjen og bidro sterkt til å sette
+kompliserte problemstillinger inn i statistiske
+rammer samt å utvikle metodikk basert på
+moderne statistisk teori. I denne perioden
+kom han også for første gang i kontakt med Rettsmedisinsk institutt og ble
+involvert i problemstillinger som i stor grad har preget hans forskningsaktivitet
+senere.
+Etter sin periode på NR, startet han opp på Rikshospitalet som forsker og veileder
+men kanskje først og fremst
+som drivkraft for å bygge opp et godt
+biostatistikksenter. Med sitt vinnende vesen og sin faglige styrke fikk han gjort
+statistikkfaget kjent i det kliniske miljøet og fkk dermed dratt inn statistikere i
+relevante prosjekter. Parallelt med denne stillingen hadde han også en Professor
+II stilling ved avdeling for medisinsk statistikk, UiO. Her fikk også frem sine
+pedagogiske evner gjennom formidling av statistikkfaget til vordnede leger.
+I 2004 skiftet Thore igjen beite, denne gang som forsker
+ved Ullevål
+Universitetssykehus. Dette var et skifte mer tilbake til et forskningsmiljø og med
+problemstillinger knyttet til genetikk og familierelasjoner.
+Interessen for
+rettsmedisinske problemer førte han imidlertid i 2008 til fast ansettelse ved
+Rettsmedisinsk institutt. Her kan han konsentrere seg om problemstillinger som
+kanskje ligger hans hjerte nærmest, dvs bruk av (DNA) data for identifisering av
+personer og slektsrelasjoner. Dette er nok også det felt han har hatt størst
+innflytelse.
+Thore har så langt vist en svært imponerende produksjon med over 100
+publikasjoner. Kanskje enda mer imponerende er at han sammen med Petter
+Mostad har utviklet et program, familias, for farskaps og identifiseringssaker som
+har over tusen brukere over hele verden. Forskningsarbeider knyttet til dette har
+
+
+
+9
+
+også skaffet han et stort internasjonalt nettverk som han vet å pleie godt.
+Foruten å være en god metodisk statistiker har Thore alltid hatt en god nese for å
+identifisere gode problemstillinger, noe som også gjør han til en attraktiv
+samarbeidspartner for andre statistikere. Thore har for øvrig en god sans for
+morsomme titler på sine publikasjoner og foredrag, som f.eks ’’Computing in the
+solarium’’, ’’To rotter er fett nok’’,’ ’Rødvin, farskap og katastrofer’’. Thore er
+ellers en sosial og likandes person som alltid er spennende og morsom å snakke
+med. Han er en ekte akademiker med god kunnskap på og interesse for mange
+ulike felt.
+På vegne av venner og kolleger gratuleres Thore med de første 50 år og ønskes
+lykke til videre.
+
+Geir Storvik
+
+
+
+10
+
+Ørnulf Borgan 60 år
+Så fyller også Ørnulf 60 år, den 8.
+april. Ørnulf har spilt en sentral rolle i
+norsk statistikk, både i kraft av faglige
+og personlige egenskaper. Han er ikke
+bare en meget dyktig fagmann, men
+også en som tar et ansvar rundt seg,
+som bygger miljøer og viser omsorg,
+som er sosial, hyggelig og vennlig. Det
+som gir et fag innhold og mening er
+ikke bare det strengt faglige
+grunnlaget, for eksempel
+statistikkens formler og metoder,
+men likeså mye den menneskelige
+setting som skapes rundt det av
+fagets representanter. Ørnulf har
+blant annet en usedvanlig evne til å
+lytte og til å interesse seg for andres synspunkter og ideer. Han er en meget god samtalepartner, og er meget
+populær å samarbeide med.
+Ørnulf ble utdannet på 70-tallet, og var slett ikke bare opptatt av faget men brukte også mye tid på
+studentpolitikk. Etter hovedfag og en periode som vitenskapelig assistent ved Universitetet i Oslo var han i tre
+år adjunkt i forsikringsmatematikk ved Københavns Universitet. Etter en stipendperiode, som inkluderte et
+opphold ved Standford University, ble han i 1984 dr. philos. ved Universitetet i Oslo. Han var i et år
+førsteamanuensis ved Norges Landbrukshøgskole. Siden 1984 har han vært ansatt ved Universitetet i Oslo,
+først som førsteamanuensis og fra 1993 som professor.
+I Københavh ble Ørnulfs interesse fanget av det voksende feltet overlevelses- og forløpsanalyse. Han deltok
+over mange år i et intenst samarbeid i en forskningsgruppe sammen Niels Keiding, Per Kragh Andersen og
+Richard Gill. Dette resulterte i ”den store gule boken” fra 1993 som stadig er en internasjonal bestselger. På
+Google Scholar er det for øyeblikket registrert ca 2000 referanser til boken. Som om ikke dette var nok har han
+i 2008 gitt ut en bok til innen samme felt ”Survival and Event History: A Process Point of View” sammen med
+Odd Aalen og Håkon Gjessing. Ørnulf har i tillegg til disse hatt mange samarbeidspartenere nasjonalt og
+internasjonalt. Kanskje mest omfattende er samarbeidet med Brian Langholz fra University of Southern
+California om nøstede kasus-kontroll studier. I de senere årene har Ørnulf arbeidet mye med det helt nye
+forskningsfeltet statistisk genomikk.
+Hans solide internasjonale posisjon vises også i at han har vært medredaktør i Scandinavian Journal of
+Statistics (SJS) og i Annals of Statistics. Dessuten var han i 2007-9 sammen med Bo Lindqvist hovedredaktør i
+SJS. Ørnulf er også innvalgt medlem i International Statistical Institute. I 2005/2006 ledet han og en av de
+undertegnede (Odd Aalen) forskningsgruppen Statistical Analysis of Complex Event History Data ved Senter for
+grunnforskning ved Det norske vitenskapsakademi.
+Ørnulfs pedagogiske evner er velkjente, verdsatte og beundret. Han har vært veileder for en rekke
+hovedfagsoppgaver og ihvertfall 8 doktorgradsavhandlinger .
+Også som lærebokforfatter for videregående skole har han gjort en innsats som vil bli stående. I forbindelse
+med reform 94 var han egasjert i en rekke kurs for matematikklærere, noe som senere ledet til
+medforfatterskap i en av de mest brukte matematikkbøkene i videregående skole.
+
+
+
+11
+
+Ørnulf er en viktig del av statistikkmiljøet på Matematisk institutt. Med sine veloverveide synspunkter er han
+en person som blir hørt. Det gjelder forøvrig i alle sammenhenger. Han er bredt orientert med et våkent øye
+for hva som rører seg i samfunnet.
+Selv om barna Yngve og Eldrid nå har flyttet hjemmefra, har de fortsatt mye kontakt med foreldrene, og er en
+viktig del av livet til Tone og Qrnulf. Og som de sosiale og omgjengelige personene de er, er det alltid hyggelig
+for kolleger og gamle venner å komme på besøk i Almeveien på Nordberg .
+
+Odd Aalen Sven Ove Samuelsen Anders Rygh Swensen
+
+
+
+12
+
+Selvpresentasjon Ingrid Hobæk Haff
+Statistics for Innovation (sfi)2, Norsk
+Regnesentral.
+Planlagt innlevering: April 2012.
+Planlagt tittel på avhandling: Pair­copula
+constructions ­­ theory and applications.
+Veiledere: Arnoldo Frigessi, Kjersti Aas og
+Ørnulf Borgan.
+Jeg er ikke én av de som har gått strake veien.
+Da jeg hadde fullført studiene mine ved linjen
+for Industriell Matematikk ved NTNU, ønsket
+jeg en ”ordentlig” jobb, og begynte derfor på
+NR. Etter seks lærerike år med håndtering av
+reelle problemstillinger og kunder, ønsket jeg
+litt mer tid til å fordype meg, og søkte derfor ett
+av SFI­stipendene. Stort sett angrer jeg ikke på det. Jeg nyter å kunne bruke to hele uker
+på å lese og skjønne en artikkel helt til bunns, og jeg har hatt stor glede av å ta fag igjen (i
+det minste utenom eksamensperiodene). Litt mindre lystbetont, om enn like lærerikt og
+ikke minst karakterbyggende, har det vært å stange hodet i veggen. Det er enda godt jeg
+har slike positive og oppmuntrende veiledere.
+Temaet jeg har valgt, fattet jeg interesse for mens jeg jobbet i vanlig forskerstilling på
+NR. Det dreier seg om såkalte par­copula­konstruksjoner. Copula­modeller har vært i
+vinden de siste årene, og har sågar fått skylden for finanskrisen. De gjør det mulig å
+kombinere marginalfordelinger av forskjellig art, og er dermed nokså fleksible. Det
+eksisterer etterhvert en stor katalog over bivariate copulaer. Problemet er at den
+tilsvarende lista er betraktelig redusert i dimensjon tre og høyere. I forbindelse med en
+analyse av finansielle data, så vi at ikke bare marginalfordelingene, men også de parvise
+avhengighetene var svært forskjellige. De multivariate copulaene vi hadde til disposisjon,
+slik som Gaussisk, Student t og diverse arkimediske varianter, var ikke i stand til å
+gjenskape det. Det var i den forbindelse vi fikk høre om par­copula­konstruksjoner.
+Disse er strukturer som består utelukkende av parvise copulaer, som en kobler sammen
+ved hjelp av betinging. Par­copulaene kan komme fra helt forskjellige familier, hvilket
+gjør konstruksjonen svært fleksibel. Det første jeg har undersøkt er nettopp hvilke typer
+fordelinger en kan representere ved hjelp av slike strukturer, og hvilke begrensinger de
+har. I det siste har jeg sett på forskjellige måter å estimere strukturens parametre på.
+For ikke å miste fullstendig kontakt med den virkelig verden, har jeg beholdt en 20%
+stillingsbrøk ved NR. Med denne helt skreddersydde modellen har jeg til sammen tre år
+og ni måneder på å gjennomføre graden, hvorav det i skrivende stund gjenstår litt over to
+år.
+
+
+
+13
+
+Sjølvpresentasjon Arne Johannes Holmin
+Matematisk Institutt, UiB.
+Planlagd innlevering: Oktober 2012
+Mogleg tittel på avhandlinga: Statistical characterization
+of group behaviour using underwater acoustics.
+Rettleidarar: Dag Tjøstheim (UiB), Nils Olav Handegard
+(Havforskingsinstituttet) og Rolf Korneliussen
+(Havforskingsinstituttet)
+Som seg høver for ein statistikar var det reint tilfeldig at
+eg i 5. semester av bachelor i fysikk ved UiB melde meg
+opp i to statistikkemne, det eine med hovudrettleidaren
+min Dag Tjøstheim som førelesar. Eg fann at
+statistikkfaget var praktisk retta og oversynleg og
+nettopp det eg interesserte meg for, og melde meg opp til
+masterprogrammet hausten 2006.
+I november 2008 byrja eg på doktorgrad ved UiB og fekk byggja vidare på arbeidet eg gjorde på
+mastergrada, der Tjøstheim introdusere meg for problemstillinga å analysera data frå ein
+tredimensjonal sonar frå Simrad kalla MS70, som Havforskingsinstituttet hadde byrja taka i bruk.
+MS70-sonaren sender ei firkanta kjegla av 500 smale lydstrålar ut i sjøen (25 strålar horisontalt
+og 20 strålar vertikalt) og tida det tek frå ein lydpuls vert sendt ut til ekkoet vert registrert gjev
+den radielle inndelinga. Lydfrekvensen ligg mellom 75 og 111 kHz (ultralyd), og volumet til
+sonaren spenner opp til 500 meter ut frå forskingsskipet, og opp til 500 meter horisontalt og
+vertikalt. Normalt sender sonaren ut ein lydpuls kvart andre sekund, og med det store volumet
+sonaren spenner kan ein få seriar av tredimensjonale data frå heile fiskestimar på meir enn tusen
+tidssteg (eller so lenge ein orkar fylgja etter stimen).
+Eitt av resultata frå arbeidet på mastergrada var eit sett av variablar som kunne nyttast til å
+karakterisera eigenskapar for stimar observerte med MS70-sonaren. Mange av desse variablane er
+avhengige av kva dataverdiar som tilhøyrer ein fiskestim, og kva verdiar som ligg utanfor stimen.
+Ei viktig oppgåva i doktorgrada vil vera å finna fram til ein robust algoritme for å identifisera kva
+verdiar som tilhøyrer stimen, med eit gjeve sannsyn.
+Eit problem for ein slik algoritme, og for analyse av akustiske data frå fiskestimar generelt, er dei
+ulike typane av støy som ligg i dataa. Bakgrunnsstøy stammar gjerne frå forskingsfartyet og
+sonaren i seg sjølv, medan ei meir inngåande form for støy kjem av akustisk interferens mellom
+fisk i stimen. I akustikken er det eit velkjend fenomen at den akustiske intensiteten frå meir enn
+eitt objekt er eksponentielt fordelt, dersom fasen åt svingingane frå objekta er uniformt fordelte.
+Med frekvensar kring 100 kHz er bylgjelengda i vatn om lag 1,5 cm, og det er fornuftig å gå ut
+frå at variasjonar i avstanden til objekta fører til at fasen er uniformt fordelt. Grunna den store
+variasjonskoeffisienten i eksponentialfordelinga kan denne støyen by på problem i statistisk
+analyse av fiskeriakustiske data.
+Ei anna kjelda til variasjon er at det akustiske signalet frå ein avlang fisk er avhengig av
+orienteringa åt fisken i høve sonaren. Ekkoet frå ein fisk observert frå sida kan vera opptil 100
+gonger større enn frå den same fisken sedd framanfrå. Dersom ein ynskjer estimera tettleiken av
+fisk i ein stim lyt ein difor seia noko om orienteringa til einskildfiskane i stimen.
+Med visse om variasjonen i akustiske data, er det eit viktig spørsmål i kor stor grad variasjonen
+
+
+
+14
+
+påverkar informasjonen ein kan henta ut frå slike data. Med mål om å klårgjera denne
+problematikken har eg i samarbeid med ein av rettleidarane mine frå Havforskingsinstituttet, Nils
+Olav Handegard, starta arbeidet med å simulera akustiske observasjonar basert på posisjon,
+orientering og akustiske eigenskapar til einskildfisk i stimar, og dei akustiske eigenskapane til
+sonaren som skal simulerast. I korte trekk gjeng dette ut på å estimera og summera ekkoet frå
+kvar einskild fisk, og leggja til støy basert på analyse av støyen i reelle data.
+Med simuleringa av akustiske observasjonar er vona å få ei kopling mellom åtferdsmodellar for
+fiskestimar, og in situ akustiske observasjonar av reelle fiskestimar. Eit mykje nytta verkty for å
+forklåra og forstå stimåtferd som fenomen, er individbaserte modellar (IBM) som set opp reglar
+for korleis einskildindivid samhandlar med andre individ. Typisk for slike modellar er at
+fråstøyting, tiltrekkjing og likeretting mellom individ vert parametrisert som funksjon av posisjon
+og orientering åt granneindivid. Gjennom å justera parametrane for dei ulike reglane
+einskildfisken fylgjer, kan ein til dømes gjenskapa stimar som gjeng frå ein tilstand med låg
+likeretting mellom individ til ein tilstand med høg likeretting, dersom eit bytedyr gjeng til åtak på
+stimen.
+Ein sentral aktør i studiar av stimåtferd og individbaserte modellar er lab’en til professor Iain
+Couzin ved Princeton University i USA. Våren 2010 oppheld eg meg saman med Nils Olav
+Handegard på Couzin Lab, som tél om lag 20 personar frå eit spekter av fagfelt og nasjonalitetar.
+Sams for alle er arbeidet med å skildra åtferd og interaksjon mellom individ hjå dyr og menneske.
+I november 2009 var eg so heldig å få vera med på tokt med G. O. Sars i Norskehavet, der me
+fekk timelange observasjonar av sildestimar og i tillegg fekk sjå spekkhoggarar i hundretal som
+jakta på silda. Med robust statistisk karakterisering av desse fiskestimane vonar me å kunne
+avdekkja eigenskapar ved fiskestimar som mellom andre Couzin Lab kan draga nytte av i deira
+arbeid med individbasert modellering av gruppeåtferd.
+
+
+
+15
+
+Modern statistics for climate research:
+International workshop
+Rapport
+Møtet fant sted I lokalene til Det Norske Videnskaps-akademi i Oslo 1-2 februar 2010. Programmet for møtet
+og liste over deltakerne er lagt ved nedenfor. Det var alt i alt 50 deltakere og 18 foredrag. De fordelte seg slik
+
+Deltakere
+Foredragsholdere
+
+Danmark
+1
+1
+
+Finland
+1
+1
+
+Island
+2
+1
+
+Norge
+34
+5
+
+Sverige
+4
+2
+
+Tyskland
+3
+2
+
+UK
+3
+3
+
+USA
+3
+3
+
+Dette møtet var en oppfølging av vedlagte brev til Norges Forskningsråd av 12.03.2008, og har kommet i stand
+gjennom samarbeidet mellom Peter Guttorp og Arnoldo Frigessi innen Statistics for Innovation (Senter for
+fremragende innovasjon). Oppsummerende kan en si at foredragene og diskusjonen dreiet seg om de syv
+prikkpunktene vi nevnte i brevet til forskningsrådet, men kanskje med størst vekt på statistiske metoder for å
+lage regionale klimaforrutsigelser som er konsistente med globale klimamodeller (nedskalering).
+Peter Guttorp redegjorde for Nordic nettwork for Statistical Climatology som det nettopp har fått tilslag fra
+Nordisk Råd (ca 300 000 kroner årlig). Både fra britisk side (Peter Challenor, National Oceanography Centre,
+Southhamton) og fra amerikansk side (Doug Nychka, National Centre for Climate Research, Boulder) er det
+vilje til å samarbeide om statistikk innen klimaforskningen med oss i Norden. Det ble videre varslet å søke å
+utvide denne nordiske satsingen til også å få i stand master- og forkerutdanning innen statistisk klimatologi.
+
+Klimaforskningen bør styrkes statistisk
+Notat av 12.03.2008.
+Til:
+
+Norges Forskningsråd
+
+Fra:
+
+Arnoldo Frigessi, professor i statistikk, UiO
+Michael Hoel, professor i økonomi, UiO
+Eystein Jansen, Professor og direktør for Bjerknessenteret, UiB
+Henning Omre, professor i statistikk, NTNU
+Tore Schweder, professor i statistikk, UiO
+Dag Tjøstheim, professor i statistikk, UiB
+Odd Aalen, professor i statistikk, UiO
+
+Forslag
+Norges Forskningsråd bør legge til rette for å få statistikere trukket mer aktivt med i den klimaforskning rådet
+støtter. Dette kan gjøres ved at NORKLIMA og andre programmer som bidrar til klimarelatert forskning
+oppfordrer prosjektsøkere til å samarbeide med statistikere, og til å legge vekt på arbeidet med å karakterisere
+og kvantifisere usikkerhet knyttet til klimaprognoser og varsler om fremtidige ekstremhendelser og
+følgeskader. NORKLIMA har gode målformuleringer, men vi mener at de vil bli bedre fulgt opp ved at gode og
+
+
+
+16
+
+langsiktige prosjekter med vekt på statistiske problemstillinger som er sentrale for klimaforskning og
+klimapolitikk prioriteres.
+
+Begrunnelse
+Klimaforskningen, slik den oppsummeres av FNs klimapanel IPCC har gjort store framskritt, og klimaspørmålet
+er nå vår tids store spørsmål. Til tross for dette, og til tross for de gode bidragene norske klimaforskere har gitt,
+mener vi det er behov for å styrke den statistikkfaglige kompetansen i norsk klimaforskning. Å få statistikere
+inn i samarbeide med klimaforskere, både på den naturvitenskapelige og den samfunnsvitenskapelige siden, vil
+kunne styrke forskningens kvalitet fordi flere av klimaforskningens sentrale problemer langt på vei er
+statistiske problemer. Både nasjonalt og internasjonalt har det også vært for lite innslag av statistikkfaglig
+kompetanse i klimaforskningen. Tiden er nå inne til å rette på dette, både for å styrke klimaforskningens
+kvalitet og for å forhindre at dens resultater taper legitimitet.
+I november 2007 uttalte The American Statistical Association (ASA) at det støtter konklusjonene til IPCC, men
+at flere statistikere bør med i arbeidet til IPCC og også i landets gjennomgang og evaluering av
+klimaforskningen, se http://www.amstat.org/news/index.cfm?fuseaction=climatechange. Vi er av samme
+oppfatning. ASA oppfordrer til samarbeid mellom statistikere og andre forskere for å bedre vår forståelse av
+klimaet, hva som forårsaker klimatiske endringer og hva klimaendringene kan føre til for natur og samfunn. I
+uttalelsen trekker ASA fram fem hovedområder for samarbeid: Tolking og syntetisering av klimatiske data;
+design og analyse av klimamodellkjøringer og karakterisering av usikkerhet av ulikt slag; studiet av regionale og
+lokale effekter av klimatiske endringer; analyse og tolking av data av høy kompleksitet og dimensjon; samt
+hvordan klimatiske endringer vil påvirke folks helse. Vi er enig i alt dette, og det var også konklusjonen på
+fjorårets møter i EU-regi om klimaforskningens statistiske sider, der norske statistikere deltok. Som ASA mener
+vi også at arbeidet i IPCC har vært svært fruktbart og uhyre viktig, og at det vil fortsette slik.
+Forskningsrådets program NORKLIMA oppfordrer i sin målformulering til at statistisk kompetanse trekkes inn i
+klimaforskningen. Det er i alle fall slik vi leser programplanen som setter som et av hovedmålene: ”En særlig
+utfordring ligger i arbeidet med å kvantifisere og kommunisere usikkerhet knyttet til klimascenarier og effekter
+av klimaendringer, samt betydningen av usikkerhet for utarbeidelse av tilpasningsstrategier”. I
+handlingsplanen for 2007 settes ”bidra til økt forståelse av klimasystemet og dets variabilitet, samt
+kvantifisering av usikkerhet” opp som første delmål. Som nevnt har dette i for liten grad ført til at statistikere
+er trukket med i arbeidet. Vi mener at statistikkfaget, slik det spenner fra stokastisk modellering, over statistisk
+inferens, statistisk regnekunst og databehandling og inn i økonometri, biostatistikk og annen anvendt
+statistikk, er nyttig for klimaforskningen. Vårt inntrykk er også at norske klimaforskere vil kunne ha glede av et
+slikt samarbeid. Dette gjelder særlig de beste forskerne som arbeider med klimaspørsmål i substansfagene
+(geofysikk, oseanografi, meteorologi, økonomi osv.) fordi de vil kunne gjøre seg særlig stor nytte av
+statistikernes spesialkompetanse og de vil kunne utforme fruktbare fellesprosjekter. Statistiske problemer som
+kvantifisering av usikkerhet knyttet til prognoser for klimautvikling er meget vanskelig, og krever innsats av de
+beste innen klimaforskningens substans og metode.
+Vår liste over mulige felter for samarbeid er som følger. Lista er høyst tentativ og langt fra fullstendig.
+
+Integrering og tolking av data. Det er store mengder data av forskjellig slag (temperatur, utslipp,
+tetthet av ulike klimagasser, …) og fra mange kilder (satellitter, værballonger, iskjerner, sedimenter,
+…). De kan hver for seg være interessante, men det er i kombinasjon og forstått gjennom en modell
+for klimaprosesser de kan bidra til kunnskap om klimatiske endringer og deres årsaker. Det er også i
+lys av modellen at en kan sette sammen data med ulik dekning i rom og tid. Metoder som kan brukes i
+klimaforskningen innen romlig statistikk og tidsrekkeanalyse, for eksempel for paneldata og for
+kointegrerte serier, bør tilpasses, videreutvikles og forbedres.
+Estimering av parametere. Når alle modellens dynamiske elementer er fysiske naturlover og
+koeffisientene er kjente fysiske konstanter trengs ingen estimering. Klimamodellene må selvsagt i
+tillegg ha dynamiske og statiske elementer som er delvis uspesifiserte og hvis struktur og nummeriske
+
+
+
+17
+
+spesifikasjon må bestemmes på grunnlag av observerte data. For slik estimering er metoder basert på
+(tilnærmete) likelihoodfunksjoner til stor hjelp. Å kombinere simulering med likelihoodestimering kan
+være en mulighet. Parallelt med de store klimamodellene brukes en rekke mindre modeller. Det kan
+være modeller for klimatiske delprosesser, eller for klimaet i en bestemt region. Det kan være
+krevende nok å estimere parametere også i disse mindre modellene, og å sette dem sammen slik at
+deres samspill er i samsvar med observerte data er en statistisk utfordring.
+Oppløsning. Hvor fin bør oppløsningen i tid og rom være for klimamodellene, og hvordan bør data
+fra romlige deler og tidsintervaller håndteres? Her er den statistiske utfordringen å veie
+informasjonsnytte av større oppløsning mot kostnad, og å effektivisere for gitt oppdeling. Dette
+gjelder både oppskalering av egenskaper fra fin skala til klimamodellskala og nedskalering motsatt vei.
+Stokastisk dynamikk. Store begivenheter som vulkanutbrudd, anomalier i havet, meteorittinnslag
+osv har karakter av tilfeldigheter. Skydanning, partikkelutslipp, lokal temperatur osv er også preget av
+tilfeldigheter som kan ha dynamiske effekter på klimautviklingen. Modellering av slik stokastisk
+dynamikk krever statistisk trening, i tillegg selvsagt kunnskap om klimaprosesser. Også for samfunnets
+respons på klimautvikling er det behov for stokastisk dynamikk i modellene.
+Modellkjøringer. Klimamodellene er kompliserte og høydimensjonale og de rommer ulike former for
+ikke-linearitet og tilbakekobling. Å forstå egenskapene til en global klimamodell utelukkende ved
+matematisk analyse er en uoverkommelig oppgave. Derfor bør modellen bli kjørt for ulike valg av
+parameterverdier og i gjentakelser for å forstå dens strukturelle og statistiske egenskaper. Med
+mange parametere som kan justeres er det viktig å planlegge disse simuleringene omhyggelig, og å
+analysere de resulterende simulerte data effektivt og formålsrettet. Dette er statistiske utfordringer.
+Estimering av klimaparametere. Parallelt med de store klimamodellene brukes en rekke mindre
+modeller. Det kan være modeller for klimatiske delprosesser, eller for klimaet i en bestemt region.
+Disse mindre modellene kan i større grad være statistiske enn de globale modellene. Det kan være
+krevende å estimere parametere også i disse mindre modellene, og å også å sette dem sammen slik at
+deres samspill er i samsvar med observerte data.
+Usikkerheter og samlet usikkerhet. Det er knyttet usikkerhet av ulikt slag og til klimaforskningens
+ulike resultater. Det vil eller kan være feil på målinger, variasjon i målingsutvalget, modellusikkerhet,
+usikkerhet i estimerte modellparametere, genuin stokastikk i klimaprosessene. De samme typer
+usikkerheter knytter seg til samfunnsmessige responser. Det er en nesten umulig oppgave å
+fullstendig karakterisere og kvantifisere disse kildene til usikkerhet hver for seg og samlet, men som
+Forskningsrådet ønsker må det arbeides med disse statistiske utfordringene. Det er noen
+klimautviklinger som er samfunnsmessig og biologisk mer katastrofale enn andre. En tilnærming er å
+bestemme responsvariable som måler alvorlighetsgrad av ulike slag, og så prøve å bestemme samlet
+usikkerhetsfordeling for hver av disse, og deres samvariasjon. Siden det trolig vil trenges
+ekstrapolering for å karakterisere sannsynligheter for virkelig alvorlige utfall er det vesentlig med
+statistisk modellering, særlig av usikkerhetsfordelingenes haletyngde.
+
+Klimaspørsmålet vil være aktuelt i mange år framover, og klimaforskningens resultater indikerer at de vil
+komme stadig mer i forgrunnen. Det er derfor godt at Klimaforliket i Stortinget fører til betydelig styrking av
+klimaforskningen. Denne økte innsatsen på klimaforskning må også brukes til å forbedre datagrunnlaget og til
+å skjerpe analysene. For begge disse aktivitetene vil klimaforskere med basis i naturvitenskap (fysikk,
+geofysikk, kjemi, biologi,…) og samfunnsvitenskap (økonomi, sosiologi,…) kunne ha nytte av samarbeid med
+dyktige statistikere og matematikere. Dette særlig dersom disse trekkes med i et langsiktig samarbeid, slik at
+de kan tilegne seg tilstrekkelig innsikt i klimaprosessene og deres fysiske basis slik at det blir gjensidig
+forståelse og respekt. Naturviterne vil også ha nytte av slikt langsiktig samarbeid, for det å tilegne seg
+tilstrekkelig statistikk innsikt tar tid og krefter. Det samme gjelder teknologer som arbeider med alternativ
+energikilder og med avbøtende tiltak, og økonomer og andre samfunnsvitere som studerer sosiale prosesser
+og samfunnsmessig tilpasning til endringer i klimaet. Vi håper derfor at Forskningsrådet vil satse slik at det
+investeres i langsiktig kompetanseoppbygging ved at statistikere trekkes mer aktivt med i klimaforskningen.
+Samtidig må de statistikkfaglige miljøene ved Universitetene orientere sin faglige profil mot de store faglige
+utfordringene som klimaforskningen reiser, gjerne i samarbeid med Forskningsrådet.
+
+
+
+18
+
+Workshop on
+Recent developments for case-cohort and nested case-control studies
+Vi hadde nylig en ukes besøk av Norman Breslow fra University of Washington, Seattle. Norm er
+en nestor innen forløpsanalyse og kasus-kontroll studier. Han har over en lengre tid hatt en stående
+invitasjon, men av ulike grunner har besøket blitt utsatt. Da det i november ble klart at han kom
+sendte vi umiddelbart ut invitasjoner til noen personer i Europa som også har gitt viktige bidrag til
+utviklingen av analysemetoder for kasus-kontroll studier og spurte om de ville bidra på en
+workshop. Responsen var upåklagelig og de øvrige bidragsyterne var Michal Kulich fra Charles
+universitet Praha, Thomas Scheike fra Universitetet i København, Elja Arjas fra Universitet i
+Helsinki og Olli Saarela fra Folkehelseinstituttet i Finland.
+Workshopen ble avholdt torsdag 14. januar i Auditorium 2 Helga Engs hus, UiO. Oppmøtet var
+meget godt med over 80 deltagere fra statistikk- og epidemiologi-miljøer. Oppmøtet var rimeligvis
+størst fra Oslo, men det var også deltagere fra Bergen, Trondheim og Tromsø.
+Programmet for workshopen:
+Sven Ove Samuelsen: Nested case-control and case-cohort: An overview
+Norman Breslow: More Informative Analyses of Stratified Case-Control Samples from Large
+Cohorts
+Elja Arjas: Sampling frame, missing-by-design and conditions for valid likelihood inference"
+Olli Saarela: On computational issues in full likelihood and conditional likelihood approaches
+Michal Kulich: Sequential logistic analysis of case-cohort studies
+Thomas Scheike: Maximum Likehood Estimation for the Case-Cohort and Nested Case-Control
+Design
+Foredragene fra kan hentes på http://www.math.uio.no/biostatistics/workshop-jan10.html
+Sven Ove Samuelsen
+
+Norm Breslow og Elja Arjas i ivrig diskusjon. (Foto: Olli Saarela)
+
+
+
+19
+
+23. Nordiske Konferanse i Matematisk Statistikk NORDSTAT 2010
+www.nordstat2010.org
+Den 23. nordiske konferansen i matematisk statistikk vil bli arrangert på
+Park hotell, Voss, 14. - 17. juni 2010. Arrangør er Norsk Statistisk Forening,
+med Dag Tjøstheim som leder av organisasjonskomitéen og Håvard Rue
+som leder av programkomitéen.
+Foredragsholdere:
+Anestis Antoniadis: 20 years of wavelets
+Peter Bühlmann: Sparsity and p >> n
+Gerda Claeskens: Model Comparison
+Peter Dalgaard: R and the future of R
+David Firth: Composite Likelihood (tentativ tittel)
+Steffen Lauritzen: Graphical Models
+Ulf Grenander
+I tillegg vil det være over 15 temasesjoner, fra statistikk i finans, via
+anvendt sannsynlighetsteori til statistisk genetikk. Send inn ditt faglige
+bidrag på konferansens nettside. Frist 15. mars.
+Påmelding skjer på konferansens nettside. Ved påmelding før 1. april vil
+påmeldingsavgiften være (kraftig) redusert!
+
+Fra vinkjelleren til konferansens hotell, Park Hotel Vossevangen. Vinsamlingen er den største og
+mest omfattende i Nord-Europa, og hotellet arrangerer vinsmaking !
+
+
+
+20
+
+Statistikkens fremtidige udfordringer
+
+Nordisk Statistikermøde i København 11.-14. august 2010
+
+Hjemmeside med tilmelding mv.: www.dst.dk/nordstat2010
+Temaer: 1. Udvikling i statistikken
+2. Nye datamuligheder
+3. Statistikproduktion og metoder
+4. Formidling og salg
+Seminar: 11. august kl. 13.30 – 16.30.
+Kursus: 11. august kl. 9.00 – 13.00.
+Program:
+kl. 9-12
+
+kl. 13-17
+kl. 13.30-16.30
+
+Aften
+
+11. august
+Kursus: Imputation/
+Donald Rubin,
+Harvard Univesity
+
+12. august
+Åbnings-session
+
+13. august
+Tema 1-4
+
+Kursus fortsat
+Nordbotten og den
+arkivstatistiske
+metode 1960-2010
+Kanalsejlads og
+Cocktailparty
+på Børsen
+
+Tema 1-4
+
+Afslutnings-session
+
+Modtagelse
+Københavns Rådhus
+
+Festmiddag i Tivoli
+
+14. august
+Busudflugt
+(ikke inkluderet i
+deltager-gebyr)
+
+
+
+21
+
+Møter under planlegging
+ISEC2012 i Oslo 4. -6. Juli 2012.
+Den 3. ISEC (International Statistical Ecology Conference) vil bli arrangert på Sundvollen
+med CEES (Center for ecological and evolutionary synthesis) som vertsinstitusjon.
+Organisasjonskomiteen ledes av Tore Schweder som har med seg Torbjørn Ergon, Jayne
+Lambrou og Geir Storvik.
+
+ISCB33 i Bergen 19.-23. august 2012.
+En lokal organisasjonskomité for 33rd Annual Conference of the International Society for
+Clinical Biostatistics er etablert bestående av Jan Harald Aarseth, Jörg Assmus, Ågot Irgens,
+Jan Terje Kvaløy, Tore Wentzel-Larsen, Stein Atle Lie og Geir Egil Eide. Ivar Heuch er
+assosiert medlem. Konferansen vil bli holdt i Grieghallen med mottakelse i Håkonshallen.
+En programkomité er også under etablering med Odd Aalen som leder.
+Merk at datoene for konferansen er endret fra melding i forrige TG!
+
+Fra redaksjonen TG tar gjerne imot meddelelser om andre møter som er under planlegging.
+
+
+
+22
+
+Pusleri nr. 28 (løsning)
+Oppgaven var: Planeten X er en kule med senter i O. Tre romfartøyer A, B og C har landet på
+overflaten, tilfeldig og uavhengig av hverandre. De to fartøyer {A,B} kan kommunisere med
+hverandre direkte, hvis og bare hvis <AOB er mindre enn 90◦ . og tilsvarende for {B, C} og
+{A, C}. Finn sannsynligheten for at alle kan få kontakt med hverandre, dvs. enten direkte eller
+via det øvrige romfartøyet.
+
+Det er innkommet en løsning fra Jarle Tufto, NTNU. Her er den:
+
+
+
+23
+
+Pusleri nr. 29
+I en forsamling på n personer blir alle bedt om å reise seg, finne fram en mynt, knipse den.
+Dersom den viser kron, får en sette seg. Dette gjentas runde etter runde, til alle har satt seg.
+La X være antall runder som trengs. Hva er sannsynlighetsfordelingen til X og EX?
+Beregn EX dersom det dreier seg om (i) n=10 i festlig lag (ii) n=100 personer på en
+forelesning (iii) n=10 000 på Brann stadion (iv) n=100 000 på Camp Nou (FC Barcelona).
+* Hva kan sies dersom n går mot uendelig?
+Løsning til jostein.lillestol@nhh.no
+
+
+
+24
+
+Nytt fra NTNU
+Uteksaminerte masterstudenter
+• Espen Teie Andersen: High-frequencey financial data: Modeling and algorithmic
+trading.
+Veileder: Håvard Rue.
+• Sara Ghaderi: Chlamydia trachomatis infections in Norway 2004-2006. Testing and
+treatment patterns among men and women.
+Veileder: John Sølve Tyssedal.
+
+Statistics Preprints
+• No. 1/2010: Rupali Akerkar, Sara Martino and Håvard Rue. Implementing approximate
+Bayesian inference for survival analysis using integrated nested Laplace approximations.
+• No. 2/2010: Håkon Tjelmeland and Haakon Michael Austad. Exact and approximate
+recursive calculations for binary Markov random fields defined on graphs.
+• No. 3/2010: Sara Martino, Rupali Akerkar and Håvard Rue. Approximate Bayesian
+inference for survival models.
+
+Nyansettelser
+• Daniel Simpson er fra 1. januar 2010 ansatt som postdoc i statistikk ved Institutt for
+matematiske fag, NTNU.
+
+
+
+25
+
+Nytt fra Universitetet i Oslo, avdeling C
+Ansettelser:
+Bo Lindqvist, NTNU og Anders Skrondal, Folkehelseinstituttet er ansatt
+som professor II fra 1. januar 2010.
+
+Forskningsterminer:
+Ingrid Glad og Bent Natvig har forskningstermin i hele 2010.
+
+Nytt fra Universitet i Oslo, avdeling for biostatistik
+Nye PhD-kandidater:
+Nina Gunnes forsvarte 25. november 2009 sin avhandling Adjusting for
+incomplete data using dynamic approaches for graden ph.d.
+Tittel på prøveforelesningen var A review of published methods for dealing
+with missing measurements in longitudal models.
+Komité: Seniorforsker Linda Sharples, Institute of Public Health, Cambridge University, Førsteamanuensis Jan Terje Kvaløy, Det teknisk-naturvitenskapelige
+fakultet, Universitetet i Stavanger, Førsteamanuensis Hein Stigum, Institutt
+for allmenn- og samfunnsmedisin, Universitetet i Oslo og Nasjonalt folkehelseinstitutt.
+Veileder har vært Odd Aalen, Avdeling for biostatistikk.
+
+Nytt fra Universitetet i Bergen
+Nye Master-kandidater:
+Marianne Thorsns Kolsnes: Kalmanfilteret anvendt på en problemstilling innen seismikk.
+Veiledere: Hans J Skaug
+
+
+
+26
+
+Norsk Statistisk Forening
+
+Kasserer: E-mail: clara-cecilie.gunther@nr.no
+
+Tlf: 22 85 25 63
+
+Postgirokonto: 0530 27 73299
+
+_____________________________________________
+
+Årskontingent Norsk Statistisk Forening 2010
+Medlemskontingent i NSF er kr. 200,- pr. år for ordinære medlemmer (mastergradsstudenter får gratis medlemskap). På
+adresselappen bakpå TG står det anført siste år vi har mottatt kontingent fra deg. Sjekk adresselappen! De som ikke har
+betalt for tidligere år gjør dette sammen med kontingenten for 2009. Dersom du mener betalingsinformasjonen ikke
+stemmer, gi beskjed til clara-cecilie.gunther@nr.no.
+NB: Dersom din arbeidsgiver betaler kontingenten, sørg for at navnet ditt kommer med på innbetalingen.
+Hva gjør vi med pengene?
+De største utgiftspostene for NSF er overføringer til lokallagene i Oslo, Bergen og Trondheim, NSFs medlemskap i the
+European Mathematical Society (EMS) og the International Statistical Institute (ISI), utsending av TG, og utgifter i
+forbindelse med diverse arrangementer (bla. støtte til studenter ved deltakelse på det norske statistikermøte).
+Medlemsregister
+For at medlemsregisteret skal være best mulig oppdatert er det viktig at du oppgir evt. ny post/e-postadresse ved å sende
+meg en e-post. Vi har opprettet en egen mailingliste for NSFs medlemmer, nsf-medlemmer@math.uio.no. Dersom du ikke
+mottar e-post på denne lista, send meg din oppdaterte e-postadresse.
+Betalingsfrist for innbetaling av kontingent er 15. april.
+PÅ FORHÅND TAKK!
+Vennlig hilsen
+Clara-Cecilie Günther
+Kasserer NSF
+
+Kontingent NSF 2010: kr. 200
+
+15.04.2010
+
+NSF v/ Clara-Cecilie Günther
+Norsk Regnesentral
+Postboks 114, Blindern
+0314 Oslo
+
+0530 27 73299
+
+
+
+
+
+RETUR:
+Norsk Statistisk
+Forening
+v/Clara­Cecilie Günther
+Norsk Regnesentral
+Postboks 114, Blindern
+0314 Oslo
+
+B
+
+Redaksjon:
+Ingrid K. Glad
+Sven O. Samuelsen
+Geir Storvik
+Innsending av bidrag til
+geirs@math.uio.no
+innen 15. august 2010
+
+
+

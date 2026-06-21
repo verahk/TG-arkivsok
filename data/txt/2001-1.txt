@@ -1,0 +1,2591 @@
+ISSN 0803-8953
+
+TILFELDIG GANG
+Nr. 1, årgang 18
+Februar 2001
+
+Utgitt av Norsk Statistisk Forening
+INNHOLD
+Redaksjon
+
+SSN
+Se ee he hae
+
+Fra redaktgren. Odd Aalen
+Fra formannen. Geir Egil Fide
+
+Statistisk arbeidsliv
+
+Statistikk i økonomi og administrasjon: Del I Jostein Lillestøl
+Statistisk reisebrev
+Reiseberetning fra Zimbabwe. Harald Goldstein
+Faglig stoff
+
+Køteori — en nøkkel til kortere ventetider. Bent Natvig
+Statistikk på sidelinjen
+Teknisk Ukeblad kronikk. Erik Bølviken og Tormod Næs
+Kommentarer til kronikk i Teknisk Ukeblad. Inge Helland ...
+
+Comment to Statistikk på sidelinjen. Arnoldo Frigessi
+Statistikk på sidelinja? Tore Schweder
+Puslerispalten
+Pusleri nr.6. Jostein Lillestøl
+Løsning av Pusleri nr.5. Jostein Lillestøl
+
+Milepæl
+Trond E. Olsen fyllte 50 år 30. desember 2000.
+Trygve Nilsen og Terje Hansen
+
+Møter, konferanser og annet
+
+Studentstipend!
+
+NNN
+
+NSE s-etterutdanningsseminar 200
+Dett
+
+EE.
+
+norske statistiker
+
+Hovedmøte i Norsk statistisk forening 2001.
+Stilling(er) ledig ved-Novo Nordisk A/S:
+
+2-3 Ges. ea
+
+Nytt frå Universitetet LON
+
+Referat fra Norsk statistisk forening - Avd. Bergen
+
+Medlemskap i Norsk statistisk forening.
+
+Giro for innbetaling av ÅRSKONTINGENT 20001 er lagt ved
+
+
+
+
+
+Redaksjon:
+Odd Aalen (redaktør)
+Grete Usterud Fenstad (redaksjonssekretær)
+Ingrid Glad
+Nils Lid Hjort
+Trond Anders Moger
+
+Redaksjonens adresse:
+
+Odd Aalen
+Seksjon for medisinsk statistikk
+Universitetet i Oslo
+P.b. 1122 Blindern, 0317 Oslo
+Tlf: 22 85 12 36
+Fax: 22 85 13 13
+
+e-mail: odd.aalen@basalmed.uio.no
+
+Trykking og utsending av TG utføres av
+
+Statistisk sentralbyrå
+
+Bidrag til Tilfeldig Gang:
+Alle slags bidrag til bladet er velkomne, enten det gjelder nye temaer av interesse for norske
+statistikere, eller man har kommentarer til innlegg som allerede har stått i bladet. Stoff til
+
+neste nummer må være redaksjonen i hende innen 20.4.2001.
+
+'
+
+Det greieste er at stoffet sendes inn som Word-fil til redaktørens e-mail-adresse, se ovenfor.
+
+Alternativt kan vi ta en ren tekst-fil, men vi vil helst ikke ha TEX-format med mindre dette er
+nødvendig på grunn av matematikken.
+Vi har etablert en nettversjon av TG, se følgende internettadresse:
+
+www.math.uio.no/nsf/web/index.htm . De som leverer bidrag til TG og som ønsker å reservere
+
+seg mot at bidraget deres legges ut på nettet, må gi beskjed om dette ved innsendelse av stoff.
+
+
+
+Fra redaktøren:
+Det nærmer seg konferansetid, blant annet med et kommende Norsk Statistikermøte
+
+med prekonferansekurs, se videre inne i bladet. Begge deler anbefales på det
+varmeste. Det skal også være et hovedmøte med valg av nytt styre, ny TG-redaksjon
+og annet. Det er selvsagt avgjørende for foreningen at folk er villige til å ta på seg
+slike oppgaver. Etter å ha sittet først som formann, og så som redaktør i en periode er
+
+det min erfaring at oppgavene er langt mer inspirerende enn man kan tro i
+utgangspunktet. Jeg håper derfor at de som spørres om å gå inn i de forskjellige
+vervene er positive.
+
+Det er nok av oppgaver å ta fatt i. Det er bare fantasien som setter begrensning. Når
+alt kommer til alt representerer vi et fag på offensiven. På godt og ondt lever vi i en
+tidsalder der idealet er de rasjonelle beslutninger basert på mengder av data. I
+medisinen er det for tiden en sterk bevegelse i retning av ”Evidence based medicine”.
+Dette betyr
+at alle medisinske avgjørelser skal tas på basis av kliniske prøvninger og
+epidemiologiske studier, det vil i praksis si studier med en tung statistisk basis. De
+enkelte legers erfaringer og personlige oppfatninger skal tillegges mindre vekt, det er
+den vitenskapelige basis som teller. Tallene erstatter legekunsten.
+
+Som fag bør vi nytte sjansen så lenge folk tror på den rasjonaliteten vi representerer.
+Kanskje er dette bare en blipp på den historiske utvikling, kanskje helt andre måter å
+se virkeligheten på er i emning, eller vil komme en vakker dag. Who knows? Eller, på
+den annen side, kanskje vårt fag representerer noe av essensen i det som vil være det
+tredje årtusens virkelighetsbilde.
+
+Dette betyr også at vi må vite hva vi driver med. Våre matematiske modeller forteller
+oss ikke hva vi egentlig driver med, det kan bare filosofiske eller vitenskapsteoretiske
+ideer gjøre, og slikt stoff burde komme sterkere inn i vår utdannelse. Hvor er egentlig
+vår idéhistoriske plassering. Vet vi det? Dette er utvilsomt lange viktigere kunnskap
+enn definisjonen på en sigma-algebra, for eksempel.
+
+Beste idiven: Odd Aalen
+
+
+
+Fra lederen i NSF:
+
+Kjære medlemmer.
+
+Våren er på gang hvilket bebuder økt foreningsaktivitet. For døren står først og fremst det 11.
+norske statistikermøtet som denne gang skal arrangeres av Statistisk forening i Bergen.
+Arrangementskomite og programkomite har vært i full aktivitet i lengre tid og intensiverer nå sitt
+arbeid. Se annonseringer i dette TG. Som statistikere vet vi at vi er sjelden vare og at vi forvalter
+- en type kunnskap som er etterspurt. Norsk statistisk forening er da også en liten forening av en
+svært spesialisert yrkesgruppe, og mange av oss føler kanskje at vi sitter litt perifert i forhold til
+de større statistikermiljøene på læresteder og i næringslivet. Desto viktigere blir det å delta i det
+faglige felleskap som foreningen skal bidra til. I forbindelse med statistikermøtet arrangerer også
+foreningen et prekonferansekurs i eksakte metoder i Bergen og vi håper på fulltegnet kurs av
+statistikere med appetitt på ny kunnskap. I forbindelse med dette TG har vi også en aldri så liten
+rekrutteringskampanje. Etter en opprydning i medlemsarkivet vil vi nå sende ut dette nummeret
+av TG til en del tidligere medlemmer med oppfordring til pånytt å melde seg inn i foreningen.
+Forhåpentligvis vil mange benytte denne muligheten.
+
+Som statistikere forvalter vi egentlig metodikk for kvalitativ god forskning. Ved bruk av allment
+akspeterte logiske prinsipper utleder statistikeren metodikk for å trekke gyldige konklusjoner. Når
+konklusjonene er beheftet med usikkerhet er det statistikeren som kan kvantifisere denne
+usikkerheten og beskrive under hvilke forutsetninger konklusjonene vil gjelde. Dette krever en
+høy grad av etikk. Ut fra ideelle forutsetninger utleder statistikeren sine prinsipper og studerer
+hvordan avvik fra forutsetningene kan påvirke sannhetsgehalten i de konklusjoner som trekkes.
+Således er statistikerens jobb en stadig søken etter ”det sanne”. Ikke så rart at statistikk er et
+sentralt redskap i den nye kvalitetsforbedringsbølgen. For andre brukere blir imidlertid statistisk
+metodikk noen ganger et slags hokus pokus: bare det kommer ut en p-verdi til slutt er det ikke så
+nøye om forutsetningene er oppfyllt, observasjonsmaterialet er representativt eller metodikken er
+riktig. Som en sjelden rase står vi ofte under press for å gå på akkord med de faglige prinsipper.
+Noen ganger blir vi trengt oppi et hjørne og presset for en p-verdi som helst skal være under 0.05.
+
+- Det skal stor integritet til ikke å la seg påvirke av andre forskeres ønsker om at konklusjonene
+
+skal gå i en eller annen bestemt retning. Imidlertid, nettopp her er det at statistikeren har sin faglig
+styrke. Uten andres tiltro til statistikerens yrkesmessige integritet vil vårt fag være lite verdt. Selv
+om statistikk av muntre tunger er betegnet som verre enn løgn, har jeg enda til gode å treffe den
+statistikeren som har følt seg truffet av dette, og selv om faget misbrukes av andre, nyter
+statistikeren stort sett respekt for sin uhildethet og personlige integritet. La oss bevare det slik.
+
+Vennlig hilsen
+
+Geir Egil Eide
+
+
+
+Statistikk i økonomi og administrasjon: I
+Jostein Lillestøl
+Norges Handelshøyskole
+
+Redaktøren ønsket en artikkel i TG om statistikk i økonomisk-administrative fag,
+og om hvordan en statistiker opplever sin rolle i et økonomisk-administrativt
+fagmiljø. Siden. min arbeidsplass er Norges Handelshøyskole, tar jeg
+
+næringsvirksomhet som utgangspunkt, og ser på den rolle statistikk kan spille der,
+dvs. statistikk
+i samdimnsøkonomi holdes utenfor.
+
+I første del av arikkelen viljeg forsøkeå gi en oversikt over utfordringene, både for
+
+foretakets medarbeidere og for en statistiker som skal finne et marked for sine
+kunnskaper. I andre del av artikkelen, som kommer i neste nummer, vil jeg ta for
+meg spørsmålene:
+Innser og utnytter norske foretak potensialet ved statistisk tankegang og
+metode?
+
+-
+
+_
+
+Bidrar statistikkfaget i
+økonomistudenter?
+
+dag med relevant kunnskap
+
+til
+
+næringsliv
+
+og
+
+Vi setter i gang:
+
+All næringsvirksomhet krever fremskaffing og bruk av data. Hvor bevisst og effektivt
+dette gjøres varierer sterkt. For foretak som møter hard konkurranse og krevende
+kunder kan det være en vesentlig forutsetning for å lykkes, endog overleve. I tider da
+mestedelen av all økonomisk virksomhet foregikk i mindre foretak med relativt enkle
+og stabile produksjons-forhold og med nærhet til stabil markeder, hadde man neppe
+behov for statistisk ekspertise.
+Personlig kontakt mellom de ulike ledd i
+virksomheten (ledelse, medarbeidere og kunder) gjorde det lett å tilpasse seg
+endringer, som også ofte kunne gjennomføres over lengre tid enn i dag. Man kunne
+også i større grad tillate seg å prøve og feile. Fundamentale endringer skjedde
+riktignok av og til (nye råstoffer, nye oppfinnelser osv.), men slike kunne sjelden
+forutsies i noe fall. Når statistisk kunnskap har fått økt betydning i økonomisk
+virksomhet skyldes det flere forhold:
+
+e
+
+økonomiske enheter har blitt større eller endret karakter, og har fått større
+behov for å trekke ut relevant informasjon om egen ena til intern
+
+bruk, og til bruk for eiere eller det offentlige.
+
+e
+
+tilpasning til omgivelsene må planlegges grundigere: markeder analyseres,
+produkter utvikles, produksjon gjennomføres og markedsføres osv. Godt økonomisk resultat vil kreve innsamling og tolkning av relevante data i alle
+ledd.
+
+e
+
+statistiske metoder har blitt mer allment kjent i takt med høyere
+utdanningsnivå, og praktisk bruk er blitt enklere gjennom økt tilgang på
+rimelig og brukervennlig programvare. Dette innebærer at også mindre
+foretak uten større økonomiske ressurser kan ta slikt verktøy i bruk.
+
+
+
+I produksjonsbedrifter finner vi statistiske problemstillinger i alle faser i en typisk
+produktsyklus: markedsanalyse, produktutvikling, produksjon, salg og service. Vi
+finner
+
+dem
+
+også
+
+i
+
+de
+
+fleste
+
+støttefunksjoner, som
+
+regnskap,
+
+revisjon
+
+og
+
+personaladministrasjon. I tjenesteyting finner vi også et tilsvarende mangfold. La
+
+oss trekke fram noen
+næringsvirksomhet.
+
+områder
+
+der
+
+statistiske
+
+metoder
+
+kan
+
+anvendes
+
+i
+
+Markedsanalyse: Statistiske metoder kan nyttes til å avdekke kundebehov
+gjennom spørreskjemaundersøkelser, panelstudier og analyse av kundeadferd, som
+grunnlag for produktutvikling. Videre kan en lage prognoser for utviklingen i et
+marked, studere kjøperadferd og konkurrentadferd som grunnlag for valg av
+markedsføringsstrategi.
+
+Produktplanlegging:
+Statistiske metoder kan nyttes når en skal planlegge et
+produkt med utgangspunkt i avdekkede kundebehov. Oppgaven er å kunne
+oversette behovene i "kundens språk" til "bedriftens språk", for industriprodukter en
+
+design som er attraktiv og lar seg produsere. Her er det ofte aktuelt med forsøk med
+materialer, metoder osv.
+
+Produksjonsplanlegging:
+Statistiske metoder kan nyttes til analyse av
+rammevilkårene for produksjon (f.eks. tilgang på råstoff og arbeidskraft) og studier
+i forbindelse med å finne gunstigste omfang og
+organisering av innkjøp,
+produksjon og lagerhold.
+
+Kvalitetsstyring: Statistiske metoder er en forutsetning for et virksomt
+kvalitetssystem. Statistikk kommer inn ved avviksregistrering, som grunnlag for
+korrigerende tiltak, og det kommer inn ved systematisk kvalitetsforbedringsarbeid,
+ved avdekking av problemer og årsaksanalyser. Systematisk måling er sentralt ved
+sertifisering av foretakets kvalitetssystem iht. ISO 9001-standarden.
+Produktivitet: Statistiske metoder er blitt anvendt i bedrifter til å studere prosesser
+
+og systemers normale yteevne, herunder spesielt samspillet "menneske-maskin".
+- Viktig er forventning og variasjon, og hvor mulighetene for forbedring ligger,
+herunder bruken av incentiver.
+
+Økonomisk styring: Statistiske metoder har vist = svert nyttige ved kostnads- og
+
+inntektsanalyser, vurdering av investeringer og risiko ved ulike typer
+engasjementer: prosjekter, innkjøp av utstyr, aksjekjøp, bruk av finansielle
+
+instrumenter som opsjoner osv. Like viktig er statistisk metode i den daglige drift,
+å kunne følge opp "de mange små ting" mht. ressursbehov og forbruk.
+
+Prosjektstyring: Statistiske metoder kan nyttes i forbindelse med styring av
+prosjekter, der mange aktiviteter er gjensidig avhengig av hverandre, og betydelige
+forsinkelse kan oppstå. Det gjelder såvel ved kartlegging av ressursbehov,
+vurdering av tilbud, som organisering av aktiviteteri tid.
+
+Personalledelse Statistiske metoder kan nyttes ved vurderinger av behov for
+personell, samt utvelgelse og opplæring. Videre vil forhold som knytter seg til
+
+
+
+arbeidsmiljøet typisk kreve statistiske metoder, f.eks. fravær med vurdering mot et
+"normalnivå" eller sammenligning over tid eller med andre bransjer.
+Intern kontroll: I den daglige drift møter bedriftene myndighetenes forskrifter om
+internkontroll. Her stilles krav om dokumentasjon vedrørende helse, miljø og
+sikkerhet (HMS), som vanskelig kan oppfylles uten systematisk bruk av statistikk,
+f.eks. registrering av utslipp, skader osv.
+
+Revisjon: Statistiske metoder er blitt anvendt i både intern og ekstern revisjon.
+Stikkprøvemetoder nyttes i intern revisjon for å se om de ansatte følger de oppsatte
+rutiner for registrering og behandling av transaksjoner (systemrevisjon), i ekstern
+revisjon for, om mulig, å bekrefte at klientens bokførte verdier er rimelige
+(substansrevisjon). Man kan også bruke statistiske metoder for å avdekke uvanlige
+forhold og mislighold (analytisk revisjon).
+
+Ledelse: Statistisk tenkning er et sentralt element i "Total Quality Management"
+(TQM), inspirert av Shewhart, Deming og japanske erfaringer. I hovedsak dreier
+det seg om å forstå variasjon, å reagere riktig på variasjon og å arbeide med å
+redusere variasjon.
+
+Egenvurdering: De senere år har bedrifter blitt opptatt av å vurdere egen
+virksomhet opp mot andre i samme bransje eller i andre bransjer som har
+sammenlignbare prosesser ("Benchmarking"). Videre har egenvurderinger knyttet
+til standarder og kvalitetspriskriterier blitt populært. Statistikk er sentralt i slike
+vurderinger.
+
+Leseren utfordres til å tenke gjennom hvilke konkrete statistiske metoder som kan
+
+komme til anvendelse på de ulike feltene som er nevnt her.
+Det er ulike typer data å forholde seg til:
+1.
+
+Eksterne data:
+
+;
+
+- om kunder: deres behov, forventninger og adferd,
+- om konkurrenter: deres produkter, evner og adferd,
+
+- om leverandører: deres produkter og evner,
+
+- om rammevilkår: nære, fjerne, nå og senere .
+2.
+
+Interne data:
+
+i
+
+- om egne innsatsfaktorer: menneske, utstyr osv.
+- om egne prosesser: delene og helheten,
+
+- for dokumentasjon: til myndigheter, eiere og andre interessenter.
+
+Utover dette kan kunnskap om hvordan foretaket gjør bruk av data, herunder
+hvordan de ulike typer data ovenfor spiller sammen til beste for foretakets formål.
+
+- Det kan være hensiktsmessig å skille mellom to formål:
+L.
+2»
+
+Daglig drift: Rapportering, informasjon, beslutningsstøtte, osv.
+Forbedring: Kartlegging av problemer, nye løsninger osv.
+
+
+
+Spørsmål som ofte dukker opp er:
+Trenger vi data for å komme videre?
+Hvilke data tjener formålet?
+
+Hvordan kan disse data skaffes?
+Hvordan bør de analyseres?
+Hvordan bør de benyttes?
+
+I praksis ser en dessverre ofte at
+
+e
+
+beslutninger tas på svakt grunnlag (lite fakta, mest synsing),
+
+e
+
+data om egen virksomhet og omgivelsene fins, men benyttes ikke,
+
+e
+
+data benyttes, men blir feiltolket.
+
+Som vi ser kan statistiske metoder spille en rolle i de fleste funksjoner i et foretak.
+Enda viktigere er det for samspillet mellom funksjonene. Noe statistisk kunnskap
+bør derfor være felleseie i foretaket. Dette letter kommunikasjonen mellom
+medarbeidere i samme funksjon og mellom funksjoner og avdelinger. Dette er
+viktig all den stund mange verdiskapende aktiviteter går på tvers av funksjoner. Den
+enkelte bør også å være i stand til å se det prinsipielle i en situasjon, slik at en kan
+nytte kunnskapen i nye sammenhenger.
+
+Det er fruktbart å betrakte et foretak som sammensatt av en rekke prosesser med
+verdiskaping som formål. Det kan være alt prosesser i det små, knyttet til
+individuelle arbeidsoppgaver til overordnede ledelsesprosesser. Vi illustrerer
+
+i
+
+prosessbegrepet i Figur 1.
+
+Prosessen har input fra leverandør (i vid forstand)
+og output til kunde (i vid
+forstand). Vi kan samle inn opplysninger om prosessen selv, om output fra
+prosessen og om kundens behov og tilfredshet. Dette gir feedback til de som rår
+med eller over prosessen, enten den/de medarbeider(e) som styrer den eller de som
+har myndighet til å endre den.
+
+Organiser
+for
+
+Kunde Feedback
+
+[
+
+Ld
+
+verditillegg [ug—Prosess Feedback
+Materiale Menneske Maskin Miljø Metode
+
+| a
+PROSESS
+
+.
+
+Kunde
+
+
+
+Det er nyttig å tenke seg virkemidler i følgende kategorier, som vi kaller de 6 M'er:
+Materiale
+
+Maskin (eller utstyr)
+Metode
+
+Menneske
+
+Miljø (eller omgivelser)
+
+Måling
+
+Disse virkemidlene utnyttes i kombinasjon slik at en best mulig er i stand til å styre ~
+prosessen i den daglige, samt foreta endringer som øker verdiskapningen og dermed
+gir konkurransemessige fortrinn.
+Statistisk tenkning, datainnsamling og
+
+dataanalyse kan knyttes til alle ledd i figuren: input/leverandør, prosessen selv,
+
+output/kunde og hvordan de 6 M'er kan utnyttes best mulig for styring og
+forbedring.
+
+En mulig målsetting for opplæringi statistikk i økonomisk administrativ utdanning
+er:derfor
+
+å utvikle evnen til å utnytte data og statistisk tenkning medformål
+å øke foretakets verdiskaping, herunder vedlikeholde ogforbedre
+foretakets prosesser.
+
+Blant de ferdigheter som bør vies oppmerksomhet er:
+e
+
+å kunne samle inn relevante data for et gitt formål,
+
+og forstå dataenes
+
+begrensning,
+
+e
+
+å kunne sammenfatte og analysere dataene med enkle grafiske og/eller
+analytiske verktøy,
+
+å kunne trekke de relevante tiltaksrettede krone
+
+å kunne løse problemer og forbedre prosesser i praksis,
+å kunne tilegne seg mer avanserte statistiske metoder, når situasjonen krever
+:
+det.
+
+Ut fra det som er skrevet ovenfor burde faget statistikk kunne ha en selvstendig
+rolle som bidragsyter i økonomisk-administrativ utdanning og i næringslivet, og
+ikke bare ha legitimitet fordi det anvendes i andre fag i studiet.
+
+
+
+Reiseberetning fra Zimbabwe
+Harald Goldstein, Økonomisk institutt, UiO
+Charowa sei chondo chakwidza hamba mumuti?
+(Hva var det for en kulde som fikk skilpadden til å klatre oppi treet?)
+Shona ordspråk. Shona er majoritetsspråket i Zimbabwe.
+
+Da jeg første gang ble spurt omå reise til Zimbabwe for å hjelpe til med undervisningen i
+statistikk ved Department of Economics ved University of Zimbabwe (UZ), hadde jeg
+utallige unnskyldninger for å si nei. Mitt forhold til Afrika innskrenket seg til Stanley og
+Livingstone, Knoll og Tott samt et antall av kriger og katastrofer fra media. Som lærer i
+statistikk ved sosialøkonomisk institutt i Oslo hadde jeg dessuten kommet ut for noen
+afrikanske studenter, alle hyggelige mennesker, men gjennomgående med store
+
+problemer med å komme gjennom vårt studieopplegg - noe jeg etter hvert har innsett
+
+heller skyldes seleksjon og undervisningsopplegg enn generelt evnenivå som jeg ikke har
+funnet noen grunn til å tro er annerledes enn hos oss. Inspirert av pittoreske beskrivelser
+
+fra andre lærere som hadde vært der, lot jeg meg likevel overtale to år senere (1992) til å
+
+undervise tre måneder ved UZ.
+
+Det ble skjebnesvangert. Jeg ble uforbeholdent forelsket i landet og har ikke kommet
+over det ennå. Som koordinator for et samarbeidsprosjekt mellom de to instituttene har
+jeg vært i Zimbabwe 2-3 ganger hvert år siden og tilbrakte hele 1996 der. Jeg er nok ikke
+noe unntak, noe talløse eksempler fra litteraturen vitner om (jfr., eg., Doris Lessing,
+"African Laughter"). Har man vært i Afrika, glemmer man det aldri. Mange blir bitt av
+"Afrika-basillen" og blir ikke den samme etterpå. Hva det egentlig består av denne
+merkelige dragningen, har jeg ikke noe godt svar på. Å involvere seg i Afrika er det
+samme som å be om trøbbel. Zimbabwe (tidligere Sør-Rhodesia) er langt fra noe paradis
+(bortsett fra for en liten gruppe folk med penger), preget av fattigdom, AIDS,
+galopperende inflasjon med alvorlige konsekvenser for den fattige majoriteten,
+korrupsjon og tilnærmet udugelig lederskap (for tiden), tørkekatastrofer,....
+
+På den annen side: Et vakkert land med vidunderlig vegetasjon og dyreliv, rikt på naturog ikke minst menneskelige ressurser — det siste til en stor grad uutnyttet. Overalt, både i
+by og på landet, treffer man generøse, intelligente og talentfulle mennesker — ikke minst
+
+kvinner - tvunget til fattigdom av mangel på reelle muligheter og støtte. Dette til tross for
+at analfabetismen er redusert til et minimum etter en stor innsats fra myndighetene siden
+uavhengigheten i 1980 for å heve utdanningsnivået. Joshua Nkomo, som var en av de
+
+mest kjente frihetskjemperne og senere leder, var samtidig en av de aller første, og blant
+de svært få, av den svarte befolkningen i Zimbabwe som hadde oppnådd en BA-grad før
+1980, noe som hadde stor symbolsk betydning under uavhengighetskampen.
+
+Fra media får man inntrykk av at alt er bare problemer. Mindre kjent er at det er mye å ta
+-. av også når det gjelder positive sider og ting som fungerer bra. Stadig dukker nye
+virksomheter opp med god suksess. For eksempel produksjonen av roser har vist seg
+
+
+
+konkurransedyktig internasjonalt til tross for lang og komplisert transport.
+Auksjonsmarkedet for tobakk, som er en hovedeksportartikkel, hører med til de mest
+effektive i verden. Nylig har det oppstått en livlig produksjon av kunst laget av skrapjern
+som selger bra i Europa og USA, osv. Helsevesenet er slett ikke dårlig, selv om mange
+
+fortsatt dør siden de ikke har råd til adekvat behandling eller medisiner. En voksende
+middelklasse har økt stabiliteten til tross for den nåværende krisen. Den politiske
+
+opposisjonen har vokst kraftig i det siste, både når det gjelder slagkraft og kompetanse.
+
+—
+
+Det meste fungerer egentlig rimelig bra bare man tar tålmodighet, tid og humor til hjelp.
+Skal man planlegge noe bør man legge til minst 50%i tid for uforutsette hindringer. Har
+man en avtale med noen er det en betydelig sjanse for at vedkommende ikke dukker opp.
+
+Skal man ta en viktig telefon virker ikke telefonen på grunn av kraftig regn, streik eller
+
+overbelastning. Skal man reise med buss til et mindre sted bryter bussen sammen.
+
+Kommer man i skade for å kikke på de nedslitte dekkene før man stiger på bussen, kan
+noen hver (fra Europa) bli nervøs. Men Zimbabwerne vet råd. På de gamle bussene har
+man gjerne festet en ekstra jernfelg utenpå hjulene for å redusere konsekvensene når et
+dekk eksploderer.
+
+En gang jeg bestilte en togbillett til Victoria Falls, tok bestillingen en uke p.g.a. at man måtte bytte tog i en mellomliggende by, Bulawayo, og bestillingen fra Bulawayo til
+Victoria Falls måtte utstedes i Bulawayo. Selve togturen var en opplevelse når det gjelder
+folkeliv. At vi kom seks timer forsinket til Bulawayo og bare fire timer forsinket til
+
+Victoria Falls ble regnet som normalt. Om man har et stramt tidsskjema bør man nok
+satse på fly.
+
+==
+
+=
+
+Selv om Viktoriafallene er et typisk turiststed på grensen mellom Zimbabwe og Zambia, |
+er det vel verdt et besøk. Imponerende syn. Det første glimtet man får av fossen er til å fa
+
+pustebesvær av. Nedenfor fossen fortsetter Zambezi-elveni ville stryk nedover en 100 m
+
+dyp slukt der kan man rafte. Min datter hadde etter lengre tids påvirkning endelig klart å
+overtale meg til å bli med på en raftetur. Til tross for at strykene når høyt på en skala over
+vanskelighetsgrad, og tusenvis av turister utfordrer skjebnen hvert år, skjer det svært få
+alvorlige ulykker. Grunnen er hovedsakelig et godt sikkerhetsopplegg og en meget
+vannrik Zambezi slik at sjansen for å sette seg fast i bunnen når man blir kastet ut av
+flåten - og det blir man - er liten. Vi gikk rundt to ganger og selv min datter måtte
+innrømme etterpå at opplevelsen var noe mer skremmende enn hun hadde forestilt seg.
+Hun kom seg imidlertid fort, men denne gangen klarte hun ikke å overtale meg til å
+hoppei strikk fra jernbanebroen over slukten rett nedenfor fossen. Selv hadde hun ikke
+noen motforestillinger og beskrev etterpå følelsen av 4 dingle i en strikk rett over de
+frådende vannmassene fra fossen som vidunderlig.
+
+Zimbabwe har meget gode safari-muligheter i et utall av nasjonalparker og private "game
+parks". Min favoritt er padle-safari på Zambezi i et rolig naturpark-område lenger ned
+like før elven glir inn i Mocambique. Safarien tar en 4-5 dager. Man padler mesteparten
+av dagen - med mange innlagte mat og drikkepauser - og overnatter i provisoriske leirer
+på elvebredden som settes opp av hjelpere før vi ankommer og tas ned når vi drar.
+
+10
+
+
+
+Hjelperne følger oss i jeeper på land. Litt mer luksuriøst enn vi er vant til fra turliv i
+Norge, men det er ikke noe valg siden det ikke er tillatt å begi seg inn i disse områdene
+på egen hånd. Man kommer meget nær dyrene på denne måten, elefanter, bøfler, sebraer,
+giraffer, en og annen løve om man er heldig, antiloper i alle varianter, et utrolig fugleliv.
+Guiden, som er meget høyt kvalifisert, passer nøye på at vi ikke kommer for nær
+
+flodhestene som kan være farlige. Da en svær krokodille gled ned i vannet fem meter fra
+kanoen, trøstet guiden med at krokodillene på Zambezi stort sett er trøtte og late siden det
+er nok med mat i elven. Den eneste gangen jeg så guiden litt nervøs og fiklet med
+pistolen sin, var når vi gled med strømmen i en trang elvearm rett mot en bøffel som sto
+midt i elven og så på oss. Etter skrik og skrål og plask med årene forsvant den heldigvis.
+Enkelte scener ved elven minnet meg sterkt om bilder av Rubens med afrikanske motiv.
+Man skulle tro at Rubens hadde vært i Afrika (?). Ved leirbålet om kvelden blir det disket
+opp med flere retters middag med påfølgende drinker mens man nyter solnedgangen og
+
+alle eksotiske lyder og betrakter gressbrannene i åsene på den zambiske siden av elven. I
+det hele tatt en opplevelse man bør unne seg i løpet av et liv om man har muligheten.
+
+Som nevnt er Afrika stappfull av uforutsette hindringer. Selv om disse hindringer kan
+
+være svært frustrerende, for ikke å si farlige noen ganger, fører de også av og til til
+uforglemmelig opplevelser i møte med mennesker. Det året jeg tilbrakte i Zimbabwe
+skaffet jeg en bruktbil, VW Passat, til ca 20,000 kr., som var grensen for det budsjettet
+kunne tåle. På grunn av et primitivt transportsystem er det vanskelig å klare seg i lengre
+tid uten tilgang til bil. Hadde jeg visst mer om biler kunne jeg kanskje funnet et bedre
+eksemplar til den prisen. Det første halvåret brøt bilen sammen gjennomgående en gang i
+uken, noen ganger på risikable steder. Merkelig nok (og heldigvis) lot problemet seg
+alltid ordne på et vis. En gang brøt kjølesystemet sammen på en nokså øde vei langt på
+landet. Ingen trafikk, ingen mennesker. Da det mørknet følte jeg meg ikke akkurat høy i
+
+hatten. Plutselig dukker det opp en barbent fyri fillete klær, presenterer seg som Witness,
+og spør om jeg trenger hjelp. Heldigvis hadde jeg en lommelykt. Etter noen minutter på
+hodet i motoren kommer han opp og sier med et stort smil, "no problem". Han kan fikse ~
+det. I mellomtiden hadde det dukket opp et par andre menn og unger som ville hjelpe
+meg å passe på bilen mens Witness løp til landsbyen for å hente utstyr. De forklarte med
+overbevisning at å strande alene på landsveien om natten ikke er trygt. Etter en stund kom
+Witness tilbake med noen gamle ledninger, litt plastikk, en kniv, en stor saks og et
+stearinlys. Han og de andre jobbet og diskuterte iherdig i en time før bilen ble erklært
+ferdig. Jeg ante det verste, men bilen startet faktisk. Alle var fornøyde, og jeg ble tilbudt
+middag i landsbyen: sadza med grønnsaker. (Sadza er en pudding laget av maismel og
+danner hovedingrediensen, istedenfor ris eller poteter, i zimbabwisk kost.) Vi stappet alle
+inn i den nyreparerte bilen og kjørte på en mellomting av sti og vei inn i bushen til landsbyen. Det hele endte med et meget minneverdig måltid rundt bålet utenfor runde .
+afrikanske hytter med stråtak. Etter utveksling av vennskapserklæringer og et bidrag til
+husholdningen med et passende beløp, reiste jeg videre mens jeg krysset fingrene.
+Reparasjonen holdt faktisk 200 km før den brøt sammen igjen, men da hadde jeg
+heldigvis, på mirakuløst vis ifølge mekanikeren, klart å komme meg til Masvingo, en litt større by, og problemet kunne fikses på en mer normal måte.
+
+11
+
+
+
+Som læreri statistikk for studenter fra andre fag, økonomi i mitt tilfelle, føler jeg at jeg
+har lært mye ved å undervise i Zimbabwe. Om dette kan det sies mye, men jeg skal nøye
+
+meg med et lite eksempel. I Oslo hadde jeg lært å legge mye vekt på motivering og
+
+tolking av begreper, å prøve å bygge en adekvat forståelse — med trykk på forståelse med minimum bruk av beviser, men med supplerende forklaringer av hvordan selve
+
+argumentasjonen bør forstås. Etter evalueringer å dømme fungerte opplegget rimelig bra i
+Oslo, men viste seg lite vellykket i Zimbabwe. Det gikk bra til å begynne med, men
+frustrasjonen blant studentene steg merkbart etterhvert og nærmet seg noe som lignet på
+lynsjestemning til slutt. Å stå overfor en forsamling på 150 fiendtlige og fremmede
+studenter var skremmende. Det var på dette tidspunktet jeg fikk følelsen av å innse noe
+viktig. I Zimbabwe var undervisningen i statistikk i stor grad preget av øving i
+regneskjemaer - noe man kanskje kunne kalle algoritmetrening - med tilhørende
+halvforståtte floskler for modell og tolking av resultater. Eksamensoppgavene var også
+sterkt preget av dette. Utover mestring av algoritmene ble det lagt lite vekt på forståelse
+og diskusjon av input (modell, data) og output (tolkning). Denne tendensen ble forsterket
+av at studentene i praksis ikke hadde tilgang til lærebøker på grunn av svært høye priser
+for lærebøker etter zimbabwisk kostnadsnivå. Studentene hadde dermed bare tilgang til
+sine egne notater, ofte av vekslende kvalitet, fra forelesningene. Mitt opplegg, i hovedsak
+basert på motivering, argumentasjon og diskusjon, var derfor mer egnet til å skape
+forvirring og usikkerhet med hva som krevdes til eksamen enn oppklaring og forståelse.
+Riktignok kom noen studenter nærmest snikende i smug på mitt kontor for å uttrykke
+takknemlighet og oppmuntring, men det var typisk studenter med betydelig mer
+matematisk modenhet enn de andre ved at de hadde såkalt A-level kurs i matematikk fra
+skolen. På grunn av seleksjonssystemet til universitetet og til økonomistudiet er det ting
+som tyder på at avstanden i matematisk modenhet mellom disse få A-level studentene og
+
+de andre (de fleste) er enda større enn det vi kjenner til fra Norge. Min feil var at jeg ikke
+helt så betydningen av selve algoritmetreningen. For mange studenter er det tydeligvis
+langt enklere å mestre et regneskjema enn en motivering og begrunnelse av hva som
+foregår, i hvert fall som første trinn. Etter å ha modifisert opplegget i henhold til dette
+gikk undervisningen betydelig bedre. Problemet generelt med undervisningeni statistikk
+ved UZ var altså ikke selve algoritmetreningen som er et viktig første trinn for å få med
+seg studenter med svak matematisk bakgrunn, men at det hele stoppet med det. Det
+syntes også klart at det var vanskelig å gjøre noe med dette uten at tilgangen til lærebøker
+ble betydelig forbedret, noe som ble et viktig element i samarbeidsprosjektet vårt. Til en
+viss grad har vi lykkes med dette og allerede høstet noen frukter.
+
+Disse korte inntrykkene er rimeligvis en svært liten del av det jeg sitter igjen med etter
+alle besøkene. Jeg har vært så heldig at jeg har kommet nær flere familier i deres kamp
+for tilværelsen, opplevet brylluper, begravelser, fødsler og død, magi og visdom,
+åndemanende fester og tradisjonell medisin. Jeg føler det som et stort privilegium å ha
+fått sjansen til å møte en helt fremmed kultur og oppleve at det meste som virker
+fremmed og rart ved første møte på en måte blir forståelig bare man kommer nær nok.
+Eller sagt på en annen måte: Et eksempel på hva en lærer i statistikk kan risikere å
+komme ut for....
+
+12
+
+
+
+Kronikk i Aftenposten, søndag 12. november 2000:
+
+De matematiske utfordringer knyttet til data- og teletrafikk er større enn noensinne
+i verdens matematikkår 2000, skriver BENT NATVIG, professor i matematisk
+statistikk ved Universitetet i Oslo og deltidsansatt ved Norsk Regnesentral.
+
+Kronikken skisserer utviklingen av matematisk køteori og er basert på et foredrag
+på Norsk Telemuseum under Forskningsdagene tidligere i høst.
+
+Køteori - en nøkkel til kortere ventetider
+Køer forårsaker store problemer og økonomiske tap for enkeltmennesket og
+samfunnet. Heldigvis finnes det et matematisk fagfelt, køteori, som kan komme
+politikerne til unnsetning og brukes til å forkorte ventetidene.
+
+Tiltak for å redusere køene er særdeles kostnadskrevende. Dette er åpenbart i
+trafikksektoren. Det er ikke mindre åpenbart i helsesektoren. Det oppfattes som hjerterått
+at mennesker dør i helsekø, mens de f.eks. venter på strålebehandling mot kreft.
+Politikerne har derfor innført såkalte ventelistegarantier for å prøve å sette en øvre grense
+for ventetiden til adekvat behandling. Slike garantier blir imidlertid meningsløse hvis en
+ikke setter inn tilstrekkelige tiltak for å redusere køene og administrere dem på en
+fornuftigere måte.
+
+Til unnsetning kommer fagfeltet køteori. Dette er matematisk teori basert på
+sannsynlighetsregning til å dimensjonere et køsystem på en optimal måte.
+La oss se på supermarkedet der mange av oss har lang erfaring i køstudier. P.g.a.
+selvbetjening er køene flyttet til kassene. Et køteoretisk problem er da å bestemme hvor
+
+mange kasser som til enhver tid skal være betjent. Kundene ønsker selvsagt dette antallet
+høyest mulig for å måtte vente minst mulig. Et for høyt antall vil imidlertid medføre at
+personene i kassene innimellom er fullstendig arbeidsledige i lengre perioder, noe som
+medfører unødig høye lønnsutgifter for eieren av supermarkedet. Hvis eieren på den
+annen side stort sett har for få kasser åpne, risikerer vedkommende at alle kundene
+forsvinner til en konkurrent med kortere køer.
+
+Et stikkordi administreringen av slike køer er fleksibilitet. Den dyktige eier av et
+supermarked regulerer antall åpne kasser kontinuerlig ut fra lengden på køene, ved å la
+betjeningen kunne drive annet forefallende arbeid når køene er korte. Det kan også være
+
+egne kasser for smahandlerne. På den annen side kan den dyktige kunde oppsøke
+
+supermarkedet på de mindre travle tidspunktene og gjøre storhandelen da.
+Hvorfor er køteori spesielt aktuelt i år 2000? Et stikkord her er informasjons- og
+kommunikasjonsteknologi (IKT). For å dimensjonere lokale, nasjonale og internasjonale
+nett for data- og teletrafikk er en nødt til å ha en teori som grunnlag for å avstemme
+kundenes bruk og behov mot utbygnings- og driftskostnader. Vi står følgelig
+
+13
+
+
+
+overfor samme type utfordringer som når veinettet, helsesektoren eller betalingssystemet i
+supermarkedet skal dimensjoneres.
+Et sentralt begrep i moderne vitenskap er modell. De fleste er klar over at økonomene i
+
+Norges Bank, Statistisk Sentralbyrå og Finansdepartementet forsøker å styre landets
+økonomiske utvikling ved hjelp av teoretiske modeller som utnytter innsamlete, relevante
+data. I prinsippet er ikke det noe annet enn det arkitektfirmaet Snøhetta” gjør når de
+bygger en mindre modell av det nye operabygget for at de selv og andre interesserte skal få et godt og forhåpentligvis realistisk bilde av hvordan bygget vil ta seg ut i
+virkeligheten. Modeller er altså verktøy til å beskrive og styre virkelighetens verden.
+For å beskrive og utvikle modeller trengs hjelpemidler, f. eks. språk, tegninger, fysiske
+konstruksjoner osv. For køteoretisk modellering er matematikken språket og
+sannsynlighetsregningen en kasse av byggeklosser. Ved konstruksjon av en
+sannsynlighetsteoretisk modell har en to motstridende interesser. På den ene side må
+modellen være så nær opp til den virkelighet vi ønsker å beskrive, at de avledede
+
+resultater tilnærmet også gjelder i praksis. På den annen side må modellen være så enkel
+at vi har muligheter til å bruke matematisk verktøy til å avlede interessante resultater.
+Det er verdt å merke seg at vi ønsker å utlede matematiske resultater på en slik form at
+-- de er velegnet for numeriske beregninger. Når den matematiske modellering "møter
+
+veggen”, må simuleringer på datamaskin overta. For så til slutt å sjekke om modellen og
+de avledede resultater er i overensstemmelse med data fra virkeligheten, benytter en seg
+av teknikker fra den statistiske metodelære.
+
+La oss nå se nærmere på telenettet og betrakte en telefonsentral for en større bedrift.
+Kunder ringer inn på tilsynelatende helt tilfeldige tidspunkter. Siden sentralen har
+begrenset kapasitet, risikerer kunden å få et opptattsignal. Unngår kunden dette, vil
+vedkommende i beste fall umiddelbart få en ledig linje. Hvis ikke, blir kunden plassert i
+-. kø, utsettes for ikke altfor smektende musikk og med jevne intervaller gitt beskjed om at
+*du rykker stadig frem i køen”. Kunden kan da etter en stund gi opp og legge på røret
+eller vente til det blir en ledig linje.
+Dimensjoneringen av telefonsentralen skjer på to måter. For det første må en
+bestemme seg for hvor mange kunder en kan tillate å vente i kø før en gir neste kunde
+opptattsignalet. Dette kalles generelt *venteromskapasiteten”. Dernest må en bestemme
+antall linjer, generelt kalt “betjenere”.
+Kunder som har bestilt bord på forhånd, slipper å stå i kø. Dette er et eksempel på et
+
+— køsystem der kundene tilhører forskjellige prioritetsklasser. Slike systemer er helt vanlige
+i nett for data- og teletrafikk. Telefonsentralen beskrevet over utgjør det vi kan kalle et
+køelement. Disse kan kobles sammen på ulike måter til et kønettverk.
+Ved hjelp av våre kømodeller ønsker vi å kunne si noe om variasjonen i antall kunder
+som enten blir betjent eller står i kø på ulike tidspunkter, samt variasjonen i ventetiden
+frem til betjening for en ankommende kunde. Tilsvarende er vi interessert i variasjonen i
+tiden en vilkårlig betjener må arbeide i et strekk uten pause, kalt opptattperioden, og
+variasjonen i tiden vedkommende er uten arbeid i et strekk, kalt ledigperioden. Endelig er
+vi interessert i prosessen som genereres av tidspunktene når kundene forlater køelementet,
+
+|
+
+kalt outputprosessen. Denne kan være inputprosess til et nytt køelement.
+
+Køteoriens tradisjonelle modeller antar at tidene mellom ankomster av kunder har
+samme fordeling, og at tidene er innbyrdes uavhengige. Tilsvarende antas det at tidene
+
+14
+
+
+
+det tar å betjene kundene har samme fordeling, er innbyrdes uavhengige og også
+uavhengige av ankomsttidene. En generell kømodell av denne typen betegnes G/G/s/N.
+
+Her står den første “G” for generell fordeling for tidene mellom ankomster, den andre
+*G”
+
+for generell fordeling for betjeningstidene, *s” er antall betjenere mens *N” er
+venteromskapasiteten.
+Den danske ingeniøren Agner Krarup Erlang la grunnlaget for køteorien ved å
+publisere et arbeid om sannsynlighetsteori og telefonsamtaler i “Nyt Tidsskrift for
+Matematik” i 1909. I 1917 publiserte han artikkelen "Løsning af nogle Problemer fra
+Sandsynlighedsregningen
+
+af
+
+Betydning
+
+for
+
+de
+
+automatiske
+
+Telefoncentraler”
+
+i
+
+*Elektroteknikeren”. Her brukte han med stor suksess et spesialtilfelle, betegnet M/M/s/0,
+av den generelle kømodellen nevnt ovenfor til å beskrive trafikken ved en telefonsentral
+og til dimensjonering.
+
+De to *M”ene i betegnelsen står for Markovsk etter den russiske matematikeren
+Andrej Markov (1856 -1922) som er en av grunnleggerne av moderne
+sannsynlighetsregning. Han ble forøvrig æresdoktor ved Universitetet i Oslo ved Abeljubileet i 1902.
+
+Det som kjennetegner en Markovsk ankomstprosess, er at på ethvert tidspunkt er tiden
+frem til neste ankomst av en kunde uavhengig av tiden siden forrige kunde ankom.
+Tilsvarende for en Markovsk betjeningsprosess er på ethvert tidspunkt tiden frem til
+betjeningen blir avsluttet, uavhengig av hvor lenge den allerede har vart.
+Ifølge Erlang hjelper det altså lite at du har ventet veldig lenge på at personen i
+
+telefonkiosken skal bli ferdig med å skravle. Du er egentlig like langt som da
+vedkommende startet. Dette er som i Ludo. Om du har kastet terning en lang rekke
+ganger uten å få “6” for å komme i gang med spillet, er du like langt som da du begynte å
+slå.
+
+Nordmannen Tore Olaus Engset fulgte opp med et arbeid i 1918 i det tyske
+“Elektrotechnische Zeitschrift” om bruk av sannsynlighetsregning for å bestemme antall
+utgående linjer i en automatisk telefonsentral.
+Engset antar at denne sentralen skal betjene et bestemt antall kunder som ønsker
+utgående samtaler til resten av verden. Sentralen har ingen venteromskapasitet. Han
+ønsker å bestemme antall utgående linjer (betjenere) på en optimal måte. Han antar at
+hver av kundene ønsker utgående samtaler uavhengig av hverandre.
+Uten at Engset presiserer det eksplisitt, er han nødt til å anta at hver av
+ankomstprosessene for disse kundene nettopp er Markovsk. Han beregner så
+sannsynligheten for at et bestemt, vilkårlig antall utgående linjer er opptatt, og spesielt
+
+sannsynligheten for at alle utgående linjer er opptatt. Formelen for dette kalles Engsets
+tapsformel. For tilfellet at også betjeningsprosessene er uavhengige av hverandre samt
+uavhengige av ankomstprosessene, blir denne formelen enkel og vakker. Den har da også
+en sentral plass i køteoretiske fagbøker.
+
+Engset var gjennom hele livet ansatt i Telegrafverket og avsluttet karrieren som
+Telegrafdirektor fra 1930 — 1935 etter mange år som nestkommanderende. I 1910 ble han
+medlem av en tremannskomite som skulle gi anbefaling om innføring av en helt ny
+generasjon av telefonsentraler. Den første av disse ble satt i drift i 1921.
+
+Helt nylig er det dukket opp en 130 siders upublisert rapport som Engset avsluttet i
+1915, altså før arbeidet til Erlang fra 1917. Denne er oversatt til engelsk og kommentert
+av tidligere professor ved NTNU Arne Myskja, som også har skrevet en utmerket biografi
+
+15
+
+
+
+om Engset. Alt dette er publisert i Telektronikk i 1998, et tidsskrift utgitt av Telenor
+Forskning og Utvikling. Arbeidene til Engset er svært imponerende, delvis fordi de ble
+utført i sene nattetimer utenom ordinært arbeid, men også fordi han ikke hadde tilgang til
+våre dagers sannsynlighetsteori samt numeriske metoder tilrettelagt for datamaskiner.
+Moderne køteori har kunnet utvikle langt mer avanserte modeller, der f.eks. både
+ankomstprosessen og betjeningsprosessen avhenger av det totale antall kunder som enten
+blir betjent eller står i kø. En kan f.eks. la kundene være fleksible og slutte seg raskere til
+
+korte køer og tilsvarende tregere til lange køer. Dette oppnåes i telefonkøer ved at det
+stadig oppgis hvilket nummer en er i køen. Tilsvarende kan betjenerne arbeide raskere når
+det er mange i køen og tilsvarende saktere når det er få.
+
+Det er vist, også teoretisk, at dette stort sett leder til kortere ventetider for kundene og
+mer stabile forhold. Videre kan en ved dagens datamaskinbaserte simuleringsteknikker
+analysere kompliserte nettverk av køelementer.
+
+Ironisk sett er de matematiske utfordringer knyttet til data- og teletrafikk større enn
+noensinne. På den annen side er det få av dagens ungdommer som går med en Engset i
+maven. Realfagene generelt og de matematiske fag spesielt sliter med voldsomme
+rekrutteringsproblemer. Derfor er det viktig å fokusere på betydningen av realfaglig
+forskning for moderne samfunnsutvikling.
+
+16
+
+
+
+Statistikk på sidelinjen?
+Erik Bølviken og Tormod Næs har skrevet en kronikk i Teknisk Ukeblad nvlig, med denne tittel. Kronikken tar opp flere temaer som er
+av interesse for vårt fag generelt og for dem som er direkte involvert
+i undervisningen av faget spesielt. På de følgende sider bringer TG
+
+først en kopi av kronikken, fulgt av kommentarer og reaksjoner fra Inge
+Helland, Arnoldo Frigessi og Tore Schweder.
+
+TG
+
+tar gjerne imot flere reaksjoner og innspill vedrørende temaene som
+
+kronikkforfatterne tar opp. I neste nummer av TG vil Bølviken og Næs
+få anledning til å svare på innleggene fra Helland, Frigessi og Schweder,
+
+samt andre som måtte ha kommet redaksjonen i hende innen utgangen
+av april.
+
+17
+
+
+
+. tukronikk
+
+Erik Bølviken og Tormod Næs
+
+Enorme mengder tilgjengelig data i industrien
+
+og samfunnet må analyseres og tolkes bedre:
+
+Statistikk på sidelinjen
+“ERIK BØLVIKEN
+er professor i
+
+statistikk,
+Universitetet
+
+i Oslo, og
+
+Seniorforsker ved
+Norsk Regnesentral.
+
+TORMOD NÆS
+
+er seniorforsker
+ved Matforsk,
+
+frilanskonsulent
+og professor Iti
+statistikk ved
+Universitetet i Oslo.
+
+STATISTIKKFAGET KAN OG BØR spille en mer sentral rol-
+
+le i samfunnet når det gjelder analyse og tolkning av sto- |
+
+re datamengder.I en tid med mye og lett tilgjengelig informasjon og derfor stort behov for systematisering, er
+
+det uheldig at statistikkfagets potensial ikke utnyttes
+bedre. Dette gjelder både innen industri, finans, forskning
+og forvaltning.
+
+‘
+Daglig mottar vi en mengde informasjon i form av bil-
+
+der, lyd, tall og tekst. Privat gjelder dette szerlig de nye me-
+
+diene, mens det i yrkeslivet også dreier seg om en serie
+andre informasjonskilder. Eksempler er kjemiske og fy-
+
+siske måleinstrumenter i industrien og datavarehus for
+samling og bearbeiding av kundeinformasjon i det økonomiske liv. For å nyttiggjøre oss all denne informasjonen
+
+effektivt trengs metodikk som reduserer og forenkler. På
+
+den måten skapes oversikt og forståelse, slik at fornuftige beslutninger kan tas. Dette er en av statistikkfagets
+viktigste oppgaver. Det er vår oppfatning at disse mulighetene verken har vært godt nok kjent eller utnyttet.
+
+næringslivet. Fremtredende eksempler er dataanalyse (fra
+1970-årene) og data mining (fra det siste tiåret). Grunnleggende er alle disse skoler en del av statistikkfaget, og
+alle forsøker å løse problemer som er for kompliserte til
+
+å kunne beskrives presist matematisk, samtidig som det
+
+finnes regelmessige, repeterbare mønstre som kan fang-
+
+es opp ved omtrentlige modeller. Her er noen eksempler
+
+fra teknikk og økonomi der norske miljøer har gitt vesentlige bidrag.
+
+'
+
+Pragmatisk statistisk modellbygging har med stort hell
+
+blitt brukt innen de deler av anvendt kjemi der det foreligger målinger
+av mange korrelerte variable (kjemome-
+
+tri). Teknologien knyttet til nærinfrarød (NIR) spektroskopi
+
+er et typisk eksempel. De underliggende fysiske og kje-
+
+miske effekter er ofte for kompliserte til at de fanges opp
+via teoretiske modeller, men empirisk modellering
+via sta-
+
+tistiske teknikker har vist seg effektive for tolkning og til
+bestemmelse av kjemiske komponenter.
+
+Erfaringslæring
+
+Modeillklasser
+Statistikk er en de! av metodeapparatet i mange fag, men
+det er også en egen generisk disiplin. I virkeligheten dreier det seg om et sammensurium av teknikker med flere
+ulike retninger og skoler. Historisk var disse metodene
+
+numeriske approksimasjonsteknikker, nært forbundet
+med beregningsmatematikk, men dette endret seg da
+man i første halvdel av det tjuende århundre for alvor
+
+begynte å bygge på at det tilfeldige i datamaterialer kan
+
+- beskrives matematisk ved hjelp av sannsynlighetsmodeller. Derved ble statistikkfaget gitt et veldefinert teoretisk grunnlag,
+og man kom etter hvert fram til effektive modellkiasser som kunne håndtere mange problemer.
+
+Samtidig ble den matematiske side ved statistikkfa-
+
+get dyrket. Undervisning og metodisk forskning bie i
+_ mange land, for eksempel Norge, lagt i hendene på ma-
+
+Statistiske metoder anvendes også i finansindustrien og
+
+i forbindelse med markedsføring. Et eksempel er den så-
+
+kalte CRM (customer relationship management) som sik-
+
+ter mot å forstå kundegrunnlaget bedre via systematis- .
+ke empiriske undersøkelser. Herved forsøker bedrifter å
+
+beholde de kundene de har, og også skaffe seg nye gjennom effektive kampanjer og markedsføringstiltak.
+Felles for ail disse eksemplene
+er at det dreier seg om
+systematisk
+å lære av erfaring. Det er rom for store forbedringer i hvorledes disse metoder brukes og formidles, for eksempel:
+
+° Mye bedre utnyttelse av moderne informasjonstekno-
+
+logi. Mange nyttige statistiske teknikker er slik at de er
+beregningskrevende, og effektiv bruk av beregninger kan
+
+ofte forenkle modelleringsprosessen betydelig.
+
+tematikere ved matematiske institutter. Mange av disse
+- var mer interessert i metodikk for dens egen skyld enn i
+
+praktisk problemiøsing, og det oppsto en kløft
+mellom metodeutviklingen innen statistikk-
+
+faget selv
+og behovet hos dem som skulle bru-
+
+e Utvikling av større og mer anvendbare metodebokser.
+Dette vil kunne gi en mer overordnet under-
+
+166
+
+visning/formidling av metode, renset for
+
+Det oppsto en
+
+mange av de irrelevante detaljer som gjør mye .
+
+ke det. Mens den teoretiske verden utviklet
+
+kløft mellom
+
+av dagens metodiske apparat tungrodd og
+uoversiktlig.
+
+mer og mer sofistikerte teknikker, med liten
+
+metodeutvik-
+
+praktisk gevinst, opererer brukerne ofte i en
+
+lingen innen
+
+grov og uoversiktlig verden som bare i be-
+
+statistikkfaget
+
+skjeden grad er matematisk formaliserbar.
+
+selv og behovet "grensesnitt og tolkningsverktøy. Uten gode _
+
+Undervisningen i statistikk på tekniske og
+
+økonomiske høyskoler har vært preget av statistikkfagets egen teoridannelse snarere enn
+
+fagets motivering som praktisk hjelpedisiplin
+
+hos dem som
+skulle bruke
+det.
+
+der andre matematiske modeller kommer til
+
+kort. Denne mangel på innordning i andre fagstudier
+har medført at statistikkundervisningen må ha virket
+uforståelig og demotiverende for mange studenter.
+
+Teori og praksis
+Det vakuum mellom teori og anvendelse vi har beskrevet ovenfor, måtte etter hvert bli fylt av andre, og det oppsto mer pragmatiske retninger som orienterer seg mot
+
+praktisk løsning av behov i industrien og andre deler av
+
+e Mer vekt på gode brukervennlige bruker-
+
+.. verktøy som forenkler forståelse og tolkning
+blir metodene lett spesialverktøy for fagspe-
+
+.
+
+sialisten.
+
+e Fagstatistikere må i større grad fokusere på
+
+~
+
+hele prosesser og kommunikasjon med brukere i alle fa-.~
+
+ser, fra problemformulering, forsøksdesign, analyse og
+tolkning til konklusjon og eventuelt nye runder med undersøkelser.
+Ved UiOer prosesser i gang som i løpet av kort tid vil forandre undervisningen i statistikkfaget
+på en slik måte at
+de ovenfor nevnte elementer blir tatt bedre vare på.
+Vi håper og tror dette vil bidra til en positiv utvikling av faget.
+
+
+
+Kommentarer til kronikk i Teknisk Ukeblad 14.12.00.
+Erik Bølviken og Tomod Næs har tatt opp flere viktige problemstillinger i kronikken sin.
+Jeg er enig i svært mye av det som står der, men mener at beskrivelsen av virkeligheten
+kunne ha vært noe bedre utdypet på et par punkter, noe som vel kan forklares ved at en
+slik kronikk nødvendigvis er tildelt en ganske begrenset plass.
+
+I disse korte kommentarene vil jeg konsentrere meg om forholdet mellom teori og
+anvendelseri statistisk forskning og undervisning, et tema som ligger bak flere av
+kommentarene til Erik og Tormod, selv om det kanskje ikke er hovedpoenget i selve
+artikkelen.
+
+En del av kronikkens beskrivelse av statistisk metodikk i praksis er jeg iallfall et stykke
+på vei enig i: 'I virkeligheten dreier det om et sammensurium av teknikker med flere ulike
+retninger og skoler." Vi må innse at slik er verden på endel av statistikkens områder, og
+vi gjør feil når vi prøver å fremstille statistikkfaget totalt som noe som er utviklet eller
+kan utvikles gjennom en rent deduktiv prosess ut fra en helhetlig og veldefinert teori.
+Men vi gjør en annen feil om vi ut fra dette oppmuntrer til å kaste all teoribygning på
+båten. Nettopp det at vi presenteres for et sammensurium av teknikker, gjør det viktig at
+noen prøver å samle trådene. At ulike skoler rår grunnen, gjør også at det utvikles
+forskjellige språk og ulike måter å tenke intuitivt på. Da kan det være nyttig for alle
+parter at noen søker å finne teoretiske plattformer slik at det om mulig kan dannes
+synteser mellom ulike paradigmesett. Slike utviklinger skjer, men de skjer ikke over
+natten.
+
+Jeg kan forsåvidt også underskrive at ' (deler av) den teoretiske verden (har) utviklet mer
+og mer sofistikerte teknikker, med liten praktisk gevinst...'. Men det er ikke først og
+fremst gjennom bestrevelser med tanke på å finne optimale metoder vi finner styrken i
+den statistiske teorien, slik jeg ser det. Styrken ligger mer i å prøve å samle og gi oversikt
+og dessuten å fokusere på problemstillinger som er problematiske.
+
+Der det er riktig at det er et 'vakuum mellom teori og anvendelser' er dette etter mitt syn
+et nederlag både for teorien og for anvendelsene. Men da ligger ikke løsningen i å droppe
+all teori, men å arbeide mot en bedre teori. I et slikt arbeid er det etter mitt syn
+
+en idestrøm fra anvendelser til teori, både ved at teoretikere skaffer
+avgjørende også å ha
+
+seg erfaring selv, og ved at de er i et miljø sammen med folk med ulik erfaring. Her har
+det nok ofte sviktet. En må imidlertid også ta høyde for at teori-arbeid er en langsiktig
+
+prosess som også kan innebære mye prøving og feiling.
+
+Bruk av teori i undervisning kan ha sin berettigelse dersom det 1) tjener til å samle ideer
+og gi oversikt eller 2) gjøres på en slik måte at både lærere og studenter gis mulighet til å
+diskutere teorien og stille seg kritisk til deler av den. Dessverre er ikke situasjonen ideell
+her, verken på universiteter, på høyskoler eller i det vanlige skoleverket. Deler av teorien
+er vanskelig tilgjengelig, og det gjør det tungt å komme fram til et nivå der en kan stille
+seg kritisk. En teorilæring som foregår ved å pugge seg fram til å reprodusere dårlig
+fordøyde definisjoner og resultater, har liten hensikt. Dette siste kan brukes som
+argument for at teori har større berettigelse på universiteter enn andre steder, men på den
+annen side skal en være forsiktig med å si at bare universitetsstudenter har evnen til
+dyptgående kritisk tenkning.
+
+19
+
+
+
+Det er viktig å holde helt klart for seg at også standard teori inneholder svakheter, og
+
+dermed kan diskuteres. Et eksempel: Mye standard statistisk inferensteori bygger på
+
+desisjonsteori på grunnlag av en gitt tapsfunksjon (eller nyttefunksjon). Dette kan være
+en bra nok måte å tilnærme seg deler av de beslutningene som gjøres i statistisk inferens.
+
+Men hvis vi sammenligner med det rike mentale apparatet vi selv har når vi skal gjøre
+beslutninger i praksis (og i anvendt statistikk): intuisjon på grunnlag av erfaringer,
+mulighet for å lære med tanke på nye erfaringer osv., fremstår den formelle
+desisjonsteorien som uhyre primitiv.
+
+En måte å løse dette på, er å si at den formelle statistiske beslutningsprosessen bare er
+en del av den reelle beslutningsprosessen, og dette er vel også slik situasjonen er og bør
+være i praksis. Likevel skjer det ting i statistisk metodeutvikling som gjør at statistikeren
+kan delta på flere plasser i beslutningsprosessen, og en utvikling i statistisk teori som
+gjør slike prosesser mulig, bør selvsagt oppmuntres.
+
+Det har vært sagt at dersom en tillater seg å diskutere for mye avvik fra teorien i
+undervisningen, vil dette gjøre det for vanskelig for studentene. Et eksempel kan være
+undervisning i regresjonsanalyse, der fokusering på diagnostikk og på alle de typene
+
+modellavvik som kan forekomme i praksis nok vil gjøre situasjonen noe mer uoversiktlig
+enn en undervisning som bare tar for seg ren minste kvadraters teori. Mitt syn er da:
+Dette må aksepteres med tanke på de anvendelsene studentene skal forberedes til, og
+det kan aksepteres - også fra et pedagogisk synspunkt - ved å vise til at en ved alle
+avgjørelser i det praktiske liv alltid vil prøve å ta mange hensyn samtidig.
+
+En teori må prinsippielt sett også være åpen for utvikling, og denne utviklingen må
+
+foregå i nær kontakt med anvendelser. Det var dette som skjedde både da Neyman-
+
+Pearson-teorien og Fisher's likelihood-teori i sin tid ble utviklet. I våre dager skjer det for
+eksempel en meget interessant arbeide ved Peter McCullagh og medarbeidere, som går løs
+på selve det statistiske modell-begrepet ved hjelp av moderne matematiske metoder.
+Noe de prøver på, er å stille krav til hvilke modeller som er fornuftige, og de definerer
+helt presist begrepet ‘fornuft’ i denne sammenhengen. Teorien deres er i dag meget
+abstrakt og vanskelig tilgjengelig, og mange er usikre på om den har livets rett. Men på
+ett punkt er teori-utviklingen her helt klar: I arbeidet med denne teorien holdes det nær
+kontakt med et rikt arsenal av anvendte eksempler.
+
+Dette er slik det bør være: All teori bør være styrt av anvendelser, og bør diskuteres ut fra
+hvordan den fungerer i anvendelser. Kan vi ha dette perspektivet i undervisningen også,
+kan bruk av teori være meningsfylt. Men en må tillate seg å se ting fra flere sider. Jeg tror
+
+moderne undervisningi statistikk tar slike hensyn.
+
+Inge Helland
+
+Matematisk institutt, Avd. C
+Universitetet I Oslo
+
+20
+
+
+
+Comment to Statistikk på sidelinjen,
+Arnoldo Frigessi
+
+Erik and Tormod presented their views on challenges and dangers to statistics in a
+short note in Teknisk Ukeblad. We have discussed these issues many times, see last
+NSF Oslo avdeling møte, and I would like to see more progress in the synthesis of
+the various opinions.
+
+On the other hand, when we express different views, I think it is important to
+appreciate and protect our diversity as a common strength. Making research,
+education or consulting uniform would impoverish statistics dangerously.
+Our discussion aims to a) find relevant research streams; b) improve teaching and
+statistical education; c) be more useful to society.
+Research: I have been educated as a mathematician, and it is from that side that I
+approached statistics, focusing on stochastic models and inferential methods with
+their properties. I still find model-based statistics most interesting. It allows us to
+build coherent bridges between various sources of data and information. It allows the
+propagation of uncertainty. It permits us to address formally scientific questions of
+interest. In the last years I have learnt, through my job at NR and also thanks to the
+lively discussions around data mining, that there is also another type of statistics,
+which is model free and general purpose. As I wrote in my reflections in TG (see
+point 3.), off-the-shelf statistics is useful and important when we do not have good
+models, or when there is no time to built good models or when there is too much data
+to perform model based inference. Of course this is not always the case, and there
+
+should be ample space to do excellent and relevant research both in model based and
+in model free statistics. Research towards the creation of "større og mer anvendbare
+metodebokser" can be a good aim in certain cases, but would be a total disaster in
+others. By the way, I disagree with the general statement that there was (or is) a gap
+between metodeutviklingen and behovet. Of course there are some irrelevant papers
+in asymptotic theory, but these are totally marginal to our discipline, which is mainly
+focused on developing theories with visible and rather immediate impact on
+applications. This is the side of statistics that we should market, by the way!
+Education: I find the level of statistical education in Norway excellent. Not perfect,
+but excellent! A lot of efforts are made to enhance motivation. While toy examples
+are always useful to explain methods, real cases are very often presented, at all levels.
+During their education, every student should be exposed to the various strands of
+statistics, including mathematical formalisms of important theorems, model
+
+construction, comparison and criticism and inference. I have the impression that there
+is a good balance between these various aspects, so that students get a good overview.
+In fact, is there possibly today too much focus on simulation based inference?
+Consulting and application of statistics: It is an important aim to increase statistical
+literacy in general, so that statistics is more often used by non-statisticians. Of course,
+this should be achieved without trivialising and miss-representing our methods.
+FurthermoreI also believe that statistics should mostly be done by trained
+
+statisticians, who understand the power and the pitfalls of their tools. When I am ill, I
+sometimes want to see a doctor, a nurse is not enough!
+
+
+
+Statistikk på sidelinja?
+
+En kommentar til kronikken til Erik Bølviken og Tormod Næsi Teknisk Ukeblad
+14.12.00
+
+Bølviken og Næs slår et slag for statistikk som fag. Hovedbudskapet er at faget har en
+
+viktig rolle å spille i det moderne samfunn med sine overveldende datamengder. "For å
+nyttiggjøre oss all dénne informasjonen effektivt trengs metodikk som reduserer og
+
+forenkler. På den måten skapes oversikt og forståelse, slik at fornuftige beslutninger kan
+
+tas. Dette er statistikkfagets viktigste oppgaver. Det er vår oppfatning at disse
+
+mulighetene verken har vært godt nok kjent eller utnyttet.” Dette er et viktig budskap til
+lesere av Teknisk Ukeblad. Vårt fag trenger markedsføring”. I hovedsak tror jeg at
+kronikken fungerer positivt som en hardt tiltrengt påminnelse om fagets eksistens og
+potensielle rollei samfunnet for en typisk hurtigleser.
+
+For den leser som tar seg tid med kronikken er jeg mere usikker, av flere grunner. For det
+første er det vanskelig å se hva som skiller statistikk fra databehandling og
+informasjonsteknologi. For mange lesere vil *dataanalyser fra 1970-årene) og data
+mining” bli oppfattet som databehandling av typen IT. Den litt bedre orienterte leser vil
+vel tenke på smarte varianter av histogrammer og tabeller, nevrale nettverk og andre slike
+
+metoder - som alle mer blir sett som IT enn statistikk. Det er politisk enighet om at IT må
+styrkes. Men om statistikken bare blir sett som en liten og ullen del av
+
+informasjonsteknologien, er det neppe klart at satsing på IT vil styrke statistikklaget I
+alle fall ikke så lenge Fred Olsen og Grethe Knudsen er førende.
+
+En kan se statistikk mer som et IT-fag enn som et matematisk fag. Dette er et spørsmål
+om fagets identitet og organisering. Bølviken og Næs ser ut til å ønske en slik reorientering av faget. Jeg har tidligere vært inne på tilsvarende tanker. Etter hvert har jeg
+imidlertid kommet til at faget er et matematisk fag med stort innslag av IT som verktøy.
+Det er matematikken og den matematiske tenkingen som for tida er faretruende på
+defensiven, og som trenger den støtten den kan få. Jeg tror også at vi kan gjøre oss selv
+en bjørnetjeneste ved å definere statistikk som del av informatikken. Faget kan da bli
+slukt med hud og hår.
+
+Bølviken og Næs skiller ikke mellom data og informasjon (det første sitatet). Dette er
+desverre en vanlig bommert. Forfatterne er i godt selskap her. IT-minister Grethe
+
+Knudsen roter det til stadighet til på dette punktet. Når data settes lik informasjon blir
+oppgaven et spørsmål om informasjonsteknologi. Tolkingen, det å separere ut
+informasjon fra data gjennom den statistiske modellen, kommer i bakgrunnen eller blir
+helt glemt. Min erfaring er at det er her den gode statistiker har sin styrke. Bølviken og
+Næs er gode statistikere. Jeg har samarbeidet nært med Bølviken og jeg vet hvor god han
+er til å kommunisere med fagfolk, formulere en problemstilling og til å etablere en
+modell som reflekterer den kunnskap han har om den datagenererende prosessen og den
+kunnskapen hans samarbeidspartnere har, hva enten det er innen fiskeriteknologi,
+arkeologi eller økologi.
+
+
+
+I kronikken nevnes behovet for pragmatiske statistiske modeller. Dette kommer desverre
+ikke helt godt fram. Istedenfor å framheve den håndsydde modellen som passer for det
+aktuelle problem, siktes det mer til algoritmer som PLS. Forfatterne nevner også noe.
+mystisk noe som kalles *CRM (customer relationship management) som sikter mot å
+forstå kundegrunnlaget bedre via systematiske empiriske undersøkelser”. Jeg blottstiller
+min uvitenhet på dette punkt ved å mistenke CRM for å være mer et ordnende skjema
+med innslag av eksperimenter enn en tilpasset statistisk modell. Både PLS og CRM er
+sikkert nyttige nok. Trolig arbeider både Bølviken og Næs med statistiske modeller, og
+bruker PLS og CRM mer som verktøy på linje med annet statistisk verktøy. Med mitt
+
+kjennskap til Bølviken vil det overraske meg mye om kronikken ikke søkte å forfekte den
+genuine statistiske kompetansen. Nemlig evnen til å operasjonalisere en problemstilling
+og til å etablere en modell som kan brukes til å kryste informasjonen ut av støyfulle data.
+Om dette kom klart fram for leseren av Teknisk Ukeblad er uklart for meg.
+
+For å klargjøre hva jeg mener med genuin statistisk kompetanse vil jeg nevne et problem
+jeg strir med for tiden. For god fiskeriforvaltning trenger en kunnskap om hvor mye som
+fiskes opp
+i løpet av et år av en gitt bestand (torsk i Barentshavet). Det samles inn en —
+masse data — beheftet med mer eller mindre målefeil og med det som verre er. Ingen kan i
+dag, med korrekt angivelse av usikkerheten, si hvor mye torsk norske fiskere tok i 2000
+eller i et annet år. Det produseres estimater, men ingen har peiling på skeivhet eller
+usikkerhet. Oppgaven er da å finne en statistisk modell som beskriver fangstenes
+fordeling samt hvordan målefeilen (noen ganger, rapporteringsjukset) fordeler seg. Det er
+ikke nok å være havforsker eller byråkrat i Fiskeridirektoratet for å finne fram til en
+
+tjenlig modell. Oppgaven står uløst ved Havforskningsinstituttet. Det gjør den også for de
+fleste andre fiskeslag og andre steder i verden. Det er heller ikke nok å være statistiker
+med brukervennlig statistisk programvare eller kyndighet i å løse vanskelige men
+oppstilte oppgaver. Alt dette trengs, både sakkunnskap, programvare og matematisk
+fingerferdighet. Men det er først når statistikeren bruker sin formuleringsevne og sin
+fortrolighet med *Lov og tilfeldighet” dvs. statistiske modeller, at en formålstjenlig
+modell blir etablert — i nært samarbeid med de som har kunnskap om fiske og
+fangstrapportering. Jeg krysser fingrene og håper at vi kommer i mål!
+Bølviken og Næs er kritiske til den måten statistikk blir undervist. En kunne spørre om
+
+Teknisk Ukeblad er det rette stedet å lufte denne frustrasjonen. Jeg deler imidlertid mye
+av kritikken, særlig det siste punktet: “Fagstatistikere må i større grad fokusere på hele
+prosessen og kommunikasjon med brukere...”. Det er alt for liten vekt på lesing av litt
+innvikla tekst som dreier seg om mer eller mindre velformulerte statistiske
+
+problemstillinger — som ikke er matematisk oppstilt. Det er også alt for liten trening 1
+skriftlig framstilling. Særlig er det for lite trening i statistisk modellbygging i studiet. Det
+legges rett og slett for mye vekt på løsningen av ferdig formulerte oppgaver. Utfordringen
+ligger jo vel så mye i det å stille opp problemet, formulere modellen og finne fram til en
+
+akseptabel tolking. Det er dette som er kunsten. Desverre er det mye vanskeligere å
+undervise i denne kunsten enn i det mer skjematiske arbeidet med å løse oppstilte
+
+oppgaver. Bølviken og Næs lover forbedringer i studieopplegget ved Universitetet i Oslo.
+Det er betydelig rom for forbedring, blant annet på de punktene som nevnes i kronikken.
+Igjen krysser jeg mine fingre — i håp om at omleggingen av studiet gir oss flere
+
+
+
+statistikere som er gode til å kommunisere med fagfolk som tenker intuitivt og ut fra sitt
+fag om statistiske fenomener, både i skriftlig og muntlig form, og i håp om flere og bedre
+utøvere i den vanskelige kunsten å bygge velvalgte statistiske modeller. Om ikke dette
+skjer frykter jeg at faget blir værende på sidelinja.
+
+Tore Schweder
+
+24
+
+
+
+Pusleri nr 6
+Hva er sannsynligheten for at forholdet mellom to uavhengige
+R[0, 1] variable har et ett-tall som første gjeldende siffer?
+
+Hva blir sannsynlighetsfordelingen til første gjeldende siffer?
+De som er innesnødd i påsken kan løse den tilsvarende
+oppgaven med produkt, sum, differens, .......
+
+Problemstillingen kan sikkert belyses på ulike måter, og også denne
+gangen ønsker vi gode løsninger fra lesere for presentasjon i neste TG,
+fra den enkle og intuitive til den matematisk sofistikerte under ulike
+antakelser. Send løsninger innen 4 uker fra mottatt TG til
+jostein.lillestol@nhh.no.
+
+Jostein Lillestol
+
+25
+
+
+
+Løsning Pusleri nr. 5
+Vi minner om oppgaven:
+
+Her er tre myntkastproblemer:
+
+1. Hvordan kan du generere 50:50 sjanse med myntkast med en skjev
+mynt?
+
+2. Hva er sannsynligheten for at KK forekommer i n rettferdige
+
+myntkast?
+
+|
+
+|
+
+3. Hva er sannsynligheten for at KMK forekommer i n rettferdige
+myntkast?
+
+Løsning:
+
+La g, være sannsynligheten for at KK forekom i n kast. Ved å betinge
+mhp. utfallet av første kast får vi
+1
+
+1(1
+
+å
+
+212
+
+1
+
+1
+
+1
+
+1
+
+Sn ==Sn4 t717+78n2
+|==7Sn1
+tT
+Sn2t>
+8680 =8 =9
+4
+4
+2
+2
+Denne inhomogene differensligning kan løses på vanlig måte med
+løsning av form
+
+der r er røttene i ligningen 1? -Tr-2=0.
+Dette gir
+
+Det fins en lettere vei:
+
+Sett
+
+f,,. =2"-2g,.Da blir
+
+frr =f +f,
+
+f,=1 fj=2
+
+som er den velkjente ligning som gir Fibonacci-tallene, som er tabellert
+
+bl.a. i Rade & Westergren: Mathematics Handbook.
+
+26
+
+|
+
+
+
+Trond E. Olsen fyllte 50 år 30. desember 2000.
+Trond Egil Olsen tok hovedfag i anvendt matematikk, studieretning statistikk, ved Universitetet i
+Bergen våren 1977. Tittelen på hovedoppgaven var Diffusjonstilnærmelse av stokastiske
+
+prosesser - noen tilstrekkelige betingelser). Oppgaven var motivert ut fra ønsket å bevise en
+diffusjonstilnærmelse av forgreningsprosessi tilfeldig miljø som Niels Keiding hadde behandlet
+heuristisk. Jeg minnes med glede de dager da jubilanten, daværende petit Inge Hellanddog
+jeg kollokverte svak konvergens etter Gikhman og Skorokhods bok.
+
+7
+
+”
+
+Trond var den første hovedfagsstudenteni statistikk ved UiB som hadde
+økonomi som breddekrav under cand. mag. graden. De andre hadde alltid hatt
+fysikk eller et annet ‘hardt' realfag. Det var derfor naturlig at Trond begynte i
+gruppen for petroleumsøkonomi ved Christian Michelsens Institutt etter avlagt
+eksamen. I tiden på CMI etablerte han samarbeidet med Gunnar Stensland. De
+skrev da arbeidet: Å note on the value of waiting to invest, som siteres i Bernt
+Øksendals bok: Stochastic differential equations .
+
+Høsten 1978 foreleste Trond kurset som tok for seg annet bind av Sverdrups: Lov og
+tilfeldighet). Han ble da berømmet som en eksepsjonelt god foreleser, og det var vel ikke
+overrraskende da han hadde fått den beste karakteren til muntlig hovedfag som vi til da
+hadde gitt i Bergen.
+
+Jeg kjenner ikke noe til Tronds arbeider i økonomi og har ikke noe å tilføye til Terje Hansens
+omtale, men at NHH her har gjort et skikkelig varp er det ingen tvil om.
+
+Jeg slutter meg til gratulantene og ønsker jubilanten til lykke med de fylte 50!
+
+Trygve Nilsen
+
+I anledning 50-års-jubileet sto også omtalen nedenfori Bergens Tidende.
+Kolleger og venner i Norsk statistisk forening slutter hjertelig opp om gratulasjonene!
+
+Professor i bedriftsøkonomi ved Norges Handelshøyskole, Trond E. Olsen Ph.D., fyller 50 år 30.
+desember.
+
+Olsen kan i dag regnes som en av Norges mest fremragende forskere innenfor det økonomiske fagfelt.
+Han nyter en internasjonal respekt på sitt fagområde som blir få norske forskere til del.
+
+Han er født i Bergen i 1950. Embetseksamen med matematikk som hovedfag avla han ved Universitetet i
+
+Bergen. I 1986 tok han doktorgraden i økonomi ved Stanford University. Trond E. Olsen har store deler
+av sitt yrkesaktive liv vært knyttet til Universitetet i Bergen, først som stipendiat, senere som
+
+førsteamanuensis og i årene 1991-2000 som professor i økonomi. Fra september i inneværende år har
+
+‘Trond E. Olsen vært ansatt som professor i bedriftsøkonomi ved Norges Handelshøyskole.
+
+Olsens vitenskapelige produksjon faller i hovedsak innenfor to hovedområder, nemlig næringsøkonomi,
+med spesiell vekt på strategisk konkurranse i ressursintensive og kunnskapsintensive bransjer og
+
+at
+
+
+
+økonomisk organisasjonsteori, der de fleste av hans nyere arbeider befinner seg. Olsen har vært en aktiv
+deltaker i internasjonale forskernettverk og har hatt forskningsopphold ved Stanford University, -
+
+Massachusetts Institute of Technology, Freie Universitat Berlin m.fl. Han har også vært meget aktiv i
+- oppbyggingen av Norsk senter for forskning i ledelse, organisasjon og styring, som er en felles
+forskningssatsing mellom Universitetet i Bergen og Norges Handelshøyskole.
+:
+
+Alle ved NHH gratulerer med dagen.
+
+På vegne av venner og kolleger ved NHH,
+
+~. Terje Hansen.
+22.12.2000
+
+28
+
+'
+
+
+
+Studentstipend!
+Det 11. Norske Statistikermøtet i Ulvik og prekonferansekurs i eksakte metoder i Bergen 18.-22. juni 2001.
+Styret i Norsk statistisk forening (NSF) har besluttet å videreføre tradisjonen
+fra i fjor med å utdele reisestipend til hovedfagsstudenter i statistikk for
+deltakelse
+på
+årets
+norske
+statistikermøte
+(http://www.mi.uib.no/~lunde/sfb/norsk01.html) og kurs (se egne annonser i
+dette TG). Det kan søkes om støtte til både møtet og kurset eller bare en av
+delene.
+
+Søknaden må inneholde navn, adresse, studiested, planlagt grad og tidspunkt
+for avslutning av studiet. Videre skal søknaden inneholde fullt budsjett for
+reise og søknadsbeløp. Det kan tildeles støtte til reise, overnatting og
+deltakeravgift, eller deler av dette, avhengig av antallet søkere og
+søknadsbeløp. Studentmedlemskap i NSF (kr. 50) i år 2001 er en
+: forutsetning (se egen side i TG). Søknad må attesteres av hovedfagsveileder.
+Søknad sendes til NSF v/ leder Geir Egil Eide, Kompetansesenter for klinisk
+_ forskning, Haukeland sykehus, 5021 Bergen innen 15. mars 2001.
+
+
+
+NSF's ETTERUTDANNINGSSEMINAR 2001
+Foredragsholder: Professor Cyrus R. Mehta, Ph.D.,Harvard University, Graduate
+School of Public Health, Department of Biostatistics, & President, Cytel Software
+Corporation, Cambridge, Massachusetts, USA
+
+Emne: Eksakte metoder.
+Exact methods of inference are based on permuting the observed data in all possible ways so
+as to derive exact distributions for the test statistic of interest, and thereby compute exact pvalues and exact confidence intervals. These methods require no large-sample or
+distributional assumption for their validity. They produce reliable inferences in small or large
+samples, balanced and unbalanced datasets, normal or non-normal data, and contingency
+tables with zero cell counts, small cell counts or a mixture of zero, small and large cell counts.
+A familiar example is Fisher's exact test for a 2x2 contingency table. These methods can,
+however, be applied to most commonly encountered statistical problems including one-, twoand K-sample tests, ordered and unordered RxC contingency tables, stratified 2x2 and
+stratified 2xC contingency tables, censored survival data, measures of association, logistic
+regression, power and sample-size determination. This shourt course will introduce the
+underlying statistical methodology of exact inference and apply it to the above settings with
+examples drawn from biomedical applications. Software support will be provided by the
+StatXact and LogXact packages. The course will be divided equally between regular lectures
+and hands on computer exercises with personal guidance.
+
+Forelesningen vil bli gitt på engelsk.
+
+Sted: PC-laboratoriet, Armauer Hansens Hus, Haukeland sykehus, Bergen.
+Tidspunkt: 18-19juni 2001
+
+Praktiske opplysninger:
+e
+
+e
+
+Kursavgift ..
+e Meldlemmer NSF _
+e Ikke-medlem
+
+kr. 2500,kr 2600,-
+
+Deltakerene ordner selv med overnatting.
+
+e Overnattingi Bergen: http://www.bergen-travel. com/
+e
+
+Haukeland pasienthotell- også for ekstern overnatting.
+Tlf 55 20 92 00/faks 55 20 92 10. Enkeltrom med frokost kr 695,-.
+
+Ytterligere informasjon kan du også få på vår web-side som er lagt under
+http://www.mi.uib.no/~lunde/sfb/index.html.
+
+Der ligger en første versjon av hjemmesiden for NSF Etterutdanningsseminar 2001. Siden vil
+
+bli kontinuerlig oppdatert med informasjon om seminaret.
+
+'Irenger du mer informasjon, kontakt oss på e-mail: terjesc@online.no
+Vennlig hilsen
+
+Grethe Albrektsen
+Lederi Statistiske Forening, Bergen
+
+30
+
+
+
+PÅMELDINGSSKJEMA
+
+NSF’s ETTERUTDANNINGSSEMINAR 2001
+Sted: Pc-laboratoriet, Armauer Hansens Hus, Haukeland sykehus, Bergen.
+Tidspunkt: 18-19 juni 2001
+Navn:
+
+Adresse:
+
+Telefon/Faks:
+
+Email:
+
+Konferanseavgift:
+Medlem i NSF
+Ikke medlem
+
+kr. 2500,kr. 2600,-
+
+- Innbetaling av kursavgift skjer til konto:
+Kontonr: 52530502783
+Statistisk Forening i Bergen
+v/ Terje Schaathun
+Øvre Fantoftsåen 39
+5072 Bergen
+
+Merk innbetalingen med navn og ”NSF etterutdanningsseminar 2001 ”.
+
+Påmeldingsfrist: 1.mai (gjelder også innbetaling av kursavgift).
+Påmeldingsskjemaet sendes til:
+Statistisk Forening i Bergen
+v/ Terje Schaathun
+Øvre Fantoftsåen 39
+5072 Bergen
+
+31
+
+
+
+Det 11. norske Statistikermøte
+Sted: Rica Brakanes hotell, Ulvik, Hardanger
+
+Tidspunkt: 20-22 juni 2001
+
+Det 11. norske Statistikermøte holdes i naturskjønne omgivelser i Hardangerijuni 2001.
+http://www.brakanes-hotel.no/html/brakanes_hotel.html
+
+‘Tema for møtet:
+Bruk av statistikk innen
+Forsikring
+Havforskning
+Medisin
+
+Program: se neste side
+
+Praktiske opplysninger:
+e
+
+Rica Brakanes Ulvik i Hardanger ligger innerst i Hardangerfjorden 8 km fra riksvei 13 og
+7. Vi ligger midt i noe av Norges peneste natur og det er lett å komme seg til Ulvik både
+fra inn og utland. Man kan velge flere måter å komme til Ulvik, alt fra offentlig buss og
+
+hurtigbåt til egen bil, sjøfly og egene busser og hurtigbåter. Ulvik i Hardanger ligger bare
+
+145 km øst for Bergen og Flesland Flyplass. Dette er en tur på ca. 2 timer med
+konferansebuss eller bil eller ca. 3,5 timer med hurtigbåt. (sakset fra hotellets hjemmeside)
+
+e
+
+Visetter opp buss fra Flesland flyplass via Bergen sentrum til Ulvik onsdag morgen.
+Retur til Bergen/Flesland fredag ettermiddag. (Du kan bestille dette via
+påmeldingsskjemaet).
+
+e
+
+Dersom du kommer til konferansen dagen før møtet, må du selv bestille overnatting for
+denne natten (tlf 56 52 61 05/ faks 56 52 64 10) eller via internett http://www.brakaneshotel.no/html/brakanes_hotel.html
+
+Ytterligere informasjon kan du ogsa fa pa var web-side som er lagt under
+
+http://www.mi.uib.no/~lunde/sfb/index.html. Der ligger en første versjon av hjemmesiden for
+11. norske statistikermøte. Siden vil bli kontinuerlig oppdatert med informasjon om møtet.
+
+Trenger du mer informasjon, kontakt oss på e-mail: terjesc@online.no
+
+Vel møtt på Brakanes i juni!
+Vennlig hilsen
+
+Grethe Albrektsen
+Leder i Statistiske Forening, Bergen
+
+32
+
+
+
+Program for det 11. norske statistikermøte
+Brakanes Hotell, Ulvik, 20. - 22. juni 2001
+Programmet er foreløpig og vi garanterer at det vil komme endringer. For de foredrag som er satt opp er det ment
+at tiden skal dekke foredraget, spørsmål & svar samt en kort pause før neste slipper til.
+Onsdag 20. juni
+
+13.30-14.30
+14.30-15.30
+
+16.00-17.30
+
+Historikk
+
+Tore Schweder
+
+Fishers paradigmerevolusjon, et 79-års jubileum
+Diskusjon med innledning
+
+Ivar Heuch
+
+Avanserte metoder, praktiske
+
+Bård Storvik
+
+problem
+Løpende utvalgsundersøkelse om kopiering i universitets- og
+høgskolesektoren
+
+Årsmøte
+Torsdag 21. juni
+
+09.00-10.00
+
+Forsikring
+
+Jostein Paulsen
+
+< tittel mangler >
+
+10.00-11.00
+
+Aktuarfag og matematisk finans: En kritisk oversikt
+
+12.00-13.00
+
+< programkomiteen arbeider med denne >
+
+14.00-15.00
+
+Fra havet
+
+Erik Bølviken
+
+Håvard Rue
+
+Statistiske utfordringer i BeMatA programmet: ”Structured
+Stochastic Models and Computer-Intensive Inference in
+Biological Marine Systems”
+
+15.00-15.30
+
+Inviterte foredrag fra
+nyutdannede/stipendiater
+
+15.30-16.00
+16.30-17.00
+17.00-17.30
+
+Grilltur til Osa
+Fredag 22. juni
+09.00-10.00
+
+10.00-11.00
+11.00-12.00
+
+Medisinsk statistikk
+Hjertestans versus vær og vind
+< programkomiteen arbeider med denne >
+< programkomiteen arbeider med denne >
+Avslutning og oppsummering
+Antakelig lunch
+
+Avslutningstidspunkt enda ikke avklart
+GOD TUR HJEM
+
+33
+
+Jan Terje Kvaløy eller
+Eirik Skogvoll
+
+
+
+PÅMELDINGSSKJEMA
+Det 11. norske Statistikermøte
+Sted: Brakanes hotell, Ulvik
+Tidspunkt: 20-22 juni 2001
+Navn:
+
+Adresse:
+
+Telefon/Faks:
+Email:
+
+Kryss av det som passer:
+
+[ ]
+
+Student
+
+[ ]
+
+Ønsker overnatting på enkeltrom
+
+[ ]
+
+Ønsker overnatting på dobbelttrom (kr
+—
+
+[ ]
+
+(kr 1.195,- pr døgn)
+
+995,- pr døgn)
+
+Navn på den du ønsker å dele rom med:
+
+Ønsker transport t/r Flesland/Bergen med buss (kr 300,-)
+Avreise fra Flesland kl 9.30
+
+Konferanseavgift kr 600,-.
+
+Overnatting betaler hver enkelt direkte til Rica Brakanes hotell før avreise.
+Innbetaling av konferanseavgift og evt transport til hotellet skjer til konto:
+Kontonr: 52530502783
+Statistisk Forening i Bergen
+v/ Terje Schaathun
+
+Øvre Fantoftsåen 39
+5072 Bergen
+
+Merk innbetalingen med navn og ”11. norske Statistikermøte ”.
+
+Påmeldingsfrist: 1. mai (gjelder også innbetaling av konferanseavgift - kr
+600 + evt transport).
+Påmeldingsskjemaet sendes til:
+Statistisk Forening i Bergen
+v/ Terje Schaathun
+
+Øvre Fantoftsåen 39
+5072 Bergen
+
+34
+
+
+
+Hovedmøte i Norsk statistisk forening 2001
+Hovedmøte i Norsk statistisk forening vil be arrangert i tilknytning til det 11. norske
+statistikermøtet.
+
+Valg av møteleder og referent
+
+Medlemskontingent
+
+Øvrige saker fremlagt av styret
+
+Je
+
+&
+
+Årsberetninger for de to foregående år
+Revidert regnskap for de to foregående år
+
+&
+
+&
+
+HE
+
+I henhold til vedtektene skal hovedmøtet behandle følgende:
+
+Innkomne forslag. Disse må være styret i hende minst 4 uker før hovedmøte
+Valg av styre for de neste to år, med særskilt valg av leder og redaktør. Valg av to
+
+varamedlem og to revisorer.
+
+I henhold til dette settes siste frist for mottak av forslag til:
+Forslag sendes:
+Geir Egil Eide,
+leder av NSF,
+
+Kompetansesenter for klinisk forskning,
+Haukeland sykehus,
+5021 Bergen
+
+eller per epost til: Geir.Egil.Eide@Haukeland.No
+
+35
+
+18. mai 2001.
+
+
+
+| Oversikt over utgifter og inntekter til Norsk statistisk forening 1999
+Inntekter, foreningen
+
+Postbanken 0530 2773299 (gmit kontonr 0802 51 51055)
+
+78800,00
+741,13
+
+Kontingent
+Renter
+
+DNB 5361 68 85029 (sluttet, beholdning overfort til konto i Postbanken)
+'
+
+Renter
+
+79541,13
+
+Totale inntekter, foreningen
+
+Utgifter, foreningen .
+
+Postbanken 0530 2773299 (gmit kontonr 0802 51 51055)
+TG, porto og trykking
+
+10989,90
+
+Medlemskontingent ISI?
+
+_ Reiseregninger
+
+6237,00
+
+Overført lokale foreninger
+
+Gebyrer
+
+12000,00
+
+~
+
+182,00
+
+Webarbeid
+
+12350,00
+
+Matem inst UiB 50 ar
+
+350,00
+
+NSF-møte
+
+543,00
+
+Tilbakebet feilpostering
+
+3822,00
+46473,90
+
+DNB 5361 68 85029 (sluttet, beholdning overfort til konto i Postbanken)
+Totale utgifter, foreningen
+
+0,00
+46473,90
+
+Beholdningen 31.12.1999, foreningen
+Postbanken 0530 2773299 (gmit kontonr 0802 51 51055)
+
+Behoidningen 31.12.1998
+
+29600,54
+
+Inntekter 1999
+
+79541,13
+
+Utgifter 1999
+
+46473,90
+
+Overført fra DNB-konto
+
+5710,42
+
+Beholdningen 31.12.1999
+
+68378,19
+
+DNB 5361 68 85029 (sluttet, beholdning overfort til konto i Postbanken)
+
+Beholdningen 31.12.1998
+
+5 603.32
+
+0,00
+
+5 603.32
+
+Inntekter 1999
+
+0,00
+
+Utgifter 1999
+
+0,00
+
+68378,19
+
+Totale beholding, foreningen
+
+Inntekter, fond
+Nor 8200730927
+Renter 1999
+
+10246,00
+
+Postbanken08060 42477086 sluttet overført Fond NOR (gmit kontonr 086 42 47086)
+
+Renter 1999
+
+0,00
+
+36
+
+
+
+Totale inntekter, fond
+
+10246,00
+
+Utgifter, fond
+Nor 8200730927
+
+0,00
+
+Postbanken08060 42477086 (gmit kontonr 086 42 47086)
+
+0,00
+
+Totale utgifter, fond
+
+0,00
+
+Beholdningen 31.12.1998, fond
+
+Nor 8200730927
+Beholdningen 31.12.1998
+Inntekter
+
+195027,4
+
+1999
+
+10246,00
+
+Utgifter 1999
+
+.
+
+'
+
+0,00
+
+Overført fra DNB-konto
+
+1612,00
+
+Postbanken08060 42477086 (gmit kontonr 086 42 47086)
+
+0,00
+
+Beholdningen 31.12.1998
+
+1618,01
+
+Inntekter 1999
+
+0,00
+
+Utgifter 1999
+
+0,00
+
+Totale behoiding, fond 31.12.99
+
+Bergen
+
+206885,40
+
+04.02.2000
+
+5
+
+Atle U
+
+é
+
+Per Lea (revisor)
+
+Magne
+
+37
+
+“
+
+wi uo (Eg
+mOresen (revisor)
+
+
+
+Statisticians/Biostatisticians
+Biostatistics
+Development
+Novo Nordisk A/S
+Bagsværd
+DENMARK
+
+Due to expansion of our pharmacometric activities, we need two extra statisticians
+for the Biostatistics department.
+
+The department's responsibility covers statistical assistance primarily within pre- and
+non-clinical drug development and early phase clinical development, including
+pharmacokinetics and pharmacodynamics. This covers planning activities of the
+development programme and individual trials, analyses, reporting of trial results and
+participating in scientific publications. One of the positions will be primarily for our
+pre- and non-clinical research activities; the other will perform statistical activities for
+early phase clinical projects, including pharmacokinetic modelling and analyses.
+
+The environment, which you will be a part of, consists of two statistical departments
+in Development with a total of 29 statisticians, seven SAS-programmers and five
+secretaries.
+
+- You must havea solid theoretical background in statistics corresponding to minimum
+a MSc in statistics. Also, we would appreciate experience with practical use of
+statistical methods in biomedical research. You will get an opportunity to extend your
+knowledge of the special statistical problems related to development of new drugs
+- through your specific tasks, participation in project related statistician teams and
+cross-disciplinary project teams.
+
+Drug development is a cross-disciplinary activity, so you must be able to
+communicate, co-operate and take decisions together with people from other fields,
+sometimes in a temporal intense speed. We expect you to be able to handle many
+parallel activities without loosing focus on quality.
+
+Our field of activity, -methods and -processes are constantly developing, especially
+on the basis of initiatives taken by the employees. We allow for personal as well as
+scientific development, through participation in courses and congresses, and offering
+PhD studies. It is our hope that you can and will take part in the continuous
+development of the statistical function as a good and challenging work place for the
+employees.
+
+We offer a salary that is competitive. Furthermore, if you need long-distance moving,
+we may be able to support you.
+
+If you need further information about the positions, please feel free to call Merete
+Jørgensen, tel.: +45 44 42 17 28, Philip Hougaard, tel.: +45 44 42 35 95 or Allan
+Kristensen, tel.: +45 44 42 65 92.
+
+Please send your application marked “10846” to the Personnel Department, Novo
+
+Nordisk A/S, Novo Alle, DK-2880 Bagsvaerd, Denmark
+
+38
+
+
+
+Nytt fra Universitetet i Oslo
+Nye cand. scient.-er
+Dag Svege: *Stokastisk simulering av finansielle data”
+
+Veileder: Erik Bølviken
+
+Kyrre Fossum Pedersen: *Ny modell for forsikringsmessig dekket uførepensjon
+i kollektive ordninger”
+Veileder: Erik Bølviken
+
+Man Yee Yam: *Analysis based on residuals for proportional hazards model”
+Veileder: Ørnulf Borgan
+
+Nye dr. scient.-er
+Bjørn Helge Mevik: "Statistical methods for handling unwanted variation in
+production processes, using raw material measurements”
+Veiledere: Tormod Næs og Ellen Mosleth Færgestad
+Xeni Kristine Dimakos: *Topics in Computer Intensive Statistical Inference”
+Veiledere: Arnoldo Frigessi og Erik Bølviken
+
+Statistical Research Reports
+X.K. Dimakos, A. Frigessi: *Hierarchial Bayesian premium rating with latent
+stucture” No.1, 2000
+
+J. Sexton, A.R. Swensen :
+
+*ECM algorithms that converge at the rate of
+
+EM” No.2, 2000
+I.S. Helland :
+
+“Quantum theory from symmetry and reduction of statistical
+
+models. The compact case” No.3, 2000
+
+A.R. Swensen: *Bootstrapping unit root tests” No.4, 2000
+S. Walker, N.L. Hjort: *On Bayesian Consistency” No.5, 2000
+M.C. Jones, N.L. Hjort, I.R. Harris, A. Basu:”A comparison of related
+
+density-based minimum divergence estimators” No.6, 2000
+
+N.L. Hjort: “Bayesian analysis for a generalised Dirichlet process prior”
+No.7, 2000
+
+J. Gåsemyr: * On an adaptive version of the Metropolis-Hastings algorithm
+with independent proposal distribution” No.9, 2000
+
+39
+
+
+
+I. Helland: * Some theoretical aspects of partial least squares regression”
+
+No.10, 2000
+
+I. Helland: *Reduction of regression models under symmetry” No.11, 2000
+I.F. Tvete, B. Natvig: “Bayesian Forecasting Applied to Monthly Data from
+Insurance of Companies” No.12, 2000
+
+L. Holden, B. Natvig, S. Sannan, H. Bungum:
+
+*Modelling Spatial and
+
+Temporal Dependencies between Earthquakes” No.13, 2000
+T. Schweder, N.L. Hjort: *Confidence and Likelihood”, No.1, 2001
+
+Grete Usterud Fenstad
+
+40
+
+
+
+Norsk Statistisk Forening - Avd. Bergen
+Referat fra årsmøtet for 2000
+
+Årsmøtet for 2000 ble holdt 18. januar 2001 i Armauer Hansens Hus, Haukelandsveien.
+Før selve årsmøtet holdt Stein-Atle Lie foredraget "Hofteprotese på begge sider. To hofter
+eller en pasient?"
+
+Styreleder informerte om at 11. norske statistikermøte vil bli arrangert på Brakanes Hotel i
+Ulvik 20-22 juni, 2001. En del praktiske detaljer ble diskutert.
+
+Årsmøtesaker
+
+Arsberetningen for 2000 ble fremlagt og godkjent.
+Revidert regnskap for 2000 ble fremlagt og godkjent.
+
+Valg av nytt styre
+
+Styret for 2000 har bestått av følgende personer:
+Formann Grethe Albrektsen Valgt for 2000-2001
+Sekretær Jan Aarseth Valgt for 2000
+Kasserer Terje Schaathun Valgt for 2000-2001
+Styremedlem Agot Irgens Valgt for 1999-2000
+
+Nytt styre ble valgt som følger:
+Formann: Grethe Albrektsen (ikke på valg)
+Sekretær: Astrid Lunde ble valgt for to år.
+Kasserer: Terje Schaathun (ikke på valg).
+Styemedlem: Agot Irgens 1/1 til 1/7, Jan Aarseth 1/7 til 31/12 2002.
+
+Revisor: Vidar Hjellvik ble valgt for to år.
+Æresmedlem (WEB designer i forbindelse med konferanseni Ulvik): Barbro Emblem.
+
+NSF/Bergen - Foredragskvelder 2000
+e
+
+10.02 Endring i overlevelse hos kyr i middelalderen
+
+Cand. scient. Stein Atle Lie, stipendiat, Seksjon for medisinsk statistikk, UiB
+Kyr var i middelalderen et viktig husdyr som også fungerte som betalingsmiddel. I
+Magnus Lagabøters landslov av 1274 står det blant annet at hvis en mann hadde fått
+løfte om en ku som betaling for gjeld, skulle kuen "ikke være ældre end 8 vintre og
+ikke yngre end 2den kalv". Kuen skulle altså ha kalvet minst to ganger, et bevis på at
+den var frisk og reproduktiv, og den skulle kunne tjene den nye eier en tid. Hvor lang
+tid sies det ingenting om. Disse utsagn tyder på at dyrene ble holdt i live noe lengeri
+middelalderen enni vår tid. Overlevelse (og endring i overlevelse) til kyr kan derfor til
+en viss grad gjenspeile kunnskapsnivå og helse for befolkningen i middelalderen. De
+fleste knokler (bein) har løse leddflater (epifyser) som fester seg når knokkelen er
+ferdig utviklet. Når dette skjer varierer fra ledd til ledd. Andelen faste epifyser vil
+derfor gjenspeile hvor stor andel av dyrene som ble eldre enn tidspunktet for festing av
+den spesifikke epifysen. Eksempelvis har vi i materialet 136 distale deler av humerus
+
+41
+
+
+
+(overarms albue) fra tiden 1025-1150 i Oslo. Av disse 136 har 87 faste epifyser, mens
+resten mangler epifyse. Det vil si at 87/136 eller 64% av de som er representert med
+distal del av humerus har oppnådd å bli ca 20 måneder eller mer. I et utgravet
+materiale fra Oslo og Trondheim på tilsammen ca. 10000 knokler har vi i en enkel
+modell beregnet overlevelse og forskjeller i overlevelse mellom fire ulike perioder fra
+
+år 1000-1600. Vi har også beregnet tetthet samt noen enkle beskrivende mål
+(gjennomsnitt, median, modal) for levetiden.
+e
+
+18.05 Uførhet og forsikring
+
+Cand. scient. Terje Schaathun, aktuar, Vital forsikring
+Hvordan er vi dekket mot de økonomiske konsekvenser
+av uførhet gjennom
+Folketrygden og ordningeri arbeidslivet ? Hvordan kån vi forbedre dekningen ved
+hjelp private forsikringsordninger ? Foredraget vil behandle stokastiske modeller for
+
+ulike forsikringer for uførhet, og vise hvordan disse kan brukes til å bestemme tariffer
+og reserveavsetninger. Noen viktige begreper i den forbindelse er seleksjon,
+antiseleksjon og tidsforsinkelse.
+e
+
+26.10 Ytelse av EDB-system i EDB4Tel
+
+Cand. scient. Anne-Berit Salen, sjefsingeniør i EDB4TEL, Telenor
+EDB4Tel er eit børsnotert selskap i EDB Business Partner as der Telenor eig over 50
+% av selskapet. EDB4Tel samler gjevnleg svarstidsstatistikk av online kunde-
+
+applikasjonar. Det blir utført ende-til-ende-målinger hos klient for å følge opp at
+
+svartider oppfyller avtalte serviceavtaler. Svarstidsmålinger og analyser viser kvar
+eventuelle flaskehalsar finns. Dette kan vere hos klient, i ulike nett, i applikasjonen, i
+databasesøk, mot grensesnittsystem osv. Svarstidsbudsjett blir satt opp for kvar tida
+blir brukt. Tiltak som fører til ytelseforbedringar blir og gevinstberekna i kroner. Slike
+målinger blir brukt både til volumtesting før nye leveransar går i produksjon og til
+oppfølging av applikasjonar som allereie eri drift.
+
+18.01.01 Hofteprotese på begge sider. To hofter eller en pasient?
+Cand. scient. Stein Atle Lie, stipendiat, Seksjon for medisinsk statistikk, UiB
+Nasjonalt register for leddproteser* inneholder per i dag rundt 90.000
+proteseoperasjoner. Av disse er det litt over 70.000 hofteproteser ("Hofteregisteret"),
+satt inn fra 1987 og fram til i dag. I analyser av varighet for ulike protesetyper benyttes
+vanligvis standard metoder for overlevelsesdata (Kaplan-Meier og Cox). Ved disse
+metodene tar man ikke hensyn til at cirka 20 % av pasientene har hofteprotese på
+begge sider. I dette foredraget ser vi derfor på noen alternative metoder for håndtering
+av bivariate overlevelsesdata (justert Kaplan-Meier, marginal Cox, Cox med Gamma
+e
+
+frailty, og en parametrisk Weibull modell med Gamma frailty) og diskuterer om det
+har betydning å behandle varighet av to hofteproteser fra samme pasient som to
+uavhengige observasjoner. *en leddprotese er et mekanisk ledd som implanteres i
+kroppen og erstatter det opprinnelige biologiske leddet.
+
+42
+
+
+
+Medlemsskap i Norsk Statistisk Forening
+
+Hjemmeside for Norsk Statistisk Forening: http ://www.math.uio.no/nsf/
+Kontingent:
+200 kr/år
+
+50 kr/år for studenter (til og med hovedfag).
+Kontonummer: 0530 2773299
+
+Nummeret som er angitt på adresselappen på TG angir siste år kontingenten ble betalt.
+Ved innbetaling må man opplyse om endret adresse (f.eks endret postnummer).
+
+Korrespondanse om medlemsskap og innbetaling av kontingent skal skje til foreningens
+kasserer:
+
+Norsk Statistisk forening v/Ågot Irgens
+Kalfarlien 6A
+5018 Bergen
+
+Emailadresse: agot.irgens@haukeland.no
+
+Nye medlemmer melder seg til kasserer og får så automatisk tilsendt Tilfeldig Gang fra første
+påfølgende nummer av.
+
+Mailadresser:
+
+Vi ønsker mailadresser til alle medlemmer i NSF:
+
+Oppgi e-mailadressen din på merknadsfeltet på postgiroen, eller send en e-mail til
+
+agot.irgens@haukeland.no om mailadresse og evt adresseendring.
+
+Annen korrespondanse med foreningen skal foregå med lederi foreningen:
+Geir Egil Eide
+
+Kompetansesenter for klinisk forskning Haukeland sykehus
+Armauer Hansens hus
+5021 Bergen
+
+Emailadresse: geir.egil.eide@haukeland.no
+
+43
+
+
+
+
+
+WS. sG
+
+NR. 2 — 16. FEBRUAR -— AR 2001 KR 0,00
+
+nsBT
+
+il I AUD. 1, VB | KL 15.15 - 16.00
+H00003960
+
+BJØRNEGILDET
+
+BJØRNEGILDET
+
+Populærvitenskapelig foredrag
+
+MATEMATIKK I ANDEBY
+V/Professor Nils Lid Hjort
+Fredag 16. februar 2001
+
+KL. 15.15 - 16.00
+
+AUD. 1 i Vilhelm Bjerknes hus
+
+Matematisk institutt
+Universitetet i Oslo
+
+
+
+
+
+
+
+RETUR:
+Norsk Statistisk Forening
+
+v/Agot Irgens
+Kalfarlien 6 A
+
+5018 BERGEN
+
+Email: agot.irgens@haukeland.no
+
+
+

@@ -1,0 +1,1771 @@
+ISSN 0803-8953
+Tilfeldig gang
+Nr. 1, årgang 30
+Juni 2013
+
+Utgitt av Norsk statistisk forening
+Redaksjonelt
+
+Fra lederen . . . . . . . . . . . . . . . . . . . . . . . . . .
+Fra redaksjonen . . . . . . . . . . . . . . . . . . . . . . .
+
+1
+2
+
+Leserbidrag
+
+Reisebrev fra Santa Cruz . . . . . . . . . . . . . . . . . .
+E-postlista r-hjelp-no . . . . . . . . . . . . . . . . . . . .
+Om undervisning av korrelasjon . . . . . . . . . . . . .
+
+3
+4
+6
+
+Gratulerer
+
+Jostein Lillestøl 70 år . . . . . . . . . . . . . . . . . . . .
+8
+Nils Lid Hjort 60 år . . . . . . . . . . . . . . . . . . . . .
+9
+Sverdrupprisen 2013 «unge forskere» til Ingrid Hobæk
+Haff . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Sverdrupprisen 2013 «unge forskere» til Kjetil Røysland 11
+Tankenøtter
+
+Løsning på pusleri nummer 36 . . . . . . . . . . . . . .
+Pusleri nummer 37 . . . . . . . . . . . . . . . . . . . . .
+
+12
+13
+
+Møter og konferanser
+
+Rapport fra det 17. norske statistikermøtet, Halden . .
+Rapport fra 4th Nordic-Baltic Biometric Conference i
+Stockholm, 9.–12.juni 2013 . . . . . . . . . . . . . .
+Helse Vest-statistikermøte 18.–19. april 2013 . . . . . .
+Norsk kjemometri på afrikansk grunn: Afrodata . . . .
+Årsmøte Norsk statistisk forening . . . . . . . . . . . .
+Årsmøte NSF Bergen . . . . . . . . . . . . . . . . . . . .
+
+14
+17
+18
+19
+21
+23
+
+Bokomtaler
+
+Event History Analysis with R . . . . . . . . . . . . . .
+
+25
+
+Meldinger
+
+Nytt fra seksjonene 2 og 3 ved Matematisk institutt,
+Universitetet i Oslo . . . . . . . . . . . . . . . . . . 27
+Nytt fra Universitetet i Bergen . . . . . . . . . . . . . . 28
+Nytt fra Norges teknisk-naturvitenskapelige universitet 29
+Scandinavian Journal of Statistics
+
+Innholdsliste mars 2013 . . . . . . . . . . . . . . . . . .
+Innholdsliste juni 2013 . . . . . . . . . . . . . . . . . . .
+
+30
+31
+
+Informasjon
+
+Har du husket å betale kontingenten i år? . . . . . . . .
+
+32
+
+
+
+
+
+redaksjonelt
+Fra lederen
+Jo Eidsvik | Trondheim
+
+Jeg takker med dette av som leder i Norsk statistisk forening.
+Ny leder ble valgt til akklamasjon under årsmøtet i Halden:
+Det er Ragnar Bang Huseby, som til daglig sitter ved Norsk
+Regnesentral. Med mange aktive statistikere og god stemning i
+miljøet har lederjobben vært en sann glede de siste to årene. Jeg
+vil takke de andre i styret (Alf, Anders, Bård og Clara-Cecilie),
+som har vært utmerkede samtalepartnere, og jeg vil ønske
+Ragnar lykke til i jobben.
+I 2011 hadde jeg et mål om at statistikk skulle bli mer synlig
+i det offentlige rom. Dette har for så vidt skjedd, men det er vel
+neppe styret i Norsk statistisk forening som har bidratt mest.
+Det er i hovedsak Jo Røislien og Siffer som har åpnet folks øyne
+for matematikk og statistikk. Takk! Det er godt å se at tiden er
+moden for denne typen presentasjon av faget vårt.
+Hovedmøtet i Halden var en suksess. Takk til organisasjonsog programkomitéen! Det er spennende å se mangfoldet av
+tema som studeres, og det er fint vi har et omgjengelig sosialt
+miljø. Spesielt vil jeg huske middagen på Fredriksten festning –
+overraskende servering, fantastisk mat og historiske omgivelser.
+Videre var fotballkampen artig for oss 15 som kjempet på sletta
+ved stadion i Halden.
+Avslutningsvis siterer jeg Googles chief economist fra 2009:
+«The sexy job in the next ten years will be statisticians». Vi har
+fortsatt tid til å jobbe med imaget.
+
+1
+
+
+
+Fra redaksjonen
+Anne Marie Fenstad | Bergen
+
+Takk for oss!
+Tenk, nå har vi sittet i redaksjonen i tg i nesten to år, og
+dette blir siste nummer fra Bergen i denne omgang. Jeg må
+starte med å gi all ære til Karl som har stått på og laget et flott
+teknisk opplegg vi håper neste redaksjon kan benytte seg av.
+Riktignok fikk jeg høre fra min mor at «det var så kjekt når tg
+var rød – lett gjenkjennelig i hyllen», men tror nok både hun og
+vi andre har vent oss til den mer tidsriktige fargen maroon.
+Innholdet og mengde av innhold i bladet varierer fra
+nummer til nummer. Redaksjonen er avhengig av å få inn
+bidrag. Stort sett er folk meget positive til å skrive et innlegg,
+om det er fra et kurs de har vært på eller et utenlandsopphold;
+det kan være en litt større utfordring med tidsfristene . . . Men
+mange av oss jobber best under press, så det ordner seg alltid
+til slutt.
+I nsf avdeling Bergen har vi lagt oss på ett møte i året
+den siste tiden; folk er så travelt opptatt i hverdagen at det er
+det vi klarer å få til. Da slår vi oss løs med årsmøte, ekstern
+foredragsholder og pizza til alle (se eget referat).
+Vi vil gjerne få takke alle bidragsytere for innsendte artikler,
+og spesielt Jostein for pusleriene han lager spesielt for bladet.
+Og så gjenstår det bare å ønske nsf avdeling Trondheim
+gratulerer, og lykke til med videre produksjon av tg!
+Og god sommer til alle statistikere!
+
+2
+
+
+
+leserbidrag
+Reisebrev fra Santa Cruz
+Hans Skaug | Santa Cruz, 17. juni 2013
+
+Et år i Santa Cruz, California, går raskt mot slutten. Jeg har
+vært her på forskingstermin sammen med familien. Santa
+Cruz er en rolig liten badeby (med bra surfemuligheter), men
+har altså et universitet (ucsc) der jeg har holdt hus. Byen
+ligger cirka to timers kjøring sør for San Fransisco. Nærheten
+til Silicon Valley setter sitt preg; det er gode forbindelser
+mellom ucsc og Google, Facebook osv. En nyhet for meg var
+vitenskapelige foredrag der deler av innholdet er «sensurert»
+av patenteringshensyn.
+Statistikk og anvendt matematikk i Santa Cruz er et relativt
+ungt institutt som hører inn under School of Engineering.
+Instituttet har en anvendt profil, med sterke bånd til andre
+forskningsgrupper ved ucsc. De fleste av statistikerene her
+er bayesianere, så da jeg holdt et foredrag om frekventistisk
+tilnærming til hierarkiske modeller, var ikke responsen så
+overveldende. Jeg lyktes heldigvis likevel å dra i gang et par
+samarbeidsprosjekter, så jeg føler at jeg har hatt bra faglig
+utbytte av oppholdet. En av de mest spennende tingene jeg har
+oppdaget i løpet av det siste året er moocs (Massive Open Online
+Course), som etter min mening kommer til å få stor innvirkning
+på laveregradsundervisning ved universitetene også i Norge.
+Jeg trengte kanskje ikke være i utlandet for å plukke opp dette,
+men nærheten til Stanford, der Coursera har sitt utspring, gjør
+nok sitt til at folk her er spesielt godt informert om utviklingen.
+Det er lange tradisjoner for at norske statistikere tilbringer
+forskingsterminen i California, spesielt i Berkeley og Stanford,
+så det manglet ikke på gode råd da vi var i planleggingsfasen.
+Det er også noen forbindelser til Norge her i Santa Cruz, og
+det har i de siste årene alltid vært 1–2 norske familier på
+forskningstermin her. I april ble det arrangert et inla-seminar
+(med Håvard Rue og Daniel Simpson), men jeg var dessverre
+ikke i byen da.
+Vi har også hatt det fint som familie i dette året. Nye skoler
+og nye venner er selvsagt en utfordring, men akkurat nå som
+vi står på terskelen til å reise hjem er problemstillingen den
+motsatte – at vi vet hva vi har her og vet at vi kommer til å
+savne venner her.
+En forskningstermin, der en hel familie skal reise, krever
+mye forberedelse. Det har vært mange timer med utfylling av
+ulike internettskjema. Jeg har lest at antall universitetsansatte
+som drar ut slik er på vei ned, og kanskje er alt byråkratiet
+en del av grunnen. Nå så jeg imidlertid nettopp at det er
+3
+
+
+
+utarbeidet en usa-guide (Forskningsopphold i USA – Guide i
+praktiske spørsmål). Den skulle jeg hatt i fjor vår! Konklusjon:
+utenlandsopphold er en stor opplevelse for hele familien og det
+er verdt strevet, og Santa Cruz kan anbefales.
+
+http://www.forskningsradet.no/no/
+Nyheter/Guide_til_vellykket_
+forskningsopphold_i_USA/
+1253986933078?lang=no
+
+E-postlista r-hjelp-no
+Karl Ove Hufthammer | Bergen
+
+Me begynner å verta mange her til lands som brukar
+statistikkpakken R til statistiske analysar, og det kan vera
+fint med ein møteplass. Derfor har Norsk statistisk forening
+avdeling Bergen no oppretta e-postlista r-hjelp-no, eit
+lågterskeltilbod for norskspråklege brukarar av R. Her kan alle
+stilla spørsmål om bruk av R, og hjelpa andre med svar.
+Lista er meint å dekka mykje det same som den
+internasjonale r-help-lista, men på norsk, og med lågare terskel
+for deltaking. Alle typar R-relaterte spørsmål er velkomne, både
+enkle og meir avanserte. Informasjon om korleis ein melder seg
+på finn ein på http://r-hjelp-no.huftis.org/.
+Her følgjer litt informasjon om bruk av e-postlista, henta frå
+denne nettsida.
+
+For deg som spør
+– Oppgje alltid eksempeldatasett og/eller fungerande
+eksempelkode for det du lurer på. Du gjer det då svært
+4
+
+http://www.r-project.org/mail.html
+
+
+
+mykje enklare og raskare for andre å hjelpa deg (les: større
+sannsyn for å få hjelp). Eksempel:
+Eg arbeider med sjukefråværsdata. For kvar dag har eg
+registrert om ein person var sjuk (1) eller frisk (0). Eg
+ønskjer å finna lengdene på sjukeperiodane. Eksempel:
+> fråvær = c(0, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1)
+
+Eg ønskjer ein funksjon som fungerer slik:
+> periodelengder(fråvær)
+2 1 3
+
+Finst det ein kjapp og enkel måte å gjera dette på i R?
+– Ikkje send sensitive data til lista. Alle meldingar vert
+arkiverte og fritt tilgjengelege på Internett. Lag heller datasett
+som har same form som dataa du arbeider med. Ofte kan
+du bruka ferdige datasett i R; skriv data() for ei oversikt
+over desse. Eller du kan generera datasett sjølv, og senda
+programkoden for dette til lista. Eksempel:
+d = data.frame(
+verdi = rnorm(10),
+gruppe = sample(LETTERS[1:3], 10, replace=TRUE)
+)
+
+Om du har skreddarsydd eit lite datasett sjølv, får du ut kode
+for å gjenskapa det med:
+dput(mittdatasett)
+
+– Lista er meint å vera eit lågterskeltilbod, men gjer heimeleksa
+di! Still for eksempel ikkje spørsmål der du lett kunne funne
+svaret sjølv i hjelpesystemet til R eller med eit kjapt søk
+på nettet, eller elementære spørsmål som du finn svar på i
+eikvar R-innføring (eksempelvis «korleis reknar eg ut eit
+gjennomsnitt i R?»).
+
+For deg som svarar
+– Send alltid svaret til lista, slik at det kan vera til hjelp for alle
+(òg framtidige lesarar av arkivet). Send det eventuelt i tillegg
+direkte til spørsmålsstillaren.
+
+For alle
+– Ver høfleg, hjelpsam og prøv å tolka alt i beste meining.
+– Følg vanleg nettikette.
+– Bruk fullt namn.
+
+Teknisk
+– Oppgje alltid ei relevant emnelinje i e-posten.
+– Me godtar e-postar både i html- og reintekstformat, sidan
+mange s(l)it med dårlege e-postprogram dei har liten kontroll
+over sjølv.
+– Me godtar små bildefiler som vedlegg. Men ikkje send
+datasett som vedlegg.
+5
+
+
+
+Om undervisning av korrelasjon
+Kjetil Vestfossen | Bergen
+
+Jeg underviste noen år i vitenskapelig metode innenfor et
+pedagogisk forskningsmiljø, og gjorde der noen refleksjoner
+omkring hvordan masterstudenter forstår korrelasjonsbegrepet.
+I denne artikkelen ønsker jeg å dele noen av mine tanker
+omkring undervisning av korrelasjon. Tolking av korrelasjon
+er velkjent for statistikere, men jeg synes det er på sin plass å
+drøfte noen momenter vedrørende dette her.
+Korrelasjon oppfattes gjerne som et enkelt mål på
+samvariasjon. Min erfaring er at målet ofte misforståes, særlig
+når det gjelder selve styrken til korrelasjonen, der mange finner
+det naturlig å tenke seg at korrelasjonsmålet fungerer som en
+lineærskala. De fleste lærebøker i metode anbefaler at man skal
+angi kvadratet av korrelasjonen (R2 ) som mål i tillegg eller i
+stedet for R, men svært ofte uten å forklare hva R2 innebærer.
+Når forklaringen av begrepet er utilstrekkelig, blir bruken
+deretter. Jeg mener det er forståelig at uklarheter kan oppstå
+angående styrken til korrelasjon.
+Determinasjonskoeffisienten R2 måler relativ reduksjon i
+varians i en enkel regresjonsmodell, fra σY2 til σY2 |X , men kan
+være vanskelig å skjønne. Hvorfor se på endring i varians i
+stedet for endring i standardavvik? Standardavviket har jo en
+helt konkret betydning i fordelingen av dataene, og er målt
+på samme skala som observasjonene. Vi kan derfor vurdere
+å heller se på relativ reduksjon fra σY til σY |X . Det viser
+seg at resultatet av denne utregningen
+√ lett kan knyttes til
+0
+korrelasjonen, ved uttrykket R = 1 − 1 − R2 . Se også figur.
+1,0
+0,9
+0,8
+0,7
+0,6
+0,5
+
+R
+
+0,4
+
+R²
+
+0,3
+
+1− 1−R²
+
+0,2
+0,1
+0,0
+0,0
+
+0,1
+
+0,2
+
+0,3
+
+0,4
+
+0,5
+
+0,6
+
+Korrelasjonen R
+
+6
+
+0,7
+
+0,8
+
+0,9
+
+1,0
+
+Kjetil Vestfossen har hovedfag i anvendt
+statistikk fra Universitetet i Bergen i 2005.
+Han har undervist på videregående skole
+i matematikk og naturfag, har studert
+biologi og jobbet innen ﬁskeoppdrett.
+Etter hovedfaget har han undervist i
+matematikkdidaktikk ved lærerutdanning
+og i vitenskaplig metode ved Institutt
+for lærerutdanning og skoleforskning
+ved Universitetet i Oslo. Han jobber for
+tiden med undervisning i matematikk ved
+videregående skole.
+
+
+
+Overestimering av korrelasjonens styrke
+Hvor misvisende vil det så være å oppfatte korrelasjonen som
+en lineær størrelse? I tabellen under har jeg sammenliknet
+korrelasjonen R med R2 og med R0 , og regnet ut hvor mye R
+prosentvis overestimerer den faktiske reduksjonen i variasjonen
+(variasjon målt enten som varians eller som standardavvik).
+R
+
+R2
+
+R0
+
+0,0
+0,1
+0,2
+0,3
+0,4
+0,5
+0,6
+0,7
+0,8
+0,9
+1,0
+
+0,00
+0,01
+0,04
+0,09
+0,16
+0,25
+0,36
+0,49
+0,64
+0,81
+1,00
+
+0,00
+0,005
+0,02
+0,05
+0,08
+0,13
+0,20
+0,29
+0,40
+0,56
+1,00
+
+R mot R2 (%)
+0
+900
+400
+233
+150
+100
+67
+43
+25
+11
+0
+
+R mot R0 (%)
+0
+1895
+890
+551
+379
+273
+200
+145
+100
+60
+0
+
+La oss se på et enkelt eksempel: I pisa-undersøkelsene er
+skalaen laget til slik at standardavviket er på omtrent 100 og
+snittet omtrent 500 for elevenes prestasjoner i lesing, naturfag
+og matematikk. Variansen blir da på omkring 10 000. Det sier
+seg selv at varians, eller endring i denne, ved hjelp av ulike
+forklaringsvariabler blir svært lite konkret, da tallet 10 000
+ligger milevis fra de faktiske observasjonene, og ikke direkte
+kan sammenlignes med disse.
+Etter min oppfatning gir det da mye mer mening i å
+se på endring i standardavviket. Kanskje dette målet ligger
+nærmere manges intuitive forståelse av hva korrelasjon
+betyr. Ofte brukes nemlig omtrentlige formuleringer, som
+«korrelasjon måler i hvilken grad dataene er samlet rundt en
+rett linje».
+Norske lærebøker i metode angir ofte grenser for hva som
+er en svak, en relativ sterk eller en sterk korrelasjon (eller
+varianter av dette, se for eksempel Christoffersen et al., side
+304). Jeg mener dette systemet må brukes med varsomhet, fordi
+det lett fungerer som en hvilepute som gjør at man slipper å
+forsøke å konkretisere hvor sterk eller svak sammenhengen
+egentlig er. Selv om R2 eller R0 angir et prosentmål for grad av
+sammenheng, så vil en konkretisering være bedre.
+
+http://www.pisa.no/
+
+Johannesen A., Tufte P.A. og
+Christoffersen L. (2010). Introduksjon til
+samfunnsvitenskapelig metode. Abstrakt
+forlag, fjerde utgåve.
+isbn 978-82-7935-298-3
+
+Konklusjon
+Etter undertegnedes oppfatning er det forståelig at det
+eksisterer forvirring rundt korrelasjonens styrke. En grunn til
+dette er at R2 -målet er lite utdypet eller forklart i lærebøker i
+vitenskapelig metode. Men selv om det ble forklart, ville det
+være forvirrende!
+7
+
+
+
+gratulerer
+Jostein Lillestøl 70 år
+Statistikk-venner i Bergen
+
+Professor Jostein Lillestøl fylte 70 år den 17. mars, og gikk da
+over i pensjonistenes rekker.
+Jostein Lillestøl er oppvokst i Oslo, men har også bånd til
+Vestlandet. Lillestøl er utdannet cand.real. fra Universitetet i
+Oslo (1967), og har doktorgrad fra Department of Statistics ved
+University of California, Berkeley (1975). Siden 1966 har han
+vært tilknyttet Norges Handelshøyskole (nhh) i ulike stillinger,
+og ble professor i matematisk statistikk ved nhh i 1985. Jostein
+var faktisk ikke engang ferdig med hovedfagsoppgaven da han
+ble hentet til nhh av Karl Borch, og med sine 47 år på nhh,
+må det være rekord! Jostein har videre vært instituttstyrer og
+innehatt flere andre viktige verv ved nhh.
+Jostein har vært en sentral og engasjert ressursperson
+innen matematiske og statistiske fagområder ved nhh, opptatt
+av å bygge opp både studietilbud og generell forståelse
+for metodefags betydning i et økonomisk/administrativt
+miljø. Studenter og kolleger som har behøvd veiledning i
+metoderelaterte sammenhenger har fått imøtekommende og
+samvittighetsfull bistand og nyttige kommentarer.
+Jostein har en omfattende faglig produksjon, og Josteins
+forskning spenner over en vid rekke av problemstillinger, blant
+annet populasjonsgenetikk, levetidsanalyser og utfordringer
+knyttet til fastlegeordningen, risikostyring, tidsrekkeanalyse
+og statistiske metoder for kvalitetsforbedring. Spesielt innen
+det siste feltet har han vært en sentral person for fagmiljøet
+i Norge. Jostein har videre deltatt hyppig på internasjonale
+faglige konferanser, og har hatt en rekke forskningsopphold
+ved utenlandske universiteter.
+Jostein har hatt stor betydning for Norsk statistisk forening.
+Han bidro sterkt til å gjøre foreningen landsdekkende, og
+var den første formann i den nyorganiserte foreningen. Han
+har vært medlem i et utall av arrangementskomitéer, og ikke
+minst er han en flittig bidragsyter til Tilfeldig gang, spesielt de
+utfordrende faglige «pusleriene».
+Jostein er en familiemann, og drar gjerne på hytten i
+Hornindal sammen med familien. På fritiden kobler han av
+med aktiviteter knyttet til blant annet friluftsliv, reiser, jazz,
+slektsgransking og bridge.
+Selv om Jostein nå går over i det som skal være en roligere
+tilværelse, så har han fremdeles faglige samarbeidsprosjekter,
+spesielt med fagmiljøet på nhh. Vi ønsker ham all mulig lykke
+til videre som professor emeritus!
+8
+
+
+
+Nils Lid Hjort 60 år
+Ørnulf Borgan og Tore Schweder
+
+Den 12. januar fylte Nils Lid Hjort 60 år. Vi gratulerer!
+Nils flytter fjell. Han maktet å få Den internasjonale
+olympiske komité (ioc) til å endre reglene for 500-meter
+skøyteløp i vinterolympiadene fra og med Nagano-ol i 1998.
+Alle må nå gå to løp, ett med første ytre og ett med første indre.
+De som har greie på skøyteløp visste jo at første indre var en
+fordel, men Nils påviste det «signifikant», og da er det så sant
+at det ikke er til å komme utenom.
+Fjellet ioc akter Nils å flytte nok en gang. Nå er
+det 1 000 meter det gjelder. På grunnlag av de 12
+sprintverdensmesterskapene 2001–2012 og 3 World Cupkonkurranser, hvor hver løper må gå både første ytre og første
+indre, finner han en konfidensfordeling for fordelen ved å starte
+i indre bane som svarer til om lag to meter, med all konfidens
+til høyre for null. Dette har Nils skrevet om i «Confidence,
+Likelihood and Probability», som kommer ut på Cambridge
+University Press på sensommeren (om boka blir ferdig i tide).
+Selvsagt vil skøytetoppene i ioc lese boka, og innse at reglen
+slik den er nå er urettferdig og må endres.
+Ikke bare har Nils greie på skøyteløp og rundetider. Han
+er også rå til å bake boller. Han synger i kor, mange år i Grex
+Vocalis, og han har full snøring på Donald Duck og alt Donald
+har rotet seg opp i. Faktisk bidrar Nils aktivt til donaldismens
+skriftkultur.
+Hvordan Nils har kapasitet og tid til alt dette og samtidig
+å være en framstående statistiker og vitenskapsman er ikke
+så enkelt å forstå. Noe av forklaringen er nok at han har
+det så urettferdig lett for det. Blant annet skriver han sine
+tekster rett ned. Det blir stort sett riktig med en gang. Mens
+vi andre fomler oss fram og må rette og skrive om, renner det
+ut av Nils. Da han skrev hovedoppgaven sin mens han delte
+kontor på Nordlysobservatoriet i Tromsø med en av oss (ts)
+ble dette nøye observert. Nils leverte sitt håndskrevne manus
+til maskinskriving og fikk det tilbake, stort sett bare med feil
+som hadde kommet til under maskinskrivingen. Dette fikk
+han til nærmest uten veiledning. Han var Erik Torgersens
+hovedfagstudent da han dro fra Oslo, men noe veiledning
+derfra ble ikke observert det året han var i Tromsø. Det var
+lettere sjokkerende å se den ferdige hovedoppgaven – Nils
+hadde ført opp ts som veileder, uten at ts visste noe om
+veiledningsforholdet.
+Nils ble ansatt som førsteamanuensis i statistikk ved
+Matematisk institutt, Universitetet i Oslo, i 1988 og alt i 1991 ble
+han professor samme sted, uten å ha tatt noen doktorgrad. Før
+det jobbet Nils seks år som forsker ved Norsk Regnesentral. Nils
+har gjennom sitt faglige virke bidratt til å sette Norge på det
+statistiske verdenskartet. Han har en uvanlig bred internasjonal
+9
+
+
+
+kontaktflate, og har hatt flere forskningsopphold ved ledende
+universiteter verden rundt (Stanford, Oxford, Canberra, Duke,
+Cambridge), og mange framstående statistikere fra mange land
+har besøkt Oslo for å snakke med Nils. Nesten halvparten av
+publikasjonene hans har internasjonale medforfattere, faktisk
+nesten tjue forskjellige, fra åtte ulike land.
+De faglige interessene til Nils spenner vidt innen
+statistikkfaget. Han har arbeidet med metoder for statistisk
+modellvalg, ikke-parametriske bayesianske metoder, ikkeparametrisk regresjon, tetthetsestimering, levetidsanalyse,
+asymptotisk teori og grunnleggende teori for statistisk inferens,
+for å nevne noen viktige fagfelt. Sammen med Gerda Claeskens
+ga han i 2008 ut boka Model Selection and Model Averaging på
+Cambridge University Press, og sammen med ts er han i disse
+dager i ferd med å gjøre ferdig boka Confidence, Likelihood
+and Probability på samme forlag. Her vekkes den neglisjerte
+inferensteorien til Fisher basert på fidusielle fordelinger til live.
+Nils har vært medredaktør i sentrale internasjonale
+tidsskrifter (sjs, jrssb og Annals of Statistics), og med engelske
+kollegaer har han redigert bøker om Highly structured stochastic
+systems og Bayesian nonparametrics, for henholdsvis Oxford og
+Cambridge University Press.
+Nils er medlem av Det Norske Videnskaps-Akademi. At
+han ikke er Fellow i Institute of Mathematical Statistics må vel
+sies å være en forsømmelse av det norske statistikermiljøet. Det
+kan neppe ha vært tatt noe initiativ i den retningen, for Nils
+ville ha seilt inn med god margin om vi hadde løftet en finger.
+At han ikke engang er medlem av Bernoulli Society må Nils ta
+på sin egen kappe.
+Kanskje den aller viktigste faglige innsatsen til Nils er
+som lærer og veileder. Generasjoner av statistikkstudenter har
+blitt motivert av forelesningene til Nils, og de har opplevd at
+frustrasjon kan blir til inspirasjon når de har jobbet seg gjennom
+de krevende, men velkomponerte, prosjektoppgavene hans.
+Flere enn tjue cand.scient- og masterstudenter har hatt gleden
+av å ha Nils som veileder, og han har veiledet ni studenter fram
+til doktorgraden.
+Gratulerer med vel overstått!
+
+Sverdrupprisen 2013 «unge forskere» til Ingrid Hobæk
+Haff
+Jo Eidsvik, Arnoldo Frigessi og Magne Aarset | Sverdrup-komitéen
+
+Ingrid Hobæk Haff tok sin mastergrad i matematiske fag ved
+ntnu i 2002. Hun har siden jobbet på Norsk Regnesentral.
+Hun tok doktorgrad ved Universitetet i Oslo i 2012. Hun har
+gjennom omfattende arbeid, så vel anvendt som teoretisk, vist
+seg som en svært solid statistiker, med publikasjoner i for
+10
+
+http://hdl.handle.net/10852/34736
+
+
+
+eksempel Journal of Multivariate Analysis og Bernoulli.
+Artikkelen i Bernoulli ble publisert i 2013 med tittelen
+«Parameter estimation for pair-copula constructions». Hun
+er alene-forfatter av dette arbeidet. Artikkelen studerer
+parameterestimering i «pair-copula»-konstruksjoner. Her
+sammenlignes egenskaper ved ulike inferensmetoder ved hjelp
+av asymptotisk effisiens og beregningskriterier. Artikkelen
+viser ny innsikt innen inferens for mye brukte copulaer – og
+presenterer i detalj en metode som er nyttig for høy dimensjon.
+
+http://www.e-publications.org/ims/
+submission/index.php/BEJ/user/
+submissionFile/8933?confirm=
+56303a5a
+
+Sverdrupprisen 2013 «unge forskere» til Kjetil Røysland
+Jo Eidsvik, Arnoldo Frigessi og Magne Aarset | Sverdrup-komitéen
+
+Kjetil Røysland har sin master og ph.d. fra Universitetet i Oslo.
+Han tok ph.d. i temaet «Refinement and Transfer Operators
+in Multiresolution Theory» i 2007. De siste årene har han
+vært postdoktor og forsker ved avdeling for biostatistikk,
+Universitetet i Oslo. Han har brukt sitt matematiske fundament
+til å utvikle seg som en produktiv statistiker med solide
+publikasjoner i anerkjente statistikkjournaler som Annals of
+Statistics, Statistics in Medicine og Bernoulli.
+Artikkelen i Annals of Statistics med tittel «Counterfactual
+analyses with graphical models based on local independence»
+ble publisert i 2012. Han er alene-forfatter av dette arbeidet.
+Artikkelen studerer parameterestimering i «counterfactual»scenarier. Ved å se på dette som et martingalproblem, etablerer
+artikkelen likelihoodteori for inferens. Artikkelen utvider
+metoder for diskrete grafer, og har stor nytteverdi i et aktuelt
+fagområde innen teoretisk og anvendt statistikk.
+
+Prisvinnerene Ingrid Hobæk Haff og Kjetil Røysland.
+
+http://ask.bibsys.no/ask/action/
+show?pid=070876495&kid=biblio
+
+http://dx.doi.org/10.1214/
+12-AOS1031
+
+Foto: Ingunn Fride Tvete
+
+11
+
+
+
+tankenøtter
+Løsning på pusleri nummer 36
+Jostein Lillestøl | Bergen
+
+Oppgaven
+Ved et revyteater er alle billettene til kveldens forestilling
+utsolgt, og hver publikummer har billett som motsvarer en
+nummerert plass. På galleriet er det bare én inngangsdør, og
+publikum der står i kø og venter på at den skal åpnes.
+Når døren åpnes, er imidlertid den første i køen beruset,
+og setter seg på en tilfeldig plass, som bare samsvarer med
+billetten hvis han har flaks. Så kommer de andre inn, én
+etter én, og setter seg på tildelt plass dersom denne er ledig.
+Hvis den ikke er ledig, ønsker den enkelte publikummer
+ikke å lage noe oppstyr, og velger en plass tilfeldig blant
+de som fortsatt er ledige. Dette fortsetter inntil alle har satt
+seg.
+Hva er sannsynligheten for at den siste i køen får plass i
+henhold til sin billett? Hint: Det er ikke nødvendig med papir
+og blyant!
+
+Løsning
+Anta uten tap av generalitet at plassene på balkong er
+nummerert fra 1 til n, og at publikum slipper inn i denne
+rekkefølgen i henhold til billetten. For hver som slipper inn
+holder vi rede på om denne, i henhold til billetten, inntar sin
+tildelte plass, person 1 sin plass, person n sin plass eller en
+annens plass.
+Vi merker oss at det hele er avgjort straks plass nummer n
+er besatt, men også straks plass nummer 1 er besatt, idet dette
+innebærer at en person har byttet plass med person nummer 1,
+og dermed åpnet for at alle etterfølgende finner sin egen plass.
+Vi åpner døren og person nummer 1, som roter det det hele
+til, velger plass nummer 1 og plass nummer n med like store
+sannsynligheter 1/n. Velges en av disse, er det hele avgjort.
+Hvis ikke, vil person nummer 2 enten finne sin plass ledig
+og innta den, eller dersom denne ikke er ledig, vil det igjen
+være like stor sjanse, nå 1/(n − 1), for at plass nummer 1 og
+plass nummer n velges og at det endelige utfallet er gitt. Slik
+vil det være for hver etterfølgende publikummer inntil den nest
+siste.
+Vi innser at, for de som finner sin egen plass ledig og
+setter seg der, kan vi gå videre og slippe neste inn, uten at
+dette har noen konsekvenser for den søkte sannsynligheten.
+Når den som ikke finner sin egen plass ledig velger en plass
+forskjellig fra 1 og n og setter seg der, vil den neste som
+12
+
+Foto: Benjamin Thompson c b a
+
+
+
+slippes inn møte samme situasjon som den forrige, men med
+ett ledig sete mindre. Vi kan fortsette dette inntil person
+nummer n − 1, som nødvendigvis står overfor to ledige seter,
+nemlig nummer 1 og nummer n, som igjen velges med like
+store sannsynligheter, nå ½, som derfor også gir siste person
+nummer n som slippes inn sannsynlighet ½ for å få sin egen
+plass.
+Denne sekvensielle argumentasjonen med utfall uten
+konsekvens og like sannsynligheter for de to alternativene
+godtgjør at også sannsynligheten før døren åpnes er ½ for
+at den siste får sin plass i henhold til billetten. Ved samme
+argumentasjon følger det at person k har sannsynlighet
+(n − k + 1)/(n − k + 2) (der k er et tall større enn 1) for å finne
+sin egen plass ledig.
+
+Pusleri nummer 37
+Jostein Lillestøl | Bergen
+
+Ole, Dole og Doffen har sommerjobb i en sportsbutikk, der de
+selger sykkelhjelmer av to farger – blå og grønn. Butikksjefen
+Guffen sier at alle skal få hver sin hjelm dersom de greier
+følgende fellesoppgave:
+Vi går inn i pauserommet med mange hjelmer av hver
+farge i en kasse. Jeg slukker lyset og plukker tilfeldig tre
+hjelmer fra kassen, setter én på hodet til hver av dere og
+lukker kassen. Jeg slår på lyset og dere ser hvilken farge
+det er på hjelmen til de to andre, men ikke egen farge.
+Dere skal så gjette hvilken farge det er på egen hjelm, og
+resultatet avgjør om alle skal få hjelm eller ingen av dere
+skal få hjelm.
+Dere får alle den hjelmen dere har på hodet dersom minst
+én av dere gjetter riktig, mens dersom minst én av dere
+gjetter feil, får ingen av dere hjelm. Dere kan imidlertid
+melde pass for å unngå å være den som spolerer det hele.
+Dere skriver hver deres gjetning (blå eller grønn), eventuelt
+pass, på hver deres lapp, uten ytterligere kommunikasjon
+med hverandre. Før vi går i gang har dere lov til å
+diskutere en felles strategi som kan øke sjansen for at dere
+lykkes.
+
+Foto: Dana Beveridge c b
+
+Ole: «Sjansen for å lykkes er mindre enn 50 % og det er feigt
+å si pass!» Dole: «Nei, med pass har vi i hvert fall en strategi
+som gir oss akkurat 50 % sjanse, men mer er det ikke mulig å
+oppnå!» Doffen: «Jeg tror vi kan oppnå langt større sjanse; hør
+nå her . . . »
+Kan du hjelpe Doffen med å finne en slik strategi? Ekstra
+utfordring: Hva tror du skjer dersom det er flere enn tre med?
+Send svar til Jostein.Lillestol@nhh.no.
+13
+
+
+
+møter og konferanser
+Rapport fra det 17. norske statistikermøtet, Halden
+Bård Støve | Bergen
+
+Det 17. norske statistikermøtet ble arrangert i Halden 11.–13.
+juni i år. Det var nsfs avdeling i Oslo som denne gangen
+var arrangør. I tillegg var det et forkurs i dagene før møtet,
+Visualisering i R. Dette ble holdt av Elisabeth Orskaug og
+Thordis Thorarinsdottir, begge ansatt ved Norsk Regnesentral.
+Rundt 40 statistikere fra hele landet deltok på møtet.
+Møtet hadde et tett program, med tre inviterte foredrag: Jo
+Eidsvik fra ntnu snakket om Value of information analysis in
+spatial models. Dette dreier seg om å kvantifisere verdien av å
+tilegne seg mer informasjon, men som har en kostnad knyttet
+til seg. For eksempel lønner det seg for et oljeselskap å bore
+flere brønner for å få mer informasjon om reservoaret.
+Videre holdt Andrea Riebler, nytilsatt førsteamanuensis ved
+ntnu, et foredrag med tittelen Measurement error in GL(M)Ms
+using INLA, der hun presenterte hvordan inla-pakken i R kan
+benyttes til å analysere modeller med målefeil.
+
+Ingrid Hobæk Haff: Prediksjon av bilforsikringssvindel med kombinasjoner av statistiske metoder.
+
+Det siste inviterte foredraget var av Birgitte Freiesleben
+de Blasio, Folkehelseinstituttet: Infektionsmodellering med nogle
+eksempler. Her presenterte hun hvordan man kan modellere
+spredning av smittsomme sykdommer, som for eksempel
+influensa.
+Av de 18 andre foredragene kan det nevnes at Jo Røislien
+snakket om sin nye prosjekt Tall forteller. En bok. Og en app.
+14
+
+Foto: Ingunn Fride Tvete
+
+
+
+Dette er et prosjekt som skal få skoleelever interessert i å samle
+inn tall rundt en problemstilling som opptar dem, og deretter
+analysere dataene ved enkle statistiske metoder, uten å måtte
+kunne alle detaljene om selve metodene.
+
+Jo Røislien og hans foredrag.
+
+Foto: Ingunn Fride Tvete
+
+I tillegg var det sesjoner omhandlende medisinske anvendelser, forsikring, informasjonskriterier og høydimensjonale data.
+Dessverre var det kun én masterstudent som hadde tatt mot til
+seg til å presentere masterutredningen.
+Et interessant historisk innlegg var Ørnulf Borgans foredrag
+Hvem var Sverdrup?. Her fikk alle, og spesielt yngre deltakere,
+et innblikk i livet til en mann som har betydd svært mye for
+statistikk som fag i Norge. Det ble også vist klipp fra en film om
+Sverdrup, og dette foredraget blir forhåpentligvis tilgjengelig
+på nsfs hjemmesider.
+Sverdrup-prisene ble også delt ut, og vinnerne av prisen
+for unge forskere ble delt mellom Ingrid Hobæk Haff,
+Norsk Regnesentral, og Kjetil Røysland, Universitetet i
+Oslo. Begge disse to holdt gode foredrag om henholdsvis
+par-copula konstruksjoner og kontrafaktiske analyser.
+Vinneren av Sverdrup-prisen for fremragende representant for
+statistikkfaget var Nils Lid Hjort. Han kunne dessverre ikke
+være tilstede på møtet, men i høst vil Oslo-avdelingen arrangere
+en tilstelning der vinneren vil holde Sverdrup-foredraget.
+15
+
+
+
+Av sosialt program må det nevnes en flott omvisning på
+Fredriksten festning og etterfølgende middag, hvor kniv og
+gaffel var manglende variabler. I tillegg var det for anledningen
+trykket opp egne nsf-sedler!
+
+Før omvisning og middag ble det spilt en fotballkamp
+mellom deltakere fra Trondheim mot et blandet lag fra Bergen
+og Oslo. Her trakk laget fra Trondheim det lengste strået, i det
+som var en jevn og finspilt kamp på en innbydene gressmatte i
+Halden.
+16
+
+Foto: Ingunn Fride Tvete
+
+Foto: Ragnar Bang Huseby
+
+
+
+Årsmøtet i nsf ble også avholdt; se eget oppslag for referat.
+De viktigste sakene var å få på plass et nytt styre, spesielt leder,
+som ble Ragnar Bang Huseby fra Norsk Regnesentral, som ble
+valgt ved akklamasjon. Videre går redaktøransvaret for tg til
+trondheimsavdelingen, mens bergensavdelingen skal arrangere
+det neste norske statistikermøtet.
+Til slutt en stor takk til arrangementskomitéen, som ble
+ledet av Ingunn Fride Tvete, og programkomitéen, som har
+bestått av Anders Løland (leder), Ida Scheel og Mette Langaas.
+
+Alle statistikerne samlet.
+
+Foto: Ingunn Fride Tvete
+
+Rapport fra 4th Nordic-Baltic Biometric Conference i
+Stockholm, 9.–12.juni 2013
+Geir Egil Eide | Bergen, Past president, IBS Nordic-Baltic Region
+
+Selv om kvaliteten var på topp, var antallet norske deltakere
+på den fjerde felleskonferansen i den nordisk-baltiske
+regionen av International Biometric Society (ibs) altfor lavt.
+Konferansen ble denne gang arrangert på Karolinska
+institutet i Stockholm, og hadde 92 deltakere, hvorav bare
+7 norske, som imidlertid gjorde en utmerket innsats så
+vel i det faglige programmet – Magne Aldrin (invitert
+foredrag om Pattern recognition and image analysis og
+Kjetil Røysland om Causal inference and screening for cervix
+cancer) – og i det mer organisasjonsmessige – Ivar Heuch
+i programkomitéen og Magne Thoresen og undertegnede
+i det regionale rådet for ibs. Sverige hadde ansvaret for
+konferansen, denne gang ved Paul Dickman (leder av lokal
+organisasjonskomité) og Yudi Pawitan (leder av vitenskapelig
+programkomité).
+Fullt program og flere bilder finnes på hjemmesiden til
+konferansen, og de inviterte foredragene dekket temaer fra
+causal mediation analysis til functional data analysis ved climate
+changes. Tre svært anvendelige prekonferansekurs om kausal
+inferens, metodesammenligning og frafall i longitudinale
+studier var også nyttige for mange.
+
+Foto: Geir Egil Eide
+
+Et prinsessebryllup satte farge på
+oppholdet i Stockholm.
+
+http://nbbc13.org/
+
+17
+
+
+
+Konferansemiddagen ble arrangert på cruisebåt i
+Stockholms skjærgård, og et prinsessebryllup og svensk
+«russefeiring» satte ytterligere farge på Sveriges hovedstad for
+anledningen. I 2015 planlegges konferansen arrangert på Island,
+og Magne Thoresen blir leder for programkomitéen, så følg
+med og meld deg gjerne inn i ibs!
+
+http://www.ibsnr.org/
+
+På middagscruise I den Stockholmske skjærgård. Fra venstre: Sven Ove Samuelsen, Magne Aldrin, Magne Thoresen, Geir Egil
+Eide, Kirsti Gilde og Kjetil Røysland.
+Foto: Geir Egil Eide
+
+Helse Vest-statistikermøte 18.–19. april 2013
+Anne Marie Fenstad | Bergen
+
+Annethvert år arrangerer Helse Vest-statistikerne et seminar
+over et selvvalgt tema. I år var vi så heldige å få Hein Putter fra
+Leiden University Medical Center, Nederland til å komme og
+snakke om Landmarking in survival analysis, eller på godt norsk:
+merkepælanalyse.
+Merkepælanalyse brukes allerede av mange for å estimere
+effekt av tidsavhengige forklaringsvariabler på overlevelse. En
+nyere anvendelse av merkepælanalyse er dynamisk prediksjon,
+der man estimerer prediksjonssannsynligheter ikke bare fra
+data som er kjent ved start av oppfølgningen, men også bruker
+data om eventuelle endringer som skjer på senere tidspunkter,
+altså tidsavhengige forklaringsvariabler. Eksempler kan være
+oppdatert informasjon om en svulsts utvikling (tilbakegang,
+vekst), tilgang på donor eller endring i funksjonsstatus.
+Pasientene ønsker stadig oppdaterte prognoser.
+Kurset ble holdt fra lunsj til lunsj over to dager ved
+Stavanger universitetssykehus (sus). Dette har vist seg å være
+praktisk, da tilreisende kan komme samme dag kurset starter
+og være hjemme som etter en vanlig arbeidsdag siste kursdag.
+18
+
+Foto: Geir Egil Eide
+
+Kursleder Hein Putter.
+
+
+
+Det gir også en fin anledning til å ha en felles middag med alle
+kursdeltagerne. Vi spiste på en italiensk restaurant i sentrum av
+byen. I år var vi til sammen ni deltagere – tre fra sus og seks
+tilreisende fra Haukeland universitetssjukehus (hus).
+Kurset besto av fire bolker, hvorav den siste var en praktisk
+dataøkt hvor vi brukte R. Dette fungerte fint, og Hein var en
+inspirerende foreleser med et spennende tema. Det er alltid
+kjekt å kunne spørre/diskutere/oppklare problemstillinger i
+en gruppe, og ikke bare sitte og gruble alene på eget kontor.
+Dette ble det god anledning til. I tillegg hadde gjengen fra hus
+«jukset litt», og hatt kollokvier på forhånd, og har i etterkant
+også kollokvert over oppgavene. Vi lærer av hverandre og aller
+mest R av Karl.
+I Stavanger traff vi også på byens svanepar som hadde lagt
+seg til med rede i Breiavatnet midt i sentrum. Vi kan herved
+bekrefte at svaner er store, og holdt oss på ærbødig avstand.
+Tusen takk til arrangørene ved sus (og dus), Ingvild, Jan
+Terje og Bjørn Henrik; vi kommer gjerne igjen. Takk også til
+initiativtaker Geir Egil, som også er ansvarlig for betegnelsen
+merkepælanalyse.
+
+Foto: Geir Egil Eide
+
+En av Breiavatnets mange svaner.
+
+Middag første kursdag. Fra venstre: Ingvild Dalen, Geir Egil Eide, Valborg Baste, Karl Ove Hufthammer, Ågot Irgens. Høyre side,
+fra bakerst til fremst: Anne Marie Fenstad, Jörg Aßmus, Hein Putter, Bjørn Henrik Auestad, Jan Terje Kvaløy. Foto: Geir Egil Eide
+
+Norsk kjemometri på afrikansk grunn: Afrodata
+Harald Martens | Ås, Nofima
+
+Afrodata 2012 – 2nd African-European Conference on Chemometrics
+ble arrangert ved University of Stellenbosch, Sør-Afrika, i
+november siste år. Liksom ved det forrige møtet i samme serie
+(Marokko 2010), møttes kjemikere, biologer, fysikere, statistikere
+19
+
+
+
+og matematikere fra en rekke land for å utveksle erfaringer
+innen anvendt multivariat datamodellering. Møteserien, som
+kom i stand på norsk, fransk og nordafrikansk initiativ, har
+til hensikt å fremme praktisk, tverrfaglig bruk av moderne
+mangekanals måledata på det afrikanske kontinent. De
+norske medlemmene i vitenskapskomitéen var Achim Kohler
+og Harald Martens, begge fra Universitetet for Miljø- og
+Biovitenskap og Nofima, Ås.
+Gjennom 40 foredrag og 20 postere ble en rekke nye
+metodiske utviklinger for datamodellering og -tolkning
+presentert. Mange nye anvendelser av datamodellering ble
+belyst, innen mange fagfelt, av unge og eldre forskere fra
+mange land og kontinenter. Som i kjemometrien forøvrig kunne
+man også ved dette møtet observere to hovedtrekk: En stadig
+bedre kontakt til andre fagmiljøer innen fysikk, statistikk,
+informatikk og matematikk, og en økende anvendelse av
+kjemometri innen moderne biofag.
+Anvendelsene var forskjellige – fra medisinsk
+billeddiagnostikk, genomikk, metabolomikk/kromatografi,
+proteomikk og spektroskopi, via industriell prosessovervåking,
+geologisk prøvetaking, geografisk miljøovervåking og
+vinkvalitetsmåling, og til analyse av store medisinske computersimuleringer. Men fellesnevnerne ved møtet var viljen og evnen
+til å skaffe relevante og pålitelige høydimensjonale måledata,
+å trekke ut og validere den underliggende essensen innen
+og mellom de resulterende datatabellene, samt å visualisere
+resultatene grafisk.
+Blant de inviterte foredragsholderne var to norske: Tormod
+Næs (Nofima), som presenterte sin nye, prisbelønte teknikk
+for tverrfaglig multiblokk multivariatanalyse med fokus på
+både statistisk validitet og kognitiv tilgang, og Kristin Tøndel
+(cigene/umb), som ga en oversikt over nye muligheter
+innen multivariat metamodellering – analyse av kompliserte,
+teori-baserte matematiske beregningsmodeller, primært
+innen biologi og medisin, via kjemometrisk modellering av
+input-outputdata fra store, statistisk planlagte simuleringseksperimenter. Dessuten var nordmannen Tor-Gunnar Vågen
+(World Agroforestry Centre, Nairobi) invitert til å fortelle
+om den utstrakte bruken av ensamble learning for multivariat
+kalibrering av hyperspektral satellittbilledanalyse av kenyansk
+jordsmonn.
+De øvrige norske presentasjonene var ved Oliver
+Tomic (Nofima – multiblokkanalyse), Ibrahim Karaman
+(Nofima/umb/Århus Universitet – variabel-seleksjon innen
+funksjonell genomikk), Turid Torheim (umb – tekstur-profilering
+for hyperspektral analyse av kreftvev), Sarin Nhek (Nofima –
+multivariat billedanalyse for elektroforese-proteomikk),
+Valeriya Tafintseva (umb – matematisk «sloppiness»-struktur
+i ikkelineær kinetikk) og Harald Martens (Nofima/umb –
+estimering og formidling av systematiske usikkerhetsmønstre
+20
+
+
+
+ved tilpasning av matematiske modeller til data). Neste
+Afrodata-møte er planlagt for 2014, i Kenya.
+
+Årsmøte Norsk statistisk forening
+Clara-Cecilie Günther | Referent
+
+Tidspunkt
+Sted
+Oppmøte
+
+11. juni 2013, kl. 17.05–18.10
+Thon Hotel Halden
+30 personer
+
+Årsmøtet ble gjennomført i forbindelse med det 17. norske
+statistikermøtet i Halden. Saksliste:
+1 Godkjenning av innkalling og saksliste. Innkallingen og
+sakslisten ble godkjent.
+2 Valg av møteleder og referent. Jo Eidsvik ble valgt til
+møteleder og Clara-Cecilie Günther til referent.
+3 Årsberetning 2011–2013. Møteleder gikk gjennom
+årsberetningen. Det ble i tillegg informert om at nsf
+har mottatt restopplaget av festskriftet til ære for Erling
+Sverdrup. Foreningen har betalt for innskanning av
+gamle numre av tg, slik at disse nå er tilgjengelige via
+foreningens webside.
+4 Regnskap for 2011 og 2012. Kasserer gikk gjennom
+regnskapet for 2011 og 2012. Foreningens økonomi er
+god.
+5 Innkomne forslag:
+a) Forslag til vedtekter: Endring i statuttene for
+Sverdrup-prisen: Styret i Norsk statistisk forening
+foreslår følgende endringer i Sverdrup-prisens
+«Statutter»:
+1 «Prisen kan tildeles medlemmer av nsf som har
+utmerket seg innen fagområdet statistikk. Prisen
+består av en diplom, et stipend på kr 10 000 og
+21
+
+
+
+livsvarig (gratis) medlemskap i nsf.» endres til
+«Prisen kan tildeles medlemmer av nsf som har
+utmerket seg innen fagområdet statistikk. Prisen
+består av en diplom og et stipend på kr 10 000.»
+2 Punktet «Prisen kan deles ut en gang per år,
+og vil bli delt ut enten på nsfs landsmøte eller
+en egen tilstelning, hvor mottakeren blir bedt
+om å holde en forelesning over selvvalgt tema.»
+erstattes med «Prisen kan deles ut en gang per
+år, hvis økonomien tillater det, og vil i så fall bli
+delt ut enten på nsfs landsmøte eller en egen
+tilstelning, hvor mottakeren blir bedt om å holde
+en forelesning over selvvalgt tema.»
+Forslag 1 ble vedtatt med 28 stemmer for, 0 i mot.
+Styret trakk forslag 2.
+b) Forslag til vedtekter: Innførsel av valgkomite.
+Styret i Norsk statistisk forening foreslår følgende
+endringer:
+1 Punktet «Valg av styre for de neste to år, med
+særskilt valg av leder og redaktør. Valg av to
+varamedlem og to revisorer.» endres til «Valg
+av styre for de neste to år, med særskilt valg av
+leder og redaktør. Valg av to varamedlem og to
+revisorer. Valg av to personer i valgkomite.»
+Forslaget ble vedtatt med 28 stemmer for, 0 i mot.
+c) Fordeling av penger til lokalforeningene utfra
+medlemstall. Aktiviteten og medlemstallet varierer
+mye mellom de ulike lokalforeningene, som så
+langt har fått samme årlige overføring fra nsf
+sentralt. Osloavdelingen ønsker at beløpet tilpasses
+aktivitetene og medlemstallet. Det er opp til styret å
+fastsette beløpene, men ulike framgangsmåter ble
+diskutert, og det nye styret vil ta innspillene med
+seg.
+d) Fortsatt trykking av Tilfeldig gang. Styret ba om
+synspunkter på hvorvidt det er ønskelig å fortsatt
+trykke tg på papir. De fleste innspillene var positive
+til en elektronisk versjon, spesielt dersom denne
+fortsetter som helhetlige utgaver og ikke kun som en
+nyhetstjeneste. Det nye styret vil avgjøre dette.
+e) Rekruttering av studenter. Det ble diskutert hvorvidt
+ferdig utdannede masterstudenter skal få gratis
+medlemskap en periode. Styret vil se nærmere på
+dette.
+6 Valg av styre for de neste to år, med særskilt valg av leder
+og redaktør for tg. Valg av to styremedlemmer og to
+revisorer. Følgende styre ble valgt ved akklamasjon:
+22
+
+
+
+Leder
+Ragnar Bang Huseby
+Kasserer
+Clara-Cecilie Günther
+Styremedlem Bård Støve
+Styremedlem
+Styremedlem
+Varamedlem
+Varamedlem
+
+Norsk Regnesentral
+Norsk Regnesentral
+Universitetet
+i Bergen
+Alf Harbitz
+Havforskningsinstituttet
+Turid Follestad
+ntnu
+Gunnhildur Høgnadottir Norsk Regnesentral
+Steinbakk
+Tore Wentzel-Larsen
+Haukeland
+universitetssjukehus
+
+Revisorer: Hanne Rognebakke, Norsk Regnesentral, og
+Tor Cato Gjerdingen, Oslo Pensjonsforsikring.
+Det ble besluttet at trondheimsmiljøet tar ansvar for å
+utnevne ny redaktør av tg i etterkant av årsmøtet.
+Etter at vedtektene ble endret under punkt 5 b) ble det
+valgt en valgkomité bestående av Jo Eidsvik, ntnu og
+Katrine Frey Frøslie, Oslo Universitetssykehus
+
+Årsmøte NSF Bergen
+Anne Marie Fenstad | Referent
+
+Tidspunkt
+Sted
+Oppmøte
+
+28.5.2013 kl. 17.00
+Nasjonalt register for leddproteser
+12 personer
+
+Først holdt Geir Aamodt fra Folkehelseinstituttet et
+interessant foredrag: «Miljøepidemiologi og geografiske
+informasjonssystemer».
+
+Geir Aamodt forteller om den historiske utviklingen av miljøepidemiologi.
+
+Foto: Karl Ove Hufthammer
+
+23
+
+
+
+Etter foredraget hadde vi selve årsmøtet. Nytt styre ble valgt
+ved akklamasjon:
+Styreleder
+
+Karl Ove Hufthammer Kompetansesenter for
+klinisk forsking,
+Haukeland universitetssjukehus
+Sekretær
+Bård Støve
+Matematisk institutt,
+Universitetet i Bergen
+Kasserer
+Øystein Haaland
+Institutt for global helse
+og samfunnsmedisin,
+Universitetet i Bergen
+Styremedlem Anne Marie Fenstad
+Nasjonalt register for
+leddproteser
+Styremedlem Miram Gjerdevik
+Institutt for global helse
+og samfunnsmedisin,
+Universitetet i Bergen
+En av sakene som ble diskutert var lokalforeningens
+30-årsjubileum i år (15. desember). Det nye styret oppfordres til
+å markere dette.
+Lokalforeningens hjemmesider må oppdateres og gjerne
+legges under nsf sine sider sentralt. Regnskapet ble godkjent,
+og møtet ble som vanlig avsluttet med enkel servering av pizza
+og brus.
+
+Møtet ble avsluttet med «enkel servering».
+
+24
+
+Foto: Karl Ove Hufthammer
+
+
+
+bokomtaler
+Event History Analysis with R
+Karl Ove Hufthammer | Bergen
+
+Event History Analysis with R er skriven av professor emeritus
+Göran Broström ved Umeå universitet i Sverige, og er ei
+«kokebok» i levetids- og forløpsanalyse med programpakken R.
+Ho er i utgangspunktet retta mot sammfunnsforskarar,
+med datasett med vekt på demografi og epidemiologi, men
+modellane og analysemetodane brukte vil vera like relevante
+for alle fag der ein har med levetidsdata å gjera.
+Boka startar med ei kort innføring i levetids- og
+forløpsanalyse, med ein svært klår presentasjon av sentrale
+omgrep, som overlevings- og hasardfunksjonar, sensurering og
+trunkering. Korleis overlevingsdata er representert i R vert også
+forklart, og alle datasetta brukte i boka er grundig skildra. Dei
+fleste datasetta gjeld ulike former for overlevingsdata frå ulike
+stadar i Sverige på 1800-talet.
+Vidare følgjer innføring i Cox-regresjon, logrank-testen og
+Poisson-regresjon, med litt om korleis denne siste er knytt
+til Cox-modellen. Utvidingar, som tidsavhengige kovariatar
+er også dekte. Det er eit eige kapittel om ulike vanlege
+parametriske modellar, og her finn me også informasjon
+om modellvalidering og modellval. Boka inneheld òg
+informasjon om alternativ til «standardmodellane», som
+skrøpelegheitsmodellar, akselerert tid-modellar, samt litt om
+handtering av para eller matcha data, og av «konkurrerande
+risiko»-modellering. Det varierer ein del kor grundig kvart
+emne er dekt.
+All analysen er illustrert med fullstendig R-programkode
+og resultatet av køyring av denne, med tilhøyrande figurar.
+Datasetta som er brukte er tilgjengelege i R-pakken eha, som
+forfattaren har skrive, slik at det er lett å gjenskapa analysane.
+Pakken har for øvrig ei lang historie, som går tilbake til før R
+(då han var skriven i Fortran, Turbo Pascal og C). I pakken finn
+me òg fleire nyttige funksjonar for levetidsdata, som gjer det
+mogleg å utføra analysar ein ikkje kan med den innebygde
+survival-pakken i R. Boka kan sjåast på som den offisielle
+dokumentasjonen for eha-pakken (sjølv om ikkje alt i pakken er
+omtalt).
+Det svært positive med boka er at ho inneheld ei – for det
+meste – klår og praktisk retta innføring i korleis utføra levetidsog forløpsanalyse rett i R. Ho er litt meir enn ei rein kokebok, i
+det at me også finn noko teori og formlar, og informasjon om
+avgrensingar og fallgruver1 . Kloke råd er alltid nyttige, men
+det kunne med fordel vore meir av dette, og også meir om
+modellvalidering og modellval, som lett vert utfordrande.
+
+1 Og eikvar bok som nemner
+
+Hauck–Donner-effekten får ei ekstra
+stjerne hos meg.
+
+25
+
+
+
+Levetidsanalyse er eit stort felt, og boka, med sine litt over
+200 små sider, er relativt kort. Det er med andre ord svært
+mykje som ikkje er dekt her – heller ikkje all funksjonaliteten i
+standard survival-pakken. Boka har for øvrig ei oversikt over
+aktuelle R-pakkar, men denne er langt frå fullstendig; sjå heller
+cran-oversikta Survival Analysis2 .
+Boka er stort sett klår og pedagogisk oppbygd, men i
+nokre få kapittel er framstillinga noko rotete, med forvirrande
+rekkjefølgje på presentasjonen, og unødvendig og merkeleg
+gjentaking. Dette er ting som burde vore plukka opp under
+redigering. Eg fann òg litt for mange trykkfeil. Nokre av desse
+kan vera forvirrande for lesaren (eksempelvis feil indeksar og
+ombytte tal), og burde vore plukka opp under korrekturlesinga.
+Boka vert avslutta med appendiks om statistiske konsept,
+asymptotikk, oversikt over parametriske fordelingsfunksjonar
+og ei kort innføring i R. Denne R-innføringa verkar dessverre
+svært lite gjennomtenkt, med ei blanding av irrelevante og
+avanserte emne, og av trivialitetar, utan noko som helst kopling
+til kva som er nyttig å kunna for å forstå og bruka resten av
+R-koden i boka. Ho vil altså ikkje på nokon måte vera nyttig for
+dei som skal lesa denne boka, anten ein ikkje har brukt R før
+eller er erfaren.
+Men alt i alt er dette ei fin og lettlest bok i praktisk levetidsog forløpsanalyse. Ho dekkjer, eller iallfall streifer innom,
+mange emne. Ho passar både for nybegynnarar i emnet (som
+underteiknande), som først vil skaffa seg litt praktisk erfaring,
+og for meir erfarne brukarar, som lurer på korleis dei velkjende
+analysane kan og bør utførast i R.
+Til slutt eit lite eksempel på levetidsanalyse, gjort i R:
+1.0
+
+0.8
+Kaplan–Meier-estimat
+for ventetida mellom
+to nummer av TG
+
+0.6
+
+0.4
+
+0.2
+
+0.0
+
+93
+
+0
+
+90
+
+1
+
+83
+
+2
+
+33
+
+3
+
+20
+
+4
+
+13
+
+5
+
+5
+
+6
+
+4
+
+7
+
+Månader
+
+26
+
+8
+
+2
+
+9
+
+10
+
+1
+
+11
+
+12
+
+2 http://cran.r-project.org/web/
+
+views/Survival.html
+
+
+
+meldinger
+Nytt fra seksjonene 2 og 3 ved Matematisk institutt,
+Universitetet i Oslo
+Ny organisering
+Fra nyttår er inndelingen av Matematisk institutt i avdelingene
+A, B og C en saga blott. I stedet er instituttet delt i seks
+seksjoner, hvorav faget statistikk er fordelt på følgende
+seksjoner:
+Seksjon 2: Statistikk og biostatistikk
+Leder: Ingrid Glad
+Seksjon 3: Stokastisk analyse, finans, forsikring og risiko
+Leder: Fred Espen Benth
+Denne spalten vil fra nå av bringe nytt fra begge disse
+seksjonene.
+
+Nye ph.d.-grader
+Linda Vos (12. oktober 2012)
+Stochastic volatility and multi-dimensional modeling in the European
+energy market (prøveforelesning: Monte Carlo methods and their
+applications in finance)
+Bedømmelseskomité: Luitgaard Veraart, London School of
+Economics and Political Science; Sjur Westgaard, ntnu; Giulia
+Di Nunno, Universitetet i Oslo. Veiledere: Fred Espen Benth,
+Universitetet i Oslo; Steen Koekebakker, Universitetet i Agder.
+Erik Vanem (7. Desember 2012)
+Bayesian hierarchical space-time models for significant wave height
+data (prøveforelesning: Model criticism in Bayesian hierarchical
+models: concepts and methods)
+Bedømmelseskomité: Elja Arjas, University of Helsinki;
+Håkon Tjelmeland, ntnu; Geir Storvik, Universitetet i Oslo.
+Veiledere Arne Bang Huseby, Universitetet i Oslo; Bent Natvig,
+Universitetet i Oslo; Elzbieta Bitner-Gregersen, Det norske
+Veritas.
+Maren Diane Schweck (19. Desember 2012)
+Implications of model choice in Lévy-driven financial markets
+(prøveforelesning: Financial models with stochastic time change)
+Bedømmelseskomité: Ernst Eberlain, University of Freiburg;
+Svetlana Borovkova, University of Amsterdam; Tom Lindstrøm,
+Universitetet i Oslo. Veileder Fred Espen Benth.
+
+Nyansettelser
+Jan Fredrik Bjørnstad er ansatt som professor II.
+27
+
+
+
+Nye mastergrader
+Andreas Sørensen Susrud
+The landmark approach applied to implied volatility
+Veileder: Frank Proske
+Marianne Røine
+Weighted lasso analysis for cervix cancer data
+Veileder: Ingrid Glad
+Aksel Holler Jonassen
+Esscher transform to Lévy processes in a separable Hilbert space
+Veileder: Fred Espen Benth
+John Mikael Modin
+Reduced form modeling of emission derivatives using Lévy processes
+Veiledere: Fred Espen Benth og Giulia Di Nunno
+
+Nytt fra Universitetet i Bergen
+Nye mastergrader
+Andreas Lura
+The Norwegian stock market: A local Gaussian perspective
+Veileder: Dag Tjøstheim
+Lars Arne Jordanger
+Semiparametric model selection for copulas
+Veileder: Dag Tjøstheim
+Lene Våge
+Kalman og Partikkel filter i kvantitative handelsstrategier
+Veileder: Bård Støve
+Kjetil Sørlien Nordanå
+Syntetisk CDO: iTraxx-prising ved bruk av en Normal Invers
+Gaussisk Copula
+Veileder: Bård Støve
+Helene Aardal
+DCC-GARCH-modeller med ulike avhengighetsstrukturer
+Veileder: Kjersti Aas
+Stefania Benonisdottir
+Statistical approach to relatedness analysis in large collections of
+genetic profiles. An application to a DNA-registry of fin whales
+Veileder: Hans Skaug og Christophe Pampoulie
+
+Ny ph.d.-grad
+Arne Johannes Holmin
+Analysis of multi-beam sonar echoes of herring schools by means of
+simulation
+Veiledere: Dag Tjøstheim, sammen med Nils Olav Handegard
+og Rolf J. Korneliussen (Havforskningsinstituttet)
+
+28
+
+
+
+Nytt fra Norges teknisk-naturvitenskapelige universitet
+Ny mastergrad
+Åshild Færevåg
+Predicting snow density
+Veileder: Ingelin Steinsland
+
+Ny førsteamanuensis
+Andrea Riebler er ny førsteamanuensis. Hun har vokst opp i
+Tyskland., og har sin PhD fra München og en post.doc. fra
+Zürich.
+
+Møte i Norsk Statistisk forening, avdeling Trondheim
+29. mai 2013 holdt foreningen møte med foredrag og servering
+av pizza og drikke. Foredragsholder var Hans C. Karlsen,
+Statoil. Tittel: Risk based decision support for the planning of a
+challenging hpht drilling operation.
+
+29
+
+
+
+SCANDINAVIAN JOURNAL OF STATISTICS
+Volume 40 • Number 1 • March 2013
+Contents:
+
+Page
+
+Editorial
+Holger Rootzén & Mats Rudemo
+
+1
+
+Quantile Regression Estimator for GARCH Models
+Sangyeol Lee & Jungsik Noh
+
+2
+
+A Copula-Based Non-parametric Measure of Regression
+Dependence
+Holger Dette, Karl F. Siburg & Pavel A. Stoimenov
+
+21
+
+Shannon Entropy and Mutual Information for Multivariate
+Skew-Elliptical Distributions
+Reinaldo B. Arellano-Valle, Javier E. Contreras-Reyes & Marc G. Genton
+
+42
+
+Objective Bayesian Analysis of Skew-t Distributions
+Marcia D’elia Branco, Marc G. Genton & Brunero Liseo
+
+63
+
+Leverage and Infl uence Diagnostics for Spatial Point Processes
+Adrian Baddeley, Ya-Mei Chang & Yong Song
+
+86
+
+Quality of Fit Measures in the Framework of Quantile Regression
+Hohsuk Noh, Anouar El Ghouch & Ingrid Van Keilegom
+
+105
+
+Decomposition of Variance for Spatial Cox Processes
+Abdollah Jalilian, Yongtao Guan & Rasmus Waagepetersen
+
+119
+
+Testing the Equality of Covariance Operators in Functional
+Samples
+Stefan Fremdt, Josef G. Steinebach, Lajos Horváth & Piotr Kokoszka
+
+138
+
+Non-Parametric Change-Point Tests for Long-Range
+Dependent Data
+Herold Dehling, Aeneas Rooch & Murad S. Taqqu
+
+153
+
+Asymptotically Unbiased Estimation of the Coefficient of
+Tail Dependence
+Yuri Goegebeur & Armelle Guillou
+
+174
+
+Published on behalf of:
+Danish Society for Theoretical Statistics
+Finnish Statistical Society
+Norwegian Statistical Society
+Swedish Statistical Society
+
+
+
+SCANDINAVIAN JOURNAL OF STATISTICS
+Volume 40 • Number 2 • June 2013
+Contents:
+
+Page
+
+Collapsibility of Conditional Graphical Models
+Binghui Liu & Jianhua Guo
+
+191
+
+Estimating the Period of a Cyclic Non-Homogeneous Poisson
+Process
+Eduard Belitser, Paulo Serra & Harry Van Zanten
+
+204
+
+On Sensitivity of Inverse Response Plot Estimation and the
+Benefits of a Robust Estimation Approach
+Luke A. Prendergast & Simon J. Sheather
+
+219
+
+Non-parametric Regression for Circular Responses
+Marco Di Marzio, Agnese Panzera & Charles C. Taylor
+Evaluating Statistical Hypotheses Using Weakly-Identifiable
+Estimating Functions
+Guanqun Cao, David Todem, Lijian Yang & Jason P. Fine
+
+238
+
+256
+
+Estimation in Discretely Observed Diffusions Killed at a Threshold
+Enrico Bibbona & Susanne Ditlevsen
+
+274
+
+Markov Chain Monte Carlo for Exact Inference for Diffusions
+Giorgos Sermaidis, Omiros Papaspiliopoulos, Gareth O. Roberts,
+Alexandros Beskos & Paul Fearnhead
+
+294
+
+Maximum Likelihood Estimation for Stochastic Differential
+Equations with Random Effects
+Maud Delattre, Valentine Genon-Catalot & Adeline Samson
+
+322
+
+Joint Estimation of Intersecting Context Tree Models
+Antonio Galves, Aurélien Garivier & Elisabeth Gassiat
+
+344
+
+On Projection-type Estimators of Multivariate Isotonic Functions
+Abdelaati Daouia & Byeong U. Park
+
+363
+
+Published on behalf of:
+Danish Society for Theoretical Statistics
+Finnish Statistical Society
+Norwegian Statistical Society
+Swedish Statistical Society
+
+
+
+informasjon
+Har du husket å betale kontingenten i år?
+Medlemskontingenten i nsf er kr 200,– per år for ordinære
+medlemmer, mens mastergradsstudenter får gratis medlemskap.
+På adresselappen bakpå bladet står det anført siste år vi har
+mottatt kontingent fra deg. Sjekk adresselappen! De som ikke
+har betalt for tidligere år gjør dette sammen med kontingenten
+for 2013. Dersom du mener betalingsinformasjonen ikke
+stemmer, gi beskjed til clara-cecilie.gunther@nr.no. Dersom
+arbeidsgiveren din betaler kontingenten, sørg for at navnet ditt
+kommer med på innbetalingen.
+De største utgiftspostene for nsf er overføringer til
+lokallagene i Oslo, Bergen og Trondheim, utdeling av Sverdrupprisen, nsfs medlemskap i The European Mathematical Society
+(ems) og the International Statistical Institute (isi), trykking
+og utsending av tg og utgifter i forbindelse med diverse
+arrangementer – blant annet støtte til studenter ved deltakelse
+på det norske statistikermøtet.
+For at medlemsregisteret skal være best mulig oppdatert, er
+det viktig at du oppgir eventuell ny post- eller e-postadresse,
+ved å sende meg en e-post. Vi har også opprettet en egen
+e-postliste for nsfs medlemmer, nsf-medlemmer@math.uio.no.
+Dersom du ikke mottar e-post fra denne lista, send meg din
+oppdaterte e-postadresse.
+Betalingsfrist for innbetaling av kontingent er 20.08.2013.
+Vennligst oppgi hvem kontingenten gjelder for ved innbetaling.
+
+http://www.euro-math-soc.eu/
+http://isi-web.org/
+
+Clara-Cecilie Günther
+Kasserer nsf
+Telefon: 22 85 25 63
+Betalingsinformasjon
+
+GIRO
+
+Betalingsfrist
+
+20.08.2013
+
+Underskrift ved girering
+
+Kontingent NSF 2013 for [Navnet ditt]
+
+Betalt av
+
+Betalt til
+
+NSF ved Clara-Cecilie Günther
+Norsk Regnesentral
+Postboks 114 Blindern
+0314 Oslo
+Belast
+konto
+Kundeidentifikasjon (KID)
+
+H
+
+Kvittering
+tilbake
+
+Kroner
+
+200
+
+Øre
+
+Til konto
+
+00
+
+0530 27 73299
+
+Blankettnummer
+
+
+
+
+
+Avsender
+Norsk statistisk forening
+v/Clara-Cecilie Günther
+Norsk Regnesentral
+Postboks 114 Blindern
+0314 Oslo
+
+Redaksjon
+Anne Marie Fenstad
+Karl Ove Hufthammer
+Bård Støve
+
+
+

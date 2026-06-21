@@ -1,0 +1,1652 @@
+ISSN 0803-8953
+
+TILFELDIG GANG
+Nr. 3, årgang 19
+Oktober 2002
+
+Utgitt av Norsk Statistisk Forening
+
+Frå redaktøren. JOnNuRySsedal SN
+Fraleiar
+
+INSE. Andre Teighard 620 coe ae.
+
+cence heen
+
+as axe ee
+
+eee
+
+Fagleg stoff
+The Oslo joint Centre for Advanced Statistical Research did not succeed to
+
+become a Norwegian Centre of Excellence. Arnoldo Frigessi
+Systematisk kvalitetsarbeid. Hans Viggo Seb¢
+Statistikk i næringslivet
+
+Seks år i smelteverksindustrien. Noen erfaringer og tanker ved et veiskille.
+Audun Kvamme ce che sres os
+Rapport frå konferansar
+Statistikkundervisning som konferansetema-og muligens også som
+forskiinestema IvarHeuch. «2-1
+Nordstat 2002. Mette Langaas, Jo Eidsvik og Turid Follestad. ................
+
+Mathematical Methods in Reliability. Bo Lindqvist
+Puslerispalten
+Puslerrnr WM Jostem Lillestgl:
+
+SN
+
+NN
+
+Egysing av pusiermnr 10. Jostembillesøl 2.090.802
+esas
+Konferansar, meldingar og anna
+Det 12. Norske Statistikermøte ved Hurdalsjøen, 16-18. juni 2003. ..........
+SPRUGE VI kund? 15-19 10012003
+
+Nyt fra Universe
+
+OD 2.02 ia. see eae meses
+
+Nyttfra Universiteter
+
+Bergen SSS
+
+cay ee
+
+NENNE
+Medlemskap i Norsk statistisk førenne ss
+
+
+
+
+
+Redaksjon:
+
+John Tyssedal (redaktør)
+|
+
+Bo Lindqvist
+Stian Lydersen
+
+Henning Omre
+Inge Olsen
+
+Adresse til redaksjonen:
+John Tyssedal
+Institutt for matematiske fag, NTNU
+Alfred Getz vei 1
+
+7491 Trondheim
+Tlf: 73 59 35 34
+Fax: 73 59 35 24
+e-post: tyssedal
+@ stat.ntnu.no
+Trykking og utsending av TG blir utført av
+
+Statistisk Sentralbyrå.
+Bidrag til Tilfeldig Gang:
+Alle slags bidrag til bladet er velkomne, anten det gjeld nye tema av interesse for norske
+statistikarar eller ein har kommentarar til innlegg som alt står i bladet. Stoff til neste
+nummer må vere redaksjonen i hende innan 01.01.2003.
+
+Det greiaste er at stoffet blir sendt inn som Word-fil (Word 97 eller lågare versjon) til epost adressa til redaktøren, sjå ovanfor. Andre typar format vil og normalt bli akseptert.
+
+Nettversjon av TG, er å finne på følgjande internettadresse:
+www.math.uio.no/nsf/web/index.htm . Det som leverer bidrag til TG og som ynskjer å
+reservere seg mot at bidraget blir lagt ut på nettet, må gje beskjed om dette ved
+innsending av stoff.
+NSF har og si eiga mailingliste, nsf-forum@math.uio.no. Informasjon finst på
+Nsf-forum Info Page, internettadresse: www.math.uio.no/nsf/ . Der får du og vite korleis
+
+du kan melde deg på.
+
+
+
+Frå redaktøren
+
+Med nokre ti-år bak meg i det norske statistikkmiljø hugsar eg tilbake til dei første
+nummera av TG. Johan Heldal var redaktør i ei årrekke. På kontoret mitt har eg enno ein
+god del av desse nummera. Ei komplett samling finst på Universitet i Oslo.
+
+Det er ikkje vanskeleg å sjå at TG har hatt ei utvikling på desse åra. Fagleg stoff fekk for
+alvor ein fast plass i bladet i perioden 1989-91 med Ivar Heuch som redaktør. Eg vonar at
+eg ikkje gjer andre redaktørar stor urett når eg seier at Ivar bringa TG opp på eit nivå som
+andre redaktørar har streva med å halde vedlike. Det kan no vere på tid å vurdere om TG
+skal førast enno eit steg vidare, og bli eit blad som kan verke motiverande og
+rekrutterande utover våre eigne rekkjer, sjå elles spalta frå formannen. Isåfall er dette i
+
+tråd med uttalt felles ambisjon til det sitjande styret: "Å bidra til rekruttering og
+profilering av nytteverdieni statistikkfaget". Ein debatt om dette er kjærkomen, men den
+må og ta omsyn til kva dette kostar av tid og ressursbruk av dei som skal drive arbeidet.
+
+Saman med matematikk har statistikk-faget vore gjennom ei forskningsevaluering. Alle
+statistikkmiljø er sikkert ikkje like nøgde med utfallet. Men ser ein bort ifrå at vi er inne i
+ein
+
+periode
+
+med
+
+rekrutteringsproblem,
+
+så
+
+vel
+
+eg
+
+å
+
+lese
+
+rapporten
+
+som
+
+om
+
+allmenntilstanden til norsk statistikkforskning er god. Dette bør gje inspirasjon for vidare
+
+arbeid og vere ei lita trøst til dei som noko uforståeleg fekk erfare at statistikkfaget ikkje
+
+nådde oppi siste runde ved tildeling av SFF-midlar. Såvidt eg veit er berre ein statistikar
+involvert i SFF senter.
+
+Den normale konferansetida er over, og de kan i dette nummeret lese rike skildringar frå
+ICOTS 6, Nordstat 2002 og MMR 2002 somi tillegg har med bileter. Dette saman med
+meir stoff om bruk av statistikk i kvalitetsarbeid
+arbeidslivet. Det burde vere noko for alle
+
+John Tyssedal
+
+og eit innlegg om bruk av statistikk i
+
+
+
+Kjære medlemmer!
+Hvordan gjør vi statistikerens rolle bedre kjent?
+
+Mange av oss har nok stilt oss dette spørsmålet. Nå er det forresten ikke så ille som vi
+kanskje tror. I mange anvendelsesmiljøer et statistikere meget vel ansett som en viktig
+medspiller på laget. Innen medisin har man lenge sett at objektive metoder er
+grunnleggende for å verifisere virkning av nye behandlinger, der står statistikerne
+sterkt, og også i helt andre sektorer, som for eksempel finansverdenen, er
+etterspørselen etter vår kompetanse sterkt økende.
+Men uansett; hvordan kan vi gjøre vår rolle enda bedre kjent?
+Styret i NSF opplever mange engasjerte medlemmer som er genuint opptatt av faget
+vårt og vår samfunnsmisjon. Et forslag vi har mottatt går ut på å satse mere offensivt
+gjennom en mere "fancy" versjon av TG. Der bladet ikke bare skal være internt for
+oss selv, men også kunne virke motiverende og rekrutterende utover våre egne
+kretser. Annonser og artikler, bildebruk, trykkvalitet og layout; idéene er mange.
+
+Vi er veldig glad for denne typen innspill. Nå ønsket ikke NSF umiddelbart å gjøre en
+endring av TG. Det er mange gode grunner for å beholde TG som idag, og som et
+blad beregnet på oss statistikere, synes vi kvaliteten er svært bra ©. Men vi ønsker å
+reise en mere omfattende debatt om hvilke virkemidler vi bør ta i bruk for å synes
+mere. Endring av TG kan være en mulighet, det finnes sikkert mange andre. Vi tar
+gjerne i mot innspill gjennom innlegg i TG!
+
+Med de beste ønsker for høsten,
+André Teigland
+
+
+
+The Oslo Joint Centre for Advanced Statistical Research
+did *not* succeed to become a Norwegian Centre of Excellence
+Arnoldo Frigessi, Norsk Regnesentral
+4 September 2002
+
+In the last issue of TG, I reported that the Norwegian Computing Centre (NR) and the
+statisticians of the Department of Mathematics and of the Medical Statistics Section at U10
+had applied to Norges forskningsrad (NFR) to create a Centre of Excellence (Senter for
+
+fremragende forskning - SFF) and that our proposal was among the 40 ones chosen for final
+selection. In June the selection was made. As many of you know, we did not make it!
+
+This is bad news. The centre would have béen an exciting experience for all the participants
+and a benefit of the whole statistical community. We have to be proud that we were judged
+strong enough to be in the final round. The list of created centres’ seems very reasonable and
+strong. It is clear that these centres cover disciplines and applied areas which are important for
+Norway. Without having seen the applications themselves, we can probably safely believe
+that most applicants and plans were of very high quality, as judged by international referees.
+In fact, so was our application too. Every application was judged by four anonymous referees.
+
+I cite now (without positive bias!?) from our four reports:
+
+Excerpt from referee I (total. I page)
+
+This is a high quality proposal in ... The proposal includes areas where the researchers have proven their
+strength, such as ... The scientific level of the researchers in this proposal is very high. They have publications in
+the best international journals and they have made important contributions to statistics ... The ["planned”] PhD
+programme is an excellent educational programme...... [It follows a discussion of the four scientific themes.] In
+
+summary, this is an exceptional proposal highly deserving the support requested.
+Excerpt from referee 2 (total 2,5 pages)
+
+... The statisticians in Oslo represent well the role of modern statistics. They can be characterised as
+internationally well established statisticians ... active in a number of the currently most significant and most
+quickly growing fields of statistical research and their applications. ... Each key person shows a healthy blend of
+theory and applications and of experience and creativity. ... The application has an impressive list of more
+specific potential tasks ... It is clear that the applicants are not only in the research frontier but also have plenty
+of ideas to pursue. Iam convinced that the centre will have a potential for a lot of interesting research in the
+four research areas, fruitful to applications. ... [I drop here many positive opinions on named scientists and on
+the proposed leader, on NR as host institute, on the planned PhD, on international activities and networks. ]
+Excerpt from referee 3 (total 1,5 pages)
+
+An “Oslo Joint Centre” for statistics is an excellent way to increase the efficiency of three strong statistics unit
+that are present in Oslo, ... These three groups all contain internationally recognised researchers, who have
+contributed significantly to the development of modern statistics. The four themes of the project, ..., all represent
+the mainstream of modern Statistics... The creation of the centre would be of great value for the international
+statistic community and contribute in a laudable way to the interaction between statistics and the society at
+large. ... The proposed research represents the best of modern statistics. The strongest ideas are in my opinion...
+I regard the high level of interdisciplinary work as characteristic of the excellent scientific quality of the
+proposal. ... The collective statistical expertise of the core staff of the centre ... is impressive and the centre
+leader is a very experienced project leader. The groups had contributed to present-day standard methods ...
+[More on topics, interdisciplinary, PhD plan, NR] Summary: an excellent proposal.
+
+I http://www.forskningsradet.no/nyheter/pressestoff/pressemeld/pressemelding.html/73
+* I am not dropping negative opinions (there aren’t any!) but skip mote descriptive parts
+which do not include judgments. The full text is not in electronic form and is available on
+request. Email to frigessi@nr-.no. In parenthesis [
+
+7
+
+] there are some detailes of the omissis.
+
+
+
+Excerpt from referee 4 (total 2,5 pages)
+
+... [On the usefulness ofstatistics in general.] ... Any country should have a strong statistical society which is in
+close cooperation with the applied sciences, industry and society, in order to react on demand. ... The submitted
+plan has a general-level objective in addition to detailed research objectives, to become one of Europe's
+leading research centres in statistics. What will be explained below, this objective is realistic. Summing up, the
+profile of the plan is centrally along the schemes of centres of excellence. ..
+Themes 4 and I [of the proposal]
+
+are outstandingin the light ofprevious work andin problem-setting. Theme 2 is very strong. Theme 3 is of
+
+current interest. Theme 1... is exceptional. The proposed research is modern, theoretically sound and respects
+the needs arising from applied studies. ... The main topics, medical research and epidemiology are
+internationally important. Marine biology is especially centralfor Norway. The core scientists have participated
+to applied work, have close connection to applied scientists and NR is internationally strong in organising and
+performing applied and application-oriented work. Hence the quality and the value of the application can be
+expected to be of high level. ...[On core scientists.] As a summary, this is an extraordinary strong team in
+statistics with complementary expertise and owing activities in applied statistical work. [PhD] I estimate the
+potential of the consortium allows a larger amount ofPhD students [than the three new appointments per year
+
+planned *].[Management is well planned] The research environment and the infrastructure are, beside the
+
+scientific level, the major strength ofthe planned centre. ... In general the structure planned is almost ideal
+along the SFF objectives. Conclusion: High level ofparticipating scientist, experience in application driven
+research in statistics at NR and UiO, size and scientific atmosphere of the consortium, extensive and living
+connections to applied institutes and industry, a planned programme for a PhD and post doc training and
+extensive researchers’ exchange programme are characteristics for the plan to create the centre. ... I do not
+hesitate in giving good grades for this excellent plan.
+
+Quite positive reports, aren’t they? So what happened?
+To try to formulate a hypothesis we need to recall the procedure used by NFR to proceed in
+
+the selection. This procedure was well planned, allowingin my opinion a quality based
+
+choice. On the basis of the referee reports” a specially appointed SFF vitenskapelige komite”:
+“har foretatt en samlet vurdering og instilling av søknadene basert på vitenskapelig kvalitet.
+Den vitenskapelige komite etablerte tre undergrupper for Life Sciences and environment,
+Culture and society og Science and technology. Undergruppenes separate vurdering ble
+etterfulgt av en samplet vurdering i plenum. Ved bedømmelsen tok komiteen ikke bare
+hensyn til uttalelsene fra de utenlandske eksperter, men også komiteens selvstendige
+oppfatning av den enkelte søknad. Videre la komiteen vekt på forskjellige tradisjoner innenfor
+ulike fag med hensyn til publiseringspraksis, og dessuten graden av internasjonal konkurranse
+innenfor det aktuelle felt. Den vitenskapelige komite konkluderte med at fem søknader var
+
+karakterisert som “exceptionally high scientific quality”. I tillegg var det seks søknader som
+ble beskrevet som “clearly excellent”, men som med hensyn på vitenskapelig kvalitet ble
+bedømt å ligge noe under de fem første. I gradering av de derpå følgende søknader,
+konstaterte komiteen at det var en distinkt forskjell mellom den første søknaden i denne
+gruppen og den siste av de tyve beste med hensyn på vitenskapelig kvalitet.”
+We learn from this that our application was not considered "clearly excellent”, though the
+referees apparently thought so. I am surprised about the fact that there were such differences
+between 40 otherwise overall strong applications. It is of course possible that other
+
+3 This is the most negative statement among the 4 reports. Note that Referee 2 writes that the
+number of PhD students is realistic.
+
+*... and on the basis of points assigned by each referee to the project: these points are not
+known to the applicants, however. NFR justifies this with the argument that the points were
+not used in a coherent way by the referees, due to the uncertainty in their interpretation and
+ditferent traditions. This is in fact a good decision, I would say. In any case I guess that our
+four referees gave us high grades.
+
+I... citing from the letter from NFR 28 June 2002 in which we are told that we lost.
+
+
+
+applications got even more positive and enthusiastic referee reports than we got, though this
+seems to me unlikely. If this was the case, I would consider this an aspect of different
+traditions in refereeing within the various fields. Anyhow, the vitenskapelig komite thought
+our plan was less than clearly excellent. Why?
+Who was appointed to the vitenskapelige komite? Citing from NFR’s information: "Den
+vitenskapelige komiteen består av medlemmer med vid faglig horisont og stor erfaring i å
+vurdere vitenskap på høyt nivå. Komitéen vil i sin bedømmelse av søknadsmassen bygge på
+de evalueringene som fagekspertene har foretatt av hver søknad.” Here are the areas of
+expertise of the actual members: plant physiology, political science/sociology, IKT, materials
+processing, molecular cell biology, physics/mechanical engineering, clinical biochemistry,
+agricultural science, aquaculture, industrial economy, history. No mathematics, no statistics.
+Little medicine. Somebody mentioned to me that it was possible to see a direct match between
+the 11 created centres and these areas. I do not see such a consistent link and I find the areas
+well chosen in any case. Another informed person told me that many of these experts are well
+acquainted with Norwegian research-political constrains and wishes. Before appointing the
+committee, NFR sent very properly the list of these members to all applicants for comments.
+We decided not to comment on the fact that our discipline was missing. Of course I was
+concerned about the fact that this committee would have no member in our area, but how
+could all disciplines be covered in any case? I did mention in a meeting with NFR the fact that
+
+many disciplines were missing in this committee, and I was reassured that this issue was
+recognised and that these experienced scientists were absolutely able to cope with their partial
+lack of competence, without partialities towards their own discipline. Did this happen?
+We also get to know that the final appointment of the 13 winners followed the decision of the
+vitenskapelige committee, though 2 further centres were added to the 11 ones, to cover all
+areas of strategic research (i.e. medicine, marine biology, IKT, energy and environment). Of
+
+course our application also has some scientific weaknesses, which were not highlighted by the
+four referees. Possibly, but unlikely, these could have been detected by the vitenskapelige
+komite. I have not read the motivation of the vitenskapelige komite . “Instllingen fra den
+vitenskapelige komite inngar som en del av den interne saksbehandlingen og er unntatt
+offentlighet.” says NFR. I find this a totally wrong decision, which prevents us to understand
+
+the reasons that lead to the decision. In our case, the choices of the vitenskapelige komite
+have been critical while from the referee reports we see nothing more than strong support. A
+recent document of NFR, Forskningsrådets forbedringsprogram, says that currently there is a
+“magelfull dialog med søkerne ... i forbindelse med avslag også etter at
+bevilgningsbeslutningen er fallet.“ This is certainly true in our specific case. Despite the
+official intension to improve on this issue, NFR has refused to give any other information.
+This is disappointing in light of the considerable investment put into the application work.
+The vitenskapelige komite had its own opinions. I would then say that in the competition, we
+
+lost because of some fundamental judgement about our discipline in general and in
+comparison with the other ones. The committee did not show any partiality in favour of their
+own disciplines, but they did express comparative opinions on the other disciplines. Are we a
+too small science? Are we less important than, say linguistics or mathematics? I am sure
+many reader will share the opinion with me, that we often encounter a strong negative bias, a
+prejudice, towards statistics. It has happened to me several times that scientists, with
+otherwise high reputation, would question the role and usefulness of statistics per se. I would
+not be surprised to hear that a plant physiologist, a chemist, an engineer, a political scientist or
+an economist would consider statistics as ancillary to other sciences, also in comparison to the
+
+
+
+larger area of mathematics. This is in crude words what the committee might have thought:
+“This is a good proposal, they are strong, internally in their community they are considered as
+excellent and internationally leading, but in a broader setting, statistics does not contribute
+visibly enough to scientific and technological progress, as compared to other disciplines.
+Hence they should not become an SFF. Better go for maths, that is so fundamental for all
+other sciences.” I think it is important to understand which criteria have been used in the
+ranking: scientific according to referees, cultural according to non-experts, research political.
+Lack of information or misleading information is not acceptable.
+
+On TG, I wrote two years ago that “ ... it is rare that mathematicians or statisticians will
+discover a new law of nature, because, say, the biologist in question will understand it before
+us, following a different intellectual path. However, we contribute to confirming or
+
+disproving theories, quantifying feasibility constraints, predicting future developments under
+unclear initial conditions, etc. By formalising, synthesising and mathematical modelling we
+are able to find general properties. Statistics provides the quantitative methodology to most
+disciplines collecting data and we are very useful members in the team, not leaders. To be
+fully respected, we must be prepared to be judged by criteria that lie outside statistics,
+according to standards that we ourselves have not created.”
+
+This is what I believe has happened in the case of our application. All three criteria (scientific,
+cultural, research political) are acceptable. We just need to know about their relative
+significance in the ranking: a mix of the three criteria - again: though perfectly acceptable - is
+not the same as just scientific quality.
+
+What do we learn for the future? First, we have to enhance visibility of statistics as a nonsubstitutable tool to reach results and progress sciences and technology. We need a strategy
+and a concrete operational plan for this, and Norsk Statistisk Forening should take the lead
+and really be active in this . We have much to learn from our cousins mathematicians on P.R.!
+Second we have to enter more co-operations with other disciplines, to prove our usefulness.
+Also here we would need a plan, which could include, for example, interdisciplinary
+workshops, specially targeted educational programmes, joint funding, etc. Third, we need to
+be more present in the research-political arena. Fourth we need to support the efforts inside
+NFR to have more transparent procedures. Last but not least, we need to make sure that our
+competence is well represented in committees. In the short term, the biggest challenge is how
+to reach at least some of the scientific and structural aims we described in the proposal for the
+
+Oslo Joint Centre for Advanced Statistical Research.°
+
+° Contact me if you want to read the full proposal. E-mail: frigessi Onr.no.
+
+/
+
+
+
+Hans Viggo Sæbø, Statistisk sentralbyrå
+E-mail: hvs@ssb.no
+
+Systematisk kvalitetsarbeid
+Jeg har med interesse lest innleggene fra Øystein Evandt (TG nr 1 og 2 i år) og Asbjørn Aune (TG nr
+2) om konsepter for systematisk kvalitetsarbeid generelt og Six Sigma spesielt. En grunn til å diskutere
+
+dette i TG er selvsagt den rollen statistikk og statistiske metoder spiller eller bør spille i denne
+sammenhengen. En grunn for meg til å kommentere dette er også at systematisk kvalitetsarbeid og
+prinsipper
+for dette de senere årene også er kommet på i fokus i de fleste nasjonale statistikkbyråer,
+som en metode eller et hjelpemiddel for å sikre og forbedre kvaliteten i vårt eget arbeid. Jeg vil
+kommentere noen av punktene Evandt og Aune tar opp basert på erfaringer fra det systematiske
+kvalitetsarbeidet i Statistisk sentralbyrå. Jeg vil også ta opp noen av prinsippene i dette som ikke er
+berørt i disse innleggene.
+
+Konsepter som kommer og går
+Et hovedpunkt i de foregående innleggene er hvorvidt noen konsepter eller modeller for
+kvalitetsarbeid, som Six Sigma eller TQM (Total Quality Management) er bedre egnet til å forbede en
+bedrifts produkter og effektivitet enn andre. I statistikkbyråene har en støttet seg til ulike modeller,
+
+men først og fremst til TQM. Arbeidet i Statistisk sentralbyrå med systematisk kvalitetsarbeid som har
+pågått de siste to årene er inspirert av tilsvarende arbeid i andre statistikkbyråer, spesielt det svenske
+som satte i gang et stort TQM-prosjekt allerede i 1994. Men nettopp fordi det fins ulike konsepter som
+har en tendens til å komme og gå uten at prinsippene endres i vesentlig grad, har vi bevisst valgt bare å
+bruke betegnelsen systematisk kvalitetsarbeid. Det europeiske statistikkbyrået Eurostat anbefaler
+medlemsladene (inkludert EØS-landene) å bruke EFQM-modellen (European Foundation for Quality
+Management, et slags europeisk svar på TQM meni stor grad basert på de samme prinsippene), men
+sier samtidig at det viktigste er at en arbeider systematisk med kvalitet. Også det svenske
+statistikkbyrået skiftet fra TQM til den nøytrale betegnelsen systematisk kvalitetsarbeid i fjor. Det
+viktige er ikke bokstavforkortelsene for konseptene men de bakenforliggende prinsippene og innholdet
+i arbeidet, i tillegg til systematikken.
+
+Prinsipper for systematisk kvalitetsarbeid i Statistisk sentralbyrå
+Statistisk sentralbyrå har selvsagt alltid arbeidet med kvalitet. Det nye er systematikken basert på
+
+tankemodeller som TQM. Derfor er det som Aune påpeker viktig å bygge på det som er gjort, og vi
+setter nå eksisterende kvalitetsarbeid inn i en felles ramme. Eksempler på tradisjonelt kvalitetsarbeid
+er arbeid med brukerkontakt og brukerundersøkelser, feilretting (revisjon) og kontrollrutiner,
+håndbøker (beskrivelse av beste metoder eller praksis) og dokumentasjon, utvikling og måling av
+resultatindikatorer for rapportering og styring samt den interne opplæringsvirksomheten som bla.
+omfatter ledelse og prosjektarbeid.
+
+Følgende prinsipper eller stikkord karakteriserer det systematiske kvalitetsarbeidet i Statistisk
+sentralbyrå:
+
+e — Brukerorientering: Det er brukernes behov som definerer kvalitet i statistikken (se under).
+e — Prosessorientering: Forbedringer krever kontroll med og endringer 1 prosessene.
+Dokumentasjon av og data om prosessene samt bruk av statistisk metodikk er viktig (jamfør
+statistisk prosesskontroll - SPC). Innovasjon er også et stikkord i denne sammenhengen
+(jamfør forsøksdesign).
+
+e
+
+Prosjckt- og teamarbeid står sentralt.
+
+e — Trivsel blant de ansatte er også en viktig side ved et systematisk kvalitetsarbeid.
+
+
+
+e
+
+Systematisk kvalitetsarbeid dreier seg om holdning og metodikk og skal drives kontinuerlig.
+
+Dokumentasjon av både brukerbehov, produkter og prosesser er en forutsetning for å opprettholde og
+forbedre kvaliteten. En positiv og engasjert ledelse er naturligvis en forutsetning for å lykkes med
+systematisk kvalitetsarbeid som med alle andre aktiviteter som involverer hele organisasjonen.
+
+Når det gjelder brukerbehovene som utgangspunkt for å definere kvalitet, er dette et felles fundament
+for de fleste kvalitetsmodeller, meni liten grad berørt i de foregående innleggene. Dette er kanskje
+selvfølgelig i en bedrift som lever av å selge produktene sine i et marked. Men jeg tror alle
+virksomheter, private som offentlige, har godt av å tenke gjennom bruker- eller kundebehovene en
+
+gang iblant. For å kartlegge disse brukes jo i stor grad markedsundersøkelser som også representerer et
+område av interesse for statistikere.
+
+Statistisk sentralbyrå har ikke gjennomført regelmessige undersøkelser av alle brukeres
+statistikkbehov. Vi deltar imidlertid i den såkalte "tiltroundersøkelsen" der et utvalg av befolkningen
+regelmessig angir graden av tillit til ulike offentlige og private institusjoner. Vi fører ellers statistikk
+over bruken av web-sidene våre, og loggfører ulike former for brukerkontakt som henvendelser og
+møter i rådgivende utvalg for statistikkproduksjon. En ny og nyttig indikator er bruken av statistikken
+vår i media basert på oversikter og henvisninger til artikler som viser til SSB på Internett (på de ulike
+medienes web-tjenester).
+
+Når det gjelder kvalitet i (den offisielle) statistikken, altså statistikkbyråenes hovedprodukt, har det
+europeiske statistikkbyrået Eurostat kommet fram til en del faktorer avledet av brukerbehovene. Vi har
+tillempet disse for egen bruk:
+
+e
+
+Relevans og dekning
+Nøyaktighet
+
+Aktualitet og punktlighet
+Sammenliknbarhet og sammenheng
+
+Tilgjengelighet og klarhet
+
+Det kan diskuteres om kostnader er kvalitetsdimensjon i seg selv. Sikkert er det imidlertid at
+
+kostnadene setter en ramme for hva en kan oppnå mht. faktorene over, og at kostnadene alltid må
+vurderes sammen med disse. For et statistikkbyrå forutsettes det ellers at datasikkerheten ivaretas.
+Oppgavebyrden er også en kvalitetsindikator fordi den bidrar til samfunnets kostnader knyttet til
+
+statistikkproduksjon.
+Alle SSBs statistikker blir nå fulgt av en systematisk dokumentasjon på Internett, hvor det skal gjøres
+rede for de fleste av faktorene over ("Om statistikken"). Dokumentasjonskravet som ligger her virker
+disiplinerende på statistikkproduksjonen, dokumentasjonen kan gi grunnlag for kvalitetsrapportering
+
+til for eksempel Eurostat, og den er en kilde for å hente stoff til interne rapporter/styringsdokumenter
+fra. Vi har gode oversikter over aktualiteten (tid fra utløpet av den perioden en statistikk gjelder for til
+den frigis) og punkligheten (om den kommer når den er varslet i følge en statistikkalender). For andre
+faktorer gjenstår det mye arbeid før dokumentasjonen blir tilfredsstillende. Dette gjelder for eksempel
+
+for nøyaktigheten når det gjelder virkningen av andre feilkilder enn eventuell utvalgsfeil. En
+metodestatistiker er tradisjonelt opptatt av nøyaktigheten. Denne må imidlertid alltid veies mot de
+andre kvalitetskriteriene og ikke minst mot kostnadene.
+Statistisk sentralbyrås nye strategiplan, Strategi 2002-, er basert på brukerorienteringen og
+kvalitetsprinsippene som følger av denne (se www.ssb.no/omssb/strategi).
+
+
+
+Opplæring og prosjektarbeid
+Alle ledere i Statistisk sentralbyrå har fått 2 dagers kurs i kvalitetsarbeid (1 alt om lag 50 topp- og
+mellomledere inkludert lederne i fagforeningene). Da TQM ble innført i det svenske statistikkbyrået
+fikk bare toppledelsen en slik innføring. Det viste seg å være en tabbe, da det er mellomlederne som
+sitter med kontrollen over (den daglige) ressursbruken.
+Våren 2001 utdannet vi 18 såkalte kvalitetsloser med støtte av det amerikanske statistikk- og
+konsulentselskapet Westat. Den organiserte opplæringen foregikk på 3 samlinger hver på 1-2 dager,
+og omfattet kvalitetsbegrepet, bruk av verktøy som prosess- og fiskebeinsdiagram for å kartlegge
+prosesser, teamarbeid og kommunikasjon, bruk av enkle statistiske teknikker for å kontrollere og
+redusere variasjon i prosessvariable og skille spesielle årsaker fra tilfeldig støy.
+Kvalitetslosene skal delta som rådgivere i prosjekter, og 4 prosjekter som ble kjørt parallelt med kurset
+ble brukt for å demonstrere losenes rolle i prosjekter. Disse kan tjene som eksempler på bredden i
+forbedringsprosjekter som skal dekke alle sider av Statistisk sentralbyrås virksomhet:
+e
+
+Noyaktighet og grenseverdier (for eksempel for frafall) i kvalitetskontroll av
+konsumprisindeksen
+
+e
+
+Dokumentasjonsprosessen i levekårsundersøkelsen
+
+e
+
+Datarevisjon i utvalgtellinga i landbruket
+
+. @
+
+Rekrutterings og ansettelsesprosesseni Statistisk sentralbyrå
+
+I løpet av det første året siden loskurset er det påbegynt eller gjennomført om lag 30 prosjekter med
+kvalitetslos i Statistisk sentralbyrå. Losene deltar i prosjektmøter, men prosjektene kjøres ellers som
+vanlig med prosjektleder og prosjektdeltakere. Det legges imidlertid vekt på at prosjektteamene er
+bredt sammensatt av folk med ulike bakgrunn og kompetanse. Losene kommer derfor vanligvis fra
+andre seksjoner eller avdelinger enn prosjektlederne. De har ingen prestisje i eksisterende løsninger og
+kan lettere enn andre prosjektdeltakere stille "dumme" spørsmål. Rollen er rådgivende, og losen skal
+inspirere og lære opp prosjektteamet i kvalitetsarbeid. Rollen kan ellers kanskje best beskrives ved
+hjelp av en liste av spørsmål de gjerne stiller:
+e
+
+Hvem er brukere eller kunder?
+Hvilke behov eller krav har de?
+Hvilke kvalitetsindikatorer fins?
+
+Hvilke prosesser består prosjektet eller de rutinene dette skal forbedre av?
+Hvem er ansvarlige for prosessene?
+
+Hvem er bruker av prosessene og hvem gir input?
+Er prosessene dokumentert?
+
+Hvilke data fins om prosjektet og prosessene og hvilke nye data kan vi registrere?
+
+Hvordan utnytte data (ved hjelp av statistiske metoder) til å vurdere og foreslå forbedringer?
+Et av prosjektene som er gjennomført med kvalitetslos er en trivselsundersøkelse blant alle ansatte.
+Denne typen undersøkelser inngår vanligvis i et systematisk kvalitetsarbeid.
+
+Av ressursgrunner kan ikke alle i en stor organisasjon som Statistisk sentralbyrå få kvalitetsopplæring
+
+med en gang, og opplegget med kvalitetsloser som deltar i prosjekter er en måte å spre budskapet på
+samtidig som losene har en spesiell rolle i organisasjonens kvalitetsarbeid. De kan sammenliknes med
+
+personene med spesiell kvalitetsutdaning i Six Sigma beskrevet i Evandts artikkel i TG nr. 1 2002,
+som "Black belts". I motsetning til disse er imidlertid ikke spesifikt kvalitetsarbeid hovedarbeidet for
+kvalitetslosene. Deltakelse som rådgivere i prosjekter kommeri tillegg til losenes vanlige arbeid i
+organisasjonen. Dette gjør det imidlertid lettere å få aksept fra (mellom)lederne for at gode
+medarbeidere får kvalitetsopplæring og spesielle roller i tilknytning til kvalitetsarbeid.
+
+/0
+
+
+
+Erfaringer og utfordringer
+
+Erfaringene med kvalitetsloser så langt varierer, men er i hovedsak positive. De er kartlagt i en
+spørreundersøkelse som omfatter både lederne for prosjekter med kvalitetslos og losene selv. Spesielt
+har vi gode erfaringer med å vurdere brukerbehov, med å involvere alle interessenter i prosjektene og
+med å diskutere forbedringer basert på prosessdiagram. Statistiske metoder og analyse har imidlertid
+blitt brukt i mindre grad enn ønskelig. Dette gjelder særlig i utviklingsprosjekter og grunnen er
+åpenbar: Mangel på data fra målte prosessvariable. Dette understreker betydningen av å definere og
+måle prosessvariable som et grunnlag for framtidige forbedringsprosjekter.
+
+Det utdannes et nytt kull av ca. 20 kvalitetsloser høsten 2002. Blant disse er innpå halvparten
+metodestastistikere. Dette fordi vi ønsker å bruke denne ekspertisen mer aktivt i kvalitetsarbeidet og
+sette bruk av statistiske metoder mer i fokus, men også fordi det etter hvert bør være grunnlag for mer
+metodebruk på basis av data.
+
+Innovasjon er viktig i Statistisk sentralbyrå, og det er en utfordring å få bedre nytte av det systematiske
+kvalitetsarbeidet i utviklingsprosjekter hvor en ikke kan nytte data om eksisterende rutiner. Her er
+CBM ("Current Best Method") eller "Best practices" nøkkelord. Statistisk sentralbyrå har utviklet
+håndbøker som beskriver slike metoder på enkelte områder (som datarevisjon), men her er mye ugjort.
+Et standardspørsmål i ethvert utviklingsprosjekt er ellers hvordan tilsvarende oppgaver løses i andre
+land, spesielt de nordiske, samt selvsagt om liknende oppgaver løses i andre deler av egen
+organisasjon.
+
+Desto flere prosjekter som kjøres med kvalitetsloser desto viktigere blir det å prioritere og velge de
+beste prosjektene først, dvs. de prosjektene som har størst sjanse for å lykkes og som bidrar mest til
+kvalitetsforbedringer eller effektivisering/kostnadsbesparelser.
+
+Kvalitetsarbeidet innarbeides i alle opplæringsprogrammeri Statistisk sentralbyrå. Dette gjelder for
+eksempel lederopplæring og kurs i prosjekt- og teamarbeid.
+
+Sluttord
+Det systematiske kvalitetsarbeidet i Statistisk sentralbyrå bør være et godt eksempel på at det er
+innholdet/prinsippene og systematikken som er viktig i denne sammenhengen, ikke hvilke forkortelser
+eller andre betegnelser som brukes for å karakterisere arbeidet. Aune sier ja til nye ideer og verktøy nei til programmer. Jeg synes ikke det er viktig om arbeidet kalles et program eller ikke, det er
+imidlertid viktig at det er langsiktig og drives kontinuerlig. Det kreveri tillegg til engasjert ledelse en
+viss koordinering. Opplegget SSB har valgt med kvalitetsloser som deltar i prosjekter er typisk for
+flere av forbedringsprogrammene. Målet er imidlertid å få kvalitetstankegangen inni alle prosjekter,
+og det er mulig at losene på sikt vil kunne overflødiggjøre seg selv.
+Det kan virke frustrerende på (metode)statistikere at vi i første fase av det systematiske
+kvalitetsarbeidet har hatt liten bruk for denne type innsikt. Losene har ofte måttet nøye seg med å
+påpeke og foreslå at en må starte å måle eller dokumentere prosessvariable for å kunne analysere og
+kontrollere prosessene i neste omgang. Som nevnt satser vi sterkt på metodestatistikere som loser i
+årets utdanning, og de vil forhåpentligvis ha mye å bidra med innen sitt fagområde også innen det
+systematiske kvalitetsarbeidet. I tillegg til statistisk prosesskontroll bør forsøksdesign bli mer sentralt i
+utviklingsprosjekter. Slike prosjekter er det mange av i Statistisk sentralbyrå.
+
+//
+
+
+
+Seks år i smelteverksindustrien. Noen erfaringer og tanker ved et
+veiskille...
+
+"3
+
+2002 - et nytt år — nye muligheter. Utsagnet er utgangspunktet i høyeste grad når jeg skriver
+dette etter overgangen til et nytt år hvor jeg star ved et veiskille; skifte av arbeidsgiver. Etter 6
+år ansatt i Elkem: — en av. verdens største leverandører av ferrolegeringer — går jeg inn i Norske
+Skog — en av verdens største produsenter av avis- og magasinpapir.
+Etter endt utdanning ved Institutt for Matematiske Fag høsten 1995 kom tilbudet om trainee-
+
+stilling i Elkem. Konsernet satset stort på å bygge opp ny kompetanse fra andre miljø enn
+tradisjonell metallurgi. I så måte var jeg den første som ble ansatt i Elkem med bakgrunn som
+statistiker. Etter et års tid var vi tre traineer med samme bakgrunn som sammen med faglig
+konsulentbistand fra John Tyssedal (IMF) formet det som skulle bli Elkem Statistikkforum —
+
+et forum for faglige diskusjoner på tvers av Elkems smelteverk i Norge. Både for å overføre
+teknologi, men også for å ivareta og utvikle vår egen faglige kompetanse.
+I 1998 innledet Elkem et samarbeid med det amerikanske firmaet Shainin LLC. Dette besto i
+opplæring
+
+og
+
+bruk
+
+av
+
+statistiske
+
+metoder
+
+innen
+
+problemløsning
+
+og
+
+kontinuerlig
+
+forbedringsarbeid. Med vår klassiske statistikkbakgrunn ble samarbeidet i starten preget av at
+Shainin benyttet seg av enkle statistiske verktøy som ble utformet før datamaskinens tid. Vi
+
+mente å besitte kraftigere verktøy som kunne gjøre jobben mer effektivt og med større
+
+presisjon. I ettertid har vi alle forstått hvor viktig det er å kunne kombinere dette for å heve
+den generelle kompetansen innen statistikk i hele konsernet fra operatører til fagspesialister.
+
+De enkle, men oftest visuelt gode, metodene kan gi gode nok svar til at folk ser nytten av den
+statistiske tankegangen i kampen mot variasjonene i prosessene. Så får fagspesialistene
+komme inn med kraftigere skyts om det trengs. Min erfaring er at opplæring i variansanalyse,
+regresjonsanalyse,
+
+prinsipalkomponentanalyse
+
+og
+
+lignende
+
+avanserte
+
+verktøy
+
+er
+
+ofte
+
+bortkastet tid da mottakerne ikke har tid til å fordype seg såpass i emnet at de tar dette i bruk
+selv. Det bør helst være enkle og visuelle verktøy som for eksempel ISO-plot, Box-plot,
+histogram, trendkurver, SPC og enkel forsøksplanlegging.
+Det viktigste Shainin lærte oss er imidlertid evnen til å legge en konkret strategi for å løse
+
+problemene en står overfor. Det å stille de riktige spørsmålene til prosessen for å komme
+hurtigst fram til en løsning er trening og atter trening. Valg av verktøy må tilpasses hvert
+enkelt delproblem, og ikke omvendt. Ved å kombinere statistiske verktøy med en løsningsstrategi som i hovedtrekk bruker eliminasjons-prinsippet, vil man etter mitt syn konvergere
+raskere i søket etter faktorene som har størst evne til å påvirke de responsvariablene vil skal
+forbedre. Dette kunne man kanskje brukt litt mer tid på i utdanningen av statistikere —
+analytisk problemløsning.
+Shainin har i likhet med ”Six Sigma” sitt eget konsept for denne typen problemløsning. Jeg
+
+tror det er viktig å hente ideér og inspirasjon fra slike programmer for så å utvikle et eget
+konsept som er tilpasset den enkelte bedrift. Etter tre år med innføring av denne typen
+
+arbeidsmetodikk i Elkem er de økonomiske forbedringene knyttet til slike statistikk-relaterte
+
+prosjekter dokumentert til å utgjøre 40-50 MNOK. Samtidig har stort sett alle operatørene på
+alle Elkems verk fått grunnopplæring i SPC, og over 80 ingeniører har hatt fordypning i bruk
+av statistiske
+
+metoder og
+
+problemløsnings-strategi hvor
+
+spesielt
+
+sjekk
+
+av
+
+målesystem,
+
+undersøkelse av variasjonsfamilier samt forsøksplanlegging har vært sentrale emner.
+
+12
+
+
+
+Prosessen i et smelteverk er preget av store sprang i tidskönstanter samt mye tidsdynamikk.
+Rammebetingelsene for forsøkskjøring knyttet til selve ovnsprosessen blir derfor svært preget
+av dette. Man må påberegne opp til I ukes innkjøringstid på en ny nivåkombinasjon ved for
+eksempel uttesting av nye råvarer. Selv forhöldsvis enkle forsøksoppsett kan derfor i full
+skala innebære et halvt års drift før man er ferdig. Analyseni etterkant måi tillegg ta hånd om
+driftsstanser og autokorrelasjon i dataene.
+
+Noe
+bedre
+betingelser
+finnes
+på etterbehandlingssiden.
+Raffineringseller
+innlegeringsprosesser samt utstøpning og knusing har kortere tidskonstanter slik at mer
+avanserte former for faktorielle forsøk kan benyttes. Imidlertid opplever en ofte her også at
+selv enkle statistiske verktøy i samme gate som Ishikawas 7 verktøy kan være nok til å ta ut
+store forbedringer. Ofte går det like mye ut på
+'å sette fokus på de rette tingene — operatørene
+som sitter nærmest prosessene har ofte gode løsninger på mange små utfordringer som i sum
+gir store kvalitets- og kostnadsforbedringer.
+
+Parallellt har vi forsøkt å få smelteverkene til å prioritere de 5 viktigste tekniske og
+økonomiske forbedringsutfordringene — ”Rolling Top 5”. Denne typen problemer løses ikke
+over natta og krever tid og ressurser. De største prosjektene jeg selv har arbeidet med har
+typisk tatt 1-2 år før ferdig løsning er implementert. I disse tilfellene er det først og fremst
+strategien i problemløsningen som er det essensielle. De statistiske verktøyene som brukes for
+å løse hvert steg ned mot rotårsaken tilpasses situasjonen og kan innbefatte alt fra ISO-plot og
+pareto-diagram til forsøksplanlegging, SPC og multivariat analyse.
+
+Den viktigste utfordringen for oss som statistikere har imidlertid vært å få formidlet
+grunnprinsippene bak
+
+den
+
+statistiske
+
+tankegangen
+
+for
+
+å gripe
+
+an
+
+problemstillingene.
+
+Prosessene gir ikke ut kun et sluttprodukt som skal måles opp mot gitte spesifikasjoner.
+Variasjonen i prosessdata inneholder som regel verdifull informasjon om hvordan de kan
+
+forbedres ytterligere. Men for å konvertere data over til meningsfull informasjon må
+statistiske verktøy brukes. Dette er hovedbudskapet, og det er allmenngyldig uansett om man
+arbeider ved et smelteverk eller en papirfabrikk.
+
+Etter å ha arbeidet i Norske Skog noen måneder inn i 2002 finner jeg mange likhetstrekk med
+situasjonen da jeg kom til Elkem. Det samles inn store mengder data uten at det benyttes
+effektive verktøy for å ta ut viktig informasjon til kvalitets- og prosessforbedringer. Den
+
+største forskjellen fra et smelteverk er større mulighet for å kunne ta ut målinger fra alle
+prosessledd da temperaturområdet man opererer innenfor er overkommelig for det meste av
+mekanisk måleutstyr. Man kan kanskje bli litt skuffet over at et så stort konsern som Norske
+Skog heller ikke har kommet lengre med 4 ta i bruk statistiske metoder, men på den andre
+siden gir det jo mange store utfordringer for en fersk papirmaker med statistikkbakgrunn!
+Mai 2002
+
+Audun Kvamme
+E-post:
+audun.kvamme
+&
+norske-skog.com
+
+13
+
+
+
+Statistikkundervisning som konferansetema — og muligens også som
+forskningstema?
+Ivar Heuch
+
+Matematisk institutt, Universitetet i Bergen
+
+I tiden 7.-12. juli 2002 foregikk det et møte i Cape Town i Sør-Afrika med den fullstendige
+tittelen ”The Sixth International Conference on Teaching Statistics’’, forkortet til ICOTS 6.
+Arrangementet tok opp spørsmål i sammenheng med statistikkundervisning på alle nivåer. Jeg
+deltok som eneste nordmann i et møte som ga mange sammensatte inntrykk. Flere av sakene som
+ble tatt opp, har stor betydning for problemer som blir diskutert her hjemme. Det kan derfor være
+på sin plass med-en rapport, koblet med noen uhøytidelige tanker omkring selve fagfeltet.
+Arrangør var International Association for Statistical Education (IASE)i tillegg til den lokale
+
+South African Statistical Association. IASE er en ’’seksjon’’ under International Statistical
+
+Institute
+
+(ISD,
+
+med
+
+medlemskap
+
+som
+
+er
+
+åpent
+
+for
+
+alle
+
+interesserte.
+
+Web-siden
+
+www.cbs.nl/isi/iase.htm gir et godt utgangspunkt for den som vil sette seg inn i foreningens
+
+virksomhet. Møtet i Cape Town var i stor grad preget av ildsjeler som har vært aktive i
+foreningen i lang tid. Hovedpersonen var på mange måter australieren Brian Phillips, som
+””international organizer”” i programkomiteen og tidligere president i IASE. Bade under forbered-
+
+elsesfasen og selve møtet fikk man inntrykk av at Phillips trakk i trådene når det gjaldt alt faglig.
+Ellers var Australia usedvanlig godt representert på møtet, noe som utvilsomt også gjenspeiler en
+
+stor interesse for fagområdet.
+Det praktiske arrangementet var likevel sterkt påvirket av sør-afrikanske krefter. Både finansministeren Trevor Manuel og ’’statistician-general’’ Pali Lehohla (som leder av Statistics South
+Africa) holdt omfattende innlegg som langt overskred de korte hilsninger fra offentlige personer
+
+som en ellers kan oppleve ved offisielle møteåpninger. Motto for konferansen var ’’ Developing a
+statistically literate society’’, et slagord med spesiell betydning i afrikansk sammenheng, selv om
+
+det også kan stå som en utfordring i et land som Norge. I denne forbindelsen ble det mange
+ganger referert til det gamle sitatet fra forfatteren H.G. Wells i 1904: ’’Statistical thinking will
+one day be as necessary for efficient citizenship as the ability to read and write.””
+
+En viktig del av møtet, litt på siden av resten av arrangementet, var en seksjon for skolelærere
+fra Sør-Afrika. Problemet med lærere som uten faglig bakgrunn var blitt satt til å undervise i
+statististikk, kan virke velkjent. Parallelt med sesjonene ved ICOTS 6 ble det holdt kurs for
+
+lærerne, og det var lagt opp til kontakt med konferansedeltagerne. Etter å ha snakket med noen av
+dem var mitt inntrykk at lærerne i forbausende grad var opptatt av lignende spørsmål som sine
+norske kolleger. De ble riktig forbløffet over min respons da de spurte om norske læreres forhold
+til undervisning i statistikk og forsto at situasjonen ikke var så helt forskjellig.
+Før møtet kunne åpnes i Cape Town, ble arrangementet influert av afrikansk politikk. Under
+planlegningen var det hele tiden meningen at konferansen skulle foregå i Durban, som ligger i en
+helt annen del av landet. Bare tre måneder i forveien kom det høyst overraskende melding fra
+arrangøren om at konferansen måtte flyttes, fordi høyere myndigheter i mellomtiden hadde lagt et
+mye ’’viktigere’’ arrangement til nøyaktig samme konferansested. Deltagerne i ICOTS 6 ble
+
+fortalt at det var umulig å dele plassen med statsoverhodene fra alle land i Afrika, spesielt på
+grunn av sikkerhetsproblemene. Det konkurrerende arrangementet viste seg å være møtet der
+
+organisasjonen ’’the African Union’’ skulle grunnlegges. Selv om reiseplanene måtte forandres
+for de fleste statistikere som hadde tenkt seg til ICOTS 6, ga flyttingen sikkert den lykkeligste
+
+løsningen på det akutte problemet.
+Sammenlignet med andre konferanser på vårt fagfelt var mange av sesjonene ved ICOTS6
+
+lite
+
+krevende, og det var enkelt å stikke innom foredrag med tiltrekkende titler. I noen tilfeller virket
+det som om innlederne brukte tilknytningen til undervisning som en unnskyldning for mer
+
+[4
+
+
+
+generelle budskap, for eksempel ved drøftelser av bruk av signifikanstesting eller ””data mining”,
+men diskusjonen kunne likevel være interessant nok. Artikler fra forfatterne ble samlet i egne
+’*proceedings’’ [1], men i tidens ånd ble papirutgaven sløyfet fullstendig. Isteden fikk alle
+deltagerne en CD med artiklene som pdf-filer. Før møtet virket det som alt materiellet ville bli
+publisert på web, men til tross for at alt rent teknisk lå til rette, har dette dessverre ikke skjedd.
+Det hadde vært langt lettere å skape interesse for fagområdet hvis enhver kunne satt seg ned og
+valgt ut aktuelle artikler direkte på sin egen dataskjerm. CD-en kan kjøpes fra arrangøren for $25
+(se lenker fra web-adressen for IASE ovenfor), men det spørs hvor mange som kommer til å gjøre
+det i praksis.
+
+Mange temaer som ble behandlet på ICOTS 6, kan ha større allmenn interesse enn det som
+
+foregår på andre møter i statistikk, selv om den vitenskapelige dybden kan diskuteres. For å gi en
+smakebit har jeg valgt å omtale fire presentasjoner som jeg syntes var representative for det som
+foregikk. Disse arbeidene viser noe av spennvidden i arrangementet, selv om jeg slett ikke har
+
+foretatt noe tilfeldig utvalg. I alle fall vil temaene antyde noe om hvor fagfeltet står 1 dag.
+
+Læremidler stimulert av den teknologiske utvikling
+Et innlegg som samlet mange tilhørere, tok opp bruken av to konkurrerende lærepakker for
+
+datastøttet undervisning i innføringskurs i statistikk på universitetsnivå. J. Richard Alldredge fra
+Washington State University beskrev et forsøk med sammenligning av systemene ActivStats og
+CyberStats som ble brukt parallelt i samme kurs i løpet av et semester [2]. ActivStats blir
+
+markedsført på en CD, som studentene kjøper og beholder etter at kurset er ferdig. Web-siden
+www.datadesk.com/ActivStats fører til mye informasjon om systemet. CyberStats blir benyttet
+direkte over web, og hver student betaler for et passord som gir adgang. Noen (men egentlig
+
+merkelig få) opplysninger om systemet ligger på web-adressen statistics.cyberk.com/splash.
+Utviklingen av pakken har skjedd med støtte fra National Science Foundation, og flere kjente
+statistikernavn dukker opp web-siden.
+
+I forsøket ved Washington State University fikk forskjellige datagrupper benytte hvert av de to
+systemene. Resultatene ble vurdert ved statistiske analyser av holdninger til statistikk generelt og
+
+ved evalueringer av studentenes ferdigheter. I sammenheng med Alldredges innlegg oppsto det en
+lang diskusjon om selve forsøksopplegget og den statistiske behandlingen av de innsamlede
+
+dataene. Selv om det så ut til å være signifikante forskjeller mellom pakkene i ActivStats favør,
+ble det for eksempel antydet at forskjellene var ganske små, slik at det ville vært mer informasjon
+i konfidensintervaller. Det ble også spurt om det ikke burde ha inngått en kontrollgruppe med
+tradisjonell statistikkundervisnng uten lærepakke. Foredragsholderen kunne bare beklage at opplegget ikke hadde gitt anledning til det. Noen tilhørere antydet at studenter innenfor samme
+
+gruppe lett kunne påvirke hverandre hvis et datasystem var spesielt populært i spesielle studentkategorier. Alldredges respons var at den vanlige oppfatningen blant studentene gikk i motsatt
+retning for begge lærepakkene, så det neppe var tale om noen smittsom popularitet.
+Statistiske begrep illustrert over web
+
+Det var også mye interesse rundt en sesjon som tok for seg utarbeidelsen av spesielle
+
+JAVA-
+
+””applets”” som kunne illustrere grunnbegrep i statistikk. Dette var et forsøk pa å dra fordel av
+dagens datateknologi på en mye enklere måte, ved å utnytte mulighetene som ligger i program-
+
+mering i sammenheng med vanlige web-lesere. Fordelen er at hvem som helst kan benytte de
+ferdige programmene fra sin egen datamaskin med web-tilknytning, slik at pakker med ’’applets’’
+som legges ut på nettet, kan utgjøre nyttig supplement i forskjellige typer kurs. Ulempen sammenlignet med tradisjonelle programmer er at det
+
+ikke er så lett
+
+å kommunisere med andre
+
+programsystemer på datamaskinen, eller å utnytte datasett lagret som ordinære datafiler. Paul
+Darius fra Leuven i Belgia demonstrerte et system av denne typen som representerte et samarbeid
+mellom flere institusjoner [3]. Programmene er tilgjengelige og kan prøves ut av på adressen
+www.kuleuven.ac.be/ucs/java. En kan for eksempel lett se hvordan en forandring av korrelasjons-
+
+koeffisienten påvirker formen på en binormal tetthet, eller hvordan regresjonslinjen endres for et
+
+datasett når det legges til nye, simulerte observasjoner. Selv om eksemplene hører hjemme på et
+
+
+
+grunnleggende nivå i undervisningen, dreier det seg i mange tilfeller om illustrasjoner som
+studentene hittil ikke har kunnet gjennomføre på noen enkel måte.
+Etforsøk på forstå barns fortolkning av begrepet ’’sampling’’
+En helt annen angrepsmåte innenfor fagområdet ble vist av et innlegg gitt av Jane M. Watson
+fra Tasmania [4]. Ved intervjuer på forskjellige aldersnivåer prøvde hun å klarlegge hva slags
+
+ideer barn hadde om datasett i utvalgsundersøkelser. Spørsmålene dreide seg om hvordan
+utvalgene skulle foretas, og spesielt om hvilke tanker barna gjorde seg om det vi ville kalle
+””random sampling’’. Intervjuene ble tatt opp på video. Elevene ble også vist opptak som var gjort
+av andre elever som svarte på en annen måte, og holdningen til de alternative forslagene ble
+
+registrert. Spørsmålet var nå om elevene lett ble påvirket av andre, mindre velvalgte forslag til
+fortolkning av begrepet ’’random sampling’’. Var det de som selv allerede hadde en noenlunde
+riktig fortolkning som tenderte til å holde fast på det de først hadde sagt? Denne typen forskning
+
+burde gi nyttig lærdom for utvikling av praksis i en klasseromssituasjon, men på et dypere plan
+kunne resultatene forhåpentligvis også si noe generelt om læring av grunnleggende statistiske
+ideer.
+
+Modellerfor statistisk tenkning, sett i pedagogisk perspektiv
+Chris Wild fra New Zealand ga et innlegg av mer teoretisk karakter, som samtidig prøvde å
+bygge bro mellom forskjellige modeller for statistisk tenkning [5]. På den ene siden er det stilt
+opp modeller i pedagogisk sammenheng som beskriver hvordan barn eller ungdom angriper
+
+statistiske problemstillinger. Modellene angir til dels ulike stadier når et problem skal løses, og til
+dels nivåer som representerer ulik vanskelighetsgrad. Ved observasjoner av barn i passende alder
+kan det avgjøres om modellene faktisk gir en realistisk beskrivelse av tankeprosessene i bestemte
+
+situasjoner. På den andre siden er det formulert modeller som skal gi uttrykk for fremgangsmåten
+hos en profesjonell statistiker som skal løse et komplisert dataanalytisk problem. Her kan det
+
+være snakk om å gå gjennom forskjellige faser i problemløsningen, ved først å undersøke hva
+som er vesentlig, ved å stille opp ulike alternative angrepsmåter og prøve å gjennomføre dem, og
+ved å løse enklere deler av det opprinnelige problemet. Så kan man bedømme hvor gode
+løsningene er, for deretter å gå rundt i samme sykliske prosess flere ganger. Er det nå mulig å
+forene modellene for statistisk tenkning utviklet i pedagogisk sammenheng med dem som blir
+
+brukt til å beskrive den profesjonelle statistikerens fremgangsmåte? Får dette noen betydning for
+den måten vi bør gjennomføre opplæring i faget? Budskapet ble i hvert fall at det er rimelig å
+prøve å utnytte lærdom fra det pedagogiske fagfeltet når man skal beskrive prinsippene for god
+statistisk praksis. Omvendt bør undervisning i statistikk ta hensyn til det som er kjent om mer
+
+kompliserte statistiske modeller.
+Forskning i statistikkundervisning?
+De fire presentasjonene som er beskrevet overfor, gir selvsagt meget ufullstendig grunnlag for
+
+å bedømme mulighetene for å drive forskning på det aktuelle området. Utvikling av læremidler,
+
+slik det ble omtalt i innlegget om JAVA-’’applets’’, må stå marginalt i forhold til forskning i
+virkelig forstand, men kan utvilsomt gi nyttige hjelpemidler i undervisningen. Dette er en
+aktivitet som typisk kan tas opp av statistikere med interesser for mer datatekniske utfordringer.
+Sammenligning av interaktive lærepakker i kontrollerte forsøk med studenter ligger nærmere
+
+forskningsidealet. Samtidig er det lett å forstå at forskning innenfor dette feltet kan støte på
+mange praktiske problemer, som ikke nødvendigvis minner så mye om det en statistiker tidligere
+har strevet med i forskningssammenheng.
+Innleggene om barns forståelse av statistiske begrep og om modeller for statistisk tenkning
+ligger mye nærmere fagfelt som hittil har vært dominert av personer med annen bakgrunn enn
+statistikk. Artikler om slike temaer bruker ofte en terminologi langt fra det statistikere flest er
+vant til. Ved ICOTS 6 ble det tydelig at deltagerne i stor grad representerte både en pedagogisk
+tradisjon og en mer statistisk, selv om den siste gruppen antagelig var i flertall. Mer vesentlig var
+
+det at det ikke eksisterte noe klart skille mellom de to gruppene, slik at det snarere var en
+totoppet fordeling i deltagerpopulasjonen.
+
+/é
+
+
+
+I mange anvendte problemstillinger vil statistikere støte på praktisk anlagte personer med
+annen yrkesbakgrunn som selv mener å ha et mer jordnært og konstruktivt forhold til
+metodevalget enn det fagstatistikeren representerer. I undervisningssammenheng er ofte rollene
+byttet om: Svært mange statistikere kommer bort i undervisningsoppgaver i større eller mindre
+grad, men de fleste vil mene at de kan klare oppgavene uten hjelp fra profesjonelle pedagoger.
+
+Uten å ta stilling til de konkrete holdningene bør man likevel kunne uttrykke håp om bedre
+samarbeid mellom folk med ulik bakgrunn. Et møte som ICOTS 6 kani hvert fall bidra til det.
+Bør forskning i statistikkundervisning i praksis overlates til andre enn statistikerne? Få vil
+mene det, men man kan likevel diskutere hva som er relevante problemstillinger i denne typen
+forskningsvirksomhet. Det finnes ikke noen generell enighet om hvilken vei man bør gå, noe som
+også ble understreket i et foredrag av den samme Jane M. Watson [6]. Det er utvilsomt mange
+utfordringer på dette området.
+En sterkere norsk interesse for statistikkundervisning som fagfelt?
+
+Selv om jeg i siste omgang ble eneste norske deltager ved ICOTS 6, var også andre nordmenn
+involvert i arrangementet. Petter Laake var organisator av en sesjon med tittel Statistics
+
+education and the world of life and health sciences”. Hvis det ikke hadde vært for hans interesse,
+hadde jeg antagelig ikke kommet til å delta! Petter var imidlertid forhindret fra reise til Cape
+Town. På den utgitte CD-en er det også listet opp hvem som har vært ’’referee’’ for arbeider som
+ble sendt inn, og der dukker Henrik Dahls navn opp. Likevel kunne man gjerne ønsket en større
+
+deltagelse fra Norge. Som de fleste vil være klar over, har Henrik vært en stor entusiast på dette
+området i lang tid. Foreningen IASE har lagt ut sin medlemsliste til allment innsyn på web, og der
+er det øyensynlig to norske medlemmer i øyeblikket, nemlig Henrik og meg selv (og jeg meldte
+
+meg tross alt inn like før ICOTS 6 for å få redusert deltageravgift). Kanskje det kan bli større
+interesse før neste ICOTS-møte i Brasil om fire år?
+
+Dette kan også være en passende anledning til å minne om at det finnes interessante tidsskrift
+på nettet innenfor fagområdet. IASE har nettopp startet ’’Statistics Education Research Journal”
+(fehps.une.edu.au/serj), der det er fri adgang ut året. Det er annonsert at adgangen senere bare vil
+gjelde medlemmer av IASE. Mer uformelt stoff finner man i IASE Statistical Education Research
+Newsletter (www.ugr.es/local/batanero/sergroup.htm). Ellers inneholder ’’Journal of Statistics
+Education?” publisert av American Statistical Association (ASA) mye aktuelt stoff, med fri
+
+adgang over www.amstat.org/publications/jse. ””Teaching Statistics” krever derimot abonnement, privat eller for institusjon (www.blackwellpublishers.co.uk/journals/test).
+
+Referanser
+
+[1] Phillips B (red.). ICOTS 6. Proceedings of the Sixth International Conference on Teaching
+Statistics. International Association for Statistical Education, Voorburg 2002 (CD).
+[2] Alldredge JR, Som, NA. Comparison of multimedia educational materials used in an intro-
+
+ductory statistical methods course. ICOTS 6, section 6C (2002).
+[3] Darius P, Michiels S, Raeymaekers B, Ottoy JP, Thas O. Applets for experimenting with
+statistical concepts. JCOTS 6, section 7A (2002).
+[4] Watson JM. Creating cognitive conflict in a controlled research setting: sampling. JCOTS
+
+6,
+
+section 6A (2002).
+[5] Pfannkuch M, Wild C. Statistical thinking models. JCOTS 6, section 6B (2002).
+[6] Watson JM. Doing research in statistics education: more than just data. JCOTS 6, plenary
+session (2002).
+
+/F
+
+
+
+NORDSTAT 2002
+Mette Langaas, Jo Eidsvik & Turid Follestad
+Institutt for matematiske fag, NTNU
+
+Den 19.
+
+nordiske konferansen i matematisk statistikk ble holdt i Stockholm 9.-13.
+
+juni, 2002.
+
+Hele 188 deltagere så ut til å trives fortreffelig i lokalene til Stockholms Universitet i Kråftriket ved
+Brunnsviken, ca. 45 minutters gange fra Slottet. Deltakerne kom fra 19 land. Fra Norge var vi 25 —
+fra Tromsø, Trondheim, Bergen, og Oslo.
+
+Konferansen hadde 4 hovedtema med inviterte foredragsholdere; kausal modellering og inferens,
+sannsynlighetsproblem fra fysikk, bioinformatikk og romlig statistikk.
+Innen kausal modellering og inferens var det to foredragsholdere; Elja Arjas (Helsinki) la vekt på
+longitudinelle data, og Donald Rubin (Harvard) på såkalte “surrogate outcomes”. Rubin forsøkte å
+trekke konklusjoner om dosevalg for miltbrann-vaksine for mennesker ved å binde sammen forsøk
+der både aper og mennesker blir gitt miltbrann-vaksine, men kun apene utsettes for miltbrann-smitte.
+Temaet ble avsluttet med en paneldiskusjon med Odd Aalen (Oslo) og Steffen Lauritzen (Aalborg)
+som diskutanter. Lauritzen hadde merket seg at Rubin sa noe slikt som ’graphical models can be
+
+seductive’, og som lærebokforfatter med fundament i grafiske modeller brakte han selvsagt dette opp.
+Etter en diskusjon ble de to imidlertid gode venner. Det ble kommentert at andre fagfelt forventer at
+
+statistikk kan bidra i problemer knyttet til årsaksmønster, samt at statistikk bør brukes der vår viten
+om mekanismene er uklar.
+Sannsynlighetsproblemer fra fysikk ble presentert i tre foredrag. Kurt Johansson (Stockholm) tok opp
+
+stokastiske matriser, Harry Kesten (Cornell) la vekt på forsterket tilfeldig gang og Timo Seppålåinen
+(Wisconsin) snakket om asymmetriske systemer.
+
+I bioinformatikk seksjonen var fokus på komparativ genomikk og genlokasjon. Marina Alexandersson (Berkeley) presenterte gensammenstilling (gene alignment) på kryss av arter ved hjelp av skjulte
+Markov modeller. Kimmo Eriksson (Våsterås) fokuserte på probabilistiske modeller i komparativ
+genomikk og Ola Hössjer (Lund) lokaliserte gener.
+
+Temaseksjonen i romlig statistikk var rent norsk. Håvard Rue (Trondheim) holdt et engasjert foredrag
+om Gaussiske Markov felt og hvordan disse kan anvendes til å effektivisere statistiske beregninger
+
+og simuleringer for romlige modeller, men han måtte konkurrere med VM-kampen mellom Sverige
+og Argentina om publikum.
+
+Avslutningsforedraget ble holdt av Arnoldo Frigessi (Oslo) som pre-
+
+senterte ”state-of-the-art” innen statistisk modellering og inferens for rom-tid modeller med fokus på
+
+alternative tilnærminger til spesifikasjon av kovariansstrukturer.
+Opplegget med inviterte foredragsholdere innen noen få utvalgte hovedtema med påfølgende plenums-
+
+debatt, ble også benyttet på forrige nordiske konferanse i Grimstad. Vi håper denne formen er kommet
+for å bli. Men ved fremtidige konferanser kan plenumsdebatten med fordel bli lagt tettere opp til de
+aktuelle plenumsforedragene enn tilfellet vari år.
+I tillegg til de inviterte foredragene var det 6 parallelle seksjoner hver av de tre konferansedagene (77
+foredrag i følge programmet, der 9 ble holdt av nordmenn). Mange ulike tema ble tatt opp. Temaene
+"statistikk i medisin”, "statistisk inferens”, "stokastisk geometri og romlig statistikk” og "statistikk
+i genetikk og bioinformatikk” hadde mange påmeldte foredrag og var godt besøkt. I seksjonen for
+“sannsynlighetsregningen og statistikkens historie” tok Tore Schweder (Oslo) for seg statistikkens
+
+historie i Norge sett med historikernes øyne.
+
+
+
+Det var lagt opp til et ambisiøst sosialt program. Velkomstfesten inkluderte omvisning, opptreden
+med Bellmann-viser og bespisning i Hagaparken. Videre var det båtutflukt til Fjåderholmarne og en
+
+storslått konferansemiddag på Högloftet på Skansen. På Högloftet ble Steffen Lauritzen midtpunkt
+for en oppvisning i sjonglering med kniver — og kom heldigvis fysisk uskadd fra opplevelsen. Under
+festmiddagen hadde Tore Schweder (Oslo), som representant for Scandinavian Journal of Statistics,
+den ære å dele ut pris til beste artikkel fra en ung statistiker (under 35 år) basert på presentasjon ved
+den 18. nordiske konferansen i matematisk statistikk i Grimstad 2000. Prisen ble vunnet av Helle
+Sørensen (København) og bestod i tillegg til publikasjon av artikkelen i SJS, av et større pengebeløp
+og bøker. Denne prisen vil også bli delt ut basert på årets konferanse og unge statistikere som holdt
+
+foredrag på NORDSTAT-2002 ble oppfordret til å sende inn artikkel til SJS.
+
+Alt i alt inneholdt disse dagene i juni en mengde interessant vitenskapelig og sosial føde - innpakket
+
+i en vakker og varm Stockholm-sommer. Nå har høsten kommet, og det er på tide å rette blikket
+fremover mot nye arrangementer for norske statistikere. Notér datoene 16.-18.juni 2003 i almanakken
+
+- da blir det tolvte norske statistikermøtet arrangert på Hurdalsjøen hotell. Husk også på neste nordiske
+
+konferanse i 2004 i Jyvåskylå!
+
+/9
+
+
+
+THIRD INTERNATIONAL CONFERENCE ON
+
+JUNE 17-20
+
+MATHEMATICAL METHODS IN —
+
+WP
+
+RELIABILITY
+
+IVP
+
+2002
+
+TRONDHEIM
+'
+
+METHODOLOGY AND PRACTICE |
+June 17-20, 2002, Trondheim, Norway
+
+MMR 2002 ble arrangert ved NTNU rett før sommerferien.
+Rundt 190 deltagere fra nærmere 40 land deltok, blant dem
+
+mange av de mest sentrale personeri fagfeltet. Spesielt
+
+hyggelig var det at Richard Barlow fra University of
+
+California, Berkeley, (bildet til høyre) hadde tatt imot
+invitasjonen til å holde åpningsforedraget, med'den
+ambisiøse tittelen ”Mathematical Reliability Theory: From
+the Beginning to the Present Time”.
+Konferansen hadde en egen sesjon til ære for en av dé norske
+pionerene i pålitelighetsfaget, tidligere NTH-professor
+Arnljot Høyland. Høyland tok initiativ til forelesninger i
+pålitelighetsanalyse ved NTH allerede midt på 70-tallet, og
+
+var siden sentral i oppbyggingen av miljøet i sikkerhet og
+
+pålitelighet ved NTH og SINTEF. Bo Bergman, Chalmers
+tekniska högskola, Göteborg, holdt foredraget i denne
+sesjonen, under tittelen ”The Evolution of the Quality
+Movement and its Challenges to the Reliability Community”.
+
+Richard Barlow under
+apningsforelesningen
+
+Forøvrig var konferansen lagt opp med
+enkelte plenumsforedragi tillegg til
+
+parallelle sesjoner med såvel inviterte som
+påmeldte foredrag. Plenumsforelesere, i
+tillegg til Barlow og Bergman, var Odd
+Aalen, Oslo (”Understanding the shape of
+the hazard rate: Å process point of view”),
+Nozer Singpurwalla, George Washington
+University (”Probability Measures of Fuzzy
+Sets”), Paul Deheuvels, Paris
+
+("Nonparametric estimation of lifetimes
+under random censorship”), Philip Boland,
+Dublin (”Challenges in Software Reliability
+Bak fra venstre: Bo Lindqvist (”chairman”), Liv
+
+Høyland og Arnljot Høyland. Foran: Bo Bergman.
+
+and Testing”). Avslutningsforedraget ble
+holdt av Sallie Keller-McNulty, Los Alamos
+National Laboratory, USA (”The Future of
+Reliability: New Ideas and Techniques”).
+
+Keller-McNulty er forøvrig chairman for den fjerde MMR-konferansen, som etter planen skal
+arrangeres i Santa Fe, New Mexico, i juni 2004.
+
+I tillegg til det faglige betyr det sosiale en god del på slike konferanser. For mange var det antageligvis
+ganske ”eksotisk” med en konferanse i Trondheim midtsommers. Mange hadde med seg ektefelle og
+barn og tok dette som starten eller slutten på en ferie i Norge og Skandinavia. De sosiale begivenheter
+under konferansen besto i at Trondheim kommune spanderte en mottakelse i Erkebispegården den
+første kvelden, mens det de neste kveldene var sammenkomst med reker og hvitvin på Munkholmen
+og festmiddag på Britannia hotell. Mange deltok også på dagsturen til Røros dagen etter konferansen.
+Bo Lindqvist
+
+
+
+Her er noen flere bilder fra MMR 2002:|
+
+Kjell Doksum (”chairman”) og Moshe Shaked (til
+
+Odd Aalen og Terje Aven.
+
+venstre).
+
+Stian Lydersen var toastmaster.
+
+.
+
+I
+
+;
+
+Vijay Nair og Steinar Bjerve.
+
+Nozer Singpurwalla, fru Singpurwalla, fru Barlow,
+Richard Barlow og Bo Bergman.
+
+off
+
+Jørund Gåsemyr og Bent Natvig.
+
+
+
+Pusleri nr. 11
+En komite med 2n+1 personer skal treffe en viktig beslutning ved flertallsvedtak.
+Anta at de 2n første stemmer uavhengig av hverandre og hver har sannsynlighet p
+
+for å treffe den (for deg) ”riktige” beslutning. Den siste (som sovnet under møtet)
+kan enten være soni de andre eller velge å stemme identisk med sidemannen. Vil
+da sjansen for ”riktig” beslutning være uendret, økt eller redusert?
+
+dd
+
+
+
+Pusleri nr 10 (løsning)
+
+vart å finne sannsynligheten for å oppnå YATZYi løpet av tre
+Probleme
+
+kast med 5 terninger, når en forutsetter at optimal strategi ved utvalget av
+terninger til nytt kast benyttes. Ekstraspørsmål var
+Hvor mange ekstrakast må tillates for at sannsynligheten skal bli > ’2?
+Hva er forventet antall kast som er nødvendig for å få YATZY?
+Denne gang har Terje Aven bidratt med følgende:
+
+Da jeg var vit.ass ved UIO for over 20 år siden og underviste Markovkjeder hadde jeg moro av å regne ut sannsynligheten for YATZY ved n
+kast (og andre sannsynligheter som f.eks. liten og stor straight). Hvis X,
+er antall like etter n kast er X, er diskret Markov-kjede med overgangssannsynligheter gitt ved
+
+1
+
+1
+2
+3
+
+120/6*
+0
+0
+
+4
+
+0
+0
+
+5
+
+2
+
+3
+
+0
+0
+
+0
+0
+
+900/6* | 250/6
+120/6°
+80/6
+25/6"
+0
+
+4
+
+5
+
+25/6"
+15/6°
+10/6"
+
+1/6"
+1/6°
+1/67
+
+5/6
+0
+
+1/6
+1
+
+Dermed blir n-te overgangssannsynlighetene gitt ved P(n) = CD" C', der Der
+
+diagonalmatrisen av egenverdiene (120/1296, 120/216, 25/36, 5/6, 1), og
+C er matrisen av egenvektorer. Dette gir at sannsynligheten for YATZY etter n kast er
+Pis(n)= 22/2496 (120/1296)" - 8/9 (120/216)" + 265/78 (25/36)" - 105/32( 1080/ 1296)" +1
+som gir spesielt ps(n)= 0.0460286.
+
+Første n som gir større verdi enn 0.5 er n=10 (0.56). I vår tippebok som ble utgitt for
+noen år siden (Aven, Haukås, Løvås: Tipping, Lotto, og andre spill, Mortensens
+Forlag), laget vi en kurve som viste sannsynligheten for YATZY som funksjon av n.
+Basert på Markov-kjeden finner en forventet tid til absorbsjoni tilstand 5 ved å sette
+opp et sett av ligninger, gitt at en starter i tilstand i. Lau; betegne forventet tid til
+absorbsjoni tilstand 5. Da er
+
+u; = 120/1296 u; + 900/1296 uz + 250/1296 uz
+
+U4 =
+
++ 25/1296 uy + 1
+
+5/6 ua + 1
+
+Forventet verdi blir u;=11.0902.
+
+23
+
+
+
+Det 12. Norske Statistikermøte
+Hurdalsjøen
+16.-18. juni 2003
+Norsk Statistisk Forening avdeling Oslo ønsker velkommen til:
+
+Det 12. Norske Statistikermøte, 16.-18. juni 2003
+
+på Hurdalsjøen Hotell (ca. 25 km nord for Gardermoen).
+
+Det er nedsatt en egen programkomité,
+som er ansvarlig for det faglige programmet.
+
+Interesserte kan kontakte Sven Ove Samuelsen
+(osamuels@math.uio.no).
+
+Hjemmesiden http: //www.nr.no/sfo/hurdal03
+
+vil etter hvert innholde all nødvendig informasjon om
+møtet. Siden vil bli oppdatert etter hvert som detaljene i
+
+arrangementet kommer på plass.
+
+24
+
+
+
+FIRST ANNOUN CEMENT AND CALL FOR PAPERS.
+The SPRUCE VI conference (Statistics in Public Resources and Utilities, and in Care of the
+
+Environment) will be arranged by the division for Mathematical Statistics at the Centre for
+Mathematical Sciences in Lund, Sweden, June 15-19, 2003. The conference will include sessions
+on application areas as well as on statistical methodology, with invited speakers and contribution
+by the participants. Two invited. sessions will be organized by. TIES.The following invited
+speakers have accepted to participate: Mark Berliner, Anders Grimvall, Nils Gustafsson, Peter
+Guttorp, Gudmund Host, Georg Lindgren, Gianfranco Lovison, Guido Masarotto, Antti
+Penttinen, Marian Scott, Jonathan Tawn and Hans Wackernagel. For further information see:
+http://www.maths.]th.se/conferences/spruce
+VI/
+For the local organizing committee,
+Ulla Holst
+
+Department of Mathematical Statistics
+Lund Institute of Technology
+
+Box 118
+SE-22100 Lund
+Sweden
+
+
+
+Nytt fra Universitetet i Oslo
+Matematisk institutt, Avd. C.
+
+Ny Stipendiat
+Ingunn Fride Tvete ble ansatt som stipendiat fra 1.mars i år
+
+Statistical Research Report
+(http://www.math.uio.no/eprint/stat report/2002/)
+
+J. Gåsemyr *Markov Chain Monte Carlo algorithms with independent proposal
+
+distribution and their relationship to importance sampling and rejection sampling.”
+J. Gåsemyr, B. Natvig, C.S. Nygard “Application of Adaptive Independent Chain
+Metropolis-Hastings Algorithms in Bayesian Hazard Rate Estimation.”
+
+Nytt fra. Universitetet i Bergen
+Matematisk institutt
+
+Ny dr. philos.:
+Stein Atle Lie: "Survival studies of total hip replacements and postoperative
+mortality".
+Lie er ansatt ved Seksjon for medisinsk statistikk ved Universitetet i Bergen.
+
+Ny cand. scient.:
+Ole Marius Gloppestad: "Valuation ofguaranteed investment contracts".
+Veileder: Trygve Nilsen.
+
+Gloppestad er ansatt ved forsikringsselskapet Vesta, Bergen.
+
+XE
+
+
+
+Nytt fra NTNU
+Institutt for matematiske fag
+Gruppe for statistikk
+
+Dr.ing.:
+
+Odd Kolbjørnsen forsvarte 10. juni 2002 sin avhandling: ”Nonlinear topics in the Bayesian
+approach to inverse problems with applications to seismic iversion”.
+
+Tittel på prøveforelesning: ”Wavelets in an applied Perspective. Mathematical Formulations and
+Statistical aspects”.
+
+Veileder: Professor Henning Omre.
+
+Komite: Alberto Malinverno, Schlumberger-Doll Research, Ridgefield, Connecticut, USA, Erik
+Bølviken, Matematisk institutt, Universitetet i Oslo og Professor Bo Lindqvist, Institutt for
+matematiske fag, NTNU.
+
+Odd Kolbjørnsen er nå forsker ved Norsk Regnesentral.
+
+Cand. scient.:
+Ståle Nygård: ”Estimering av aldersavhengig overlevelse basert på fangst-/gjenfangst- og
+gjenfunnsdata med anvendelser på havørndata”. Veileder: Øyvind Bakke.
+
+Siv.ing.:
+Helge Bratland: ”Statistisk modellering av resultater i engelsk fotball. Veiledere: Bo Lindqvist,
+NTNU og
+
+Magne Aldrin, Norsk Regnesentral, Oslo.
+
+Linda Eliassen: ”Robust design eksperimentering: Identifisering av spredningeffekter i 2k-p
+forsøk uten gjentak”. Veileder: John Tyssedal.
+Ingrid Hobæk Haff: ”The Normal Inverse Gaussian Distribution - a Prior for Bayesian
+Linearized Seismic Inversion”. Veileder: Henning Omre.
+Jan Arild Skjervheim: ” Automatic History Matching”. Veiledere: Henning Omre, NTNU og
+Dean Oliver, University of Tulsa, Oklahoma, USA.
+
+Bård Støve: ”Competing Risk Models”. Veileder: Bo Lindqvist.
+
+22
+
+
+
+Preprint:
+Nedlastbare filer er tilgjengelige på http: //www.math.ntnu.no/preprint/statistics/
+
+No. 4/2002: Arvid Næss: The Mean Rate ofLevel Crossings of a Stochastic Process expressed in terms of
+a Characteristic Function.
+
+No. 5/2002: Håkon Tjelmeland, Jo Eidsvik: On the use of local optimisations within MetropolisHastings.
+
+No. 6/2002: Odd Kolbjørnsen: Fundamentals of inverse problems.
+
+No. 7/2002: Odd Kolbjørnsen: Geostatistical approach to event migration of seismic reflection times.
+No. 8/2002: Odd Kolbjørnsen: Case specific uncertainty assessment in cross well tomography.
+No. 9/2002: Odd Kolbjørnsen: Cauchy prior for Bayesian linearized seismic AVO inversion.
+No. 10/2002: Helge Langseth and Bo Henry Lindqvist: A maintenance model for components exposed
+to severalfailure mechanisms and imperfect repair.
+No. 11/2002: Bo Henry Lindqvist: Bounds for the reliability of multistate systems with partially ordered
+
+state spaces and stochastically monotone Markov transitions.
+
+x §
+
+
+
+Medlemsskap i Norsk Statistisk Forening:
+Heimeside for Norsk Statistisk Forening: http://www.math.uio.no/nsf/
+Kontingent:
+
+200 kr/år
+
+50 kr/år for studentar (til og med hovedfag).
+Kontonummer: 0530 2773299
+
+Nummeret som er oppgitt på adresselappen på TG fortel siste år
+kontingenten blei betalt. Ved innbetaling må ein opplyse om endra adresse
+(f. eks. endra postnummer).
+
+Korrespondanse om medlemskap og innbetaling av kontingent skal skje til
+kasserar i foreininga:
+Norsk statistisk forening v/Sigrunn Holbek Sørbye
+Institutt for matematikk og statistikk
+Universitetet i Tromsø
+9037 Tromsø
+e-post:
+sigrunn
+O
+stat.uit.no
+
+Nye medlemer melder seg til kasserar og får så automatisk tilsendt Tilfeldig
+Gang frå første påfølgjande nummer av.
+E-post adressar:
+
+Vi ynskjer e-post adressar til alle medlemer i NSF:
+
+Oppgje e-post adressen på merknadsfeltet på postgiroen, eller send ein epost til sigrunn @stat.uit.no om e-post adresse og evt. adresseforandring.
+Anna korrespondanse med foreininga skal føregå med leiar i foreininga:
+André Teigland
+Norsk Regnesentral
+Gaustadalleen 23
+
+P.O. Box 114 Blindern
+
+N-0314 Oslo
+
+29
+
+
+
+
+
+
+
+Retur:
+Norsk Statistisk Forening
+v/Sigrunn Holbek Sørbye
+
+Institutt for matematikk og statistikk
+Universiteteti Tromsø
+9037 Tromsø
+
+
+

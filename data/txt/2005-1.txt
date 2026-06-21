@@ -1,0 +1,1256 @@
+ISSN 0803-8953
+TILFELDIG GANG
+Nr. 1, årgang 22
+Februar, 2005
+
+Utgitt av Norsk Statistisk Forening
+INNHOLD
+Side
+
+Fra redaktørene. Jostein Paulsen og Hans Julius Skaug ........................................
+Lederen har ordet. Håvard Rue...............................................................................
+
+4
+5
+
+Faglig stoff
+Faget statistikk 50 år ved UiO, Jon Stene ...............................................................
+Statistikk og økologi, Tufto, Brinch, Mauritzen og Johannesen .............................
+Lysebumøtet 2004: ”Causality - a statistical viewpoint”, Egil Ferkingstad.............
+
+6
+13
+17
+
+Puslerispalten
+Pusleri nr. 17. Jostein Lillestøl................................................................................
+Løsning av pusleri nr. 16. Jarle Tufto.....................................................................
+
+18
+19
+
+Konferranser, meldinger og annet
+Annonse: Norsk Regnesentral søker statistiker.......................................................
+International Biometric Society (IBS), Oslo, Juni 2005 .........................................
+Swedish Summer School of Statistics 2005, Falun, June 2005...............................
+European Meeting of Statisticians (EMS), Oslo, Juli 2005.....................................
+Reisestøtte til EMS 2005.........................................................................................
+Measurement error models and methods, Oslo, August, 2005................................
+Informasjon om European Mathematical Society (EMS) Styret i NSF...................
+Nytt fra Avd. C, UiO................................................................................................
+Nytt fra NTNU, Institutt for matematiske fag, Seksjon for statistikk......................
+Nytt fra NLH............................................................................................................
+Nytt fra IMB/Avdeling for biostatistikk ved UiO…………………………………
+Medlemskap i Norsk Statistisk Forening........…........…........…..............................
+
+20
+21
+22
+23
+26
+27
+29
+30
+31
+32
+33
+34
+
+
+
+
+
+Redaksjon:
+Jostein Paulsen (redaktør)
+Matematisk institutt, Johannes Brunsgate 12, 5008 Bergen.
+Tlf: 55 58 28 86, e-post: jostein@mi.uib.no
+
+Hans Julius Skaug (redaktør)
+Matematisk institutt, Johannes Brunsgate 12, 5008 Bergen.
+Tlf: 55 58 48 61, e-post: skaug@mi.uib.no
+
+Trykking og utsending av TG blir utført av
+Statistisk Sentralbyrå.
+Bidrag til Tilfeldig Gang:
+Alle slags bidrag til bladet er velkomne, enten det gjelder nye tema av interesse for
+norske statistikerer eller om en har kommentarer til innlegg som alt står i bladet.
+Det er ønskelig at bidrag til TG sendes som e-post til en av redaktørene. Alle elektroniske
+format aksepteres, men pdf foretrekkes.
+Nettversjon av TG, er å finne på følgende internettadresse:
+www.math.uio.no/nsf/web/index.htm . De som leverer bidrag til TG og som ønsker å
+reservere seg mot at bidraget blir lagt ut på nettet, må gi beskjed om dette ved innsending
+av stoff.
+
+
+
+Fra redaktørene
+Endelig kommer da det som alle norske statistikere har gått og ventet på - et nytt nummer av
+TG. Håper ikke forsinkelsen har ødelagt julefeiringen, for å stjele fra en ikke ukjent
+hovedstadsavis med stort opplag; julen blir ikke den samme uten. Vi får skylde forsinkelsen
+på at den ene av redaktørene har vært på et lengre utenlandsopphold, og den andre har vært
+altfor deprimert av regnet som har øst ned her i Bergen de siste månedene til i det hele tatt å
+vurdere å gi ut et nummer på egen hånd. En annen grunn er at vi ikke akkurat er blitt
+neddynget av stoff fra våre lesere, så en aktivitetsøkning her ville vært meget kjærkommen.
+Angående Bergen og vær, spør du en voksen Bergenser om når det er best å besøke byen, vil
+han temmelig sikkert svare mai, for da er været alltid best. Dette stemte nok også i hine dager,
+men i den senere tid har mai i beste fall vært temmelig usikker, mens august har til dels vært
+fantastisk. Et eksempel på at gamle statistikker benyttes lenge etter at de er gått ut på dato.
+Ellers har lokalavisene underholdt oss med statistikker som viser at gamle nedbørsrekorder
+faller som kjegler i et bowlingmesterskap.
+Vi er nå langt inne i den såkalte kvalitetsreformen, og for vår del synes det ikke å by på noen
+store problemer. Største utfordring er kanskje det nye karaktersystemet og å finne en skikkelig
+kalibrering. Regner med at det også kan bli litt problematisk for potensielle arbeidsgivere å
+sammenligne søkere med tallkarakterer og bokstavkarakterer. Trøsten her er vel gjerne at det
+er søkerens karakter som er mest avgjørende. Hvorvidt det har med kvalitetsreformen å gjøre
+eller ikke, her i Bergen merker vi ihvertfall en kraftig økning i interessen for å ta en
+mastergrad (nytt navn på hovedfag). Det må sies å være meget positivt, og hvis tendensen er
+den samme de andre lærestedene, vil det etterhvert være mange statistikere tilgjengelige på
+arbeidsmarkedet. Det burde ikke være noe problem, det er vel med statistikere som med andre
+yrkesgrupper, tilgjengelighet skaper et marked.
+For å få stoff til dette nummeret av TG har vi igjen fått hjelp av en nordmann i eksil i kongens
+by. Som vel de fleste har fått med seg feirer man i år 50-årsjubileet for opprettelse av
+statistikk som eget studium i Norge. Jon Stene har skrevet en interessant og informativ
+artikkel om denne første tiden. For å kaste lys på bruk av statistikk innen økologisk forskning
+har vi invitert tre fagmiljøer innen økologi til å gi en kort presentasjon av seg selv. Videre
+bidrar Jostein Lillestøl med sine utfordrende puslerier, og vi har de sedvanlige
+oppdateringene.
+Til slutt vil vi igjen minne om Den Europeiske Statistikkonferansen som går av stabelen i
+Oslo i perioden 24-28 juli i år (se www.ems2005.no). Her skulle det være mye for alle, og
+enhver norsk statistiker med en smule selvrespekt bør ha en god grunn for ikke å dra dit!
+
+Jostein Paulsen og Hans Julius Skaug
+
+
+
+Lederen har ordet
+I dette nummer av TG utlyser NSF midler til å delta på sommerens store begivenhet, EMS2005. Mer detaljert informasjon finnes lenger ut i dette nummer.
+NSFs styre har funnet det riktig å sette av en sum, opptil 25 000 kroner til å støtte
+deltakelse på EMS2005 for (fortrinnsvis) hovedfag- og diplom/master-studenter i
+statistikk. Dette håper vi både vil være til inspirasjon til det daglige studie og gi en
+innblikk i fagfeltets mangfold. Som en bonuseffekt, kan sosial kontakt til likesinnende fra de mange land føre til økt forståelse over landegrenser og kulturer og er
+NSFs lille bidrag til det ultimate mål: «world peace».
+Ellers er NTNU og Trondheim i tverrfaglighetens- og tverrkulturellitetens ånd for
+tiden. NTNUs styre besluttet tirsdag å fortsette utredningen om å flytte (det myke)
+Dragvollmiljøet til (det harde) Gløshaugen. Målet er visstnok å fullbyrde det tverrfaglige universitet blant annet. Den endelige beslutning gjøres i mars neste år.
+I tillegg starter den internasjonale studentfestivalen i Trondheim i dag; google
+på ISFiT 2005. Frem til 20.februar skal omkring 450 studenter fra over 100 land,
+diskutere festivalens tema; «Education. Why?». Kanskje flere av de norske studenten burde deltatt og tatt lærdom av festivalens budskap? Ellers vil vinneren av
+Nobels Fredspris 2004, Wangari Maathai, gjeste festivalen. Tidligere annonserte
+gjest, Angelina Jolie, kommer etter sigende ikke likevel og da kommer jo heller
+ikke Kjell-Magne. Angelina Jolie var en langt større sak for (løssalgs)pressen enn
+Wangari Maathai da spekulasjoner om hennes deltakelse vår som størst. Kanskje
+dette indikerer at «Education. Why?» er et godt valgt tema?
+
+Håvard Rue
+
+
+
+1955-2005: 50 år med statistikk som selvstendig undervisningsfag ved UiO
+Fagets start sett fra studentersynspunkt
+Jon Stene, e-post: jon.stene@tdcadsl.dk
+Innledende bemerkninger
+I 1955 ble statistikk innført som selvstendig fag ved Matematisk-naturvitenskapelig fakultet ved
+Universitetet i Oslo. Samtidig begynte undervisningen av faget ved førsteavdeling av realfagstudiet
+på Blindern og Statistikk hovedfag ble opprettet. I år kan man således feire 50 års jubileum for
+statistikk som selvstendig universitetsfag i Norge.
+Jeg hørte til det første kullet av studenter som fulgte denne undervisningen. Av disse har, så vidt jeg
+husker, følgende tatt hovedfag i statistikk: Erik Torgersen, Sigmund Kalveness og meg. Den første,
+som tok dette hovedfaget, var Else Sandved i 1959, men hun hadde gjennomgått et annet studieforløp
+ved å ta statistikk som en del av Anvendt matematikk bifag ved Universitetet i Bergen. Erik Torgersen
+tok hovedfag i 1962 og jeg som den neste i 1963. Else Sandved og Erik Torgersen har begge to avgått
+ved døden, så er jeg den som har lengst ansiennitet med denne utdannelsen.
+Redaktørene av TG har foreslått at jeg skriver et par artikler med henblikk på å markere 50 året for
+fagets opprettelse. I denne første delen skal jeg fortelle om hvorledes jeg, som student, opplevde
+studieforholdene, fagets opprettelse og den første tiden i perioden 1954-63. Hendelsene omkring
+opprettelsen av statistikk som selvstendig undervisningsfag ved det nevnte fakultetet er ikke omtalt i
+de to artiklene som jeg har lest om fagets historie i Norge. Dette gjelder Ivar Heuchs artikkel om
+”Utdannelsen av fagstatistikere i Norge” og Tore Schweders om ”Statistikkfaget i Norge, det gamle
+og det nye faget” i jubileumsboken ”Statistisk sett”, som ble utgitt i 1986 i anledning av Norsk
+Statistisk Forenings 50 års jubileum. I det følgende vil jeg derfor beskrive hvorledes disse hendelsene
+ble opplevd fra studenterside.
+Jeg er født i Oslo i 1935 og begynte å studere realfag i 1954. Fagkretsen bestod av de tre bifagene
+matematikk, kjemi og botanikk og dessuten alle de førsteavdelingskursene i statistikk som det ble
+undervist i på den tida. Jeg tok også enkelte hovedfagskurs i botanikk. Hovedfagseksamen i statistikk
+fullførte jeg i mars 1963 og dro umiddelbart deretter til København. Først var jeg ansatt i tre år som
+videnskabelig assistent ved statistisk afdeling ved Danmarks pædagogiske Institut og deretter på
+Københavns Universitets statistiske Institut, først som lektor og senere som docent inntil jeg gikk av
+med pensjon i år 2000. Som et kuriosum kan jeg nevne at hjemmet mitt i Oslo i alle år lå på SIFF,
+Statens Institutt for Folkehelse, hvor min far var ansatt ved kjemisk avdeling, og hvor han fra 1949-68
+var sjefsingeniør. Her fantes det dengang familieleiligheter for noen av sjefene og enkelte andre
+ansatte. Dette er jo en institusjon hvor etterhånden flere statistikere har arbeidet.
+Studieforholdene på Blindern omkring 1955
+På universitetsområdet fantes det den gangen bare tre ordentlige bygninger, Fysikk-kjemibygningen
+(den nåværende Fysikkbygningen), Astrofysisk Institutt og Farmasøytisk Institutt, samt tre brakker,
+som huset noen små institutter og Universitetsforlagets trykkeri. De fleste instituttene under
+Matematisk-naturvitenskaplig fakultet holdt til i Fysikk-kjemi-bygningen. I den delen som vender mot
+Vestre Akers kirke, holdt de kjemiske instituttene til i kjelleren, første, annen og tredje etasje, mens
+zoologene holdt til i fjerde etasje. I den andre delen, mot Holmenkollåsen, holdt fysikerne til i
+kjelleren, første og annen etasje. Dog hadde geologene noen lokaler i første etasje. I fjerde etasje lå de
+botaniske instituttene, mens tredje etasje ble befolket av geografer, både fra Matematisknaturvitenskaplig og Historisk-filosofisk fakultet, og de forskjellige instituttene som senere ble samlet
+under Institutt for matematiske fag. Disse var Matematisk institutt, med to avdelinger, Matematisk
+avdeling og Mekanisk avdeling, og Forsikringsteknisk seminar. I rommene omkring Fysikkkjemibygningens inngangs-vestibyle holdt fakultetsadministrasjonen til. I annen og tredje etasje over
+den nordlige inngang lå tegnesalene for deltakerne i kurset i deskriptiv geometri. I kjelleren på
+
+
+
+kjemisiden lå det en kantine for personale og studenter, Blindernkjelleren, hvis middagsmat ofte var et
+diskusjonsemne.
+For studentene fantes det to lesesaler, Store lesesal i fjerde etasje midt i bygningen og med plass til
+ganske mange. Her var det alltid noe uro siden den også tjente som gjennomgang mellom fysikk- og
+kjemisidene. I første etasje på fysikksida lå Lille lesesal med plass til 72 og ganske moderne. Da jeg
+begynte, hadde alle studentene fri adgang til Lille lesesal, men man skulle være der senest kl. 08.00
+for å få plass. Den kunne man beholde plassen resten av dagen, men man skulle skrive inn i en
+protokoll hvilke tider man var fraværende, så andre kunne benytte plassen i de tidsrommene. Når man
+kom noe videre i studiet, fikk man gjerne plass inne på et institutt. De fleste studentene oppholdt seg
+på Blindern hele dagen. Jeg bodde 17 minutters gange fra Blindern så jeg gikk hjem og spiste middag
+kl. 16.00 og kom så tilbake og ble der til ca. kl. 20.00. Alle kjente alle, når man hadde vært der minst
+et år.
+På Forsikringsteknisk seminar, som delvis ble finansiert av forsikringsselskapene, var Erling Sverdrup
+professor og Arnljot Høyland vit.ass. De hadde, sammen med noen eksterne lærere, ansvaret for den
+delen af aktuarutdannelsen som lå under Matematisk-naturvitenskaplig fakultet. Sverdrups tittel var
+professor i forsikringsmatematikk med (ikke og(!)) matematisk statistikk. Det var disse to som i 1955
+fikk opprettet statistikkfaget sammen med Olav Reiersøl, som på det tidspunktet var dosent i
+matematikk. Senere ble Reiersøl professor i matematikk og etter ytterligere et par år professor i
+matematisk statistikk.
+Da jeg begynte å studere i 1954, startet, så vidt jeg husker, mellom 125 og 150 nye studenter ved
+fakultetet, noe som var et normalt antall i de årene. En del falt fra ganske fort, så det var knapt 100
+som fortsatte i det neste semestret. På det tidspunktet var det ennå formelt fakultetets hovedoppgave å
+utdanne adjunkter og lektorer i realfag for den høgre skolen selv om etterhvert flere og flere
+realfagskandidater fikk arbeide utenfor skolen. Studieordningen var innrettet med henblikk på å gi de
+ferdige kandidatene undervisningskompetanse i de aktuelle fagene. Studiet besto av en førsteavdeling
+og en annenavdeling.
+Førsteavdeling skulle bestå av minst 3 forskjellige bifag, som kunne velges fritt blant fakultetets
+bifag: matematikk bifag, mekanikk bifag, fysikk bifag, kjemi bifag, osv. , over til botanikk bifag og
+zoologi bifag. Man skulle dog nøye overveie fagkretsens sammensetning og den rekkefølge man ville
+ta fagene i. Noen ytterligere oppdeling av de enkelte bifagene hadde man ikke, og man gikk opp til en
+samlet eksamen i de enkelte bifagene, normalt ett av gangen. Normalt hadde man to skriftlige
+eksamensdager, som alminneligvis varte fra 09.00 – 17.00 for hver sin del av faget, og to muntlige
+prøver, som godt kunne vare i 45 minutter, for de samme to delene, og det ble gitt en samlet karakter
+for bifaget til slutt. Enkeltkarakterer fikk man normalt ikke opplyst. I enkelte fag fantes det kurser,
+f.eks. laboratoriekurser, som skulle bestås, før man meldte seg til eksamen. I matematikk bifag hadde
+man et obligatorisk tegnekurs på ett semester i deskriptiv geometri, fordi projeksjonstegning på det
+tidspunktet inngikk i realgymnasiets matematikkpensum. Dette tegnekurset ble avsluttet med en
+særlig eksamen, hvor det blitt karakter, som ble innregnet i sluttkarakteren for faget. I botanikk hadde
+man en særskilt genetikkeksamen, som ble tatt før bifagseksamen og som ble regnet med i
+sluttkarakteren. Når man hadde tatt eksamen i tre bifag, var man cand.mag. og hadde rett til ansettelse
+som adjunkt i den høgre skolen etter å ha gjennomgått pedagogisk seminar.
+Annenavdeling var hovedfagsstudiet. Det ble normalt avsluttet med en hovedoppgave, dvs. en
+avhandling, og forskellig slags eksaminering i hovedfagspensumet. Man fikk en særskilt karakter for
+hovedoppgaven og én for hovedfagseksamen. Etter fullført hovedfagsstudium var man cand.real. og
+hadde rett til ansettelse som lektor i den høgre skolen etter avsluttet pedagogisk seminar.
+Bifagene var store blokker som man normalt studerte i to år. Dette varierte dog en del fra fag til fag.
+De fleste nye studentene startet med matematikk i første semester, samtidig som de tok forberedende
+prøve i filosofi. De, som ikke ville ta matematikk, startet med kjemi. Normalt leste man to bifag
+
+
+
+parallelt etter at det første år var overstått med forberedende prøve i filosofi og for dem, som startet
+med matematikk, tegnekurset i deskriptiv geometri. De fleste ble cand.mag. etter 4 til 4½ år.
+Studieordningen av 1955 for de matematiske fagene
+Matematikk bifag bestod av to deler: Matematisk analyse og noe som tradisjonelt kaltes geometri,
+men som faktisk omfattet mange forskjellige matematiske emner, som f.eks. lineær algebra,
+vektorregning, gruppeteori og mengdelære. Forelesningene foregikk over to år med start hvert
+høstsemester. Utover Matematikk bifag fantes bl.a. Mekanikk bifag, som ble betraktet som fakultetets
+minste og letteste bifag når man hadde tatt Matematikk bifag.
+I 1955 innførte man en nyordning for de matematiske fag. Det gamle Matematikk bifag ble oppdelt i
+to deler. Den delen som omfattet matematisk analyse, ble betegnet ”Grunnkurs i matematikk”, så vidt
+jeg husker, og geometridelen ble betegnet ”Spesialkurs i matematikk”. På grunnlag av det gamle
+mekanikk bifag laget man ”Spesialkurs i mekanikk”, som, så vidt jeg husker, stort sett bestod av det
+gamle bifaget, muligens litt mindre. Dessuten opprettet man et ”Spesialkurs i statistikk”, som var helt
+nytt.
+Kombinasjoner av to av disse fire kursene ble regnet som et bifag. Således utgjorde Grunnkurs og
+Spesialkurs i matematikk tilsammen Matematikk bifag. Dette svarte helt til det gamle Matematikk
+bifag. Grunnkurs i matematikk og Spesialkurs i mekanikk ble til Matematikk-mekanikk bifag, og
+Grunnkurs i matematikk og Spesialkurs i statistikk ble til Matematikk-statistikk bifag. Endelig kunne
+de to spesialkursene kombineres til Mekanikk-statistikk bifag. Det var også mulig ta eksamen i bare
+ett spesialkurs. Både Erik Torgersen og jeg, som begge hadde tatt eksamen i det gamle Matematikk
+bifag, benyttet oss av dette.
+Undervisningen i Spesialkurs i statistikk begynte i september 1955 med Sverdrup som foreleser, mens
+Høyland ledet øvelseskurset. Undervisningen strakte seg over to år, og den første eksamen ble holdt i
+juni 1957. Erik Torgersen og jeg deltok omtrent fra starten av, men vi gikk først opp til eksamen til jul
+i 1957. (For mitt vedkommende fordi jeg hadde vært oppe i kjemi bifag i juni 1957). På grunn av at
+man ikke hadde flere folk til å undervise, ble det ikke startet noen ny undervisning i faget før i
+september 1957, igjen med Sverdrup som foreleser og Høyland som øvelsesleder. I hele
+undervisningsåret 1958-59 var dog både Sverdrup og Høyland i utlandet. Det året holdt Herdis
+Thorén Amundsen forelesningene, og jeg stod for øvelsene. Vi ledet dem, som startet i 1957, opp til
+eksamen i juni 1959.
+Undervisningen i Spesialkurs i statistikk ble gitt i den ovennevnte formen bare to ganger. I 1958 ble
+den nye studieordningen innført, hvor alle de gamle bifagene ble spaltet opp i flere emner. Spesialkurs
+i statistikk ble delt opp i to: S1 Statistikk I og S2 Statistikk II, hvert av disse med vekttall 6. Så vidt
+jeg husker, ble denne nye studieordningen kun delvis innført i universitetsåret 1958-59, men kom
+først for alvor fra begynnelsen av høstsemestret 1959. Undervisning i S1 og S2 ble ikke gitt i
+universitetsåret 1958-59, men først fra høstsemestret 1959.
+Jeg har ingen nøyaktig erindring om det totale antallet av studenter som tok spesialkurs i statistikk,
+men jeg tror det var omkring 10 den første gangen og mellom 10 og 15 annen gang det ble holdt.
+Første gang fulgte også enkelte andre folk forelesningene, bl.a. tre ferdigutdannete meteorologer.
+Når det gjaldt numeriske beregninger i forbindelse med eksempler og oppgaver, anvendte vi små
+håndregnemaskiner de første årene. Sverdrup mente at vi skulle få regneøvelsen inn i selve kroppen,
+og derfor forbød han oss å bruke elektriske regnemaskiner. Ganske tidlig i kurset fikk vi noen dagers
+instruksjon av en regneassistent fra Sosialøkonomisk institutt i hvorledes man kunne tilrettelegge
+beregningene med slike maskiner, bl.a. med henblikk på å forbedre nøyaktigheten av resultatene. Vi
+fikk også utleveret en spesiell regneveiledning. I lokalene til Forsikringsteknisk seminar stod det noen
+håndregnemaskiner som vi kunne benytte i forbindelse med oppgaveregning. Ved eksamen fikk hver
+student utlevert en maskin. Noen av disse var visst lånt fra Sosialøkonomisk institutt. Den eneste
+
+
+
+elektroniske regnemaskinen, som fantes på Blindern på det tidspunktet, var en meget stor maskin, som
+jeg tror het Emma, og som fylte godt opp i kjellerlokalene på Fysisk institutt.
+I de dager definerte man ofte pensum i et fag som det stoffet, som var blitt gjennomgått på
+forelesningene uten at man autoriserte noen spesiell lærebok med spesifisert angivelse av pensum.
+Som regel anbefalte man studentene å lese bestemte bøker eller skrifter. I flere fag ble det forventet at
+studentene førte omhyggelige notater på forelesningene. I Matematikk bifag var dog pensum klart
+spesifisert og bestod av fyldige lærebøker på norsk, skrevet av et par av professorene i faget. Da man
+startet undervisningen i Spesialkurs i statistikk, anbefalte man to bøker: W. Feller: ”An Introduction
+to Probability Theory and Its Applications. Vol. I”, kapitlene 1, 2, 4, 5 og 6 og utvalgte kapitler av A.
+Hald: ”Statistical Theory with Engineering Applications”, men allerede etter bare noen få måneder ble
+det klart at Sverdrup foreleste så avvikende fra fremstillingen i disse bøkene, at de ikke kunne brukes i
+forbindelse med oppgaveløsningene. Det ble derfor besluttet å utgi egne, stensilerte kompendier
+basert på Sverdrups forelesninger i tre bind: Statistiske metoder I, II og III. Etter at den nye
+studieordningen ble innført, ble disse delvis omarbeidet og delt opp i en rekke mindre, stensilerte
+hefter. Disse dannet senere grunnlaget for Sverdrups lærebok: Lov og tilfeldighet I og II. Arnljot
+Høyland utarbeidet en oppgavesamling til kurset.
+Nye førsteavdelingsemner i statistikk
+Da den nye studieordningen ble innført i 1958-59, benyttet man muligheten til å opprette tre nye
+førsteavdelingsemner i statistikk: S3 Sannsynlighetsfordelinger med vekttall 3, S4 Generell
+hypoteseprøvnings- og estimeringsteori med vekttall 5 og S5 Lineærnormale forsøk med vekttall 5.
+De var alle tre basert på stensilerte kompendier skrevet av Sverdrup. Kompendiene for de to
+sistnevnte var utgitt i Sosialøkonomisk institutts serie, henholdsvis ”Prinsipper for tolkning av
+statistiske materialer” og ”Lineærnormale forsøk”. I S3 ble det første gang undervist i høstsemestret
+1959, i S4 i vårsemestret 1960 og i S5 i høstssemestret 1960.
+Sverdrup hadde opprinnelig utarbeidet disse kompendiene for aktuarstudiet som i Sverdrups tid
+gjennomgikk en kraftig opprustning med innførelsen av relevante statistiske og
+sannsynlighetsteoretiske emner.
+Hovedfagets opprettelse
+Før Statistikk hovedfag ble formelt opprettet, hadde man kunnet spesialisere seg i statistikk som en
+del av Matematikk hovedfag. Dette hadde i alt fire benyttet seg av og med Reiersøl som veileder. Tre
+av disse burde være velkjente for de fleste av leserne: Arnljot Høyland, Johan Galtung og Kristen
+Nygaard.
+Da Spesialkurs i statistikk var blitt opprettet, begynte man å planlegge et hovedfag i statistikk. Man
+forestilte seg visse sentrale fellesemner, f.eks. inferensteori, som skulle være felles for en rekke videre
+spesialiseringer, dels av mer matematisk art og dels i retning av andre fag ved fakultetet, f.eks.
+biologiske fag, eller fag utenfor fakultetet, f.eks. filosofi og lingvistikk. Kun i ganske få av disse
+emnene kunne man regne med å kunne tilby undervisning innenfor en overskuelig tid.
+I praksis ble det gitt hovedfagsforelesninger i de emnene som Sverdrup, Reiersøl og Høyland ønsket å
+forelese i, og vi som ble interessert i å ta Statistikk hovedfag fulgte omtrent alle de
+hovedfagsforelesningene som ble gitt, så snart vi hadde tatt Spesialkurs i statistikk. Jeg husker at jeg
+selv fulgte forelesninger av Sverdrup bl.a. om betinget testning i Darmois-Koopmans eksponensielle
+fordelingsklasse, om beslutningsteori og om sekvensanalyse, av Reiersøl bl.a. om stokastiske
+prosesser basert på de 7 siste kapitlene i Feller I, om forsøksanalyse, om konstruksjon av
+forsøksplaner basert på et kompendium Reiersøl hadde utgitt i Sosialøkonomisk institutts serie, og om
+genetiske algebraer, og av Høyland om ikke-parametriske metoder. Dessuten fulgte jeg visse
+hovedfagsforelesninger i matematikk, f.eks. om funksjonsteori og om mål- og integralteori og fra
+aktuarstudiet om numerisk analyse. Til noen av forelesningene fantes det bøker eller annet skriftlig
+materiale, men som regel var det nødvendig å føre omhyggelige notater på forelesningne. Disse
+
+
+
+sammenlignet vi ofte etter forelesningene. På denne måten fikk vi en god, bred oversikt over vidt
+forskjellige deler av fagets teori, og det har jeg hatt meget nytte av i alle år siden. De emnene, som
+skulle inngå i pensum, og som man skulle eksamineres i til hovedfagseksamen, ble avtalt individuelt
+når man meldte seg til eksamen. Da jeg studerte, fantes det ingen form for fast pensum til
+hovedfagseksamen.
+En vesentlig del av et hovedfagsstudium bestod i å utarbeide en hovedoppgave, en mindre avhandling
+over et forskningsbasert emne. Ifølge reglene skulle en hovedfagsstudent ha en veileder i forbindelse
+med dette prosjektet og skulle motta veiledning. I realiteten ble man ofte meget overlatt til seg selv.
+Det virket som om statistikklærerne følte seg meget usikre i forhold til veilederrollen. I enkelte tilfelle
+kunne man få god veiledning. Det vet jeg at Else Sandved fikk av Reiersøl i forbindelse med en
+hovedoppgave om forsøksplanlegning. Jeg selv derimot, hadde ingen veileder overhodet, jeg fikk
+etter lengre tids søkning en god idé innenfor teorien om beste, asymptotisk normale estimatorer som
+jeg fikk skrevet en hederlig hovedoppgave om, uten noen som helst veiledning. Lærerne hørte først
+om saken på et seminar, hvor jeg redegjorde for den, da den var nærmest ferdig.
+Hovedfagsstudiet i statistikk ble for oss mer omfattende enn vi først hadde forestilt oss, av flere
+grunner, bl.a. fordi de ovennevnte emnene S3, S4 og S5 opprinnelig var ment som hovedfagsemner,
+Men så ble de omgjort til førsteavdelingsemner og så måtte vi ta eksamen i dem som en del av
+førsteavdeling. På denne måten fikk jeg en meget stor førsteavdeling på i alt 95 vekttall: Matematikk
+bifag 30 vekttall, Kjemi bifag 20 vekttall, Botanikk bifag 20 vekttall og Spesialkurs i statistikk 12
+vekttall, samt S3, S4 og S5 med tilsammen 13 vekttall. En annen grunn til at hovedfagsstudiet tok
+lang tid, var at vi deltok i grunnleggelsen av et helt nytt hovedfag. Vi følte oss som pionerer. En hel
+del fagspesifikke rutiner, som de øvrige hovedfagene forlengst hadde utviklet, måtte vi først etablere.
+Reiersøl og Høyland hadde tatt matematikk hovedfag og kjente personlig til prosedyrene omkring det,
+men Sverdrup var aktuarutdannet og hadde ingen personlig erfaring med noe hovedfag.
+Lokaleforholdene
+De første årene bestod Forsikringsteknisk seminar av tre lokaler: Et middels stort rom, hvor den
+vitenskapelige assistenten hadde kontor, et gjennomgangsrom, hvor det stod noen håndregnemaskiner
+til bruk for studentene, og et noe langsmalt lokale med bibliotek og leseplasser for noen få
+aktuarstudenter. Dette lokalet hadde egen inngang til rom 328, som var et mindre auditorium med
+mye tavleplass og med plass til ca. 20 tilhørere. Her holdtes forelesninger i statistikk,
+forsikringsmatematikk og matematikk hovedfag. Sverdrup og Reiersøl hadde kontorer inne på selve
+Matematisk institutt sammen med professorene i matematikk og i mekanikk.
+Omkring 1960, da Forsikringsteknisk seminar var blitt omdannet til Avdeling C, Statistikk og
+forsikringsmatematikk under Institutt for matematiske fag, ble lokalesituasjonen vesentlig forbedret
+ved at geografene rykket ut av den gangen, som de matematiske fagene befant seg på, og over til 3Gbygget (3 geologiske institutter), som var blitt oppført i bakken ned mot Vestre Akers menighetshus.
+Den vitenskapelige assistenten og andre lærere, som etterhvert ble ansatt, kunne få egne kontorer
+annensteds på gangen. Dermed kunne vit.ass.-kontoret omdannes til leserom for hovedfagsstudentene.
+Jeg husker at vi satt 6 stykker samtidig der inne. Selv om det var trangt, gikk det ganske fint.
+Hovedfagsstudentene og instituttarbeidet
+Flere av dem som begynte på Statistikk hovedfag fikk etterhånden forskjellige instituttoppdrag,
+hovedsaklig av undervisningsmessig art. I mange tilfeller bestod dette i å lede et oppgavekurs som
+hjelpelærer.
+Jeg skal beskrive mitt eget forløp, selv om det ikke var typisk. Som nevnt tok jeg Spesialkurs i
+statistikk i høstsemestret 1957. Men allerede sommeren 1958 ble jeg ansatt som vit.ass.-vikar for ett
+år, fordi Høyland skulle til Berkeley på ett års studieopphold. Hovedoppgaven bestod i å lede
+oppgavekurset i det faget jeg hadde tatt eksamen i et halvt år tidligere, noe som ble en hård, men
+meget lærerik oppgave. Studentene klarte seg fint til eksamen. Dessuten skulle jeg administrere
+
+
+
+Forsikringsteknisk seminar det året. Denne administrasjonen ble mer omfattende enn den Høyland
+hadde hatt, fordi Sverdrup dro samtidig på ett års opphold i Paris. Herdis Thorén Amundsen, som var
+dosent på Sosialøkonomisk institutt, holdt forelesningene for Sverdrup, men befattet seg ikke med
+denne administrasjonen. Da jeg var ansatt bare i et halvtidsvikariat, følte jeg at jeg ble rimelig sterkt
+utnyttet, selv om det var et meget lærerikt år. Senere holdt jeg et par oppgavekurs som hjelpelærer, og
+i februar 1961 ble jeg ansatt som vit.ass. (denne gang i full stilling), en stilling som jeg hadde inntil
+jeg forlot landet den 31. mars 1963 som ferdig cand.real.
+I disse årene fikk man de første tilløpene til studentinnflytelse på universitetene, og jeg deltok i et par
+år i instituttmøtene på Institutt for matematiske fag som medlem av Matematisk fagutvalg og
+representant for hovedfagsstudentene i statistikk.
+Hovedfagsstudentene som statistiske konsulenter
+Som alle statistikere vil vite, har forskere i andre fag ofte et stort behov for statistisk hjelp. Da det, i
+det minisamfunn som Blindernmiljøet bestod av, etterhånden ble kjent at det fantes
+hovedfagsstudenter i statistikk på stedet, var det flere av de ansatte som benyttet seg av dette, spesielt
+biologer. Som regel var det små beregninger det dreiet seg om, men det forekom også større
+prosjekter, som kunne gi en viss biinntekt. Enkelte leger dukket også opp, jeg husker spesielt én som
+var meget arrogant og sa at han hadde noen tall som kunne være en passende øvelsesoppgave for
+statistikere. Vi lærte på den måten å håndtere leger som søkte statistisk bistand, noe som har vært
+meget nyttig i alle år siden.
+Denne konsulentvirksomheten var helt uorganisert og ble ordnet med personlige avtaler med de
+studentene som var interesserte. Instituttet var ikke involvert, selv om professorene noen ganger
+henviste oppdragsgiverne til oss. Reiersøl snakket en del om at det burde opprettes en egen statistisk
+konsulenttjeneste ved instituttet, men det ble det ikke noe av mens jeg var der. For mitt eget
+vedkommende fikk jeg på denne måten etablert et samarbeide med daværende dosent Jan Mohr på
+Institutt for medisinsk genetikk, som befant seg i en av brakkene på Blindernområdet. Da han i 1964
+ble professor i arvebiologi (dvs. medisinsk genetikk eller human genetikk) ved Københavns
+Universitet, kontaktet han meg, og det medførte at jeg i de følgende 30 år ble sterkt involvert i stort
+antall danske, tyske og europeiske prosjekter innenfor humangenetikk eller medisinsk genetikk.
+Et personlig tilbakeblikk på studiet
+Når jeg nå etter nesten 50 år ser tilbake på studiet, skal det først og fremst sies at studiet på mange
+måter har gitt meg et solid, faglig fundament som har satt meg i stand til å håndtere ofte meget
+vanskelige, faglige utfordringer på de mest forskjelligartede områder. At hovedfagsstudiet i statistikk i
+begynnelsen var temmelig ustrukturert og famlende, har vært en fordel for oss få som gjennomlevde
+det, fordi det lærte oss en høy grad av faglig fleksibilitet.
+På den annen side gjennomgikk jeg studiet i en tidsperiode hvor det foregikk hårde, faglig-ideologiske
+strider mellom forskjellige retninger innenfor faget statistikk. Disse stridene har jeg omtalt i den
+anmeldelsen jeg skrev i siste nummer av TG om S.K. Chatterjee: ”Statistical thought, a perspective
+and history”. På Blindern hadde man klart valgt en sterkt ideologisk Neyman-Pearson-linje, og R.A.
+Fisher og hans synspunkter stod ikke høyt i kurs. Da jeg i 1961 sammen med Reiersøl og Høyland
+deltok i en kongress for International Statistical Institute, hvor R.A. Fisher holdt et foredrag,
+antageligvis det siste han holdt ved en internasjonal kongress, frarådet Reiersøl meg direkte fra å gå til
+det foredraget. Da jeg så kom til Danmark direkte fra Blindern, møtte jeg et faglig miljø bestående av
+like så sterkt ideologisk forankrete Fisher-tilhengere. Det ga meg et faglig kultursjokk. ”Men det er en
+helt annen historie”, som Rudyard Kipling pleide å skrive.
+Jeg begynte egentlig å studere realfag fordi jeg ville bli botaniker. Statistikk valgte jeg fordi jeg, sterkt
+tilskyndet av min far, ønsket å studere problemer innenfor botanikken med kraftigere vitenskapelige
+redskaper enn dem botanikerne normalt anvendte. Men mot slutten av studiet forstod jeg at
+botanikerne på det tidspunktet overhodet ikke var mottakelige for avanserte statistiske metoder. Det er
+
+
+
+de blitt først i de aller seneste år, og bare noen av dem. Med dette anvendelsesaspektet som vesentlig
+faglig bakgrunn for meg, ble jeg meget skuffet over visse deler av den undervisningen vi fikk.
+Sverdrup uttalte gang på gang: ”Modellen er oppdragsgiverens ansvar. Statistikeren kommer inn i
+bildet når modellen er oppstilt.” Både han og Reiersøl nektet å diskutere, bortsett fra visse
+spesialtilfeller, hvorledes man formaliserer en eksperimentalsituasjon med foreliggende data til en
+statistisk modell. Men dette kom jeg til å lære i Danmark.
+
+
+
+Statistikk og økologi
+Har du noen gang hørt et ord mange ganger, men ikke riktig helt fått taket på hva det betyr? Jeg
+hadde det slik med “økologi” som vitenskapelig gren inntil jeg hørte Nils Chr. Stenseth holde
+foredrag for en del år siden. Han åpnet med å si følgende: “Ecology is species in space and time”
+(Økologi er arter i rom og tid). Riktignok har ingen økologer jeg har snakket med siden sagt seg
+100% enig i denne definisjonen, men for meg var den meget oppklarende.
+Det er et faktum at økologiske miljøer ofte er villige til å knytte sterke bånd til statistikere. Da
+man alltid må investere noe i slike samarbeid, enten i form av egen tid eller at man må ofre en
+økolog-stilling til fordel for en statistiker-stillinger, kan vi lure på hvorfor det er slik. Ifølge
+evolusjonslæren, biologiens egen logikk, må økologene tjene noe på samarbeidet. For å finne ut
+hva dette ”noe” er kontaktet vi tre fagmiljøer der økologer og statistikere jobber side om side, og
+ba dem gi sitt syn på saken.
+H. Skaug
+Statistikk og økologi ved NTNU
+Av Jarle Tufto, Institutt for matematiske fag, NTNU
+Ved NTNU er det for øyeblikket to større forskningsprogrammer hvor både økologer (Institutt for
+biologi og NINA) og statistikere (Institutt for matematiske fag) deltar. Det ene programmet er et
+strategisk universitetsprogram i bevaringsbiologi (se www.bio.ntnu.no/sup). Programmet er delt
+inn i fire mindre felt: levedyktighetsanalyse, faktorer som påvirker sannsynligheten for etablering
+av introduserte arter, årsaker til og virkninger av tap av genetisk mangfold, og romlig skalering
+av populasjonsdynamiske prosesser. Det andre programmet finansiert av forskningsrådet har
+som målsetning å undersøke effekten av klimaendringer på populasjonsdynamikken til ulike
+vertebrater, både marine og terrestriske.
+I begge programmene er bruken av stokastiske populasjonsmodeller sentrale. Dette er et felt som
+særlig Steinar Engen (Institutt for matematiske fag) og Bernt-Erik Sæther (Institutt for biologi)
+har jobbet aktivt med de siste 12 årene i samarbeid med Russell Lande (University of California,
+San Diego). Framfor å bruke tradisjonelle lineære tidsseriemodeller har en sett det som vesentlig
+å bygge statistiske modeller hvor biologiske viktige parametere som demografisk varians og
+miljøvarians, samt ulike former for tetthetsavhengighet inngår i modellene. Dersom en har data
+både på individuell reproduksjon og lengre tidsserier kan både den demografiske variansen og
+miljøvariansen estimeres.
+Basert på slike modeller kan en så gjøre ulike former for levedyktighetsanalyser, enten analytisk
+ved bruk av diffusjonstilnærmelser eller ved bruk av simuleringer. F.eks. kan sannsynligheten for
+at en bestand dør ut i løpet av de neste 100 år estimeres eller en kan lage prediksjonsintervall for
+
+
+
+populasjonstettheten ved ulike tidspunkter i framtiden. Motsatt kan en kreve at sannsynligheten
+for utdøing skal være under et visst nivå og så undersøke hva som er et optimalt
+forvaltningsregime. Denne siste formen for levedyktighetsanalyse blir nå anvendt i praksis i
+forvaltningen av blant annet bjørn og jerv.
+Norsk institutt for naturforskning (NINA) er et privat stiftelse som for en stor del driver med
+oppdragsforskning. Et interessant prosjekt der som involverer samarbeid mellom statistikere
+(Ola Diserud) og økologer går ut på å modellere såkalte stock-recruitmentsammenhenger i ulike
+lakseelver. Her vil typisk parametere som karakteriserer dynamikken i bestandene variere mellom
+ulike elver og delvis kunne predikeres av fysiske egenskaper ved hver elv slik som vannføring,
+vannkvalitet, topografi o.l. Samtidig er mengden data fra hver enkeltelv begrenset og dette gjør
+det nødvendig å utnytte informasjon fra alle elvene ved estimering av lokale parametere. En
+målsetning i prosjektet er å løse dette ved bruk av Bayesianske hierarkiske modeller.
+
+Statistikk og økologi ved Centre for ecological and evolutionary synthesis (CEES)
+Av Christian Brinch, CEES, UiO
+Det statistiske arbeidet ved CEES utføres i stor grad av statistisk kompetente biologer, delvis i
+samarbeid med hel- eller deltids assosierte statistikere. For øyeblikket er vi en statistiker med
+CEES som arbeidsplass, mens 3 statistikere er assosiert gjennom deltidsstillinger, men omfanget
+av statistikkmiljøet ved CEES varierer en del over tid. Målet er å være et faktisk fungerende og
+interessant statistikkmiljø, der statistikerne kan bistå biologene og samtidig bli inspirert av
+interessante biologiske problemstillinger.
+Det ligger i kortene at de statistiske anvendelse i kompliserte empirisk forskningsområder som
+økologi og evolusjon vil være svært varierte. Vi kan likevel si at ett tema går igjen som en rød
+tråd i store deler av det statistiske arbeidet på CEES: Vi ønsker å forstå populasjonsdynamikk ved
+hjelp av statistisk analyse av tidsserier av forskjellige typer observasjoner av forskjellige arter.
+For å forstå populasjonsdynamikk basert på slike analyser, er vi avhengige av å forstå
+sammenhengene mellom parametrene i den statistiske modellen og de populasjonsbiologiske
+sammenhengene som genererer observasjonene våre. Kjerneproblemet vårt er altså å modellere
+tidsserier slik at modellene fortrinnsvis har tolkbare parametre og å estimere disse parametrene.
+Ut fra dette kjerneproblemet stråler en rekke rike problemstillinger. Jeg beskriver kort noen av
+problemstillingene vi jobber med på CEES, med vekt på å skissere problemer og ikke løsninger.
+1. Hvordan skal man modellere parallelle tidsserier av forskjellige arter?
+2. Hvordan skal man modellere parallelle tidsserier av årsklasser av samme
+art?
+Problem 1 omhandler interaksjon mellom artene. Står artene i et rovdyr-byttedyr-forhold? Er de
+konkurrenter? Et viktig problem i denne typen interaksjoner er at verken virkeligheten (såvidt vi
+vet) eller klassiske økologiske og evolusjonære modeller for samspill mellom artene er lineære. I
+problem 2 dukker fortsatt interaksjonene fra problem 1 opp gjennom kannibalisme og intern
+
+
+
+konkurranse. I tillegg er det nødvendig å modellere prosesser som rekruttering og overlevelse fra
+observasjonsperiode til observasjonsperiode.
+3. Hvordan skal man modellere parallelle tidsserier av samme art med
+romlig variasjon?
+Problem 3 er av sentral betydning i praksis. Kan man anta at serier fra forskjellige steder har
+samme struktur? Kan man anta at serier fra forskjellige steder er uavhengige, eller er seriene
+synkroniserte? Hva slags mekanismer er det i tilfelle som synkroniserer dem? Bør man eksplisitt
+modellere migrasjon eller annen romlig struktur? Hvis man analyserer delvis synkroniserte serier,
+hvordan skal man få et grep på usikkerhet i estimater?
+4. Hva er sammenhengen mellom en populasjonsbiologisk modell i mange arter
+og populasjonsdynamikken slik vi observerer den gjennom en undergruppe av
+artene?
+5. Hvordan skal man ta hensyn til "målefeil" i observasjonene?
+Både problem 4 og problem 5 involverer en modellstruktur med bestandsstørrelser som vi bare i
+beste fall delvis kan observere. Her åpner det seg to prinsipielt forskjellige spørsmål: Hva er det i
+prinsippet mulig å avdekke av sammenhenger i et populasjonsbiologisk system ved å kun
+observere en del av systemet? Hvordan bør man i praksis gjennomføre modellering og estimering
+i denne typen problemer?
+6. Hvordan skal man velge hva slags modell man skal bruke?
+7. Hvordan skal man kvalitetskontrollere modellen sin?
+I økologi har man ofte ikke oversikt over hva slags modell man skal bruke eller engang hva som
+er de viktige sammenhengene i det økologiske systemet man studerer. Derfor er det gjerne slik at
+man må anta mer enn man strengt tatt skulle ønske at var nødvendig. Det er også slik at det å
+finne hovedstrukturen i systemet ofte er av overordnet betydning sammenliknet med de
+kvantitative sammenhengene. Et hovedmål i et fag som økologi er å finne enkle modeller som
+faktisk er i stand til å forklare de vesentlige trekkene i data. Hva betyr at modellen er i stand til å
+forklare de vesentlige trekkene i data, og hvordan kan man lete etter og finne slike modeller?
+Leseren vil ha fått med seg at her er det mange åpne spørsmål. Dette reflekterer virkeligheten
+innen økologi og evolusjon. Her er det mye statistisk arbeide å ta tak i. CEES-gruppen er både et
+interessant sted for statistikere å jobbe, og et sted der statistikere er svært velkomne.
+
+Statistikk og økologi ved Havforskningsinstituttet
+Mette Mauritzen og Edda Johannesen, Havforskningsinstituttet.
+Havforskningsinstituttet er et stort institutt med mange og varierte oppgaver innen marin
+forskning. Oppgavene omfatter forskning på det fysiske marine miljø, kommersielle marine arter
+og havbruk. Havforskningsinstituttet skal blant annet estimere bestandsstørrelser av de
+kommersielle arter av krepsdyr, fisk og sjøpattedyr. Disse estimatene blir igjen brukt som
+
+
+
+utgangspunkt for å sette kvoter. Arbeidet med å estimere bestander, og forstå hvordan og hvorfor
+bestandene fluktuerer i tid rom, er ett spennende og viktig arbeidsfelt hvor statistikk er et sentralt
+verktøy sammen med økologi og matematisk modellering.
+Den økologiske forskningen på havforskningsinstituttet undersøker typisk hvilke økologiske
+prossesser som er med på å endre bestandstørrelsene og bestandenes sammensetning. En bestand
+kan reduseres fordi rekrutteringen slår feil pga ugunstige klimatiske forhold for egg og
+fiskelarver, fordi det er lite mat tilgjengelig, eller fordi det er mange predatorer som spiser egg,
+fiskelarver, ungfisk eller voksen fisk. Her er mulighetene mange, og det er komplekse og
+mangfoldige relasjoner mellom en bestand og dets fysiske og biologiske miljø som må
+identifiseres. For å finne slike relasjoner er statistikk et viktig verktøy. Gjennom å analysere
+tidsserier av bestandsstørrelser og aldersfordeling sammen med parallelle tidsserier på havklima
+kan vi få en pekepinn på hvilke relasjoner mellom fysisk miljø og bestand som kan være viktige.
+For å studere predasjon kan vi likedan se på hvordan tidsserier av predatorbestander samvarierer
+med fiskebestanden.
+Mange økologiske prosesser har også viktige romlig komponenter. For eksempel er predasjon
+avhengig av at predatorer og byttedyr har overlappende fordeling i tid og rom. Og fordi
+predatorer ofte samles i områder hvor byttedyr er tilgjengelige, kan samvariasjon i romlig
+fordeling av predatorer og byttedyr gi oss en viktig pekepinn på hvem som spiser hvem. I denne
+sammenheng brukes statistiske modeller for å teste om det er en signifikant samvariasjon i
+fordeling av predator og byttedyr, for eksempel langs en transektlinje, og estimere styrken på
+denne samvariasjonen. En mer direkte metode for å undersøke hvem som spiser hvem er å se på
+mageinnholdet til predatorer som for eksempel torsken. Når data på predatoratferd (romlig
+fordeling eller mageinnhold) og byttedyretilgjengelighet er tilgjengelige over flere år og over
+større områder (som for eksempel Barentshavet) kan vi også estimere predators respons på
+variasjon i tettheter av byttedyrbestanden. Når byttedyrbestanden er liten kan predasjonen
+nærmest opphøre fordi predatorene søker alternative byttedyr med større tetthet og som dermed
+er lettere å få tak i. Når byttedyrbestanden er veldig stor kan predasjonen flate ut, siden
+predatorene utgjør en begrenset bestand som kan spise en begrenset menge fisk. Slik
+predatoratferd vil gi ikke-lineære relasjoner mellom predators konsum av en byttedyrbestand og
+byttedyrbestandens størrelse. Estimering av slike ikke-lineære funksjonelle responser er sentralt
+for å forstå hvordan predatorer påvirker byttedyrbestander.
+Her har vi nevnt et lite knippe med problemstillinger hvor statistikk benyttes som sentrale
+metoder. Mye av dette arbeidet gjøres av folk med litt kursing i anvendt statistikk. Men gjennom
+samarbeid med statistikere får vi nye muligheter med bruk av ofte mer kompliserte, men også
+riktigere metoder, som gjerne er mer presist formulert i forhold til hva vi egentlig vil finne ut.
+Samarbeid mellom statistikere og økologer er derfor utfordrende, nyttig og viktig. Ofte kreves
+inngående dialoger mellom statistiker og økolog for å konkretisere problemstillinger både
+økologisk og statistisk. I en slik prosess lærer gjerne begge parter mer om både eget og den
+annens fagfelt.
+
+
+
+Lysebumø tet 2004: Causality  a statisti al viewpoint
+7.-8. september arrangerte Norevent og Cigene (Centre for Integrative Geneti s)
+Lysebumøtet 2004, om statistiske innfallsvinkler til kausalitet.
+Å oppdage og forstå årsakssammenhenger er et sentralt mål for mye av det
+vi kaller (empirisk) vitenskap, både innenfor natur- og samfunnsfagene.
+
+Likevel
+
+har statistikere tradisjonelt vært svært skeptiske til å snakke om kausalitet, selv om
+
+brukerne av statistikk ofte er interesserte i kausale tolkninger. Disse holdningene ser
+nå ut til å være i ferd med å endres hos mange statistikere, og det har vært økende
+interesse for kausalitet, noe som gjenspeiles i oppslutningen om årets Lysebumøte.
+Møtet ble innledet av to tutorials. For enkelhets skyld vil jeg konsentrere meg
+om disse og bare kort referere til de andre foredragene.
+Vanessa Didelez fra University College i London presenterte en introduksjon til
+gra
+ske modeller for kausal inferens. Vi kan se på disse modellene som en matematisk formalisering av den enkle ideén om å tegne en pil fra A til B hvis A er en årsak
+til B . Hvis vi er interesserte i en mengde av objekter og mulige årsakssammenhenger
+mellom disse, kan vi nå tegne en graf der hvert objekt er en node i grafen, og sette
+inn kanter (piler) der det er årsakssammenhenger. Et av de mest kjente eksemplene på gra
+ske modeller er Bayesianske nettverk, som er grafer der nodene står
+for stokastiske variable og kantene representerer betingede uavhengighetsrelasjoner
+mellom disse. Selv om disse grafene i utgangspunktet bare sier noe om betingede
+uavhengigheter, kan de gjøres kausale ved å legge til symbolisme for å representere
+intervensjoner og gjøre tilleggsantakelser.
+Miguel Hernán fra Harvard S hool of Publi
+
+Health snakket om kontrafaktisk
+
+analyse, som er en annen viktig innfallsport til kausal inferens.
+
+Jeg bruker her
+
+Hernáns eget eksempel: La oss si Per tar en bestemt pille (A = 1), og dør (Y
+
+= 1).
+
+La oss tenke oss at vi vet at hvis Per ikke hadde tatt pillen (A = 0), ville han
+
+= 0). Vi må da konkludere med at pillen var årsak til Pers død. Dette
+Ya er
+verdien Y ville hatt hvis A hadde hatt verdien a. Pillen har en årsakseekt på
+død hvis og bare hvis Y0 6= Y1 (i Pers tilfelle er Y0 = 0 og Y1 = 1). Generelt kan
+
+overlevd (Y
+
+kan uttrykkes med formelt på følgende måte: Den kontrafaktiske variabelen
+
+vi ikke identi
+sere årsakseekter på individnivå (vi kan ikke vekke Per opp fra de
+døde og sende ham tilbake til tiden før han 
+kk pillen).
+
+Vi kan komme over på
+
+populasjonsnivå ved å la P r(Ya = 1) være andelen i populasjonen som hadde dødd
+
+hvis alle hadde fått behandlingen a. Det er en årsakseekt på populasjonsnivå hvis
+
+P r(Y1 = 1) 6= P r(Y0 = 1), og disse sannsynlighetene kan estimeres konsistent under
+visse betingelser.
+Kort om resten av møtet: Steen Lauritzen fra University of Oxford snakket om
+gra
+ske modeller for surrogatvariable. Vanessa Didelez presenterte sitt arbeid innen
+gra
+ske modeller og dynamisk kausalitet (der tidsaspektet er eksplisitt med i bildet)
+
+basert på begrepet lokal uavhengighet. Miguel Hernán ga et foredrag om estimering av årsakseekter i dynamiske behandlingsregimer. Harald Martens snakket om
+kausalitet og dataanalyse som prosess, med fokus på partial least squares (PLS).
+Johan Fosen fra Avdeling for statistikk ved UiO presenterte en gra
+sk metode for
+analyse av overlevelsesdata med tidsavhengige (og interne) kovariater. Niels Keiding
+snakket om kausal inferens innen forløpsanalyse, med eksempler fra epidemiologisk
+forskning. Rom-tid-modellering av opiumproduksjon og krigsherredomininans i Afganistan var tema for Tore S hweders foredrag. Flere av foredragene omhandlet
+genetikk: Stig Omholt (leder av Cigene) snakket bl.a. om regulatorisk biologi og
+kvantitativ genetikk, Örjan Carlborg ga et foredrag om epistatiske strukturer i QTLdata og Nuala Sheehan fra University of Lei ester diskuterte gra
+sk representasjon
+av problemer innen genetikk. Arnoldo Frigessi (i samarbeid med undertegnede) presenterte en høyttenking om hvordan kausale utsagn blir brukt i genetisk litteratur,
+og om potensialet for formell teori for kausalitet innen genetikk.
+Egil Ferkingstad
+Program, sammendrag og slides er tilgjengelig fra www.med.uio.no/imb/stat/norevent/ urrent_meetings/.
+
+
+
+Pusleri nr. 16 (løsning)
+Oppgaven var: En trekvist med lengde 1 meter skal deles i tre med to øksehugg.
+Anta at første hugg treffer iht. en uniform fordeling over pinnens lengde, og at en så
+griper den lengste pinnen som deles på tilsvarende måte. Hva er forventet lengde på
+den lengste av de tre pinnene en da sitter igjen med?
+En god løsning er mottatt fra Jarle Tufto, NTNU (se egen side)
+
+Pusleri nr. 17
+Et spill mellom to personer er basert på uavhengige trekninger Uniform[0,1] , der det
+gjelder å få det største tallet. Spiller nr.1 trekker sitt første tall, men kan velge om
+han vil forkaste det og trekke på nytt. I så fall må det nye tallet beholdes. Spiller nr.
+2 gjør akkurat det samme, med den forskjell at hun ser hvorvidt spiller nr.1 velger å
+trekke på nytt eller ikke. Spørsmålet er:
+Hva er optimal strategi for hver av de to spillerne?
+Man kan tenke seg to situasjoner:
+1. Spiller nr. 1 vet ikke at spiller nr.2 ”titter”.
+2. Spiller nr. 1 vet at spiller nr.2 ”titter” (og spiller nr.2 vet at nr.1 vet…).
+Versjon 2 er nok en langt større utfordring enn 1. Hva sier TG-leseren?
+
+Forslag til løsning sendes til Jostein.lillestol@nhh.no .
+
+
+
+0.6
+
+0.8
+
+1.0
+
+La X1 være lengden av korteste del etter første hugg. Da er X1 ∼ U (0, 1/2).
+La X2 være en vilkårlig del etter andre hugg og X3 siste gjenværende del.
+Da er X2 |X1 = x1 ∼ U (0, 1 − x1 ) slik at simultantettheten til X1 , X2 blir
+f (x1 , x2 ) = 2/(1 − x1 ) for 0 ≤ x1 ≤ 1/2 og 0 ≤ x2 ≤ 1 − x1 .
+Dette området kan igjen deles i områder hvor henholdvis X1 , X2 og X3
+er størst (hendelsene A1 , A2 og A3 ):
+
+0.4
+
+X2
+
+A2
+
+0.2
+
+A1
+
+0.0
+
+A3
+
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+X1
+
+Forventningen kan så skrives
+E(Xmax ) =E(X1 |A1 )P (A1 ) + E(X2 |A2 )P (A2 ) + E(X3 |A3 )P (A3 )
+=E(X1 |A1 )P (A1 ) + 2E(X3 |A3 )P (A3 ),
+
+(1)
+
+fordi X2 og X3 har samme fordeling. Integerer vi over de betingede fordelingene kan P (Ai ) forkortes bort i hvert integral og vi får
+Z 1/2 Z x1
+
+2x1
+dx2 dx1
+1/3
+1−2x1 1 − x1
+Z 1/3 Z 1 (1−x1 )
+2
+2(1 − x1 − x2 )
++2
+dx2 dx1
+1 − x1
+0
+0
+Z 1/2 Z 1−2x1
+2(1 − x1 − x2 )
++2
+dx2 dx1
+1 − x1
+1/3
+0
+4
+= 2 ln ≈ 0,575.
+3
+
+E(Xmax ) =
+
+(2)
+
+
+
+Norsk Regnesentral (NR) er et ledende forskningsinstitutt innen anvendelser av IKT og statistiskmatematisk modellering. Instituttets 75 ansatte arbeider med anvendt forskning på oppdrag for næringsliv
+og offentlig sektor i Norge og internasjonalt. Vi skaper forskningsresultater som brukes og synes.
+
+Norsk Regnesentral (NR) søker
+
+STATISTIKERE
+NR er nasjonalt ledende innen anvendt statistisk oppdragsforskning. Våre to statistikkavdelinger består av 38 forskere. Med økende oppdragsmengde innen statistiskmatematisk modellering og analyse trenger vi å styrke oss ytterligere.
+NR søker 2 forskere med:
+
+· Solide teoretiske og praktiske kunnskaper innen statistikk og matematisk modellering
+· Interesse for oppdragsforskning, markedskontakt og kundeoppfølging
+· Evne og lyst til å bli en ressursperson innen et av våre satsningsområder
+· Programmeringskompetanse
+Vi søker både erfarne statistikere og yngre med stå-på-vilje. Erfaring fra anvendelser som
+geologi, petroleum, bank, energimarkedet, marine ressurser, bioinformatikk, medisin eller
+logistikk vil bli tillagt vekt, men er ingen nødvendighet.
+Vi tilbyr spennende og varierte prosjekter og hyggelige kolleger i et unikt fagmiljø. I tillegg
+kan vi tilby konkurransedyktig lønn, kollektiv pensjons- og forsikringsordning, bedriftshelsetjeneste og mulighet for barnehageplass. Norsk Regnesentral holder til ved Forskningsparken
+på Blindern i Oslo.
+For nærmere informasjon kontakt forskningssjef André Teigland, 2285 2675 eller forskningssjef
+Petter Abrahamsen, 2285 2640.
+Søknad med cv, vitnemål og attester sendes HR-kontoret innen 1. mars 2005. Du kan også
+sende søknaden til human.resources@nr.no.
+Norsk Regnesentral
+Gaustadalléen 23
+Postboks 114 Blindern
+NO-0314 Oslo
+
+(+47) 22 85 25 00
+nr@nr.no
+www.nr.no
+
+
+
+International Biometric Society
+Nordic Regional Conference
+Rikshospitalet, Oslo, Norway, 2nd to 4th of June 2005
+
+Plenary speakers
+Per Kragh Andersen
+(Copenhagen)
+Event history analysis
+
+Steinar Engen (Trondheim)
+Wildlife populations
+
+Peter Guttorp (California,
+USA)
+Environmental and ecological
+statistics
+
+Sessions and their organisers
+Statistical genetics and bioinformatics
+Fertility
+Intermediate variables in epidemiology
+Environmental sensitivity
+Measurement error
+Spatial statistics
+Graphical models
+Modern statistical techniques in agriculture
+DeCODE
+Animal breeding
+Contributed papers
+
+Ingrid Glad
+Niels Keiding
+Odd Aalen
+Jukka Ofversten
+Petter Laake
+Juha Heikkinen
+Svend Kreiner
+Are Aastveit
+Niels Keiding
+Daniel Sørensen
+Elisabeth Svensson
+
+Pre-conference Course in Bioinformatics
+1st and 2nd of June, Rikshospitalet, Oslo, Norway
+Organised by Claus Ekstrøm (Denmark) and Mats Rudemo (Sweden)
+Contributions and Posters
+Please contact Elisabeth Svensson (elisabeth.svensson@esi.oru.se)
+Scientific committee
+Elisabeth Svensson, chair (Sweden), Niels Keiding (Denmark), Sven Ove Samuelsen
+(Norway), Jukka Ofversten (Finland) and Are Aastveit (Norway)
+Website with Additional Information
+http://ibs2005.umb.no/index.html
+
+
+
+Swedish Summer School of Statistics 2005
+Dear fellow presidents of Nordic Statistical Societies,
+It is a great pleasure for me to invite all members of your Societies to take part in the Swedish
+Summer School of Statistics 2005. It takes place at Högskolan Dalarna in Falun, June 13-19,
+2005. The theme is "Alternative Perspectives on Statistical Inference". Keynote speakers are
+Professor Tore Schweder (Oslo University, Norway) and Professor Jan Bjørnstad (Statistics
+Norway). Schweder will focus on Fiducial Inference whereas Bjørnstad will lecture on
+Predictive inference. Moreover, the program committee is inviting a few speakers for
+additional lectures on various topics related to the theme. In addition, attendants may submit
+work of their own for presentation. Of course, we welcome presentations from all Nordic
+countries, and PhD students are particulary encouraged. The deadline for submitting titles and
+abstracts of presentations is April 1st, and for signing up the deadline is April 15th.
+For more information, see
+http://www.statistikersamfundet.se/summer05.htm
+Rolf Larsson
+Chairman of the Swedish Statistical Society
+
+
+
+EMS 2005 i Oslo
+24.-28. juli 2005 er det hverken hytta på Sørlandet, vinslottet i Toscana, svigermor i
+Finnmark eller turen til Legoland som teller: Da er det nemlig the 25th European Meeting of
+Statisticians (EMS) på Blindern, Oslo, Norge, Europa.
+Dette må få konsekvenser! Her må man planlegge sin sommer slik at det norske
+statistikermiljøet er hjertelig og aktivt tilstede. The Local Organising Committee, med
+Arnoldo Frigessi som Capitane, samt the Programme Committee, som teller Ørnulf Borgan og
+seks andre internasjonale notabiliteter, arbeider og har arbeidet iherdig og målrettet for at
+dette skal bli en stor opplevelse, faglig og sosialt. Vi setter Oslo og Norge på statistikkkartet.
+Altså: gå til www.ems2005.no , sjekk detaljer i det faglige og sosiale programmet, og meld
+dere på. Her er det reception på Rådhuset, middag på Holmenkollen Park Rica Hotel,
+sightseeing, kultur, og til og med statistisk fottur til Tryvann for de ivrige. Tidsfristen for å
+melde på plakatforedrag eller "contributed paper" er 31. mars.
+En spennende variant, som ikke har vært prøvet ut tidligere, er "European Young Statisticians
+Training Camp", som arrangeres uken før selve EMS-konferansen, 18.-23. juli. Her tar man
+sikte på PhD-studenter, PostDocs og nyutdannede, som får en enestående sjanse til å
+forberede seg til neste ukes møte, til å møte andre fra hele Europa i lignende situasjon, og til
+å smake på "research life", enten dette blir innen Akademia eller i anvendt forskning. Dette er
+støttet økonomisk av EU. Søknadsfristen er 1. mars.
+Tilfeldig Gang trykker med glede hovedpunktene i det varierte og utfordrende programmet,
+som er som følger. I øverste kategori er det tre hovedforedrag:
+David Donoho (forum lectures):
+"Sparsity"
+Yuval Peres (opening lecture):
+"Zeros of the i.i.d. Gaussian Power Series:
+A conformally invariant determinantal process"
+
+Odd Aalen (closing lecture):
+"Understanding the structure of event histories:
+A process point of view"
+Videre er det fem "special invited lectures":
+Jean Bertoin: Drops of paint and coalescence
+Wilfrid Kendall: Exotic couplings of Brownian motion
+Neil Shephard: Volatility, jumps and multipower variation
+
+
+
+in financial econometrics
+Laurie Davies: Universal principles, approximation
+and model choice
+Keith Worsley: Correlation random fields and brain mapping
+Dessuten er det i alt 25 "invited sessions", som listes
+her med deres "organisers":
+IS1: STRATEGIES FOR ANALYSING COMPLEX EVENT HISTORY DATA
+Robin Henderson
+IS2: DYNAMIC TREATMENT REGIMES AND CAUSAL INFERENCE
+Susan Murphy
+IS3: STATISTICS FOR ANIMAL POPULATIONS
+Steve Brooks
+IS4: GEOSTATISTICAL MODELLING AND INFERENCE
+Leo Knorr-Held
+IS5: STATISTICAL CHALLENGES IN GENOMICS
+Mark van der Laan
+IS6: STATISTICAL GENETICS
+Simon Tavare
+IS7: NON- AND SEMIPARAMETRICS BAYES METHODS
+Sonia Petrone
+IS8: STATISTICS AND MACHINE LEARNING
+Gabor Lugosi
+IS9: STATISTICS IN HIGH DIMENSIONS
+Vladimir Spokoiny
+IS10: MODEL SELECTION, MODEL BUILDING
+Hans R. Künsch
+IS11: FINANCIAL STATISTICS
+Michael Sørensen
+IS12: TIME SERIES
+Daniel Pena
+IS13: METHODOLOGY FOR HIERARCHICAL MODELS
+Christian Robert
+IS14: MCMC
+
+
+
+Jun Liu
+IS15: SIGNAL PROCESSING AND IMAGE RECONSTRUCTION
+Håvard Rue
+IS16: NEW DIRECTIONS IN ROBUST STATISTICS
+Xuming He
+IS17: STATISTICAL ALGORITHMS
+Jaromir Antoch
+IS18: RANDOM WALKS AND LEVY PROCESSES
+Zhan Shi
+IS19: RANDOM MATRICES AND RELATED TOPICS
+Ofer Zeitouni
+IS20: INTERACTING PARTICLE SYSTEMS
+Olle Häggström
+IS1: CONTINUOUS LIMITS OF DISCRETE MODELS
+AND THE STOCHASTIC LOEWNER EVOLUTION
+Oded Schramm
+IS22: ANALYSIS OF STOCHASTIC FUNCTIONALS
+Marc Yor
+IS23: TELECOMMUNICATION MODELLING
+Francois Baccelli og Bartek Blaszczyszyn
+IS24: STOCHASTIC GEOMETRY
+Francois Baccelli og Bartek Blaszczyszyn
+IS25: APPLIED PROBABILITY AND QUEUES
+Michael Mandjes
+
+Nils Lid Hjort
+
+
+
+Reisestøtte til studenter for deltakelse på EMS 2005 og det 13.norske statistikermøtet i Oslo
+
+NSF inviterer studenter (fortrinnsvis hovedfag- og diplom/master-studenter) til å søke om støtte
+til deltakelse på 25th European Meeting of Statisticians (24-29.juli 2005) og det 13.norske
+statistikermøtet (23.juli 2005) i Oslo.
+Det er mulig å få støtte til både registreringsavgiften til EMS på 1700 NOK, dvs. 200 Euro
+(registrering må skje før 1.mai 2005), og til reise og opphold.
+Send søknad om støtte til:
+Norsk Statistisk Forening
+v/ Håvard Rue
+Institutt for matematiske fag
+7491 Trondheim
+eller epost hrue@math.ntnu.no
+senest 31.mars 2005.
+De som får innvilget støtte vil bli tilskrevet i god tid før registreringsfristen 1.mai 2005.
+
+
+
+Measurement error models and methods
+Oslo, August 22 – 24, 2005
+Teacher: Professor John Buonaccorsi, Department of Mathematics and Statistics,
+University of Massachusetts at Amherst
+Organizing committee: Ingvild Dalen, Joe Sexton, Magne Thoresen and Marit B.
+Veierød, Department of Biostatistics, University of Oslo
+Course venue: Domus Medica, University of Oslo. The lectures will be in
+Nye Auditorium, 1st floor, and the exercises in the PC-lab on the ground floor.
+The street address of Domus Medica is Sognsvannsveien 9. For a map of location, look at
+http://www.med.uio.no/imb/inform/kart.html
+Course description:
+The course will discuss measurement error models, investigate the consequences of
+ignoring measurement error, and introduce approaches and methods to correcting for
+such error based on additional data or information. Problems treated
+include misclassification of categorical data (for a single proportion or in contingency
+tables) and measurement error in the predictor variables in linear and non-linear
+regression models. For the latter particular attention will be given to correction methods
+in logistic regression. Biostatistical and biometrical examples will be studied, and
+emphasis put on modeling and applications with hands-on use of computer programs
+(SAS and STATA).
+1. Introduction to Measurement Error.
+2. Misclassification of categorical data
+3. Measurement error in regression
+Linear regression models
+Non-linear regression models
+4. Exercises with computing, using SAS and STATA.
+Recommended background: This is a graduate course in medical statistics. We expect
+the participants to have a basic knowledge of statistics, and a background in linear and
+logistic regression. Prior exposure to contingency tables is helpful, but not essential.
+Cost and registration: The cost is stipulated to 2,500 NOK, which includes lunches. The
+price is fixed. To register, please send an e-mail before June 1st to Joe Sexton
+<josephse@ulrik.uio.no>. The mail should include name, affiliation, postal- and e-mail
+addresses.
+
+
+
+Programme:
+Monday 22 August:
+09.15-12.00: Introduction to measurement error models; misclassification of categorical
+variables.
+12.00-13.00: Lunch
+13.00-14.30: Misclassification; regression review (linear, logistic and other non-linear
+regression models)
+14.30-15.30: Exercises
+Tuesday 23 August:
+09.15-11.00: Measurement error in linear regression
+11.00-12.00: Exercises
+12.00-13.00: Lunch
+13.00-14.30: Measurement error in linear regression
+14.30-15.30: Exercises
+Wednesday 24 August:
+09.15-11.00: Measurement error in logistic regression and other non-linear regression
+models
+11.00-12.00: Exercises
+12.00-13.00: Lunch
+13.00-14.30: Measurement error in logistic regression and other non-linear regression
+models
+14.30-15.30: Exercises
+
+
+
+Informasjon om European Mathematical Society (EMS)
+Norsk statistisk forening er nå medlemsforening i European Mathematical Society (EMS). Nærmere
+opplysninger om EMS kan finnes på EMIS, The European Mathematical Information Service, nettadresse http://www.emis.de/.
+I tillegg til annet nyttig inneholder EMIS følgende sider som kan være av verdi for medlemmer av
+Norsk statistisk forening som vurderer medlemskap i EMS: ’How to join the EMS’ og ’Benefits of
+membership’. Innholdet der er i hovedtrekk gjengitt nedenfor:
+• Medlemsskap i EMS gjennom Norsk statistisk forening kan tegnes ved å betale 20 Euro i
+tillegg ved betaling av ordinært årskontingent til Norsk statistisk forening. Det vil være mulig
+å krysse av for dette på giroen, og det vil også stå på giroen hvor mye dette tillegget for det
+enkelte år utgjør i norske kroner. Det vil gjelde fra og med 2005. Dette er EMSs anbefalte
+måte hvis en allerede er med i ei medlemsforening i EMS.
+• Medlemsfordeler i følge EMIS omfatter følgende:
+– EMS Newsletter 4 ganger årlig uten kostnad ut over medlemsskapskontingent.
+– Rabatt på registeringsavgift ved deltakelse på europeiske kongresser* rabatt ved en del
+møter støttet av EMS rabattert abonnementspris på Journal of the European Mathematical
+Society.
+– Rabatt på bøker og tidsskrifter som utgis av International Press.
+– Rabatt på bøker som utgis av Taylor & Francis.
+– Mulighet for dobbeltmedlemsskap ved matematikkforeningene i USA, Australia og Canada.
+For styret i Norsk statistisk forening
+Tore Wentzel-Larsen
+
+
+
+Nytt fra avdC, Uio (Avdeling for statistikk og forsikringsmatematikk)
+Ny Cand.scient.
+Ragnhild Sørum: “The effect of missing value imputations on the detection of
+differentially expressed genes from cDNA microarray data – with an application to
+radiation therapy in cervix cancer”
+Veileder: Ingrid Glad
+
+Ansettelser:
+Nils Haavardsson er ansatt som prosjektstipendiat fra 1.april 2005
+
+Statistical Research Report 2004:
+(http://www.math.uio.no/eprint/stat_report/2004/rept_2004.html)
+no 11 Desember: A. B. Huseby Importance Measures for Multicomponent Binary
+Systems
+no 12 Desember: I. S. Helland: Quantum Theory as a Statistical Theory under
+Symmetry and Complementarity
+no 13 Desember: N. L. Hjort, I. W. McKeague, I. Van Keilegom: Extending the
+Scope of Empirical Likelihood
+no 14 Desember: N. L. Hjort, F. A. Dahl, G. Högnadóttir Steinbakk: Post-Processing
+Posterior Predictive P-values
+no 15 Desember: N. L. Hjort, S. Walker: Quantile pyramids for Bayesian
+nonparametrics
+no 16 Desember: N. L. Hjort, G. Claeskens: Focussed information criteria and model
+averaging for Cox's hazard regression model
+Statistical Research Report 2005:
+(http://www.math.uio.no/eprint/stat_report/2005/rept_2005.html)
+no 1 Januar: D. Berg Bankruptcy Prediction by Generalized Additive Models.
+no 2 Januar: T. Reitan, A. Petersen-Øverleir Estimating the discharge rating curve by
+nonlinear regression - The frequentist approach.
+
+
+
+Nytt fra NTNU
+Institutt for matematiske fag
+Seksjon for statistikk
+Dr. ing.
+Jo Røislien (juni 2004): Random field models and near well reservoir characterization
+Oljereservoar i området nær brønner er tema i doktoravhandlingen til
+sivilingeniør Jo Røislien (28) fra Lillehammer ved Norges teknisknaturvitenskapelige universitet NTNU. Han har modellert geofysiske
+egenskaper (tetthet, porøsitet, gjennomstrømningsevne etc.) som
+kontinuerlige, stokastiske (tilfeldige) felt. De statistiske modellene
+som presenteres, gir muligheter for å beskrive geofysiske egenskaper
+bedre. At formlene er eksakte, gjør at store problemer kan løses
+meget raskt.
+Den mest brukte statistiske modellen for å beskrive geofysiske egenskaper er ikke i stand
+til å beskrive all variasjonen man finner i de geofysiske målingene. Røislien introduserer
+en ny statistisk modell for å beskrive denne variasjonen bedre. Videre presenterer han en
+statistisk metode som kombinerer seismiske målinger og målinger gjort i brønner for å
+beskrive geofysiske egenskaper. Formler for å redusere kompleksiteten i slike
+kontinuerlige problemer presenteres også. Disse formlene er blant annet av interesse ved
+innmating av slik informasjon i datamaskiner.
+Avhandlingen har tittelen «Random field models and near well reservoir characterization
+/ Stokastiske feltmodeller og nær-brønns reservoarkarakterisering». Arbeidet er utført ved
+Institutt for petroleumsteknologi og anvendt geofysikk, NTNU, med professor Ole
+Torsæter som hovedveileder og professor Henning Omre som medveileder. Arbeidet er
+finansiert av Norges forskningsråd og Statoil.
+Jo Røislien er sivilingeniør (1998) fra Fakultet for informasjonsteknologi, matematikk og
+elektroteknikk, NTNU, og har disputert for graden dr.ing.
+
+Preprint:
+Nedlastbare filer er tilgjengelige på http://www.math.ntnu.no/preprint/statistics/
+No. 4/2004:
+Håkon Tjelmeland
+Using all Metropolis–Hastings proposals to estimate mean values
+No. 5/2004:
+Håkon Tjelmeland & Jo Eidsvik
+Directional Metropolis–Hastings updates for posteriors with nonlinear
+likelihoods
+
+
+
+Nytt fra NLH
+
+Dr. Scient i anvendt statistikk
+Solve Sæbø (Disputas 5. mars 2004)
+Avhandlingens tittel: Analyzing survivial data on dairy cattle- Some new methods and
+applications.
+Veiledere: Trygve Almøy og Are Aastveit.
+Frøydis Bjerke (Disputas 17. september 2004)
+Avhandlingens tittel: Design of experiments in an industrial setting.
+Veiledere: Are Aastveit og Tormod Næs.
+Kirsten Bjørkestøl (disputas 21. januar)
+Avhandlingens tittel: Modeling and optimization of processes with main emphasis on two-step
+strategies
+Veileder: Are Aatveit og Tormod Næs
+
+Cand Scient i anvendt statistikk
+Vegard Andersen (Avsluttende eksamen 29.januar 2004)
+Hovedoppgavens tittel: Time Series with a Large Amount of Missing Values
+Veileder: Torfinn Torp
+Nina Kristiansen (Avsluttende eksamen 23. juni 2004)
+Hovedoppgavens tittel: Background correction in microarray analysis
+Veiledere: Lars Snipen og Trygve Almøy
+
+
+
+Nytt fra IMB/Avdeling for biostatistikk ved Universitetet i Oslo
+Vi har fått tre nye postdoktorer:
+Birgitte Freiesleben de Blasio har begynt med prosjektet "Structure and
+dynamics of sexual networks: Implications for the spread of sexually
+transmitted infections". Prosjektet er finansiert av NFR.
+Bettina Kulle har begynt med prosjektet "Genetic association studies:
+Identification of haplotype blocks". Det er finansiert av Avdeling for
+matematikk, Matematisk Institutt, UIO, men hun sitter hovedsaklig her på
+IMB/Avdeling for biostatistikk.
+Anja S. Lindman har begynt med prosjektet "Mortality from cardiovascular
+diseases-is Norway still a high risk country and do we all need statins?".
+Prosjektet er finansiert av NFR, og er et samarbeidsprosjekt mellom
+IMB/Avdeling for biostatistikk og Nasjonalt folkehelseinstitutt. Marit B.
+Veierød, Jan I. Pedersen, Aage Tverdal, Randi Selmer og Anne Elise Eggen
+er samarbeidspartnere.
+
+
+
+Medlemskap i Norsk Statistisk Forening
+
+Kontingenten er kr. 200 per år for regulære medlemmer og kr. 50 for studenter (til og med
+hovedfag). Korrespondanse om medlemskap og innbetaling av kontingent skal skje til
+foreningens kasserer:
+Norsk Statistisk Forening v/ Sigrunn H. Søbye
+Inst. for matematikk og statistikk
+Universitetet i Tromsø
+9037 Tromsø
+Emailadresse: sigrunn@mat-stat.uit.no
+Innbetalinger gjøres på foreningens konto 0530 2773299. Medlemmer som er usikre på når de
+betalte kontingent sist, kan nederst på adresselappen for Tilfeldig Gang se hvilket år siste
+betaling er registrert for. Vær oppmerksom på at adresselappene for bladet kan ligge noe etter
+ajourføringen av medlemsregistret, slik at nylig foretatte innbetalinger ikke vil være med her.
+Nye medlemmer melder seg til kassereren og får så automatisk tilsendt Tilfeldig Gang fra
+første påfølgende nummer.
+Annen korrespondanse med foreningen skal foregå med formannen:
+Haavard Rue
+Insttutt for matematiske fag
+NTNU
+7491 Trondheim
+Emailadresse:havard.rue@math.ntnu.no
+
+
+
