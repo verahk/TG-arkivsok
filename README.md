@@ -1,7 +1,6 @@
 # TG-arkivsøk
 
-Søk i arkivet til *Tilfeldig Gang*, medlemsbladet fra Norsk Statistisk Forening, fra en statisk nettside. 
-
+Gjør arkivet til *Tilfeldig Gang*, medlemsbladet fra Norsk Statistisk Forening, søkbart fra [denne nettsiden](https://verahk.github.io/TG-arkivsok/)
 
 Arkivet gjøres søkbart i tre steg, som kjøres i rekkefølge fra prosjektroten:
 
