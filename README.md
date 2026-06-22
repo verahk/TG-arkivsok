@@ -1,16 +1,17 @@
 # TG-arkivsøk
 
-Gjør arkivet til *Tilfeldig Gang*, medlemsbladet fra Norsk Statistisk Forening, søkbart fra [denne nettsiden](https://verahk.github.io/TG-arkivsok/)
+Rutiner for å lage et søkegrensesnitt for tekstsøk i arkivet til *Tilfeldig Gang*, medlemsbladet fra Norsk Statistisk Forening. 
 
-Arkivet gjøres søkbart i tre steg, som kjøres i rekkefølge fra prosjektroten:
+Grensesnittet er tilgjengelig på [denne nettsiden](https://verahk.github.io/TG-arkivsok/)
+Hvert søketreff lenker til **PDF-utgaven** (i Google Drive arkivet på [Norsk statistisk forenings nettsider](https://sites.google.com/site/statistiskforening/tilfeldig-gang)) og en ren **tekstversjon** lagret i dette git-repoet.
 
+For å gjøre arkivet søkbart fra en statisk nettside med javascript leses tekst fra de originale pdf-filene til en søke-indeks (en .json-fil). 
+Dette gjøres i tre steg, som kjøres i rekkefølge fra prosjektroten:
 ```bash
 scripts/ocr.sh                  # 1. OCR ved behov  (data/raw → data/ocr)
 python3 scripts/build_index.py  # 2. søkeindeks + tekstfiler
-python3 scripts/build_links.py  # 3. PDF-lenker
+python3 scripts/build_links.py  # 3. PDF-lenker til arkivet i Google Drive 
 ```
-
-Hvert søketreff lenker til **PDF-utgaven** (i Google Drive arkivet på [Norsk statistisk forenings nettsider](https://sites.google.com/site/statistiskforening/tilfeldig-gang)) og en ren **tekstversjon** lagret i dette git-repoet.
 
 
 ## Steg 1 – OCR (`scripts/ocr.sh`)
