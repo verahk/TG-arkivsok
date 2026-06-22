@@ -2,8 +2,10 @@
 
 Rutiner for å lage et søkegrensesnitt for tekstsøk i arkivet til *Tilfeldig Gang*, medlemsbladet fra Norsk Statistisk Forening. 
 
-Grensesnittet er tilgjengelig på [denne nettsiden](https://verahk.github.io/TG-arkivsok/)
+Grensesnittet er tilgjengelig på [denne nettsiden](https://verahk.github.io/TG-arkivsok/). 
 Hvert søketreff lenker til **PDF-utgaven** (i Google Drive arkivet på [Norsk statistisk forenings nettsider](https://sites.google.com/site/statistiskforening/tilfeldig-gang)) og en ren **tekstversjon** lagret i dette git-repoet.
+
+*** 
 
 For å gjøre arkivet søkbart fra en statisk nettside med javascript leses tekst fra de originale pdf-filene til en søke-indeks (en .json-fil). 
 Dette gjøres i tre steg, som kjøres i rekkefølge fra prosjektroten:
